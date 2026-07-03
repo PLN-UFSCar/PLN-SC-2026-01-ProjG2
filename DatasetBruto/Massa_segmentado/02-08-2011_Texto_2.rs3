@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Maravilha fugiu</segment>
+    <segment id="2">Cissa Chaggas está deixando o grupo LevaNóiz</segment>
+    <segment id="3">A Mulher Maravilha Cissa Chaggas está deixando o grupo LevaNóiz.</segment>
+    <segment id="4">A dançarina disse que  precisa de tempo para dedicar-</segment>
+    <segment id="5">sese à candidatura a vereadora em 2012 pelo Partido Social Liberal (PSL) e  para concluir a faculdade.</segment>
+    <segment id="6">“</segment>
+    <segment id="7">Tenho esses sonhos e quero dedicar-me a eles.</segment>
+    <segment id="8">Tem muita coisa boa vindo</segment>
+    <segment id="9">, masmas não posso falar”</segment>
+    <segment id="10">, disse ela.</segment>
+    <segment id="11">Nos bastidores</segment>
+    <segment id="12">, porém</segment>
+    <segment id="13">porém, dizem que a bela pediu para sair</segment>
+    <segment id="14">porque</segment>
+    <segment id="15">porque não gostou de algumas mudanças feitas no grupo</segment>
+    <segment id="16">, como</segment>
+    <segment id="17">como a inclusão de duas dançarinas para dividir os holofotes com ela e Milena Matos.</segment>
+  </rst>
+</analysis>

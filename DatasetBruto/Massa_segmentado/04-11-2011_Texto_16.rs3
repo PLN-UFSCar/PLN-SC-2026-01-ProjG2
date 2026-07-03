@@ -1,0 +1,56 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Engenheira dá queixa em delegacia sobre fraude em loja de sucos no Leblon
+RIO - Um golpe de R$ 6 mil virou</segment>
+    <segment id="2">casocaso de polícia na 14ª DP (Leblon).</segment>
+    <segment id="3">Uma engenheira moradora do bairro</segment>
+    <segment id="4">, que preferiu não</segment>
+    <segment id="5">sese identificar</segment>
+    <segment id="6">, prestou queixa depois de constatar que um cheque no valor de R$ 14 foi descontado no último dia 31</segment>
+    <segment id="7">comocomo</segment>
+    <segment id="8">sese valesse R$ 6 mil.</segment>
+    <segment id="9">Ao conferir o número do documento</segment>
+    <segment id="10">, percebeu que o cheque tinha sido usado no pagamento de uma entrega feita pela lanchonete Bibi Sucos</segment>
+    <segment id="11">, que fica na Avenida Ataulfo de Paiva.</segment>
+    <segment id="12">Ao reclamar sobre a fraude com o banco de que é cliente</segment>
+    <segment id="13">, a engenheira foi informada de que o mesmo cheque havia sido clonado e identificado pela agência numa nova tentativa de troca</segment>
+    <segment id="14">, dessa vez</segment>
+    <segment id="15">, no valor de R$ 14 mil.</segment>
+    <segment id="16">De acordo com a vítima</segment>
+    <segment id="17">, ela já conseguiu recuperar o valor descontado.
+
+- No mesmo dia em que fui ao banco para tentar estornar o cheque</segment>
+    <segment id="18">, um senhor fazia a mesma queixa</segment>
+    <segment id="19">, contra o mesmo estabelecimento</segment>
+    <segment id="20">, sobre um cheque de R$ 40 que foi descontado com um valor muito maior - relembrou a engenheira.</segment>
+    <segment id="21">A delegada Alessandra Leal</segment>
+    <segment id="22">, da 14ª DP</segment>
+    <segment id="23">, confirmou o</segment>
+    <segment id="24">casocaso</segment>
+    <segment id="25">, masmas não quis adiantar detalhes da investigação.</segment>
+    <segment id="26">Procurado na sexta-feira pelo GLOBO</segment>
+    <segment id="27">, o Bibi Sucos alegou não ter localizado um responsável para comentar a acusação.</segment>
+  </rst>
+</analysis>

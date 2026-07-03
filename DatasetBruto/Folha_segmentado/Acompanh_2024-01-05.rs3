@@ -1,0 +1,160 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O mercado financeiro local teve uma sexta-feira (5) positiva</segment>
+    <segment id="2">, porém</segment>
+    <segment id="3">porém, não o suficiente para reverter o tom negativo dos primeiros pregões do ano com o temor sobre a trajetória dos juros nos Estados Unidos.</segment>
+    <segment id="4">Nesta sexta-feira (5)</segment>
+    <segment id="5">, o dólar caiu 0</segment>
+    <segment id="6">,71%, para R$ 4</segment>
+    <segment id="7">,8714, menor valor desde o último pregão de 2023</segment>
+    <segment id="8">, quando fechou a R$ 4</segment>
+    <segment id="9">,8520.</segment>
+    <segment id="10">Nesta semana</segment>
+    <segment id="11">, a moeda americana acumulou alta de 0</segment>
+    <segment id="12">,4%.</segment>
+    <segment id="13">O Ibovespa fechou a sessão em alta de 0</segment>
+    <segment id="14">,60%, a 132.023 pontos.</segment>
+    <segment id="15">Neste ano</segment>
+    <segment id="16">, no entanto</segment>
+    <segment id="17">, o índice acumula perda de 1</segment>
+    <segment id="18">,61%, segundo dados da CMA.</segment>
+    <segment id="19">Painel eletrônico mostra as oscilações de preço dos ativos da Bolsa de Valores.</segment>
+    <segment id="20">Nesta sexta (5)</segment>
+    <segment id="21">, o mercado repercute dados do mercado de trabalho dos EUA - Amanda Perobelli/REUTERSNesta sessão</segment>
+    <segment id="22">, investidores repercutiram a divulgação do relatório de criação de empregos não-agrícolas nos Estados Unidos em dezembro</segment>
+    <segment id="23">, o payroll.</segment>
+    <segment id="24">Foram 216 mil contratações líquidas em dezembro</segment>
+    <segment id="25">, informou o Departamento do Trabalho dos EUA nesta sexta.</segment>
+    <segment id="26">O número é bem maior que o esperado pelos economistas consultados pela Reuters</segment>
+    <segment id="27">, que previam abertura de 170 mil empregos.</segment>
+    <segment id="28">Já o pagamento médio por hora aumentou 0</segment>
+    <segment id="29">,4% em dezembro</segment>
+    <segment id="30">, mantendo o mesmo ritmo de crescimento do mês passado.</segment>
+    <segment id="31">Na comparação anual</segment>
+    <segment id="32">, a alta foi de 4</segment>
+    <segment id="33">,1%.</segment>
+    <segment id="34">Um mercado de trabalho mais forte do esperado</segment>
+    <segment id="35">, com aumento dos salários é um risco para a inflação americana.</segment>
+    <segment id="36">Por lá</segment>
+    <segment id="37">, o aumento de preços somou 3</segment>
+    <segment id="38">,1% de novembro de 2022 a novembro de 2023</segment>
+    <segment id="39">, acima da meta de 2% do Fed</segment>
+    <segment id="40">, o banco central americano.</segment>
+    <segment id="41">Com uma baixa taxa de desemprego (3</segment>
+    <segment id="42">,7%) estável e com a atividade econômica resiliente</segment>
+    <segment id="43">, o Fed pode escolher manter a taxa de juros alta para combater a inflação</segment>
+    <segment id="44">, sem prejuízo para a economia.</segment>
+    <segment id="45">Atualmente</segment>
+    <segment id="46">, o juro está na faixa de 5</segment>
+    <segment id="47">,25% a 5</segment>
+    <segment id="48">,50% e a aposta da maioria dos economistas é que ele vai baixar 0</segment>
+    <segment id="49">,25 ponto percentual já em março.</segment>
+    <segment id="50">Com a força do mercado de trabalho americano</segment>
+    <segment id="51">, tal aposta poderia perder força.</segment>
+    <segment id="52">Dados da véspera publicados pela ADP mostraram a criação de 164 mil postos de trabalho no setor privado dos EUA</segment>
+    <segment id="53">, leitura acima do esperado.</segment>
+    <segment id="54">"</segment>
+    <segment id="55">Esses resultados reforçam nossa visão de que o mercado de trabalho americano permanece apertado</segment>
+    <segment id="56">, apesar de alguns sinais de desaceleração suave no período recente"</segment>
+    <segment id="57">, disse a XP em relatório.</segment>
+    <segment id="58">Porém,</segment>
+    <segment id="59">comocomo os dados do payroll de novembro e dezembro foram revisados para baixo nesta sexta</segment>
+    <segment id="60">, com 71 mil vagas a menos do que o reportado anteriormente</segment>
+    <segment id="61">, os investidores não entraram em pânico.</segment>
+    <segment id="62">Outro ponto de alívio foi o PMI (Índice de Gerentes de Compras</segment>
+    <segment id="63">, na sigla em inglês) de serviços americano calculado pelo ISM (Instituto de Gestão do Fornecimento (ISM</segment>
+    <segment id="64">, em inglês).</segment>
+    <segment id="65">Em dezembro</segment>
+    <segment id="66">, ele caiu para 50</segment>
+    <segment id="67">,6, a menor leitura desde maio</segment>
+    <segment id="68">, e ante 52</segment>
+    <segment id="69">,7 em novembro.</segment>
+    <segment id="70">Economistas consultados pela Reuters previam que o índice ficaria em 52</segment>
+    <segment id="71">,6.</segment>
+    <segment id="72">Uma leitura acima de 50 indica crescimento no setor de serviços</segment>
+    <segment id="73">, que responde por mais de dois terços da economia dos EUA.</segment>
+    <segment id="74">A criação de emprego do setor medida pela pesquisa ISM caiu para 43</segment>
+    <segment id="75">,3 no mês passado</segment>
+    <segment id="76">, o nível mais baixo desde julho de 2020.</segment>
+    <segment id="77">O índice estava em 50</segment>
+    <segment id="78">,7 em novembro e a expectativa era que acelerasse.</segment>
+    <segment id="79">"</segment>
+    <segment id="80">Assim, a leitura que preponderou é que o mercado de trabalho</segment>
+    <segment id="81">, apesar do payroll</segment>
+    <segment id="82">, de certo modo está afrouxando e que</segment>
+    <segment id="83">, em algum momento</segment>
+    <segment id="84">, vai favorecer o corte de juros"</segment>
+    <segment id="85">, disse Lais Costa</segment>
+    <segment id="86">, analista da Empiricus Research.</segment>
+    <segment id="87">Em Wall Street</segment>
+    <segment id="88">, os principais índices acionários fecharam perto da estabilidade.</segment>
+    <segment id="89">O S&amp;amp</segment>
+    <segment id="90">;P 500 subiu 0</segment>
+    <segment id="91">,18%, enquanto o Dow Jones teve alta de 0</segment>
+    <segment id="92">,07% e o Nasdaq</segment>
+    <segment id="93">, de 0</segment>
+    <segment id="94">,09%.</segment>
+    <segment id="95">Já o rendimento do treasury (título do Tesouro americano) de dez anos —referência global para decisões de investimento— foi de 3</segment>
+    <segment id="96">,99% na véspera</segment>
+    <segment id="97">, para 4</segment>
+    <segment id="98">,05% nesta sexta</segment>
+    <segment id="99">, refletindo o temor de que o corte nos juros americanos demore.</segment>
+    <segment id="100">As taxas dos juros futuros também fecharam em alta no Brasil.</segment>
+    <segment id="101">Ao fim do pregão</segment>
+    <segment id="102">, a taxa do DI para janeiro de 2025 estava em 10</segment>
+    <segment id="103">,07%, ante 10</segment>
+    <segment id="104">,05% do ajuste anterior</segment>
+    <segment id="105">, enquanto a taxa do DI para janeiro de 2026 estava em 9</segment>
+    <segment id="106">,69%, ante 9</segment>
+    <segment id="107">,68%.</segment>
+    <segment id="108">O juro para janeiro de 2027 ficou em 9</segment>
+    <segment id="109">,80%.</segment>
+    <segment id="110">Entre os contratos mais longos</segment>
+    <segment id="111">, a taxa para janeiro de 2028 foi para 10</segment>
+    <segment id="112">,04%, de 10</segment>
+    <segment id="113">,037%.</segment>
+    <segment id="114">O contrato para janeiro de 2031 fechou em 10</segment>
+    <segment id="115">,45%, ante 10</segment>
+    <segment id="116">,43%.</segment>
+    <segment id="117">O petróleo</segment>
+    <segment id="118">, por sua vez</segment>
+    <segment id="119">, fechou em alta</segment>
+    <segment id="120">, tendo</segment>
+    <segment id="121">comocomo pano de fundo a viagem do secretário de Estado dos EUA</segment>
+    <segment id="122">, Antony Blinken</segment>
+    <segment id="123">, ao Oriente Médio</segment>
+    <segment id="124">, na tentativa de conter as tensões regionais alimentadas pelo conflito Israel-Hamas.</segment>
+    <segment id="125">O preço do barril do petróleo Brent (referência internacional) fechou em alta de 1</segment>
+    <segment id="126">,51%, a US$ 78</segment>
+    <segment id="127">,76.</segment>
+    <segment id="128">Na quinta (4)</segment>
+    <segment id="129">, o Ibovespa recuou 1</segment>
+    <segment id="130">,21%, a 131.226 pontos</segment>
+    <segment id="131">, impactado pelo recuo do petróleo.</segment>
+    <segment id="132">Com Reuters</segment>
+    <segment id="133">Principais empresas na Bolsa brasileiraMais    novamente         de   de  de  representando</segment>
+    <segment id="134">um</segment>
+  </rst>
+</analysis>

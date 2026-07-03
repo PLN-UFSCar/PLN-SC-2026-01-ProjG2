@@ -1,0 +1,96 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O programa que subsidia atletas de alto rendimento na cidade de São Paulo ganhou um novo nome</segment>
+    <segment id="2">, teve aumento em seu valor mensal e agora é oferecido a pessoas de 8 a 25 anos (antes a faixa etária ia de 14 a 21 anos).</segment>
+    <segment id="3">O Projeto de Lei da Prefeitura com as alterações foi aprovado pela Câmara e sancionado pelo prefeito Ricardo Nunes quando da inauguração da academia do Centro Olímpico</segment>
+    <segment id="4">, que teve investimento de R$ 824 mil e conta com equipamentos modernos para a preparação de jovens atletas de alto rendimento (leia mais abaixo).</segment>
+    <segment id="5">Agora chamada Bolsa-Atleta Rei Pelé</segment>
+    <segment id="6">, homenagem ao maior jogador de futebol de todos os tempos</segment>
+    <segment id="7">, que morreu em 29 de dezembro de 2022</segment>
+    <segment id="8">, a bolsa oferece três faixas de benefícios:    R$ 700 para atletas de 8 a 17 anos</segment>
+    <segment id="9">;   R$ 1.400</segment>
+    <segment id="10">, de 18 a 21 anos</segment>
+    <segment id="11">;   R$ 2.100</segment>
+    <segment id="12">, de 22 a 25 anos</segment>
+    <segment id="13">O programa também irá permitir o acúmulo dos benefícios da Bolsa-Atleta Rei Pelé com os benefícios concedidos por programas de permanência estudantil ou de incentivo ao ensino</segment>
+    <segment id="14">, pesquisa</segment>
+    <segment id="15">, iniciação científica e extensão.</segment>
+    <segment id="16">Prefeitura de São Paulo inaugura academia do Centro OlímpicoMais    novamente         de   de  de  representando um</segment>
+    <segment id="17">Para atingir também praticantes de novas modalidades olímpicas</segment>
+    <segment id="18">, a Rei Pelé dispensa a obrigatoriedade de que o atleta seja federado ou treine em um clube por pelo menos um ano.</segment>
+    <segment id="19">Isso porque</segment>
+    <segment id="20">porque novas modalidades olímpicas (a exemplo do skate</segment>
+    <segment id="21">, break</segment>
+    <segment id="22">, escalada indoor</segment>
+    <segment id="23">, surfe</segment>
+    <segment id="24">, rúgbi seven</segment>
+    <segment id="25">, entre outras) ainda não foram internalizadas em clubes</segment>
+    <segment id="26">, assim</segment>
+    <segment id="27">comocomo algumas modalidades clássicas (maratona).</segment>
+    <segment id="28">Nessas modalidades recentes</segment>
+    <segment id="29">, as federações e confederações não têm ainda um ano de existência ou atletas federados nesse período.</segment>
+    <segment id="30">As ações de hoje são muito importantes e essenciais.</segment>
+    <segment id="31">Eu só tenho que agradecer por toda a estrutura do Centro Olímpico</segment>
+    <segment id="32">, pela nova Bolsa Rei Pelé</segment>
+    <segment id="33">, e por todo esse investimento em nós</segment>
+    <segment id="34">, atletas.</segment>
+    <segment id="35">Muito obrigada por esse trabalho que estão fazendo por nósVanessa SenaCampeã escolar mundial de atletismo</segment>
+    <segment id="36">, formada pelo Centro Olímpico"Hoje está acontecendo uma união da família do esporte</segment>
+    <segment id="37">, com essas duas ações que incentivam o esporte e a qualidade de vida das pessoas</segment>
+    <segment id="38">, melhorando o resultado dos nossos atletas e a saúde dos nossos funcionários"</segment>
+    <segment id="39">, disse o diretor do Centro Olímpico</segment>
+    <segment id="40">, Mário Maeda Jr.</segment>
+    <segment id="41">Os jovens atletas comemoraram.</segment>
+    <segment id="42">"</segment>
+    <segment id="43">Eu achei essa iniciativa muito boa</segment>
+    <segment id="44">, pois</segment>
+    <segment id="45">pois incentiva mais as pessoas a treinarem e a ocupar o tempo livre com esporte"</segment>
+    <segment id="46">, disse Sofia Lima</segment>
+    <segment id="47">, de 13 anos</segment>
+    <segment id="48">, atleta de handebol.  "</segment>
+    <segment id="49">No ano passado eu participei de uma peneira e acabei entrando.</segment>
+    <segment id="50">Este lugar é fundamental e muito importante</segment>
+    <segment id="51">, e essa estrutura</segment>
+    <segment id="52">, com o novo uniforme</segment>
+    <segment id="53">, a bolsa-atleta</segment>
+    <segment id="54">, são coisas fundamentais</segment>
+    <segment id="55">para que</segment>
+    <segment id="56">para que possamos nos desenvolver.</segment>
+    <segment id="57">Eu sou muito grata por tudo o que está acontecendo na minha vida"</segment>
+    <segment id="58">, disse Milena Pereira</segment>
+    <segment id="59">, de 16 anos</segment>
+    <segment id="60">, atleta de vôlei de praia  Nova academia do Centro Olímpico</segment>
+    <segment id="61">A nova academia do Centro Olímpico de Treinamento e Pesquisa (COTP)</segment>
+    <segment id="62">, inaugurada no fim do mês de maio</segment>
+    <segment id="63">, tem novos e modernos equipamentos para a preparação física dos atletas de alto rendimento em formação.</segment>
+    <segment id="64">Os novos equipamentos possibilitam o desenvolvimento de programas de treinamento embasados cientificamente</segment>
+    <segment id="65">, em trabalho conjunto com o departamento de fisiologia.</segment>
+    <segment id="66">A Secretaria Municipal de Esportes investiu R$ 824 mil na nova academia do Centro Olímpico.</segment>
+    <segment id="67">O Centro Olímpico de Treinamento e Pesquisa fica na avenida Ibirapuera</segment>
+    <segment id="68">, 1.315</segment>
+    <segment id="69">, na Vila Clementino  *</segment>
+    <segment id="70">Esta página é uma produção do Estúdio Folha para a Prefeitura de São Paulo e não faz parte do conteúdo jornalístico da Folha de S.Paulo</segment>
+  </rst>
+</analysis>

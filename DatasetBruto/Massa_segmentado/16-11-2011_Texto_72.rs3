@@ -1,0 +1,54 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Jovem desaparece no mar de Itapuã</segment>
+    <segment id="2">O rapaz desapareceu no mar por volta do meio-dia de ontem</segment>
+    <segment id="3">, na praia da Pedra do Sal</segment>
+    <segment id="4">As buscas pelo corpo do estudante Diego Johnata Oliveira de Abreu</segment>
+    <segment id="5">, 18 anos</segment>
+    <segment id="6">, devem ser retomadas na manhã de hoje por mergulhadores do Grupamento Marítimo do Corpo de Bombeiros (Gmar).</segment>
+    <segment id="7">O rapaz desapareceu no mar por volta do meio-dia de ontem</segment>
+    <segment id="8">, na praia da Pedra do Sal</segment>
+    <segment id="9">, em Itapuã.</segment>
+    <segment id="10">Morador de São Cristóvão</segment>
+    <segment id="11">, Diego foi à praia com um grupo de amigos da Igreja do Evangelho Quadrangular</segment>
+    <segment id="12">, a qual frequenta.</segment>
+    <segment id="13">“</segment>
+    <segment id="14">Depois de jogarmos bola</segment>
+    <segment id="15">, fomos para a água.</segment>
+    <segment id="16">De início</segment>
+    <segment id="17">, Diego não queria ir</segment>
+    <segment id="18">, masmas nos acompanhou.</segment>
+    <segment id="19">Quando entrou no mar</segment>
+    <segment id="20">, foi logo arrastado”</segment>
+    <segment id="21">, relatou Jeremias Oliveira</segment>
+    <segment id="22">, 24, amigo do jovem.</segment>
+    <segment id="23">Um salva-vidas da Salvamar foi acionado</segment>
+    <segment id="24">, masmas não conseguiu resgatar Diego.</segment>
+    <segment id="25">Buscas complicadas</segment>
+    <segment id="26">O cabo Jackson</segment>
+    <segment id="27">, do Gmar</segment>
+    <segment id="28">, disse que as condições do mar não permitiriam a realização de buscas com mergulhadores.</segment>
+  </rst>
+</analysis>

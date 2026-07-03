@@ -1,0 +1,38 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Mais de 600 famílias do MST (Movimento dos Trabalhadores Rurais Sem Terra) ocuparam nesta segunda-feira (24)</segment>
+    <segment id="2">, pela segunda vez</segment>
+    <segment id="3">, uma fazenda em Hidrolândia (GO) que</segment>
+    <segment id="4">, no passado</segment>
+    <segment id="5">, foi usada para exploração sexual e tráfico internacional de pessoas</segment>
+    <segment id="6">, segundo a Polícia Federal.</segment>
+    <segment id="7">Acampamento do MST erguido em área nos arredores de fazenda da Embrapa em Petrolina (PE) - Adriano Alves / Folhapress</segment>
+    <segment id="8">Elas pedem que a propriedade seja destinada à criação de um novo assentamento.</segment>
+    <segment id="9">O local</segment>
+    <segment id="10">, que faz parte do patrimônio da União desde 2016</segment>
+    <segment id="11">, já foi invadido em março deste ano e os ativistas foram despejados pela Polícia Militar.</segment>
+    <segment id="12">As investigações da PF indicam que a área pertencia a um grupo criminoso composto por 18 pessoas e que foi condenado em 2009 por exploração sexual e tráfico internacional de pessoas.</segment>
+  </rst>
+</analysis>

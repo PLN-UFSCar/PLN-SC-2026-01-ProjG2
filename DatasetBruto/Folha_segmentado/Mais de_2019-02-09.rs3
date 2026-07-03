@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um surto de ebola matou 502 pessoas em seis meses no leste da República Democrática do Congo</segment>
+    <segment id="2">, disse nesta sexta-feira (8) à noite o Ministério da Saúde.   "</segment>
+    <segment id="3">No total</segment>
+    <segment id="4">, houve 502 mortes e 271 pessoas</segment>
+    <segment id="5">sese curaram"</segment>
+    <segment id="6">, disse o ministério em seu boletim diário.</segment>
+    <segment id="7">Agentes de saúde durante funeral de pessoa suspeita de ter morrido por ebola na República Democrática do Congo- Goran Tomasevic-9.dez.18/ReutersO governo distingue 441 mortes por casos confirmados e 61 de casos prováveis.</segment>
+    <segment id="8">É a segunda epidemia de ebola mais virulenta da história</segment>
+    <segment id="9">, desde a que matou mais de 11 mil pessoas na África Ocidental (Guiné</segment>
+    <segment id="10">, Libéria e Serra Leoa) em 2014.</segment>
+    <segment id="11">A marca das 500 mortes foi ultrapassada na sexta-feira.</segment>
+    <segment id="12">A cidade de Beni é a mais afetada</segment>
+    <segment id="13">, com 147 mortes registradas.</segment>
+    <segment id="14">Trata-</segment>
+    <segment id="15">sese da décima epidemia em solo congolês desde que o vírus apareceu pela primeira vez</segment>
+    <segment id="16">, no antigo Zaire</segment>
+    <segment id="17">, em 1976.</segment>
+    <segment id="18">A epidemia atual apresenta uma complexidade singular</segment>
+    <segment id="19">, já que é registrada em uma região afetada pela violência das milícias armadas</segment>
+    <segment id="20">, situação que complica a resposta.</segment>
+  </rst>
+</analysis>

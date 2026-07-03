@@ -1,0 +1,35 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Maria Bethânia subirá ao palco sob a regência de João Carlos Martins.</segment>
+    <segment id="2">Os dois vão estrelar o espetáculo “De Beethoven a Bethânia”</segment>
+    <segment id="3">, no dia 30 de outubro</segment>
+    <segment id="4">, no Espaço das Américas.</segment>
+    <segment id="5">A cantora Maria Bethânia durante entrevista no Rio de Janeiro - Lucas Deixas/Folhapress  GRANDE ENCONTRO    Ele vai reger a Sétima de Beethoven e ela cantará dez sucessos da carreira</segment>
+    <segment id="6">, acompanhada pela Orquestra Bachiana Filarimônica Sesc-SP.</segment>
+    <segment id="7">Os arranjos são dos músicos Ney Marques e José Antônio de Almeida.</segment>
+    <segment id="8">Leia a coluna completa aqui.</segment>
+    <segment id="9">Maestro João Carlos Martins e a Bachiana Filarmônica Sesi-SPMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

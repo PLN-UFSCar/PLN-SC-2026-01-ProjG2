@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Abelhas causam corre-corre em Itapuã</segment>
+    <segment id="2">Funcionários da Coelba foram resolver a falta de luz</segment>
+    <segment id="3">, masmas encontraram uma colmeia</segment>
+    <segment id="4">Um blecaute de energia seguido de um ataque de abelhas acabou em tumulto e pânico na tarde de ontem no Largo de Itapuã</segment>
+    <segment id="5">, nas proximidades do acarajé da Cira.</segment>
+    <segment id="6">O funcionário da Eletec – empresa que presta serviços de manutenção à Coelba – Alexsandro Neves da Silva</segment>
+    <segment id="7">, ficou ferido com as picadas das abelhas.</segment>
+    <segment id="8">Encaminhado ao Hospital Menandro de Farias</segment>
+    <segment id="9">, em Lauro de Freitas</segment>
+    <segment id="10">, ele já teve alta.</segment>
+    <segment id="11">A falta de energia começou por volta das 15h por   sobrecarga em um dos transformadores de energia.</segment>
+    <segment id="12">A Coelba foi acionada</segment>
+    <segment id="13">, masmas os funcionários</segment>
+    <segment id="14">sese depararam com uma colmeia no alto do poste onde ficava o transformador danificado.</segment>
+    <segment id="15">Numa tentativa de exterminar as abelhas</segment>
+    <segment id="16">, os funcionários utilizaram inseticida.</segment>
+    <segment id="17">Mas o produto acabou estimulando as abelhas a deixarem a colmeia e  partirem em direção ao largo</segment>
+    <segment id="18">, onde estavam dezenas de famílias .</segment>
+  </rst>
+</analysis>

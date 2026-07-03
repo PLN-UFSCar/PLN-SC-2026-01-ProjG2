@@ -1,0 +1,55 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">No primeiro ano da gestão Lula</segment>
+    <segment id="2">, o custo de vida em São Paulo fechou com alta acumulada de 3</segment>
+    <segment id="3">,83%.</segment>
+    <segment id="4">A alta de 2023</segment>
+    <segment id="5">, no entanto</segment>
+    <segment id="6">, foi bem menor que a de 2022 (6</segment>
+    <segment id="7">,3%), último ano do mandato de Jair Bolsonaro.  "</segment>
+    <segment id="8">Apesar da melhora observada no cenário de inflação ao longo do ano passado</segment>
+    <segment id="9">, é preocupante o fato de os custos seguirem elevados</segment>
+    <segment id="10">, sobretudo no setor de transportes</segment>
+    <segment id="11">, uma vez que isso impacta todos os outros segmentos econômicos"</segment>
+    <segment id="12">, diz a FecomercioSP</segment>
+    <segment id="13">, responsável pelo levantamento.</segment>
+    <segment id="14">O preço dos alimentos foi componente importante para o encarecimento do custo de vida - Rahel Patrasso - 17.out.23/XinhuaAs maiores pressões sobre os custos vieram</segment>
+    <segment id="15">, segundo a entidade</segment>
+    <segment id="16">, de transportes (alta acumulada de 5</segment>
+    <segment id="17">,93%) e alimentos e bebidas (2</segment>
+    <segment id="18">,37%).</segment>
+    <segment id="19">As famílias de menor renda mensal foram mais penalizadas.</segment>
+    <segment id="20">Entre as classes D e E</segment>
+    <segment id="21">, o aumento no custo de vida foi de 9</segment>
+    <segment id="22">,1% e 7</segment>
+    <segment id="23">,3%, respectivamente.</segment>
+    <segment id="24">Nas classes</segment>
+    <segment id="25">A e B, as variações foram de 5</segment>
+    <segment id="26">,7% e 4</segment>
+    <segment id="27">,6%, respectivamente.</segment>
+    <segment id="28">Com Diego</segment>
+    <segment id="29">Felix</segment>
+  </rst>
+</analysis>

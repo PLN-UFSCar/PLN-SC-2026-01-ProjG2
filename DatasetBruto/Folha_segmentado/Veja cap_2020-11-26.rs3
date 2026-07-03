@@ -1,0 +1,50 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Jornais de toda a Argentina dedicaram suas capas ao ídolo Diego</segment>
+    <segment id="2">Armando Maradona</segment>
+    <segment id="3">, morto aos 60 anos nesta quarta-feira (25).</segment>
+    <segment id="4">O perfil no Twitter FutPapers reuniu dezenas delas numa montagem.</segment>
+    <segment id="5">A escolha de muitas publicações para sua manchete foi a expressão “Ad10s"</segment>
+    <segment id="6">, em alusão ao número da camisa de Maradona e ao apelido de "Dios</segment>
+    <segment id="7">"</segment>
+    <segment id="8">que o consagrou</segment>
+    <segment id="9">comocomo um deus para os argentinos.</segment>
+    <segment id="10">Principais jornais do país</segment>
+    <segment id="11">, o Clarín e o La Nacion estamparam uma foto de Maradona em quase toda sua capa.</segment>
+    <segment id="12">"</segment>
+    <segment id="13">Não haverá nenhum igual"</segment>
+    <segment id="14">, escreveu o Clarín.</segment>
+    <segment id="15">"</segment>
+    <segment id="16">Obrigado</segment>
+    <segment id="17">, campeão"</segment>
+    <segment id="18">, foi o título do La Nacion.</segment>
+    <segment id="19">O esportivo</segment>
+    <segment id="20">Olé também optou por uma grande imagem de Maradona</segment>
+    <segment id="21">, com a taça da Copa do Mundo de 1986</segment>
+    <segment id="22">, e a inscrição "1960 - infinito"</segment>
+    <segment id="23">, destacando a imortalidade do mito maradoniano.</segment>
+    <segment id="24">Imprensa internacional repercute morte de Maradona   novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

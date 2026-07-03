@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Prêmio da Mega-Sena sai para apenas um apostador do RS
+RIO - O prêmio do concurso 1353 da Mega-Sena saiu para apenas um apostador de São Leopoldo</segment>
+    <segment id="2">, no Rio Grande do Sul</segment>
+    <segment id="3">, de acordo com a Caixa Econômica Federal.</segment>
+    <segment id="4">As seis dezenas sorteadas foram 03 - 11 - 13 - 27 - 32 - 47.</segment>
+    <segment id="5">O próximo concurso</segment>
+    <segment id="6">, sábado</segment>
+    <segment id="7">, deve pagar R$ 2 milhões.</segment>
+    <segment id="8">A quina teve 161 acertadores e cada um vai receber R$ 10.586</segment>
+    <segment id="9">,03.</segment>
+    <segment id="10">Já a quadra</segment>
+    <segment id="11">, com 10.308</segment>
+    <segment id="12">, vai pagar R$ 236</segment>
+    <segment id="13">,20 a cada um.</segment>
+  </rst>
+</analysis>

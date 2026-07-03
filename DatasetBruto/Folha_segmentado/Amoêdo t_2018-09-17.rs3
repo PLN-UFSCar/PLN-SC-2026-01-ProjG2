@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O candidato João Amoêdo (Novo)</segment>
+    <segment id="2">, que tinha a preferência de 1% em todas as classes sociais no começo do ano</segment>
+    <segment id="3">, segundo o Datafolha</segment>
+    <segment id="4">, deu um salto maior entre os mais abastados.  ANDAR</segment>
+    <segment id="5">De acordo com a pesquisa do instituto divulgada na sexta (14)</segment>
+    <segment id="6">, ele tem 3% do total do eleitorado —</segment>
+    <segment id="7">masmas 7% entre os que ganham mais de dez salários mínimos.  MURCHOU</segment>
+    <segment id="8">A performance de Geraldo Alckmin (PSDB-SP) entre os mais ricos foge da que tradicionalmente era registrada em eleições anteriores.</segment>
+    <segment id="9">Ele tem 9% do total de votos —</segment>
+    <segment id="10">masmas só 4% entre os que ganham mais de dez salários mínimos.</segment>
+    <segment id="11">INFLOU</segment>
+    <segment id="12">Já entre os que recebem até dois salários</segment>
+    <segment id="13">, Alckmin tem 11% dos votos.  HERDOU</segment>
+    <segment id="14">E Jair Bolsonaro</segment>
+    <segment id="15">, entre os mais ricos</segment>
+    <segment id="16">, chega a 36%.</segment>
+    <segment id="17">Leia a coluna completa aqui.</segment>
+    <segment id="18">Debate TV Gazeta entre candidatos à PresidênciaMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

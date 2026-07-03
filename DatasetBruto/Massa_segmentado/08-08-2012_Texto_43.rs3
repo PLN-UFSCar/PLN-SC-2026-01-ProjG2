@@ -1,0 +1,33 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Harmonia do Samba comeÃ§a a vender abadÃ¡s
+Banda comeÃ§a a vender abadÃ¡s para o carnaval de 2013
+ComeÃ§am hoje as vendas dos abadÃ¡s para o bloco â€œMeu &amp; Seuâ€ para o Carnaval do ano que vem.</segment>
+    <segment id="2">O grupo vai desfilar no circuito Barra-Ondina</segment>
+    <segment id="3">, no domingo</segment>
+    <segment id="4">, na segunda e na terÃ§a-feira.</segment>
+    <segment id="5">Os preÃ§os variam entre R$ 160 e R$ 400.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,141 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O crescimento cada vez menor da população brasileira deve reconfigurar as demandas da sociedade e a formatação de políticas públicas em áreas</segment>
+    <segment id="2">comocomo saúde</segment>
+    <segment id="3">, economia e educação nas próximas décadas.</segment>
+    <segment id="4">É o que apontam especialistas a partir dos primeiros dados do Censo Demográfico 2022</segment>
+    <segment id="5">, divulgados nesta quarta-feira (28) pelo IBGE (Instituto Brasileiro de Geografia e Estatística).</segment>
+    <segment id="6">Segundo a contagem</segment>
+    <segment id="7">, a população residente no país chegou a 203</segment>
+    <segment id="8">,1 milhões.</segment>
+    <segment id="9">Isso representa um crescimento médio de 0</segment>
+    <segment id="10">,52% ao ano em relação ao Censo de 2010 (190</segment>
+    <segment id="11">,8 milhões).</segment>
+    <segment id="12">Trata-</segment>
+    <segment id="13">sese do menor avanço já registrado na série histórica de 150 anos.</segment>
+    <segment id="14">A primeira operação censitária do Brasil ocorreu em 1872.</segment>
+    <segment id="15">Pessoas circulam pela região da 25 de Março</segment>
+    <segment id="16">, em São Paulo - Zanone Fraissat - 19.mar.2022/Folhapress  "</segment>
+    <segment id="17">O grande desafio é redimensionar todas as políticas econômicas do país em cima disso.</segment>
+    <segment id="18">Quando falo de política econômica</segment>
+    <segment id="19">, falo de saúde</segment>
+    <segment id="20">, de educação</segment>
+    <segment id="21">, do investimento que precisará ser feito observando as faixas etárias e o envelhecimento da população"</segment>
+    <segment id="22">, diz o ex-presidente do IBGE Roberto Olinto</segment>
+    <segment id="23">, pesquisador do FGV Ibre (Instituto Brasileiro de Economia da Fundação Getulio Vargas).</segment>
+    <segment id="24">"</segment>
+    <segment id="25">Isso tudo vai exigir que o governo tenha investimentos olhando para a nova realidade.</segment>
+    <segment id="26">Educação e saúde são fundamentais"</segment>
+    <segment id="27">, completa.</segment>
+    <segment id="28">O crescimento anual da população brasileira alcançou 2</segment>
+    <segment id="29">,99% na passagem de 1950 para 1960</segment>
+    <segment id="30">, segundo os dados do Censo.</segment>
+    <segment id="31">Esse percentual encolheu de forma consecutiva nas décadas seguintes</segment>
+    <segment id="32">, até atingir 1</segment>
+    <segment id="33">,17% em 2010 e 0</segment>
+    <segment id="34">,52% em 2022.</segment>
+    <segment id="35">É a primeira vez que o avanço fica abaixo de 1% em um Censo.    "</segment>
+    <segment id="36">A população está envelhecendo.</segment>
+    <segment id="37">Isso significa que haverá uma carga de pessoas mais velhas precisando de tratamento</segment>
+    <segment id="38">, de atendimento médico"</segment>
+    <segment id="39">, afirma o sociólogo Simon Schwartzman</segment>
+    <segment id="40">, também ex-presidente do IBGE.</segment>
+    <segment id="41">"</segment>
+    <segment id="42">Ao mesmo tempo</segment>
+    <segment id="43">, vai ter menos gente trabalhando para sustentar uma população mais velha.</segment>
+    <segment id="44">Isso vai ter impacto sobre a Previdência Social</segment>
+    <segment id="45">, vai ter menos gente recolhendo dinheiro à Previdência e mais gente tendo de receber benefícios.</segment>
+    <segment id="46">Tem uma série de implicações que vão vir"</segment>
+    <segment id="47">, acrescenta.</segment>
+    <segment id="48">O economista Bruno Imaizumi</segment>
+    <segment id="49">, da LCA Consultores</segment>
+    <segment id="50">, lembra que a transição demográfica não é uma exclusividade do Brasil.</segment>
+    <segment id="51">Esse quadro</segment>
+    <segment id="52">, porém</segment>
+    <segment id="53">porém, é visto</segment>
+    <segment id="54">comocomo um dos maiores desafios que o país terá pela frente</segment>
+    <segment id="55">, diz ele.</segment>
+    <segment id="56">"</segment>
+    <segment id="57">Há uma tendência de pessoas que não querem ter filhos e também de menos pessoas em idade de trabalhar"</segment>
+    <segment id="58">, afirma.</segment>
+    <segment id="59">"</segment>
+    <segment id="60">Tem outras questões que vão</segment>
+    <segment id="61">sese somando</segment>
+    <segment id="62">, a população está demandando cada vez mais serviços de saúde"</segment>
+    <segment id="63">, acrescenta.</segment>
+    <segment id="64">Os dados divulgados pelo IBGE nesta quarta ainda não trazem detalhamentos sobre faixa etária</segment>
+    <segment id="65">, cor ou raça e gênero.</segment>
+    <segment id="66">Veja as 10 maiores cidades do BrasilMais    novamente         de   de  de  representando um    Questões</segment>
+    <segment id="67">comocomo essas devem ser apresentadas nas próximas divulgações do Censo 2022.</segment>
+    <segment id="68">Especialistas aguardam os novos dados para entender melhor a dinâmica de crescimento da população nos últimos anos.</segment>
+    <segment id="69">"Temos um fator importante a ser considerado que é a pandemia"</segment>
+    <segment id="70">, afirma a geógrafa Raquel Panke</segment>
+    <segment id="71">, professora da PUCPR (Pontifícia Universidade Católica do Paraná) e pós-doutoranda em desenvolvimento regional.</segment>
+    <segment id="72">"</segment>
+    <segment id="73">Infelizmente</segment>
+    <segment id="74">, tivemos uma mortalidade acima do padrão e</segment>
+    <segment id="75">, além disso</segment>
+    <segment id="76">, muitas famílias que planejavam ter filhos esperaram.</segment>
+    <segment id="77">Isso [a pandemia] certamente</segment>
+    <segment id="78">sese refletiu nos dados"</segment>
+    <segment id="79">, acrescenta.</segment>
+    <segment id="80">O demógrafo José Eustáquio Diniz Alves</segment>
+    <segment id="81">, pesquisador aposentado do IBGE</segment>
+    <segment id="82">, avalia que o crescimento menor da população encaminha o país para o fim do chamado bônus demográfico.</segment>
+    <segment id="83">Isso traz desafios para a economia</segment>
+    <segment id="84">, já que a parcela da população em idade de trabalhar tende a diminuir</segment>
+    <segment id="85">, enquanto a de aposentados</segment>
+    <segment id="86">, a aumentar .</segment>
+    <segment id="87">Assim, o crescimento econômico tende a depender de avanços em produtividade –capacidade de produzir mais com menos.</segment>
+    <segment id="88">Por outro lado</segment>
+    <segment id="89">, com menos filhos</segment>
+    <segment id="90">, as famílias podem investir mais na formação de uma mesma criança</segment>
+    <segment id="91">, e as mulheres podem encontrar menos dificuldades para entrada no mercado de trabalho</segment>
+    <segment id="92">, segundo Alves.</segment>
+    <segment id="93">"</segment>
+    <segment id="94">Essa transição traz uma oportunidade de empoderamento feminino.</segment>
+    <segment id="95">"</segment>
+    <segment id="96">O economista Sérgio Besserman</segment>
+    <segment id="97">, ex-presidente do IBGE</segment>
+    <segment id="98">, também destaca que a tendência é de menos jovens sustentando o apoio a idosos</segment>
+    <segment id="99">, aposentados e inativos.</segment>
+    <segment id="100">Ele, porém</segment>
+    <segment id="101">porém, vê que o quadro pode gerar uma espécie de bônus para o Brasil —desde que o país caminhe para a equidade de gênero e uma economia baseada no conhecimento.</segment>
+    <segment id="102">"</segment>
+    <segment id="103">Gosto da ideia de redução da população mundial em geral</segment>
+    <segment id="104">, não só por razões de sustentabilidade</segment>
+    <segment id="105">, masmas de uma vida mais digna e com mais bem-estar para todos.</segment>
+    <segment id="106">O que acontece no Brasil não é diferente da tendência global: nenhum país aumentou sua renda per capita com um crescimento populacional muito grande.</segment>
+    <segment id="107">"  Segundo ele</segment>
+    <segment id="108">, o resultado do Censo 2022 (203</segment>
+    <segment id="109">,1 milhões de habitantes) pode ter sido influenciado por fatores políticos e econômicos da última década no país.</segment>
+    <segment id="110">"</segment>
+    <segment id="111">Tivemos período conturbado</segment>
+    <segment id="112">, com crise econômica e pandemia.</segment>
+    <segment id="113">Nessas situações de incerteza</segment>
+    <segment id="114">, os casais optam por postergar um pouco.</segment>
+    <segment id="115">"</segment>
+  </rst>
+</analysis>

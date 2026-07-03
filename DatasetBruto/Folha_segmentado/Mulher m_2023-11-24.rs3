@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Uma mulher morreu e seis pessoas ficaram feridas nesta sexta-feira (24) após o desabamento do prédio de um supermercado em Jaboatão dos Guararapes</segment>
+    <segment id="2">, na região metropolitana do Recife.</segment>
+    <segment id="3">O desabamento aconteceu no bairro Curado IV.</segment>
+    <segment id="4">A mulher que morreu era uma funcionária —segundo testemunhas</segment>
+    <segment id="5">, funcionários estavam dentro do estabelecimento</segment>
+    <segment id="6">, que seria inaugurado na próxima quarta (29).</segment>
+    <segment id="7">Prédio onde seria inaugurado um supermercado desabou nesta sexta (24) em Jaboatão dos Guararapes (PE)</segment>
+    <segment id="8">; uma funcionária morreu - ReproduçãoO desabamento da estrutura fez com que mercadorias caíssem para fora do supermercado.</segment>
+    <segment id="9">Os feridos são cinco homens e uma mulher</segment>
+    <segment id="10">, de acordo com os bombeiros.</segment>
+    <segment id="11">A PRF (Polícia Rodoviária Federal) foi acionada e prestou auxílio com um helicóptero.</segment>
+    <segment id="12">Um homem que estava soterrado foi resgatado.</segment>
+    <segment id="13">Os feridos foram socorridos e levados para hospitais da região metropolitana da capital pernambucana.</segment>
+    <segment id="14">Ao menos duas pessoas foram encaminhadas para o Hospital da Restauração</segment>
+    <segment id="15">, na área central do Recife</segment>
+    <segment id="16">, onde passam por exames.</segment>
+    <segment id="17">O estado delas é estável</segment>
+    <segment id="18">, segundo a unidade de saúde.</segment>
+    <segment id="19">O Samu (Serviço de Atendimento Móvel de Urgência)</segment>
+    <segment id="20">, a Polícia Militar e a Defesa Civil também atuaram na ocorrência.</segment>
+  </rst>
+</analysis>

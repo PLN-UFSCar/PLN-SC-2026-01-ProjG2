@@ -1,0 +1,112 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O WhatsApp informou que hackers conseguiram instalar um software com sistema de vigilância remoto em telefones celulares e outros dispositivos usando uma vulnerabilidade no programa de mensagens instantâneas.</segment>
+    <segment id="2">O ataque</segment>
+    <segment id="3">, descoberto neste mês</segment>
+    <segment id="4">, tinha</segment>
+    <segment id="5">comocomo alvo "</segment>
+    <segment id="6">um número seleto" de usuários e foi orquestrado por um "ator cibernético avançado"</segment>
+    <segment id="7">, de acordo com a companhia.</segment>
+    <segment id="8">Segundo WhatsApp</segment>
+    <segment id="9">, ataque teve 'número seleto de usuários' e usou recurso de chamada de voz do app</segment>
+    <segment id="10">; jornal britânico diz que empresa israelense de segurança que oferece sistemas de espionagem esteve por trás de ataque.</segment>
+    <segment id="11">Na sexta-feira passada</segment>
+    <segment id="12">, a empresa</segment>
+    <segment id="13">, que pertence ao Facebook</segment>
+    <segment id="14">, lançou um patch para corrigir a falha de segurança.</segment>
+    <segment id="15">O jornal britânico Financial Times informou que o software usado no ataque foi desenvolvido pela empresa de segurança israelense Grupo NSO.</segment>
+    <segment id="16">A companhia negou</segment>
+    <segment id="17">, no entanto</segment>
+    <segment id="18">, estar por trás do programa.</segment>
+    <segment id="19">Na segunda-feira</segment>
+    <segment id="20">, o WhatsApp pediu a seus 1</segment>
+    <segment id="21">,5 bilhão de usuários para atualizar o aplicativo</segment>
+    <segment id="22">comocomo precaução adicional.</segment>
+    <segment id="23">Como eles usaram a falha de segurança?</segment>
+    <segment id="24">Os hackers usaram o recurso de chamada de voz do WhatsApp para ligar para o dispositivo dos alvos do ataque.</segment>
+    <segment id="25">Mesmo que ligação não fosse atendida</segment>
+    <segment id="26">, o software era instalado e</segment>
+    <segment id="27">, de acordo com o Financial Times</segment>
+    <segment id="28">, a chamada desaparecia do histórico do telefone.</segment>
+    <segment id="29">O WhatsApp disse à BBC que sua equipe de segurança foi a primeira a identificar o problema e compartilhou as informações com grupos de direitos humanos</segment>
+    <segment id="30">, alguns provedores de segurança cibernética e o Departamento de Justiça dos EUA.  "</segment>
+    <segment id="31">O ataque tem todas as características de ser de uma empresa privada que supostamente trabalha com governos para criar programas de espionagem que assumem as funções do sistema operacional do telefone"</segment>
+    <segment id="32">, disse o WhatsApp em uma nota à imprensa publicada na segunda-feira.</segment>
+    <segment id="33">A empresa também publicou um alerta para especialistas de segurança</segment>
+    <segment id="34">, descrevendo a falha</segment>
+    <segment id="35">comocomo "uma vulnerabilidade devido ao estouro de buffer na função de chamada que permitia a execução de um código por meio do envio de uma série de pacotes SRTCP para o telefone alvo".</segment>
+    <segment id="36">Quem está por trás do programa?</segment>
+    <segment id="37">O Grupo NSO é uma empresa israelense que foi identificada no passado</segment>
+    <segment id="38">comocomo "traficante de armas cibernéticas".</segment>
+    <segment id="39">Seu principal programa</segment>
+    <segment id="40">, o Pegasus</segment>
+    <segment id="41">, pode coletar dados privados de um dispositivo</segment>
+    <segment id="42">, incluindo o que o microfone e a câmera do dispositivo captam</segment>
+    <segment id="43">, assim</segment>
+    <segment id="44">comocomo sua localização.</segment>
+    <segment id="45">Em comunicado</segment>
+    <segment id="46">, a NSO disse que é "uma empresa de tecnologia registrada e autorizada por agências do governo com o único objetivo de combater o crime e o terrorismo".  "</segment>
+    <segment id="47">A empresa não opera os sistemas que fornece e</segment>
+    <segment id="48">, após um rigoroso processo de seleção</segment>
+    <segment id="49">, são as agências de inteligência e de polícia que determinam</segment>
+    <segment id="50">comocomo usam a tecnologia para apoiar suas missões de segurança pública.</segment>
+    <segment id="51">"  "</segment>
+    <segment id="52">Investigamos denúncias plausíveis ​​de uso indevido e</segment>
+    <segment id="53">, sese necessário</segment>
+    <segment id="54">, agimos</segment>
+    <segment id="55">, incluindo a possibilidade de cancelar o sistema"</segment>
+    <segment id="56">, acrescentou.</segment>
+    <segment id="57">"</segment>
+    <segment id="58">Sob nenhuma circunstância a NSO estaria envolvida na operação ou identificação de alvos para sua tecnologia</segment>
+    <segment id="59">, que é operada exclusivamente por agências de inteligência e segurança</segment>
+    <segment id="60">, a NSO não usaria ou não poderia usar sua tecnologia unilateralmente contra qualquer pessoa ou organização.</segment>
+    <segment id="61">"  Quem eram os alvos?</segment>
+    <segment id="62">De acordo com o WhatsApp</segment>
+    <segment id="63">, é muito cedo para saber quantos usuários foram afetados por esta vulnerabilidade</segment>
+    <segment id="64">, embora</segment>
+    <segment id="65">embora tenha sinalizado que</segment>
+    <segment id="66">sese trata de um grupo muito seleto.</segment>
+    <segment id="67">Segundo as estatísticas mais recentes do Facebook</segment>
+    <segment id="68">, o WhatsApp tem cerca de 1</segment>
+    <segment id="69">,5 bilhão de usuários.</segment>
+    <segment id="70">A organização de direitos humanos Anistia Internacional</segment>
+    <segment id="71">, que disse ter sido alvo no passado de programas criados pelo Grupo NSO</segment>
+    <segment id="72">, temia há muito tempo que um ataque</segment>
+    <segment id="73">comocomo este seria possível.</segment>
+    <segment id="74">"</segment>
+    <segment id="75">Eles são capazes de infectar seu telefone sem você fazer nada"</segment>
+    <segment id="76">, afirmou Danna Ingleton</segment>
+    <segment id="77">, vice-diretora do programa de tecnologia da Anistia Internacional.</segment>
+    <segment id="78">Ingleton acredita que há evidências de que essas tecnologias estão sendo usadas por vários governos para manter ativistas e jornalistas importantes sob vigilância.</segment>
+    <segment id="79">"</segment>
+    <segment id="80">É necessário exigir uma prestação de contas para isso</segment>
+    <segment id="81">, não pode continuar sendo um velho oeste"</segment>
+    <segment id="82">, avalia.</segment>
+    <segment id="83">Nesta terça-feira</segment>
+    <segment id="84">, será realizada uma audiência em Tel Aviv sobre uma petição da Anistia Internacional</segment>
+    <segment id="85">para que</segment>
+    <segment id="86">para que o governo de Israel retire a licença da NSO para exportar seus produtos.</segment>
+  </rst>
+</analysis>

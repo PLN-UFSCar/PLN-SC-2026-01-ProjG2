@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Maré baixa suspende travessia às 20h</segment>
+    <segment id="2">A maré baixa é a responsável pela suspensão da travessia Salvador-Mar Grande</segment>
+    <segment id="3">A travessia Salvador-Mar Grande de lancha vai ser interrompida mais cedo nesta segunda-feira (5)</segment>
+    <segment id="4">, às 19 horas</segment>
+    <segment id="5">, por conta da maré baixa.</segment>
+    <segment id="6">Geralmente</segment>
+    <segment id="7">, a operação segue até as 20 horas.</segment>
+    <segment id="8">A maré baixa impede a atracação de lanchas no Terminal Hidroviário de Vera Cruz.</segment>
+    <segment id="9">Nesta manhã</segment>
+    <segment id="10">, dez embarcações fazem a travessia com saídas a cada 15 minutos</segment>
+    <segment id="11">, de acordo com a Associação dos Transportadores Marítimos da Bahia (Astramab).</segment>
+  </rst>
+</analysis>

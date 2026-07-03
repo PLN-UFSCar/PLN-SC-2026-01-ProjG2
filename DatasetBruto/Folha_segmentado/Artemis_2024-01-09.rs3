@@ -1,0 +1,101 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Com parceiros enfrentando desafios para o desenvolvimento de espaçonaves</segment>
+    <segment id="2">, a Nasa anunciou nesta terça-feira (9) a mudança das datas das próximas duas missões com astronautas à Lua.</segment>
+    <segment id="3">Ambas foram adiadas quase um ano para dar mais tempo às equipes da Artemis para trabalharem</segment>
+    <segment id="4">, segundo o administrador da agência espacial americana</segment>
+    <segment id="5">, Bill Nelson.</segment>
+    <segment id="6">A nova programação "reconhece os desafios reais de desenvolvimento que foram enfrentados por nossos parceiros da indústria"</segment>
+    <segment id="7">, acrescentou Amit Kshatriya</segment>
+    <segment id="8">, chefe da estratégia de exploração da Lua e de Marte.</segment>
+    <segment id="9">A Artemis 2</segment>
+    <segment id="10">, antes planejada para o final deste ano</segment>
+    <segment id="11">, ficou para setembro de 2025.</segment>
+    <segment id="12">Ela prevê um voo na cápsula Orion</segment>
+    <segment id="13">, construída pela Lockheed</segment>
+    <segment id="14">, ao redor da satélite.</segment>
+    <segment id="15">Câmera acplodada na Orion faz registro da Lua no sexto dia da missão Artemis 1</segment>
+    <segment id="16">, em 2022 - NasaA missão tripulada deve ser comandada por Reid Wiseman</segment>
+    <segment id="17">, engenheiro de sistemas e piloto de provas</segment>
+    <segment id="18">, e ter</segment>
+    <segment id="19">comocomo piloto Victor Glover</segment>
+    <segment id="20">, engenheiro de sistemas.</segment>
+    <segment id="21">Os outros dois tripulantes são a engenheira elétrica Christina Koch e o mestrando em física</segment>
+    <segment id="22">Jeremy Hansen</segment>
+    <segment id="23">, o único canadense —os demais são americanos.</segment>
+    <segment id="24">Essa deve ser a primeira vez que quatro pessoas voam para o satélite.</segment>
+    <segment id="25">Nas missões do programa Apollo</segment>
+    <segment id="26">, a havia três.</segment>
+    <segment id="27">A Artemis 3</segment>
+    <segment id="28">, por sua vez</segment>
+    <segment id="29">, passou de final de 2025 para setembro de 2026.</segment>
+    <segment id="30">Nesta, o objetivo é fazer uma alunissagem no polo sul.</segment>
+    <segment id="31">Após o pouso</segment>
+    <segment id="32">, a primeira missão da tripulação será checar</segment>
+    <segment id="33">sese todos os sistemas estão adequados para a permanência no solo lunar.</segment>
+    <segment id="34">Caso esteja tudo funcionando</segment>
+    <segment id="35">, o grupo terá algumas horas para comer e descansar antes de iniciar uma série de experimentos.</segment>
+    <segment id="36">Saiba mais sobre a Artemis Conheça a origem da missão Artemis</segment>
+    <segment id="37">, para levar humanos novamente à LuaPor que a Nasa está voltando para a LuaDurante as caminhadas no satélite</segment>
+    <segment id="38">, estão previstas captação de fotos e vídeos</segment>
+    <segment id="39">, pesquisa geológica e coleta de amostras.</segment>
+    <segment id="40">Caminho até a Lua</segment>
+    <segment id="41">A jornada dos astronautas até a Lua envolverá mais de uma espaçonave.</segment>
+    <segment id="42">A ideia é deixar a Terra a bordo da Orion e</segment>
+    <segment id="43">, já no espaço</segment>
+    <segment id="44">, transferir-</segment>
+    <segment id="45">sese para o Starship</segment>
+    <segment id="46">, da SpaceX</segment>
+    <segment id="47">, para ir e voltar da superfície lunar.</segment>
+    <segment id="48">Problemas e investigações em torno do escudo térmico da Orion</segment>
+    <segment id="49">, a estrutura que protege os astronautas do calor ao reentrar na atmosfera terrestre</segment>
+    <segment id="50">, e as baterias e o sistema elétrico da espaçonave estão entre as razões para os atrasos</segment>
+    <segment id="51">, segundo Kshatriya.</segment>
+    <segment id="52">A cápsula foi lançada ao espaço pela primeira vez em 2022 na missão não tripulada Artemis 1</segment>
+    <segment id="53">, que também marcou a estreia do poderoso foguete Space Launch System (SLS).  Missão Artemis 1</segment>
+    <segment id="54">, da Nasa</segment>
+    <segment id="55">, durou 25 diasMais    novamente         de   de  de  representando um</segment>
+    <segment id="56">A SpaceX</segment>
+    <segment id="57">, embora</segment>
+    <segment id="58">embora tenha feito dois testes do Starship</segment>
+    <segment id="59">, ainda enfrenta uma longa lista de tarefas antes que a nave possa levar astronautas à Lua.</segment>
+    <segment id="60">Ela precisa demonstrar que pode acoplar e reabastecê-la em órbita.</segment>
+    <segment id="61">Os atrasos no Starship têm efeitos em cadeia</segment>
+    <segment id="62">, pois</segment>
+    <segment id="63">pois o contratante dos trajes espaciais precisa saber</segment>
+    <segment id="64">comocomo eles</segment>
+    <segment id="65">sese comportam na espaçonave</segment>
+    <segment id="66">, e é necessário construir simuladores</segment>
+    <segment id="67">para que</segment>
+    <segment id="68">para que os astronautas aprendam a operar seus sistemas.</segment>
+    <segment id="69">SpaceX lança Starship de novo</segment>
+    <segment id="70">, masmas perde sinal do fogueteMais    novamente         de   de  de  representando um</segment>
+    <segment id="71">A Nasa também pretende construir uma estação espacial lunar chamada Gateway</segment>
+    <segment id="72">, que abrigará espaçonaves em missões posteriores.</segment>
+    <segment id="73">Inicialmente</segment>
+    <segment id="74">, o envio dos primeiros componentes da estação estava marcado para outubro de 2025</segment>
+    <segment id="75">, masmas a programação está sendo revista.</segment>
+  </rst>
+</analysis>

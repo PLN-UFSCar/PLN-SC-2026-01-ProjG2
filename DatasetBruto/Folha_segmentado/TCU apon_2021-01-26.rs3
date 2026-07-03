@@ -1,0 +1,124 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Uma auditoria do TCU (Tribunal de Contas da União) apontou ilegalidade no uso de recursos do SUS para o fornecimento de cloroquina e hidroxicloroquina a pacientes com Covid-19</segment>
+    <segment id="2">, prática adotada pelo governo de Jair Bolsonaro.</segment>
+    <segment id="3">A política foi implementada pelo ministro da Saúde</segment>
+    <segment id="4">, o general da ativa Eduardo Pazuello.</segment>
+    <segment id="5">O ministro da Saúde</segment>
+    <segment id="6">, Eduardo Pazuello</segment>
+    <segment id="7">, durante visita a hospital para casos de Covid-19 em Manaus (AM) - Ministério da Saúde/DivulgaçãoDiante da conclusão da área técnica do TCU</segment>
+    <segment id="8">, o ministro Benjamin Zymler</segment>
+    <segment id="9">, relator do processo</segment>
+    <segment id="10">, determinou que o Ministério da Saúde explique em cinco dias úteis a posição da pasta em relação ao uso de cloroquina por pacientes com Covid-19.</segment>
+    <segment id="11">O despacho foi expedido na última sexta-feira (22).</segment>
+    <segment id="12">A explicação deve ocorrer</segment>
+    <segment id="13">porque</segment>
+    <segment id="14">porque Pazuello adotou</segment>
+    <segment id="15">, nos últimos dias</segment>
+    <segment id="16">, uma posição “contraditória” em relação ao que o próprio ministério vem empreendendo em relação à cloroquina</segment>
+    <segment id="17">, conforme o despacho do ministro do TCU.</segment>
+    <segment id="18">A pasta também deve explicar quem foi o responsável por colocar no ar um aplicativo</segment>
+    <segment id="19">, o TratCOV</segment>
+    <segment id="20">, que orientava o uso indiscriminado do medicamento.</segment>
+    <segment id="21">Não há comprovação científica sobre a eficácia da cloroquina para o tratamento precoce de pacientes com Covid-19.</segment>
+    <segment id="22">Mesmo assim</segment>
+    <segment id="23">, Bolsonaro e Pazuello apostaram no medicamento</segment>
+    <segment id="24">comocomo saída para a pandemia.</segment>
+    <segment id="25">Somente num</segment>
+    <segment id="26">casocaso mais recente</segment>
+    <segment id="27">, de crise na rede de saúde em Manaus e esgotamento de oxigênio nos hospitais</segment>
+    <segment id="28">, o Ministério da Saúde distribuiu 120 mil comprimidos de hidroxicloroquina na cidade.</segment>
+    <segment id="29">O que as unidades de saúde precisavam</segment>
+    <segment id="30">, como</segment>
+    <segment id="31">como anotado em diversas alertas feitos ao ministro</segment>
+    <segment id="32">, era de oxigênio.</segment>
+    <segment id="33">Pacientes morreram asfixiados.</segment>
+    <segment id="34">Pazuello é formalmente investigado num inquérito pedido pela PGR (Procuradoria-Geral da República) e aberto por determinação do STF (Supremo Tribunal Federal).</segment>
+    <segment id="35">Ele é suspeito de prática de crimes</segment>
+    <segment id="36">, em razão do que ocorreu em Manaus</segment>
+    <segment id="37">, e precisará prestar depoimento à PF (Polícia Federal).</segment>
+    <segment id="38">No TCU</segment>
+    <segment id="39">, a área técnica compreendeu que a distribuição de cloroquina pelo SUS é ilegal.</segment>
+    <segment id="40">O entendimento dos auditores foi transcrito no despacho do ministro Zymler.</segment>
+    <segment id="41">“Como não houve manifestação da Anvisa acerca da possibilidade de</segment>
+    <segment id="42">sese utilizar os medicamentos à base de cloroquina para tratamento da Covid-19 e tampouco dos órgãos internacionais antes mencionados (as ‘Anvisas’ de outros países)</segment>
+    <segment id="43">, verifica-</segment>
+    <segment id="44">sese não haver amparo legal para a utilização de recursos do SUS para o fornecimento desses medicamentos com essa finalidade”</segment>
+    <segment id="45">, cita o documento.</segment>
+    <segment id="46">Os auditores afirmam que o uso da cloroquina só poderia ocorrer “off label”</segment>
+    <segment id="47">, ou seja</segment>
+    <segment id="48">, fora do que prevê a bula do medicamento.</segment>
+    <segment id="49">E, para que</segment>
+    <segment id="50">para que um medicamento “off label” seja fornecido pelo SUS</segment>
+    <segment id="51">, é preciso haver autorização da Anvisa (Agência Nacional de Vigilância Sanitária)</segment>
+    <segment id="52">, segundo análise de auditores do TCU.</segment>
+    <segment id="53">Na pandemia</segment>
+    <segment id="54">, a Anvisa permitiu importações excepcionais de medicamentos</segment>
+    <segment id="55">, desde que aprovados por “Anvisas” de outros países.</segment>
+    <segment id="56">“Essas autoridades sanitárias também não aprovaram o uso de medicamentos à base de cloroquina para tratamento da Covid-19”</segment>
+    <segment id="57">, afirma a área técnica do TCU.</segment>
+    <segment id="58">O TCU diz ainda que a própria orientação do Ministério da Saúde para tratamento precoce cita a falta de evidências científicas sobre o êxito de medicamentos do tipo.</segment>
+    <segment id="59">“</segment>
+    <segment id="60">A nota informativa (do ministério) não possui os requisitos para</segment>
+    <segment id="61">sese constituir em um protocolo clínico ou diretriz terapêutica”</segment>
+    <segment id="62">, afirma.</segment>
+    <segment id="63">A área técnica do TCU recomendou que a nota do Ministério da Saúde</segment>
+    <segment id="64">, elaborada na gestão de Pazuello</segment>
+    <segment id="65">, seja submetida à Anvisa</segment>
+    <segment id="66">, “a fim de que ela</segment>
+    <segment id="67">sese manifeste sobre a autorização ou não do uso off label da cloroquina e hidroxicloroquina no tratamento da Covid-19”.</segment>
+    <segment id="68">Ao decidir pedir uma “posição oficial” do Ministério da Saúde sobre o assunto</segment>
+    <segment id="69">, o ministro Zymler apontou as contradições recentes de Pazuello</segment>
+    <segment id="70">, que disse não indicar medicação para o combate à Covid-19</segment>
+    <segment id="71">, e sim que as pessoas procurem por “atendimento precoce” nos serviços de saúde.</segment>
+    <segment id="72">“</segment>
+    <segment id="73">As manifestações do titular da pasta são contraditadas pelos documentos emitidos pelo ministério</segment>
+    <segment id="74">, os quais indicam os medicamentos a serem utilizados</segment>
+    <segment id="75">, com as respectivas posologias</segment>
+    <segment id="76">, para o tratamento da Covid-19”</segment>
+    <segment id="77">, afirmou o integrante do TCU.</segment>
+    <segment id="78">Outro “ponto de realce”</segment>
+    <segment id="79">, conforme o ministro</segment>
+    <segment id="80">, foi o lançamento do TratCOV pelo Ministério da Saúde</segment>
+    <segment id="81">, um aplicativo que estimulava a prescrição indiscriminada de cloroquina.</segment>
+    <segment id="82">“</segment>
+    <segment id="83">Possivelmente</segment>
+    <segment id="84">, em razão das críticas sofridas</segment>
+    <segment id="85">, o aplicativo não</segment>
+    <segment id="86">sese encontra mais acessível na internet”</segment>
+    <segment id="87">, disse Zymler</segment>
+    <segment id="88">, no pedido de explicações.</segment>
+    <segment id="89">À Folha</segment>
+    <segment id="90">, a Anvisa confirmou que não deu autorização para uso “off label” da cloroquina.</segment>
+    <segment id="91">O órgão disse</segment>
+    <segment id="92">, por meio da assessoria de imprensa</segment>
+    <segment id="93">, que se</segment>
+    <segment id="94">se manifestou no sentido de que essa era uma atribuição do médico</segment>
+    <segment id="95">, em discussão com o paciente.</segment>
+    <segment id="96">E que não houve pedido para inclusão dessa indicação por nenhum laboratório.</segment>
+    <segment id="97">Na reunião que selou as primeiras autorizações para uso emergencial das vacinas contra o novo coronavírus</segment>
+    <segment id="98">, diretores da Anvisa deixaram claro não existirem opções de tratamento precoce para a Covid-19.</segment>
+  </rst>
+</analysis>

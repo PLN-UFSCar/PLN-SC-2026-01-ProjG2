@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Novo código de mineração quer evitar a formação de cartéis no setor</segment>
+    <segment id="2">O novo código de mineração que está sendo concluído pelo governo vai prever mecanismos para evitar a formação de cartéis no setor.
+BRASÍLIA - Um dos alvos mais evidentes é o cimento.</segment>
+    <segment id="3">Para evitar que outras empresas entrem no ramo</segment>
+    <segment id="4">, as companhias concentrariam a produção do calcário usado na sua fabricação.</segment>
+    <segment id="5">A ideia é evitar</segment>
+    <segment id="6">, já no início do processo de exploração de diversos minerais</segment>
+    <segment id="7">, os prejuízos para o consumidor final.</segment>
+    <segment id="8">Também estão na mira do governo o talco</segment>
+    <segment id="9">, matérias-primas para fertilizantes (sobretudo fosfatos) e o caulim.</segment>
+    <segment id="10">Este último é importante para a produção de papel e cerâmicas.</segment>
+    <segment id="11">Existem hoje minas pequenas de caulim dispersas pelo Brasil</segment>
+    <segment id="12">, o que facilita a concentração em determinadas regiões por fabricantes de cerâmicas</segment>
+    <segment id="13">, por exemplo</segment>
+    <segment id="14">, que acabam ditando os preços de seus produtos sem qualquer competição.
+
+- O marco vai prever a possibilidade de discricionalidade quanto a controles de direitos que acarretem prejuízos para o consumidor - afirmou um técnico do Ministério de Minas e Energia.</segment>
+    <segment id="15">A preocupação é criar formas que permitam um melhor monitoramento da quantidade de direitos minerais e do controle do mercado.</segment>
+    <segment id="16">Ou seja</segment>
+    <segment id="17">, o órgão terá de verificar a participação efetiva das empresas no setor ao avaliar a concessão de uma lavra antes de autorizá-la.</segment>
+  </rst>
+</analysis>

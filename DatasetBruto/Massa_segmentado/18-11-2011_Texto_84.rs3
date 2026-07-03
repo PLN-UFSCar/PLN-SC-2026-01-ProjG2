@@ -1,0 +1,53 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">7.844 vagas para curso técnico</segment>
+    <segment id="2">Inscrição começa hoje e segue até o dia 30</segment>
+    <segment id="3">A Secretaria de Educação da Bahia (SEC) inscreve a partir desta sexta-feira (18) até o dia 30 para 7.844 vagas para cursos técnicos de nível médio.</segment>
+    <segment id="4">O cadastro pode ser feito no Portal da Educação (www.educacao.ba.gov.br/) e no blog da Educação Profissional (www.educacaoprofissionaldabahia.blogspot.com/).</segment>
+    <segment id="5">As vagas são para o primeiro e segundo semestres de 2012.</segment>
+    <segment id="6">As oportunidades são para 49 cursos</segment>
+    <segment id="7">, como</segment>
+    <segment id="8">como administração</segment>
+    <segment id="9">, agroindústria</segment>
+    <segment id="10">, agroecologia</segment>
+    <segment id="11">, biotecnologia</segment>
+    <segment id="12">, logística</segment>
+    <segment id="13">, comércio</segment>
+    <segment id="14">, cooperativismo</segment>
+    <segment id="15">, informática</segment>
+    <segment id="16">, enfermagem</segment>
+    <segment id="17">, meio ambiente</segment>
+    <segment id="18">, nutrição</segment>
+    <segment id="19">, manutenção automotiva</segment>
+    <segment id="20">, eletrotécnica</segment>
+    <segment id="21">, mecânica</segment>
+    <segment id="22">, edificações</segment>
+    <segment id="23">, segurança do trabalho e desenho em construção civil.</segment>
+    <segment id="24">Interessados devem ter concluído o ensino médio na rede pública.</segment>
+    <segment id="25">Os candidatos serão selecionados através de sorteio eletrônico</segment>
+    <segment id="26">, que será realizado no dia 13 de dezembro às 15 horas.</segment>
+    <segment id="27">Os aprovados ainda farão um teste de habilidade específica de caráter eliminatório.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,47 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O atual diretor da Abin (Agência Brasileira de Inteligência)</segment>
+    <segment id="2">, Luiz Fernando Corrêa</segment>
+    <segment id="3">, e deputado Alexandre Ramagem (PL-RJ)</segment>
+    <segment id="4">, ex-comandante do órgão</segment>
+    <segment id="5">, devem ficar frente a frente nesta quarta-feira (25) em reunião secreta que será realizada pela Comissão Mista de Controle das Atividades de Inteligência.</segment>
+    <segment id="6">Ex-presidente Jair Bolsonaro e então diretor da Abin</segment>
+    <segment id="7">, Alexandre Ramagem</segment>
+    <segment id="8">, em foto de 2020 - Marcos Corrêa/PRCorrêa foi convidado pelo presidente do colegiado</segment>
+    <segment id="9">, deputado Paulo Alexandre Barbosa (PSDB-SP)</segment>
+    <segment id="10">, após a operação Última Milha</segment>
+    <segment id="11">, da Polícia Federal</segment>
+    <segment id="12">, que apura suspeita de que a Abin usou ilegalmente</segment>
+    <segment id="13">, durante o governo Jair Bolsonaro (PL)</segment>
+    <segment id="14">, a ferramenta First Mile contra jornalistas</segment>
+    <segment id="15">, políticos e adversários do ex-presidente.</segment>
+    <segment id="16">Segundo a PF</segment>
+    <segment id="17">, a suspeita é que servidores da agência tenham usado o software de geolocalização para invadir "reiteradas vezes" a rede de telefonia e acessar os dados de localização dos alvos.</segment>
+    <segment id="18">Ramagem dirigia a Abin no período em que teria ocorrido o suposto monitoramento irregular</segment>
+    <segment id="19">, embora</segment>
+    <segment id="20">embora não tenha sido alvo dos mandados cumpridos pela PF.</segment>
+    <segment id="21">O deputado é o nome preferido do ex-presidente para a disputa pela Prefeitura do Rio.</segment>
+  </rst>
+</analysis>

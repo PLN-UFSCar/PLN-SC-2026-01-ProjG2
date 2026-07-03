@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Estudante leva tiro ao</segment>
+    <segment id="2">sese assustar
+Ela estava na praia</segment>
+    <segment id="3">, atrás do Grande Hotel Stella Mares</segment>
+    <segment id="4">, quando foi morta</segment>
+    <segment id="5">A estudante universitária Natalia Penhalosa Duarte</segment>
+    <segment id="6">, 19 anos</segment>
+    <segment id="7">, morreu ontem ao levar um tiro na testa durante uma tentativa de assalto na praia de Stella Maris.</segment>
+    <segment id="8">O bandido atirou depois que a jovem fez um movimento brusco para pegar algo na bolsa.</segment>
+    <segment id="9">Natalia é amazonense e  participava de um congresso em Salvador.</segment>
+    <segment id="10">Ela estava hospedada com o  namorado</segment>
+    <segment id="11">, Diego Matheus Mello Mendes</segment>
+    <segment id="12">, na casa de amigos.</segment>
+    <segment id="13">A Polícia Civil está analisando as imagens do circuito interno de segurança de um condomínio que fica no local.</segment>
+    <segment id="14">Um retrato falado dos latrocidas também foi solicitado ao Departamento de Polícia Técnica (DPT).</segment>
+  </rst>
+</analysis>

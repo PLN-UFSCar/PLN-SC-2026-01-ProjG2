@@ -1,0 +1,78 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O MEC (Ministério da Educação) divulgou nesta terça (16) as notas do Enem (Exame Nacional do Ensino Médio).</segment>
+    <segment id="2">As médias foram divulgadas por áreas de conhecimento</segment>
+    <segment id="3">, com 516</segment>
+    <segment id="4">,2 para linguagens</segment>
+    <segment id="5">, códigos e suas tecnologias</segment>
+    <segment id="6">; 522 para ciências humanas e suas tecnologias</segment>
+    <segment id="7">;</segment>
+    <segment id="8">497,4 para ciências da natureza e suas tecnologias</segment>
+    <segment id="9">;</segment>
+    <segment id="10">534,9 para matemática e suas tecnologias</segment>
+    <segment id="11">; e 641</segment>
+    <segment id="12">,6 para redação.</segment>
+    <segment id="13">No último item</segment>
+    <segment id="14">, 60 trabalhos alcançaram a nota mil</segment>
+    <segment id="15">, superando a quantidade de 2022</segment>
+    <segment id="16">, que teve 18 redações com a pontuação máxima (veja o quadro com as notas mais abaixo).</segment>
+    <segment id="17">Na edição de 2023</segment>
+    <segment id="18">, quem fez pelo menos 570 pontos —cerca de 1 milhão de candidatos— tem chance de entrar em 840 cursos de ensino superior no Brasil</segment>
+    <segment id="19">, segundo o Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira).</segment>
+    <segment id="20">Participantes do Enem 2023 entram no UniCeub</segment>
+    <segment id="21">, em Brasília</segment>
+    <segment id="22">, para o segundo dia de provas - Paulo Saldaña - 12.nov.2023/FolhapressO cálculo considerou os cursos com menor nota de corte na modalidade de ampla concorrência no Sisu (Sistema de Seleção Unificada) do ano passado</segment>
+    <segment id="23">, que ficou em 569</segment>
+    <segment id="24">,2 pontos.</segment>
+    <segment id="25">O grupo de quem pontuou de 550 a 600 pontos teve 479.944 candidatos.</segment>
+    <segment id="26">Outros 548.739 participantes fizeram entre 500 e 550 pontos.</segment>
+    <segment id="27">Segundo Rubens Lacerda</segment>
+    <segment id="28">, diretor de avaliação de educação básica do Inep</segment>
+    <segment id="29">, 61% dos participantes conseguem acessar financiamento pelo Prouni.</segment>
+    <segment id="30">"</segment>
+    <segment id="31">A maior parte dos egressos que fizeram o Enem poderão participar do Prouni por meio dessa nota de corte</segment>
+    <segment id="32">, que é 509 pontos.</segment>
+    <segment id="33">"</segment>
+    <segment id="34">Esse grupo ficou com pontuação acima da nota de corte de 25% dos cursos nos quais é possível ingressar pelo Prouni.</segment>
+    <segment id="35">VEJA NOTAS MÁXIMAS</segment>
+    <segment id="36">, MÍNIMAS E MÉDIAS DO ENEM 2023     Área Mínima Média Máxima     Linguagens</segment>
+    <segment id="37">, códigos e suas tecnologias 287 516</segment>
+    <segment id="38">,2 820</segment>
+    <segment id="39">,8   Ciências humanas e suas tecnologias 289</segment>
+    <segment id="40">,9 522 823   Ciências da natureza e suas tecnologias 314</segment>
+    <segment id="41">,4 497</segment>
+    <segment id="42">,4 868</segment>
+    <segment id="43">,4   Matemática e suas tecnologias 319</segment>
+    <segment id="44">,8 534</segment>
+    <segment id="45">,9 958</segment>
+    <segment id="46">,6</segment>
+    <segment id="47">Redação 40 641</segment>
+    <segment id="48">,6 1000</segment>
+    <segment id="49">O que é e</segment>
+    <segment id="50">para que</segment>
+    <segment id="51">para que serve o EnemMais    novamente         de   de  de  representando</segment>
+    <segment id="52">um</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,101 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Bolsa brasileira garantiu mais um dia positivo e fechou em alta de 0</segment>
+    <segment id="2">,86%, aos 127.093 pontos</segment>
+    <segment id="3">, com impulso de empresas do setor de petróleo</segment>
+    <segment id="4">, que acompanharam a subida da commodity no exterior.</segment>
+    <segment id="5">A Petrobras</segment>
+    <segment id="6">, segunda maior empresa do Ibovespa</segment>
+    <segment id="7">, subiu 3</segment>
+    <segment id="8">,20% e foi o papel mais negociado da sessão.</segment>
+    <segment id="9">A maior alta do dia</segment>
+    <segment id="10">, porém</segment>
+    <segment id="11">porém, foi da PetroRio</segment>
+    <segment id="12">, que avançou 5</segment>
+    <segment id="13">,02%.O avanço ocorre depois de uma semana de forte queda de empresas do setor</segment>
+    <segment id="14">, após o petróleo cair ao seu menor patamar em cinco meses em meio a preocupações sobre a demanda.</segment>
+    <segment id="15">Com impulso do petróleo</segment>
+    <segment id="16">, o Ibovespa conseguiu superar o susto com dados de emprego mais fortes que o esperado nos Estados Unidos divulgados nesta sexta</segment>
+    <segment id="17">, que esfriou apostas de uma possível antecipação do ciclo de corte nos juros americanos.</segment>
+    <segment id="18">Com isso</segment>
+    <segment id="19">, a Bolsa brasileira até começou a sessão caindo e chegou a operar aos 125.600 pontos na mínima do dia.</segment>
+    <segment id="20">O movimento</segment>
+    <segment id="21">, no entanto</segment>
+    <segment id="22">, durou pouco: o Ibovespa</segment>
+    <segment id="23">sese recuperou e passou a subir logo no fim da manhã.</segment>
+    <segment id="24">Já o dólar foi beneficiado pelos novos dados de emprego e engatou alta no Brasil e no exterior.</segment>
+    <segment id="25">A moeda americana tende a subir com a perspectiva de juros mais altos nos EUA</segment>
+    <segment id="26">, já que taxas elevadas aumentam os rendimento da renda fixa americana e</segment>
+    <segment id="27">, consequentemente</segment>
+    <segment id="28">, atraem recursos para o país.</segment>
+    <segment id="29">Com isso</segment>
+    <segment id="30">, o dólar terminou a sessão em alta de 0</segment>
+    <segment id="31">,41%, cotado a R$ 4</segment>
+    <segment id="32">,929.Painel eletrônico na B3</segment>
+    <segment id="33">, a Bolsa de Valores de São Paulo - Nelson Almeida - 17.jun.2022/AFPSegundo o Departamento do Trabalho americano</segment>
+    <segment id="34">, foram criadas 199 mil vagas de trabalho fora do setor agrícola no país em novembro</segment>
+    <segment id="35">, resultado maior que os 180 mil postos projetados por economistas consultados pela Reuters.</segment>
+    <segment id="36">O número vem após uma série de dados mais fracos sobre emprego nos EUA que aumentaram apostas de uma antecipação do ciclo de corte de juros no país.</segment>
+    <segment id="37">"</segment>
+    <segment id="38">O dado surpreendeu</segment>
+    <segment id="39">, especialmente considerando que outros indicadores do mercado de trabalho divulgados durante a semana mostraram resultados menos robustos.</segment>
+    <segment id="40">Para o banco central norte-americano</segment>
+    <segment id="41">, o dado do payroll [relatório de emprego] é crucial e</segment>
+    <segment id="42">, ao superar as expectativas</segment>
+    <segment id="43">, é provável que o Fomc [comitê de política monetária americano] mantenha uma postura cautelosa na reunião da próxima semana"</segment>
+    <segment id="44">, afirma Gustavo Sung</segment>
+    <segment id="45">, economista-chefe da Suno Research.</segment>
+    <segment id="46">Apesar da surpresa</segment>
+    <segment id="47">, que causou sobressalto no mercado no início do dia</segment>
+    <segment id="48">, a avaliação é que o desvio não deve causar mudanças significativas no rumo da política de juros americana.</segment>
+    <segment id="49">Sung lembra</segment>
+    <segment id="50">, por exemplo</segment>
+    <segment id="51">, que os últimos dados mostraram arrefecimento da economia dos EUA e uma inflação em baixa</segment>
+    <segment id="52">, o que permite que o Fed (Federal Reserve</segment>
+    <segment id="53">, o banco central americano) não altere seu plano atual.</segment>
+    <segment id="54">Para Marcelo Oliveira</segment>
+    <segment id="55">, sócio-fundador da Quantzed</segment>
+    <segment id="56">, os dados não chegam a ter impacto significativo nas projeções.</segment>
+    <segment id="57">"</segment>
+    <segment id="58">Os juros americanos reagiram um pouco mal com treasuries subindo</segment>
+    <segment id="59">, masmas não muita coisa.</segment>
+    <segment id="60">Número veio acima do esperado</segment>
+    <segment id="61">, masmas não tanto acima.</segment>
+    <segment id="62">Algumas casas já trabalhavam com números acima de 200 mil</segment>
+    <segment id="63">, ou seja</segment>
+    <segment id="64">, é quase um número dentro do esperado ligeiramente negativo"</segment>
+    <segment id="65">, diz Oliveira.</segment>
+    <segment id="66">Já Danilo Igliori</segment>
+    <segment id="67">, economista-chefe da Nomad</segment>
+    <segment id="68">, afirma o aquecimento do mercado de trabalho americano pode trazer de volta discussões sobre um possível aumento de juros.  "</segment>
+    <segment id="69">A aceleração nas contratações e a queda no desemprego certamente aumentam a emoção nestes dias que antecedem a reunião do Fomc</segment>
+    <segment id="70">, e a possibilidade de mais um aumento volta ao radar.</segment>
+    <segment id="71">Mas acredito que as chances de manutenção da taxa de juros ainda permanecem altas"</segment>
+    <segment id="72">, diz o economista.</segment>
+    <segment id="73">Para Igliori</segment>
+    <segment id="74">, as principais dúvidas sobre os juros americanos devem recair sobre o início do ciclo de queda das taxas</segment>
+    <segment id="75">, e as apostas de redução já no primeiro trimestre de 2024 perderam força.</segment>
+  </rst>
+</analysis>

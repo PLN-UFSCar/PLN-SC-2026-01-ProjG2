@@ -1,0 +1,105 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente eleito</segment>
+    <segment id="2">, Luiz Inácio Lula da Silva (PT)</segment>
+    <segment id="3">, ironizou a reação negativa do mercado financeiro a suas críticas ao teto de gastos e à política de austeridade fiscal.</segment>
+    <segment id="4">Ele afirmou nunca ter visto mercado "tão sensível"</segment>
+    <segment id="5">comocomo o brasileiro.</segment>
+    <segment id="6">Lula falou com apoiadores ao deixar o CCBB (Centro Cultural Banco do Brasil)</segment>
+    <segment id="7">, sede do governo de transição.</segment>
+    <segment id="8">Presidente eleito</segment>
+    <segment id="9">, Luiz Inácio Lula da Silva (PT)</segment>
+    <segment id="10">, chora ao falar em sua meta de acabar com a fome no país - Ueslei Marcelino/ReutersDescontentamento de investidores</segment>
+    <segment id="11">, temendo a agenda fiscal do futuro governo após as falas do presidente desta manhã</segment>
+    <segment id="12">, contribuiu para a queda de 4% do Ibovespa</segment>
+    <segment id="13">, índice referência da Bolsa de Valores brasileira</segment>
+    <segment id="14">, aos 108.964 pontos.</segment>
+    <segment id="15">O dólar comercial à vista disparou 4</segment>
+    <segment id="16">,08% e fechou cotado a R$ 5</segment>
+    <segment id="17">,3960, na venda.  "</segment>
+    <segment id="18">O mercado fica nervoso à toa.</segment>
+    <segment id="19">Nunca vi o mercado tão sensível</segment>
+    <segment id="20">comocomo o nosso.</segment>
+    <segment id="21">É engraçado que esse mercado não ficou nervoso em quatro anos de [Jair] Bolsonaro (PL)"</segment>
+    <segment id="22">, respondeu Lula</segment>
+    <segment id="23">, após ser questionado por jornalistas sobre o desempenho da Bolsa e do dólar nesta quinta.</segment>
+    <segment id="24">O petista também falou sobre a terceira vitória em eleições presidenciais.</segment>
+    <segment id="25">"</segment>
+    <segment id="26">O povo brasileiro é extraordinário.</segment>
+    <segment id="27">Eu acho que esse povo está precisando um pouco de paz</segment>
+    <segment id="28">, um pouco de tranquilidade.</segment>
+    <segment id="29">Eu espero que a gente consiga restabelecer o sonho do país</segment>
+    <segment id="30">, só isso.</segment>
+    <segment id="31">"</segment>
+    <segment id="32">Em 30 de outubro</segment>
+    <segment id="33">, no primeiro discurso após ser eleito</segment>
+    <segment id="34">, Lula mostrou disposição de buscar pacificação com a metade do eleitorado que votou em Bolsonaro.</segment>
+    <segment id="35">A campanha foi marcada por episódios de hostilidade</segment>
+    <segment id="36">, em um nível de rivalidade inédito.  "</segment>
+    <segment id="37">A partir de 1º de janeiro de 2023 vou governar para 215 milhões de brasileiros e brasileiras.</segment>
+    <segment id="38">Não apenas para aqueles que votaram em mim.</segment>
+    <segment id="39">Não existem dois Brasis.</segment>
+    <segment id="40">Somos um único país</segment>
+    <segment id="41">, um único povo</segment>
+    <segment id="42">, uma grande nação"</segment>
+    <segment id="43">, afirmou na ocasião.</segment>
+    <segment id="44">Lula foi questionado por um apoiador sobre</segment>
+    <segment id="45">sese haveria perdão da dívida para o Fies (fundo de financiamento estudantil) de 2014.</segment>
+    <segment id="46">"</segment>
+    <segment id="47">Você tem que compreender que o Fies não é dívida</segment>
+    <segment id="48">, o Fies é um investimento social"</segment>
+    <segment id="49">, disse.</segment>
+    <segment id="50">Segundo dados do FNDE (Fundo Nacional de Desenvolvimento da Educação)</segment>
+    <segment id="51">, mais de 1 milhão de contratos do Fies estavam com atraso no pagamento das parcelas.</segment>
+    <segment id="52">Desse total</segment>
+    <segment id="53">, cerca de 890 mil devedores podiam solicitar a renegociação das dívidas.</segment>
+    <segment id="54">Em junho</segment>
+    <segment id="55">, Bolsonaro sancionou a medida provisória que prevê desconto na renegociação de dívidas do Fies.</segment>
+    <segment id="56">Os bancos são obrigados a conceder descontos que podem variar entre 12% e 99% para pagamento em parcela única.</segment>
+    <segment id="57">O saldo devedor pode ser parcelado em até 150 vezes</segment>
+    <segment id="58">, a depender da situação do estudante.</segment>
+    <segment id="59">A renegociação pode ser solicitada até o dia 31 de dezembro deste ano.</segment>
+    <segment id="60">No discurso feito pela manhã</segment>
+    <segment id="61">, o presidente eleito questionou "por que pessoas são levadas a sofrer para garantir a tal da estabilidade fiscal nesse país?</segment>
+    <segment id="62">".</segment>
+    <segment id="63">"</segment>
+    <segment id="64">Por que toda hora as pessoas dizem que é preciso cortar gasto</segment>
+    <segment id="65">, que é preciso fazer superávit</segment>
+    <segment id="66">, que é preciso ter teto de gastos?</segment>
+    <segment id="67">Por que a gente não estabelece um novo paradigma?</segment>
+    <segment id="68">", completou.</segment>
+    <segment id="69">Lula afirmou ainda que "algumas coisas encaradas</segment>
+    <segment id="70">comocomo gastos nesse país vão passar a ser vistas</segment>
+    <segment id="71">comocomo investimentos.</segment>
+    <segment id="72">"  "</segment>
+    <segment id="73">Não é possível que</segment>
+    <segment id="74">sese tenha cortado dinheiro da Farmácia Popular em nome que temos de cumprir a meta fiscal</segment>
+    <segment id="75">, cumprir a regra de ouro.</segment>
+    <segment id="76">Sabe qual é a regra de ouro nesse país?</segment>
+    <segment id="77">É garantir que nenhuma criança vá dormir sem tomar um copo de leite e acorde sem ter um pão com manteiga para comer todo dia.</segment>
+    <segment id="78">"</segment>
+    <segment id="79">Veja quem são os escolhidos por Lula para comandar transição na economiaMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

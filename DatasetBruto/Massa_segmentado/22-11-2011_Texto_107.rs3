@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Capivara é capturada embaixo da rampa de acesso ao STF
+RIO - Uma capivara foi capturada</segment>
+    <segment id="2">, nesta quarta-feira</segment>
+    <segment id="3">, na sede do Supremo Tribunal Federal (STF)</segment>
+    <segment id="4">, em Brasília.</segment>
+    <segment id="5">Assustada</segment>
+    <segment id="6">, ela se</segment>
+    <segment id="7">se escondeu embaixo da rampa de acesso à Corte.</segment>
+    <segment id="8">Seguranças encontraram o animal e chamaram a Polícia Ambiental do Distrito Federal para retirá-la do esconderijo.</segment>
+    <segment id="9">Às 16h</segment>
+    <segment id="10">, após ser dominada por agentes com uma rede</segment>
+    <segment id="11">, a capivara</segment>
+    <segment id="12">, que tinha um arranhão no focinho</segment>
+    <segment id="13">, foi levada para o Centro de Triagem de Animais Silvestres (Cetas).</segment>
+    <segment id="14">Lá, ela passará por um exame.</segment>
+    <segment id="15">Se não estiver bem</segment>
+    <segment id="16">, vai ser encaminhada ao Zoológico de Brasília.</segment>
+  </rst>
+</analysis>

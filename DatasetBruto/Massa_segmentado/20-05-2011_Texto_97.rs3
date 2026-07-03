@@ -1,0 +1,111 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Dólar desvalorizado eleva lucro de empresas em 11</segment>
+    <segment id="2">,9%</segment>
+    <segment id="3">SÃO PAULO - As empresas listadas em Bolsa começaram o ano com lucro 11</segment>
+    <segment id="4">,9% maior no primeiro trimestre</segment>
+    <segment id="5">, em comparação com mesmo período do ano passado.</segment>
+    <segment id="6">O resultado refletiu os ganhos com a desvalorização do dólar</segment>
+    <segment id="7">, que ajudou a reduzir gastos com a dívida em moeda estrangeira.</segment>
+    <segment id="8">Mas o bom desempenho do começo do ano dificilmente deverá</segment>
+    <segment id="9">sese manter nos próximos trimestres</segment>
+    <segment id="10">, de acordo com analistas ouvidos pelo GLOBO.</segment>
+    <segment id="11">Isso por causa das incertezas sobre a recuperação da economia global e a possibilidade de uma desaceleração da economia brasileira</segment>
+    <segment id="12">, a partir da luta do Banco Central (BC) contra a inflação</segment>
+    <segment id="13">, informa reportagem de Paulo Justus.</segment>
+    <segment id="14">LEIA TAMBÉM:</segment>
+    <segment id="15">Mantega descarta novas medidas para conter consumo
+VALE APÓS AGNELLI:</segment>
+    <segment id="16">Ferreira mantém plano de investimentos para 2011 e defende siderúrgica
+DE JANEIRO</segment>
+    <segment id="17">A MARÇO:</segment>
+    <segment id="18">Petrobras lucrou R$ 10</segment>
+    <segment id="19">,9 bilhões no primeiro trimestre</segment>
+    <segment id="20">Um levantamento da empresa de informações financeiras</segment>
+    <segment id="21">Economática mostra que o lucro líquido de 243 companhias de capital aberto chegou a R$ 16</segment>
+    <segment id="22">,2 bilhões no primeiro trimestre.</segment>
+    <segment id="23">Para não distorcer o resultado</segment>
+    <segment id="24">, o estudo exclui os bancos e não considera Vale e Petrobras - que</segment>
+    <segment id="25">, juntas</segment>
+    <segment id="26">, lucraram R$ 22</segment>
+    <segment id="27">,3 bilhões no período.</segment>
+    <segment id="28">Para Fernando Exel</segment>
+    <segment id="29">, presidente da Economática</segment>
+    <segment id="30">, o aumento do lucro está relacionado principalmente à desvalorização do dólar</segment>
+    <segment id="31">, que teve uma queda de 8</segment>
+    <segment id="32">,55% no primeiro trimestre de 2011</segment>
+    <segment id="33">, em comparação com o mesmo período do ano passado.</segment>
+    <segment id="34">Ela reduziu o valor da dívida estrangeira medida em reais nos balanços das empresas.
+- Se o dólar cai</segment>
+    <segment id="35">, o valor da dívida em reais fica menor e é contabilizado</segment>
+    <segment id="36">comocomo receita financeira.</segment>
+    <segment id="37">Com essa melhoria</segment>
+    <segment id="38">, as empresas gastaram R$ 1</segment>
+    <segment id="39">,1 bilhão a menos este ano - disse Exel.</segment>
+    <segment id="40">Lucro operacional apresenta crescimento modesto</segment>
+    <segment id="41">O lucro operacional</segment>
+    <segment id="42">, que desconta esse efeito financeiro no resultado</segment>
+    <segment id="43">, teve um crescimento modesto no período analisado: 1</segment>
+    <segment id="44">,4% em relação ao primeiro trimestre de 2010.</segment>
+    <segment id="45">Isso significa que houve redução da margem das empresas no período</segment>
+    <segment id="46">, embora</segment>
+    <segment id="47">embora as vendas tenham crescido 14% no trimestre.</segment>
+    <segment id="48">Na prática</segment>
+    <segment id="49">, as companhias tiveram de vender mais para igualar o lucro do ano passado.</segment>
+    <segment id="50">Segundo Exel</segment>
+    <segment id="51">, essa queda de margem pode ter sido motivada pela alta de custos com insumos e mão de obra que não foram totalmente repassados ao consumidor final.</segment>
+    <segment id="52">Os setores de transporte e siderurgia contribuíram para reduzir a margem global da amostra analisada.</segment>
+    <segment id="53">No caso</segment>
+    <segment id="54">caso dos transportes</segment>
+    <segment id="55">, o lucro operacional teve queda de 23</segment>
+    <segment id="56">,7% no primeiro trimestre de 2010 em relação ao mesmo período do ano passado</segment>
+    <segment id="57">, graças à alta do preço do petróleo</segment>
+    <segment id="58">, que pressionou os custos das companhias aéreas.</segment>
+    <segment id="59">Já na siderurgia</segment>
+    <segment id="60">, a desvalorização do dólar contribuiu para a queda de 16</segment>
+    <segment id="61">,1% no lucro operacional do período.</segment>
+    <segment id="62">Esse cenário de apreensão em relação ao aumento dos custos e às incertezas no cenário internacional impactou principalmente o valor das ações.</segment>
+    <segment id="63">No primeiro trimestre</segment>
+    <segment id="64">, o Ibovespa</segment>
+    <segment id="65">, índice que reúne os papéis mais negociados</segment>
+    <segment id="66">, caiu 1% frente os últimos três meses do ano passado.</segment>
+    <segment id="67">De acordo com a gerente comercial da Lerosa Investimentos</segment>
+    <segment id="68">, Alexandra Almawi</segment>
+    <segment id="69">, os próximos trimestres devem apresentar resultados mais fracos por causa das medidas do Banco Central para reduzir a demanda e combater a inflação.
+- A construção civil sofreu muito com as medidas do Banco Central</segment>
+    <segment id="70">, porque</segment>
+    <segment id="71">porque muito</segment>
+    <segment id="72">sese especulou sobre a questão do crédito secar para esse setor.</segment>
+    <segment id="73">O setor de consumo também sofreu com receio de falta de crédito</segment>
+    <segment id="74">, alta da inflação e aumento da inadimplência - disse.</segment>
+    <segment id="75">Ainda segundo Alexandra</segment>
+    <segment id="76">, o desempenho dos papéis brasileiros está relacionado à melhora da bolsa americana.</segment>
+    <segment id="77">Ela destacou que</segment>
+    <segment id="78">, no primeiro trimestre</segment>
+    <segment id="79">, 72% das ações mais negociadas na Bolsa de Nova York tiveram desempenho acima da média</segment>
+    <segment id="80">, contra 46% das empresas negociadas no Ibovespa.</segment>
+    <segment id="81">Isso levou a uma fuga de capital externo da bolsa brasileira no período.</segment>
+  </rst>
+</analysis>

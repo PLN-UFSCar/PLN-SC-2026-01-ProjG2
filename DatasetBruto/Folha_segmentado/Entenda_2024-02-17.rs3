@@ -1,0 +1,158 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Se você já investiu em fundo multimercado</segment>
+    <segment id="2">, de ações ou algum produto de risco</segment>
+    <segment id="3">, já ouviu o termo volatilidade.</segment>
+    <segment id="4">Ele é frequentemente usado</segment>
+    <segment id="5">comocomo uma medida de risco.</segment>
+    <segment id="6">Sabemos que quanto maior a volatilidade</segment>
+    <segment id="7">, maior é o risco.</segment>
+    <segment id="8">Entretanto</segment>
+    <segment id="9">, muitos têm dificuldade para relacionar o nível da volatilidade com o possível impacto no portfólio.</segment>
+    <segment id="10">Vou simplificar essa relação.</segment>
+    <segment id="11">Entender o risco é o primeiro passo para investir de maneira inteligente e segura.</segment>
+    <segment id="12">REUTERS/Peter Nicholls/File Photo ORG XMIT: FW1 - REUTERSQuando falamos de volatilidade nos investimentos</segment>
+    <segment id="13">, estamos nos referindo às oscilações nos preços dos ativos.</segment>
+    <segment id="14">Fazendo uma analogia</segment>
+    <segment id="15">, imagine que você está em um barco em alto mar.</segment>
+    <segment id="16">A volatilidade seria o tamanho das ondas que balançam seu barco.</segment>
+    <segment id="17">Algumas ondas são pequenas e quase não sentimos</segment>
+    <segment id="18">, enquanto outras são grandes e podem nos fazer sentir desconfortáveis ou até nos derrubar.</segment>
+    <segment id="19">No mundo dos investimentos</segment>
+    <segment id="20">, essas "ondas" são as variações nos preços dos ativos: ações</segment>
+    <segment id="21">, moedas</segment>
+    <segment id="22">, commodities</segment>
+    <segment id="23">, entre outros.</segment>
+    <segment id="24">Assim, sabemos ondas grandes podem causar mais danos.</segment>
+    <segment id="25">Entretanto</segment>
+    <segment id="26">comocomo medir o possível impacto de cada onda em nossa embarcação para podermos melhor escolher quão longe podemos adentrar no mar dos investimentos?</segment>
+    <segment id="27">Para entender melhor o impacto da volatilidade no seu portfólio</segment>
+    <segment id="28">, podemos usar uma medida chamada Value at Risk (VaR)</segment>
+    <segment id="29">, ou Valor em Risco.</segment>
+    <segment id="30">Ela é uma ferramenta amplamente utilizada por investidores institucionais.</segment>
+    <segment id="31">O VaR é uma forma de dizer "com base no que sabemos até agora</segment>
+    <segment id="32">, aqui está o máximo que podemos esperar perder em um determinado período".</segment>
+    <segment id="33">É como</segment>
+    <segment id="34">como se</segment>
+    <segment id="35">se estivéssemos dizendo:</segment>
+    <segment id="36">"</segment>
+    <segment id="37">Considerando o tamanho das ondas (volatilidade)</segment>
+    <segment id="38">, qual é o pior impacto que uma onda</segment>
+    <segment id="39">, ou seja</segment>
+    <segment id="40">, resultado podemos esperar com uma certa confiança?</segment>
+    <segment id="41">"</segment>
+    <segment id="42">O VaR é uma maneira simples de calcular esse risco.</segment>
+    <segment id="43">Ele depende de três fatores principais: a volatilidade do investimento (quão grandes são as ondas) e a média dos retornos (a direção geral para onde o barco está indo) e de um multiplicador que está relacionado à confiança que você deseja ter no número.  Vamos falar primeiro sobre o multiplicador.</segment>
+    <segment id="44">A escolha do multiplicador está relacionada à confiança que</segment>
+    <segment id="45">sese deseja que haverá menores ou maiores probabilidades de perdas piores que a identificada.</segment>
+    <segment id="46">Por exemplo</segment>
+    <segment id="47">, sese você deseja ter 95% de confiança no número</segment>
+    <segment id="48">, só haverá 5% de probabilidade de haver perdas piores que a calculada.</segment>
+    <segment id="49">Já para 90% de confiança</segment>
+    <segment id="50">, há 10% de probabilidade de ocorrerem perdas piores que a encontrada.</segment>
+    <segment id="51">Assim quanto mais conservador</segment>
+    <segment id="52">, maior o grau de confiança a ser usado.</segment>
+    <segment id="53">A prática em investimentos é</segment>
+    <segment id="54">sese utilizar um número de 95% de confiança.</segment>
+    <segment id="55">Suponha que você tenha um investimento com uma média de retorno de 1% ao mês e uma volatilidade de 6% ao ano.</segment>
+    <segment id="56">Concorda que fica difícil dizer o que representa a volatilidade?</segment>
+    <segment id="57">Primeiro</segment>
+    <segment id="58">, precisamos transformar esta volatilidade anual em uma medida mensal.</segment>
+    <segment id="59">Para isso</segment>
+    <segment id="60">, basta você dividir por raiz de 12.</segment>
+    <segment id="61">Assim, uma volatilidade de 6% ao ano</segment>
+    <segment id="62">, equivale a 1</segment>
+    <segment id="63">,7% ao mês (= 6%/(raiz(12)).</segment>
+    <segment id="64">Usando o VaR</segment>
+    <segment id="65">, queremos saber:</segment>
+    <segment id="66">"</segment>
+    <segment id="67">Qual é o pior resultado que podemos esperar em um mês</segment>
+    <segment id="68">, com 95% de confiança?</segment>
+    <segment id="69">"  Para 95% de confiança</segment>
+    <segment id="70">, o valor do multiplicador é de aproximadamente 1</segment>
+    <segment id="71">,65.</segment>
+    <segment id="72">Para 90% de confiança</segment>
+    <segment id="73">, o multiplicador seria de 1</segment>
+    <segment id="74">,28.</segment>
+    <segment id="75">A fórmula para o VaR é:</segment>
+    <segment id="76">VaR = retorno médio - multiplicador * Volatilidade  Portanto</segment>
+    <segment id="77">, aplicando os números do nosso exemplo: VaR = 1% - 1</segment>
+    <segment id="78">,65 * 1</segment>
+    <segment id="79">,7% = - 1</segment>
+    <segment id="80">,8%</segment>
+    <segment id="81">Isso significa que</segment>
+    <segment id="82">, com 95% de confiança</segment>
+    <segment id="83">, o pior que podemos esperar de resultado em um mês qualquer é perder 1</segment>
+    <segment id="84">,8% do valor do nosso investimento.</segment>
+    <segment id="85">Vamos ver mais um exemplo para fixar.</segment>
+    <segment id="86">Avaliando de forma anual e usando outro exemplo</segment>
+    <segment id="87">, imagine que você tem uma carteira com volatilidade de 3% ao ano e você tem um retorno médio próximo do CDI</segment>
+    <segment id="88">, ou seja de 11</segment>
+    <segment id="89">,15% ao ano.</segment>
+    <segment id="90">Com 95% de confiança</segment>
+    <segment id="91">, seu pior resultado em um ano seria de 6</segment>
+    <segment id="92">,2% positivo (= 11</segment>
+    <segment id="93">,15% - 1</segment>
+    <segment id="94">,65 * 3%).</segment>
+    <segment id="95">Ou seja</segment>
+    <segment id="96">, com 95% de confiança</segment>
+    <segment id="97">, em um pior</segment>
+    <segment id="98">casocaso esperado</segment>
+    <segment id="99">, seu portfólio renderia apenas 56% do CDI.</segment>
+    <segment id="100">Também é possível usar o VaR para entender a possibilidade de impacto positivo.</segment>
+    <segment id="101">Nesse caso</segment>
+    <segment id="102">caso, seria necessário somar o produto na fórmula em vez de subtrair.</segment>
+    <segment id="103">Usando o mesmo exemplo anterior</segment>
+    <segment id="104">, com 95% de confiança</segment>
+    <segment id="105">, seu portfólio poderia render em um ano até 16</segment>
+    <segment id="106">,1% (= 11</segment>
+    <segment id="107">,15% + 1</segment>
+    <segment id="108">,65 * 3%)</segment>
+    <segment id="109">, ou seja</segment>
+    <segment id="110">, 144% do CDI.</segment>
+    <segment id="111">Esse seria o melhor resultado esperado com 95% de confiança.</segment>
+    <segment id="112">Entender o VaR é crucial</segment>
+    <segment id="113">porque</segment>
+    <segment id="114">porque nos dá uma visão clara do pior cenário possível (dentro de um certo nível de confiança).</segment>
+    <segment id="115">Também pode nos ajudar a interpretar o lado positivo para entendermos qual ganho em excesso podemos ter e</segment>
+    <segment id="116">sese estamos dispostos a enfrentar um determinado risco para poder obtê-lo.</segment>
+    <segment id="117">Pelo exemplo utilizado</segment>
+    <segment id="118">, sese você sabe que</segment>
+    <segment id="119">, no pior</segment>
+    <segment id="120">casocaso</segment>
+    <segment id="121">, pode ter um retorno de até 56% CDI em seu investimento em um ano</segment>
+    <segment id="122">, isso pode ajudá-lo a decidir</segment>
+    <segment id="123">sese esse nível de risco é aceitável para você e seus objetivos financeiros.</segment>
+    <segment id="124">Para investidores</segment>
+    <segment id="125">, essa é uma ferramenta valiosa.</segment>
+    <segment id="126">Ela permite avaliar o risco de forma mais concreta</segment>
+    <segment id="127">, ajudando a tomar decisões mais seguras sobre onde colocar seu dinheiro.</segment>
+    <segment id="128">Lembre-</segment>
+    <segment id="129">sese, entender o risco é o primeiro passo para investir de maneira inteligente e segura.</segment>
+    <segment id="130">Michael Viriato é assessor de investimentos e sócio fundador da Casa do Investidor.</segment>
+    <segment id="131">Fale direto comigo no e-mail.  Siga e curta o De Grão em Grão nas redes sociais.</segment>
+    <segment id="132">Acompanhe as lições de investimentos no Instagram.</segment>
+  </rst>
+</analysis>

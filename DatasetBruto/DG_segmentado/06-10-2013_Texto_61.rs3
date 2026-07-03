@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">ViolÃªncia na Capital</segment>
+    <segment id="2">Detento do semiaberto</segment>
+    <segment id="3">Ã© executado com pelo menos sete tiros na Restinga
+VÃ­tima estava utilizando uma tornozeleira eletrÃ´nica desde o dia 2 de outubro</segment>
+    <segment id="4">Eduardo Torres
+eduardo.torres@diariogaucho.com.br</segment>
+    <segment id="5">Um homem de 25 anos foi morto por volta das 14h30min deste domingo</segment>
+    <segment id="6">, na Rua Chapatral</segment>
+    <segment id="7">, bairro Restinga</segment>
+    <segment id="8">, na Zona Sul da Capital.</segment>
+    <segment id="9">Detento do regime semiaberto</segment>
+    <segment id="10">, o jovem estaria caminhando na rua quando foi atingido por pelo menos sete disparos de arma de fogo originados de um carro preto</segment>
+    <segment id="11">, possivelmente um Ka.</segment>
+    <segment id="12">JerÃ´nimo Santos SimÃ£o estava cumprindo pena em regime semiaberto</segment>
+    <segment id="13">, com uso de tornozeleira eletrÃ´nica desde o dia 2 de outubro.</segment>
+    <segment id="14">Este foi o terceiro homicÃ­dio no bairro neste fim de semana.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,143 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O INSS (Instituo Nacional do Seguro Social) está notificando 4.351.557 beneficiários nascidos em janeiro</segment>
+    <segment id="2">, fevereiro e março em todo país para comprovar que estão vivos.</segment>
+    <segment id="3">São pessoas que o instituto não conseguiu localizar em nenhuma base de dados para fazer o procedimento chamado de prova de vida.</segment>
+    <segment id="4">O segurado está sendo notificado pelo aplicativo</segment>
+    <segment id="5">Meu INSS</segment>
+    <segment id="6">, pela Central 135</segment>
+    <segment id="7">, e/ou no banco onde recebe o benefício.</segment>
+    <segment id="8">Assim que receber a notificação</segment>
+    <segment id="9">, o segurado tem até 60 dias para procurar o INSS ou o banco onde recebe o benefício para realizar a prova de vida.</segment>
+    <segment id="10">Após este prazo</segment>
+    <segment id="11">, o pagamento poderá ser bloqueado.</segment>
+    <segment id="12">INSS é responsável por verificar</segment>
+    <segment id="13">sese beneficiário está vivo e pode continuar recebendo pagamentos - Antonio Molina/FolhapressSegundo o INSS</segment>
+    <segment id="14">, já foram notificadas 3.089.043 pessoas nascidas em janeiro e fevereiro.</segment>
+    <segment id="15">Nesta quinta-feira (1º) será a vez de 1.262.514 que fazem aniversário em março que estão há mais de 12 meses sem realizar a prova de vida.</segment>
+    <segment id="16">Desde janeiro de 2023</segment>
+    <segment id="17">, os beneficiários do INSS não precisam ir ao banco para fazer a prova de vida anual.</segment>
+    <segment id="18">Cabe ao órgão previdenciário cruzar informações das bases de dados de órgãos</segment>
+    <segment id="19">, entidades ou instituições</segment>
+    <segment id="20">, mantidos ou administrados pelos órgãos públicos federais</segment>
+    <segment id="21">, estaduais</segment>
+    <segment id="22">, municipais e privadas para checar</segment>
+    <segment id="23">sese os segurados estão vivos.</segment>
+    <segment id="24">São usadas informações</segment>
+    <segment id="25">comocomo acesso ao aplicativo</segment>
+    <segment id="26">Meu INSS com o selo ouro</segment>
+    <segment id="27">, contratação de empréstimo consignado por reconhecimento biométrico</segment>
+    <segment id="28">, realização de perícia médica</segment>
+    <segment id="29">, vacinação</segment>
+    <segment id="30">, atualizações no CadÚnico (cadastro para programas sociais do governo federal) e declaração do Imposto de Renda.</segment>
+    <segment id="31">Para servidores públicos federais inativos e pensionistas da União a prova de vida é feita nos aplicativos Sougov.br e Gov.br ou na agência bancária onde o pagamento é realizado.</segment>
+    <segment id="32">O procedimento deve ser feito no mês de aniversário do servidor beneficiário.</segment>
+    <segment id="33">Saiba como</segment>
+    <segment id="34">como fazer a prova de vidaComo está sendo feita a prova de vidaCOMO SABER</segment>
+    <segment id="35">SE PRECISA FAZER</segment>
+    <segment id="36">A PROVA DE VIDAÉ possível fazer a prova de vida pela internetPosso fazer a prova de vida no bancoQual é a data para fazer a prova de vidaO</segment>
+    <segment id="37">QUE VALE COMO COMPROVANTECOMO SABER SE PRECISA FAZER</segment>
+    <segment id="38">A PROVA DE VIDA</segment>
+    <segment id="39">O beneficiário pode acessar o site ou aplicativo</segment>
+    <segment id="40">Meu INSS ou ligar para a Central 135 para conferir a última confirmação de vida feita pelo INSS.</segment>
+    <segment id="41">Caso o órgão não tenha conseguido a comprovação após dez meses do aniversário</segment>
+    <segment id="42">, o INSS enviará uma notificação pelo aplicativo</segment>
+    <segment id="43">, pela Central 135 ou pelo banco</segment>
+    <segment id="44">, e o segurado terá 60 dias para executar algum dos procedimentos que valem</segment>
+    <segment id="45">comocomo prova de vida.</segment>
+    <segment id="46">É POSSÍVEL FAZER</segment>
+    <segment id="47">A PROVA DE VIDA PELA INTERNET</segment>
+    <segment id="48">Sim, por meio do aplicativo</segment>
+    <segment id="49">Meu INSS</segment>
+    <segment id="50">, que pode ser baixado nas lojas Play Store (Android) e App Store (iOS).</segment>
+    <segment id="51">O desenvolvedor é Serviços e Informações do Brasil.</segment>
+    <segment id="52">É preciso ter cadastro no Portal Gov.br para conseguir o acesso no celular e no site.</segment>
+    <segment id="53">Clique aqui para saber</segment>
+    <segment id="54">comocomo criar uma conta.</segment>
+    <segment id="55">VEJA</segment>
+    <segment id="56">O PASSO</segment>
+    <segment id="57">A PASSO:   Entre no Meu INSS</segment>
+    <segment id="58">Informe seu CPF e senha Clique em "</segment>
+    <segment id="59">Do que você precisa?</segment>
+    <segment id="60">" e escreva "</segment>
+    <segment id="61">Prova de vida"</segment>
+    <segment id="62">Caso tenha biometria coletada no TSE ou Denatran</segment>
+    <segment id="63">, será possível fazer a prova de vida digital em conjunto com o aplicativo Gov.br.</segment>
+    <segment id="64">Caso não tenha biometria</segment>
+    <segment id="65">, não será possível realizar a prova de vida pelo Meu INSS</segment>
+    <segment id="66">Para quem tem a biometria</segment>
+    <segment id="67">, haverá instruções para fazer o reconhecimento facial.</segment>
+    <segment id="68">Com o procedimento feito</segment>
+    <segment id="69">, clique em "Ok" e aparecerá uma mensagem dizendo que a prova de vida foi autorizada.</segment>
+    <segment id="70">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="71">; aberta para não assinantes.</segment>
+    <segment id="72">Carregando...</segment>
+    <segment id="73">POSSO FAZER</segment>
+    <segment id="74">A PROVA DE VIDA NO BANCO  Sim</segment>
+    <segment id="75">, masmas o procedimento não é mais obrigatório</segment>
+    <segment id="76">, pois</segment>
+    <segment id="77">pois cabe ao INSS comprovar que o segurado está vivo.</segment>
+    <segment id="78">Se quiser</segment>
+    <segment id="79">, o beneficiário pode ir presencialmente a uma agência da Previdência Social ou então ao banco onde recebe o pagamento.</segment>
+    <segment id="80">Há também a possibilidade de a comprovação ser feita por meio de um procurador cadastrado no INSS</segment>
+    <segment id="81">, caso</segment>
+    <segment id="82">caso o segurado não possa comparecer presencialmente por doença</segment>
+    <segment id="83">, internação ou dificuldade de locomoção.</segment>
+    <segment id="84">O QUE VALE COMO COMPROVANTE</segment>
+    <segment id="85">Acessar o aplicativo</segment>
+    <segment id="86">Meu INSS ou apps que tenham certificação e controle de acesso Atendimento em Agência da Previdência Social Receber</segment>
+    <segment id="87">pagamento de benefício com biometria</segment>
+    <segment id="88">Fazer empréstimo consignado com biometria Fazer atualizações no Cadastro Único (CadÚnico)</segment>
+    <segment id="89">Os segurados ainda podem realizar a prova de vida presencialmente</segment>
+    <segment id="90">, em agências bancárias e unidades do INSS</segment>
+    <segment id="91">Saiba quais dados são cruzados na prova de vida do INSSMais    novamente         de   de  de  representando um  QUAL</segment>
+    <segment id="92">É A DATA PARA FAZER</segment>
+    <segment id="93">A PROVA DE VIDA</segment>
+    <segment id="94">O INSS tem dez meses</segment>
+    <segment id="95">, a partir da data de aniversário do segurado</segment>
+    <segment id="96">, para obter a comprovação.</segment>
+    <segment id="97">Se não conseguir</segment>
+    <segment id="98">, o órgão notifica o beneficiário por meio do aplicativo</segment>
+    <segment id="99">Meu INSS</segment>
+    <segment id="100">, da Central 135 ou por comunicado do banco</segment>
+    <segment id="101">para que</segment>
+    <segment id="102">para que realize</segment>
+    <segment id="103">, em até 60 dias</segment>
+    <segment id="104">, algum dos procedimentos que constam no cruzamento de dados.</segment>
+    <segment id="105">Caso o procedimento não seja feito</segment>
+    <segment id="106">, o INSS enviará um servidor ao endereço que consta no cadastro do segurado para a realização da prova de vida.</segment>
+    <segment id="107">Por isso</segment>
+    <segment id="108">, o beneficiário deve manter seus dados atualizados pelo aplicativo ou pelo site</segment>
+    <segment id="109">Meu INSS.</segment>
+    <segment id="110">Se não obtiver sucesso</segment>
+    <segment id="111">, o instituto notificará o beneficiário e bloqueará o pagamento por 30 dias.</segment>
+    <segment id="112">Neste período</segment>
+    <segment id="113">, o segurado pode realizar a prova de vida na rede bancária</segment>
+    <segment id="114">, usando a biometria em um caixa eletrônico ou indo presencialmente a uma agência do INSS.</segment>
+    <segment id="115">Caso ainda não haja a comprovação de vida</segment>
+    <segment id="116">, o benefício será suspenso após 30 dias.</segment>
+    <segment id="117">A permanência da suspensão por seis meses levará ao cancelamento da renda previdenciária.</segment>
+  </rst>
+</analysis>

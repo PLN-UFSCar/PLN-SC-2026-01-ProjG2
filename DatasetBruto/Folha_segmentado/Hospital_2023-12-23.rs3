@@ -1,0 +1,50 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O hospital particular Memorial São José</segment>
+    <segment id="2">, localizado no bairro do Derby</segment>
+    <segment id="3">, no Recife</segment>
+    <segment id="4">, registrou um vazamento de gás e um princípio de incêndio na noite desta sexta-feira (22).</segment>
+    <segment id="5">A unidade hospitalar teve que ser evacuada e os pacientes foram retirados às pressas</segment>
+    <segment id="6">, formando filas de leitos na entrada do hospital.</segment>
+    <segment id="7">Hospital Memorial São José</segment>
+    <segment id="8">, no Recife</segment>
+    <segment id="9">, é evacuado após princípio de incêndio - Reprodução / TV Globo</segment>
+    <segment id="10">O hospital informou que funcionário de uma empresa terceirizada sofreu queimaduras leves nos braços e foi atendido.</segment>
+    <segment id="11">Todos os pacientes foram transferidos para outras unidades de saúde de Recife.</segment>
+    <segment id="12">"</segment>
+    <segment id="13">Estamos monitorando esses pacientes</segment>
+    <segment id="14">, bem como</segment>
+    <segment id="15">como nossos funcionários e trabalhando na recuperação das condições operacionais do hospital"</segment>
+    <segment id="16">, informou</segment>
+    <segment id="17">, em nota</segment>
+    <segment id="18">, o Hospital Memorial São José.</segment>
+    <segment id="19">De acordo com o Corpo de Bombeiros de Pernambuco</segment>
+    <segment id="20">, houve um princípio de incêndio na sala da máquina de ressonância e um posterior vazamento de uma grande quantidade de gás.</segment>
+    <segment id="21">Ainda conforme o Corpo de Bombeiros</segment>
+    <segment id="22">, o vazamento atingiu hospital e ruas próximas</segment>
+    <segment id="23">, atrapalhando a visibilidade do ambiente.</segment>
+    <segment id="24">O hospital informou que o incêndio foi restrito ao local onde ficava o aparelho de ressonância.</segment>
+  </rst>
+</analysis>

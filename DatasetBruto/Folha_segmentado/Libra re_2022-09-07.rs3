@@ -1,0 +1,56 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A libra esterlina britânica recuou para o seu nível mais baixo em relação ao dólar norte-americano desde 1985 nesta quarta-feira</segment>
+    <segment id="2">, ampliando a queda à medida que investidores</segment>
+    <segment id="3">sese desfaziam de ativos britânicos diante de uma perspectiva econômica sombria e do dólar em alta.</segment>
+    <segment id="4">A libra tem sido duramente atingida pelo aumento da inflação</segment>
+    <segment id="5">, uma recessão iminente e temores de que cortes de impostos e ampliação dos gastos públicos sob o novo governo possam exacerbar as pressões sobre os preços.</segment>
+    <segment id="6">A moeda</segment>
+    <segment id="7">, que caiu mais de 15% em relação ao dólar até agora neste ano</segment>
+    <segment id="8">, também é uma dor de cabeça para o banco central da Inglaterra</segment>
+    <segment id="9">, uma vez que isso aumenta o custo das importações e pode causar mais inflação importada.</segment>
+    <segment id="10">Notas de dólar dos EUA e libra esterlina do Reino Unido - Dado Ruvic - 6.jan.2020/Reuters</segment>
+    <segment id="11">A moeda chegou a recuar a US$ 1</segment>
+    <segment id="12">,1407, o menor patamar desde 1985</segment>
+    <segment id="13">, de acordo com dados da Refinitiv.</segment>
+    <segment id="14">Mais tarde</segment>
+    <segment id="15">, a libra caía 0</segment>
+    <segment id="16">,4%, a US$ 1</segment>
+    <segment id="17">,1475, recuperando algum terreno.</segment>
+    <segment id="18">"</segment>
+    <segment id="19">Por enquanto</segment>
+    <segment id="20">, o momento é muito negativo.</segment>
+    <segment id="21">Espero que os movimentos tenham sido tão violentos que o Banco da Inglaterra não goste disso e possa ser mais hawkish (agressivo contra a alta dos preços)"</segment>
+    <segment id="22">, disse Jan von Gerich</segment>
+    <segment id="23">, analista-chefe da Nordea.</segment>
+    <segment id="24">"</segment>
+    <segment id="25">Pode haver uma recuperação da libra esterlina</segment>
+    <segment id="26">, masmas eu não a compraria por agora"</segment>
+    <segment id="27">, ele acrescentou.</segment>
+    <segment id="28">A libra esterlina atingiu uma mínima histórica de US$ 1</segment>
+    <segment id="29">,0545 em março de 1985</segment>
+    <segment id="30">, pouco antes de as potências do G7 agirem para conter o superdólar da era Reagan no chamado "Acordo de Plaza".</segment>
+  </rst>
+</analysis>

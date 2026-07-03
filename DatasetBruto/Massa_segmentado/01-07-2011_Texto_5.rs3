@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Cotista e aluno do Pro-Uni vão pagar meia tarifa de ônibus a partir de agosto</segment>
+    <segment id="2">RIO - Cerca de 30 mil universitários bolsistas do Pro-Uni ou incluídos em políticas de cotas de instituições de ensino superior começarão a usufruir em agosto do benefício de pagar apenas meia passagem nas linhas de ônibus do Rio.</segment>
+    <segment id="3">A regulamentação do benefício foi publicada na sexta-feira no Diário Oficial do município.</segment>
+    <segment id="4">Para ter direito ao desconto</segment>
+    <segment id="5">, os estudantes devem procurar</segment>
+    <segment id="6">, a partir do dia 15</segment>
+    <segment id="7">, um dos oito postos de cadastro ou recarga do vale-transporte eletrônico (Riocard) com os seguintes documentos: carteira de identidade</segment>
+    <segment id="8">; CPF; e comprovantes de residência e de matrícula em instituição de ensino superior na cidade do Rio.</segment>
+    <segment id="9">O estudante também deverá apresentar a Carteira de Identidade Estudantil (CIE) emitida pela União Nacional dos Estudantes e pela União Estadual dos Estudantes do Rio.</segment>
+    <segment id="10">Os usuários receberão um cartão magnético recarregável</segment>
+    <segment id="11">, batizado de Bilhete Único Carioca Universitário.</segment>
+    <segment id="12">Com ele</segment>
+    <segment id="13">, o usuário poderá fazer duas viagens por dia</segment>
+    <segment id="14">, masmas apenas durante a semana.</segment>
+    <segment id="15">O cartão não é aceito sábados</segment>
+    <segment id="16">, domingos e feriados.</segment>
+    <segment id="17">Os 50% restantes do valor da passagem serão arcados pela prefeitura que deverá repassar cerca de R$ 6 milhões por ano às empresas de ônibus.</segment>
+  </rst>
+</analysis>

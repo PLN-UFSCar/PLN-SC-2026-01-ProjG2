@@ -1,0 +1,76 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O PIB (Produto Interno Bruto) é um dos principais indicadores de uma economia.</segment>
+    <segment id="2">Ele revela o valor adicionado à economia em um determinado período.</segment>
+    <segment id="3">O PIB pode ser calculado pela ótica da oferta e pela ótica da demanda.</segment>
+    <segment id="4">Os métodos devem apresentar o mesmo resultado.</segment>
+    <segment id="5">Vamos dar um exemplo de cálculo pela ótica da oferta</segment>
+    <segment id="6">, também chamada de ótica da produção.</segment>
+    <segment id="7">Imagine que o IBGE queira calcular a produção gerada por um artesão que cobra R$ 30 por uma escultura de mármore.</segment>
+    <segment id="8">Para fazer a escultura</segment>
+    <segment id="9">, ele usou mármore e martelo e teve que adquiri-los da indústria.</segment>
+    <segment id="10">O preço de R$ 30 traz embutidos os custos das matérias-primas utilizadas.</segment>
+    <segment id="11">Se o mármore e o martelo custaram R$ 20</segment>
+    <segment id="12">, a contribuição do artesão para o PIB foi de R$ 10.</segment>
+    <segment id="13">Linha de produção da Lorenzetti em fábrica na Mooca</segment>
+    <segment id="14">, zona leste de São Paulo - Karime Xavier - 30.set.2022/Folhapress  Esse valor representa a produção gerada ao transformar um pedaço de mármore em uma escultura.</segment>
+    <segment id="15">O IBGE faz esse cálculo para toda a cadeia produtiva brasileira.</segment>
+    <segment id="16">Ou seja</segment>
+    <segment id="17">, ele precisa excluir da produção total de cada setor as matérias-primas que ele adquiriu de outros setores.</segment>
+    <segment id="18">Depois de fazer esses cálculos</segment>
+    <segment id="19">, o instituto soma a produção gerada por cada setor</segment>
+    <segment id="20">, agropecuária</segment>
+    <segment id="21">, indústria e serviços</segment>
+    <segment id="22">, chegando à contribuição de cada um para a geração de produção e para o crescimento econômico.</segment>
+    <segment id="23">O cálculo pela ótica da demanda soma tudo o que é gasto no país –e</segment>
+    <segment id="24">, portanto</segment>
+    <segment id="25">, dá uma ideia do poder de compra naquele período.</segment>
+    <segment id="26">O primeiro item é a despesa das famílias em bens de consumo</segment>
+    <segment id="27">, chamada de consumo das famílias</segment>
+    <segment id="28">; outro item</segment>
+    <segment id="29">, a despesa do Estado em bens de consumo</segment>
+    <segment id="30">, é chamado de consumo público.</segment>
+    <segment id="31">Entram também na conta as despesas de empresas nos chamados bens de capital –máquinas que serão usadas para produzir–</segment>
+    <segment id="32">, chamadas de formação bruta de capital fixo.</segment>
+    <segment id="33">Essas despesas das empresas mais a variação nos estoques de matérias-primas e produtos formam o investimento.</segment>
+    <segment id="34">Ao que foi gasto por famílias</segment>
+    <segment id="35">, governo e empresas são acrescentadas as exportações e desse valor são descontadas as importações.</segment>
+    <segment id="36">O resultado dos cálculos do PIB são divulgados pelo IBGE até 90 dias depois do fechamento do ano ou de um trimestre</segment>
+    <segment id="37">, masmas os valores definitivos só saem dois anos depois</segment>
+    <segment id="38">, quando ficam disponíveis dados mais completos sobre a renda do país.</segment>
+    <segment id="39">DIRETRIZES DA ONU MUDARAM CÁLCULO  Desde o último trimestre de 2014</segment>
+    <segment id="40">, o IBGE passou a aplicar diretrizes da ONU que alteraram parcialmente os cálculos para o PIB.</segment>
+    <segment id="41">Investimentos em pesquisa e desenvolvimento</segment>
+    <segment id="42">, prospecção e avaliação de recursos minerais (mesmo que não sejam encontradas</segment>
+    <segment id="43">, por exemplo</segment>
+    <segment id="44">, jazidas de minério ou petróleo) e aquisição de softwares passaram a ser contabilizados no PIB.</segment>
+    <segment id="45">Antes, eram encarados</segment>
+    <segment id="46">comocomo despesas intermediárias e descontadas do cálculo.</segment>
+    <segment id="47">Pela nova metodologia</segment>
+    <segment id="48">, os gastos governamentais com a compra de equipamentos militares também passam a ser considerados</segment>
+    <segment id="49">comocomo investimento</segment>
+    <segment id="50">, por exemplo.</segment>
+  </rst>
+</analysis>

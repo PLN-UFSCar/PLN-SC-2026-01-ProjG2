@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Plano Safra da Agricultura Familiar 2023/24 que será anunciado na quarta-feira (28)</segment>
+    <segment id="2">, terá mais de R$ 75 bilhões para financiamentos</segment>
+    <segment id="3">, disse o ministro da Agricultura</segment>
+    <segment id="4">, Carlos Fávaro</segment>
+    <segment id="5">, em entrevista a jornalistas.</segment>
+    <segment id="6">Sem dizer o valor exato que será anunciado pelo governo</segment>
+    <segment id="7">, Fávaro afirmou que "R$ 75 bilhões é menos do que vai ser... amanhã vamos ter o número real"</segment>
+    <segment id="8">, ao responder perguntas de jornalistas.</segment>
+    <segment id="9">O presidente Luiz Inácio Lula da Silva e o ministro do Desenvolvimento Agrário e Agricultura Familiar</segment>
+    <segment id="10">, Paulo Teixeira</segment>
+    <segment id="11">, anunciam na quarta-feira o Plano Safra da Agricultura Familiar.</segment>
+    <segment id="12">Já o Plano Safra 2023/24 para a chamada agricultura empresarial terá R$ 364</segment>
+    <segment id="13">,22 bilhões em financiamentos para apoiar a produção de médios e grandes produtores rurais brasileiros</segment>
+    <segment id="14">, um aumento de 27% ante o programa do ciclo anterior</segment>
+    <segment id="15">, informou o Ministério da Agricultura nesta terça-feira (27).O presidente Luiz Inácio Lula da Silva e o ministro da Agricultura</segment>
+    <segment id="16">, Carlos Fávaro</segment>
+    <segment id="17">, durante lançamento do Plano Safra - Gabriela Biló - 27.jun.2023/Folhapress</segment>
+  </rst>
+</analysis>

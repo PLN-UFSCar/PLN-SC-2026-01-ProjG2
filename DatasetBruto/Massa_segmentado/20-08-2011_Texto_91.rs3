@@ -1,0 +1,50 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Aécio diz que faxina ética de Dilma é slogan de campanha
+BELO HORIZONTE.</segment>
+    <segment id="2">O senador Aécio Neves (PSDB) classificou</segment>
+    <segment id="3">comocomo "slogan de campanha" a faxina ética realizada pelo governo Dilma Rousseff (PT)</segment>
+    <segment id="4">, que já resultou na queda de quatro ministros e auxiliares.</segment>
+    <segment id="5">Durante o ato de oficialização da criação do braço sindical do PSDB mineiro</segment>
+    <segment id="6">, o ex-governador de Minas criticou o que chamou de "aparelhamento da máquina pública" pelo PT e a formação de feudos partidários</segment>
+    <segment id="7">, em sua opinião verdadeiros responsáveis por distorções que levam à corrupção.</segment>
+    <segment id="8">O governo acorda todos os dias</segment>
+    <segment id="9">, deve abrir os jornais quase que</segment>
+    <segment id="10">comocomo filando uma carta de baralho para saber quem é o próximo denunciado</segment>
+    <segment id="11">, para a partir daí agir.</segment>
+    <segment id="12">Se ninguém denunciou naquela semana</segment>
+    <segment id="13">, tá muito bom.</segment>
+    <segment id="14">Para um governo com oito meses apenas de duração</segment>
+    <segment id="15">, já está muito envelhecido - criticou Aécio</segment>
+    <segment id="16">, que defendeu medidas pró-ativas de combate à corrupção</segment>
+    <segment id="17">, como</segment>
+    <segment id="18">como a ação de auditorias e da Controladoria Geral da União para o controle da corrupção.</segment>
+    <segment id="19">O senador ironizou a aproximação entre Dilma e o tucano Fernando Henrique Cardoso nesta semana</segment>
+    <segment id="20">, durante lançamento do programa Brasil sem Miséria em São Paulo:
+
+- Acho que a presidente está incomodada com alguns dos seus aliados</segment>
+    <segment id="21">, talvez tenha buscado estar um pouco mais próxima dos tucanos - disse.</segment>
+  </rst>
+</analysis>

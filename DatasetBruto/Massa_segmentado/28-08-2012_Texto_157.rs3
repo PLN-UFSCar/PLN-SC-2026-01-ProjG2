@@ -1,0 +1,38 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Mordida de amor nÃ£o dÃ³i
+PatrÃ­cia Abravanel namorou e beijou muito no ritmo do funk</segment>
+    <segment id="2">PatrÃ­cia Abravanel</segment>
+    <segment id="3">, filha de Silvio Santos</segment>
+    <segment id="4">, sese divertiu pra valer no Ãºltimo fim de semana</segment>
+    <segment id="5">, em uma boate de SÃ£o Paulo.</segment>
+    <segment id="6">Ela namorou e beijou muito no ritmo do funk.</segment>
+    <segment id="7">A apresentadora estava acompanhada do namorado</segment>
+    <segment id="8">, Marcos Faria</segment>
+    <segment id="9">, que nÃ£o poupou chamegos para a amada.</segment>
+    <segment id="10">Durante os beijos</segment>
+    <segment id="11">, PatrÃ­cia ganhou atÃ© umas mordidinhas no queixo.</segment>
+  </rst>
+</analysis>

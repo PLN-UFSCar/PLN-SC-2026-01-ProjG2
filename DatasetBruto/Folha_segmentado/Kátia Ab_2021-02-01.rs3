@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A senadora Kátia Abreu (PP-TO) apareceu em sessão nesta segunda (1º) que escolherá o novo presidente do Senado vestindo uma saia que foi feita a partir de gravatas de colegas senadores.</segment>
+    <segment id="2">"</segment>
+    <segment id="3">Cada gravata na barra tem o nome do senador que me deu.</segment>
+    <segment id="4">Pra guardar de lembrança"</segment>
+    <segment id="5">, diz à coluna.</segment>
+    <segment id="6">Segundo a parlamentar</segment>
+    <segment id="7">, a saia foi feita a partir de 30 gravatas.</segment>
+    <segment id="8">Ela afirma</segment>
+    <segment id="9">, no entanto</segment>
+    <segment id="10">, que ganhou "muito mais" gravatas e que deverá aproveitá-las em outros itens de vestuário.</segment>
+    <segment id="11">Senadora Kátia</segment>
+    <segment id="12">Abreu</segment>
+    <segment id="13">posa com saia feita a partir de gravatas de colegas senadoresMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

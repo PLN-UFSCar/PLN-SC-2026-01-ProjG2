@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Miss brasil é assaltada pela quarta vez
+Além do veículo modelo Honda Fit</segment>
+    <segment id="2">, o criminoso levou a bolsa com os documentos</segment>
+    <segment id="3">A miss Brasil Débora Lyra</segment>
+    <segment id="4">, 21 anos</segment>
+    <segment id="5">, teve o carro roubado quando chegava ao condomínio onde mora na Zona Oeste de São Paulo</segment>
+    <segment id="6">, na tarde de domingo (3).</segment>
+    <segment id="7">A gata disse ter sido a quarta vez que foi assaltada.</segment>
+    <segment id="8">Além do veículo modelo Honda Fit</segment>
+    <segment id="9">, o criminoso</segment>
+    <segment id="10">, que estava arma- do</segment>
+    <segment id="11">, levou a bolsa com os documentos da miss.</segment>
+    <segment id="12">“</segment>
+    <segment id="13">A bele- za não serve para nada nessa hora”</segment>
+    <segment id="14">, lamentou  Débora.</segment>
+  </rst>
+</analysis>

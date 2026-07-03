@@ -1,0 +1,102 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Patrimônio de empresa de filho de Alfredo Nascimento aumenta 86.500%
+BRASÍLIA - O Ministério Público Federal Federal está investigando suposto enriquecimento ilícito de Gustavo Morais Pereira</segment>
+    <segment id="2">, arquiteto de 27 anos</segment>
+    <segment id="3">, filho do ministro dos Transportes</segment>
+    <segment id="4">, Alfredo Nascimento.</segment>
+    <segment id="5">Dois anos após ser criada com um capital social de R$ 60 mil</segment>
+    <segment id="6">, a Forma Construções</segment>
+    <segment id="7">, uma das empresas de Gustavo</segment>
+    <segment id="8">, amealhou um patrimônio de mais de R$ 50 milhões</segment>
+    <segment id="9">, um crescimento de 86.500%.</segment>
+    <segment id="10">As investigações podem complicar ainda mais a situação do ministro</segment>
+    <segment id="11">, que, desde sábado</segment>
+    <segment id="12">, tem sido obrigado a</segment>
+    <segment id="13">sese explicar sobre o suposto envolvimento de seus principais assessores com corrupção.</segment>
+    <segment id="14">COMUNICADO: Ministro dos Transportes suspende licitações por 30 dias
+VOTE:</segment>
+    <segment id="15">Você acha suficientes as medidas tomadas pelo governo?</segment>
+    <segment id="16">LEIA MAIS: Ministério dos Transportes coleciona escândalos</segment>
+    <segment id="17">As investigações começaram ano passado</segment>
+    <segment id="18">, a partir de um nebuloso negócio entre Pereira e a SC Carvalho Transportes e Construções</segment>
+    <segment id="19">, empresa beneficiária de recursos do Ministério dos Transportes.</segment>
+    <segment id="20">Em 2007</segment>
+    <segment id="21">, a SC Transportes repassou R$ 450 mil ao filho do ministro</segment>
+    <segment id="22">, conforme documentos em poder da Procuradoria da República do Amazonas.</segment>
+    <segment id="23">Nesse mesmo ano</segment>
+    <segment id="24">, a empresa recebeu R$ 3 milhões do Fundo da Marinha Mercante</segment>
+    <segment id="25">, administrado pelo Ministério dos Transportes para incentivar a renovação da frota do país.</segment>
+    <segment id="26">Em 2008</segment>
+    <segment id="27">, a empresa ganhou mais R$ 4</segment>
+    <segment id="28">,2 milhões.</segment>
+    <segment id="29">Os repasses do ministério à empresa estão registrados no Portal da Transparência</segment>
+    <segment id="30">, do governo federal.</segment>
+    <segment id="31">O Ministério Público abriu investigação para apurar</segment>
+    <segment id="32">sese houve conflito de interesse nas decisões do ministério chefiado por Nascimento e os benefícios pagos à empresa que negociou com o filho do ministro:
+- O que nos causou estranheza foi o fato de uma empresa de um dos amigos do ministro receber grandes valores (do ministério) e depois fazer negócio com o filho do ministro - disse ao GLOBO um dos investigadores do</segment>
+    <segment id="33">casocaso.</segment>
+    <segment id="34">MP ainda decide</segment>
+    <segment id="35">sese ministro deve depor</segment>
+    <segment id="36">A SC Transportes está em nome de Marcílio Carvalho e Claudomiro Picanço Carvalho.</segment>
+    <segment id="37">Em 2006</segment>
+    <segment id="38">, um ano antes da SC receber R$ 3 milhões do Ministério dos Transportes</segment>
+    <segment id="39">, Picanço doou R$ 100 mil à campanha de Nascimento ao Senado</segment>
+    <segment id="40">, como</segment>
+    <segment id="41">como registrado no Tribunal Superior Eleitoral (TSE).</segment>
+    <segment id="42">O empresário foi o principal doador da campanha do ministro.</segment>
+    <segment id="43">Picanço também doou R$ 12 mil ao PR</segment>
+    <segment id="44">, então chamado de PL.</segment>
+    <segment id="45">Marcílio é marido de Auxiliadora Carvalho</segment>
+    <segment id="46">, nomeada pelo ministro para chefiar o Departamento Nacional de Infraestrutura de Transportes (Dnit) no Amazonas e em Roraima.</segment>
+    <segment id="47">O Ministério Público ouviu Gustavo.</segment>
+    <segment id="48">Ele disse que o dinheiro recebido da SC Transporte é fruto da venda de um imóvel.</segment>
+    <segment id="49">As explicações não convenceram.</segment>
+    <segment id="50">O Ministério Público estranhou o crescimento patrimonial do arquiteto.</segment>
+    <segment id="51">Em 2005</segment>
+    <segment id="52">, aos 21 anos</segment>
+    <segment id="53">, ele e dois sócios fundaram a Forma Construções.</segment>
+    <segment id="54">Em 2007</segment>
+    <segment id="55">, a empresa declarou patrimônio de R$ 52</segment>
+    <segment id="56">,3 milhões em documentos da Receita Federal.</segment>
+    <segment id="57">Um ano antes</segment>
+    <segment id="58">, os ativos somavam R$ 17</segment>
+    <segment id="59">,7 milhões.</segment>
+    <segment id="60">Em grande ofensiva no mercado imobiliário do Amazonas</segment>
+    <segment id="61">, a empresa construiu em curto período um conjunto de 86 casas de alto padrão e um prédio comercial de 20 andares</segment>
+    <segment id="62">, num bairro nobre de Manaus.</segment>
+    <segment id="63">A investigação</segment>
+    <segment id="64">, ainda não concluída</segment>
+    <segment id="65">, aponta indícios de patrimônio incompatível com a renda declarada por Gustavo.</segment>
+    <segment id="66">O Ministério Público ainda estuda</segment>
+    <segment id="67">sese chamará Nascimento para depor.</segment>
+    <segment id="68">O ministro confirmou o negócio do filho com a SC Transportes</segment>
+    <segment id="69">, masmas negou irregularidades na transação e informou que "o depósito a que O GLOBO</segment>
+    <segment id="70">sese refere decorre da venda de imóvel</segment>
+    <segment id="71">, transação registrada na declaração de Imposto de Renda"</segment>
+    <segment id="72">, disse por e-mail.</segment>
+    <segment id="73">Negou ainda ter ligações com os donos da SC Transportes.</segment>
+  </rst>
+</analysis>

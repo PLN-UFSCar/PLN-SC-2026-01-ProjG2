@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Caveira passa a mÃ£o em Abelha Graciosa
+Thiago e Everton foram flagrados apÃ³s roubar ateliÃª</segment>
+    <segment id="2">Policiais civis da cidade de Alagoinhas prenderam Tiago dos Santos Santana</segment>
+    <segment id="3">, 22 anos</segment>
+    <segment id="4">, e Everton Cleiton de Souza</segment>
+    <segment id="5">,  o Caveira</segment>
+    <segment id="6">, 25, acusados de roubar</segment>
+    <segment id="7">, momentos antes da captura</segment>
+    <segment id="8">, o AteliÃª Abelha Graciosa</segment>
+    <segment id="9">, localizado na Rua Treze de Maio.</segment>
+    <segment id="10">De acordo com a polÃ­cia</segment>
+    <segment id="11">, eles sÃ£o suspeitos de praticarem  outros assaltos a casas comerciais na regiÃ£o</segment>
+    <segment id="12">, e as vÃ­timas descreveram que os autores tÃªm as mesmas caracterÃ­sticas fÃ­sicas de Tiago e Everton.</segment>
+    <segment id="13">A dupla foi autuada em flagrante por roubo qualificado.</segment>
+    <segment id="14">Com Tiago e Caveira</segment>
+    <segment id="15">, os policiais apreenderam um notebook</segment>
+    <segment id="16">, um aparelho celular e R$ 60</segment>
+    <segment id="17">, que foram roubados do ateliÃª.</segment>
+    <segment id="18">Eles tambÃ©m estavam com um revÃ³lver calibre 38 de dois canos</segment>
+    <segment id="19">, utilizado para consumar o delito.</segment>
+  </rst>
+</analysis>

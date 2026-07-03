@@ -1,0 +1,35 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Malandro tenta instalar ‘chupa-cabra’</segment>
+    <segment id="2">Querubim foi preso em flagrante por tentativa de furto mediante fraude</segment>
+    <segment id="3">Policiais da Delegacia Especial de Apoio ao Turismo (DEAT) prenderam</segment>
+    <segment id="4">, no fim de semana</segment>
+    <segment id="5">, Querubim Pupu da Silva Filho que tentava instalar um equipamento de clonagem de cartões de crédito</segment>
+    <segment id="6">, conhecido</segment>
+    <segment id="7">comocomo chupa-cabra</segment>
+    <segment id="8">, em um banco da zona sul do Rio de Janeiro.</segment>
+    <segment id="9">O acusado foi preso em flagrante.</segment>
+  </rst>
+</analysis>

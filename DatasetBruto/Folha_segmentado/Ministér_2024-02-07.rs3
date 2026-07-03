@@ -1,0 +1,51 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Ministério do Trabalho defende adiar o julgamento de uma ação do Rappi no Supremo Tribunal Federal contra decisões que reconheceram vínculo empregatício de trabalhador de aplicativo</segment>
+    <segment id="2">, em uma tentativa de forçar os apps a retomarem a negociação antes que a corte</segment>
+    <segment id="3">sese pronuncie sobre o tema.</segment>
+    <segment id="4">Rappi contesta decisões de tribunais trabalhistas sobre vínculo empregatício - Edgard Garrido/ReutersA ação</segment>
+    <segment id="5">, que tem</segment>
+    <segment id="6">comocomo relator o ministro Alexandre de Moraes</segment>
+    <segment id="7">, contesta decisões da 4ª Turma do Tribunal Regional do Trabalho da 3ª Região e da 2ª Turma do Tribunal Superior do Trabalho.</segment>
+    <segment id="8">O julgamento está na pauta do STF desta quinta-feira (8).</segment>
+    <segment id="9">A empresa argumenta que há desrespeito a decisões do próprio STF em julgamentos envolvendo o tema</segment>
+    <segment id="10">, como</segment>
+    <segment id="11">como uma ação que considerou o transporte rodoviário de cargas uma relação comercial</segment>
+    <segment id="12">, e não trabalhista</segment>
+    <segment id="13">, e outras que tratam de terceirização de atividade-meio.</segment>
+    <segment id="14">O Rappi diz ainda que as decisões dos tribunais "consolidaram entendimento contrário à jurisprudência" do STF</segment>
+    <segment id="15">, "pois</segment>
+    <segment id="16">pois entenderam que haveria vínculo de emprego entre o motociclista parceiro e a plataforma"</segment>
+    <segment id="17">, quando o Supremo "permite diversos tipos de contratos civis distintos da relação de emprego constituída pela CLT".</segment>
+    <segment id="18">"</segment>
+    <segment id="19">Com o adiamento</segment>
+    <segment id="20">, o ministro Luiz Marinho (Trabalho) tenta retomar a negociação sobre a regulamentação de apps</segment>
+    <segment id="21">, travada</segment>
+    <segment id="22">, segundo ele</segment>
+    <segment id="23">, por causa das empresas de entrega.</segment>
+    <segment id="24">O receio é que os apps usem a decisão para negociar condições mais favoráveis para as empresas</segment>
+    <segment id="25">, que defendem uma remuneração mínima para os trabalhadores e não apresentam propostas a demandas de saúde e segurança apresentadas por sindicatos de entregadores.</segment>
+  </rst>
+</analysis>

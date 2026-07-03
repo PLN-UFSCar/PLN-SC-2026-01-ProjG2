@@ -1,0 +1,164 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Conforme crescem no Brasil os casos de coronavírus e as mortes por Covid-19</segment>
+    <segment id="2">, crescem também os indícios de que eles são muito mais numerosos do que apontam as estatísticas oficiais.</segment>
+    <segment id="3">O aumento nas internações por problemas respiratórios e o crescimento no número de enterros nos cemitérios indicam que o país registra menos do que deveria —e em uma velocidade aquém da necessária.</segment>
+    <segment id="4">Um dos mais fortes indicativos de subnotificação é o aumento de casos de SRAG (Síndrome Respiratória Aguda Grave) desde que o primeiro</segment>
+    <segment id="5">casocaso por coronavírus foi detectado no Brasil</segment>
+    <segment id="6">, em fevereiro.</segment>
+    <segment id="7">Os pacientes que chegam ao serviço de saúde com SRAG</segment>
+    <segment id="8">, um conjunto de sintomas respiratórios que pode incluir falta de ar e febre</segment>
+    <segment id="9">, têm seus dados enviados a um sistema gerenciado pelo Ministério da Saúde.</segment>
+    <segment id="10">As internações e óbitos por esse motivo têm notificação obrigatória no país.</segment>
+    <segment id="11">Segundo dados disponíveis no site do Ministério da Saúde</segment>
+    <segment id="12">, as hospitalizações por SRAG desde o início do ano até a terça-feira (28) já somavam mais de 72 mil.</segment>
+    <segment id="13">No mesmo período de 2019</segment>
+    <segment id="14">, esse número foi de 13</segment>
+    <segment id="15">,5 mil —um aumento de 430%.</segment>
+    <segment id="16">A SRAG pode ser causada por outros vírus respiratórios</segment>
+    <segment id="17">, como</segment>
+    <segment id="18">como o H1N1</segment>
+    <segment id="19">, agente infeccioso da influenza A. Bactérias e fungos também podem levar aos sintomas.</segment>
+    <segment id="20">Mas, segundo os especialistas</segment>
+    <segment id="21">, o crescimento fora do comum nas internações por motivos respiratórios tem forte influência da Covid-19.</segment>
+    <segment id="22">Na terça (28)</segment>
+    <segment id="23">, data da última atualização dos dados de SRAG até a publicação deste texto</segment>
+    <segment id="24">, o Brasil contava mais de 71mil casos confirmados da Covid-19.</segment>
+    <segment id="25">O número de mortes causadas pelo novo coronavírus no país superava as 5.000.</segment>
+    <segment id="26">Devido à escassez de testes para detectar a Covid-19</segment>
+    <segment id="27">, a orientação dada aos profissionais de saúde é de que</segment>
+    <segment id="28">, entre a população comum</segment>
+    <segment id="29">, apenas pacientes em situação mais grave passem pelo exame.</segment>
+    <segment id="30">Além desses</segment>
+    <segment id="31">, têm acesso a exames profissionais de saúde e de segurança.</segment>
+    <segment id="32">Quais os testes disponíveis para detectar o coronavírus?   novamente         de   de  de  representando um  Casos que não chegam à internação também não geram registro no cadastro de SRAG.</segment>
+    <segment id="33">Por outro lado</segment>
+    <segment id="34">, espera-</segment>
+    <segment id="35">sese que todos os pacientes de SRAG sejam testados.</segment>
+    <segment id="36">A demora no processamento dos testes</segment>
+    <segment id="37">, porém</segment>
+    <segment id="38">porém, pode significar que</segment>
+    <segment id="39">, entre eles</segment>
+    <segment id="40">, haja mais doentes de Covid-19 do que</segment>
+    <segment id="41">sese sabe.</segment>
+    <segment id="42">Por exemplo</segment>
+    <segment id="43">, na semana entre os dias 19 e 25 de abril</segment>
+    <segment id="44">, 10.807 pessoas foram internadas com SRAG.</segment>
+    <segment id="45">Desse total</segment>
+    <segment id="46">, 1.580 pacientes receberam o resultado positivo para o novo coronavírus.</segment>
+    <segment id="47">Os exames de outros 7.212 pacientes ainda aguardavam o resultado até a consolidação do levantamento.</segment>
+    <segment id="48">Apenas 7 tiveram diagnóstico de influenza</segment>
+    <segment id="49">A ou B.  Estudos apontam que cerca de 80% dos infectados pelo novo coronavírus não têm nenhum sintoma da doença ou apresentam sintomas leves.</segment>
+    <segment id="50">“Se conseguíssemos testar todos os casos que aparecem</segment>
+    <segment id="51">, é provável que a maioria fosse Covid-19”</segment>
+    <segment id="52">, diz Patrícia Canto</segment>
+    <segment id="53">, pneumologista da Escola Nacional de Saúde Pública da Fiocruz.</segment>
+    <segment id="54">Assim, em uma estimativa inicial</segment>
+    <segment id="55">, para cada dois casos confirmados há cerca de oito infectados que potencialmente passam despercebidos e não são contabilizados pelo sistema de saúde.</segment>
+    <segment id="56">O efeito mais imediato da subnotificação é a subestimação do número de casos e do impacto da doença</segment>
+    <segment id="57">, diz Canto.</segment>
+    <segment id="58">“</segment>
+    <segment id="59">Sem esse dado</segment>
+    <segment id="60">, não é possível diferenciar as áreas com maior risco nem saber para onde direcionar os profissionais e os leitos”</segment>
+    <segment id="61">, afirma.</segment>
+    <segment id="62">Para Ana Freitas Ribeiro</segment>
+    <segment id="63">, infectologista no Instituto de Infectologia Emilio Ribas</segment>
+    <segment id="64">, de São Paulo</segment>
+    <segment id="65">, há a necessidade de realizar muito mais exames do que o país faz atualmente.</segment>
+    <segment id="66">“</segment>
+    <segment id="67">Olhar apenas para os casos graves não vai nos dizer tudo que precisamos saber sobre a doença”</segment>
+    <segment id="68">, afirma.</segment>
+    <segment id="69">A falta de testes é a principal barreira para o levantamento dos dados e</segment>
+    <segment id="70">, mesmo quando o exame é feito</segment>
+    <segment id="71">, há a chance de erro no resultado</segment>
+    <segment id="72">, gerando falsos negativos.</segment>
+    <segment id="73">No início de abril</segment>
+    <segment id="74">, a Folha publicou depoimentos de trabalhadores da área da saúde em diferentes cidades que relatavam uma subnotificação gigantesca da doença.</segment>
+    <segment id="75">Em alguns estados e municípios</segment>
+    <segment id="76">, havia</segment>
+    <segment id="77">, à época</segment>
+    <segment id="78">, 1 caso</segment>
+    <segment id="79">caso informado para cada 30 ou mais episódios em que pacientes poderiam estar doentes sem que fossem registrados.</segment>
+    <segment id="80">Países que</segment>
+    <segment id="81">sese saem melhor no combate à doença</segment>
+    <segment id="82">, como</segment>
+    <segment id="83">como Coreia do Sul e Alemanha</segment>
+    <segment id="84">, testam uma parcela maior da população do que os países que têm pior desempenho de barrar o avanço do coronavírus.</segment>
+    <segment id="85">“</segment>
+    <segment id="86">Ampliar a testagem para saber</segment>
+    <segment id="87">comocomo a doença está</segment>
+    <segment id="88">sese comportando é uma das melhores estratégias”</segment>
+    <segment id="89">, diz Ribeiro.</segment>
+    <segment id="90">Com esses dados em mãos</segment>
+    <segment id="91">, os governos podem verificar a eficiência das medidas adotadas ou definir qual o melhor momento para afrouxar o distanciamento social</segment>
+    <segment id="92">, por exemplo.</segment>
+    <segment id="93">“Esses números atualizados também são importantes para saber</segment>
+    <segment id="94">sese um bairro ou uma cidade precisa de um bloqueio mais rígido para evitar que a doença</segment>
+    <segment id="95">sese espalhe”</segment>
+    <segment id="96">, afirma Canto</segment>
+    <segment id="97">, da Fiocruz.</segment>
+    <segment id="98">O aumento na movimentação em alguns cemitérios do país também é apontado</segment>
+    <segment id="99">comocomo indicativo da subnotificação.</segment>
+    <segment id="100">Segundo reportagem publicada na Folha na segunda-feira (27)</segment>
+    <segment id="101">, um único cemitério de Manaus</segment>
+    <segment id="102">, que recebia cerca de 30 enterros por dia antes da pandemia</segment>
+    <segment id="103">, chegou a um pico no domingo (26)</segment>
+    <segment id="104">, quando 142 sepultamentos foram realizados.</segment>
+    <segment id="105">Enterro em vala comum no Cemitério Parque em Manaus (AM)</segment>
+    <segment id="106">, que teve 142 enterros no domingo (26) - Sandro Pereira - 27.abr.20/XinhuaO número de mortes no estado de São Paulo teve um crescimento de 1.481 casos acima da média dos últimos quatro anos para o mês de março.</segment>
+    <segment id="107">No mesmo mês</segment>
+    <segment id="108">, foram registrados 731 óbitos por Covid-19.</segment>
+    <segment id="109">Embora o Ministério da Saúde e as secretarias de saúde dos estados estejam usando os dados disponíveis para pautar suas ações</segment>
+    <segment id="110">, a demora do resultado dos testes faz com que as autoridades trabalhem baseadas no passado.</segment>
+    <segment id="111">“Quando vemos os dados da mortalidade</segment>
+    <segment id="112">, olhamos para pacientes que adoeceram há pelo menos uma semana.</segment>
+    <segment id="113">Com esses números nós estamos sempre correndo atrás do prejuízo</segment>
+    <segment id="114">, eles nos informam o que já passou”</segment>
+    <segment id="115">, diz Canto.</segment>
+    <segment id="116">Algumas das mortes causadas pelo novo coronavírus chegam a levar mais de um mês para terem a causa confirmada.</segment>
+    <segment id="117">De acordo com o Ministério da Saúde</segment>
+    <segment id="118">, 86% das mortes ocorridas sob suspeita de Covid-19 já tiveram a investigação concluída.</segment>
+    <segment id="119">O secretário de vigilância em saúde do ministério</segment>
+    <segment id="120">, Wanderson Oliveira</segment>
+    <segment id="121">, disse ainda que estados e municípios são orientados a priorizar a inserção de óbitos com suspeita ou confirmação de Covid-19 no sistema</segment>
+    <segment id="122">, para agilizar o processo de investigação dessas mortes.</segment>
+    <segment id="123">A falta de testes também causa uma distorção na taxa de letalidade da doença no país —a porcentagem de pessoas infectadas pelo vírus que morrem pela Covid-19.</segment>
+    <segment id="124">Com os números oficiais atuais</segment>
+    <segment id="125">, a letalidade da doença no país está próxima de 7%.</segment>
+    <segment id="126">Segundo estimativa divulgada pela Organização Mundial da Saúde (OMS) no início de março</segment>
+    <segment id="127">, esse número deve estar em torno de 3</segment>
+    <segment id="128">,4%.</segment>
+    <segment id="129">Para Canto</segment>
+    <segment id="130">, esse é outra pista da subnotificação.</segment>
+    <segment id="131">“</segment>
+    <segment id="132">A taxa de mortalidade leva em consideração os casos testados</segment>
+    <segment id="133">; com uma vigilância maior</segment>
+    <segment id="134">, mais testes</segment>
+    <segment id="135">, esse número tende a cair”</segment>
+    <segment id="136">, diz a pneumologista.​​</segment>
+    <segment id="137">Vírus do luto   novamente         de   de  de  representando</segment>
+    <segment id="138">um</segment>
+  </rst>
+</analysis>

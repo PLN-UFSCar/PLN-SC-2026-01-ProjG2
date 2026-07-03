@@ -1,0 +1,130 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Palmeiras conquistou nesta quarta-feira (6) o título do Campeonato Brasileiro de 2023.</segment>
+    <segment id="2">Com a conquista</segment>
+    <segment id="3">, que contou com atuações de gala do jovem Endrick</segment>
+    <segment id="4">, a formação comandada pelo português Abel Ferreira</segment>
+    <segment id="5">sese isola ainda mais</segment>
+    <segment id="6">comocomo o maior campeão do Brasileiro</segment>
+    <segment id="7">, com 12 conquistas</segment>
+    <segment id="8">, tornando-</segment>
+    <segment id="9">sese dodecacampeão nacional.</segment>
+    <segment id="10">Em seguida</segment>
+    <segment id="11">, entre os maiores vencedores</segment>
+    <segment id="12">, vêm Santos e Flamengo</segment>
+    <segment id="13">, com oito cada</segment>
+    <segment id="14">; Corinthians</segment>
+    <segment id="15">, com sete</segment>
+    <segment id="16">;</segment>
+    <segment id="17">e São Paulo</segment>
+    <segment id="18">, com seis.</segment>
+    <segment id="19">Montagem com fotos de Dudu</segment>
+    <segment id="20">, no título de 2016</segment>
+    <segment id="21">, Edmundo</segment>
+    <segment id="22">, 1993</segment>
+    <segment id="23">, e Ademir da Guia</segment>
+    <segment id="24">, 1972 - Montagem com Robson Ventura - 20.nov.2016/Folhapress</segment>
+    <segment id="25">; Paulo Giandália - 19.dez.1993/Folhapress</segment>
+    <segment id="26">; 23.dez.1972/FolhapressEm uma resolução de 2010</segment>
+    <segment id="27">, a CBF (Confederação Brasileira de Futebol) passou a considerar conquistas obtidas antes de 1971</segment>
+    <segment id="28">, que era considerado o marco inicial do Campeonato Brasileiro.</segment>
+    <segment id="29">Foram igualadas à competição a Taça Brasil</segment>
+    <segment id="30">, disputada entre 1959 e 1968</segment>
+    <segment id="31">, e o Torneio Roberto Gomes Pedrosa</segment>
+    <segment id="32">, o antigo Rio-São Paulo</segment>
+    <segment id="33">, que incluiu times além do Rio de Janeiro e de São Paulo entre 1967 e 1970.</segment>
+    <segment id="34">No atual formato de pontos corridos</segment>
+    <segment id="35">, o Palmeiras também terminou em primeiro nas edições de 2022</segment>
+    <segment id="36">, 2018 e 2016.</segment>
+    <segment id="37">Na era do mata-mata desde o marco inicial do Campeonato Brasileiro</segment>
+    <segment id="38">comocomo o conhecemos até hoje</segment>
+    <segment id="39">, foi campeão em 1972</segment>
+    <segment id="40">, 1973</segment>
+    <segment id="41">, 1993</segment>
+    <segment id="42">, 1994.</segment>
+    <segment id="43">A equipe também venceu o torneio nacional em 1960 e 1967 (Taça Brasil)</segment>
+    <segment id="44">, e em 1967 e 1969 (Torneio Roberto Gomes Pedrosa).</segment>
+    <segment id="45">Quantos títulos brasileiros cada clube tem  Todos os campeões brasileiros ano a ano  2023</segment>
+    <segment id="46">Palmeiras 2022</segment>
+    <segment id="47">Palmeiras 2021 Atlético-MG 2020 Flamengo 2019 Flamengo 2018</segment>
+    <segment id="48">Palmeiras 2017</segment>
+    <segment id="49">Corinthians 2016</segment>
+    <segment id="50">Palmeiras 2015 Corinthians 2014</segment>
+    <segment id="51">Cruzeiro 2013</segment>
+    <segment id="52">Cruzeiro 2012</segment>
+    <segment id="53">Fluminense</segment>
+    <segment id="54">2011 Corinthians 2010</segment>
+    <segment id="55">Fluminense 2009</segment>
+    <segment id="56">Flamengo 2008</segment>
+    <segment id="57">São Paulo 2007</segment>
+    <segment id="58">São Paulo 2006</segment>
+    <segment id="59">São Paulo 2005 Corinthians 2004</segment>
+    <segment id="60">Santos 2003</segment>
+    <segment id="61">Cruzeiro 2002</segment>
+    <segment id="62">Santos 2001</segment>
+    <segment id="63">Athletico Paranaense 2000</segment>
+    <segment id="64">Vasco 1999 Corinthians 1998</segment>
+    <segment id="65">Corinthians 1997</segment>
+    <segment id="66">Vasco 1996</segment>
+    <segment id="67">Grêmio 1995</segment>
+    <segment id="68">Botafogo 1994</segment>
+    <segment id="69">Palmeiras 1993</segment>
+    <segment id="70">Palmeiras 1992</segment>
+    <segment id="71">Flamengo 1991</segment>
+    <segment id="72">São Paulo 1990</segment>
+    <segment id="73">Corinthians 1989</segment>
+    <segment id="74">Vasco 1988 Bahia 1987 Sport/Flamengo* 1986</segment>
+    <segment id="75">São Paulo 1985</segment>
+    <segment id="76">Coritiba 1984</segment>
+    <segment id="77">Fluminense</segment>
+    <segment id="78">1983</segment>
+    <segment id="79">Flamengo 1982</segment>
+    <segment id="80">Flamengo 1981</segment>
+    <segment id="81">Grêmio 1980</segment>
+    <segment id="82">Flamengo 1979</segment>
+    <segment id="83">Internacional 1978 Guarani 1977</segment>
+    <segment id="84">São Paulo</segment>
+    <segment id="85">1976 Internacional 1975</segment>
+    <segment id="86">Internacional 1974</segment>
+    <segment id="87">Vasco 1973</segment>
+    <segment id="88">Palmeiras 1972</segment>
+    <segment id="89">Palmeiras 1971 Atlético-MG 1970</segment>
+    <segment id="90">Fluminense** 1969</segment>
+    <segment id="91">Palmeiras** 1968 Santos**/Botafogo*** 1967 Palmeiras**/Palmeiras*</segment>
+    <segment id="92">** 1966 Cruzeiro*** 1965 Santos*** 1964 Santos*** 1963 Santos**</segment>
+    <segment id="93">* 1962 Santos**</segment>
+    <segment id="94">* 1961 Santos*</segment>
+    <segment id="95">** 1960 Palmeiras*</segment>
+    <segment id="96">** 1959 Bahia*** 1937 Atlético-MG****  * Oficialmente</segment>
+    <segment id="97">, conforme decisão do STF (Superior Tribunal Federal)</segment>
+    <segment id="98">, o Sport é o campeão brasileiro de 1987.</segment>
+    <segment id="99">Porém, pelo aspecto técnico</segment>
+    <segment id="100">, é inegável o mérito do Flamengo</segment>
+    <segment id="101">comocomo campeão do Módulo Verde</segment>
+    <segment id="102">, que reunia os principais times do país naquele ano.</segment>
+    <segment id="103">** Torneio Roberto Gomes Pedrosa  *** Taça Brasil  ****</segment>
+    <segment id="104">Torneio dos campeões</segment>
+  </rst>
+</analysis>

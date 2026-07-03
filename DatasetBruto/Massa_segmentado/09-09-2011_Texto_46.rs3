@@ -1,0 +1,47 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Bárbara Evans</segment>
+    <segment id="2">, a filha da mãe</segment>
+    <segment id="3">Beleza hereditária</segment>
+    <segment id="4">Monique Evans acordou dando bom dia aos quatro ventos.</segment>
+    <segment id="5">O bom humor não foi suficiente para acalmar Dinei</segment>
+    <segment id="6">, Marlon e Gui</segment>
+    <segment id="7">, que falaram mal da loira.</segment>
+    <segment id="8">“</segment>
+    <segment id="9">Quero ela longe de mim”</segment>
+    <segment id="10">, disse o paraquedista.</segment>
+    <segment id="11">Provavelmente ele não diria isso sobre Bárbara Evans</segment>
+    <segment id="12">, filha da peoa.</segment>
+    <segment id="13">Ao contrário da mãe</segment>
+    <segment id="14">, que afasta os homens de A Fazenda</segment>
+    <segment id="15">, a filha deve atrair os marmanjos com fotos sensuais que serão publicadas no site Paparazzo (www.paparazzo.com.br) amanhã.</segment>
+    <segment id="16">A moça garante que a história da mãe fora do confinamento é diferente.</segment>
+    <segment id="17">“</segment>
+    <segment id="18">Os mais velhos chegam em mim</segment>
+    <segment id="19">, e os novinhos</segment>
+    <segment id="20">, na minha mãe”</segment>
+    <segment id="21">, contou.</segment>
+  </rst>
+</analysis>

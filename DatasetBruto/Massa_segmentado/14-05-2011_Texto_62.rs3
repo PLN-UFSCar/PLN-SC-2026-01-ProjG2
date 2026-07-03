@@ -1,0 +1,47 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Trabalhador japonês morre na usina nuclear de Fukushima</segment>
+    <segment id="2">Um homem morreu em seu segundo dia de trabalho na usina nuclear de Fukushima</segment>
+    <segment id="3">, no Japão.</segment>
+    <segment id="4">Segundo a Tokyo Eletric Power (Tepco)</segment>
+    <segment id="5">, operadora do complexo</segment>
+    <segment id="6">, não foram detectados níveis de radiação altos no corpo do funcionário.</segment>
+    <segment id="7">O trabalhador</segment>
+    <segment id="8">, que tinha cerca de 60 anos de idade</segment>
+    <segment id="9">, foi a primeira pessoa a morrer na usina desde o terremoto e tsunami que devastaram a costa do Japão no dia 11 de março.</segment>
+    <segment id="10">Ele estava carregando equipamentos quando desmaiou.</segment>
+    <segment id="11">O homem foi levado para um hospital</segment>
+    <segment id="12">, masmas não resistiu.</segment>
+    <segment id="13">A Tepco não soube informar a causa da morte.</segment>
+    <segment id="14">Até agora</segment>
+    <segment id="15">, apenas dois trabalhadores de Fukushima haviam morrido após o impacto da própria tsunami.</segment>
+    <segment id="16">Eles foram encontrados no prédio da turbina.</segment>
+    <segment id="17">Ainda neste sábado</segment>
+    <segment id="18">, a usina de Hamaoka foi completamente fechada.</segment>
+    <segment id="19">A operadora Chubu Electric vai construir um muro de contenção e outras estruturas de segurança para</segment>
+    <segment id="20">, em alguns anos</segment>
+    <segment id="21">, retomar o funcionamento da usina.</segment>
+  </rst>
+</analysis>

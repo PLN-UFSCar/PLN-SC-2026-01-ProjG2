@@ -1,0 +1,94 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Pesquisadores do Laboratório Europeu de Biologia Molecular (EMBL</segment>
+    <segment id="2">, na sigla em inglês) de Barcelona (ESP) criaram um arquivo sem precedentes de células-tronco de seis mamíferos: ser humano</segment>
+    <segment id="3">, camundongo</segment>
+    <segment id="4">, macaco</segment>
+    <segment id="5">, coelho</segment>
+    <segment id="6">, vaca e rinoceronte.</segment>
+    <segment id="7">A finalidade era compará-las para entender por que difere o tempo que necessitam para</segment>
+    <segment id="8">sese desenvolver.</segment>
+    <segment id="9">Os resultados foram publicados nesta terça-feira (20) na revista Cell</segment>
+    <segment id="10">Stem Cell.</segment>
+    <segment id="11">O grupo é liderado pela cientista Miki Ebisuya</segment>
+    <segment id="12">, que há tempo estuda por que há diferentes velocidades de desenvolvimento embrionário</segment>
+    <segment id="13">, sese quase todos os mamíferos atravessam as mesmas etapas de crescimento para formar sua coluna vertebral.</segment>
+    <segment id="14">Nem todos os mamíferos precisam de nove meses para</segment>
+    <segment id="15">sese desenvolver</segment>
+    <segment id="16">, como</segment>
+    <segment id="17">como os humanos - Lennart Nilsson - 23.nov.10/ReutersSua conclusão foi que a formação dos mesômeros</segment>
+    <segment id="18">, os segmentos corporais que resultam nas vértebras e costelas</segment>
+    <segment id="19">, está controlada pelo assim chamado "relógio de segmentação": tanto este quanto as diferentes histórias evolutivas das espécies influenciam o ritmo de desenvolvimento.</segment>
+    <segment id="20">Enquanto nos humanos a gestação dura nove meses</segment>
+    <segment id="21">, nos camundongos ela é de apenas 20 dias</segment>
+    <segment id="22">, e nos rinocerontes</segment>
+    <segment id="23">, de até 17 meses.</segment>
+    <segment id="24">Apesar de passarem pelas mesmas etapas embrionárias</segment>
+    <segment id="25">, a expressão dos genes do relógio de segmentação oscila em frequências distintas.</segment>
+    <segment id="26">Por exemplo: nos humanos é duas a três vezes mais lenta do que nos camundongos.</segment>
+    <segment id="27">Peso não explica tudo</segment>
+    <segment id="28">A pesquisa liderada por Ebisuya já havia revelado que as diferenças na velocidade das reações bioquímicas determinam as variações entre os "relógios</segment>
+    <segment id="29">" de camundongos e humanos.</segment>
+    <segment id="30">Para estabelecer</segment>
+    <segment id="31">sese se</segment>
+    <segment id="32">se tratava de um princípio geral do desenvolvimento embrionário</segment>
+    <segment id="33">, contudo</segment>
+    <segment id="34">contudo</segment>
+    <segment id="35">, os cientistas tiveram que ampliar o número de espécies examinadas.</segment>
+    <segment id="36">Assim, em colaboração com colegas da Europa</segment>
+    <segment id="37">, Japão e Estados Unidos</segment>
+    <segment id="38">, o grupo acrescentou os relógios de segmentação de macacos titi</segment>
+    <segment id="39">, coelhos</segment>
+    <segment id="40">, vacas e rinocerontes.</segment>
+    <segment id="41">Foram incluídas células-tronco embrionárias e pluripotentes</segment>
+    <segment id="42">, compondo uma plataforma geral comparativa.</segment>
+    <segment id="43">"</segment>
+    <segment id="44">Para ter um leque de diversidade o mais amplo possível</segment>
+    <segment id="45">, escolhemos espécies com pesos corporais de 50 gramas a duas toneladas</segment>
+    <segment id="46">, tempos de gestação de 20 dias a 17 meses</segment>
+    <segment id="47">, e histórias evolutivas</segment>
+    <segment id="48">, ou filogenias</segment>
+    <segment id="49">, diversas: primatas (humano e titi)</segment>
+    <segment id="50">, glires (camundongo e coelho) e ungulados (vaca e rinoceronte)</segment>
+    <segment id="51">", explica o pesquisador Jorge Lázaro.</segment>
+    <segment id="52">Notícias do diaReceba diariamente de manhã no seu email as principais notícias publicadas na Folha</segment>
+    <segment id="53">; aberta para não assinantes.</segment>
+    <segment id="54">Carregando...</segment>
+    <segment id="55">O grupo do EMBL na Espanha estudou as diferenças entre os "relógios</segment>
+    <segment id="56">" das quatro novas espécies</segment>
+    <segment id="57">, a fim de distinguir as células-tronco que vão gerar a coluna vertebral</segment>
+    <segment id="58">, as costelas e tecido muscular esquelético.</segment>
+    <segment id="59">"É uma plataforma ideal para investigar</segment>
+    <segment id="60">sese existe alguma relação geral entre o tempo de segmentação e as características do organismo"</segment>
+    <segment id="61">, observa Ebisuya.</segment>
+    <segment id="62">Embora seja sabido que</segment>
+    <segment id="63">, assim</segment>
+    <segment id="64">comocomo diversos outros parâmetros corporais</segment>
+    <segment id="65">, a duração da gestação depende do peso do animal</segment>
+    <segment id="66">, os cientistas não encontraram nenhuma correlação entre o peso médio das seis espécies estudadas e o período de seu relógio de segmentação.</segment>
+    <segment id="67">No entanto constataram que o relógio está correlacionado à duração da embriogênese —a etapa entre a fecundação e o fim da organogênese</segment>
+    <segment id="68">, quando todos os órgãos de um embrião estão formados.</segment>
+  </rst>
+</analysis>

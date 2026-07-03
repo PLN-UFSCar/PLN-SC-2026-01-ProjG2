@@ -1,0 +1,109 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Duas novas pesquisas trazem mais evidências a favor da chamada mistura vacinal (esquema heterólogo) na vacinação contra Covid.</segment>
+    <segment id="2">Os estudos</segment>
+    <segment id="3">, conduzidos no Brasil</segment>
+    <segment id="4">, avaliaram a eficácia em vida real (ou efetividade) das vacinas para proteger contra a Covid sintomática (ter ou não sintomas da Covid)</segment>
+    <segment id="5">, hospitalização e óbito</segment>
+    <segment id="6">, e a proteção conferida por anticorpos neutralizantes (capazes de barrar a entrada do vírus nas células) no período da ômicron.</segment>
+    <segment id="7">Apesar de serem dois estudos independentes</segment>
+    <segment id="8">, os achados foram semelhantes: duas doses de Coronavac seguidas de uma terceira dose do mesmo imunizante (esquema chamado homólogo) conferem uma baixa proteção</segment>
+    <segment id="9">, enquanto uma dose adicional de Pfizer ou AstraZeneca é mais eficaz contra casos sintomáticos</segment>
+    <segment id="10">, hospitalização e óbitos</segment>
+    <segment id="11">, além de conferir uma alta produção de anticorpos neutralizantes.</segment>
+    <segment id="12">Os dois estudos compararam a eficácia e proteção da ômicron com aquelas conferidas para as variantes delta e a forma ancestral de Wuhan.</segment>
+    <segment id="13">Vacinação da quarta dose da vacina contra a Covid na UBS Humaitá</segment>
+    <segment id="14">, na Bela Vista</segment>
+    <segment id="15">, região central de São Paulo - Danilo Verpa/FolhapressA primeira pesquisa</segment>
+    <segment id="16">, publicada na última quinta (6) na revista científica Nature Communications</segment>
+    <segment id="17">, avaliou indivíduos com resultado de teste do tipo RT-PCR ou antígeno positivo para o coronavírus e com aqueles com resultado negativo de um total de 1</segment>
+    <segment id="18">,24 milhão de testes</segment>
+    <segment id="19">, no período de setembro de 2021 a abril de 2022.</segment>
+    <segment id="20">Os dados deste estudo já haviam sido divulgados em abril.</segment>
+    <segment id="21">Os cientistas encontraram uma queda significativa na eficácia das vacinas contra a ômicron tanto para Covid sintomática quanto para hospitalização e óbito</segment>
+    <segment id="22">, em todas as vacinas.</segment>
+    <segment id="23">Essa queda</segment>
+    <segment id="24">, no entanto</segment>
+    <segment id="25">, era maior para indivíduos que receberam três doses da Coronavac em comparação com aqueles que receberam duas doses de Coronavac e o reforço com Pfizer ou AstraZeneca.</segment>
+    <segment id="26">Já o segundo estudo</segment>
+    <segment id="27">, divulgado também na quinta (6) na plataforma medRxiv na forma de pré-print (ainda sem revisão por pares) comparou os níveis de anticorpos produzidos contra a proteína</segment>
+    <segment id="28">S do Spike (ou espícula</segment>
+    <segment id="29">, usado pelo vírus para entrar nas células)</segment>
+    <segment id="30">, contra a região de ligação do receptor (conhecida pela sigla RBD</segment>
+    <segment id="31">, em inglês) e de anticorpos neutralizantes até 28 dias após uma dose de reforço em indivíduos que receberam duas doses de Coronavac de novembro de 2021 a fevereiro de 2022.</segment>
+    <segment id="32">Os resultados indicam que naqueles com o esquema homólogo a produção de anticorpos neutralizantes contra a variante ômicron era muito reduzida.</segment>
+    <segment id="33">Por outro lado</segment>
+    <segment id="34">, nas pessoas que receberam duas doses de Coronavac e uma terceira dose de Pfizer ou AstraZeneca houve aumento na taxa de anticorpos dos três tipos (anti-Spike</segment>
+    <segment id="35">, anti-RBD e neutralizantes)</segment>
+    <segment id="36">, incluindo daqueles específicos contra a ômicron.</segment>
+    <segment id="37">Quando separadas por faixa etária (maiores ou menores de 50 anos)</segment>
+    <segment id="38">, a produção de anticorpos após três doses de Coronavac era mais acentuada nos mais jovens</segment>
+    <segment id="39">, embora</segment>
+    <segment id="40">embora também fosse menor do que nos indivíduos com esquema vacinal heterólogo.</segment>
+    <segment id="41">O infectologista e pesquisador da Fiocruz Julio Croda</segment>
+    <segment id="42">, que participou dos dois estudos</segment>
+    <segment id="43">, explicou que ambos fornecem evidências para o melhor aproveitamento das vacinas atualmente em uso no país.</segment>
+    <segment id="44">"</segment>
+    <segment id="45">Enquanto os dados de eficácia em vida real indicam que a terceira dose</segment>
+    <segment id="46">, especialmente para as pessoas mais velhas</segment>
+    <segment id="47">, deve ser de um esquema heterólogo</segment>
+    <segment id="48">, os dados laboratoriais dão os primeiros resultados sobre a proteção humoral [de anticorpos] contra a ômicron</segment>
+    <segment id="49">, indicando uma redução significativa de anticorpos da Coronavac frente à ômicron mesmo com três doses"</segment>
+    <segment id="50">, afirma.</segment>
+    <segment id="51">Leia mais sobre a vacinação contra CovidNem metade das crianças de 5 a 11 anos tem vacinação completa contra Covid no paísAnvisa libera vacina da Pfizer contra Covid para crianças de 6 meses a 4 anosVacina de Covid da Pfizer é 73</segment>
+    <segment id="52">,2% eficaz em crianças menores de 5 anos</segment>
+    <segment id="53">, mostram novos dadosVeja o que</segment>
+    <segment id="54">sese sabe sobre a eficácia de vacinas em crianças ante a ômicronCom a ômicron</segment>
+    <segment id="55">, as vacinas em todo o mundo tiveram suas eficácias reduzidas</segment>
+    <segment id="56">, especialmente na proteção para infecção.</segment>
+    <segment id="57">No entanto</segment>
+    <segment id="58">, algumas vacinas possuem uma redução muito mais acentuada do que outras</segment>
+    <segment id="59">, quando comparadas às respostas protetoras de anticorpos.</segment>
+    <segment id="60">Já a resposta celular</segment>
+    <segment id="61">, mecanismo importante de defesa do nosso corpo</segment>
+    <segment id="62">, não foi avaliada e deve manter bons índices de proteção</segment>
+    <segment id="63">, especialmente contra hospitalização e óbito</segment>
+    <segment id="64">, afirmam os especialistas.</segment>
+    <segment id="65">São Paulo aplica quarta dose da vacinaMais    novamente         de   de  de  representando um  "</segment>
+    <segment id="66">Existe uma proteção de anticorpo anti-Spike e anti-RBD</segment>
+    <segment id="67">, masmas ela é mais acentuada para a variante ancestral</segment>
+    <segment id="68">, enquanto para as VOCs [variantes de preocupação] importam mais os anticorpos neutralizantes.</segment>
+    <segment id="69">Nesse contexto</segment>
+    <segment id="70">, um reforço heterólogo é mais eficaz em indivíduos vacinados com Coronavac"</segment>
+    <segment id="71">, explica.</segment>
+    <segment id="72">Para ele</segment>
+    <segment id="73">, esses dados são importantes</segment>
+    <segment id="74">, pois</segment>
+    <segment id="75">pois podem ajudar a coordenar as estratégias de vacinação.</segment>
+    <segment id="76">"</segment>
+    <segment id="77">É claro que qualquer vacina é melhor do que nenhuma vacina</segment>
+    <segment id="78">, então em grupos que ainda não foram vacinados</segment>
+    <segment id="79">, como</segment>
+    <segment id="80">como as crianças de 3 a 4 anos</segment>
+    <segment id="81">, é melhor um esquema primário com Coronavac do que nenhum.</segment>
+    <segment id="82">Mas nos adultos que já receberam duas doses é mais eficiente que a terceira dose seja diferente"</segment>
+    <segment id="83">, diz.</segment>
+  </rst>
+</analysis>

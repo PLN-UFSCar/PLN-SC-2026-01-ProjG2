@@ -1,0 +1,49 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Ciclistas</segment>
+    <segment id="2">sese envolveram em acidente</segment>
+    <segment id="3">Os ocupantes das duas bicicletas</segment>
+    <segment id="4">sese chocaram e um deles caiu ao lado de um ônibus</segment>
+    <segment id="5">Dois ciclistas</segment>
+    <segment id="6">sese envolveram em um acidente no bairro de Narandiba</segment>
+    <segment id="7">, na manhã desta quarta-feira (16)</segment>
+    <segment id="8">, em Salvador.</segment>
+    <segment id="9">De acordo com informações da Superintendência de Trânsito e Transporte de Salvador (Transalvador)</segment>
+    <segment id="10">, os ocupantes das duas bicicletas</segment>
+    <segment id="11">sese chocaram e um deles caiu ao lado de um ônibus que passava pelo local.</segment>
+    <segment id="12">O acidente aconteceu nas imediações do Posto Shell</segment>
+    <segment id="13">, próximo à marginal que dá acesso à Avenida Paralela.</segment>
+    <segment id="14">Um dos rapazes teve escoriações leves pelo corpo.</segment>
+    <segment id="15">O tráfego ficou complicado no local por cerca de 30 minutos</segment>
+    <segment id="16">, masmas voltou ao normal depois que o ciclista foi atendido.</segment>
+    <segment id="17">Ainda de acordo com a Transalvador</segment>
+    <segment id="18">, trânsito segue congestionado desde a Avenida Paralela</segment>
+    <segment id="19">, sentido rodoviária</segment>
+    <segment id="20">, na altura da Grande Bahia</segment>
+    <segment id="21">, até a Avenida ACM</segment>
+    <segment id="22">, sentido Lucaia</segment>
+    <segment id="23">, em decorrência do fluxo intenso de veículos na região.</segment>
+  </rst>
+</analysis>

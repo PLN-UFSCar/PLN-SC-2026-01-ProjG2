@@ -1,0 +1,52 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Fla goleia na Manchester Mineira
+Martim Francisco</segment>
+    <segment id="2">repete discurso</segment>
+    <segment id="3">A notícia de que o Coríntians teria acertado a contratação de Martim Francisco</segment>
+    <segment id="4">, treinador do Vasco</segment>
+    <segment id="5">, causou natural repercussão no Rio.</segment>
+    <segment id="6">Vicente Mateus</segment>
+    <segment id="7">, ex-presidente do clube paulista</segment>
+    <segment id="8">, chegou mesmo a dizer que o técnico iria ganhar Cr$ 230 mil mensais.</segment>
+    <segment id="9">Hoje, ouvimos o profissional vascaíno:
+
+- Nada posso adiantar sôbre o atual interêsse ou não do Coríntians</segment>
+    <segment id="10">, que independe de mim.</segment>
+    <segment id="11">Quanto à minha parte</segment>
+    <segment id="12">, devo repetir que</segment>
+    <segment id="13">, acima do compromisso escrito</segment>
+    <segment id="14">, está sempre a minha palavra.</segment>
+    <segment id="15">Ney aparece no Botafogo</segment>
+    <segment id="16">, masmas...</segment>
+    <segment id="17">O caso</segment>
+    <segment id="18">caso Ney prosseguiu movimentado ontem</segment>
+    <segment id="19">, com a apresentação do jogador corintiano em General Severiano.</segment>
+    <segment id="20">Enquanto isso</segment>
+    <segment id="21">, o presidente da FPF</segment>
+    <segment id="22">, Sr. Mendonça Falcão</segment>
+    <segment id="23">, assegurava que Ney continuará no Parque São Jorge.</segment>
+  </rst>
+</analysis>

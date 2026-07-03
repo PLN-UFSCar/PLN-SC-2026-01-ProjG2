@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Parada final
+Ele queria entrar em Salvador com 27</segment>
+    <segment id="2">,5 kg maconha</segment>
+    <segment id="3">, masmas foi barrado pela PRF</segment>
+    <segment id="4">Com a prisão do paulista Felipe Alcebíades</segment>
+    <segment id="5">, 18 anos</segment>
+    <segment id="6">, passageiro de um ônibus interestadual que fazia a linha São Paulo – Salvador</segment>
+    <segment id="7">, a Polícia Rodoviária Federal (PRF) evitou que 27</segment>
+    <segment id="8">,5 kg de maconha prensada chegassem a Salvador</segment>
+    <segment id="9">, na manhã dessa sexta-feira (3).</segment>
+    <segment id="10">Flagrado por volta das 22h30 de ontem numa barreira da PRF em Vitória da Conquista</segment>
+    <segment id="11">, a 509 km da capital</segment>
+    <segment id="12">, o passageiro acabou traído pelo próprio bilhete de passagem</segment>
+    <segment id="13">, que indicava ser ele o responsável pela droga</segment>
+    <segment id="14">, escondida no bagageiro do ônibus</segment>
+    <segment id="15">, de placa GSV-5131 (MG).</segment>
+    <segment id="16">Segundo a PRF</segment>
+    <segment id="17">, o passageiro assumiu a responsabilidade pela droga e confirmou que a maconha seria entregue em Salvador.</segment>
+    <segment id="18">Felipe não deu detalhes sobre outros envolvidos na transação.</segment>
+    <segment id="19">Ele e a droga foram encaminhados ao Distrito Integrado de segurança Pública de Conquista (Disep).</segment>
+  </rst>
+</analysis>

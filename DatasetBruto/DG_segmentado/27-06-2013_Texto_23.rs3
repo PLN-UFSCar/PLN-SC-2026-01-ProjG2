@@ -1,0 +1,370 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Brasil ferve
+Socorro!</segment>
+    <segment id="2">Faltam 241 mÃ©dicos na RegiÃ£o Metropolitana</segment>
+    <segment id="3">A maior parte dos profissionais deveria atuar nas equipes de EstratÃ</segment>
+    <segment id="4">©</segment>
+    <segment id="5">gia de SaÃºde da FamÃ­lia (ESF) e em postos das periferias</segment>
+    <segment id="6">Aline CustÃ³dio</segment>
+    <segment id="7">;</segment>
+    <segment id="8">Roberta Schuler
+aline.custodio@diariogaucho.com.br</segment>
+    <segment id="9">; roberta.schuler@diariogaucho.com.br</segment>
+    <segment id="10">Uma das missÃµes do DiÃ¡rio GaÃºcho Ã© situar o leitor sobre os acontecimentos sociais.</segment>
+    <segment id="11">A onda de protestos que sacode o Brasil abriga manifestos contra o aumento da passagem</segment>
+    <segment id="12">, contra a Copa e pedidos de melhorias nas Ã¡reas de transporte</segment>
+    <segment id="13">, saÃºde</segment>
+    <segment id="14">, educaÃ§Ã£o</segment>
+    <segment id="15">, combate Ã  corrupÃ§Ã£o.</segment>
+    <segment id="16">Temas que atingem o leitor em sua vida real.</segment>
+    <segment id="17">Os repÃ³rteres do DG</segment>
+    <segment id="18">, ao longo de 13 anos</segment>
+    <segment id="19">, assistiram a esse cotidiano e atuaram</segment>
+    <segment id="20">comocomo porta-vozes</segment>
+    <segment id="21">, denunciando falhas e corrupÃ§Ãµes.</segment>
+    <segment id="22">Para ressaltar a importÃ¢ncia desses pedidos</segment>
+    <segment id="23">, relembramos reportagens que fizemos junto com vocÃª</segment>
+    <segment id="24">, leitor.</segment>
+    <segment id="25">Sem vandalismo</segment>
+    <segment id="26">, mostramos assuntos que devem ser solucionados</segment>
+    <segment id="27">sese queremos que o Brasil mude para melhor.</segment>
+    <segment id="28">Por falta de candidatos</segment>
+    <segment id="29">, 241 vagas para mÃ©dicos (de clÃ­nicos a especialistas) nÃ£o estÃ£o preenchidas em Porto Alegre e outras dez cidades da RegiÃ£o Metropolitana.</segment>
+    <segment id="30">O levantamento foi feito pelo DiÃ¡rio GaÃºcho.</segment>
+    <segment id="31">A maior parte dos profissionais deveria atuar nas equipes de EstratÃ</segment>
+    <segment id="32">©</segment>
+    <segment id="33">gia de SaÃºde da FamÃ­lia (ESF) e em postos das periferias.</segment>
+    <segment id="34">Ã‰ no cotidiano das comunidades que as necessidades aparecem.</segment>
+    <segment id="35">Seja na rede bÃ¡sica</segment>
+    <segment id="36">, na busca por ficha</segment>
+    <segment id="37">, na retirada de medicamentos gratuitos</segment>
+    <segment id="38">, na procura por emergÃªncias ou na espera por cirurgia.</segment>
+    <segment id="39">Quem utiliza o Sus</segment>
+    <segment id="40">, como</segment>
+    <segment id="41">como a vendedora de doces e salgados ClÃ¡udia Machado (veja texto ao lado)</segment>
+    <segment id="42">, vÃª diariamente os pontos crÃ­ticos - ressaltados em cartazes em protestos que</segment>
+    <segment id="43">sese espalham pelo Brasil.</segment>
+    <segment id="44">O cidadÃ£o sabe que</segment>
+    <segment id="45">, sese falta mÃ©dico no posto</segment>
+    <segment id="46">, aparece a superlotaÃ§Ã£o da emergÃªncia.</segment>
+    <segment id="47">Se o agendamento Ã© ineficiente</segment>
+    <segment id="48">, a fila pode levar dolorosos anos.</segment>
+    <segment id="49">Entre chiadeira e promessas</segment>
+    <segment id="50">O presidente do Sindicato MÃ©dico do Estado (Simers)</segment>
+    <segment id="51">, Paulo Argollo</segment>
+    <segment id="52">, alega trÃªs fatores: salÃ¡rio considerado baixo</segment>
+    <segment id="53">, condiÃ§Ãµes precÃ¡rias de trabalho e falta de plano de carreira (no qual o Estado faria as contrataÃ§Ãµes).
+- O piso nacional Ã© de R$ 20 mil (para 40 horas semanais)</segment>
+    <segment id="54">, masmas as prefeituras querem pagar a metade - diz Paulo.</segment>
+    <segment id="55">Esta polÃªmica Ã© a base do impasse que levou a presidente Dilma Rousseff a incentivar o envio de mÃ©dicos estrangeiros para onde falta profissional.</segment>
+    <segment id="56">AlÃ©m disso</segment>
+    <segment id="57">, hÃ¡ dois dias</segment>
+    <segment id="58">, prometeu abater dÃ­vidas com hospitais filantrÃ³picos em troca de mais vagas para o Sus.</segment>
+    <segment id="59">Levantamento do DiÃ¡rio GaÃºcho escancara uma triste realidade na saÃºde pÃºblica em 11 cidades da RegiÃ£o Metropolitana</segment>
+    <segment id="60">, incluindo Porto Alegre.</segment>
+    <segment id="61">Esteio: na periferia 
+HÃ¡ quase dois meses</segment>
+    <segment id="62">, a prefeitura de Esteio tem trÃªs vagas para mÃ©dicos nas ESFs.</segment>
+    <segment id="63">O salÃ¡rio Ã© de R$ 11 mil (40h).</segment>
+    <segment id="64">Existem</segment>
+    <segment id="65">, ainda</segment>
+    <segment id="66">, seis para pediatras</segment>
+    <segment id="67">Segundo o secretÃ¡rio da SaÃºde</segment>
+    <segment id="68">, JerÃ´nimo Paludo</segment>
+    <segment id="69">, os postos com dificuldades estÃ£o na periferia da cidade.</segment>
+    <segment id="70">Em breve</segment>
+    <segment id="71">, terÃ¡ contrataÃ§Ã£o emergencial e provisÃ³ria via FundaÃ§Ã£o SÃ£o Camilo de 12 mÃ©dicos (20h) e seis (40h).</segment>
+    <segment id="72">No segundo semestre</segment>
+    <segment id="73">, estÃ¡ previsto um concurso para outras 15 vagas.
+- Queremos chegar ao final deste ano com 45% de cobertura da EstratÃ©gia.</segment>
+    <segment id="74">Mas dependemos de encontrar mÃ©dicos - constata JerÃ´nimo.
+Sapucaia: no desespero 
+SecretÃ¡rio da SaÃºde de Sapucaia do Sul</segment>
+    <segment id="75">, JosÃ© Wink nÃ£o consegue preencher dez vagas de imediato e jÃ¡ teme pelas outras 15 que serÃ£o abertas atÃ© o fim do ano.</segment>
+    <segment id="76">ApÃ³s concurso de 2011</segment>
+    <segment id="77">, com salÃ¡rio de R$ 9</segment>
+    <segment id="78">,2 mil (40h)</segment>
+    <segment id="79">, sÃ³ conseguiu preencher oito das 16 vagas para mÃ©dicos de ESF.
+-</segment>
+    <segment id="80">Eles nÃ£o querem vÃ­nculo de 40 horas</segment>
+    <segment id="81">, preferem plantÃµes.</segment>
+    <segment id="82">JÃ¡ flexibilizamos para 30 horas</segment>
+    <segment id="83">, masmas nÃ£o conseguimos atraÃ­-los.</segment>
+    <segment id="84">JosÃ© afirma que o local onde o mÃ©dico trabalharÃ¡ acaba influenciando na decisÃ£o.</segment>
+    <segment id="85">Um prÃ³ximo concurso deve ser aberto em 2014.
+- Do jeito que estamos</segment>
+    <segment id="86">, contrato de forma emergencial por seis meses atÃ© quem tenha quatro horas disponÃ­veis - afirma</segment>
+    <segment id="87">, desesperado.</segment>
+    <segment id="88">Eldorado: complexidade 
+SecretÃ¡ria de SaÃºde de Eldorado do Sul</segment>
+    <segment id="89">, Liege Ferrari diz que a falta de 18 mÃ©dicos estaria relacionada Ã  classificaÃ§Ã£o do municÃ­pio</segment>
+    <segment id="90">, dada pelo Sus</segment>
+    <segment id="91">comocomo de baixa complexidade - com atendimento bÃ¡sico e sem hospital.
+- Os mÃ©dicos que atendem nas UBS tÃªm dificuldade de fazer diagnÃ³sticos</segment>
+    <segment id="92">, pois</segment>
+    <segment id="93">pois a marcaÃ§Ã£o de exames e consultas com especialistas pelo Sus Ã© morosa.</segment>
+    <segment id="94">Segundo ela</segment>
+    <segment id="95">, isso dificulta a investigaÃ§Ã£o e retarda o diagnÃ³stico e o tratamento.</segment>
+    <segment id="96">Os plantonistas ficam sem condiÃ§Ãµes tÃ©cnicas para atender na urgÃªncia ou transferir paciente quando Ã©</segment>
+    <segment id="97">casocaso urgente.</segment>
+    <segment id="98">Outras queixas na Capital
+- Na ESF DomÃªnico Feoli</segment>
+    <segment id="99">, no Bairro Rubem Berta</segment>
+    <segment id="100">, a comunidade reclama a falta de mÃ©dico.</segment>
+    <segment id="101">HÃ¡ apenas enfermeiros e tÃ©cnicos.</segment>
+    <segment id="102">A prefeitura diz que o posto nÃ£o foi inaugurado oficialmente pela ausÃªncia de mÃ©dico.</segment>
+    <segment id="103">Enquanto isso</segment>
+    <segment id="104">, o posto funcion parcialmente.</segment>
+    <segment id="105">Atendimentos tÃªm sido na UBS Rubem Berta.</segment>
+    <segment id="106">NÃ£o hÃ¡</segment>
+    <segment id="107">mÃ©dicos na rede para ocupar a vaga.</segment>
+    <segment id="108">SerÃ¡ necessÃ¡rio concurso.
+- Na UBS Santa Rosa</segment>
+    <segment id="109">, usuÃ¡rios reclamam a falta de mÃ©dico.</segment>
+    <segment id="110">A SMS confirma o dÃ©ficit e informa que a unidade conta com um clÃ­nico</segment>
+    <segment id="111">, dois pediatras e um ginecologista.</segment>
+    <segment id="112">Como a comunidade Ã© grande</segment>
+    <segment id="113">, deveria contar com mais um clÃ­nico.</segment>
+    <segment id="114">NÃ£o hÃ¡</segment>
+    <segment id="115">mÃ©dicos na rede para ocupar a vaga.</segment>
+    <segment id="116">SerÃ¡ necessÃ¡rio concurso.
+- Falta mÃ©dico no Beco do Adelar</segment>
+    <segment id="117">, ESF Vila Nova Ipanema.</segment>
+    <segment id="118">A carÃªncia foi confirmada pela SMS.</segment>
+    <segment id="119">Conforme a secretaria</segment>
+    <segment id="120">, um concurso emergencial deverÃ¡ ser feito para o preenchimento dessa vaga.</segment>
+    <segment id="121">Drama na Pitinga</segment>
+    <segment id="122">Em trÃªs folhas de rascunho</segment>
+    <segment id="123">, a tÃ©cnica de enfermagem ClÃ¡udia MaurÃ­lia Silva Machado</segment>
+    <segment id="124">, 46 anos</segment>
+    <segment id="125">, organizou a lista de problemas na Vila Pitinga - depois de digitÃ¡-la numa lan house</segment>
+    <segment id="126">, ela pretende entregar nas mÃ£os do governador</segment>
+    <segment id="127">para que</segment>
+    <segment id="128">para que ele resolva ou divida a missÃ£o com o prefeito de Porto Alegre.</segment>
+    <segment id="129">O primeiro deles</segment>
+    <segment id="130">Ã© a falta de mÃ©dico na ESF Vila Pitinga.
+- Moro hÃ¡ um ano e cinco meses aqui e ainda nÃ£o tive o prazer de conhecer a mÃ©dica.</segment>
+    <segment id="131">Fui sete vezes</segment>
+    <segment id="132">, pelo meio do mato para cortar caminho</segment>
+    <segment id="133">, e desisti.</segment>
+    <segment id="134">Precisava fazer exames</segment>
+    <segment id="135">, levar minhas filhas</segment>
+    <segment id="136">, masmas nÃ£o tinha nada.</segment>
+    <segment id="137">E nem adianta ir em outro posto:</segment>
+    <segment id="138">nÃ£o atendem - lamenta ClÃ¡udia.</segment>
+    <segment id="139">Enquanto o paÃ­s tem saÃ­do Ã s ruas para expressar indignaÃ§Ã£o e pedir por saÃºde e educaÃ§Ã£o e rechaÃ§ar a corrupÃ§Ã£o</segment>
+    <segment id="140">, mais uma vez ClÃ¡udia vive no dia a dia a carÃªncia de mÃ©dicos na rede pÃºblica.</segment>
+    <segment id="141">- Ã‰ muito fÃ¡cil pedir saÃºde quando a pessoa nÃ£o sente na pele</segment>
+    <segment id="142">, nÃ£o vive no dia a dia a dificuldade para conseguir uma consulta.</segment>
+    <segment id="143">Ela teve de gastar R$ 105 
+Cansada da espera</segment>
+    <segment id="144">, ClÃ¡udia tirou do sustento das filhas o pagamento de consulta numa clÃ­nica.</segment>
+    <segment id="145">Pela mamografia</segment>
+    <segment id="146">, desembolsou R$ 50.</segment>
+    <segment id="147">E pela ecografia transvaginal</segment>
+    <segment id="148">, R$ 55.
+- SÃ³ conseguimos atendimento de emergÃªncia (no Pronto Atendimento Lomba do Pinheiro) na Parada 12 e</segment>
+    <segment id="149">, da Ãºltima vez</segment>
+    <segment id="150">, entrei com a minha filha</segment>
+    <segment id="151">Ã s 18h e sÃ³ saÃ­mos Ã s 6h do dia seguinte - diz a tÃ©cnica de enfermagem</segment>
+    <segment id="152">, que abandonou a profissÃ£o e hoje faz e vende doces e salgados.</segment>
+    <segment id="153">Gastos para a Copa irritam</segment>
+    <segment id="154">Na lista que ClÃ¡udia pretende entregar ao governador Tarso Genro hÃ¡</segment>
+    <segment id="155">, ainda</segment>
+    <segment id="156">, queixas relacionadas a saneamento bÃ¡sico e pavimentaÃ§Ã£o.
+- Resolveram que o dinheiro (pÃºblico) irÃ¡ para as exuberÃ¢ncias da Copa do Mundo de 2014</segment>
+    <segment id="157">, e nÃ³s que pagamos impostos ficamos com esgoto a cÃ©u aberto</segment>
+    <segment id="158">, sem calÃ§amento</segment>
+    <segment id="159">, sem mÃ©dico no posto.</segment>
+    <segment id="160">A licenÃ§a maternidade</segment>
+    <segment id="161">A Secretaria Municipal da SaÃºde (SMS) contesta a informaÃ§Ã£o de que a ESF Vila Pitinga estÃ¡ sem mÃ©dico hÃ¡ mais de um ano.</segment>
+    <segment id="162">Conforme a SMS</segment>
+    <segment id="163">, o posto estÃ¡ sem a mÃ©dica hÃ¡</segment>
+    <segment id="164">seis meses por conta da licenÃ§a maternidade da profissional</segment>
+    <segment id="165">, masmas a gerente distrital fez alguns encaminhamentos.</segment>
+    <segment id="166">O retorno da mÃ©dica estÃ¡ previsto para 9 de julho.</segment>
+    <segment id="167">Na sua ausÃªncia</segment>
+    <segment id="168">, a orientaÃ§Ã£o aos usuÃ¡rios</segment>
+    <segment id="169">Ã© procurarem a ESF Vila Pitinga e</segment>
+    <segment id="170">, conforme a necessidade</segment>
+    <segment id="171">, profissionais do posto fazem contato com a USF Castelo</segment>
+    <segment id="172">, a USF 5Âª Unidade ou a USF NÃºcleo EsperanÃ§a para solicitar atendimento.</segment>
+    <segment id="173">Onde faltam os profissionais
+ObservaÃ§Ã£o: a assessoria de Canoas nÃ£o enviou os dados solicitados pelo DiÃ¡rio GaÃºcho.
+PORTO ALEGRE
+- Quantos - 42 mÃ©dicos de ESF
+- Onde - Em todas as regiÃµes</segment>
+    <segment id="174">, principalmente</segment>
+    <segment id="175">, nos bairros Restinga</segment>
+    <segment id="176">, Rubem Berta e MÃ¡rio Quintana.
+- SalÃ¡rio - R$ 9.584</segment>
+    <segment id="177">,45 (40h).</segment>
+    <segment id="178">O Imesf reconhece que o salÃ¡rio nÃ£o Ã© atrativo e estuda plano de carreira.
+- ContrataÃ§Ã£o - A prefeitura chamou 15 mÃ©dicos do concurso mais recente</segment>
+    <segment id="179">, masmas sÃ³ oito assumiram.</segment>
+    <segment id="180">Um novo concurso estÃ¡ sendo preparado para 45 vagas temporÃ¡rias.</segment>
+    <segment id="181">ALVORADA
+- Quantos - 4 mÃ©dicos
+- Onde - UBS Stella Maris (clÃ­nico geral)</segment>
+    <segment id="182">, UBS Tijuca (clÃ­nico geral)</segment>
+    <segment id="183">, URS 02 (pediatra) e URS 03 (pediatra)
+- SalÃ¡rio - Para clÃ­nico em posto de saÃºde Ã© de R$ 5.087</segment>
+    <segment id="184">,37 (20h) e R$ 10.076</segment>
+    <segment id="185">,34 (40h).</segment>
+    <segment id="186">Para mÃ©dicos gerais comunitÃ¡rios (via CLT)</segment>
+    <segment id="187">Ã© de R$ 9</segment>
+    <segment id="188">,3 mil (40h).</segment>
+    <segment id="189">A bolsa da UniÃ£o aos mÃ©dicos integrantes do Programa de ValorizaÃ§Ã£o da AtenÃ§Ã£o BÃ¡sica (Provab)</segment>
+    <segment id="190">Ã© de R$ 8 mil (40h).</segment>
+    <segment id="191">- ContrataÃ§Ã£o - Ã‰ feita via concurso</segment>
+    <segment id="192">, bolsa do Provab e terceirizados.</segment>
+    <segment id="193">Para este ano</segment>
+    <segment id="194">, estÃ¡ previsto concurso para diversas Ã¡reas e mÃ©dicos gerais comunitÃ¡rios.
+SÃƒO LEOPOLDO
+- Quantos - 50 mÃ©dicos (30 clÃ­nicos para plantÃµes e 20 especialistas)
+- Onde - SituaÃ§Ã£o generalizada: ESF</segment>
+    <segment id="195">, UBSs e centros especialidades.
+- SalÃ¡rio - Para ambulatÃ³rio (20h)</segment>
+    <segment id="196">, R$ 2.786.</segment>
+    <segment id="197">Para um plantonista</segment>
+    <segment id="198">, valor quase duplica.</segment>
+    <segment id="199">O secretÃ¡rio da SaÃºde</segment>
+    <segment id="200">, Ivo Leuck</segment>
+    <segment id="201">, reconhece que os salÃ¡rios nÃ£o sÃ£o competitivos.
+- ContrataÃ§Ã£o - Via concurso ou contrato emergencial de seis meses.</segment>
+    <segment id="202">Nos Ãºltimos seis meses</segment>
+    <segment id="203">, a prefeitura conseguiu aprovaÃ§Ã£o para a contraÃ§Ã£o de 32: mais da metade das vagas nÃ£o foi preenchida.</segment>
+    <segment id="204">VIAMÃƒO
+- Quantos - 15 mÃ©dicos (seis para ESF e o restante para cardiologia</segment>
+    <segment id="205">, ginecologia</segment>
+    <segment id="206">, pediatria e clÃ­nico)
+- Onde - Postos de ESF.</segment>
+    <segment id="207">Das nove equipes</segment>
+    <segment id="208">, seis estÃ£o sem mÃ©dicos.
+- SalÃ¡rio - R$ 11 mil para mÃ©dicos de ESF (40h).</segment>
+    <segment id="209">A especialistas</segment>
+    <segment id="210">, paga-</segment>
+    <segment id="211">sese, por 15 horas semanais</segment>
+    <segment id="212">, R$ 3</segment>
+    <segment id="213">,8 mil.
+- ContrataÃ§Ã£o - Segundo a secretÃ¡ria de SaÃºde</segment>
+    <segment id="214">, Sandra Speretto</segment>
+    <segment id="215">, foi realizado um concurso na gestÃ£o passada</segment>
+    <segment id="216">, masmas nenhum mÃ©dico assumiu e nÃ£o hÃ¡ lista de espera.</segment>
+    <segment id="217">Um novo concurso estÃ¡ em estudo.</segment>
+    <segment id="218">CACHOEIRINHA
+- Quantos - 40 mÃ©dicos (quatro de famÃ­lia</segment>
+    <segment id="219">, seis pediatras</segment>
+    <segment id="220">, dois cardiologistas e dois ortopedistas concursados e outras 26 vagas para contrataÃ§Ã£o emergencial nas Ã¡reas de pediatria</segment>
+    <segment id="221">, ortopedia e cardiologia)
+- Onde - Centro de Especialidades de Cachoeirinha</segment>
+    <segment id="222">, Pronto Atendimento 24 Horas</segment>
+    <segment id="223">, e na Rede BÃ¡sica na UBS GetÃºlio Vargas</segment>
+    <segment id="224">, e na ESF Canarinho</segment>
+    <segment id="225">, Carlos Wilkens</segment>
+    <segment id="226">, AraÃ§Ã¡</segment>
+    <segment id="227">, e OtacÃ­lio para substituir mÃ©dica em licenÃ§a maternidade.
+- SalÃ¡rio - MÃ©dico 8h/semanais: salÃ¡rio base R$ 2.292</segment>
+    <segment id="228">,23 (mais plano de carreira dos servidores municipais de Cachoeirinha).</segment>
+    <segment id="229">MÃ©dico ESF 20h/semanais: salÃ¡rio base de R$ 2.292</segment>
+    <segment id="230">,23 mais gratificaÃ§Ã£o de R$ 3.405</segment>
+    <segment id="231">,80.</segment>
+    <segment id="232">Total de R$ 5.698</segment>
+    <segment id="233">,03 (mais plano de carreira dos servidores municipais).</segment>
+    <segment id="234">MÃ©dico ESF 40h/semanais: salÃ¡rio base R$ 2.292</segment>
+    <segment id="235">,23 mais gratificaÃ§Ã£o de R$ 9.103</segment>
+    <segment id="236">,81, totalizando R$ 11.396</segment>
+    <segment id="237">,04 (mais plano de carreira dos servidores de Cachoeirinha).
+- ContrataÃ§Ãµes - Existe um edital aberto para contrato emergencial e a perspectiva de concurso pÃºblico para o final deste ano.</segment>
+    <segment id="238">GRAVATAÃ
+- Quantos - 18 mÃ©dicos (entre ESF</segment>
+    <segment id="239">, clÃ­nicos</segment>
+    <segment id="240">, pediatras e ginecologistas)
+- Onde - ESF Morungava</segment>
+    <segment id="241">, ESF Erico Verissimo</segment>
+    <segment id="242">, ESF Nova Conquista</segment>
+    <segment id="243">, ESF Aristides D'Ãvila e UBSs Morada do Vale</segment>
+    <segment id="244">, Ãguas Claras</segment>
+    <segment id="245">, Vila AlianÃ§a</segment>
+    <segment id="246">, Bonsucesso</segment>
+    <segment id="247">, Princesa Isabel</segment>
+    <segment id="248">, Centro e Parque dos Anjos.
+- SalÃ¡rio - Para estatutÃ¡rios e com contrato emergencial: R$ 2.962</segment>
+    <segment id="249">,16 (20h).</segment>
+    <segment id="250">Plantonista 24 horas: R$ 5.183</segment>
+    <segment id="251">,78.</segment>
+    <segment id="252">MÃ©dico de FamÃ­lia e comunitÃ¡rio: R$: 10.172</segment>
+    <segment id="253">,19 (40h).</segment>
+    <segment id="254">Regimes Especiais para MÃ©dicos</segment>
+    <segment id="255">EstatutÃ¡rios: R$ 5.183</segment>
+    <segment id="256">,78 (30h) e R$ 7.405</segment>
+    <segment id="257">,40 (40h).
+- ContrataÃ§Ã£o - SÃ£o realizadas por concurso pÃºblico e tambÃ©m via contrataÃ§Ã£o emergencial.</segment>
+    <segment id="258">Este</segment>
+    <segment id="259">Ãºltimo</segment>
+    <segment id="260">casocaso Ã© vÃ¡lido por seis meses</segment>
+    <segment id="261">, prorrogÃ¡vel por igual perÃ­odo</segment>
+    <segment id="262">, nÃ£o podendo ultrapassar o prazo de validade da lei municipal que autorizou a contrataÃ§Ã£o.</segment>
+    <segment id="263">HÃ¡ vagas em aberto para contrataÃ§Ã£o emergencial</segment>
+    <segment id="264">, divulgadas no site da prefeitura</segment>
+    <segment id="265">, no portal do Cremers e nos demais meios de comunicaÃ§Ã£o.</segment>
+    <segment id="266">Existe a previsÃ£o de concurso em 2013.</segment>
+    <segment id="267">GUAÃBA
+- Quantos - Dois mÃ©dicos clÃ­nicos
+- Onde - UBS Cohab
+- SalÃ¡rio - R$ 5 mil (30h)</segment>
+    <segment id="268">, com vantagens e gratificaÃ§Ãµes
+- ContrataÃ§Ã£o - Por concurso e de forma emergencial.</segment>
+    <segment id="269">Hoje, os dois mÃ©dicos que faltam serÃ£o contratados de forma emergencial (seis meses</segment>
+    <segment id="270">, prorrogÃ¡veis por mais seis).</segment>
+    <segment id="271">O prefeito Henrique Tavares</segment>
+    <segment id="272">, que Ã© mÃ©dico concursado do municÃ­pio</segment>
+    <segment id="273">, diz que o planejamento Ã© abrir concurso atÃ© o final do ano.</segment>
+    <segment id="274">ELDORADO DO SUL
+- Quantos - 18 (sete clÃ­nicos</segment>
+    <segment id="275">, seis pediatras</segment>
+    <segment id="276">, um cardiologista</segment>
+    <segment id="277">, um ginecologista</segment>
+    <segment id="278">, dois ESF e um ecografista)
+- Onde - Postos de Bom Retiro</segment>
+    <segment id="279">, Distrito</segment>
+    <segment id="280">, Sans Soucy</segment>
+    <segment id="281">, Picada</segment>
+    <segment id="282">, Progresso</segment>
+    <segment id="283">, Central e PA
+- SalÃ¡rio - R$ 2.691 (20h</segment>
+    <segment id="284">, mais bonificaÃ§Ãµes)</segment>
+    <segment id="285">, R$ 4 mil (plantÃ£o) e R$ 1</segment>
+    <segment id="286">,3 mil de difÃ­cil acesso
+- ContrataÃ§Ã£o - Concurso e emergencial (um ano</segment>
+    <segment id="287">, no mÃ¡ximo).</segment>
+    <segment id="288">Em breve</segment>
+    <segment id="289">, haverÃ¡ chamamento para oito clÃ­nicos gerais</segment>
+    <segment id="290">, seis pediatras</segment>
+    <segment id="291">, um ginecologista</segment>
+    <segment id="292">, um cardiologista e um infectologista.</segment>
+  </rst>
+</analysis>

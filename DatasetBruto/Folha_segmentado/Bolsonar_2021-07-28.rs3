@@ -1,0 +1,64 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente Jair Bolsonaro (sem partido) concedeu à sua mulher</segment>
+    <segment id="2">, a primeira-dama Michelle Bolsonaro</segment>
+    <segment id="3">, a Medalha do Mérito Oswaldo Cruz na categoria ouro.</segment>
+    <segment id="4">A condecoração é um reconhecimento pela atuação destacada no campo das atividades científicas</segment>
+    <segment id="5">, educacionais</segment>
+    <segment id="6">, culturais e administrativas pelos resultados benéficos à saúde de brasileiros.</segment>
+    <segment id="7">A informação foi publicada em decreto nesta quarta (28).</segment>
+    <segment id="8">Também foram agraciados com a condecoração os ministros Milton Ribeiro (Educação)</segment>
+    <segment id="9">, Fabio Faria (Comunicações)</segment>
+    <segment id="10">, Gilson Machado (Turismo)</segment>
+    <segment id="11">, Carlos Alberto França (Relações Exteriores)</segment>
+    <segment id="12">, João Roma (Cidadania)</segment>
+    <segment id="13">, Luiz Eduardo Ramos (Casa Civil)</segment>
+    <segment id="14">, Paulo Guedes (Economia)</segment>
+    <segment id="15">, Rogério Marinho (Desenvolvimento Regional)</segment>
+    <segment id="16">, Tarcisio Freitas (Infraestrutura)</segment>
+    <segment id="17">, Tereza Cristina (Agricultura</segment>
+    <segment id="18">, Pecuária e Abastecimento) e Walter Braga Netto (Defesa).</segment>
+    <segment id="19">O presidente Jair Bolsonaro em 2021Mais    novamente         de   de  de  representando um</segment>
+    <segment id="20">Os presidentes da Câmara</segment>
+    <segment id="21">, Arthur Lira (PP-AL)</segment>
+    <segment id="22">, e do Senado</segment>
+    <segment id="23">, Rodrigo Pacheco (DEM-MG)</segment>
+    <segment id="24">, também receberam a honraria.</segment>
+    <segment id="25">O presidente também concedeu uma outra medalha</segment>
+    <segment id="26">, a de Ordem do Mérito Médico</segment>
+    <segment id="27">, na classe comendador</segment>
+    <segment id="28">, ao seus médicos</segment>
+    <segment id="29">, o cirurgião Antônio Macedo</segment>
+    <segment id="30">, do Hospital Vila Nova Star</segment>
+    <segment id="31">, e o cirurgião Luiz Henrique Silva Borsato</segment>
+    <segment id="32">, da Santa Casa de Misericórdia de Juiz de Fora.</segment>
+    <segment id="33">Na classe grande-oficial</segment>
+    <segment id="34">, ao diretor-presidente da Anvisa (Agência Nacional de Vigilância Sanitária)</segment>
+    <segment id="35">, Antônio Barra Torres</segment>
+    <segment id="36">, e a Eloísa Bonfá</segment>
+    <segment id="37">, diretora clínica do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo</segment>
+    <segment id="38">, entre outros.</segment>
+  </rst>
+</analysis>

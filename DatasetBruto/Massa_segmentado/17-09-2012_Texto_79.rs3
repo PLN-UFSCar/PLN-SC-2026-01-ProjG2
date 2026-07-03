@@ -1,0 +1,35 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Piteuzinho da praia de ItapuÃ£
+JÃ©ssica</segment>
+    <segment id="2">Ã© a prova viva do quanto Ã© bom passar uma tarde em ItapuÃ£
+JÃ©ssica</segment>
+    <segment id="3">Andrade dos Santos</segment>
+    <segment id="4">, 18 anos</segment>
+    <segment id="5">, gosta de ser chamada de â€œGelâ€</segment>
+    <segment id="6">, masmas tambÃ©m jÃ¡ ganhou o apelido de â€œ Olhos de gatoâ€. Afinal</segment>
+    <segment id="7">, Ã© um gata!</segment>
+  </rst>
+</analysis>

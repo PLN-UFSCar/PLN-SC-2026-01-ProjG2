@@ -1,0 +1,76 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo do presidente Michel Temer (MDB) é considerado ruim ou péssimo por 70% dos brasileiros</segment>
+    <segment id="2">, índice estável na comparação com o registrado em janeiro deste ano.</segment>
+    <segment id="3">O índice de aprovação de Temer é de 6%</segment>
+    <segment id="4">, mesmo índice do levantamento anterior</segment>
+    <segment id="5">, e há 23% que o consideram regular (em janeiro</segment>
+    <segment id="6">, 22%) e 2% que não opinaram sobre o tema.</segment>
+    <segment id="7">De 0 a 10</segment>
+    <segment id="8">, o desempenho de Temer à frente do governo até o momento tem nota média 2</segment>
+    <segment id="9">,7, com 41% atribuindo nota 0 ao presidente.</segment>
+    <segment id="10">CORRUPÇÃO VOLTA</segment>
+    <segment id="11">A SER PRINCIPAL PROBLEMA DO PAÍS AO LADO DE ÁREA DA SAÚDE</segment>
+    <segment id="12">A corrupção voltou ao topo do ranking de problemas brasileiros após ter sido relegada ao segundo lugar em levantamentos realizados no segundo semestre do ano passado.</segment>
+    <segment id="13">Apontada espontaneamente por 21%</segment>
+    <segment id="14">comocomo o principal problema do país atualmente</segment>
+    <segment id="15">, a corrupção tem hoje patamar similar ao registrado para a área da saúde (19%) e fica à frente da preocupação com o desemprego e a violência (13%</segment>
+    <segment id="16">, cada).</segment>
+    <segment id="17">Em novembro do ano passado</segment>
+    <segment id="18">, 25% consideravam a saúde o principal problema brasileiro</segment>
+    <segment id="19">, e na sequência apareciam desemprego (19%) e só então a corrupção (15%).</segment>
+    <segment id="20">Três meses antes</segment>
+    <segment id="21">, em setembro de 2017</segment>
+    <segment id="22">, 24% viam a saúde</segment>
+    <segment id="23">comocomo maior problema do país</segment>
+    <segment id="24">, e em seguida apareciam desemprego (18%) e corrupção (18%).</segment>
+    <segment id="25">Na série histórica sobre o tema</segment>
+    <segment id="26">, a corrupção alcançou o ápice na agenda de principal preocupação dos brasileiros em março de 2016 (37%</segment>
+    <segment id="27">, ante 17% da saúde e 14% do desemprego).</segment>
+    <segment id="28">No levantamento atual</segment>
+    <segment id="29">, aparecem ainda</segment>
+    <segment id="30">comocomo principal problema do país a violência (13%</segment>
+    <segment id="31">, ante 8% em novembro de 2017)</segment>
+    <segment id="32">, a educação (10%)</segment>
+    <segment id="33">, a economia/crise econômica (4%)</segment>
+    <segment id="34">, a má administração (2%)</segment>
+    <segment id="35">, a desigualdade social (2%)</segment>
+    <segment id="36">, a fome/miséria (2%)</segment>
+    <segment id="37">, a política (1%) e a inflação (1%)</segment>
+    <segment id="38">, entre outros menos citados espontaneamente.</segment>
+    <segment id="39">Entre os brasileiros mais pobres</segment>
+    <segment id="40">, com renda familiar mensal de até 2 salários</segment>
+    <segment id="41">, 20% citam a saúde</segment>
+    <segment id="42">comocomo principal problema</segment>
+    <segment id="43">, e no mesmo patamar aparecem desemprego (18%) e corrupção (18%).</segment>
+    <segment id="44">Na fatia dos mais ricos</segment>
+    <segment id="45">, com renda familiar superior a 10 salários</segment>
+    <segment id="46">, a corrupção atinge 32%</segment>
+    <segment id="47">, 19% mencionam a violência</segment>
+    <segment id="48">, 15%, a educação</segment>
+    <segment id="49">, e só então aparecem saúde (9%) e desemprego (4%).</segment>
+    <segment id="50">Baixe esta pesquisa</segment>
+  </rst>
+</analysis>

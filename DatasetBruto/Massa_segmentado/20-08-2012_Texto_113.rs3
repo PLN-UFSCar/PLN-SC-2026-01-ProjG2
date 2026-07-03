@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Madames torram R$ 3.500 com roupas</segment>
+    <segment id="2">Os dados sÃ£o de uma pesquisa realizada em julho
+Mulheres de classe alta gastam</segment>
+    <segment id="3">, em mÃ©dia</segment>
+    <segment id="4">, R$ 3.500</segment>
+    <segment id="5">, por mÃªs</segment>
+    <segment id="6">, em roupas.</segment>
+    <segment id="7">Algumas chegam a torrar atÃ© R$ 10 mil.</segment>
+    <segment id="8">Os dados sÃ£o de uma pesquisa realizada em julho.</segment>
+    <segment id="9">Das 200 entrevistadas</segment>
+    <segment id="10">, 92% informaram comprar roupas e acessÃ³rios tanto no Brasil quanto no exterior e 29% declararam preferir comprar peÃ§as de vestuÃ¡rio em lojas de shopping.</segment>
+    <segment id="11">Um total de 90% tem cartÃ£o de crÃ©dito premium e a frequÃªncia mÃ©dia de compras</segment>
+    <segment id="12">Ã© a cada 15 dias.</segment>
+    <segment id="13">Para conhecer promoÃ§Ãµes</segment>
+    <segment id="14">, 48% preferem receber mensagens de texto.</segment>
+  </rst>
+</analysis>

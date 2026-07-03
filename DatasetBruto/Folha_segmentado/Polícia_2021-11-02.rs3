@@ -1,0 +1,51 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um empresário foi preso pela Polícia Civil na última sexta-feira (29)</segment>
+    <segment id="2">, em Carapicuíba (Grande SP)</segment>
+    <segment id="3">, sob a suspeita de comercializar produtos impróprios para consumo em uma distribuidora do bairro Cidade Ariston.</segment>
+    <segment id="4">Os agentes foram ao local após receberem uma denúncia anônima.</segment>
+    <segment id="5">Segundo a nota da polícia</segment>
+    <segment id="6">, o estabelecimento não seguia os padrões de higiene e refrigeração exigidos por lei.</segment>
+    <segment id="7">Com apoio da Vigilância Sanitária e do Instituto de Criminalística</segment>
+    <segment id="8">, foram encontrados produtos impróprios para o consumo.</segment>
+    <segment id="9">De acordo com a polícia</segment>
+    <segment id="10">, foram apreendidos cerca de 14.400 kg de alimentos</segment>
+    <segment id="11">, entre carne de frango</segment>
+    <segment id="12">, hambúrgueres</segment>
+    <segment id="13">, linguiças e salsichas</segment>
+    <segment id="14">, e aproximadamente 22 mil potes de margarina.</segment>
+    <segment id="15">A distribuidora foi lacrada e o proprietário</segment>
+    <segment id="16">, preso em flagrante.</segment>
+    <segment id="17">Produtos vencidos são nocivos à saúde  Alimentos que estão com a data de validade vencida não devem ser consumidos</segment>
+    <segment id="18">, mesmo que apresentem um bom aspecto visual.</segment>
+    <segment id="19">Além de estarem mais propensos à ação de fungos e bactérias</segment>
+    <segment id="20">, substâncias dos próprios alimentos começam a</segment>
+    <segment id="21">sese modificar</segment>
+    <segment id="22">, depois deste período</segment>
+    <segment id="23">, podendo causar intoxicações.</segment>
+    <segment id="24">Feira de alimentos na CeagespMais    novamente         de   de  de  representando</segment>
+    <segment id="25">um</segment>
+  </rst>
+</analysis>

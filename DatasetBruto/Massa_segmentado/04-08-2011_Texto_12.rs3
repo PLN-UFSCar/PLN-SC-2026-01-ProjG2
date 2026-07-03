@@ -1,0 +1,35 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Alexandra Paressant</segment>
+    <segment id="2">Modelo falou demais e vai ter que pagar</segment>
+    <segment id="3">A modelo francesa  Alexandra Paressant vai ter que dar a Ronaldinho Gaúcho o equivalente a  R$ 237 mil em decisão tomada ontem pela Justiça da Espanha</segment>
+    <segment id="4">, que  considerou falsas as declarações que ela deu logo depois da Copa do Mundo de 2006.</segment>
+    <segment id="5">Na ocasião</segment>
+    <segment id="6">, Alexandra deu entrevista ao jornal inglês The Sun garantindo que tinha encontros amorosos com o atacante enquanto ele estava na concentração da Seleção Brasileira durante a Copa do Mundo.</segment>
+    <segment id="7">Ela não provou nada e vai ter que pagar uma bolada!</segment>
+    <segment id="8">Por ter falado mal dele</segment>
+    <segment id="9">, a  modelo francesa terá que dar ao jogador o equivalente a  R$ 237 mil</segment>
+  </rst>
+</analysis>

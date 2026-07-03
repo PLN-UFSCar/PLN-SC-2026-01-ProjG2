@@ -1,0 +1,51 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Professores voltam</segment>
+    <segment id="2">Ã s salas de aula</segment>
+    <segment id="3">Com a aprovaÃ§Ã£o do Plano de Carreira</segment>
+    <segment id="4">, fica descartada a greve da categoria</segment>
+    <segment id="5">A CÃ¢mara Municipal de Salvador aprovou</segment>
+    <segment id="6">, na tarde de ontem</segment>
+    <segment id="7">, o projeto que institui o Plano de Cargos</segment>
+    <segment id="8">, Carreiras e Vencimentos (PCCV) dos professores da rede municipal.</segment>
+    <segment id="9">Com o acordo feito</segment>
+    <segment id="10">, os professores da rede municipal voltam ao trabalho hoje</segment>
+    <segment id="11">, apÃ³s paralisarem as atividades desde a Ãºltima segunda-feira.</segment>
+    <segment id="12">Os vereadores aprovaram o projeto por unanimidade</segment>
+    <segment id="13">, apÃ³s trÃªs semanas de tramitaÃ§Ã£o do projeto na CÃ¢mara Municipal.</segment>
+    <segment id="14">Dentre outros pontos</segment>
+    <segment id="15">, foi aprovada a reserva de jornada sem reduÃ§Ã£o da remuneraÃ§Ã£o.</segment>
+    <segment id="16">â€œSÃ³ este ponto garante que os professores destinem um terÃ§o da jornada para preparar aulas</segment>
+    <segment id="17">, para pensar a educaÃ§Ã£o.</segment>
+    <segment id="18">Com a aprovaÃ§Ã£o do projeto</segment>
+    <segment id="19">, vamos terminar este ano letivo e continuar o prÃ³ximo com muito mais entusiasmoâ€</segment>
+    <segment id="20">, disse a diretora da APLB</segment>
+    <segment id="21">, Elza Melo.</segment>
+    <segment id="22">Os professores tambÃ©m conseguiram a reserva de jornada para coordenadores pedagÃ³gicos e ganhos percentuais de 2</segment>
+    <segment id="23">,5% a 7</segment>
+    <segment id="24">,5% por aperfeiÃ§oamento profissional</segment>
+    <segment id="25">, dentre outros pontos.</segment>
+  </rst>
+</analysis>

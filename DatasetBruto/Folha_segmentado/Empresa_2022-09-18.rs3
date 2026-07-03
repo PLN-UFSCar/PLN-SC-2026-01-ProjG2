@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A empresa de recrutamento 99jobs anuncia nesta semana que vai representar o movimento Raça é Prioridade</segment>
+    <segment id="2">, iniciativa do Pacto Global da ONU Brasil para redução das desigualdades.</segment>
+    <segment id="3">Segundo a 99jobs</segment>
+    <segment id="4">, que atuou nos processos seletivos de trainees exclusivos para profissionais negros da Magalu e de outras companhias nos últimos anos</segment>
+    <segment id="5">, será criado um novo canal de oportunidades de trabalho para pessoas negras integrando empresas do movimento</segment>
+    <segment id="6">, como</segment>
+    <segment id="7">como Unilever</segment>
+    <segment id="8">, Uber</segment>
+    <segment id="9">, iFood e Vivo.</segment>
+    <segment id="10">A ONU está promovendo empresas com iniciativas de inserção dos negros no mercado de trabalho - Daniel Marenco - 10.jun.2021/FolhapressAtualmente</segment>
+    <segment id="11">, a empresa toca o projeto 10.000 Trainees Negros</segment>
+    <segment id="12">, que envolve processos seletivos em mil empresas</segment>
+    <segment id="13">, além de capacitar novos profissionais em cargos de chefia até 2030.</segment>
+    <segment id="14">Segundo a 99jobs</segment>
+    <segment id="15">, mais de 160 mil profissionais negros participam de algum processo seletivo por meio da plataforma.</segment>
+    <segment id="16">Joana Cunha com Paulo Ricardo Martins e Diego</segment>
+    <segment id="17">Felix</segment>
+  </rst>
+</analysis>

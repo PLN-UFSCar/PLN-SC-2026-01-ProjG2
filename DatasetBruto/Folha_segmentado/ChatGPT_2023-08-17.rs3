@@ -1,0 +1,104 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O ChatGPT deu nota oito aos dois primeiros governos do atual presidente Luiz Inácio Lula da Silva (PT) e seis pontos à gestão de Jair Bolsonaro (PL) encerrada em 2022</segment>
+    <segment id="2">, ao ser questionado pela Folha.</segment>
+    <segment id="3">A plataforma de inteligência artificial da OpenAI é treinada para não responder a perguntas de caráter ideológico.</segment>
+    <segment id="4">"</segment>
+    <segment id="5">A avaliação de quem é melhor entre Lula e Bolsonaro é altamente subjetiva"</segment>
+    <segment id="6">, responde por padrão o chatbot.</segment>
+    <segment id="7">A reportagem</segment>
+    <segment id="8">, entretanto</segment>
+    <segment id="9">, conseguiu um parecer da IA com base em saúde</segment>
+    <segment id="10">, educação</segment>
+    <segment id="11">, economia</segment>
+    <segment id="12">, segurança</segment>
+    <segment id="13">, meio ambiente</segment>
+    <segment id="14">, desigualdade e combate à corrupção.</segment>
+    <segment id="15">Para isso</segment>
+    <segment id="16">, usou táticas para fazer o ChatGPT não seguir suas travas.</segment>
+    <segment id="17">Os critérios de análise foram sugeridos pela própria máquina.</segment>
+    <segment id="18">O presidente-executivo da OpenAI</segment>
+    <segment id="19">, Sam Altman</segment>
+    <segment id="20">, fala em encontro sobre inteligência artificial realizado em Paris - AFPA IA ainda avaliou políticas públicas</segment>
+    <segment id="21">, infraestrutura</segment>
+    <segment id="22">, relações internacionais</segment>
+    <segment id="23">, transparência</segment>
+    <segment id="24">, participação cidadã</segment>
+    <segment id="25">, inovação e tecnologia e políticas de gênero e diversidade.</segment>
+    <segment id="26">A conversa começou com um pedido de ajuda para escolher um candidato nas eleições de 2022.</segment>
+    <segment id="27">"</segment>
+    <segment id="28">Quem parece mais adequado para o futuro do país: Lula ou Bolsonaro?</segment>
+    <segment id="29">"  "</segment>
+    <segment id="30">Como sou um modelo de linguagem de IA</segment>
+    <segment id="31">, não posso expressar preferências políticas ou tomar partido"</segment>
+    <segment id="32">, respondeu a ferramenta</segment>
+    <segment id="33">, que também apresentou informações básicas sobre cada candidato.</segment>
+    <segment id="34">O chatbot</segment>
+    <segment id="35">, então</segment>
+    <segment id="36">, aceitou fazer uma tabela com informações sobre os candidatos dentro das categorias mencionadas anteriormente.</segment>
+    <segment id="37">Depois</segment>
+    <segment id="38">, entregou uma avaliação com notas de um a cinco para cada critério.</segment>
+    <segment id="39">Desvendando IAUm guia do New York Times em formato de newsletter para você entender</segment>
+    <segment id="40">comocomo funciona a IACarregando...</segment>
+    <segment id="41">"Dado que a avaliação de desempenho em cada categoria pode variar dependendo das perspectivas e critérios individuais</segment>
+    <segment id="42">, é importante lembrar que minha resposta é baseada em informações até setembro de 2021 e representa uma avaliação subjetiva com base nas informações disponíveis"</segment>
+    <segment id="43">, escreveu o ChatGPT quando entregou a tabela abaixo.</segment>
+    <segment id="44">A reportagem também pediu para o chatbot citar exemplos de políticos que sejam referências positivas e negativas nas principais áreas.</segment>
+    <segment id="45">A ex-primeira-ministra da Alemanha</segment>
+    <segment id="46">, Angela Merkel</segment>
+    <segment id="47">, é referência de bom desempenho na economia</segment>
+    <segment id="48">, por exemplo.</segment>
+    <segment id="49">Robert Mugabe (Zimbábue) exemplifica o fracasso na área</segment>
+    <segment id="50">, para a IA</segment>
+    <segment id="51">, que cita Bolsonaro</segment>
+    <segment id="52">comocomo mau exemplo no meio ambiente.</segment>
+    <segment id="53">Um estudo científico publicado nesta quarta-feira (16) concluiu que a plataforma de inteligência artificial ChatGPT tem um viés de esquerda.</segment>
+    <segment id="54">A pesquisa "</segment>
+    <segment id="55">Mais humano que humano</segment>
+    <segment id="56">: medindo o viés político do ChatGPT" desenvolveu uma metodologia para detectar</segment>
+    <segment id="57">sese as respostas às perguntas dos usuários à inteligência artificial mostravam algum viés ideológico.</segment>
+    <segment id="58">Os resultados indicam que o ChatGPT privilegia a visão de eleitores do Partido Democrata dos EUA</segment>
+    <segment id="59">, de Lula e do Partido Trabalhista do Reino Unido.</segment>
+    <segment id="60">Por causa da aleatoriedade inerente das respostas dos grandes modelos de linguagem (LLM) que alimentam plataformas</segment>
+    <segment id="61">comocomo o ChatGPT</segment>
+    <segment id="62">, cada pergunta foi feita cem vezes.</segment>
+    <segment id="63">Os pesquisadores dizem acreditar que a metodologia pode ser usada em auditorias de viés de inteligência artificial.</segment>
+    <segment id="64">A OpenAI</segment>
+    <segment id="65">, criadora do ChatGPT</segment>
+    <segment id="66">, disse em post em seu blog em fevereiro deste ano que suas diretrizes "são explícitas determinando que os revisores (dos dados) não deveriam privilegiar nenhum grupo político".</segment>
+    <segment id="67">"</segment>
+    <segment id="68">No entanto</segment>
+    <segment id="69">, vieses podem surgir</segment>
+    <segment id="70">, masmas eles são defeitos</segment>
+    <segment id="71">, e não características do processo.</segment>
+    <segment id="72">"</segment>
+    <segment id="73">O presidente-executivo da OpenAI</segment>
+    <segment id="74">, Sam Altman</segment>
+    <segment id="75">, diz ser um democrata crítico.</segment>
+    <segment id="76">Também já elogiou uma visão ideológica chamada "altruísmo eficiente"</segment>
+    <segment id="77">, que defende usar evidências empíricas para fornecer o maior bem-estar coletivo possível.</segment>
+    <segment id="78">Sam Altman comparece em evento no Brasil pela primeira vez desde lançamento do ChatGPTMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

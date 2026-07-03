@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O site Downdetector registrou um aumento de reclamações sobre o funcionamento da rede social Instagram a partir das 10h30 desta quinta-feira (2).</segment>
+    <segment id="2">O número chegou a mais de 2.300 por volta das 11h.</segment>
+    <segment id="3">De acordo com o Downdetector</segment>
+    <segment id="4">, 69% das reclamações</segment>
+    <segment id="5">sese referem a aplicativos móveis</segment>
+    <segment id="6">, 18% a websites e 12% à linha do tempo.</segment>
+    <segment id="7">Há relatos também de usuários de outros países sobre Instagram postados em outras redes.</segment>
+    <segment id="8">Logotipo do aplicativo Instagram - Francis Mascarenhas-20.set.2023/ReutersA Meta</segment>
+    <segment id="9">, dona do Instagram</segment>
+    <segment id="10">, ainda não informou o motivo da instabilidade.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,122 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Duas pessoas vão tirar cara ou coroa por telefone.</segment>
+    <segment id="2">Como garantir que ninguém vai trapacear?</segment>
+    <segment id="3">Uma opção é o jogador número 1 escrever sua aposta num papel</segment>
+    <segment id="4">, trancá-la num cofre e enviá-la ao jogador número 2</segment>
+    <segment id="5">, que então joga a moeda e só aí abre o cofre.</segment>
+    <segment id="6">Mas, neste cenário em que as duas partes não podem</segment>
+    <segment id="7">sese comunicar por imagens ao vivo</segment>
+    <segment id="8">, nada garante que o segundo jogador não vá quebrar o cofre antes de lançar a moeda</segment>
+    <segment id="9">, falseando o resultado a seu favor.</segment>
+    <segment id="10">O exemplo pode parecer distante de um</segment>
+    <segment id="11">casocaso de segurança digital</segment>
+    <segment id="12">, masmas a analogia explica a pesquisa de Bárbara Amaral</segment>
+    <segment id="13">, professora de física da USP</segment>
+    <segment id="14">, e de seus colaboradores</segment>
+    <segment id="15">, Charles Tresser (IMPA) e Paulo Nussenzveig (USP)</segment>
+    <segment id="16">, que acreditam ter a solução para um problema antigo: o comprometimento de bit.</segment>
+    <segment id="17">A cientista aposta que pode desenvolver um protocolo quântico de criptografia</segment>
+    <segment id="18">, ou seja</segment>
+    <segment id="19">, uma estratégia mais eficaz para manter protegidas as informações trocadas online.</segment>
+    <segment id="20">Ilustração: Lívia Serri Francoio - Instituto SerrapilheiraA criptografia é o campo do conhecimento que investiga técnicas de comunicação que permitem apenas ao remetente e ao receptor o acesso a uma determinada mensagem</segment>
+    <segment id="21">, o que nos dá mais segurança para fazer uma chamada por Zoom ou uma transferência bancária pela internet.</segment>
+    <segment id="22">Isso é possível graças a diferentes protocolos que mantêm o sistema seguro.</segment>
+    <segment id="23">O comprometimento do bit</segment>
+    <segment id="24">, um desses protocolos criptográficos</segment>
+    <segment id="25">, é um ponto fraco que assombra há anos os pesquisadores da área.</segment>
+    <segment id="26">"</segment>
+    <segment id="27">É como</segment>
+    <segment id="28">como se</segment>
+    <segment id="29">se essas estratégias de segurança digital fossem um quebra-cabeças composto de várias peças</segment>
+    <segment id="30">, sendo o comprometimento de bit uma pecinha fundamental"</segment>
+    <segment id="31">, explica Amaral.</segment>
+    <segment id="32">Ou seja: em teoria</segment>
+    <segment id="33">, quem possuir um computador superpotente e conseguir quebrar aquele elo sensível poderá hackear vários protocolos atuais.</segment>
+    <segment id="34">"</segment>
+    <segment id="35">Nosso plano é resolver esse ponto fraco.</segment>
+    <segment id="36">"</segment>
+    <segment id="37">Apesar da confiança da pesquisadora</segment>
+    <segment id="38">, o desafio não é simples</segment>
+    <segment id="39">-existe até um consenso de que a questão é insolúvel.</segment>
+    <segment id="40">No final dos anos 1990</segment>
+    <segment id="41">, dois artigos na revista "Physical Review Letters"</segment>
+    <segment id="42">, uma das mais prestigiadas da área</segment>
+    <segment id="43">, mostraram que</segment>
+    <segment id="44">, mesmo usando a física quântica</segment>
+    <segment id="45">, o comprometimento de bit é impossível de ser 100% contornado: no jogo de cara ou coroa por telefone</segment>
+    <segment id="46">, uma das duas partes sempre consegue trapacear.</segment>
+    <segment id="47">"</segment>
+    <segment id="48">Esses estudos trouxeram teoremas que encerraram o assunto e diminuíram o interesse da comunidade nessa questão"</segment>
+    <segment id="49">, relembra Amaral.</segment>
+    <segment id="50">Colunas e BlogsReceba no seu email uma seleção de colunas e blogs da Folha</segment>
+    <segment id="51">; exclusiva para assinantes.</segment>
+    <segment id="52">Carregando...</segment>
+    <segment id="53">Ainda que não haja dúvidas quanto aos estudos</segment>
+    <segment id="54">, a professora e sua equipe acreditam ser possível contornar algumas hipóteses apresentadas.</segment>
+    <segment id="55">"</segment>
+    <segment id="56">Estudando as provas dos teoremas</segment>
+    <segment id="57">, encontrei uma possível saída: queremos adicionar ao protocolo um sistema auxiliar que servirá para garantir que a parte que recebe o cofre siga as instruções corretamente"</segment>
+    <segment id="58">, explica.</segment>
+    <segment id="59">"</segment>
+    <segment id="60">Entre os sistemas quânticos pode haver uma correlação mais forte que entre os sistemas clássicos</segment>
+    <segment id="61">, um fenômeno conhecido</segment>
+    <segment id="62">comocomo emaranhamento quântico</segment>
+    <segment id="63">, e são essas correlações que podem nos ajudar.</segment>
+    <segment id="64">"</segment>
+    <segment id="65">Esse sistema auxiliar enviado à segunda parte deve estar correlacionado a outro sistema que a primeira mantém em seu poder.</segment>
+    <segment id="66">Caso o segundo jogador tente trapacear</segment>
+    <segment id="67">, ele irá destruir essas correlações entre os sistemas auxiliares de uma maneira que pode ser verificada pelo primeiro jogador.</segment>
+    <segment id="68">Na analogia do jogo</segment>
+    <segment id="69">, seria</segment>
+    <segment id="70">comocomo a primeira pessoa enviar dois cofres</segment>
+    <segment id="71">, um com o seu comprometimento e um com o sistema auxiliar adicional.</segment>
+    <segment id="72">A parte que recebe o cofre não sabe qual é qual.</segment>
+    <segment id="73">Caso ela tente quebrar os cofres</segment>
+    <segment id="74">, irá destruir a correlação entre o sistema auxiliar que foi enviado e o sistema que ficou com o primeiro jogador.</segment>
+    <segment id="75">"É um projeto ousado</segment>
+    <segment id="76">, considerando que toda uma comunidade trabalhou nisso por anos e não conseguiu fugir dessa impossibilidade.</segment>
+    <segment id="77">Mas se</segment>
+    <segment id="78">se a gente conseguir resolver de forma mesmo que parcial</segment>
+    <segment id="79">, seria um avanço muito representativo"</segment>
+    <segment id="80">, conta.</segment>
+    <segment id="81">O grupo precisa provar que a teoria é viável na prática.</segment>
+    <segment id="82">Para 2022</segment>
+    <segment id="83">, o plano é desenvolver um protocolo que funcione em um cenário ideal e ter a análise do</segment>
+    <segment id="84">casocaso pronta e publicada.</segment>
+    <segment id="85">"</segment>
+    <segment id="86">Isso já vai provocar um boom na comunidade -ainda que achemos uma pequena falha na ideia</segment>
+    <segment id="87">, o resultado vai gerar uma discussão</segment>
+    <segment id="88">, inspirar pessoas a retomar o tema"</segment>
+    <segment id="89">, diz Amaral.</segment>
+    <segment id="90">Se der certo</segment>
+    <segment id="91">, em cerca de três anos o grupo começará a implementação experimental nos laboratórios da USP.</segment>
+    <segment id="92">"</segment>
+    <segment id="93">É nos projetos de risco que está a ciência que precisamos fazer"</segment>
+    <segment id="94">, ela conclui.  *  Pedro Lira é jornalista e social media no Instituto Serrapilheira.</segment>
+    <segment id="95">Inscreva-</segment>
+    <segment id="96">sese na newsletter do Serrapilheira para acompanhar mais novidades do instituto e do blog Ciência Fundamental.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,110 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Não caia na história de que a vacina contra a gripe pode derrubar a imunidade ou causar gripe.</segment>
+    <segment id="2">A vacina contra a gripe é segura e bem tolerada.</segment>
+    <segment id="3">Ela é inativada e contém vírus mortos</segment>
+    <segment id="4">, fracionados ou em subunidades</segment>
+    <segment id="5">, e, portanto</segment>
+    <segment id="6">, não pode causar a doença.</segment>
+    <segment id="7">Em poucos casos podem ocorrer manifestações de dor no local da injeção ou endurecimento da região da aplicação</segment>
+    <segment id="8">, o que pode ser associado a erro técnico de aplicação.</segment>
+    <segment id="9">Também pode ocorrer</segment>
+    <segment id="10">, raramente</segment>
+    <segment id="11">, mal-estar ou febre</segment>
+    <segment id="12">, masmas os sintomas tendem a desaparecer em 48 horas.</segment>
+    <segment id="13">Quadros respiratórios simultâneos podem ocorrer sem relação de causa e efeito com a vacina.</segment>
+    <segment id="14">A vacina só não é recomendada para quem tem alergia à proteína do ovo – usada na sua fabricação</segment>
+    <segment id="15">, segundo o Ministério da Saúde.</segment>
+    <segment id="16">Pessoa espirra no metrô</segment>
+    <segment id="17">; contato com gotículas de pessoas doentes pode transmitir gripe - Danilo Verpa/FolhapressTodas as pessoas acima de seis meses de idade devem</segment>
+    <segment id="18">sese vacinar contra a gripe.</segment>
+    <segment id="19">O grupo prioritário inclui crianças entre seis meses e cinco anos</segment>
+    <segment id="20">, idosos</segment>
+    <segment id="21">, professores e profissionais de saúde</segment>
+    <segment id="22">, grávidas</segment>
+    <segment id="23">, mulheres que tiveram filhos há até 45 dias</segment>
+    <segment id="24">, presidiários</segment>
+    <segment id="25">, funcionários do sistema prisional</segment>
+    <segment id="26">, indígenas e pessoas com doenças crônicas ou condições clínicas especiais (respiratórias</segment>
+    <segment id="27">, cardíacas</segment>
+    <segment id="28">, renais</segment>
+    <segment id="29">, hepáticas</segment>
+    <segment id="30">, neurológicas</segment>
+    <segment id="31">, diabéticos</segment>
+    <segment id="32">, obesos</segment>
+    <segment id="33">, imunodeprimidos</segment>
+    <segment id="34">, transplantados).</segment>
+    <segment id="35">Perguntas e respostas  Vou ficar gripado por causa da vacina?</segment>
+    <segment id="36">Não, porque</segment>
+    <segment id="37">porque a vacina tem vírus mortos e fracionados.</segment>
+    <segment id="38">Desse modo</segment>
+    <segment id="39">, eles não podem causar a doença.</segment>
+    <segment id="40">Alguém não pode tomar a vacina?</segment>
+    <segment id="41">Bebês menores de seis meses e quem já teve reações anafiláticas em aplicações anteriores.</segment>
+    <segment id="42">Pessoas que tiveram a síndrome de Guillain-Barré ou reações alérgicas graves a ovo —a vacina contém traços de proteínas do alimento— também devem ter mais cuidado.</segment>
+    <segment id="43">Preciso tomar a vacina todo ano?</segment>
+    <segment id="44">É recomendado que</segment>
+    <segment id="45">sese tome anualmente</segment>
+    <segment id="46">, considerando que as cepas do vírus mudam constantemente.</segment>
+    <segment id="47">As crianças de seis meses a nove anos que recebem a vacina pela primeira vez precisam tomar outra dose</segment>
+    <segment id="48">, com intervalo de 30 dias.</segment>
+    <segment id="49">A vacina começa a fazer efeito na hora?</segment>
+    <segment id="50">Não, ela leva de 2 a 3 semanas para começar a proteger adultos saudáveis —e a proteção dura de 6 a 12 meses.</segment>
+    <segment id="51">A vacina vai me proteger contra resfriados?</segment>
+    <segment id="52">Não.</segment>
+    <segment id="53">O resfriado é uma inflamação das vias aéreas</segment>
+    <segment id="54">, com obstrução nasal e tosse.</segment>
+    <segment id="55">Já a gripe causa febre alta</segment>
+    <segment id="56">, tosse</segment>
+    <segment id="57">, dor de garganta</segment>
+    <segment id="58">, dor muscular</segment>
+    <segment id="59">, dor de cabeça</segment>
+    <segment id="60">, coriza</segment>
+    <segment id="61">, irritação nos olhos e ouvidos</segment>
+    <segment id="62">, e dura mais tempo (em torno de cinco dias).</segment>
+    <segment id="63">Como se</segment>
+    <segment id="64">se pega gripe?</segment>
+    <segment id="65">A forma de contágio é pelo contato com secreções (tosse ou espirros ​acabam ajudando na disseminação) de pessoas doentes.</segment>
+    <segment id="66">Como posso me prevenir?</segment>
+    <segment id="67">Tome a vacina</segment>
+    <segment id="68">, que é o método mais eficaz Lave sempre as mãos com água e sabão</segment>
+    <segment id="69">Evite o contato das mãos com olhos</segment>
+    <segment id="70">, nariz e boca</segment>
+    <segment id="71">Cubra a boca ao tossir e espirrar</segment>
+    <segment id="72">Como me trato</segment>
+    <segment id="73">sese eu ficar doente?</segment>
+    <segment id="74">Repouso e muito líquido</segment>
+    <segment id="75">Medicamentos também podem ser indicados</segment>
+    <segment id="76">, masmas vale consultar um médico​</segment>
+    <segment id="77">Estou com um sintoma</segment>
+    <segment id="78">, devo ir para o hospital?</segment>
+    <segment id="79">Não necessariamente</segment>
+    <segment id="80">, porque</segment>
+    <segment id="81">porque pode ser só um resfriado.</segment>
+    <segment id="82">Quando</segment>
+    <segment id="83">sese está com a imunidade baixa</segment>
+    <segment id="84">, ir a hospitais pode aumentar a exposição a micro-organismos e facilitar a contração de gripe ou outras doenças.</segment>
+  </rst>
+</analysis>

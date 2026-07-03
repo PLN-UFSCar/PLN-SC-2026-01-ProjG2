@@ -1,0 +1,149 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo federal declarou estado de emergência ambiental para uma série de regiões do país em diferentes épocas do ano por causa do risco de incêndios florestais.</segment>
+    <segment id="2">Assinado pela ministra do Meio Ambiente</segment>
+    <segment id="3">, Marina Silva</segment>
+    <segment id="4">, o ato foi publicado no Diário Oficial da União desta quinta-feira (8).</segment>
+    <segment id="5">A publicação da portaria permite a órgãos públicos</segment>
+    <segment id="6">, por exemplo</segment>
+    <segment id="7">, a contratação de serviços por tempo determinado sem a necessidade de processo seletivo —ou a prorrogação de contratos vigentes— com o objetivos de remediar problemas causados pelas condições adversas.</segment>
+    <segment id="8">Registro aéreo mostra a cicatriz do incêndio na Reserva Biológica do Lago Piratuba</segment>
+    <segment id="9">, na Amazônia - Dayane Pastana/ICMBioA portaria do Ministério do Meio Ambiente definiu oito situações de emergência que vão desde dezembro do ano passado até março de 2025 em localidades das cinco regiões brasileiras.</segment>
+    <segment id="10">São elas:</segment>
+    <segment id="11">Entre os meses de dezembro de 2023 a julho de 2024   Paraná</segment>
+    <segment id="12">, na mesorregião Sudeste Paranaense</segment>
+    <segment id="13">Entre os meses de fevereiro a setembro de 2024</segment>
+    <segment id="14">Minas Gerais</segment>
+    <segment id="15">, na mesorregião Campo das Vertentes Paraná</segment>
+    <segment id="16">, nas mesorregiões: Centro Ocidental Paranaense e Noroeste Paranaense Rio Grande do Sul</segment>
+    <segment id="17">, nas mesorregiões: Centro Ocidental Rio-grandense e Metropolitana de Porto Alegre São Paulo</segment>
+    <segment id="18">, nas mesorregiões: Bauru</segment>
+    <segment id="19">, Campinas</segment>
+    <segment id="20">, Itapetininga</segment>
+    <segment id="21">, Litoral Sul Paulista e Metropolitana de São Paulo</segment>
+    <segment id="22">Entre os meses de março a outubro de 2024   Distrito Federal</segment>
+    <segment id="23">, na mesorregião Distrito Federal Goiás</segment>
+    <segment id="24">, nas mesorregiões: Centro Goiano</segment>
+    <segment id="25">, Leste Goiano</segment>
+    <segment id="26">, Norte Goiano e Sul Goiano Maranhão</segment>
+    <segment id="27">, na mesorregião Sul Maranhense Mato Grosso</segment>
+    <segment id="28">, nas mesorregiões:</segment>
+    <segment id="29">Nordeste Mato-grossense</segment>
+    <segment id="30">, Norte Mato-grossense e Sudeste Mato-grossense Mato Grosso do Sul</segment>
+    <segment id="31">, nas mesorregiões: Centro Norte de Mato Grosso do Sul e Leste de Mato Grosso do Sul</segment>
+    <segment id="32">Minas Gerais</segment>
+    <segment id="33">, nas mesorregiões: Central Mineira</segment>
+    <segment id="34">, Noroeste de Minas</segment>
+    <segment id="35">, Sul/Sudoeste de Minas e Triângulo Mineiro/Alto Paranaíba Paraná</segment>
+    <segment id="36">, nas mesorregiões:</segment>
+    <segment id="37">Centro Oriental Paranaense</segment>
+    <segment id="38">, Norte Central Paranaense</segment>
+    <segment id="39">, Norte Pioneiro Paranaense</segment>
+    <segment id="40">, Oeste Paranaense e Sudoeste Paranaense Rio Grande do Sul</segment>
+    <segment id="41">, nas mesorregiões: Centro Oriental Rio-grandense</segment>
+    <segment id="42">, Nordeste Rio-grandense e Sudeste Rio-grandense Rio de Janeiro</segment>
+    <segment id="43">, nas mesorregiões: Noroeste Fluminense e Norte Fluminense São Paulo</segment>
+    <segment id="44">, nas mesorregiões: Araçatuba</segment>
+    <segment id="45">, Araraquara</segment>
+    <segment id="46">, Assis</segment>
+    <segment id="47">, Macro Metropolitana Paulista</segment>
+    <segment id="48">, Marília</segment>
+    <segment id="49">, Piracicaba</segment>
+    <segment id="50">, Presidente Prudente</segment>
+    <segment id="51">, Ribeirão Preto</segment>
+    <segment id="52">, São José do Rio Preto e Vale do Paraíba Paulista Tocantins</segment>
+    <segment id="53">, nas mesorregiões:</segment>
+    <segment id="54">Ocidental do Tocantins e Oriental do Tocantins</segment>
+    <segment id="55">Entre os meses de abril a novembro de 2024</segment>
+    <segment id="56">Acre, nas mesorregiões: Vale do Acre e Vale do Juruá Amazonas</segment>
+    <segment id="57">, na mesorregião Sul</segment>
+    <segment id="58">Amazonense Bahia</segment>
+    <segment id="59">, nas mesorregiões:</segment>
+    <segment id="60">Centro Sul Baiano e Extremo Oeste Baiano Goiás</segment>
+    <segment id="61">, na mesorregião Noroeste Goiano Mato Grosso</segment>
+    <segment id="62">, na mesorregião Sudoeste Mato-grossense Mato Grosso do Sul</segment>
+    <segment id="63">, nas mesorregiões: Pantanais Sul Mato-grossense e Sudoeste de Mato Grosso do Sul</segment>
+    <segment id="64">Minas Gerais</segment>
+    <segment id="65">, nas mesorregiões:</segment>
+    <segment id="66">Jequitinhonha</segment>
+    <segment id="67">, Metropolitana de Belo Horizonte</segment>
+    <segment id="68">, Norte de Minas</segment>
+    <segment id="69">, Oeste de Minas</segment>
+    <segment id="70">, Vale do Mucuri</segment>
+    <segment id="71">, Vale do Rio Doce e Zona da Mata Paraná</segment>
+    <segment id="72">, nas mesorregiões:</segment>
+    <segment id="73">Centro-Sul Paranaense e Metropolitana de Curitiba Piauí</segment>
+    <segment id="74">, na mesorregião Sudoeste Piauiense Rio Grande do Sul</segment>
+    <segment id="75">, na mesorregião Noroeste Rio-grandense Rio de Janeiro</segment>
+    <segment id="76">, nas mesorregiões: Baixadas e Sul Fluminense Rondônia</segment>
+    <segment id="77">, nas mesorregiões: Leste Rondoniense e Madeira-Guaporé</segment>
+    <segment id="78">Entre os meses de maio a dezembro de 2024   Amapá</segment>
+    <segment id="79">, na mesorregião Norte do Amapá Amazonas</segment>
+    <segment id="80">, nas mesorregiões:</segment>
+    <segment id="81">Centro Amazonense e Sudoeste Amazonense Bahia</segment>
+    <segment id="82">, nas mesorregiões: Centro Norte Baiano e Vale São-Franciscano da Bahia Ceará</segment>
+    <segment id="83">, na mesorregião Jaguaribe Maranhão</segment>
+    <segment id="84">, nas mesorregiões: Centro Maranhense</segment>
+    <segment id="85">, Leste Maranhense</segment>
+    <segment id="86">, Norte Maranhense e Oeste Maranhense Mato Grosso</segment>
+    <segment id="87">, na mesorregião Centro-Sul</segment>
+    <segment id="88">Mato-grossense</segment>
+    <segment id="89">Pará, nas mesorregiões:</segment>
+    <segment id="90">Baixo Amazonas</segment>
+    <segment id="91">, Marajó</segment>
+    <segment id="92">, Nordeste Paraense</segment>
+    <segment id="93">, Sudeste Paraense e Sudoeste Paraense Pernambuco</segment>
+    <segment id="94">, na mesorregião São Francisco Pernambucano Piauí</segment>
+    <segment id="95">, nas mesorregiões:</segment>
+    <segment id="96">Centro-Norte Piauiense e Sudeste Piauiense Rio Grande do Sul</segment>
+    <segment id="97">, na mesorregião</segment>
+    <segment id="98">Sudoeste Rio-grandense Rio de Janeiro</segment>
+    <segment id="99">, na mesorregião Centro Fluminense</segment>
+    <segment id="100">Entre os meses de junho de 2024 a janeiro de 2025   Amapá</segment>
+    <segment id="101">, na mesorregião Sul do Amapá Ceará</segment>
+    <segment id="102">, nas mesorregiões:</segment>
+    <segment id="103">Centro-Sul Cearense</segment>
+    <segment id="104">, Metropolitana de Fortaleza</segment>
+    <segment id="105">, Norte Cearense</segment>
+    <segment id="106">, Sertões Cearenses e Sul Cearense Pará</segment>
+    <segment id="107">, na mesorregião Metropolitana de Belém Pernambuco</segment>
+    <segment id="108">, na mesorregião Sertão Pernambucano Piauí</segment>
+    <segment id="109">, na mesorregião Norte Piauiense Rio de Janeiro</segment>
+    <segment id="110">, na mesorregião Metropolitana do Rio de Janeiro</segment>
+    <segment id="111">Entre os meses de julho de 2024 a fevereiro de 2025   Amazonas</segment>
+    <segment id="112">, na mesorregião Norte</segment>
+    <segment id="113">Amazonense Ceará</segment>
+    <segment id="114">, na mesorregião Noroeste Cearense Pernambuco</segment>
+    <segment id="115">, na mesorregião Metropolitana de Recife</segment>
+    <segment id="116">Entre os meses de agosto de 2024 a março de 2025   Bahia</segment>
+    <segment id="117">, nas mesorregiões: Metropolitana de Salvador</segment>
+    <segment id="118">, Nordeste Baiano e Sul Baiano Pernambuco</segment>
+    <segment id="119">, na mesorregião Mata Pernambucana</segment>
+    <segment id="120">Entre os meses de setembro de 2024 a abril de 2025   Pernambuco</segment>
+    <segment id="121">, na mesorregião Agreste Pernambucano Roraima</segment>
+    <segment id="122">, nas mesorregiões:</segment>
+    <segment id="123">Norte de Roraima e Sul de Roraima</segment>
+  </rst>
+</analysis>

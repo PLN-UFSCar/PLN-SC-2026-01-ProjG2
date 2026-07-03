@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Queria assustar vizinho
+Ailton foi preso pela primeira vez.</segment>
+    <segment id="2">Ele foi flagrado com um revÃ³lver calibre 38</segment>
+    <segment id="3">O ajudante de elÃ©trica Ailton RebouÃ§as Ferreira</segment>
+    <segment id="4">, 25, foi preso por porte ilegal de armas quando passava pelo Caminho de Areia.</segment>
+    <segment id="5">Ailton disse que estava armado</segment>
+    <segment id="6">porque</segment>
+    <segment id="7">porque queria dar um susto em um vizinho</segment>
+    <segment id="8">, que teria roubado cinco bermudas dele.</segment>
+    <segment id="9">â€œEle fuma crack.</segment>
+    <segment id="10">Pegou minhas bermudas no varal.</segment>
+    <segment id="11">Fui dar um susto nele e quando voltava para casa os policias me abordaramâ€</segment>
+    <segment id="12">, conta.</segment>
+  </rst>
+</analysis>

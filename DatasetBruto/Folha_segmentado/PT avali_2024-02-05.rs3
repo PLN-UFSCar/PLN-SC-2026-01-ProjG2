@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O PT considera que em apenas 10 das 26 capitais do país a situação das candidaturas a prefeito está totalmente resolvida —seja com nome próprio ou</segment>
+    <segment id="2">comocomo parte de uma coligação.</segment>
+    <segment id="3">PT apoiará Guilherme Boulos (PSOL) à Prefeitura de São Paulo</segment>
+    <segment id="4">; na foto</segment>
+    <segment id="5">, Boulos</segment>
+    <segment id="6">, Lula e ex-prefeita Marta Suplicy - Nelson Almeida/AFPExemplos são Porto Alegre e Goiânia</segment>
+    <segment id="7">, com as candidaturas</segment>
+    <segment id="8">, respectivamente</segment>
+    <segment id="9">, das deputadas Maria do Rosário e Adriana Accorsi</segment>
+    <segment id="10">, além de SP</segment>
+    <segment id="11">, com apoio a Guilherme Boulos (PSOL).</segment>
+    <segment id="12">Entre os casos ainda espinhosos estão Fortaleza</segment>
+    <segment id="13">, com dois petistas disputando a vaga</segment>
+    <segment id="14">, Belo Horizonte</segment>
+    <segment id="15">, onde pode haver apoio ao prefeito Fuad Noman (PSD) e Rio</segment>
+    <segment id="16">, cidade em que o partido pleiteia a vice de Eduardo Paes (PSD).</segment>
+    <segment id="17">O grupo eleitoral da legenda</segment>
+    <segment id="18">sese reúne na quarta (7) para mapear a situação pelo país.</segment>
+  </rst>
+</analysis>

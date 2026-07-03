@@ -1,0 +1,48 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Acusado de matar Jorge Pedra Ã© inocente</segment>
+    <segment id="2">Emerson confessou que matou</segment>
+    <segment id="3">, masmas voltou atrÃ¡s e disse que falou sob pressÃ£o
+Emerson Neves de Jesus</segment>
+    <segment id="4">, 22, acusado de matar o apresentador de TV Jorge Pedra</segment>
+    <segment id="5">, foi absolvido ontem em julgamento realizado no 2Âº Tribunal do JÃºri</segment>
+    <segment id="6">, no FÃ³rum Ruy Barbosa.</segment>
+    <segment id="7">Emerson foi absolvido  pelo juiz Vilebaldo de Freitas</segment>
+    <segment id="8">, por falta de provas</segment>
+    <segment id="9">, segundo a assessoria de comunicaÃ§Ã£o do Tribunal de JustiÃ§a.</segment>
+    <segment id="10">O acusado nega o crime.</segment>
+    <segment id="11">Jorge Pedra morreu no dia 1Âº de novembro de 2009.</segment>
+    <segment id="12">Na Ã©poca</segment>
+    <segment id="13">, a versÃ£o da polÃ­cia apontou que a vÃ­tima teria</segment>
+    <segment id="14">sese negado a  pagar R$ 500 apÃ³s fazer sexo com o suspeito</segment>
+    <segment id="15">, que era garoto de programa.</segment>
+    <segment id="16">Os dois  brigaram.</segment>
+    <segment id="17">O apresentador levou a pior e foi esfaqueado</segment>
+    <segment id="18">, dentro de um apartamento</segment>
+    <segment id="19">, no Hotel Democrata</segment>
+    <segment id="20">, no Largo Dois de Julho.</segment>
+    <segment id="21">Emerson havia sido denunciado por homicÃ­dio qualificado.</segment>
+  </rst>
+</analysis>

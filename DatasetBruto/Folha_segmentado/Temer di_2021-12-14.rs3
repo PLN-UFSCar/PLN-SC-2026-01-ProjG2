@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O ex-presidente Michel Temer afirma nunca ter convidado Deltan Dallagnol para uma conversa no Palácio do Jaburu</segment>
+    <segment id="2">, contrariando o que disse o ex-procurador no domingo (12).</segment>
+    <segment id="3">O ex-integrante do MPF fez um vídeo para negar que tivesse pedido em 2019 uma audiência com Bolsonaro e disse que</segment>
+    <segment id="4">, na verdade</segment>
+    <segment id="5">, foram interlocutores do presidente que lhe procuraram.</segment>
+    <segment id="6">Dallagnol afirmou que o mesmo ocorreu em 2016</segment>
+    <segment id="7">, quando recusou convite no governo Temer.</segment>
+    <segment id="8">Jamais convidei o senhor Dallagnol.</segment>
+    <segment id="9">Aliás, só soube da existência desse procurador quando ele</segment>
+    <segment id="10">sese exibiu no famoso PowerPoint"</segment>
+    <segment id="11">, diz ao Painel o ex-presidente.</segment>
+    <segment id="12">Este é Deltan DallagnolMais    novamente         de   de  de  representando</segment>
+    <segment id="13">um</segment>
+  </rst>
+</analysis>

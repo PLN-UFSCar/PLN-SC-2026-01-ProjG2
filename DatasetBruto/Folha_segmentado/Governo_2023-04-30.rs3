@@ -1,0 +1,125 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo publicou a MP (medida provisória) que eleva a isenção do Imposto de Renda contendo</segment>
+    <segment id="2">, como</segment>
+    <segment id="3">como compensação</segment>
+    <segment id="4">, iniciativas para tributar rendimentos no exterior de pessoas físicas residentes no Brasil.</segment>
+    <segment id="5">A iniciativa atinge</segment>
+    <segment id="6">, inclusive</segment>
+    <segment id="7">, recursos depositados em paraísos fiscais.</segment>
+    <segment id="8">O ministro da Fazenda do governo Lula</segment>
+    <segment id="9">, Fernando Haddad (PT)</segment>
+    <segment id="10">, concede entrevista no prédio do Banco do Brasil</segment>
+    <segment id="11">, na capital paulista.</segment>
+    <segment id="12">- 06.abr.2023-Ronny Santos/FolhapressO Ministério da Fazenda mira mais de R$ 1 trilhão (US$ 200 bilhões) em ativos de pessoas físicas no exterior –incluindo recursos depositados em paraísos fiscais– que não pagam "praticamente nada" de Imposto de Renda sobre rendimentos decorrentes de juros e royalties</segment>
+    <segment id="13">, entre outros investimentos.</segment>
+    <segment id="14">De acordo com a MP</segment>
+    <segment id="15">, os rendimentos auferidos a partir de 2024 em aplicações financeiras no exterior pelas pessoas físicas residentes no país passam a ser tributados com alíquotas de até 22</segment>
+    <segment id="16">,5% a depender do tamanho dos ganhos.</segment>
+    <segment id="17">Até R$ 6.000 em rendimentos anuais</segment>
+    <segment id="18">, a alíquota é zero.</segment>
+    <segment id="19">De R$ 6.000 a R$ 50 mil</segment>
+    <segment id="20">, a cobrança vai a 15% sobre os ganhos.</segment>
+    <segment id="21">De R$ 50 mil adiante</segment>
+    <segment id="22">, o percentual sobe para 22</segment>
+    <segment id="23">,5%.</segment>
+    <segment id="24">Os valores valem para aplicações financeiras</segment>
+    <segment id="25">, lucros e dividendos de entidades controladas e bens e direitos presentes nos chamados trusts.</segment>
+    <segment id="26">O trust é uma entidade contratual regida por lei estrangeira e que estabelece uma relação jurídica entre o instituidor (dono dos recursos) o trustee (pessoa ou instituição responsável por administrar os recursos) e os beneficiários (uma ou mais pessoas indicadas pelo instituidor para receber os bens e direitos</segment>
+    <segment id="27">, acrescidos dos frutos).</segment>
+    <segment id="28">Um dos artigos prevê que</segment>
+    <segment id="29">, a partir de 2024</segment>
+    <segment id="30">, os lucros de entidades no exterior de pessoas físicas residentes no Brasil serão tributados anualmente quando estiverem em um regime de tributação favorecida ou com regime fiscal privilegiado —o que engloba uma série de países que funcionam</segment>
+    <segment id="31">comocomo paraísos fiscais</segment>
+    <segment id="32">, onde a cobrança de tributos sobre os recursos é mínima.</segment>
+    <segment id="33">Também são incluídas na cobrança as controladas que não gerarem de forma significativa renda própria pela exploração de atividade econômica (o que exclui</segment>
+    <segment id="34">, nos termos do texto</segment>
+    <segment id="35">, itens</segment>
+    <segment id="36">comocomo royalties</segment>
+    <segment id="37">, dividendos</segment>
+    <segment id="38">, juros</segment>
+    <segment id="39">, aluguéis e ganhos de capital).</segment>
+    <segment id="40">Impactos fiscais das medidas:</segment>
+    <segment id="41">As medidas têm potencial de arrecadação da ordem de R$ 3</segment>
+    <segment id="42">,25 bilhões para o ano de 2023</segment>
+    <segment id="43">, próximo a R$ 3</segment>
+    <segment id="44">,59 bilhões para o ano de 2024 e de R$ 6</segment>
+    <segment id="45">,75 bilhões para o ano de 2025</segment>
+    <segment id="46">Em relação à atualização dos valores da tabela mensal do IRPF</segment>
+    <segment id="47">, estima-</segment>
+    <segment id="48">sese uma redução de receitas em 2023 da ordem de R$ 3</segment>
+    <segment id="49">,20 bilhões (referente a sete meses)</segment>
+    <segment id="50">, em 2024 de R$ 5</segment>
+    <segment id="51">,88 bilhões e em 2025 de R$ 6</segment>
+    <segment id="52">,27 bilhões    Incluem-</segment>
+    <segment id="53">sese nas mudanças entidades</segment>
+    <segment id="54">comocomo fundos de investimento e fundações</segment>
+    <segment id="55">, em que a pessoa física detiver</segment>
+    <segment id="56">, de forma direta ou indireta</segment>
+    <segment id="57">, isoladamente ou em conjunto com outras partes</segment>
+    <segment id="58">, direitos que lhe assegurem preponderância nas deliberações ou poder de eleger ou destituir a maioria dos seus administradores.</segment>
+    <segment id="59">Também são enquadradas as sociedades em que a pessoa possuir</segment>
+    <segment id="60">, direta ou indiretamente</segment>
+    <segment id="61">, isoladamente ou em conjunto com outras</segment>
+    <segment id="62">, mais de 50% de participação no capital social ou o equivalente na obtenção de recursos.</segment>
+    <segment id="63">De acordo com o texto</segment>
+    <segment id="64">, os recursos serão tributados no momento da efetiva disponibilização para a pessoa física residente no Brasil</segment>
+    <segment id="65">, isto é</segment>
+    <segment id="66">, quando houver pagamento</segment>
+    <segment id="67">, crédito</segment>
+    <segment id="68">, entrega</segment>
+    <segment id="69">, emprego ou remessa de lucros</segment>
+    <segment id="70">; ou ainda quando houver quaisquer operações de crédito realizadas com a pessoa física ou com pessoa a ela vinculada (o que é determinado no texto por uma lista que inclui</segment>
+    <segment id="71">, por exemplo</segment>
+    <segment id="72">, cônjuge</segment>
+    <segment id="73">, companheiro ou parente até o terceiro grau).</segment>
+    <segment id="74">A pessoa física residente no Brasil poderá atualizar o valor dos bens e direitos no exterior informados na sua declaração de ajuste do Imposto de Renda para o valor de mercado em 31 de dezembro de 2022 e tributar a diferença para o custo de aquisição</segment>
+    <segment id="75">, pelo IRPF</segment>
+    <segment id="76">, à alíquota definitiva de 10%.</segment>
+    <segment id="77">Nesse caso</segment>
+    <segment id="78">caso, o imposto deverá ser pago até 30 de novembro de 2023.</segment>
+    <segment id="79">Cobranças sobre paraísos fiscais eram previstas em um projeto de lei enviado pelo então ministro Paulo Guedes (Economia) para o Congresso com o objetivo de modificar as regras do Imposto de Renda</segment>
+    <segment id="80">, masmas o trecho acabou sendo eliminado após conversas entre ele e parlamentares.</segment>
+    <segment id="81">Na época</segment>
+    <segment id="82">, Guedes chegou a defender a retirada do trecho.</segment>
+    <segment id="83">"</segment>
+    <segment id="84">Ah, ‘porque</segment>
+    <segment id="85">porque tem que pegar as offshore’ e não sei quê.</segment>
+    <segment id="86">Começou a complicar?</segment>
+    <segment id="87">Ou tira ou simplifica.</segment>
+    <segment id="88">Tira.</segment>
+    <segment id="89">Estamos seguindo essa regra"</segment>
+    <segment id="90">, afirmou na época.</segment>
+    <segment id="91">Posteriormente</segment>
+    <segment id="92">, foi revelado que o próprio Guedes</segment>
+    <segment id="93">, sua esposa e sua filha eram acionistas de uma offshore nas Ilhas Virgens Britânicas</segment>
+    <segment id="94">, conhecido paraíso fiscal</segment>
+    <segment id="95">, segundo reportagens publicadas por veículos</segment>
+    <segment id="96">comocomo a revista Piauí e o jornal El País</segment>
+    <segment id="97">, que participam do projeto do Consórcio Internacional de Jornalistas Investigativos (o ICIJ).</segment>
+    <segment id="98">Na época</segment>
+    <segment id="99">, uma representante da OCDE (Organização para a Cooperação e o Desenvolvimento Econômico) afirmou que o Brasil estava perdendo a oportunidade de fechar o cerco ao uso de paraísos fiscais.  Colaborou Nathalia Garcia</segment>
+  </rst>
+</analysis>

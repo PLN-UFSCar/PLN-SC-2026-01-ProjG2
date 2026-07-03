@@ -1,0 +1,56 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O projeto FolhaJus estreia nesta semana três seções na sua newsletter</segment>
+    <segment id="2">, exclusiva para assinantes da Folha.</segment>
+    <segment id="3">Os boletins são enviados de segunda a sexta com análises e uma curadoria do que mais relevante acontece no noticiário jurídico.</segment>
+    <segment id="4">FolhaJusA newsletter sobre o mundo jurídico exclusiva para assinantes da FolhaCarregando...</segment>
+    <segment id="5">Cada dia da semana</segment>
+    <segment id="6">, de segunda a sexta</segment>
+    <segment id="7">, um tema que interessa a advogados e profissionais do direito será apresentado por jornalistas da Folha.</segment>
+    <segment id="8">Análises sobre reforma tributária</segment>
+    <segment id="9">, previdência e diversidade estreiam na newsletter.</segment>
+    <segment id="10">Segunda |</segment>
+    <segment id="11">Agenda do STF:</segment>
+    <segment id="12">O repórter José Marques</segment>
+    <segment id="13">, de Brasília</segment>
+    <segment id="14">, antecipa os principais julgamentos da semana.</segment>
+    <segment id="15">Terça |</segment>
+    <segment id="16">Três reportagens exclusivas e a coluna do Frederico Vasconcelos</segment>
+    <segment id="17">, jornalista e autor dos livros "</segment>
+    <segment id="18">Fraude" (Scritta)</segment>
+    <segment id="19">, "Juízes no Banco dos Réus" e "Anatomia da Reportagem" (Publifolha).</segment>
+    <segment id="20">Quarta | Reforma Tributária: o repórter Eduardo Cucolo explica os impactos das mudanças nos impostos para os advogados.</segment>
+    <segment id="21">Quinta |</segment>
+    <segment id="22">Diversidade: as jornalistas</segment>
+    <segment id="23">Priscila Camazano e Géssica Brandino escrevem sobre iniciativas no direito.</segment>
+    <segment id="24">Sexta |</segment>
+    <segment id="25">Previdência: a repórter Cristiane Gercina tira dúvidas sobre previdência</segment>
+    <segment id="26">, precatórios e direito trabalhista.</segment>
+    <segment id="27">Além da FolhaJus</segment>
+    <segment id="28">, temos mais de 20 newsletters que o ajudam a ficar bem informado.</segment>
+    <segment id="29">Increva-</segment>
+    <segment id="30">sese no Minha Folha o aqui.</segment>
+  </rst>
+</analysis>

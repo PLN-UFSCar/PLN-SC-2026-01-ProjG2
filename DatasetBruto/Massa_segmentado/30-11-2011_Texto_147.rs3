@@ -1,0 +1,51 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Estudante é baleado por assaltantes na Praia de Botafogo
+RIO - Um aluno da escola de Direita da Fundação Getúlio Vargas (FGV) foi baleado na barriga</segment>
+    <segment id="2">, por volta das 14h desta quarta-feira</segment>
+    <segment id="3">, ao reagir a um assalto na Praia de Botafogo</segment>
+    <segment id="4">, na Zona Sul do Rio.</segment>
+    <segment id="5">Segundo o tenente-coronel Alípio Bonfim</segment>
+    <segment id="6">, subcomandante do 2º BPM (Botafogo)</segment>
+    <segment id="7">, o estudante acabara de sair da FGV quando foi abordado por dois homens numa motocicleta.</segment>
+    <segment id="8">Os bandidos queriam roubar a mochila do jovem.</segment>
+    <segment id="9">Policiais militares socorreram a vítima</segment>
+    <segment id="10">, que está sendo operada neste momento no Hospital Souza Aguiar</segment>
+    <segment id="11">, no Centro.</segment>
+    <segment id="12">Em nota</segment>
+    <segment id="13">, a FGV lamentou o crime e disse que está prestando assistência ao estudante.</segment>
+    <segment id="14">Ainda segundo a instituição</segment>
+    <segment id="15">, o aluno foi abordado ao deixar uma agência bancária e foi socorrido por professores e funcionários.</segment>
+    <segment id="16">Confira a íntegra do comunicado:
+
+"</segment>
+    <segment id="17">A FGV lamenta o ocorrido com um aluno da sua escola de Direito que nesta quarta-feira foi baleado no abdômen após ser assaltado por volta das 14h na saída de um banco na Praia de Botafogo.</segment>
+    <segment id="18">O aluno está sendo atendido no hospital Souza Aguiar.</segment>
+    <segment id="19">Ele foi socorrido por professores e funcionários da FGV que estavam no local.</segment>
+    <segment id="20">A FGV se</segment>
+    <segment id="21">se solidariza com a família e amigos do estudante e informa que está prestando toda assistência ao aluno.</segment>
+    <segment id="22">"</segment>
+  </rst>
+</analysis>

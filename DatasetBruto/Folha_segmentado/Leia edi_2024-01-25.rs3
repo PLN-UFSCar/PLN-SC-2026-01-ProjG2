@@ -1,0 +1,159 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Esta é a edição da newsletter FolhaMercado desta quinta-feira (25).</segment>
+    <segment id="2">Quer recebê-la de segunda a sexta</segment>
+    <segment id="3">, às 7h</segment>
+    <segment id="4">, no seu email?</segment>
+    <segment id="5">Inscreva-</segment>
+    <segment id="6">sese abaixo:</segment>
+    <segment id="7">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="8">; aberta para não assinantes.</segment>
+    <segment id="9">Carregando...</segment>
+    <segment id="10">Apple trabalha com IA em silêncio</segment>
+    <segment id="11">Com pouco alarde</segment>
+    <segment id="12">, a Apple está desenvolvendo seus modelos internos de IA (inteligência artificial) para incluí-los na próxima geração de iPhones</segment>
+    <segment id="13">, conforme reportagem do jornal britânico Financial Times.</segment>
+    <segment id="14">O avanço veio com a aquisição de empresas menores de IA.</segment>
+    <segment id="15">Foram 21 compras de startups que atuam com a ferramenta desde o início de 2017</segment>
+    <segment id="16">, segundo a plataforma PitchBook.</segment>
+    <segment id="17">Os desafios: para embarcar a tecnologia nativa em dispositivos móveis e não na nuvem</segment>
+    <segment id="18">, modelo que é o mais usado hoje</segment>
+    <segment id="19">, a Apple precisa diminuir o tamanho dos modelos de linguagem –os motores da IA generativa</segment>
+    <segment id="20">, como</segment>
+    <segment id="21">como o GPT.</segment>
+    <segment id="22">Em parceria com a Universidade de Columbia</segment>
+    <segment id="23">, ela está pesquisando um modelo que poderia ser integrado à Siri (assistente virtual)</segment>
+    <segment id="24">;</segment>
+    <segment id="25">Um exemplo de seu uso seria dizer ao usuário qual marca de camisa alguém está usando em uma chamada de vídeo e</segment>
+    <segment id="26">, em seguida</segment>
+    <segment id="27">, encomendá-la por meio de um aplicativo</segment>
+    <segment id="28">;</segment>
+    <segment id="29">A evolução da ferramenta</segment>
+    <segment id="30">, porém</segment>
+    <segment id="31">porém, ainda esbarra nos custos.</segment>
+    <segment id="32">Veja fotos do lançamento do iPhone 15Mais    novamente         de   de  de  representando um</segment>
+    <segment id="33">Como outras big techs</segment>
+    <segment id="34">sese movimentam na IA generativa:  ↳</segment>
+    <segment id="35">A Samsung</segment>
+    <segment id="36">, que foi ultrapassada pela Apple</segment>
+    <segment id="37">comocomo maior fabricante de celulares</segment>
+    <segment id="38">, lançou o Galaxy S24 com uma série de ferramentas abastecidas com IA.</segment>
+    <segment id="39">É o caso</segment>
+    <segment id="40">caso da transcrição e tradução simultânea de áudios</segment>
+    <segment id="41">;  ↳</segment>
+    <segment id="42">A Microsoft</segment>
+    <segment id="43">, investidora da OpenAI</segment>
+    <segment id="44">, usa o motor do GPT numa função chamada Copilot</segment>
+    <segment id="45">, que está no pacote Office</segment>
+    <segment id="46">, no Bing etc.  ↳</segment>
+    <segment id="47">O Google lançou o Bard</segment>
+    <segment id="48">, seu chatbot que também é usado para entregar respostas a pesquisas feitas no buscador nos EUA.  ↳</segment>
+    <segment id="49">A Meta também desenvolveu seu robô de conversas e disse que vai usar a ferramenta em seus principais produtos –Facebook</segment>
+    <segment id="50">, Instagram e WhatsApp.  ↳</segment>
+    <segment id="51">A Amazon lançou um chatbot corporativo focado em ambientes de trabalho.</segment>
+    <segment id="52">A sucessão na Vale</segment>
+    <segment id="53">A mineradora Vale começa hoje (25) a decidir o nome que vai comandar a companhia pelos próximos três anos.</segment>
+    <segment id="54">O cargo está na mira do presidente Lula (PT)</segment>
+    <segment id="55">, que tenta emplacar o ex-ministro da Fazenda Guido Mantega.</segment>
+    <segment id="56">Ao contrário das estatais</segment>
+    <segment id="57">, porém</segment>
+    <segment id="58">porém, o governo tem pouca interferência na companhia.</segment>
+    <segment id="59">Privatizada em 1997</segment>
+    <segment id="60">, hoje ela é uma "corporation"</segment>
+    <segment id="61">, ou seja</segment>
+    <segment id="62">, sem controlador definido.</segment>
+    <segment id="63">Cara a cara: com 13 membros</segment>
+    <segment id="64">, o conselho de administração da Vale tem dois indicados pela Previ</segment>
+    <segment id="65">, o fundo de pensão dos empregados do Banco do Brasil.</segment>
+    <segment id="66">Bradesco e Mitsui têm um representante cada.</segment>
+    <segment id="67">E há um representante dos empregados da companhia.</segment>
+    <segment id="68">Os outros oito conselheiros são independentes</segment>
+    <segment id="69">, isto é</segment>
+    <segment id="70">, sem ligação com acionistas relevantes.</segment>
+    <segment id="71">O processo de decisão:</segment>
+    <segment id="72">casocaso a companhia opte por não renovar o mandato do atual presidente</segment>
+    <segment id="73">, Eduardo Bartolomeu</segment>
+    <segment id="74">, o estatuto prevê a contratação de uma empresa de headhunter de "padrão internacional" para formar uma lista tríplice de candidatos.</segment>
+    <segment id="75">A escolha final é do conselho.</segment>
+    <segment id="76">Os principais candidatos ao cargo de presidente da Vale:  - Eduardo Bartolomeu: assumiu em 2021 e tenta ser reconduzido para mais três anos no posto</segment>
+    <segment id="77">, masmas há divergências entre os conselheiros.  - Guido Mantega: ex-ministro da Fazenda de 2006 a 2015 —nas gestões de Lula e Dilma (PT)--</segment>
+    <segment id="78">, é o preferido do petista para assumir o cargo.  - Murilo Ferreira: seria uma opção de "meio-termo" entre Lula e o conselho.</segment>
+    <segment id="79">Foi eleito presidente da mineradora em 2011</segment>
+    <segment id="80">, quando teve o apoio de Dilma.  - Luis Henrique Guimarães: atual conselheiro da Vale</segment>
+    <segment id="81">, deixou a presidência da Cosan em novembro do ano passado.</segment>
+    <segment id="82">É nome de confiança de Rubens Ometto</segment>
+    <segment id="83">, holding que comprou 4</segment>
+    <segment id="84">,9% da mineradora em 2022.</segment>
+    <segment id="85">GM anuncia R$ 7 bi no Brasil</segment>
+    <segment id="86">No plano da GM de investir R$ 7 bilhões no Brasil até 2028</segment>
+    <segment id="87">, anunciado nesta quarta</segment>
+    <segment id="88">, o assunto passou longe dos carros elétricos</segment>
+    <segment id="89">, que passam por uma espécie de descrédito em mercados do Ocidente.</segment>
+    <segment id="90">A dona da marca Chevrolet disse que o objetivo será adequar as fábricas instaladas no país para a produção de novos veículos</segment>
+    <segment id="91">, incluindo automóveis híbridos flex —capazes de rodar com eletricidade</segment>
+    <segment id="92">, etanol e gasolina.</segment>
+    <segment id="93">O que explica: a aposta da GM vai ao encontro da adotada por outras montadoras e pelo governo.  ↳</segment>
+    <segment id="94">Com os elétricos ainda sofrendo com a falta de infraestrutura no Brasil</segment>
+    <segment id="95">, o setor tenta aproveitar o potencial do país nos biocombustíveis</segment>
+    <segment id="96">, em especial o etanol</segment>
+    <segment id="97">, considerado menos poluente.</segment>
+    <segment id="98">↳</segment>
+    <segment id="99">A montadora americana é a primeira a anunciar investimentos no Brasil após a publicação do programa Mover (Mobilidade Verde)</segment>
+    <segment id="100">, que estabelece regras de eficiência energética e vai conceder até R$ 19</segment>
+    <segment id="101">,3 bilhões para o setor automotivo.</segment>
+    <segment id="102">Freio: depois de ter anunciado no início de 2021 que não faria mais veículos com motor a combustão a partir de 2035</segment>
+    <segment id="103">, a GM começou a revisar o plano.</segment>
+    <segment id="104">A estratégia passa pela queda da demanda por carros elétricos em países</segment>
+    <segment id="105">comocomo EUA</segment>
+    <segment id="106">, onde montadoras</segment>
+    <segment id="107">comocomo a Tesla</segment>
+    <segment id="108">, de Elon Musk</segment>
+    <segment id="109">, chegaram a fazer uma guerra de preços no ano passado para reconquistar os consumidores.</segment>
+    <segment id="110">Nesta quarta</segment>
+    <segment id="111">, a líder do setor nos EUA alertou na divulgação de seu balanço para um crescimento "notavelmente" mais lento em 2024.</segment>
+    <segment id="112">Na China</segment>
+    <segment id="113">, a BYD</segment>
+    <segment id="114">, cujo um dos acionistas é Warren Buffett</segment>
+    <segment id="115">, nada de braçadas.</segment>
+    <segment id="116">A montadora ultrapassou a Volkswagen</segment>
+    <segment id="117">comocomo a marca de carros mais vendida do país em 2023</segment>
+    <segment id="118">, relata a Bloomberg.</segment>
+    <segment id="119">Inflação do arroz</segment>
+    <segment id="120">O arroz registrou no ano passado a maior inflação em três anos</segment>
+    <segment id="121">, em um encarecimento de um dos alimentos mais tradicionais da mesa do brasileiro.</segment>
+    <segment id="122">Em números:   24</segment>
+    <segment id="123">,54% foi a alta de preços do ceral no ano passado</segment>
+    <segment id="124">, conforme o IPCA</segment>
+    <segment id="125">, índice oficial da inflação.  R$ 25 foi o preço médio do pacote de 5 kg de arroz em dezembro na cidade de São Paulo</segment>
+    <segment id="126">, conforme pesquisa da cesta básica divulgada por Procon-SP e Dieese.</segment>
+    <segment id="127">O que explica:  ↳ Redução da oferta no atual período de entressafra</segment>
+    <segment id="128">, que deve durar até abril</segment>
+    <segment id="129">;  ↳ Eventos climáticos extremos (seca</segment>
+    <segment id="130">, e depois temporais) no Rio Grande do Sul</segment>
+    <segment id="131">, estado que responde por cerca de 70% da produção nacional</segment>
+    <segment id="132">;  ↳ Pressão dos preços no mercado internacional por restrições de oferta em países</segment>
+    <segment id="133">comocomo a Índia.</segment>
+  </rst>
+</analysis>

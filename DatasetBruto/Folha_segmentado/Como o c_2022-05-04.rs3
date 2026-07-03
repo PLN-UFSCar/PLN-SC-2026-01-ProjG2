@@ -1,0 +1,186 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Polêmicas em torno da definição de autoria não são exatamente novas na ciência.</segment>
+    <segment id="2">Já no século XVII</segment>
+    <segment id="3">, Isaac Newton e Gottfried Leibniz</segment>
+    <segment id="4">sese engalfinhavam pela primazia na invenção do cálculo – em larga parte</segment>
+    <segment id="5">porque</segment>
+    <segment id="6">porque a documentação do processo científico ainda era incipiente.</segment>
+    <segment id="7">Com o advento do artigo científico</segment>
+    <segment id="8">, registrar a autoria de ideias ficou mais fácil</segment>
+    <segment id="9">, e o conceito</segment>
+    <segment id="10">sese tornou central na organização da comunidade acadêmica.</segment>
+    <segment id="11">A autoria de trabalhos de pesquisa define praticamente todas as métricas de avaliação de cientistas</segment>
+    <segment id="12">, servindo</segment>
+    <segment id="13">comocomo critério para distribuir empregos</segment>
+    <segment id="14">, verbas e reconhecimento.</segment>
+    <segment id="15">Não por acaso</segment>
+    <segment id="16">, boa parte das controvérsias no campo da integridade científica giram em torno dela</segment>
+    <segment id="17">, como</segment>
+    <segment id="18">como em casos de plágio</segment>
+    <segment id="19">, autoria honorária ou disputas entre autores.</segment>
+    <segment id="20">Ilustração: Julia Jabur - Instituto Serrapilheira  ​Dito isso</segment>
+    <segment id="21">, o que significa ser autor de um artigo?</segment>
+    <segment id="22">A autoria na literatura já foi problematizada por pensadores</segment>
+    <segment id="23">comocomo Michel Foucault ou Roland Barthes</segment>
+    <segment id="24">, masmas estabelecê-la na ciência é bem mais difícil.</segment>
+    <segment id="25">Com pesquisas cada vez mais complexas e colaborativas</segment>
+    <segment id="26">, um trabalho científico comumente depende de dezenas ou centenas de pessoas.</segment>
+    <segment id="27">Algumas permanecerão envolvidas com o projeto por anos</segment>
+    <segment id="28">, enquanto outras farão contribuições pontuais –</segment>
+    <segment id="29">masmas por vezes cruciais.</segment>
+    <segment id="30">Como traçar a linha imaginária que determina quem é</segment>
+    <segment id="31">um "autor"?</segment>
+    <segment id="32">Áreas diferentes de pesquisa lidam de formas distintas com o problema.</segment>
+    <segment id="33">Muitas delas empregam os critérios do International Committee of Medical Journal Editors</segment>
+    <segment id="34">, que dizem que um autor deve preencher quatro quesitos: (a) contribuir substancialmente para a concepção ou o desenho do trabalho</segment>
+    <segment id="35">, ou para a coleta</segment>
+    <segment id="36">, análise</segment>
+    <segment id="37">, ou interpretação dos dados</segment>
+    <segment id="38">; (b) participar na redação ou revisão do artigo</segment>
+    <segment id="39">; (c) aprovar a versão final publicada e (d) concordar em ser responsável por todos os aspectos do trabalho.</segment>
+    <segment id="40">A definição é vaga o suficiente para incluir qualquer um que tenha dado pitacos em diferentes etapas de um projeto</segment>
+    <segment id="41">, já que o que constitui uma "contribuição substancial" é bem subjetivo.</segment>
+    <segment id="42">Mas também é estrita o suficiente para excluir alguém que</segment>
+    <segment id="43">, embora</segment>
+    <segment id="44">embora tenha coletado todos os dados</segment>
+    <segment id="45">, não tenha lido a versão final do artigo.</segment>
+    <segment id="46">Para além disso</segment>
+    <segment id="47">, a ideia de que cada autor assuma responsabilidade pelo todo é insustentável – em um projeto envolvendo experimentos com técnicas diferentes em múltiplos laboratórios</segment>
+    <segment id="48">, é óbvio que ninguém poderá atestar sozinho a integridade de tudo o que foi feito.</segment>
+    <segment id="49">Talvez por isso</segment>
+    <segment id="50">, áreas de pesquisa fortemente colaborativas optam por seguir modelos distintos.</segment>
+    <segment id="51">As grandes colaborações da física frequentemente publicam artigos com centenas ou milhares de autores</segment>
+    <segment id="52">, tipicamente listados em ordem alfabética: a medida da massa do bóson de Higgs pela Colaboração Atlas</segment>
+    <segment id="53">, por exemplo</segment>
+    <segment id="54">, enumera nada menos do que 5.154 deles.</segment>
+    <segment id="55">O critério é inclusivo</segment>
+    <segment id="56">, masmas também é impreciso</segment>
+    <segment id="57">, ao nivelar contribuições muito distintas – e nem sempre especificadas – dentro da mesma categoria de "autor".</segment>
+    <segment id="58">Mas se</segment>
+    <segment id="59">se todas as definições parecem problemáticas</segment>
+    <segment id="60">, o problema não estaria no conceito?</segment>
+    <segment id="61">Já em 1997</segment>
+    <segment id="62">, o então editor do Journal of the American Medical Association (JAMA)</segment>
+    <segment id="63">, Drummond Rennie</segment>
+    <segment id="64">, afirmava que a autoria havia falhado.</segment>
+    <segment id="65">Com o avanço das colaborações na ciência</segment>
+    <segment id="66">, o modelo</segment>
+    <segment id="67">sese tornara desatualizado e</segment>
+    <segment id="68">, esticado ao seu limite</segment>
+    <segment id="69">, não servia mais.</segment>
+    <segment id="70">A proposta de Rennie era substituí-lo por uma lista com as contribuições específicas de cada pessoa envolvida</segment>
+    <segment id="71">, que superasse a dicotomia entre ser ou não ser um autor.</segment>
+    <segment id="72">Vinte e cinco anos depois</segment>
+    <segment id="73">, porém</segment>
+    <segment id="74">porém, a autoria segue firme e forte</segment>
+    <segment id="75">, o que atesta que algumas tradições são difíceis de romper.</segment>
+    <segment id="76">A noção de que um trabalho científico possui um ou mais "autores"</segment>
+    <segment id="77">, no mesmo modelo de uma obra literária</segment>
+    <segment id="78">, vem de um tempo em que cientistas atuavam sozinhos</segment>
+    <segment id="79">, ou no máximo em pequenos grupos.</segment>
+    <segment id="80">Determinar o autor de um trabalho científico</segment>
+    <segment id="81">, assim</segment>
+    <segment id="82">, não foi um problema durante boa parte da história.</segment>
+    <segment id="83">Até meados do século XX</segment>
+    <segment id="84">, quando a ciência</segment>
+    <segment id="85">sese institucionalizou em suas bases atuais</segment>
+    <segment id="86">, o modelo de poucos autores ainda dominava a maioria das áreas de pesquisa – e vigora até hoje em algumas delas.</segment>
+    <segment id="87">Talvez por isso</segment>
+    <segment id="88">, narrativas sobre ciência – ou honrarias</segment>
+    <segment id="89">comocomo o prêmio Nobel – costumam ser focadas em indivíduos.</segment>
+    <segment id="90">Sendo assim</segment>
+    <segment id="91">, são invariavelmente injustas com dezenas ou centenas de pessoas que contribuíram para o processo de uma descoberta</segment>
+    <segment id="92">, masmas não dividem o prêmio com os vencedores.</segment>
+    <segment id="93">Prêmios Nobel</segment>
+    <segment id="94">2021Mais    novamente         de   de  de  representando um</segment>
+    <segment id="95">Curiosamente</segment>
+    <segment id="96">, existem tradições opostas fora do mundo acadêmico.</segment>
+    <segment id="97">No cinema</segment>
+    <segment id="98">, que também congrega equipes numerosas em torno de projetos</segment>
+    <segment id="99">, a autoria é resolvida de forma radicalmente diferente.</segment>
+    <segment id="100">Todos estamos acostumados com listas de créditos detalhadas</segment>
+    <segment id="101">, que deixam claro quem é o diretor</segment>
+    <segment id="102">, quem é o maquiador e quem é o eletricista.</segment>
+    <segment id="103">E a questão de quem é ou não é autor de um filme</segment>
+    <segment id="104">, mesmo que possa existir no plano filosófico</segment>
+    <segment id="105">, não tem grande relevância prática.</segment>
+    <segment id="106">As diferenças não são por acaso: ao contrário da ciência</segment>
+    <segment id="107">, o cinema já nasce</segment>
+    <segment id="108">comocomo indústria</segment>
+    <segment id="109">, devido à extrema complexidade técnica de filmar no início do século XX.</segment>
+    <segment id="110">A ideia de "cinema autoral" só viria a surgir mais tarde</segment>
+    <segment id="111">, com a atribuição de certa primazia ao diretor nesse quesito – ainda assim</segment>
+    <segment id="112">, é óbvio que filmes são frutos de muitas pessoas atuando em funções distintas.</segment>
+    <segment id="113">Curiosamente</segment>
+    <segment id="114">, ciência e cinema evoluem de formas opostas – enquanto projetos científicos têm cada vez mais autores</segment>
+    <segment id="115">, é cada vez mais factível fazer filmes com equipes pequenas.</segment>
+    <segment id="116">No entanto</segment>
+    <segment id="117">, nenhuma das duas áreas mudou sua forma de atribuir crédito: cientistas seguem listando publicações das quais são "autores" sem especificar o que fizeram</segment>
+    <segment id="118">, enquanto cineastas só acabam conquistando um maior grau de "autoria" em um filme por meio do acúmulo de funções.</segment>
+    <segment id="119">Propostas de mudar o sistema não faltam: o CRedIT</segment>
+    <segment id="120">, por exemplo</segment>
+    <segment id="121">, é uma taxonomia de catorze funções genéricas que podem ser usadas para descrever contribuições em um projeto científico</segment>
+    <segment id="122">, e é cada vez mais comum que tais informações sejam solicitadas na submissão de um artigo.</segment>
+    <segment id="123">Mas enquanto universidades e agências de fomento não pararem para olhar quem fez o quê no momento de distribuir cargos e recursos</segment>
+    <segment id="124">, ela seguirá sendo uma classificação para inglês ver.</segment>
+    <segment id="125">A situação só vai mudar quando o mundo acadêmico admitir que adaptar seu modus operandi à divisão de funções é um imperativo para lidar com projetos cada vez mais complexos.</segment>
+    <segment id="126">Ao reconhecer a autoria de artigos</segment>
+    <segment id="127">comocomo única forma de contribuição</segment>
+    <segment id="128">, o sistema não só erra na atribuição de crédito</segment>
+    <segment id="129">, masmas também emperra a inovação na organização do trabalho científico.</segment>
+    <segment id="130">Cientistas que coletam dados</segment>
+    <segment id="131">, por exemplo</segment>
+    <segment id="132">, hoje têm pouco estímulo para compartilhá-los a fim de que outros os analisem</segment>
+    <segment id="133">, já que a autoria de dados – em oposição a artigos</segment>
+    <segment id="134">– costuma ser invisível para instituições e financiadores.</segment>
+    <segment id="135">Já pesquisadores que queiram</segment>
+    <segment id="136">sese especializar em funções específicas – seja realizando experimentos</segment>
+    <segment id="137">, gerenciando projetos ou analisando dados – não encontram carreiras compatíveis</segment>
+    <segment id="138">, devido ao modelo arcaico do cientista que faz tudo sozinho.</segment>
+    <segment id="139">Novamente</segment>
+    <segment id="140">, não é preciso ir longe para ver que outras formas de organização são possíveis.</segment>
+    <segment id="141">Por mais que estudantes de cinema adquiram noções gerais sobre produção audiovisual</segment>
+    <segment id="142">, o mais provável é que acabem trabalhando em funções especializadas.</segment>
+    <segment id="143">A razão é que o mercado sabe reconhecer bons especialistas: não por acaso</segment>
+    <segment id="144">, a academia de Hollywood oferece Oscars para uma infinidade de categorias técnicas</segment>
+    <segment id="145">, e ninguém parece reclamar que seus vencedores não sejam autores dos filmes.</segment>
+    <segment id="146">E ainda que seja possível fazer filmes autorais com equipes mínimas</segment>
+    <segment id="147">, ninguém tentaria produzir um blockbuster nesse modelo.</segment>
+    <segment id="148">Já na outra academia</segment>
+    <segment id="149">, seguimos obcecados com o modelo do cientista do século XIX</segment>
+    <segment id="150">, capaz de ser roteirista</segment>
+    <segment id="151">, diretor</segment>
+    <segment id="152">, montador e produtor ao mesmo tempo.</segment>
+    <segment id="153">Que pode seguir existindo</segment>
+    <segment id="154">, masmas é insuficiente para construir por si só uma ciência robusta.</segment>
+    <segment id="155">Talvez seja hora de aprender com o cinema e instituir empregos – e prêmios – para bons microscopistas</segment>
+    <segment id="156">, analistas de dados ou gerentes de projetos.</segment>
+    <segment id="157">Só assim pararemos de nos estapear em disputas fúteis de autoria</segment>
+    <segment id="158">, e criaremos estruturas de trabalho compatíveis com a ciência do século XXI.  *  Olavo Amaral é professor do Instituto de Bioquímica Médica Leopoldo de Meis da UFRJ e coordenador da Iniciativa Brasileira de Reprodutibilidade.</segment>
+    <segment id="159">Inscreva-</segment>
+    <segment id="160">sese na newsletter do Instituto Serrapilheira para acompanhar mais novidades do instituto e do blog Ciência Fundamental.</segment>
+  </rst>
+</analysis>

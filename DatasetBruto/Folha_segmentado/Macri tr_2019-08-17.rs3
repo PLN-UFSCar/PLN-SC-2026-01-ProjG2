@@ -1,0 +1,98 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente da Argentina</segment>
+    <segment id="2">, Mauricio Macri</segment>
+    <segment id="3">, decidiu neste sábado (17) substituir o ministro da Economia.</segment>
+    <segment id="4">Sai</segment>
+    <segment id="5">Nicolás Dujovne</segment>
+    <segment id="6">, que estava no cargo desde o começo de 2017</segment>
+    <segment id="7">, e em seu lugar assume Hernán Lacunza</segment>
+    <segment id="8">, que era ministro da Economia da Província de Buenos Aires</segment>
+    <segment id="9">, e também integrante do partido do governo.</segment>
+    <segment id="10">Os rumores de uma eventual saída de Dujovne ganharam força nos últimos dias.</segment>
+    <segment id="11">Dujovne foi responsável por articular o impopular acordo de empréstimo do FMI (Fundo Monetário Internacional)</segment>
+    <segment id="12">, de US$ 57 bilhões</segment>
+    <segment id="13">, em 2018.</segment>
+    <segment id="14">A realização desse acordo com o FMI foi decisiva para ampliar a impopularidade de Macri</segment>
+    <segment id="15">, pois</segment>
+    <segment id="16">pois expôs que as dificuldades econômicas do país não estavam sendo vencidas pelo governo.</segment>
+    <segment id="17">Na ocasião</segment>
+    <segment id="18">, a inflação vinha em alta</segment>
+    <segment id="19">, e o acordo com o fundo buscava</segment>
+    <segment id="20">, entre outras providência</segment>
+    <segment id="21">, garantir recursos para dar estabilidade ao peso</segment>
+    <segment id="22">, que se</segment>
+    <segment id="23">se desvalorizou 52% no ano passado.</segment>
+    <segment id="24">Entre especialistas</segment>
+    <segment id="25">, o país agora corre risco de voltar a viver a hiperinflação.</segment>
+    <segment id="26">Outro problema foi o fato de Dujovne ter discordado das medidas anunciadas por Macri para tentar reverter sua derrota política no domingo (11)</segment>
+    <segment id="27">, quando perdeu para o candidato kirchnerista</segment>
+    <segment id="28">, Alberto Fernández</segment>
+    <segment id="29">, por uma diferença inesperada de 15 pontos e o país entrou em nova crise financeira.</segment>
+    <segment id="30">As medidas vão contra a cartilha liberal de Macri e seus aliados</segment>
+    <segment id="31">, masmas foram adotadas na tentativa de reverter a perspectiva de derrota</segment>
+    <segment id="32">, e dar novo fôlego à candidatura na disputa do primeiro turno</segment>
+    <segment id="33">, no próximo dia 27 de outubro.</segment>
+    <segment id="34">O pacote inclui cortes em impostos</segment>
+    <segment id="35">, congelamentos</segment>
+    <segment id="36">, aumento do salário mínimo.</segment>
+    <segment id="37">Macri chamou Lacunza para conversar no início da tarde deste sábado.</segment>
+    <segment id="38">O ministro estava de férias</segment>
+    <segment id="39">, no sul do país</segment>
+    <segment id="40">, e pegou um avião para uma rápida reunião com o presidente.</segment>
+    <segment id="41">Ao deixar o encontro</segment>
+    <segment id="42">, o anúncio foi feito.</segment>
+    <segment id="43">Hernán Lacunza</segment>
+    <segment id="44">, titular da área econômica da província de Buenos Aires</segment>
+    <segment id="45">, foi escolhido ministro da Economia- Luciano Thieberger/ClarinPara justificar sua oposição ao novo pacote</segment>
+    <segment id="46">, Dujovne argumentou que o FMI tende a discordar das medidas e interpretar que a Argentina não está cumprindo os requisitos do acordo</segment>
+    <segment id="47">, que incluem o compromisso de fazer ajustes fiscais e aumentar a arrecadação.</segment>
+    <segment id="48">Macri,</segment>
+    <segment id="49">porémporém</segment>
+    <segment id="50">, temendo a derrota nas urnas</segment>
+    <segment id="51">, insistiu em soltar o pacote.</segment>
+    <segment id="52">Dujovne também era muito atacado pela oposição</segment>
+    <segment id="53">, pois</segment>
+    <segment id="54">pois em suas declarações de impostos</segment>
+    <segment id="55">, mostrava abertamente que seus bens familiares estavam todos em investimentos no exterior.</segment>
+    <segment id="56">Hernán Lacunza</segment>
+    <segment id="57">, 49, é economista</segment>
+    <segment id="58">, formado pela Universidade de Buenos Aires</segment>
+    <segment id="59">, e já foi gerente-geral e economista-chefe do Banco Central argentino (2005-2010).</segment>
+    <segment id="60">É conhecido por sua lealdade à governadora de Buenos Aires</segment>
+    <segment id="61">, Maria Eugenia Vidal</segment>
+    <segment id="62">, e por seu alinhamento a Macri.</segment>
+    <segment id="63">A seleção de um ministério da Economia sempre foi um problema para o presidente argentino.</segment>
+    <segment id="64">Inicialmente</segment>
+    <segment id="65">, foi chamado para o cargo o economista Alfonso Prat-Gay.</segment>
+    <segment id="66">Porém, por</segment>
+    <segment id="67">sese destacar mais que o próprio presidente e por diferenças de opiniões</segment>
+    <segment id="68">,   Macri decidiu substituí-lo por uma figura mais discreta</segment>
+    <segment id="69">, Dujovne.</segment>
+    <segment id="70">Lacunza</segment>
+    <segment id="71">, que assume a quatro meses do fim deste mandato</segment>
+    <segment id="72">, é ainda mais discreto que seu antecessor.</segment>
+  </rst>
+</analysis>

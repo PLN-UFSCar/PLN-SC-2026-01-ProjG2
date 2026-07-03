@@ -1,0 +1,112 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Com a perda do poder de compra</segment>
+    <segment id="2">, o brasileiro substituiu a carne bovina por opções de proteína animal mais baratas na pandemia</segment>
+    <segment id="3">, sinalizam dados divulgados nesta quinta-feira (13) pela Abras (Associação Brasileira de Supermercados).</segment>
+    <segment id="4">Segundo a entidade</segment>
+    <segment id="5">, o consumo per capita (por pessoa) de carne bovina</segment>
+    <segment id="6">teve queda de 9</segment>
+    <segment id="7">,2% de 2019</segment>
+    <segment id="8">, no pré-crise</segment>
+    <segment id="9">, para 2021.</segment>
+    <segment id="10">No mesmo período</segment>
+    <segment id="11">, houve alta no consumo de ovos (10</segment>
+    <segment id="12">,9%), carne suína (9</segment>
+    <segment id="13">,2%) e frango (6</segment>
+    <segment id="14">,5%).</segment>
+    <segment id="15">Para Marcio Milan</segment>
+    <segment id="16">, vice-presidente da Abras</segment>
+    <segment id="17">, a situação pode ser associada à carestia da carne bovina.</segment>
+    <segment id="18">"</segment>
+    <segment id="19">O preço da carne subiu</segment>
+    <segment id="20">, o consumidor estava com renda mais restrita</segment>
+    <segment id="21">, a inflação estava em dois dígitos.</segment>
+    <segment id="22">O consumidor fez essa substituição"</segment>
+    <segment id="23">, afirmou.</segment>
+    <segment id="24">Supermercado vende carnes em Santo André (SP) - Rivaldo Gomes - 26.nov.2021/FolhapressConforme a Abras</segment>
+    <segment id="25">, a partir das trocas no cardápio</segment>
+    <segment id="26">, o consumo per capita de proteína animal subiu em torno de 3</segment>
+    <segment id="27">,6% de 2019 para 2021.</segment>
+    <segment id="28">O indicador aumentou de 126</segment>
+    <segment id="29">,7 quilos para 131</segment>
+    <segment id="30">,1 quilos.</segment>
+    <segment id="31">O cálculo envolve carne bovina</segment>
+    <segment id="32">, suína</segment>
+    <segment id="33">, frango</segment>
+    <segment id="34">, peixes e ovos.</segment>
+    <segment id="35">"</segment>
+    <segment id="36">Ele [consumidor] não deixou de consumir proteínas</segment>
+    <segment id="37">, inclusive aumentou o consumo"</segment>
+    <segment id="38">, disse Milan.</segment>
+    <segment id="39">Na comparação das carnes</segment>
+    <segment id="40">, a de frango seguiu</segment>
+    <segment id="41">comocomo a mais buscada pelos brasileiros.</segment>
+    <segment id="42">Ao subir 6</segment>
+    <segment id="43">,5%, o consumo por pessoa aumentou de 42</segment>
+    <segment id="44">,8 quilos em 2019 para 45</segment>
+    <segment id="45">,6 quilos em 2021</segment>
+    <segment id="46">, segundo a Abras.</segment>
+    <segment id="47">O consumo per capita de carne bovina</segment>
+    <segment id="48">, ao recuar 9</segment>
+    <segment id="49">,2% no mesmo período</segment>
+    <segment id="50">, passou de 30</segment>
+    <segment id="51">,6 quilos para 27</segment>
+    <segment id="52">,8 quilos.</segment>
+    <segment id="53">A carne suína veio depois</segment>
+    <segment id="54">, mesmo com a alta de 9</segment>
+    <segment id="55">,2%.</segment>
+    <segment id="56">O consumo per capita pulou de 15</segment>
+    <segment id="57">,3 quilos para 16</segment>
+    <segment id="58">,7 quilos.</segment>
+    <segment id="59">Já a demanda por peixe passou de 10</segment>
+    <segment id="60">,4 quilos por pessoa para 10</segment>
+    <segment id="61">,5 quilos de 2019 para 2021.</segment>
+    <segment id="62">Um levantamento recente feito pela consultoria Shopper Experience a pedido da Apas (Associação Paulista de Supermercados) indicou que a carne é um dos itens que os consumidores desejam comprar nas promoções da Black Friday</segment>
+    <segment id="63">, em novembro</segment>
+    <segment id="64">, nos supermercados.</segment>
+    <segment id="65">Em agosto</segment>
+    <segment id="66">, uma pesquisa da Asserj (Associação de Supermercados do Estado do Rio de Janeiro) também havia sinalizado a intenção de retomada do consumo de parte da população.</segment>
+    <segment id="67">De acordo com esse estudo</segment>
+    <segment id="68">, a carne bovina e o leite foram os principais produtos que beneficiários do Auxílio Brasil deixaram de comprar e pretendiam voltar a consumir a partir do aumento do benefício para R$ 600.</segment>
+    <segment id="69">Durante a pandemia</segment>
+    <segment id="70">, a inflação e a perda de renda levaram brasileiros a formarem filas em busca de doações de ossos de boi.</segment>
+    <segment id="71">Em 2020</segment>
+    <segment id="72">, primeiro ano da crise sanitária</segment>
+    <segment id="73">, o grupo das carnes no IPCA (Índice Nacional de Preços ao Consumidor Amplo) acumulou alta de 17</segment>
+    <segment id="74">,97%, conforme o IBGE (Instituto Brasileiro de Geografia e Estatística).</segment>
+    <segment id="75">A alta reflete a variação de cortes de gado</segment>
+    <segment id="76">, além de carneiro e porco.</segment>
+    <segment id="77">Em 2021</segment>
+    <segment id="78">, a inflação do grupo desacelerou para 8</segment>
+    <segment id="79">,45%.</segment>
+    <segment id="80">No acumulado de 2022</segment>
+    <segment id="81">, até setembro</segment>
+    <segment id="82">, a alta das carnes é mais modesta</segment>
+    <segment id="83">, de 1</segment>
+    <segment id="84">,27%.</segment>
+    <segment id="85">Produção de ovos bate recorde com carne cara no BrasilMais    novamente         de   de  de  representando</segment>
+    <segment id="86">um</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,112 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Os gatos estão cada vez mais conquistando os lares brasileiros.</segment>
+    <segment id="2">De acordo com o Censo Pet IPB (Instituto Pet Brasil) de 2022</segment>
+    <segment id="3">, a população de felinos foi a que registrou o maior crescimento entre os animais de estimação no Brasil de 2020 a 2021.</segment>
+    <segment id="4">Nesse período</segment>
+    <segment id="5">, o número de bichanos criados</segment>
+    <segment id="6">comocomo pets em lares brasileiros aumentou 6% —mais do que o de cães</segment>
+    <segment id="7">, que subiu 4%.</segment>
+    <segment id="8">Até dezembro de 2021</segment>
+    <segment id="9">, eram 27</segment>
+    <segment id="10">,1 milhões de gatinhos ronronando e arranhando sofás por este país afora.</segment>
+    <segment id="11">No ano anterior</segment>
+    <segment id="12">, eram 25</segment>
+    <segment id="13">,6 milhões.</segment>
+    <segment id="14">Os sem raça definida (SRDs)</segment>
+    <segment id="15">, chamados de vira-latas</segment>
+    <segment id="16">, sãos os gatos mais populares no país</segment>
+    <segment id="17">, masmas os felinos de pedigree também despertam curiosidade nos brasileiros.</segment>
+    <segment id="18">Segundo o Google Trends</segment>
+    <segment id="19">, ferramenta que mostra os termos mais pesquisados no site</segment>
+    <segment id="20">, a raça de gato com maior interesse de buscas é a persa</segment>
+    <segment id="21">, com 37</segment>
+    <segment id="22">,62%, seguida pelo siamês</segment>
+    <segment id="23">, com 22</segment>
+    <segment id="24">,77%, o maine coon</segment>
+    <segment id="25">, com 15</segment>
+    <segment id="26">,84%, o exótico (também conhecido</segment>
+    <segment id="27">comocomo gato exótico de pelo curto)</segment>
+    <segment id="28">, com 13</segment>
+    <segment id="29">,8%, e o ragdoll</segment>
+    <segment id="30">, com 9</segment>
+    <segment id="31">,9%.</segment>
+    <segment id="32">Conheça as raças  PERSA Pensa num gato tranquilo e de personalidade afável.</segment>
+    <segment id="33">Esse é o persa</segment>
+    <segment id="34">, uma das raças de felinos mais antigas que existem —acredita-</segment>
+    <segment id="35">sese que foi levada da antiga Pérsia</segment>
+    <segment id="36">, região onde fica atualmente o Irã</segment>
+    <segment id="37">, para a Europa durante o século 17.</segment>
+    <segment id="38">A principal característica do persa é seu focinho achatado</segment>
+    <segment id="39">, típico dos animais braquicefálicos</segment>
+    <segment id="40">, além de seus pelos longos.</segment>
+    <segment id="41">Ele vive em média de 10 a 12 anos e pesa de 3</segment>
+    <segment id="42">,2 a 5</segment>
+    <segment id="43">,4 kg.</segment>
+    <segment id="44">EXÓTICO Surgiu a partir do cruzamento do persa com o british shorthair nos anos 1960.</segment>
+    <segment id="45">Tem o focinho achatado</segment>
+    <segment id="46">comocomo o do persa</segment>
+    <segment id="47">, masmas com pelos curtos.</segment>
+    <segment id="48">É um gato muito dócil</segment>
+    <segment id="49">, masmas um pouco mais agitado e brincalhão do que o persa.</segment>
+    <segment id="50">Costuma viver de 8 a 15 anos e pesa de 3 a 6 kg.</segment>
+    <segment id="51">Veja as raças de gatos mais pesquisadas pelos brasileiros no GoogleMais    novamente         de   de  de  representando um  SIAMÊS</segment>
+    <segment id="52">Uma das primeiras raças de gatos asiáticos reconhecidas</segment>
+    <segment id="53">, o siamês tem origem na Tailândia.</segment>
+    <segment id="54">Em 1884</segment>
+    <segment id="55">, o cônsul-geral britânico em Bancoc levou um casal desses felinos para a Inglaterra e</segment>
+    <segment id="56">, em 1901</segment>
+    <segment id="57">, fundou o Clube do Gato Siamês.</segment>
+    <segment id="58">O padrão de cor do siamês é chamado de "</segment>
+    <segment id="59">color point</segment>
+    <segment id="60">", também comum em gatos sem raça definida</segment>
+    <segment id="61">, que são conhecidos</segment>
+    <segment id="62">comocomo sialatas</segment>
+    <segment id="63">.</segment>
+    <segment id="64">Os siameses originais são extrovertidos e muito brincalhões</segment>
+    <segment id="65">, vivem de 8 a 15 anos e pesam de 5 a 6</segment>
+    <segment id="66">,5 kg.  MAINE COON</segment>
+    <segment id="67">A raça surgiu há mais de um século no estado norte-americano do Maine.</segment>
+    <segment id="68">Há quem diga que eles são resultado do cruzamento entre guaxinins ('raccoon'</segment>
+    <segment id="69">, em inglês) e gatos de pelo longo da floresta.</segment>
+    <segment id="70">O felino dessa raça também é conhecido</segment>
+    <segment id="71">comocomo "gigante gentil" graças ao seu temperamento dócil e ao porte grande: os machos pesam em média 12 kg e as fêmeas</segment>
+    <segment id="72">, de 6 a 10 kg.</segment>
+    <segment id="73">Eles vivem de 9 a 15 anos.</segment>
+    <segment id="74">Conheça os gatos da raça maine coonMais    novamente         de   de  de  representando um  RAGDOLL</segment>
+    <segment id="75">O nome significa boneca de pano</segment>
+    <segment id="76">, em inglês</segment>
+    <segment id="77">, de tanto que esse bichano gosta de um colo.</segment>
+    <segment id="78">A raça surgiu nos anos 1960 na Califórnia a partir do cruzamento do angorá com gatos de pelo curto.</segment>
+    <segment id="79">É um gato de personalidade muito amorosa que adora ficar com seus tutores.</segment>
+    <segment id="80">Tem pelagem semi-longa</segment>
+    <segment id="81">, vive de 12 a 17 anos e costuma pesar entre 4.5 e 9 kg.  +</segment>
+    <segment id="82">GaticesLeia mais sobre gatosComeça</segment>
+    <segment id="83">a segunda edição do concurso que elege o gato SRD mais bonito do BrasilVai viajar de carro com seu gato?</segment>
+    <segment id="84">Veja dicas para segurança e bem-estar do petGatos ajudam a combater ansiedade e depressãoNina e Tom:</segment>
+    <segment id="85">plataforma divulga os nomes mais usados para gatosSiga o blog Gatices no Twitter</segment>
+    <segment id="86">, Instagram e Facebook.</segment>
+  </rst>
+</analysis>

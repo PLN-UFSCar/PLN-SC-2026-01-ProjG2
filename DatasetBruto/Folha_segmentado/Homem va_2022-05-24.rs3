@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um homem de 63 anos foi preso nesta terça (24) no Aeroporto Internacional de Hong Kong com US$ 500 mil em cocaína</segment>
+    <segment id="2">, o equivalente a R$ 2</segment>
+    <segment id="3">,4 milhões.</segment>
+    <segment id="4">Essa foi a primeira prisão por tráfico de drogas internacional em 17 meses no território</segment>
+    <segment id="5">, que pertence a China.</segment>
+    <segment id="6">O homem havia embarcado em um voo de São Paulo nesta segunda (23) e entrou em Hong Kong após passar por Doha</segment>
+    <segment id="7">, capital do Qatar</segment>
+    <segment id="8">, segundo informações do jornal South China Morning Post.</segment>
+    <segment id="9">Não há informações</segment>
+    <segment id="10">sese ele é brasileiro.</segment>
+    <segment id="11">Foto do Aeroporto Internacional de Hong Kong</segment>
+    <segment id="12">, na China - Peter Parks/AFP</segment>
+    <segment id="13">Funcionários da alfândega do aeroporto pararam o homem para inspeção e descobriram a droga escondida em fundos falsos.</segment>
+    <segment id="14">Durante a inspeção por raio-x da bagagem</segment>
+    <segment id="15">, as autoridades desconfiaram do peso excessivo de uma mala e uma maleta que estava sendo carregada pelo homem e decidiram verificá-las.</segment>
+    <segment id="16">Segundo o South China Morning Post</segment>
+    <segment id="17">, autoridades investigam</segment>
+    <segment id="18">sese ele teria recebido cerca de U$ 1.000 (cerca de R$ 4.800) para atuar</segment>
+    <segment id="19">comocomo 'mula' e levar a droga para o território.</segment>
+    <segment id="20">A última vez que uma pessoa foi presa tentando entrar em Hong Kong com drogas foi em dezembro de 2020.</segment>
+  </rst>
+</analysis>

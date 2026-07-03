@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Solange Almeida
+Ela é um avião turbinado
+Solange Almeida mostrou que está com tudo em cima.</segment>
+    <segment id="2">Na tarde de ontem</segment>
+    <segment id="3">, a vocalista do Aviões do Forró participou de uma sessão de fotos para uma marca de lingerie cearense.</segment>
+    <segment id="4">As fotos foram feitas na casa da cantora em Fortaleza e divulgadas em seu perfil no Twitter.</segment>
+    <segment id="5">Sol, que já chegou a pesar 112 kg</segment>
+    <segment id="6">, masmas fez redução de estômago em 2008</segment>
+    <segment id="7">, pesa atualmente 56 kg.</segment>
+    <segment id="8">As fotos mostram que eles estão muito bem distribuídos!</segment>
+  </rst>
+</analysis>

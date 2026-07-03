@@ -1,0 +1,54 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Governo do Rio de Janeiro proibiu cobranças adicionais pelo uso de ar-condicionado em veículos de transporte por aplicativo.</segment>
+    <segment id="2">A resolução com a determinação foi publicada nesta segunda-feira (8) no Diário Oficial.</segment>
+    <segment id="3">A partir de agora</segment>
+    <segment id="4">, no momento em que o usuário solicitar o serviço</segment>
+    <segment id="5">, os aplicativos de transportes de passageiros devem apresentar informação clara e precisa quanto à existência ou não de ar-condicionado em todas as categorias disponíveis na plataforma.</segment>
+    <segment id="6">"</segment>
+    <segment id="7">A prestação de serviços precisa ser clara</segment>
+    <segment id="8">, transparente e objetiva.</segment>
+    <segment id="9">O consumidor tem o direito de saber o que está contratando.</segment>
+    <segment id="10">Assim, a relação entre prestadores de serviços e consumidores é mais saudável "</segment>
+    <segment id="11">, disse o secretário estadual de Defesa do Consumidor</segment>
+    <segment id="12">, Gutemberg Fonseca.</segment>
+    <segment id="13">Placa mostrando a cobrança extra pelo uso do ar-condicionado em uma viagem de Uber - Reprodução/XAinda segundo a resolução</segment>
+    <segment id="14">, enquanto as plataformas não</segment>
+    <segment id="15">sese adaptam</segment>
+    <segment id="16">, todos os veículos deverão circular com ar-condicionado ligado</segment>
+    <segment id="17">, sem cobrança de valores extras diretamente ao consumidor</segment>
+    <segment id="18">, independente da categoria contratada.</segment>
+    <segment id="19">No período</segment>
+    <segment id="20">, os veículos só poderão circular com o ar desligado</segment>
+    <segment id="21">sese essa for uma opção do cliente.</segment>
+    <segment id="22">Segundo o governo</segment>
+    <segment id="23">, os veículos que estiverem com o ar-condicionado sem funcionar devem ter a circulação suspensa pela plataforma de aplicativo.</segment>
+    <segment id="24">Os carros só poderão voltar a circular mediante adequação das informações ao consumidor</segment>
+    <segment id="25">, ou quando o equipamento já estiver disponível.</segment>
+    <segment id="26">O descumprimento das determinações implicará sanções administrativas previstas no Código de Defesa do Consumidor.</segment>
+    <segment id="27">Os passageiros que</segment>
+    <segment id="28">sese sentirem lesados podem entrar em contato com a Secretaria de Estado de Defesa do Consumidor pelo WhatsApp 21 99336-4848.</segment>
+  </rst>
+</analysis>

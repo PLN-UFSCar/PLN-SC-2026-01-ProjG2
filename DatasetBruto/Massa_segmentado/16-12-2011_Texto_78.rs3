@@ -1,0 +1,56 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Passeios de pedalinho na Lagoa estão proibidos no fim de semana
+RIO - A história do patinho feio da Lagoa está longe de um final feliz.</segment>
+    <segment id="2">Neste fim de semana</segment>
+    <segment id="3">, as duas empresas que operam pedalinhos na Lagoa estão proibidas de fazer passeios.</segment>
+    <segment id="4">A subprefeitura da Zona Sul notificou</segment>
+    <segment id="5">, na terça-feira</segment>
+    <segment id="6">, a Little Boat</segment>
+    <segment id="7">, responsável pela embarcação que naufragou com duas pessoas na noite de sábado</segment>
+    <segment id="8">, e a Irmãos Klein</segment>
+    <segment id="9">, a apresentarem toda a documentação necessária para a liberação dos pedalinhos</segment>
+    <segment id="10">A Irmãos Klein já entregou tudo o que foi pedido</segment>
+    <segment id="11">, masmas tem que aguardar a autorização para voltar a operar.</segment>
+    <segment id="12">Já a Little Boat ainda precisa enviar documentação pendente.</segment>
+    <segment id="13">Segundo a subprefeitura</segment>
+    <segment id="14">, o proprietário da Little Boat ainda não apresentou a liberação do Corpo de Bombeiros.</segment>
+    <segment id="15">Ao contrário do que havia dito no GLOBO nesta sexta-feira</segment>
+    <segment id="16">, quando falou que já tinha enviado toda a documentação</segment>
+    <segment id="17">, incluindo o certificado dos bombeiros</segment>
+    <segment id="18">, o dono da empresa</segment>
+    <segment id="19">, Paulo Vilas Boas</segment>
+    <segment id="20">, diz, agora</segment>
+    <segment id="21">, que deve entregar o sinal verde dos bombeiros na segunda-feira.</segment>
+    <segment id="22">Por isso</segment>
+    <segment id="23">, nesta sexta-feira a subprefeitura da Zona Sul continuou a retirar os pedalinhos da Lagoa.</segment>
+    <segment id="24">Até o final do dia</segment>
+    <segment id="25">, nove embarcações da Little Boat foram rebocadas - de um total de 27 que estavam no local - e levadas para a o depósito da Secretaria Especial da Ordem Pública (Seop)</segment>
+    <segment id="26">, na Zona Norte.</segment>
+    <segment id="27">Na quinta-feira</segment>
+    <segment id="28">, já tinham sido removidos quatro pedalinhos.</segment>
+    <segment id="29">A operação continua segunda-feira.</segment>
+  </rst>
+</analysis>

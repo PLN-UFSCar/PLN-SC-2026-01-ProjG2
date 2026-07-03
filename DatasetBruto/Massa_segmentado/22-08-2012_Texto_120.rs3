@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Ator termina a dois meses do casÃ³rio</segment>
+    <segment id="2">O casal circulava com as alianÃ§as de noivado</segment>
+    <segment id="3">Ao revelar no programa â€œSuper Popâ€ que havia terminado o relacionamento com a bailarina Keiry Costa</segment>
+    <segment id="4">, com quem</segment>
+    <segment id="5">sese casaria em outubro</segment>
+    <segment id="6">, o ator MaurÃ­cio Mattar surpreendeu atÃ© mesmo a noiva.</segment>
+    <segment id="7">Keiry disse ao site EGO que o noivado chegou ao fim</segment>
+    <segment id="8">porque</segment>
+    <segment id="9">porque nÃ£o existia mais a paixÃ£o do inÃ­cio de namoro.</segment>
+    <segment id="10">â€œNosso amor mudou.</segment>
+    <segment id="11">Um belo dia acordamos e chegamos a conclusÃ£o de que havÃ­amos virado irmÃ£os.</segment>
+    <segment id="12">E esse tipo de sentimento nÃ£o</segment>
+    <segment id="13">Ã© legal para um homem e uma mulher</segment>
+    <segment id="14">sese casaremâ€.</segment>
+  </rst>
+</analysis>

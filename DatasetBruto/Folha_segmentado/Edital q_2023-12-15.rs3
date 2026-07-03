@@ -1,0 +1,120 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo Tarcísio de Freitas (Republicanos) publicou nesta sexta-feira (15) o edital que autoriza a abertura de licitação para concessão de rodovias à iniciativa privada</segment>
+    <segment id="2">, que inclui estradas do litoral paulista e da região de Mogi das Cruzes.</segment>
+    <segment id="3">Chamado de Lote Litoral Paulista</segment>
+    <segment id="4">, o edital prevê a instalação de pórticos para cobrança de pedágio pelo sistema "</segment>
+    <segment id="5">free flow".</segment>
+    <segment id="6">Protesto contra a cobrança de pedágios na rodovia Mogi-Bertioga</segment>
+    <segment id="7">; governo de São Paulo publica edital que autoriza concessões de estradas no litoral e no Alto Tietê- Paulo Boccuzzi - Movimento Pedágio Nâo/DivulgaçãoSegundo a Secretaria de de Parceria e Investimentos</segment>
+    <segment id="8">, a sessão pública de entrega dos envelopes com as propostas será no dia 26 de março de 2024.</segment>
+    <segment id="9">O edital não específica onde serão os radares</segment>
+    <segment id="10">, masmas o governo diz que ao todo serão 15 pórticos</segment>
+    <segment id="11">, sendo dois na Mogi-Dutra</segment>
+    <segment id="12">, um na Mogi-Bertioga</segment>
+    <segment id="13">, um na Rio-Santos (em Bertioga) e 11 na Padre Manoel da Nóbrega.</segment>
+    <segment id="14">Ao longo da extensão</segment>
+    <segment id="15">, os valores do pedágio poderão variar de R$ 1</segment>
+    <segment id="16">,08 a R$ 6</segment>
+    <segment id="17">,29, a depender do trecho.</segment>
+    <segment id="18">O governo prevê investimentos estimado em cerca de R$ 4</segment>
+    <segment id="19">,3 bilhões e a concessão será por 30 anos.</segment>
+    <segment id="20">A concorrência para licitação poderá ser internacional.</segment>
+    <segment id="21">Segundo o texto</segment>
+    <segment id="22">, a licitação será comandada pela Artesp (Agência de Transportes do Estado de São Paulo).</segment>
+    <segment id="23">Prefeituras e representantes da sociedade civil tentam na Justiça barrar a concessão sob o argumento de que</segment>
+    <segment id="24">sese criará pedágios urbanos e a cobrança pode prejudicar o turismo.</segment>
+    <segment id="25">Ao todo</segment>
+    <segment id="26">, o lote contempla 212 km de estradas.</segment>
+    <segment id="27">Os trechos ficam nas rodovias SP-055 (Padre Manoel da Nóbrega)</segment>
+    <segment id="28">, SP-088 (Mogi-Dutra) e SP-098 (Mogi-Bertioga)</segment>
+    <segment id="29">, além da SPA 291/055 (via expressa em Praia Grande) e da SPA 344/055 (Peruíbe).</segment>
+    <segment id="30">Elas passam pelos municípios</segment>
+    <segment id="31">Arujá, Bertioga</segment>
+    <segment id="32">, Biritiba-Mirim</segment>
+    <segment id="33">, Itanhaém</segment>
+    <segment id="34">, Itaquaquecetuba</segment>
+    <segment id="35">, Itariri</segment>
+    <segment id="36">, Miracatu</segment>
+    <segment id="37">, Mogi das Cruzes</segment>
+    <segment id="38">, Mongaguá</segment>
+    <segment id="39">, Pedro de Toledo</segment>
+    <segment id="40">, Peruíbe</segment>
+    <segment id="41">, Praia Grande e Santos.</segment>
+    <segment id="42">O edital</segment>
+    <segment id="43">, assinado por Tarcísio na quinta-feira (14)</segment>
+    <segment id="44">, diz que é competência da concessionária a operação do sistema de cobrança de pedágio</segment>
+    <segment id="45">, incluindo a arrecadação da tarifa por meio do "Sistema Automático Livre".</segment>
+    <segment id="46">Esse sistema</segment>
+    <segment id="47">, o "free flow"</segment>
+    <segment id="48">, como</segment>
+    <segment id="49">como é chamado</segment>
+    <segment id="50">, permite que veículos sejam identificados pela placa e paguem a fatura no site da concessionária.</segment>
+    <segment id="51">Ou por tag no para-brisa.</segment>
+    <segment id="52">A tarifa</segment>
+    <segment id="53">, afirma o edital</segment>
+    <segment id="54">, será definida pelo governo.</segment>
+    <segment id="55">O professor Paulo Boccuzzi</segment>
+    <segment id="56">, fundador do Movimento Pedágio Não</segment>
+    <segment id="57">, disse no mês passado à reportagem que o maior problema da concessão na região é o da Mogi-Dutra</segment>
+    <segment id="58">, estrada que corta a cidade e é usada</segment>
+    <segment id="59">comocomo uma avenida pelos moradores.</segment>
+    <segment id="60">"</segment>
+    <segment id="61">Ela interliga bairros em um trecho de 9 km"</segment>
+    <segment id="62">, diz.</segment>
+    <segment id="63">O edital fala ainda "que além do valor total arrecadado com as multas de trânsito</segment>
+    <segment id="64">, poderão ser utilizados outros mecanismos ou receitas para assegurar o reequilíbrio econômico-financeiro da concessionária decorrente do inadimplemento das tarifas pelos usuários".</segment>
+    <segment id="65">Além de uma série de realização obras citadas genericamente no edital</segment>
+    <segment id="66">, a concessionária deverá implantar monitoramento de 100% do sistema rodoviário</segment>
+    <segment id="67">, com implantação de identificação de emergências</segment>
+    <segment id="68">, entre outro.</segment>
+    <segment id="69">Em 2021 e 2022</segment>
+    <segment id="70">, a ideia de instalar praças de pedágio nessas estradas provocou protestos de moradores</segment>
+    <segment id="71">, políticos e associações civis —tanto em Mogi das Cruzes quanto no litoral.</segment>
+    <segment id="72">Cidade de Santos vive explosão de construçõesMais    novamente         de   de  de  representando um</segment>
+    <segment id="73">O governo estadual recuou da proposta na gestão de Rodrigo Garcia (PSDB)</segment>
+    <segment id="74">, que concorria à reeleição.</segment>
+    <segment id="75">O projeto</segment>
+    <segment id="76">, entretanto</segment>
+    <segment id="77">, foi retirado da gaveta por Tarcísio.</segment>
+    <segment id="78">Em recente entrevista em Guararema</segment>
+    <segment id="79">, cidade próxima a Mogi das Cruzes</segment>
+    <segment id="80">, Tarcísio já havia confirmado a intenção da concessão e os pedágios na região.</segment>
+    <segment id="81">"</segment>
+    <segment id="82">A gente não quer que o usuário local seja onerado com pedágio</segment>
+    <segment id="83">, masmas é importante também que a gente tenha uma sustentabilidade financeira com essa concessão para manter o projeto de pé"</segment>
+    <segment id="84">, afirmou o governador</segment>
+    <segment id="85">, dizendo que "foram retiradas praças de pedágio de dentro de Mogi".</segment>
+    <segment id="86">Tarcísio disse que estão previstas marginais em Mogi das Cruzes para circulação de veículos locais.  Isenções  Segundo o governo</segment>
+    <segment id="87">, não haverá cobrança na ponte do rio Itanhaém</segment>
+    <segment id="88">, em Itanhaém</segment>
+    <segment id="89">, limitando os desvios de trajeto para o trecho urbano.</segment>
+    <segment id="90">Em Mogi das Cruzes</segment>
+    <segment id="91">, os motoristas que tiverem origem ou destino no distrito industrial de Taboão não precisarão pagar pedágio em um dos pórticos que será instalado nas proximidades.</segment>
+    <segment id="92">Segundo a secretaria</segment>
+    <segment id="93">, também haverá possibilidade de pagamento proporcional de tarifa ao trecho percorrido no km 43.</segment>
+    <segment id="94">Também não pagarão tarifa os veículos que tiverem origem ou destino o centro de Mogi.</segment>
+  </rst>
+</analysis>

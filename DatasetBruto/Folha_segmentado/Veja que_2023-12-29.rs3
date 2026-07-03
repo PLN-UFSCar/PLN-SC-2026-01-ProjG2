@@ -1,0 +1,250 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O ano de 2023</segment>
+    <segment id="2">, o primeiro do terceiro mandato de Lula (PT) na Presidência</segment>
+    <segment id="3">, foi marcado na política pelos ataques golpistas de 8 de janeiro</segment>
+    <segment id="4">, a inelegibilidade de Jair Bolsonaro (PL) e os atritos entre o Congresso Nacional e o STF (Supremo Tribunal Federal).</segment>
+    <segment id="5">Foram fatos que alteraram o jogo de poder em Brasília</segment>
+    <segment id="6">, fortalecendo e enfraquecendo alguns dos principais personagens.</segment>
+    <segment id="7">Lula tentou</segment>
+    <segment id="8">sese equilibrar diante da pressão vinda de diferentes frentes</segment>
+    <segment id="9">, como</segment>
+    <segment id="10">como o centrão</segment>
+    <segment id="11">, liderado por Arthur Lira (PP-AL)</segment>
+    <segment id="12">, o mercado e integrantes de seu próprio partido.</segment>
+    <segment id="13">Em seu ministério</segment>
+    <segment id="14">, Marina Silva (Rede)</segment>
+    <segment id="15">, por exemplo</segment>
+    <segment id="16">, ficou enfraquecida</segment>
+    <segment id="17">, enquanto Fernando Haddad (PT) terminou o ano com saldo positivo.</segment>
+    <segment id="18">O presidente Lula (PT)</segment>
+    <segment id="19">, ao lado dos presidentes da Câmara dos Deputados</segment>
+    <segment id="20">, deputado Arthur Lira (PP-AL) e do STF (Supremo Tribunal Federal)</segment>
+    <segment id="21">, ministro Luis Roberto Barroso</segment>
+    <segment id="22">, durante reunião no Palácio do Planalto</segment>
+    <segment id="23">, em Brasília - Pedro Ladeira - 23.nov.23/FolhapressVeja quem saiu ganhando</segment>
+    <segment id="24">, quem saiu perdendo e quem</segment>
+    <segment id="25">sese manteve estável na política em 2023:    Lula (PT)</segment>
+    <segment id="26">, presidente - estável  Vencedor por uma pequena margem nas eleições passadas</segment>
+    <segment id="27">, o petista teve um ano arrastado na Presidência</segment>
+    <segment id="28">, mais refém do Congresso e do centrão</segment>
+    <segment id="29">; mesmo com dificuldade</segment>
+    <segment id="30">, conseguiu aprovar projetos de interesse</segment>
+    <segment id="31">, como</segment>
+    <segment id="32">como a reforma tributária</segment>
+    <segment id="33">; nas pesquisas Datafolha de avaliação suas taxas de ótimo/bom oscilaram de 37% a 38%</segment>
+    <segment id="34">, cristalizando a polarização verificada no pleito de 2022.</segment>
+    <segment id="35">Geraldo Alckmin (PSB)</segment>
+    <segment id="36">, vice-presidente - estável  Alckmin manteve algum protagonismo na política ao assumir o Palácio do Planalto com as diversas viagens de Lula</segment>
+    <segment id="37">, visando melhorar a imagem do Brasil no cenário internacional</segment>
+    <segment id="38">; ao mesmo tempo</segment>
+    <segment id="39">, como</segment>
+    <segment id="40">como ministro do Desenvolvimento</segment>
+    <segment id="41">, emplacou políticas</segment>
+    <segment id="42">comocomo a volta do carro popular.  Jair Bolsonaro (PL)</segment>
+    <segment id="43">, ex-presidente - saiu perdendo  Mais um ano ruim para o ex-presidente</segment>
+    <segment id="44">, que agora está inelegível após julgamentos do TSE (Tribunal Superior Eleitoral) pela reunião com embaixadores e pelas festividades do 7 de Setembro em 2022</segment>
+    <segment id="45">;</segment>
+    <segment id="46">fora da política institucional</segment>
+    <segment id="47">, tem dificuldades para</segment>
+    <segment id="48">sese manter em evidência</segment>
+    <segment id="49">, e está envolto em uma série de investigações</segment>
+    <segment id="50">, que podem levá-lo a condenações civis e criminais</segment>
+    <segment id="51">, como</segment>
+    <segment id="52">como no 8/1 e no</segment>
+    <segment id="53">casocaso das joias sauditas.</segment>
+    <segment id="54">Bolsonaro deve sofrer novas derrotas depois de revés no TSEMais    novamente         de   de  de  representando um  Michelle Bolsonaro (PL)</segment>
+    <segment id="55">, ex-primeira-dama - estável</segment>
+    <segment id="56">Ex-primeira-dama ganhou maior visibilidade política ao ser considerada um nome do bolsonarismo para 2026</segment>
+    <segment id="57">, tanto para o Planalto quanto para o Senado</segment>
+    <segment id="58">; entretanto</segment>
+    <segment id="59">, vem sendo investigada em casos de corrupção</segment>
+    <segment id="60">, assim</segment>
+    <segment id="61">comocomo o marido</segment>
+    <segment id="62">, como</segment>
+    <segment id="63">como na venda das joias.  Fernando Haddad (PT)</segment>
+    <segment id="64">, ministro da Fazenda - saiu ganhando  Haddad conseguiu a aprovação da reforma tributária</segment>
+    <segment id="65">, uma pauta de mais de 30 anos</segment>
+    <segment id="66">, e levou adiante medidas importantes para o governo federal</segment>
+    <segment id="67">, como</segment>
+    <segment id="68">como a taxação de offshores e o arcabouço fiscal</segment>
+    <segment id="69">; sofre para manter viva a meta de déficit fiscal zero</segment>
+    <segment id="70">, atacada até por Lula</segment>
+    <segment id="71">, e passou por fritura dentro do PT.</segment>
+    <segment id="72">Conheça a trajetória de Fernando Haddad Mais    novamente         de   de  de  representando um  Arthur Lira (PP-AL)</segment>
+    <segment id="73">, presidente da Câmara dos Deputados - saiu ganhando</segment>
+    <segment id="74">O presidente da Câmara saiu fortalecido deste ano</segment>
+    <segment id="75">, após emplacar uma reforma ministerial no governo petista</segment>
+    <segment id="76">, além de tornar-</segment>
+    <segment id="77">sese o principal articulador das pautas do centrão e das negociações para liberação de emendas parlamentares e de cargos em estatais e outros órgãos federais</segment>
+    <segment id="78">; teve ainda uma investigação envolvendo a compra de kits robótica</segment>
+    <segment id="79">, que o atingia</segment>
+    <segment id="80">, anulada pelo ministro Gilmar Mendes</segment>
+    <segment id="81">, do STF.</segment>
+    <segment id="82">Este é Arthur Lira</segment>
+    <segment id="83">, presidente da Câmara dos DeputadosMais    novamente         de   de  de  representando um  Rodrigo Pacheco (PSD-MG)</segment>
+    <segment id="84">, presidente do Senado - saiu ganhando</segment>
+    <segment id="85">O presidente do Senado tem protagonizado um embate entre o Congresso e o STF e obteve a aprovação de uma PEC limitando as decisões monocráticas na corte.</segment>
+    <segment id="86">A proposta</segment>
+    <segment id="87">, porém</segment>
+    <segment id="88">porém, deve ficar travada na Câmara</segment>
+    <segment id="89">; apesar de ter boa relação com o governo</segment>
+    <segment id="90">, tem acenado aos bolsonaristas para emplacar um sucessor na chefia da Casa em 2025 e para viabilizar uma candidatura ao governo mineiro em 2026.</segment>
+    <segment id="91">Davi Alcolumbre (União Brasil-AP)</segment>
+    <segment id="92">, senador - saiu ganhando</segment>
+    <segment id="93">Após o revés sofrido ao ser impedido de candidatar-</segment>
+    <segment id="94">sese novamente à presidência do Senado em 2021</segment>
+    <segment id="95">, o parlamentar é ventilado para voltar à chefia da Casa em 2025</segment>
+    <segment id="96">, além de ter emplacado neste ano três ministros no governo Lula e de ser um dos principais controladores das emendas parlamentares</segment>
+    <segment id="97">; à Folha</segment>
+    <segment id="98">, em outubro</segment>
+    <segment id="99">, afirmou ser "menos poderoso do que pensam".</segment>
+    <segment id="100">Romeu Zema (Novo)</segment>
+    <segment id="101">, governador de Minas Gerais - saiu perdendo</segment>
+    <segment id="102">O mineiro tentou ganhar maior visibilidade nacional e</segment>
+    <segment id="103">sese viabilizar</segment>
+    <segment id="104">comocomo uma opção do bolsonarismo em 2026</segment>
+    <segment id="105">, masmas fez uma série de declarações polêmicas</segment>
+    <segment id="106">, gafes e demonstrou falta de conhecimento até sobre o estado que governa</segment>
+    <segment id="107">; ainda ficou acuado nas negociações sobre a dívida que Minas tem com a União</segment>
+    <segment id="108">, onde Pacheco tomou a dianteira.</segment>
+    <segment id="109">Agora tenta ganhar espaço nas tratativas.</segment>
+    <segment id="110">As frases polêmicas e as gafes de Romeu ZemaMais    novamente         de   de  de  representando um  Tarcísio de Freitas (Republicanos)</segment>
+    <segment id="111">, governador de São Paulo - estável</segment>
+    <segment id="112">O ex-ministro da Infraestrutura de Bolsonaro passou o primeiro ano à frente do Palácio dos Bandeirantes recuando de medidas anunciadas durante o mandato e chegando até a recuar de recuos.</segment>
+    <segment id="113">Distanciou-</segment>
+    <segment id="114">sese um momento de Bolsonaro por políticas públicas vistas</segment>
+    <segment id="115">comocomo progressistas e pela articulação com o governo federal.</segment>
+    <segment id="116">Entre suas vitórias</segment>
+    <segment id="117">, está a aprovação da privatização da Sabesp</segment>
+    <segment id="118">, em dezembro.</segment>
+    <segment id="119">Eduardo Leite (PSDB)</segment>
+    <segment id="120">, governador do Rio Grande do Sul - saiu perdendo</segment>
+    <segment id="121">Apesar dos esforços para reerguer o PSDB</segment>
+    <segment id="122">, o governador gaúcho teve um ano de dificuldades com os desastres climáticos no estado e decidiu deixar a presidência da sigla</segment>
+    <segment id="123">;</segment>
+    <segment id="124">além disso</segment>
+    <segment id="125">, passou o ano com baixa visibilidade nacional e sem</segment>
+    <segment id="126">sese firmar</segment>
+    <segment id="127">comocomo liderança de oposição a Lula</segment>
+    <segment id="128">, o que o atrapalha nos planos de tentar a Presidência em 2026.</segment>
+    <segment id="129">Eduardo Leite na campanha eleitoral de 2022Mais    novamente         de   de  de  representando um  Raquel Lyra (PSDB)</segment>
+    <segment id="130">, governadora de Pernambuco - saiu perdendo</segment>
+    <segment id="131">A pernambucana teve um ano difícil na relação com o Legislativo estadual</segment>
+    <segment id="132">, com reclamações sobre o espaço no governo e na articulação política.</segment>
+    <segment id="133">Sofreu derrotas com a reeleição do presidente da Casa</segment>
+    <segment id="134">, além da derrubada dos vetos ao Orçamento de 2024</segment>
+    <segment id="135">; ainda enfrenta crises na saúde e na segurança pública</segment>
+    <segment id="136">, herdadas de Paulo Câmara (PSB).</segment>
+    <segment id="137">Apesar das derrotas locais</segment>
+    <segment id="138">, porém</segment>
+    <segment id="139">porém,</segment>
+    <segment id="140">sese aproximou do governo Lula</segment>
+    <segment id="141">, ampliou sua articulação nacional e é cobiçada por outros partidos.</segment>
+    <segment id="142">Marina Silva (Rede)</segment>
+    <segment id="143">, ministra do Meio Ambiente - saiu perdendo</segment>
+    <segment id="144">A ministra do Meio Ambiente</segment>
+    <segment id="145">, prestigiada por Lula</segment>
+    <segment id="146">, sese viu com menos poderes após o centrão alterar a MP (medida provisória) da Esplanada e transferir algumas das suas funções para outras pastas</segment>
+    <segment id="147">, restaurando estruturas do governo Bolsonaro</segment>
+    <segment id="148">; já Lula</segment>
+    <segment id="149">, ameaçado por uma histórica derrota</segment>
+    <segment id="150">, não reagiu e manteve as alterações.</segment>
+    <segment id="151">Ainda foi contrariada no</segment>
+    <segment id="152">casocaso da exploração de petróleo na Foz do Amazonas.</segment>
+    <segment id="153">Esta é Marina SilvaMais    novamente         de   de  de  representando um  Aécio Neves (PSDB-MG)</segment>
+    <segment id="154">, deputado federal - saiu ganhando</segment>
+    <segment id="155">O candidato à Presidência em 2014 saiu fortalecido no PSDB e projeta voos mais altos na política mineira para os próximos anos.</segment>
+    <segment id="156">Foi absolvido no</segment>
+    <segment id="157">casocaso de corrupção com a JBS</segment>
+    <segment id="158">, revelado após os áudios de Joesley Batista</segment>
+    <segment id="159">, e foi reabilitado internamente entre os tucanos</segment>
+    <segment id="160">;</segment>
+    <segment id="161">teve grande influência na chapa para a diretoria nacional da legenda e pensa em candidatar-</segment>
+    <segment id="162">sese ao governo mineiro em 2026.</segment>
+    <segment id="163">Flávio Dino (PSB)</segment>
+    <segment id="164">, futuro ministro do STF e ministro da Justiça - saiu ganhando</segment>
+    <segment id="165">Apesar de um ano coberto por embates com a oposição no Congresso</segment>
+    <segment id="166">, as crises de segurança pública no Rio de Janeiro e na Bahia</segment>
+    <segment id="167">, e o desgaste com a visita ao Ministério da Justiça de uma acusada de lavagem de dinheiro para o tráfico</segment>
+    <segment id="168">, Dino foi indicado por Lula à vaga no STF de Rosa Weber e aprovado pelo Senado</segment>
+    <segment id="169">, tornando-</segment>
+    <segment id="170">sese novo ministro da corte.</segment>
+    <segment id="171">Este é Flávio Dino</segment>
+    <segment id="172">, ministro da Justiça de Lula indicado ao STFMais    novamente         de   de  de  representando um  Alexandre de Moraes</segment>
+    <segment id="173">, ministro do STF - estável</segment>
+    <segment id="174">O magistrado mantém protagonismo na corte com a relatoria e os julgamentos dos casos dos ataques golpistas de 8 de janeiro</segment>
+    <segment id="175">, masmas tem sido alvo de críticas com a condução dos processos</segment>
+    <segment id="176">; também</segment>
+    <segment id="177">sese desgastou com a morte do réu Cleriston Pereira da Cunha no Complexo da Papuda</segment>
+    <segment id="178">, em Brasília</segment>
+    <segment id="179">, mesmo após a PGR (Procuradoria-Geral da República) pedir sua liberdade sob restrições.</segment>
+    <segment id="180">Mesmo assim</segment>
+    <segment id="181">, ainda conseguiu influenciar a escolha de Paulo Gonet</segment>
+    <segment id="182">, novo chefe do Ministério Público</segment>
+    <segment id="183">, por Lula.  Luís Roberto Barroso</segment>
+    <segment id="184">, presidente do STF - estável  Empossado presidente do STF após ter dito que "derrotamos o bolsonarismo"</segment>
+    <segment id="185">, Barroso administra a corte durante o julgamento dos casos dos ataques golpistas de 8 de janeiro sob série de críticas e lida com o embate envolvendo o Congresso</segment>
+    <segment id="186">, que tenta aprovar medidas restringindo a atuação do tribunal.</segment>
+    <segment id="187">Apesar disso</segment>
+    <segment id="188">, manteve parada a análise da corte sobre o aborto</segment>
+    <segment id="189">, em um aceno ao conservadorismo.  Cristiano Zanin</segment>
+    <segment id="190">, ministro do STF - saiu ganhando  Advogado de Lula na Operação Lava Jato e amigo do presidente</segment>
+    <segment id="191">, Cristiano Zanin deixou a advocacia e tornou-</segment>
+    <segment id="192">sese ministro do STF após a aposentadoria de Ricardo Lewandowski</segment>
+    <segment id="193">; conseguiu agradar também aos senadores conservadores e foi aprovado para a corte com folga —foram 58 votos a favor</segment>
+    <segment id="194">, e 18 contra.</segment>
+    <segment id="195">Cristiano Zanin toma posse no STFMais    novamente         de   de  de  representando um  Deltan Dallagnol (Novo)</segment>
+    <segment id="196">, ex-deputado federal - saiu perdendo  Deputado federal mais votado do Paraná em 2022</segment>
+    <segment id="197">, o ex-procurador da República perdeu seu mandato em junho deste ano após decisão unânime do TSE com base na Lei da Ficha Limpa</segment>
+    <segment id="198">; a corte eleitoral entendeu que Deltan havia pedido demissão antecipadamente para burlar a inelegibilidade prevista na lei a membros do Ministério Público</segment>
+    <segment id="199">, que não poderiam concorrer</segment>
+    <segment id="200">sese tivessem processos administrativos em aberto.</segment>
+    <segment id="201">Gleisi Hoffmann</segment>
+    <segment id="202">, deputada federal e presidente do PT - estável</segment>
+    <segment id="203">Gleisi manteve papel de influência no governo Lula</segment>
+    <segment id="204">, masmas não foi ouvida em todos os momentos pelo presidente: o principal</segment>
+    <segment id="205">casocaso é a indicação de Gonet para a PGR —ele havia defendido a abertura de ação penal contra ela e seu ex-marido</segment>
+    <segment id="206">, Paulo Bernardo.</segment>
+    <segment id="207">Gleisi HoffmannMais    novamente         de   de  de  representando um  Sergio Moro (União Brasil-PR)</segment>
+    <segment id="208">, senador - saiu perdendo</segment>
+    <segment id="209">Moro é réu em uma ação de investigação eleitoral sob suspeita de abuso de poder econômico na pré-campanha das eleições passadas e tem recorrido a integrantes do Judiciário na tentativa de impedir a cassação de seu mandato</segment>
+    <segment id="210">;</segment>
+    <segment id="211">o ex-juiz está isolado politicamente e não obtém apoio para emplacar iniciativas ou para manter a projeção nacional.</segment>
+    <segment id="212">Gilberto Kassab</segment>
+    <segment id="213">, presidente do PSD - saiu ganhando</segment>
+    <segment id="214">O secretário de Governo de Tarcísio</segment>
+    <segment id="215">, homem forte do governo estadual e articulador político</segment>
+    <segment id="216">, viu seu partido multiplicar por sete o número de prefeitos no estado de São Paulo desde dezembro de 2022 —de 46 para 329</segment>
+    <segment id="217">;</segment>
+    <segment id="218">além disso</segment>
+    <segment id="219">, manteve forte influência na tomada de decisões do governador</segment>
+    <segment id="220">, controlando ainda repasse de emendas e convênios estaduais.</segment>
+    <segment id="221">No plano nacional</segment>
+    <segment id="222">, mantém proximidade com o governo Lula.</segment>
+    <segment id="223">Este é Gilberto KassabMais    novamente         de   de  de  representando</segment>
+    <segment id="224">um</segment>
+  </rst>
+</analysis>

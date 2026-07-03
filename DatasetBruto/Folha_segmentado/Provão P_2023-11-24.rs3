@@ -1,0 +1,69 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo Tarcísio de Freitas (Republicanos) decidiu adiar a aplicação do Provão Paulista</segment>
+    <segment id="2">, novo vestibular seriado para universidades do estado de São Paulo</segment>
+    <segment id="3">, em razão da paralisação de metroviários</segment>
+    <segment id="4">, ferroviários e funcionários da Sabesp agendada para terça-feira (28).</segment>
+    <segment id="5">Matriculados na 3ª série do ensino médio que fariam o teste nos dias 28 e 29.</segment>
+    <segment id="6">Agora, participarão nos dias 29 e 30 de novembro.</segment>
+    <segment id="7">Já estudantes da 1ª e 2ª séries</segment>
+    <segment id="8">, com prova agendada originalmente para os dias 30 de novembro e 1º de dezembro</segment>
+    <segment id="9">, tiveram os exames transferidos para os dias 1º e 4 de dezembro.</segment>
+    <segment id="10">Apesar de a greve no transporte afetar a capital e a região metropolitana</segment>
+    <segment id="11">, a mudança nas datas do Provão Paulista valem para todos os 645 municípios do estado.</segment>
+    <segment id="12">Candidatos durante o exame da primeira fase da Fuvest - Rubens Cavallari - 19.nov.2023/FolhapressO Provão</segment>
+    <segment id="13">, em sua primeira edição</segment>
+    <segment id="14">, é uma espécie de "</segment>
+    <segment id="15">Enem estadual</segment>
+    <segment id="16">"</segment>
+    <segment id="17">e disponibilizará 15.369 vagas para cursos superiores em 2024 nas cinco instituições parceiras: USP (Universidade de São Paulo)</segment>
+    <segment id="18">, Unesp (Universidade Estadual Paulista)</segment>
+    <segment id="19">, Unicamp (Universidade Estadual de Campinas)</segment>
+    <segment id="20">, Fatecs (Faculdades de Tecnologia do Estado de São Paulo) e Univesp (Universidade Virtual do Estado de São Paulo).</segment>
+    <segment id="21">Segundo o governo de São Paulo</segment>
+    <segment id="22">, 1,2 milhão de estudantes estão inscritos para as provas.</segment>
+    <segment id="23">A Secretaria da Educação</segment>
+    <segment id="24">, comandada por Renato Feder</segment>
+    <segment id="25">, diz lamentar a decisão</segment>
+    <segment id="26">, masmas que a solução encontrada "tem por objetivo não prejudicar os estudantes da rede estadual</segment>
+    <segment id="27">, que em sua maioria dependem do transporte público".</segment>
+    <segment id="28">"</segment>
+    <segment id="29">Todos os alunos inscritos no Provão Paulista</segment>
+    <segment id="30">, inclusive os que vierem de outros municípios e estados para a capital</segment>
+    <segment id="31">, deverão seguir as novas datas estipuladas para a realização das provas"</segment>
+    <segment id="32">, explica a pasta</segment>
+    <segment id="33">, em nota.</segment>
+    <segment id="34">Novo calendário do Provão Paulista  Alunos do 3º ano</segment>
+    <segment id="35">Como era:</segment>
+    <segment id="36">Fariam provas nos dias 28 (terça) e 29 (quarta)</segment>
+    <segment id="37">Como fica:</segment>
+    <segment id="38">Farão provas nos dias 29 (quarta) e 30 (quinta)</segment>
+    <segment id="39">Alunos do 1º e do 2º anos</segment>
+    <segment id="40">Como era:</segment>
+    <segment id="41">Fariam provas nos dias 30 (quinta) e 1º/12 (sexta)</segment>
+    <segment id="42">Como fica:</segment>
+    <segment id="43">Farão provas nos dias 1º (sexta) e 4 (segunda)</segment>
+  </rst>
+</analysis>

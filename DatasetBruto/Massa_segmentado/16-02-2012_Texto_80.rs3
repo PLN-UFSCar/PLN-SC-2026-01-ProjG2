@@ -1,0 +1,38 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Jovens detidos com crack
+Diogo Barbosa e Jackson Lima dos Santos</segment>
+    <segment id="2">, ambos com 19 anos</segment>
+    <segment id="3">, foram presos no ato
+Diogo Barbosa e Jackson Lima dos Santos</segment>
+    <segment id="4">, ambos com 19 anos</segment>
+    <segment id="5">, foram presos em flagrante</segment>
+    <segment id="6">, anteontem à noite</segment>
+    <segment id="7">, no bairro de São Caetano.</segment>
+    <segment id="8">Os dois traficavam 27 pedras de crack  e quantidade não divulgada de maconha  na Rua Sirlândia.</segment>
+    <segment id="9">Por isso</segment>
+    <segment id="10">, os jovens foram levados para a 4ª Delegacia Territorial (4ª DT).</segment>
+  </rst>
+</analysis>

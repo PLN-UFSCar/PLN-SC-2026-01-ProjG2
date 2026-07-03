@@ -1,0 +1,154 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O avanço da Covid-19 em estados do Sul e do Centro-Oeste</segment>
+    <segment id="2">, além de Minas Gerais</segment>
+    <segment id="3">, pressiona a demanda por leitos no sistema de saúde pública desses estados</segment>
+    <segment id="4">, sobretudo nas capitais.</segment>
+    <segment id="5">Ao todo</segment>
+    <segment id="6">, seis capitais de estados registram ocupação de leitos de UTI (Unidade de Terapia Intensiva) sob gestão estadual acima de 80%.</segment>
+    <segment id="7">Goiânia e Campo Grande registram o pior cenário</segment>
+    <segment id="8">, com ocupação acima de 90%.</segment>
+    <segment id="9">Na sequência</segment>
+    <segment id="10">, com mais de 80% dos leitos ocupados</segment>
+    <segment id="11">, aparecem Porto Alegre</segment>
+    <segment id="12">, Belo Horizonte</segment>
+    <segment id="13">, Curitiba e Aracaju.</segment>
+    <segment id="14">A capital de Goiás estava nesta segunda-feira (10) com 95% dos 106 leitos de terapia intensiva para pacientes com suspeita de Covid-19 ocupados.</segment>
+    <segment id="15">Nos últimos dias</segment>
+    <segment id="16">, foi registrado um avanço do número de casos da doença registrados na cidade.</segment>
+    <segment id="17">“Não estamos em platô.</segment>
+    <segment id="18">Estamos com crescimento [dos casos de Covid-19]</segment>
+    <segment id="19">, embora</segment>
+    <segment id="20">embora não seja um crescimento vertiginoso”</segment>
+    <segment id="21">, afirmou a secretária municipal de Saúde</segment>
+    <segment id="22">, Fátima Mrué</segment>
+    <segment id="23">, em entrevista à imprensa nesta terça-feira (11).</segment>
+    <segment id="24">Foram abertas 30 novas vagas na cidade com a inauguração do Hospital das Clínicas</segment>
+    <segment id="25">, que é vinculado à Universidade Federal de Goiás e estava em construção havia 18 anos.</segment>
+    <segment id="26">Em Campo Grande (MS)</segment>
+    <segment id="27">, que nos últimos meses figurava entre as capitais com menor demanda por leitos para pacientes com Covid-19</segment>
+    <segment id="28">, a ocupação chegou a 91%.Há duas semanas</segment>
+    <segment id="29">, o índice de ocupação de leitos era de 63%</segment>
+    <segment id="30">, masmas houve uma mudança de metodologia:</segment>
+    <segment id="31">a prefeitura passou a divulgar o total de UTIs e não apenas os reservados para Covid-19.</segment>
+    <segment id="32">Ainda assim</segment>
+    <segment id="33">, a maioria dos internados na macrorregião de Campo Grande</segment>
+    <segment id="34">, segundo dados do governo estadual</segment>
+    <segment id="35">, é de pacientes com Covid-19.</segment>
+    <segment id="36">Ao todo</segment>
+    <segment id="37">, a capital de Mato Grosso do Sul registrou 13.245 casos confirmados de coronavírus e 204 mortes em decorrência de Covid-19.</segment>
+    <segment id="38">Entre os estados do Sul</segment>
+    <segment id="39">, Porto Alegre enfrenta o pior cenário com 9 de cada 10 leitos de UTI ocupados.</segment>
+    <segment id="40">A taxa de ocupação de 89% é praticamente a mesma de duas semanas atrás apesar do incremento no número de leitos na capital gaúcha.</segment>
+    <segment id="41">Segundo uma projeção da Universidade Federal do Rio Grande do Sul</segment>
+    <segment id="42">, Porto Alegre deve enfrentar o pico da pandemia no final de agosto.</segment>
+    <segment id="43">Médicos escrevem biografias de pacientes internados em UTI   novamente         de   de  de  representando um</segment>
+    <segment id="44">Em meio ao momento mais crítico da pandemia no Rio Grande do Sul</segment>
+    <segment id="45">, o estado relaxou regras para funcionamento de comércio e serviço em cidades de regiões classificadas</segment>
+    <segment id="46">comocomo de alto risco.</segment>
+    <segment id="47">Um decreto do prefeito de Porto Alegre</segment>
+    <segment id="48">, Nelson Marchezan Jr. (PSDB)</segment>
+    <segment id="49">, liberou shoppings</segment>
+    <segment id="50">, academias</segment>
+    <segment id="51">, cultos</segment>
+    <segment id="52">, restaurantes e bares</segment>
+    <segment id="53">, desde que obedeçam a regras de lotação</segment>
+    <segment id="54">, horários limitados e protocolos de higiene.</segment>
+    <segment id="55">Além disso</segment>
+    <segment id="56">, o governador Eduardo Leite (PSDB) indicou a possibilidade de retorno às aulas em 31 de agosto</segment>
+    <segment id="57">, de forma escalonada</segment>
+    <segment id="58">, começando pelo ensino infantil.</segment>
+    <segment id="59">Em Curitiba</segment>
+    <segment id="60">, a ocupação de leitos segue em um patamar alto a despeito de o prefeito de Curitiba</segment>
+    <segment id="61">, Rafael Greca (DEM)</segment>
+    <segment id="62">, ter afirmado que o pico da doença na capital foi atingido em 19 de julho.</segment>
+    <segment id="63">Nesta quarta-feira (12)</segment>
+    <segment id="64">, a cidade ainda registrava uma taxa de ocupação de leitos de UTI acima de 80% e somou mais 14 mortes e 486 novos casos da doença.</segment>
+    <segment id="65">"</segment>
+    <segment id="66">Amanhã</segment>
+    <segment id="67">, sese Deus quiser</segment>
+    <segment id="68">, serão dias melhores.</segment>
+    <segment id="69">Se em seis dias tivemos quase mil pessoas curadas</segment>
+    <segment id="70">, pode ser que estejamos deixando o pico da pandemia"</segment>
+    <segment id="71">, disse o prefeito à Folha na última sexta-feira (7).</segment>
+    <segment id="72">No Distrito Federal</segment>
+    <segment id="73">, que via um crescimento da demanda por leitos de UTI</segment>
+    <segment id="74">, a taxa de ocupação caiu para 73% nesta segunda-feira.</segment>
+    <segment id="75">Há duas semanas</segment>
+    <segment id="76">, este índice era de 77%.</segment>
+    <segment id="77">A ampliação da oferta de leitos na capital federal foi crucial para a redução dos índices.</segment>
+    <segment id="78">Ao todo há 752 leitos de UTI destinados para a doença</segment>
+    <segment id="79">, e 82 vagas foram abertas desde 27 de julho.</segment>
+    <segment id="80">Covid-19 na periferia de Salvador   novamente         de   de  de  representando um</segment>
+    <segment id="81">Entre as capitais de estados do Nordeste</segment>
+    <segment id="82">, Aracaju é a que tem maior demanda por leitos</segment>
+    <segment id="83">, com ocupação de 80%.</segment>
+    <segment id="84">O estado de Sergipe já registra 65 mil casos da Covid-19 e 1.633 mortes pela doença.</segment>
+    <segment id="85">Nas demais capitais nordestinas</segment>
+    <segment id="86">, a pressão por leitos é menor.</segment>
+    <segment id="87">Em Salvador</segment>
+    <segment id="88">, que enfrentou forte demanda durante o mês de julho</segment>
+    <segment id="89">, a taxa de ocupação de leitos de UTI caiu para 63%.</segment>
+    <segment id="90">A queda das taxas fez com que a prefeitura autorizasse a reabertura do comércio e shoppings no dia 24 de julho.</segment>
+    <segment id="91">Desde a segunda-feira (10)</segment>
+    <segment id="92">, academias</segment>
+    <segment id="93">, salões de beleza</segment>
+    <segment id="94">, bares e restaurantes podem funcionar mediante cumprimento de regras de distanciamento social.</segment>
+    <segment id="95">No Recife</segment>
+    <segment id="96">, após três meses com tendência de queda dos indicadores da pandemia</segment>
+    <segment id="97">, o maior hospital de campanha montado na cidade começou a ser desativado nesta quarta-feira (12).</segment>
+    <segment id="98">A unidade de saúde conta com cem leitos de UTI.</segment>
+    <segment id="99">“</segment>
+    <segment id="100">Nós chegamos à menor taxa de ocupação das UTIs</segment>
+    <segment id="101">, somando os leitos da prefeitura e do governo do estado”</segment>
+    <segment id="102">, afirmou em entrevista à imprensa o prefeito do Recife</segment>
+    <segment id="103">, Geraldo Julio (PSB).</segment>
+    <segment id="104">O estado de Pernambuco</segment>
+    <segment id="105">, que abriu 20 novas vagas nas últimas duas semanas na rede estadual</segment>
+    <segment id="106">, atingiu nesta quarta-feira a menor taxa de ocupação de UTIs para pacientes com sintomas da Covid-19: 62%.</segment>
+    <segment id="107">Em Natal</segment>
+    <segment id="108">, a taxa de ocupação de leitos permanece em queda.</segment>
+    <segment id="109">Nos últimos 15 dias</segment>
+    <segment id="110">, o índice caiu de 60% para 54%.</segment>
+    <segment id="111">A capital do Rio Grande do Norte chegou a apresentar 100% de ocupação durante mais de dois meses.</segment>
+    <segment id="112">No estado de São Paulo</segment>
+    <segment id="113">, a taxa de ocupação de leitos de UTI para Covid-19 caiu de 65</segment>
+    <segment id="114">,7% para 59</segment>
+    <segment id="115">,1% entre 27 de julho e 10 de agosto.</segment>
+    <segment id="116">Na capital</segment>
+    <segment id="117">, este índice caiu de 56% para e 50% no mesmo período.</segment>
+    <segment id="118">Apesar da queda no número de novas internações</segment>
+    <segment id="119">, os dados da Secretaria Estadual da Saúde mostram um crescimento de 5% nas mortes pela doença no estado.</segment>
+    <segment id="120">Nesta semana</segment>
+    <segment id="121">, houve 86 óbitos a mais do que na anterior.</segment>
+    <segment id="122">O secretário estadual da Saúde</segment>
+    <segment id="123">, Jean Gorinchteyn</segment>
+    <segment id="124">, afirma que a alta é resultado da maior taxa de internações que ocorreram há duas semanas.</segment>
+    <segment id="125">A expectativa para as próximas semanas é de uma redução no número de óbitos.</segment>
+    <segment id="126">Nova projeção feita pelo Centro de Contingência do Coronavírus aponta que até 15 de agosto o estado poderá ter</segment>
+    <segment id="127">, ao todo</segment>
+    <segment id="128">, 720 mil casos de coronavírus e 31 mil mortes por Covid-19.</segment>
+  </rst>
+</analysis>

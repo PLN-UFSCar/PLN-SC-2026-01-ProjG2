@@ -1,0 +1,126 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Quando</segment>
+    <segment id="2">Shinzo</segment>
+    <segment id="3">Abe encerrou o estado de emergência no Japão na semana passada</segment>
+    <segment id="4">, com apenas 16.724 infecções e 894 mortes pela Covid-19</segment>
+    <segment id="5">, ele não resistiu a</segment>
+    <segment id="6">sese gabar do "modelo japonês" para lidar com o coronavírus.</segment>
+    <segment id="7">"</segment>
+    <segment id="8">De uma maneira tipicamente japonesa</segment>
+    <segment id="9">, quase controlamos a epidemia no último mês e meio"</segment>
+    <segment id="10">, declarou o primeiro-ministro.</segment>
+    <segment id="11">Seus comentários levantaram uma pergunta:</segment>
+    <segment id="12">qual é o modelo japonês</segment>
+    <segment id="13">, e ele poderia funcionar em outro lugar?</segment>
+    <segment id="14">Estudantes do ensino médio durante cerimônia de reabertura de escola no Japão - 1º. jun.2020/Jiji Press/AFP  Embora tenha havido um aumento dos casos em Tóquio</segment>
+    <segment id="15">, entender as razões do relativo sucesso do Japão no controle da Covid-19 tem importância global.</segment>
+    <segment id="16">Afinal</segment>
+    <segment id="17">, o país não impôs um bloqueio obrigatório e aplicou poucos testes do vírus</segment>
+    <segment id="18">, dois elementos que outros países consideram cruciais.</segment>
+    <segment id="19">Grande parte do debate público no Japão havia girado em torno de fatores culturais</segment>
+    <segment id="20">, como</segment>
+    <segment id="21">como altos padrões de higiene</segment>
+    <segment id="22">, obediência às solicitações do governo e até afirmações de que a ausência de consoantes aspiradas no idioma japonês reduz a propagação de gotículas de vírus.</segment>
+    <segment id="23">Mas especialistas locais afirmam não acreditar que seu país tenha um poder mágico para derrotar o vírus.</segment>
+    <segment id="24">Em vez disso</segment>
+    <segment id="25">, apontam outros três fatores prosaicos: uma estratégia especial de rastreamento de contatos</segment>
+    <segment id="26">, a conscientização precoce</segment>
+    <segment id="27">, que produziu uma reação positiva do público japonês</segment>
+    <segment id="28">, e a declaração a tempo do estado de emergência.</segment>
+    <segment id="29">O Japão foi atingido logo no início da epidemia por causa de seus laços estreitos com a China.</segment>
+    <segment id="30">O país relatou seu primeiro</segment>
+    <segment id="31">casocaso em 15 de janeiro</segment>
+    <segment id="32">, e a primeira infecção doméstica</segment>
+    <segment id="33">, em 28 de janeiro.</segment>
+    <segment id="34">No início de fevereiro</segment>
+    <segment id="35">, quando a maioria do mundo ainda tratava a Covid-19</segment>
+    <segment id="36">comocomo um problema chinês</segment>
+    <segment id="37">, Tóquio enfrentou um surto no navio de cruzeiro Diamond Princess.</segment>
+    <segment id="38">Novo coronavírus afeta cruzeiros    novamente         de   de  de  representando um    "</segment>
+    <segment id="39">O Japão percebeu o que estava acontecendo e começou a reagir antes que o vírus</segment>
+    <segment id="40">sese instalasse"</segment>
+    <segment id="41">, disse Satoshi Hori</segment>
+    <segment id="42">, especialista em controle de infecções e professor na Universidade Juntendo.</segment>
+    <segment id="43">"</segment>
+    <segment id="44">Foi uma vantagem local.</segment>
+    <segment id="45">"</segment>
+    <segment id="46">Sem nenhuma instrução oficial</segment>
+    <segment id="47">, a população começou a esterilizar as mãos</segment>
+    <segment id="48">, a usar máscaras e a praticar distanciamento social por vontade própria.</segment>
+    <segment id="49">"</segment>
+    <segment id="50">Todo mundo usou máscaras para</segment>
+    <segment id="51">sese proteger</segment>
+    <segment id="52">, masmas o efeito real foi reduzir a propagação por portadores assintomáticos da Covid-19"</segment>
+    <segment id="53">, disse o professor Hori.</segment>
+    <segment id="54">"Pode ter sido sorte</segment>
+    <segment id="55">, masmas fez a diferença.</segment>
+    <segment id="56">"</segment>
+    <segment id="57">O Japão usou uma abordagem específica para rastrear contatos.</segment>
+    <segment id="58">"</segment>
+    <segment id="59">A maioria dos outros países adotou o que chamamos de rastreamento prospectivo"</segment>
+    <segment id="60">, disse Shigeru Omi</segment>
+    <segment id="61">, chefe do grupo de especialistas que aconselha o governo sobre o vírus.  "</segment>
+    <segment id="62">A abordagem baseada em grupos usa rastreamento retrospectivo completo de contatos para identificar fontes comuns de infecção.</segment>
+    <segment id="63">"  No rastreamento prospectivo</segment>
+    <segment id="64">, os contatos próximos de um</segment>
+    <segment id="65">casocaso de Covid-19 são monitorados</segment>
+    <segment id="66">para que</segment>
+    <segment id="67">para que possam ficar em quarentena</segment>
+    <segment id="68">sese apresentarem sintomas.</segment>
+    <segment id="69">A abordagem japonesa também tenta descobrir onde eles foram infectados</segment>
+    <segment id="70">, seja uma boate ou um hospital</segment>
+    <segment id="71">, e depois monitora as pessoas que visitaram o mesmo lugar.</segment>
+    <segment id="72">Quatro em cada cinco pacientes com coronavírus não infectam mais ninguém</segment>
+    <segment id="73">, por isso Omi disse que encontrar os superpropagadores é uma maneira mais eficaz de controlar a doença.</segment>
+    <segment id="74">Pandemia de coronavírus em fotos   novamente         de   de  de  representando um    Kenji Shibuya</segment>
+    <segment id="75">, especialista em saúde pública do King's College</segment>
+    <segment id="76">, em Londres</segment>
+    <segment id="77">, disse que o controle de grupos funcionou bem até o início de março</segment>
+    <segment id="78">, masmas depois o coronavírus começou a circular nas grandes cidades do Japão.</segment>
+    <segment id="79">A desaceleração do crescimento do surto ajudou o primeiro-ministro a declarar o estado de emergência no momento certo</segment>
+    <segment id="80">, quando o número de casos ainda era administrável.</segment>
+    <segment id="81">"</segment>
+    <segment id="82">Se a decisão tivesse sido tomada uma semana depois</segment>
+    <segment id="83">, o número de casos teria explodido"</segment>
+    <segment id="84">, disse Shibuya</segment>
+    <segment id="85">, comparando o momento da declaração do Japão com os bloqueios na Itália e no Reino Unido.</segment>
+    <segment id="86">O estado de emergência não obrigava as pessoas a ficarem em casa</segment>
+    <segment id="87">, masmas muitas respeitaram o pedido.</segment>
+    <segment id="88">"</segment>
+    <segment id="89">O bloqueio moderado no Japão parece ter tido um efeito de bloqueio real"</segment>
+    <segment id="90">, disse ele.</segment>
+    <segment id="91">Outros países podem não ter o mesmo nível de aceitação a uma solicitação não compulsória</segment>
+    <segment id="92">, disse o professor Hori.</segment>
+    <segment id="93">Shibuya disse que a abordagem do Japão não é perfeita e que outros países asiáticos</segment>
+    <segment id="94">sese saíram melhor.</segment>
+    <segment id="95">Segundo ele</segment>
+    <segment id="96">, é vital aplicar mais testes.</segment>
+    <segment id="97">"</segment>
+    <segment id="98">Como não tinham os testes</segment>
+    <segment id="99">, não puderam impedir o crescimento exponencial em Tóquio e nas grandes cidades"</segment>
+    <segment id="100">, explicou.</segment>
+  </rst>
+</analysis>

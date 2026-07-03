@@ -1,0 +1,100 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O início do ano é uma época agitada para os analistas econômicos</segment>
+    <segment id="2">, que fazem muitas previsões para o período que</segment>
+    <segment id="3">sese inicia.</segment>
+    <segment id="4">Para 2024</segment>
+    <segment id="5">, a maioria prevê um cenário global sombrio.</segment>
+    <segment id="6">Segundo a última edição do relatório Perspectivas Econômicas Globais do Banco Mundial</segment>
+    <segment id="7">, o crescimento mundial deve registrar o terceiro ano consecutivo de desaceleração em 2024 —chegando a 2</segment>
+    <segment id="8">,3%— em meio aos efeitos persistentes de arrochos na política monetária</segment>
+    <segment id="9">, restrições nas condições de crédito e o enfraquecimento do ambiente de investimento global.</segment>
+    <segment id="10">O baixo crescimento da China enfraquece ainda mais essas perspectivas.</segment>
+    <segment id="11">Além disso</segment>
+    <segment id="12">, há riscos geopolíticos aumentados</segment>
+    <segment id="13">, associados aos conflitos na Europa e no Oriente Médio e à fragmentação do comércio</segment>
+    <segment id="14">, que podem levar a disrupções significativas nos mercados de commodities e no comércio internacional.</segment>
+    <segment id="15">Alimentos continuam sendo uma fonte importante de renda para o Brasil - Ricardo Moraes - 02.set.2021 / ReutersEsse é um cenário desfavorável para o Brasil</segment>
+    <segment id="16">, que,</segment>
+    <segment id="17">comocomo a maioria das outras economias do mesmo porte</segment>
+    <segment id="18">, está exposto a esses ventos contrários vindos de várias partes.</segment>
+    <segment id="19">Ainda assim</segment>
+    <segment id="20">, a economia brasileira tem certas fontes de resiliência capazes de ajudá-la a superar essas turbulências globais ao longo do próximo ano.</segment>
+    <segment id="21">O Brasil tem um banco central confiável</segment>
+    <segment id="22">, o que ajuda a garantir que as expectativas de inflação permaneçam bem ancoradas e abre caminho para cortes futuros nas taxas de juros.</segment>
+    <segment id="23">Além disso</segment>
+    <segment id="24">, seu mercado financeiro interno é robusto e estável</segment>
+    <segment id="25">, tendo enfrentado bem a crise da Covid-19 e outros choques que</segment>
+    <segment id="26">sese seguiram.</segment>
+    <segment id="27">Ambos os fatores são cruciais para a manutenção da estabilidade macroeconômica e da confiança na economia</segment>
+    <segment id="28">, além de serem essenciais no contexto de taxas de juros globais mais elevadas durante um período mais longo.</segment>
+    <segment id="29">O aumento da capacidade do setor agrícola</segment>
+    <segment id="30">, que sustentou o desempenho comercial do Brasil nos últimos anos e o crescimento econômico acima do esperado em 2023</segment>
+    <segment id="31">, é cada vez mais impulsionado pelo progresso tecnológico e por melhorias na logística.</segment>
+    <segment id="32">Colunas e BlogsReceba no seu email uma seleção de colunas e blogs da FolhaCarregando...</segment>
+    <segment id="33">Isso aumenta a resiliência da balança comercial a choques e posiciona o Brasil</segment>
+    <segment id="34">comocomo um fornecedor confiável de alimentos e outros produtos agrícolas num mercado global que</segment>
+    <segment id="35">, em geral</segment>
+    <segment id="36">, enfrenta muitas turbulências.</segment>
+    <segment id="37">Um bom exemplo disso foi a capacidade do setor de expandir sua oferta nos mercados globais em 2023</segment>
+    <segment id="38">, compensando a queda nos preços das commodities naquele ano.</segment>
+    <segment id="39">Uma demanda interna resiliente</segment>
+    <segment id="40">, que também contribuiu para o desempenho do crescimento no ano passado</segment>
+    <segment id="41">, continua a ser apoiada pela desaceleração da inflação</segment>
+    <segment id="42">, por um mercado de trabalho robusto e pelo volume significativo de transferências sociais do Bolsa Família e de outros programas de assistência social.</segment>
+    <segment id="43">Além disso</segment>
+    <segment id="44">, o Brasil alcançou marcos importantes em termos de confiança dos investidores</segment>
+    <segment id="45">, avançando concretamente em reformas estruturais importantes</segment>
+    <segment id="46">, entre elas a reforma tributária (com foco na tributação indireta) e o novo arcabouço fiscal.</segment>
+    <segment id="47">Esses esforços contribuíram para melhorar o perfil de risco de investimento do país nos mercados global e doméstico.</segment>
+    <segment id="48">No entanto</segment>
+    <segment id="49">, isso não significa que 2024 será um ano fácil para o Brasil.</segment>
+    <segment id="50">É prevista uma desaceleração do crescimento este ano: as estimativas do Banco Mundial apontam para uma queda do crescimento dos esperados 3</segment>
+    <segment id="51">,1% em 2023 para 1</segment>
+    <segment id="52">,5% em 2024</segment>
+    <segment id="53">, com espaço fiscal limitado.</segment>
+    <segment id="54">Além disso</segment>
+    <segment id="55">, a economia está significativamente exposta a choques relacionados com os mercados das commodities ou a fenômenos climáticos (secas e inundações) que podem agravar as perspectivas econômicas.</segment>
+    <segment id="56">Logo, os formuladores de políticas públicas serão confrontados com desafios e "tradeoffs" significativos quando</segment>
+    <segment id="57">sese trata de promover o crescimento</segment>
+    <segment id="58">, mantendo simultaneamente a disciplina fiscal e a credibilidade macroeconômica.</segment>
+    <segment id="59">Todavia</segment>
+    <segment id="60">, a economia brasileira é capaz de superar essas turbulências</segment>
+    <segment id="61">, promover investimentos e talvez até superar as atuais expectativas de crescimento</segment>
+    <segment id="62">, como</segment>
+    <segment id="63">como fez em 2023.</segment>
+    <segment id="64">Experiências globais demonstram que acelerações do investimento nas economias de mercado emergentes</segment>
+    <segment id="65">sese seguiram a (ou foram acompanhadas por) mudanças nas políticas destinadas a melhorar a estabilidade macroeconômica</segment>
+    <segment id="66">, as reformas estruturais</segment>
+    <segment id="67">, ou ambas.</segment>
+    <segment id="68">Quando o ambiente externo impõe desafios</segment>
+    <segment id="69">, tais esforços de reformas estruturais desempenham um papel crucial na catalisação de investimentos.</segment>
+    <segment id="70">O Brasil precisa demonstrar seu forte controle das finanças públicas e a credibilidade do novo arcabouço fiscal</segment>
+    <segment id="71">, ao mesmo tempo que continua a avançar nas reformas estruturais necessárias para acelerar o investimento e a produtividade.</segment>
+    <segment id="72">Isso será fundamental</segment>
+    <segment id="73">para que</segment>
+    <segment id="74">para que a economia consiga manter seu curso e superar os atuais ventos contrários globais sem sobressaltos.</segment>
+  </rst>
+</analysis>

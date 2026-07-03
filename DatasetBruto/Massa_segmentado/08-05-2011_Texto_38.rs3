@@ -1,0 +1,51 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Correa anuncia vitória do 'sim' no referendo no Equador</segment>
+    <segment id="2">Embora pouco mais de 30% dos votos já tivessem sido apurados</segment>
+    <segment id="3">, ao que tudo indica o presidente do Equador</segment>
+    <segment id="4">, Rafael Correa</segment>
+    <segment id="5">, conseguiu validar suas propostas para reformar a Justiça e regular a imprensa do país</segment>
+    <segment id="6">, em um referendo cujos resultados preliminares não refletiam</segment>
+    <segment id="7">, no entanto</segment>
+    <segment id="8">, a grande vitória projetada pelo governo.</segment>
+    <segment id="9">Correa conseguiu apoio às dez perguntas feitas aos equatorianos</segment>
+    <segment id="10">, e mesmo líderes de oposição davam sua vitória</segment>
+    <segment id="11">comocomo certa no domingo.</segment>
+    <segment id="12">O resultado final</segment>
+    <segment id="13">, que ainda deve levar alguns dias para ser divulgado</segment>
+    <segment id="14">, deve deixar o presidente mais perto de uma possível reeleição em 2013</segment>
+    <segment id="15">, ao mesmo tempo em que gera temores de restrições aos meios de comunicação e à independência do Judiciário.</segment>
+    <segment id="16">O resultado parcial indicava percentuais entre 44% e 49% para o "sim" e de 43</segment>
+    <segment id="17">,4% a 44</segment>
+    <segment id="18">,2% para o "não".</segment>
+    <segment id="19">Das dez perguntas</segment>
+    <segment id="20">, a quarta</segment>
+    <segment id="21">, que trata da criação de um organismo para reestruturar o Judiciário</segment>
+    <segment id="22">, e a nona</segment>
+    <segment id="23">, que propõe a regulação dos meios de comunicação por um órgão estatal</segment>
+    <segment id="24">, eram as que tinham menor apoio: apenas um ponto percentual de diferença entre o "sim" e o "não".</segment>
+    <segment id="25">Foi o terceiro referendo popular promovido por Correa.</segment>
+  </rst>
+</analysis>

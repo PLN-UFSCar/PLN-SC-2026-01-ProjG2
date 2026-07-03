@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Campo da Tuca
+Brigada Militar prende homem com submetralhadora no Bairro Partenon</segment>
+    <segment id="2">, em Porto Alegre</segment>
+    <segment id="3">Com o jovem de 20 anos foram pegos tambÃ©m um carregador com 19 muniÃ§Ãµes da arma
+Brigada Militar prende homem com submetralhadora no Bairro Partenon</segment>
+    <segment id="4">, em Porto Alegre DivulgaÃ§Ã£o/Brigada Militar
+Submetralhadora Ã© de fabricaÃ§Ã£o argentina</segment>
+    <segment id="5">A Brigada Militar prendeu</segment>
+    <segment id="6">, durante uma abordagem de rotina na tarde desta quinta-feira</segment>
+    <segment id="7">, um jovem de 20 anos no Campo da Tuca</segment>
+    <segment id="8">, no Bairro Partenon</segment>
+    <segment id="9">, em Porto Alegre.</segment>
+    <segment id="10">Com ele</segment>
+    <segment id="11">, foi encontrada uma submetralhadora de calibre 9mm</segment>
+    <segment id="12">, de fabricaÃ§Ã£o argentina e de uso restrito das ForÃ§as Armadas</segment>
+    <segment id="13">, e um carregador com 19 muniÃ§Ãµes.</segment>
+    <segment id="14">De acordo com a Brigada Militar</segment>
+    <segment id="15">, o homem foi abordado na Rua D e nÃ£o resistiu Ã  prisÃ£o.</segment>
+  </rst>
+</analysis>

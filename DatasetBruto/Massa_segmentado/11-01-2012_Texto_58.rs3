@@ -1,0 +1,55 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Botafogo deve anunciar nesta quinta a contratação de Rojas</segment>
+    <segment id="2">O Botafogo oficializou nesta quarta-feira uma proposta de R$ 2</segment>
+    <segment id="3">,2 milhões</segment>
+    <segment id="4">, valor da multa rescisória</segment>
+    <segment id="5">, pelo lateral-esquerdo Rojas</segment>
+    <segment id="6">, do Universidad de Chile.</segment>
+    <segment id="7">O clube espera fazer o anúncio oficial da contratação nesta quinta.</segment>
+    <segment id="8">A jornais chilenos</segment>
+    <segment id="9">, o jogador disse já</segment>
+    <segment id="10">sese considerar do clube carioca.</segment>
+    <segment id="11">Rojas, que pode atuar também</segment>
+    <segment id="12">comocomo zagueiro</segment>
+    <segment id="13">, foi o capitão do Universidad de Chile</segment>
+    <segment id="14">, time que teve uma temporada extraordinária</segment>
+    <segment id="15">, com a conquista da Copa Sul-Americana e dos torneios Apertura e Clausura do Campeonato Chileno.</segment>
+    <segment id="16">Aos 28 anos</segment>
+    <segment id="17">, Rojas jogou praticamente toda a sua carreira pelo Universidad de Chile</segment>
+    <segment id="18">, com apenas uma breve saída para o Independiente</segment>
+    <segment id="19">, da Argentina</segment>
+    <segment id="20">, em 2006</segment>
+    <segment id="21">, pelo qual atuou poucas vezes</segment>
+    <segment id="22">, retornando para seu clube de origem no mesmo ano.
+
+Se for confirmado</segment>
+    <segment id="23">, Rojas será o terceiro reforço do Botafogo para a temporada 2012</segment>
+    <segment id="24">, após as chegadas do zagueiro Brinner</segment>
+    <segment id="25">, ex-Paraná</segment>
+    <segment id="26">, e do meia Andrezinho</segment>
+    <segment id="27">, ex-Internacional.</segment>
+  </rst>
+</analysis>

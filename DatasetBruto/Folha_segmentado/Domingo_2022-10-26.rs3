@@ -1,0 +1,56 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O domingo (30) de eleições será chuvoso e quente na maior parte do país</segment>
+    <segment id="2">, com exceção do Nordeste e de parte da região Norte</segment>
+    <segment id="3">, locais nos quais a previsão indica tempo estável.</segment>
+    <segment id="4">De acordo com o Instituto Nacional de Meteorologia (Inmet)</segment>
+    <segment id="5">, a tendência de tempo chuvoso</segment>
+    <segment id="6">sese estende até segunda-feira (31).</segment>
+    <segment id="7">Pedestre</segment>
+    <segment id="8">sese protege de chuva no bairro de Perdizes</segment>
+    <segment id="9">, em São Paulo - Danilo Verpa - 26.set.22/Folhapress</segment>
+    <segment id="10">O maior índice pluviométrico para o período é esperado para o oeste de São Paulo</segment>
+    <segment id="11">, Triângulo Mineiro</segment>
+    <segment id="12">, sul de Minas Gerais e centro e norte do Paraná.</segment>
+    <segment id="13">Nesses locais</segment>
+    <segment id="14">, a previsão é de chuva acima de 80 milímetros</segment>
+    <segment id="15">, segundo o Inmet.</segment>
+    <segment id="16">A chuva também irá afetar a votação no centro de norte de Minas Gerais</segment>
+    <segment id="17">, sul do Espírito Santo e Rio de Janeiro</segment>
+    <segment id="18">, masmas em menor volume.</segment>
+    <segment id="19">O tempo seco no Nordeste é garantido por uma massa de ar quente e seco que predomina sobre a região.</segment>
+    <segment id="20">Há chuvas previstas para o sul da Bahia e o litoral de Sergipe e Alagoas</segment>
+    <segment id="21">, masmas em menor quantidade.</segment>
+    <segment id="22">TIRE SUAS DÚVIDAS</segment>
+    <segment id="23">SOBRE O 2º TURNOO local de votação é o mesmo?Quem pode votar?Quem não votou no primeiro turno pode votar no segundo?Como consulto meu lugar de votação?Posso votar sem meu título de eleitor?</segment>
+    <segment id="24">Na capital paulista</segment>
+    <segment id="25">, a máxima prevista é de 29ºC</segment>
+    <segment id="26">, de acordo com o Climatempo</segment>
+    <segment id="27">, com chance de pancadas de chuva a tarde e no início da noite.</segment>
+    <segment id="28">Na capital fluminense</segment>
+    <segment id="29">, a previsão é a mesma</segment>
+    <segment id="30">, masmas a temperatura máxima deve chegar a 33ºC.  Lula e Bolsonaro em campanha no 2º turnoMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

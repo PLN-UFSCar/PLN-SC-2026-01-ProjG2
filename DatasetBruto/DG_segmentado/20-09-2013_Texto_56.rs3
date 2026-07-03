@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">PolÃ­cia</segment>
+    <segment id="2">Caixa eletrÃ´nico do Banrisul Ã© danificado na zona sul da Capital
+MaÃ§arico foi usado para danificar o sistema e ainda nÃ£o hÃ¡ informaÃ§Ãµes</segment>
+    <segment id="3">sese alguma quantia foi levado
+Pelo menos um caixa eletrÃ´nico da agÃªncia Banrisul na Avenida TeresÃ³polis</segment>
+    <segment id="4">, Zona Sul da Capital</segment>
+    <segment id="5">, foi encontrado danificado com o uso de maÃ§arico no final da manhÃ£ desta sexta.</segment>
+    <segment id="6">Brigada Militar e PolÃ­cia Civil averiguam o local para constatar</segment>
+    <segment id="7">sese foi levado dinheiro do equipamento.</segment>
+    <segment id="8">A agÃªncia estÃ¡ isolada.</segment>
+  </rst>
+</analysis>

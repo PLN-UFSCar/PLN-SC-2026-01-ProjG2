@@ -1,0 +1,48 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo federal decidiu reduzir as alíquotas do imposto de importação que incidem sobre produtos ligados à produção de energia</segment>
+    <segment id="2">, para fomentar fontes mais limpas e reduzir o custo de produção e comercialização de eletricidade no longo prazo</segment>
+    <segment id="3">, informou nesta quinta-feira (18) o Ministério da Economia.</segment>
+    <segment id="4">A medida</segment>
+    <segment id="5">, aprovada pelo Comitê-Executivo de Gestão (Gecex) da Câmara de Comércio Exterior (Camex) do Ministério da Economia na quarta-feira</segment>
+    <segment id="6">, será publicada no Diário Oficial da União nos próximos dias.</segment>
+    <segment id="7">Após entrar em vigor</segment>
+    <segment id="8">, a medida permitirá uma redução da alíquota do imposto de importação aplicável para painéis solares de 12% para 6%</segment>
+    <segment id="9">; para determinados tipos de bateria de lítio</segment>
+    <segment id="10">, de 18% para 9%</segment>
+    <segment id="11">; para conversores de corrente contínua baixa de 14% para 7%</segment>
+    <segment id="12">; e para reatores nucleares</segment>
+    <segment id="13">, de 14% para zero.</segment>
+    <segment id="14">Placas de energia solar em espaço na UFRJ</segment>
+    <segment id="15">, em frente ao Maracanã - Zo Guimarães - 25.ago.2021/Folhapress"Em linha com os compromissos do país na área ambiental</segment>
+    <segment id="16">, o governo segue empenhado em utilizar todos os instrumentos disponíveis</segment>
+    <segment id="17">, inclusive os de gestão tarifária da política comercial brasileira</segment>
+    <segment id="18">, para adotar iniciativas com o objetivo de reduzir o custo da energia"</segment>
+    <segment id="19">, disse em nota a secretária-executiva da Camex</segment>
+    <segment id="20">, Ana Paula Repezza.</segment>
+    <segment id="21">Segundo ela</segment>
+    <segment id="22">, as ações vão beneficiar os diversos setores da economia e os consumidores finais por meio do fomento da produção e comercialização de energia através de fontes limpas de energia.</segment>
+  </rst>
+</analysis>

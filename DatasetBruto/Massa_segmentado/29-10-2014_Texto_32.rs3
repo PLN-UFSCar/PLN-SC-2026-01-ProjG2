@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Ivete comenta boato de que seria lÃ</segment>
+    <segment id="2">©</segment>
+    <segment id="3">sbica</segment>
+    <segment id="4">A cantora brincou que assumir um</segment>
+    <segment id="5">casocaso homossexual nÃ£o</segment>
+    <segment id="6">Ã© exatamente algo difÃ­cil</segment>
+    <segment id="7">Ivete Sangalo comenta boato de que seria ga.</segment>
+    <segment id="8">Jorge Velloso</segment>
+    <segment id="9">, autor da biografia de Ivete</segment>
+    <segment id="10">, disse que a cantora brincou.</segment>
+    <segment id="11">"</segment>
+    <segment id="12">Em algum momento das entrevistas ela falou sobre o assunto</segment>
+    <segment id="13">, o engraÃ§ado Ã© que isso nunca foi uma questÃ£o.</segment>
+    <segment id="14">Ivete atÃ© brincou que assumir um relacionamento homossexual para um baiano nÃ£o</segment>
+    <segment id="15">Ã© exatamente algo difÃ­cil"</segment>
+    <segment id="16">, disse o escritor da biografia de Ivete</segment>
+    <segment id="17">, que serÃ¡ lanÃ§ada em breve.</segment>
+  </rst>
+</analysis>

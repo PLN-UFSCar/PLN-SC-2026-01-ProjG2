@@ -1,0 +1,95 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O prefeito do Rio de Janeiro</segment>
+    <segment id="2">, Marcelo Crivella (Republicanos)</segment>
+    <segment id="3">, anunciou nesta segunda (1º) um plano de desconfinamento em seis etapas que será implementado a partir de terça (2) na capital fluminense.</segment>
+    <segment id="4">A partir da publicação do novo decreto ficam liberados treinos esportivos e coletivos profissionais sem público e sem a imprensa</segment>
+    <segment id="5">, atividades no calçadão da praia</segment>
+    <segment id="6">, no mar e em parques</segment>
+    <segment id="7">, além de lojas de vendas de carros</segment>
+    <segment id="8">, de móveis e de decoração.</segment>
+    <segment id="9">Na capital fluminense já estão liberadas atividades religiosas e o funcionamento de hotéis e hostels.</segment>
+    <segment id="10">Segundo Crivella</segment>
+    <segment id="11">, que comemorou o fim da fila para leitos de UTI no município</segment>
+    <segment id="12">, prolongar o afastamento social tem levado a um aumento de mortes por outras doenças que necessitam de atendimento médico.</segment>
+    <segment id="13">Para o prefeito</segment>
+    <segment id="14">, o isolamento tem feito com que pessoas que necessitam de tratamento em hospitais não procurem ajuda.</segment>
+    <segment id="15">Hospitais de campanha no Rio   novamente         de   de  de  representando um  "</segment>
+    <segment id="16">Hoje, prolongar o afastamento pode trazer benefícios para a Covid</segment>
+    <segment id="17">masmas traz prejuízos para a população que está falecendo de outras comorbidades</segment>
+    <segment id="18">, casos urgentes que precisam voltar ao tratamento"</segment>
+    <segment id="19">, disse Crivella.</segment>
+    <segment id="20">A Secretaria Municipal de Saúde informa que há 34 pessoas internadas em unidades da rede SUS aguardando transferência para leitos dedicados à Covid-19</segment>
+    <segment id="21">, das quais 17 aguardam vaga para leitos de UTI.</segment>
+    <segment id="22">Em toda a rede pública da cidade do Rio</segment>
+    <segment id="23">, havia nesta segunda (1º) 1.860 pacientes internados com suspeita de Covid</segment>
+    <segment id="24">, 694 deles em UTI.</segment>
+    <segment id="25">A taxa de ocupação de leitos de UTI para Covid-19 era de 87%.</segment>
+    <segment id="26">Em todo o estado</segment>
+    <segment id="27">, segundo dados da Secretaria de Estado de Saúde</segment>
+    <segment id="28">, a taxa de ocupação em leitos de UTI era de 86%.</segment>
+    <segment id="29">A partir da publicação do decreto</segment>
+    <segment id="30">, a cidade do Rio entra na fase 1 do plano de desconfinamento</segment>
+    <segment id="31">, chamado Programa Rio de Novo.</segment>
+    <segment id="32">O plano detalha quais atividades poderão ser retomadas e sob quais regras.</segment>
+    <segment id="33">Segundo a prefeitura</segment>
+    <segment id="34">, a ideia inicial é avançar etapas a cada 15 dias</segment>
+    <segment id="35">, a partir do monitoramento de dados</segment>
+    <segment id="36">comocomo capacidade de resposta do sistema de saúde e nível de transmissão do novo coronavírus.</segment>
+    <segment id="37">Segundo o sanitarista Christovam Barcellos</segment>
+    <segment id="38">, da Fiocruz</segment>
+    <segment id="39">, não há sinais de queda na curva de casos e de mortes no Rio de Janeiro.</segment>
+    <segment id="40">“</segment>
+    <segment id="41">A Europa só começou a reabertura após um mês do pico de casos</segment>
+    <segment id="42">, e vamos reabrir no caminho ascendente”</segment>
+    <segment id="43">, diz.</segment>
+    <segment id="44">Para o especialista em saúde pública</segment>
+    <segment id="45">, o impacto psicológico sobre a população dos decretos de reabertura é o mais importante.</segment>
+    <segment id="46">“</segment>
+    <segment id="47">O prefeito falando que pode realizar tal e tal atividade pode fazer as pessoas acreditarem que o pior já passou e elas pararem de tomar os cuidados de proteção.</segment>
+    <segment id="48">É perigosíssimo”</segment>
+    <segment id="49">, diz Barcellos.</segment>
+    <segment id="50">A segunda fase do plano prevê competições esportivas liberadas</segment>
+    <segment id="51">, masmas sem público.</segment>
+    <segment id="52">Também nesta fase os shoppings poderão ser reabertos</segment>
+    <segment id="53">, com controle de número de pessoas e um terço das vagas de estacionamento</segment>
+    <segment id="54">, funcionando das 12h às 20h.</segment>
+    <segment id="55">Na terceira fase</segment>
+    <segment id="56">, as lojas de rua poderão ser abertas</segment>
+    <segment id="57">, assim</segment>
+    <segment id="58">comocomo restaurantes</segment>
+    <segment id="59">, que poderão funcionar com 50% das mesas</segment>
+    <segment id="60">, e academias e salões de beleza</segment>
+    <segment id="61">, sob agendamento.</segment>
+    <segment id="62">Nesta fase</segment>
+    <segment id="63">sese dará ainda a reabertura de creches municipais para crianças a partir de dois anos cujos pais estejam trabalhando fora de casa e das escolas de ensino fundamental para as turmas de 5º e 9º anos.</segment>
+    <segment id="64">Os drive-ins continuarão sendo a única atividade cultural liberada até a terceira fase</segment>
+    <segment id="65">, quando serão permitidas ações ao ar livre com capacidade controlada.</segment>
+    <segment id="66">Também serão liberadas as areias das praias da cidade.</segment>
+    <segment id="67">As atrações turísticas de acesso controlado</segment>
+    <segment id="68">, porém</segment>
+    <segment id="69">porém, só devem ser reabertas na quarta fase do plano.​</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,169 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A disparidade de gênero vem caindo na ciência</segment>
+    <segment id="2">, masmas as mulheres seguem sub-representadas na autoria de artigos científicos</segment>
+    <segment id="3">, principalmente entre aqueles que recebem o maior volume de citações.</segment>
+    <segment id="4">No grupo dos 2% dos autores com mais referências entre os pares em estudos publicados em 2021</segment>
+    <segment id="5">, havia 3</segment>
+    <segment id="6">,21 vezes mais homens do que mulheres.</segment>
+    <segment id="7">A predominância masculina é ainda maior quando são considerados os pesquisadores com mais de 30 anos de atividade: 6</segment>
+    <segment id="8">,41 vezes.</segment>
+    <segment id="9">A diferença</segment>
+    <segment id="10">, porém</segment>
+    <segment id="11">porém, está melhorando.</segment>
+    <segment id="12">No grupo dos mais jovens</segment>
+    <segment id="13">, com as primeiras publicações após 2011</segment>
+    <segment id="14">, a vantagem dos homens cai para 2</segment>
+    <segment id="15">,28 vezes.</segment>
+    <segment id="16">Esses e outros dados integram um novo estudo</segment>
+    <segment id="17">, publicado na revista especializada PLoS Biology</segment>
+    <segment id="18">, que analisou uma base de 5</segment>
+    <segment id="19">,8 milhões de autores com gênero identificado —cada um deles com ao menos cinco publicações.</segment>
+    <segment id="20">Os homens representaram cerca de 3</segment>
+    <segment id="21">,8 milhões de entradas</segment>
+    <segment id="22">, enquanto as mulheres eram 2 milhões.</segment>
+    <segment id="23">Pesquisadora em laboratório da UnB</segment>
+    <segment id="24">, em Brasília   - Adriano Machado - 30.jun.21/</segment>
+    <segment id="25">ReutersPara lidar com esse enorme volume de informações</segment>
+    <segment id="26">, os responsáveis pelo trabalho usaram uma série de ferramentas de análise automatizadas de dados.</segment>
+    <segment id="27">O material foi retirado da base Scopus</segment>
+    <segment id="28">, que agrega diversas disciplinas e reúne mais de 80 milhões de artigos científicos.</segment>
+    <segment id="29">A definição do grupo dos 2% com mais menções entre os pares levou em conta não só o número de citações em si (com diferenças</segment>
+    <segment id="30">sese era autor principal ou não</segment>
+    <segment id="31">, por exemplo)</segment>
+    <segment id="32">, masmas particularidades de cada área.</segment>
+    <segment id="33">Também foram feitas análises com e sem autocitações</segment>
+    <segment id="34">, que não resultaram em diferenças significativas.</segment>
+    <segment id="35">A classificação por gênero foi feita usando um sistema de aprendizado por máquina.</segment>
+    <segment id="36">O algoritmo analisou o primeiro nome dos autores e atribuiu um gênero com base na probabilidade de esse nome estar associado a um homem ou a uma mulher.</segment>
+    <segment id="37">O modelo foi treinado em um grande conjunto de dados de nomes masculinos e femininos</segment>
+    <segment id="38">, provenientes de diferentes origens</segment>
+    <segment id="39">, países e culturas.</segment>
+    <segment id="40">A análise final só incluiu as atribuições de gênero com pontuação de confiança superior a 85%.</segment>
+    <segment id="41">O artigo avaliou a questão de gênero em 174 subáreas do conhecimento.</segment>
+    <segment id="42">Para melhor análise e interpretação</segment>
+    <segment id="43">, os resultados foram ainda divididos em grupos menores</segment>
+    <segment id="44">, consoante a data de entrada em atividade dos autores analisados.</segment>
+    <segment id="45">Assim, foi possível acompanhar um pouco da evolução do cenário ao longo do tempo.</segment>
+    <segment id="46">Essa análise mostrou progresso para o equilíbrio de gênero</segment>
+    <segment id="47">, ainda que de forma lenta.</segment>
+    <segment id="48">Entre o grupo de pesquisadores mais jovens</segment>
+    <segment id="49">, 32 das 174 áreas analisadas tiveram número equivalente ou até superior de mulheres entre os autores mais citados.</segment>
+    <segment id="50">Essa diferença acentuada da presença feminina nos diferentes subgrupos analisados teria origens multifatoriais.  "</segment>
+    <segment id="51">Provavelmente algumas áreas já começaram com um desequilíbrio de gênero mais acentuado e levariam mais tempo</segment>
+    <segment id="52">para que</segment>
+    <segment id="53">para que o equilíbrio fosse alcançado.</segment>
+    <segment id="54">Isso poderia envolver modelos de oportunidades disponíveis</segment>
+    <segment id="55">, percepções</segment>
+    <segment id="56">, visões equivocadas e falta de apoio organizacional para corrigir as diferenças de gênero nessas disciplinas"</segment>
+    <segment id="57">, disse à Folha um dos autores do trabalho</segment>
+    <segment id="58">, John Ioannidis</segment>
+    <segment id="59">, pesquisador da Universidade Stanford</segment>
+    <segment id="60">, nos Estados Unidos.  "</segment>
+    <segment id="61">Ao mesmo tempo</segment>
+    <segment id="62">, um mundo perfeitamente imparcial poderia ainda ter mais mulheres citadas em alguns campos</segment>
+    <segment id="63">, enquanto haveria mais homens citados em alguns outros.</segment>
+    <segment id="64">Eu espero que em um número igual</segment>
+    <segment id="65">, masmas não podemos esperar que tudo seja sempre 50 a 50% dentro todos os subcampos da ciência.</segment>
+    <segment id="66">"</segment>
+    <segment id="67">As publicações científicas e suas respectivas citações por pares são uma das principais métricas de avaliação usadas no universo acadêmico.</segment>
+    <segment id="68">No novo estudo</segment>
+    <segment id="69">, os pesquisadores argumentam que esses dados podem contribuir com esforços para promover a diversidade e a inclusão de forma mais ampla na ciência.  "</segment>
+    <segment id="70">Os decisores políticos e as agências de financiamento devem estar conscientes desta disparidade de gênero e monitorar a sua evolução</segment>
+    <segment id="71">, tentando proativamente eliminá-la.</segment>
+    <segment id="72">Afinal</segment>
+    <segment id="73">, muitas das decisões que tomam podem melhorar as coisas ou</segment>
+    <segment id="74">, infelizmente</segment>
+    <segment id="75">, piorá-las"</segment>
+    <segment id="76">, diz Ioannidis.</segment>
+    <segment id="77">Estudos têm 3</segment>
+    <segment id="78">,2 vezes mais homens em referências do que mulheres- Aysia/Adobe StockNa avaliação de Helena Nader</segment>
+    <segment id="79">, presidente da Academia Brasileira de Ciências (ABC)</segment>
+    <segment id="80">, as mulheres enfrentam desafios adicionais na carreira acadêmica</segment>
+    <segment id="81">, uma vez que normalmente despendem mais tempo com cuidados dos filhos e na realização de tarefas domésticas do que os homens.</segment>
+    <segment id="82">"</segment>
+    <segment id="83">Infelizmente</segment>
+    <segment id="84">, essa uma realidade no Brasil e em muitos outros países.</segment>
+    <segment id="85">Existe uma sobrecarga em casa que pesa para as mulheres.</segment>
+    <segment id="86">Melhorou</segment>
+    <segment id="87">, masmas ainda há num longo caminho a percorrer"</segment>
+    <segment id="88">, afirma Nader</segment>
+    <segment id="89">, que não participou do estudo.</segment>
+    <segment id="90">"</segment>
+    <segment id="91">Não é à toa que vários estudos mostraram que</segment>
+    <segment id="92">, durante a pandemia de Covid-19</segment>
+    <segment id="93">, a produtividade [em termos de artigos] dos cientistas homens aumentou</segment>
+    <segment id="94">, enquanto a das mulheres diminuiu"</segment>
+    <segment id="95">, exemplifica.</segment>
+    <segment id="96">Segundo a presidente da ABC</segment>
+    <segment id="97">, outra barreira pode ser a dificuldade para</segment>
+    <segment id="98">sese ausentar de casa</segment>
+    <segment id="99">, reduzindo as participações femininas em congressos científicos.</segment>
+    <segment id="100">"</segment>
+    <segment id="101">Essa é uma das hipóteses que estão presentes em outros trabalhos.</segment>
+    <segment id="102">Eu acho que faz sentido.</segment>
+    <segment id="103">Os congressos têm um papel importante nas citações</segment>
+    <segment id="104">, já que as pessoas citam também quem elas conheceram nesses eventos.</segment>
+    <segment id="105">Se as mulheres participam menos dos congressos</segment>
+    <segment id="106">, isso pode ter um impacto.</segment>
+    <segment id="107">"</segment>
+    <segment id="108">O novo estudo dos pesquisadores de Stanford também buscou fazer uma divisão dos autores por nacionalidade</segment>
+    <segment id="109">, embora</segment>
+    <segment id="110">embora reconheça que esse esforço foi complicado por diversas razões</segment>
+    <segment id="111">, desde a dificuldade de encontrar informações sobre o local de nascimento até a mobilidade geográfica dos cientistas ao longo da carreira.</segment>
+    <segment id="112">De maneira geral</segment>
+    <segment id="113">, foi adotado o critério de incluir a nacionalidade da primeira publicação dos pesquisadores</segment>
+    <segment id="114">comocomo informação de seu país de origem.</segment>
+    <segment id="115">Na base de dados geral</segment>
+    <segment id="116">, o número de autores de países de alta renda (</segment>
+    <segment id="117">comocomo Estados Unidos e Reino Unido) foi quase o dobro dos oriundos de nações em desenvolvimento (a exemplo do Brasil)</segment>
+    <segment id="118">, masmas a diferença caiu substancialmente entre os cientistas mais jovens</segment>
+    <segment id="119">, já como</segment>
+    <segment id="120">como reflexo da ampla presença dos chineses na última década.</segment>
+    <segment id="121">A quantidade de pesquisadores cujo gênero estava com atribuição "incerta"</segment>
+    <segment id="122">, porém</segment>
+    <segment id="123">porém, foi superior entre aqueles oriundos de países com menos recursos: 56</segment>
+    <segment id="124">,2% contra 25</segment>
+    <segment id="125">,3%.</segment>
+    <segment id="126">Os dois grupos de países tiveram uma preponderância semelhante de homens sobre mulheres entre os autores mais citados (3</segment>
+    <segment id="127">,18 e 3</segment>
+    <segment id="128">,39).</segment>
+    <segment id="129">No entanto</segment>
+    <segment id="130">, na divisão entre os que começaram a publicar depois de 2011</segment>
+    <segment id="131">, o desequilíbrio diminuiu mais nos países de alta renda</segment>
+    <segment id="132">, passando para 2</segment>
+    <segment id="133">,09.</segment>
+    <segment id="134">Nos demais</segment>
+    <segment id="135">, ficou em 2</segment>
+    <segment id="136">,93.</segment>
+    <segment id="137">"</segment>
+    <segment id="138">Penso que isso [a disparidade de gênero no topo das pesquisas] significa que muitas mulheres extremamente talentosas não têm oportunidades suficientes para florescer e prosperar.</segment>
+    <segment id="139">Esta é uma grande perda para elas</segment>
+    <segment id="140">, masmas também para a comunidade científica em geral</segment>
+    <segment id="141">, que perde contribuições importantes de algumas das melhores mentes"</segment>
+    <segment id="142">, disse John Ioannidis</segment>
+    <segment id="143">, da Universidade Stanford.</segment>
+  </rst>
+</analysis>

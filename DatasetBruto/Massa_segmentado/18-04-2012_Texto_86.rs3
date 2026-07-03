@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Cléo Pires em papel que já foi da mãe
+Personagem "Ana Terra" ressalta semelhança entre mãe e filha</segment>
+    <segment id="2">A semelhança entre elas é indiscutível.</segment>
+    <segment id="3">E sese confirma</segment>
+    <segment id="4">, agora</segment>
+    <segment id="5">, com as gravações do filme “</segment>
+    <segment id="6">O Tempo e o Vento”</segment>
+    <segment id="7">, no qual Cléo interpreta Ana Terra</segment>
+    <segment id="8">, personagem vivida por Glória Pires em 1985</segment>
+    <segment id="9">, quando a história  foi exibida em uma minissérie da Globo.</segment>
+    <segment id="10">A obra conta a saga da família</segment>
+    <segment id="11">Terra Cambará e de sua principal opositora</segment>
+    <segment id="12">, a família Amaral</segment>
+    <segment id="13">, na formação do território brasileiro.</segment>
+    <segment id="14">O elenco</segment>
+    <segment id="15">, que conta ainda com Fernanda Montenegro e Thiago Lacerda</segment>
+    <segment id="16">, está gravando em Bagé</segment>
+    <segment id="17">, no Rio Grande do Sul.</segment>
+  </rst>
+</analysis>

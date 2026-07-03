@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Gurizada de talento
+CrianÃ§as e adolescentes participam de apresentaÃ§Ã£o cÃªnica em Canoas
+Alunos de escolas pÃºblicas participaram do evento</segment>
+    <segment id="2">, que abriu a Semana da Juventude
+Roberta Schuler
+roberta.schuler@diariogaucho.com.br
+CrianÃ§as e adolescentes participaram na manhÃ£ desta segunda-feira de uma apresentaÃ§Ã£o de danÃ§a nas ruas de Canoas.</segment>
+    <segment id="3">O flashmob (danÃ§a sincronizada) faz parte da abertura da Semana da Juventude.</segment>
+    <segment id="4">Alunos de 42 escolas pÃºblicas da cidade</segment>
+    <segment id="5">, com idades entre sete e 18 anos</segment>
+    <segment id="6">, sese apresentaram por cerca de oito minutos.</segment>
+    <segment id="7">O ato foi realizado na esquina das ruas Tiradentes e 15 de Janeiro.</segment>
+    <segment id="8">Durante a apresentaÃ§Ã£o</segment>
+    <segment id="9">, o trÃ¢nsito foi interrompido em quatro quadras.</segment>
+    <segment id="10">Os jovens ensaiaram durante quatro meses com a ajuda da ONG Canta Brasil</segment>
+    <segment id="11">, localizada em Canoas.</segment>
+  </rst>
+</analysis>

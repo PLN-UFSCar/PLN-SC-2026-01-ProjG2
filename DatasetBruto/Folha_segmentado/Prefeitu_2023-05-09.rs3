@@ -1,0 +1,126 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Prefeitura de São Paulo reduziu a largura da ciclofaixa da avenida Rebouças</segment>
+    <segment id="2">, na zona oeste</segment>
+    <segment id="3">, após recapeamento da via.</segment>
+    <segment id="4">Em vários trechos</segment>
+    <segment id="5">, a faixa exclusiva para bicicletas não atende as dimensões mínimas determinadas pelo manual de sinalização da CET (Companhia de Engenharia de Tráfego)</segment>
+    <segment id="6">, representando risco para os ciclistas.</segment>
+    <segment id="7">"</segment>
+    <segment id="8">É muito complicado passar por aqui</segment>
+    <segment id="9">, porque</segment>
+    <segment id="10">porque os carros entram na avenida e não veem a gente.</segment>
+    <segment id="11">Como a pista é estreita</segment>
+    <segment id="12">, não dá pra desviar"</segment>
+    <segment id="13">, disse Cássio Gonçalves Júnior</segment>
+    <segment id="14">, 22, que trabalha entregando água na região de Pinheiros</segment>
+    <segment id="15">, bairro colado à Rebouças.</segment>
+    <segment id="16">Ele conta que sofreu um acidente nesta segunda (8)</segment>
+    <segment id="17">, quando foi fechado por um motorista.</segment>
+    <segment id="18">"</segment>
+    <segment id="19">Caí da bicicleta e fiquei com a mão ralada</segment>
+    <segment id="20">, felizmente não aconteceu algo pior.</segment>
+    <segment id="21">"  Largura da ciclofaixa da av. Rebouças foi reduzida</segment>
+    <segment id="22">, colocando ciclistas em risco</segment>
+    <segment id="23">; CET recomenda no mínimo 1 metro entre a faixa branca e a sarjeta - Danilo Verpa/FolhapressNo trecho indicado por ele</segment>
+    <segment id="24">comocomo local do acidente o ciclista tem apenas 45 centímetros para</segment>
+    <segment id="25">sese locomover</segment>
+    <segment id="26">, apesar de a regra atual determinar que ciclofaixas de sentido único devem ter largura útil de pelo menos 1 metro</segment>
+    <segment id="27">, sem considerar a sarjeta.</segment>
+    <segment id="28">A reportagem percorreu a Rebouças e</segment>
+    <segment id="29">, com o auxílio de uma trena</segment>
+    <segment id="30">, constatou que as dimensões mínimas não são atendidas em vários trechos da avenida</segment>
+    <segment id="31">, uma das mais movimentadas da capital.</segment>
+    <segment id="32">O trânsito intenso e a disputa por espaço com motociclistas</segment>
+    <segment id="33">, ônibus e ambulâncias frequentemente leva motoristas a invadirem a área da ciclofaixa.</segment>
+    <segment id="34">Aos ciclistas resta</segment>
+    <segment id="35">sese recolher à sarjeta</segment>
+    <segment id="36">, insegura em razão do desnível com a pista</segment>
+    <segment id="37">, ou se</segment>
+    <segment id="38">se arriscar em meio aos demais veículos.</segment>
+    <segment id="39">Procurada</segment>
+    <segment id="40">, a Prefeitura de São Paulo disse que não houve alteração nas dimensões do projeto original da ciclofaixa e que uma equipe vai vistoriar o corredor</segment>
+    <segment id="41">, em ambos os sentidos</segment>
+    <segment id="42">, para assegurar que a pintura seguiu a largura projetada.</segment>
+    <segment id="43">Caso seja identificada alguma irregularidade</segment>
+    <segment id="44">, esta será corrigida</segment>
+    <segment id="45">, afirmou a gestão Ricardo Nunes (MDB).</segment>
+    <segment id="46">A entregadora Katellyn Santana</segment>
+    <segment id="47">, 25, diz que não</segment>
+    <segment id="48">sese sente segura ao transitar pela Rebouças.</segment>
+    <segment id="49">"</segment>
+    <segment id="50">Ficou bem apertado</segment>
+    <segment id="51">, os carros passam rente demais [aos ciclistas].</segment>
+    <segment id="52">Dá até medo de bater no retrovisor.</segment>
+    <segment id="53">"  Implantada em 2020</segment>
+    <segment id="54">, durante a gestão de Bruno Covas (PSDB) na prefeitura</segment>
+    <segment id="55">, a ciclofaixa da avenida Rebouças era uma demanda antiga de cicloativistas.</segment>
+    <segment id="56">"</segment>
+    <segment id="57">Mesmo antes</segment>
+    <segment id="58">, já era uma via muito utilizada por ciclistas.</segment>
+    <segment id="59">Depois da faixa exclusiva</segment>
+    <segment id="60">, houve um incremento importante desse público"</segment>
+    <segment id="61">, afirma Simone Penninck</segment>
+    <segment id="62">, integrante do coletivo Bike Zona Oeste.</segment>
+    <segment id="63">Para o especialista em mobilidade urbana Luiz Vicente de Mello Filho</segment>
+    <segment id="64">, o estreitamento da ciclofaixa reduz significativamente a segurança oferecida aos ciclistas</segment>
+    <segment id="65">, sobretudo por</segment>
+    <segment id="66">sese tratar de uma avenida com alto fluxo de veículos leves e pesados.  "</segment>
+    <segment id="67">Com isso</segment>
+    <segment id="68">, a tendência é desestimular o uso dessa modalidade de transporte.</segment>
+    <segment id="69">Com o risco maior</segment>
+    <segment id="70">, as pessoas vão pensar duas vezes antes de sair de bicicleta"</segment>
+    <segment id="71">, disse o engenheiro de tráfego</segment>
+    <segment id="72">, que defende a elevação da ciclofaixa para o nível da calçada</segment>
+    <segment id="73">comocomo forma de aumentar a segurança.</segment>
+    <segment id="74">Ciclofaixa da avenida Rebouças</segment>
+    <segment id="75">, em São</segment>
+    <segment id="76">PauloMais    novamente         de   de  de  representando um</segment>
+    <segment id="77">Desde que foi instalada a ciclofaixa da Rebouças é alvo de críticas por associações de profissionais de motofrete</segment>
+    <segment id="78">, que alegam que o espaço das outras pistas foi reduzido.</segment>
+    <segment id="79">Em encontro com representantes da categoria em novembro passado</segment>
+    <segment id="80">, o prefeito Ricardo Nunes disse que havia solicitado estudos para a implementação da faixa azul para motos na avenida.</segment>
+    <segment id="81">Questionada</segment>
+    <segment id="82">, a administração municipal disse</segment>
+    <segment id="83">, em nota</segment>
+    <segment id="84">, que "não há autorização da Senatran [Secretaria Nacional de Trânsito] ou estudos da CET para a implantação da faixa azul na avenida Rebouças".</segment>
+    <segment id="85">Nesta terça-feira</segment>
+    <segment id="86">, em reunião da Câmara Temática da Bicicleta</segment>
+    <segment id="87">, o secretário municipal de Mobilidade e Trânsito de São Paulo</segment>
+    <segment id="88">, Ricardo Teixeira (União)</segment>
+    <segment id="89">, foi questionado sobre o estreitamento da ciclofaixa da Rebouças.</segment>
+    <segment id="90">"</segment>
+    <segment id="91">Ele disse</segment>
+    <segment id="92">, sem se</segment>
+    <segment id="93">se alongar</segment>
+    <segment id="94">, que já solicitou fiscalização e correção</segment>
+    <segment id="95">, sese for necessário"</segment>
+    <segment id="96">, relatou Penninck</segment>
+    <segment id="97">, do coletivo Bike Zona Oeste.</segment>
+    <segment id="98">Ciclofaixas de São Paulo ficam deterioradas na gestão</segment>
+    <segment id="99">Ricardo NunesMais    novamente         de   de  de  representando</segment>
+    <segment id="100">um</segment>
+  </rst>
+</analysis>

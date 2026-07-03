@@ -1,0 +1,51 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A indústria mineira protestou contra a medida provisória do Minha Casa Minha Vida que concede benefícios para a instalação de painéis solares nos novos imóveis do programa.</segment>
+    <segment id="2">O benefício deve aumentar as contas de luz dos brasileiros em R$ 1 bilhão.</segment>
+    <segment id="3">Os cálculos foram feitos pelo Núcleo de Energia da Federação das Indústrias de Minas Gerais (Fiemg)</segment>
+    <segment id="4">, que solicita o veto da medida ao governo.</segment>
+    <segment id="5">O presidente Lula</segment>
+    <segment id="6">, durante cerimônia de entrega de 222 unidades habitacionais do Minha Casa</segment>
+    <segment id="7">, Minha Vida</segment>
+    <segment id="8">, em Abaetetuba (PA) - Ricardo Stuckert - 17.jun.2023/PRPara a Fiemg</segment>
+    <segment id="9">, a medida deveria ser custeada por recursos do Orçamento e não ser repassada para os demais consumidores de energia.</segment>
+    <segment id="10">"</segment>
+    <segment id="11">A ideia de colocar painéis fotovoltaicos nas unidades habitacionais do programa é excelente</segment>
+    <segment id="12">, masmas o custo não pode recair sobre o consumidor final"</segment>
+    <segment id="13">, diz Tania Mara Costa dos Santos</segment>
+    <segment id="14">, coordenadora do Núcleo de Energia da Fiemg.</segment>
+    <segment id="15">Segundo ela</segment>
+    <segment id="16">, o impacto na conta de luz pode chegar a R$ 1 bilhão</segment>
+    <segment id="17">, atingindo todos as faixas de consumo.</segment>
+    <segment id="18">Esse valor</segment>
+    <segment id="19">sese refere à perda de arrecadação para o sistema elétrico repassada aos consumidores por meio da Conta de Desenvolvimento Energético (CDE).</segment>
+    <segment id="20">"</segment>
+    <segment id="21">Políticas públicas devem ser adotadas de acordo recursos previstos no Orçamento Geral da União</segment>
+    <segment id="22">, não na conta de luz"</segment>
+    <segment id="23">, disse.</segment>
+    <segment id="24">Com Diego</segment>
+    <segment id="25">Felix</segment>
+  </rst>
+</analysis>

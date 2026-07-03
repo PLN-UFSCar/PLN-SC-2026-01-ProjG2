@@ -1,0 +1,87 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Candidatos dizem que faltas nÃ£o atrapalham a atividade legislativa</segment>
+    <segment id="2">SÃƒO PAULO - Parte dos deputados estaduais ouvidos pelo GLOBO admitiu fazer campanha em horÃ¡rio de expediente no parlamento.</segment>
+    <segment id="3">Negou, porÃ©m</segment>
+    <segment id="4">, que as faltas trazem prejuÃ­zo</segment>
+    <segment id="5">Ã  atividade legislativa.</segment>
+    <segment id="6">Candidato em FlorianÃ³polis</segment>
+    <segment id="7">, Cesar Souza JÃºnior (PSB)</segment>
+    <segment id="8">, que faltou em trÃªs das cinco sessÃµes de agosto na Assembleia de Santa Catarina</segment>
+    <segment id="9">, defende o engajamento de parlamentares em campanhas para o fortalecimento da democracia:
+- Todos os deputados estÃ£o fortemente envolvidos com a campanha eleitoral.</segment>
+    <segment id="10">Isso Ã© o exercÃ­cio da democracia.</segment>
+    <segment id="11">A assessoria do gabinete dele informou que as faltas foram decorrentes de reuniÃµes com o governo e da participaÃ§Ã£o em debate</segment>
+    <segment id="12">comocomo candidato.
+Ana Paula Lima (PT)</segment>
+    <segment id="13">, candidata em Blumenau</segment>
+    <segment id="14">, diz nÃ£o ver impacto negativo das eleiÃ§Ãµes no funcionamento do Legislativo catarinense.</segment>
+    <segment id="15">A Casa informou ter antecipado para o primeiro semestre os trabalhos do perÃ­odo eleitoral.
+-</segment>
+    <segment id="16">O calendÃ¡rio estÃ¡ em dia</segment>
+    <segment id="17">, o orÃ§amento de 2013 foi aprovado e a populaÃ§Ã£o foi avisada da antecipaÃ§Ã£o.</segment>
+    <segment id="18">NÃ£o deixo a funÃ§Ã£o polÃ­tica</segment>
+    <segment id="19">, nÃ£o vou deixar de ser deputada.</segment>
+    <segment id="20">DeirÃ³ Marra (PR) estÃ¡ na lista dos mais faltosos no Legislativo de Minas Gerais.</segment>
+    <segment id="21">Ele marcou presenÃ§a em apenas uma das 20 reuniÃµes das atas de frequÃªncia a que o GLOBO teve acesso.</segment>
+    <segment id="22">Ele concorre Ã  prefeitura de PatrocÃ­nio</segment>
+    <segment id="23">, masmas nÃ£o atendeu Ã  reportagem.</segment>
+    <segment id="24">O tucano Luiz Humberto Carneiro</segment>
+    <segment id="25">, tambÃ©m um dos mais ausentes - faltou a 16 reuniÃµes -</segment>
+    <segment id="26">, admite que a campanha tem lhe tomado o tempo das plenÃ¡rias.</segment>
+    <segment id="27">Candidato em UberlÃ¢ndia (MG)</segment>
+    <segment id="28">, ele justifica que tem priorizado as votaÃ§Ãµes mais importantes.</segment>
+    <segment id="29">'Todo mundo nesse ritmo'
+JÃ¡ no PiauÃ­</segment>
+    <segment id="30">, a equipe do deputado KlÃ©ber EulÃ¡lio (PMDB)</segment>
+    <segment id="31">alegou que nÃ£o</segment>
+    <segment id="32">Ã© possÃ­vel fazer campanha apenas no perÃ­odo fora do expediente</segment>
+    <segment id="33">.
+- NÃ£o podemos fazer campanha sÃ³ no final da semana.</segment>
+    <segment id="34">Todo mundo que Ã© candidato estÃ¡ nesse ritmo - explica Fernando Vasconcelos</segment>
+    <segment id="35">, assessor do deputado.</segment>
+    <segment id="36">Candidato em Picos</segment>
+    <segment id="37">, a 330 km de Teresina</segment>
+    <segment id="38">, EulÃ¡lio realizou caminhadas e encontros durante a manhÃ£ e a tarde no Ãºltimo dia 23</segment>
+    <segment id="39">, dia de sessÃ£o legislativa.</segment>
+    <segment id="40">Alega comparecer Ã  Assembleia de segunda a quarta</segment>
+    <segment id="41">, apesar de haver sessÃ£o tambÃ©m</segment>
+    <segment id="42">Ã s quintas.</segment>
+    <segment id="43">EulÃ¡lio costuma divulgar em seu site a agenda de campanha.</segment>
+    <segment id="44">No Amazonas</segment>
+    <segment id="45">, o deputado estadual Wilson Lisboa</segment>
+    <segment id="46">, do PCdoB</segment>
+    <segment id="47">, esteve ausente</segment>
+    <segment id="48">, segundo atas de frequÃªncia</segment>
+    <segment id="49">, a trÃªs sessÃµes atÃ© agora</segment>
+    <segment id="50">, no perÃ­odo eleitoral.</segment>
+    <segment id="51">Candidato a prefeito em Fonte Boa</segment>
+    <segment id="52">, a 602 quilÃ´metros de Manaus</segment>
+    <segment id="53">, alegou</segment>
+    <segment id="54">, por meio de sua assessoria</segment>
+    <segment id="55">, que, Ã s vezes</segment>
+    <segment id="56">, enfrenta problemas de transporte para chegar Ã  capital.</segment>
+  </rst>
+</analysis>

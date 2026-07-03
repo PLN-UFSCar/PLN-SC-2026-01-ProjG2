@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Dedo duro aponta 22 kg de crack</segment>
+    <segment id="2">A droga Ã© avaliada em R$ 300 mil</segment>
+    <segment id="3">Policiais da Delegacia de TÃ³xicos e Entorpecentes (DTE)</segment>
+    <segment id="4">, em Feira de Santana</segment>
+    <segment id="5">, descobriram</segment>
+    <segment id="6">, na manhÃ£ de ontem</segment>
+    <segment id="7">, 22 kg de crack e pasta base de cocaÃ­na em um fundo falso de um Fiat Strada.</segment>
+    <segment id="8">O veÃ­culo estava apreendido desde o Ãºltimo dia 4</segment>
+    <segment id="9">, na delegacia.</segment>
+    <segment id="10">A descoberta foi feita apÃ³s uma denuncia anÃ´nima.</segment>
+    <segment id="11">A droga Ã© avaliada em R$ 300 mil.</segment>
+    <segment id="12">Segundo o delegado Alexandre Narita</segment>
+    <segment id="13">, o carro foi apreendido com  Eduardo Jesus Rocha</segment>
+    <segment id="14">, o â€œPaulistaâ€</segment>
+    <segment id="15">, 36, e Maria de Lourdes de Andrade</segment>
+    <segment id="16">, 46 anos</segment>
+    <segment id="17">, durante abordagem nas proximidades da EstaÃ§Ã£o RodoviÃ¡ria de Feira de Santana.</segment>
+    <segment id="18">Na ocasiÃ£o</segment>
+    <segment id="19">, o casal foi flagrado com 2 kg de crack e certa quantia em dinheiro.</segment>
+  </rst>
+</analysis>

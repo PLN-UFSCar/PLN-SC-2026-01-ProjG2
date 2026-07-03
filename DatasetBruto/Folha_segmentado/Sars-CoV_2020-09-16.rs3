@@ -1,0 +1,159 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Além de infectar células dos pulmões</segment>
+    <segment id="2">, coração e rins e deixar sequelas nesses órgãos</segment>
+    <segment id="3">, o Sars-CoV-2 pode também adentrar células do sistema nervoso</segment>
+    <segment id="4">, os neurônios</segment>
+    <segment id="5">, e causar derrames</segment>
+    <segment id="6">, sangramentos e até delírios e alucinações.</segment>
+    <segment id="7">Essas são as descobertas feitas por cientistas da Universidade de Yale e publicadas no último dia 8 na forma de pré-print (ainda sem revisão de pares)</segment>
+    <segment id="8">, no repositório biorXiv .</segment>
+    <segment id="9">Já haviam sido relatados</segment>
+    <segment id="10">, em casos de Covid-19</segment>
+    <segment id="11">, sintomas neurológicos</segment>
+    <segment id="12">, alguns moderados</segment>
+    <segment id="13">, como</segment>
+    <segment id="14">como dor de cabeça</segment>
+    <segment id="15">, perda de olfato e paladar</segment>
+    <segment id="16">, e até mesmo mais severos</segment>
+    <segment id="17">, como</segment>
+    <segment id="18">como perda da consciência</segment>
+    <segment id="19">, delírios</segment>
+    <segment id="20">, meningite viral e encefalopatia —uma complicação cerebral rara.</segment>
+    <segment id="21">Alguns dos sintomas</segment>
+    <segment id="22">, no entanto</segment>
+    <segment id="23">, eram associados ao quadro infeccioso severo causado pelo coronavírus no organismo</segment>
+    <segment id="24">, o que poderia resultar em sequelas cerebrais.</segment>
+    <segment id="25">O novo estudo tinha por objetivo entender</segment>
+    <segment id="26">comocomo o vírus invade as células nervosas e os potenciais riscos dessa invasão para o cérebro.</segment>
+    <segment id="27">Os pesquisadores fizeram três experimentos com o vírus</segment>
+    <segment id="28">, usando organoides de cérebros humanos —modelos in vitro de um conjunto de células a fim de simular o órgão verdadeiro— inoculados com o vírus</segment>
+    <segment id="29">; camundongos contaminados</segment>
+    <segment id="30">; e o cérebro de pacientes que morreram de Covid-19.</segment>
+    <segment id="31">No primeiro grupo</segment>
+    <segment id="32">, foram utilizadas células-tronco pluripotentes para formar células progenitoras da região frontal do cérebro humano.</segment>
+    <segment id="33">Essas células foram</segment>
+    <segment id="34">, então</segment>
+    <segment id="35">, infectadas com o vírus.</segment>
+    <segment id="36">Após 12 horas</segment>
+    <segment id="37">, já era possível encontrar o vírus nas células primárias.</segment>
+    <segment id="38">Os cientistas criaram</segment>
+    <segment id="39">, então</segment>
+    <segment id="40">, um modelo tridimensional do cérebro a partir dessas células</segment>
+    <segment id="41">, a fim de avaliar também</segment>
+    <segment id="42">comocomo o Sars-CoV-2 atacava as células adjacentes.</segment>
+    <segment id="43">Passadas 24 horas da infecção</segment>
+    <segment id="44">, os cientistas já puderam observar a presença do vírus nas células organoides</segment>
+    <segment id="45">, masmas o pico de carga viral ocorreu após 96 horas.</segment>
+    <segment id="46">Um ponto importante desse experimento foi observar uma maior concentração de partículas virais em áreas simulando o córtex cerebral –o córtex corresponde à massa cinzenta do cérebro</segment>
+    <segment id="47">, isto é</segment>
+    <segment id="48">, os corpos celulares dos neurônios</segment>
+    <segment id="49">, onde está todo o maquinário celular responsável pelas atividades neurais mais sofisticadas.</segment>
+    <segment id="50">A maior densidade de células infectadas também estava correlacionada a um aumento da morte celular de células adjacentes</segment>
+    <segment id="51">, sugerindo que a invasão dos neurônios pelo Sars-CoV-2 pode estar ligada a eventos</segment>
+    <segment id="52">comocomo isquemias —bloqueio da irrigação sanguínea—</segment>
+    <segment id="53">, derrames e corte de oxigênio a essas células.</segment>
+    <segment id="54">Swab com tubo para coleta de amostras.</segment>
+    <segment id="55">Coleta de material para testagem de coronavírus em trabalhadores da Fiocruz feita a partir de amostras de secreções da nasofaringe e orofaringe</segment>
+    <segment id="56">, mucosas do fundo do nariz e da garganta</segment>
+    <segment id="57">, respectivamente</segment>
+    <segment id="58">, com o uso de haste flexível.</segment>
+    <segment id="59">Procedimento realizado pelo Núcleo de Saúde do Trabalhador (Nust).</segment>
+    <segment id="60">(Foto: Raquel Portugal/Fiocruz Imagens) - Raquel Portugal/Fiocruz ImagensA principal porta de entrada do Sars-CoV-2 no organismo é a enzima conversora de angiotensina 2 (ECA2)</segment>
+    <segment id="61">, muito presente nas células dos pulmões e do coração</segment>
+    <segment id="62">, masmas também encontrada na parede do intestino.</segment>
+    <segment id="63">Estudos contrários à hipótese da invasão do cérebro pelo vírus argumentaram justamente que há baixa quantidade dessa enzima nas células do sistema nervoso central.</segment>
+    <segment id="64">No entanto a hipótese dos pesquisadores de Yale foi de que a presença dessa proteína na membrana celular estaria ligada à invasão do vírus.</segment>
+    <segment id="65">De fato</segment>
+    <segment id="66">, a análise patológica do cérebro de um paciente que morreu de Covid-19 apontou uma elevada presença dessa proteína nos neurônios.</segment>
+    <segment id="67">Frente à invasão do coronavírus no organismo</segment>
+    <segment id="68">, o corpo responde com uma resposta imune que</segment>
+    <segment id="69">, em um primeiro momento</segment>
+    <segment id="70">, pode ser medida pela taxa de produção de anticorpos.</segment>
+    <segment id="71">Uma das questões levantadas pelos cientistas era</segment>
+    <segment id="72">sese no cérebro existe alguma resposta imune para barrar a entrada do vírus.</segment>
+    <segment id="73">Eles não encontraram evidências de combate ao vírus pelo sistema imunológico no órgão.</segment>
+    <segment id="74">Para fins de comparação</segment>
+    <segment id="75">, no caso</segment>
+    <segment id="76">caso do vírus da zika</segment>
+    <segment id="77">, a entrada do patógeno leva a uma resposta imune intensificada no cérebro</segment>
+    <segment id="78">, detectada pela presença elevada de células de defesa</segment>
+    <segment id="79">, em uma tentativa de destruir as células contaminadas e deter o vírus.</segment>
+    <segment id="80">Situação semelhante também é observada em outras infecções virais cerebrais</segment>
+    <segment id="81">, como</segment>
+    <segment id="82">como raiva e herpes.</segment>
+    <segment id="83">Com o Sars-CoV-2</segment>
+    <segment id="84">, no entanto</segment>
+    <segment id="85">, as células não são destruídas</segment>
+    <segment id="86">, pois</segment>
+    <segment id="87">pois o sistema imune não consegue identificá-las: elas</segment>
+    <segment id="88">sese portam</segment>
+    <segment id="89">comocomo células normais</segment>
+    <segment id="90">, masmas provocam a morte das células adjacentes por falta de oxigênio.</segment>
+    <segment id="91">Assim, é possível que o Sars-CoV-2 use o maquinário das células nervosas para</segment>
+    <segment id="92">sese replicar e</segment>
+    <segment id="93">, sem destruí-las</segment>
+    <segment id="94">, sese espalhar pelo cérebro.</segment>
+    <segment id="95">Os pesquisadores foram mais a fundo para entender as consequências da invasão dos neurônios pelo vírus</segment>
+    <segment id="96">, avaliando o cérebro de camundongos contaminados.</segment>
+    <segment id="97">Para observar o caminho de entrada do Sars-CoV-2 no cérebro</segment>
+    <segment id="98">, os cientistas inocularam o vírus em camundongos por duas vias</segment>
+    <segment id="99">, intranasal e intraventricular</segment>
+    <segment id="100">, e viram que os camundongos infectados pelo nariz apresentaram mais sintomas pulmonares</segment>
+    <segment id="101">, sem alta taxa de mortalidade</segment>
+    <segment id="102">, enquanto os que receberam o vírus pela via intraventricular tiveram letalidade mais elevada.</segment>
+    <segment id="103">Além disso</segment>
+    <segment id="104">, analisaram mudanças significativas no sistema vascular dos animais</segment>
+    <segment id="105">, com a reorientação do fluxo sanguíneo nos vasos da região do córtex a fim de atingir as áreas com maior atividade metabólica</segment>
+    <segment id="106">, relacionadas ao ataque do vírus.</segment>
+    <segment id="107">Isso pode dar uma pista de</segment>
+    <segment id="108">comocomo ocorrem os eventos isquêmicos no cérebro dos pacientes contaminados.</segment>
+    <segment id="109">Por fim</segment>
+    <segment id="110">, analisando o cérebro de pacientes que morreram de Covid-19</segment>
+    <segment id="111">, os pesquisadores observaram uma maior presença do vírus na região do córtex.</segment>
+    <segment id="112">No entanto</segment>
+    <segment id="113">, foi na região branca</segment>
+    <segment id="114">, e não no córtex</segment>
+    <segment id="115">, onde encontraram maior quantidade de eventos microscópicos de derrames.</segment>
+    <segment id="116">Analisando lâminas com o tecido cerebral em laboratório</segment>
+    <segment id="117">, foram encontrados anticorpos específicos para a proteína S (de "spike</segment>
+    <segment id="118">", espícula) do Sars-CoV-2</segment>
+    <segment id="119">nessas regiões do córtex</segment>
+    <segment id="120">, reforçando que os sintomas neurológicos associados à Covid-19 podem estar relacionados à invasão direta dos neurônios pelo vírus</segment>
+    <segment id="121">, que pode causar morte das células tanto em cérebros humanos quanto em organoides.</segment>
+    <segment id="122">O estudo</segment>
+    <segment id="123">, no entanto</segment>
+    <segment id="124">, é experimental</segment>
+    <segment id="125">, e contou com apenas três modelos humanos.</segment>
+    <segment id="126">Estudos futuros são necessários para examinar qual a frequência da invasão do Sars-CoV-2 nos neurônios cerebrais e</segment>
+    <segment id="127">sese existem pré-condições para tal.</segment>
+    <segment id="128">Os autores concluem que “o estudo fornece uma demonstração clara de que os neurônios podem</segment>
+    <segment id="129">sese tornar um alvo da infecção por Sars-CoV-2 com consequências devastadoras de isquemia localizada no cérebro e morte celular</segment>
+    <segment id="130">, destacando ainda a ligação do vírus ao sistema nervoso".</segment>
+    <segment id="131">Segundo os pesquisadores</segment>
+    <segment id="132">, o estudo pode ajudar a "guiar estratégias de tratamento de pacientes com distúrbios neurológicos.</segment>
+    <segment id="133">”  Sequelas do coronavírus ainda podem permanecer por meses   novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

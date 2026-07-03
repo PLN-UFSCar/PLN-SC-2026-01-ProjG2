@@ -1,0 +1,101 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente Luiz Inácio Lula da Silva (PT) disse neste sábado (9) que Vladimir Putin poderá vir ao Brasil para participar da cúpula do G20 no ano que vem sem correr risco de ser preso.  "</segment>
+    <segment id="2">Se eu for presidente do Brasil</segment>
+    <segment id="3">, e se</segment>
+    <segment id="4">se ele [Putin] vier para o Brasil</segment>
+    <segment id="5">, não tem</segment>
+    <segment id="6">comocomo ele ser preso.</segment>
+    <segment id="7">Não, ele não será preso.</segment>
+    <segment id="8">Ninguém vai desrespeitar o Brasil.</segment>
+    <segment id="9">Se você prender alguém no Brasil sem a autorização do governo</segment>
+    <segment id="10">, você não vai respeitar o Brasil"</segment>
+    <segment id="11">, disse Lula em entrevista ao site indiano Firstpost.</segment>
+    <segment id="12">O presidente Lula na Índia</segment>
+    <segment id="13">, para a cúpula do G20 - Ricardo Stuckert/Presidência da RepúblicaO Tribunal Penal Internacional (TPI) emitiu em março um mandado de prisão contra o líder russo devido a supostos crimes de guerra na Ucrânia.</segment>
+    <segment id="14">O Brasil é signatário do Estatuto de Roma</segment>
+    <segment id="15">, tratado internacional que criou o TPI</segment>
+    <segment id="16">, e, em tese</segment>
+    <segment id="17">, deve</segment>
+    <segment id="18">sese comprometer a cumprir ordens da corte.</segment>
+    <segment id="19">Na hipótese de Putin visitar o Brasil</segment>
+    <segment id="20">, o Ministério Público poderia pedir sua prisão com base no mandado do TPI</segment>
+    <segment id="21">, e caberia à Justiça determinar o seu cumprimento.</segment>
+    <segment id="22">Ambas as instituições são independentes do Executivo</segment>
+    <segment id="23">, de modo que</segment>
+    <segment id="24">, hipoteticamente</segment>
+    <segment id="25">, Lula nada poderia fazer para evitar a prisão de Putin.</segment>
+    <segment id="26">A Folha procurou o Ministério das Relações Exteriores para comentar a declaração de Lula</segment>
+    <segment id="27">, masmas não obteve resposta até a publicação deste texto.</segment>
+    <segment id="28">Lula está em Nova Déli para a cúpula do G20.</segment>
+    <segment id="29">O Brasil assumirá a presidência do bloco formado pelas 20 maiores economias do planeta e sediará o próximo encontro do grupo no ano que vem.</segment>
+    <segment id="30">"</segment>
+    <segment id="31">No Brasil</segment>
+    <segment id="32">, eles [líderes mundiais] vão sentir um ambiente de paz.</segment>
+    <segment id="33">Eles vão sentir que</segment>
+    <segment id="34">, no Brasil</segment>
+    <segment id="35">, nós gostamos de música</segment>
+    <segment id="36">, gostamos de Carnaval</segment>
+    <segment id="37">, gostamos de futebol</segment>
+    <segment id="38">, masmas gostamos de paz.</segment>
+    <segment id="39">E gostamos de tratar bem as pessoas.</segment>
+    <segment id="40">Então eu acredito que Putin pode ir facilmente para o Brasil"</segment>
+    <segment id="41">, afirmou Lula.</segment>
+    <segment id="42">Ele também afirmou que pretende visitar a Rússia no ano que vem para participar da cúpula do Brics.</segment>
+    <segment id="43">Putin não compareceu ao encontro de líderes do Brics deste ano em Joanesburgo justamente</segment>
+    <segment id="44">porque</segment>
+    <segment id="45">porque corria risco de prisão</segment>
+    <segment id="46">, uma vez que a África do Sul também é signatária do Estatuto de Roma.</segment>
+    <segment id="47">Na entrevista</segment>
+    <segment id="48">, Lula defendeu ainda que não sejam incluídas menções à Guerra da Ucrânia na declaração final da cúpula do G20 por</segment>
+    <segment id="49">sese tratar de um evento focado em temas econômicos.</segment>
+    <segment id="50">"</segment>
+    <segment id="51">Este não é o fórum apropriado para isso.</segment>
+    <segment id="52">No dia 19 de setembro deste mês</segment>
+    <segment id="53">, teremos a Assembleia-Geral da ONU e é lá que devemos discutir a guerra.</segment>
+    <segment id="54">É lá que devemos tentar discutir a paz.</segment>
+    <segment id="55">É lá que devemos chamar Putin e Zelenski para a mesa de negociações"</segment>
+    <segment id="56">, disse o presidente.</segment>
+    <segment id="57">Além disso</segment>
+    <segment id="58">, Lula comparou a invasão da Ucrânia pela Rússia a outras guerras promovidas pelo Ocidente.</segment>
+    <segment id="59">"</segment>
+    <segment id="60">É verdade que a Rússia invadiu a Ucrânia sem consultar ninguém.</segment>
+    <segment id="61">E os EUA invadiram o Iraque sem consultar ninguém.</segment>
+    <segment id="62">A Inglaterra e a França invadiram a Líbia sem consultar previamente ninguém.</segment>
+    <segment id="63">E acreditamos que é possível respeitar o princípio fundamental das Nações Unidas.</segment>
+    <segment id="64">O Brasil é 100% contra a invasão da integridade territorial de qualquer outro país"</segment>
+    <segment id="65">, afirmou Lula.</segment>
+    <segment id="66">De fato</segment>
+    <segment id="67">, nem a invasão da Ucrânia pela Rússia em 2022</segment>
+    <segment id="68">, nem a invasão do Iraque pelos EUA em 2003 foram aprovadas pelo Conselho de Segurança da ONU</segment>
+    <segment id="69">, órgão responsável por autorizar o uso da força contra países.</segment>
+    <segment id="70">Por outro lado</segment>
+    <segment id="71">, a entidade aprovou que a Otan</segment>
+    <segment id="72">, a aliança militar ocidental</segment>
+    <segment id="73">, interviesse na Líbia em 2011.</segment>
+    <segment id="74">Cotidiano em Moscou na guerraMais    novamente         de   de  de  representando</segment>
+    <segment id="75">um</segment>
+  </rst>
+</analysis>

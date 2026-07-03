@@ -1,0 +1,133 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um litro de água engarrafada contém</segment>
+    <segment id="2">, em média</segment>
+    <segment id="3">, 240 mil partículas de microplástico.</segment>
+    <segment id="4">Será que algum dia estaremos livres de toda essa poluição?</segment>
+    <segment id="5">- Getty ImagesOs microplásticos podem ser encontrados em todas as partes do planeta.</segment>
+    <segment id="6">Essas partículas minúsculas de material antropogênico já foram encontradas no gelo do Oceano Antártico</segment>
+    <segment id="7">, dentro do intestino de animais marinhos que habitam os locais mais profundos dos oceanos e na água potável de todo o mundo.</segment>
+    <segment id="8">Agora, um novo estudo concluiu que a água engarrafada pode conter até 100 vezes mais pedaços minúsculos de plástico que o estimado anteriormente.</segment>
+    <segment id="9">Um litro de água engarrafada contém</segment>
+    <segment id="10">, em média</segment>
+    <segment id="11">, quase 250 mil fragmentos de nanoplástico</segment>
+    <segment id="12">, segundo um estudo realizado por pesquisadores das universidades Columbia e Rutgers</segment>
+    <segment id="13">, nos Estados Unidos.</segment>
+    <segment id="14">Os pesquisadores analisaram cinco amostras de três marcas comuns de água engarrafada.</segment>
+    <segment id="15">Eles descobriram que os níveis de nanoplástico variam de 110 mil a 400 mil fragmentos por litro.</segment>
+    <segment id="16">A média é de 240 mil fragmentos.</segment>
+    <segment id="17">Os cientistas afirmam que grande parte do plástico parece vir da própria garrafa.</segment>
+    <segment id="18">E não se</segment>
+    <segment id="19">se sabe</segment>
+    <segment id="20">sese a ingestão de plástico representa riscos mais sérios à saúde.</segment>
+    <segment id="21">Uma análise das evidências científicas disponíveis realizada pela Organização Mundial da Saúde em 2019 e 2020 concluiu que ainda havia muito poucas pesquisas para determinar</segment>
+    <segment id="22">sese o consumo ou a inalação de microplásticos representa risco à saúde humana.</segment>
+    <segment id="23">Mas a OMS alertou que os fragmentos menores —com menos de 10 micrômetros— provavelmente são absorvidos biologicamente.</segment>
+    <segment id="24">A organização também pediu a redução da poluição por plástico</segment>
+    <segment id="25">, para diminuir a exposição humana.</segment>
+    <segment id="26">Mas é realmente possível evitar os microplásticos?</segment>
+    <segment id="27">Os microplásticos estão nos alimentos</segment>
+    <segment id="28">O plástico não é onipresente apenas na água.</segment>
+    <segment id="29">Ele também está disseminado nas terras agrícolas e pode chegar aos alimentos que consumimos.</segment>
+    <segment id="30">Um estudo de 2022 demonstrou que lodo de esgoto</segment>
+    <segment id="31">, usado</segment>
+    <segment id="32">comocomo fertilizante agrícola</segment>
+    <segment id="33">, contaminou quase 81 mil quilômetros quadrados de terras agrícolas nos Estados Unidos.</segment>
+    <segment id="34">Esse lodo contém microplásticos e os compostos perfluoroalquila e polifluoroalquila (PFAS</segment>
+    <segment id="35">, na sigla em inglês)</segment>
+    <segment id="36">, que também são conhecidos</segment>
+    <segment id="37">comocomo "produtos químicos eternos".</segment>
+    <segment id="38">Um estudo da Universidade de Cardiff</segment>
+    <segment id="39">, no Reino Unido</segment>
+    <segment id="40">, concluiu que 86 a 710 trilhões de partículas de microplásticos contaminam terras agrícolas na Europa todos os anos.</segment>
+    <segment id="41">Isso significa que</segment>
+    <segment id="42">, podemos estar ingerindo involuntariamente minúsculos fragmentos de plástico em cada garfada da nossa alimentação.</segment>
+    <segment id="43">Mas algumas plantas parecem absorver os microplásticos mais do que outras.</segment>
+    <segment id="44">Estudos parecem indicar</segment>
+    <segment id="45">, por exemplo</segment>
+    <segment id="46">, que o plástico tende a</segment>
+    <segment id="47">sese acumular nas raízes das plantas.</segment>
+    <segment id="48">Isso significa que vegetais folhosos</segment>
+    <segment id="49">, como</segment>
+    <segment id="50">como a alface</segment>
+    <segment id="51">, podem ter concentrações de plástico menores do que cenouras</segment>
+    <segment id="52">, nabos e rabanetes.</segment>
+    <segment id="53">Embora os efeitos da ingestão de microplásticos à saúde ainda não tenham sido claramente determinados</segment>
+    <segment id="54">, já se</segment>
+    <segment id="55">se descobriu que eles chegam até o fluxo sanguíneo humano.</segment>
+    <segment id="56">O plástico descartado</segment>
+    <segment id="57">sese decompõe lentamente em fragmentos menores</segment>
+    <segment id="58">, formando o microplástico que pode</segment>
+    <segment id="59">sese infiltrar nas fontes de água potável - Getty ImagesO plástico biodegradável pode ajudar?</segment>
+    <segment id="60">As várias iniciativas contra o uso de plásticos descartáveis fizeram com que muitas empresas procurassem adotar alternativas consideradas compostáveis ou biodegradáveis.</segment>
+    <segment id="61">Mas, em alguns casos</segment>
+    <segment id="62">, essas alternativas podem estar agravando a crise do microplástico.</segment>
+    <segment id="63">Cientistas da Universidade de Plymouth</segment>
+    <segment id="64">, no Reino Unido</segment>
+    <segment id="65">, concluíram que sacos plásticos marcados</segment>
+    <segment id="66">comocomo "biodegradáveis"</segment>
+    <segment id="67">podem levar anos para</segment>
+    <segment id="68">sese desintegrar.</segment>
+    <segment id="69">E, ainda assim</segment>
+    <segment id="70">, eles</segment>
+    <segment id="71">sese decompõem principalmente em pedaços menores</segment>
+    <segment id="72">, não nas substâncias que os compõem.</segment>
+    <segment id="73">E as garrafas de vidro?</segment>
+    <segment id="74">Eliminar as embalagens plásticas pode ajudar a reduzir a exposição ao material.</segment>
+    <segment id="75">Afinal</segment>
+    <segment id="76">, a água da torneira contém níveis menores de microplásticos do que a água em garrafas de plástico.</segment>
+    <segment id="77">Mas essa substituição também traria outras consequências ambientais.</segment>
+    <segment id="78">As garrafas de vidro possuem alta taxa de reciclagem</segment>
+    <segment id="79">, masmas sua pegada ambiental é superior à do plástico e de outras embalagens usadas para líquidos</segment>
+    <segment id="80">, como</segment>
+    <segment id="81">como caixas de papelão e latas de alumínio.</segment>
+    <segment id="82">Isso se</segment>
+    <segment id="83">se deve à mineração da sílica</segment>
+    <segment id="84">, matéria-prima do vidro</segment>
+    <segment id="85">, que pode causar danos significativos ao meio ambiente</segment>
+    <segment id="86">, incluindo a deterioração de terrenos e perda de biodiversidade.</segment>
+    <segment id="87">E, mesmo com os recipientes feitos de outros materiais</segment>
+    <segment id="88">, é difícil escapar totalmente dos microplásticos.</segment>
+    <segment id="89">Estudos conduzidos por Sherri Mason</segment>
+    <segment id="90">, da Universidade Estadual da Pensilvânia</segment>
+    <segment id="91">, nos Estados Unidos</segment>
+    <segment id="92">, concluíram que os microplásticos não estão presentes apenas na água da torneira</segment>
+    <segment id="93">, oriundos principalmente das fibras das nossas roupas.</segment>
+    <segment id="94">Eles também são encontrados no sal marinho e na cerveja.</segment>
+    <segment id="95">Existe algo que possa ser feito?</segment>
+    <segment id="96">Pesquisadores estão desenvolvendo uma série de técnicas para tentar eliminar a poluição causada pelo plástico no nosso meio ambiente.</segment>
+    <segment id="97">Uma possibilidade é procurar fungos e bactérias que</segment>
+    <segment id="98">sese alimentem de plástico e decomponham o material durante o processo.</segment>
+    <segment id="99">E há também os insetos —uma espécie de larva de besouro que pode</segment>
+    <segment id="100">sese alimentar de poliestireno é outra possível solução.</segment>
+    <segment id="101">Outros pesquisadores estão examinando técnicas de filtragem de água e tratamentos químicos que possam remover o microplástico.</segment>
+    <segment id="102">E até o uso de ímãs está sendo estudado para combater o problema.</segment>
+    <segment id="103">Com todos esses estudos</segment>
+    <segment id="104">, podemos dizer que</segment>
+    <segment id="105">, felizmente</segment>
+    <segment id="106">, ainda há esperança.</segment>
+    <segment id="107">Leia a versão original desta reportagem (em inglês) no site BBC Future.</segment>
+  </rst>
+</analysis>

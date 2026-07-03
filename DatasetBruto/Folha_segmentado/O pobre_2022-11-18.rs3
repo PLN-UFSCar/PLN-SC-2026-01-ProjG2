@@ -1,0 +1,128 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente eleito tem repetido que "é preciso incluir os pobres no orçamento público".</segment>
+    <segment id="2">Até que ponto eles estão excluídos?</segment>
+    <segment id="3">O FMI criou uma estatística fiscal em que classifica os gastos por "função de governo".</segment>
+    <segment id="4">A categoria "proteção social"</segment>
+    <segment id="5">sese aproxima do que seria a participação dos pobres no orçamento.</segment>
+    <segment id="6">Ali estão despesas com: idosos</segment>
+    <segment id="7">, doentes</segment>
+    <segment id="8">, deficientes</segment>
+    <segment id="9">, pensionistas</segment>
+    <segment id="10">, famílias</segment>
+    <segment id="11">, crianças</segment>
+    <segment id="12">, desempregados</segment>
+    <segment id="13">, habitação</segment>
+    <segment id="14">, proteção social e populações excluídas.</segment>
+    <segment id="15">Beneficiária do Auxílio Brasil mostra o cartão do programa social do governo federal - Diego Vara/ReutersDentre 58 países para os quais há dados referentes a 2019</segment>
+    <segment id="16">, o Brasil desponta</segment>
+    <segment id="17">comocomo o quarto colocado</segment>
+    <segment id="18">, com 14</segment>
+    <segment id="19">,3% do PIB</segment>
+    <segment id="20">, ficando atrás apenas de San Marino (18</segment>
+    <segment id="21">,2%), Espanha (15</segment>
+    <segment id="22">,8%) e Noruega (15</segment>
+    <segment id="23">,6%).</segment>
+    <segment id="24">Portanto</segment>
+    <segment id="25">, já gastamos muito</segment>
+    <segment id="26">com "proteção social".</segment>
+    <segment id="27">Como esses dados são de antes da pandemia</segment>
+    <segment id="28">, e desde então houve a ampliação do Auxílio Brasil de R$ 32 bilhões para R$ 106 bilhões</segment>
+    <segment id="29">, atualmente estamos gastando ainda mais.</segment>
+    <segment id="30">Isso não garante que os pobres estejam plenamente contemplados no orçamento.</segment>
+    <segment id="31">Pode ser que nossos gastos em "proteção social" não cheguem até eles.</segment>
+    <segment id="32">Abrindo os dados brasileiros nas diversas categorias de "proteção social"</segment>
+    <segment id="33">, observamos que quase 70% referem-</segment>
+    <segment id="34">sese à Previdência (idosos e pensionistas):</segment>
+    <segment id="35">temos o quinto maior gasto previdenciário entre os 58 países da base de dados.</segment>
+    <segment id="36">Diversos estudos —entre eles o relatório "</segment>
+    <segment id="37">Um ajuste justo"</segment>
+    <segment id="38">, do Banco Mundial— mostram que o gasto com Previdência beneficia principalmente a classe média</segment>
+    <segment id="39">, e não os pobres.</segment>
+    <segment id="40">Quando excluímos da conta os gastos previdenciários</segment>
+    <segment id="41">, ainda ficamos entre os 20% que mais gastam com outras políticas de "proteção social".</segment>
+    <segment id="42">Mas também nesse conjunto há programas que não chegam aos mais pobres</segment>
+    <segment id="43">, como</segment>
+    <segment id="44">como o abono salarial e o salário-família.</segment>
+    <segment id="45">A forma mais cômoda de tentar beneficiar os miseráveis é aumentar o gasto em programas que conseguiriam atendê-los</segment>
+    <segment id="46">, não mexer em outras despesas do orçamento</segment>
+    <segment id="47">, sejam elas voltadas a "proteção social que não chegam aos pobres" ou a outras finalidades.</segment>
+    <segment id="48">Assim, não seria preciso tirar benefícios de ninguém</segment>
+    <segment id="49">, e a resistência política seria menor.</segment>
+    <segment id="50">Colunas e BlogsReceba no seu email uma seleção de colunas e blogs da Folha</segment>
+    <segment id="51">; exclusiva para assinantes.</segment>
+    <segment id="52">Carregando...</segment>
+    <segment id="53">Mas essa estratégia tem custo para os pobres.</segment>
+    <segment id="54">Ela requer aumento de impostos</segment>
+    <segment id="55">, da dívida pública ou da inflação.</segment>
+    <segment id="56">O sistema tributário atual pune excessivamente os pobres.</segment>
+    <segment id="57">A inflação é uma máquina de fabricar pobreza.</segment>
+    <segment id="58">A dívida aumentará a despesa com juros</segment>
+    <segment id="59">, pagos às pessoas que têm poupança e que</segment>
+    <segment id="60">, obviamente</segment>
+    <segment id="61">, não são as mais pobres.</segment>
+    <segment id="62">Por isso</segment>
+    <segment id="63">, um debate sério sobre incluir os pobres no orçamento deve começar não pelo aumento de despesas</segment>
+    <segment id="64">, que já é alta</segment>
+    <segment id="65">, e sim por substituir as de pior qualidade por programas eficazes de redução da pobreza.</segment>
+    <segment id="66">As primeiras da fila da exclusão deveriam ser as emendas parlamentares —todas elas</segment>
+    <segment id="67">, não só as de relator.</segment>
+    <segment id="68">Em artigo no Blog do Ibre</segment>
+    <segment id="69">, em coautoria com Fabio Giambiagi e Paulo Hartung</segment>
+    <segment id="70">, mostramos que não há um argumento sequer que dê sustentação técnica a essas despesas.</segment>
+    <segment id="71">Elas alimentam a corrupção e empobrecem o Brasil.</segment>
+    <segment id="72">Na mesma linha</segment>
+    <segment id="73">, é preciso diminuir benefícios fiscais</segment>
+    <segment id="74">, tributários e financeiros que consomem recursos públicos</segment>
+    <segment id="75">, beneficiam ricos e derrubam o potencial de crescimento da economia.</segment>
+    <segment id="76">Uma reforma do Imposto de Renda que o torne mais progressivo também ajudaria.</segment>
+    <segment id="77">Outra linha de atuação deve ser a reforma dos gastos em "proteção social".</segment>
+    <segment id="78">A Previdência ainda custa caro e mantém privilégios</segment>
+    <segment id="79">, como</segment>
+    <segment id="80">como os das profissões que</segment>
+    <segment id="81">sese aposentam mais cedo.</segment>
+    <segment id="82">Programas sociais anacrônicos precisam dar lugar aos mais eficazes.</segment>
+    <segment id="83">A transformação do Bolsa Família em Auxílio Brasil</segment>
+    <segment id="84">, a despeito de ter quase triplicado o valor gasto</segment>
+    <segment id="85">, piorou a capacidade de chegar aos mais pobres.</segment>
+    <segment id="86">Como mostram Pedro Nery no jornal</segment>
+    <segment id="87">O Estado de S. Paulo de 15/11 e Cecilia Machado</segment>
+    <segment id="88">, na Folha de 7/11</segment>
+    <segment id="89">, as famílias são estimuladas a</segment>
+    <segment id="90">sese dividir para receber mais</segment>
+    <segment id="91">; um indivíduo sozinho recebe o mesmo que uma mãe solo com muitos filhos</segment>
+    <segment id="92">; e aquelas que têm renda R$ 0</segment>
+    <segment id="93">,10 acima da linha de pobreza não recebem nada</segment>
+    <segment id="94">, enquanto quem está R$ 0</segment>
+    <segment id="95">,10 abaixo recebe R$ 600.</segment>
+    <segment id="96">O desenho tem que ser refeito</segment>
+    <segment id="97">, antes de</segment>
+    <segment id="98">sese colocar ainda mais dinheiro no programa.</segment>
+    <segment id="99">Esse é o debate sério que efetivamente colocará os pobres no orçamento.</segment>
+    <segment id="100">Pedir licença para gastar mais</segment>
+    <segment id="101">, sem corrigir as distorções atuais</segment>
+    <segment id="102">, só agravará a nossa mediocridade econômica e atenderá o interesse dos não pobres.</segment>
+  </rst>
+</analysis>

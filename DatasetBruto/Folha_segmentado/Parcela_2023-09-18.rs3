@@ -1,0 +1,97 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">BAIXAR RELATÓRIO DA PESQUISA</segment>
+    <segment id="2">A avaliação de que a economia do país melhorou nos últimos meses subiu de 23% para 35% entre março e setembro de 2023</segment>
+    <segment id="3">, movimento acompanhado pela queda de 41% para 28% na percepção de que a economia brasileira ficou</segment>
+    <segment id="4">comocomo estava.</segment>
+    <segment id="5">Para 35%</segment>
+    <segment id="6">, a situação econômica do país piorou</segment>
+    <segment id="7">, índice igual ao registrado na pesquisa anterior.</segment>
+    <segment id="8">Entre quem estudou até o ensino fundamental</segment>
+    <segment id="9">, 42% avaliam que a economia melhorou</segment>
+    <segment id="10">, índice que também fica acima da média na região nordeste (43%)</segment>
+    <segment id="11">, e fica abaixo da média na região sul (27%).</segment>
+    <segment id="12">Na parcela da população que votou em Lula no segundo turno da última eleição</segment>
+    <segment id="13">, 63% acreditam que a situação da economia do país melhorou</segment>
+    <segment id="14">, e para 11% deles houve piora.</segment>
+    <segment id="15">Entre eleitores de Jair Bolsonaro (PL)</segment>
+    <segment id="16">, 10% avaliam que a economia melhorou</segment>
+    <segment id="17">, e a maioria (61%) acredita que piorou.</segment>
+    <segment id="18">Quando o olhar é voltado sobre a situação econômica pessoal</segment>
+    <segment id="19">, 30% avaliam que houve melhora nos últimos meses</segment>
+    <segment id="20">, e 44% dizem que ficou</segment>
+    <segment id="21">comocomo estava.</segment>
+    <segment id="22">Para um quarto da população (26%) a situação econômica pessoal piorou</segment>
+    <segment id="23">, com destaque para eleitores de Bolsonaro (39%).</segment>
+    <segment id="24">Neste caso</segment>
+    <segment id="25">caso, também houve alta na percepção de melhora</segment>
+    <segment id="26">, que era de 23% em março</segment>
+    <segment id="27">, e queda na percepção de estagnação</segment>
+    <segment id="28">, que recuou de 50% para o resultado atual.</segment>
+    <segment id="29">A avaliação de que a vida econômica pessoal piorou ficou estável</segment>
+    <segment id="30">, com oscilação de 27% para 26%.</segment>
+    <segment id="31">A percepção de melhora não foi acompanhada de alta no otimismo econômico</segment>
+    <segment id="32">, tanto do país quanto pessoal.</segment>
+    <segment id="33">Em março</segment>
+    <segment id="34">, 46% acreditavam que a economia brasileira iria melhorar nos meses seguintes</segment>
+    <segment id="35">, índice superior ao registrado atualmente (41%).</segment>
+    <segment id="36">O otimismo com a economia vem caindo desde o final de outubro do ano passado</segment>
+    <segment id="37">, quando</segment>
+    <segment id="38">, na véspera da eleição</segment>
+    <segment id="39">, atingiu seu índice mais alto (62%) desde 2019.</segment>
+    <segment id="40">O índice de pessimistas atualmente é de 28%</segment>
+    <segment id="41">, ante 26% em março</segment>
+    <segment id="42">, e 29% acreditam que a economia ficará</segment>
+    <segment id="43">comocomo está (eram 26%).</segment>
+    <segment id="44">A maioria (55%) avalia que a situação economia pessoal</segment>
+    <segment id="45">, nos próximos meses</segment>
+    <segment id="46">, irá melhorar</segment>
+    <segment id="47">, índice similar ao registrado em março deste ano (56%).</segment>
+    <segment id="48">Para 31%</segment>
+    <segment id="49">, a situação ficará</segment>
+    <segment id="50">comocomo está (eram 28%)</segment>
+    <segment id="51">, e 12% preveem piora (eram 14%).</segment>
+    <segment id="52">As expectativas dos brasileiros com relação à inflação</segment>
+    <segment id="53">, ao desemprego e ao poder de compra dos salários ficaram estáveis na comparação com março deste ano</segment>
+    <segment id="54">, após um período de piora em relação ao final de 2022.</segment>
+    <segment id="55">Para 54%</segment>
+    <segment id="56">, a inflação irá aumentar nos próximos meses (eram 54%)</segment>
+    <segment id="57">, para 24% ficará igual (mesmo índice anterior) e para 19%</segment>
+    <segment id="58">, irá diminuir (eram 20%).</segment>
+    <segment id="59">Na região nordeste</segment>
+    <segment id="60">, 26% avaliam que inflação irá diminuir nos próximos meses</segment>
+    <segment id="61">, o dobro do registrado no Sul (13%).</segment>
+    <segment id="62">Em relação ao desemprego</segment>
+    <segment id="63">, 46% avaliam que irá aumentar nos próximos meses (eram 44% em março deste ano)</segment>
+    <segment id="64">, 27% acreditam que ficará igual (eram 26%)</segment>
+    <segment id="65">, e para 26% irá diminuir (eram 29%).</segment>
+    <segment id="66">Entre eleitores de Lula</segment>
+    <segment id="67">, 42% preveem queda no desemprego</segment>
+    <segment id="68">, índice que fica em 12% no eleitorado de Bolsonaro.</segment>
+    <segment id="69">Na medição da expectativa sobre o poder de compra</segment>
+    <segment id="70">, 33% avaliam que irá diminuir nos próximos meses (eram 31%)</segment>
+    <segment id="71">, 33% preveem que ficará igual (eram 34%) e outros 32% esperam por aumento (eram 33%).</segment>
+  </rst>
+</analysis>

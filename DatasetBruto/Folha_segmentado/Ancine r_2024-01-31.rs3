@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A diretoria da Ancine (Agência Nacional do Cinema) realizará uma série de audiências com representantes do setor audiovisual em fevereiro para discutir sobre a cota de tela deste ano</segment>
+    <segment id="2">, mecanismo criado para dar espaço à produção nacional.</segment>
+    <segment id="3">No último dia 15</segment>
+    <segment id="4">, o presidente Lula (PT) sancionou o projeto da cota de tela</segment>
+    <segment id="5">, aprovado no fim do ano passado no Congresso e que valerá até dezembro de 2033.</segment>
+    <segment id="6">A lei prevê que anualmente um decreto deve ser editado para fixar e regulamentar a cota.</segment>
+    <segment id="7">Após as reuniões com representantes do setor</segment>
+    <segment id="8">, a Ancine realizará análises técnicas e levará uma proposta para a avaliação do Ministério da Cultura.</segment>
+    <segment id="9">Segundo dados da agência</segment>
+    <segment id="10">, até o último dia 25 o público de filmes brasileiros neste ano foi de mais de 2 milhões de espectadores</segment>
+    <segment id="11">, o que equivale a mais da metade de todo o público de obras nacionais em 2023 (3</segment>
+    <segment id="12">,7 milhões).</segment>
+    <segment id="13">Fachada da sede da Ancine</segment>
+    <segment id="14">, Agência Nacional do Cinema</segment>
+    <segment id="15">, na região central do Rio de Janeiro - Lucas Tavares/Folhapress</segment>
+  </rst>
+</analysis>

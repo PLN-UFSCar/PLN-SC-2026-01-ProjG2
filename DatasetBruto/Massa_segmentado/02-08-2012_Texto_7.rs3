@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Gaby Amarantos penou com lipoaspiraÃ§Ã£o</segment>
+    <segment id="2">A cantora paraense contou que sofreu muito para ficar magra.</segment>
+    <segment id="3">A cantora paraense</segment>
+    <segment id="4">, que ilustra a capa da revista TPM</segment>
+    <segment id="5">, contou que sofreu muito para ficar magra.</segment>
+    <segment id="6">Ela chegou a fazer uma lipoaspiraÃ§Ã£o</segment>
+    <segment id="7">, masmas a experiÃªncia nÃ£o foi das melhores.</segment>
+    <segment id="8">â€œFazer essa plÃ¡stica Ã© uma das coisas das quais mais me arrependo.</segment>
+    <segment id="9">Fiquei cheia de cicatrizes</segment>
+    <segment id="10">, doeu.</segment>
+    <segment id="11">Foi muito violentoâ€. Gaby contou que quando tinha 20 anos evitava roupas que mostrassem suas gordurinhas.</segment>
+  </rst>
+</analysis>

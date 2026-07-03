@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Perereca para o Brasil</segment>
+    <segment id="2">A bela foi convidada para estar no “</segment>
+    <segment id="3">Se Ela Dança</segment>
+    <segment id="4">, Eu Danço”</segment>
+    <segment id="5">A saltitante funkeira baiana  Mulher</segment>
+    <segment id="6">Perereca  realizou um grande sonho na última sexta-feira.</segment>
+    <segment id="7">Deu um pulo em São Paulo para gravar seu primeiro programa de televisão em rede nacional</segment>
+    <segment id="8">,</segment>
+    <segment id="9">o “</segment>
+    <segment id="10">Se Ela Dança</segment>
+    <segment id="11">, Eu Danço”</segment>
+    <segment id="12">,  exibido às quartas-feiras no SBT.</segment>
+    <segment id="13">A bela foi convidada pela emissora de Silvio Santos por causa do tremendo sucesso do clipe da canção “Capu de Fusca”</segment>
+    <segment id="14">,  que tem milhares de acessos no YouTube.</segment>
+    <segment id="15">Sua participação irá ao ar em setembro.</segment>
+    <segment id="16">“</segment>
+    <segment id="17">Quase choro de emoção.</segment>
+    <segment id="18">Fui tão bem tratada”</segment>
+    <segment id="19">, contou ela.</segment>
+  </rst>
+</analysis>

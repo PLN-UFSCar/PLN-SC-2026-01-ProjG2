@@ -1,0 +1,49 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O comércio paulistano fechou setembro com alta de 3% nas vendas em relação ao mesmo mês do ano passado</segment>
+    <segment id="2">, segundo a ACSP (Associação Comercial de São Paulo).</segment>
+    <segment id="3">Na comparação com agosto</segment>
+    <segment id="4">, mês que é favorecido pelo Dia dos Pais</segment>
+    <segment id="5">, a entidade registrou um recuo de quase 7% nas vendas.</segment>
+    <segment id="6">Para outubro</segment>
+    <segment id="7">, a expectativa é de saldo positivo</segment>
+    <segment id="8">, impulsionado pelo Dia da Criança.</segment>
+    <segment id="9">A ACSP projeta alta de 5% nas vendas na data ante o evento de 2021.</segment>
+    <segment id="10">Itens de menor valor</segment>
+    <segment id="11">comocomo roupas</segment>
+    <segment id="12">, calçados</segment>
+    <segment id="13">, acessórios e brinquedos mais simples devem prevalecer - Bruno Santos - 02.mai.2022/ FolhapressO tíquete médio não deve ultrapassar os R$ 200.</segment>
+    <segment id="14">Segundo a pesquisa</segment>
+    <segment id="15">, itens de menor valor</segment>
+    <segment id="16">comocomo roupas</segment>
+    <segment id="17">, calçados</segment>
+    <segment id="18">, acessórios e brinquedos mais simples devem prevalecer.</segment>
+    <segment id="19">Para os economistas da associação</segment>
+    <segment id="20">, a perspectiva das vendas neste ano subiu por causa do avanço da ocupação</segment>
+    <segment id="21">, da injeção de dinheiro do governo federal e do aumento da confiança do consumidor.</segment>
+    <segment id="22">Joana Cunha com Paulo Ricardo Martins e Diego</segment>
+    <segment id="23">Felix</segment>
+  </rst>
+</analysis>

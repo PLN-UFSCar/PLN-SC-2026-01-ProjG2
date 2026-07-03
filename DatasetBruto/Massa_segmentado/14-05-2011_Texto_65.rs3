@@ -1,0 +1,35 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Rio tem previsão de céu nublado e pancadas de chuva nas próximas 24h</segment>
+    <segment id="2">Na noite deste sábado</segment>
+    <segment id="3">, chove fraca e isoladamente em pontos da cidade do Rio</segment>
+    <segment id="4">, que terá máxima de 25ºC e mínima de 16ºC nas próximas 24h.</segment>
+    <segment id="5">Para o domingo</segment>
+    <segment id="6">, a previsão é de sol entre nuvens e pancadas de chuva.</segment>
+    <segment id="7">As informações são do sistema Alerta Rio.</segment>
+    <segment id="8">A Defesa Civil do município registrou 20 ocorrências sem gravidade das 10h30m às 17h45m deste sábado</segment>
+    <segment id="9">, conforme boletim do Centro de Operações da Prefeitura.</segment>
+  </rst>
+</analysis>

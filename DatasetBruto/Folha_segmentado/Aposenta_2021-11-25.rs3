@@ -1,0 +1,137 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O INSS (Instituto Nacional do Seguro Social) mudará os descontos nas aposentadorias de trabalhadores que</segment>
+    <segment id="2">sese encaixarem na regra de transição do pedágio de 50%</segment>
+    <segment id="3">, criada pela reforma da Previdência.</segment>
+    <segment id="4">Os descontos maiores serão aplicados após a Previdência atualizar a tabela do fator previdenciário</segment>
+    <segment id="5">, índice que considera a idade</segment>
+    <segment id="6">, o tempo de contribuição e a expectativa de sobrevida.</segment>
+    <segment id="7">O fator previdenciário</segment>
+    <segment id="8">, que já foi considerado o vilão das aposentadorias por tempo de contribuição</segment>
+    <segment id="9">, passou a ser aplicado em poucas situações desde que a reforma da Previdência começou a valer</segment>
+    <segment id="10">, em 13 de novembro de 2019.</segment>
+    <segment id="11">Uma delas é a transição do pedágio de 50%</segment>
+    <segment id="12">, que não exige idade mínima.</segment>
+    <segment id="13">O fator também é utilizado para trabalhadores que comprovem o direito adquirido a regras anteriores da reforma.</segment>
+    <segment id="14">App</segment>
+    <segment id="15">Meu INSS  - Gabriel Cabral/Folhapress</segment>
+    <segment id="16">Nesta quinta-feira (25)</segment>
+    <segment id="17">, o IBGE (Instituto Brasileiro de Geografia e Estatística) divulgou a atualização da expectativa de vida da população</segment>
+    <segment id="18">, com informações projetadas a partir de dados do Censo de 2010</segment>
+    <segment id="19">, que não incluem o efeito da pandemia de Covid-19.</segment>
+    <segment id="20">Segundo o IBGE</segment>
+    <segment id="21">, as tábuas de mortalidade fornecem os indicadores que seriam esperados</segment>
+    <segment id="22">casocaso o país não tivesse passado pela pandemia.</segment>
+    <segment id="23">Se o Brasil não tivesse vivenciado uma crise de mortalidade em 2020</segment>
+    <segment id="24">, a expectativa de vida ao nascer seria de 76</segment>
+    <segment id="25">,8 anos para a população</segment>
+    <segment id="26">, acréscimo de 2 meses e 26 dias em relação ao estimado para 2019 (76</segment>
+    <segment id="27">,6 anos).</segment>
+    <segment id="28">O consultor previdenciário Newton Conde</segment>
+    <segment id="29">, da Conde Consultoria Atuarial</segment>
+    <segment id="30">, critica a ausência de informações sobre as mortes registradas na pandemia e avalia que o IBGE poderia</segment>
+    <segment id="31">, por exemplo</segment>
+    <segment id="32">, usar dados da Pnad (Pesquisa Nacional por Amostra de Domicílios) para fazer esse cálculo.</segment>
+    <segment id="33">Nas aposentadorias que usam o fator previdenciário</segment>
+    <segment id="34">, quanto maior a expectativa de vida e de sobrevida (definida para cada idade)</segment>
+    <segment id="35">, maior é o desconto no benefício do INSS.</segment>
+    <segment id="36">"</segment>
+    <segment id="37">Se o segurado vai viver mais</segment>
+    <segment id="38">, reduz um pouco o benefício</segment>
+    <segment id="39">para que</segment>
+    <segment id="40">para que o dinheiro consiga pagar todo esse tempo</segment>
+    <segment id="41">, até o final da vida.</segment>
+    <segment id="42">Se a pandemia traz mais óbitos</segment>
+    <segment id="43">, então reduz a expectativa de vida das pessoas</segment>
+    <segment id="44">, significa que bem provavelmente o fator previdenciário seria maior"</segment>
+    <segment id="45">, afirma.</segment>
+    <segment id="46">Procurada</segment>
+    <segment id="47">, a Secretaria de Previdência não informou</segment>
+    <segment id="48">, até a publicação desta reportagem</segment>
+    <segment id="49">, a partir de que dia começam a ser aplicados os novos descontos.</segment>
+    <segment id="50">No ano passado</segment>
+    <segment id="51">, eles começaram a valer em 1º de dezembro.</segment>
+    <segment id="52">Um mês e meio a mais de trabalho  Segundo cálculos da Conde Consultoria Atuarial</segment>
+    <segment id="53">, na comparação com a última tabela do IBGE houve um aumento médio na expectativa de vida de 43 dias para as faixas dos 40 aos 80 anos e uma redução média de 0</segment>
+    <segment id="54">,47% nas aposentadorias pedidas com o fator antigo e o novo.</segment>
+    <segment id="55">Se o trabalhador adiar o pedido do benefício para fevereiro de 2022 para compensar a alteração no fator</segment>
+    <segment id="56">, por exemplo</segment>
+    <segment id="57">, com mais um ou dois meses de contribuição</segment>
+    <segment id="58">, dependendo do</segment>
+    <segment id="59">casocaso</segment>
+    <segment id="60">, conseguirá voltar ao valor de aposentadoria que teria agora em novembro de 2021</segment>
+    <segment id="61">, informa a consultoria.</segment>
+    <segment id="62">Apesar de a diferença entre uma tabela e outra ser pequena</segment>
+    <segment id="63">, Newton ressalta que é uma diferença que será paga pelo resto da vida do trabalhador.</segment>
+    <segment id="64">  Veja o valor do benefício  Para um segurado com 57 anos de idade e 37 anos de contribuição</segment>
+    <segment id="65">, a diferença no benefício será de 0</segment>
+    <segment id="66">,40%.</segment>
+    <segment id="67">Veja as variações conforme a média salarial</segment>
+    <segment id="68">:         Média salarial     Tabela do IBGE</segment>
+    <segment id="69">Fator R$ 1.500 R$ 3.000 R$ 5.000   2019 0</segment>
+    <segment id="70">,7699 R$ 1.154</segment>
+    <segment id="71">,79 R$ 2.309</segment>
+    <segment id="72">,58 R$ 3.849</segment>
+    <segment id="73">,30   2020 0</segment>
+    <segment id="74">,7668 R$ 1.150</segment>
+    <segment id="75">,21 R$ 2.300</segment>
+    <segment id="76">,42 R$ 3.834</segment>
+    <segment id="77">,03</segment>
+    <segment id="78">Diferença (em R$)   -4</segment>
+    <segment id="79">,58</segment>
+    <segment id="80">-9,17</segment>
+    <segment id="81">-15,28   Diferença (em %)   -0</segment>
+    <segment id="82">,40% -0</segment>
+    <segment id="83">,40% -0</segment>
+    <segment id="84">,40%          Quem</segment>
+    <segment id="85">sese aposenta pelo pedágio</segment>
+    <segment id="86">A regra de transição do pedágio é aplicada para trabalhadores que</segment>
+    <segment id="87">, em 13 de novembro de 2019</segment>
+    <segment id="88">, quando a reforma da Previdência foi publicada</segment>
+    <segment id="89">, já tinham períodos de contribuição entre 28 e 30 anos incompletos (mulheres) ou entre 33 e 35 anos incompletos (homens).</segment>
+    <segment id="90">Para conseguir o benefício pelo pedágio de 50%</segment>
+    <segment id="91">, o INSS exige que esses trabalhadores contribuam por mais 50% do tempo que faltava para eles atingirem 30 anos de contribuição (mulher) ou 35 anos (homem).</segment>
+    <segment id="92">Um homem</segment>
+    <segment id="93">, por exemplo</segment>
+    <segment id="94">, que estava a dois anos da aposentadoria no início da reforma teria que trabalhar mais um ano para cumprir o pedágio</segment>
+    <segment id="95">, ou seja</segment>
+    <segment id="96">, teria que trabalhar mais três anos no total para pedir seu benefício.</segment>
+    <segment id="97">Veja as outras regras de transição e quem pode pedir a aposentadoria do INSS até o final do ano.</segment>
+    <segment id="98">​  Vilão das aposentadorias  Criado pelo governo Fernando Henrique Cardoso (PSDB) com o objetivo de forçar o trabalhador a adiar sua aposentadoria</segment>
+    <segment id="99">, especialmente de quem está na faixa dos 50 anos</segment>
+    <segment id="100">, o fator representa um desconto em boa parte dos benefícios por tempo de contribuição pedidos abaixo de 60 anos.</segment>
+    <segment id="101">Desde dezembro de 2000</segment>
+    <segment id="102">, a redução acumulada do fator chega a 20</segment>
+    <segment id="103">,1%, para homens</segment>
+    <segment id="104">, e a 18</segment>
+    <segment id="105">,3%, para mulheres</segment>
+    <segment id="106">, segundo a Conde Consultoria.</segment>
+    <segment id="107">No ano passado</segment>
+    <segment id="108">, a atualização do fator gerou uma redução média de 0</segment>
+    <segment id="109">,73% nas aposentadorias.</segment>
+    <segment id="110">Veja como</segment>
+    <segment id="111">como foi a tramitação da Reforma da Previdência do governo Bolsonaro no CongressoMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

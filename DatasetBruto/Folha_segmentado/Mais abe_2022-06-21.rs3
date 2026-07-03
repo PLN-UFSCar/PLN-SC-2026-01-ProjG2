@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Pré-candidato a presidente do Novo</segment>
+    <segment id="2">, Felipe d’Avila intensificou contatos com outras forças políticas.</segment>
+    <segment id="3">Na semana passada</segment>
+    <segment id="4">, acompanhado do presidente da legenda</segment>
+    <segment id="5">, Eduardo Ribeiro</segment>
+    <segment id="6">, ele jantou na casa de Gilberto Kassab com parte da cúpula do PSD.</segment>
+    <segment id="7">O pré-candidato à Presidência pelo Novo</segment>
+    <segment id="8">, Felipe D&amp;#039</segment>
+    <segment id="9">;Avila</segment>
+    <segment id="10">, durante sabatina promovida por Folha e UOL - Reprodução/UOLNesta segunda-feira (20)</segment>
+    <segment id="11">, reuniu-</segment>
+    <segment id="12">sese com o ex-presidente Michel Temer (MDB)</segment>
+    <segment id="13">, que disse que sua participação na eleição é uma contribuição importante para o debate político.</segment>
+    <segment id="14">O Novo historicamente tem atitude refratária a alianças</segment>
+    <segment id="15">, masmas vem flexibilizando essa posição ultimamente.</segment>
+    <segment id="16">As conversas têm o objetivo de debater questões gerais do país e da política</segment>
+    <segment id="17">, masmas não devem resultar em apoios formais à candidatura de D´Avila.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,66 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Irmãos gêmeos são acusados de roubo</segment>
+    <segment id="2">Eles foram presos por PMs acusados de roubar a bolsa de uma mulher de 31 anos</segment>
+    <segment id="3">Os irmãos gêmeos Crispim Cláudio Santos de Souza e Cláudio Crispim Santos de Souza</segment>
+    <segment id="4">, ambos de 37 anos</segment>
+    <segment id="5">, estão envolvidos em uma grande encrenca.</segment>
+    <segment id="6">Eles foram presos por PMs acusados de roubar a bolsa de uma mulher de 31 anos</segment>
+    <segment id="7">, no último domingo</segment>
+    <segment id="8">, no bairro Mares</segment>
+    <segment id="9">, perto do Maxxi Atacado</segment>
+    <segment id="10">, Cidade Baixa.</segment>
+    <segment id="11">Os gêmeos também são acusados de agredirem a vítima.</segment>
+    <segment id="12">Na Delegacia de Periperi</segment>
+    <segment id="13">, onde estão presos</segment>
+    <segment id="14">, Crispim e Cláudio garantem que não roubaram a moça.</segment>
+    <segment id="15">Segundo os irmãos</segment>
+    <segment id="16">, a mulher invadiu</segment>
+    <segment id="17">, há um ano</segment>
+    <segment id="18">, a casa que eles possuem</segment>
+    <segment id="19">, no bairro Cajazeiras.</segment>
+    <segment id="20">A moça seria irmã do traficante conhecido</segment>
+    <segment id="21">comocomo Jaburu</segment>
+    <segment id="22">, que teria expulsado os gêmeos do bairro Cajazeiras.</segment>
+    <segment id="23">“</segment>
+    <segment id="24">No domingo</segment>
+    <segment id="25">, a gente foi atrás dessa mulher para mandar ela desocupar a nossa casa”</segment>
+    <segment id="26">, afirma Crispim.</segment>
+    <segment id="27">Alegam inocência:</segment>
+    <segment id="28">Eles moram na rua</segment>
+    <segment id="29">De acordo com os irmãos</segment>
+    <segment id="30">, eles descobriram que a mulher estaria trabalhando na região dos Mares</segment>
+    <segment id="31">, perto de onde ocorreu o suposto assalto</segment>
+    <segment id="32">, e por isso foram atrás dela</segment>
+    <segment id="33">, para tirar satisfação.</segment>
+    <segment id="34">“Não fizemos nada com ela.</segment>
+    <segment id="35">Quando pedimos para ela sair da nossa casa</segment>
+    <segment id="36">, ela correu  gritando que a gente era ladrão e chamou a polícia”</segment>
+    <segment id="37">, argumentam os gêmeos.</segment>
+    <segment id="38">Eles afirmam que atualmente moram na rua e trabalham</segment>
+    <segment id="39">comocomo vendedores ambulantes</segment>
+    <segment id="40">, dentro dos ônibus.</segment>
+  </rst>
+</analysis>

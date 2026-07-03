@@ -1,0 +1,121 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Antes da demissão do presidente-executivo da OpenAI</segment>
+    <segment id="2">, Sam Altman</segment>
+    <segment id="3">, na última sexta-feira (17)</segment>
+    <segment id="4">, vários pesquisadores da equipe escreveram uma carta ao conselho de administração alertando sobre uma poderosa descoberta no campo da inteligência artificial (IA) que</segment>
+    <segment id="5">, segundo eles</segment>
+    <segment id="6">, poderia ameaçar a humanidade</segment>
+    <segment id="7">, disseram duas pessoas familiarizadas com o assunto à Reuters.</segment>
+    <segment id="8">A carta e o algoritmo de IA foram os principais desenvolvimentos antes de o conselho de administração da OpenAI decidir demitir Altman</segment>
+    <segment id="9">, o garoto-propaganda da IA generativa</segment>
+    <segment id="10">, tecnologia por trás do ChatGPT</segment>
+    <segment id="11">, disseram as duas fontes.</segment>
+    <segment id="12">A demissão levou funcionários da empresa a ameaçarem demissão coletiva e Altman foi recontratado na quarta-feira (22).</segment>
+    <segment id="13">As fontes citaram a carta</segment>
+    <segment id="14">comocomo um fator entre uma lista mais longa de queixas da diretoria que levou à demissão de Altman</segment>
+    <segment id="15">, entre as quais preocupações com a comercialização de avanços de IA antes do entendimento das consequências do uso da tecnologia.</segment>
+    <segment id="16">A Reuters não conseguiu analisar uma cópia da carta.</segment>
+    <segment id="17">Os funcionários que escreveram o texto não responderam a pedidos de comentários.</segment>
+    <segment id="18">Sam Altman teria sido demitido após descoberta de pesquisadores que inteligência artificial resolveria problemas de matemática - Patrick T. Fallon / AFPDepois de ser contatada pela Reuters</segment>
+    <segment id="19">, a OpenAI</segment>
+    <segment id="20">, que se</segment>
+    <segment id="21">se recusou a comentar</segment>
+    <segment id="22">, reconheceu em uma mensagem interna para os funcionários um projeto chamado Q* e uma carta para a diretoria antes dos eventos do fim de semana</segment>
+    <segment id="23">, disse uma das fontes.</segment>
+    <segment id="24">Um porta-voz da OpenAI disse que a mensagem</segment>
+    <segment id="25">, enviada pela executiva Mira Murati</segment>
+    <segment id="26">, que chegou a ser nomeada para o lugar de Altman</segment>
+    <segment id="27">, alertava a equipe sobre certas reportagens da imprensa sem comentar sobre sua precisão.</segment>
+    <segment id="28">Uma das fontes afirmou à Reuters que algumas pessoas da OpenAI acreditam que o projeto Q* (pronuncia-</segment>
+    <segment id="29">sese Q-Star) pode ser um avanço na pesquisa da empresa sobre o que é conhecido</segment>
+    <segment id="30">comocomo inteligência artificial geral (AGI).</segment>
+    <segment id="31">A OpenAI define AGI</segment>
+    <segment id="32">comocomo sistemas autônomos que superam os humanos na maioria das tarefas de valor econômico.</segment>
+    <segment id="33">Veja profissões que vão bombar com inteligência artificialMais    novamente         de   de  de  representando um</segment>
+    <segment id="34">De acordo com a fonte</segment>
+    <segment id="35">, o novo modelo tem vastos recursos de computação e foi capaz de resolver determinados problemas matemáticos.</segment>
+    <segment id="36">Apesar de realizar apenas cálculos matemáticos no nível de alunos do ensino fundamental</segment>
+    <segment id="37">, o fato de o modelo ser bem-sucedido em tais testes deixou os pesquisadores muito otimistas quanto ao sucesso futuro do projeto Q*.</segment>
+    <segment id="38">A Reuters não conseguiu verificar de forma independente os recursos do projeto Q* alegados pelos pesquisadores.</segment>
+    <segment id="39">"</segment>
+    <segment id="40">Véu de ignorância</segment>
+    <segment id="41">"</segment>
+    <segment id="42">Os pesquisadores consideram a matemática</segment>
+    <segment id="43">comocomo a fronteira do desenvolvimento da IA generativa</segment>
+    <segment id="44">, já que ela é boa em escrita e tradução de idiomas</segment>
+    <segment id="45">, prevendo estatisticamente a próxima palavra</segment>
+    <segment id="46">, e as respostas à mesma pergunta podem variar muito.</segment>
+    <segment id="47">Mas conquistar a capacidade de fazer contas —em que há apenas uma resposta certa— implica a IA ter maior capacidade de raciocínio</segment>
+    <segment id="48">, semelhante à inteligência humana.</segment>
+    <segment id="49">Isso poderia ser aplicado a novas pesquisas científicas</segment>
+    <segment id="50">, por exemplo</segment>
+    <segment id="51">, acreditam os pesquisadores de IA.</segment>
+    <segment id="52">Ao contrário de uma calculadora que pode resolver um número limitado de operações</segment>
+    <segment id="53">, a AGI pode generalizar</segment>
+    <segment id="54">, aprender e compreender.</segment>
+    <segment id="55">Saiba mais sobre a demissão e recontratação de AltmanSam Altman deixa OpenAI após perder confiança do conselho diretorOpen AI</segment>
+    <segment id="56">contrata Emmett Shear</segment>
+    <segment id="57">, cofundador da Twitch</segment>
+    <segment id="58">, como</segment>
+    <segment id="59">como novo CEO interinoMicrosoft anuncia contratação de Sam Altman</segment>
+    <segment id="60">, ex-chefe da OpenAI</segment>
+    <segment id="61">, que criou o ChatGPTFuncionários da OpenAI ameaçam demissão coletiva</segment>
+    <segment id="62">sese Sam Altman não voltarOpenAI anuncia retorno de Sam Altman</segment>
+    <segment id="63">comocomo CEO da startupEm sua carta ao conselho</segment>
+    <segment id="64">, os pesquisadores destacaram a proeza e o perigo em potencial da IA</segment>
+    <segment id="65">, disseram as fontes</segment>
+    <segment id="66">, sem especificar as preocupações exatas de segurança apontadas na carta.</segment>
+    <segment id="67">Há muito tempo</segment>
+    <segment id="68">, cientistas da computação discutem o perigo representado por máquinas altamente inteligentes</segment>
+    <segment id="69">, por exemplo</segment>
+    <segment id="70">, sese elas podem decidir que a destruição da humanidade é de seu interesse.</segment>
+    <segment id="71">Os pesquisadores também indicaram o trabalho de uma equipe de "cientistas de IA"</segment>
+    <segment id="72">, cuja existência foi confirmada por várias fontes.</segment>
+    <segment id="73">O grupo</segment>
+    <segment id="74">, formado pela combinação das equipes anteriores "Code Gen" e "Math Gen"</segment>
+    <segment id="75">, trabalha em</segment>
+    <segment id="76">comocomo otimizar os modelos de IA existentes para melhorar seu raciocínio e</segment>
+    <segment id="77">, por fim</segment>
+    <segment id="78">, realizar trabalhos científicos</segment>
+    <segment id="79">, disse uma das pessoas.</segment>
+    <segment id="80">Altman liderou os esforços para tornar o ChatGPT um dos aplicativos de crescimento mais rápido da história e atraiu investimentos —e recursos de computação— necessários da Microsoft para</segment>
+    <segment id="81">sese aproximar da AGI.</segment>
+    <segment id="82">Desvendando IAUm guia do New York Times em formato de newsletter para você entender</segment>
+    <segment id="83">comocomo funciona a IACarregando...</segment>
+    <segment id="84">Além de anunciar uma série de novas ferramentas em uma demonstração neste mês</segment>
+    <segment id="85">, Altman</segment>
+    <segment id="86">, na semana passada anunciou em uma cúpula de líderes mundiais em São Francisco que ele acreditava que grandes avanços na tecnologia de inteligência artificial estavam à vista.</segment>
+    <segment id="87">"</segment>
+    <segment id="88">Quatro vezes na história da OpenAI</segment>
+    <segment id="89">, sendo que a mais recente foi apenas nas últimas duas semanas</segment>
+    <segment id="90">, eu pude estar na sala</segment>
+    <segment id="91">, quando nós meio que empurramos o véu da ignorância para trás e a fronteira da descoberta para frente</segment>
+    <segment id="92">, e poder fazer isso é a honra profissional de uma vida"</segment>
+    <segment id="93">, disse ele na cúpula da Cooperação Econômica Ásia-Pacífico.</segment>
+    <segment id="94">Um dia depois</segment>
+    <segment id="95">, a diretoria da OpenAI demitiu Altman.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">No último dia do ano</segment>
+    <segment id="2">, o Papa Francisco citou na mensagem de Ano-Novo os povos que sofrem com guerras</segment>
+    <segment id="3">, mencionando o povo ucraniano</segment>
+    <segment id="4">, os povos palestino e israelense</segment>
+    <segment id="5">, o povo sudanês</segment>
+    <segment id="6">, e muitos outros.</segment>
+    <segment id="7">Papa Francisco faz gestos enquanto durante a oração do Angelus de sua janela</segment>
+    <segment id="8">, no Vaticano - Reuters  "</segment>
+    <segment id="9">Ao término do ano</segment>
+    <segment id="10">, que tenhamos coragem de nos perguntar: quantas vidas humanas foram dilaceradas com os conflitos armados?</segment>
+    <segment id="11">Quantas mortes?</segment>
+    <segment id="12">E quanta destruição</segment>
+    <segment id="13">, quanta dor?</segment>
+    <segment id="14">Quanta pobreza?</segment>
+    <segment id="15">Que aqueles que</segment>
+    <segment id="16">sese beneficiam desses conflitos escutem a voz da consciência"</segment>
+    <segment id="17">, afirmou o papa Francisco neste domingo (31)</segment>
+    <segment id="18">, diante de uma multidão reunida na Praça São Pedro.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,53 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Leandro Hassum perde 10 kg em 2 semanas</segment>
+    <segment id="2">Ele nÃ£o quer falar sobre o assunto</segment>
+    <segment id="3">, masmas garantiu que estÃ¡ bem</segment>
+    <segment id="4">Duas semanas apÃ³s</segment>
+    <segment id="5">sese submeter a cirurgia bariÃ¡trica (reduÃ§Ã£o de estÃ´mago)</segment>
+    <segment id="6">, Leandro Hassum jÃ¡  perdeu 10kg.</segment>
+    <segment id="7">O humorista</segment>
+    <segment id="8">, que se</segment>
+    <segment id="9">se recupera em casa</segment>
+    <segment id="10">, disse Ã  coluna</segment>
+    <segment id="11">â€œRetratos da Vidaâ€ que estÃ¡ bem</segment>
+    <segment id="12">, masmas nÃ£o quer ficar falando sobre o assunto por enquanto.</segment>
+    <segment id="13">â€œEstou bem</segment>
+    <segment id="14">, estou de alta</segment>
+    <segment id="15">, seguindo a dieta</segment>
+    <segment id="16">, masmas ainda nÃ£o estou falando disso</segment>
+    <segment id="17">, nÃ£o.</segment>
+    <segment id="18">Deixa passar mais um tempo</segment>
+    <segment id="19">, porque</segment>
+    <segment id="20">porque fica parecendo que eu estou fazendo uma agenda.</segment>
+    <segment id="21">Quero ficar na minhaâ€</segment>
+    <segment id="22">, pediu.</segment>
+    <segment id="23">O ator</segment>
+    <segment id="24">, que pesava 145 kg</segment>
+    <segment id="25">, segue fazendo uma dieta com uma alimentaÃ§Ã£o lÃ­quida e pastosa.</segment>
+    <segment id="26">No fim de semana</segment>
+    <segment id="27">, ele foi fotografado passeando com a mulher no Rio.</segment>
+  </rst>
+</analysis>

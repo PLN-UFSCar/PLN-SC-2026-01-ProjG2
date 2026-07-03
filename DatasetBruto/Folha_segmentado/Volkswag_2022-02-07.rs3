@@ -1,0 +1,57 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Volkswagen não espera que a escassez global de semicondutores termine neste ano</segment>
+    <segment id="2">, embora</segment>
+    <segment id="3">embora deva diminuir ainda mais no segundo semestre</segment>
+    <segment id="4">, disse um membro do conselho à revista Automobilwoche.</segment>
+    <segment id="5">"</segment>
+    <segment id="6">A situação volátil nos afetará pelo menos após o primeiro semestre"</segment>
+    <segment id="7">, disse Murat Aksel</segment>
+    <segment id="8">, chefe de compras do conselho da Volkswagen</segment>
+    <segment id="9">, em entrevista.</segment>
+    <segment id="10">As montadoras de todo o mundo foram atingidas por uma escassez de semicondutores causada por interrupções na cadeia de suprimentos durante a crise sanitária</segment>
+    <segment id="11">, bem como</segment>
+    <segment id="12">como pela crescente demanda de semicondutores em empresas de eletrônicos de consumo.</segment>
+    <segment id="13">Falta de semicondutores afeta indústria de automóveis e eletrônicosMais    novamente         de   de  de  representando um  Aksel disse que há claros problemas estruturais</segment>
+    <segment id="14">, com a demanda definida devendo continuar a aumentar na indústria automobilística.</segment>
+    <segment id="15">Assim, o foco será trabalhar em colaboração com fornecedores para garantir uma melhor disponibilidade</segment>
+    <segment id="16">, disse.</segment>
+    <segment id="17">Deve ficar mais fácil fazer previsões confiáveis ​​em 2023</segment>
+    <segment id="18">, quando mais capacidade de produção de semicondutores entrar em operação</segment>
+    <segment id="19">, disse o executivo.</segment>
+    <segment id="20">Chips semicondutores são essenciais para produtos tecnológicos de ponta</segment>
+    <segment id="21">, de computadores a carros e ao 5G.</segment>
+    <segment id="22">A explosão na demanda por tablets</segment>
+    <segment id="23">, celulares e TVs</segment>
+    <segment id="24">, motivada pelo trabalho remoto de grande parte da população durante pandemia</segment>
+    <segment id="25">, é uma das principais causas para o desequilíbrio da cadeia.</segment>
+    <segment id="26">Paralelamente</segment>
+    <segment id="27">, houve uma ruptura nas cadeias globais de suprimento após a paralisação da indústria mundial no primeiro semestre de 2020</segment>
+    <segment id="28">, que provocou um enorme desarranjo na logística global</segment>
+    <segment id="29">, afetando todos os setores</segment>
+    <segment id="30">, desde importadores</segment>
+    <segment id="31">comocomo as montadoras e a indústria têxtil às exportações de proteínas.</segment>
+  </rst>
+</analysis>

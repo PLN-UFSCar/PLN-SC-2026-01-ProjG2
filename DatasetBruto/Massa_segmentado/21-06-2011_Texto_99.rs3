@@ -1,0 +1,38 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Engavetamento deixa um ferido no Complex</segment>
+    <segment id="2">Após essa ocorrência</segment>
+    <segment id="3">, aconteceu outra colisão no mesmo local</segment>
+    <segment id="4">Uma pessoa ficou ferida em um engavetamento no Complexo Viário Dois de Julho sentido Lauro de Freitas nesta quinta-feira (21).</segment>
+    <segment id="5">De acordo com agentes da Transalvador - Superintendência de Trânsito e Transporte -</segment>
+    <segment id="6">, a vítima foi socorrida.</segment>
+    <segment id="7">Não há informações sobre seu estado de saúde.</segment>
+    <segment id="8">Um dos veículos envolvidos no acidente ficou sem condições de tráfego</segment>
+    <segment id="9">, o que deixa o trânsito no local.</segment>
+    <segment id="10">Após essa ocorrência</segment>
+    <segment id="11">, aconteceu outra colisão no mesmo local</segment>
+    <segment id="12">, masmas desta vez sem feridos.</segment>
+  </rst>
+</analysis>

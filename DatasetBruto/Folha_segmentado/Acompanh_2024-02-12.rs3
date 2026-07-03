@@ -1,0 +1,108 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Enquanto a Bolsa de Valores brasileira segue fechada pelo Carnaval</segment>
+    <segment id="2">, Wall Street operou normalmente nesta segunda-feira (12).</segment>
+    <segment id="3">Por lá</segment>
+    <segment id="4">, as ADRs (recibos de ações) brasileiras negociadas nas Bolsas dos Estados Unidos tiveram um pregão positivo.</segment>
+    <segment id="5">O índice Dow Jones Brazil Titans 20 ADR</segment>
+    <segment id="6">, com as 20 principais companhias brasileiras</segment>
+    <segment id="7">, subiu 0</segment>
+    <segment id="8">,82%.</segment>
+    <segment id="9">Já o EWZ</segment>
+    <segment id="10">, principal ETF (fundo de índice) que replica ações brasileiras</segment>
+    <segment id="11">, ganhou 0</segment>
+    <segment id="12">,94%.</segment>
+    <segment id="13">As ADRs de Petrobras e Vale</segment>
+    <segment id="14">, por sua vez</segment>
+    <segment id="15">, sese valorizaram 0</segment>
+    <segment id="16">,49% e 1</segment>
+    <segment id="17">,21%, respectivamente.</segment>
+    <segment id="18">Traders trabalham no pregão da Bolsa de Valores de Nova York (NYSE).</segment>
+    <segment id="19">Os principais índices de ações americanas sobem embalados pela valorização de big techs</segment>
+    <segment id="20">, na onda da IA.</segment>
+    <segment id="21">- ANGELA WEISS/AFPDepois de subir a uma nova pontuação recorde durante o pregão</segment>
+    <segment id="22">, o índice S&amp;amp</segment>
+    <segment id="23">;P 500 perdeu força pela tarde e fechou em leve queda de 0</segment>
+    <segment id="24">,09.</segment>
+    <segment id="25">Na sexta (9)</segment>
+    <segment id="26">, o índice americano bateu a marca histórica de 5.000 pontos.</segment>
+    <segment id="27">O Dow Jones</segment>
+    <segment id="28">, por sua vez</segment>
+    <segment id="29">, subiu 0</segment>
+    <segment id="30">,33%, enquanto o Nasdaq cedeu 0</segment>
+    <segment id="31">,30% —o índice de tecnologia também chegou a superar brevemente seu recorde de fechamento em novembro de 2021 durante a sessão.</segment>
+    <segment id="32">Investidores operam com uma expectativa positiva para o CPI (índice de preços ao consumidor) de janeiro</segment>
+    <segment id="33">, que será divulgado na terça-feira (13).</segment>
+    <segment id="34">O dado pode influenciar as apostas sobre o possível momento de um corte nas taxas pelo Fed (banco central dos EUA).  Espera-</segment>
+    <segment id="35">sese que a inflação geral ao consumidor desacelere de 3</segment>
+    <segment id="36">,4% para 2</segment>
+    <segment id="37">,9%, na base anual</segment>
+    <segment id="38">, e de 0</segment>
+    <segment id="39">,3% para 0</segment>
+    <segment id="40">,2%, na mensal.</segment>
+    <segment id="41">"</segment>
+    <segment id="42">O relatório do CPI de amanhã será apenas mais um dado importante sobre a situação da inflação e isso</segment>
+    <segment id="43">sese traduzirá no ritmo em que poderemos ver um corte na taxa de juros do Fed"</segment>
+    <segment id="44">, disse Michael Rosen</segment>
+    <segment id="45">, diretor de investimentos da Angeles Investments.</segment>
+    <segment id="46">"</segment>
+    <segment id="47">Ninguém quer fazer uma grande aposta de um jeito ou de outro.</segment>
+    <segment id="48">"</segment>
+    <segment id="49">Com a alta dos preços perdendo força</segment>
+    <segment id="50">, o Fed ganha margem para começar a reduzir a sua taxa básica de juros</segment>
+    <segment id="51">, hoje na faixa de 5</segment>
+    <segment id="52">,25% a 5</segment>
+    <segment id="53">,50%, o maior patamar desde 2001.</segment>
+    <segment id="54">Atualmente o mercado está dividido sobre quando os cortes começariam.</segment>
+    <segment id="55">Metade aposta em maio e a outra metade</segment>
+    <segment id="56">, em junho.</segment>
+    <segment id="57">"</segment>
+    <segment id="58">Um número de inflação muito alto pode deixar alguns investidores um pouco nervosos</segment>
+    <segment id="59">, masmas</segment>
+    <segment id="60">, fora isso</segment>
+    <segment id="61">, o Fed vai continuar no mesmo modo"</segment>
+    <segment id="62">, disse Joe Saluzzi</segment>
+    <segment id="63">, cogerente de negociação da Themis Trading.</segment>
+    <segment id="64">Juros mais baixos tendem a favorecer o mercado de renda variável</segment>
+    <segment id="65">, deixando empresas menos endividadas e mais propensas a investir</segment>
+    <segment id="66">, já que reduzem o custo de capital.</segment>
+    <segment id="67">Eles também deixam a renda fixa</segment>
+    <segment id="68">menos atrativa</segment>
+    <segment id="69">, levando o fluxo de investidores para ativos mais arriscados.</segment>
+    <segment id="70">Outro fator que impulsiona as ações americanas é a boa temporada de balanços</segment>
+    <segment id="71">, turbinados pela febre em torno da inteligência artificial.</segment>
+    <segment id="72">Nesta segunda</segment>
+    <segment id="73">, os papéis da Nvidia chegaram a subir 3</segment>
+    <segment id="74">,4%, levando a companhia a ultrapassar a Amazon em valor de mercado</segment>
+    <segment id="75">, ocupando brevemente o posto de quarta companhia americana mais valiosa.</segment>
+    <segment id="76">Ainda nesta semana</segment>
+    <segment id="77">, também serão divulgados o crescimento do PIB (Produto Interno Bruto) da zona do euro no quarto trimestre</segment>
+    <segment id="78">, dados sobre a produção industria dos EUA</segment>
+    <segment id="79">, além das vendas no varejo americano e a opinião preliminar do consumidor da Universidade de Michigan.</segment>
+    <segment id="80">Com Reuters</segment>
+    <segment id="81">Principais empresas na Bolsa brasileiraMais    novamente         de   de  de  representando</segment>
+    <segment id="82">um</segment>
+  </rst>
+</analysis>

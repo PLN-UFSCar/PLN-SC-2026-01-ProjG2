@@ -1,0 +1,55 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O salame de chocolate é um doce tradicional da culinária portuguesa.</segment>
+    <segment id="2">A sobremesa é feita em formato de rolo</segment>
+    <segment id="3">, semelhante a um típico salame de carne</segment>
+    <segment id="4">, com chocolate</segment>
+    <segment id="5">, bolachas maria</segment>
+    <segment id="6">, manteiga e ovos.</segment>
+    <segment id="7">Nozes, amêndoas</segment>
+    <segment id="8">, avelãs e pistaches também podem ser adicionados para dar mais e sabor textura ao prato.</segment>
+    <segment id="9">A receita é de Heloisa Bacellar</segment>
+    <segment id="10">, chef e fundadora da escola de gastronomia Atelier Gourmand</segment>
+    <segment id="11">, em São Paulo.</segment>
+    <segment id="12">Salame de chocolate pode ser armazenado por até uma semana na geladeira - Ana Bacellar  INGREDIENTES   200 g de chocolate ao leite ou meio amargo em cubinhos 200 g de bolacha maisena quebrada em pedaços médios  100 g de manteiga em temperatura ambiente    OPCIONAL   ½ xícara de amêndoas</segment>
+    <segment id="13">, castanhas ou pistaches torrados e inteiros 1 colher (sopa) de rum (15 ml)   MODO DE PREPARO</segment>
+    <segment id="14">Numa tigela limpa e seca</segment>
+    <segment id="15">, derreta o chocolate no micro-ondas por uns dois minutos ou em banho-maria</segment>
+    <segment id="16">Junte a bolacha</segment>
+    <segment id="17">, a manteiga e mexa até conseguir uma mistura homogênea</segment>
+    <segment id="18">Abra um retângulo de filme plástico ou de papel manteiga ou alumínio sobre o mármore.</segment>
+    <segment id="19">Molde um rolo de uns 2 cm de diâmetro no centro do filme</segment>
+    <segment id="20">, embrulhe</segment>
+    <segment id="21">, feche bem e enrole para fechar e dar o formato de cilindro</segment>
+    <segment id="22">Coloque o cilindro numa assadeira e leve à geladeira por uma hora</segment>
+    <segment id="23">Quando retirar</segment>
+    <segment id="24">, role com delicadeza para acertar o formato e volte para a geladeira por pelo menos mais cinco horas</segment>
+    <segment id="25">, ou até por uma semana</segment>
+    <segment id="26">Na hora de servir</segment>
+    <segment id="27">, desembrulhe o salame e corte em rodelas de mais ou menos 0</segment>
+    <segment id="28">,5 cm de espessura.</segment>
+    <segment id="29">Sirva gelado</segment>
+  </rst>
+</analysis>

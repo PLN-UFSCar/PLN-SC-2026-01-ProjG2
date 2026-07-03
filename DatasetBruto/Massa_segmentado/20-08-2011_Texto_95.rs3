@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Uma pessoa morreu e 14 ficaram feridas em colisão de ônibus na Avenida Brasil
+RIO - Uma colisão envolvendo um veículo de passeio e um ônibus provocou uma morte e deixou 14 pessoas feridas há poucos instantes na Avenida Brasil</segment>
+    <segment id="2">, pista sentido Zona Oeste.</segment>
+    <segment id="3">Bombeiros do Quartel de Guadalupe estão neste momento ajudando a remover as vítimas</segment>
+    <segment id="4">, que estão sendo levadas aos hospitais Albert Schweitzer</segment>
+    <segment id="5">, em Realengo</segment>
+    <segment id="6">, e Carlos Chagas</segment>
+    <segment id="7">, em Marechal Hermes.</segment>
+    <segment id="8">De acordo com testemunhas</segment>
+    <segment id="9">, o acidente teria acontecido após o veículo de passeio ter perdido o controle</segment>
+    <segment id="10">, atravessando o canteiro central e batendo de frente com o coletivo</segment>
+    <segment id="11">, na altura de Realengo.</segment>
+    <segment id="12">Os bombeiros ainda não têm a identificação do motorista do carro</segment>
+    <segment id="13">, que morreu no local.</segment>
+  </rst>
+</analysis>

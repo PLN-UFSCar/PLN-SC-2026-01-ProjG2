@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">FuracÃ£o mostra tudinho</segment>
+    <segment id="2">Denise Rocha estÃ¡ acertando detalhes com a â€œPlayboyâ€ para estampar a capa de setembro
+Denise Rocha</segment>
+    <segment id="3">, a FuracÃ£o da CPI</segment>
+    <segment id="4">, estÃ¡ acertando detalhes com a â€œPlayboyâ€ para estampar a capa de setembro.</segment>
+    <segment id="5">â€œEstamos pensando em</segment>
+    <segment id="6">comocomo serÃ¡ o ensaioâ€</segment>
+    <segment id="7">, contou o diretor da revista</segment>
+    <segment id="8">, Edson Aran.</segment>
+    <segment id="9">A ex-assessora ficou famosa depois que um vÃ­deo seu fazendo sexo circulou entre assessores e jornalistas que cobrem a CPI do Cachoeira e caiu na internet.</segment>
+  </rst>
+</analysis>

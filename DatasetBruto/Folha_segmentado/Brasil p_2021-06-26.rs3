@@ -1,0 +1,249 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Brasil pode atingir um nível de equidade entre negros e brancos no ensino superior em pouco mais de uma década</segment>
+    <segment id="2">, sese o ritmo de aumento na inclusão racial visto nos últimos anos não for freado ou revertido pela crise econômica que afeta o país desde 2014.</segment>
+    <segment id="3">É o que indica um cálculo feito pelos economistas do Insper Sergio Firpo</segment>
+    <segment id="4">, Michael França e Alysson Portella.</segment>
+    <segment id="5">Os pesquisadores criaram o Ifer (Índice Folha de Equilíbrio Racial)</segment>
+    <segment id="6">, cuja metodologia foi desenvolvida por eles a partir de um trabalho prévio do qual participou o economista Lucas Rodrigues</segment>
+    <segment id="7">, da USP.</segment>
+    <segment id="8">O indicador aponta o quão distantes as 27 unidades da federação e as cinco regiões brasileiras estão de um quadro em que os pretos e pardos tenham acesso às mesmas oportunidades que os brancos.</segment>
+    <segment id="9">Em educação</segment>
+    <segment id="10">, um dos três componentes do índice lançado pela Folha neste mês (os demais são renda e saúde)</segment>
+    <segment id="11">, o parâmetro dessa conta é a proporção de negros de 30 anos ou mais com nível superior completo.</segment>
+    <segment id="12">Esse componente foi o principal responsável pela melhoria do Ifer de forma agregada na maior parte do país.</segment>
+    <segment id="13">Embora o ensino superior brasileiro ainda seja marcado por múltiplas desigualdades</segment>
+    <segment id="14">, inclusive raciais</segment>
+    <segment id="15">, a proporção de negros de 30 anos ou mais com diploma universitário</segment>
+    <segment id="16">sese aproximou de sua representação populacional em 23 das 27 unidades da federação entre 2014 e 2019.</segment>
+    <segment id="17">As exceções foram Ceará</segment>
+    <segment id="18">, Alagoas</segment>
+    <segment id="19">, Piauí e Sergipe</segment>
+    <segment id="20">, afetados</segment>
+    <segment id="21">, provavelmente</segment>
+    <segment id="22">, pela crise econômica que atingiu com mais força os estados do Nordeste.</segment>
+    <segment id="23">Embora as políticas do governo cearense para a educação básica sejam tidas</segment>
+    <segment id="24">comocomo modelo</segment>
+    <segment id="25">, elas ainda são recentes para ter impacto significativo na população com 30 anos ou mais.</segment>
+    <segment id="26">Foi em 2008</segment>
+    <segment id="27">, por exemplo</segment>
+    <segment id="28">, que o estado passou a condicionar o volume de repasses do ICMS aos resultados das escolas.</segment>
+    <segment id="29">Dois dos estados mais próximos do equilíbrio educacional no Ifer —Rondônia e Amapá— e dois com as piores marcas nesse componente —Alagoas e Amazonas— também estão em polos opostos no ranking de renda.</segment>
+    <segment id="30">Não é à toa.</segment>
+    <segment id="31">As condições financeiras são importantes tanto para o estudante pagar a mensalidade de uma universidade privada</segment>
+    <segment id="32">comocomo para ele poder</segment>
+    <segment id="33">sese manter em uma pública e trabalhar menos.</segment>
+    <segment id="34">O crescimento econômico que o Brasil registrou nos anos anteriores à recessão que eclodiu em 2014 pode</segment>
+    <segment id="35">, portanto</segment>
+    <segment id="36">, ser parte da explicação para o avanço na inclusão racial no ensino superior registrado na série histórica do Ifer.</segment>
+    <segment id="37">O indicador pode variar entre -1 a 1.</segment>
+    <segment id="38">Quanto menor</segment>
+    <segment id="39">, mais desequilibrado em favor dos brancos e quanto maior</segment>
+    <segment id="40">, em favor dos negros.</segment>
+    <segment id="41">O patamar entre -0</segment>
+    <segment id="42">,2 e 0</segment>
+    <segment id="43">,2 indica equilíbrio</segment>
+    <segment id="44">, sendo zero o ideal.</segment>
+    <segment id="45">O cálculo de Firpo</segment>
+    <segment id="46">, França e Portella sugere que o componente educacional do Ifer deve atingir o patamar de equilíbrio (-0</segment>
+    <segment id="47">,2) em 12 anos</segment>
+    <segment id="48">, e total equidade (zero) em 27 anos</segment>
+    <segment id="49">, sese a velocidade de progresso no componente educacional for mantida —algo que</segment>
+    <segment id="50">, dado o quadro econômico atual do país</segment>
+    <segment id="51">, pode encontrar obstáculos.</segment>
+    <segment id="52">A projeção dos pesquisadores mostra</segment>
+    <segment id="53">, no entanto</segment>
+    <segment id="54">, significativas diferenças regionais.</segment>
+    <segment id="55">No Centro-Oeste</segment>
+    <segment id="56">, o equilíbrio relativo pode ser atingido em 5 anos e a equidade completa</segment>
+    <segment id="57">, em 18.</segment>
+    <segment id="58">No Nordeste</segment>
+    <segment id="59">, esses prazos são</segment>
+    <segment id="60">, respectivamente</segment>
+    <segment id="61">, de 21 e 44 anos.</segment>
+    <segment id="62">Além da expansão econômica entre meados dos anos 2000 e o início da década passada</segment>
+    <segment id="63">, outros fatores contribuíram para a queda da desigualdade no ensino superior.</segment>
+    <segment id="64">Em trabalho acadêmico</segment>
+    <segment id="65">, Adriano Senkevics</segment>
+    <segment id="66">, doutorando na USP</segment>
+    <segment id="67">, elencou quatro deles: melhora na taxa de conclusão do ensino médio</segment>
+    <segment id="68">, expansão de vagas em universidades</segment>
+    <segment id="69">, ações afirmativas e mudanças na autodeclaração dos estudantes</segment>
+    <segment id="70">, advinda de uma maior valorização da negritude.</segment>
+    <segment id="71">As ações afirmativas são aplicadas no ProUni e nas instituições públicas</segment>
+    <segment id="72">, com as cotas.</segment>
+    <segment id="73">Elas têm impacto importante</segment>
+    <segment id="74">, porém</segment>
+    <segment id="75">porém limitado devido às características do ensino superior brasileiro.</segment>
+    <segment id="76">O ProUni</segment>
+    <segment id="77">, que troca bolsas por isenção fiscal em instituições privadas</segment>
+    <segment id="78">, bancou 6</segment>
+    <segment id="79">,6% das matrículas de nível superior no país em 2019.</segment>
+    <segment id="80">Parte dessas vagas é reservada a pretos</segment>
+    <segment id="81">, pardos e indígenas</segment>
+    <segment id="82">, na proporção da presença desses grupos no estado do curso pleiteado.</segment>
+    <segment id="83">No caso</segment>
+    <segment id="84">caso das instituições de ensino superior públicas</segment>
+    <segment id="85">, que detêm 24</segment>
+    <segment id="86">,2% das matrículas</segment>
+    <segment id="87">, a reserva de vagas varia de acordo com a dependência administrativa.</segment>
+    <segment id="88">Índice Folha de Equilíbrio RacialFerramenta inédita permite medir diferenças de oportunidade entre brancos e negros pelo paísConsulte o IferRegiões ricas falham mais em dar oportunidade igual a negros e brancos</segment>
+    <segment id="89">, revela índiceÍndice indica que</segment>
+    <segment id="90">, sem políticas públicas</segment>
+    <segment id="91">, exclusão racial persistirá por décadas no Brasil</segment>
+    <segment id="92">Em município de Goiás</segment>
+    <segment id="93">, diretoria de igualdade racial faz a diferençaBrasil pode atingir equilíbrio racial no ensino superior na próxima décadaMaioria dos estados tem medidas recentes contra desigualdade racialPauta da exclusão racial perde espaço na gestão federal</segment>
+    <segment id="94">, dizem especialistasPunição a anúncio racista gera divergência na Promotoria de MGExclusão racial no topo da pirâmide de renda do Brasil deve</segment>
+    <segment id="95">aumentarCrise econômica faz disparar a desigualdade entre brancos e negros no NEMenor isolamento de negros em periferias facilita queda da disparidade no COExpediente - Quem realizou o projetoPara as federais</segment>
+    <segment id="96">, a Lei de Cotas</segment>
+    <segment id="97">, de 2012</segment>
+    <segment id="98">, estabelece que será destinado a pretos</segment>
+    <segment id="99">, pardos e indígenas (PPI) o número de vagas correspondente à participação desses grupos na UF</segment>
+    <segment id="100">, calculada sobre metade das vagas reservadas a egressos de escola pública.</segment>
+    <segment id="101">Um dispositivo dessa legislação prevê que ela seja revista em 2022.</segment>
+    <segment id="102">Estudo da economista Ursula Mello</segment>
+    <segment id="103">, pesquisadora do Institute for Economic Analysis</segment>
+    <segment id="104">, de Barcelona</segment>
+    <segment id="105">, mostra que</segment>
+    <segment id="106">, de 2012 a 2015</segment>
+    <segment id="107">, a porcentagem de estudantes PPI de escolas públicas nas universidades federais aumentou de 29% para 36%.</segment>
+    <segment id="108">Usando um modelo estatístico que isola outros fatores</segment>
+    <segment id="109">, ela chegou à conclusão de que 57% desse aumento</segment>
+    <segment id="110">sese devem à Lei de Cotas.</segment>
+    <segment id="111">A pesquisadora também constatou que as cotas com o critério racial são praticamente duas vezes mais efetivas para aumentar as matrículas de estudantes PPI de escola pública</segment>
+    <segment id="112">, quando comparadas às cotas sem essa regra.</segment>
+    <segment id="113">A Lei de Cotas</segment>
+    <segment id="114">sese aplica somente às universidades federais</segment>
+    <segment id="115">, masmas uma série de instituições estaduais adotaram sistemas parecidos de reserva de vagas antes mesmo de 2012.</segment>
+    <segment id="116">Uma das que o fez mais tardiamente foi a USP (Universidade de São Paulo)</segment>
+    <segment id="117">, que neste ano alcançou</segment>
+    <segment id="118">, pela primeira vez</segment>
+    <segment id="119">, a marca de mais de metade dos ingressantes oriundos de escola pública</segment>
+    <segment id="120">, com 27</segment>
+    <segment id="121">,4% de PPI.</segment>
+    <segment id="122">A nova cara da USP em 2019</segment>
+    <segment id="123">, após as cotas   novamente         de   de  de  representando um  Moradora de Cidade Tiradentes</segment>
+    <segment id="124">, na zona leste de São Paulo</segment>
+    <segment id="125">, Bruna Jesus Santos</segment>
+    <segment id="126">, 17, quer cursar direito ou alguma graduação de ciências humanas</segment>
+    <segment id="127">, masmas ainda não decidiu</segment>
+    <segment id="128">sese irá prestar vestibular para a mais prestigiada universidade do país.</segment>
+    <segment id="129">Filha de pedreiro e diarista</segment>
+    <segment id="130">, ela veio do interior da Bahia para São Paulo só para estudar</segment>
+    <segment id="131">, masmas em alguns momentos ainda sente pouca confiança em si.</segment>
+    <segment id="132">Já foi pior.</segment>
+    <segment id="133">Algo que a tem ajudado foi reencontrar sua identidade</segment>
+    <segment id="134">, diz.</segment>
+    <segment id="135">“Eu tentava me parecer com uma pessoa branca.</segment>
+    <segment id="136">Alisava o meu cabelo</segment>
+    <segment id="137">, não passava batom para esconder minha boca</segment>
+    <segment id="138">, tentava deixar minha pele mais clara”</segment>
+    <segment id="139">, relata.</segment>
+    <segment id="140">O que mudou essa chave foi o convívio com um professor e o mundo que ele lhe abriu ao apresentar os movimentos de slam —torneios de poemas falados— e um curso de formação</segment>
+    <segment id="141">, o Engaja</segment>
+    <segment id="142">, realizado pelo Unicef (braço da ONU para a infância) em parceria com o Cieds (Centro Integrado de Estudos e Programas de Desenvolvimento) e a multinacional Saint-Gobain.</segment>
+    <segment id="143">“</segment>
+    <segment id="144">Vi meninas negras</segment>
+    <segment id="145">sese amando e pensei: por que eu também não posso?</segment>
+    <segment id="146">”,</segment>
+    <segment id="147">conta ela</segment>
+    <segment id="148">, que, para ajudar os tios com as contas</segment>
+    <segment id="149">, passou a trabalhar</segment>
+    <segment id="150">comocomo trancista de mulheres com cabelos</segment>
+    <segment id="151">comocomo os dela.</segment>
+    <segment id="152">“Identidade é uma coisa muito importante para a gente parar de</segment>
+    <segment id="153">sese odiar”</segment>
+    <segment id="154">, diz.</segment>
+    <segment id="155">O caso</segment>
+    <segment id="156">caso de Bruna ilustra o poder do exemplo para a autoestima dos jovens e o avanço rumo ao equilíbrio racial.</segment>
+    <segment id="157">Segundo especialistas</segment>
+    <segment id="158">, as cotas raciais atuam nesse sentido ao transformar esses alunos em modelos para as futuras gerações de jovens negros e de baixa renda.</segment>
+    <segment id="159">Em sua tese de doutorado concluído na Universidade de Wisconsin-Madison</segment>
+    <segment id="160">, a economista Ana Paula Melo constatou que 84% dos alunos que só ingressaram na Ufes (Universidade Federal do Espírito Santo)</segment>
+    <segment id="161">, em 2008</segment>
+    <segment id="162">, graças às cotas</segment>
+    <segment id="163">, eram os primeiros integrantes de suas famílias a cursar ensino superior.</segment>
+    <segment id="164">O exemplo é também apontado</segment>
+    <segment id="165">comocomo o grande legado das ações afirmativas por Silvio Gomes</segment>
+    <segment id="166">, 37, aluno de engenharia elétrica da UFSC (Universidade Federal de Santa Catarina).</segment>
+    <segment id="167">Em algumas de suas aulas</segment>
+    <segment id="168">, ele chega a ser o único pardo em uma sala de 40 alunos.</segment>
+    <segment id="169">“Ainda temos muito poucos engenheiros e programadores negros.</segment>
+    <segment id="170">Quando um preto tem oportunidade</segment>
+    <segment id="171">, isso muda a visão das outras pessoas sobre o que todos podemos fazer e ser na vida.</segment>
+    <segment id="172">”</segment>
+    <segment id="173">Opinião semelhante tem José Vicente</segment>
+    <segment id="174">, da Faculdade Zumbi dos Palmares.</segment>
+    <segment id="175">“Acaba a desculpa das empresas de que não contratam negro</segment>
+    <segment id="176">porque</segment>
+    <segment id="177">porque não tem negro qualificado.</segment>
+    <segment id="178">”</segment>
+    <segment id="179">Marcia Lima</segment>
+    <segment id="180">, professora do departamento de sociologia da USP e coordenadora do Afro-Cebrap</segment>
+    <segment id="181">, lembra que o sistema privado também tem papel importante na inclusão</segment>
+    <segment id="182">, uma vez que responde por três em cada quatro matrículas no país —e é justamente aí que há risco de retrocesso.</segment>
+    <segment id="183">Desde 2016</segment>
+    <segment id="184">, as matrículas em cursos presenciais particulares estão em queda</segment>
+    <segment id="185">, tanto por causa da crise econômica</segment>
+    <segment id="186">comocomo por causa do encolhimento do Fies</segment>
+    <segment id="187">, e a projeção do Semesp</segment>
+    <segment id="188">, o sindicato das mantenedoras</segment>
+    <segment id="189">, é que tenham despencado em 2020 na pandemia de coronavírus.</segment>
+    <segment id="190">Análise do Semesp sobre microdados do Enem e do Censo da Educação Superior apontou uma diferença de 1</segment>
+    <segment id="191">,7 milhão de alunos entre os que compareceram a todos os dias da prova em 2018 e os que ingressaram em cursos presenciais no ano seguinte</segment>
+    <segment id="192">, ou seja</segment>
+    <segment id="193">, interessados no diploma que ficaram sem lugar na sala de aula.</segment>
+    <segment id="194">Desses</segment>
+    <segment id="195">, 77% são negros.  E</segment>
+    <segment id="196">, no sistema público</segment>
+    <segment id="197">, a participação de pretos e pardos</segment>
+    <segment id="198">, que tinha ultrapassado a de brancos em 2018</segment>
+    <segment id="199">, voltou a</segment>
+    <segment id="200">sese igualar em 2019</segment>
+    <segment id="201">, mostram dados da Pnad Contínua (Pesquisa Nacional por Amostra de Domicílios</segment>
+    <segment id="202">, do IBGE)</segment>
+    <segment id="203">, analisados pela economista Ana Luiza Matos de Oliveira</segment>
+    <segment id="204">, professora da Flacso Brasil (Faculdade Latino-Americana de Ciências Sociais).  Para ela</segment>
+    <segment id="205">, é uma consequência da crise econômica</segment>
+    <segment id="206">, que atinge com mais força as famílias negras</segment>
+    <segment id="207">, e do enxugamento da verba de assistência estudantil.</segment>
+    <segment id="208">“Pode ser um sinal de esgotamento das políticas públicas de acesso”</segment>
+    <segment id="209">, diz.</segment>
+    <segment id="210">Negra e reitora da universidade federal do estado mais próximo do equilíbrio educacional no Ifer</segment>
+    <segment id="211">, Marcele Pereira ilustra os avanços e desafios da inclusão.</segment>
+    <segment id="212">À frente da Universidade Federal de Rondônia (Unir)</segment>
+    <segment id="213">, ela se</segment>
+    <segment id="214">se vê no papel de uma referência importante para a juventude negra.</segment>
+    <segment id="215">Mas conta que não é com frequência que encontra pessoas com a sua cor de pele em espaços de elite.</segment>
+    <segment id="216">“Vejo ainda muito em posições subalternas.</segment>
+    <segment id="217">Terminar uma graduação não significa encontrar espaço no mercado de trabalho”</segment>
+    <segment id="218">, afirma.</segment>
+    <segment id="219">Para ela</segment>
+    <segment id="220">, é preciso ainda avançar muito.</segment>
+    <segment id="221">“</segment>
+    <segment id="222">O debate sobre a diversidade na pós graduação e entre os professores precisa ser encarado pela sociedade brasileira.</segment>
+    <segment id="223">”</segment>
+  </rst>
+</analysis>

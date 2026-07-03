@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Inscrição do Sisu só rola até amanhã</segment>
+    <segment id="2">Sistema oferece este ano 30.548 vagas em 56 universidades públicas</segment>
+    <segment id="3">Até as 18h de ontem</segment>
+    <segment id="4">, 484 mil estudantes já estavam inscritos para o Sistema de Seleção Unificada (Sisu) para o segundo semestre de 2012.</segment>
+    <segment id="5">As inscrições seguem até amanhã</segment>
+    <segment id="6">, somente pela internet (www.sisu.mec.gov.br)</segment>
+    <segment id="7">O sistema foi criado pelo Ministério da Educação em 2009 para unificar a oferta de vagas em instituições públicas de ensino superior por meio do Enem.</segment>
+    <segment id="8">Cada estudante pode escolher até dois cursos.</segment>
+    <segment id="9">Nesta edição são oferecidas 30.548 vagas em 56 universidades públicas e institutos federais.</segment>
+    <segment id="10">Na Bahia</segment>
+    <segment id="11">, há 1.435 vagas.</segment>
+    <segment id="12">Podem participar  alunos que fizeram o Enem de 2011.</segment>
+    <segment id="13">Ao acessar o sistema</segment>
+    <segment id="14">, o candidato pode escolher duas opções de curso</segment>
+    <segment id="15">, indicando a prioridade.</segment>
+    <segment id="16">O aluno pode  pode visualizar a nota de corte preliminar de cada curso.</segment>
+    <segment id="17">Lista de aprovados sai segunda-feira</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O tráfego de veículos na rodovia Mogi-Bertioga (SP-98) foi totalmente liberado no início da tarde desta sexta-feira (23)</segment>
+    <segment id="2">, informou o DER (Departamento de Estradas de Rodagem).</segment>
+    <segment id="3">Um trecho da estrada —do km 69 ao 98— foi bloqueado na noite de quarta (21) devido à queda de uma barreira no km 87</segment>
+    <segment id="4">, em Bertioga (litoral de SP).</segment>
+    <segment id="5">Ninguém</segment>
+    <segment id="6">sese feriu.</segment>
+    <segment id="7">Equipes do DER realizam remoção de pedras na Mogi-Bertioga após deslizamento de barreira - Secretaria de Transportes SP</segment>
+    <segment id="8">O deslizamento levou à pista blocos de pedra</segment>
+    <segment id="9">, lama e muita vegetação.</segment>
+    <segment id="10">Os trabalhos de remoção do entulho terminaram na madrugada desta sexta.</segment>
+    <segment id="11">O DER também informou que a via só foi liberada após a constatação de que o terreno onde ocorreu o deslizamento encontra-</segment>
+    <segment id="12">sese estabilizado.</segment>
+    <segment id="13">O departamento também diz que vai continuar monitorando o trecho e contará com o apoio da polícia rodoviária e da Defesa Civil.</segment>
+    <segment id="14">Em fevereiro</segment>
+    <segment id="15">, a rodovia ficou interditada durante nove dias devido a múltiplos deslizamentos de pedras e terra provocados por um intenso temporal.</segment>
+    <segment id="16">A Mogi-Bertioga possui 44 quilômetros de extensão e</segment>
+    <segment id="17">, por hora</segment>
+    <segment id="18">, recebe 300 veículos em média</segment>
+    <segment id="19">, segundo dados do DER.</segment>
+    <segment id="20">Equipes do DER realizam remoção na Mogi-Bertioga após deslizamento de barreira - Secretaria de Transportes SP</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,33 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Após deputados bolsonaristas derrubarem a concessão da Medalha Tiradentes da Assembleia Legislativa do Rio de Janeiro ao Grupo Arco-Íris</segment>
+    <segment id="2">, que organiza as paradas</segment>
+    <segment id="3">LGBTQIA+ no estado</segment>
+    <segment id="4">, o deputado Carlos Minc (PSB) promoveu uma cerimônia alternativa na Casa nesta quinta (16).</segment>
+    <segment id="5">Homenagem ao Grupo Arco-Íris na Alerj - Reprodução Grupo Arco-Íris no InstagramO Grupo Arco-Íris recebeu um troféu e apresentou seu novo coral.</segment>
+    <segment id="6">Também houve apresentações de sete drag queens em pleno plenário.</segment>
+    <segment id="7">A parada LGBTQIA+ no Rio será no próximo domingo (19).</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,145 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Caixa Econômica Federal retomou nesta sexta-feira (31) o empréstimo consignado do INSS (Instituto Nacional do Seguro Social).</segment>
+    <segment id="2">O banco aguardava a publicação com orientações sobre a aplicação do novo limite da taxa de juros para 1</segment>
+    <segment id="3">,97% no Diário Oficial da União</segment>
+    <segment id="4">, o que ocorreu nesta sexta.</segment>
+    <segment id="5">Na quinta</segment>
+    <segment id="6">, Ministério da Previdência e INSS já haviam oficializado o novo limite.</segment>
+    <segment id="7">A estatal irá operar com juros de 1</segment>
+    <segment id="8">,87% ao mês</segment>
+    <segment id="9">, sendo o único entre 12 bancos procurados pela Folha a oferecer crédito abaixo do limite aprovado em reunião do CNPS (Conselho Nacional de Previdência Social) na última terça-feira (28).</segment>
+    <segment id="10">Limite da taxa de juros do consignado do INSS subiu para 1</segment>
+    <segment id="11">,97%, e Caixa é única entre 12 bancos a oferecer abaixo do teto: 1</segment>
+    <segment id="12">,87% - Pedro Ladeira - 02.set.2020 /FolhapressA Caixa</segment>
+    <segment id="13">, assim</segment>
+    <segment id="14">comocomo outros bancos</segment>
+    <segment id="15">, havia anunciado a suspensão do consignado no último 16 de março</segment>
+    <segment id="16">, após o CNPS reduzir a taxa de 2</segment>
+    <segment id="17">,14% para 1</segment>
+    <segment id="18">,70%.</segment>
+    <segment id="19">Após muitas discussões</segment>
+    <segment id="20">, o CNPS aprovou a elevação do limite para 1</segment>
+    <segment id="21">,97%.</segment>
+    <segment id="22">A decisão foi aprovada por 11 integrantes</segment>
+    <segment id="23">, teve três abstenções (todos de entidades ligadas aos bancos) e um voto contrário (do Sindicato Nacional dos Aposentados</segment>
+    <segment id="24">, Pensionistas e Idosos).</segment>
+    <segment id="25">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="26">; aberta para não assinantes.</segment>
+    <segment id="27">Carregando...</segment>
+    <segment id="28">Procurados pela Folha</segment>
+    <segment id="29">, Banco do Brasil</segment>
+    <segment id="30">, Bradesco</segment>
+    <segment id="31">, Itaú</segment>
+    <segment id="32">, Santander</segment>
+    <segment id="33">, C6, Mercantil</segment>
+    <segment id="34">, PagBank</segment>
+    <segment id="35">, Daycoval e Pan divulgaram que retomaram o consignado do INSS.</segment>
+    <segment id="36">O Banrisul não suspendeu o serviço e continua oferecendo o consignado.</segment>
+    <segment id="37">Já o BMG disse que não irá divulgar</segment>
+    <segment id="38">sese retomou o empréstimo.</segment>
+    <segment id="39">Além da Caixa</segment>
+    <segment id="40">, apenas Itaú</segment>
+    <segment id="41">, Bradesco</segment>
+    <segment id="42">, C6 e Mercantil divulgaram as taxas de juros que estão operando</segment>
+    <segment id="43">, masmas todos estão a 1</segment>
+    <segment id="44">,97%.</segment>
+    <segment id="45">No cartão de crédito e de benefícios</segment>
+    <segment id="46">, os bancos divulgaram que a taxa de juros é de 2</segment>
+    <segment id="47">,89% ao mês</segment>
+    <segment id="48">, seguindo o limite estipulado pelo CNPS.</segment>
+    <segment id="49">Banco Consignado do INSS (% ao mês)</segment>
+    <segment id="50">Cartão de crédito e benefícios (% ao mês)</segment>
+    <segment id="51">Caixa 1</segment>
+    <segment id="52">,87 2,89</segment>
+    <segment id="53">Banco do Brasil Não divulgou Não divulgou</segment>
+    <segment id="54">Bradesco 1</segment>
+    <segment id="55">,97 Não divulgou   Itaú 1</segment>
+    <segment id="56">,97 Não divulgou</segment>
+    <segment id="57">Pan Não divulgou Não divulgou   C6 1</segment>
+    <segment id="58">,97 Não trabalha com cartão</segment>
+    <segment id="59">Mercantil 1</segment>
+    <segment id="60">,97 2,89   PagBank</segment>
+    <segment id="61">Não divulgou Não divulgou</segment>
+    <segment id="62">Santander</segment>
+    <segment id="63">Não divulgou Não divulgou</segment>
+    <segment id="64">Daycoval</segment>
+    <segment id="65">Não divulgou Não divulgou</segment>
+    <segment id="66">Banrisul</segment>
+    <segment id="67">Não divulgou Não divulgou   BMG Não informou</segment>
+    <segment id="68">sese retomou Não informou</segment>
+    <segment id="69">sese retomou     Se um aposentado que recebe um salário mínimo do INSS (hoje</segment>
+    <segment id="70">, R$ 1.302) pegar R$ 1.000 emprestados em consignado por 1</segment>
+    <segment id="71">,97% ao mês</segment>
+    <segment id="72">, por exemplo</segment>
+    <segment id="73">, vai pagar 84 parcelas de R$ 24</segment>
+    <segment id="74">,45.</segment>
+    <segment id="75">Pela taxa anterior</segment>
+    <segment id="76">, de 1</segment>
+    <segment id="77">,70%, cada prestação neste exemplo seria de R$ 22</segment>
+    <segment id="78">,45.</segment>
+    <segment id="79">Os cálculos foram feitos pela Anefac (Associação Nacional de Executivos)</segment>
+    <segment id="80">, a pedido da Folha.</segment>
+    <segment id="81">Suspensão durou duas semanas</segment>
+    <segment id="82">O imbróglio começou depois da redução do teto dos juros do empréstimo consignado do INSS de 2</segment>
+    <segment id="83">,14% para 1</segment>
+    <segment id="84">,70%, ao mês em decisão aprovada pelo conselho no dia 13 de março.</segment>
+    <segment id="85">Como mostrou a Folha</segment>
+    <segment id="86">, a mudança de juros para 1</segment>
+    <segment id="87">,70% ao mês decorreu de um ruído entre Lupi e o Palácio do Planalto.</segment>
+    <segment id="88">De acordo com relatos de integrantes do governo</segment>
+    <segment id="89">, a medida chegou a ser apresentada a Lula em reunião no dia 8 de março e o mandatário deu aval</segment>
+    <segment id="90">para que</segment>
+    <segment id="91">para que a proposta começasse a tramitar internamente e ouvisse ministérios envolvidos</segment>
+    <segment id="92">, em especial a Fazenda.  Lupi</segment>
+    <segment id="93">, por sua vez</segment>
+    <segment id="94">, entendeu —segundo interlocutores— que poderia manter a análise do tema na reunião do CNPS do dia 13.</segment>
+    <segment id="95">Segundo estimativas feitas pelo setor financeiro</segment>
+    <segment id="96">, ao oferecer empréstimos consignados para aposentados e pensionistas com taxa de juros de 1</segment>
+    <segment id="97">,70% ao mês</segment>
+    <segment id="98">, os bancos teriam uma rentabilidade negativa de 0</segment>
+    <segment id="99">,23% nas operações.</segment>
+    <segment id="100">Isso significa que as instituições teriam prejuízo com a modalidade</segment>
+    <segment id="101">, o que não é permitido por uma resolução do CMN (Conselho Monetário Nacional).</segment>
+    <segment id="102">Leia tambémNovo teto de juro do consignado do INSS divide sindicalistasOpinião:</segment>
+    <segment id="103">Um problema muito além dos juros no crédito consignadoA taxa de 1</segment>
+    <segment id="104">,97% ao mês</segment>
+    <segment id="105">foi proposta pelo governo em reunião entre o presidente Luiz Inácio Lula da Silva (PT) e os ministros Carlos Lupi (Previdência)</segment>
+    <segment id="106">, Fernando Haddad (Fazenda)</segment>
+    <segment id="107">, Luiz Marinho (Trabalho)</segment>
+    <segment id="108">, e a secretária-executiva da Casa Civil</segment>
+    <segment id="109">, Miriam Belchior –que representou o ministro Rui Costa</segment>
+    <segment id="110">, afastado com uma forte gripe.</segment>
+    <segment id="111">De acordo com Haddad</segment>
+    <segment id="112">, o ministro da Previdência saiu da discussão arbitrada por Lula com orientações do chefe do Executivo para levar o posicionamento do governo para o CNPS.</segment>
+    <segment id="113">"</segment>
+    <segment id="114">Levamos tabelas</segment>
+    <segment id="115">, levamos uma longa explicação sobre o que aconteceu com o crédito consignado desde a última decisão</segment>
+    <segment id="116">, penso que o ministro [Carlos Lupi] está bem municiado de argumentos para recalibrar a taxa e permitir tanto para o aposentado o acesso a crédito e a garantia de que é um crédito mais barato do que o que vem sendo praticado até agora"</segment>
+    <segment id="117">, disse.</segment>
+    <segment id="118">Veja o passo a passo para consultar valor disponível para consignado do INSSMais    novamente         de   de  de  representando</segment>
+    <segment id="119">um</segment>
+  </rst>
+</analysis>

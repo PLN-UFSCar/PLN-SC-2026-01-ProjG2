@@ -1,0 +1,49 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Após revelar o potencial do vírus da zika de combater tumores no cérebro</segment>
+    <segment id="2">, um grupo da Unicamp (Universidade Estadual de Campinas) liderado pelo professor Rodrigo Ramos Catharino mostrou que o patógeno também pode ser uma arma contra o câncer de próstata.</segment>
+    <segment id="3">Por meio de experimentos feitos com células de adenocarcinoma de próstata humano (PC-3)</segment>
+    <segment id="4">, os cientistas observaram que o zika foi capaz de inibir a proliferação das células tumorais.</segment>
+    <segment id="5">Os resultados da pesquisa</segment>
+    <segment id="6">, apoiada pela Fapesp</segment>
+    <segment id="7">, foram publicados na revista especializada Scientific Reports.</segment>
+    <segment id="8">O próximo passo da investigação envolverá testes em animais.</segment>
+    <segment id="9">O Aedes aegypti</segment>
+    <segment id="10">, que pode tansmitir dengue e zika - Apu Gomes/AFPA linha de pesquisa coordenada por Catharino teve início em 2015</segment>
+    <segment id="11">, quando foi descoberta a relação entre a epidemia de zika e os casos de microcefalia no Nordeste.</segment>
+    <segment id="12">Depois que estudos confirmaram a capacidade do patógeno de infectar e destruir as células progenitoras neurais —que nos fetos em desenvolvimento dão origem aos diversos tipos de células cerebrais— o pesquisador testou o vírus em linhagens de glioblastoma</segment>
+    <segment id="13">, o tipo mais comum e agressivo de câncer do sistema nervoso central em adultos.</segment>
+    <segment id="14">Os bons resultados observados in vitro pelo grupo da Unicamp foram confirmados em modelo animal por cientistas do Centro de Pesquisas do Genoma Humano e Células-Tronco (CEGH-CEL)</segment>
+    <segment id="15">, da USP.  "</segment>
+    <segment id="16">Como também já foi confirmada a transmissão sexual do zika e a preferência do vírus por infectar células reprodutivas</segment>
+    <segment id="17">, decidimos agora testar seu efeito contra o câncer de próstata"</segment>
+    <segment id="18">, diz Jeany Delafiori</segment>
+    <segment id="19">, estudante de doutorado sob a orientação de Catharino.</segment>
+    <segment id="20">No estudo</segment>
+    <segment id="21">, o vírus foi aquecido e inativado por alta temperatura para inibir seu potencial de causar infecção</segment>
+    <segment id="22">, e ainda assim teve efeito no câncer.</segment>
+    <segment id="23">Uma análise revelou 21 marcadores capazes de descrever de que modo o vírus afeta o metabolismo da célula tumoral e inibe sua proliferação.</segment>
+  </rst>
+</analysis>

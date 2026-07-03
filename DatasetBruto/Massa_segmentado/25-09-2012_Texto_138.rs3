@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Rubinho confirmado na Corrida do MilhÃ£o</segment>
+    <segment id="2">Rubinho receberÃ¡ uma grana para sua fundaÃ§Ã£o</segment>
+    <segment id="3">A Stock Car anunciou ontem que Rubens Barrichello farÃ¡ uma participaÃ§Ã£o especial na categoria</segment>
+    <segment id="4">, no fim do ano.</segment>
+    <segment id="5">O piloto vai disputar a Corrida do MilhÃ£o</segment>
+    <segment id="6">, que deverÃ¡ definir o campeÃ£o da temporada</segment>
+    <segment id="7">, no dia 9 de dezembro</segment>
+    <segment id="8">, no circuito de Interlagos</segment>
+    <segment id="9">, em SÃ£o Paulo.</segment>
+    <segment id="10">Rubinho</segment>
+    <segment id="11">, que nunca disputou uma corrida oficial na categoria</segment>
+    <segment id="12">, vai pilotar o carro de Felipe Maluhy.</segment>
+    <segment id="13">"</segment>
+    <segment id="14">Nunca escondi minha paixÃ£o pela Stock Carâ€</segment>
+    <segment id="15">, declarou o atual piloto da FÃ³rmula Indy.</segment>
+    <segment id="16">Ele farÃ¡ seu primeiro teste na pista em Curitiba</segment>
+    <segment id="17">, no dia 15 de outubro</segment>
+    <segment id="18">, Ã s vÃ©speras da 10.Âª etapa do campeonato.</segment>
+  </rst>
+</analysis>

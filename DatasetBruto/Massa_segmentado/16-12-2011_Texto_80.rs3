@@ -1,0 +1,67 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Shoppings ficam lotados a uma semana do dia de Natal
+RIO - O tempo nublado ajudou a encher os shoppings no último fim de semana anterior ao Natal.</segment>
+    <segment id="2">A expectativa dos lojistas é que</segment>
+    <segment id="3">, a partir de amanhã</segment>
+    <segment id="4">, com o aumento do horário de funcionamento das lojas</segment>
+    <segment id="5">, sese confirme o crescimento nas vendas de 10% a 15% este ano com relação ao ano passado.</segment>
+    <segment id="6">No Shopping Nova América</segment>
+    <segment id="7">, de janeiro a primeira quinzena de dezembro</segment>
+    <segment id="8">, os números já expressam um crescimento de 10% nas vendas em relação ao ano passado:
+
+- Estamos otimistas com as vendas e estima-</segment>
+    <segment id="9">sese um crescimento de 18% em relação ao Natal do ano passado - afirma Carlos Martins</segment>
+    <segment id="10">, superintendente do Nova América</segment>
+    <segment id="11">, acrescentando que o número de pessoas circulando pelo shopping deve crescer 15%.</segment>
+    <segment id="12">Na Mercatto</segment>
+    <segment id="13">, a aposta foi nos vestidos a partir de R$ 49</segment>
+    <segment id="14">,90 e nos kits de duas ribanas mais nécessaire por R$ 29</segment>
+    <segment id="15">,90:
+
+- Esperamos um crescimento nas vendas de 10%.</segment>
+    <segment id="16">Esta semana o movimento deve aumentar.</segment>
+    <segment id="17">Estou otimista - afirmou Cíntia Amaral</segment>
+    <segment id="18">, supervisora comercial da Mercatto.</segment>
+    <segment id="19">João Luis Resende</segment>
+    <segment id="20">, gerente da Taco</segment>
+    <segment id="21">, aposta nas bermudas a R$ 79 para fechar o mês com um aumento de vendas de 10%.</segment>
+    <segment id="22">Segundo ele</segment>
+    <segment id="23">, o tíquete médio de compras na loja é de R$ 90.</segment>
+    <segment id="24">O movimento de consumidores no Botafogo Praia Shopping nesta semana foi 23% maior que a semana anterior</segment>
+    <segment id="25">, segundo Daniela Paladini</segment>
+    <segment id="26">, superintendente do shopping:
+
+-</segment>
+    <segment id="27">As pessoas deixam as compras para a última hora e</segment>
+    <segment id="28">, com a menor taxa de desemprego e a economia estável</segment>
+    <segment id="29">, a expectativa é crescer 18% nas vendas.</segment>
+    <segment id="30">Na Zona Oeste do Rio</segment>
+    <segment id="31">, o Bangu Shopping espera um aumento de 23% nas vendas em relação a dezembro passado.</segment>
+    <segment id="32">E o shopping Grande Rio</segment>
+    <segment id="33">, na Baixada Fluminense</segment>
+    <segment id="34">, espera ampliar as vendas em 12%.</segment>
+  </rst>
+</analysis>

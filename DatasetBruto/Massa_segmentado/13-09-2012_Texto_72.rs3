@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Mari ParaÃ­ba deve virar uma artista</segment>
+    <segment id="2">Ela jÃ¡ posou nua na revista "Playboy"
+Dona de um corpo escultural</segment>
+    <segment id="3">, a bela jogadora de vÃ´lei</segment>
+    <segment id="4">, Mari ParaÃ­ba</segment>
+    <segment id="5">, oficializou ontem seu adeus Ã s quadras e pode encarar  uma carreira artÃ­stica.</segment>
+    <segment id="6">Ela jÃ¡ posou nua na revista "Playboy".</segment>
+    <segment id="7">Foi quando viu que o vÃ´lei nÃ£o era o que queria fazer.</segment>
+    <segment id="8">NÃ£o renovou o contrato com o Minas.</segment>
+    <segment id="9">â€œEu pensava:</segment>
+    <segment id="10">â€˜Gente</segment>
+    <segment id="11">, o que Ã© que eu estou fazendo aqui?â€™.</segment>
+    <segment id="12">Eu nÃ£o estou sentindo a falta que qualquer atleta sentiria.</segment>
+    <segment id="13">EntÃ£o</segment>
+    <segment id="14">, eu acho que nÃ£o Ã© o que eu quero realmente.</segment>
+    <segment id="15">EntÃ£o</segment>
+    <segment id="16">, foi quando eu resolvi parar.  [A TV]</segment>
+    <segment id="17">Ã© um mundo que um dia quero fazer parte</segment>
+    <segment id="18">, quem sabe?â€</segment>
+    <segment id="19">,  disse a ex-jogadora.</segment>
+  </rst>
+</analysis>

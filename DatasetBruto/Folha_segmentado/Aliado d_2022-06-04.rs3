@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O diretor de Operações e Abastecimento da Companhia Nacional de Abastecimento (Conab)</segment>
+    <segment id="2">, José Trabulo Júnior</segment>
+    <segment id="3">, vai se</segment>
+    <segment id="4">se afastar do cargo nos próximos dias para</segment>
+    <segment id="5">sese dedicar à campanha de reeleição do presidente Jair Bolsonaro (PL).</segment>
+    <segment id="6">Trabulo Júnior é aliado do ministro da Casa Civil</segment>
+    <segment id="7">, Ciro Nogueira (PP)</segment>
+    <segment id="8">, e já coordenou as campanhas do piauiense.</segment>
+    <segment id="9">No comitê de Bolsonaro</segment>
+    <segment id="10">, irá comandar a parte operacional e de infraestrutura.</segment>
+    <segment id="11">O presidente Jair Bolsonaro (PL) ao lado de Ciro Nogueira</segment>
+    <segment id="12">, ministro da Casa Civil.</segment>
+    <segment id="13">(FOTO: Antonio Molina/Folhapress) - FolhapressO diretor da Conab é formado em Marketing Empresarial</segment>
+    <segment id="14">, de acordo com o seu currículo disponível na página da companhia.</segment>
+    <segment id="15">Vai reforçar o time já composto pelo marqueteiro Duda Lima e pelo advogado Tarcísio Vieira</segment>
+    <segment id="16">, ambos contratados pelo presidente do PL</segment>
+    <segment id="17">, Valdemar Costa Neto.</segment>
+    <segment id="18">Ciro Nogueira faz parte da coordenação da campanha à reeleição do presidente.</segment>
+    <segment id="19">Divide a tarefa com Valdemar e com o senador Flávio Bolsonaro (PL-RJ).</segment>
+  </rst>
+</analysis>

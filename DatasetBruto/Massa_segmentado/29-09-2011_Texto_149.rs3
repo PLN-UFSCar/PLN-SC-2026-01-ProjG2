@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Mônica Said
+Ela deixa todos de boca aberta</segment>
+    <segment id="2">A gata de Amaralina Mônica Said é fã de pagode e não perde uma boa quebradeira.</segment>
+    <segment id="3">Mas quando a responsabiliade chama</segment>
+    <segment id="4">, é em um consultório dentário que ela deixa qualquer um de boca aberta.</segment>
+    <segment id="5">Interessou?</segment>
+    <segment id="6">Pode tirar o cavalinho da chuva</segment>
+    <segment id="7">, pois</segment>
+    <segment id="8">pois a moça só tem olhos para o namorado e para o filhote Bruno</segment>
+    <segment id="9">, de 12 anos.</segment>
+    <segment id="10">Caso ganhe o concurso do jornal MASSA!</segment>
+    <segment id="11">, a gata quer investir o dinheiro nos estudos do pequeno.</segment>
+    <segment id="12">De olho no futuro!</segment>
+  </rst>
+</analysis>

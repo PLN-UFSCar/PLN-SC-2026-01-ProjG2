@@ -1,0 +1,250 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Brasil vive uma certa calmaria quando o assunto é sarampo.</segment>
+    <segment id="2">Segundo o Ministério da Saúde</segment>
+    <segment id="3">, não foram registrados novos casos da doença desde 2022</segment>
+    <segment id="4">, e a cobertura vacinal subiu mais de 10% nos últimos dois anos.</segment>
+    <segment id="5">Em outras partes do mundo —</segment>
+    <segment id="6">comocomo a Europa e alguns lugares dos Estados Unidos— a situação é oposta: há uma crescente onda de casos e até de mesmo mortes.</segment>
+    <segment id="7">Houve um aumento de 45 vezes no número de infecções pelo vírus nos países europeus.</segment>
+    <segment id="8">A situação epidêmica fez a Agência de Segurança de Saúde do Reino Unido classificar o sarampo</segment>
+    <segment id="9">comocomo um "incidente nacional".</segment>
+    <segment id="10">Mas o que explica essa diferença?</segment>
+    <segment id="11">E o que o Brasil precisa fazer (ou continuar fazendo) para evitar que a situação do sarampo também piore no país?</segment>
+    <segment id="12">O sarampo é causado por um vírus e provoca uma série de sintomas</segment>
+    <segment id="13">, como</segment>
+    <segment id="14">como manchas na pele   - Getty ImagesO que acontece na Europa</segment>
+    <segment id="15">Em dezembro do ano passado</segment>
+    <segment id="16">, o escritório da Organização Mundial da Saúde (OMS) na Europa classificou o aumento de casos de sarampo no continente</segment>
+    <segment id="17">comocomo "alarmante".</segment>
+    <segment id="18">Em 2023</segment>
+    <segment id="19">, essa região registrou 42</segment>
+    <segment id="20">,2 mil novas infecções por este vírus.</segment>
+    <segment id="21">No ano anterior</segment>
+    <segment id="22">, haviam sido menos de mil casos.</segment>
+    <segment id="23">A OMS aponta que a taxa de novos pacientes acelerou recentemente —e deve continuar a subir</segment>
+    <segment id="24">sese "medidas urgentes não forem tomadas para prevenir o espalhamento futuro".</segment>
+    <segment id="25">Como citado no início da reportagem</segment>
+    <segment id="26">, a Agência de Segurança em Saúde do Reino Unido classificou a emergência do sarampo</segment>
+    <segment id="27">comocomo um "incidente nacional".</segment>
+    <segment id="28">Um artigo publicado pelo periódico acadêmico Nature relaciona este cenário à queda nas taxas de vacinação nos países europeus.</segment>
+    <segment id="29">"</segment>
+    <segment id="30">Cerca de 85% das crianças britânicas com menos de cinco anos receberam as duas doses da vacina tríplice viral"</segment>
+    <segment id="31">, aponta o texto.</segment>
+    <segment id="32">As autoridades calculam ser necessário vacinar pelo menos 95% da população para garantir a imunidade de rebanho</segment>
+    <segment id="33">, ou seja</segment>
+    <segment id="34">, um nível de proteção coletiva que impede surtos e epidemias.</segment>
+    <segment id="35">Entre os fatores para o baixo índice de vacinados</segment>
+    <segment id="36">, a Nature cita a pandemia de Covid-19 —que atrapalhou o calendário de imunização de muita gente— e a disseminação de notícias falsas sobre as doses que protegem contra sarampo e outras diversas doenças infecciosas.</segment>
+    <segment id="37">No dia 22 de janeiro</segment>
+    <segment id="38">, o serviço público de saúde do Reino Unido lançou uma campanha de vacinação para conter a crise.</segment>
+    <segment id="39">Além de pedir que pais e tutores levem as crianças para tomar as doses</segment>
+    <segment id="40">, profissionais de saúde vão entrar em contato com as famílias cujos filhos de 6 a 11 anos estão desprotegidos do sarampo.</segment>
+    <segment id="41">Os Estados Unidos também registraram casos da doença nas últimas semanas</segment>
+    <segment id="42">, embora</segment>
+    <segment id="43">embora os números sejam bem menores quando comparados à Europa.</segment>
+    <segment id="44">Entre 1º de dezembro e 31 de janeiro</segment>
+    <segment id="45">, foram 23 diagnósticos espalhados por Geórgia</segment>
+    <segment id="46">, Missouri</segment>
+    <segment id="47">, Nova Jersey e Pensilvânia.</segment>
+    <segment id="48">No mundo</segment>
+    <segment id="49">, os casos de sarampo cresceram 18% entre 2021 e 2022</segment>
+    <segment id="50">, diz a Nature.</segment>
+    <segment id="51">A OMS também alerta que as mortes pela doença subiram 43% nesse mesmo período.</segment>
+    <segment id="52">O vírus do sarampo é altamente contagioso: uma pessoa infectada pode transmitir o patógeno para outras 18   - Getty ImagesO que acontece no Brasil</segment>
+    <segment id="53">Em 2016</segment>
+    <segment id="54">, a Organização Pan-Americana de Saúde (Opas)</segment>
+    <segment id="55">, que representa a OMS no continente americano</segment>
+    <segment id="56">, deu ao Brasil um certificado de eliminação do sarampo.</segment>
+    <segment id="57">A notícia</segment>
+    <segment id="58">, muito comemorada à época</segment>
+    <segment id="59">, confirmava que o país estava livre do vírus</segment>
+    <segment id="60">, graças a décadas de campanhas de vacinação e aos programas de vigilância e detecção de casos.</segment>
+    <segment id="61">Mas, em 2019</segment>
+    <segment id="62">, o Brasil perdeu o certificado por um surto que</segment>
+    <segment id="63">sese espalhou por vários estados.</segment>
+    <segment id="64">Em 2016 e 2017</segment>
+    <segment id="65">, o Brasil não teve sequer um</segment>
+    <segment id="66">casocaso de sarampo.</segment>
+    <segment id="67">Já em 2018</segment>
+    <segment id="68">, foram mais de 9</segment>
+    <segment id="69">,3 mil infecções.</segment>
+    <segment id="70">No ano seguinte</segment>
+    <segment id="71">, o número subiu para 20</segment>
+    <segment id="72">,9 mil e seguiu elevado em 2020</segment>
+    <segment id="73">, com 8</segment>
+    <segment id="74">,1 mil casos.</segment>
+    <segment id="75">O cenário começou a melhorar em 2021 e 2022 —e o país voltou a não registrar nenhuma infecção por sarampo em 2023.</segment>
+    <segment id="76">Essas curvas de casos podem ser explicadas em grande parte pela vacinação</segment>
+    <segment id="77">, apontam especialistas ouvidos pela BBC News Brasil.</segment>
+    <segment id="78">A cobertura vacinal com a primeira dose desse imunizante foi de praticamente 100% entre 2010 e 2014.</segment>
+    <segment id="79">Em 2015 e 2016</segment>
+    <segment id="80">, as taxas começaram a cair</segment>
+    <segment id="81">, masmas ainda dentro do limite de 95% preconizado pelas agências de saúde para garantir a imunidade de rebanho.</segment>
+    <segment id="82">Foi nesse período que os casos de sarampo acabaram</segment>
+    <segment id="83">, e o país ganhou o certificado de eliminação.</segment>
+    <segment id="84">De 2017 em diante</segment>
+    <segment id="85">, porém</segment>
+    <segment id="86">porém, a situação</segment>
+    <segment id="87">sese complicou: com pequenas variações</segment>
+    <segment id="88">, a cobertura vacinal caiu pouco a pouco e chegou a alarmantes 74</segment>
+    <segment id="89">,9% em 2021.</segment>
+    <segment id="90">Na prática</segment>
+    <segment id="91">, isso significou que um quarto das crianças brasileiras estava desprotegido de uma doença altamente contagiosa e potencialmente fatal.</segment>
+    <segment id="92">Com a população sem imunidade</segment>
+    <segment id="93">, uma epidemia estourou.</segment>
+    <segment id="94">A situação começou a melhorar a partir de 2022</segment>
+    <segment id="95">, quando a cobertura vacinal chegou a 80</segment>
+    <segment id="96">,7%.</segment>
+    <segment id="97">No ano passado</segment>
+    <segment id="98">, esse índice aumentou para 85</segment>
+    <segment id="99">,6% —o que foi bastante comemorado pelo Ministério da Saúde.</segment>
+    <segment id="100">"</segment>
+    <segment id="101">Quero dizer que o movimento pela vacinação venceu.</segment>
+    <segment id="102">Todos alcançamos juntos o objetivo de reverter a trajetória de queda das coberturas vacinais.</segment>
+    <segment id="103">A sociedade atendeu ao chamado e</segment>
+    <segment id="104">sese incluiu nesse movimento"</segment>
+    <segment id="105">, discursou a ministra Nísia Trindade em dezembro.</segment>
+    <segment id="106">"Gostaria de lembrar o que já disse a OMS: a vacina</segment>
+    <segment id="107">, junto com a água tratada</segment>
+    <segment id="108">, é o que garantiu a redução da mortalidade infantil e o aumento da expectativa em todo o mundo.</segment>
+    <segment id="109">"</segment>
+    <segment id="110">A pediatra Mônica Levi</segment>
+    <segment id="111">, presidente da Sociedade Brasileira de Imunizações (SBIm)</segment>
+    <segment id="112">, avalia que houve recentemente uma reestruturação do Programa Nacional de Imunizações (PNI) do Ministério da Saúde</segment>
+    <segment id="113">, que ajudou na trajetória de recuperação dos índices vacinais.</segment>
+    <segment id="114">"</segment>
+    <segment id="115">Ainda há muito a ser feito para restaurarmos o índice de 95%</segment>
+    <segment id="116">, masmas</segment>
+    <segment id="117">, ao menos</segment>
+    <segment id="118">, vemos uma reversão na tendência de queda dos últimos anos"</segment>
+    <segment id="119">, diz a especialista.</segment>
+    <segment id="120">A médica Eliana Bicudo</segment>
+    <segment id="121">, assessora da Sociedade Brasileira de Infectologia</segment>
+    <segment id="122">, diz que a situação da vacinação está melhorando</segment>
+    <segment id="123">, masmas ainda está longe do ideal.</segment>
+    <segment id="124">"Ainda não podemos colocar a cabeça no travesseiro e ficarmos despreocupados com o sarampo.</segment>
+    <segment id="125">Se fizermos isso</segment>
+    <segment id="126">, esse surto na Europa nos pegará de calças curtas"</segment>
+    <segment id="127">, alerta a infectologista.</segment>
+    <segment id="128">Depois de queda histórica</segment>
+    <segment id="129">, vacinação contra o sarampo voltou a subir no Brasil - Getty ImagesUm novo certificado de eliminação do sarampo?</segment>
+    <segment id="130">O fato de o Brasil estar há mais de um ano sem novos casos de sarampo reacendeu as esperanças de o país ser declarado novamente</segment>
+    <segment id="131">comocomo um território livre desse vírus.</segment>
+    <segment id="132">O próprio diretor da Opas</segment>
+    <segment id="133">, o médico brasileiro Jarbas Barbosa</segment>
+    <segment id="134">, falou sobre o assunto em uma palestra no Rio de Janeiro em dezembro do ano passado.  "</segment>
+    <segment id="135">O Brasil já</segment>
+    <segment id="136">sese encontra há um ano sem nenhum</segment>
+    <segment id="137">casocaso novo diagnosticado</segment>
+    <segment id="138">, o que nos permite também ter uma esperança muito grande de que</segment>
+    <segment id="139">, nos próximos meses</segment>
+    <segment id="140">, a comissão de verificação possa certificar novamente o país"</segment>
+    <segment id="141">, disse.</segment>
+    <segment id="142">Mas Levi lembra que ficar um tempo sem registrar novas infecções não é o único fator decisivo para tornar-</segment>
+    <segment id="143">sese um território livre do sarampo.</segment>
+    <segment id="144">"</segment>
+    <segment id="145">É importante uma homogeneidade na vacinação</segment>
+    <segment id="146">, ou seja</segment>
+    <segment id="147">, ter todas as regiões do país com um índice alto de imunizados</segment>
+    <segment id="148">, sem muitas diferenças nesse percentual de lugar para lugar"</segment>
+    <segment id="149">, destaca a médica.</segment>
+    <segment id="150">A presidente da SBIm também destaca a necessidade de um sistema de vigilância ativo</segment>
+    <segment id="151">, capaz de detectar rapidamente pacientes com o vírus que cheguem ao país por portos</segment>
+    <segment id="152">, aeroportos e fronteiras.</segment>
+    <segment id="153">Um exemplo prático desse tipo de ação aconteceu recentemente: no dia 26 de dezembro</segment>
+    <segment id="154">, um menino de 3 anos veio com a família ao Brasil a partir do Paquistão.</segment>
+    <segment id="155">Ele começou a apresentar alguns sintomas e foi atendido em uma unidade de saúde de Porto Alegre no dia 2 de janeiro</segment>
+    <segment id="156">, quando já foi colocado em isolamento.</segment>
+    <segment id="157">Os exames confirmaram que ele estava com sarampo.</segment>
+    <segment id="158">Casos importados de outros lugares</segment>
+    <segment id="159">, como</segment>
+    <segment id="160">como este episódio do garoto vindo do Paquistão</segment>
+    <segment id="161">, não são contabilizados</segment>
+    <segment id="162">comocomo infecções locais</segment>
+    <segment id="163">, ocorridas no Brasil —</segment>
+    <segment id="164">masmas acendem um sinal de alerta.</segment>
+    <segment id="165">E há todo um protocolo —que envolve fazer a detecção precoce do sarampo</segment>
+    <segment id="166">, isolar o paciente</segment>
+    <segment id="167">, vacinar as pessoas que tiveram contato com ele e fazer um acompanhamento da saúde dos envolvidos— para evitar que a doença</segment>
+    <segment id="168">sese espalhe e gere uma nova onda de transmissões.</segment>
+    <segment id="169">"E precisamos ter todo esse sistema bem estruturado para sermos novamente um país que eliminou o sarampo"</segment>
+    <segment id="170">, reforça Levi.</segment>
+    <segment id="171">O cenário instável do sarampo em outras partes do mundo fez a Opas soar o alarme na última semana.</segment>
+    <segment id="172">A entidade pediu que todos os países das Américas "intensifiquem as atividades de vacinação</segment>
+    <segment id="173">, vigilância epidemiológica e preparação de resposta rápida para possíveis surtos".</segment>
+    <segment id="174">A vacina tríplice viral protege contra sarampo</segment>
+    <segment id="175">, caxumba e rubéola - Getty ImagesUma doença altamente contagiosa</segment>
+    <segment id="176">Bicudo explica que o sarampo é uma infecção causada por um vírus</segment>
+    <segment id="177">, que é transmitido de uma pessoa para outra pelas vias aéreas (por meio de tosse</segment>
+    <segment id="178">, espirro e coriza) ou pelo contato com superfícies contaminadas.</segment>
+    <segment id="179">Esse agente microscópico tem uma alta capacidade de contágio.</segment>
+    <segment id="180">Estima-</segment>
+    <segment id="181">sese que alguém infectado possa transmitir sarampo para outras 12 ou 18 pessoas.  "</segment>
+    <segment id="182">O sarampo causa um comprometimento das vias aéreas</segment>
+    <segment id="183">, com sintomas de febre</segment>
+    <segment id="184">, dor no corpo</segment>
+    <segment id="185">, dor de cabeça</segment>
+    <segment id="186">, congestão nasal</segment>
+    <segment id="187">, manchas na pele</segment>
+    <segment id="188">, lacrimejamento</segment>
+    <segment id="189">, tosse</segment>
+    <segment id="190">, conjuntivite e otite"</segment>
+    <segment id="191">, lista Bicudo.</segment>
+    <segment id="192">"</segment>
+    <segment id="193">Em situações mais graves</segment>
+    <segment id="194">, ele pode levar a uma pneumonia ou até a uma meningoencefalite (uma infecção no sistema nervoso central)</segment>
+    <segment id="195">, especialmente em pacientes mais vulneráveis.</segment>
+    <segment id="196">"  Esses casos são preocupantes e</segment>
+    <segment id="197">, sem os cuidados necessários</segment>
+    <segment id="198">, podem levar à morte.</segment>
+    <segment id="199">Não existe um tratamento específico contra o sarampo.</segment>
+    <segment id="200">Os médicos prescrevem remédios para aliviar os incômodos e dar suporte à vida nos casos mais graves.</segment>
+    <segment id="201">A principal forma de ficar protegido contra este vírus é a vacina.</segment>
+    <segment id="202">No Brasil</segment>
+    <segment id="203">, o Ministério da Saúde e a SBIm preconizam um esquema de duas doses.</segment>
+    <segment id="204">A primeira deve ser feita aos 12 meses de vida e utiliza a tríplice viral</segment>
+    <segment id="205">, um imunizante que protege não apenas contra o sarampo</segment>
+    <segment id="206">, masmas também contra a caxumba e a rubéola.</segment>
+    <segment id="207">A segunda é realizada 90 dias depois</segment>
+    <segment id="208">, quando a criança completa 15 meses e recebe a tetraviral (que resguarda contra sarampo</segment>
+    <segment id="209">, caxumba</segment>
+    <segment id="210">, rubéola e varicela).</segment>
+    <segment id="211">Para aqueles que perderam esse prazo</segment>
+    <segment id="212">, não há problemas:</segment>
+    <segment id="213">é possível tomar essas vacinas em qualquer momento da vida.</segment>
+    <segment id="214">A origem do sarampoMais    novamente         de   de  de  representando um</segment>
+    <segment id="215">Até os 29 anos de idade</segment>
+    <segment id="216">, a recomendação é seguir o esquema de duas doses.</segment>
+    <segment id="217">Entre os 30 e os 59 anos</segment>
+    <segment id="218">, as autoridades em saúde indicam a aplicação de apenas uma dose da tríplice viral.</segment>
+    <segment id="219">A vacina está disponível na rede pública e não há necessidade de reforços: quem tomou duas doses após completar um ano está protegido pelo resto da vida.</segment>
+    <segment id="220">A alta capacidade de contágio do sarampo demanda que boa parte da população seja vacinada para criar uma imunidade de rebanho</segment>
+    <segment id="221">, em que todos ficam protegidos de um surto ou uma epidemia.</segment>
+    <segment id="222">"</segment>
+    <segment id="223">É necessário que 95% das pessoas estejam vacinadas para garantir que aquela população fique realmente protegida desse vírus"</segment>
+    <segment id="224">, reforça Bicudo.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,273 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Bolsa brasileira subiu e garantiu seu melhor mês em três anos nesta quinta-feira (30).</segment>
+    <segment id="2">O Ibovespa encerrou o dia em alta de 0</segment>
+    <segment id="3">,92%, aos 127.331 pontos</segment>
+    <segment id="4">, acumulando avanço de 12</segment>
+    <segment id="5">,53% no mês.</segment>
+    <segment id="6">Foi o melhor desempenho mensal do índice desde novembro de 2020</segment>
+    <segment id="7">, quando teve alta de 15</segment>
+    <segment id="8">,90%.</segment>
+    <segment id="9">Como pano de fundo</segment>
+    <segment id="10">, dados fracos de inflação nos Estados Unidos reforçaram apostas de que a alta de juros no país já chegou ao fim e animaram investidores sobre uma possível antecipação do ciclo de cortes nas taxas americanas.</segment>
+    <segment id="11">O Departamento de Comércio dos EUA divulgou nesta quinta que o índice de preços PCE</segment>
+    <segment id="12">, acompanhado de perto pelo Fed para decisões sobre juros</segment>
+    <segment id="13">, acumulou alta de 3</segment>
+    <segment id="14">,0% nos 12 meses até outubro</segment>
+    <segment id="15">, em sua taxa anual mais fraca desde março de 2021</segment>
+    <segment id="16">, após avanço de 3</segment>
+    <segment id="17">,4% em setembro.</segment>
+    <segment id="18">"</segment>
+    <segment id="19">Os números do PCE de outubro sugerem que a economia dos EUA começa a mostrar sinais mais evidentes de desaquecimento"</segment>
+    <segment id="20">, afirma Danilo Igliori</segment>
+    <segment id="21">, economista-chefe da Nomad.</segment>
+    <segment id="22">O economista aponta</segment>
+    <segment id="23">, ainda</segment>
+    <segment id="24">, que os novos dados indicam que a probabilidade de manutenção do atual patamar de juros nos EUA em dezembro aumentou e que a antecipação do início do ciclo de cortes nas taxas para o primeiro semestre do ano que vem entrou no radar de investidores.</segment>
+    <segment id="25">"</segment>
+    <segment id="26">Nesta semana</segment>
+    <segment id="27">, pela primeira vez</segment>
+    <segment id="28">, a tese de juros mais altos por mais tempo começa a ser enfraquecida</segment>
+    <segment id="29">, e os mercados passarão a levar essa nova possibilidade em consideração.</segment>
+    <segment id="30">"</segment>
+    <segment id="31">Painel eletrônico de índices de mercado na B3</segment>
+    <segment id="32">, a Bolsa brasileira</segment>
+    <segment id="33">, em São Paulo - Paulo Whitaker - 7.jan.2016/ReutersApesar das apostas de queda de juros</segment>
+    <segment id="34">, o dólar registrou alta no Brasil e no exterior nesta terça após a divulgação dos novos dados de inflação</segment>
+    <segment id="35">, refletindo a maior demanda pela moeda norte-americana comum no final do ano</segment>
+    <segment id="36">, período em que empresas e fundos</segment>
+    <segment id="37">sese preparam para enviar remessas de recursos para o exterior.</segment>
+    <segment id="38">Além disso</segment>
+    <segment id="39">, a sessão foi de volatilidade nas negociações locais devido à disputa pelo fechamento da Ptax de fim de mês</segment>
+    <segment id="40">, uma taxa de câmbio calculada pelo Banco Central que serve de referência para a liquidação de contratos futuros.</segment>
+    <segment id="41">No fim de cada mês</segment>
+    <segment id="42">, agentes financeiros costumam tentar direcioná-la para níveis mais convenientes às suas posições</segment>
+    <segment id="43">, sejam elas compradas ou vendidas em dólar.</segment>
+    <segment id="44">Com isso</segment>
+    <segment id="45">, o dólar subiu 0</segment>
+    <segment id="46">,58%, terminando o dia cotado a R$ 4</segment>
+    <segment id="47">,915.</segment>
+    <segment id="48">No mês</segment>
+    <segment id="49">, no entanto</segment>
+    <segment id="50">, a moeda americana acumula queda de 2</segment>
+    <segment id="51">,48%.</segment>
+    <segment id="52">No exterior</segment>
+    <segment id="53">, o índice do dólar contra uma cesta de pares fortes avançava 0</segment>
+    <segment id="54">,79% no fim da tarde</segment>
+    <segment id="55">, enquanto os rendimentos dos títulos do Tesouro americano</segment>
+    <segment id="56">sese recuperavam de mínimas recentes.</segment>
+    <segment id="57">No acumulado do mês</segment>
+    <segment id="58">, porém</segment>
+    <segment id="59">porém, o índice cedeu 2</segment>
+    <segment id="60">,93%.</segment>
+    <segment id="61">Num geral</segment>
+    <segment id="62">, a perspectiva de juros mais baixos nos Estados Unidos costuma levar a um redirecionamento de recursos para países mais rentáveis</segment>
+    <segment id="63">, ainda que mais arriscados</segment>
+    <segment id="64">, como</segment>
+    <segment id="65">como o Brasil.</segment>
+    <segment id="66">No cenário doméstico</segment>
+    <segment id="67">, falas do diretor de política monetária do Banco Central</segment>
+    <segment id="68">, Gabriel Galípolo</segment>
+    <segment id="69">, também animaram os negócios.</segment>
+    <segment id="70">Ele afirmou que</segment>
+    <segment id="71">, diante de um cenário mais benigno</segment>
+    <segment id="72">, vem sentindo maior pressão do mercado para aceleração dos cortes de juros no Brasil.</segment>
+    <segment id="73">Galípolo destacou</segment>
+    <segment id="74">, no entanto</segment>
+    <segment id="75">, a postura de cautela da autoridade monetária em situações de incerteza.</segment>
+    <segment id="76">Após as falas do diretor</segment>
+    <segment id="77">, as curvas de juros futuros locais mais curtas caíram</segment>
+    <segment id="78">, apoiando os negócios.</segment>
+    <segment id="79">Às 18h</segment>
+    <segment id="80">, os contratos com vencimento em janeiro de 2025 iam de 10</segment>
+    <segment id="81">,42% para 10</segment>
+    <segment id="82">,32%, enquanto os para 2027 caíam de 10</segment>
+    <segment id="83">,10% para 10</segment>
+    <segment id="84">,09%.  "</segment>
+    <segment id="85">O Ibovespa ganhou força justamente com um novo impulso sobre o principal driver [motivador] do mês</segment>
+    <segment id="86">, a partir da queda dos juros futuros</segment>
+    <segment id="87">, que naturalmente beneficia os ativos de renda variável"</segment>
+    <segment id="88">, afirma Alexsandro Nishimura</segment>
+    <segment id="89">, economista e sócio da Nomos.</segment>
+    <segment id="90">As taxas mais longas</segment>
+    <segment id="91">, no entanto</segment>
+    <segment id="92">, subiram</segment>
+    <segment id="93">, acompanhando os títulos americanos.</segment>
+    <segment id="94">A forte alta do Ibovespa no mês de novembro foi impulsionada justamente pelas perspectivas de quedas de juros nos Estados Unidos</segment>
+    <segment id="95">, que deu alívio a ativos de renda variável globalmente.  "</segment>
+    <segment id="96">O mês foi marcado por uma expressiva entrada de capital estrangeiro na bolsa e um notável aumento no apetite por risco.</segment>
+    <segment id="97">Ações cíclicas domésticas figuraram entre as maiores altas</segment>
+    <segment id="98">, em um cenário favorecido pela diminuição das taxas de juros</segment>
+    <segment id="99">, tanto no Brasil quanto no exterior"</segment>
+    <segment id="100">, Bruna Sene</segment>
+    <segment id="101">, analista da Nova Futura Investimentos.</segment>
+    <segment id="102">Com a perspectiva de cortes de juros próximos</segment>
+    <segment id="103">, os índices americanos também registraram um mês positivo.</segment>
+    <segment id="104">O S&amp;amp</segment>
+    <segment id="105">;P 500 acumulou ganho de 8</segment>
+    <segment id="106">,92% em novembro</segment>
+    <segment id="107">, enquanto o Dow Jones subiu 8</segment>
+    <segment id="108">,77% e o Nasdaq</segment>
+    <segment id="109">, 10,70%.</segment>
+    <segment id="110">O índice de ações mundiais do MSCI</segment>
+    <segment id="111">, que acompanha 47 países</segment>
+    <segment id="112">, saltou quase 9% no mês.</segment>
+    <segment id="113">Sene aponta</segment>
+    <segment id="114">, ainda</segment>
+    <segment id="115">, que a alta do minério de ferro no mês —que beneficiou ações da Vale</segment>
+    <segment id="116">, a maior empresa do Ibovespa— e resultados positivos de empresas locais deram impulso adicional à Bolsa brasileira.</segment>
+    <segment id="117">No âmbito interno</segment>
+    <segment id="118">, o índice também</segment>
+    <segment id="119">sese beneficiou da redução do risco fiscal</segment>
+    <segment id="120">, com membros do governo afirmando que a meta de superávit primário para 2024 será mantida</segment>
+    <segment id="121">, diz a analista.</segment>
+    <segment id="122">Ibovespa tem maior rentabilidade dentre investimentos em novembro</segment>
+    <segment id="123">Com a alta acumulada de 12</segment>
+    <segment id="124">,54% no mês</segment>
+    <segment id="125">, o Ibovespa superou com folga os ganhos nas aplicações mais tradicionais.</segment>
+    <segment id="126">O CDI rendeu 0</segment>
+    <segment id="127">,9% no mesmo intervalo</segment>
+    <segment id="128">, e a poupança</segment>
+    <segment id="129">, 0,55%.</segment>
+    <segment id="130">Apesar de relativamente baixas</segment>
+    <segment id="131">, as rentabilidades superam a inflação prevista para o período</segment>
+    <segment id="132">, de 0</segment>
+    <segment id="133">,28% segundo o Focus.</segment>
+    <segment id="134">O segundo e o terceiro lugar no pódio de aplicações mais rentáveis em novembro também são índices da Bolsa de Valores de São Paulo: o Small Caps e o Idiv</segment>
+    <segment id="135">, com ganhos de 12</segment>
+    <segment id="136">,46% e 10</segment>
+    <segment id="137">,70%, respectivamente.</segment>
+    <segment id="138">O Small Caps é o índice da B3 que reúne companhias de menor capitalização.</segment>
+    <segment id="139">São os que ficam de fora de 85% do valor de mercado quando</segment>
+    <segment id="140">sese classifica as empresas em ordem decrescente de capitalização</segment>
+    <segment id="141">, masmas que ainda têm negociação relevante.</segment>
+    <segment id="142">Já o Idiv reúne as que empresas que</segment>
+    <segment id="143">sese destacam pelo pagamento constante de dividendos.</segment>
+    <segment id="144">O BDRX</segment>
+    <segment id="145">, que reúne os principais BDRs (recibos de ações listadas no exterior)</segment>
+    <segment id="146">, acompanhou parcialmente o movimento</segment>
+    <segment id="147">, com alta de 6</segment>
+    <segment id="148">,46% no mês.</segment>
+    <segment id="149">A valorização não foi maior pela queda de quase 3% do dólar no período.</segment>
+    <segment id="150">O Ifix (Índice de Fundos de Investimentos Imobiliários)</segment>
+    <segment id="151">, por sua vez</segment>
+    <segment id="152">, não conseguiu capturar a onda da renda variável e terminou novembro com leve alta de 0</segment>
+    <segment id="153">,66%.</segment>
+    <segment id="154">"</segment>
+    <segment id="155">Construção civil tende a ser o último setor a</segment>
+    <segment id="156">sese recuperar</segment>
+    <segment id="157">, masmas a queda dos juros e a possível volta da confiança do consumidor pode trazer um movimento positivo para o setor"</segment>
+    <segment id="158">, diz Lucas Serra</segment>
+    <segment id="159">, analista da Toro Investimentos</segment>
+    <segment id="160">, que recomenda</segment>
+    <segment id="161">, inclusive</segment>
+    <segment id="162">, a compra das ações do setor.</segment>
+    <segment id="163">Já entre as commodities</segment>
+    <segment id="164">, o petróleo</segment>
+    <segment id="165">Brent (referência internacional) caiu 5</segment>
+    <segment id="166">,24% em novembro</segment>
+    <segment id="167">, a US$ 82</segment>
+    <segment id="168">,83 por barril</segment>
+    <segment id="169">, com o arrefecimento das tensões em torno do conflito em Gaza.</segment>
+    <segment id="170">O minério de ferro</segment>
+    <segment id="171">, por sua vez</segment>
+    <segment id="172">, teve alta de 8</segment>
+    <segment id="173">,57%, a US$ 132 a tonelada.</segment>
+    <segment id="174">Segundo Serra</segment>
+    <segment id="175">, da Toro</segment>
+    <segment id="176">, há espaço para a commodity subir mais</segment>
+    <segment id="177">, impulsionando as ações da Vale</segment>
+    <segment id="178">, para as quais ele recomenda compra.</segment>
+    <segment id="179">No período</segment>
+    <segment id="180">, a rentabilidade dos treasuries (títulos do tesouro americano)</segment>
+    <segment id="181">, que haviam assombrado a renda variável nos últimos meses</segment>
+    <segment id="182">, passou a ceder com a perspectiva de taxas de juros menores nos EUA.</segment>
+    <segment id="183">O rendimento do Treasury de dez anos —referência global para decisões de investimento— caiu de 4</segment>
+    <segment id="184">,77% para 4</segment>
+    <segment id="185">,37%.</segment>
+    <segment id="186">A taxa do Treasury de dois anos —que reflete apostas para os rumos das taxas de juros de curto prazo— foi de 4</segment>
+    <segment id="187">,95% a 4</segment>
+    <segment id="188">,73%.</segment>
+    <segment id="189">A curva de juros brasileira acompanhou o movimento americano.</segment>
+    <segment id="190">A taxa para janeiro de 2025 terminou novembro em 10</segment>
+    <segment id="191">,32%, ante 11</segment>
+    <segment id="192">,09% ao fim de outubro.</segment>
+    <segment id="193">A taxa para janeiro de 2027 foi de 11</segment>
+    <segment id="194">,24% para 10</segment>
+    <segment id="195">,09% e a para janeiro de 2031 ficou em 10</segment>
+    <segment id="196">,767%, de 11</segment>
+    <segment id="197">,77% no mês passado.</segment>
+    <segment id="198">A queda nos juros futuros afetou a rentabilidade dos títulos do Tesouro Direto</segment>
+    <segment id="199">, cujo desempenho é medido pelo índice Ima Geral</segment>
+    <segment id="200">, que rendeu 1</segment>
+    <segment id="201">,75% no período.</segment>
+    <segment id="202">O Ihfa</segment>
+    <segment id="203">, índice de fundos multimercados</segment>
+    <segment id="204">, que combinam renda fixa e variável</segment>
+    <segment id="205">, teve um desempenho positivo de 2</segment>
+    <segment id="206">,21% no mês.</segment>
+    <segment id="207">Para Serra da Toro</segment>
+    <segment id="208">, ambas as modalidades oferecem boas oportunidades de investimento.</segment>
+    <segment id="209">Na renda fixa</segment>
+    <segment id="210">, ele destaca os títulos prefixados e os atrelados a inflação.</segment>
+    <segment id="211">No Tesouro Direto</segment>
+    <segment id="212">, o título para 2026 está com uma rentabilidade anual de 10</segment>
+    <segment id="213">,05% e o IPCA + 2029</segment>
+    <segment id="214">, com inflação mais 5</segment>
+    <segment id="215">,46% ao ano.</segment>
+    <segment id="216">"</segment>
+    <segment id="217">O pós-fixado [que acompanha a Selic] não deixa de ficar interessante</segment>
+    <segment id="218">, masmas vai ficar menos atrativo"</segment>
+    <segment id="219">, diz o analista.</segment>
+    <segment id="220">Economistas preveem que a Selic</segment>
+    <segment id="221">, atualmente em 12</segment>
+    <segment id="222">,25%, deve cair para 11</segment>
+    <segment id="223">,75% em dezembro e para 9</segment>
+    <segment id="224">,25% ao fim de 2024</segment>
+    <segment id="225">, reduzindo a rentabilidade da renta fixa no geral.</segment>
+    <segment id="226">Petrobras e Embraer são destaques do dia</segment>
+    <segment id="227">As principais altas da sessão desta quinta foram de Vale e Petrobras</segment>
+    <segment id="228">, as maiores empresas da Bolsa</segment>
+    <segment id="229">, que foram as mais negociadas da sessão.</segment>
+    <segment id="230">A mineradora terminou o dia em alta de 0</segment>
+    <segment id="231">,54%, acompanhando a subida do minério de ferro no exterior.</segment>
+    <segment id="232">Já a Petrobras teve os ganhos limitados pela queda do petróleo</segment>
+    <segment id="233">, masmas garantiu forte alta após sua assembleia de acionistas ter aprovado uma mudança no estatuto da companhia que abre a possibilidade de indicações de políticos para membros da alta cúpula.</segment>
+    <segment id="234">A empresa terminou o pregão avançando 1</segment>
+    <segment id="235">,93%.</segment>
+    <segment id="236">Após receber um pedido de 25 jatos da canadense Porter Airlines</segment>
+    <segment id="237">, a Embraer ficou entre as empresas com melhor desempenho do dia</segment>
+    <segment id="238">, registrando alta de 5</segment>
+    <segment id="239">,44%.</segment>
+    <segment id="240">A companhia também foi beneficiada por uma recomendação de compra do Bradesco.</segment>
+    <segment id="241">Foram Cielo e Magazine Luiza</segment>
+    <segment id="242">, no entanto</segment>
+    <segment id="243">, que lideraram os ganhos do pregão</segment>
+    <segment id="244">, com altas de 7</segment>
+    <segment id="245">,77% e 7</segment>
+    <segment id="246">,44%, respectivamente.</segment>
+    <segment id="247">Com Reuters</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Heather Shanholtz</segment>
+    <segment id="2">Clube de basquete faz contrataÃ§Ã£o de peso nos EUA</segment>
+    <segment id="3">O Miami Heat</segment>
+    <segment id="4">, time de basquete dos Estados Unidos</segment>
+    <segment id="5">, contratou a modelo Heather Shanholtze</segment>
+    <segment id="6">, de 30 anos</segment>
+    <segment id="7">, para ser a garota-propaganda do clube.</segment>
+    <segment id="8">Nascida e criada em Miami</segment>
+    <segment id="9">, a gata ficou empolgada com o trabalho.</segment>
+    <segment id="10">NÃ£o era para menos: alÃ©m do basquete</segment>
+    <segment id="11">, Heather mostra ser uma apaixonada por esportes</segment>
+    <segment id="12">, pois</segment>
+    <segment id="13">pois adora basebol.</segment>
+    <segment id="14">As fotos da beldade com a camisa do Heat jÃ¡ fazem o maior sucesso pela internet.</segment>
+  </rst>
+</analysis>

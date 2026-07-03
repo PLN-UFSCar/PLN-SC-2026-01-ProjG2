@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente Lula (PT) acompanhou</segment>
+    <segment id="2">, durante o feriado desta quarta (15)</segment>
+    <segment id="3">, a votação no Conselho de Segurança que acabou aprovando</segment>
+    <segment id="4">, depois de quatro tentativas fracassadas</segment>
+    <segment id="5">, uma resolução sobre o conflito no Oriente Médio após os ataques de 7 de Outubro a Israel pelo grupo terrorista Hamas.</segment>
+    <segment id="6">O Conselho de Segurança da ONU durante reunião nesta quarta (15) - Loey Felipe/UN Photo/XinhuaAntes de o Brasil votar a favor do texto proposto por Malta</segment>
+    <segment id="7">, Lula chegou a receber uma tradução da proposta para avaliar.</segment>
+    <segment id="8">O petista foi sendo informado pelo ministro das Relações Exteriores</segment>
+    <segment id="9">, Mauro Viera</segment>
+    <segment id="10">, durante a sessão.</segment>
+    <segment id="11">O placar foi de 12 votos a favor</segment>
+    <segment id="12">, incluindo o do Brasil</segment>
+    <segment id="13">, nenhum contra e 3 abstenções (EUA</segment>
+    <segment id="14">, Rússia e Reino Unido).</segment>
+    <segment id="15">Repatriados de Gaza chegam a SP após saga para deixar território palestino em guerraMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

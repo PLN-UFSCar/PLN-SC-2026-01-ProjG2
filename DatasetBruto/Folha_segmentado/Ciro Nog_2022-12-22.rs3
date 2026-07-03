@@ -1,0 +1,60 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O ministro-chefe da Casa Civil</segment>
+    <segment id="2">, Ciro Nogueira</segment>
+    <segment id="3">, cobrou que o presidente eleito</segment>
+    <segment id="4">, Luiz Inácio Lula da Silva (PT)</segment>
+    <segment id="5">, "desça do palanque" e comece a trabalhar.</segment>
+    <segment id="6">Ele respondeu às críticas feitas pelo petista ao governo de Jair Bolsonaro (PL) durante apresentação do relatório da equipe de transição</segment>
+    <segment id="7">, nesta quinta-feira (22)</segment>
+    <segment id="8">, em Brasília.</segment>
+    <segment id="9">"</segment>
+    <segment id="10">Vá trabalhar e desça do palanque"</segment>
+    <segment id="11">, disse Nogueira ao Painel.</segment>
+    <segment id="12">O ministro chefe da Casa Civil do governo Jair Bolsonaro</segment>
+    <segment id="13">, Ciro Nogueira</segment>
+    <segment id="14">, durante entrevista à Folha em seu gabinete</segment>
+    <segment id="15">, no Palácio do Planalto - Pedro Ladeira/FolhapressEm sua fala</segment>
+    <segment id="16">, Lula declarou que assumirá o país em estado de penúria em várias áreas</segment>
+    <segment id="17">, acusação que foi rebatida pelo atual ministro.</segment>
+    <segment id="18">"</segment>
+    <segment id="19">Penúria foi o país que o PT entregou em 2016"</segment>
+    <segment id="20">, respondeu.</segment>
+    <segment id="21">O discurso do presidente eleito</segment>
+    <segment id="22">sese assemelha ao tom adotado por ele há 20 anos</segment>
+    <segment id="23">, após sua primeira vitória eleitoral</segment>
+    <segment id="24">, quando disse que seu antecessor à época</segment>
+    <segment id="25">, Fernando Henrique Cardoso (PSDB)</segment>
+    <segment id="26">, havia deixado uma "herança maldita".  "</segment>
+    <segment id="27">Essa tentação de dizer que o governo Bolsonaro é péssimo em termos de resultados econômicos é</segment>
+    <segment id="28">comocomo o médico que aplica uma anestesia no paciente</segment>
+    <segment id="29">porque</segment>
+    <segment id="30">porque não sabe o que fazer com ele"</segment>
+    <segment id="31">, afirma o atual ministro.</segment>
+    <segment id="32">Segundo ele</segment>
+    <segment id="33">, "esse truque é tão manjado que pode enganar alguns por algum tempo</segment>
+    <segment id="34">, masmas a enganação mais perigosa é aquela que engana o enganador".</segment>
+  </rst>
+</analysis>

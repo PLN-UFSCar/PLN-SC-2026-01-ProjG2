@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Dois corpos ao lado de morada</segment>
+    <segment id="2">O avanÃ§ado estado de decomposiÃ§Ã£o dificultou a identificaÃ§Ã£o dos sexos dos cadÃ¡veres</segment>
+    <segment id="3">Dois corpos em estado avanÃ§ado de decomposiÃ§Ã£o foram encontrados ontem pela polÃ­cia prÃ³ximo ao condomÃ­nio Alphaville 1</segment>
+    <segment id="4">, na Avenida Paralela.</segment>
+    <segment id="5">Conforme o delegado do Departamento de HomicÃ­dios (DHPP)</segment>
+    <segment id="6">, SÃ©rgio</segment>
+    <segment id="7">Schlang JÃºnior</segment>
+    <segment id="8">, os corpos foram deixados no local hÃ¡ pelo menos 10 dias.</segment>
+    <segment id="9">O avanÃ§ado estado de decomposiÃ§Ã£o dificultou a identificaÃ§Ã£o dos sexos dos cadÃ¡veres.</segment>
+    <segment id="10">â€œGeralmente</segment>
+    <segment id="11">, as pessoas jogam entulho naquele lugar.</segment>
+    <segment id="12">Mas, jÃ¡ foram feitas algumas remoÃ§Ãµes tambÃ©mâ€</segment>
+    <segment id="13">, afirmou o delegado.</segment>
+  </rst>
+</analysis>

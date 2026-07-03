@@ -1,0 +1,148 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A confiança no BNDES (Banco Nacional de Desenvolvimento Econômico e Social) é menor no Sudeste e maior no Centro-Oeste</segment>
+    <segment id="2">, mostra pesquisa Datafolha.</segment>
+    <segment id="3">Obras financiadas no exterior seguem alvo de críticas.</segment>
+    <segment id="4">De acordo com o levantamento encomendado pela instituição</segment>
+    <segment id="5">, 73% dos entrevistados afirmam confiar no banco.</segment>
+    <segment id="6">O índice chega a 89% no Centro-Oeste</segment>
+    <segment id="7">, ante 67% no Sudeste.</segment>
+    <segment id="8">A pesquisa para mensurar a imagem do banco foi feita entre 30 de novembro e 15 de dezembro de 2023.</segment>
+    <segment id="9">Foram ouvidas 2.020 pessoas.</segment>
+    <segment id="10">A margem de erro é de dois pontos percentuais</segment>
+    <segment id="11">, para mais ou para menos.</segment>
+    <segment id="12">De acordo com a instituição</segment>
+    <segment id="13">, a confiança no Centro-Oeste é atribuída às atividades ligadas ao agronegócio.</segment>
+    <segment id="14">O setor é o segundo que mais recebeu recursos do banco de janeiro a setembro de 2023</segment>
+    <segment id="15">, com R$ 18</segment>
+    <segment id="16">,2 bilhões —atrás apenas de infraestrutura (R$ 29 bilhões).</segment>
+    <segment id="17">O BNDES realiza anualmente levantamento para avaliar a imagem perante a população.</segment>
+    <segment id="18">A confiança vem crescendo.</segment>
+    <segment id="19">Não houve sondagens em 2016</segment>
+    <segment id="20">, durante a crise do governo Dilma Rousseff (PT)</segment>
+    <segment id="21">, e 2021</segment>
+    <segment id="22">, na pandemia da Covid-19.</segment>
+    <segment id="23">Em 2017</segment>
+    <segment id="24">, na gestão Michel Temer (MDB)</segment>
+    <segment id="25">, 42% dos brasileiros diziam confiar no banco.</segment>
+    <segment id="26">Em 2022</segment>
+    <segment id="27">, último ano do governo Jair Bolsonaro (PL)</segment>
+    <segment id="28">, o índice chegou a 66%.</segment>
+    <segment id="29">Embora os números tenham evoluído</segment>
+    <segment id="30">, o presidente do BNDES</segment>
+    <segment id="31">, Aloizio Mercadante</segment>
+    <segment id="32">, diz que a nova alta</segment>
+    <segment id="33">sese deve à "reconstrução" pelo governo Luiz Inácio Lula da Silva (PT) do banco</segment>
+    <segment id="34">, que, segundo ele</segment>
+    <segment id="35">, foi atacado na gestão Bolsonaro.</segment>
+    <segment id="36">O ex-presidente afirmava que a instituição era uma "caixa-preta".</segment>
+    <segment id="37">O presidente do BNDES</segment>
+    <segment id="38">, Aloizio Mercadante</segment>
+    <segment id="39">, durante seminário no auditório da instituição - Eduardo Anizelli - 20 mar.</segment>
+    <segment id="40">2023/Folhapress"Essas acusações de caixa-preta</segment>
+    <segment id="41">, que não tinham nenhum fundamento</segment>
+    <segment id="42">, nós respondemos hoje com o projeto aquário</segment>
+    <segment id="43">, quer dizer</segment>
+    <segment id="44">, a instituição mais transparente.</segment>
+    <segment id="45">E a transparência é muito importante na administração pública</segment>
+    <segment id="46">porque</segment>
+    <segment id="47">porque permite à imprensa</segment>
+    <segment id="48">, aos cidadãos</segment>
+    <segment id="49">, aos interessados</segment>
+    <segment id="50">, acompanharem</segment>
+    <segment id="51">, checarem</segment>
+    <segment id="52">, perguntarem"</segment>
+    <segment id="53">, diz Mercadante.</segment>
+    <segment id="54">Ele cita a retomada do papel na formulação de políticas de desenvolvimento</segment>
+    <segment id="55">comocomo ponto a ser considerado na melhora da avaliação do banco.  "</segment>
+    <segment id="56">Essa pesquisa é altamente positiva</segment>
+    <segment id="57">porque</segment>
+    <segment id="58">porque todos os indicadores analisados historicamente tiveram uma melhora sensível em aspectos relevantes.</segment>
+    <segment id="59">Eu acho que</segment>
+    <segment id="60">sese deve ao trabalho que foi feito ao resgate e fortalecimento do BNDES"</segment>
+    <segment id="61">, afirma.</segment>
+    <segment id="62">Em janeiro</segment>
+    <segment id="63">, o governo anunciou a sua nova política industrial</segment>
+    <segment id="64">, batizada de Nova Indústria Brasil.</segment>
+    <segment id="65">Estão previstos até 2026 R$ 300 bilhões para o setor industrial.</segment>
+    <segment id="66">A maior parte virá de financiamentos do BNDES.</segment>
+    <segment id="67">A visão de um BNDES mais forte</segment>
+    <segment id="68">, no entanto</segment>
+    <segment id="69">, recebe críticas de economistas com visão liberal.</segment>
+    <segment id="70">Há quem afirme que a proposta recicla ideias antigas de gestões petistas.</segment>
+    <segment id="71">"</segment>
+    <segment id="72">O argumento que a gente já está ouvindo é que os valores dos subsídios [do banco] são baixos</segment>
+    <segment id="73">, masmas políticas equivocadas começaram de pouquinho</segment>
+    <segment id="74">, e depois engordaram"</segment>
+    <segment id="75">, afirmou o pesquisador associado do Insper e colunista da Folha Marcos Mendes</segment>
+    <segment id="76">, em reportagem sobre esse "novo papel" do banco.</segment>
+    <segment id="77">"</segment>
+    <segment id="78">É nítido que já estão inchando o BNDES</segment>
+    <segment id="79">, e há risco de a gente entrar no 'recordar é viver' de políticas públicas que deram errado"</segment>
+    <segment id="80">, disse a economista Cristina Schmidt</segment>
+    <segment id="81">, consultora e professora da FGV (Fundação Getulio Vargas)</segment>
+    <segment id="82">, na mesma reportagem.</segment>
+    <segment id="83">A pesquisa Datafolha mostra que</segment>
+    <segment id="84">, espontaneamente</segment>
+    <segment id="85">, sem a apresentação de alternativas</segment>
+    <segment id="86">, 95% dos entrevistados apresentaram aspectos positivos relacionados ao BNDES.</segment>
+    <segment id="87">Foram citados o desenvolvimento empresarial</segment>
+    <segment id="88">, desenvolvimento e financiamento para aumentar e melhorar a infraestrutura do país</segment>
+    <segment id="89">, e a contribuição para a geração de emprego.</segment>
+    <segment id="90">Entre os pontos negativos</segment>
+    <segment id="91">, citados por 58% dos entrevistados</segment>
+    <segment id="92">, aparecem o fato de o BNDES ter financiado obras de empresas brasileiras que atuam no exterior</segment>
+    <segment id="93">, o que ocorreu durante as gestões petistas passadas em países</segment>
+    <segment id="94">comocomo Cuba e Venezuela.</segment>
+    <segment id="95">Chamada exportação de serviços</segment>
+    <segment id="96">, o item foi citado por 15%.</segment>
+    <segment id="97">Esse tipo de crédito está suspenso desde 2016</segment>
+    <segment id="98">, quando grandes construtoras do país beneficiadas pela linha passaram a ser investigadas na Operação Lava Jato.</segment>
+    <segment id="99">Apesar das críticas</segment>
+    <segment id="100">, o governo Lula 3 pretende retomar essas ações.</segment>
+    <segment id="101">O Executivo encaminhou em novembro do ano passado um projeto de lei para autorizar o BNDES a retomar os financiamentos de empresas brasileiras no exterior.</segment>
+    <segment id="102">Mercadante afirma que houve no passado uma crítica "desequilibrada" a essa atividade do BNDES.</segment>
+    <segment id="103">No entanto</segment>
+    <segment id="104">, acrescenta que o novo projeto de lei foi elaborado seguindo orientações do TCU (Tribunal de Contas da União) e na linha de práticas internacionais.</segment>
+    <segment id="105">O que é o plano Nova Indústria BrasilMais    novamente         de   de  de  representando um  "</segment>
+    <segment id="106">O que é a coisa da fake news</segment>
+    <segment id="107">, do processo que enfrentamos hoje sobretudo nas redes sociais.</segment>
+    <segment id="108">A carteira de exportação de serviços do banco nunca foi mais de 2% e nunca financiou empresas no exterior ou países.</segment>
+    <segment id="109">Nós financiamos empresas brasileiras que vendem produtos ou que exportam serviços"</segment>
+    <segment id="110">, afirma.</segment>
+    <segment id="111">Mercadante acrescenta que o FGE (Fundo Garantir da Exportação) nunca recebeu recursos públicos</segment>
+    <segment id="112">, sendo autofinanciado pela própria exportação.</segment>
+    <segment id="113">Afirma que os problemas no passado foram "pontuais".</segment>
+    <segment id="114">Outros pontos negativos mencionados são supostas práticas de corrupção e o fato de o BNDES ser controlado pelo governo e sofrer influência política.</segment>
+    <segment id="115">A pesquisa Datafolha também questiona dos entrevistados a sua percepção sobre o conceito de desenvolvimento sustentável</segment>
+    <segment id="116">, uma das principais frentes e apostas do banco.</segment>
+    <segment id="117">Os dados</segment>
+    <segment id="118">, no entanto</segment>
+    <segment id="119">, mostram que diminuiu em relação ao ano passado o percentual de pessoas que considera esse tema muito relevante</segment>
+    <segment id="120">, passando de 72% para 64%.</segment>
+    <segment id="121">Subiu de 24% para 32% o percentual daqueles que consideram apenas relevante.</segment>
+    <segment id="122">Não houve variação no índice dos que acham o tema pouco relevante (3%) e nada relevante (1%).</segment>
+  </rst>
+</analysis>

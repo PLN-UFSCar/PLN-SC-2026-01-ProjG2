@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Fluminense estreia na Copa São Paulo de Juniores com goleada</segment>
+    <segment id="2">O Fluminense conseguiu o melhor resultado entre os times cariocas na primeira rodada da Copa São Paulo de Juniores.</segment>
+    <segment id="3">Na noite desta quinta-feira</segment>
+    <segment id="4">, o tricolor goleou o Ji-Paraná (RO) por 5 a 0</segment>
+    <segment id="5">, assumindo a liderança do grupo C.</segment>
+    <segment id="6">No outro jogo da chave</segment>
+    <segment id="7">, o Olé Brasil venceu o Mogi Mirim por 1 a 0.</segment>
+    <segment id="8">O próximo adversário do Fluminense será o Mogi Mirim</segment>
+    <segment id="9">, domingo.</segment>
+    <segment id="10">Depois</segment>
+    <segment id="11">, o tricolor encerra a participação na primeira fase contra o Olé Brasil</segment>
+    <segment id="12">, quarta-feira.</segment>
+    <segment id="13">Também nesta quinta</segment>
+    <segment id="14">, o Vasco venceu o São Francisco (BA) por 3 a 2</segment>
+    <segment id="15">, pelo grupo O.</segment>
+    <segment id="16">Na véspera</segment>
+    <segment id="17">, o Botafogo derrotou o Americano (MA) por 2 a 0</segment>
+    <segment id="18">, no grupo W.</segment>
+    <segment id="19">Pelo grupo I</segment>
+    <segment id="20">, o Flamengo foi único carioca a tropeçar na estreia: empate em 0 a 0 com o Aquidauanense (MS).</segment>
+  </rst>
+</analysis>

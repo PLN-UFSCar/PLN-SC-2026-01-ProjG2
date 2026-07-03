@@ -1,0 +1,49 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Me prenda!</segment>
+    <segment id="2">A gata é bacharel em Direito e pós-graduanda em Ciências Criminais
+Quem vê essa gata nem imagina que</segment>
+    <segment id="3">, por trás de toda essa delicadeza</segment>
+    <segment id="4">, há um espírito forte e batalhador.</segment>
+    <segment id="5">Márcia Bispo</segment>
+    <segment id="6">, 28, é policial militar há dez anos.</segment>
+    <segment id="7">Corajosa por natureza</segment>
+    <segment id="8">, a morena garante que esse é apenas um dos grandes desafios de sua vida.</segment>
+    <segment id="9">Para aliviar a tensão do trabalho</segment>
+    <segment id="10">, a gata pratica dança afro há um ano e ainda arranja tempo para gastar energia na academia.</segment>
+    <segment id="11">Ela não é mole não!</segment>
+    <segment id="12">A gata é bacharel em Direito</segment>
+    <segment id="13">, pós-graduanda em Ciências Criminais e está pegando pesado nos estudos para enfrentar a prova da OAB este ano.</segment>
+    <segment id="14">“Tenho que ter foco e jogo de cintura para cumprir minhas obrigações.</segment>
+    <segment id="15">Acordo cedo e faço meu dia ficar mais longo”</segment>
+    <segment id="16">, conta.</segment>
+    <segment id="17">E não para por aí: ela concorre ao título de Rainha do Carnaval 2012.</segment>
+    <segment id="18">“</segment>
+    <segment id="19">Meus colegas de trabalho são meus maiores incentivadores”</segment>
+    <segment id="20">, revela.</segment>
+    <segment id="21">Com uma policial dessas</segment>
+    <segment id="22">, tem marmanjo pedindo por algemas!</segment>
+  </rst>
+</analysis>

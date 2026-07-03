@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A indicação do ministro Flávio Dino (Justiça e Segurança Pública) a uma vaga no STF (Supremo Tribunal Federal) antecipou as movimentações para ocupar o espaço político deixado pelo ex-governador e aliado do presidente Lula (PT) no Maranhão.</segment>
+    <segment id="2">Aliados já começam a</segment>
+    <segment id="3">sese movimentar para ocupar espaço político de Flávio Dino no Maranhão - Pedro Ladeira/FolhapressUma delas já tem</segment>
+    <segment id="4">comocomo foco as eleições de 2026 ao Senado Federal</segment>
+    <segment id="5">, quando estarão em disputa duas vagas pelo estado.</segment>
+    <segment id="6">A senadora Eliziane Gama (PSD) e o atual governador</segment>
+    <segment id="7">, Carlos Brandão (PSB)</segment>
+    <segment id="8">, articulam uma dobradinha para serem eleitos com apoio do governo</segment>
+    <segment id="9">, isolando um potencial adversário na disputa</segment>
+    <segment id="10">, o senador Weverton Rocha (PDT) —relator da indicação de Dino ao STF.</segment>
+    <segment id="11">Weverton e Dino</segment>
+    <segment id="12">sese reaproximaram ao longo deste ano</segment>
+    <segment id="13">, após um afastamento em 2022 por causa das eleições —o senador ficou em terceiro lugar na disputa ao governo do estado</segment>
+    <segment id="14">, vencida por Brandão.</segment>
+  </rst>
+</analysis>

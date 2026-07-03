@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Gabriela parangoleira</segment>
+    <segment id="2">A dançarina do Parangolé</segment>
+    <segment id="3">, Tina Oliveira</segment>
+    <segment id="4">, encarnou</segment>
+    <segment id="5">“Gabriela Cravo e Canela”
+A dançarina do Parangolé</segment>
+    <segment id="6">, Tina Oliveira</segment>
+    <segment id="7">, encarnou “Gabriela  Cravo e Canela” para as lentes atentas de André Carvalho.</segment>
+    <segment id="8">Seu primeiro ensaio sensual irá ao ar na próxima semana no site www.pida.com.br/psiu.</segment>
+    <segment id="9">A morena deu um show!</segment>
+  </rst>
+</analysis>

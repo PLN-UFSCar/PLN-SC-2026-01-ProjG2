@@ -1,0 +1,131 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo Lula vai prorrogar o prazo final para renegociar as dívidas no programa Desenrola Brasil por pelo menos mais três meses.</segment>
+    <segment id="2">Com isso</segment>
+    <segment id="3">, o programa</segment>
+    <segment id="4">, que acabaria em 31 de dezembro deste ano</segment>
+    <segment id="5">, deverá ter prazo final em março de 2024.</segment>
+    <segment id="6">A informação foi dada por Marcos Barbosa Pinto</segment>
+    <segment id="7">, secretário de reformas econômicas do Ministério da Fazenda na manhã desta quarta-feira (6)</segment>
+    <segment id="8">, durante a divulgação do Censo do Desenrola.</segment>
+    <segment id="9">Segundo ele</segment>
+    <segment id="10">, deve ser editada uma medida provisória nos próximos dias com o novo prazo e com a retirada da necessidade de ter conta prata ou ouro no Portal Gov.br</segment>
+    <segment id="11">para que</segment>
+    <segment id="12">para que os consumidores tenham mais facilidade em renegociar dívidas.</segment>
+    <segment id="13">Desenrola Brasil já renegociou R$ 29 bilhões em dívidas e deve ter prazo prorrogado para março de 2024 - ReutersDe julho até agora</segment>
+    <segment id="14">, quando o programa começou</segment>
+    <segment id="15">, foram renegociados R$ 29 bilhões em dívidas</segment>
+    <segment id="16">, beneficiando 10</segment>
+    <segment id="17">,7 milhões de devedores.</segment>
+    <segment id="18">De acordo com o Censo do Desenrola</segment>
+    <segment id="19">, 96% de municípios do país tiveram moradores atendidos no programa</segment>
+    <segment id="20">, que conseguiram renegociar suas dívidas com até 98% de desconto.</segment>
+    <segment id="21">O volume maior de renegociação é de dívidas financeiras</segment>
+    <segment id="22">, o que inclui cartão de crédito.</segment>
+    <segment id="23">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="24">; aberta para não assinantes.</segment>
+    <segment id="25">Carregando...</segment>
+    <segment id="26">O valor médio de pagamento à vista foi de R$ 250.</segment>
+    <segment id="27">Quem pagou a dívida à vista preferiu o Pix.</segment>
+    <segment id="28">A modalidade foi utilizada por 75% dos pagantes.</segment>
+    <segment id="29">Os juros médios cobrados são de 1</segment>
+    <segment id="30">,8% ao mês</segment>
+    <segment id="31">, embora</segment>
+    <segment id="32">embora o programa permita taxa de 1</segment>
+    <segment id="33">,99% ao mês.</segment>
+    <segment id="34">Com isso</segment>
+    <segment id="35">, os juros médios das negociações caem de 15%</segment>
+    <segment id="36">, para quem deve no cartão de crédito</segment>
+    <segment id="37">, por exemplo</segment>
+    <segment id="38">, para 1</segment>
+    <segment id="39">,8%.</segment>
+    <segment id="40">Leia tambémIPVA 2024</segment>
+    <segment id="41">começa a vencer em 11 de janeiro em SP</segment>
+    <segment id="42">;</segment>
+    <segment id="43">veja calendário de pagamentoMais de 400 mil poupadores têm indenização dos planos Bresser</segment>
+    <segment id="44">, Verão e Collor 1 e 2</segment>
+    <segment id="45">; veja</segment>
+    <segment id="46">comocomo receberTrabalhadores ainda podem sacar R$ 536 milhões de abono do PIS/Pasep</segment>
+    <segment id="47">;</segment>
+    <segment id="48">veja comoO programa começou em julho e</segment>
+    <segment id="49">, há dois meses</segment>
+    <segment id="50">, está na segunda fase</segment>
+    <segment id="51">, com 1 milhão de negociações apenas nesta fase.</segment>
+    <segment id="52">O valor total de garantia bancada pelo governo</segment>
+    <segment id="53">para que</segment>
+    <segment id="54">para que as empresas participem do Desenrola foi de 10% do total previsto</segment>
+    <segment id="55">, que estava em R$ 10 bilhões no lançamento.  Saiba</segment>
+    <segment id="56">comocomo renegociar uma dívida pelo DesenrolaMais    novamente         de   de  de  representando um  Segundo o secretário da Fazenda</segment>
+    <segment id="57">, do Dia</segment>
+    <segment id="58">D do Desenrola com R$ 433 milhões negociados obteve a marca de maior sucesso e o dia em que a primeira parcela do 13º foi paga</segment>
+    <segment id="59">, em 30 de novembro</segment>
+    <segment id="60">, também foi uma das datas com maior volume de pagamento e negociação de dívidas.</segment>
+    <segment id="61">"</segment>
+    <segment id="62">O Desenrola tem sido um sucesso e mostra a população interessada e comprometida em renegociar suas dívidas"</segment>
+    <segment id="63">, diz.</segment>
+    <segment id="64">Para ele</segment>
+    <segment id="65">, ainda há um desafio que é atingir todas as pessoas</segment>
+    <segment id="66">poispois há um percentual —não revelado— de potenciais devedores que ainda não renegociaram suas dívidas.</segment>
+    <segment id="67">O governo prepara algum tipo de ação para ampliar o alcance do Desenrola nestes casos.</segment>
+    <segment id="68">Do total</segment>
+    <segment id="69">, 82% das negociações são feitas pelo celular e os negócios são fechados em quatro minutos.  13º salário: quem tem direito e</segment>
+    <segment id="70">comocomo calcular o valorMais    novamente         de   de  de  representando um  Para renegociar a dívida no Desenrola o cidadão deve o site desenrola.gov.br.</segment>
+    <segment id="71">Nele, é possível selecionar a dívida</segment>
+    <segment id="72">, checar qual será o desconto</segment>
+    <segment id="73">, escolher a forma de pagamento e quitar ou parcelar os valores.</segment>
+    <segment id="74">Também há um espaço com orientações de educação financeira.</segment>
+    <segment id="75">Podem participar do Desenrola cidadãos com renda bruta mensal de até dois salários mínimos ou que estejam inscritos no CadÚnico (Cadastro Único para Programas Sociais do Governo Federal) com descontos de até 98%.</segment>
+    <segment id="76">Podem ser renegociadas as dívidas que tenham sido negativadas de 2019 a 2022</segment>
+    <segment id="77">, com valor atualizado de até R$ 20 mil por contrato.</segment>
+    <segment id="78">Entram na renegociação dívidas bancários</segment>
+    <segment id="79">, com cartão de crédito e de loja</segment>
+    <segment id="80">, com seguradoras e de serviços básicos</segment>
+    <segment id="81">comocomo contas de água</segment>
+    <segment id="82">, luz e telefone.</segment>
+    <segment id="83">O parcelamento pode ser feito em até 60 vezes</segment>
+    <segment id="84">, com juros máximos de 1</segment>
+    <segment id="85">,99% ao mês.</segment>
+    <segment id="86">É preciso ter conta prata ou ouro no gov.br</segment>
+    <segment id="87">, masmas essa exigência deverá acabar.</segment>
+    <segment id="88">No entanto</segment>
+    <segment id="89">, os estudos feitos pelos bancos para ampliar o acesso às negociações ainda não foram concluídos.</segment>
+    <segment id="90">Os maiores descontos:</segment>
+    <segment id="91">Caso 1   Valor original:</segment>
+    <segment id="92">835,02 Valor negociado: 10</segment>
+    <segment id="93">,91 Desconto: 98</segment>
+    <segment id="94">,6%</segment>
+    <segment id="95">Caso 2   Valor original: 424</segment>
+    <segment id="96">,42</segment>
+    <segment id="97">Valor negociado: 19</segment>
+    <segment id="98">,92 Desconto: 95</segment>
+    <segment id="99">,3%</segment>
+    <segment id="100">Caso 3   Valor original: 2.254</segment>
+    <segment id="101">,04</segment>
+    <segment id="102">Valor negociado: 94</segment>
+    <segment id="103">,93</segment>
+    <segment id="104">Desconto: 95</segment>
+    <segment id="105">,79%</segment>
+  </rst>
+</analysis>

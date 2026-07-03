@@ -1,0 +1,150 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O número de mulheres assassinadas dentro de casa quase dobrou no estado de São Paulo no período de quarentena da pandemia do novo coronavírus</segment>
+    <segment id="2">, em comparação com os mesmos dias no ano passado.</segment>
+    <segment id="3">De 24 de março —data em que passou a valer o fechamento de comércios</segment>
+    <segment id="4">, bares e restaurantes no estado— a 13 de abril</segment>
+    <segment id="5">, 16 mulheres foram assassinadas dentro de casa.</segment>
+    <segment id="6">No mesmo período de 2019</segment>
+    <segment id="7">, foram 9</segment>
+    <segment id="8">, segundo análise feita pela reportagem dos boletins de ocorrência registrados no estado.</segment>
+    <segment id="9">No acumulado do ano até agora foram 55 mulheres assassinadas em casa até 13 de abril deste ano</segment>
+    <segment id="10">, contra 48 no ano passado</segment>
+    <segment id="11">, um aumento de 15%.</segment>
+    <segment id="12">A análise leva em conta boletins de ocorrência cujo registro diz que o assassinato ocorreu em casa.</segment>
+    <segment id="13">Os dados são preliminares e podem sofrer alterações.</segment>
+    <segment id="14">Também é possível que haja mais casos do que os contabilizados pela reportagem</segment>
+    <segment id="15">, já que alguns campos do boletim de ocorrência</segment>
+    <segment id="16">, como</segment>
+    <segment id="17">como sexo da vítima</segment>
+    <segment id="18">, por vezes não são preenchidos.</segment>
+    <segment id="19">Além disso</segment>
+    <segment id="20">, os boletins mostram que 8 mulheres foram mortas pelos parceiros no período da quarentena</segment>
+    <segment id="21">, contra 3 no ano passado —</segment>
+    <segment id="22">masmas o número tende a ser maior</segment>
+    <segment id="23">porque</segment>
+    <segment id="24">porque a relação da vítima com o autor não é registrada em 95% dos b.o.s.</segment>
+    <segment id="25">Os números apontam um aumento da violência contra a mulher neste período de isolamento</segment>
+    <segment id="26">, na opinião de especialistas consultados pela Folha.</segment>
+    <segment id="27">Pesquisa do Ministério Público de SP mostra que 66% dos feminicídios consumados ou tentados foram praticados na casa da vítima.  "</segment>
+    <segment id="28">As mulheres já viviam numa situação de violência</segment>
+    <segment id="29">, isso não é uma novidade trazida pelo coronavírus.</segment>
+    <segment id="30">O confinamento faz com que o conflito</segment>
+    <segment id="31">sese escale</segment>
+    <segment id="32">, e as mulheres sejam assassinadas.</segment>
+    <segment id="33">Infelizmente</segment>
+    <segment id="34">, é provável que haja um aumento ainda maior nos próximos meses"</segment>
+    <segment id="35">, afirma Samira Bueno</segment>
+    <segment id="36">, diretora do Fórum Brasileiro de Segurança Pública e pesquisadora do tema.</segment>
+    <segment id="37">Alguns fatores que contribuem para esse crescimento durante a quarentena</segment>
+    <segment id="38">, segundo a pesquisadora</segment>
+    <segment id="39">, são o aumento do consumo de bebidas alcoólicas e problemas socioeconômicos com a perda de renda.</segment>
+    <segment id="40">Ela lembra que em 2019 já havia acontecido um aumento da violência doméstica em relação ao ano anterior</segment>
+    <segment id="41">, número que</segment>
+    <segment id="42">, com o confinamento provocado pelo coronavírus</segment>
+    <segment id="43">, pode crescer ainda mais.</segment>
+    <segment id="44">Um levantamento do Ministério Público de SP publicado nesta semana mostrou que os pedidos de medidas protetivas de urgência feitos por mulheres cresceram 29% em março em comparação com fevereiro.</segment>
+    <segment id="45">O número saltou de 1.934 para 2.500 de um mês para o outro.</segment>
+    <segment id="46">O número de prisões em flagrante por violência contra a mulher (homicídio</segment>
+    <segment id="47">, ameaça</segment>
+    <segment id="48">, constrangimento ilegal</segment>
+    <segment id="49">, cárcere privado</segment>
+    <segment id="50">, lesão</segment>
+    <segment id="51">, estupro etc.) também cresceu:</segment>
+    <segment id="52">foram 177 em fevereiro e 268 em março.  "</segment>
+    <segment id="53">Já houve uma redução no número de inquéritos policiais e processos</segment>
+    <segment id="54">, não porque</segment>
+    <segment id="55">porque a violência diminuiu</segment>
+    <segment id="56">, masmas</segment>
+    <segment id="57">porque</segment>
+    <segment id="58">porque os prazos na Justiça estão suspensos até o fim de abril.</segment>
+    <segment id="59">Então optamos por levantar procedimentos urgentes</segment>
+    <segment id="60">, como</segment>
+    <segment id="61">como as medidas cautelares e prisões em flagrante</segment>
+    <segment id="62">, que não pararam neste período"</segment>
+    <segment id="63">, afirma a promotora Valéria Scarance</segment>
+    <segment id="64">, uma das responsáveis pelo estudo.</segment>
+    <segment id="65">Coronavírus no Brasil   novamente         de   de  de  representando um  "</segment>
+    <segment id="66">A pandemia não transforma o homem em uma pessoa violenta.</segment>
+    <segment id="67">Mas os fatores de estresse podem fazer com que um homem que já carrega dentro de si esses padrões pratiquem o ato ou o intensifiquem"</segment>
+    <segment id="68">, diz.</segment>
+    <segment id="69">Samira Bueno afirma que o aumento nas mortes durante a quarentena era esperado</segment>
+    <segment id="70">, pela experiência de outros países</segment>
+    <segment id="71">, como</segment>
+    <segment id="72">como China</segment>
+    <segment id="73">, Itália e França</segment>
+    <segment id="74">, onde também</segment>
+    <segment id="75">sese viu crescer a violência doméstica.</segment>
+    <segment id="76">Autoridades mundiais</segment>
+    <segment id="77">sese manifestaram contra a escalada na violência</segment>
+    <segment id="78">, como</segment>
+    <segment id="79">como o secretário-geral da ONU</segment>
+    <segment id="80">, António Guterres.</segment>
+    <segment id="81">"</segment>
+    <segment id="82">Eu rogo a todos os governos que coloquem a segurança das mulheres em primeiro lugar nas respostas à pandemia"</segment>
+    <segment id="83">, escreveu numa rede social.</segment>
+    <segment id="84">Os países traçaram diferentes estratégias.</segment>
+    <segment id="85">O governo francês</segment>
+    <segment id="86">, por exemplo</segment>
+    <segment id="87">, decidiu pagar quartos de hotel para vítimas de violência e abrir centros de aconselhamento.</segment>
+    <segment id="88">ONGs na Itália lançaram campanhas</segment>
+    <segment id="89">para que</segment>
+    <segment id="90">para que as mulheres fizessem denúncias quando fossem ao mercado ou colocar o lixo para fora</segment>
+    <segment id="91">, por exemplo</segment>
+    <segment id="92">, lembrando-as o de apagar o histórico da chamada no celular.</segment>
+    <segment id="93">Scarance lembra que a responsabilidade pelo fim da violência doméstica não é só da vítima</segment>
+    <segment id="94">, masmas que a comunidade também deve</segment>
+    <segment id="95">sese atentar a isso.  "</segment>
+    <segment id="96">Nesse período de isolamento</segment>
+    <segment id="97">, é muito importante que as pessoas fiquem atentas e não</segment>
+    <segment id="98">sese calem.</segment>
+    <segment id="99">Se qualquer pessoa escutar atos de violência e de agressão</segment>
+    <segment id="100">, a recomendação é que acionem imediatamente o 190.</segment>
+    <segment id="101">"  "</segment>
+    <segment id="102">E, para as mulheres</segment>
+    <segment id="103">, a recomendação é não desistir.</segment>
+    <segment id="104">Existe um isolamento físico</segment>
+    <segment id="105">, masmas as redes não estão isoladas.</segment>
+    <segment id="106">A mulher pode acionar os serviços de proteção</segment>
+    <segment id="107">, as pessoas de confiança</segment>
+    <segment id="108">, e cuidar para sair dessa situação.</segment>
+    <segment id="109">"</segment>
+    <segment id="110">Vítimas de violência doméstica podem denunciar o abuso à Polícia Militar</segment>
+    <segment id="111">, pelo telefone 190</segment>
+    <segment id="112">, pelo disque-denúncia do governo federal</segment>
+    <segment id="113">, o 180</segment>
+    <segment id="114">, numa delegacia da mulher (veja lista e endereços das delegacias de SP aqui)</segment>
+    <segment id="115">, à promotoria ou defensoria pública.</segment>
+    <segment id="116">Na capital paulista</segment>
+    <segment id="117">, pode-</segment>
+    <segment id="118">sese procurar também a Casa da Mulher Brasileira (r. Vieira Ravasco</segment>
+    <segment id="119">, 26, Cambuci)</segment>
+    <segment id="120">, que funciona 24h por dia e vai encaminhar a vítima ao serviço mais indicado.</segment>
+    <segment id="121">As denúncias também podem ser feitas pelos aplicativos SOS Mulher</segment>
+    <segment id="122">, do Governo de SP</segment>
+    <segment id="123">, e Direitos Humanos Brasil</segment>
+    <segment id="124">, do governo federal.</segment>
+  </rst>
+</analysis>

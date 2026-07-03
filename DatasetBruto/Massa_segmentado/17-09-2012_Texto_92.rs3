@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Baiano termina em 18Âº lugar no ParanÃ¡</segment>
+    <segment id="2">Patrick estÃ¡ em 32Âº no campeonato</segment>
+    <segment id="3">, com 4 pontos</segment>
+    <segment id="4">O piloto baiano Patrick GonÃ§alves ficou na 18Âª posiÃ§Ã£o do GP de Cascavel-PR de Stock Car</segment>
+    <segment id="5">, realizado ontem.</segment>
+    <segment id="6">O vencedor foi Valdeno Brito</segment>
+    <segment id="7">, que conquistou a segunda vitÃ³ria no ano e saltou de sÃ©timo para quarto no campeonato.</segment>
+    <segment id="8">Julio Campos</segment>
+    <segment id="9">, em sua melhor corrida na categoria</segment>
+    <segment id="10">, liderou boa parte da prova e terminou na segunda posiÃ§Ã£o.</segment>
+    <segment id="11">Allam Khodair</segment>
+    <segment id="12">, vencedor das duas corridas anteriores</segment>
+    <segment id="13">, completou o pÃ³dio da oitava etapa apÃ³s partir de 13Âº.</segment>
+    <segment id="14">A prÃ³xima etapa da Stock Car 2012 serÃ¡ em TarumÃ£</segment>
+    <segment id="15">,</segment>
+    <segment id="16">no Rio Grande do Sul</segment>
+    <segment id="17">, no dia 30 de setembro.</segment>
+  </rst>
+</analysis>

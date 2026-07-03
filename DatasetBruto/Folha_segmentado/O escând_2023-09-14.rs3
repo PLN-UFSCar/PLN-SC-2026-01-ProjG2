@@ -1,0 +1,124 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O escândalo do aumento nos preços dos ingressos para as finais da Copa do Brasil levou o Procon a procurar o Flamengo.</segment>
+    <segment id="2">E fez o presidente do São Paulo tentar responder</segment>
+    <segment id="3">, em vão</segment>
+    <segment id="4">, por que julga que dirige o clube mais popular do país</segment>
+    <segment id="5">, já que o valor de face do ingresso mais barato para os jogos é de R$ 200.</segment>
+    <segment id="6">Mas esse valor de face não é uma verdade absoluta</segment>
+    <segment id="7">, e sócios são-paulinos poderão entrar no estádio por R$ 50</segment>
+    <segment id="8">,30.</segment>
+    <segment id="9">Colunas e BlogsReceba no seu email uma seleção de colunas e blogs da Folha</segment>
+    <segment id="10">; exclusiva para assinantes.</segment>
+    <segment id="11">Carregando...</segment>
+    <segment id="12">É sempre importante dar a informação completa.</segment>
+    <segment id="13">A decisão São Paulo x Flamengo indica que há ajustes importantes a fazer</segment>
+    <segment id="14">para que</segment>
+    <segment id="15">para que o Brasil continue aumentando o número de torcedores nas arquibancadas e permita o acesso de todas as camadas sociais.</segment>
+    <segment id="16">Os programas de sócios-torcedores representam o fator mais determinante para o crescimento de público nos estádios.</segment>
+    <segment id="17">Com 26 mil pagantes por jogo</segment>
+    <segment id="18">, a Série</segment>
+    <segment id="19">A deste ano supera em 17% o recorde da história do país</segment>
+    <segment id="20">, registrado 40 anos atrás.</segment>
+    <segment id="21">Mesmo assim é necessário melhorar.</segment>
+    <segment id="22">Torcida do Botafogo no jogo contra o Bahia</segment>
+    <segment id="23">, no estádio Nilton Santos - Ricardo Moraes - 27.ago.23/ReutersNa semifinal</segment>
+    <segment id="24">, contra o Corinthians</segment>
+    <segment id="25">,</segment>
+    <segment id="26">o São Paulo cobrou R$ 75 pelo bilhete mais barato</segment>
+    <segment id="27">, R$ 35 para quem tem direito à meia entrada.</segment>
+    <segment id="28">Na finalíssima</segment>
+    <segment id="29">, contra o Flamengo</segment>
+    <segment id="30">, o valor cheio subiu para R$ 200.</segment>
+    <segment id="31">O aumento é de 185%!</segment>
+    <segment id="32">Abusivo.</segment>
+    <segment id="33">É possível efetuar outra conta.</segment>
+    <segment id="34">O sócio tricolor que paga R$ 199</segment>
+    <segment id="35">,99 por mês tem prioridade e precisará acrescentar R$ 0</segment>
+    <segment id="36">,30.</segment>
+    <segment id="37">Dividindo esses R$ 199</segment>
+    <segment id="38">,99 pelos quatro jogos que</segment>
+    <segment id="39">, em média</segment>
+    <segment id="40">, a equipe faz por mês em seu estádio</segment>
+    <segment id="41">, são R$ 50</segment>
+    <segment id="42">,30 para acessar o Morumbi.</segment>
+    <segment id="43">É o menor valor a ser gasto pelos são-paulinos.</segment>
+    <segment id="44">O pecado mortal é São Paulo e Flamengo oferecerem a preferência a quem paga mais</segment>
+    <segment id="45">, não a quem tem mais assiduidade.</segment>
+    <segment id="46">Uma comparação.</segment>
+    <segment id="47">O palmeirense do plano ouro paga R$ 144 por mês e tem 100% de desconto em todas as partidas.</segment>
+    <segment id="48">Será prioritário para comprar um ingresso</segment>
+    <segment id="49">sese esteve presente em 80% delas.</segment>
+    <segment id="50">Diferentemente dos finalistas da Copa do Brasil</segment>
+    <segment id="51">, a primazia em Palmeiras e Corinthians é de quem passa pela catraca sempre</segment>
+    <segment id="52">, não de quem paga mais.</segment>
+    <segment id="53">Para um palmeirense desse plano</segment>
+    <segment id="54">, o bilhete acabará custando R$ 36 (R$ 144 divido por 4) contra o Cuiabá —na estreia da Série A—</segment>
+    <segment id="55">, contra o Boca Juniors —na semifinal da Libertadores— ou na final da Copa do Brasil.</segment>
+    <segment id="56">A prioridade precisa ser para quem vai sempre</segment>
+    <segment id="57">, não para quem paga mais.</segment>
+    <segment id="58">A conta rubro-negra é mais cruel do que a são-paulina.</segment>
+    <segment id="59">O menor valor será R$ 125.</segment>
+    <segment id="60">A conta inclui pagar um quarto de um plano de sócio com amigos</segment>
+    <segment id="61">, ir a todos os quatro jogos do mês e aplicar o desconto de 50%.</segment>
+    <segment id="62">Mesmo assim</segment>
+    <segment id="63">, R$ 125 para entrar.</segment>
+    <segment id="64">É muito caro!  Não é justo dizer que o futebol está mais elitizado do que no passado</segment>
+    <segment id="65">, masmas o Flamengo está.</segment>
+    <segment id="66">Há 40 anos</segment>
+    <segment id="67">, quando o bilhete da geral custava baratinho</segment>
+    <segment id="68">, os preços nas finais subiam em média 60%.</segment>
+    <segment id="69">Na primeira rodada de 1983</segment>
+    <segment id="70">, custou</segment>
+    <segment id="71">, em média</segment>
+    <segment id="72">, Cr$ 53 (cruzeiros).</segment>
+    <segment id="73">Na final</segment>
+    <segment id="74">, Santos x Flamengo</segment>
+    <segment id="75">, pagava-</segment>
+    <segment id="76">sese Cr$ 1.084.</segment>
+    <segment id="77">Mesmo considerando haver inflação mensal naquele período</segment>
+    <segment id="78">, era um abuso.</segment>
+    <segment id="79">E as arquibancadas estavam vazias.</segment>
+    <segment id="80">O Flamengo recebeu 155 mil torcedores para a finalíssima contra o Santos e apenas 6.000 contra o Americano</segment>
+    <segment id="81">, num estádio com 200 mil lugares.</segment>
+    <segment id="82">Lance de Flamengo 3</segment>
+    <segment id="83">X 0 Santos</segment>
+    <segment id="84">, final do Brasileiro de 1983</segment>
+    <segment id="85">, no Maracanã -</segment>
+    <segment id="86">ReproduçãoFoi o campeonato do recorde de espectadores: 22.983 mil por jogo.</segment>
+    <segment id="87">Hoje, a média é 17% maior: 26.857.</segment>
+    <segment id="88">Tem algo funcionando bem para ter mais gente nos estádios.</segment>
+    <segment id="89">Por outro lado</segment>
+    <segment id="90">, algo não funciona.</segment>
+    <segment id="91">Os planos de Flamengo e São Paulo —o clube mais popular do Brasil</segment>
+    <segment id="92">, o rubro-negro</segment>
+    <segment id="93">, e o que</segment>
+    <segment id="94">sese propõe a ser— não deveriam priorizar quem paga o maior valor.</segment>
+    <segment id="95">O torcedor que vai de três a quatro vezes por mês deveria ter chance de comprar seu ingresso por um preço justo.</segment>
+    <segment id="96">Não há justiça</segment>
+    <segment id="97">, no Brasil</segment>
+    <segment id="98">, em cobrar R$ 100 por um espetáculo de futebol.</segment>
+  </rst>
+</analysis>

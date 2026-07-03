@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Hospital está sem luz há oito horas em Jacarepaguá</segment>
+    <segment id="2">Transformador explode e interrompe fornecimento de energia
+RIO - O Hospital Memorial</segment>
+    <segment id="3">, três condomínios e duas casas na Rua Araguaia</segment>
+    <segment id="4">, perto da Avenida Geremário Dantas</segment>
+    <segment id="5">, na Freguesia</segment>
+    <segment id="6">, em Jacarepaguá</segment>
+    <segment id="7">, estão sem luz desde 14h45m</segment>
+    <segment id="8">, quando um transformador explodiu</segment>
+    <segment id="9">, interrompendo o fornecimento de energia.</segment>
+    <segment id="10">Uma equipe da Light já esteve no local</segment>
+    <segment id="11">, masmas não fez o conserto</segment>
+    <segment id="12">, alegando que não tinha o material necessário.</segment>
+    <segment id="13">No momento</segment>
+    <segment id="14">, médicos</segment>
+    <segment id="15">, pacientes e moradores aguardam o retorno dos técnicos.</segment>
+  </rst>
+</analysis>

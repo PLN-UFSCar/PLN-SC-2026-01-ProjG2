@@ -1,0 +1,97 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A massa de rendimento do trabalho no Brasil alcançou R$ 288</segment>
+    <segment id="2">,9 bilhões no trimestre encerrado em agosto</segment>
+    <segment id="3">, segundo dados divulgados nesta sexta-feira (29) pelo IBGE (Instituto Brasileiro de Geografia e Estatística).</segment>
+    <segment id="4">O montante é recorde na série histórica da Pnad Contínua (Pesquisa Nacional por Amostra de Domicílios Contínua)</segment>
+    <segment id="5">, iniciada em 2012.</segment>
+    <segment id="6">A alta real (considerando a inflação) foi de 2</segment>
+    <segment id="7">,4% ante o trimestre anterior</segment>
+    <segment id="8">, finalizado em maio.</segment>
+    <segment id="9">A massa de rendimento significa a soma dos salários recebidos pelos trabalhadores.</segment>
+    <segment id="10">Conforme o IBGE</segment>
+    <segment id="11">, o crescimento do indicador pode ser explicado pelo aumento da população ocupada com algum tipo de trabalho (formal ou informal).</segment>
+    <segment id="12">Garçom trabalha em hotel na zona sul do Rio de Janeiro - Eduardo Anizelli - 8.dez.2022/Folhapress"A massa cresce</segment>
+    <segment id="13">porque</segment>
+    <segment id="14">porque tem mais gente trabalhando"</segment>
+    <segment id="15">, disse Adriana Beringuy</segment>
+    <segment id="16">, coordenadora de pesquisas por amostra de domicílios do IBGE.</segment>
+    <segment id="17">No trimestre até agosto</segment>
+    <segment id="18">, o número de ocupados chegou a 99</segment>
+    <segment id="19">,65 milhões no Brasil.</segment>
+    <segment id="20">O crescimento foi de 1</segment>
+    <segment id="21">,3% (ou 1</segment>
+    <segment id="22">,3 milhão a mais) ante o trimestre encerrado em maio.</segment>
+    <segment id="23">O novo contingente está próximo do recorde da série (99</segment>
+    <segment id="24">,69 milhões)</segment>
+    <segment id="25">, registrado no trimestre até novembro de 2022.</segment>
+    <segment id="26">Para o economista André Perfeito</segment>
+    <segment id="27">, o resultado da massa salarial "reafirma o bom momento" do PIB (Produto Interno Bruto)</segment>
+    <segment id="28">, que mede o desempenho da atividade econômica.</segment>
+    <segment id="29">"</segment>
+    <segment id="30">Isso indica mais uma vez que o PIB deste ano deve avançar de maneira mais significativa"</segment>
+    <segment id="31">, projetou Perfeito.</segment>
+    <segment id="32">Economistas dizem que o mercado de trabalho costuma reagir ao comportamento da atividade econômica.</segment>
+    <segment id="33">Na teoria</segment>
+    <segment id="34">, com o crescimento do PIB</segment>
+    <segment id="35">, a tendência é de demanda maior por mão de obra</segment>
+    <segment id="36">, o que estimularia as contratações.    Sergio Vale</segment>
+    <segment id="37">, economista-chefe da consultoria MB Associados</segment>
+    <segment id="38">, avalia que o avanço da massa de rendimentos tende a ser mais intenso em regiões do interior do país</segment>
+    <segment id="39">, onde há maior influência do agronegócio</segment>
+    <segment id="40">, em destaque neste ano.</segment>
+    <segment id="41">"</segment>
+    <segment id="42">A massa de renda</segment>
+    <segment id="43">comocomo um todo continua subindo</segment>
+    <segment id="44">, masmas temos diferenças regionais no Brasil.</segment>
+    <segment id="45">A gente vê no PIB um crescimento mais focado no agronegócio.</segment>
+    <segment id="46">É natural que emprego e massa de renda cresçam mais nessas regiões"</segment>
+    <segment id="47">, diz.  "</segment>
+    <segment id="48">Esse cenário tende a</segment>
+    <segment id="49">sese reverter um pouco no ano que vem.</segment>
+    <segment id="50">O agro continuará relevante</segment>
+    <segment id="51">, masmas não com a mesma intensidade de crescimento"</segment>
+    <segment id="52">, completa.</segment>
+    <segment id="53">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="54">; aberta para não assinantes.</segment>
+    <segment id="55">Carregando...</segment>
+    <segment id="56">Renda média fica estável no trimestre e cresce no ano</segment>
+    <segment id="57">A Pnad também traz dados sobre o rendimento real habitual do trabalho.</segment>
+    <segment id="58">Esse indicador estima a renda que cada trabalhador recebeu</segment>
+    <segment id="59">, em média</segment>
+    <segment id="60">, com suas atividades laborais.</segment>
+    <segment id="61">No trimestre até agosto</segment>
+    <segment id="62">, o rendimento foi de R$ 2.947</segment>
+    <segment id="63">, ou 1</segment>
+    <segment id="64">,1% maior do que o verificado até maio (R$ 2.914).</segment>
+    <segment id="65">Por não ser uma variação tão expressiva em termos estatísticos</segment>
+    <segment id="66">, o IBGE considera que o resultado ficou dentro da margem de estabilidade.</segment>
+    <segment id="67">Na comparação anual</segment>
+    <segment id="68">, a renda média teve crescimento de 4</segment>
+    <segment id="69">,6% ante o trimestre até agosto de 2022 (R$ 2.818).</segment>
+    <segment id="70">A recomposição dos salários também contribui para o aumento da massa.</segment>
+    <segment id="71">Entenda os tipos de contratos de trabalhoMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

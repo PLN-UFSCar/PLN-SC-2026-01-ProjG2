@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">ONU inocenta soldados brasileiros no Haiti</segment>
+    <segment id="2">SÃO PAULO - Uma investigação das Nações Unidas concluiu que os oito soldados brasileiros acusados de espancar três haitianos em dezembro passado são inocentes.</segment>
+    <segment id="3">Segundo o comandante das tropas de Paz da ONU no Haiti</segment>
+    <segment id="4">, general Luiz Eduardo Ramos</segment>
+    <segment id="5">, o rastreamento dos sinais de celular e GPS prova que os militares não estavam no local do crime.</segment>
+    <segment id="6">Além disso</segment>
+    <segment id="7">, o carro com a placa que as supostas vítimas afirmam que teria sido usado pelos brasileiros estava estacionado no quartel.
+
+- Fizemos uma reconstituição.</segment>
+    <segment id="8">A testemunha alega que viu a agressão de um ponto.</segment>
+    <segment id="9">Mas, de lá</segment>
+    <segment id="10">, não se</segment>
+    <segment id="11">se consegue ver onde ela teria ocorrido - afirma o general.</segment>
+    <segment id="12">Segundo Ramos</segment>
+    <segment id="13">, apesar de o relatório apontar a inocência dos soldados</segment>
+    <segment id="14">, uma equipe do Exército vai ao Haiti para avaliar as investigações e reconfirmar o resultado.</segment>
+    <segment id="15">A ONG Rede Nacional de Defesa de Direitos Humanos (RNDDH) denunciou os soldados brasileiros por supostamente espancar três jovens em La Salina</segment>
+    <segment id="16">, próximo à capital haitiana</segment>
+    <segment id="17">, deixando-os à beira da morte.</segment>
+  </rst>
+</analysis>

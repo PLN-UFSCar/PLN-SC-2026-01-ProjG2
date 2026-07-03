@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Filho de cantora ganha berÃ§o no camarim</segment>
+    <segment id="2">Por causa do programa</segment>
+    <segment id="3">, a cantora</segment>
+    <segment id="4">sese mudou temporariamente para o Rio de Janeiro</segment>
+    <segment id="5">A cantora foi surpreendida ao visitar seu camarim do programa â€œThe Voice Brasilâ€.</segment>
+    <segment id="6">A produÃ§Ã£o do reality show musical da Globo - que estreia dia 23  - colocou um berÃ§o para seu filho recÃ©m-nascido</segment>
+    <segment id="7">, Rafael.</segment>
+    <segment id="8">â€œJÃ¡ dizia minha avÃ³: â€˜Nessa vida?</segment>
+    <segment id="9">Mais vale o amor e a humildade!â€™.</segment>
+    <segment id="10">NÃ£o tem dinheiro que pague a alegria de ser recebida com tanto amor!â€</segment>
+    <segment id="11">, disse Claudia.</segment>
+  </rst>
+</analysis>

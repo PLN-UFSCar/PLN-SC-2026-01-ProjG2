@@ -1,0 +1,242 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Geoffrey Hinton foi um pioneiro da inteligência artificial.</segment>
+    <segment id="2">Em 2012</segment>
+    <segment id="3">, ele e dois de seus alunos de pós-graduação na Universidade de Toronto (Canadá) criaram uma tecnologia que</segment>
+    <segment id="4">sese tornou a base intelectual dos sistemas de IA que as maiores empresas do setor de tecnologia acreditam ser a chave do seu futuro.</segment>
+    <segment id="5">Nesta segunda-feira (1)</segment>
+    <segment id="6">, entretanto</segment>
+    <segment id="7">, ele aderiu oficialmente ao crescente coro de críticos que dizem que essas empresas estão correndo para o perigo com sua campanha agressiva para criar produtos baseados em IA generativa</segment>
+    <segment id="8">, a tecnologia que alimenta chatbots populares</segment>
+    <segment id="9">comocomo o ChatGPT.</segment>
+    <segment id="10">Hinton disse que deixou seu cargo no Google</segment>
+    <segment id="11">, onde trabalhou durante mais de uma década e</segment>
+    <segment id="12">sese tornou uma das vozes mais respeitadas do setor</segment>
+    <segment id="13">, para poder falar livremente sobre os riscos da IA.</segment>
+    <segment id="14">Uma parte dele agora</segment>
+    <segment id="15">sese arrepende do trabalho de sua vida</segment>
+    <segment id="16">, disse.  Geoffrey Hinton</segment>
+    <segment id="17">, pioneiro da inteligência artificial</segment>
+    <segment id="18">, palestra em evento no Canadá - Mark Blinch - 4.dez.2017/Reuters"Eu me consolo com a desculpa normal:</segment>
+    <segment id="19">sese eu não tivesse feito isso</segment>
+    <segment id="20">, outra pessoa teria"</segment>
+    <segment id="21">, disse Hinton durante uma longa entrevista na semana passada na sala de jantar de sua casa em Toronto</segment>
+    <segment id="22">, a uma curta caminhada de onde ele e seus alunos fizeram sua descoberta.</segment>
+    <segment id="23">A jornada de Hinton de pioneiro da IA a arauto da derrota marca um momento notável para a indústria tecnológica</segment>
+    <segment id="24">, talvez em seu ponto de inflexão mais importante em décadas.</segment>
+    <segment id="25">Os líderes do setor acreditam que os novos sistemas de IA podem ser tão importantes quanto a introdução do navegador da Web no início dos anos 1990</segment>
+    <segment id="26">, e poderão levar a avanços em áreas que vão da pesquisa de medicamentos à educação.</segment>
+    <segment id="27">Mas o medo de que estejam liberando algo perigoso na natureza atormenta muitos membros importantes da indústria.</segment>
+    <segment id="28">A IA generativa já pode ser uma ferramenta de desinformação.</segment>
+    <segment id="29">Em breve</segment>
+    <segment id="30">, poderá ser um risco para os empregos.</segment>
+    <segment id="31">Em algum momento</segment>
+    <segment id="32">, dizem os mais preocupados com a tecnologia</segment>
+    <segment id="33">, poderá ser um risco para a humanidade.</segment>
+    <segment id="34">"</segment>
+    <segment id="35">É difícil ver</segment>
+    <segment id="36">comocomo</segment>
+    <segment id="37">sese pode impedir que maus atores a usem para coisas ruins"</segment>
+    <segment id="38">, disse Hinton.</segment>
+    <segment id="39">Depois que a startup OpenAI</segment>
+    <segment id="40">, de San Francisco</segment>
+    <segment id="41">, lançou uma nova versão do ChatGPT</segment>
+    <segment id="42">, em março</segment>
+    <segment id="43">, mais de mil líderes e pesquisadores de tecnologia assinaram uma carta aberta pedindo uma moratória de seis meses no desenvolvimento de novos sistemas</segment>
+    <segment id="44">, porque</segment>
+    <segment id="45">porque as tecnologias de IA representam "riscos profundos para a sociedade e a humanidade".</segment>
+    <segment id="46">Vários dias depois</segment>
+    <segment id="47">, 19 atuais e ex-líderes da Associação para o Avanço da Inteligência Artificial</segment>
+    <segment id="48">, uma sociedade acadêmica de 40 anos</segment>
+    <segment id="49">, divulgaram sua própria carta alertando sobre os riscos da IA.</segment>
+    <segment id="50">Esse grupo inclui Eric Horvitz</segment>
+    <segment id="51">, diretor científico da Microsoft</segment>
+    <segment id="52">, que implantou a tecnologia da OpenAI em uma ampla gama de produtos</segment>
+    <segment id="53">, incluindo seu mecanismo de busca Bing.</segment>
+    <segment id="54">Inteligência artificial: o que é ChatGPT?Mais    novamente         de   de  de  representando um  Hinton</segment>
+    <segment id="55">, muitas vezes chamado de "o padrinho da IA"</segment>
+    <segment id="56">, não assinou nenhuma dessas cartas e disse que não queria criticar publicamente o Google ou outras empresas até que deixasse o emprego.</segment>
+    <segment id="57">Ele notificou a empresa no mês passado sobre sua demissão e</segment>
+    <segment id="58">, na quinta-feira (27)</segment>
+    <segment id="59">, conversou por telefone com Sundar Pichai</segment>
+    <segment id="60">, CEO da Alphabet</segment>
+    <segment id="61">, controladora do Google.</segment>
+    <segment id="62">Ele se</segment>
+    <segment id="63">se recusou a comentar publicamente os detalhes da conversa.</segment>
+    <segment id="64">O cientista-chefe do Google</segment>
+    <segment id="65">, Jeff Dean</segment>
+    <segment id="66">, disse em comunicado: "</segment>
+    <segment id="67">Continuamos comprometidos com uma abordagem responsável da IA.</segment>
+    <segment id="68">Estamos continuamente aprendendo a entender os riscos emergentes</segment>
+    <segment id="69">, ao mesmo tempo em que inovamos com ousadia".</segment>
+    <segment id="70">Hinton</segment>
+    <segment id="71">, um britânico de 75 anos</segment>
+    <segment id="72">, é um acadêmico cuja carreira foi impulsionada por suas convicções pessoais sobre o desenvolvimento e uso da IA.</segment>
+    <segment id="73">Em 1972</segment>
+    <segment id="74">, como</segment>
+    <segment id="75">como estudante de pós-graduação na Universidade de Edimburgo (Escócia)</segment>
+    <segment id="76">, ele abraçou uma ideia chamada rede neural –um sistema matemático que aprende habilidades analisando dados.</segment>
+    <segment id="77">Na época</segment>
+    <segment id="78">, poucos pesquisadores acreditaram na ideia.</segment>
+    <segment id="79">Mas tornou-</segment>
+    <segment id="80">sese o trabalho de sua vida.</segment>
+    <segment id="81">Na década de 1980</segment>
+    <segment id="82">, Hinton era professor de ciência da computação na Universidade Carnegie Mellon (EUA)</segment>
+    <segment id="83">, masmas mudou-</segment>
+    <segment id="84">sese para o Canadá</segment>
+    <segment id="85">, dizendo que relutava em receber financiamento do Pentágono.</segment>
+    <segment id="86">Na época</segment>
+    <segment id="87">, a maior parte da pesquisa de IA nos Estados Unidos era financiada pelo Departamento de Defesa.</segment>
+    <segment id="88">Hinton</segment>
+    <segment id="89">sese opõe profundamente ao uso da IA em guerras –o que ele chama de "soldados-robôs".</segment>
+    <segment id="90">Em 2012</segment>
+    <segment id="91">, Hinton e dois de seus alunos em Toronto</segment>
+    <segment id="92">, Ilya Sutskever e Alex Krishevsky</segment>
+    <segment id="93">, construíram uma rede neural capaz de analisar milhares de fotos e aprender a identificar objetos comuns</segment>
+    <segment id="94">, como</segment>
+    <segment id="95">como flores</segment>
+    <segment id="96">, cachorros e carros.</segment>
+    <segment id="97">O Google gastou US$ 44 milhões para adquirir uma empresa fundada por Hinton e seus dois alunos.</segment>
+    <segment id="98">E seu sistema levou à criação de tecnologias cada vez mais poderosas</segment>
+    <segment id="99">, incluindo novos chatbots</segment>
+    <segment id="100">comocomo ChatGPT e o Bard do Google.</segment>
+    <segment id="101">Sutskever tornou-</segment>
+    <segment id="102">sese cientista-chefe da OpenAI.</segment>
+    <segment id="103">Em 2018</segment>
+    <segment id="104">, Hinton e dois outros antigos colaboradores receberam o Prêmio Turing</segment>
+    <segment id="105">, frequentemente chamado de "Nobel da computação"</segment>
+    <segment id="106">, por seu trabalho em redes neurais.</segment>
+    <segment id="107">Veja 8 ferramentas de inteligência artificial para ir além do ChatGPTMais    novamente         de   de  de  representando um</segment>
+    <segment id="108">Na mesma época</segment>
+    <segment id="109">, Google</segment>
+    <segment id="110">, OpenAI e outras empresas começaram a construir redes neurais que aprendiam com grandes quantidades de texto digital.</segment>
+    <segment id="111">Hinton achava que era uma maneira poderosa de as máquinas entenderem e gerarem linguagem</segment>
+    <segment id="112">, masmas era inferior à maneira</segment>
+    <segment id="113">comocomo os humanos lidavam com a linguagem.</segment>
+    <segment id="114">Então, no ano passado</segment>
+    <segment id="115">, quando o Google e a OpenAI construíram sistemas usando quantidades muito maiores de dados</segment>
+    <segment id="116">, sua opinião mudou.</segment>
+    <segment id="117">Ele ainda acreditava que os sistemas eram inferiores ao cérebro humano em alguns aspectos</segment>
+    <segment id="118">, masmas que estavam eclipsando a inteligência humana em outros.</segment>
+    <segment id="119">"</segment>
+    <segment id="120">Talvez o que está acontecendo nesses sistemas"</segment>
+    <segment id="121">, disse</segment>
+    <segment id="122">, "seja na verdade muito melhor do que o que acontece no cérebro.</segment>
+    <segment id="123">"</segment>
+    <segment id="124">Conforme as empresas aperfeiçoam seus sistemas de IA</segment>
+    <segment id="125">, eles</segment>
+    <segment id="126">sese tornam cada vez mais perigosos</segment>
+    <segment id="127">, acredita Hinton.</segment>
+    <segment id="128">"</segment>
+    <segment id="129">Veja como</segment>
+    <segment id="130">como era cinco anos atrás e</segment>
+    <segment id="131">comocomo está agora"</segment>
+    <segment id="132">, disse ele sobre a tecnologia de IA.</segment>
+    <segment id="133">"</segment>
+    <segment id="134">Pegue a diferença e propague-a à frente.</segment>
+    <segment id="135">É assustador.</segment>
+    <segment id="136">"</segment>
+    <segment id="137">Até o ano passado</segment>
+    <segment id="138">, disse</segment>
+    <segment id="139">, o Google agia</segment>
+    <segment id="140">comocomo um "administrador adequado" da tecnologia</segment>
+    <segment id="141">, tomando cuidado para não lançar algo que pudesse causar danos.</segment>
+    <segment id="142">Mas agora que a Microsoft ampliou seu mecanismo de busca Bing com um chatbot –desafiando o negócio principal do Google–</segment>
+    <segment id="143">, o Google está correndo para implantar o mesmo tipo de tecnologia.</segment>
+    <segment id="144">Os gigantes da tecnologia estão presos numa competição que pode ser impossível de parar</segment>
+    <segment id="145">, disse Hinton.</segment>
+    <segment id="146">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="147">; aberta para não assinantes.</segment>
+    <segment id="148">Carregando...</segment>
+    <segment id="149">Sua preocupação imediata é que a internet seja inundada por fotos</segment>
+    <segment id="150">, vídeos e textos falsos</segment>
+    <segment id="151">, e a pessoa comum "não seja mais capaz de saber o que é verdade".</segment>
+    <segment id="152">Ele também</segment>
+    <segment id="153">sese preocupa que</segment>
+    <segment id="154">, com o tempo</segment>
+    <segment id="155">, as tecnologias de IA revirem o mercado de trabalho.</segment>
+    <segment id="156">Hoje, chatbots</segment>
+    <segment id="157">comocomo o ChatGPT tendem a complementar o trabalho de seres humanos</segment>
+    <segment id="158">, masmas poderão substituir paralegais</segment>
+    <segment id="159">, assistentes pessoais</segment>
+    <segment id="160">, tradutores e outros que lidam com tarefas rotineiras.</segment>
+    <segment id="161">"</segment>
+    <segment id="162">Eles tiram o trabalho pesado"</segment>
+    <segment id="163">, disse ele.</segment>
+    <segment id="164">"</segment>
+    <segment id="165">Podem tirar mais que isso.</segment>
+    <segment id="166">"</segment>
+    <segment id="167">No futuro</segment>
+    <segment id="168">, Hinton teme que novas versões da tecnologia representem uma ameaça para a humanidade</segment>
+    <segment id="169">, porque</segment>
+    <segment id="170">porque muitas vezes aprendem comportamentos inesperados com a grande quantidade de dados que analisam.</segment>
+    <segment id="171">Isso se</segment>
+    <segment id="172">se torna um problema</segment>
+    <segment id="173">, disse ele</segment>
+    <segment id="174">, pois</segment>
+    <segment id="175">pois indivíduos e empresas permitem que os sistemas de IA não apenas gerem seu próprio código de computador</segment>
+    <segment id="176">, como</segment>
+    <segment id="177">como também executem esse código por conta própria.</segment>
+    <segment id="178">E ele teme o dia em que armas verdadeiramente autônomas –</segment>
+    <segment id="179">comocomo aqueles robôs assassinos–</segment>
+    <segment id="180">sese tornem realidade.</segment>
+    <segment id="181">"</segment>
+    <segment id="182">A ideia de que essas coisas possam realmente ficar mais inteligentes do que as pessoas</segment>
+    <segment id="183">, algumas pessoas acreditaram nisso"</segment>
+    <segment id="184">, disse ele.</segment>
+    <segment id="185">"Mas a maioria achou que estava muito longe.</segment>
+    <segment id="186">E eu achei que estava muito longe.</segment>
+    <segment id="187">Pensei que estivesse a 30</segment>
+    <segment id="188">, 50 anos ou até mais longe.</segment>
+    <segment id="189">Obviamente</segment>
+    <segment id="190">, não penso mais assim.</segment>
+    <segment id="191">"  Muitos outros especialistas</segment>
+    <segment id="192">, incluindo vários alunos e colegas dele</segment>
+    <segment id="193">, dizem que essa ameaça é hipotética.</segment>
+    <segment id="194">Mas Hinton acredita que a corrida entre o Google e a Microsoft e outros vai</segment>
+    <segment id="195">sese transformar numa corrida global que não vai parar sem algum tipo de regulamentação global.</segment>
+    <segment id="196">Mas isso pode ser impossível</segment>
+    <segment id="197">, disse ele.</segment>
+    <segment id="198">Ao contrário das armas nucleares</segment>
+    <segment id="199">, explicou</segment>
+    <segment id="200">, não há</segment>
+    <segment id="201">comocomo saber</segment>
+    <segment id="202">sese empresas ou países estão trabalhando na tecnologia em segredo.</segment>
+    <segment id="203">A melhor esperança é que os principais cientistas do mundo colaborem em formas de controlar a tecnologia.</segment>
+    <segment id="204">"</segment>
+    <segment id="205">Não acho que eles devam desenvolvê-la mais até que tenham entendido</segment>
+    <segment id="206">sese podem controlá-la"</segment>
+    <segment id="207">, afirmou.</segment>
+    <segment id="208">Hinton contou que</segment>
+    <segment id="209">, quando as pessoas perguntavam</segment>
+    <segment id="210">comocomo ele podia trabalhar numa tecnologia potencialmente perigosa</segment>
+    <segment id="211">, ele citava Robert Oppenheimer</segment>
+    <segment id="212">, que liderou o esforço dos EUA para construir a bomba atômica: "</segment>
+    <segment id="213">Quando você vê algo que é tecnicamente interessante</segment>
+    <segment id="214">, você vai em frente e o faz".</segment>
+    <segment id="215">Ele não diz mais isso.</segment>
+    <segment id="216">Tradução de Luiz Roberto M. Gonçalves</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,129 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Cientistas nos arredores de Chicago</segment>
+    <segment id="2">, nos Estados Unidos</segment>
+    <segment id="3">, descobriram que a massa de uma partícula subatômica não é o que deveria ser —uma descoberta surpreendente que pode revolucionar a Física e nossa compreensão sobre o Universo.</segment>
+    <segment id="4">Detector do Colisor no Fermilab obteve resultado que pode revolucionar Física moderna - FermilabA medição é o primeiro resultado conclusivo de um experimento que está em desacordo com uma das teorias mais importantes e bem-sucedidas da Física moderna.</segment>
+    <segment id="5">A equipe descobriu que a partícula</segment>
+    <segment id="6">, conhecida</segment>
+    <segment id="7">comocomo bóson</segment>
+    <segment id="8">W, tem mais massa do que as teorias previam.</segment>
+    <segment id="9">O resultado foi descrito</segment>
+    <segment id="10">comocomo "chocante" pelo professor David Toback</segment>
+    <segment id="11">, co-porta-voz do projeto.</segment>
+    <segment id="12">A descoberta pode levar ao desenvolvimento de uma nova e mais completa teoria de</segment>
+    <segment id="13">comocomo o Universo funciona.</segment>
+    <segment id="14">"</segment>
+    <segment id="15">Se esses resultados forem comprovados por outros experimentos</segment>
+    <segment id="16">, o mundo parecerá diferente"</segment>
+    <segment id="17">, diz ele à BBC News.</segment>
+    <segment id="18">"Tem que haver uma mudança de paradigma.</segment>
+    <segment id="19">A esperança é que talvez esse resultado seja o que causará uma ruptura".  "</segment>
+    <segment id="20">O famoso astrônomo Carl Sagan disse que 'afirmações extraordinárias exigem evidências extraordinárias'.</segment>
+    <segment id="21">Acreditamos que temos isso.</segment>
+    <segment id="22">"</segment>
+    <segment id="23">Os cientistas do CDF (Fermilab Collider Detector</segment>
+    <segment id="24">, ou Detector do Colisor no Fermilab)</segment>
+    <segment id="25">, no Estado americano de Illinois</segment>
+    <segment id="26">, encontraram apenas uma pequena diferença na massa do bóson</segment>
+    <segment id="27">W em comparação com o que a teoria diz que deveria ser —apenas 0</segment>
+    <segment id="28">,1%.</segment>
+    <segment id="29">Mas, se</segment>
+    <segment id="30">se isso for confirmado por outros experimentos</segment>
+    <segment id="31">, as implicações são enormes.</segment>
+    <segment id="32">O chamado Modelo Padrão da física de partículas previu o comportamento e as propriedades das partículas subatômicas sem qualquer discrepância por 50 anos.</segment>
+    <segment id="33">Até agora.</segment>
+    <segment id="34">O outro co-porta-voz da CDF</segment>
+    <segment id="35">, professor Giorgio Chiarelli</segment>
+    <segment id="36">, do INFN Sezione di Pisa</segment>
+    <segment id="37">, na Itália</segment>
+    <segment id="38">, diz à BBC News que a equipe de pesquisa mal pôde acreditar quando viu os resultados.</segment>
+    <segment id="39">"</segment>
+    <segment id="40">Ninguém estava esperando por isso.</segment>
+    <segment id="41">Achamos que talvez tivéssemos algo errado.</segment>
+    <segment id="42">"</segment>
+    <segment id="43">Mas os pesquisadores analisaram meticulosamente os resultados e tentaram procurar erros.</segment>
+    <segment id="44">E não encontraram nenhum.</segment>
+    <segment id="45">A conclusão</segment>
+    <segment id="46">, publicada na prestigiosa revista científica Science</segment>
+    <segment id="47">, pode estar relacionada a pistas de outros experimentos no Fermilab e no Grande Colisor de Hádrons</segment>
+    <segment id="48">, na fronteira suíço-francesa.</segment>
+    <segment id="49">Essas conclusões</segment>
+    <segment id="50">, ainda não confirmadas</segment>
+    <segment id="51">, também sugerem desvios do Modelo Padrão</segment>
+    <segment id="52">, possivelmente</segment>
+    <segment id="53">comocomo resultado de uma quinta força da natureza em jogo ainda não descoberta.</segment>
+    <segment id="54">Os físicos sabem há algum tempo que a teoria precisa ser atualizada.</segment>
+    <segment id="55">O conceito não é capaz de explicar a presença de material invisível no espaço</segment>
+    <segment id="56">, chamado Matéria Escura</segment>
+    <segment id="57">, nem a contínua expansão acelerada do Universo por uma força chamada Energia Escura.</segment>
+    <segment id="58">Tampouco a gravidade.  Mitesh Patel</segment>
+    <segment id="59">, da Universidade Imperial College de Londres</segment>
+    <segment id="60">, no Reino Unido</segment>
+    <segment id="61">, que trabalha no LHC</segment>
+    <segment id="62">, diz acreditar que</segment>
+    <segment id="63">, sese o resultado do Fermilab for comprovado</segment>
+    <segment id="64">, pode ser o primeiro de muitos novos resultados capazes de provocar a maior mudança em nossa compreensão do Universo desde as teorias da relatividade de Einstein</segment>
+    <segment id="65">, mais de cem anos atrás.</segment>
+    <segment id="66">"</segment>
+    <segment id="67">A esperança é que essas rachaduras</segment>
+    <segment id="68">sese transformem em abismos e</segment>
+    <segment id="69">, eventualmente</segment>
+    <segment id="70">, veremos algum sinal espetacular que não apenas confirma que o Modelo Padrão caiu por terra</segment>
+    <segment id="71">comocomo uma descrição da natureza</segment>
+    <segment id="72">, masmas também nos dá uma nova direção para nos ajudar a entender o que estamos vendo e</segment>
+    <segment id="73">comocomo é a nova teoria da física".</segment>
+    <segment id="74">"</segment>
+    <segment id="75">Se isso for verdade</segment>
+    <segment id="76">, deve haver novas partículas e novas forças para explicar</segment>
+    <segment id="77">comocomo tornar esses dados consistentes".</segment>
+    <segment id="78">Sediado em um terreno de 2.700 hectares perto de Chicago</segment>
+    <segment id="79">, Fermilab é o principal laboratório de física de partículas dos Estados Unidos - FermilabMas</segment>
+    <segment id="80">, apesar do entusiasmo</segment>
+    <segment id="81">, a comunidade física permanece cautelosa.</segment>
+    <segment id="82">Embora o resultado do Fermilab seja a medida mais precisa da massa do bóson</segment>
+    <segment id="83">W até hoje</segment>
+    <segment id="84">, ele está em desacordo com duas das próximas medidas mais precisas de dois experimentos separados que estão de acordo com o Modelo Padrão.</segment>
+    <segment id="85">"</segment>
+    <segment id="86">Isso vai desagradar algumas pessoas"</segment>
+    <segment id="87">, diz o professor Ben Allanach</segment>
+    <segment id="88">, físico teórico da Universidade de Cambridge</segment>
+    <segment id="89">, na Inglaterra.</segment>
+    <segment id="90">"</segment>
+    <segment id="91">Precisamos saber o que está acontecendo com a medição.</segment>
+    <segment id="92">O fato de termos dois outros experimentos que concordam entre si e com o Modelo Padrão e discordam fortemente desse experimento me preocupa".</segment>
+    <segment id="93">Todas as atenções estão agora voltadas para o Grande Colisor de Hádrons</segment>
+    <segment id="94">, que deve reiniciar seus experimentos após uma reforma de três anos.</segment>
+    <segment id="95">A esperança é que esses testes forneçam os resultados que estabelecerão as bases para uma nova teoria da física mais completa.</segment>
+    <segment id="96">"</segment>
+    <segment id="97">A maioria dos cientistas vai estar um pouco cautelosa"</segment>
+    <segment id="98">,</segment>
+    <segment id="99">diz Patel.</segment>
+    <segment id="100">"</segment>
+    <segment id="101">Já passamos por situações parecidas antes e ficamos desapontados</segment>
+    <segment id="102">, masmas todos esperamos secretamente que seja realmente isso</segment>
+    <segment id="103">, e que em nossa vida possamos ver o tipo de transformação sobre a qual lemos nos livros de história".</segment>
+  </rst>
+</analysis>

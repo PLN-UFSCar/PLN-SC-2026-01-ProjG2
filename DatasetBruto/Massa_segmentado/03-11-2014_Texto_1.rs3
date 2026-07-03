@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Samba do Reino agitou o final de semana</segment>
+    <segment id="2">A terceira ediÃ§Ã£o do evento colocou todo mundo pra danÃ§ar
+Durval Lelys</segment>
+    <segment id="3">, Thiaguinho</segment>
+    <segment id="4">, PÃ©ricles</segment>
+    <segment id="5">, Sorriso Maroto e Harmonia do Samba fizeram a galera tirar o pÃ© do chÃ£o</segment>
+    <segment id="6">, anteontem</segment>
+    <segment id="7">, na terceira ediÃ§Ã£o do Samba do Reino</segment>
+    <segment id="8">, festa realizada no Parque de ExposiÃ§Ãµes de Salvador.</segment>
+    <segment id="9">Dentre as canÃ§Ãµes que sacudiram a multidÃ£o</segment>
+    <segment id="10">, estavam Ver</segment>
+    <segment id="11">O Que Restou (Durval Lelys)</segment>
+    <segment id="12">, Nova Paradinha (Harmonia do Samba)</segment>
+    <segment id="13">, TÃ¡ bom</segment>
+    <segment id="14">, Aham (Sorriso Maroto)</segment>
+    <segment id="15">, Final de Tarde (PÃ©ricles) e Caraca</segment>
+    <segment id="16">, Muleke!â€™ (Thiaguinho).</segment>
+  </rst>
+</analysis>

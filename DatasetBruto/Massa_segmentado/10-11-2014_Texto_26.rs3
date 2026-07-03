@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Gata Ã©</segment>
+    <segment id="2">fÃ£ do Campeonato Brasileiro</segment>
+    <segment id="3">Rafaela Didea adora uma bola dentro do gol</segment>
+    <segment id="4">A gaÃºcha Rafaela Didea</segment>
+    <segment id="5">, 27 anos</segment>
+    <segment id="6">, natural de Erechim</segment>
+    <segment id="7">, adora assistir aos jogos do Campeonato Brasileiro.</segment>
+    <segment id="8">Ela nÃ£o abre o jogo</segment>
+    <segment id="9">sese torce para o GrÃªmio ou Internacional.</segment>
+    <segment id="10">E para quem pensa que ela Ã© viciada em academia</segment>
+    <segment id="11">, sese engana.</segment>
+    <segment id="12">â€œEu malho pouco.</segment>
+    <segment id="13">A genÃ©tica ajuda bastanteâ€</segment>
+    <segment id="14">, explicou a gata do Rio Grande do Sul.</segment>
+  </rst>
+</analysis>

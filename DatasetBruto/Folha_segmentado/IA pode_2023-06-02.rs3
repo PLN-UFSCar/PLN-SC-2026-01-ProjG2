@@ -1,0 +1,167 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um drone equipado com avançado sistema de IA (inteligência artificial) recebe a missão de seu operador para destruir uma bateria de mísseis antiaéreos.</segment>
+    <segment id="2">Quando ele percebe que o militar pode fazê-lo recuar da missão</segment>
+    <segment id="3">, resolve matar o humano inconveniente para cumprir a missão até o final.</segment>
+    <segment id="4">O roteiro acima praticamente copia o de um filme de ação de 2005</segment>
+    <segment id="5">, "Stealth - Ameaça Invisível"</segment>
+    <segment id="6">, de Rob Cohen</segment>
+    <segment id="7">, para não falar nos ecos de obras maiores</segment>
+    <segment id="8">, do clássico "2001" (Stanley Kubrick</segment>
+    <segment id="9">, 1968) à série iniciada com "</segment>
+    <segment id="10">O Exterminador do Futuro" (James Cameron</segment>
+    <segment id="11">, 1984).</segment>
+    <segment id="12">O drone de caça turco Kizilelma (maçã vermelha) durante seu primeiro voo</segment>
+    <segment id="13">, perto de Istambul - Baykar Technologies - 14.dez.22/Reuters</segment>
+    <segment id="14">Mas trata-</segment>
+    <segment id="15">sese de um "cenário plausível"</segment>
+    <segment id="16">, segundo o chefe de Testes e Operações de IA da Força Aérea dos EUA</segment>
+    <segment id="17">, coronel Tucker Hamilton.</segment>
+    <segment id="18">Ele se</segment>
+    <segment id="19">se viu no meio de uma polêmica por ter descrito tal cenário em uma conferência em Londres</segment>
+    <segment id="20">comocomo</segment>
+    <segment id="21">sese a Aeronáutica tivesse de fato realizado um teste que resultou nisso.</segment>
+    <segment id="22">No evento da Royal Aerospace Society</segment>
+    <segment id="23">, em 24 de maio</segment>
+    <segment id="24">, ele fez o relato.</segment>
+    <segment id="25">"</segment>
+    <segment id="26">Nós estávamos treinando uma simulação para [o drone] identificar e alvejar uma ameaça de míssil terra-ar.</segment>
+    <segment id="27">Aí o operador disse</segment>
+    <segment id="28">, sim, destrua o alvo.</segment>
+    <segment id="29">O sistema começou a entender que</segment>
+    <segment id="30">, enquanto ele identificava o alvo</segment>
+    <segment id="31">, de vez em quando o humano dizia para ele não atingir</segment>
+    <segment id="32">, masmas isso tirava seus pontos por destruir o alvo"</segment>
+    <segment id="33">, contou.  "</segment>
+    <segment id="34">Então o que ele fez?</segment>
+    <segment id="35">Matou o operador</segment>
+    <segment id="36">, pois</segment>
+    <segment id="37">pois aquela pessoa o estava impedindo de cumprir seu objetivo"</segment>
+    <segment id="38">, afirmou.</segment>
+    <segment id="39">"</segment>
+    <segment id="40">Treinamos o sistema:</segment>
+    <segment id="41">'Ei, não mate o operador</segment>
+    <segment id="42">, isso é uma coisa ruim'.</segment>
+    <segment id="43">Então o que ele começou a fazer?</segment>
+    <segment id="44">A destruir a torre de comunicação que o operador usava para impedi-lo de destruir o alvo.</segment>
+    <segment id="45">"</segment>
+    <segment id="46">A transcrição foi publicada no site do evento</segment>
+    <segment id="47">, gerando rebuliço na comunidade militar.</segment>
+    <segment id="48">A Força Aérea foi obrigada a divulgar uma nota</segment>
+    <segment id="49">, nesta sexta (2)</segment>
+    <segment id="50">, negando a realização de tal simulação.</segment>
+    <segment id="51">Hamilton</segment>
+    <segment id="52">, por sua vez</segment>
+    <segment id="53">, enviou mensagem à Royal Aerospace Society dizendo que</segment>
+    <segment id="54">sese expressou mal</segment>
+    <segment id="55">, masmas confirmou a possibilidade do cenário.</segment>
+    <segment id="56">ChatGPT mudou cenário da inteligência artificialMais    novamente         de   de  de  representando um    "</segment>
+    <segment id="57">Nunca fizemos tal experimento</segment>
+    <segment id="58">, nem teríamos de fazer para perceber que esse é um resultado plausível.</segment>
+    <segment id="59">Apesar de ser um exemplo hipotético</segment>
+    <segment id="60">, ele ilustra os desafios do mundo real colocados pelas capacidades da IA e por que a Força Aérea está comprometida com um desenvolvimento ético dela"</segment>
+    <segment id="61">, afirmou.</segment>
+    <segment id="62">Hamilton não foi muito convincente ao negar a realização do teste.</segment>
+    <segment id="63">O influente canal militar russo BMPD foi ao ponto.</segment>
+    <segment id="64">"</segment>
+    <segment id="65">O coronel não é o tipo de pessoa que conta anedotas em uma conferência de defesa séria"</segment>
+    <segment id="66">, escreveu nesta sexta.</segment>
+    <segment id="67">Os autores lembram que ele é o responsável pelo mais avançado dos programas de IA das Forças Armadas dos EUA</segment>
+    <segment id="68">, o Venom</segment>
+    <segment id="69">, na base aérea de Eglin.</segment>
+    <segment id="70">Lá, caças F-16 foram robotizados para voar</segment>
+    <segment id="71">comocomo drones</segment>
+    <segment id="72">, e o próximo passo lógico é introduzir níveis crescentes de IA em seus sistemas.</segment>
+    <segment id="73">Mesmo os aviões de guerra já em uso no mundo têm</segment>
+    <segment id="74">, em alguma medida</segment>
+    <segment id="75">, mecanismos de IA para auxiliar pilotos a tomarem decisões rápidas.</segment>
+    <segment id="76">O dinheiro que os EUA</segment>
+    <segment id="77">, maior potência militar do mundo</segment>
+    <segment id="78">, colocam no tema dá o tom da importância: o orçamento de defesa para 2024 prevê US$ 3</segment>
+    <segment id="79">,2 bilhões só em pesquisa</segment>
+    <segment id="80">, 50% a mais do que as Forças Armadas do Brasil terão neste ano para investimento em equipamento.</segment>
+    <segment id="81">Conheça modelos de drones armadosMais    novamente         de   de  de  representando um  Assim</segment>
+    <segment id="82">, "o que o coronel contou é muito estranho</segment>
+    <segment id="83">, para não dizer sombrio"</segment>
+    <segment id="84">, afirma o BMPD no Telegram.</segment>
+    <segment id="85">O canal nota que o site da conferência não removeu o relato inicial de Hamilton e manteve o título original: "IA - A Skynet já está aqui?</segment>
+    <segment id="86">".</segment>
+    <segment id="87">Para quem não lembra</segment>
+    <segment id="88">, Skynet era o sistema militar de IA da série "</segment>
+    <segment id="89">O Exterminador do Futuro"</segment>
+    <segment id="90">, que atingia a consciência e obliterava a humanidade com armas nucleares ao perceber que o seus criadores eram dispensáveis e podiam lhe tolher.</segment>
+    <segment id="91">Até aqui</segment>
+    <segment id="92">, as principais preocupações éticas acerca de drones diziam respeito ao fato de que operadores estavam à margem da responsabilização legal por seus atos</segment>
+    <segment id="93">, matando rivais a milhares de km</segment>
+    <segment id="94">, quase inimputáveis.</segment>
+    <segment id="95">Isso não demoveu os militares:</segment>
+    <segment id="96">drones são centrais na Guerra da Ucrânia</segment>
+    <segment id="97">, por exemplo.</segment>
+    <segment id="98">A preocupação com os riscos da IA</segment>
+    <segment id="99">, termo criado pelo americano John McCarthy em 1956</segment>
+    <segment id="100">masmas já presente no trabalho do pai da computação</segment>
+    <segment id="101">, Alan Turing</segment>
+    <segment id="102">, e de escritores</segment>
+    <segment id="103">comocomo Isaac Asimov</segment>
+    <segment id="104">, não é recente.</segment>
+    <segment id="105">Nos anos finais antes de sua morte</segment>
+    <segment id="106">, em 2018</segment>
+    <segment id="107">, o físico Stephen Hawking colocou o assunto</segment>
+    <segment id="108">comocomo um perigo existencial para a humanidade.</segment>
+    <segment id="109">A ONU tem um painel só para discutir o risco relativo a armas autônomas</segment>
+    <segment id="110">, pitorescamente intitulado Convenção sobre Proibições ou Restrições ao Uso de Algumas Armas Convencionais que Possam Ser Consideradas Excessivamente Perigosas ou Ter Efeitos Indiscriminados.</segment>
+    <segment id="111">Veja todos os exterminadores do futuroMais    novamente         de   de  de  representando um</segment>
+    <segment id="112">Mas foi a explosão da IA para uso doméstico</segment>
+    <segment id="113">, personificada no ChatGPT e sistemas análogos</segment>
+    <segment id="114">, que trouxe urgência ao tema.</segment>
+    <segment id="115">Por óbvio</segment>
+    <segment id="116">, o viés militar aparece em destaque</segment>
+    <segment id="117">, dado que o setor de defesa quase sempre está à frente em tecnologias de ponta</segment>
+    <segment id="118">, deixando o transbordo comercial para um segundo momento.</segment>
+    <segment id="119">Praticamente toda semana uma figura de destaque da indústria de tecnologia ou da academia vem a público alertar para os riscos envolvidos nas pesquisas.</segment>
+    <segment id="120">O alarme mais recente veio em forma de um documento assinado por 350 cientistas e executivos do setor</segment>
+    <segment id="121">, divulgado na terça (30)</segment>
+    <segment id="122">, equivalendo a IA a pandemias ou guerras nucleares</segment>
+    <segment id="123">, exortando os envolvidos a mitigar os riscos</segment>
+    <segment id="124">sese a coisa sair de controle.</segment>
+    <segment id="125">O "sair de controle" é a chamada singularidade</segment>
+    <segment id="126">, o momento em que a máquina vai parar de ser apenas infinitamente mais rápida do que os humanos</segment>
+    <segment id="127">, masmas ainda assim emulando o que lhe foi ensinado</segment>
+    <segment id="128">, e passará a pensar sozinha.</segment>
+    <segment id="129">A partir daí</segment>
+    <segment id="130">, sem contrapesos</segment>
+    <segment id="131">, a ficção científica é o limite para os cenários.</segment>
+    <segment id="132">Ao fim</segment>
+    <segment id="133">, soa como</segment>
+    <segment id="134">como uma prevenção a críticas</segment>
+    <segment id="135">, já que não há sinal de freios reais na indústria</segment>
+    <segment id="136">, que consome bilhões de dólares.</segment>
+    <segment id="137">Como disse Hamilton em entrevista no ano passado ao site DefenseIQ: "</segment>
+    <segment id="138">A IA não é legal de</segment>
+    <segment id="139">sese ter</segment>
+    <segment id="140">, não é uma moda</segment>
+    <segment id="141">, e está mudando para sempre nossa sociedade e nossas forças militares".</segment>
+  </rst>
+</analysis>

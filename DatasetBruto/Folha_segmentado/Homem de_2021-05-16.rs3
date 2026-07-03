@@ -1,0 +1,53 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Polícia Civil investiga a morte de um aposentado de 91 anos após um roubo em sua casa</segment>
+    <segment id="2">, na Mooca (zona leste da capital paulista)</segment>
+    <segment id="3">, ocorrida neste sábado (15).</segment>
+    <segment id="4">De acordo com informações do boletim de ocorrência</segment>
+    <segment id="5">, policiais militares foram chamados para atender uma ocorrência de arrombamento em um imóvel.</segment>
+    <segment id="6">No local</segment>
+    <segment id="7">, encontraram a filha da vítima</segment>
+    <segment id="8">, uma médica de 56 anos</segment>
+    <segment id="9">, que contou que foi visitar o pai e encontrou o portão danificado.</segment>
+    <segment id="10">Segundo a SSP (Secretaria de Segurança Pública)</segment>
+    <segment id="11">, ela fez buscas pela casa e achou o idoso amarrado</segment>
+    <segment id="12">, desacordado e sem pulsação em cima da cama no quarto.</segment>
+    <segment id="13">Como é médica</segment>
+    <segment id="14">, tentou fazer reanimação</segment>
+    <segment id="15">, masmas ele já estava morto.</segment>
+    <segment id="16">Não foram localizados ferimentos aparentes na vítima.</segment>
+    <segment id="17">Foram levados o carro da vítima</segment>
+    <segment id="18">, uma televisão e um celular.</segment>
+    <segment id="19">O veículo foi localizado na rua General Bagnuolo</segment>
+    <segment id="20">, na Vila Prudente (zona leste)</segment>
+    <segment id="21">, e passou por perícia.</segment>
+    <segment id="22">Foram solicitados exames periciais e carro de cadáver.</segment>
+    <segment id="23">A ocorrência foi registrada</segment>
+    <segment id="24">comocomo roubo a residência qualificado e roubo a veículo.</segment>
+    <segment id="25">O caso</segment>
+    <segment id="26">caso foi enviado ao DHPP (Departamento Estadual de Homicídios e de Proteção à Pessoa)</segment>
+    <segment id="27">, que iniciou as primeiras diligências para identificar os autores e esclarecer o crime.</segment>
+  </rst>
+</analysis>

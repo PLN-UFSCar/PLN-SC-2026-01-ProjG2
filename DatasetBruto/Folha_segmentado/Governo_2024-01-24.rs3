@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Os ministérios dos Direitos Humanos e do Desenvolvimento Social lançam a partir desta quarta-feira (24) ações que serão divulgadas nas redes sociais das pastas pela erradicação do trabalho escravo</segment>
+    <segment id="2">, em um cenário em que o Brasil registrou</segment>
+    <segment id="3">, no ano passado</segment>
+    <segment id="4">, mais de 3.400 denúncias</segment>
+    <segment id="5">, o maior número desde 2011.</segment>
+    <segment id="6">Idosa resgatada do trabalho doméstico em situação análoga à escravidão no Rio de Janeiro - Eduardo Anizelli/</segment>
+    <segment id="7">FolhapressA iniciativa ocorre durante a Semana Nacional de Erradicação do Trabalho Escravo.</segment>
+    <segment id="8">Nela, o Ministério dos Direitos Humanos atua por meio da Conatrae (Comissão Nacional de Erradicação do Trabalho Escravo).</segment>
+    <segment id="9">O objetivo é sensibilizar a sociedade e profissionais do SUAS (Sistema Único de Assistência Social) sobre a importância da erradicação do trabalho análogo ao de escravizados.</segment>
+    <segment id="10">Além disso</segment>
+    <segment id="11">, as ações buscam informá-los sobre as possibilidades de atuação no tema</segment>
+    <segment id="12">, considerando que a assistência social é a política pública competente para o pós-resgate das vítimas de trabalho escravo.</segment>
+    <segment id="13">Em artigo publicado na Folha</segment>
+    <segment id="14">, o ministro Luiz Marinho (Trabalho) afirmou que</segment>
+    <segment id="15">, de janeiro até o início de dezembro do ano passado</segment>
+    <segment id="16">, a pasta registrou 3.151 registros de resgates de pessoas em trabalho análogo à escravidão</segment>
+    <segment id="17">, o maior resultado dos últimos 14 anos.</segment>
+  </rst>
+</analysis>

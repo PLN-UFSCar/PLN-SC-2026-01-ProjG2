@@ -1,0 +1,121 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Norte do Brasil é a única entre as cinco regiões a contrariar a tendência de queda de assassinatos que</segment>
+    <segment id="2">sese estabeleceu desde o fim de 2017 no país.</segment>
+    <segment id="3">A taxa de 34</segment>
+    <segment id="4">,7 homicídios a cada 100 mil habitantes</segment>
+    <segment id="5">, subiu em 2021</segment>
+    <segment id="6">, na comparação com 2020</segment>
+    <segment id="7">, enquanto todas as outras regiões registraram reduções.</segment>
+    <segment id="8">A violência na região</segment>
+    <segment id="9">sese aproxima da taxa do Nordeste</segment>
+    <segment id="10">, que registrou</segment>
+    <segment id="11">, naquele ano</segment>
+    <segment id="12">, 36,5 homicídios a cada 100 mil habitantes.</segment>
+    <segment id="13">Embora seja associada a diversas causas</segment>
+    <segment id="14">, a violência nos estados nortistas pode estar relacionada à expansão de atividades criminosas e à disputa entre facções de tráfico de drogas e a uma população que ainda não passou pela mesma transição demográfica de outras regiões.</segment>
+    <segment id="15">É o que apontam dados do Atlas da Violência 2023</segment>
+    <segment id="16">, publicado pelo Ipea (Instituto de Pesquisa Econômica Aplicada) e o Fórum Brasileiro de Segurança Pública.</segment>
+    <segment id="17">Além de Norte e Nordeste</segment>
+    <segment id="18">, a terceira região com a taxa mais alta de homicídios em 2021 era o Centro-Oeste</segment>
+    <segment id="19">, com 21</segment>
+    <segment id="20">,9 mortos por 100 mil habitantes.</segment>
+    <segment id="21">O índice da média nacional ficou em 22</segment>
+    <segment id="22">,4, e os de Sul e Sudeste</segment>
+    <segment id="23">, em 16</segment>
+    <segment id="24">,3 e 13</segment>
+    <segment id="25">, respectivamente.</segment>
+    <segment id="26">Operação conjunta de forças de segurança de Brasil e Colômbia desativou 19 garimpos ilegais na Amazônia - Policía Nacional de Colombia via</segment>
+    <segment id="27">AFPOs dados reunidos na publicação são coletados no Sistema de Informações sobre Mortalidade (SIM) e no Sistema de Informação de Agravos de Notificação (Sinam)—dados de violência de notificação compulsória— do Ministério da Saúde.</segment>
+    <segment id="28">São contadas</segment>
+    <segment id="29">comocomo homicídios as mortes causadas por agressões e aquelas por intervenção legal.</segment>
+    <segment id="30">As disputas entre as duas maiores facções do país</segment>
+    <segment id="31">, PCC (Primeiro Comando da Capital) e CV (Comando Vermelho)</segment>
+    <segment id="32">, aparecem frequentemente</segment>
+    <segment id="33">comocomo uma das causas que levaram o Brasil ao pico de homicídios da série histórica em 2017</segment>
+    <segment id="34">, com 65.602 mortes.</segment>
+    <segment id="35">Essa guerra faz parte de um movimento pela ampliação do controle sobre a produção e o transporte de cocaína.</segment>
+    <segment id="36">Um suposto armistício</segment>
+    <segment id="37">, de acordo com o Atlas</segment>
+    <segment id="38">, teria levado às diminuições de homicídios a partir de 2018</segment>
+    <segment id="39">, na comparação com 2017.</segment>
+    <segment id="40">Essa tendência foi interrompida entre 2019 e 2020 no Sudeste —com leve alta— e no Nordeste</segment>
+    <segment id="41">, cuja posição no caminho para a exportação para o continente europeu é estratégica</segment>
+    <segment id="42">, o que indica disputas</segment>
+    <segment id="43">, masmas voltou a cair de 2020 a 2021.</segment>
+    <segment id="44">Hoje, na Amazônia</segment>
+    <segment id="45">, a disputa também envolve facções na fronteira com Peru</segment>
+    <segment id="46">, Colômbia</segment>
+    <segment id="47">, Bolívia e Venezuela.</segment>
+    <segment id="48">Mais do que controlar rotas</segment>
+    <segment id="49">, os grupos criminosos têm buscado dominar territórios</segment>
+    <segment id="50">, incorporando crimes</segment>
+    <segment id="51">comocomo garimpo e comércio ilegal de madeira às suas atividades.</segment>
+    <segment id="52">Para o técnico do Ipea e coordenador do Atlas</segment>
+    <segment id="53">, Daniel Cerqueira</segment>
+    <segment id="54">, o fator demográfico também explica as variações nos últimos anos.</segment>
+    <segment id="55">Isso porque</segment>
+    <segment id="56">porque o Norte é a região que concentra municípios com proporcionalmente mais jovens no país</segment>
+    <segment id="57">, segundo dados do Censo Demográfico 2022 do Instituto Brasileiro de Geografia e Estatística.  "</segment>
+    <segment id="58">As curvas de queda na proporção de jovens em estados do Sudeste e do Sul são muito maiores do que no resto do país.</segment>
+    <segment id="59">Evidências internacionais indicam que quanto maior a proporção de jovens</segment>
+    <segment id="60">, maior a chance de violência"</segment>
+    <segment id="61">, afirma o pesquisador</segment>
+    <segment id="62">, que também é conselheiro do Fórum Brasileiro de Segurança Pública.</segment>
+    <segment id="63">Para Cerqueira</segment>
+    <segment id="64">, isso ajuda a explicar reduções nas regiões</segment>
+    <segment id="65">, masmas outro ponto ainda tem passado despercebido.</segment>
+    <segment id="66">"</segment>
+    <segment id="67">Alguns estados começaram a pensar formas diferentes de fazer política de segurança não apenas baseadas em reuniões de última hora</segment>
+    <segment id="68">, para a resposta midiática às chacinas na esquina.</segment>
+    <segment id="69">"</segment>
+    <segment id="70">Veja dados do 17º Anuário de Segurança Pública</segment>
+    <segment id="71">, que trazem raio-x da violência no BrasilMais    novamente         de   de  de  representando um  Ele cita programas</segment>
+    <segment id="72">comocomo o Fica Vivo!</segment>
+    <segment id="73">, de Minas Gerais</segment>
+    <segment id="74">, o pernambucano Pacto Pela Vida e o Paraíba Unida Pela Paz.</segment>
+    <segment id="75">Os programas</segment>
+    <segment id="76">, em geral</segment>
+    <segment id="77">, são desenvolvidos pelos governos estaduais em conjunto com o Judiciário e a sociedade.</segment>
+    <segment id="78">Partem da análise de problemas na segurança</segment>
+    <segment id="79">, taxas de homicídio</segment>
+    <segment id="80">, por exemplo</segment>
+    <segment id="81">, e combinam ações de enfrentamento com prevenção</segment>
+    <segment id="82">, como</segment>
+    <segment id="83">como fóruns comunitários e a promoção de atividades de educação e inclusão produtiva.</segment>
+    <segment id="84">A Paraíba</segment>
+    <segment id="85">, citada por ele</segment>
+    <segment id="86">, registrou aumento na taxa de 2019 a 2020</segment>
+    <segment id="87">, masmas a queda entre 2011 e 2021 foi de 34%</segment>
+    <segment id="88">, saindo de 42</segment>
+    <segment id="89">,6 para 28</segment>
+    <segment id="90">,1 mortos a cada 100 mil habitantes.</segment>
+    <segment id="91">"Temos diferenças de facções</segment>
+    <segment id="92">, de questões demográficas</segment>
+    <segment id="93">, masmas não é só isso.</segment>
+    <segment id="94">Alguns estados acordaram para a necessidade de mudar a política de segurança pública.</segment>
+    <segment id="95">"</segment>
+  </rst>
+</analysis>

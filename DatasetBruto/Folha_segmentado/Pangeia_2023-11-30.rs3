@@ -1,0 +1,199 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Em 1912</segment>
+    <segment id="2">, o meteorologista alemão Alfred Wegener apresentou ao mundo a sua hipótese da deriva continental.</segment>
+    <segment id="3">Um dos pilares dessa teoria era a observação</segment>
+    <segment id="4">, já constatada por outros cientistas</segment>
+    <segment id="5">, de que as linhas de costa dos diferentes continentes parecem</segment>
+    <segment id="6">sese juntar</segment>
+    <segment id="7">, como</segment>
+    <segment id="8">como um quebra-cabeça</segment>
+    <segment id="9">, sese fizermos uma subtração mental dos oceanos que as separam.</segment>
+    <segment id="10">A costa leste do Brasil</segment>
+    <segment id="11">, por exemplo</segment>
+    <segment id="12">, sese encaixa quase perfeitamente na costa oeste da África.</segment>
+    <segment id="13">Wegener reuniu diversas evidências que indicavam que os tipos de rochas</segment>
+    <segment id="14">, estruturas geológicas e fósseis encontrados nos dois lados do Atlântico de fato sugerem que um dia as duas massas continentais</segment>
+    <segment id="15">, que hoje são América do Sul e África</segment>
+    <segment id="16">, formavam um único bloco: a Pangeia.</segment>
+    <segment id="17">A teoria de Wegener foi rejeitada pela maioria dos cientistas.</segment>
+    <segment id="18">Um dos problemas que eles apontavam dizia respeito ao mecanismo capaz de fazer com que grandes continentes</segment>
+    <segment id="19">sese movimentassem livremente na superfície da Terra</segment>
+    <segment id="20">, a ponto de um dia estarem juntos e</segment>
+    <segment id="21">, milhões de anos depois</segment>
+    <segment id="22">, separados.</segment>
+    <segment id="23">Passado quase meio século de descobertas científicas</segment>
+    <segment id="24">, compreendeu-</segment>
+    <segment id="25">sese que os continentes estão assentados sobre placas tectônicas</segment>
+    <segment id="26">, os blocos rochosos que compõem a litosfera terrestre.</segment>
+    <segment id="27">E que, na verdade</segment>
+    <segment id="28">, continentes</segment>
+    <segment id="29">sese encontram e</segment>
+    <segment id="30">sese separam mais do que podemos imaginar.</segment>
+    <segment id="31">Ilustração: Julia Jabur - Instituto Serrapilheira</segment>
+    <segment id="32">As placas tectônicas são os grandes fragmentos de litosfera (camada composta da crosta e parte do manto</segment>
+    <segment id="33">, que se</segment>
+    <segment id="34">se comporta de forma rígida) que flutuam sobre uma astenosfera (camada constituída do restante do manto</segment>
+    <segment id="35">, que, devido à sua composição e às temperaturas e pressões no interior do globo</segment>
+    <segment id="36">, sese movimenta de forma mais fluida em escalas de tempo geológicas).</segment>
+    <segment id="37">Abaixo da astenosfera</segment>
+    <segment id="38">, no interior do planeta</segment>
+    <segment id="39">, temos o núcleo terrestre</segment>
+    <segment id="40">, ainda mais quente.</segment>
+    <segment id="41">A astenosfera funciona</segment>
+    <segment id="42">comocomo uma chaleira de água fervente: a parte inferior do manto fundido em contato com o núcleo mais quente é constantemente aquecida</segment>
+    <segment id="43">, o que faz com que sua densidade fique menor que a das camadas superiores do manto.</segment>
+    <segment id="44">As colunas de manto quente sobem devagar</segment>
+    <segment id="45">, enquanto nas camadas superiores o manto mais frio tende a mergulhar de volta para o fundo da Terra</segment>
+    <segment id="46">, onde será reaquecido pelo contato com o núcleo</segment>
+    <segment id="47">, assim continuando o ciclo em grandes correntes de convecção.</segment>
+    <segment id="48">Quando essas correntes chegam ao topo da coluna de convecção</segment>
+    <segment id="49">, elas ajudam a arrastar as placas tectônicas rígidas que estão na superfície</segment>
+    <segment id="50">, em contato imediato com a astenosfera</segment>
+    <segment id="51">, até que elas</segment>
+    <segment id="52">sese tornem frias e densas o suficiente para afundar no manto</segment>
+    <segment id="53">, nas chamadas zonas de subducção.</segment>
+    <segment id="54">Esse movimento é um dos principais motores da tectônica de placas que impulsiona a deriva dos continentes</segment>
+    <segment id="55">, isto é</segment>
+    <segment id="56">, a mudança gradual de posição na superfície terrestre.</segment>
+    <segment id="57">Essa dança dos continentes permite que</segment>
+    <segment id="58">, de tempos em tempos</segment>
+    <segment id="59">, eles</segment>
+    <segment id="60">sese encontrem e</segment>
+    <segment id="61">sese separem</segment>
+    <segment id="62">, formando novas massas continentais e diferentes configurações paleogeográficas.</segment>
+    <segment id="63">Hoje sabemos</segment>
+    <segment id="64">, por exemplo</segment>
+    <segment id="65">, que entre cerca de 335 milhões e 200 milhões de anos atrás quase todas as massas continentais estavam juntas em um só bloco (chamado paleocontinente)</segment>
+    <segment id="66">, a Pangeia</segment>
+    <segment id="67">, que se</segment>
+    <segment id="68">se separou graças à abertura do oceano Atlântico</segment>
+    <segment id="69">, ocorrida a partir de cerca de 200 milhões de anos atrás.</segment>
+    <segment id="70">Quando um paleocontinente contém mais de 75% de todas as massas continentais terrestres</segment>
+    <segment id="71">, dizemos que ele é um supercontinente.</segment>
+    <segment id="72">E Pangeia não foi o primeiro: esse encontro global das massas continentais ocorreu diversas vezes no passado</segment>
+    <segment id="73">, criando os supercontinentes Rodinia</segment>
+    <segment id="74">, há cerca de 1 bilhão de anos</segment>
+    <segment id="75">, e Columbia</segment>
+    <segment id="76">, há cerca de 1</segment>
+    <segment id="77">,8 bilhão de anos</segment>
+    <segment id="78">, além de possíveis outros mais antigos.</segment>
+    <segment id="79">E quanto ao futuro</segment>
+    <segment id="80">, será que os fragmentos continentais irão</segment>
+    <segment id="81">sese reencontrar em novas posições</segment>
+    <segment id="82">, redesenhando as massas terrestres?</segment>
+    <segment id="83">Tudo indica que sim</segment>
+    <segment id="84">, masmas os locais exatos onde eles poderão colidir e configurar um novo bloco é tema de intenso debate.</segment>
+    <segment id="85">Alguns cientistas acreditam que o movimento atual dos continentes continuará</segment>
+    <segment id="86">, e assim o oceano Atlântico ficará cada vez maior e o Pacífico menor</segment>
+    <segment id="87">, devido ao mergulho de suas placas oceânicas nas zonas que formam o chamado Círculo de Fogo</segment>
+    <segment id="88">, onde</segment>
+    <segment id="89">sese concentra a maior parte dos vulcões.</segment>
+    <segment id="90">Essa configuração levaria à futura colisão da costa oeste das Américas com a costa leste da Ásia</segment>
+    <segment id="91">, modelo proposto pelo geólogo sul-africano Chris</segment>
+    <segment id="92">Hartnady em 1992.</segment>
+    <segment id="93">No final da década de 90</segment>
+    <segment id="94">, o inglês Roy Livermore apresentou modelo semelhante</segment>
+    <segment id="95">, a que chamou de Novopangeia</segment>
+    <segment id="96">, com um encaixe um pouco diferente das linhas de costa e o envolvimento da Antártica</segment>
+    <segment id="97">, que não aparece no anterior.</segment>
+    <segment id="98">Existem</segment>
+    <segment id="99">, porém</segment>
+    <segment id="100">porém, alternativas.</segment>
+    <segment id="101">Se o movimento dos continentes for revertido devido a mudanças nos padrões de convecção na astenosfera</segment>
+    <segment id="102">, o oceano Atlântico poderá voltar a ser consumido</segment>
+    <segment id="103">, enquanto o Pacífico</segment>
+    <segment id="104">sese expandirá.</segment>
+    <segment id="105">Tal futuro levaria as Américas a mais uma vez colidir com a costa leste da África e da Europa</segment>
+    <segment id="106">, gerando o supercontinente que o estadunidense Christopher Scotese batizou de Pangeia Ultima</segment>
+    <segment id="107">, masmas depois trocou por Pangeia Proxima</segment>
+    <segment id="108">, para evitar que o nome remetesse a um fim do ciclo dos continentes.</segment>
+    <segment id="109">Os dois processos</segment>
+    <segment id="110">, de fechamento do Pacífico e do Atlântico</segment>
+    <segment id="111">, respectivamente</segment>
+    <segment id="112">, podem ser entendidos em termos distintos de ciclos continentais.</segment>
+    <segment id="113">No primeiro</segment>
+    <segment id="114">casocaso</segment>
+    <segment id="115">, os continentes que</segment>
+    <segment id="116">sese separaram quando houve a ruptura de Pangeia acabariam colidindo com outros fragmentos do outro lado do mundo</segment>
+    <segment id="117">, ou seja</segment>
+    <segment id="118">, as bordas que colidem são diferentes daquelas bordas continentais que</segment>
+    <segment id="119">sese separaram e hoje parecem</segment>
+    <segment id="120">sese encaixar</segment>
+    <segment id="121">comocomo peças de quebra-cabeça.</segment>
+    <segment id="122">Esse processo é chamado de extroversão.</segment>
+    <segment id="123">Na segunda possibilidade</segment>
+    <segment id="124">, as bordas continentais que</segment>
+    <segment id="125">sese afastaram seriam mais ou menos as mesmas que irão colidir de novo no futuro</segment>
+    <segment id="126">, processo chamado de introversão</segment>
+    <segment id="127">, no qual o movimento dos continentes lembraria o de um acordeão</segment>
+    <segment id="128">, abrindo e fechando segundo o desenvolvimento dos oceanos entre eles.</segment>
+    <segment id="129">Mas existe ainda uma terceira possibilidade.</segment>
+    <segment id="130">Uma ideia capitaneada pelo norte-americano Ross Mitchell</segment>
+    <segment id="131">, agora na Academia Chinesa de Ciências</segment>
+    <segment id="132">, é que novos supercontinentes</segment>
+    <segment id="133">sese formarão a aproximadamente 90 graus de seus predecessores — por isso dita ortoversão</segment>
+    <segment id="134">, de "ortogonal" — devido à agregação dos fragmentos continentais em locais onde o manto frio está descendo até o núcleo.</segment>
+    <segment id="135">Nessa visão</segment>
+    <segment id="136">, seria o oceano Ártico que</segment>
+    <segment id="137">sese fecharia</segment>
+    <segment id="138">, gerando a colisão dos continentes atuais no polo Norte para compor Amásia (Américas + Ásia)</segment>
+    <segment id="139">, seguindo uma proposta anterior do geólogo canadense Paul Hoffman.</segment>
+    <segment id="140">Além da introversão</segment>
+    <segment id="141">, extroversão e ortoversão</segment>
+    <segment id="142">, em 2018 outro mecanismo foi proposto pelo português João Duarte e seus colaboradores.</segment>
+    <segment id="143">A partir da observação de terremotos nas margens da península Ibérica</segment>
+    <segment id="144">, eles chegaram à conclusão de que é possível que zonas de subducção — aquelas em que placas oceânicas em colisão com outras placas oceânicas ou com placas continentais mergulham sob essas últimas — comecem a</segment>
+    <segment id="145">sese desenvolver nas bordas do Atlântico</segment>
+    <segment id="146">, enquanto continuam operando no Pacífico</segment>
+    <segment id="147">, de modo a assim gerar dois círculos de fogo</segment>
+    <segment id="148">, cada um deles bordejando um dos oceanos.</segment>
+    <segment id="149">Tal cenário pode levar</segment>
+    <segment id="150">, no futuro</segment>
+    <segment id="151">, ao consumo simultâneo dos dois maiores oceanos do planeta</segment>
+    <segment id="152">, situação só possível</segment>
+    <segment id="153">casocaso um novo oceano fosse gerado em algum local</segment>
+    <segment id="154">, talvez rasgando a Eurásia ao meio.</segment>
+    <segment id="155">Duarte e colaboradores chamaram o novo supercontinente que resultaria desse processo de Aurica (</segment>
+    <segment id="156">poispois</segment>
+    <segment id="157">, Austrália e Américas acabariam no centro da nova configuração).</segment>
+    <segment id="158">Em todo</segment>
+    <segment id="159">casocaso</segment>
+    <segment id="160">, sese a tectônica de placas seguir seus processos atuais</segment>
+    <segment id="161">, o fenômeno só ocorrerá em cerca de 200 milhões de anos.</segment>
+    <segment id="162">Até lá</segment>
+    <segment id="163">, provavelmente nenhum ser humano estará por perto para ver</segment>
+    <segment id="164">comocomo será a vida na Novopangeia</segment>
+    <segment id="165">, Pangeia Proxima</segment>
+    <segment id="166">, Amásia ou Aurica.  *  Fabrício Caxito é professor de geologia</segment>
+    <segment id="167">, pesquisador principal no projeto GeoLife MOBILE e filósofo pela UFMG.</segment>
+    <segment id="168">O blog Ciência Fundamental é editado pelo Serrapilheira</segment>
+    <segment id="169">, um instituto privado</segment>
+    <segment id="170">, sem fins lucrativos</segment>
+    <segment id="171">, que promove a ciência no Brasil.</segment>
+    <segment id="172">Inscreva-</segment>
+    <segment id="173">sese na newsletter do Serrapilheira para acompanhar as novidades do instituto e do blog.</segment>
+  </rst>
+</analysis>

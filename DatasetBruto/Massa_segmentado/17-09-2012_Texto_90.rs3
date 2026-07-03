@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">SalÃ£o terÃ¡ opÃ§Ãµes para todos os bolsos
+Quem tiver pressa jÃ¡ pode passar no Shopping Iguatemi e conferir as opÃ§Ãµes</segment>
+    <segment id="2">Quem estÃ¡ doidinho para ter a tÃ£o sonhada casa prÃ³pria deve ficar esperto e aproveitar o mÃªs de setembro.</segment>
+    <segment id="3">O 7Âº SalÃ£o ImobiliÃ¡rio da Bahia</segment>
+    <segment id="4">, que serÃ¡ realizado entre os dias 26 e 30 no Centro de ConvenÃ§Ãµes de Salvador</segment>
+    <segment id="5">, terÃ¡ opÃ§Ãµes para todos os bolsos e gostos.</segment>
+    <segment id="6">Quem tiver pressa  jÃ¡ pode dar uma passadinha  no Shopping Iguatemi e conferir as opÃ§Ãµes de vÃ¡rias construtoras que vÃ£o participar do salÃ£o.</segment>
+    <segment id="7">As empresas montaram estandes no primeiro e terceiro pisos</segment>
+    <segment id="8">, onde fazem uma espÃ©cie de prÃ©</segment>
+    <segment id="9">-venda</segment>
+    <segment id="10">, incluindo simulaÃ§Ãµes de financiamentos e atÃ© agendamento de visitas.</segment>
+    <segment id="11">No estande da AssociaÃ§Ã£o de Dirigentes de Empresas do Mercado ImobiliÃ¡rio da Bahia (Ademi-BA)</segment>
+    <segment id="12">, tambÃ©m jÃ¡</segment>
+    <segment id="13">Ã© possÃ­vel fazer a inscriÃ§Ã£o para participar do salÃ£o imobiliÃ¡rio</segment>
+    <segment id="14">, no fim do mÃªs.</segment>
+  </rst>
+</analysis>

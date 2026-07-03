@@ -1,0 +1,111 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A previsão para este final de semana é de chuva na maior parte do país.</segment>
+    <segment id="2">Além do Sudeste</segment>
+    <segment id="3">, as regiões Norte e Nordeste também devem sofrer com tempo mais fechado e volumes maiores de chuva.</segment>
+    <segment id="4">As chuvas devem continuar nas cidades do litoral paulista</segment>
+    <segment id="5">, que já registraram todo o acumulado de chuva esperado para o mês de janeiro dentro de 72 horas</segment>
+    <segment id="6">, segundo o CGE (Centro de Gerenciamento de Emergências) da Defesa Civil estadual.</segment>
+    <segment id="7">Para Ubatuba</segment>
+    <segment id="8">, a previsão para sábado é de sol com muitas nuvens durante o dia.</segment>
+    <segment id="9">Períodos nublados</segment>
+    <segment id="10">, com chuva a qualquer hora.</segment>
+    <segment id="11">Em São Sebastião</segment>
+    <segment id="12">, onde a sirene de evacuação chegou a ser acionada na quarta (24)</segment>
+    <segment id="13">, as chuvas continuam</segment>
+    <segment id="14">masmas há leve melhora</segment>
+    <segment id="15">, com sábado e domingo nublados e pancadas de chuva à tarde e à noite.</segment>
+    <segment id="16">O cenário é o mesmo para Ilhabela</segment>
+    <segment id="17">, Bertioga</segment>
+    <segment id="18">, Santos e São Vicente.</segment>
+    <segment id="19">São Paulo terá pancadas de chuva à tarde e à noite neste final de semana.</segment>
+    <segment id="20">O clima chuvoso continua no Rio de Janeiro</segment>
+    <segment id="21">, principalmente neste sábado (27).</segment>
+    <segment id="22">Morador da Vila Sahy</segment>
+    <segment id="23">, em São Sebastião (SP)</segment>
+    <segment id="24">, Edivaldo da Silva Santos ficou assustado com a barulho da sirene de evacuação</segment>
+    <segment id="25">, acionada na noite de quinta (25) -Claudio Rodrigues/FolhapressO tempo também deve permanecer chuvoso neste fim de semana em Belo Horizonte</segment>
+    <segment id="26">, com 90% de chance de chuvas para sábado e domingo.</segment>
+    <segment id="27">A capital mineira sofreu com um temporal na última terça-feira (23)</segment>
+    <segment id="28">, causando alagamentos e quedas de árvores na Grande BH.</segment>
+    <segment id="29">Na região Sul</segment>
+    <segment id="30">, espera-</segment>
+    <segment id="31">sese nos próximos dias muita chuva no litoral do Paraná e de Santa Catarina.</segment>
+    <segment id="32">Segundo a Climatempo</segment>
+    <segment id="33">, a infiltração marítima colabora para a formação de nuvens carregadas.</segment>
+    <segment id="34">Neste sábado (27) o cenário é de céu encoberto e chuva a qualquer hora na costa dos dois estados.</segment>
+    <segment id="35">São temporais que devem ocorrer com alto volume acumulado</segment>
+    <segment id="36">, ventania</segment>
+    <segment id="37">, raios e risco de granizo.</segment>
+    <segment id="38">O solo já está saturado nessas áreas</segment>
+    <segment id="39">, por isso</segment>
+    <segment id="40">, existe um alto potencial para transtornos</segment>
+    <segment id="41">comocomo pontos de alagamentos e enchentes.</segment>
+    <segment id="42">Em Curitiba e Florianópolis</segment>
+    <segment id="43">, as pancadas devem ser fortes e também há risco de problemas ocasionados pela alta pluviosidade.</segment>
+    <segment id="44">No interior do PR e de SC</segment>
+    <segment id="45">, a chuva acontece</segment>
+    <segment id="46">, masmas com menor intensidade.</segment>
+    <segment id="47">O Rio Grande do Sul é o único estado da região em que o sol deve aparecer na maior parte do dia.</segment>
+    <segment id="48">Em Porto Alegre até existe possibilidade de chuva na sexta-feira</segment>
+    <segment id="49">, masmas fraca e passageira.</segment>
+    <segment id="50">No domingo (28) o cenário começa a mudar sobre a região Sul do país.</segment>
+    <segment id="51">Não se</segment>
+    <segment id="52">se descarta a previsão de chuva</segment>
+    <segment id="53">, masmas o volume das pancadas é muito menor</segment>
+    <segment id="54">, ainda concentrados nos mesmos locais.</segment>
+    <segment id="55">Em Brasília</segment>
+    <segment id="56">, chove ao longo de todo o final de semana.</segment>
+    <segment id="57">Faz calor em Cuiabá</segment>
+    <segment id="58">, com máxima chegando a 38°C e sem chuvas.</segment>
+    <segment id="59">Em Campo Grande</segment>
+    <segment id="60">, chove somente na tarde de sábado.</segment>
+    <segment id="61">Nas regiões Norte e Nordeste</segment>
+    <segment id="62">, a área litorânea sentirá os efeitos da chegada da Zona de Convergência Intertropical (ZCIT)</segment>
+    <segment id="63">, prometendo volumes elevados de chuva.</segment>
+    <segment id="64">O sábado é de chuvas para Salvador</segment>
+    <segment id="65">, João Pessoa e Natal</segment>
+    <segment id="66">, com tempo mais aberto no domingo.</segment>
+    <segment id="67">Chove durante todo o final de semana em Salvador</segment>
+    <segment id="68">, São Luís e Teresina.</segment>
+    <segment id="69">No sábado</segment>
+    <segment id="70">, a condição permanece</segment>
+    <segment id="71">, com muita nebulosidade e chuva sobre as regiões leste do Amapá</segment>
+    <segment id="72">, litoral leste do Pará</segment>
+    <segment id="73">, litoral do Maranhão</segment>
+    <segment id="74">, Piauí e Ceará.</segment>
+    <segment id="75">Alerta para temporais na faixa litoral do Pará</segment>
+    <segment id="76">, com acumulados superando 30mm.</segment>
+    <segment id="77">No domingo</segment>
+    <segment id="78">, a ZCIT avança mais sobre as regiões</segment>
+    <segment id="79">, e grandes volumes são esperados.</segment>
+    <segment id="80">Condição de muita nebulosidade</segment>
+    <segment id="81">, chuva e poucas aberturas de sol.</segment>
+    <segment id="82">Alerta para temporais com acumulados entre 20 e 30mm de chuva no litoral do Amapá</segment>
+    <segment id="83">, litoral leste do Pará</segment>
+    <segment id="84">, litoral do Maranhão</segment>
+    <segment id="85">, Piauí e Ceará.</segment>
+  </rst>
+</analysis>

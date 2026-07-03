@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Edifício da editora Abril - Rivaldo Gomes/FolhapressA jornalista Joice Hasselmann considera “totalmente ridícula” e “absurda” a decisão judicial na qual foi sentenciada a pagar R$ 225 mil ao Grupo Abril.</segment>
+    <segment id="2">Ela foi condenada por “violação de ordem judicial” e “reparação por danos morais” pelo uso indevido da palavra “veja” e outros elementos que fazem alusão à marca da revista em um domínio de internet e em um canal de YouTube.</segment>
+    <segment id="3">ESCRITO</segment>
+    <segment id="4">Hasselmann criou plataformas virtuais para produzir conteúdo após ser demitida da publicação</segment>
+    <segment id="5">, em 2015.</segment>
+    <segment id="6">A sentença ainda a obriga a “abster-</segment>
+    <segment id="7">sese de usar a expressão ‘veja’</segment>
+    <segment id="8">comocomo elemento identificativo por quaisquer meios”.</segment>
+    <segment id="9">“Ninguém é dono de uma palavra”</segment>
+    <segment id="10">, diz a jornalista</segment>
+    <segment id="11">, que já recorreu judicialmente.</segment>
+    <segment id="12">A Abril disse que não comentará.</segment>
+    <segment id="13">Leia a coluna completa aqui.</segment>
+  </rst>
+</analysis>

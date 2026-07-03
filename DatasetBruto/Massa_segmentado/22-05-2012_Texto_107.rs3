@@ -1,0 +1,54 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Mudança em táxis causa polêmica entre motoristas
+RIO</segment>
+    <segment id="2">- A intenção da prefeitura de mudar o desenho dos bigorrilhos - placas luminosas no teto dos veículos - dos táxis cariocas</segment>
+    <segment id="3">, noticiada nesta terça-feira por Ancelmo Gois em sua coluna no GLOBO</segment>
+    <segment id="4">, já causa polêmica entre os motoristas</segment>
+    <segment id="5">, embora</segment>
+    <segment id="6">embora o município ainda não tenha divulgado detalhes de quando e</segment>
+    <segment id="7">comocomo será a mudança.</segment>
+    <segment id="8">Para os taxistas</segment>
+    <segment id="9">, a alteração vai pesar no bolso.</segment>
+    <segment id="10">O prefeito Eduardo Paes deve determinar que os bigorrilhos ganhem os contornos de dois cartões-postais da cidade: o Pão de Açúcar e o Cristo Redentor.</segment>
+    <segment id="11">O taxista Mauro Estrela</segment>
+    <segment id="12">, de 54 anos</segment>
+    <segment id="13">, afirmou que o formato do acessório no teto dos veículos é um detalhe irrelevante para o serviço:
+
+- O grande problema dessa novidade é que vai acabar pesando no bolso dos taxistas.</segment>
+    <segment id="14">O bigorrilho será trocado apenas por questão estética.</segment>
+    <segment id="15">Taxistas dizem que será a segunda mudança em dois anos.</segment>
+    <segment id="16">O município passou a exigir que os bigorrilhos fossem dotados de sistema luminoso indicando</segment>
+    <segment id="17">sese o táxi está vazio ou ocupado em 2010.</segment>
+    <segment id="18">A placa apagada indica veículo com passageiros</segment>
+    <segment id="19">; acesa</segment>
+    <segment id="20">, que está livre.
+
+- A instalação do sistema luminoso ocorreu há dois anos</segment>
+    <segment id="21">, com um gasto de quase R$ 300.</segment>
+    <segment id="22">Foi um custo extra sem grande utilidade para os profissionais e os passageiros - disse o taxista Diego Tenório</segment>
+    <segment id="23">, de 30 anos.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,237 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Uma viagem bate e volta entre São Paulo e Rio</segment>
+    <segment id="2">seria o cenário ideal para colocar um carro 100% elétrico na estrada.</segment>
+    <segment id="3">A oportunidade surgiu no feriado do Natal</segment>
+    <segment id="4">, período de grande movimento nas estradas.</segment>
+    <segment id="5">A experiência adquirida no teste Folha-Mauá mostrou que o ideal seria conseguir um carro com</segment>
+    <segment id="6">, pelo menos</segment>
+    <segment id="7">, 400 km de autonomia.</segment>
+    <segment id="8">A Ford tinha um disponível: o recém-lançado Mustang Mach E (R$ 486 mil).</segment>
+    <segment id="9">Mustang Mach</segment>
+    <segment id="10">E é carregado em plugue rápido no Posto Nacional</segment>
+    <segment id="11">, em Piraí (RJ) - Eduardo Sodré/FolhapressEis o primeiro aprendizado: carros elétricos compactos de baixa autonomia e pouca potência são eficientes no uso urbano</segment>
+    <segment id="12">, masmas podem deixar o motorista na estrada</segment>
+    <segment id="13">sese a distância entre um eletroposto e outro for longa.</segment>
+    <segment id="14">Há ainda o risco de o equipamento estar inoperante</segment>
+    <segment id="15">, como</segment>
+    <segment id="16">como relatam diversos motoristas no aplicativo PlugShare</segment>
+    <segment id="17">, que exibe mapas com eletropostos em diferentes regiões e permite a interação entre os usuários.</segment>
+    <segment id="18">A viagem começou na manhã de sábado (23)</segment>
+    <segment id="19">, com saída às 9h do Brooklin Novo (zona sul de São Paulo).</segment>
+    <segment id="20">O painel digital do Mustang marcava 83% de carga da bateria e autonomia estimada em pouco mais de 300 quilômetros.</segment>
+    <segment id="21">O objetivo era rodar sempre no limite permitido em cada trecho.</segment>
+    <segment id="22">Na rodovia Presidente Dutra</segment>
+    <segment id="23">, por exemplo</segment>
+    <segment id="24">, a velocidade máxima chega a 110 km/h.</segment>
+    <segment id="25">Em meio ao trânsito e às baixas velocidades permitidas em áreas urbanas da capital</segment>
+    <segment id="26">, a autonomia caía lentamente.</segment>
+    <segment id="27">Por aproveitar a energia despendida nas freadas</segment>
+    <segment id="28">, carros elétricos</segment>
+    <segment id="29">sese dão bem em engarrafamentos.</segment>
+    <segment id="30">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="31">; aberta para não assinantes.</segment>
+    <segment id="32">Carregando...</segment>
+    <segment id="33">O plano inicial era dirigir por 169 km até o posto Arco Íris</segment>
+    <segment id="34">, em Roseira (interior de São Paulo)</segment>
+    <segment id="35">, e fazer a primeira recarga em um ponto instalado pela Vibra Energia.</segment>
+    <segment id="36">Entretanto</segment>
+    <segment id="37">, o navegador indicou que o melhor caminho naquele momento seria pela rodovia Carvalho Pinto</segment>
+    <segment id="38">, onde havia um carregador rápido da mesma empresa</segment>
+    <segment id="39">, que tem o contrato de licenciamento da marca Petrobras.</segment>
+    <segment id="40">Os plugues ficam na cidade paulista de São José dos Campos.</segment>
+    <segment id="41">Contudo</segment>
+    <segment id="42">, havia um Chevrolet Tracker –que é flex</segment>
+    <segment id="43">, não elétrico– ocupando as duas vagas dos carregadores tipo CCS</segment>
+    <segment id="44">, que tem maior potência (em geral</segment>
+    <segment id="45">, entre 43 kW e 150 kW).</segment>
+    <segment id="46">Havia um casal no carro.</segment>
+    <segment id="47">Ao ser avisada de que</segment>
+    <segment id="48">sese tratava de um ponto exclusivo para carros eletrificados</segment>
+    <segment id="49">, a mulher afirmou estar grávida.</segment>
+    <segment id="50">Em seguida</segment>
+    <segment id="51">, disse que o marido só estacionou ali por</segment>
+    <segment id="52">sese tratar de uma emergência: era preciso dar água para o cachorro que viajava com eles.</segment>
+    <segment id="53">O Tracker desocupou a vaga e a recarga foi iniciada.</segment>
+    <segment id="54">Antes,</segment>
+    <segment id="55">contudo</segment>
+    <segment id="56">contudo</segment>
+    <segment id="57">, foi preciso baixar o aplicativo da empresa Easy Volt (que gerencia o pagamento)</segment>
+    <segment id="58">, fazer o cadastro e registrar o cartão de crédito.</segment>
+    <segment id="59">Mustang Mach é recarregado em tomada rápida da Vibra Energia no posto Arco íris</segment>
+    <segment id="60">, em Roseira (SP) - Eduardo Sodré/FolhapressÉ uma tendência: após um período de cortesia</segment>
+    <segment id="61">, os eletropostos começam a cobrar pela energia.</segment>
+    <segment id="62">Mas ainda há pontos gratuitos</segment>
+    <segment id="63">, como</segment>
+    <segment id="64">como os destacados em quatro roteiros de viagem a partir de São Paulo.</segment>
+    <segment id="65">Em 18 minutos</segment>
+    <segment id="66">, chegou-</segment>
+    <segment id="67">sese a 80% da carga.</segment>
+    <segment id="68">Foram 21</segment>
+    <segment id="69">,6 kWh a um custo de R$ 55.</segment>
+    <segment id="70">Nesse tempo</segment>
+    <segment id="71">, um BMW 330e</segment>
+    <segment id="72">, híbrido plug-in (pode ser carregado na tomada)</segment>
+    <segment id="73">, estacionou ao lado</segment>
+    <segment id="74">, no espaço com tomada tipo 2</segment>
+    <segment id="75">, de carga lenta (entre 7 kW e 22 kW).</segment>
+    <segment id="76">O proprietário tentou acessar o aplicativo</segment>
+    <segment id="77">, masmas não conseguiu.</segment>
+    <segment id="78">Após reclamar da burocracia</segment>
+    <segment id="79">, seguiu viagem usando apenas gasolina.</segment>
+    <segment id="80">A dificuldade em acessar os aplicativos que desbloqueiam os carregadores está entre as principais reclamações do app PlugShare.</segment>
+    <segment id="81">Falhas de operação também são relatadas.  "</segment>
+    <segment id="82">Fiquem atentos</segment>
+    <segment id="83">, porque</segment>
+    <segment id="84">porque</segment>
+    <segment id="85">, às vezes</segment>
+    <segment id="86">, o carregador desliga e é necessário recomeçar"</segment>
+    <segment id="87">, escreveu o dono de um Volvo XC40 que usou o eletroposto da Vibra Energia no dia 23.</segment>
+    <segment id="88">Na mesma data</segment>
+    <segment id="89">, o motorista de um Chery Tiggo 8 Hybrid reclamou do preço.</segment>
+    <segment id="90">"R$ 2,50/kW</segment>
+    <segment id="91">, muito caro.</segment>
+    <segment id="92">"</segment>
+    <segment id="93">O valor é o mesmo cobrado na unidade do posto Arco Íris Roseira</segment>
+    <segment id="94">, que oferece uma vantagem: as duas vagas de recarga (lenta e rápida) são cobertas.</segment>
+    <segment id="95">Isso faz diferença principalmente</segment>
+    <segment id="96">sese estiver chovendo</segment>
+    <segment id="97">, como</segment>
+    <segment id="98">como ocorreu em Piraí (RJ)</segment>
+    <segment id="99">, no Mamão Restaurante.</segment>
+    <segment id="100">Foi uma parada rápida: os 10 minutos necessários para conseguir acionar o carregador foram equivalentes ao tempo plugado.</segment>
+    <segment id="101">O sistema estava fora do ar</segment>
+    <segment id="102">, sendo necessário pedir auxílio a um frentista do posto Ipiranga ao lado.</segment>
+    <segment id="103">O atendente desbloqueou o equipamento com um cartão próprio –nesse</segment>
+    <segment id="104">casocaso</segment>
+    <segment id="105">, não houve cobrança.</segment>
+    <segment id="106">Caso estivesse conectado à internet</segment>
+    <segment id="107">, o aparelho seria desbloqueado por meio do aplicativo WeCharge.</segment>
+    <segment id="108">O kWh custa R$ 1</segment>
+    <segment id="109">,90.</segment>
+    <segment id="110">Nem todos os eletropostos que usam aplicativos oferecem a possibilidade de desbloqueio offline.</segment>
+    <segment id="111">"</segment>
+    <segment id="112">O sistema estava inoperante.</segment>
+    <segment id="113">O telefone para auxiliar não atendeu.</segment>
+    <segment id="114">Ninguém do posto entendia</segment>
+    <segment id="115">comocomo funcionava.</segment>
+    <segment id="116">Em suma</segment>
+    <segment id="117">, um caos"</segment>
+    <segment id="118">, disse</segment>
+    <segment id="119">, em outubro</segment>
+    <segment id="120">, o dono de um BYD Yuan Plus que tentou usar o carregador da WeCharge no Posto Nacional —que também fica em Piraí</segment>
+    <segment id="121">, masmas no sentido São Paulo.</segment>
+    <segment id="122">Essa foi a primeira parada na viagem de volta</segment>
+    <segment id="123">, na segunda-feira (25).</segment>
+    <segment id="124">BYD celebra implantação de primeira planta de carros elétricos do BrasilMais    novamente         de   de  de  representando um</segment>
+    <segment id="125">Após passar a véspera de Natal na garagem</segment>
+    <segment id="126">, o Mach-E tinha 35% de carga e autonomia para rodar 147 km.</segment>
+    <segment id="127">Esse número foi atingido após algumas horas plugado em uma tomada residencial de 220V</segment>
+    <segment id="128">, já que o Mustang veio com um carregador portátil com conector de três pinos (20 amperes).</segment>
+    <segment id="129">Isso só foi possível por</segment>
+    <segment id="130">sese estar em uma casa na zona oeste do Rio.</segment>
+    <segment id="131">Se a hospedagem fosse em um prédio</segment>
+    <segment id="132">, seria difícil conseguir autorização ou mesmo um conector adequado.</segment>
+    <segment id="133">Instalada ao lado da piscina</segment>
+    <segment id="134">, a tomada disponível é destinada aos refletores do quintal.</segment>
+    <segment id="135">Por isso</segment>
+    <segment id="136">, só foi possível manter o carro conectado enquanto havia luz solar.</segment>
+    <segment id="137">Em oito horas</segment>
+    <segment id="138">, foram recuperados 27</segment>
+    <segment id="139">,2 kW. Nesse ritmo</segment>
+    <segment id="140">, seriam necessárias 27 horas</segment>
+    <segment id="141">para que</segment>
+    <segment id="142">para que a bateria de 91 kWh fosse do zero até a carga completa.</segment>
+    <segment id="143">Esse tipo de recarga exige atenção às especificações do carregador portátil.</segment>
+    <segment id="144">Não é possível usar adaptadores</segment>
+    <segment id="145">, pois</segment>
+    <segment id="146">pois há risco de aquecimento.</segment>
+    <segment id="147">Se detectar algum problema na rede</segment>
+    <segment id="148">, o sistema é desligado automaticamente.</segment>
+    <segment id="149">O Posto Nacional estava a 63 km de distância</segment>
+    <segment id="150">, masmas havia um obstáculo pela frente: a subida da Serra das Araras</segment>
+    <segment id="151">, entre os municípios de Paracambi e Piraí</segment>
+    <segment id="152">, no Rio de Janeiro.</segment>
+    <segment id="153">Não faltou potência ao Mustang para vencer o longo aclive</segment>
+    <segment id="154">, masmas ver a autonomia cair rapidamente nessa condição gerou palpitações.</segment>
+    <segment id="155">Mas como</segment>
+    <segment id="156">como tudo que sobe tem que descer</segment>
+    <segment id="157">, o Mach E foi recuperando um pouco da carga nas frenagens que vieram a seguir</segment>
+    <segment id="158">, chegando ao eletroposto com autonomia para mais 72 km.</segment>
+    <segment id="159">Mas havia um BYD Seal plugado no carregador rápido.</segment>
+    <segment id="160">A boa notícia era que o sistema estava funcionando normalmente</segment>
+    <segment id="161">, porém</segment>
+    <segment id="162">porém seria necessário esperar.</segment>
+    <segment id="163">Com o crescimento da frota</segment>
+    <segment id="164">, andar de carro 100% elétrico no Brasil exige boas doses de sorte e paciência.</segment>
+    <segment id="165">Felizmente havia dois carregadores tipo 2 (lentos) instalados sob um telhado de placas solares.</segment>
+    <segment id="166">O Mustang ficou conectado ali por uma hora</segment>
+    <segment id="167">, até que o dono do BYD seguiu viagem.</segment>
+    <segment id="168">A carga do Mach E foi complementada no plugue rápido.</segment>
+    <segment id="169">Foram 31</segment>
+    <segment id="170">,18 kWh em cerca de quarenta minutos ao custo de R$ 61</segment>
+    <segment id="171">,24, que inclui a taxa de serviço de R$ 2.</segment>
+    <segment id="172">Após quase duas horas de parada</segment>
+    <segment id="173">, havia energia suficiente para chegar até o posto Arco Íris Roseira</segment>
+    <segment id="174">, cujo carregador rápido oferece até 150 kW de potência</segment>
+    <segment id="175">, que pode variar de acordo com o carro.</segment>
+    <segment id="176">No caso</segment>
+    <segment id="177">caso do Mustang</segment>
+    <segment id="178">, foram 100 kW no início do abastecimento</segment>
+    <segment id="179">, número que caiu para 80 kW na parte final.</segment>
+    <segment id="180">É normal que isso ocorra</segment>
+    <segment id="181">, para evitar sobrecarga e danos à bateria.</segment>
+    <segment id="182">Quando</segment>
+    <segment id="183">sese aproxima dos 100% da capacidade de armazenamento</segment>
+    <segment id="184">, o ritmo já é o mesmo dos carregadores lentos.</segment>
+    <segment id="185">Em 30 minutos</segment>
+    <segment id="186">, foram 45</segment>
+    <segment id="187">,96 kWh recarregados ao custo de R$ 115</segment>
+    <segment id="188">,91.</segment>
+    <segment id="189">Energia suficiente para rodar 200 km –que somados ao que ainda havia de energia dava para chegar em casa com folga.</segment>
+    <segment id="190">Nesse último trecho</segment>
+    <segment id="191">, de 160 km</segment>
+    <segment id="192">, a ansiedade foi</segment>
+    <segment id="193">embora</segment>
+    <segment id="194">embora.</segment>
+    <segment id="195">O medo de encontrar plugues ocupados ou inoperantes havia ido</segment>
+    <segment id="196">embora</segment>
+    <segment id="197">embora</segment>
+    <segment id="198">, e só então foi possível curtir o carro.</segment>
+    <segment id="199">Ainda houve uma última parada no Shopping Morumbi (zona sul de São Paulo)</segment>
+    <segment id="200">, onde o carro foi conectado em um carregador lento (gratuito) que fica na garagem.</segment>
+    <segment id="201">O Mustang Mach E ainda vai passar pelo Teste Folha-Mauá.</segment>
+    <segment id="202">Trata-</segment>
+    <segment id="203">sese de um SUV de alto desempenho</segment>
+    <segment id="204">, masmas que roda com conforto na estrada.</segment>
+    <segment id="205">Silencioso</segment>
+    <segment id="206">comocomo todo carro elétrico</segment>
+    <segment id="207">, oferece bom espaço e uma tela gigante instalada na vertical.</segment>
+    <segment id="208">Todas as informações do carro estão concentradas ali.</segment>
+    <segment id="209">E sim, é estranho ver o cavalinho que simboliza a marca colocado na dianteira de um utilitário esportivo –mais ainda sem o barulho do motor 5.0 V8 a gasolina do cupê Mach (R$ 576</segment>
+    <segment id="210">,5 mil).</segment>
+    <segment id="211">São os novos tempos.</segment>
+  </rst>
+</analysis>

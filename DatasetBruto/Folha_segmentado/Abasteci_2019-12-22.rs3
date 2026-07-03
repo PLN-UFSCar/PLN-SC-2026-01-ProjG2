@@ -1,0 +1,163 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Os partidos políticos destinaram ao menos R$ 17</segment>
+    <segment id="2">,8 milhões a empresas de filiados</segment>
+    <segment id="3">, incluindo seus próprios dirigentes</segment>
+    <segment id="4">, ao longo de 2018</segment>
+    <segment id="5">, de acordo com as prestações de contas entregues à Justiça Eleitoral.</segment>
+    <segment id="6">Levantamento feito pela Folha cruzando os dados de firmas prestadoras de serviços às legendas com títulos de eleitores e os CPFs de membros dos partidos</segment>
+    <segment id="7">, principalmente integrantes dos diretórios nacionais</segment>
+    <segment id="8">, estaduais ou municipais</segment>
+    <segment id="9">, aponta que ao menos 294 empresas ligadas a esses filiados foram beneficiadas.</segment>
+    <segment id="10">Essas empresas incluem principalmente escritórios de advocacia ou de contabilidade</segment>
+    <segment id="11">, produtoras de conteúdo</segment>
+    <segment id="12">, postos de gasolina e gráficas.</segment>
+    <segment id="13">A reportagem detectou as contratações em 29 dos 35 partidos constituídos naquele ano.</segment>
+    <segment id="14">A prática ocorre em legendas de distintas correntes ideológicas</segment>
+    <segment id="15">, do PC do B ao PSDB ou ao PSL</segment>
+    <segment id="16">, partido pelo qual Jair Bolsonaro foi eleito.</segment>
+    <segment id="17">A principal fonte de financiamento dos partidos são recursos públicos repartidos do fundo partidário</segment>
+    <segment id="18">, que em 2018 somou R$ 888 milhões.</segment>
+    <segment id="19">Para 2020</segment>
+    <segment id="20">, o valor previsto no Orçamento é de R$ 959 milhões</segment>
+    <segment id="21">, que se</segment>
+    <segment id="22">se somará ao fundo eleitoral de R$ 2 bilhões para custear as campanhas de candidatos a prefeito e vereador pelo país.</segment>
+    <segment id="23">Os dados das prestações partidárias de 2018 apontam na lista dos beneficiários firmas dos ex-presidenciáveis Luciana Genro (PSOL) e Ciro Gomes (PDT) e de parentes de Levy Fidélix</segment>
+    <segment id="24">, do PRTB.</segment>
+    <segment id="25">Aparecem ainda presidentes nacionais de siglas: José Maria Eymael (DC) e Eurípedes Macedo Júnior (PROS)</segment>
+    <segment id="26">, que possuem respectivamente comércio de autopeças e uma oficina.</segment>
+    <segment id="27">O levantamento</segment>
+    <segment id="28">sese refere ao ano passado</segment>
+    <segment id="29">porque</segment>
+    <segment id="30">porque o TSE (Tribunal Superior Eleitoral) não obriga as direções partidárias a informar suas despesas no momento em que são feitas</segment>
+    <segment id="31">, como</segment>
+    <segment id="32">como ocorre nas campanhas eleitorais.</segment>
+    <segment id="33">As prestações de 2018 foram entregues apenas em abril deste ano</segment>
+    <segment id="34">, e as informações com os gastos foram publicadas em forma de planilhas</segment>
+    <segment id="35">, que permitem cruzamentos de dados</segment>
+    <segment id="36">, só em setembro.</segment>
+    <segment id="37">A reportagem cruzou 80 milhões registros do TSE e da Receita Federal a partir de um algoritmo para chegar à soma de R$ 17</segment>
+    <segment id="38">,8 milhões pagos.</segment>
+    <segment id="39">Foram considerados os casos de empresas que receberam por alguma prestação de serviço ao partido e que</segment>
+    <segment id="40">, ao mesmo tempo</segment>
+    <segment id="41">, tinha no seu quadro societário uma pessoa filiada à sigla e com cargo em um dos seus diretórios durante o ano de 2018.</segment>
+    <segment id="42">CNPJs de instituições</segment>
+    <segment id="43">, associações sem fins lucrativos não foram considerados no levantamento</segment>
+    <segment id="44">, bem como</segment>
+    <segment id="45">como os pagamentos realizados a pessoa jurídica para a campanha de candidatos nas eleições de 2018.</segment>
+    <segment id="46">O número de dirigentes beneficiários deve ser bem superior</segment>
+    <segment id="47">, já que o levantamento da reportagem não computa os pagamentos feitos pelas fundações partidárias</segment>
+    <segment id="48">, que recebem ao menos 20% das verbas do fundo partidário e que não têm suas despesas compiladas em tabelas pela Justiça Eleitoral.</segment>
+    <segment id="49">Segundo a legislação</segment>
+    <segment id="50">, as fundações devem desenvolver atividades de educação política e pesquisa.</segment>
+    <segment id="51">O partido que apareceu no topo em 2018 foi o PSB</segment>
+    <segment id="52">, sendo que a maior parte foi paga ao escritório de advocacia Carneiros</segment>
+    <segment id="53">, do qual é sócio Rafael Carneiro</segment>
+    <segment id="54">, que é filiado e também integra o Conselho de Ética da legenda.</segment>
+    <segment id="55">A seguir</segment>
+    <segment id="56">, estão o PSD</segment>
+    <segment id="57">, o Solidariedade e o PT.</segment>
+    <segment id="58">No caso</segment>
+    <segment id="59">caso do Solidariedade</segment>
+    <segment id="60">, em 2018</segment>
+    <segment id="61">sese repetiu o que já havia sido mostrado com os dados do ano anterior em levantamento feito pela ONG Transparência Partidária: a maior despesa com prestadores filiados foi com o Cedraz Advogados</segment>
+    <segment id="62">, que tem entre sócios seis integrantes do diretório nacional do partido.</segment>
+    <segment id="63">No PDT</segment>
+    <segment id="64">, pagamentos ao escritório de Ciro também ocorreram em 2017 e na campanha eleitoral do ano passado.</segment>
+    <segment id="65">O partido Novo também fez pagamentos a firmas de dirigentes</segment>
+    <segment id="66">, no total de R$ 656 mil</segment>
+    <segment id="67">, masmas afirma que para isso não usa o fundo partidário e que tenta devolver esses recursos.</segment>
+    <segment id="68">Entre outras fontes de financiamento das legendas</segment>
+    <segment id="69">, estão contribuições de filiados e doações de pessoas físicas.</segment>
+    <segment id="70">As direções partidárias precisam prestar contas anualmente de seus gastos ao TSE</segment>
+    <segment id="71">, sob pena de ter cortados os repasses públicos.</segment>
+    <segment id="72">A análise da regularidade desses dados</segment>
+    <segment id="73">, porém</segment>
+    <segment id="74">porém, é lenta: em abril passado a corte eleitoral finalizou a análise da prestação de contas de 2013</segment>
+    <segment id="75">, e determinou a partidos a devolução de R$ 18</segment>
+    <segment id="76">,5 milhões por uso indevido do fundo.</segment>
+    <segment id="77">1º turno das eleições 2018Mais    novamente         de   de  de  representando um  OUTRO LADO  Partidos</segment>
+    <segment id="78">, empresas e políticos afirmam que a prestação de serviços às legendas é regular e que não há impeditivo na legislação.</segment>
+    <segment id="79">O PSD afirma que a lei e o estatuto do partido permitem que filiados</segment>
+    <segment id="80">, dirigentes ou não</segment>
+    <segment id="81">, prestem trabalhos.</segment>
+    <segment id="82">“</segment>
+    <segment id="83">Independentemente dessa condição</segment>
+    <segment id="84">, todos os serviços contratados foram efetivamente prestados.</segment>
+    <segment id="85">”</segment>
+    <segment id="86">O PT afirmou que possui 40</segment>
+    <segment id="87">,5 mil dirigentes municipais pelo país e que o número de casos levantados pela reportagem</segment>
+    <segment id="88">, nesse universo</segment>
+    <segment id="89">, mostra que o partido não privilegia a contratação de seus filiados.</segment>
+    <segment id="90">“</segment>
+    <segment id="91">O financiamento público dos partidos políticos é uma conquista voltada à redução da influência do poder econômico no regime democrático.</segment>
+    <segment id="92">Por isso mesmo tem sido alvo dos ataques de um falso republicanismo</segment>
+    <segment id="93">, que visam a desqualificar o sistema político.</segment>
+    <segment id="94">”  O PROS</segment>
+    <segment id="95">, presidido por Eurípedes Macedo Júnior</segment>
+    <segment id="96">, afirmou que é muito criterioso ao contratar serviços e adquirir bens</segment>
+    <segment id="97">, sempre fazendo pesquisas de preço e qualidade.</segment>
+    <segment id="98">“</segment>
+    <segment id="99">Não é factível pagar mais caro pela simples exigência de não coincidência entre o quadro societário das empresas e membros.</segment>
+    <segment id="100">Em suma</segment>
+    <segment id="101">, na relação constam equipamentos e materiais para estrutura do PROS e prestação de serviços advocatícios e comunicação.</segment>
+    <segment id="102">”  Sobre o pagamento à empresa de Eurípedes</segment>
+    <segment id="103">, diz que à época ele não integrava o quadro societário.</segment>
+    <segment id="104">A deputada estadual gaúcha Luciana Genro (PSOL) disse que trabalhou</segment>
+    <segment id="105">comocomo advogada do PSOL</segment>
+    <segment id="106">, atuando em ações judiciais</segment>
+    <segment id="107">, como</segment>
+    <segment id="108">como contra o aumento da tarifa de transporte</segment>
+    <segment id="109">, em consultoria política e na elaboração de programas de governo do partido.</segment>
+    <segment id="110">O ex-ministro Ciro Gomes disse</segment>
+    <segment id="111">, por meio de sua assessoria</segment>
+    <segment id="112">, que já</segment>
+    <segment id="113">sese pronunciou sobre a atuação de seu escritório anteriormente.</segment>
+    <segment id="114">No início do ano</segment>
+    <segment id="115">, quando a Folha mostrou que o Xerez Saldanha Vasconcelos e Ciro Gomes Advogados Associados recebeu R$ 80 mil da candidatura do pedetista em 2018</segment>
+    <segment id="116">, ele disse que os serviços prestados eram públicos e poderiam ser consultados na Justiça Eleitoral e que tinha</segment>
+    <segment id="117">sese afastado das atividades do escritório durante a campanha eleitoral.</segment>
+    <segment id="118">Rafael Carneiro</segment>
+    <segment id="119">, que integra o Conselho de Ética do PSB</segment>
+    <segment id="120">, disse</segment>
+    <segment id="121">, por meio de sua assessoria</segment>
+    <segment id="122">, que não há vedação legal ou moral que impeça um advogado filiado de prestar serviços a um partido.</segment>
+    <segment id="123">Afirma que integra o conselho</segment>
+    <segment id="124">, no qual dirigentes partidários são vedados</segment>
+    <segment id="125">, após ter sido convidado devido à sua experiência na área</segment>
+    <segment id="126">, que inclui serviços ao partido há mais de uma década.</segment>
+    <segment id="127">O escritório Cedraz Advogados informou que presta toda a assessoria jurídica consultiva do Solidariedade</segment>
+    <segment id="128">, incluindo a representação em mais de cem ações judiciais</segment>
+    <segment id="129">, principalmente em tribunais superiores.</segment>
+    <segment id="130">Afirma que seus sócios apenas compõem a assembleia geral</segment>
+    <segment id="131">, sem poder deliberativo</segment>
+    <segment id="132">, e que</segment>
+    <segment id="133">, na Justiça Eleitoral</segment>
+    <segment id="134">, a contratação do escritório jamais foi questionada.</segment>
+    <segment id="135">Os outros citados na reportagem foram procurados</segment>
+    <segment id="136">, masmas não responderam.</segment>
+    <segment id="137">Eleições 2018 - Ciro Gomes Mais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

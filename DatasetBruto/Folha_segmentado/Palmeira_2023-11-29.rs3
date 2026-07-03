@@ -1,0 +1,108 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Palmeiras teve uma noite</segment>
+    <segment id="2">, praticamente</segment>
+    <segment id="3">, perfeita nesta quarta-feira (29).</segment>
+    <segment id="4">Além de vencer o América-MG por 4 a 0</segment>
+    <segment id="5">, no Allianz Parque</segment>
+    <segment id="6">, contou com um tropeço do Flamengo diante do Atlético Mineiro para terminar a 36ª rodada do Campeonato Brasileiro</segment>
+    <segment id="7">comocomo a única equipe que depende apenas de suas forças para ser campeã.</segment>
+    <segment id="8">Isso pode acontecer já no próximo domingo (3).</segment>
+    <segment id="9">A conta é simples:</segment>
+    <segment id="10">basta o time derrotar o Fluminense</segment>
+    <segment id="11">, em casa</segment>
+    <segment id="12">, e contar com tropeços de Botafogo</segment>
+    <segment id="13">, Atlético Mineiro e Flamengo</segment>
+    <segment id="14">, respectivamente</segment>
+    <segment id="15">, segundo</segment>
+    <segment id="16">, terceiro e quarto colocados.</segment>
+    <segment id="17">Enquanto a equipe alviverde chegou nesta quarta aos 66 pontos</segment>
+    <segment id="18">, os demais postulantes ao título brasileiro estão empatados com 63.</segment>
+    <segment id="19">O Palmeiras garante o título</segment>
+    <segment id="20">sese terminar o domingo com quatro pontos de vantagem para os adversários.</segment>
+    <segment id="21">Veja a classificação do Campeonato Brasileiro  Endrick e Murilo celebram gol do Palmeiras contra América-MG - Carla Carniel/ReutersA situação favorável foi construída com gols de Endrick</segment>
+    <segment id="22">, aos dois minutos</segment>
+    <segment id="23">, e Éder (contra)</segment>
+    <segment id="24">, 40, ambos no primeiro tempo</segment>
+    <segment id="25">, em que os donos da casa dominaram o adversário.</segment>
+    <segment id="26">Na etapa final</segment>
+    <segment id="27">, Flaco López</segment>
+    <segment id="28">, aos 43 e aos 47</segment>
+    <segment id="29">, e fechou a conta do jogo em que Palmeiras</segment>
+    <segment id="30">, desde o início</segment>
+    <segment id="31">, mostrou-</segment>
+    <segment id="32">sese confiante e dominante.</segment>
+    <segment id="33">Quando o time alviverde entrou em campo</segment>
+    <segment id="34">, os comandados de Abel Ferreira já sabiam que poderiam abrir uma importante vantagem na classificação.</segment>
+    <segment id="35">Mais cedo</segment>
+    <segment id="36">, o Flamengo</segment>
+    <segment id="37">, então segundo colocado empatado com o time alviverde</segment>
+    <segment id="38">, havia sido derrotado pelo Atlético Mineiro por 3 a 0</segment>
+    <segment id="39">, no Maracanã.</segment>
+    <segment id="40">Com o resultado</segment>
+    <segment id="41">, o rubro-negro interrompeu sua ascensão na competição</segment>
+    <segment id="42">, estacionou nos 63 pontos</segment>
+    <segment id="43">, e viu o time mineiro ultrapassá-lo</segment>
+    <segment id="44">, com a mesma pontuação</segment>
+    <segment id="45">, masmas com melhor saldo de gols (22 a 14).</segment>
+    <segment id="46">Na próxima rodada</segment>
+    <segment id="47">, o Flamengo recebe o Cuiabá</segment>
+    <segment id="48">, domingo (3)</segment>
+    <segment id="49">, no Maracanã</segment>
+    <segment id="50">, às 16h.</segment>
+    <segment id="51">Já o Atlético-MG joga no sábado (2)</segment>
+    <segment id="52">, contra o São Paulo</segment>
+    <segment id="53">, às 21h</segment>
+    <segment id="54">, na Arena MRV.</segment>
+    <segment id="55">Em duelo disputado no mesmo horário da partida no Allianz Parque</segment>
+    <segment id="56">, o Botafogo novamente deixou uma vitória escapar nos acréscimos e apenas empatou com o Coritiba</segment>
+    <segment id="57">, por 1 a 1.</segment>
+    <segment id="58">Santos perde do Fluminense em casa e segue ameaçado  Ainda ameaçado de rebaixamento no Campeonato Brasileiro</segment>
+    <segment id="59">, o Santos acabou derrotado pelo Fluminense nesta quarta-feira (29)</segment>
+    <segment id="60">, por 3 a 0</segment>
+    <segment id="61">, na Vila Belmiro.</segment>
+    <segment id="62">A equipe santista teve uma atuação apática</segment>
+    <segment id="63">, praticamente não viu a cor da bola —os visitantes chegaram a ter 70% de posse—</segment>
+    <segment id="64">, enquanto os atuais campeões da Libertadores conseguiram</segment>
+    <segment id="65">sese impor com gols de Marinelli</segment>
+    <segment id="66">, Arias e Cano.</segment>
+    <segment id="67">O time da Vila permanece com 43 pontos</segment>
+    <segment id="68">, apenas dois a mais do que o Bahia</segment>
+    <segment id="69">, a primeira equipe na zona de rebaixamento —também nesta quarta</segment>
+    <segment id="70">, o clube baiano acabou derrotado pelo São Paulo</segment>
+    <segment id="71">, 1 a 0</segment>
+    <segment id="72">, em casa.</segment>
+    <segment id="73">Na próxima rodada</segment>
+    <segment id="74">, o Santos volta a campo contra o Athletico Paranense</segment>
+    <segment id="75">, no domingo (3)</segment>
+    <segment id="76">, às 18h30.</segment>
+    <segment id="77">O Bahia</segment>
+    <segment id="78">, por sua vez</segment>
+    <segment id="79">, visita o já rebaixado América Mineiro</segment>
+    <segment id="80">, também no domingo</segment>
+    <segment id="81">, mais cedo</segment>
+    <segment id="82">, às 16h.</segment>
+  </rst>
+</analysis>

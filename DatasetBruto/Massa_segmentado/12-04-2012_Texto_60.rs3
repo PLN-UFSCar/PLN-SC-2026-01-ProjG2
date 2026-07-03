@@ -1,0 +1,59 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Condutora atropela 6 na Pituba</segment>
+    <segment id="2">Uma mulher foi encaminha em estado grave para o hospital</segment>
+    <segment id="3">, masmas morreu logo depois</segment>
+    <segment id="4">Um carro desgovernado atropelou seis pessoas na Avenida Manoel Dias da Silva</segment>
+    <segment id="5">, na Pituba</segment>
+    <segment id="6">, em Salvador</segment>
+    <segment id="7">, nesta quinta-feira (12).</segment>
+    <segment id="8">De acordo com a Transalvador</segment>
+    <segment id="9">, a condutora do veículo Fox</segment>
+    <segment id="10">, de placa NZZ-5959</segment>
+    <segment id="11">, perdeu o controle do automóvel</segment>
+    <segment id="12">, que desceu uma ladeira de ré.</segment>
+    <segment id="13">Uma delas foi encaminhada em estado grave para o Hospital Geral do Estado (HGE)</segment>
+    <segment id="14">, masmas não resistiu.</segment>
+    <segment id="15">A mulher tinha 49 anos.</segment>
+    <segment id="16">A idosa que estava numa cadeira de rodas no momento do acidente permanece internada.</segment>
+    <segment id="17">De acordo com técnicos da Samu</segment>
+    <segment id="18">, que prestaram os primeiros atendimentos</segment>
+    <segment id="19">, ela fraturou o fêmur.</segment>
+    <segment id="20">As vítimas aguardavam atendimento na porta da Clínica Pró-cura</segment>
+    <segment id="21">, que fica no final da Av. Manoel Dias</segment>
+    <segment id="22">, sentido Amaralina</segment>
+    <segment id="23">, quando foram surpreendidas pelo veículo.</segment>
+    <segment id="24">Os feridos foram levados para o Hospital Geral do Estado (HGE).</segment>
+    <segment id="25">Comércio - Duas pessoas também ficaram feridas em outro acidente na Avenida da França</segment>
+    <segment id="26">, no Comércio</segment>
+    <segment id="27">, centro de Salvador</segment>
+    <segment id="28">, neste manhã.</segment>
+    <segment id="29">As vítimas ficaram feridas na colisão de um micro-ônibus da empresa Capital com um ônibus da Modelo.</segment>
+    <segment id="30">Os feridos foram socorridos pela Samu.</segment>
+    <segment id="31">O trânsito ficou lento no local</segment>
+    <segment id="32">, masmas já foi controlado</segment>
+    <segment id="33">, de acordo com a Transalvador.</segment>
+  </rst>
+</analysis>

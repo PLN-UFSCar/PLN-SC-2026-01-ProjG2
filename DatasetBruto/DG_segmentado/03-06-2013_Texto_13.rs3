@@ -1,0 +1,132 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">456 mortes</segment>
+    <segment id="2">Dupla executada com tiros no rosto</segment>
+    <segment id="3">, na Barra do Ribeiro</segment>
+    <segment id="4">, faz nÃºmeros de mortes por homicÃ­dio e latrocÃ­nio chegar a 456 casos em 2013</segment>
+    <segment id="5">Eduardo Torres
+eduardo.torres@diariogaucho.com.br</segment>
+    <segment id="6">Um ataque ao estilo dos Bala na Cara mantÃ©m em alerta a polÃ­cia</segment>
+    <segment id="7">, desde a noite de sÃ¡bado</segment>
+    <segment id="8">, na RegiÃ£o Metropolitana.</segment>
+    <segment id="9">Tiago Nunes Leite</segment>
+    <segment id="10">, o Tiaguinho</segment>
+    <segment id="11">, 25 anos</segment>
+    <segment id="12">, e JoÃ£o Carlos dos Santos Garcia JÃºnior</segment>
+    <segment id="13">, 31 anos</segment>
+    <segment id="14">, foram executados - cada um com cinco tiros no rosto - em uma casa da regiÃ£o central de Barra do Ribeiro</segment>
+    <segment id="15">, a 56km da Capital</segment>
+    <segment id="16">, por volta das 20h30min.</segment>
+    <segment id="17">Os matadores fugiram em um Siena verde</segment>
+    <segment id="18">, em direÃ§Ã£o a GuaÃ­ba.</segment>
+    <segment id="19">Mortes ligadas ao trÃ¡fico</segment>
+    <segment id="20">Segundo a Brigada Militar</segment>
+    <segment id="21">, dois ou trÃªs homens teriam estacionado na Rua das Extremosas</segment>
+    <segment id="22">, Bairro Mate Doce</segment>
+    <segment id="23">, no Siena</segment>
+    <segment id="24">, e entrado no terreno onde aconteceu o crime.</segment>
+    <segment id="25">Tiaguinho e JoÃ£o foram abatidos na varanda</segment>
+    <segment id="26">, sem chances de defesa.</segment>
+    <segment id="27">Foram encontrados dez cartuchos de 9mm e .40.</segment>
+    <segment id="28">Vizinhos disseram que os dois homens moravam na casa de alvenaria hÃ¡</segment>
+    <segment id="29">menos de dois meses e nÃ£o eram conhecidos na regiÃ£o.</segment>
+    <segment id="30">A Brigada acredita que as mortes estÃ£o ligadas ao trÃ¡fico de drogas.</segment>
+    <segment id="31">Mas as circunstÃ¢ncias sÃ³ comeÃ§am a ser investigadas hoje pela DP de Barra do Ribeiro.</segment>
+    <segment id="32">A suspeita da BM Ã© de que estivessem tentando estabelecer um ponto de trÃ¡fico</segment>
+    <segment id="33">, masmas nada foi encontrado na casa.</segment>
+    <segment id="34">Outra hipÃ³tese da polÃ­cia</segment>
+    <segment id="35">Ã© de que estavam escondidos por medo dos Bala na Cara.</segment>
+    <segment id="36">Tiago era investigado pelo Denarc</segment>
+    <segment id="37">porque</segment>
+    <segment id="38">porque teria ligaÃ§Ãµes com o trÃ¡fico na Zona Norte da Capital</segment>
+    <segment id="39">, reduto de comando dos Bala.</segment>
+    <segment id="40">Outros homicÃ­dios no final de semana
+Porto Alegre - Karoline da Silva Tito</segment>
+    <segment id="41">, 21 anos</segment>
+    <segment id="42">, foi morta com dois tiros na Rua NÃ­sia Floresta</segment>
+    <segment id="43">, no Bairro Restinga</segment>
+    <segment id="44">, ontem</segment>
+    <segment id="45">, por volta das 16h35min.
+GravataÃ­ - Um homem branco</segment>
+    <segment id="46">, aparentando entre 25 e 30 anos</segment>
+    <segment id="47">, foi encontrado morto</segment>
+    <segment id="48">, com as mÃ£os amarradas com fios de luz</segment>
+    <segment id="49">, na Travessa IlhÃ©us</segment>
+    <segment id="50">, Vila Rica</segment>
+    <segment id="51">, por volta das 9h de ontem.</segment>
+    <segment id="52">SÃ£o Leopoldo - Um homem negro ainda nÃ£o identificado</segment>
+    <segment id="53">, usando um abrigo azul e tÃªnis branco</segment>
+    <segment id="54">, foi encontrado morto</segment>
+    <segment id="55">Ã s 6h45min de ontem</segment>
+    <segment id="56">, na Avenida Senador Salgado Filho</segment>
+    <segment id="57">, no Bairro Scharlau.
+Canoas - Lindomar Vieira Lopes</segment>
+    <segment id="58">, 33 anos</segment>
+    <segment id="59">, foi morto com pelo menos seis tiros - quatro deles na cabeÃ§a - por volta das 2h30min de ontem</segment>
+    <segment id="60">, na Rua ParanÃ¡</segment>
+    <segment id="61">, Bairro NiterÃ³i.</segment>
+    <segment id="62">O crime ocorreu no pÃ¡tio vizinho Ã  casa onde Lindomar morava.</segment>
+    <segment id="63">Alvorada - Diego</segment>
+    <segment id="64">Mancuso Antunes</segment>
+    <segment id="65">, 25 anos</segment>
+    <segment id="66">, foi morto com pelo menos quatro tiros na Rua Artur Garcia</segment>
+    <segment id="67">, Bairro Bela Vista</segment>
+    <segment id="68">, por volta das 22h de sexta.</segment>
+    <segment id="69">Sapucaia do Sul 1 - JosÃ© AmÃ¢ncio de Souza Garcia</segment>
+    <segment id="70">, 22 anos</segment>
+    <segment id="71">, morreu na noite de sÃ¡bado no Hospital GetÃºlio Vargas</segment>
+    <segment id="72">, nÃ£o resistindo aos ferimentos de tiros.</segment>
+    <segment id="73">Ele teria sido ferido no sÃ¡bado.</segment>
+    <segment id="74">A polÃ­cia investiga o</segment>
+    <segment id="75">casocaso.</segment>
+    <segment id="76">Sapucaia do Sul 2 - Bruno Pereira dos Santos</segment>
+    <segment id="77">, 19 anos</segment>
+    <segment id="78">, foi morto a tiros numa partida de futebol no ginÃ¡sio da Escola Municipal Alberto Santos Dumont</segment>
+    <segment id="79">, no Bairro Vargas</segment>
+    <segment id="80">, no comeÃ§o da noite de sexta.</segment>
+    <segment id="81">Sapiranga 1 - Mario Dutra Ramos</segment>
+    <segment id="82">, 40 anos</segment>
+    <segment id="83">, foi encontrado morto com marcas de agressÃµes na cabeÃ§a Ã s 4h30min de ontem</segment>
+    <segment id="84">, na Rua Osvaldo Cruz</segment>
+    <segment id="85">, no Bairro Sete de Setembro.</segment>
+    <segment id="86">Sapiranga 2 - Jonathan Garcia</segment>
+    <segment id="87">, 19 anos</segment>
+    <segment id="88">, foi morto num tiroteio na frente de um bar</segment>
+    <segment id="89">, Ã s 2h de sexta-feira</segment>
+    <segment id="90">, na Avenida 20 de Setembro</segment>
+    <segment id="91">, no Bairro Amaral Ribeiro.</segment>
+    <segment id="92">Quase trÃªs mortos por dia</segment>
+    <segment id="93">O duplo homicÃ­dio em Barra do Ribeiro marcou a ultrapassagem</segment>
+    <segment id="94">, segundo o levantamento do DiÃ¡rio GaÃºcho</segment>
+    <segment id="95">, da marca de 450 assassinatos nas 19 principais cidades da RegiÃ£o Metropolitana</segment>
+    <segment id="96">, em 2013.</segment>
+    <segment id="97">Com pelo menos 15 homicÃ­dios desde o comeÃ§o do feriadÃ£o de Corpus Christi</segment>
+    <segment id="98">, a listagem jÃ¡ apontava 456 mortes atÃ©</segment>
+    <segment id="99">Ã s 18h de ontem - uma mÃ©dia de 2</segment>
+    <segment id="100">,97 por dia.
+Porto Alegre (184)</segment>
+    <segment id="101">, Canoas (53) e Alvorada (44) seguem nas trÃªs primeiras colocaÃ§Ãµes entre as cidades mais violentas.</segment>
+  </rst>
+</analysis>

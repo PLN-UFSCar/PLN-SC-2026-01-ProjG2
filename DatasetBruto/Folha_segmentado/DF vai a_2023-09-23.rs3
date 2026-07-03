@@ -1,0 +1,53 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Governo do Distrito Federal apresentou uma série de ações no STF (Supremo Tribunal Federal) para cobrar de embaixadas estrangeiras pagamentos de dívidas por tributos</segment>
+    <segment id="2">comocomo IPTU (Imposto sobre a Propriedade Predial e Territorial Urbana)</segment>
+    <segment id="3">, TLP (Taxa de Limpeza Pública) e outros.</segment>
+    <segment id="4">Foram acionadas as missões de Arábia Saudita</segment>
+    <segment id="5">, Guiné</segment>
+    <segment id="6">, Moçambique</segment>
+    <segment id="7">, Nigéria</segment>
+    <segment id="8">, Nicarágua e Paquistão.</segment>
+    <segment id="9">O DF já perdeu em parte das ações.</segment>
+    <segment id="10">Os ministros afirmam que Estados estrangeiros têm imunidade em processos de execução.</segment>
+    <segment id="11">Embaixada do Paraguai</segment>
+    <segment id="12">, em Brasília - Sérgio Lima/FolhapressProcurada</segment>
+    <segment id="13">, a Secretaria da Fazenda do DF informou em nota que atua "em estrita observância dos ditames legais".</segment>
+    <segment id="14">Afirma ainda que estrangeiros têm que requerer o benefício da imunidade à Secretaria</segment>
+    <segment id="15">, com documento que reconheça reciprocidade no tratamento tributário dos dois países</segment>
+    <segment id="16">, masmas que essa imunidade "é conferida somente em relação a imposto</segment>
+    <segment id="17">, e não em relação a taxa"  "</segment>
+    <segment id="18">A taxa geralmente tem</segment>
+    <segment id="19">comocomo fato gerador a utilização de serviço público prestado ao contribuinte</segment>
+    <segment id="20">, como</segment>
+    <segment id="21">como, por exemplo</segment>
+    <segment id="22">, a coleta urbana de lixo</segment>
+    <segment id="23">, pela qual todo cidadão proprietário de imóvel paga a Taxa de Limpeza Pública – TLP"</segment>
+    <segment id="24">, argumenta.</segment>
+    <segment id="25">A secretaria diz que esbarra na jurisprudência do Supremo</segment>
+    <segment id="26">, que considera absoluta a imunidade de país estrangeiro em processo de execução</segment>
+    <segment id="27">, masmas afirma que tem o dever de lançar e cobrar o imposto "nos casos de não-preenchimento dos requisitos para o reconhecimento da imunidade" e também de cobrar taxas.</segment>
+  </rst>
+</analysis>

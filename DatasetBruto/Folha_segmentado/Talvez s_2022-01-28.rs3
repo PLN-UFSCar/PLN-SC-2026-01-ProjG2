@@ -1,0 +1,130 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O teto de gastos é a bola da vez.</segment>
+    <segment id="2">Os que acenam com gastos infinitos querem eliminá-lo.</segment>
+    <segment id="3">Os que</segment>
+    <segment id="4">sese preocupam com o equilíbrio fiscal —e veem o teto sendo desmontado pelo atual governo— acham que está na hora de buscar outro instrumento.</segment>
+    <segment id="5">Importante alertar para argumentos tortos</segment>
+    <segment id="6">, que usualmente frequentam esse debate.</segment>
+    <segment id="7">Afirma-</segment>
+    <segment id="8">sese que o teto estaria asfixiando o orçamento e o gasto estaria no osso</segment>
+    <segment id="9">, não havendo onde cortar.</segment>
+    <segment id="10">O ministro da economia</segment>
+    <segment id="11">, Paulo Guedes</segment>
+    <segment id="12">, em entrevista no Palácio do Planalto</segment>
+    <segment id="13">, em Brasília  - Pedro Ladeira - 25.jan.2022/FolhapressDifícil acreditar nisso vendo procuradores federais dividirem entre si quase meio milhão de reais que "sobraram no orçamento".</segment>
+    <segment id="14">Funcionários de estatais ganham salários de executivos com pacotes de benefícios invejáveis.</segment>
+    <segment id="15">Parlamentares têm R$ 36 bilhões de emendas no bolso.</segment>
+    <segment id="16">Partidos políticos gozam do maior financiamento público do mundo.</segment>
+    <segment id="17">O FMI aponta gasto primário dos três níveis de governo no Brasil</segment>
+    <segment id="18">, em 2019</segment>
+    <segment id="19">, de 40% do PIB.</segment>
+    <segment id="20">Estamos abaixo da pródiga Grécia (45% do PIB)</segment>
+    <segment id="21">, masmas muito acima dos emergentes</segment>
+    <segment id="22">comocomo Rússia (34</segment>
+    <segment id="23">,5%), Turquia (33</segment>
+    <segment id="24">,5%), Costa Rica (25</segment>
+    <segment id="25">,4%) ou México (18</segment>
+    <segment id="26">,3%).</segment>
+    <segment id="27">Nem de perto nosso gasto público chegou no fundo do poço.</segment>
+    <segment id="28">Outro argumento é que o pobre foi excluído do orçamento.</segment>
+    <segment id="29">Não parece correto: o principal programa social do país acaba de ter a sua verba quase triplicada.</segment>
+    <segment id="30">Voltando aos dados do FMI: o Brasil gastou</segment>
+    <segment id="31">, em 2019</segment>
+    <segment id="32">, 18% do PIB com previdência</segment>
+    <segment id="33">, assistência e proteção ao trabalhador.</segment>
+    <segment id="34">Acima de nós</segment>
+    <segment id="35">, só os europeus ricos.</segment>
+    <segment id="36">Nossos pares emergentes estão entre 5% e 13%.</segment>
+    <segment id="37">A política social chega aos pobres</segment>
+    <segment id="38">, masmas também atende não pobres.</segment>
+    <segment id="39">Criam-</segment>
+    <segment id="40">sese novos programas sem extinguir os antigos</segment>
+    <segment id="41">, que são antiquados</segment>
+    <segment id="42">, caros e com baixa capacidade de reduzir a pobreza.</segment>
+    <segment id="43">Aí, realmente</segment>
+    <segment id="44">, não há dinheiro que chegue.</segment>
+    <segment id="45">É enorme a resistência para</segment>
+    <segment id="46">, de um lado</segment>
+    <segment id="47">, reformar programas e</segment>
+    <segment id="48">, de outro</segment>
+    <segment id="49">, cortar privilégios.</segment>
+    <segment id="50">Daí faltam recursos para novas prioridades que vão surgindo.</segment>
+    <segment id="51">Mas isso é muito diferente de dizer que o gasto público está no osso ou que os pobres são ignorados.</segment>
+    <segment id="52">Há os que dizem que o teto está sufocando o investimento público.</segment>
+    <segment id="53">Mas o teto foi criado em 2016 e o investimento vem caindo desde os anos 1990.</segment>
+    <segment id="54">Cai porque</segment>
+    <segment id="55">porque há preferência política por popularidade de curto prazo</segment>
+    <segment id="56">, mediante aumentos ao funcionalismo e de benefícios sociais</segment>
+    <segment id="57">, jogando para segundo plano o investimento</segment>
+    <segment id="58">, que só traz retorno de longo prazo.</segment>
+    <segment id="59">No começo da década passada</segment>
+    <segment id="60">, por exemplo</segment>
+    <segment id="61">, o governo federal facilitou o endividamento dos estados</segment>
+    <segment id="62">para que</segment>
+    <segment id="63">para que eles aumentassem o investimento.</segment>
+    <segment id="64">E o que eles fizeram foi usar o dinheiro para financiar mais gasto de pessoal.</segment>
+    <segment id="65">Nos poucos episódios em que o investimento público subiu</segment>
+    <segment id="66">, isso</segment>
+    <segment id="67">sese fez à custa de mais desequilíbrio fiscal ou em momentos de crescimento atípico da receita.</segment>
+    <segment id="68">Só haverá recuperação consistente do investimento acompanhado de equilíbrio fiscal</segment>
+    <segment id="69">sese for possível domar o crescimento das despesas correntes.</segment>
+    <segment id="70">Não adianta querer dinamizar a economia com mais investimentos</segment>
+    <segment id="71">sese isso vai cavar mais o buraco da crise fiscal.  Ouve-</segment>
+    <segment id="72">sese, também</segment>
+    <segment id="73">, que não faz sentido ter um teto de gastos quando a arrecadação está batendo recordes e há dinheiro disponível para gastar.</segment>
+    <segment id="74">Faz sentido</segment>
+    <segment id="75">, sim.</segment>
+    <segment id="76">Primeiro</segment>
+    <segment id="77">porque</segment>
+    <segment id="78">porque não há dinheiro sobrando: o governo ainda tem déficit primário.</segment>
+    <segment id="79">Segundo</segment>
+    <segment id="80">, porque</segment>
+    <segment id="81">porque uma das funções das regras fiscais é evitar que o governo transforme em gasto permanente os aumentos temporários de arrecadação.</segment>
+    <segment id="82">Da última vez em que</segment>
+    <segment id="83">, como</segment>
+    <segment id="84">como agora</segment>
+    <segment id="85">, aumentamos despesas com base em ganhos de arrecadação provenientes de boom nos preços de commodities</segment>
+    <segment id="86">, tivemos uma crise fiscal tão logo o boom</segment>
+    <segment id="87">sese extinguiu.</segment>
+    <segment id="88">Seguiu-</segment>
+    <segment id="89">sese a perda do grau de investimento e a recessão da qual não saímos integralmente até hoje.</segment>
+    <segment id="90">Emendas de líder do governo</segment>
+    <segment id="91">Bolsonaro viram moeda de troca políticaMais    novamente         de   de  de  representando um  Estamos em um ciclo vicioso.</segment>
+    <segment id="92">Construímos um Estado disfuncional</segment>
+    <segment id="93">, capturado por interesses privados e focado em populismo eleitoral</segment>
+    <segment id="94">, que gasta muito</segment>
+    <segment id="95">, gasta mal e não consegue formar consenso para sair da enrascada.</segment>
+    <segment id="96">Isso mina o crescimento econômico.</segment>
+    <segment id="97">A estagnação produz pobreza e clamor por mais gastos assistenciais.</segment>
+    <segment id="98">Pleitos oportunistas</segment>
+    <segment id="99">sese vestem de demanda social (</segment>
+    <segment id="100">comocomo os benefícios fiscais a título de gerar empregos) e pressionam ainda mais as contas do governo.</segment>
+    <segment id="101">Há uma crença generalizada de que a saída para todos os problemas estaria em alguma nova política pública.</segment>
+    <segment id="102">Talvez seja pedagógico fixar o céu</segment>
+    <segment id="103">comocomo limite para o gasto</segment>
+    <segment id="104">, e ver no que vai dar.</segment>
+  </rst>
+</analysis>

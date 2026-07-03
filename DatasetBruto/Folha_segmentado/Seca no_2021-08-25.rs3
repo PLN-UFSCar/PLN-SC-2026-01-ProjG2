@@ -1,0 +1,122 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A seca na região Sul agravou as condições do setor elétrico brasileiro</segment>
+    <segment id="2">, que terá de apelar à energia armazenada nos últimos anos em hidrelétricas do Nordeste para garantir o abastecimento de luz nos próximos meses.</segment>
+    <segment id="3">A decisão preocupa os usuários do rio São Francisco</segment>
+    <segment id="4">, que conviveram por anos com restrições para poupar água.</segment>
+    <segment id="5">Apenas em agosto</segment>
+    <segment id="6">, o nível dos reservatórios das hidrelétricas do Sul despencou 17 pontos percentuais</segment>
+    <segment id="7">, atingindo 30</segment>
+    <segment id="8">,7% de sua capacidade de armazenamento de energia na terça-feira (24).</segment>
+    <segment id="9">A situação é melhor do que no Sudeste/Centro-Oeste</segment>
+    <segment id="10">, que têm 22</segment>
+    <segment id="11">,8% da capacidade</segment>
+    <segment id="12">, masmas essas regiões perderam apenas 3</segment>
+    <segment id="13">,2 pontos percentuais no mês.</segment>
+    <segment id="14">"Temos uma situação bastante crítica no Sul"</segment>
+    <segment id="15">, comentou o diretor-geral do ONS (Operador Nacional do Sistema Elétrico)</segment>
+    <segment id="16">, Luiz Carlos Ciocchi</segment>
+    <segment id="17">, em entrevista nesta quarta (25) para detalhar novas medidas de enfrentamento à crise energética nacional após "relevante piora</segment>
+    <segment id="18">" do cenário.</segment>
+    <segment id="19">Ciocchi diz que as chuvas de julho e agosto foram piores do que o esperado</segment>
+    <segment id="20">, o que demandou a adoção de novas medidas</segment>
+    <segment id="21">, como</segment>
+    <segment id="22">como a proposta de programa de redução voluntária de consumo por pequenos consumidores e a determinação de economia de energia em prédios públicos.</segment>
+    <segment id="23">“</segment>
+    <segment id="24">O problema é que tanto julho</segment>
+    <segment id="25">, quanto agosto</segment>
+    <segment id="26">, as afluências foram muito menores do que a gente tinha por expectativa”</segment>
+    <segment id="27">, afirmou o diretor-geral do ONS.</segment>
+    <segment id="28">“</segment>
+    <segment id="29">A chuva da região Sul não apareceu dentro do esperado</segment>
+    <segment id="30">, masmas a gente consegue atender via energia acumulada no Nordeste</segment>
+    <segment id="31">, onde as usinas eólicas e solares estão batendo recordes atrás de recordes de geração.</segment>
+    <segment id="32">”  Para substituir energia que deixa de ser gerada no Sul</segment>
+    <segment id="33">, o CMSE (Comitê de Monitoramento do Setor Elétrico) decidiu ainda flexibilizar as restrições à operação de hidrelétricas do São Francisco</segment>
+    <segment id="34">, que passaram anos respeitando limites máximos de vazão para recuperar os níveis perdidos na grave estiagem iniciada em 2013.</segment>
+    <segment id="35">Os anos de restrição levaram os reservatórios do São Francisco dos 12% atingidos em agosto de 2017 para a casa dos 50% este mês.</segment>
+    <segment id="36">O uso mais intensivo das hidrelétricas do Nordeste preocupa o Comitê da Bacia Hidrográfica do São Francisco</segment>
+    <segment id="37">, que teme o risco de voltar a conviver com baixos níveis de água.</segment>
+    <segment id="38">"</segment>
+    <segment id="39">Comemos o pão que o diabo amassou aqui</segment>
+    <segment id="40">, fizemos restrição de uso</segment>
+    <segment id="41">, Sobradinho chegou quase no volume morto"</segment>
+    <segment id="42">, diz o presidente do comitê</segment>
+    <segment id="43">, Anivaldo Miranda.</segment>
+    <segment id="44">"</segment>
+    <segment id="45">Todas as quartas</segment>
+    <segment id="46">, ninguém captava água</segment>
+    <segment id="47">, nem agricultura</segment>
+    <segment id="48">, nem mineração</segment>
+    <segment id="49">, nem ninguém.</segment>
+    <segment id="50">"</segment>
+    <segment id="51">Miranda teme impactos na economia da região</segment>
+    <segment id="52">, que depende da irrigação para a produção de frutas no semiárido</segment>
+    <segment id="53">, e pede estudos do ONS sobre os impactos do aumento das vazões.</segment>
+    <segment id="54">"</segment>
+    <segment id="55">O ONS não fez simulações conclusivas até dezembro e até o período úmido"</segment>
+    <segment id="56">, diz, temendo que um verão seco leve o nível de Sobradinho de volta aos 20%.</segment>
+    <segment id="57">Na entrevista desta quarta</segment>
+    <segment id="58">, o ministro de Minas e Energia</segment>
+    <segment id="59">, Bento Albuquerque</segment>
+    <segment id="60">, destacou que o intercâmbio de energia entre regiões é uma das características fundamentais do sistema elétrico brasileiro.</segment>
+    <segment id="61">"</segment>
+    <segment id="62">Se hoje o Nordeste está em melhores condições</segment>
+    <segment id="63">, amanhã pode ser o Sul suprindo o Sudeste ou vice-versa.</segment>
+    <segment id="64">Essa é a lógica.</segment>
+    <segment id="65">"</segment>
+    <segment id="66">O Nordeste já vem dando grande contribuição contra a crise energética por meio da geração de energia eólica e solar</segment>
+    <segment id="67">, que bateu diversos recordes nas últimas semanas.</segment>
+    <segment id="68">Para ampliar a transferência</segment>
+    <segment id="69">, o governo reduziu limites mínimos de confiabilidade no sistema de transmissão</segment>
+    <segment id="70">, permitindo o transporte de maiores volumes de energia.</segment>
+    <segment id="71">Seca histórica no rio Paraguai   novamente         de   de  de  representando um  Diretor do ONS no período em que a hidrelétrica de Sobradinho atingiu o volume morto</segment>
+    <segment id="72">, Luiz Eduardo Barata diz que a região recebeu investimentos para minimizar os problemas provocados pelo baixo nível das águas</segment>
+    <segment id="73">, como</segment>
+    <segment id="74">como obras para permitir a captação de água em pontos mais distantes da margem.</segment>
+    <segment id="75">"</segment>
+    <segment id="76">Se [a flexibilização das restrições] for feita com responsabilidade</segment>
+    <segment id="77">, com transparência</segment>
+    <segment id="78">, não há problema"</segment>
+    <segment id="79">, diz ele</segment>
+    <segment id="80">, que vem sendo uma das vozes críticas à atuação do governo no enfrentamento à crise hídrica.</segment>
+    <segment id="81">"</segment>
+    <segment id="82">A questão é a falta de transparência.</segment>
+    <segment id="83">"</segment>
+    <segment id="84">A gerente de Projetos e Produtos do Instituto Escolhas</segment>
+    <segment id="85">, Larissa Rodrigues</segment>
+    <segment id="86">, diz que falta planejamento e um sistema de valoração do uso da água que ajudaria a definir quais os setores devem ser priorizados em</segment>
+    <segment id="87">casocaso de redução abrupta do nível dos reservatórios.</segment>
+    <segment id="88">"E esse é o grande problema dessa crise agora: o setor elétrico tem atuado por meio de medidas excepcionais"</segment>
+    <segment id="89">,</segment>
+    <segment id="90">afirma.</segment>
+    <segment id="91">"</segment>
+    <segment id="92">A gente empurra com a barriga e deixa</segment>
+    <segment id="93">comocomo está quando tem muita água e</segment>
+    <segment id="94">, quando tem menos água</segment>
+    <segment id="95">, toma decisões na caneta.</segment>
+    <segment id="96">"</segment>
+  </rst>
+</analysis>

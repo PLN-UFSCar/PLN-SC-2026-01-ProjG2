@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Duas delegacias especializadas são extintas por baixa produtividade
+RIO - O governador Sérgio Cabral fechou as portas de duas delegacias especializadas que não vinham apresentando produtividade: a Delegacia de Repressão a Armas e Drogas (Drae) e a Delegacia de Repressão aos Crimes contra a Saúde Pública (DRCCSP).</segment>
+    <segment id="2">O governo do estado publicou no Diário Oficial da quarta-feira passada os dois decretos de Cabral explicando os motivos da medida: baixa incidência de registros de ocorrência em ambas as unidades.</segment>
+    <segment id="3">No caso</segment>
+    <segment id="4">caso da Drae</segment>
+    <segment id="5">, o decreto 43.387 considera que "a gestão implementada pela Secretaria de Segurança abordando políticas públicas pautadas no princípio da eficiência e no alcance de metas</segment>
+    <segment id="6">, revela-</segment>
+    <segment id="7">sese imprescindível a adequação das atribuições da Delegacia de Repressão a Armas e Explosivos com a realidade fática criminal".</segment>
+    <segment id="8">Já o argumento para</segment>
+    <segment id="9">sese extinguir a Delegacia de Repressão aos Crimes contra a Saúde Pública é que a Delegacia Especial de Crimes contra o Consumidor (Decon).</segment>
+    <segment id="10">O decreto 43.386 considera "que a atribuição para apuração do crime de alteração de substância alimentícia ou medicinal</segment>
+    <segment id="11">, bem como</segment>
+    <segment id="12">como seu irregular acondicionamento ou falsa indicação já</segment>
+    <segment id="13">sese encontra dentre as atribuições da Delegacia Especial de Crimes contra o Consumidor</segment>
+    <segment id="14">, a Economia Popular e o Abuso do Poder Econômico".</segment>
+    <segment id="15">O efetivo dessas delegacias será redistribuído de acordo com as necessidades da Polícia Civil.</segment>
+  </rst>
+</analysis>

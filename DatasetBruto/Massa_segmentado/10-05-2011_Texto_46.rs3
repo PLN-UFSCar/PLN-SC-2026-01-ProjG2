@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Morre menino que recebeu transplante de coração no Rio</segment>
+    <segment id="2">O boletim médico divulgado na tarde desta terça informava que Patrick estava com pneumonia</segment>
+    <segment id="3">, e não respondia bem ao tratamento.</segment>
+    <segment id="4">Ainda de acordo com o hospital</segment>
+    <segment id="5">, Patrick necessitava de suporte respiratório e renal</segment>
+    <segment id="6">, e estava em estado crítico.</segment>
+    <segment id="7">O menino tinha uma miocardia restritiva</segment>
+    <segment id="8">, doença que leva o coração a perder suas funções</segment>
+    <segment id="9">, e foi o primeiro a receber no Brasil um coração artificial</segment>
+    <segment id="10">, implantado no dia 23 de março.</segment>
+    <segment id="11">Desde 2009 a família sabia que o menino ia precisar de um transplante</segment>
+    <segment id="12">, masmas acreditava que só seria necessário na adolescência.</segment>
+    <segment id="13">O coração transplantado em Patrick é de uma mulher de 37 anos</segment>
+    <segment id="14">, que morava em Volta Redonda.</segment>
+    <segment id="15">Apesar da idade</segment>
+    <segment id="16">, a doadora pesava 50 kg e tinha o mesmo tipo sanguíneo de Patrick.</segment>
+  </rst>
+</analysis>

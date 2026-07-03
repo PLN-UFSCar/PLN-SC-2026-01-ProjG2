@@ -1,0 +1,34 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Site diz que Beyoncé cursa supletivo</segment>
+    <segment id="2">A diva abandonou os estudos com 15 anos e parece que agora está correndo atrás</segment>
+    <segment id="3">Segundo o “MediaTakeOut”</segment>
+    <segment id="4">, a diva voltou a estudar.</segment>
+    <segment id="5">A cantora largou a escola aos 15 anos e</segment>
+    <segment id="6">, agora</segment>
+    <segment id="7">, corre atrás do tempo perdido.</segment>
+    <segment id="8">Bom exemplo!</segment>
+  </rst>
+</analysis>

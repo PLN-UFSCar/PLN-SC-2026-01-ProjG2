@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Botafogo vence mais uma na Copa São Paulo
+RIO - O Botafogo venceu mais uma partida na Copa São Paulo.</segment>
+    <segment id="2">Dessa vez</segment>
+    <segment id="3">, a vítima foi o Vila Nova-GO</segment>
+    <segment id="4">, que perdeu por 2 a 0</segment>
+    <segment id="5">, neste sábado</segment>
+    <segment id="6">, em São José dos Campos</segment>
+    <segment id="7">, em São Paulo.</segment>
+    <segment id="8">Os gols foram marcados por Gilberto e Dória.</segment>
+    <segment id="9">Com a vitória</segment>
+    <segment id="10">, o Botafogo assumiu a liderança isolada do Grupo W.</segment>
+    <segment id="11">Na última rodada da fase de grupo</segment>
+    <segment id="12">, o Botafogo pega o São José-SP</segment>
+    <segment id="13">, segundo colocado com quatro pontos</segment>
+    <segment id="14">, na próxima terça-feira.</segment>
+    <segment id="15">O Botafogo precisa apenas de um empate para garantir a classificação.</segment>
+  </rst>
+</analysis>

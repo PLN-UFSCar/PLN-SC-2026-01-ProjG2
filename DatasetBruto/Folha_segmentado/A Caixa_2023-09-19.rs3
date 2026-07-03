@@ -1,0 +1,103 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente da Câmara</segment>
+    <segment id="2">, deputado Arthur Lira</segment>
+    <segment id="3">, comanda um bloco suprapartidário com inédito poder de fogo.</segment>
+    <segment id="4">Blocos parlamentares são coisa normal.</segment>
+    <segment id="5">A troca de pleitos regionais pelo voto de parlamentares também faz parte do jogo.</segment>
+    <segment id="6">Isso nada tem a ver com a entrega de um banco público "de porteira fechada".</segment>
+    <segment id="7">O presidente da Câmara</segment>
+    <segment id="8">, Arthur Lira</segment>
+    <segment id="9">, durante entrevista à Folha - Pedro Ladeira-14.set.23/FolhapressA entrevista aos repórteres Julia Chaib</segment>
+    <segment id="10">, Thiago Resende e Camila Mattoso com Lira teve o seguinte diálogo:  - Qual é a situação da Caixa Econômica?</segment>
+    <segment id="11">A Caixa faz parte do acordo com os partidos.  - Porteira fechada [com as 12 vice-presidências incluídas]?</segment>
+    <segment id="12">Esse foi o acordo.</segment>
+    <segment id="13">(...)</segment>
+    <segment id="14">Os nomes serão colocados à disposição do presidente</segment>
+    <segment id="15">, que fará a escolha.</segment>
+    <segment id="16">(...)</segment>
+    <segment id="17">Ali as coisas têm que ser tratadas com muita transparência e vão ser tratadas com muita clareza.</segment>
+    <segment id="18">E vão ter</segment>
+    <segment id="19">, claro</segment>
+    <segment id="20">, indicações políticas que não serão criminalizadas por isso.</segment>
+    <segment id="21">A turma terá responsabilidade.</segment>
+    <segment id="22">A exoneração é o primeiro convite para quem não andar corretamente.  - E a Funasa [Fundação Nacional de Saúde]?</segment>
+    <segment id="23">Funasa faz parte do acordo com o Republicanos.</segment>
+    <segment id="24">A Caixa Econômica é um dos maiores bancos oficiais do país e a Funasa tem uma arca de R$ 3</segment>
+    <segment id="25">,4 bilhões.</segment>
+    <segment id="26">Ganha um fim de semana num garimpo da Amazônia quem já tiver ouvido respostas semelhantes dadas pelo presidente da Câmara.</segment>
+    <segment id="27">O acordo é levado a Lula</segment>
+    <segment id="28">para que</segment>
+    <segment id="29">para que ele sancione a entrega de um banco "de porteira fechada"</segment>
+    <segment id="30">comocomo</segment>
+    <segment id="31">sese fosse uma fazenda do sertão.</segment>
+    <segment id="32">Entre 2011 e 2013</segment>
+    <segment id="33">, um dos vice-presidentes da Caixa foi o notório ex-ministro Geddel Vieira Lima.</segment>
+    <segment id="34">Penou algum tempo na cadeia</segment>
+    <segment id="35">, e num de imóvel de um de seus amigos a polícia encontrou malas com R$ 51 milhões.</segment>
+    <segment id="36">Lira tem toda razão quando diz que as indicações de políticos não devem ser criminalizadas.</segment>
+    <segment id="37">Como a máquina pública sofre com a infiltração de criminosos</segment>
+    <segment id="38">, políticos ou não</segment>
+    <segment id="39">, a turma do centrão poderia dar uma lição de transparência.</segment>
+    <segment id="40">Se há um acordo para entregar 12 vice-presidências ao bloco do doutor Lira</segment>
+    <segment id="41">, não faria mal que os nomes a serem levados a Lula fossem divulgados.</segment>
+    <segment id="42">O mesmo poderia ser feito com seus candidatos a cargos na Funasa.</segment>
+    <segment id="43">Este é Arthur Lira</segment>
+    <segment id="44">, presidente da Câmara dos DeputadosMais    novamente         de   de  de  representando um  Indicações políticas podem vir de parlamentares ou de cidadãos.</segment>
+    <segment id="45">Algumas glorificam</segment>
+    <segment id="46">, outras emporcalham.</segment>
+    <segment id="47">Um exemplo de glorificação:</segment>
+    <segment id="48">Em 1897</segment>
+    <segment id="49">, o jornalista Júlio de Mesquita pediu ao presidente Prudente de Morais que mandasse Euclides da Cunha para Canudos</segment>
+    <segment id="50">comocomo adido junto às tropas que seguiam para a Bahia.</segment>
+    <segment id="51">Euclides havia passado atribuladamente pelo Exército.</segment>
+    <segment id="52">Desse pedido</segment>
+    <segment id="53">, resultaram algumas reportagens para O Estado de S. Paulo e um monumento da literatura nacional ("</segment>
+    <segment id="54">Os Sertões").</segment>
+    <segment id="55">A ida de Euclides para Canudos</segment>
+    <segment id="56">comocomo adido era uma coisa meio girafa.</segment>
+    <segment id="57">O repórter Manuel Benício</segment>
+    <segment id="58">, do Jornal do Commercio</segment>
+    <segment id="59">, que criticava a operação</segment>
+    <segment id="60">, foi expulso da região por ordem do general que comandava a tropa.</segment>
+    <segment id="61">No dia 12 de setembro</segment>
+    <segment id="62">, quando acabou a resistência do arraial</segment>
+    <segment id="63">, Euclides telegrafou ao então governador de São Paulo</segment>
+    <segment id="64">, Campos Sales:  "</segment>
+    <segment id="65">As forças legais tomaram aos jagunços</segment>
+    <segment id="66">, no dia 7</segment>
+    <segment id="67">, a grande trincheira que protegia a estrada de Cambaio e da Fazenda Velha.</segment>
+    <segment id="68">Animação geral.</segment>
+    <segment id="69">Saúdo o eminente chefe republicano.</segment>
+    <segment id="70">"</segment>
+    <segment id="71">Há pedidos e pedidos</segment>
+    <segment id="72">, nomeações e nomeações.</segment>
+    <segment id="73">Ninguém criminaliza a política.</segment>
+    <segment id="74">A Operação Lava Jato</segment>
+    <segment id="75">, com todas as suas malfeitorias</segment>
+    <segment id="76">, não obteve confissões de inocentes.</segment>
+    <segment id="77">Quem criminaliza empresas e órgãos públicos são os criminosos.</segment>
+  </rst>
+</analysis>

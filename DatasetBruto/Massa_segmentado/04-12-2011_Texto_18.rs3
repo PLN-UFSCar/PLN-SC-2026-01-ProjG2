@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Ivete é internada no Aliança</segment>
+    <segment id="2">A cantora está com suspeita de meningite</segment>
+    <segment id="3">Ivete Sangalo foi internada</segment>
+    <segment id="4">, na manhã deste domingo</segment>
+    <segment id="5">, com suspeita de meningite.</segment>
+    <segment id="6">A cantora</segment>
+    <segment id="7">, que estava noCarnatal – carnaval fora de época na capital do Rio Grande do Norte</segment>
+    <segment id="8">, no último sábado</segment>
+    <segment id="9">, está internada no Hospital Aliança.</segment>
+    <segment id="10">A unidade hospitalar não divulgou o estado de saúde da musa do axé.</segment>
+  </rst>
+</analysis>

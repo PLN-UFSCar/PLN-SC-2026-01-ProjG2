@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo Luiz Inácio Lula da Silva (PT) pretende fazer um grande evento para marcar o início da presidência rotativa do Brasil do G20</segment>
+    <segment id="2">, grupo que reúne países ricos e emergentes.</segment>
+    <segment id="3">A cerimônia deve ocorrer em novembro</segment>
+    <segment id="4">, e há a expectativa de diplomatas de que seja no Rio de Janeiro.</segment>
+    <segment id="5">A capital fluminense será o principal palco dos encontros que o Brasil sediará ao assumir a coordenação do bloco</segment>
+    <segment id="6">, em dezembro.</segment>
+    <segment id="7">No Rio</segment>
+    <segment id="8">sese encontrarão os chefes de Estado e governo no final de 2024.</segment>
+    <segment id="9">A presidência rotativa do G20</segment>
+    <segment id="10">, que dura um ano</segment>
+    <segment id="11">, é considerada por Lula a grande oportunidade para o Brasil</segment>
+    <segment id="12">sese projetar em âmbito mundial durante seu mandato.</segment>
+    <segment id="13">O presidente Lula durante entrevista no encontro dos Brics</segment>
+    <segment id="14">, na África do Sul - Phill Magakoe-24.ago.2023/AFP</segment>
+  </rst>
+</analysis>

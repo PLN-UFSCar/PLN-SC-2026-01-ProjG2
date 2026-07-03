@@ -1,0 +1,185 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Terra é o único planeta onde até hoje foram encontradas formas de vida.</segment>
+    <segment id="2">Ao ouvir afirmativas</segment>
+    <segment id="3">comocomo essa</segment>
+    <segment id="4">, pensamos em ecossistemas vibrantes</segment>
+    <segment id="5">, com cadeias alimentares complexas e a interação de animais</segment>
+    <segment id="6">, vegetais</segment>
+    <segment id="7">, fungos e outros organismos.</segment>
+    <segment id="8">Ao longo de grande parte da história do planeta</segment>
+    <segment id="9">, porém</segment>
+    <segment id="10">porém, a vida que aqui vingou era de um tipo muito diferente.</segment>
+    <segment id="11">Com o desenvolvimento dos microscópios na virada do século 16</segment>
+    <segment id="12">, os primeiros microrganismos logo foram descobertos.</segment>
+    <segment id="13">Em seu excelente tratado "Micrographia"</segment>
+    <segment id="14">, de 1665</segment>
+    <segment id="15">, o célebre cientista inglês</segment>
+    <segment id="16">Robert Hooke publicou a primeira descrição do microfungo Mucor.</segment>
+    <segment id="17">Em seguida</segment>
+    <segment id="18">, a partir de 1674</segment>
+    <segment id="19">, o construtor de microscópios holandês Anton van Leeuwenhoek descreveu diversos protozoários e bactérias pela primeira vez.</segment>
+    <segment id="20">Décadas de estudo permitiram compreender a importância desses seres microscópicos</segment>
+    <segment id="21">, tanto</segment>
+    <segment id="22">comocomo causadores de doenças</segment>
+    <segment id="23">, como</segment>
+    <segment id="24">como peças-chave na reciclagem de elementos químicos cruciais em toda a biosfera.</segment>
+    <segment id="25">Ilustração: Julia Jabur - Instituto SerrapilheiraOs primeiros registros de vida visíveis a olho nu são as impressões que organismos de corpos moles</segment>
+    <segment id="26">, a chamada fauna de Ediacara</segment>
+    <segment id="27">, deixaram em rochas sedimentares depositadas em mares rasos há cerca de 550 milhões de anos.</segment>
+    <segment id="28">A Terra</segment>
+    <segment id="29">, porém</segment>
+    <segment id="30">porém, tem cerca de 4</segment>
+    <segment id="31">,5 bilhões de anos.</segment>
+    <segment id="32">O que aconteceu na biosfera nos 4 bilhões de anos que antecederam o surgimento desses organismos?</segment>
+    <segment id="33">Evidências encontradas em rochas ainda mais antigas sugerem que</segment>
+    <segment id="34">, de fato</segment>
+    <segment id="35">, já existia uma biosfera abundante no planeta</segment>
+    <segment id="36">, provavelmente desde pouco depois de sua formação.</segment>
+    <segment id="37">Como eram formas de vida predominantemente microscópicas</segment>
+    <segment id="38">, não conseguiram deixar impressões visíveis no registro fóssil.</segment>
+    <segment id="39">Ainda assim</segment>
+    <segment id="40">, encontramos algumas provas de sua existência.</segment>
+    <segment id="41">Uma rocha conhecida</segment>
+    <segment id="42">comocomo estromatólito – do grego stroma</segment>
+    <segment id="43">, camada</segment>
+    <segment id="44">, e lithos</segment>
+    <segment id="45">, rocha –</segment>
+    <segment id="46">, por exemplo</segment>
+    <segment id="47">, constitui a evidência que mais frequenta os cartórios</segment>
+    <segment id="48">, ou melhor</segment>
+    <segment id="49">, registros geológicos.</segment>
+    <segment id="50">Estromatólitos são formações rochosas calcáreas com um formato de coluna ou domo que</segment>
+    <segment id="51">, em um corte transversal</segment>
+    <segment id="52">, revelam camadas milimétricas empilhadas.</segment>
+    <segment id="53">Ainda existem locais no planeta onde colunas de sedimento calcáreo semelhantes estão</segment>
+    <segment id="54">sese formando hoje</segment>
+    <segment id="55">, como</segment>
+    <segment id="56">como Shark Bay</segment>
+    <segment id="57">, na Austrália</segment>
+    <segment id="58">, e a Lagoa Salgada</segment>
+    <segment id="59">, no Rio de Janeiro.</segment>
+    <segment id="60">Ao examinar esses sítios</segment>
+    <segment id="61">, é possível entender o processo de formação dessa rocha.</segment>
+    <segment id="62">As camadas milimétricas dos estromatólitos são criadas por organismos fotossintéticos que estendem uma espécie de tapete microbial na superfície do sedimento.</segment>
+    <segment id="63">Para permitir a entrada da luz do sol</segment>
+    <segment id="64">, essencial para a fotossíntese</segment>
+    <segment id="65">, os organismos constroem um novo tapete quando o antigo fica completamente soterrado por sedimentos</segment>
+    <segment id="66">, e esse novo</segment>
+    <segment id="67">sese acomoda sobre o anterior</segment>
+    <segment id="68">, e assim por diante</segment>
+    <segment id="69">, daí o aspecto de bolo em camadas.</segment>
+    <segment id="70">Os estromatólitos mais antigos têm cerca de 3</segment>
+    <segment id="71">,5 bilhão de anos</segment>
+    <segment id="72">, e são encontrados na Austrália e na África do Sul.</segment>
+    <segment id="73">Em 2016</segment>
+    <segment id="74">, uma equipe liderada pelo geólogo australiano Allen Nutman publicou</segment>
+    <segment id="75">, na revista "Nature"</segment>
+    <segment id="76">, a descoberta de possíveis estromatólitos de até 3</segment>
+    <segment id="77">,7 bilhões de anos</segment>
+    <segment id="78">, na Groenlândia</segment>
+    <segment id="79">, masmas essas ocorrências ainda estão sendo discutidas.</segment>
+    <segment id="80">Outro tipo de evidência são microfósseis dos próprios organismos</segment>
+    <segment id="81">, visíveis apenas através do recorte de lâminas de apenas alguns micrômetros de espessura de amostras de rochas</segment>
+    <segment id="82">, finas o suficiente para serem analisadas em microscópio.</segment>
+    <segment id="83">É preciso investigar centenas de lâminas e ter o olho treinado para reconhecer as estruturas que podem ser interpretadas</segment>
+    <segment id="84">comocomo antigas colônias ou filamentos de algas e outros tipos de microorganismo.</segment>
+    <segment id="85">Em outro artigo na "Nature"</segment>
+    <segment id="86">, em 2017</segment>
+    <segment id="87">, uma equipe liderada pelo astrobiólogo australiano Matthew Dodd interpretou a presença de possíveis microfósseis em rochas do Canadá depositadas entre 3</segment>
+    <segment id="88">,8 e 4</segment>
+    <segment id="89">,3 bilhões de anos atrás.</segment>
+    <segment id="90">Temos ainda evidências indiretas para a presença de vida microscópica na Terra</segment>
+    <segment id="91">, como</segment>
+    <segment id="92">como a assinatura isotópica de remanescentes de carbono.</segment>
+    <segment id="93">O carbono possui dois isótopos naturais abundantes</segment>
+    <segment id="94">, o carbono-12 e o carbono-13</segment>
+    <segment id="95">, cada um com 6 prótons (daí o nome isótopos</segment>
+    <segment id="96">, que quer dizer mesmo número de prótons)</segment>
+    <segment id="97">, masmas com número de nêutrons diferente</segment>
+    <segment id="98">, resultando em massas diferentes.</segment>
+    <segment id="99">Na fotossíntese</segment>
+    <segment id="100">, que envolve a reação entre gás carbônico e água utilizando a luz do sol</segment>
+    <segment id="101">, os microrganismos preferem utilizar as moléculas de gás carbônico que possuem o isótopo de massa menor</segment>
+    <segment id="102">, já que a quebra das ligações moleculares requer menor energia.</segment>
+    <segment id="103">Com isso</segment>
+    <segment id="104">, uma maior quantidade de carbono-12 em relação ao carbono-13 pode indicar que um sedimento ou mineral teve interação com microrganismos capazes de selecionar entre os dois isótopos.</segment>
+    <segment id="105">Em um estudo liderado pela geóloga norte-americana Elizabeth Bell publicado em 2015</segment>
+    <segment id="106">, inclusões micrométricas de minerais ricos em carbono</segment>
+    <segment id="107">, como</segment>
+    <segment id="108">como a grafita</segment>
+    <segment id="109">, em minerais muito pequenos</segment>
+    <segment id="110">comocomo os zircões de Jack Hills</segment>
+    <segment id="111">, no oeste da Austrália</segment>
+    <segment id="112">, indicam assinatura enriquecida em carbono-12</segment>
+    <segment id="113">, provável evidência da presença de vida microscópica na Terra desde cerca de 4</segment>
+    <segment id="114">,1 bilhão de anos.</segment>
+    <segment id="115">O maior problema das evidências isotópicas é que alguns mecanismos que ocorrem em ambientes hidrotermais</segment>
+    <segment id="116">, como</segment>
+    <segment id="117">como fumarolas oceânicas</segment>
+    <segment id="118">, e ligados a vulcanismo</segment>
+    <segment id="119">, podem também gerar um enriquecimento em carbono-12</segment>
+    <segment id="120">, tornando assim o método não definitivo</segment>
+    <segment id="121">comocomo evidência.</segment>
+    <segment id="122">Finalmente</segment>
+    <segment id="123">, a comparação dos genomas de bactérias e arqueas (reino que</segment>
+    <segment id="124">sese diferencia do das bactérias pela composição de sua parede celular</segment>
+    <segment id="125">, genética e bioquímica) permitiu identificar um conjunto de genes comum aos dois domínios</segment>
+    <segment id="126">, o que sugere que houve um último ancestral comum – ou LUCA</segment>
+    <segment id="127">, Last Universal Common Ancestor</segment>
+    <segment id="128">, no acrônimo original em inglês – para todos os organismos vivos.</segment>
+    <segment id="129">Conhecendo as taxas em que biomoléculas desses grupos sofrem mutação atualmente</segment>
+    <segment id="130">, os cientistas podem estimar há quanto tempo essas biomoléculas vieram de um ancestral comum</segment>
+    <segment id="131">, a técnica conhecida</segment>
+    <segment id="132">comocomo relógio molecular.</segment>
+    <segment id="133">Os relógios moleculares indicam que LUCA viveu há aproximadamente 4</segment>
+    <segment id="134">,5 bilhões de anos – sua idade seria equivalente ao nascimento da Terra.</segment>
+    <segment id="135">O método tem</segment>
+    <segment id="136">, porém</segment>
+    <segment id="137">porém, também suas falhas</segment>
+    <segment id="138">, sendo a principal a premissa de que as taxas de mutação de um determinado grupo de biomoléculas foram constantes no passado.</segment>
+    <segment id="139">Apesar das evidências vindas dos diversos campos do saber não serem definitivas em si mesmas</segment>
+    <segment id="140">, todas apresentando interpretações alternativas</segment>
+    <segment id="141">, é o conjunto de evidências obtidas por métodos distintos de investigação que permite pintar um quadro de</segment>
+    <segment id="142">comocomo era a vida primitiva na Terra</segment>
+    <segment id="143">, e de onde procurar por ela.</segment>
+    <segment id="144">Ao que tudo indica</segment>
+    <segment id="145">, o fenômeno da vida é quase tão antigo quanto o planeta.</segment>
+    <segment id="146">Isto pode abrir novas possibilidades para a procura de vida extraterrestre que pode</segment>
+    <segment id="147">, afinal</segment>
+    <segment id="148">, não ser tão rara quanto</segment>
+    <segment id="149">sese pensa</segment>
+    <segment id="150">, apenas diferente do que esperamos encontrar</segment>
+    <segment id="151">, já que condições parecidas com as da Terra em sua fase inicial podem ser mais comuns em outros planetas.</segment>
+    <segment id="152">*  Fabrício Caxito é professor de geologia</segment>
+    <segment id="153">, pesquisador principal no projeto GeoLife MOBILE e filósofo pela UFMG.</segment>
+    <segment id="154">O blog Ciência Fundamental é editado pelo Serrapilheira</segment>
+    <segment id="155">, um instituto privado</segment>
+    <segment id="156">, sem fins lucrativos</segment>
+    <segment id="157">, que promove a ciência no Brasil.</segment>
+    <segment id="158">Inscreva-</segment>
+    <segment id="159">sese na newsletter do Serrapilheira para acompanhar as novidades do instituto e do blog.</segment>
+  </rst>
+</analysis>

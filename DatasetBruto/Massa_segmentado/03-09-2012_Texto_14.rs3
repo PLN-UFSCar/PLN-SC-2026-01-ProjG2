@@ -1,0 +1,35 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Volta ao BBB</segment>
+    <segment id="2">Quem dÃ¡ mais?</segment>
+    <segment id="3">ApÃ³s divulgar que levaria ex-BBBs para a prÃ³xima ediÃ§Ã£o do reality</segment>
+    <segment id="4">, a Globo abriu uma enquete no portal Globo.com para saber quem sÃ£o os queridinhos do grupo que vÃ£o voltar Ã  casa mais vigiada do Brasil.</segment>
+    <segment id="5">A votaÃ§Ã£o comeÃ§ou ontem</segment>
+    <segment id="6">com os jÃ¡ vencedores</segment>
+    <segment id="7">Kleber Bambam (BBB1) e Dhomini (BBB3)</segment>
+    <segment id="8">sese enfrentando.</segment>
+    <segment id="9">SerÃ£o dois paredÃµes por semana na internet para escolher quem merece voltar - um abre aos domingos e encerra Ã s terÃ§as-feiras e outro comeÃ§a Ã s quartas e e fecha Ã s sextas.</segment>
+  </rst>
+</analysis>

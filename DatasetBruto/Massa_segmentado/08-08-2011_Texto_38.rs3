@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Incêndio atinge Parque Nacional da Serra dos Órgãos</segment>
+    <segment id="2">, em Teresópolis
+RIO - Um incêndio atingiu 30 hectares da mata do Parque Nacional da Serra dos Órgãos</segment>
+    <segment id="3">, nesta segunda-feira.</segment>
+    <segment id="4">Os brigadistas do próprio parque trabalharam no combate ao fogo ao longo das últimas horas</segment>
+    <segment id="5">, masmas interromperam a operação agora à noite.</segment>
+    <segment id="6">O trabalho será reiniciado nesta terça-feira</segment>
+    <segment id="7">, por volta das 5h.</segment>
+    <segment id="8">De acordo com bombeiros do Quartel de Teresópolis</segment>
+    <segment id="9">, incêndios são comuns nesta época do ano</segment>
+    <segment id="10">, por causa do ar seco.</segment>
+    <segment id="11">Ao amanhecer</segment>
+    <segment id="12">, eles enviarão de 15 a 20 militares para ajudar os brigadistas do parque a combaterem as chamas</segment>
+    <segment id="13">, que atingiram a região de reserva na altura do km 13 da rodovia BR-495.</segment>
+  </rst>
+</analysis>

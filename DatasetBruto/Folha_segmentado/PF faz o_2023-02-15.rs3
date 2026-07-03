@@ -1,0 +1,237 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Polícia Federal deflagrou nesta quarta-feira (15) uma operação contra uma quadrilha acusada de contrabandear ouro extraído de garimpos ilegais na região amazônica.</segment>
+    <segment id="2">Uma empresa sediada nos Estados Unidos seria a principal responsável pela exportação do produto</segment>
+    <segment id="3">, segundo a PF.</segment>
+    <segment id="4">O nome da companhia não foi divulgado.</segment>
+    <segment id="5">O produto era vendido para Itália</segment>
+    <segment id="6">, Suíça</segment>
+    <segment id="7">, Hong Kong e Emirados Árabes Unidos</segment>
+    <segment id="8">, entre outros.</segment>
+    <segment id="9">De acordo com o inquérito</segment>
+    <segment id="10">, o grupo usava notas frias para "esquentar"</segment>
+    <segment id="11">o minério explorado</segment>
+    <segment id="12">, ou seja</segment>
+    <segment id="13">, falsificar uma origem legal.</segment>
+    <segment id="14">Entre 2020 e 2022</segment>
+    <segment id="15">, as emissões desses documentos teriam sido superiores a R$ 4 bilhões</segment>
+    <segment id="16">, correspondendo a aproximadamente 13 toneladas de ouro ilícito.</segment>
+    <segment id="17">Garimpo ilegal identificado pelo governo na região amazônica - Lalo de Almeida - 11.fev.2023/ FolhapressSão cumpridos três mandados de prisão e 27 de busca e apreensão em Belém</segment>
+    <segment id="18">, Santarém e Itaituba</segment>
+    <segment id="19">, todas no Pará</segment>
+    <segment id="20">, Rio de Janeiro (RJ)</segment>
+    <segment id="21">, Brasília (DF)</segment>
+    <segment id="22">, Goiânia (GO)</segment>
+    <segment id="23">, Manaus (AM)</segment>
+    <segment id="24">, São Paulo</segment>
+    <segment id="25">, Tatuí e Campinas</segment>
+    <segment id="26">, em São Paulo</segment>
+    <segment id="27">, além de Sinop (MT) e Boa Vista (RR).</segment>
+    <segment id="28">Também foi autorizado pela Justiça Federal o sequestro de mais de R$ 2 bilhões dos investigados.</segment>
+    <segment id="29">Em nota</segment>
+    <segment id="30">, a PF informou que busca ampliar "o volume de provas para desmontar o esquema criminoso e combater o garimpo clandestino</segment>
+    <segment id="31">, especialmente na região de Itaituba".</segment>
+    <segment id="32">O município paraense é um dos locais mais conhecidos com estrutura para legalizar o minério na Amazônia.</segment>
+    <segment id="33">Os crimes em apuração são adquirir e/ou comercializar ouro obtido sem autorização legal</segment>
+    <segment id="34">; pesquisa</segment>
+    <segment id="35">, lavra ou extração de recursos minerais sem a competente autorização</segment>
+    <segment id="36">, permissão</segment>
+    <segment id="37">, concessão ou licença</segment>
+    <segment id="38">; lavagem de capitais e organização criminosa.</segment>
+    <segment id="39">A investigação começou em 2021</segment>
+    <segment id="40">, a partir de informações da Receita Federal</segment>
+    <segment id="41">, que apontavam a existência de uma organização voltada para o "esquentamento" de ouro obtido de maneira ilícita.</segment>
+    <segment id="42">O esquema usava empresas</segment>
+    <segment id="43">, chamadas pelos investigadores de "noteiras"</segment>
+    <segment id="44">, para a emissão das notas fiscais</segment>
+    <segment id="45">, conferindo regularidade ao ouro comercializado.</segment>
+    <segment id="46">O produto era adquirido por outras duas companhias</segment>
+    <segment id="47">, tidas</segment>
+    <segment id="48">comocomo as líderes da organização criminosa.</segment>
+    <segment id="49">A operação foi batizada de Sisaque e mais de 100 policiais federais foram destacados para a missão</segment>
+    <segment id="50">, além de cinco auditores fiscais e três analistas da Receita.</segment>
+    <segment id="51">Como funciona o esquema de 'esquentar' ouro de garimpo ilegal</segment>
+    <segment id="52">O item primordial para registro do ouro garimpado é a apresentação da PLG (Permissão de Lavra Garimpeira)</segment>
+    <segment id="53">, concedido pela ANM (Agência Nacional de Mineração).</segment>
+    <segment id="54">Uma boa parte das PLGs utilizadas no registro de ouro ilegal é emprestada.</segment>
+    <segment id="55">O clandestino usa a permissão de uma área legal</segment>
+    <segment id="56">, mancomunado com seu dono ou funcionário</segment>
+    <segment id="57">, quando precisa esquentar o ouro.</segment>
+    <segment id="58">Também é possível</segment>
+    <segment id="59">, com certa facilidade</segment>
+    <segment id="60">, emitir o documento de uma lavra fantasma</segment>
+    <segment id="61">, como</segment>
+    <segment id="62">como se</segment>
+    <segment id="63">se diz</segment>
+    <segment id="64">, numa área onde não há ouro.</segment>
+    <segment id="65">Ou, ainda</segment>
+    <segment id="66">, conseguir registro para operar um local onde já</segment>
+    <segment id="67">sese extraiu o minério</segment>
+    <segment id="68">, masmas nada restou</segment>
+    <segment id="69">, com o argumento de que ainda há ouro.</segment>
+    <segment id="70">A ANM solicita laudos geológicos</segment>
+    <segment id="71">, masmas não faz uma diligência ao local</segment>
+    <segment id="72">, em parte</segment>
+    <segment id="73">, por falta de estrutura.</segment>
+    <segment id="74">Há anos</segment>
+    <segment id="75">, profissionais da área de mineração alertam para o sucateamento da agência.</segment>
+    <segment id="76">O elo chave da cadeia que esquenta o metal precioso é o primeiro comprador oficialmente registrado.</segment>
+    <segment id="77">A maioria do ouro que circula no país acaba virando ativo financeiro</segment>
+    <segment id="78">, e por uma razão simples: o tributo é mais baixo nessa categoria.</segment>
+    <segment id="79">Então, precisa ser vendido para uma instituição financeira autorizada a operar pelo BC (Banco Central).</segment>
+    <segment id="80">A maioria nesse segmento é DTVM (Distribuidora de Títulos e Valores Mobiliários).</segment>
+    <segment id="81">Nesse estabelecimento</segment>
+    <segment id="82">, o garimpeiro entra com uma PLG e sai com a nota fiscal.</segment>
+    <segment id="83">Um dos locais mais conhecidos com estrutura para legalizar o minério na Amazônia é a cidade de Itaituba</segment>
+    <segment id="84">, no Pará</segment>
+    <segment id="85">, onde</segment>
+    <segment id="86">sese encontram filiais dessas instituições financeiras.  Nesse processo</segment>
+    <segment id="87">, a PLG costuma ser acompanhada de uma declaração de "boa-fé"</segment>
+    <segment id="88">, garantindo que aquele documento diz a verdade.</segment>
+    <segment id="89">Oficialmente</segment>
+    <segment id="90">, o expediente isenta a DTVM da responsabilidade de checar a veracidade.</segment>
+    <segment id="91">O uso da boa-fé num negócio propenso ao crime é criação recente de deputados e senadores.</segment>
+    <segment id="92">Foi instituído em 2013</segment>
+    <segment id="93">, graças a uma emenda inserida em um projeto de lei que tratava de seguro para safra agrícola.</segment>
+    <segment id="94">Há uma ação no STF (Supremo Tribunal Federal) que tenta derrubar a boa-fé</segment>
+    <segment id="95">, e dois projetos de lei estão tramitando no Congresso com propostas para mudar a legislação</segment>
+    <segment id="96">, incluindo a criação de um sistema para rastrear o ouro.</segment>
+    <segment id="97">Mas tudo anda devagar.</segment>
+    <segment id="98">Não há uma bancada do garimpo organizada no Congresso.</segment>
+    <segment id="99">No entanto</segment>
+    <segment id="100">, existem deputados e senadores ligados à atividade.</segment>
+    <segment id="101">Levantamento da Folha indicou que aos menos oito parlamentares que garantiram mandatos na eleição de 2022 têm ligações com extração mineral</segment>
+    <segment id="102">, incluindo garimpo.</segment>
+    <segment id="103">Os órgãos reguladores da área financeira têm dificuldade até de interpelar instituições suspeitas.</segment>
+    <segment id="104">A boa-fé</segment>
+    <segment id="105">, por exemplo</segment>
+    <segment id="106">, limita a ação do BC</segment>
+    <segment id="107">, uma vez que a DTVM pode alegar não ser obrigada a exigir procedência do metal.</segment>
+    <segment id="108">Pelo menos 30% do ouro comercializado no Brasil</segment>
+    <segment id="109">, de janeiro de 2021 a junho de 2022</segment>
+    <segment id="110">, têm indícios de procedência irregular</segment>
+    <segment id="111">, segundo um dos principais levantamentos sobre a legalidade do ouro no país.</segment>
+    <segment id="112">A metodologia do estudo foi desenvolvida numa parceria entre o Ministério Público e os pesquisadores Bruno Antônio Manzollli e Raoni Rajão</segment>
+    <segment id="113">, da UFMG (Universidade Federal de Minas Gerais).</segment>
+    <segment id="114">Em janeiro</segment>
+    <segment id="115">, uma denúncia provocou a CVM (Comissão de Valores Mobiliários) a abrir investigação sobre cinco DTVMs.</segment>
+    <segment id="116">O levantamento também aponta que os maiores gargalos estão na lavra de garimpo</segment>
+    <segment id="117">, em comparação à concessão</segment>
+    <segment id="118">, regime adotado para empresas de maior porte</segment>
+    <segment id="119">, cujas exigências para instalação e operação são muito mais rigorosas.</segment>
+    <segment id="120">Em Minas Gerais</segment>
+    <segment id="121">, o maior e mais antigo estado produtor de ouro</segment>
+    <segment id="122">, prevalece a concessão para a exploração do ouro</segment>
+    <segment id="123">, e 92% dele é legal.</segment>
+    <segment id="124">No Pará</segment>
+    <segment id="125">, região de garimpo por excelência</segment>
+    <segment id="126">, 48% do ouro têm indícios de irregularidades.</segment>
+    <segment id="127">Povo yanomami sofre com garimpo</segment>
+    <segment id="128">, explosão de malária e grave desnutriçãoMais    novamente         de   de  de  representando um</segment>
+    <segment id="129">A nota fiscal</segment>
+    <segment id="130">, o documento definitivo da legalização</segment>
+    <segment id="131">, é outro item criticado pelos especialistas.</segment>
+    <segment id="132">Uma instrução da Receita Federal de 2001</segment>
+    <segment id="133">, alterada em 2010</segment>
+    <segment id="134">, que trata do ouro</segment>
+    <segment id="135">comocomo ativo financeiro</segment>
+    <segment id="136">, diz que a nota fiscal deve ser emitida por instituição financeira ou cooperativa de garimpeiro autorizadas pelo BC.</segment>
+    <segment id="137">Mas também determina que esse documento</segment>
+    <segment id="138">, em pleno século 21</segment>
+    <segment id="139">, deve ser obrigatoriamente emitido em papel.</segment>
+    <segment id="140">Não houve</segment>
+    <segment id="141">, na norma</segment>
+    <segment id="142">, justificativa para a decisão</segment>
+    <segment id="143">, considerada mais estranha pelo fato de o ouro</segment>
+    <segment id="144">comocomo mercadoria ter nota eletrônica.</segment>
+    <segment id="145">Há relatos de que na operação</segment>
+    <segment id="146">Dilema de Midas</segment>
+    <segment id="147">, em 2019</segment>
+    <segment id="148">, que apurou irregularidades em ouro extraído da bacia do Tapajós</segment>
+    <segment id="149">, a Polícia Federal precisou fazer uma força tarefa para digitar milhares de notas fiscais o mais rápido possível e viabilizar as investigações.  Se a nota fiscal fosse digital</segment>
+    <segment id="150">, seria mais ágil e eficiente fazer o cruzamento dos dados e conferir quanto ouro sai de cada lavra</segment>
+    <segment id="151">, e até o tipo de ouro</segment>
+    <segment id="152">, explica o delegado Alexandre Saraiva</segment>
+    <segment id="153">, que foi superintendente da Polícia Federal em Amazonas</segment>
+    <segment id="154">, Maranhão e Roraima por quase uma década.  'Reciclagem' de joias</segment>
+    <segment id="155">Outra maneira de legalizar o ouro de garimpo é declarar que vem da reciclagem de joias.</segment>
+    <segment id="156">Em 2020 dois americanos quase conseguiram deixar o país com 35 kg do ouro</segment>
+    <segment id="157">, via Manaus</segment>
+    <segment id="158">, alegando ser produto de reciclagem.</segment>
+    <segment id="159">No aeroporto</segment>
+    <segment id="160">, no entanto</segment>
+    <segment id="161">, havia sido instalado há poucos dias um aparelho capaz de ler a composição do metal.</segment>
+    <segment id="162">A análise mostrou que a peça tinha 98% de impureza</segment>
+    <segment id="163">, denunciando que</segment>
+    <segment id="164">sese tratava de ouro de garimpo.  "</segment>
+    <segment id="165">Com imagens de satélite</segment>
+    <segment id="166">, de alta resolução</segment>
+    <segment id="167">, por exemplo</segment>
+    <segment id="168">, já é possível ver</segment>
+    <segment id="169">sese uma mina declarada está operando"</segment>
+    <segment id="170">, diz Saraiva.</segment>
+    <segment id="171">"</segment>
+    <segment id="172">Quanto maior a digitalização</segment>
+    <segment id="173">, melhor o combate à ilegalidade.</segment>
+    <segment id="174">"</segment>
+    <segment id="175">A maior parte do ouro brasileiro segue para a exportação e</segment>
+    <segment id="176">, ao que tudo indica</segment>
+    <segment id="177">, misturado ao de garimpo.</segment>
+    <segment id="178">O estado que oscila entre segundo e terceiro lugar</segment>
+    <segment id="179">comocomo maior exportador é São Paulo</segment>
+    <segment id="180">, onde estão as empresas capazes de fazer a etapa final de purificação para uso financeiro do metal.</segment>
+    <segment id="181">Nesse processo</segment>
+    <segment id="182">sese misturam o ouro vindo de vários pontos do país</segment>
+    <segment id="183">, acabando de vez com a possibilidade de</segment>
+    <segment id="184">sese registrar a origem do metal de garimpo.</segment>
+    <segment id="185">O ouro da terra Yanomami pode ter feito esse périplo de legalização</segment>
+    <segment id="186">, via</segment>
+    <segment id="187">Pará, e deixado o país por São Paulo.</segment>
+    <segment id="188">Mas há também quem acredite que o grosso pode ter sido contrabandeado ao norte</segment>
+    <segment id="189">, pelas fronteiras de Suriname</segment>
+    <segment id="190">, Guiana e Venezuela</segment>
+    <segment id="191">, atendendo traficantes de drogas e de armas.</segment>
+    <segment id="192">Naquela região</segment>
+    <segment id="193">, as investigações apontam conexões da lavra de garimpo com PCC</segment>
+    <segment id="194">, Comando Vermelho e Farcs (Forças Armadas Revolucionárias da Colômbia).</segment>
+    <segment id="195">A percepção é que o trabalho seria mais ágil e eficiente</segment>
+    <segment id="196">casocaso houvesse colaboração consistente e permanente de todos os organismos</segment>
+    <segment id="197">, que hoje atuam isoladamente.</segment>
+    <segment id="198">Não apenas força tarefa eventual.</segment>
+    <segment id="199">"</segment>
+    <segment id="200">Crimes financeiros são complexos</segment>
+    <segment id="201">, multidisciplinares</segment>
+    <segment id="202">, envolvem diferentes competências de investigação</segment>
+    <segment id="203">, então</segment>
+    <segment id="204">, a estrada possível para coibir o comércio ilegal e a evasão de divisas relacionadas a extração ilícita do ouro seria a ação conjunta dos órgãos federais</segment>
+    <segment id="205">, incluindo PF</segment>
+    <segment id="206">, BC, CVM</segment>
+    <segment id="207">, Receita Federal</segment>
+    <segment id="208">, em cooperação internacional com autoridades que monitoram esse ouro em outros países"</segment>
+    <segment id="209">, diz Leandro Chiarottino</segment>
+    <segment id="210">, advogado especializado em contenciosos ligados a fraudes financeiras.</segment>
+    <segment id="211">Colaborou Alexa Salomão</segment>
+  </rst>
+</analysis>

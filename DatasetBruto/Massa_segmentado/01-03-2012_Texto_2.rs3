@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Caixão para fugir das muriçocas?</segment>
+    <segment id="2">É isso mesmo.</segment>
+    <segment id="3">Um andarilho confessou ter levado o caixão para usá-lo</segment>
+    <segment id="4">comocomo abrigo</segment>
+    <segment id="5">Bom Jesus da Serra (a 513 km de Salvador) foi palco de um fato inusitado anteontem.</segment>
+    <segment id="6">Quem mora entre o cemitério da cidade</segment>
+    <segment id="7">, o Hospital Municipal e a quadra de esportes levou um susto ao ver  um homem sair da capela do Campo Santo carregando um caixão.</segment>
+    <segment id="8">O andarilho Gilberto Moreira Cunha</segment>
+    <segment id="9">, 42, foi preso em flagrante ontem pela manhã</segment>
+    <segment id="10">, dormindo na  urna funerária</segment>
+    <segment id="11">, próximo ao cemitério.</segment>
+    <segment id="12">Embora tivesse dito que iria devolvê-la</segment>
+    <segment id="13">,  foi  detido.</segment>
+    <segment id="14">Em depoimento</segment>
+    <segment id="15">, Cunha confessou ter  levado o caixão para usá-lo</segment>
+    <segment id="16">comocomo abrigo contra as muriçocas</segment>
+    <segment id="17">, que lhe atormentavam à noite.</segment>
+    <segment id="18">Como ninguém reclamou do furto e nenhuma testemunha compareceu para comprovar o crime</segment>
+    <segment id="19">, o andarilho foi liberado.</segment>
+  </rst>
+</analysis>

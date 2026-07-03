@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Renegada manda matar o ’ex my love’</segment>
+    <segment id="2">A vítima sofreu uma emboscada quando chegava em casa</segment>
+    <segment id="3">O plano de Graciene da Silva Morais</segment>
+    <segment id="4">, a Gal</segment>
+    <segment id="5">, 27 anos</segment>
+    <segment id="6">, não deu certo e ela ainda acabou presa por investigadores da Delegacia de Homicídios (DH) de Vitória da Conquista (a 509 km de Salvador).</segment>
+    <segment id="7">Segundo informações da polícia</segment>
+    <segment id="8">, Gal contratou dois homens para matar o ex-namorado</segment>
+    <segment id="9">, por não aceitar o fim do namoro.</segment>
+    <segment id="10">A vítima sofreu uma emboscada quando chegava em casa de carro</segment>
+    <segment id="11">, masmas sobreviveu aos tiros no rosto e nas costas.</segment>
+  </rst>
+</analysis>

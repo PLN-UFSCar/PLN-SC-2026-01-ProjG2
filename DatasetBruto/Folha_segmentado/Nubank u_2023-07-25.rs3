@@ -1,0 +1,156 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Nubank ultrapassou o Banco do Brasil e tornou-</segment>
+    <segment id="2">sese a quarta maior instituição financeira do país em número de clientes no segundo trimestre de 2023</segment>
+    <segment id="3">, segundo dados do Banco Central (BC) divulgados nesta terça-feira (25).</segment>
+    <segment id="4">De acordo com a autoridade monetária</segment>
+    <segment id="5">, o banco digital alcançou uma carteira de 77</segment>
+    <segment id="6">,7 milhões de clientes até o fim de junho</segment>
+    <segment id="7">, contra 74</segment>
+    <segment id="8">,6 milhões do Banco do Brasil.</segment>
+    <segment id="9">No primeiro trimestre</segment>
+    <segment id="10">, o Nubank tinha 73</segment>
+    <segment id="11">,2 milhões de clientes.</segment>
+    <segment id="12">Agora, o Nubank está atrás apenas da Caixa Econômica Federal (150</segment>
+    <segment id="13">,4 milhões)</segment>
+    <segment id="14">, do Bradesco (103</segment>
+    <segment id="15">,7 milhões) e do Itaú (99</segment>
+    <segment id="16">,01 milhões) em número clientes.</segment>
+    <segment id="17">Instituições financeiras com maior número de clientes do país     Posição Instituição Financeira Clientes     1°</segment>
+    <segment id="18">Caixa Econômica Federal 150.374.233   2°</segment>
+    <segment id="19">Bradesco 104.486.688   3° Itaú 99.936.353   4°</segment>
+    <segment id="20">Nubank 77.665.209   5°</segment>
+    <segment id="21">Banco do Brasil 74.579.521   6°</segment>
+    <segment id="22">Santander 64.360.563   7°</segment>
+    <segment id="23">Original 50.266.862</segment>
+    <segment id="24">8°</segment>
+    <segment id="25">Mercado</segment>
+    <segment id="26">Crédito</segment>
+    <segment id="27">47.390.877   9°</segment>
+    <segment id="28">Ame Digital 32.678.718   10°</segment>
+    <segment id="29">Pagbank/PagSeguro 29.451.137   11°</segment>
+    <segment id="30">C6 Bank 26.886.189</segment>
+    <segment id="31">12° Inter 26.405.463   13° BTG Pactual/Banco Pan 23.036.225   14°</segment>
+    <segment id="32">Neon 20.103.935   15°</segment>
+    <segment id="33">Votorantim 14.084.175</segment>
+    <segment id="34">O Nubank havia atingido a quinta posição no ranking no terceiro trimestre do ano passado</segment>
+    <segment id="35">, quando superou o Santander ao registrar 64</segment>
+    <segment id="36">,8 milhões de clientes.</segment>
+    <segment id="37">Os dados constam no balanço sobre reclamações contra instituições financeiras do BC</segment>
+    <segment id="38">, que foi divulgado nesta terça e reúne queixas procedentes sobre bancos realizadas por clientes no segundo trimestre deste ano.</segment>
+    <segment id="39">O BTG Pactual/Banco Pan lidera o ranking de reclamações entre as 15 maiores instituições financeiras do país pela quarta vez consecutiva.</segment>
+    <segment id="40">O Bradesco e o Inter aparecem na sequência.</segment>
+    <segment id="41">A lista do BC é formada a partir de reclamações registradas nos canais digitais de atendimento da autoridade monetária.</segment>
+    <segment id="42">A pontuação de cada banco é calculada multiplicando o número de queixas procedentes —casos em que houve sinal de descumprimento de lei ou norma pela instituição financeira— por mil e dividindo o resultado pelo número de clientes da instituição.</segment>
+    <segment id="43">Quanto maior a pontuação obtida nessa metodologia</segment>
+    <segment id="44">, pior o desempenho do banco no período.</segment>
+    <segment id="45">RANKING DE RECLAMAÇÕES | 1º TRIMESTRE DE 2022</segment>
+    <segment id="46">Posição Instituição financeira</segment>
+    <segment id="47">Índice Reclamações Clientes   1º BTG Pactual/Banco Pan 43</segment>
+    <segment id="48">,58 1.004 23.036.225   2º  Bradesco  30</segment>
+    <segment id="49">,90 3.229 104.486.688   3º Inter 29</segment>
+    <segment id="50">,38 776 26.405.463   4º C6 Bank 24</segment>
+    <segment id="51">,13 649 26.886.189   5º Pagbank/PagSeguro 22</segment>
+    <segment id="52">,47</segment>
+    <segment id="53">662 29.451.137   6º Itaú 20</segment>
+    <segment id="54">,27 2.026 99.936.353   7º Santander 18</segment>
+    <segment id="55">,27 1.176 64.360.563   8º Caixa 12</segment>
+    <segment id="56">,51 1.882 150.374.233   9º</segment>
+    <segment id="57">Neon 11</segment>
+    <segment id="58">,88 239 20.103.935   10º Votorantim 9</segment>
+    <segment id="59">,94 140 14.084.175   11º Mercado</segment>
+    <segment id="60">Crédito 9</segment>
+    <segment id="61">,83 466 47.390.877</segment>
+    <segment id="62">12º Banco do Brasil 9</segment>
+    <segment id="63">,46 706 74.579.521   13º Nubank 7</segment>
+    <segment id="64">,82 608 77.665.209   14º</segment>
+    <segment id="65">Original 7</segment>
+    <segment id="66">,51 378 50.266.862   15º</segment>
+    <segment id="67">Ame Digital 2</segment>
+    <segment id="68">,44 80 32.678.718</segment>
+    <segment id="69">Fonte: Banco Central</segment>
+    <segment id="70">O BTG Pactual/Banco Pan ficou com pontuação de 43</segment>
+    <segment id="71">,58: recebeu 1.004 reclamações procedentes de abril a junho deste ano</segment>
+    <segment id="72">, com uma carteira de 23</segment>
+    <segment id="73">,03 milhões de clientes.</segment>
+    <segment id="74">A instituição lidera o ranking desde o terceiro trimestre de 2022.</segment>
+    <segment id="75">As principais queixas contra o grupo foram sobre irregularidades relativas a integridade</segment>
+    <segment id="76">, confiabilidade</segment>
+    <segment id="77">, segurança</segment>
+    <segment id="78">, sigilo ou legitimidade das operações e serviços relacionados a cartões de crédito.</segment>
+    <segment id="79">Ofertas ou prestação de informação inadequadas sobre crédito consignado e cartões de crédito também apareceram com frequência.</segment>
+    <segment id="80">Em nota</segment>
+    <segment id="81">, o Banco Pan disse que vem reforçando suas estruturas de atendimento e aumentando os investimentos "para ter cada vez mais excelência na jornada do cliente".</segment>
+    <segment id="82">O banco destaca</segment>
+    <segment id="83">, ainda</segment>
+    <segment id="84">, a queda da sua pontuação no ranking</segment>
+    <segment id="85">, que saiu de 76</segment>
+    <segment id="86">,14 para 43</segment>
+    <segment id="87">,58 desde o segundo trimestre de 2022.</segment>
+    <segment id="88">"</segment>
+    <segment id="89">O Banco Pan tem</segment>
+    <segment id="90">comocomo compromisso a constante melhoria na experiência de seus clientes e usuários</segment>
+    <segment id="91">, tanto nos produtos e serviços ofertados</segment>
+    <segment id="92">, quanto em seus canais de atendimento"</segment>
+    <segment id="93">, diz a instituição  Prédio do BC em Brasília.</segment>
+    <segment id="94">- 04.mai.2022-Pedro Ladeira/FolhapressNo geral</segment>
+    <segment id="95">, as principais queixas são relativas a cartão de crédito e relacionadas a questões de integridade</segment>
+    <segment id="96">, confiabilidade</segment>
+    <segment id="97">, segurança</segment>
+    <segment id="98">, sigilo ou legitimidade das operações e dos serviços.</segment>
+    <segment id="99">No segundo trimestre deste ano</segment>
+    <segment id="100">, foram registradas 2.369 sobre o assunto.</segment>
+    <segment id="101">Em segundo lugar aparecem as irregularidades relacionadas a informações e liquidação no Sistema de Valores a Receber do BC</segment>
+    <segment id="102">, de dinheiro esquecido em instituições</segment>
+    <segment id="103">, com 885 reclamações no período.</segment>
+    <segment id="104">No segundo trimestre</segment>
+    <segment id="105">, o Bradesco subiu no ranking e passou a ocupar o segundo lugar entre as instituições com mais queixas no Brasil</segment>
+    <segment id="106">, com 30</segment>
+    <segment id="107">,90 pontos.</segment>
+    <segment id="108">No período</segment>
+    <segment id="109">, foram 3.229 reclamações procedentes entre 104</segment>
+    <segment id="110">,48 milhões de clientes.</segment>
+    <segment id="111">No primeiro trimestre de 2023</segment>
+    <segment id="112">, o banco havia ocupado a quinta posição</segment>
+    <segment id="113">, com 23</segment>
+    <segment id="114">,05 pontos.</segment>
+    <segment id="115">O Bradesco informou à Folha que tem</segment>
+    <segment id="116">comocomo foco permanente a redução dos índices de reclamações.  "</segment>
+    <segment id="117">Para isso</segment>
+    <segment id="118">, o banco realiza um intenso trabalho no acompanhamento das manifestações e priorização no encaminhamento de soluções.</segment>
+    <segment id="119">Todos os apontamentos são acompanhados de perto pela Ouvidoria.</segment>
+    <segment id="120">O objetivo é oferecer qualidade no atendimento a todos os clientes.</segment>
+    <segment id="121">É importante ressaltar que o Bradesco tem uma posição de respeito absoluto ao cliente e aos seus interesses"</segment>
+    <segment id="122">, diz a instituição.</segment>
+    <segment id="123">O Banco Inter</segment>
+    <segment id="124">, que aparece em terceiro lugar no ranking</segment>
+    <segment id="125">, com 776 queixas procedentes num universo de 26</segment>
+    <segment id="126">,4 milhões de clientes</segment>
+    <segment id="127">, explicou que está investindo para oferecer a melhor experiência para o cliente.</segment>
+    <segment id="128">"</segment>
+    <segment id="129">O Inter informa que tem trabalhado continuamente para aperfeiçoar todos os seus canais de atendimento e que segue investindo para garantir a melhor experiência possível para seus mais de 26 milhões de clientes"</segment>
+    <segment id="130">, afirma.</segment>
+  </rst>
+</analysis>

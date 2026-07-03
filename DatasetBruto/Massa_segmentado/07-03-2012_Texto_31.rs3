@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Claudia Leitte exibe barriguinha</segment>
+    <segment id="2">A cantora</segment>
+    <segment id="3">, que está de férias nos Estados Unidos</segment>
+    <segment id="4">, postou foto no twitter</segment>
+    <segment id="5">A barriguinha de Claudia Leitte já está bem aparente</segment>
+    <segment id="6">, como</segment>
+    <segment id="7">como pode ser vista na imagem que ela publicou no twitter.</segment>
+    <segment id="8">A cantora</segment>
+    <segment id="9">, que está grávida de seu segundo filho</segment>
+    <segment id="10">, foi fotografada quando preparava o jantar para a família.</segment>
+    <segment id="11">“Pessoal</segment>
+    <segment id="12">, eu amo cozinhar</segment>
+    <segment id="13">, preparar a mesa…</segment>
+    <segment id="14">Mas lavar é um pesadelo!</segment>
+    <segment id="15">E hoje estou toda arrumadinha!</segment>
+    <segment id="16">”, escreveu Claudinha</segment>
+    <segment id="17">, antes de</segment>
+    <segment id="18">sese despedir dos seus seguidores.</segment>
+    <segment id="19">A cantora passa férias nos Estados Unidos junto com o marido e o filho.</segment>
+  </rst>
+</analysis>

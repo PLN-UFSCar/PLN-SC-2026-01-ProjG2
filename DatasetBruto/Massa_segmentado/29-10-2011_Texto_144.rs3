@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Duas brasileiras conquistam medalhas no judô
+judocas brasileiras Érika Miranda e Sarah Meneses conquistaram agora há pouco as
+
+medalhas de prata e de bronze neste útlimo dia de disputas do judô nos Jogos Pan-Americanos de Guadalajara.</segment>
+    <segment id="2">Os confrontos estão sendo realizados no Complejo Deportivo 2</segment>
+    <segment id="3">, o Code 2</segment>
+    <segment id="4">, nesta cidade.</segment>
+    <segment id="5">Érika ficou com a prata ao ser derrotada na final pela cubana Yanet Bernoy</segment>
+    <segment id="6">, num ippon por imobilização na categoria peso meio-leve.</segment>
+    <segment id="7">Na categoria ligeiro</segment>
+    <segment id="8">, Sarah Meneses obteve o bronze</segment>
+    <segment id="9">, ao aplicar um ippon sobre a colombiana Luz Alvarez.
+
+- No começo da programação</segment>
+    <segment id="10">, acho que fiquei um tanto apavorada</segment>
+    <segment id="11">, insegura</segment>
+    <segment id="12">, porque</segment>
+    <segment id="13">porque estou voltando de uma lesão que sofri depois do Mundial - disse Sarah.</segment>
+    <segment id="14">- Mas sinceramente aqui eu esperava ganhar o ouro.</segment>
+  </rst>
+</analysis>

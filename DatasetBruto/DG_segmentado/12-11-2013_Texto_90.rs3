@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Alagamento
+Mais de mil vÃ­timas do temporal estÃ£o sem moradia em Esteio
+Mais de mil vÃ­timas do temporal estÃ£o sem moradia em Esteio
+Arroios Esteio e Sapucaia transbordaram e quatro bairros foram desvastados</segment>
+    <segment id="2">O temporal de segunda-feira deixou mais de mil pessoas sem moradia em Esteio.</segment>
+    <segment id="3">Segundo a prefeitura</segment>
+    <segment id="4">, sÃ£o 205 desabrigados e cerca de 800 desalojados.</segment>
+    <segment id="5">A situaÃ§Ã£o mais precÃ¡ria Ã© a do bairro SÃ£o SebastiÃ£o</segment>
+    <segment id="6">, seguidos de SÃ£o JosÃ©</segment>
+    <segment id="7">, Primavera e TrÃªs Marias.</segment>
+    <segment id="8">AlÃ©m dos bairros</segment>
+    <segment id="9">, as ruas Rio Grande e Bento GonÃ§alves ficaram devastadas.</segment>
+    <segment id="10">Os arroios Esteio e Sapucaia transbordaram</segment>
+    <segment id="11">, causando parte dos alagamentos na cidade.</segment>
+    <segment id="12">AtÃ© o momento</segment>
+    <segment id="13">, existem trÃªs locais disponibilizados pela prefeitura para os desabrigados:
+Igreja SÃ£o SebastiÃ£o - 130 pessoas
+Igreja Santa Rita - 50 pessoas
+CMEB Eva Karnal - 25 pessoas</segment>
+  </rst>
+</analysis>

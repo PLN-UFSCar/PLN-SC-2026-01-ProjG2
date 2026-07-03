@@ -1,0 +1,49 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">João Guilherme Silva alcançou a audiência da despedida de seu pai</segment>
+    <segment id="2">, Faustão</segment>
+    <segment id="3">, na Band.</segment>
+    <segment id="4">A estreia de Programa do João teve 2</segment>
+    <segment id="5">,1 pontos de audiência no último sábado.</segment>
+    <segment id="6">João Guilherme Silvacontará com o Cachorrão</segment>
+    <segment id="7">comocomo assistente de palco</segment>
+    <segment id="8">, personagem lúdico que vai trazer alegria e irreverência ao público - Renato PizzuttoO número é próximo da média das últimas edições de Faustão na Band.</segment>
+    <segment id="9">O último dia de Fausto Silva na emissora marcou 2</segment>
+    <segment id="10">,3 pontos</segment>
+    <segment id="11">, de acordo com os dados do Kantar Ibope.</segment>
+    <segment id="12">O Programa do João quer resgatar o espírito do Perdidos na Noite</segment>
+    <segment id="13">, que Faustão estreou aos 36 anos no Teatro Gazeta</segment>
+    <segment id="14">, buscando chamar o público e</segment>
+    <segment id="15">sese afastar dos estúdios.</segment>
+    <segment id="16">Veja fotos do Programa do João</segment>
+    <segment id="17">, apresentado pelo filho de FaustãoMais    novamente         de   de  de  representando um  "</segment>
+    <segment id="18">A gente quer trazer quem está na plateia</segment>
+    <segment id="19">, nada programado.</segment>
+    <segment id="20">O cara quer cantar</segment>
+    <segment id="21">, quer mostrar seu talento</segment>
+    <segment id="22">, é só subir no palco"</segment>
+    <segment id="23">, disse ele à reportagem poucos dias antes da sua estreia.</segment>
+  </rst>
+</analysis>

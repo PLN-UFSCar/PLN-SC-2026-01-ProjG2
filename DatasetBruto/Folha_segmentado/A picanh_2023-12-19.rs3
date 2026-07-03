@@ -1,0 +1,117 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O direito do consumidor à picanha e à cerveja</segment>
+    <segment id="2">, destacado pelo presidente Luiz Inácio Lula da Silva (PT) quando em campanha</segment>
+    <segment id="3">, foi atingido parcialmente.</segment>
+    <segment id="4">A picanha termina o ano com uma queda de 13%</segment>
+    <segment id="5">, masmas a cerveja subiu 7%.</segment>
+    <segment id="6">Colunas e BlogsReceba no seu email uma seleção de colunas e blogs da FolhaCarregando...</segment>
+    <segment id="7">Os dados</segment>
+    <segment id="8">, ainda provisórios</segment>
+    <segment id="9">, são da Fipe (Fundação Instituto de Pesquisas Econômicas).</segment>
+    <segment id="10">Os definitivos serão divulgados pela instituição na primeira semana de 2024.</segment>
+    <segment id="11">O preço dos alimentos voltou a subir neste final de ano</segment>
+    <segment id="12">, masmas a taxa acumulada de janeiro a dezembro é de apenas 0</segment>
+    <segment id="13">,3%, bem abaixo do ocorrido em anos anteriores.</segment>
+    <segment id="14">O primeiro ano do governo Lula está sendo marcado por uma queda geral nos preços das carnes nos supermercados e açougues</segment>
+    <segment id="15">, com retrações que vão de 8%</segment>
+    <segment id="16">, para a suína</segment>
+    <segment id="17">, a 10%</segment>
+    <segment id="18">, para a bovina e a de frango.</segment>
+    <segment id="19">Cortes de picanha prontos para assar - Violeta Yuste/DivulgaçãoUm componente importante nas despesas diárias dos consumidores de menor renda</segment>
+    <segment id="20">, no entanto</segment>
+    <segment id="21">, passou a corroer o poder de compra deles.</segment>
+    <segment id="22">O arroz disparou.</segment>
+    <segment id="23">Na safra 2022/23</segment>
+    <segment id="24">, o país teve a menor área da história dedicada ao arroz.</segment>
+    <segment id="25">Com isso</segment>
+    <segment id="26">, a produção recuou para apenas 10 milhões de toneladas</segment>
+    <segment id="27">, o menor patamar em 25 anos.</segment>
+    <segment id="28">A oferta reduzida respingou nos preços</segment>
+    <segment id="29">, que acumulam alta de 17% nos supermercados em 2023.</segment>
+    <segment id="30">No campo</segment>
+    <segment id="31">, a saca do cereal termina o ano com valores superiores a R$ 130 no Rio Grande do Sul</segment>
+    <segment id="32">, bem acima dos R$ 91 do início do ano</segment>
+    <segment id="33">, segundo o Cepea (Centro de Estudos Avançados em Economia Aplicada).</segment>
+    <segment id="34">Com os preços em alta</segment>
+    <segment id="35">, os produtores semearam uma área maior para a safra 2023/24 e a produção deverá superar a de 2023.</segment>
+    <segment id="36">Preços internacionais elevados e mercado externo favorável às exportações</segment>
+    <segment id="37">, porém</segment>
+    <segment id="38">porém, vão manter o cereal com valores aquecidos para os consumidores.</segment>
+    <segment id="39">O pacote de 5 kg do cereal de melhor qualidade já supera R$ 40.</segment>
+    <segment id="40">A queda no preço da picanha passa por um conjunto de fatores</segment>
+    <segment id="41">, que vão da retração dos preços internacionais à maior oferta interna.</segment>
+    <segment id="42">A tonelada de carne "in natura" exportada pelo Brasil</segment>
+    <segment id="43">foi negociada neste ano com retração média de 19% no mercado internacional em relação a janeiro e novembro de 2022.</segment>
+    <segment id="44">A produção aumentou e as exportações</segment>
+    <segment id="45">, crescentes nos últimos anos</segment>
+    <segment id="46">, perderam ritmo em 2023</segment>
+    <segment id="47">, e isso refletiu nos preços internos.</segment>
+    <segment id="48">A arroba de boi gordo</segment>
+    <segment id="49">, negociada a R$ 318 em 2022 no mercado interno</segment>
+    <segment id="50">, está em R$ 255 neste ano.</segment>
+    <segment id="51">A inflação dos alimentos termina o ano sem grandes pressões neste primeiro ano do governo Lula</segment>
+    <segment id="52">, masmas arroz</segment>
+    <segment id="53">, feijão</segment>
+    <segment id="54">, batata e laranja serão fatores de atenção no início de 2024.</segment>
+    <segment id="55">Leite e açúcar começam o ano com menor pressão.</segment>
+    <segment id="56">CONSUMO DE CARNE AUMENTA</segment>
+    <segment id="57">EM 2024</segment>
+    <segment id="58">Cada habitante do país vai consumir</segment>
+    <segment id="59">, em média</segment>
+    <segment id="60">, 47 kg de carne de frango no próximo ano</segment>
+    <segment id="61">, segundo a ABPA (Associação Brasileira de Proteína Animal).</segment>
+    <segment id="62">Se confirmado</segment>
+    <segment id="63">, esse volume supera a média anual deste ano por pessoa</segment>
+    <segment id="64">, que foi de 46</segment>
+    <segment id="65">,2 kg.</segment>
+    <segment id="66">O consumo de carne suína</segment>
+    <segment id="67">, em expansão nos anos recentes</segment>
+    <segment id="68">, estaciona nos 18 kg por pessoa</segment>
+    <segment id="69">, segundo a entidade.</segment>
+    <segment id="70">Já o consumo de ovos sobe para 258 unidades</segment>
+    <segment id="71">, bem acima da média de 242 deste ano.</segment>
+    <segment id="72">O Brasil</segment>
+    <segment id="73">, segundo maior produtor mundial de carne de frango</segment>
+    <segment id="74">, deverá atingir a marca de até 15</segment>
+    <segment id="75">,3 milhões de toneladas de produção em 2024.</segment>
+    <segment id="76">Neste ano</segment>
+    <segment id="77">, deverá chegar a 14</segment>
+    <segment id="78">,9 milhões.</segment>
+    <segment id="79">Criação de frangos em Ipeúna (SP) - Karime Xavier/FolhapressPrincipal exportador mundial dessa proteína</segment>
+    <segment id="80">, os produtores brasileiros vão colocar 5</segment>
+    <segment id="81">,3 milhões de toneladas no mercado externo</segment>
+    <segment id="82">, com crescimento de até 4% sobre o volume deste ano.</segment>
+    <segment id="83">A entidade espera também um aumento de produção de carne suína para até 5</segment>
+    <segment id="84">,15 milhões de toneladas</segment>
+    <segment id="85">, com alta de 1% sobre o volume deste ano.</segment>
+    <segment id="86">As exportações</segment>
+    <segment id="87">, com boa demanda externa</segment>
+    <segment id="88">, poderão subir para 1</segment>
+    <segment id="89">,3 milhão</segment>
+    <segment id="90">, 6,6% a mais.</segment>
+    <segment id="91">O Brasil é o quarto maior produtor e exportador mundial.</segment>
+  </rst>
+</analysis>

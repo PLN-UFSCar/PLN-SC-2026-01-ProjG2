@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Porto Alegre</segment>
+    <segment id="2">Corpo degolado</segment>
+    <segment id="3">Ã© encontrado na Restinga</segment>
+    <segment id="4">O caso</segment>
+    <segment id="5">caso estÃ¡ sendo investigado pela 4Âª DHP</segment>
+    <segment id="6">Um homem de 38 anos foi encontrado morto por volta das 6h30min desta quarta-feira</segment>
+    <segment id="7">, na Avenida Doutor JoÃ£o Dentice</segment>
+    <segment id="8">, no Bairro Restinga Velha</segment>
+    <segment id="9">, em Porto Alegre.</segment>
+    <segment id="10">De acordo com a Brigada Militar</segment>
+    <segment id="11">, o corpo de luis Carlos Silva e Souza</segment>
+    <segment id="12">, 38 anos</segment>
+    <segment id="13">, tinha sinais de degola e estava em um terreno baldio</segment>
+    <segment id="14">, frequentado por usuÃ¡rios de drogas.</segment>
+    <segment id="15">A vÃ­tima nÃ£o tinha antecedentes criminais.</segment>
+    <segment id="16">O caso</segment>
+    <segment id="17">caso estÃ¡ sendo investigado pela 4Âª DHPP.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,56 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Após uma sequência de dias de forte calor</segment>
+    <segment id="2">, o litoral de São Paulo está em estado de alerta para ressaca forte e ondas grandes</segment>
+    <segment id="3">, que podem chegar a até 3 metros de altura.</segment>
+    <segment id="4">Segundo a Defesa Civil</segment>
+    <segment id="5">, a expectativa é de que a maré comece a subir nesta quarta-feira (14) e siga alta ao menos até sexta (16).</segment>
+    <segment id="6">A forte ressaca é provocada pela chegada de uma frente fria em Santos</segment>
+    <segment id="7">, o que favorece a incidência de pancadas de chuva.</segment>
+    <segment id="8">A Defesa Civil orientou que as pessoas evitem esportes náuticos e fiquem atentas aos carros estacionados em garagens subterrâneas.</segment>
+    <segment id="9">Para esta quarta</segment>
+    <segment id="10">, a previsão para a região litorânea é de chuva a qualquer período do dia</segment>
+    <segment id="11">, podendo ser de intensidade forte em alguns momentos e acompanhada de raios.  Ponta da Praia</segment>
+    <segment id="12">, nas proximidades do Aquário</segment>
+    <segment id="13">, em Santos - Bruno Santos - 8.dez.23/FolhapressO Inmet (Instituto Nacional de Meteorologia) informou que são esperados entre 50 e 100 milímetros de chuva por dia.</segment>
+    <segment id="14">Também há previsão de ventos intensos</segment>
+    <segment id="15">, que podem chegar a 100km/h.</segment>
+    <segment id="16">Por isso</segment>
+    <segment id="17">, há risco de corte de energia elétrica</segment>
+    <segment id="18">, queda de árvores</segment>
+    <segment id="19">, alagamentos e descargas elétricas.</segment>
+    <segment id="20">A previsão é de que as chuvas mais intensas ocorram nesta quarta</segment>
+    <segment id="21">, ainda que continuem até sexta.</segment>
+    <segment id="22">Em janeiro</segment>
+    <segment id="23">, quando a Baixada Santista foi atingida por fortes chuvas</segment>
+    <segment id="24">, ao menos oito banhistas foram atingidos por um raio na praia do Bairro Caiçara</segment>
+    <segment id="25">, na Praia Grande.</segment>
+    <segment id="26">Uma mulher de 60 anos</segment>
+    <segment id="27">, que vivia em Campinas</segment>
+    <segment id="28">, sofreu uma parada cardiorrespiratória e morreu.</segment>
+    <segment id="29">Os outros banhistas que foram atingidos pelo raio tiveram ferimentos leves e foram conduzidos para o pronto-socorro Central pelos bombeiros</segment>
+    <segment id="30">, onde permanecem internados com quadro de saúde estável.</segment>
+  </rst>
+</analysis>

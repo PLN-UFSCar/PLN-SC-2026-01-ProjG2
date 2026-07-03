@@ -1,0 +1,207 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Muitas cidades voltarão a ter desfiles em comemoração à independência do Brasil depois de dois anos de restrições devido à pandemia.</segment>
+    <segment id="2">Em São Paulo</segment>
+    <segment id="3">, cerca de 10 mil pessoas devem desfilar na avenida Dom Pedro 1º</segment>
+    <segment id="4">, na zona sul</segment>
+    <segment id="5">, e em Brasília são esperadas 280 mil pessoas para assistir à celebração.</segment>
+    <segment id="6">A expectativa é a de que os atos</segment>
+    <segment id="7">sese misturem a manifestações políticas</segment>
+    <segment id="8">, especialmente em Brasília e no Rio de Janeiro</segment>
+    <segment id="9">, onde o presidente Jair Bolsonaro (PL) estará pela manhã e à tarde</segment>
+    <segment id="10">, respectivamente.</segment>
+    <segment id="11">O candidato à reeleição deve ter pelo menos três estruturas montadas para possíveis discursos.</segment>
+    <segment id="12">Bolsonaro está convocando seus apoiadores para o 7 de Setembro desde julho.</segment>
+    <segment id="13">No ano passado</segment>
+    <segment id="14">, o evento serviu para o presidente atacar o STF (Supremo Tribunal Federal) e os ministros da corte.</segment>
+    <segment id="15">Comemoração dos 196 anos da Independência do Brasil</segment>
+    <segment id="16">, em São Paulo - Danilo Verpa - 7.set.18/FolhapressEm Porto Alegre</segment>
+    <segment id="17">, o evento cívico oficial</segment>
+    <segment id="18">, com militares</segment>
+    <segment id="19">, policiais e outros órgãos</segment>
+    <segment id="20">, acontecerá na avenida Edvaldo Pereira Paiva</segment>
+    <segment id="21">, em frente ao Lago Guaíba.</segment>
+    <segment id="22">Apoiadores de Bolsonaro estão organizando uma manifestação náutica ao mesmo tempo</segment>
+    <segment id="23">, às 10h</segment>
+    <segment id="24">, com embarcações que deverão passar ao lado do desfile</segment>
+    <segment id="25">, no sentido inverso.</segment>
+    <segment id="26">À tarde</segment>
+    <segment id="27">, às 14h</segment>
+    <segment id="28">, acontecerá uma manifestação favorável ao presidente em um dos sentidos da avenida Goethe</segment>
+    <segment id="29">, em frente ao Parcão</segment>
+    <segment id="30">, com trio elétrico e comício.</segment>
+    <segment id="31">Também há atos previstos para outras capitais brasileiras</segment>
+    <segment id="32">, como</segment>
+    <segment id="33">como Belo Horizonte</segment>
+    <segment id="34">, Curitiba</segment>
+    <segment id="35">, Recife e Salvador.    São Paulo</segment>
+    <segment id="36">Cerca de 10 mil pessoas</segment>
+    <segment id="37">, entre civis e militares</segment>
+    <segment id="38">, desfilarão na pista central da av. Dom Pedro 1º   7h30 - apresentação da banda sinfônica do Exército 8h - hasteamento da bandeira 8h40 - execução do hino da Independência 8h45 - desfile 12h30 - salto de paraquedistas do Exército   Bloqueios das 22h de terça-feira (6) até as 14h de quarta-feira (7) afetarão as seguintes vias:</segment>
+    <segment id="39">Praça do Monumento av. Dom Pedro 1º</segment>
+    <segment id="40">r.</segment>
+    <segment id="41">Leais Paulistanos</segment>
+    <segment id="42">r. Tabor r.</segment>
+    <segment id="43">Bom Pastor av. Tereza Cristina</segment>
+    <segment id="44">r.</segment>
+    <segment id="45">Agostinho Gomes r. Cipriano Barata   Linhas que mudarão de trajeto no mesmo horário:   174M/10</segment>
+    <segment id="46">Vl.</segment>
+    <segment id="47">Sabrina – Museu do Ipiranga 314J/10</segment>
+    <segment id="48">Pq.</segment>
+    <segment id="49">Sta.</segment>
+    <segment id="50">Madalena - Pça.</segment>
+    <segment id="51">Almeida Jr. 314V/10</segment>
+    <segment id="52">Vl.</segment>
+    <segment id="53">Ema - Pça.</segment>
+    <segment id="54">Almeida Jr. 5142/10</segment>
+    <segment id="55">Term.</segment>
+    <segment id="56">Sapopemba – Term.</segment>
+    <segment id="57">Pq.</segment>
+    <segment id="58">D. Pedro II 5145/10</segment>
+    <segment id="59">Term.</segment>
+    <segment id="60">Sapopemba – Pça.</segment>
+    <segment id="61">Almeida Jr. 3390/10</segment>
+    <segment id="62">São Mateus – Term.</segment>
+    <segment id="63">Pq.</segment>
+    <segment id="64">D. Pedro II 407M/10</segment>
+    <segment id="65">Vl.</segment>
+    <segment id="66">Monumento – Metrô Vl.</segment>
+    <segment id="67">Mariana 4111/10</segment>
+    <segment id="68">Vl.</segment>
+    <segment id="69">Monumento – Pça. da República 4491/10</segment>
+    <segment id="70">Zoológico – Term.</segment>
+    <segment id="71">Pq.</segment>
+    <segment id="72">D. Pedro II 477A/10 Sacomã-</segment>
+    <segment id="73">Term.</segment>
+    <segment id="74">Pinheiros 477P/10 Ipiranga – Rio Pequeno 478P/10 Sacomã – Vl.</segment>
+    <segment id="75">Romana 5028/10 Conj.</segment>
+    <segment id="76">Hab.</segment>
+    <segment id="77">Heliópolis – Metrô Alto do Ipiranga 5107/10</segment>
+    <segment id="78">Term.</segment>
+    <segment id="79">Sacomã – Pça.</segment>
+    <segment id="80">do Correio 5108/10</segment>
+    <segment id="81">Jd.</segment>
+    <segment id="82">Celeste –</segment>
+    <segment id="83">Term.</segment>
+    <segment id="84">Pq.</segment>
+    <segment id="85">D. Pedro II 519M/10</segment>
+    <segment id="86">São Mateus – Museu do Ipiranga 5705/10</segment>
+    <segment id="87">Term.</segment>
+    <segment id="88">Sacomã – Metrô</segment>
+    <segment id="89">Vergueiro 874T/10</segment>
+    <segment id="90">Ipiranga – Lapa 476A/10</segment>
+    <segment id="91">Ipiranga –</segment>
+    <segment id="92">Term.</segment>
+    <segment id="93">Sto.</segment>
+    <segment id="94">Amaro 575C/10</segment>
+    <segment id="95">Ipiranga – Vl.</segment>
+    <segment id="96">Matias N502/11 Term.</segment>
+    <segment id="97">Sacomã – Term.</segment>
+    <segment id="98">Pq.</segment>
+    <segment id="99">D. Pedro II N537/11</segment>
+    <segment id="100">Metrô</segment>
+    <segment id="101">Vl.</segment>
+    <segment id="102">Mariana - Term.</segment>
+    <segment id="103">Vl.</segment>
+    <segment id="104">Prudente 476G/10 Jd.</segment>
+    <segment id="105">Elba – Ibirapuera 476G/41 Vl.</segment>
+    <segment id="106">Industrial – Metrô Ana Rosa 364A/10</segment>
+    <segment id="107">Hosp.</segment>
+    <segment id="108">Ipiranga – Shop.</segment>
+    <segment id="109">Aricanduva 514T/10</segment>
+    <segment id="110">Term.</segment>
+    <segment id="111">Sacomã – Jd.</segment>
+    <segment id="112">Itápolis N536/11</segment>
+    <segment id="113">Term.</segment>
+    <segment id="114">Sacomã – Jd.</segment>
+    <segment id="115">Itápolis</segment>
+    <segment id="116">As alternativas sugeridas pela CET são para os veículos provenientes da r. dos Patriotas com destino a av. Nazaré.</segment>
+    <segment id="117">Eles deverão virar à esquerda na r. Costa Aguiar</segment>
+    <segment id="118">, depois à direita na r. Cisplatina</segment>
+    <segment id="119">, seguir em frente pela r. Padre Marchetti e virar à esquerda na avenida Nazaré voltando</segment>
+    <segment id="120">, assim</segment>
+    <segment id="121">, ao seu trajeto normal.</segment>
+    <segment id="122">Quem estiver da r. da Independência com destino à av. Nazaré deve virar à esquerda na r. Dona Ana Neri</segment>
+    <segment id="123">, depois à direita na av. do Estado</segment>
+    <segment id="124">, à direita na r. dos Patriotas</segment>
+    <segment id="125">, e, então</segment>
+    <segment id="126">, virar à esquerda na r. Costa Aguiar.</segment>
+    <segment id="127">Na av. Paulista</segment>
+    <segment id="128">, o 7 de Setembro de bolsonaristas terá ampla participação de movimentos de caráter antidemocrático.</segment>
+    <segment id="129">Diferentemente do ano passado</segment>
+    <segment id="130">, Bolsonaro não estará presente.</segment>
+    <segment id="131">O ato está marcado para começar às 14h</segment>
+    <segment id="132">, masmas a concentração deve iniciar às 10h.</segment>
+    <segment id="133">O chefe do Executivo participará de desfiles em Brasília e no Rio de Janeiro e deve fazer uma participação remota no ato paulistano com transmissão em um telão instalado em um carro de som.</segment>
+    <segment id="134">A Secretaria de Segurança Pública (SSP) autorizou 14 grupos de viés direitista a</segment>
+    <segment id="135">sese manifestarem na avenida</segment>
+    <segment id="136">, como</segment>
+    <segment id="137">como a Associação Brasil nas Ruas e o Movimento Monarquista.</segment>
+    <segment id="138">Os caminhões vão</segment>
+    <segment id="139">sese concentrar entre a r.</segment>
+    <segment id="140">Peixoto Gomide e a al.</segment>
+    <segment id="141">Campinas e em frente ao Masp.</segment>
+    <segment id="142">Segundo a SSP</segment>
+    <segment id="143">, haverá ainda manifestações na Praça da Sé e no Parque do Ibirapuera</segment>
+    <segment id="144">, na zona sul</segment>
+    <segment id="145">, de onde deve sair uma motociata.</segment>
+    <segment id="146">Atos pró-Bolsonaro tem churrasco</segment>
+    <segment id="147">, cerveja e música sertaneja no 7 de Setembro de 2021Mais    novamente         de   de  de  representando um  Rio de Janeiro</segment>
+    <segment id="148">As celebrações serão comandadas pelo Comando Militar do Leste</segment>
+    <segment id="149">, que começou a comemoração na terça-feira (6)</segment>
+    <segment id="150">, com um desfile militar em Duque de Caxias.</segment>
+    <segment id="151">Nesta quarta</segment>
+    <segment id="152">, a programação começa às 8h.</segment>
+    <segment id="153">8h - salva de tiros de artilharia</segment>
+    <segment id="154">, no Forte de Copacabana 9h - parada naval partindo do Recreio dos Bandeirantes 13h - cerimônia em Copacabana</segment>
+    <segment id="155">, na av. Atlântica</segment>
+    <segment id="156">, na altura da av. Rainha Elizabeth 16h - salvas de 21 tiros</segment>
+    <segment id="157">O bloqueio na av. Atlântica afetará a via a partir da rua Francisco de Sá</segment>
+    <segment id="158">, no sentido de quem vai para o forte de Copacabana.</segment>
+    <segment id="159">Não será possível estacionar veículos na região.</segment>
+    <segment id="160">A partir da meia-noite de quarta-feira</segment>
+    <segment id="161">, as seguintes vias podem estar interditadas:</segment>
+    <segment id="162">r. Francisco Otaviano r. Joaquim Nabuco av. Rainha Elizabeth</segment>
+    <segment id="163">r. Julio de Castilhos</segment>
+    <segment id="164">r. Francisco Sá</segment>
+    <segment id="165">r. Sá Ferreira</segment>
+    <segment id="166">r.</segment>
+    <segment id="167">Almirante Gonçalves</segment>
+    <segment id="168">r. Miguel Lemos r. Xavier da Silveira   Bolsonaro deve fazer uma saudação a apoiadores no Monumento dos Pracinhas às 13h.</segment>
+    <segment id="169">A previsão é que ele vá de helicóptero a Copacabana</segment>
+    <segment id="170">, masmas uma moto está reservada para o presidente seguir em motociata.</segment>
+    <segment id="171">A expectativa é que ele chegue à orla</segment>
+    <segment id="172">, onde também discursará</segment>
+    <segment id="173">, por volta das 15h.</segment>
+    <segment id="174">Brasília  Em Brasília</segment>
+    <segment id="175">, o desfile na Esplanada dos Ministérios será a partir das 9h e deve acabar por volta das 11h30.</segment>
+    <segment id="176">A expectativa é a de que Bolsonaro discurse no final da manhã</segment>
+    <segment id="177">, após o encerramento do desfile.</segment>
+    <segment id="178">O local do evento está fechado desde segunda-feira (5)</segment>
+    <segment id="179">, da alça leste da rodoviária do Plano Piloto até a via L4 —a via S2 também foi afetada.</segment>
+    <segment id="180">Os ônibus circularão com os horários programados para domingos</segment>
+    <segment id="181">, masmas as linhas que passam pela rodoviária do Plano Piloto terão reforço de 120 veículos.</segment>
+  </rst>
+</analysis>

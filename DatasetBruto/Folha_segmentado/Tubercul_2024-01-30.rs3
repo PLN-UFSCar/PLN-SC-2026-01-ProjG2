@@ -1,0 +1,150 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Os linfócitos T CD4+ já foram amplamente descritos na literatura científica pelo importante papel na resposta imunológica durante infecções pulmonares.</segment>
+    <segment id="2">Porém, pesquisa publicada na revista Cell Reports demonstrou que um acúmulo excessivo dessas células de defesa nos tecidos pulmonares —responsáveis pelas trocas gasosas essenciais para a respiração— está associado a danos nos pulmões em vez de desempenhar uma função de proteção.</segment>
+    <segment id="3">A descoberta</segment>
+    <segment id="4">, obtida por meio de modelos de camundongos com tuberculose virulenta e influenza</segment>
+    <segment id="5">, aponta para a presença de uma "quantidade ideal" dos linfócitos no tecido pulmonar a fim de assegurar o bom desfecho da doença.</segment>
+    <segment id="6">Esse achado abre perspectivas para intervenções terapêuticas que visam reduzir o impacto no hospedeiro sem afetar a capacidade do sistema imunológico de combater a infecção.</segment>
+    <segment id="7">Mesmo números reduzidos de células</segment>
+    <segment id="8">T CD4+ no pulmão</segment>
+    <segment id="9">sese mostraram suficientes para proteger contra a tuberculose</segment>
+    <segment id="10">, por exemplo.</segment>
+    <segment id="11">Os pesquisadores observaram que o acúmulo dos linfócitos no tecido pulmonar é mediado por um tipo específico de receptor</segment>
+    <segment id="12">, o P2RX7</segment>
+    <segment id="13">, capaz de detectar a presença de ATP (sigla em inglês para trifosfato de adenosina) extracelular.</segment>
+    <segment id="14">O ATP tem função energética para a célula</segment>
+    <segment id="15">, masmas em contextos de estresse ou dano tecidual é liberado no meio exterior</segment>
+    <segment id="16">, atuando</segment>
+    <segment id="17">comocomo um sinal de perigo para as células de defesa e</segment>
+    <segment id="18">, em alguns casos</segment>
+    <segment id="19">, induzindo uma resposta excessiva.</segment>
+    <segment id="20">Idoso recebe medicamentos para tratar tuberculose</segment>
+    <segment id="21">, na Rocinha</segment>
+    <segment id="22">, na zona sul do Rio de Janeiro - Raquel Cunha/FolhapressO P2RX7 induz o acúmulo excessivo dos linfócitos</segment>
+    <segment id="23">, aumentando a expressão de CXCR3</segment>
+    <segment id="24">, um receptor de quimiocinas (proteínas que atuam</segment>
+    <segment id="25">comocomo sinais químicos no sistema imunológico atraindo células específicas para áreas onde são necessárias).</segment>
+    <segment id="26">Segundo o estudo</segment>
+    <segment id="27">, o acúmulo de T CD4+ no pulmão induzido pela ativação do P2RX7 está ligado ao agravamento da patologia e à redução da sobrevida dos animais.</segment>
+    <segment id="28">"</segment>
+    <segment id="29">Quando esse ATP está no meio extracelular</segment>
+    <segment id="30">, ele é reconhecido</segment>
+    <segment id="31">comocomo um sinal de dano pelo sistema imune</segment>
+    <segment id="32">, já que a molécula que deveria estar dentro da célula saiu.</segment>
+    <segment id="33">Estudos vinham mostrando a importância dele para o desenvolvimento de formas graves da tuberculose</segment>
+    <segment id="34">, masmas ainda não</segment>
+    <segment id="35">sese sabia quais eram os mecanismos e especificamente qual célula mais expressava.</segment>
+    <segment id="36">Partimos daí para a pesquisa</segment>
+    <segment id="37">, porém</segment>
+    <segment id="38">porém, sempre tivemos a intenção de melhorar a resposta dessa célula.</segment>
+    <segment id="39">O que não esperávamos era que</segment>
+    <segment id="40">, sese tirássemos o receptor bloqueando o reconhecimento do ATP</segment>
+    <segment id="41">, haveria uma melhora e não piora"</segment>
+    <segment id="42">, conta à Agência FAPESP o doutor em imunologia Igor Santiago-Carvalho</segment>
+    <segment id="43">, do Instituto de Ciências Biomédicas da Universidade de São Paulo (ICB-USP).</segment>
+    <segment id="44">Primeiro autor do artigo</segment>
+    <segment id="45">, Santiago-Carvalho trabalhou sob a orientação da professora Maria Regina D'Império Lima</segment>
+    <segment id="46">, que vem pesquisando imunologia celular</segment>
+    <segment id="47">, principalmente em malária</segment>
+    <segment id="48">, doença de Chagas e tuberculose</segment>
+    <segment id="49">, há mais de 20 anos.</segment>
+    <segment id="50">"</segment>
+    <segment id="51">Quanto mais conseguirmos compreender quais são os principais ‘jogadores’ no balanço entre uma resposta imune deficitária</segment>
+    <segment id="52">, uma ótima e uma excessiva</segment>
+    <segment id="53">, maior será a chance de manipular essa resposta por meio de drogas e tratamentos visando um melhor controle e desfecho da doença"</segment>
+    <segment id="54">, afirma Lima.  Cuide-seCiência</segment>
+    <segment id="55">, hábitos e prevenção numa newsletter para a sua saúde e bem-estarCarregando...</segment>
+    <segment id="56">De acordo com a professora</segment>
+    <segment id="57">, os linfócitos T são players importantes nesse processo pela capacidade de estimular e regular a resposta imune.</segment>
+    <segment id="58">"</segment>
+    <segment id="59">Por isso</segment>
+    <segment id="60">, buscamos entender quais são as vias de sinalização que influenciam esse balanço.</segment>
+    <segment id="61">Percebemos durante o projeto que</segment>
+    <segment id="62">, quando o tecido está muito danificado</segment>
+    <segment id="63">, acaba liberando uma grande quantidade de sinais de dano.</segment>
+    <segment id="64">Nos preocupamos particularmente com o ATP e vimos</segment>
+    <segment id="65">que a quantidade de linfócitos T que entra no tecido ao detectar essa molécula foi excessiva</segment>
+    <segment id="66">, induzindo uma resposta inflamatória intensa e lesiva.</segment>
+    <segment id="67">Em alguns casos</segment>
+    <segment id="68">, chega a levar a um processo fibrótico no pulmão.</segment>
+    <segment id="69">Interferir nessa via de sinalização pode ser interessante para reduzir os danos causados pela resposta imune excessiva contra a infecção"</segment>
+    <segment id="70">, completa.</segment>
+    <segment id="71">O trabalho recebeu apoio da FAPESP por meio de um Projeto Temático concedido a Lima</segment>
+    <segment id="72">, além de uma Bolsa de Doutorado Direto para Santiago-Carvalho.</segment>
+    <segment id="73">Gravidade</segment>
+    <segment id="74">A tuberculose ainda é considerada um importante problema de saúde pública</segment>
+    <segment id="75">, agravada recentemente pelo aparecimento de bactérias resistentes a antibióticos.</segment>
+    <segment id="76">Infecciosa e transmissível</segment>
+    <segment id="77">, a doença afeta prioritariamente os pulmões.</segment>
+    <segment id="78">Os sintomas mais comuns são tosse seca contínua</segment>
+    <segment id="79">, que depois de quatro semanas pode ter secreção</segment>
+    <segment id="80">; cansaço excessivo</segment>
+    <segment id="81">;</segment>
+    <segment id="82">febre baixa</segment>
+    <segment id="83">;</segment>
+    <segment id="84">sudorese noturna</segment>
+    <segment id="85">; falta de apetite</segment>
+    <segment id="86">; e emagrecimento acentuado.</segment>
+    <segment id="87">O atraso no início do tratamento</segment>
+    <segment id="88">, a alta virulência das cepas e a suscetibilidade do paciente contribuem para a severidade do</segment>
+    <segment id="89">casocaso</segment>
+    <segment id="90">, frequentemente associada a uma resposta inflamatória deletéria</segment>
+    <segment id="91">, conduzindo à dificuldade de respiração e até necrose pulmonar.</segment>
+    <segment id="92">O tratamento é feito à base de antibióticos durante seis meses</segment>
+    <segment id="93">, não podendo haver abandono nem irregularidade.</segment>
+    <segment id="94">No mundo</segment>
+    <segment id="95">, os novos casos diagnosticados de tuberculose foram recorde em 2022</segment>
+    <segment id="96">, com 7</segment>
+    <segment id="97">,5 milhões de registros</segment>
+    <segment id="98">, o que representa o maior número desde que a Organização Mundial da Saúde (OMS) iniciou o monitoramento global em 1995.</segment>
+    <segment id="99">O crescimento foi atribuído à ampliação dos serviços de diagnóstico e tratamento.</segment>
+    <segment id="100">Casos de tuberculose aumentam no mundo durante a pandemia de Covid-19Mais    novamente         de   de  de  representando um  Futuro</segment>
+    <segment id="101">Inicialmente projetado para trabalhar com tuberculose</segment>
+    <segment id="102">, o estudo também testou o papel do P2RX7 específico para T CD4+ em camundongos infectados com influenza.</segment>
+    <segment id="103">O resultado foi semelhante.</segment>
+    <segment id="104">"</segment>
+    <segment id="105">Isso direcionou bastante o que estou fazendo ao continuar estudando</segment>
+    <segment id="106">comocomo sinais de dano controlam as respostas imunes.</segment>
+    <segment id="107">No artigo</segment>
+    <segment id="108">, chegamos à conclusão de que as células</segment>
+    <segment id="109">T CD4+ podem ser patogênicas.</segment>
+    <segment id="110">Agora queremos entender o que leva ao aumento dessa patogenia para</segment>
+    <segment id="111">, assim</segment>
+    <segment id="112">, defini-la e mostrar os mecanismos por trás disso</segment>
+    <segment id="113">, podendo aplicá-los para outras doenças.</segment>
+    <segment id="114">Entendendo as características dessa célula que acabam induzindo uma resposta tão forte a ponto de danificar o tecido é possível buscar alternativas terapêuticas"</segment>
+    <segment id="115">, explica Santiago-Carvalho.</segment>
+    <segment id="116">Atualmente</segment>
+    <segment id="117">, ele está no Departamento de Imunologia da Mayo Clinic (Estados Unidos)</segment>
+    <segment id="118">, trabalhando no laboratório do pesquisador Henrique Borges da Silva</segment>
+    <segment id="119">, coautor do estudo.</segment>
+    <segment id="120">O artigo T cell-specific P2RX7 favors lung parenchymal</segment>
+    <segment id="121">CD4+</segment>
+    <segment id="122">T cell accumulation in response</segment>
+    <segment id="123">to severe lung infections</segment>
+    <segment id="124">pode ser lido aqui.</segment>
+  </rst>
+</analysis>

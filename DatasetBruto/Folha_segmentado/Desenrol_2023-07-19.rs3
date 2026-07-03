@@ -1,0 +1,114 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O programa Desenrola Brasil lançado nesta semana pelo governo federal deve favorecer um aumento na concessão dos empréstimos pelos bancos</segment>
+    <segment id="2">, e, ao mesmo tempo</segment>
+    <segment id="3">, reduzir o nível de inadimplência nas carteiras.</segment>
+    <segment id="4">Os analistas da XP dizem que veem com bons olhos o Desenrola.</segment>
+    <segment id="5">Na faixa 1</segment>
+    <segment id="6">, que deve ser lançada em setembro e que vai englobar dívidas bancárias e não bancárias</segment>
+    <segment id="7">, o benefício é o fato de os valores renegociados contarem com a garantia do FGO (Fundo Garantidor de Operações).</segment>
+    <segment id="8">Já para a faixa 2</segment>
+    <segment id="9">, o diferencial será a possibilidade de constituição de crédito tributário no mesmo montante das renegociações.</segment>
+    <segment id="10">"</segment>
+    <segment id="11">Os créditos tributários usualmente são redutores do patrimônio de referência.</segment>
+    <segment id="12">No entanto</segment>
+    <segment id="13">, de forma a incentivar o Desenrola</segment>
+    <segment id="14">, o governo conseguiu que os créditos tributários oriundos do programa não sejam redutores do patrimônio</segment>
+    <segment id="15">, liberando capital dos bancos"</segment>
+    <segment id="16">, assinalam os analistas da XP em relatório.</segment>
+    <segment id="17">Agências dos bancos Itaú</segment>
+    <segment id="18">, Bradesco</segment>
+    <segment id="19">, Santander e Banco do Brasil   - Eduardo Anizelli</segment>
+    <segment id="20">, Rubens Cavallari/ Folhapress - Fernando Bizerra/Agência SenadoAnalista de risco de instituições financeiras da Austin Rating</segment>
+    <segment id="21">, Luis Miguel Santacreu explica que</segment>
+    <segment id="22">, quando um cliente deixa de pagar uma obrigação e</segment>
+    <segment id="23">sese torna inadimplente</segment>
+    <segment id="24">, os bancos são obrigados a fazer uma provisão que não é automaticamente dedutível do IR (Imposto de Renda).  "</segment>
+    <segment id="25">Os bancos pagam imposto sobre essa provisão e</segment>
+    <segment id="26">, somente depois que comprovarem que não conseguiram recuperar o crédito</segment>
+    <segment id="27">, o valor da provisão</segment>
+    <segment id="28">, que é considerado um crédito tributário</segment>
+    <segment id="29">, é abatido da base do cálculo do imposto"</segment>
+    <segment id="30">, processo que demora alguns trimestres até ser concluído</segment>
+    <segment id="31">, diz Santacreu.</segment>
+    <segment id="32">A provisão</segment>
+    <segment id="33">, portanto</segment>
+    <segment id="34">, tem um peso negativo em termos de alocação eficiente de capital</segment>
+    <segment id="35">, acrescenta o analista.</segment>
+    <segment id="36">Pelos moldes do Desenrola</segment>
+    <segment id="37">, os valores renegociados na faixa 2 serão liberados imediatamente para serem abatidos do imposto</segment>
+    <segment id="38">, o que vai</segment>
+    <segment id="39">sese refletir em um aumento da capacidade de realizar novos empréstimos pela instituição financeira</segment>
+    <segment id="40">, afirma Santacreu.</segment>
+    <segment id="41">Sócio e gerente educacional da Órama Investimentos</segment>
+    <segment id="42">, Gilvan Bueno acrescenta que o programa traz um ganho de eficiência operacional para os bancos.</segment>
+    <segment id="43">A provisão para devedores duvidosos (PDD) tende a ser reduzida</segment>
+    <segment id="44">, dando fôlego para as instituições abrirem novas linhas de crédito em um momento no qual a taxa de juros ainda encontra-</segment>
+    <segment id="45">sese em patamar elevado.  "</segment>
+    <segment id="46">Os bancos vão acabar tendo espaço para emprestar dinheiro a uma Selic ainda alta para uma população menos endividada"</segment>
+    <segment id="47">, diz Bueno.</segment>
+    <segment id="48">Pelos cálculos do Bofa (Bank of America)</segment>
+    <segment id="49">, o programa deve</segment>
+    <segment id="50">"melhorar significativamente a inadimplência dos bancos.</segment>
+    <segment id="51">"</segment>
+    <segment id="52">De acordo com as estimativas do BofA</segment>
+    <segment id="53">, sese os bancos renegociarem R$ 50 bilhões no âmbito do Desenrola</segment>
+    <segment id="54">, a inadimplência combinada dos cinco maiores bancos diminuirá de 3</segment>
+    <segment id="55">,2% para 1</segment>
+    <segment id="56">,6%.  "</segment>
+    <segment id="57">As principais dívidas que devem fazer parte do programa são linhas de crédito pessoal e de cartão de crédito</segment>
+    <segment id="58">, que apresentaram uma taxa de inadimplência muito elevada pós-pandemia"</segment>
+    <segment id="59">, diz Guilherme Machado</segment>
+    <segment id="60">, analista de instituições financeiras da agência de classificação de risco Standard &amp;amp</segment>
+    <segment id="61">; Poor´s.</segment>
+    <segment id="62">Ele acrescenta que a escolha em renegociar os créditos em atraso será uma decisão financeira na qual as entidades devem decidir</segment>
+    <segment id="63">sese o valor renegociado no programa será maior do que a expectativa de recuperação tradicional de uma carteira inadimplente.</segment>
+    <segment id="64">Analista da Senso Investimentos</segment>
+    <segment id="65">, João Augusto Frota afirma que as dívidas consideradas no Desenrola são aquelas que a chance de serem quitadas já eram muito baixas.</segment>
+    <segment id="66">Nesse sentido</segment>
+    <segment id="67">, é mais interessante ter algum valor renegociado que poderá ser abatido do IR de imediato do que seguir na tentativa de fazer a recuperação ou mesmo reconhecer a dívida</segment>
+    <segment id="68">comocomo prejuízo</segment>
+    <segment id="69">, diz Frota.</segment>
+    <segment id="70">"É melhor um pássaro na mão do que dois voando.</segment>
+    <segment id="71">"</segment>
+    <segment id="72">O analista da Senso assinala ainda que</segment>
+    <segment id="73">, no caso</segment>
+    <segment id="74">caso daquelas instituições financeiras que derem um desconto relevante para as pessoas que estão negativadas</segment>
+    <segment id="75">, o Tesouro Nacional vai assumir a inadimplência dessa nova dívida renegociada.</segment>
+    <segment id="76">"</segment>
+    <segment id="77">Os próprios bancos vão poder decidir em quais carteiras e com quais clientes querem fazer isso.</segment>
+    <segment id="78">Nesse sentido</segment>
+    <segment id="79">, não enxergo risco elevado na operação.</segment>
+    <segment id="80">Todo mundo sai ganhando</segment>
+    <segment id="81">, os bancos e os inadimplentes.</segment>
+    <segment id="82">Quem paga a conta é o Tesouro.</segment>
+    <segment id="83">"</segment>
+    <segment id="84">Frota afirma que as varejistas que trabalham diretamente com a parte da população de renda mais baixa devem ser as mais beneficiadas</segment>
+    <segment id="85">, como</segment>
+    <segment id="86">como Carrefour</segment>
+    <segment id="87">, GPA, Lojas Renner</segment>
+    <segment id="88">, Magazine Luiza e Via.</segment>
+  </rst>
+</analysis>

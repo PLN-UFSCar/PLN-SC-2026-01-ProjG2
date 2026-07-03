@@ -1,0 +1,60 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Chikungunya jÃ¡ estÃ¡ na capital</segment>
+    <segment id="2">Dois homens vÃ£o visitar familiares em Feira e voltam com a febre</segment>
+    <segment id="3">Dois casos da febre chikungunya foram confirmados em Salvador</segment>
+    <segment id="4">, ontem</segment>
+    <segment id="5">, por meio de exames laboratoriais</segment>
+    <segment id="6">, segundo a Secretaria Municipal de SaÃºde (SMS).</segment>
+    <segment id="7">Os dois homens</segment>
+    <segment id="8">, um de 35 e outro de 36 anos</segment>
+    <segment id="9">, moram na Barra</segment>
+    <segment id="10">, masmas foram infectados em Feira de Santana</segment>
+    <segment id="11">, apÃ³s visitarem familiares que residem no bairro George AmÃ©rico bairro mais infestado e onde surgiram os primeiros casos da doenÃ§a.</segment>
+    <segment id="12">Os pacientes estÃ£o sendo monitorados pela SMS</segment>
+    <segment id="13">, apesar de passarem bem e nÃ£o terem sofrido consequÃªncias graves da infecÃ§Ã£o.</segment>
+    <segment id="14">AtÃ© o momento</segment>
+    <segment id="15">, 23 casos foram notificados na capital baiana</segment>
+    <segment id="16">, de acordo com a SMS.</segment>
+    <segment id="17">Desses</segment>
+    <segment id="18">, sete foram descartados apÃ³s exames laboratoriais</segment>
+    <segment id="19">, dois confirmados e outros 14 estÃ£o sob anÃ¡lise.</segment>
+    <segment id="20">Para combater a proliferaÃ§Ã£o da doenÃ§a</segment>
+    <segment id="21">, as atividades de combate aos mosquitos Aedes aegypti e Aedes albopictus ambos vetores de transmissÃ£o da chikungunya e da dengue estÃ£o sendo intensificadas</segment>
+    <segment id="22">, conforme informaÃ§Ãµes do Centro de Controle de Zoonoses (CCZ).</segment>
+    <segment id="23">Bahia toda infestada</segment>
+    <segment id="24">Em toda a Bahia</segment>
+    <segment id="25">, 163 casos de chinkungunya jÃ¡ foram confirmados</segment>
+    <segment id="26">, de acordo com o Ãºltimo boletim da Secretaria de SaÃºde do Estado (Sesab).</segment>
+    <segment id="27">Desses</segment>
+    <segment id="28">, 156 ocorreram em Feira de Santana e sete em RiachÃ£o do JacuÃ­pe.</segment>
+    <segment id="29">Ao todo</segment>
+    <segment id="30">, 769 suspeitas da doenÃ§a foram registradas em 22 municÃ­pios do Estado.</segment>
+    <segment id="31">Desses</segment>
+    <segment id="32">, 163 foram confirmados</segment>
+    <segment id="33">, 21 foram descartados e 585 continuam sob investigaÃ§Ã£o.</segment>
+    <segment id="34">A doenÃ§a atinge com maior intensidade adultos com idade entre 35 a 49 anos.</segment>
+  </rst>
+</analysis>

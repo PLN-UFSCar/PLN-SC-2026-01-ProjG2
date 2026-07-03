@@ -1,0 +1,171 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Governos de ao menos dez países usaram o programa Pegasus para espionar celulares de jornalistas e opositores</segment>
+    <segment id="2">, revelou uma investigação feita por vários veículos de imprensa internacionais.</segment>
+    <segment id="3">Criado por uma empresa israelense</segment>
+    <segment id="4">, o Pegasus é considerado uma das armas de espionagem digital mais modernas já feitas</segment>
+    <segment id="5">, segundo a OCCRP (Projeto de Reportagens sobre Crime Organizado e Corrupção</segment>
+    <segment id="6">, na sigla em inglês)</segment>
+    <segment id="7">, entidade que fez parte da investigação revelada no domingo (18).</segment>
+    <segment id="8">A seguir</segment>
+    <segment id="9">, um resumo do que</segment>
+    <segment id="10">sese sabe sobre o programa-espião e de</segment>
+    <segment id="11">comocomo evitar ataques de ferramentas assim.</segment>
+    <segment id="12">  O que é o Pegasus?</segment>
+    <segment id="13">Uma ferramenta de espionagem digital vendida pela empresa israelense NSO Group.</segment>
+    <segment id="14">Em vez de tentar interceptar dados em circulação na internet</segment>
+    <segment id="15">, ela se</segment>
+    <segment id="16">se instala dentro dos celulares-alvo e passa a ter acesso a todas as informações dentro dos aparelhos.</segment>
+    <segment id="17">A empresa diz que fornece a tecnologia apenas para governos</segment>
+    <segment id="18">, para fins</segment>
+    <segment id="19">comocomo investigar terroristas</segment>
+    <segment id="20">, pedófilos e criminosos em geral</segment>
+    <segment id="21">, masmas não revela seus clientes.</segment>
+    <segment id="22">Todas as vendas precisam ser aprovadas pelo Ministério da Defesa de Israel.</segment>
+    <segment id="23">Sua existência</segment>
+    <segment id="24">sese tornou pública em 2018.</segment>
+    <segment id="25">Fachada da empresa NSO</segment>
+    <segment id="26">, criadora do Pegasus</segment>
+    <segment id="27">, em Herzliya</segment>
+    <segment id="28">, Israel - Jack Guez - 28.ago.16/AFPO que ele faz?</segment>
+    <segment id="29">Monitora praticamente todas as informações nos celulares</segment>
+    <segment id="30">, como</segment>
+    <segment id="31">como troca de mensagens</segment>
+    <segment id="32">, acesso a emails e conversas por telefone.</segment>
+    <segment id="33">Também pode acionar câmera</segment>
+    <segment id="34">, microfone e sensor GPS do celular para captar informações</segment>
+    <segment id="35">, sem que o usuário note.</segment>
+    <segment id="36">Por estar dentro dos aparelhos</segment>
+    <segment id="37">, consegue desviar de barreiras</segment>
+    <segment id="38">comocomo a criptografia ponta-a-ponta</segment>
+    <segment id="39">, na qual apenas o autor e o receptor de uma mensagem conseguem ter acesso a ela.</segment>
+    <segment id="40">Como ocorre a invasão?</segment>
+    <segment id="41">Há várias formas.</segment>
+    <segment id="42">Inicialmente</segment>
+    <segment id="43">, era mais comum a infecção por meio de envio de links.</segment>
+    <segment id="44">O dono do aparelho recebia mensagens com promoções que poderiam interessá-lo</segment>
+    <segment id="45">, como</segment>
+    <segment id="46">como um desconto em produtos conhecidos.</segment>
+    <segment id="47">Ao clicar</segment>
+    <segment id="48">, era levado a uma página falsa</segment>
+    <segment id="49">, que acionava o download e a instalação do programa-espião</segment>
+    <segment id="50">, sem que o usuário notasse.</segment>
+    <segment id="51">Há muitas táticas para convencer a vítima a clicar no link</segment>
+    <segment id="52">, como</segment>
+    <segment id="53">como enviar uma série de mensagens de spam irritantes.</segment>
+    <segment id="54">Quando a pessoa clica na opção "parar de receber esta mensagem"</segment>
+    <segment id="55">, cai no link infectado.</segment>
+    <segment id="56">Nos últimos dois anos</segment>
+    <segment id="57">, tornou-</segment>
+    <segment id="58">sese mais comum o modelo "zero link"</segment>
+    <segment id="59">, no qual a infiltração acontece sem que o usuário precise fazer nada.</segment>
+    <segment id="60">O programa-espião busca brechas de segurança em apps ou sites do dia a dia e</segment>
+    <segment id="61">sese infiltra por elas.</segment>
+    <segment id="62">Por padrão</segment>
+    <segment id="63">, os aplicativos no celular têm permissão para acessar a internet.</segment>
+    <segment id="64">Se a segurança do app não for configurada pelos desenvolvedores de modo adequado</segment>
+    <segment id="65">, um hacker pode conseguir</segment>
+    <segment id="66">sese infiltrar e enviar o programa-espião por um app qualquer</segment>
+    <segment id="67">, como</segment>
+    <segment id="68">como de mensagens</segment>
+    <segment id="69">, música</segment>
+    <segment id="70">, notícias</segment>
+    <segment id="71">, exercícios etc.</segment>
+    <segment id="72">Ao entrar no celular</segment>
+    <segment id="73">, o Pegasus</segment>
+    <segment id="74">sese instala e começa a espionar em poucos segundos.</segment>
+    <segment id="75">Há também a tática</segment>
+    <segment id="76">"injeção de rede"</segment>
+    <segment id="77">, que faz uma interceptação momentânea na conexão entre o celular-alvo e um site conhecido.</segment>
+    <segment id="78">O ataque dura milissegundos e consegue fazer a infiltração antes que o site ou o dispositivo do usuário notem a falha.</segment>
+    <segment id="79">No entanto</segment>
+    <segment id="80">, essa opção é mais complexa</segment>
+    <segment id="81">, pois</segment>
+    <segment id="82">pois depende de um monitoramento de</segment>
+    <segment id="83">comocomo o usuário-alvo utiliza a internet</segment>
+    <segment id="84">, para saber em qual app ou site colocar a armadilha e a hora exata para acioná-la.</segment>
+    <segment id="85">Assim, é preciso também ter acesso a dados de conexão</segment>
+    <segment id="86">, armazenados por empresas de telefonia.</segment>
+    <segment id="87">Lá ForaReceba toda quinta um resumo das principais notícias internacionais no seu emailAssine a newsletter aquiEste tipo de espionagem pode ser usado no Brasil?</segment>
+    <segment id="88">Por lei</segment>
+    <segment id="89">, não.</segment>
+    <segment id="90">"</segment>
+    <segment id="91">O sigilo das comunicações é uma garantia constitucional"</segment>
+    <segment id="92">, diz Francisco Brito Cruz</segment>
+    <segment id="93">, diretor do Internetlab</segment>
+    <segment id="94">, centro de pesquisa sobre tecnologia.</segment>
+    <segment id="95">Governos e investigadores só podem quebrá-lo mediante autorização judicial</segment>
+    <segment id="96">, e para fins específicos:</segment>
+    <segment id="97">pode-se</segment>
+    <segment id="98">se solicitar apenas a apreensão do aparelho ou a quebra do sigilo telemático (que inclui ligações</segment>
+    <segment id="99">, mensagens de texto e email).</segment>
+    <segment id="100">Isso não inclui invadir e monitorar o aparelho em tempo real.</segment>
+    <segment id="101">Há formas de identificar</segment>
+    <segment id="102">sese meu aparelho foi invadido?</segment>
+    <segment id="103">"</segment>
+    <segment id="104">No caso</segment>
+    <segment id="105">caso de ferramentas sofisticadas</segment>
+    <segment id="106">comocomo o Pegasus</segment>
+    <segment id="107">, é quase impossível para um usuário leigo perceber que houve uma invasão"</segment>
+    <segment id="108">, diz Brito.</segment>
+    <segment id="109">Para checar isso</segment>
+    <segment id="110">, especialistas buscam no aparelho por links usados em ataques anteriores</segment>
+    <segment id="111">, ou conexões do aparelho com servidores que tenham relação com a NSO.</segment>
+    <segment id="112">Mesmo assim</segment>
+    <segment id="113">, muitas vezes não há rastros.</segment>
+    <segment id="114">Como ativar a confirmação de duas etapas no WhatsApp e aumentar a segurançaMais    novamente         de   de  de  representando um  O que fazer para</segment>
+    <segment id="115">sese proteger?</segment>
+    <segment id="116">A principal forma é manter em dia as atualizações de apps e do sistema operacional (iOS</segment>
+    <segment id="117">, Android etc)</segment>
+    <segment id="118">, pois</segment>
+    <segment id="119">pois elas trazem conserto para brechas de segurança.</segment>
+    <segment id="120">Trata-</segment>
+    <segment id="121">sese de um embate constante</segment>
+    <segment id="122">, na qual as empresas de TI buscam corrigir falhas enquanto os hackers caçam novos pontos fracos.</segment>
+    <segment id="123">Assim, quanto mais desatualizado o aparelho</segment>
+    <segment id="124">, maior o risco de invasão.</segment>
+    <segment id="125">Outra recomendação é não clicar em páginas em que o navegador (</segment>
+    <segment id="126">comocomo Chrome ou Firefox) alerta que há falhas de segurança</segment>
+    <segment id="127">, como</segment>
+    <segment id="128">como "certificado expirado".</segment>
+    <segment id="129">Esses avisos indicam que a conexão entre você e o site desejado pode ter sido violada</segment>
+    <segment id="130">, abrindo caminho para invasões.</segment>
+    <segment id="131">Quanto custa usar uma ferramenta de invasão?</segment>
+    <segment id="132">Invadir cerca de dez telefones</segment>
+    <segment id="133">, usando uma versão anterior ao Pegasus</segment>
+    <segment id="134">, custava em torno de US$ 650 mil</segment>
+    <segment id="135">, mais US$ 500 mil de taxa de instalação</segment>
+    <segment id="136">, segundo reportagem do New York Times</segment>
+    <segment id="137">, de 2016.</segment>
+    <segment id="138">Especialistas apontam que</segment>
+    <segment id="139">, por conta do alto custo</segment>
+    <segment id="140">, programas assim não são usados de forma massiva</segment>
+    <segment id="141">, masmas sim de modo direcionado a alvos específicos</segment>
+    <segment id="142">, como</segment>
+    <segment id="143">como opositores políticos</segment>
+    <segment id="144">, ativistas</segment>
+    <segment id="145">, empresários e jornalistas.</segment>
+  </rst>
+</analysis>

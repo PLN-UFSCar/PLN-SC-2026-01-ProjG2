@@ -1,0 +1,94 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O ministro Ricardo Lewandowski (Justiça e Segurança Pública) desembarcou na manhã deste domingo (18) em Mossoró (RN)</segment>
+    <segment id="2">, onde vai acompanhar as buscas pelos fugitivos da penitenciária federal da cidade.</segment>
+    <segment id="3">É o quinto dia de tentativa de captura dos dois detentos</segment>
+    <segment id="4">, que já chegaram a invadir uma casa e fazer um casal</segment>
+    <segment id="5">comocomo refém.</segment>
+    <segment id="6">Em rápido pronunciamento logo após o desembarque</segment>
+    <segment id="7">, o ministro disse que a fuga é uma "dificuldade momentânea" e que irá ser superada em breve.  "</segment>
+    <segment id="8">A minha presença aqui é</segment>
+    <segment id="9">, antes de mais nada</segment>
+    <segment id="10">, [para] mostrar que o governo federal está presente"</segment>
+    <segment id="11">, disse Lewandowski.</segment>
+    <segment id="12">Segundo ele</segment>
+    <segment id="13">, o problema na penitenciária de Mossoró não afeta a segurança das cinco penitenciárias federais do país.</segment>
+    <segment id="14">O ministro</segment>
+    <segment id="15">, que passa por sua primeira grande crise menos de um mês após ter assumido o ministério</segment>
+    <segment id="16">, foi ao Rio Grande do Norte acompanhado do diretor-geral em exercício da Polícia Federal</segment>
+    <segment id="17">, Gustavo Souza.</segment>
+    <segment id="18">Ele foi recebido no aeroporto pela governadora Fátima Bezerra (PT).</segment>
+    <segment id="19">O ministro não deu entrevistas no aeroporto e seguiu direto para a delegacia da Polícia Federal na Cidade.</segment>
+    <segment id="20">Em Mossoró</segment>
+    <segment id="21">, o ministro deve</segment>
+    <segment id="22">sese reunir com os chefes das equipes de buscas na delegacia da Polícia Federal na cidade.</segment>
+    <segment id="23">Há previsão de uma entrevista à imprensa no final da tarde.</segment>
+    <segment id="24">Segundo o Ministério da Justiça</segment>
+    <segment id="25">, há 300 agentes mobilizados na recaptura dos detentos</segment>
+    <segment id="26">, entre eles policiais federais</segment>
+    <segment id="27">, policiais rodoviários federais e policiais estaduais.</segment>
+    <segment id="28">O ministro da Justiça</segment>
+    <segment id="29">, Ricardo Lewandowski - Pedro Ladeira - 15.fev.2024/FolhapressNa última quinta-feira (15)</segment>
+    <segment id="30">, o ministro teve que convocar uma entrevista coletiva para apresentar esclarecimentos a respeito da fuga.</segment>
+    <segment id="31">Na ocasião</segment>
+    <segment id="32">, elencou falhas do presídio e anunciou medidas mais rígidas de controle das unidades prisionais.</segment>
+    <segment id="33">A fuga</segment>
+    <segment id="34">, fato inédito em presídios federais</segment>
+    <segment id="35">, ocorreu na passagem de terça (13) para quarta-feira (14).</segment>
+    <segment id="36">Os agentes da penitenciária só detectaram a ausência dos presos na manhã de quarta</segment>
+    <segment id="37">, quando as buscas começaram.</segment>
+    <segment id="38">Os fugitivos foram identificados</segment>
+    <segment id="39">comocomo Rogério da Silva Mendonça</segment>
+    <segment id="40">, 36, conhecido</segment>
+    <segment id="41">comocomo Tatu</segment>
+    <segment id="42">, e Deibson Cabral Nascimento</segment>
+    <segment id="43">, 34, chamado de Deisinho.</segment>
+    <segment id="44">Segundo as investigações</segment>
+    <segment id="45">, eles são ligados ao Comando Vermelho.</segment>
+    <segment id="46">Na noite desta sexta-feira (16)</segment>
+    <segment id="47">, os dois detentos fizeram uma família refém em Mossoró e levaram dois celulares e carregadores.</segment>
+    <segment id="48">Na casa dos reféns</segment>
+    <segment id="49">, eles</segment>
+    <segment id="50">sese alimentaram e fugiram novamente cerca de quatro horas depois com mantimentos.</segment>
+    <segment id="51">O juiz federal Walter Nunes</segment>
+    <segment id="52">, corregedor do Penitenciária Federal de Mossoró</segment>
+    <segment id="53">, disse à Folha que "sem dúvidas" esse foi o episódio mais grave da história dos presídios de segurança máxima do país.</segment>
+    <segment id="54">A fuga provocou medo na população local.</segment>
+    <segment id="55">Moradores da comunidade Riacho Grande</segment>
+    <segment id="56">, zona rural de Mossoró (RN)</segment>
+    <segment id="57">, relatam temor com a possibilidade de terem as casas invadidas.</segment>
+    <segment id="58">A Folha esteve na localidade na tarde deste sábado (17).</segment>
+    <segment id="59">Apesar do aparente clima de calmaria —com moradores sentados em cadeiras do lado de fora das casas</segment>
+    <segment id="60">, com as portas abertas—</segment>
+    <segment id="61">, alguns relatam medo ao fim do dia.</segment>
+    <segment id="62">Com a chegada da noite</segment>
+    <segment id="63">, o clima muda</segment>
+    <segment id="64">, pois</segment>
+    <segment id="65">pois cresce</segment>
+    <segment id="66">, na avaliação deles</segment>
+    <segment id="67">, a possibilidade de os criminosos</segment>
+    <segment id="68">sese deslocarem em busca de alimentos e objetos que possam ajudar na fuga.</segment>
+  </rst>
+</analysis>

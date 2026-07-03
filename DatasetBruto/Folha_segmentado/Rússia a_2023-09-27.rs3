@@ -1,0 +1,112 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Kremlin acusou os Estados Unidos e o Reino Unido de terem organizado um dos incidentes mais misteriosos na Europa desde que Vladimir Putin invadiu a Ucrânia</segment>
+    <segment id="2">, em fevereiro de 2022: o atentado que fechou o sistema de gasodutos Nord Stream</segment>
+    <segment id="3">, que ligava a Rússia à Alemanha</segment>
+    <segment id="4">, ocorrido há exato um ano.</segment>
+    <segment id="5">Respondendo a repórteres nesta quarta (27) sobre o tema</segment>
+    <segment id="6">, o porta-voz Dmitri Peskov disse:</segment>
+    <segment id="7">"</segment>
+    <segment id="8">Eles [EUA e Reino Unido] estão envolvidos</segment>
+    <segment id="9">, de uma forma ou de outra</segment>
+    <segment id="10">, neste ataque terrorista".</segment>
+    <segment id="11">Horas antes</segment>
+    <segment id="12">, a representação russa na ONU havia dito que Alemanha</segment>
+    <segment id="13">, Dinamarca e Suécia protegiam os americanos em suas investigações sobre o incidente.</segment>
+    <segment id="14">Vazamento de gás do Nord Stream visto de um F-16 dinamarquês perto da costa do país nórdico - Comando de Defesa Dinamarquês - 27.set.22/Reuters</segment>
+    <segment id="15">Esta foi a acusação mais direta feita pelo governo Putin sobre o</segment>
+    <segment id="16">casocaso.</segment>
+    <segment id="17">Antes, o presidente e diversas autoridades haviam sugerido que os ataques eram obra de americanos ou outros aliados ocidentais do governo de Kiev</segment>
+    <segment id="18">, apoiado pela Otan (aliança militar liderada pelos EUA).</segment>
+    <segment id="19">Peskov não apresentou nenhuma prova.</segment>
+    <segment id="20">Anteriormente</segment>
+    <segment id="21">, o governo russo havia apoiado as conclusões de um controverso artigo do jornalista americano Seymour Hersh na plataforma online Substack</segment>
+    <segment id="22">, que colocava a culpa nos EUA.</segment>
+    <segment id="23">Apesar da fama pregressa</segment>
+    <segment id="24">comocomo repórter investigativo</segment>
+    <segment id="25">, o texto</segment>
+    <segment id="26">sese baseava em uma única fonte anônima e continha inconsistências apontadas por colegas de profissão.</segment>
+    <segment id="27">A troca de acusações no</segment>
+    <segment id="28">casocaso começou no próprio dia em que ao menos quatro explosões subaquáticas destruíram três dos quatro ramais do sistema:</segment>
+    <segment id="29">dois do Nord Stream 1</segment>
+    <segment id="30">, que operava desde 2012 e era o símbolo da dependência europeia do gás natural russo</segment>
+    <segment id="31">, e outro do Nord Stream 2</segment>
+    <segment id="32">, que foi inaugurado no fim de 2021</segment>
+    <segment id="33">masmas nunca entrou em operação por pressões políticas na Alemanha.</segment>
+    <segment id="34">Ambos os projetos eram controlados pelo gigante russo Gazprom</segment>
+    <segment id="35">, com forte participação europeia.</segment>
+    <segment id="36">Até antes da guerra</segment>
+    <segment id="37">, pelo Nord Stream 1 passavam 60% do gás vendido pelos russos aos alemães.</segment>
+    <segment id="38">Ao longo de 2022</segment>
+    <segment id="39">, a dependência foi reduzida</segment>
+    <segment id="40">, masmas mesmo hoje cerca de 15% do produto consumido na União Europeia vem de Moscou</segment>
+    <segment id="41">, inclusive por gasodutos que passam pela Ucrânia conflagrada.</segment>
+    <segment id="42">Os governos europeus apontaram inicialmente o dedo para Moscou no</segment>
+    <segment id="43">casocaso</segment>
+    <segment id="44">, masmas vazamentos feitos à imprensa pelos investigadores alemães</segment>
+    <segment id="45">, suecos e dinamarqueses sugeriam a participação de um grupo de sabotadores ucranianos que</segment>
+    <segment id="46">, de forma conveniente para a narrativa aliada de Kiev</segment>
+    <segment id="47">, não responderiam ao governo de seu país.</segment>
+    <segment id="48">Eles teriam alugado um pequeno iate para a operação.</segment>
+    <segment id="49">Uma investigação de seis meses conduzida pela revista alemã Der Spiegel e pela rede de TV ZDF</segment>
+    <segment id="50">, publicada em agosto</segment>
+    <segment id="51">, apontou para o governo de Volodimir Zelenski.</segment>
+    <segment id="52">Mas dúvidas seguiram no ar</segment>
+    <segment id="53">, dado que as explosões confirmadas pela apuração sueca dificilmente teriam sido provocadas por um grupo pequeno.</segment>
+    <segment id="54">Os ataques foram sequenciais a uma profundidade de 80 metros no mar Báltico</segment>
+    <segment id="55">, algo que o Kremlin já havia dito só poder ter ocorrido com apoio de um "ator estatal" —eufemismo ora dispensado por Peskov.</segment>
+    <segment id="56">Do ponto de vista político</segment>
+    <segment id="57">, as investigações europeias também têm implicação.</segment>
+    <segment id="58">Se acusarem formalmente os russos de envolvimento</segment>
+    <segment id="59">, como</segment>
+    <segment id="60">como já foi ventilado mais de uma vez</segment>
+    <segment id="61">, o incidente poderia cair dentro da definição de ataque à Otan</segment>
+    <segment id="62">, já que uma infraestrutura crítica de um de seus membros foi destruída.</segment>
+    <segment id="63">Novo gasoduto liga Rússia à AlemanhaMais    novamente         de   de  de  representando um  E</segment>
+    <segment id="64">, pelas regras da aliança</segment>
+    <segment id="65">, sese um membro for atacado</segment>
+    <segment id="66">, todos têm de revidar.</segment>
+    <segment id="67">Nesse sentido</segment>
+    <segment id="68">, buscar culpados de difícil rastreio é mais útil para os governos do que começar a Terceira Guerra Mundial.</segment>
+    <segment id="69">Do ponto de vista russo</segment>
+    <segment id="70">, a argumentação de que inutilizar obras que custaram quase US$ 20 bilhões (cerca de R$ 100 bilhões) ao longo dos anos sempre foi o ponto central da defesa contra a acusação de terem cometido o ataque para acirrar a crise energética na Europa</segment>
+    <segment id="71">, visando a redução no apoio à Ucrânia.</segment>
+    <segment id="72">Sem evidências robustas de lado a lado</segment>
+    <segment id="73">, por ora o ataque de 27 de setembro de 2022 permanece</segment>
+    <segment id="74">comocomo um dos mistérios do conflito.</segment>
+    <segment id="75">E, mesmo que elas surjam</segment>
+    <segment id="76">, parece óbvio que serão rebaixadas à categoria de "fake news do inimigo"</segment>
+    <segment id="77">, seja lá quem for ele.</segment>
+    <segment id="78">Também nesta quarta</segment>
+    <segment id="79">, o Ministério das Relações Exteriores em Moscou voltou a acusar americanos e britânicos de apoiarem com informações de inteligência e consultoria militar o ataque com mísseis que danificou de forma extensiva a sede da Frota do Mar Negro</segment>
+    <segment id="80">, em Sebastopol (Crimeia)</segment>
+    <segment id="81">, na sexta passada (22).</segment>
+    <segment id="82">A Ucrânia havia dito que o ataque tinha matado o comandante da frota</segment>
+    <segment id="83">, Viktor Sokolov</segment>
+    <segment id="84">, masmas ele apareceu em uma videoconferência na terça (26) e</segment>
+    <segment id="85">, novamente</segment>
+    <segment id="86">, em uma entrevista ao canal das Forças Armadas russas nesta quarta.</segment>
+  </rst>
+</analysis>

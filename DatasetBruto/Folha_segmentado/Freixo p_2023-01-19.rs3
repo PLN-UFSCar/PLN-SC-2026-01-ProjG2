@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente da Embratur</segment>
+    <segment id="2">, Marcelo Freixo</segment>
+    <segment id="3">, abriu discussão com o ministro do Desenvolvimento Social</segment>
+    <segment id="4">, Wellington Dias</segment>
+    <segment id="5">, para criar um programa para pessoas pobres em regiões de grande fluxo turístico.</segment>
+    <segment id="6">Os dois</segment>
+    <segment id="7">, que se</segment>
+    <segment id="8">se encontraram nesta quinta-feira (19)</segment>
+    <segment id="9">, falam em cruzar informações</segment>
+    <segment id="10">comocomo os maiores destinos de turistas estrangeiros e as áreas com alta concentração de famílias em vulnerabilidade social.</segment>
+    <segment id="11">O presidente da Embratur</segment>
+    <segment id="12">, Marcelo Freixo</segment>
+    <segment id="13">, e o ministro do Desenvolvimento e Assistência Social</segment>
+    <segment id="14">, Wellington Dias</segment>
+    <segment id="15">, durante encontro nesta quinta-feira (19) - DivulgaçãoA proposta é estabelecer uma ação conjunta</segment>
+    <segment id="16">, com políticas públicas que auxiliem moradores a buscarem oportunidades a partir do turismo.</segment>
+    <segment id="17">A Embratur diz que vai mapear os locais de interesse e que o governo usará</segment>
+    <segment id="18">comocomo base o cadastro único de programas sociais.</segment>
+    <segment id="19">O trabalho em parceria com outros setores da Esplanada é uma das marcas que Freixo quer fixar em sua gestão na agência.</segment>
+  </rst>
+</analysis>

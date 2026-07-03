@@ -1,0 +1,207 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Os pesquisadores estão envolvidos em uma nova briga sobre comida.</segment>
+    <segment id="2">Nesta semana</segment>
+    <segment id="3">, a revista acadêmica Annals of Internal Medicine publicou um estudo que argumenta que a carne vermelha representa risco mínimo para a saúde da maioria das pessoas e que até mesmo nosso grau de certeza quanto a esse risco é baixo.</segment>
+    <segment id="4">Com essas conclusões em mãos</segment>
+    <segment id="5">, os autores oferecem recomendações</segment>
+    <segment id="6">para que</segment>
+    <segment id="7">para que a maioria das pessoas mantenha seu nível atual de consumo de carne.</segment>
+    <segment id="8">Ainda que eu não estivesse envolvido no estudo</segment>
+    <segment id="9">, fui coautor de um editorial publicado pela revista para resumir as conclusões</segment>
+    <segment id="10">, no qual argumentamos que nossas mensagens sobre os perigos da carne vermelha podem estar sendo ignoradas e sugerimos outras mensagens que poderiam funcionar melhor</segment>
+    <segment id="11">comocomo motivação</segment>
+    <segment id="12">para que</segment>
+    <segment id="13">para que as pessoas reduzam o consumo.</segment>
+    <segment id="14">Carnes servidas no novo Varal 87</segment>
+    <segment id="15">, em Moema - Luis Vinhão/DivulgaçãoAs conclusões e as recomendações quanto a diretrizes</segment>
+    <segment id="16">, feitas por uma equipe internacional liderada por Bradley Johnston</segment>
+    <segment id="17">, epidemiologista da Universidade Dalhousie</segment>
+    <segment id="18">, contrariam as orientações de muitas autoridades de saúde.</segment>
+    <segment id="19">Nesta semana</segment>
+    <segment id="20">, diversos pesquisadores que trabalham no campo da nutrição me escreveram para afirmar que discordavam veementemente da publicação do estudo e que sentiam que ele poderia causar males reais.</segment>
+    <segment id="21">Eles acreditam que o consumo de carne vermelha e de carne processada industrialmente representa um risco de saúde para as pessoas e que</segment>
+    <segment id="22">, sese elas não reduzirem seu consumo</segment>
+    <segment id="23">, vão colocar elas mesmas e o planeta em risco.</segment>
+    <segment id="24">Concordo com eles quanto aos argumentos ambientais em favor de reduzir o consumo de carne.</segment>
+    <segment id="25">Você pode ler a respeito aqui.</segment>
+    <segment id="26">Mas é bem possível que os leitores</segment>
+    <segment id="27">sese sintam confusos quanto aos riscos para sua saúde.</segment>
+    <segment id="28">Como é que especialistas podem discordar tão veementemente sobre um mesmo assunto?</segment>
+    <segment id="29">As perguntas abaixo podem ajudar a compreender por que até mesmo pesquisadores de boa fé</segment>
+    <segment id="30">podem terminar em campos opostos no debate.</segment>
+    <segment id="31">Que grau de qualidade as pesquisas sobre nutrição podem atingir?</segment>
+    <segment id="32">Parte do problema está na dificuldade de conduzir pesquisas nesse campo.</segment>
+    <segment id="33">É quase impossível (e alguns pesquisadores diriam que é antiético) conduzir o tipo mais rigoroso de experimento —um ensaio clínico aleatório— sobre assuntos</segment>
+    <segment id="34">comocomo o consumo de carne vermelha.</segment>
+    <segment id="35">Por conta disso</segment>
+    <segment id="36">, devemos confiar em dados observacionais: perguntamos às pessoas o que elas comem e estabelecemos correlações entre as informações que elas fornecem e os resultados.</segment>
+    <segment id="37">Já outros pesquisadores</segment>
+    <segment id="38">, como</segment>
+    <segment id="39">como John Ioannidis</segment>
+    <segment id="40">, especialista em projeto e análise de pesquisas na Universidade Stanford</segment>
+    <segment id="41">, argumentam que é possível e que talvez devêssemos conduzir ensaios clínicos aleatórios sobre padrões de dieta antes de proclamar conclusões.</segment>
+    <segment id="42">ChurrascoMais    novamente         de   de  de  representando um</segment>
+    <segment id="43">O "melhor que podemos obter" é bom o suficiente?</segment>
+    <segment id="44">É difícil conduzir bem até mesmo os testes observacionais.</segment>
+    <segment id="45">A maior parte dos grandes reveses em termos de saúde é bastante rara.</segment>
+    <segment id="46">É difícil encontrar grandes diferenças em termos de morte</segment>
+    <segment id="47">, câncer e ataques cardíacos até mesmo em grandes grupos de pessoas</segment>
+    <segment id="48">, a não ser que elas sejam acompanhadas por períodos longos.</segment>
+    <segment id="49">Mas quantificar o que as pessoas estão comendo durante longos períodos também é desafiador</segment>
+    <segment id="50">, porque</segment>
+    <segment id="51">porque as pessoas não</segment>
+    <segment id="52">sese lembram.</segment>
+    <segment id="53">Estudos</segment>
+    <segment id="54">comocomo esses também são difíceis de interpretar por conta dos chamados fatores de confusão.</segment>
+    <segment id="55">Talvez as pessoas que comem mais carne sejam mais pobres.</segment>
+    <segment id="56">Talvez elas fumem</segment>
+    <segment id="57">, bebam álcool demais ou não</segment>
+    <segment id="58">sese exercitem.</segment>
+    <segment id="59">Esse tipo de coisa também pode levar a maus resultados</segment>
+    <segment id="60">, e é difícil distinguir entre os componentes individuais ao longo do tempo.  Se forem conduzidos ensaios com pessoas submetidas a risco maior —aquelas que já tenham sofrido ataques cardíacos</segment>
+    <segment id="61">, por exemplo—</segment>
+    <segment id="62">, fica mais fácil determinar</segment>
+    <segment id="63">sese mudanças importam.</segment>
+    <segment id="64">O teste Predimed</segment>
+    <segment id="65">, por exemplo</segment>
+    <segment id="66">, que estudou a chamada dieta mediterrânea</segment>
+    <segment id="67">, tinha por foco pessoas que já sofriam de diabetes ou apresentavam diversos traços que as colocavam em risco elevado de doenças cardíacas.</segment>
+    <segment id="68">Mas essas pessoas não são necessariamente representativas do público geral</segment>
+    <segment id="69">, para o qual as recomendações nutricionais são escritas.</segment>
+    <segment id="70">Tudo isso significa que indícios observacionais</segment>
+    <segment id="71">, que são mais fáceis de obter</segment>
+    <segment id="72">, serão classificados</segment>
+    <segment id="73">comocomo "de baixa qualidade</segment>
+    <segment id="74">" por alguns pesquisadores.</segment>
+    <segment id="75">Outros argumentarão que eles são o melhor que</segment>
+    <segment id="76">sese pode obter</segment>
+    <segment id="77">, e que</segment>
+    <segment id="78">, portanto</segment>
+    <segment id="79">, deveríamos aplicar padrões diferentes a pesquisas desse tipo.  Nas pesquisas</segment>
+    <segment id="80">, deveríamos nos preocupar com sinais</segment>
+    <segment id="81">comocomo pressão sanguínea ou só com grandes eventos</segment>
+    <segment id="82">, como</segment>
+    <segment id="83">como ataques cardíacos?</segment>
+    <segment id="84">Por resultados graves serem raros</segment>
+    <segment id="85">, a pesquisa ocasionalmente considera indicadores intermediários.</segment>
+    <segment id="86">Esses indicadores</segment>
+    <segment id="87">, como</segment>
+    <segment id="88">como peso</segment>
+    <segment id="89">, pressão sanguínea</segment>
+    <segment id="90">, níveis de colesterol</segment>
+    <segment id="91">, podem mudar em períodos mais curtos.</segment>
+    <segment id="92">Haverá quem aponte para estudos nesses campos e diga que eles provam que a redução no consumo de carne tem efeitos significativos sobre a saúde.</segment>
+    <segment id="93">Pressão sanguínea elevada ou níveis altos de colesterol são vistos amplamente</segment>
+    <segment id="94">comocomo fatores graves de risco de eventos adversos.</segment>
+    <segment id="95">Outros estudiosos discordarão sobre em que medida podemos confiar em indicadores intermediários.</segment>
+    <segment id="96">Os novos estudos em questão</segment>
+    <segment id="97">sese concentram apenas em resultados de estágio final.</segment>
+    <segment id="98">ChurrascoMais    novamente         de   de  de  representando um</segment>
+    <segment id="99">Se os especialistas estão incertos</segment>
+    <segment id="100">, é aceitável que eles façam recomendações</segment>
+    <segment id="101">, quaisquer que sejam?</segment>
+    <segment id="102">Os críticos dos novos estudos sobre a carne argumentam que</segment>
+    <segment id="103">, levando em conta a baixa certeza dos autores sobre suas conclusões</segment>
+    <segment id="104">, eles não deveriam ter feito recomendações.</segment>
+    <segment id="105">Isso não é insensato.</segment>
+    <segment id="106">Quando o Grupo de Trabalho</segment>
+    <segment id="107">Preventivo dos Estados Unidos não dispõe de provas suficientes para fazer recomendações preventivas</segment>
+    <segment id="108">, confere a essas recomendações a classificação "I" e afirma que as provas atuais são insuficientes para determinar o balanço exato entre benefícios e danos.</segment>
+    <segment id="109">Isso é tudo.</segment>
+    <segment id="110">Talvez esse devesse ser o método preferível</segment>
+    <segment id="111">, ao invés de publicar recomendações de que as pessoas mantenham seu nível atual de consumo de carne.</segment>
+    <segment id="112">Devemos considerar o indivíduo ou populações?</segment>
+    <segment id="113">Mesmo em estudos que identificam efeitos estatisticamente significativos</segment>
+    <segment id="114">, os benefícios absolutos são quase sempre pequenos.</segment>
+    <segment id="115">Muita gente argumentará</segment>
+    <segment id="116">, porém</segment>
+    <segment id="117">porém, que mesmo que os benefícios individuais possam ser pequenos</segment>
+    <segment id="118">, os benefícios para a população podem ser grandes.</segment>
+    <segment id="119">Essas pessoas não estão erradas.</segment>
+    <segment id="120">Digamos que a redução absoluta de risco de câncer no cólon seja de 0</segment>
+    <segment id="121">,5%.</segment>
+    <segment id="122">Isso significa que para cada 200 pessoas que reduzam seu consumo de carne uma veria benefício e outras 199</segment>
+    <segment id="123">, não.</segment>
+    <segment id="124">Para um indivíduo</segment>
+    <segment id="125">, pode não parecer relevante.</segment>
+    <segment id="126">Mas também significa que</segment>
+    <segment id="127">, sese dois milhões de pessoas fizerem essa mudança</segment>
+    <segment id="128">, 10 mil veriam um benefício</segment>
+    <segment id="129">, o que</segment>
+    <segment id="130">, do ponto de vista de uma população</segment>
+    <segment id="131">, é ótimo.</segment>
+    <segment id="132">Mas também significa que 1.990.000 pessoas não veriam benefícios.</segment>
+    <segment id="133">Há muitas coisas que podem fazer diferença</segment>
+    <segment id="134">, em nível de uma população</segment>
+    <segment id="135">, ainda que as pessoas não</segment>
+    <segment id="136">sese disponham a mudá-las em nível individual.</segment>
+    <segment id="137">As pessoas aceitam grandes riscos a cada dia ao dirigir carros e esquiar</segment>
+    <segment id="138">, por exemplo.</segment>
+    <segment id="139">Por quê?</segment>
+    <segment id="140">Porque essas atividades trazem benefícios que os indivíduos avaliam compensar os riscos.</segment>
+    <segment id="141">Em nossas recomendações deveríamos nos preocupar com o indivíduo ou com a população?</segment>
+    <segment id="142">Deveríamos permitir que as pessoas decidam por si próprias?</segment>
+    <segment id="143">Há quem acredite que não devemos levar em conta nossas preferências ao redigir orientações.</segment>
+    <segment id="144">O foco deve ficar apenas nos benefícios à saúde e não em outros fatores —</segment>
+    <segment id="145">comocomo o fato de que as pessoas gostam muito de comer carne.</segment>
+    <segment id="146">Afinal</segment>
+    <segment id="147">, ao dizer para as pessoas que elas não devem fumar</segment>
+    <segment id="148">, não nos importamos</segment>
+    <segment id="149">sese elas "gostam" de cigarro.</segment>
+    <segment id="150">Outros podem rebater afirmando que um estudo publicado em 2012 pelo International Journal of Cancer constatou que homens que fumam mais de 30 cigarros ao dia apresentavam risco 10.250% mais alto de desenvolver carcinoma de células escamosas.</segment>
+    <segment id="151">É um indicador sério.</segment>
+    <segment id="152">Uma elevação de 18% (risco relativo de 1</segment>
+    <segment id="153">,18), no</segment>
+    <segment id="154">casocaso do consumo de carne industrializada</segment>
+    <segment id="155">, não é a mesma coisa e</segment>
+    <segment id="156">, portanto</segment>
+    <segment id="157">, poderia ser razoável refletir sobre a alegria das pessoas com suas dietas atuais.</segment>
+    <segment id="158">Risco relativo é uma referência à mudança percentual do risco absoluto (geral)</segment>
+    <segment id="159">comocomo resultado de alguma mudança de comportamento (1</segment>
+    <segment id="160">,18, por exemplo</segment>
+    <segment id="161">, significa uma mudança de 18% ante 1</segment>
+    <segment id="162">, e 1 representa a linha de base que denota alteração zero no risco entre o grupo experimental e o grupo de controle.)</segment>
+    <segment id="163">Como todas essas questões não têm respostas fáceis ou definidas</segment>
+    <segment id="164">, pesquisadores podem observar os mesmos conjuntos de dados e chegar a conclusões muito diferentes.</segment>
+    <segment id="165">A recomendação deve</segment>
+    <segment id="166">sese preocupar mais com populações ou indivíduos?</segment>
+    <segment id="167">Que nível de risco deve existir</segment>
+    <segment id="168">para que</segment>
+    <segment id="169">para que isso faça diferença?</segment>
+    <segment id="170">Preferências pessoais devem ser consideradas?</segment>
+    <segment id="171">O que devemos dizer diante de indícios inferiores ao ideal?</segment>
+    <segment id="172">Infelizmente</segment>
+    <segment id="173">, no caso</segment>
+    <segment id="174">caso do consumo de carne</segment>
+    <segment id="175">, muitas dessas discussões chegam aos antagonismos tribais.</segment>
+    <segment id="176">Por outro lado</segment>
+    <segment id="177">, existem pontos sobre os quais não vejo desacordo.</segment>
+    <segment id="178">Comer carne bovina é um grande problema para o meio ambiente</segment>
+    <segment id="179">, por exemplo.</segment>
+    <segment id="180">Comer menos carne para melhorar as perspectivas de longo prazo relacionadas à mudança do clima poderia fazer uma grande diferença</segment>
+    <segment id="181">, além de ser um provável ponto de concordância entre a maioria dos envolvidos nesses debates.</segment>
+  </rst>
+</analysis>

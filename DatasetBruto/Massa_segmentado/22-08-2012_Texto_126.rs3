@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Oi estuda</segment>
+    <segment id="2">sese recorrerÃ¡ de multa</segment>
+    <segment id="3">Anatel poderÃ¡ suspender a venda de banda larga pela empresa</segment>
+    <segment id="4">A operadora de telefonia Oi informou</segment>
+    <segment id="5">, ontem</segment>
+    <segment id="6">, em nota</segment>
+    <segment id="7">, que estuda</segment>
+    <segment id="8">sese vai recorrer da decisÃ£o da Anatel de multar a empresa em R$ 10 milhÃµes pela venda casada de planos de internet com outros serviÃ§os de telefonia.</segment>
+    <segment id="9">â€œA</segment>
+    <segment id="10">Oi informa que nÃ£o condiciona a venda de um serviÃ§o</segment>
+    <segment id="11">Ã  aquisiÃ§Ã£o de outro e que cumpre a regulamentaÃ§Ã£o da Anatelâ€.</segment>
+    <segment id="12">Segundo o Ã³rgÃ£o</segment>
+    <segment id="13">, os preÃ§os cobrados pela Oi para planos apenas de internet sÃ£o mais caros do que os â€œcombosâ€ com telefonia mÃ³vel</segment>
+    <segment id="14">, fixa ou TV por assinatura.</segment>
+    <segment id="15">A empresa jÃ¡ havia sido multada</segment>
+    <segment id="16">, porÃ©m manteve as ofertas.</segment>
+    <segment id="17">Caso a Oi nÃ£o passe a oferecer pacotes somente de internet por preÃ§os compatÃ­veis com os cobrados pelos â€œcombosâ€</segment>
+    <segment id="18">, a Anatel poderÃ¡ suspender a venda de banda larga pela empresa.</segment>
+  </rst>
+</analysis>

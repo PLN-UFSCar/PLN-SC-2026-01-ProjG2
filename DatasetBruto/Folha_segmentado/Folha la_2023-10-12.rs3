@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Folha estreia nesta quinta-feira (12) uma newsletter diária sobre a guerra entre Israel e o grupo terrorista palestino Hamas.</segment>
+    <segment id="2">O boletim é editado pela jornalista Dani Avelar</segment>
+    <segment id="3">, que faz uma seleção dos temas mais importantes do conflito.</segment>
+    <segment id="4">Para receber a edição de segunda a sexta</segment>
+    <segment id="5">, inclua seu endereço de email na caixa abaixo.</segment>
+    <segment id="6">Guerra Israel-HamasO</segment>
+    <segment id="7">boletim diário para você entender o que acontece no conflitoCarregando...</segment>
+    <segment id="8">No dia 7 de outubro</segment>
+    <segment id="9">, o Hamas</segment>
+    <segment id="10">, organização terrorista islâmica que governa a Faixa de Gaza</segment>
+    <segment id="11">, lançou a maior ofensiva em anos contra Israel.</segment>
+    <segment id="12">Em resposta</segment>
+    <segment id="13">, o premiê Binyamin Netanyahu declarou guerra e</segment>
+    <segment id="14">, logo depois</segment>
+    <segment id="15">, Tel Aviv realizou bombardeios aéreos contra o território palestino.</segment>
+    <segment id="16">Acompanhe a cobertura da Folha sobre o conflito aqui.</segment>
+    <segment id="17">Além do boletim sobre a Guerra Israel-Hamas</segment>
+    <segment id="18">, a Folha tem mais de 20 newsletters sobre temas variados.</segment>
+    <segment id="19">Veja as opções aqui e</segment>
+    <segment id="20">sese inscreva.</segment>
+  </rst>
+</analysis>

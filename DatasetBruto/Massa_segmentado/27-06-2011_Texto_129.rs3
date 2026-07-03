@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Mulher de beira de estrada é um perigo
+Vítima foi sequestrada no Tocantins</segment>
+    <segment id="2">, após a garota pedir carona a ele
+Daniellle Lima de Melo</segment>
+    <segment id="3">, 21 anos</segment>
+    <segment id="4">, foi presa acusada de extorsão mediante sequestro contra o ex-vereador e funcionário público de Taguatinga (TO) Miraldino Pereira da Silva</segment>
+    <segment id="5">, 65.</segment>
+    <segment id="6">A vítima estava em um cativeiro</segment>
+    <segment id="7">, no bairro Santa Luzia</segment>
+    <segment id="8">, na cidade de Barreiras.</segment>
+    <segment id="9">Miraldino estava em poder dos sequestradores desde a noite do dia 23 de junho.</segment>
+    <segment id="10">Jackson dos Santos Borges</segment>
+    <segment id="11">, 18, comparsa de Danielle</segment>
+    <segment id="12">, conseguiu fugir.</segment>
+    <segment id="13">A vítima foi sequestrada no Tocantins</segment>
+    <segment id="14">, após a garota pedir carona a ele</segment>
+    <segment id="15">, que voltava de uma festa.</segment>
+    <segment id="16">No último domingo</segment>
+    <segment id="17">Um filho de Miraldino chamou a polícia após receber telefonema do pai pedindo R$ 12 mil.</segment>
+  </rst>
+</analysis>

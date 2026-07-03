@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O convidado desta edição do podcast Ilustríssima Conversa é Plinio Junqueira Smith</segment>
+    <segment id="2">, professor de filosofia da Unifesp</segment>
+    <segment id="3">, que acaba de lançar</segment>
+    <segment id="4">, pela Editora Unesp</segment>
+    <segment id="5">, "</segment>
+    <segment id="6">Uma Visão Cética de Mundo"</segment>
+    <segment id="7">, sobre Oswaldo Porchat.</segment>
+    <segment id="8">A conversa com Uirá Machado</segment>
+    <segment id="9">, editor da Ilustríssima</segment>
+    <segment id="10">, abordou ideias do filósofo</segment>
+    <segment id="11">, morto no ano passado</segment>
+    <segment id="12">, e as diferenças entre ceticismo e pós-verdade.</segment>
+    <segment id="13">Plinio Junqueira Smith (esq.) e o filósofo Oswaldo Porchat</segment>
+    <segment id="14">, em foto de arquivo -Luiz Antonio Alves Eva</segment>
+  </rst>
+</analysis>

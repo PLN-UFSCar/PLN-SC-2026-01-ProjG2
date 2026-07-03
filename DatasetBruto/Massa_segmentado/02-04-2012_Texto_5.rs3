@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Magary Lord anima o Farol da Barra</segment>
+    <segment id="2">Magary deu o seu grito de guerra para celebrar o aniversário de Salvador
+Comemorada com três dias de atraso</segment>
+    <segment id="3">, a festa em homenagem aos 463 anos de Salvador</segment>
+    <segment id="4">, celebrados no último dia 29</segment>
+    <segment id="5">, foi realizada na noite de ontem</segment>
+    <segment id="6">, no Farol da Barra</segment>
+    <segment id="7">, com um show do cantor revelação do carnaval</segment>
+    <segment id="8">, Magary Lord.</segment>
+    <segment id="9">O cantor trouxe convidados</segment>
+    <segment id="10">comocomo os cantores Toni Garrido e  Lazzo Matumbi</segment>
+    <segment id="11">,  além da filha Kalinde Maiara.</segment>
+    <segment id="12">“Parece mentira</segment>
+    <segment id="13">, masmas é verdade</segment>
+    <segment id="14">, esse show no dia 1º de abril</segment>
+    <segment id="15">, que veio</segment>
+    <segment id="16">comocomo um presente para a população de Salvador</segment>
+    <segment id="17">,  brincou o autor da música “Circulou”.</segment>
+  </rst>
+</analysis>

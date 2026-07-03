@@ -1,0 +1,119 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Cerca de 30% dos clientes do Bradesco podem chamar a inteligência artificial Bia pelo WhatsApp para fazer uma transferência via Pix.</segment>
+    <segment id="2">O banco começou a testar o recurso no começo do ano e pretende concluir o lançamento no fim de 2023</segment>
+    <segment id="3">, segundo o superintendente de inteligência e dados do Bradesco</segment>
+    <segment id="4">, Rafael Cavalcanti.</segment>
+    <segment id="5">Por questões de segurança</segment>
+    <segment id="6">, as transferências feitas desta forma são limitadas a R$ 300 e aos contatos previamente registrados no aplicativo do banco.</segment>
+    <segment id="7">O cliente também precisa habilitar essa ferramenta antes de usá-la.</segment>
+    <segment id="8">No site ReclameAqui</segment>
+    <segment id="9">, entretanto</segment>
+    <segment id="10">, um cliente registrou queixa contra a empresa dizendo que o Pix pelo WhatsApp não requer senha.</segment>
+    <segment id="11">Comercial da BIA</segment>
+    <segment id="12">, assistente virtual do Bradesco</segment>
+    <segment id="13">, criado pela Publicis - DivulgaçãoA</segment>
+    <segment id="14">própria inteligência artificial do Bradesco</segment>
+    <segment id="15">, Bia, pode reconhecer transferências suspeitas para contatos recém-registrados para evitar fraudes</segment>
+    <segment id="16">, diz Cavalcanti.</segment>
+    <segment id="17">Caso o cliente faça uma transação com valores incorretos ou para o contato errado</segment>
+    <segment id="18">, o Bradesco diz que o cliente tem meios para contestar o Pix no próprio aplicativo do banco.</segment>
+    <segment id="19">O WhatsApp funciona apenas</segment>
+    <segment id="20">comocomo meio de contato com a inteligência artificial do Bradesco e não tem responsabilidade sobre as transações.</segment>
+    <segment id="21">Procurado</segment>
+    <segment id="22">, um porta-voz do WhatsApp diz que a solução é propriedade da instituição financeira.</segment>
+    <segment id="23">É o Bradesco quem habilita o pagamento via</segment>
+    <segment id="24">Pix feito por mensagem a partir de uma integração com os sistemas do banco.</segment>
+    <segment id="25">Desde junho</segment>
+    <segment id="26">, o Bradesco informa clientes via WhatsApp</segment>
+    <segment id="27">, a partir de mensagens da Bia</segment>
+    <segment id="28">, de compras suspeitas no cartão.</segment>
+    <segment id="29">Em agosto</segment>
+    <segment id="30">, o banco expandiu a funcionalidade para o Pix.</segment>
+    <segment id="31">Cavalcanti afirma que qualquer funcionalidade bancária é acompanhada de risco.</segment>
+    <segment id="32">O banco precisa</segment>
+    <segment id="33">sese certificar de que consegue oferecê-la com o mínimo possível de risco e ter recursos à disposição para corrigir eventuais falhas.</segment>
+    <segment id="34">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="35">; aberta para não assinantes.</segment>
+    <segment id="36">Carregando...</segment>
+    <segment id="37">O diferencial do Bradesco é a experiência com a Bia desde 2015</segment>
+    <segment id="38">, quando o banco foi um pioneiro no investimento em inteligência artificial no Brasil</segment>
+    <segment id="39">, segundo o gestor.</segment>
+    <segment id="40">Em 2017</segment>
+    <segment id="41">, a IA foi disponibilizada pelo público.</segment>
+    <segment id="42">"</segment>
+    <segment id="43">Hoje, já acumulamos 2 bilhões de atendimentos por esse meio.</segment>
+    <segment id="44">"  Bancos</segment>
+    <segment id="45">, em geral</segment>
+    <segment id="46">, usam técnicas de análise com inteligência artificial para analisar concessão de crédito e evitar fraudes.</segment>
+    <segment id="47">A assistente digital do Bradesco foi desenvolvida em parceria com a IBM e foi a primeira adaptação da IA conversacional Watson Assistant para o português.</segment>
+    <segment id="48">O banco agora testa aplicações da IA geradora da IBM WatsonX</segment>
+    <segment id="49">, lançada em julho.</segment>
+    <segment id="50">"</segment>
+    <segment id="51">Além da área de atendimento ao cliente</segment>
+    <segment id="52">, usamos para processos internos</segment>
+    <segment id="53">, preencher formulários</segment>
+    <segment id="54">, sumarizar informações e também em cibersegurança.</segment>
+    <segment id="55">"</segment>
+    <segment id="56">Cavalcanti diz que o banco já identificou mensagens maliciosas enviadas à Bia para conseguir ganhos com prejuízos à instituição e a terceiros.</segment>
+    <segment id="57">"É uma preocupação do Bradesco</segment>
+    <segment id="58">sese proteger contra técnicas de engenharia de prompt (pedidos feitos à IA) e já investimos nisso.</segment>
+    <segment id="59">"</segment>
+    <segment id="60">A Bia protagonizou uma campanha publicitária do Bradesco em 2022</segment>
+    <segment id="61">, após funcionários encontrarem mensagens com violência de gênero contra a IA.</segment>
+    <segment id="62">"</segment>
+    <segment id="63">É provavelmente o que as moças da nossa central de atendimento ouvem</segment>
+    <segment id="64">, o que é lamentável"</segment>
+    <segment id="65">, diz o superintendente de inteligência e dados.</segment>
+    <segment id="66">A diretora de dados e apps da IBM</segment>
+    <segment id="67">, Marcela Vairo</segment>
+    <segment id="68">, diz que a IBM trata a responsabilidade da IA</segment>
+    <segment id="69">comocomo um dos pilares centrais no desenvolvimento do WatsonX. "</segment>
+    <segment id="70">O trabalho para evitar erros</segment>
+    <segment id="71">, vieses e preconceitos precisa ser constante"</segment>
+    <segment id="72">, diz.</segment>
+    <segment id="73">Ela acrescenta que a IA hoje já consegue atender a comandos de voz em português</segment>
+    <segment id="74">, em diferentes sotaques e tons.</segment>
+    <segment id="75">"</segment>
+    <segment id="76">Não posso dizer números</segment>
+    <segment id="77">, masmas o Brasil é um dos principais mercados da IBM.</segment>
+    <segment id="78">"</segment>
+    <segment id="79">A Bia, entretanto</segment>
+    <segment id="80">, ainda não interpreta</segment>
+    <segment id="81">, com uso de IA</segment>
+    <segment id="82">, mensagens de áudio pelo WhatsApp.</segment>
+    <segment id="83">Esse é um plano para o futuro próximo</segment>
+    <segment id="84">, de acordo com Cavalcanti.</segment>
+    <segment id="85">A IA do Bradesco é capaz de entregar serviços básicos</segment>
+    <segment id="86">, como</segment>
+    <segment id="87">como consultas a saques</segment>
+    <segment id="88">, extrato</segment>
+    <segment id="89">, informes de rendimentos</segment>
+    <segment id="90">, comprovantes entre outras informações bancárias.</segment>
+    <segment id="91">Veja como</segment>
+    <segment id="92">como recuperar o dinheiro levado no golpe do limpa tudoMais    novamente         de   de  de  representando</segment>
+    <segment id="93">um</segment>
+  </rst>
+</analysis>

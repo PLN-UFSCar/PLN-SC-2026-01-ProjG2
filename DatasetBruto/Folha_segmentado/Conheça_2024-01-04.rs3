@@ -1,0 +1,100 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O AirlineRatings</segment>
+    <segment id="2">, um site de avaliação de segurança de companhias aéreas e classificação de produtos</segment>
+    <segment id="3">, divulgou seu ranking das 25 companhias aéreas mais seguras do mundo para 2024</segment>
+    <segment id="4">, para nortear as escolhas de passageiros em suas viagens ao longo deste ano.</segment>
+    <segment id="5">A publicação avalia a segurança e o produto de bordo de 385 companhias aéreas usando seu próprio sistema de classificação de sete estrelas.</segment>
+    <segment id="6">Ao fazer a sua avaliação</segment>
+    <segment id="7">, o site considera uma gama abrangente de fatores</segment>
+    <segment id="8">, incluindo acidentes ao longo de cinco anos</segment>
+    <segment id="9">, incidentes graves ao longo de dois anos</segment>
+    <segment id="10">, auditorias dos órgãos dirigentes da aviação e associações líderes</segment>
+    <segment id="11">, auditorias governamentais</segment>
+    <segment id="12">, idade da frota e treinamento da tripulação aérea.</segment>
+    <segment id="13">Air New Zealand tirou o primeiro lugar da Qantas por 1</segment>
+    <segment id="14">,50 ponto de diferença em ranking das empresas aéreas mais seguras do mundo - AVID GRAY/AFP</segment>
+    <segment id="15">Por outro lado</segment>
+    <segment id="16">, a avaliação deixa de fora ocorrências sobre as quais as companhias aéreas não têm controle</segment>
+    <segment id="17">, como</segment>
+    <segment id="18">como colisões com pássaros</segment>
+    <segment id="19">, lesões causadas por turbulência</segment>
+    <segment id="20">, desvios climáticos e quedas de raios.</segment>
+    <segment id="21">Nos últimos anos</segment>
+    <segment id="22">, o site publicou uma lista das 20 principais companhias aéreas</segment>
+    <segment id="23">, e neste ano</segment>
+    <segment id="24">, ampliou a lista para 25 das maiores e mais conhecidas operadoras.</segment>
+    <segment id="25">De acordo com Geoffrey Thomas</segment>
+    <segment id="26">, editor-chefe do AirlineRatings</segment>
+    <segment id="27">, essas companhias aéreas são destaques no setor e estão na vanguarda em segurança</segment>
+    <segment id="28">, inovação e lançamento de novas aeronaves.</segment>
+    <segment id="29">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="30">; aberta para não assinantes.</segment>
+    <segment id="31">Carregando...</segment>
+    <segment id="32">Sobre a complexa questão dos incidentes</segment>
+    <segment id="33">, Thomas disse que todas as companhias aéreas têm incidentes todos os dias</segment>
+    <segment id="34">, e muitos são problemas de fabricação de aeronaves ou motores</segment>
+    <segment id="35">, e não problemas operacionais das companhias aéreas.</segment>
+    <segment id="36">"</segment>
+    <segment id="37">É a forma</segment>
+    <segment id="38">comocomo a tripulação de voo lida com estes incidentes graves que distingue uma companhia aérea boa de uma insegura"</segment>
+    <segment id="39">, disse Thomas.</segment>
+    <segment id="40">"</segment>
+    <segment id="41">Nossas 25 companhias aéreas mais seguras em 2024 estão sempre na vanguarda da inovação em segurança</segment>
+    <segment id="42">, excelência operacional e lançamento de novas aeronaves mais avançadas</segment>
+    <segment id="43">, como</segment>
+    <segment id="44">como o Airbus A350 e os Boeings 787 e 777-9"</segment>
+    <segment id="45">, ressaltou o editor-chefe.</segment>
+    <segment id="46">Ele afirmou que a liderança teve uma disputa extremamente acirrada entre a Air New Zealand e a Qantas</segment>
+    <segment id="47">, com apenas 1</segment>
+    <segment id="48">,50 ponto entre as duas companhias aéreas</segment>
+    <segment id="49">, com apenas a idade da frota tirando a Qantas do primeiro lugar.</segment>
+    <segment id="50">O Grupo Qantas</segment>
+    <segment id="51">sese destacou</segment>
+    <segment id="52">porque</segment>
+    <segment id="53">porque embarcou na maior renovação de frota da sua história</segment>
+    <segment id="54">, com enormes encomendas de Airbus A220</segment>
+    <segment id="55">, A320</segment>
+    <segment id="56">, A321 e A350 e Boeing 787</segment>
+    <segment id="57">, a serem entregues nos próximos três anos.</segment>
+    <segment id="58">Confira a seguir a lista completa das 25 grandes empresas aéreas mais seguras do mundo em 2024:   Air New Zealand Qantas Virgin Australia Etihad Airways Qatar Airways</segment>
+    <segment id="59">Emirates</segment>
+    <segment id="60">All Nippon Airways</segment>
+    <segment id="61">Finnair</segment>
+    <segment id="62">Cathay</segment>
+    <segment id="63">Pacific Airways</segment>
+    <segment id="64">Alaska</segment>
+    <segment id="65">Airlines</segment>
+    <segment id="66">SAS</segment>
+    <segment id="67">Korean</segment>
+    <segment id="68">Air</segment>
+    <segment id="69">Singapore Airlines EVA</segment>
+    <segment id="70">Air British Airways</segment>
+    <segment id="71">Turkish Airlines</segment>
+    <segment id="72">TAP</segment>
+    <segment id="73">Air</segment>
+    <segment id="74">Portugal Lufthansa/Swiss Group KLM Japan Airlines Hawaiian Airlines American Airlines Air France Air Canada United Airlines</segment>
+  </rst>
+</analysis>

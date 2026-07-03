@@ -1,0 +1,53 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A população brasileira está envelhecendo e o processo de exclusão dos idosos está ficando cada vez mais comum.</segment>
+    <segment id="2">Serem discriminados por frequentarem lugares e fazerem coisas consideradas incomuns na velhice virou rotina.</segment>
+    <segment id="3">Porém, não é só nos costumes que esse tipo de preconceito pode ser detectado.</segment>
+    <segment id="4">O etarismo econômico também é uma realidade: negar financiamento de todos os tipos</segment>
+    <segment id="5">, principalmente os imobiliários</segment>
+    <segment id="6">, e reduzir o limite de cartão de crédito sem motivo</segment>
+    <segment id="7">, como</segment>
+    <segment id="8">como perda ou restrição de renda</segment>
+    <segment id="9">, por conta da idade</segment>
+    <segment id="10">, são alguns exemplos.</segment>
+    <segment id="11">O número de pessoas com 65 anos de idade ou mais em todo o mundo irá duplicar nas próximas três décadas</segment>
+    <segment id="12">, até atingir 1</segment>
+    <segment id="13">,6 bilhão de pessoas em 2050   - Getty Images</segment>
+    <segment id="14">O reajuste dos planos de saúde em decorrência da idade</segment>
+    <segment id="15">, mesmo que não haja uma piora no estado de saúde da pessoa</segment>
+    <segment id="16">, é outro problema dessa discriminação.</segment>
+    <segment id="17">Muitos idosos dependem da aposentadoria para pagar os planos</segment>
+    <segment id="18">, e um aumento repentino sem nenhuma justificativa evidente acaba pesando no bolso</segment>
+    <segment id="19">, levando ao cancelamento do serviço.</segment>
+    <segment id="20">Pensando nesse cenário</segment>
+    <segment id="21">, a Folha quer saber:</segment>
+    <segment id="22">você já</segment>
+    <segment id="23">sese sentiu discriminado pelo seu banco ou empresa de plano de saúde?</segment>
+    <segment id="24">Acha que o tratamento nesses serviços mudou com a idade?</segment>
+    <segment id="25">Já teve algum serviço negado ou custo aumentado sem uma justificativa clara?</segment>
+    <segment id="26">Conte para a Folha neste formulário.</segment>
+    <segment id="27">Algumas respostas podem ser publicadas no Painel do Leitor e divulgadas nas redes sociais da Folha.</segment>
+  </rst>
+</analysis>

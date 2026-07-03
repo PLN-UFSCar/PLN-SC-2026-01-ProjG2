@@ -1,0 +1,79 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">As agências bancárias não irão abrir na próxima segunda-feira (12) por causa do feriado de Nossa Senhora de Aparecida.</segment>
+    <segment id="2">Boletos que tiverem o vencimento programado para o dia 12 poderão ser pagos no dia seguinte sem multa.</segment>
+    <segment id="3">O Poupatempo vai abrir no sábado (10)</segment>
+    <segment id="4">, masmas depois só volta a funcionar na terça-feira.</segment>
+    <segment id="5">Na saúde</segment>
+    <segment id="6">, os serviços municipais que fazem atendimento de emergência</segment>
+    <segment id="7">, como</segment>
+    <segment id="8">como hospitais</segment>
+    <segment id="9">, prontos-socorros e UPAs (Unidades de Pronto Atendimento) funcionarão normalmente.</segment>
+    <segment id="10">Nas rodovias Anchieta e Imigrantes</segment>
+    <segment id="11">, é esperado fluxo de até 370 mil veículos rumo à Baixada Santista.</segment>
+    <segment id="12">Na Tamoios</segment>
+    <segment id="13">, que dá acesso ao litoral norte</segment>
+    <segment id="14">, são esperados 162 mil carros.</segment>
+    <segment id="15">Mesmo com a quarentena por causa da pandemia do novo coronavírus</segment>
+    <segment id="16">, cerca de 275 mil pessoas deverão embarcar e desembarcar pelos terminais rodoviários da capital paulista.</segment>
+    <segment id="17">Após feriado</segment>
+    <segment id="18">, Santos e Guarujá vivem aumento de casos de Covid   novamente         de   de  de  representando um  Veja</segment>
+    <segment id="19">comocomo será o funcionamento dos serviços     Serviço Sábado (10)</segment>
+    <segment id="20">Domingo (11) Segunda (12)</segment>
+    <segment id="21">Bancos Fecham Fecham Fecham   Sabesp Fecha Fecha Fecha</segment>
+    <segment id="22">Correios Fecham*</segment>
+    <segment id="23">Fecham Fecham   Detran Abre** Fecha Fecha   Poupatempo Abre** Fecha Fecha   Procon Fecha Fecha Fecha</segment>
+    <segment id="24">Hospitais municipais</segment>
+    <segment id="25">Abrem Abrem Abrem   Prontos-Socorros e UPAs</segment>
+    <segment id="26">Abrem</segment>
+    <segment id="27">Abrem</segment>
+    <segment id="28">Abrem</segment>
+    <segment id="29">AMAs 24h Abrem Abrem</segment>
+    <segment id="30">Abrem</segment>
+    <segment id="31">AMAs 12h</segment>
+    <segment id="32">Abrem Fecham Abrem</segment>
+    <segment id="33">Ambulatórios de Especialidades Fecham Fecham Fecham</segment>
+    <segment id="34">AMA Especialidades e Hospitais Dia</segment>
+    <segment id="35">Abrem</segment>
+    <segment id="36">Fecham Fecham</segment>
+    <segment id="37">UBSs Fecham Fecham Fecham     *</segment>
+    <segment id="38">As agências próprias dos Correios não abrem.</segment>
+    <segment id="39">Algumas agências franqueadas podem funcionar **</segment>
+    <segment id="40">Vão ter funcionamento estendido até as 17h por causa do mutirão da CNH</segment>
+    <segment id="41">Piores horários para viajar  Anchieta/Imigrantes:</segment>
+    <segment id="42">Sexta: das 11h à 0h Sábado: de 0h às 2h e das 7h às 20h   Tamoios:   Sexta: das 14h às 20h</segment>
+    <segment id="43">Sábado: das 6h às 14h   Régis Bittencourt:   Sexta: das 15h à 0h</segment>
+    <segment id="44">Sábado: das 6h às 20h   Fernão Dias:</segment>
+    <segment id="45">Sexta: das 12h às 22h</segment>
+    <segment id="46">Sábado: das 6h às 18h   Ayrton Senna/Carvalho Pinto:</segment>
+    <segment id="47">Sexta: das 15h às 18h</segment>
+    <segment id="48">As concessionárias AutoBAn</segment>
+    <segment id="49">, ViaOeste e NovaDutra não informaram as previsões.</segment>
+    <segment id="50">Fontes: concessionárias</segment>
+    <segment id="51">, Correios</segment>
+    <segment id="52">, Detran</segment>
+    <segment id="53">, Prefeitura de São Paulo e Sabesp</segment>
+  </rst>
+</analysis>

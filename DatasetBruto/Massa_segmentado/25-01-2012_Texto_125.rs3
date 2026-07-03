@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Apresentadora toma bronca da Band
+Chefões da emissora não gostou da forma com que Rita tratou Val Marchiori</segment>
+    <segment id="2">A cúpula da emissora não gostou da forma com que Rita Batista tratou Val Marchiori</segment>
+    <segment id="3">, de “Mulheres Ricas”</segment>
+    <segment id="4">, no programa “Muito +”.</segment>
+    <segment id="5">Rita teria comentado sobre um processo na justiça o qual a socialite responde</segment>
+    <segment id="6">, além de chamar a participante sempre de "Valdirene"</segment>
+    <segment id="7">, seu nome de batismo.</segment>
+    <segment id="8">Os chefões da emissora não gostaram da postura da Jornalista e não querem que isso</segment>
+    <segment id="9">sese repita.</segment>
+  </rst>
+</analysis>

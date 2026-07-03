@@ -1,0 +1,64 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Muito dinheiro</segment>
+    <segment id="2">, masmas pouca competência</segment>
+    <segment id="3">Os convocados de Mano fazem a Seleção ser a sétima no ranking da Fifa</segment>
+    <segment id="4">A Seleção Brasileira é a prova de que o dinheiro não compra felicidade</segment>
+    <segment id="5">, ou melhor</segment>
+    <segment id="6">, competência.</segment>
+    <segment id="7">Ontem, a Pluri Consultoria divulgou que os últimos 23 convocados pelo técnico Mano Menezes para o amistoso do próximo dia 28</segment>
+    <segment id="8">, contra a Bósnia-Herzegovina</segment>
+    <segment id="9">, valem ao todo 935 milhões de reais</segment>
+    <segment id="10">, atrás apenas da seleção espanhola (R$ 1</segment>
+    <segment id="11">,48 bilhões) e da Alemanha (R$ 1</segment>
+    <segment id="12">,01 bilhões).</segment>
+    <segment id="13">Porém, o Brasil foi superado por Portugal e caiu mais uma posição no ranking da Fifa</segment>
+    <segment id="14">, que também foi divulgado ontem.</segment>
+    <segment id="15">Agora, a Seleção pentacampeã mundial ocupa o sétimo lugar</segment>
+    <segment id="16">, atrás de Espanha</segment>
+    <segment id="17">, Alemanha</segment>
+    <segment id="18">, Holanda</segment>
+    <segment id="19">, Uruguai</segment>
+    <segment id="20">, Inglaterra e Portugal.</segment>
+    <segment id="21">Ao menos a Seleção Canarinho supera os argentinos</segment>
+    <segment id="22">, que ocupam apenas a 11ª posição.</segment>
+    <segment id="23">Dos 23 atletas convocados por Mano Menezes</segment>
+    <segment id="24">, Neymar é o mais caro.</segment>
+    <segment id="25">O atacante do Peixe vale 123</segment>
+    <segment id="26">,8 milhões de reais.</segment>
+    <segment id="27">A Bahia também está bem representada</segment>
+    <segment id="28">, já que o juazeirense Daniel Alves</segment>
+    <segment id="29">, ex-Bahia</segment>
+    <segment id="30">, é o segundo mais caro entre os brasileiros.</segment>
+    <segment id="31">De acordo com a consultoria</segment>
+    <segment id="32">, o lateral-direito do Barcelona custa 79</segment>
+    <segment id="33">,9  milhões de reais.</segment>
+    <segment id="34">A surpresa é Ronaldinho Gaúcho</segment>
+    <segment id="35">, do Flamengo</segment>
+    <segment id="36">, que já foi uma das maiores estrelas do futebol mundial</segment>
+    <segment id="37">, masmas agora é o mais barato dos 11 titulares: R$ 15</segment>
+    <segment id="38">,8 milhões.</segment>
+  </rst>
+</analysis>

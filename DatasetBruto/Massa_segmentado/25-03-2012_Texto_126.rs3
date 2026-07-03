@@ -1,0 +1,101 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">TJ decide</segment>
+    <segment id="2">sese processa recordista de grampos
+RIO - O Órgão Especial do Tribunal de Justiça do Rio vai decidir na sessão de hoje</segment>
+    <segment id="3">sese abre processo administrativo disciplinar contra um juiz estadual.</segment>
+    <segment id="4">Embora o nome seja mantido em sigilo</segment>
+    <segment id="5">, integrantes do Órgão</segment>
+    <segment id="6">, formado pelos 25 mais antigos desembargadores fluminenses</segment>
+    <segment id="7">, receberam recentemente</segment>
+    <segment id="8">, do Conselho da Magistratura</segment>
+    <segment id="9">, peças de investigação sobre a conduta do juiz Rafael Fonseca</segment>
+    <segment id="10">, titular da Vara Única de Mangaratiba</segment>
+    <segment id="11">, que é acusado de ser recordista em autorizações de escutas telefônicas e ter ligações com milicianos de Itaguaí</segment>
+    <segment id="12">, cidade onde atuou</segment>
+    <segment id="13">comocomo juiz criminal.</segment>
+    <segment id="14">Rafael Fonseca foi citado ontem em reportagem do GLOBO sobre a baixa produtividade do Judiciário Fluminense na condenação de políticos corruptos.</segment>
+    <segment id="15">Ele causou surpresa ao Ministério Público pela celeridade demonstrada na absolvição do prefeito de Itaguaí</segment>
+    <segment id="16">, Carlos Busatto Júnior</segment>
+    <segment id="17">, o Charlinho</segment>
+    <segment id="18">, que respondia ação de improbidade administrativa por contratar ilegalmente um jornal regional.</segment>
+    <segment id="19">Para apressar o andamento do processo</segment>
+    <segment id="20">, ele chegou a enviar um oficial de Justiça ao MP depois do horário de expediente.</segment>
+    <segment id="21">Na reportagem de ontem</segment>
+    <segment id="22">, o jornal mostrou que apenas 70 dos 1.209 processos por improbidade (destinados a punir os responsáveis pelo desvio de dinheiro publico) tiveram condenações em caráter definitivo no Rio.</segment>
+    <segment id="23">O número baixo levou a Corregedoria do Conselho Nacional de Justiça (CNJ) a abrir uma inspeção extraordinária para levantar as causas do problema.</segment>
+    <segment id="24">Questões disciplinares envolvendo juízes são</segment>
+    <segment id="25">, geralmente</segment>
+    <segment id="26">, examinadas pelo Conselho da Magistratura.</segment>
+    <segment id="27">Porém,</segment>
+    <segment id="28">comocomo a pena máxima desta instância é a censura</segment>
+    <segment id="29">, o Conselho costuma remeter os casos mais graves ao Órgão Especial.</segment>
+    <segment id="30">Os magistrados</segment>
+    <segment id="31">, depois de notificados</segment>
+    <segment id="32">, têm direito à defesa prévia antes da sessão que decide a abertura do processo.</segment>
+    <segment id="33">Representações encaminhadas à Corregedoria do TJ-RJ citam o nome de Rafael Fonseca em quatro situações distintas.</segment>
+    <segment id="34">Só em 2007</segment>
+    <segment id="35">, ele teria autorizado a realização de 2.147 escutas telefônicas no município (uma para cada 48 habitantes de Itaguaí).</segment>
+    <segment id="36">Posteriormente</segment>
+    <segment id="37">, o juiz autorizou a destruição das conversas gravadas.</segment>
+    <segment id="38">Bens apreendidos eram entregues a assessores</segment>
+    <segment id="39">Outra representação cita o juiz</segment>
+    <segment id="40">comocomo responsável pela destinação de bens apreendidos com criminosos</segment>
+    <segment id="41">, como</segment>
+    <segment id="42">como carros e armas</segment>
+    <segment id="43">, a pessoas de seu círculo pessoal sem que o Ministério Público tivesse sido consultado.</segment>
+    <segment id="44">Os demais casos envolvem suposta compra de alvarás</segment>
+    <segment id="45">, sendo um deles para beneficiar em 2008 uma quadrilha de milicianos presa durante a Operação Leviatã II.</segment>
+    <segment id="46">Posteriormente</segment>
+    <segment id="47">, o mesmo juiz julgou e condenou o grupo.</segment>
+    <segment id="48">Em mensagens pela internet e pelo celular</segment>
+    <segment id="49">, o juiz tomou conhecimento do assunto</segment>
+    <segment id="50">, masmas não respondeu ao Globo.</segment>
+    <segment id="51">Na semana passada</segment>
+    <segment id="52">, ao explicar a decisão que favoreceu o prefeito de Itaguaí</segment>
+    <segment id="53">, Rafael disse que julgou o</segment>
+    <segment id="54">casocaso sem esperar novas provas</segment>
+    <segment id="55">, solicitadas pelos promotores</segment>
+    <segment id="56">, por considerar o</segment>
+    <segment id="57">casocaso maduro (pronto para a sentença).</segment>
+    <segment id="58">Enquanto o Órgão Especial examina o</segment>
+    <segment id="59">casocaso disciplinar</segment>
+    <segment id="60">, a Corregedoria do CNJ inicia hoje uma inspeção ordinária no Tribunal fluminense.</segment>
+    <segment id="61">Um dos objetivos é cruzar</segment>
+    <segment id="62">, por amostragem</segment>
+    <segment id="63">, os rendimentos com as declarações de renda dos 180 desembargadores fluminenses.</segment>
+    <segment id="64">O trabalho</segment>
+    <segment id="65">, contudo</segment>
+    <segment id="66">contudo</segment>
+    <segment id="67">, deverá ser ampliado para os juízes do primeiro grau e os cartórios extrajudiciais.</segment>
+    <segment id="68">De acordo com nota divulgada pelo site da Associação dos Magistrados do Rio de Janeiro (Amaerj)</segment>
+    <segment id="69">, o presidente da entidade</segment>
+    <segment id="70">, Cláudio dell´Orto</segment>
+    <segment id="71">, esteve em Brasília na sexta-feira</segment>
+    <segment id="72">, para organizar o acompanhamento do trabalho.</segment>
+    <segment id="73">O próprio presidente da Associação dos Magistrados do Brasil Nelson Calandra</segment>
+    <segment id="74">, deverá estar no Rio durante a inspeção.</segment>
+  </rst>
+</analysis>

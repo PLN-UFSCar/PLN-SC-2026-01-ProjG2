@@ -1,0 +1,211 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O diretor-geral do Hospital Sírio-Libanês</segment>
+    <segment id="2">, o cirurgião Paulo Chapchap</segment>
+    <segment id="3">, 65, defende o uso obrigatório de máscaras em ambientes coletivos em todo o país</segment>
+    <segment id="4">comocomo forma de diminuir o contágio do novo coronavírus.</segment>
+    <segment id="5">À frente da equipe do Todos pela Saúde</segment>
+    <segment id="6">, projeto que alocará R$ 1 bilhão doado pelo Itaú Unibanco para apoiar o SUS no combate à Covid-19</segment>
+    <segment id="7">, ele diz que é preciso que os profissionais de saúde façam um mea- culpa pela demora em não preconizar o uso de qualquer tipo de máscara</segment>
+    <segment id="8">, inclusive as de pano.</segment>
+    <segment id="9">“</segment>
+    <segment id="10">A gente tinha carência de equipamento de proteção individual para os profissionais de saúde</segment>
+    <segment id="11">, e ficou muito assustado de propor a utilização de máscara para a população</segment>
+    <segment id="12">comocomo um todo</segment>
+    <segment id="13">, com medo que faltasse [nos serviços de saúde]”</segment>
+    <segment id="14">, afirma o médico.</segment>
+    <segment id="15">Segundo Chapchap</segment>
+    <segment id="16">, não é momento de afrouxar o isolamento social</segment>
+    <segment id="17">porque</segment>
+    <segment id="18">porque o pior da pandemia ainda não aconteceu</segment>
+    <segment id="19">, e há risco na improvisação de leitos de UTI.</segment>
+    <segment id="20">“Quando</segment>
+    <segment id="21">sese improvisa o leito de UTI</segment>
+    <segment id="22">, improvisa-</segment>
+    <segment id="23">sese a equipe também e a letalidade aumenta.</segment>
+    <segment id="24">Se você tiver um cuidado ideal de terapia intensiva</segment>
+    <segment id="25">, a letalidade passa a ser muito baixa e exclusivamente para quem já tem doenças muito graves”</segment>
+    <segment id="26">, diz ele.</segment>
+    <segment id="27">O médico Paulo Chapchap</segment>
+    <segment id="28">, do Hospital Sírio-Libanês- Folhapress</segment>
+    <segment id="29">O setor privado está adotando leitos de UTI do Hospital das Clínicas.</segment>
+    <segment id="30">Esse tipo de iniciativa</segment>
+    <segment id="31">sese estenderá para o resto do país?</segment>
+    <segment id="32">Isso já está acontecendo.</segment>
+    <segment id="33">No Rio de Janeiro</segment>
+    <segment id="34">, a iniciativa privada está aumentando a estrutura pública em relação a hospitais de campanha e aparelhando a estrutura pública.</segment>
+    <segment id="35">O Hospital do Fundão</segment>
+    <segment id="36">, da Universidade Federal do Rio de Janeiro</segment>
+    <segment id="37">, está recebendo ajuda material importante.</segment>
+    <segment id="38">Em São Paulo</segment>
+    <segment id="39">, tem uma estrutura muito bem montada para vários níveis de atendimento.</segment>
+    <segment id="40">Ajudamos a fazer na comunidade de Paraisópolis dormitórios</segment>
+    <segment id="41">para que</segment>
+    <segment id="42">para que os gripados não voltem para casa e não contaminem o resto da família e a destinação de quartos de hotéis para idosos vulneráveis</segment>
+    <segment id="43">, como</segment>
+    <segment id="44">como acontece no Rio</segment>
+    <segment id="45">, e para profissionais de saúde.</segment>
+    <segment id="46">Tem também os hospitais de campanha para paciente de baixa gravidade</segment>
+    <segment id="47">, adaptação de hospitais para doentes de média gravidade até as UTIs para pacientes de altíssima complexidade.</segment>
+    <segment id="48">Essa iniciativa dos leitos do HC e outras que estão acontecendo são para aumentar a estrutura de atendimento.</segment>
+    <segment id="49">Isso é absolutamente necessário e precisa ser feito de forma estruturada.</segment>
+    <segment id="50">São Paulo já registra queda nas taxas de isolamento social.</segment>
+    <segment id="51">É hora de abaixar a guarda?</segment>
+    <segment id="52">De forma alguma.</segment>
+    <segment id="53">Não passamos ainda pelo pior dessa pandemia.</segment>
+    <segment id="54">A gente aprendeu algumas coisas</segment>
+    <segment id="55">, e uma delas é que a utilização de máscaras em ambientes coletivos diminui muito índice de contágio.</segment>
+    <segment id="56">De qualquer máscara.</segment>
+    <segment id="57">A gente demorou para aprender isso.</segment>
+    <segment id="58">Nós todos</segment>
+    <segment id="59">, profissionais de saúde</segment>
+    <segment id="60">, precisamos fazer um mea-culpa.</segment>
+    <segment id="61">A gente tinha carência de equipamento de proteção individual para os profissionais de saúde no tratamento dos doentes positivos.</segment>
+    <segment id="62">Máscaras</segment>
+    <segment id="63">, aventais e outros artigos.</segment>
+    <segment id="64">Com isso</segment>
+    <segment id="65">, a gente ficou muito assustado de propor a utilização de máscaras para a população</segment>
+    <segment id="66">comocomo um todo</segment>
+    <segment id="67">porque</segment>
+    <segment id="68">porque elas poderiam faltar onde seriam mais necessárias</segment>
+    <segment id="69">, que é no ambiente de tratamento dos pacientes.</segment>
+    <segment id="70">A gente deveria</segment>
+    <segment id="71">, desde o começo</segment>
+    <segment id="72">, ter preconizado as máscaras caseiras</segment>
+    <segment id="73">, as de pano com dupla camada.</segment>
+    <segment id="74">É verdade que não é igual às máscaras cirúrgicas triplas.</segment>
+    <segment id="75">Talvez não confira 100% proteção</segment>
+    <segment id="76">, masmas confira 95%.</segment>
+    <segment id="77">Hoje a gente aprendeu que a máscara de pano é boa o suficiente para inibir o contágio desde que todos usem.</segment>
+    <segment id="78">O uso de máscara deveria ser obrigatório em todo o país?</segment>
+    <segment id="79">Sim, o uso de máscaras deveria ser obrigatório em todo o país</segment>
+    <segment id="80">, igual ao cinto de segurança</segment>
+    <segment id="81">, que salva vidas.</segment>
+    <segment id="82">No começo</segment>
+    <segment id="83">, diziam:</segment>
+    <segment id="84">‘não podemos obrigar</segment>
+    <segment id="85">, as pessoas têm o direito de não usar’.</segment>
+    <segment id="86">Não, não</segment>
+    <segment id="87">, não.</segment>
+    <segment id="88">É obrigatório.</segment>
+    <segment id="89">Cadeirinha para criança no carro é obrigatório.</segment>
+    <segment id="90">Usar máscara é obrigatório.</segment>
+    <segment id="91">Entre 10 e 14 dias</segment>
+    <segment id="92">, sese todo mundo usar máscaras em ambiente coletivo</segment>
+    <segment id="93">, o efeito começa a aparecer em duas semanas.</segment>
+    <segment id="94">Você já consegue alterar as curvas.</segment>
+    <segment id="95">Estamos tímidos na implantação dessa obrigatoriedade.</segment>
+    <segment id="96">Cidades paulistas iniciam obrigatoriedade do uso de máscaras de proteção   novamente         de   de  de  representando um  Qual a razão dessa timidez?</segment>
+    <segment id="97">Receio da opinião pública?</segment>
+    <segment id="98">Talvez pela falta de consciência da necessidade e do benefício.</segment>
+    <segment id="99">Eu acho que algum relaxamento a gente vai conseguir fazer em populações de baixo risco</segment>
+    <segment id="100">, desde que todos mantenham o distanciamento social e estejam de máscara.</segment>
+    <segment id="101">E sobre tratamentos?</segment>
+    <segment id="102">Algo promissor?</segment>
+    <segment id="103">A gente precisa encontrar novas drogas efetivas contra o vírus e desenvolver a vacina e comprovar a eficiência dela.</segment>
+    <segment id="104">É isso que vai nos tirar dessa crise.</segment>
+    <segment id="105">Mas a gente aprendeu muito em termos de tratamento de suporte de UTI nos últimos meses.</segment>
+    <segment id="106">Hoje a gente sabe lidar muito melhor com anticoagulação</segment>
+    <segment id="107">, quando necessária</segment>
+    <segment id="108">, com a indicação precoce de diálise</segment>
+    <segment id="109">, quando necessária</segment>
+    <segment id="110">, com ventilação mecânica com parâmetros diferentes dos que a gente costumava usar em outros enfrentamentos de insuficiência respiratória.</segment>
+    <segment id="111">A característica da doença pulmonar na Covid é muito particular.</segment>
+    <segment id="112">Se você tiver um cuidado ideal de terapia intensiva</segment>
+    <segment id="113">, com todos esses aprendizados</segment>
+    <segment id="114">, a letalidade passa a ser muito baixa e exclusivamente para quem já tem doenças muito graves.</segment>
+    <segment id="115">Temos vários exemplos de pessoas que foram para a UTI e que saíram</segment>
+    <segment id="116">porque</segment>
+    <segment id="117">porque o tratamento idealmente proporcionado salva.</segment>
+    <segment id="118">Quanto é a taxa de letalidade no Sírio?  É muito baixa.</segment>
+    <segment id="119">Tivemos 10 óbitos entre 1.180 pacientes confirmados.</segment>
+    <segment id="120">Foram 295 internações.</segment>
+    <segment id="121">Pelo número de pacientes internados</segment>
+    <segment id="122">, a taxa de letalidade é de 3</segment>
+    <segment id="123">,3%.</segment>
+    <segment id="124">Pelo número de casos totais</segment>
+    <segment id="125">, de 0</segment>
+    <segment id="126">,8%.</segment>
+    <segment id="127">Pelo menos três dos casos de óbitos eram de pacientes com câncer metastático que pegaram Covid.</segment>
+    <segment id="128">Outros são pacientes transferidos de outros lugares e que já chegaram em condições extremas.</segment>
+    <segment id="129">A maior parte dos pacientes é curável</segment>
+    <segment id="130">sese tiver a UTI ideal.</segment>
+    <segment id="131">Muitos leitos de UTI estão sendo improvisados.</segment>
+    <segment id="132">Isso piora o desfecho?</segment>
+    <segment id="133">Quando</segment>
+    <segment id="134">sese improvisa o leito</segment>
+    <segment id="135">, improvisa-</segment>
+    <segment id="136">sese a equipe também e a letalidade aumenta.</segment>
+    <segment id="137">Por que eu digo que o distanciamento tem que permanecer?</segment>
+    <segment id="138">Para que a gente utilize as UTIs ideais</segment>
+    <segment id="139">, aquelas que têm equipes formadas</segment>
+    <segment id="140">, experientes</segment>
+    <segment id="141">, no conhecimento e no tratamento específico da Covid para diminuir a letalidade.</segment>
+    <segment id="142">Precisamos manter o número de casos baixo</segment>
+    <segment id="143">para que</segment>
+    <segment id="144">para que haja acesso às UTIs ideais.</segment>
+    <segment id="145">Como fazer chegar esses protocolos bem-sucedidos de UTI em todo o país?</segment>
+    <segment id="146">Já compartilhamos os protocolos a pedido do Ministério da Saúde [ainda na gestão de Luiz Henrique Mandetta]</segment>
+    <segment id="147">para que</segment>
+    <segment id="148">para que o conhecimento seja disseminado.</segment>
+    <segment id="149">Nossos profissionais e de outros hospitais têm desenvolvido projetos de teleUTI para fazer o aconselhamento de profissionais nas outras frentes de batalha.</segment>
+    <segment id="150">Está acontecendo já.</segment>
+    <segment id="151">Precisa acontecer mais?</segment>
+    <segment id="152">Precisa.</segment>
+    <segment id="153">Qual o maior desafio?</segment>
+    <segment id="154">Profissionais qualificados</segment>
+    <segment id="155">, falta de equipamentos ou o conjunto todo?  É o conjunto.</segment>
+    <segment id="156">Mas se</segment>
+    <segment id="157">se você me pedisse para falar uma</segment>
+    <segment id="158">, eu diria que é formação profissional.</segment>
+    <segment id="159">A segunda é ter ventilador.</segment>
+    <segment id="160">Você não consegue tratar de paciente com insuficiência respiratória grave sem ventilador.</segment>
+    <segment id="161">A questão de medicação não é problema.  Também precisamos continuar olhando para a necessidade de equipamentos proteção individual adequados.</segment>
+    <segment id="162">Não é justo você pedir para alguém ir para a frente da batalha sem a armadura.</segment>
+    <segment id="163">O setor privado de saúde contabiliza prejuízos por conta da suspensão dos procedimentos eletivos.</segment>
+    <segment id="164">Qual o risco?</segment>
+    <segment id="165">Todos os nossos hospitais nesse momento que estão com ocupação baixa têm custos fixos que têm que ser pagos.</segment>
+    <segment id="166">Essas empresas vão ficar numa situação econômica difícil.</segment>
+    <segment id="167">Já neste mês há instituições com dificuldade de pagar a folha de pagamento.</segment>
+    <segment id="168">Outros vão aguentar de dois a três meses.</segment>
+    <segment id="169">Mas se</segment>
+    <segment id="170">se essa situação persistir por muito tempo</segment>
+    <segment id="171">, vão ter problema de solvência.</segment>
+    <segment id="172">Como está a ocupação do Sírio hoje?</segment>
+    <segment id="173">Em torno de 50% a 55%.</segment>
+    <segment id="174">Em situações normais</segment>
+    <segment id="175">, nossa ocupação é de 85%.</segment>
+    <segment id="176">É um desafio</segment>
+    <segment id="177">, sim.</segment>
+    <segment id="178">Qual a principal lição dessa pandemia?</segment>
+    <segment id="179">O exercício de solidariedade.</segment>
+    <segment id="180">As ações de solidariedade vão salvar muitas vidas.</segment>
+    <segment id="181">Raio-X  Paulo Chapchap</segment>
+    <segment id="182">, 65, é médico formado pela Faculdade de Medicina da USP</segment>
+    <segment id="183">, doutor em clínica cirúrgica.</segment>
+    <segment id="184">Foi pesquisador e professor visitante em transplante de fígado da Universidade de Pittsburgh e é coordenador do grupo de transplante de fígado do Hospital Sírio-Libanês.</segment>
+    <segment id="185">Atualmente é diretor-geral da instituição.</segment>
+  </rst>
+</analysis>

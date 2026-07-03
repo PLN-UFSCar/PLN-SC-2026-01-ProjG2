@@ -1,0 +1,60 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Projeto Bike Rio ganha mais nove estações
+RIO - O projeto Bike Rio ganhou na sexta-feira mais nove estações
+Arpoador</segment>
+    <segment id="2">, General Osório</segment>
+    <segment id="3">, Maria Quitéria</segment>
+    <segment id="4">, Epitácio Pessoa</segment>
+    <segment id="5">, Farme de Amoedo</segment>
+    <segment id="6">, Aníbal de Mendonça</segment>
+    <segment id="7">, Antero de Quental</segment>
+    <segment id="8">, Cine Leblon e Largo da Memória.</segment>
+    <segment id="9">Com as novas estações</segment>
+    <segment id="10">, o projeto passa a contar com o funcionamento de 20 pontos para retirada e devolução das bicicletas.</segment>
+    <segment id="11">A previsão é de que</segment>
+    <segment id="12">, até o dia 13 de dezembro</segment>
+    <segment id="13">, sejam instaladas 60 estações em 14 bairros da Zona Sul e do Centro.</segment>
+    <segment id="14">As bicicletas ficam à disposição do público diariamente</segment>
+    <segment id="15">, no período das 6h às 22h.</segment>
+    <segment id="16">Bicicletas podem ser usadas durante uma hora
+
+Quem quiser usar o sistema compartilhado</segment>
+    <segment id="17">, precisa preencher um cadastro pela internet (www.movesamba.com.br) e adquirir o passe Samba.</segment>
+    <segment id="18">O usuário terá</segment>
+    <segment id="19">comocomo opções pagar pela mensalidade R$ 10</segment>
+    <segment id="20">,00 ou pela diária de R$ 5</segment>
+    <segment id="21">,00, sem precisar pagar qualquer valor adicional.</segment>
+    <segment id="22">No entanto</segment>
+    <segment id="23">, há algumas regras a serem seguidas: a bicicleta pode ser usada durante uma hora</segment>
+    <segment id="24">, quantas vezes o cliente quiser</segment>
+    <segment id="25">, desde que seja devolvida a cada 60 minutos</segment>
+    <segment id="26">, com mais 15 de espera para pegá-la novamente.</segment>
+    <segment id="27">O aluguel das bicicletas pode ser feito por telefone: 4063-3111.</segment>
+    <segment id="28">O atendimento ao usuário é no 0800-892-6650.</segment>
+    <segment id="29">O projeto de compartilhamento de bicicletas foi lançado na última sexta-feira pela prefeitura</segment>
+    <segment id="30">, em conjunto com a empresa concessionária Serttel e com o patrocínio do Banco Itaú.</segment>
+  </rst>
+</analysis>

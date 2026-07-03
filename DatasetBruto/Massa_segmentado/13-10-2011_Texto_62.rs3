@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Vistos bem juntinhos</segment>
+    <segment id="2">, masmas negam namoro</segment>
+    <segment id="3">Caio Castro e Monique Alfradique saem juntos</segment>
+    <segment id="4">Caio Castro e Monique Alfradique estão namorando?</segment>
+    <segment id="5">Eles dizem que não</segment>
+    <segment id="6">, masmas o que</segment>
+    <segment id="7">sese vê nos eventos que os dois estão é um clima forte de romance no ar.</segment>
+    <segment id="8">Na última terça-feira (11)</segment>
+    <segment id="9">, por exemplo</segment>
+    <segment id="10">, os atores saíram abraçadinhos do evento 'Rio of Sound'</segment>
+    <segment id="11">, no Centro do Rio de Janeiro.</segment>
+    <segment id="12">No dia 1º deste mês</segment>
+    <segment id="13">, para os que não lembram</segment>
+    <segment id="14">, eles já tinham sido vistos juntinhos durante o Rock in Rio.</segment>
+  </rst>
+</analysis>

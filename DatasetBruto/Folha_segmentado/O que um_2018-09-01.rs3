@@ -1,0 +1,266 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">[RESUMO]</segment>
+    <segment id="2">A mecânica quântica —a melhor teoria que temos até hoje para explicar fenômenos na escala atômica e subatômica— é a base de tecnologias que vão do laser a computadores supervelozes.</segment>
+    <segment id="3">Mais do que isso</segment>
+    <segment id="4">, essa área da física mudou a forma</segment>
+    <segment id="5">comocomo compreendemos o mundo.</segment>
+    <segment id="6">A história de todo esse desenvolvimento guarda</segment>
+    <segment id="7">, porém</segment>
+    <segment id="8">porém, outro ensinamento que pode ser bastante valioso em tempos de pós-verdade: a atitude científica.</segment>
+    <segment id="9">Em 2016</segment>
+    <segment id="10">, o departamento universitário responsável por editar o renomado dicionário Oxford de inglês escolheu o vocábulo "pós-verdade" ("post-truth")</segment>
+    <segment id="11">comocomo a palavra do ano.</segment>
+    <segment id="12">"</segment>
+    <segment id="13">Pós-verdade" é definido</segment>
+    <segment id="14">, segundo essa obra</segment>
+    <segment id="15">, como</segment>
+    <segment id="16">como um termo que "</segment>
+    <segment id="17">sese relaciona ou denota circunstâncias em que fatos objetivos são menos importantes na formação da opinião pública do que apelos à emoção e às crenças pessoais".</segment>
+    <segment id="18">Pós-verdades têm tido maior repercussão no cenário político</segment>
+    <segment id="19">, masmas questões de cunho científico não escaparam ilesas.</segment>
+    <segment id="20">Negação do aquecimento global</segment>
+    <segment id="21">, criacionismo e</segment>
+    <segment id="22">, mais recentemente</segment>
+    <segment id="23">, terraplanismo são exemplos marcantes em que fatos científicos são ignorados e substituídos por crenças ou comodismos.</segment>
+    <segment id="24">Em 1935</segment>
+    <segment id="25">, Einstein</segment>
+    <segment id="26">, com Boris Podolsky (1896-1966) e Nathan Rosen (1909-1995)</segment>
+    <segment id="27">, percebeu que a teoria quântica leva a um tipo de "conexão" (tecnicamente</segment>
+    <segment id="28">, correlação) entre partículas subatômicas que pode ser mais forte do que as correlações observadas entre sistemas macroscópicos.</segment>
+    <segment id="29">Esse tipo de correlação entre partículas subatômicas foi batizado por Schrödinger</segment>
+    <segment id="30">, em 1935</segment>
+    <segment id="31">, de emaranhamento quântico.</segment>
+    <segment id="32">Em princípio</segment>
+    <segment id="33">, correlações não têm nada de misterioso.</segment>
+    <segment id="34">Considere a situação em que dois carros</segment>
+    <segment id="35">sese afastam um do outro em linha reta com velocidades idênticas</segment>
+    <segment id="36">, porém</segment>
+    <segment id="37">porém inicialmente desconhecidas para nós.</segment>
+    <segment id="38">Quando medimos a velocidade de um dos carros</segment>
+    <segment id="39">, descobrimos imediatamente a velocidade do outro.</segment>
+    <segment id="40">Da mesma forma</segment>
+    <segment id="41">, sese os dois carros partiram do mesmo ponto</segment>
+    <segment id="42">, quando medimos a posição de um deles em relação ao ponto inicial</segment>
+    <segment id="43">, descobrimos imediatamente a posição do outro.</segment>
+    <segment id="44">Portanto</segment>
+    <segment id="45">, as posições e velocidades dos dois carros estão correlacionadas.</segment>
+    <segment id="46">No entanto</segment>
+    <segment id="47">, quando transportamos esse cenário para o mundo quântico</segment>
+    <segment id="48">, as correlações quânticas parecem desafiar ora a mecânica quântica</segment>
+    <segment id="49">, ora a teoria da relatividade</segment>
+    <segment id="50">, ambas muito caras a Einstein.</segment>
+    <segment id="51">Einstein</segment>
+    <segment id="52">, Podolsky e Rosen (EPR) imaginaram uma situação experimental semelhante à dos carros acima</segment>
+    <segment id="53">, masmas com partículas subatômicas.</segment>
+    <segment id="54">Eles consideraram um experimento mental no qual duas partículas (que denotaremos por A e B) são preparadas de tal forma que suas posições e velocidades são quanticamente emaranhadas</segment>
+    <segment id="55">, ou seja</segment>
+    <segment id="56">, dotadas daquela "conexão" que só ocorre no mundo atômico e subatômico.</segment>
+    <segment id="57">Depois que as duas partículas estão bem distantes uma da outra</segment>
+    <segment id="58">, EPR argumentam que</segment>
+    <segment id="59">, assim</segment>
+    <segment id="60">comocomo para os carros</segment>
+    <segment id="61">, sese realizássemos uma medição da posição de A</segment>
+    <segment id="62">, poderíamos inferir a posição de B. E</segment>
+    <segment id="63">, sese medíssemos a velocidade de A</segment>
+    <segment id="64">, poderíamos descobrir a velocidade de B.</segment>
+    <segment id="65">Como, no ato das medições</segment>
+    <segment id="66">, as partículas já estão muito distantes entre si</segment>
+    <segment id="67">, os três autores supõem que a medição de A não interfere em nada nos valores da posição e velocidade de B. Aqui</segment>
+    <segment id="68">, temos um possível dilema.</segment>
+    <segment id="69">Alguns anos antes</segment>
+    <segment id="70">, em 1927</segment>
+    <segment id="71">, Heisenberg havia demonstrado que</segment>
+    <segment id="72">, segundo a mecânica quântica</segment>
+    <segment id="73">, não pode existir um sistema subatômico que tenha</segment>
+    <segment id="74">, ao mesmo tempo</segment>
+    <segment id="75">, valores bem definidos para posição e velocidade.</segment>
+    <segment id="76">Se um sistema subatômico apresenta um valor bem definido para sua posição</segment>
+    <segment id="77">, quando medimos a sua velocidade encontramos valores aleatórios.</segment>
+    <segment id="78">Esse é o conteúdo da famosa relação de incerteza de Heisenberg.</segment>
+    <segment id="79">No entanto</segment>
+    <segment id="80">, no experimento pensado por EPR</segment>
+    <segment id="81">, caso</segment>
+    <segment id="82">caso decidíssemos medir a posição de A</segment>
+    <segment id="83">, descobriríamos que B tem posição bem definida</segment>
+    <segment id="84">; sese resolvêssemos medir a velocidade de A</segment>
+    <segment id="85">, descobriríamos que B tem velocidade bem definida.</segment>
+    <segment id="86">Mas, como</segment>
+    <segment id="87">como as partículas estão separadas por grande distância</segment>
+    <segment id="88">, a decisão de qual medição será feita em A não pode influenciar os valores de posição e velocidade da partícula B. Ou seja</segment>
+    <segment id="89">, B deveria ter</segment>
+    <segment id="90">, em princípio</segment>
+    <segment id="91">, posição e velocidade bem definidas ao mesmo tempo.</segment>
+    <segment id="92">Essa argumentação leva a uma contradição com o princípio da incerteza.</segment>
+    <segment id="93">Portanto</segment>
+    <segment id="94">, os autores alegam que a mecânica quântica não seria uma teoria completa</segment>
+    <segment id="95">, já que não conseguiria estabelecer valores de grandezas físicas que estão de fato presentes no sistema que está sendo medido.</segment>
+    <segment id="96">Na concepção dos três físicos</segment>
+    <segment id="97">, o único modo de salvar a mecânica quântica seria relaxando a hipótese de que a medição de A não pode interferir instantaneamente nas propriedades de B.</segment>
+    <segment id="98">Por exemplo</segment>
+    <segment id="99">, sese decidíssemos medir a posição de A —o que</segment>
+    <segment id="100">, por consequência</segment>
+    <segment id="101">, nos permitiria dizer que B teria posição bem definida—</segment>
+    <segment id="102">, isso perturbaria de forma aleatória a velocidade da partícula B</segment>
+    <segment id="103">, e, portanto</segment>
+    <segment id="104">, essa partícula não teria velocidade bem definida.</segment>
+    <segment id="105">Essa solução</segment>
+    <segment id="106">, porém</segment>
+    <segment id="107">porém, sugere que a informação do que foi medido em A teria de ser transmitida instantaneamente para B. Mas</segment>
+    <segment id="108">, segundo a teoria da relatividade de Einstein</segment>
+    <segment id="109">, nenhum sinal que carrega informação pode ser enviado de modo mais rápido do que a luz (300 mil km/s).</segment>
+    <segment id="110">Mais uma vez</segment>
+    <segment id="111">, parecemos chegar a uma contradição.</segment>
+    <segment id="112">Einstein deu nome a essa possível transmissão instantânea:</segment>
+    <segment id="113">"</segment>
+    <segment id="114">ação fantasmagórica a distância".</segment>
+    <segment id="115">As ideias que levaram ao "paradoxo EPR</segment>
+    <segment id="116">" foram fortemente influenciadas pelas várias discussões que Einstein teve com Bohr.</segment>
+    <segment id="117">Einstein ganhou o Nobel de Física em 1921 por mostrar o efeito da quantização da luz</segment>
+    <segment id="118">;</segment>
+    <segment id="119">Bohr recebeu o Nobel de Física no ano seguinte por descrever a quantização da matéria.</segment>
+    <segment id="120">O físico dinamarquês Niels Bohr (esq.) e o alemão Albert Einstein discutem mecânica quântica</segment>
+    <segment id="121">, em 1925 -</segment>
+    <segment id="122">Coleção particular</segment>
+    <segment id="123">Apesar de os dois cientistas terem participado de forma crucial da construção da mecânica quântica</segment>
+    <segment id="124">, eles discordavam fortemente a respeito de aspectos mais filosóficos da teoria.</segment>
+    <segment id="125">Einstein acreditava que</segment>
+    <segment id="126">, ao contrário do que diz a mecânica quântica</segment>
+    <segment id="127">, todas as grandezas físicas de um sistema devem ter um valor bem definido o tempo todo</segment>
+    <segment id="128">, independentemente de estarem ou não sendo medidas.</segment>
+    <segment id="129">Ou seja</segment>
+    <segment id="130">, há uma realidade intrínseca</segment>
+    <segment id="131">, e medições só a descobrem.</segment>
+    <segment id="132">Bohr, em contrapartida</segment>
+    <segment id="133">, postulou o princípio da complementaridade —para os sistemas na escala atômica</segment>
+    <segment id="134">, não existe um valor predefinido para as grandezas físicas</segment>
+    <segment id="135">;</segment>
+    <segment id="136">são as medições que criam a realidade.</segment>
+    <segment id="137">Apesar dessa discordância (ou por causa dela)</segment>
+    <segment id="138">, os dois cientistas</segment>
+    <segment id="139">sese admiravam mutuamente.</segment>
+    <segment id="140">A discussão de ideias</segment>
+    <segment id="141">, sobretudo com quem não concorda com elas</segment>
+    <segment id="142">,</segment>
+    <segment id="143">é parte fundamental da atitude científica.</segment>
+    <segment id="144">Na esteira da construtiva discussão entre dois dos maiores cientistas do século passado</segment>
+    <segment id="145">, Bohr</segment>
+    <segment id="146">, ainda em 1935</segment>
+    <segment id="147">, escreveu um artigo no qual abordava o tal "paradoxo EPR".</segment>
+    <segment id="148">A resposta</segment>
+    <segment id="149">, porém</segment>
+    <segment id="150">porém, não convenceu.</segment>
+    <segment id="151">Einstein morreu em 1955</segment>
+    <segment id="152">;</segment>
+    <segment id="153">Bohr, em 1962.</segment>
+    <segment id="154">A teoria da mecânica quântica</segment>
+    <segment id="155">sese transformou em uma das mais precisas e mais bem testadas de todos os tempos.</segment>
+    <segment id="156">Até hoje</segment>
+    <segment id="157">, nenhum experimento pôs em questão sua validade.</segment>
+    <segment id="158">Apesar de todo esse sucesso</segment>
+    <segment id="159">, aquelas questões de 1935 ainda incomodavam.</segment>
+    <segment id="160">Foram necessários quase 30 anos e um até então desconhecido físico</segment>
+    <segment id="161">, John Stewart Bell (1928-1990)</segment>
+    <segment id="162">, para que</segment>
+    <segment id="163">para que</segment>
+    <segment id="164">, em 1964</segment>
+    <segment id="165">, a resposta ao "paradoxo EPR" começasse a</segment>
+    <segment id="166">sese desenhar.</segment>
+    <segment id="167">Bell percebeu que</segment>
+    <segment id="168">, sese realizamos um experimento somente uma vez</segment>
+    <segment id="169">, nada podemos falar sobre correlações ou transferência de informação.</segment>
+    <segment id="170">Para tal</segment>
+    <segment id="171">, é preciso repeti-lo muitas vezes e</segment>
+    <segment id="172">, assim</segment>
+    <segment id="173">, obter a probabilidade de cada resultado possível.</segment>
+    <segment id="174">A estratégia de Bell foi</segment>
+    <segment id="175">, então</segment>
+    <segment id="176">, a de relacionar os conceitos de realismo (que diz que os valores das grandezas físicas estão definidos a todo instante) e de localidade (que afirma que não pode haver interação instantânea a distância instantânea) com as probabilidades dos resultados de medições nas partículas</segment>
+    <segment id="177">A e B.</segment>
+    <segment id="178">Com isso</segment>
+    <segment id="179">, ele transformou conceitos a princípio de cunho filosófico em grandezas que podem ser acessadas por experimentos.</segment>
+    <segment id="180">Também com essa formulação probabilística podemos estabelecer critérios para verificar</segment>
+    <segment id="181">sese uma teoria permite transmissão de informação instantaneamente —e fica claro que a mecânica quântica não a permite.</segment>
+    <segment id="182">A contradição em relação à teoria da relatividade</segment>
+    <segment id="183">, então</segment>
+    <segment id="184">, não existe</segment>
+    <segment id="185">, masmas ainda resta a possibilidade de interação instantânea a distância sem a transmissão de informação.</segment>
+    <segment id="186">Partindo das ideias de Bell</segment>
+    <segment id="187">, é possível construir uma relação entre as probabilidades dos resultados de um experimento a qual deve ser satisfeita por todas as teorias que supõem realismo e localidade.</segment>
+    <segment id="188">Essa relação é conhecida hoje em dia</segment>
+    <segment id="189">comocomo desigualdade de Bell.</segment>
+    <segment id="190">Experimentos para testar tal desigualdade começaram no início da década de 1980</segment>
+    <segment id="191">, tendo sido realizada em 2015 sua versão mais sofisticada.</segment>
+    <segment id="192">Em todos esses experimentos</segment>
+    <segment id="193">, a conclusão é sempre a mesma: a mecânica quântica não está de acordo com a desigualdade de Bell.</segment>
+    <segment id="194">Os resultados desses experimentos mostram</segment>
+    <segment id="195">, mais uma vez</segment>
+    <segment id="196">, que ideias que tomamos</segment>
+    <segment id="197">comocomo absolutamente triviais no mundo macroscópico não podem ser tomadas</segment>
+    <segment id="198">comocomo verdadeiras no mundo das partículas subatômicas.</segment>
+    <segment id="199">Na arena quântica</segment>
+    <segment id="200">, ou não temos realismo</segment>
+    <segment id="201">, ou não temos localidade</segment>
+    <segment id="202">, ou não temos nenhuma das duas coisas.</segment>
+    <segment id="203">Portanto</segment>
+    <segment id="204">, uma teoria sem interação a distância e com valores bem definidos a todo tempo para as grandezas físicas —</segment>
+    <segment id="205">comocomo</segment>
+    <segment id="206">, talvez</segment>
+    <segment id="207">, desejasse Einstein— não é possível.</segment>
+    <segment id="208">Uma teoria sem interação a distância na qual medições geram a realidade —</segment>
+    <segment id="209">comocomo argumentava Bohr— ainda não foi refutada e segue</segment>
+    <segment id="210">, portanto</segment>
+    <segment id="211">, como</segment>
+    <segment id="212">como uma das possíveis descrições da natureza.</segment>
+    <segment id="213">Mesmo em uma discussão entre gigantes da ciência</segment>
+    <segment id="214">, os fatos dão a última palavra.</segment>
+    <segment id="215">Desde seu nascimento</segment>
+    <segment id="216">, a mecânica quântica tem mudado nossa sociedade de forma radical.</segment>
+    <segment id="217">Aquela discussão filosófica de 1935</segment>
+    <segment id="218">, que alterou a forma</segment>
+    <segment id="219">comocomo entendemos a natureza a partir de 1964</segment>
+    <segment id="220">, é hoje o combustível de surpreendentes tecnologias quânticas.</segment>
+    <segment id="221">Computadores quânticos</segment>
+    <segment id="222">, que permitem resolver problemas intratáveis para as máquinas atuais</segment>
+    <segment id="223">, e criptografia quântica</segment>
+    <segment id="224">, que permite comunicações intrinsecamente seguras</segment>
+    <segment id="225">, são alguns dos desenvolvimentos tecnológicos que prometem mudar drasticamente a forma</segment>
+    <segment id="226">comocomo viveremos em um futuro não muito distante.</segment>
+    <segment id="227">Crucial para esses desenvolvimentos foi (e ainda é) a atitude científica.</segment>
+    <segment id="228">Numa sociedade em que mentiras e meias verdades são disseminadas com velocidade —o que fez analistas afirmarem que vivemos a era da pós-verdade—</segment>
+    <segment id="229">, talvez a atitude científica seja a mais importante das lições da história da mecânica quântica.</segment>
+    <segment id="230">Mais que gerar inovações tecnológicas</segment>
+    <segment id="231">, o papel das ciências é o de mudar a sociedade pela forma</segment>
+    <segment id="232">comocomo compreendemos o mundo.</segment>
+    <segment id="233">Fica, então</segment>
+    <segment id="234">, uma possível lição para estes tempos: interpretações</segment>
+    <segment id="235">, erros</segment>
+    <segment id="236">, vieses e dúvidas vão sempre estar presentes</segment>
+    <segment id="237">, masmas fatos não podem ser ignorados.</segment>
+    <segment id="238">Fernando de Melo é doutor em física pela Universidade Federal do Rio de Janeiro e pesquisador do Centro Brasileiro de Pesquisas Físicas</segment>
+    <segment id="239">, no Rio de Janeiro (RJ).</segment>
+    <segment id="240">Sua área de pesquisa é informação quântica.</segment>
+  </rst>
+</analysis>

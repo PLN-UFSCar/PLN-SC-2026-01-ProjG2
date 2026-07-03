@@ -1,0 +1,35 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Se o piloto brasileiro Emerson Fittipaldi vencer o GP da Áustria de F-1 neste domingo (13)</segment>
+    <segment id="2">, ele ampliará a sua liderança no Mundial e ficará em uma posição na qual dificilmente perderá o título de campeão da temporada de 1972.</segment>
+    <segment id="3">A corrida terá 53 voltas</segment>
+    <segment id="4">, em um total de 320 quilômetros</segment>
+    <segment id="5">, e será transmitida pela TV para todo o Brasil.</segment>
+    <segment id="6">As duas maiores novidades para o GP austríaco são o novo Tyrrell Ford 003 do piloto escocês Jackie Stewart para duelar com o Lottus de Fittipaldi e o novo Connew que será estreado pelo francês François Migault.</segment>
+    <segment id="7">O brasileiro é apontado</segment>
+    <segment id="8">comocomo o favorito para a vitória.</segment>
+    <segment id="9">Primeira Página da Folha de 13 de agosto de 1972 - Reprodução</segment>
+  </rst>
+</analysis>

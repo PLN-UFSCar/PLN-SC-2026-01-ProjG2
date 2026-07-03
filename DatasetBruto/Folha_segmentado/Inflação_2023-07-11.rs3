@@ -1,0 +1,99 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Após castigar os consumidores a partir da pandemia</segment>
+    <segment id="2">, a inflação perde força nas metrópoles brasileiras.</segment>
+    <segment id="3">É o que sinalizam dados do IPCA (Índice Nacional de Preços ao Consumidor Amplo) divulgados nesta terça-feira (11) pelo IBGE (Instituto Brasileiro de Geografia e Estatística).</segment>
+    <segment id="4">No acumulado de 12 meses até junho</segment>
+    <segment id="5">, o índice ficou abaixo de 3% em 11 das 16 capitais e regiões metropolitanas pesquisadas pelo instituto.</segment>
+    <segment id="6">A menor alta foi registrada em São Luís: 1</segment>
+    <segment id="7">,11%.</segment>
+    <segment id="8">Goiânia teve a segunda variação menos intensa</segment>
+    <segment id="9">, de 1</segment>
+    <segment id="10">,30%.</segment>
+    <segment id="11">Curitiba (2</segment>
+    <segment id="12">,07%), Fortaleza (2</segment>
+    <segment id="13">,13%) e Campo Grande (2</segment>
+    <segment id="14">,43%) aparecem em seguida.</segment>
+    <segment id="15">São Paulo</segment>
+    <segment id="16">, por sua vez</segment>
+    <segment id="17">, acumulou a maior alta até junho</segment>
+    <segment id="18">, de 4</segment>
+    <segment id="19">,44%, apesar da trajetória de trégua –a alta era de 5</segment>
+    <segment id="20">,08% até maio.</segment>
+    <segment id="21">Consumidores compram alimentos em supermercado de São Paulo - Bruno Santos - 30.set.2021/FolhapressO cenário mostra diferenças em relação a um ano atrás.</segment>
+    <segment id="22">Em junho de 2022</segment>
+    <segment id="23">, o IPCA acumulado estava acima de 10% em 15 das 16 capitais e regiões metropolitanas pesquisadas pelo IBGE.</segment>
+    <segment id="24">A maior alta à época era de Curitiba (14</segment>
+    <segment id="25">,24%), seguida pelas variações de Salvador (13</segment>
+    <segment id="26">,41%), Goiânia (12</segment>
+    <segment id="27">,36%) e Aracaju (12</segment>
+    <segment id="28">,36%).</segment>
+    <segment id="29">Belém (9</segment>
+    <segment id="30">,55%) era a única metrópole com inflação abaixo de 10% à época.</segment>
+    <segment id="31">Na média do Brasil</segment>
+    <segment id="32">, o IPCA desacelerou para 3</segment>
+    <segment id="33">,16% no acumulado de 12 meses até junho deste ano.</segment>
+    <segment id="34">É a menor variação nesse recorte desde setembro de 2020 (3</segment>
+    <segment id="35">,14%).</segment>
+    <segment id="36">Mais sobre inflaçãoCalculadora da inflação:</segment>
+    <segment id="37">atualize valores com base nos índices IPCA</segment>
+    <segment id="38">, IGP-M</segment>
+    <segment id="39">, INPC e INCCServiço da Folha mede inflação de mais de 300 produtos em capitaisSegundo analistas</segment>
+    <segment id="40">, o resultado está associado a fatores</segment>
+    <segment id="41">comocomo a perda de força da inflação dos alimentos em um cenário de oferta maior</segment>
+    <segment id="42">, além da queda artificial dos preços de combustíveis com a desoneração de impostos promovida pelo governo Jair Bolsonaro (PL) às vésperas das eleições de 2022.</segment>
+    <segment id="43">Economistas avaliam que o IPCA acumulado deve ficar em um patamar acima de 4% até o final do ano.</segment>
+    <segment id="44">Em parte</segment>
+    <segment id="45">, essa projeção está associada à base de comparação</segment>
+    <segment id="46">, com a saída do cálculo dos 12 meses dos efeitos da desoneração vista no segundo semestre de 2022.</segment>
+    <segment id="47">IPCA acumulado em 12 meses</segment>
+    <segment id="48">Variação até jun.2023</segment>
+    <segment id="49">, em %</segment>
+    <segment id="50">São Paulo 4</segment>
+    <segment id="51">,44</segment>
+    <segment id="52">Vitória 3</segment>
+    <segment id="53">,76   Brasília 3</segment>
+    <segment id="54">,24   Belém 3</segment>
+    <segment id="55">,13   Rio de Janeiro 3</segment>
+    <segment id="56">,03</segment>
+    <segment id="57">Aracaju 2</segment>
+    <segment id="58">,76   Salvador 2</segment>
+    <segment id="59">,7</segment>
+    <segment id="60">Rio Branco 2</segment>
+    <segment id="61">,62   Porto Alegre 2</segment>
+    <segment id="62">,58</segment>
+    <segment id="63">Belo Horizonte 2</segment>
+    <segment id="64">,54</segment>
+    <segment id="65">Recife 2</segment>
+    <segment id="66">,47   Campo Grande 2</segment>
+    <segment id="67">,43</segment>
+    <segment id="68">Fortaleza 2</segment>
+    <segment id="69">,13   Curitiba 2</segment>
+    <segment id="70">,07   Goiânia 1</segment>
+    <segment id="71">,3</segment>
+    <segment id="72">São Luís 1</segment>
+    <segment id="73">,11     Fonte: IPCA/IBGE</segment>
+  </rst>
+</analysis>

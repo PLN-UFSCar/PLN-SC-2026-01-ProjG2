@@ -1,0 +1,127 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Após os impactos econômicos da pandemia</segment>
+    <segment id="2">, o Brasil teve um salto no número de trabalhadores com renda mais baixa</segment>
+    <segment id="3">, de até um salário mínimo.</segment>
+    <segment id="4">É o que indica um levantamento do economista Bruno Imaizumi</segment>
+    <segment id="5">, da LCA Consultores</segment>
+    <segment id="6">, a partir de microdados da Pnad Contínua (Pesquisa Nacional por Amostra de Domicílios Contínua).</segment>
+    <segment id="7">No segundo trimestre deste ano</segment>
+    <segment id="8">, o mais recente com estatísticas disponíveis</segment>
+    <segment id="9">, cerca de 35</segment>
+    <segment id="10">,6 milhões de trabalhadores (formais e informais) tinham renda de até um salário mínimo por mês (R$ 1.212).</segment>
+    <segment id="11">Em termos absolutos</segment>
+    <segment id="12">, o número representa um recorde na série histórica</segment>
+    <segment id="13">, iniciada em 2012.</segment>
+    <segment id="14">Os 35,6 milhões correspondiam a 36</segment>
+    <segment id="15">,6% da população ocupada com algum tipo de trabalho e com o rendimento detalhado nos microdados da Pnad (97</segment>
+    <segment id="16">,1 milhões).</segment>
+    <segment id="17">Camelôs vendem produtos no centro de São Paulo - Danilo Verpa - 28.jun.2022/FolhapressNo segundo trimestre de 2019</segment>
+    <segment id="18">, antes da pandemia</segment>
+    <segment id="19">, o número de profissionais com renda de até um salário mínimo estava em 27</segment>
+    <segment id="20">,6 milhões (7</segment>
+    <segment id="21">,9 milhões a menos)</segment>
+    <segment id="22">, o equivalente a 29</segment>
+    <segment id="23">,9% dos ocupados à época (92</segment>
+    <segment id="24">,5 milhões).</segment>
+    <segment id="25">O salário mínimo era de R$ 998 naquele ano.</segment>
+    <segment id="26">"</segment>
+    <segment id="27">Fica claro</segment>
+    <segment id="28">comocomo ocorreu a recuperação do mercado de trabalho após o impacto da pandemia.</segment>
+    <segment id="29">O trabalho ficou mais barato"</segment>
+    <segment id="30">, diz Imaizumi.</segment>
+    <segment id="31">"</segment>
+    <segment id="32">A inflação incomodou o bolso das pessoas.</segment>
+    <segment id="33">Em um período de incerteza elevada</segment>
+    <segment id="34">, muitas aceitaram empregos com menor remuneração.</segment>
+    <segment id="35">E a recuperação veio primeiro via informalidade"</segment>
+    <segment id="36">, acrescenta.</segment>
+    <segment id="37">O levantamento aponta que o percentual de trabalhadores com renda de até um salário mínimo permaneceu acima de 30% da população ocupada ao longo de toda a crise sanitária –e ainda não mostrou grandes sinais de alívio.</segment>
+    <segment id="38">A maior porcentagem da série histórica foi registrada no segundo trimestre de 2020</segment>
+    <segment id="39">, na fase inicial da pandemia: 36</segment>
+    <segment id="40">,9%.</segment>
+    <segment id="41">À época</segment>
+    <segment id="42">, 30,6 milhões de um total de 82</segment>
+    <segment id="43">,9 milhões ganhavam até o mínimo.</segment>
+    <segment id="44">A Pnad é uma pesquisa do IBGE (Instituto Brasileiro de Geografia e Estatística) que retrata tanto o mercado de trabalho formal quanto o informal.</segment>
+    <segment id="45">Em outras palavras</segment>
+    <segment id="46">, abrange desde os empregos com carteira assinada e CNPJ até os populares bicos.</segment>
+    <segment id="47">Os microdados analisados por Imaizumi passaram por ajuste sazonal.</segment>
+    <segment id="48">Os informais não têm renda fixa</segment>
+    <segment id="49">, tampouco reajustes assegurados pela inflação.</segment>
+    <segment id="50">Porém, uma parte deles até pode</segment>
+    <segment id="51">sese balizar pelo mínimo na hora de ofertar trabalho</segment>
+    <segment id="52">, segundo Imaizumi.  "</segment>
+    <segment id="53">O salário mínimo atinge mais o trabalhador formal.</segment>
+    <segment id="54">Aquele informal que tem mais qualificação até pode</segment>
+    <segment id="55">sese balizar pelo mínimo.</segment>
+    <segment id="56">Mas o menos qualificado não está pensando nisso.</segment>
+    <segment id="57">Há níveis diferentes de informalidade.</segment>
+    <segment id="58">"</segment>
+    <segment id="59">O salário mínimo virou ponto central de debates às vésperas do segundo turno das eleições.</segment>
+    <segment id="60">O motivo foi a revelação por reportagem da Folha de um plano do ministro Paulo Guedes (Economia) que poderia resultar em mudanças na forma de correção do mínimo e de aposentadorias.</segment>
+    <segment id="61">Na prática</segment>
+    <segment id="62">, a medida abriria possibilidade de o reajuste anual dos benefícios não levar mais em conta a inflação passada</segment>
+    <segment id="63">, regra em vigor atualmente.</segment>
+    <segment id="64">Após a repercussão</segment>
+    <segment id="65">, Guedes negou mudar a regra "durante o jogo"</segment>
+    <segment id="66">, masmas sinalizou ser favorável à desindexação.</segment>
+    <segment id="67">O plano gerou uma enxurrada de críticas de adversários e foi usado</segment>
+    <segment id="68">comocomo munição contra o governo Jair Bolsonaro (PL) na fase final da campanha.</segment>
+    <segment id="69">Guedes chegou a associar a divulgação da proposta a militantes petistas que estariam infiltrados no Ministério da Economia.</segment>
+    <segment id="70">Faixas com renda maior encolhem</segment>
+    <segment id="71">Enquanto o número de trabalhadores com renda de até um salário mínimo aumentou no país</segment>
+    <segment id="72">, os grupos de profissionais com rendimentos mais altos encolheram durante a pandemia</segment>
+    <segment id="73">, indica o levantamento de Imaizumi.</segment>
+    <segment id="74">No segundo trimestre deste ano</segment>
+    <segment id="75">, o contingente que recebia entre um e dois salários mínimos foi estimado em 31</segment>
+    <segment id="76">,2 milhões</segment>
+    <segment id="77">, o equivalente a 32</segment>
+    <segment id="78">,1% da população ocupada com trabalho formal ou informal.</segment>
+    <segment id="79">Em igual intervalo de 2019</segment>
+    <segment id="80">, antes do coronavírus</segment>
+    <segment id="81">, estava em 32</segment>
+    <segment id="82">,3 milhões (1</segment>
+    <segment id="83">,1 milhão a mais).</segment>
+    <segment id="84">A parcela representava 34</segment>
+    <segment id="85">,9% da população ocupada à época.</segment>
+    <segment id="86">Já o grupo que recebia mais de dois salários mínimos ficou em quase 30</segment>
+    <segment id="87">,4 milhões no segundo trimestre deste ano</segment>
+    <segment id="88">, cerca de 2</segment>
+    <segment id="89">,2 milhões abaixo dos 32</segment>
+    <segment id="90">,5 milhões de 2019.</segment>
+    <segment id="91">A participação na população ocupada atingiu 31</segment>
+    <segment id="92">,3% entre abril e junho de 2022</segment>
+    <segment id="93">, inferior ao percentual de 35</segment>
+    <segment id="94">,2% verificado em igual trimestre de 2019.</segment>
+    <segment id="95">"</segment>
+    <segment id="96">Não dá para comemorar tanto a situação do mercado de trabalho.</segment>
+    <segment id="97">Em termos de aumento da ocupação</segment>
+    <segment id="98">, ok.</segment>
+    <segment id="99">Mas o fato é que o trabalho ficou mais barato na pandemia"</segment>
+    <segment id="100">, analisa Imaizumi.</segment>
+    <segment id="101">Vendedores apostam em toalhas de Lula e BolsonaroMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

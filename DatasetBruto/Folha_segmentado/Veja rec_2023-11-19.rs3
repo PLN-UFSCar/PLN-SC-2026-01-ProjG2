@@ -1,0 +1,59 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A gastronomia da Coreia do Sul tem ganhado destaque com a popularização do k-pop e dos k-dramas.</segment>
+    <segment id="2">Um dos pratos mais típicos dessa culinária é o japchae</segment>
+    <segment id="3">, macarrão de batata-doce acompanhado de carne e vegetais</segment>
+    <segment id="4">, levemente adocicado.</segment>
+    <segment id="5">Japchae</segment>
+    <segment id="6">, macarrão de batata-doce coreano - Divulgação</segment>
+    <segment id="7">A seguir</segment>
+    <segment id="8">, saiba</segment>
+    <segment id="9">comocomo prepará-lo.</segment>
+    <segment id="10">A receita é de Arthur Paek</segment>
+    <segment id="11">, influenciador que ficou conhecido nas redes sociais por fazer vídeos de receitas da culinária coreana</segment>
+    <segment id="12">, em parceria com o chef e apresentador Rodrigo Hilbert.</segment>
+    <segment id="13">Japchae  Ingredientes   200 g de filé-mignon 6 a 8 shiitakes de tamanho médio 3 ovos 150 g de espinafre cozido e drenado 200 g de dangmyeon (macarrão de batata-doce) 1 cebola média</segment>
+    <segment id="14">2 cenouras médias 1 a 2 pimentões vermelhos ou amarelos  Shoyu</segment>
+    <segment id="15">Alho, açúcar e pimenta-do-reino a gosto</segment>
+    <segment id="16">Modo de preparo</segment>
+    <segment id="17">Tempere o filé-mignon com shoyu</segment>
+    <segment id="18">, alho</segment>
+    <segment id="19">, açúcar e pimenta-do-reino a gosto.</segment>
+    <segment id="20">Corte em tiras e cozinhe</segment>
+    <segment id="21">Bata os três ovos em uma tigela</segment>
+    <segment id="22">, frite</segment>
+    <segment id="23">, enrole e corte em tiras</segment>
+    <segment id="24">Tempere o shiitake com shoyu e açúcar e salteie</segment>
+    <segment id="25">Tempere o espinafre com óleo de gergelim</segment>
+    <segment id="26">, shoyu e alho.</segment>
+    <segment id="27">Cozinhe o vegetal e drene</segment>
+    <segment id="28">Cozinhe o macarrão de batata-doce por seis minutos na água fervente.</segment>
+    <segment id="29">Corte-o com tesoura e tempere com shoyu</segment>
+    <segment id="30">, óleo de gergelim e açúcar Corte e salteie as cenouras</segment>
+    <segment id="31">, a cebola e os pimentões</segment>
+    <segment id="32">Combine todos os ingredientes</segment>
+    <segment id="33">, misture em uma tigela e sirva.</segment>
+  </rst>
+</analysis>

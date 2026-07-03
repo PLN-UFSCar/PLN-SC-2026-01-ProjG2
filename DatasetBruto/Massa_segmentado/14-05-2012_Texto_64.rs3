@@ -1,0 +1,53 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Sargento da Aeronáutica é preso na Ilha do Governador
+RIO - Um sargento da Aeronáutica foi preso ontem</segment>
+    <segment id="2">, acusado de praticar roubos e sequestros- relâmpagos na Ilha do Governador.</segment>
+    <segment id="3">Rodrigo de Jesus Correa</segment>
+    <segment id="4">, de 29 anos</segment>
+    <segment id="5">, foi detido com seu irmão Renan de Jesus Correa</segment>
+    <segment id="6">, de 27</segment>
+    <segment id="7">, numa casa na Rua Beni</segment>
+    <segment id="8">, na Praia da Bandeira.</segment>
+    <segment id="9">No local foi apreendido um carro Ford Fiesta vermelho</segment>
+    <segment id="10">, joias</segment>
+    <segment id="11">, telefones celulares e documentos</segment>
+    <segment id="12">, que serão analisados.</segment>
+    <segment id="13">De acordo com o delegado Deoclécio de Assis</segment>
+    <segment id="14">, titular da 37ª DP (Ilha do Governador)</segment>
+    <segment id="15">, também é suspeito de fazer parte do grupo Luiz Paulo Baptista</segment>
+    <segment id="16">, o Gordo</segment>
+    <segment id="17">, de 30 anos</segment>
+    <segment id="18">, que está foragido.</segment>
+    <segment id="19">As investigações policiais tiveram início após uma vítima procurar a delegacia denunciando a atuação do grupo.</segment>
+    <segment id="20">Na semana passada</segment>
+    <segment id="21">, dois estudantes da Universidade Federal do Rio de Janeiro (UFRJ) sofreram sequestros- relâmpagos na Ilha do Fundão.</segment>
+    <segment id="22">Após os dois casos mais recentes</segment>
+    <segment id="23">, o policiamento foi reforçado na região.</segment>
+    <segment id="24">Segundo a 37ª DP</segment>
+    <segment id="25">, desde janeiro</segment>
+    <segment id="26">, outros quatro casos foram registrados na Cidade Universitária.</segment>
+  </rst>
+</analysis>

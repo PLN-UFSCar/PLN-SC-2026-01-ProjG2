@@ -1,0 +1,38 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Ator global fecha contrato com Band</segment>
+    <segment id="2">Dan serÃ¡</segment>
+    <segment id="3">o novo apresentador do CQC</segment>
+    <segment id="4">Segundo a colunista PatrÃ­cia Kogut</segment>
+    <segment id="5">, do jornal â€œO Globoâ€</segment>
+    <segment id="6">, Ã© Dan Stulbach que vai assumir a bancada do 'CQC' em 2015</segment>
+    <segment id="7">, no lugar de Marcelo Tas.</segment>
+    <segment id="8">As conversas com a emissora teriam comeÃ§ado na semana passada e a proposta financeira foi irrecusÃ¡vel.</segment>
+    <segment id="9">O ator jÃ¡</segment>
+    <segment id="10">participou de quatro novelas e trabalhou</segment>
+    <segment id="11">comocomo apresentador no rÃ¡dio e na TV.</segment>
+    <segment id="12">Recentemente ele substituiu FÃ¡tima Bernardes no programa 'Encontro'.</segment>
+  </rst>
+</analysis>

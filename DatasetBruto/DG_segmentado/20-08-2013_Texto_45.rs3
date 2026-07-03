@@ -1,0 +1,51 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Golpe no crime</segment>
+    <segment id="2">Suspeitos de roubo de motos e trÃ¡fico de drogas sÃ£o presos na Capital
+Dupla</segment>
+    <segment id="3">, de 25 e 27 anos</segment>
+    <segment id="4">, foi capturada em casa da Rua Seis de Novembro</segment>
+    <segment id="5">, no Bairro Mario Quintana</segment>
+    <segment id="6">, na Zona Norte</segment>
+    <segment id="7">Material apreendido incluÃ­a drogas e objetos retirados de veÃ­culos</segment>
+    <segment id="8">Dois homens foram presos na manhÃ£ desta terÃ§a-feira em uma operaÃ§Ã£o da Delegacia de Furto e Roubo de VeÃ­culos</segment>
+    <segment id="9">, do Deic.</segment>
+    <segment id="10">Os agentes investigam a aÃ§Ã£o de uma quadrilha especializada no roubo de motos.</segment>
+    <segment id="11">A dupla</segment>
+    <segment id="12">, de 25 e 27 anos</segment>
+    <segment id="13">, foi capturada em casa da Rua Seis de Novembro</segment>
+    <segment id="14">, no Bairro Mario Quintana</segment>
+    <segment id="15">, na Zona Norte de Porto Alegre.</segment>
+    <segment id="16">Com eles foram encontradas uma pistola calibre .380</segment>
+    <segment id="17">, uma espingarda calibre 12</segment>
+    <segment id="18">, muniÃ§Ãµes</segment>
+    <segment id="19">, cerca de 1kg de drogas - entre cocaÃ­na</segment>
+    <segment id="20">, maconha e crack -</segment>
+    <segment id="21">, balanÃ§a</segment>
+    <segment id="22">, cadernos com a contabilidade de uma boca de fumo</segment>
+    <segment id="23">, chaves de motos e tambÃ©m de carros</segment>
+    <segment id="24">, alÃ©m de um capacete e objetos retirados dos veÃ­culos.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,90 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Apesar dos esforços do governo de Jair Bolsonaro (PL) para conquistar votos dos eleitores mais pobres</segment>
+    <segment id="2">, por meio do aumento do Auxílio Brasil para R$ 600 às vésperas das eleições</segment>
+    <segment id="3">, 55% dos eleitores que recebem o benefício afirmam que a situação econômica do país piorou nos últimos meses</segment>
+    <segment id="4">, segundo pesquisa Datafolha feita de 20 a 22 de setembro.</segment>
+    <segment id="5">Mais vulneráveis às altas acumuladas de preços de alimentos e do custo de vida</segment>
+    <segment id="6">, nesse grupo apenas 21% dizem ter percebido uma melhora do país</segment>
+    <segment id="7">, e 23% não notaram mudanças.</segment>
+    <segment id="8">Pessoas formam fila em agência da Caixa em SP - Rivaldo Gomes - 9.ago.22/FolhapressO instituto ouviu 6.754 eleitores com mais de 16 anos</segment>
+    <segment id="9">, em 343 municípios de todas as regiões do país.</segment>
+    <segment id="10">Para o grupo de beneficiários do Auxílio Brasil</segment>
+    <segment id="11">, a margem de erro é de três pontos percentuais</segment>
+    <segment id="12">, para mais ou para menos.</segment>
+    <segment id="13">Quando avaliam sua situação econômica individual</segment>
+    <segment id="14">, 46% dos cadastrados no programa também enxergam uma piora</segment>
+    <segment id="15">, ante os 31% que dizem não ter notado mudanças e os 23% que comemoram uma melhora.</segment>
+    <segment id="16">Além disso</segment>
+    <segment id="17">, o instituto também mediu que 54% dos que recebem o benefício dizem acreditar que a vida ficará melhor</segment>
+    <segment id="18">, caso</segment>
+    <segment id="19">caso o líder nas pesquisas de intenção de voto</segment>
+    <segment id="20">, o ex-presidente Luiz Inácio Lula da Silva (PT)</segment>
+    <segment id="21">, retorne à Presidência da República.</segment>
+    <segment id="22">O dado da pesquisa Datafolha também aponta que 20% dos beneficiários não esperam mudanças com o retorno do petista</segment>
+    <segment id="23">, e outros 20% imaginam que tudo piore.</segment>
+    <segment id="24">Entre os que não fazem parte do programa</segment>
+    <segment id="25">, 40% esperam uma melhora com a volta do petista</segment>
+    <segment id="26">;</segment>
+    <segment id="27">30%, uma piora</segment>
+    <segment id="28">; 24,5%</segment>
+    <segment id="29">, que tudo fique</segment>
+    <segment id="30">comocomo antes.</segment>
+    <segment id="31">No caso</segment>
+    <segment id="32">caso de um eventual novo mandato de Bolsonaro</segment>
+    <segment id="33">, apenas 17% dos beneficiários esperam uma melhora</segment>
+    <segment id="34">, 36% dizem que a vida deve ficar igual</segment>
+    <segment id="35">, e 43% esperam que as coisas piorem.</segment>
+    <segment id="36">Quando considerados todos os entrevistados</segment>
+    <segment id="37">, inscritos ou não no programa de transferência de renda</segment>
+    <segment id="38">, a perspectiva de um terceiro mandato de Lula é recebida com otimismo por 43</segment>
+    <segment id="39">,5%, enquanto 23</segment>
+    <segment id="40">,5% responderam que tudo deve ficar</segment>
+    <segment id="41">comocomo está e 27% têm a avaliação de que deve ficar pior.</segment>
+    <segment id="42">Para Bolsonaro</segment>
+    <segment id="43">, 21% afirmam que a vida irá melhorar</segment>
+    <segment id="44">, 36% não esperam mudanças e 39% veem mais quatro anos do presidente com pessimismo.</segment>
+    <segment id="45">Desde novembro passado</segment>
+    <segment id="46">, quando substituiu o Bolsa Família —marca dos governos petistas— pelo novo programa</segment>
+    <segment id="47">, o governo tenta ganhar terreno entre o eleitorado de menor renda.</segment>
+    <segment id="48">No fim de julho</segment>
+    <segment id="49">, a Folha mostrou que 350 mil famílias entram</segment>
+    <segment id="50">, em média</segment>
+    <segment id="51">, na fila do Auxílio Brasil por mês</segment>
+    <segment id="52">, um aumento em relação a 2019</segment>
+    <segment id="53">, quando eram 200 mil.</segment>
+    <segment id="54">Para especialistas</segment>
+    <segment id="55">, é um reflexo do aumento da pobreza e de interesse dos brasileiros de menor renda que receberam o auxílio emergencial durante a pandemia.</segment>
+    <segment id="56">Mesmo com o aumento do benefício para R$ 600</segment>
+    <segment id="57">, apenas 5 das 17 capitais analisadas pelo Dieese (Departamento Intersindical de Estatística e Estudos Socioeconômicos) tinham cesta básica abaixo do valor do benefício.</segment>
+    <segment id="58">As cinco ficam no Nordeste:</segment>
+    <segment id="59">Recife (R$ 598</segment>
+    <segment id="60">,14), Natal (R$ 580</segment>
+    <segment id="61">,74), Salvador (R$ 576</segment>
+    <segment id="62">,93), João Pessoa (R$ 568</segment>
+    <segment id="63">,21) e Aracaju (R$ 539</segment>
+    <segment id="64">,57).</segment>
+  </rst>
+</analysis>

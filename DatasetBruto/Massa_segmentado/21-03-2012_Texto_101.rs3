@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O remédio é arrochar
+Kaline Kelley</segment>
+    <segment id="2">, está em Salvador há quatro anos para estudar</segment>
+    <segment id="3">masmas sabe bem é dançar
+Baiana de Paramirim</segment>
+    <segment id="4">, Kaline Kelley</segment>
+    <segment id="5">, 21, chegou em Salvador há quatro anos para estudar.</segment>
+    <segment id="6">Mas o destino tratou de levá-la para os palcos.</segment>
+    <segment id="7">“Faço o curso de Farmácia</segment>
+    <segment id="8">, masmas adoro dançar”</segment>
+    <segment id="9">,</segment>
+    <segment id="10">conta a moça que é dançarina na banda de arrocha do cantor Diego Costa.</segment>
+    <segment id="11">Para aguentar a arrocheira</segment>
+    <segment id="12">, mantém as pernas firmes com muita malhação.</segment>
+    <segment id="13">“</segment>
+    <segment id="14">Pego 250 kg só nas pernas”</segment>
+    <segment id="15">, garante.</segment>
+  </rst>
+</analysis>

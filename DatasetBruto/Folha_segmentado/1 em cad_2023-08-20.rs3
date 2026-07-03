@@ -1,0 +1,174 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O vaivém de estudantes era intenso no final da manhã da última terça-feira (15) na praça da Matriz</segment>
+    <segment id="2">, em Maragogipe (a 145 km de Salvador).</segment>
+    <segment id="3">Ônibus escolares tomavam as vias da cidade histórica e os alunos</segment>
+    <segment id="4">sese apinhavam nos bancos para voltarem para casa nos distritos e bairros mais distantes.</segment>
+    <segment id="5">A cidade tem cerca de 7.000 estudantes da rede municipal e 56 escolas de ensino fundamental.</segment>
+    <segment id="6">Mas o prefeito Valnício Armede (PSD) está apreensivo e diz que terá que demitir ao menos 600 servidores</segment>
+    <segment id="7">, suspender serviços e retardar investimentos.</segment>
+    <segment id="8">Maragogipe faz parte do rol de ao menos 757 municípios que terão redução nos coeficientes do FPM (Fundo de Participação dos Municípios)</segment>
+    <segment id="9">, recalculados após a divulgação em julho dos dados do Censo 2022.</segment>
+    <segment id="10">Desses</segment>
+    <segment id="11">, 710 teriam perdas efetivas no primeiro semestre deste ano —cerca de 1 em cada 8 cidades—</segment>
+    <segment id="12">, considerando a arrecadação no período e a comparação com os repasses federais recebidos no mesmo recorte de 2022.</segment>
+    <segment id="13">Movimentação de alunos eônibus escolares na praça da Matriz de Maragogipe</segment>
+    <segment id="14">, no Recôncavo baiano - Rafaela Araújo/FolhapressA queda nas receitas acontecerá de forma gradual após o presidente Luiz Inácio Lula da Silva (PT) sancionar em junho uma lei que cria um regime de transição e dilui as perdas por dez anos.</segment>
+    <segment id="15">Mesmo com a trava</segment>
+    <segment id="16">, prefeitos</segment>
+    <segment id="17">sese rebelaram contra o Censo e tentam reverter o baque no orçamento com ações judiciais</segment>
+    <segment id="18">, pedidos de revisão de limites territoriais e até mesmo mutirões para contagem paralela dos habitantes das cidades.</segment>
+    <segment id="19">O FPM é formado por parcela dos recursos do Imposto de Renda e do Imposto sobre Produtos Industrializados</segment>
+    <segment id="20">, e os repasses são feitos pela União três vezes a cada mês.</segment>
+    <segment id="21">É a principal fonte de receita de 7 a cada 10 municípios brasileiros.</segment>
+    <segment id="22">As cidades recebem recursos conforme o tamanho da população e a renda per capita do estado.</segment>
+    <segment id="23">Há regras distintas para capitais</segment>
+    <segment id="24">, cidades com até 156.216 habitantes e cidades com população acima desse patamar que não são capitais.</segment>
+    <segment id="25">As mudanças nos repasses são feitas pelo TCU (Tribunal de Contas da União) de acordos com dados do Censo.</segment>
+    <segment id="26">Programado para 2020</segment>
+    <segment id="27">, o levantamento foi iniciado dois anos depois pelo IBGE</segment>
+    <segment id="28">, que tem reiterado a confiabilidade dos números.</segment>
+    <segment id="29">Em nota</segment>
+    <segment id="30">, o TCU informou que</segment>
+    <segment id="31">, com exceção das capitais</segment>
+    <segment id="32">, os demais municípios não tiveram redução de coeficientes neste ano.</segment>
+    <segment id="33">Também destacou que ainda não</segment>
+    <segment id="34">sese pronunciou no mérito do processo que trata da contestação aos coeficientes do FPM 2023.</segment>
+    <segment id="35">Levantamento da Folha aponta que</segment>
+    <segment id="36">, afora as capitais</segment>
+    <segment id="37">, as perdas no orçamento desses 757 municípios com coeficiente menor terão somariam R$ 1</segment>
+    <segment id="38">,5 bilhão no primeiro semestre de 2023.</segment>
+    <segment id="39">O impacto será maior nas regiões</segment>
+    <segment id="40">Norte (23% das cidades afetadas) e Nordeste (17%).</segment>
+    <segment id="41">Municípios do Pará são os que mais vão perder recursos.</segment>
+    <segment id="42">O maior baque no orçamento será em São Félix do Xingu</segment>
+    <segment id="43">, cujos repasses teriam caído de R$ 31</segment>
+    <segment id="44">,4 milhões para R$ 21</segment>
+    <segment id="45">,9 milhões em relação ao primeiro semestre do ano passado.</segment>
+    <segment id="46">Proporcionalmente</segment>
+    <segment id="47">, a maior perda acontecerá em Ipixuna do Pará (39%)</segment>
+    <segment id="48">, com redução de R$ 20</segment>
+    <segment id="49">,9 milhões para R$ 12</segment>
+    <segment id="50">,7 milhões na mesma comparação.</segment>
+    <segment id="51">A Bahia é o estado com mais municípios afetados pelas perdas nos repasses.</segment>
+    <segment id="52">Ao todo</segment>
+    <segment id="53">, 105 cidades baianas –1 em cada 4– terão redução no coeficiente.</segment>
+    <segment id="54">Fincada no Recôncavo baiano</segment>
+    <segment id="55">, Maragogipe viveu ciclos de apogeu e queda desde sua fundação em 1557.</segment>
+    <segment id="56">Produziu cana-de-açúcar no período colonial</segment>
+    <segment id="57">, desenvolveu uma indústria de fumo no século 19 e no início deste século viveu novo auge com a construção de um estaleiro que gerou 4.500 empregos</segment>
+    <segment id="58">, masmas que acabou sendo fechado.</segment>
+    <segment id="59">Hoje, vive do pequeno comércio</segment>
+    <segment id="60">, da pesca e do serviço público que ajuda a fazer a roda girar.</segment>
+    <segment id="61">É neste cenário que a cidade caiu duas faixas no FPM e teve uma perda calculada de R$ 4 milhões no primeiro semestre</segment>
+    <segment id="62">, após queda na população de 44</segment>
+    <segment id="63">,9 mil para 35</segment>
+    <segment id="64">,9 mil habitantes.</segment>
+    <segment id="65">A prefeitura entrou com um mandado de segurança</segment>
+    <segment id="66">, sustou as perdas até o fim do ano</segment>
+    <segment id="67">, masmas</segment>
+    <segment id="68">sese planeja para um cenário de restrições.</segment>
+    <segment id="69">"</segment>
+    <segment id="70">Como essa queda de receita</segment>
+    <segment id="71">, pode ser até que eu não seja candidato no próximo ano.</segment>
+    <segment id="72">Vou dizer o quê?</segment>
+    <segment id="73">Será que a população vai querer ouvir o que estou dizendo?</segment>
+    <segment id="74">É difícil entender"</segment>
+    <segment id="75">, afirma o prefeito Valnício Armede</segment>
+    <segment id="76">, que questiona os dados do Censo e diz que nem ele foi entrevistado pelo IBGE.</segment>
+    <segment id="77">Com menos recursos</segment>
+    <segment id="78">, a gestão já atrasa o pagamento de fornecedores e terá dificuldade em manter obras em curso</segment>
+    <segment id="79">, caso</segment>
+    <segment id="80">caso de uma nova escola e a restauração da antiga Santa Casa</segment>
+    <segment id="81">, um prédio de 1850.</segment>
+    <segment id="82">A zeladoria está comprometida e as ladeiras que dão acesso ao centro da cidade estão tomadas por buracos.</segment>
+    <segment id="83">As estradas vicinais são outro desafio: o pescador Ualison de Oliveira</segment>
+    <segment id="84">, 32, enfrentou sete quilômetros de vias precárias na zona rural para levar o filho Eduardo</segment>
+    <segment id="85">, de cinco meses</segment>
+    <segment id="86">, ao posto de saúde.  Maragogipe</segment>
+    <segment id="87">, cidade histórica do Recôncavo da BahiaMais    novamente         de   de  de  representando um  Camacan</segment>
+    <segment id="88">, no sul da Bahia</segment>
+    <segment id="89">, viu o número de habitantes cair de 31</segment>
+    <segment id="90">,5 mil para 22</segment>
+    <segment id="91">,6 mil teve a perda semestral estimada em R$ 4 milhões:</segment>
+    <segment id="92">"</segment>
+    <segment id="93">É pedir para fechar a cidade e entregar a chave para alguém vir apagar a luz"</segment>
+    <segment id="94">, ironiza o prefeito Paulo César Bomfim (Podemos)</segment>
+    <segment id="95">, o Paulo do Gás</segment>
+    <segment id="96">, que demitiu 70 funcionários desde maio.</segment>
+    <segment id="97">Outras cidades questionam os dados do Censo com medidas que incluem até a recontagem da população.</segment>
+    <segment id="98">Em Bom Princípio (RS)</segment>
+    <segment id="99">, a prefeitura convocou profissionais de saúde e agentes comunitários para "retificar os dados" do Censo 2022.</segment>
+    <segment id="100">Em Teotônio Vilela (AL)</segment>
+    <segment id="101">, o prefeito Peu Pereira (PP) solicitou a revisão de limites territoriais do município após o Censo apontar uma redução da população de 44 mil para 38 mil habitantes.</segment>
+    <segment id="102">A cidade terá uma perda de R$ 1</segment>
+    <segment id="103">,2 milhão no FPM</segment>
+    <segment id="104">, considerando o recorte do primeiro semestre.</segment>
+    <segment id="105">Dentre as capitais</segment>
+    <segment id="106">, a mudança mais brusca foi em Teresina (PI)</segment>
+    <segment id="107">, onde o coeficiente do FPM foi reduzido de 6</segment>
+    <segment id="108">,25% para 4%.</segment>
+    <segment id="109">A perda mensal é de R$ 30 milhões</segment>
+    <segment id="110">, valor correspondente aos gastos com coleta de lixo e merenda escolar.</segment>
+    <segment id="111">A prefeitura obteve uma liminar na Justiça Federal.</segment>
+    <segment id="112">Admilson Lustosa</segment>
+    <segment id="113">, secretário da Fazenda de Teresina</segment>
+    <segment id="114">, diz redução do recurso no meio do ano embaralhou o planejamento e já impacta os serviços públicos:</segment>
+    <segment id="115">"Estamos com os hospitais lotados</segment>
+    <segment id="116">, com gente nos corredores"</segment>
+    <segment id="117">, afirma</segment>
+    <segment id="118">, destacando que a rede municipal atende pacientes de todo o estado.</segment>
+    <segment id="119">Além das perdas do FPM</segment>
+    <segment id="120">, as prefeituras também alegam que houve uma redução de repasses discricionários da União.</segment>
+    <segment id="121">Presidente da UPB (União dos Municípios da Bahia) e prefeito de Belo Campo</segment>
+    <segment id="122">, Quinho (PSD) diz que as quedas de receitas estão estrangulando as gestões municipais</segment>
+    <segment id="123">, que enfrentam dificuldades até mesmo para pagar os servidores.  255 municípios receberão mais recursos</segment>
+    <segment id="124">Na contramão daquelas que registraram perdas</segment>
+    <segment id="125">, 255 municípios tiveram o valor do repasse do FPM ampliado a partir os dados do novo Censo.</segment>
+    <segment id="126">A cidade de Extremoz (RN) é a que terá maior aumento</segment>
+    <segment id="127">, saindo de R$ 15</segment>
+    <segment id="128">,1 milhões para R$ 26</segment>
+    <segment id="129">,5 milhões no primeiro semestre deste ano</segment>
+    <segment id="130">, um avanço de 75%.</segment>
+    <segment id="131">Proporcionalmente</segment>
+    <segment id="132">, o maior reajuste é em Abadia de Goiás (GO): de R$ 5</segment>
+    <segment id="133">,9 milhões para R$ 11</segment>
+    <segment id="134">,9 milhões</segment>
+    <segment id="135">, um crescimento de quase 100%.</segment>
+    <segment id="136">Ao contrário dos municípios que terão perdas</segment>
+    <segment id="137">, não há trava no</segment>
+    <segment id="138">casocaso das cidades que tiveram o FPM majorado.</segment>
+    <segment id="139">Na avaliação do demógrafo Ricardo Ojima</segment>
+    <segment id="140">, professor da Universidade Federal do Rio Grande do Norte</segment>
+    <segment id="141">, é necessário atualizar a legislação e criar uma nova metodologia para distribuir o FPM que dialogue com o cenário de estabilização do crescimento populacional no Brasil apontado pelo Censo 2022.</segment>
+    <segment id="142">"</segment>
+    <segment id="143">Atrelar o repasse ao volume populacional não é o mais adequado</segment>
+    <segment id="144">, é preciso pensar em outros modelos.</segment>
+    <segment id="145">Uma cidade com uma população mais envelhecida</segment>
+    <segment id="146">, por exemplo</segment>
+    <segment id="147">, tem demandas de gastos com saúde mais elevadas"</segment>
+    <segment id="148">, afirma.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Na telinha</segment>
+    <segment id="2">A gata quer conquistar seu espaço na televisão</segment>
+    <segment id="3">Moradora de Brotas</segment>
+    <segment id="4">, Claudia Mascarenhas</segment>
+    <segment id="5">, 22 anos</segment>
+    <segment id="6">, é assistente do palco do programa Cereja Club e sonha ter seu próprio espaço  na televisão.</segment>
+    <segment id="7">Enquanto não realiza o desejo</segment>
+    <segment id="8">, a moça investe na carreira de modelo.</segment>
+    <segment id="9">Apesar de ser cobiçada pelos marmanjos</segment>
+    <segment id="10">, a gata alerta aos desavisados de que namora há 4 anos com Pablo Pimenta</segment>
+    <segment id="11">, que dá todo apoio para ela.</segment>
+  </rst>
+</analysis>

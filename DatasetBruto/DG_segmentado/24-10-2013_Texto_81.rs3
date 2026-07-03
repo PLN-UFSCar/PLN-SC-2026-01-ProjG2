@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">NotÃ­cia boa</segment>
+    <segment id="2">Apresentadora Carla Fachim anuncia que estÃ¡ grÃ¡vida de um menino
+Ela comemorou a notÃ­cia no Facebook e revela que a gestaÃ§Ã£o jÃ¡ estÃ¡ em trÃªs meses e meio</segment>
+    <segment id="3">A apresentadora da RBS TV Carla Fachim anunciou na noite de quarta-feira que estÃ¡ grÃ¡vida de um menino.</segment>
+    <segment id="4">Ao lado do marido</segment>
+    <segment id="5">, Christian Bauer Baini</segment>
+    <segment id="6">, a jornalista revelou que estÃ¡ de trÃªs meses e meio.</segment>
+    <segment id="7">Em seu Facebook</segment>
+    <segment id="8">, ela agradeceu o carinho de todos:
+- Serei mamÃ£e.</segment>
+    <segment id="9">Estamos muito felizes com esse presente tÃ£o sonhado.</segment>
+    <segment id="10">Seremos papais de um menino.</segment>
+    <segment id="11">AgradeÃ§o o carinho dos meninos do Pretinho BÃ¡sico</segment>
+    <segment id="12">, aos colegas e amigos que estÃ£o transmitindo boas energias pela notÃ­cia - disse.</segment>
+    <segment id="13">Carla mostrou primeira imagem na rede social</segment>
+  </rst>
+</analysis>

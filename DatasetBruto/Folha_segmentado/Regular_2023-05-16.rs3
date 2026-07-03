@@ -1,0 +1,117 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Os impressionantes saltos técnicos nos serviços de inteligência artificial nos últimos vinte anos aceleraram o senso de maravilha sobre as tecnologias digitais.</segment>
+    <segment id="2">Reconhecimento de objetos em imagens</segment>
+    <segment id="3">, tradução automática</segment>
+    <segment id="4">, anúncios hipercontextualizados</segment>
+    <segment id="5">, carros semi-automatizados e plataformas de transporte são apenas alguns que precederam o queridinho da vez: o ChatGPT que</segment>
+    <segment id="6">, representando os grandes modelos de linguagens</segment>
+    <segment id="7">, pareceu chacoalhar o já efervescente campo da inteligência artificial.</segment>
+    <segment id="8">A recente carta de vários CEOs de tecnologia que pediu uma pausa de seis meses no desenvolvimento de IA provou ser uma jogada de especulação com o capital financeiro e uma peça de desinformação estratégica.</segment>
+    <segment id="9">Enquadrar o debate ético sobre inteligência artificial</segment>
+    <segment id="10">comocomo incipiente ou</segment>
+    <segment id="11">comocomo ligado a robôs conscientes esconde os problemas da IA hoje</segment>
+    <segment id="12">, em especial sobre o aprofundamento das desigualdades e concentração de poder econômico</segment>
+    <segment id="13">, político e epistêmico.</segment>
+    <segment id="14">Tarcizio Silva é Tech Policy Senior Fellow na Fundação Mozilla</segment>
+    <segment id="15">, mestre em comunicação (UFBA) e desenvolve tese sobre regulação antirracista de IA (UFABC).</segment>
+    <segment id="16">Colabora com o projeto Tecla</segment>
+    <segment id="17">, da Ação Educativa</segment>
+    <segment id="18">, e com o Instituto Sumaúma - DivulgaçãoTemos sim um debate complexo e consideravelmente maduro sobre regulação de inteligência artificial no mundo</segment>
+    <segment id="19">, inclusive no Brasil.</segment>
+    <segment id="20">No último dezembro</segment>
+    <segment id="21">, uma comissão de juristas responsável por subsidiar a elaboração de substitutivo sobre inteligência artificial</segment>
+    <segment id="22">, entregou ao presidente do Senado um denso e longo relatório resultante dos debates entre experts da comissão</segment>
+    <segment id="23">, audiências públicas e contribuições multisetoriais.</segment>
+    <segment id="24">O relatório incluiu minuta de substitutivo aos projetos de lei anteriormente apresentados</segment>
+    <segment id="25">, avançando substancialmente na promoção de direitos sem podar inovação.</segment>
+    <segment id="26">Porém, o texto ainda carece de compromisso antirracista</segment>
+    <segment id="27">, talvez fruto da própria composição da comissão: nenhum dos 18 juristas convidados é uma pessoa negra ou indígena.</segment>
+    <segment id="28">Em seminário realizado no Conselho da Justiça Federal em abril</segment>
+    <segment id="29">, em Brasília</segment>
+    <segment id="30">, a maior parte da complexa rede de interesses multissetoriais na matéria concordou que é o momento de avançar para tramitação.</segment>
+    <segment id="31">Tornou-</segment>
+    <segment id="32">sese o Projeto de Lei n° 2338/2023</segment>
+    <segment id="33">, protocolado pelo senador Rodrigo Pacheco</segment>
+    <segment id="34">, abrindo o espaço para o debate legislativo de fato.</segment>
+    <segment id="35">Seria benéfica uma participação social mais intensa que abra espaços para organizações e especialistas colaborarem com sugestões que favoreçam o combate ao racismo algorítmico e suas manifestações</segment>
+    <segment id="36">, já amplamente identificadas pela academia e pelo jornalismo em implementações que incluem de filtros para selfies</segment>
+    <segment id="37">, tecnologias de vigilância e recrutamento até acesso a saúde e a recursos públicos.</segment>
+    <segment id="38">Se o nosso Estatuto da Igualdade Racial estabelece a promoção de ajustes normativos para aperfeiçoar o combate à discriminação étnico-racial e às desigualdades étnico-raciais em todas as suas manifestações individuais</segment>
+    <segment id="39">, institucionais e estruturais</segment>
+    <segment id="40">, ainda há muito a avançar.</segment>
+    <segment id="41">O Brasil apresenta pesadas vulnerabilidades na defesa de direitos humanos e infelizmente lidera alguns índices de desigualdade</segment>
+    <segment id="42">, racismo</segment>
+    <segment id="43">, violência de gênero e LGBTQfobia.</segment>
+    <segment id="44">A factualidade das violências e desigualdades no Brasil não pode ser ignorada na construção de mecanismos de controle social da tecnologia.</segment>
+    <segment id="45">O texto proposto pela comissão</segment>
+    <segment id="46">sese inspira fortemente no relevante AI Act da União Europeia</segment>
+    <segment id="47">, masmas falha ao desconsiderar que o Brasil precisa de mais defesa de direitos para alcançar em algum momento níveis aceitáveis de bem-estar social.</segment>
+    <segment id="48">Um exemplo é a abordagem sobre o reconhecimento facial no espaço público</segment>
+    <segment id="49">, notadamente seu uso pelo Estado e pelas polícias.</segment>
+    <segment id="50">Banimento ou longas moratórias de tecnologias nocivas deveriam estar no rol de possibilidades de regulação federal.</segment>
+    <segment id="51">Campanhas globais e nacionais</segment>
+    <segment id="52">comocomo a Ban Biometric Surveillance e a TireMeuRostodaSuaMira</segment>
+    <segment id="53">, assim</segment>
+    <segment id="54">comocomo o protocolaço #SaidaMinhaCara</segment>
+    <segment id="55">, são exemplos que reúnem centenas de organizações da sociedade civil que pedem pelo banimento do uso de vigilância biométrica à distância</segment>
+    <segment id="56">, como</segment>
+    <segment id="57">como o reconhecimento facial.</segment>
+    <segment id="58">O texto brasileiro</segment>
+    <segment id="59">, porém</segment>
+    <segment id="60">porém, estabeleceu regras frouxas para seu uso</segment>
+    <segment id="61">, promovendo o encarceramento em massa e a hipervigilância em um país que tem mais anos de regimes ditatoriais do que democráticos.</segment>
+    <segment id="62">A produção de bancos de dados e sistemas éticos diversos</segment>
+    <segment id="63">, abertos e multidisciplinares pode ser um pilar do talento multicultural brasileiro e diferenciar o país</segment>
+    <segment id="64">comocomo uma liderança global no tema.</segment>
+    <segment id="65">Para alcançar isso</segment>
+    <segment id="66">, podemos olhar também para experiências e caminhos além do eixo Europa e EUA.</segment>
+    <segment id="67">Por exemplo</segment>
+    <segment id="68">, a "Declaração</segment>
+    <segment id="69">Windhoek de países do Sul da África sobre Inteligência Artificial" recomenda a promoção de "decolonização no design e aplicação de tecnologias de IA</segment>
+    <segment id="70">, incluindo decolonizar a educação em todos os níveis</segment>
+    <segment id="71">, desenvolvendo currículos centrados na África e envolvendo comunidades para co-desenhar aplicações éticas e inclusivas</segment>
+    <segment id="72">, levando em conta a herança cultural e os sistemas de conhecimento de povos originários".</segment>
+    <segment id="73">O Brasil tem riqueza humana</segment>
+    <segment id="74">, histórica e cultural para liderar a produção de tecnologias digitais éticas e combate a vieses de conhecimento em um mundo multipolar.</segment>
+    <segment id="75">Finalmente</segment>
+    <segment id="76">, a gradação de risco de implementações de IA</segment>
+    <segment id="77">, em especial os conceitos de alto risco e risco inaceitável</segment>
+    <segment id="78">, deve considerar as disparidades interseccionais conhecidas no Brasil.</segment>
+    <segment id="79">Para tal</segment>
+    <segment id="80">, a ideação de uma autoridade nacional sobre a IA deve incluir organizações da sociedade civil e pesquisadores sobre opressões interseccionais</segment>
+    <segment id="81">, tais</segment>
+    <segment id="82">comocomo redes institucionais de promoção de igualdade racial.</segment>
+    <segment id="83">Desvelar a negação do racismo em todas suas manifestações</segment>
+    <segment id="84">, inclusive o algorítmico</segment>
+    <segment id="85">, é uma missão que vai abrir os caminhos para o nosso futuro.  </segment>
+    <segment id="86">O editor Michael França pede</segment>
+    <segment id="87">para que</segment>
+    <segment id="88">para que cada participante do espaço "Políticas e Justiça" da Folha sugira uma música aos leitores.</segment>
+    <segment id="89">Nesse texto</segment>
+    <segment id="90">, a escolhida por Tarcizio Silva foi "Strange Arithmetic"</segment>
+    <segment id="91">, de The Coup.</segment>
+  </rst>
+</analysis>

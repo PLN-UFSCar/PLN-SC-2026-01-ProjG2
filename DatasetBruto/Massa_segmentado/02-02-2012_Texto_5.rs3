@@ -1,0 +1,49 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A baianinha não tem sossego!</segment>
+    <segment id="2">Depois de cair doente</segment>
+    <segment id="3">, Jakeline terá de lidar com a morte do ex-namorado</segment>
+    <segment id="4">Após saída do BBB</segment>
+    <segment id="5">, Jakeline caiu de cama.</segment>
+    <segment id="6">Segundo a mãe</segment>
+    <segment id="7">, ela está com febre e dores no corpo.</segment>
+    <segment id="8">E para completar</segment>
+    <segment id="9">, a baiana terá de lidar com a morte do ex-namorado Otto Elizio Lozado de 34 anos que morreu em um acidente na BR-324 no KM- 547.</segment>
+    <segment id="10">O rapaz bateu no fundo de um caminhão de gás e estava sozinho em um Gol branco.</segment>
+    <segment id="11">Segundo informações da delegacia do município de Amélia Rodrigues</segment>
+    <segment id="12">, a morte de Otto foi instantânea devido ao choque com o outro veículo.</segment>
+    <segment id="13">O acidente aconteceu 1h da manhã de hoje.</segment>
+    <segment id="14">O pai de Jakeline</segment>
+    <segment id="15">, Danilo Lucena</segment>
+    <segment id="16">, diz que está sentindo muito a perda do ex-genro.</segment>
+    <segment id="17">“Estou muito triste</segment>
+    <segment id="18">porque</segment>
+    <segment id="19">porque Otto era meu amigo”</segment>
+    <segment id="20">, lamenta.</segment>
+    <segment id="21">Sobre o fim do relacionamento de sua filha ele revela:</segment>
+    <segment id="22">“Sei que foi uma briga comum de namorado e agora ela está sofrendo muito”.</segment>
+    <segment id="23">Otto e Jakeline ficaram juntos por dois meses.</segment>
+  </rst>
+</analysis>

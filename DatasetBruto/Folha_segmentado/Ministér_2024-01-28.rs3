@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Luiz Marinho</segment>
+    <segment id="2">, ministro do Trabalho</segment>
+    <segment id="3">, estuda a concessão de empréstimos subsidiados</segment>
+    <segment id="4">comocomo uma forma de aliviar o impacto das mudanças que pretende encaminhar no saque-aniversário do FGTS (Fundo de Garantia por Tempo de Serviço)</segment>
+    <segment id="5">, especialmente nas categorias que recebem salários mais baixos.</segment>
+    <segment id="6">Ele compartilhou a ideia em encontro com líderes sindicais.</segment>
+    <segment id="7">Marinho quer avançar na extinção ou ao menos na redução do saque-aniversário em 2024.</segment>
+    <segment id="8">Ricardo Patah</segment>
+    <segment id="9">, presidente da UGT e um dos presentes na reunião</segment>
+    <segment id="10">, diz que aprova a ideia</segment>
+    <segment id="11">, pois</segment>
+    <segment id="12">pois atinge o saque-aniversário e oferece uma alternativa aos que recorrem a ele para pagar dívidas de curto prazo.</segment>
+    <segment id="13">Na visão do ministro e também dos sindicalistas</segment>
+    <segment id="14">, o saque-aniversário</segment>
+    <segment id="15">sese opõe à função social do FGTS de proteger financeiramente o trabalhador demitido ou em dificuldades e de financiar obras de infraestrutura.</segment>
+    <segment id="16">Ricardo Patah (esq.)</segment>
+    <segment id="17">, presidente da UGT</segment>
+    <segment id="18">, e Luiz Marinho</segment>
+    <segment id="19">, ministro do Trabalho</segment>
+    <segment id="20">, durante mutirão do emprego em São Paulo - Zanone Fraissat-1º.ago.2023/Folhapress</segment>
+  </rst>
+</analysis>

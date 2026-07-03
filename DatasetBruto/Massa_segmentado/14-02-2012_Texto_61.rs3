@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Ela é a musa de Valéria</segment>
+    <segment id="2">A dançarina Andréa Moreira arrasa nos palcos do arrocha e mostra o que é que a baiana
+Quem olha essa morena percebe logo o gingado.</segment>
+    <segment id="3">A dançarina Andréa Moreira Costa</segment>
+    <segment id="4">, 30, arrasa nos palcos do arrocha e mostra o que é que a baiana tem.</segment>
+    <segment id="5">A gata morou em Periperi desde a infância e fez muitos marmanjos assobiarem.</segment>
+    <segment id="6">Agora, ela anda tirando o sono da rapaziada de Valéria</segment>
+    <segment id="7">, para onde</segment>
+    <segment id="8">sese mudou há cinco meses.</segment>
+    <segment id="9">Enquanto os cuecas</segment>
+    <segment id="10">sese acabam na insônia</segment>
+    <segment id="11">, os sonhos da moça são embalados por Pablo</segment>
+    <segment id="12">, seu ídolo!</segment>
+  </rst>
+</analysis>

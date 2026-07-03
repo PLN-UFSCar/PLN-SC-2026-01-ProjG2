@@ -1,0 +1,99 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O estado de São Paulo começou nesta segunda-feira (29) a emitir a nova carteira de identidade</segment>
+    <segment id="2">, que substitui o RG (Registro Geral) e adota um número de identificação único</segment>
+    <segment id="3">, padronizado para todo o território nacional.</segment>
+    <segment id="4">O novo documento é chamado de CIN (Carteira de Identidade Nacional).</segment>
+    <segment id="5">Por enquanto</segment>
+    <segment id="6">, a emissão no estado ocorre em um projeto piloto em nove pontos da Grande São Paulo —sendo seis postos do Poupatempo e três unidades do IIRGD (Instituto de Identificação Ricardo Gumbleton Daun).</segment>
+    <segment id="7">Modelo da CIN (Carteira de Identidade Nacional)</segment>
+    <segment id="8">, que será obrigatória em 2032 - DivulgaçãoA ideia do governo paulista é ampliar gradativamente o serviço nos próximos meses.</segment>
+    <segment id="9">Desde 11 de janeiro</segment>
+    <segment id="10">, todos os estados brasileiros e o Distrito Federal são obrigados a expedir o novo documento</segment>
+    <segment id="11">, masmas o antigo RG segue válido até 2032.</segment>
+    <segment id="12">Por isso</segment>
+    <segment id="13">, o governo diz que não é necessário correr para renovar o documento.</segment>
+    <segment id="14">Leia tambémO que acontece com o número do RG?</segment>
+    <segment id="15">Quando trocar?</segment>
+    <segment id="16">Tire dúvidas sobre a nova CINPara solicitar a CIN em São Paulo</segment>
+    <segment id="17">, é necessário fazer um agendamento gratuito no aplicativo do Poupatempo.</segment>
+    <segment id="18">Os postos ficam na Lapa</segment>
+    <segment id="19">, Itaquera</segment>
+    <segment id="20">, Santo Amaro e Sé</segment>
+    <segment id="21">, na capital paulista</segment>
+    <segment id="22">, Caieiras e Guarulhos</segment>
+    <segment id="23">, na região metropolitana.</segment>
+    <segment id="24">As outras três unidades com o serviço são o Descomplica de São Miguel</segment>
+    <segment id="25">, na capital</segment>
+    <segment id="26">, um posto em Barueri e o Atende Fácil</segment>
+    <segment id="27">, em São Caetano do Sul.</segment>
+    <segment id="28">Como será o novo documento de identificação nacional para substituir RGMais    novamente         de   de  de  representando um</segment>
+    <segment id="29">A CIN utiliza o CPF</segment>
+    <segment id="30">comocomo número único e</segment>
+    <segment id="31">, assim</segment>
+    <segment id="32">, visa acabar com a duplicidade na identificação do cidadão e reduzir as chances de fraude</segment>
+    <segment id="33">, já que com o antigo RG era possível obter um número diferente em cada estado.</segment>
+    <segment id="34">O novo modelo possui um QR</segment>
+    <segment id="35">Code que permite verificar sua autenticidade e também</segment>
+    <segment id="36">sese o documento foi furtado ou extraviado.</segment>
+    <segment id="37">Além disso</segment>
+    <segment id="38">, a carteira de identidade tem uma versão digital que fica disponível no aplicativo Gov.br.</segment>
+    <segment id="39">Segundo o Ministério da Gestão e da Inovação em Serviços Públicos</segment>
+    <segment id="40">, mais de 3 milhões de CINs já foram emitidas no país.</segment>
+    <segment id="41">COMO TIRAR</segment>
+    <segment id="42">A CARTEIRA DE IDENTIDADE NACIONAL (CIN)  Como agendar o atendimento em SP?</segment>
+    <segment id="43">Na primeira fase da emissão do documento</segment>
+    <segment id="44">, o agendamento para a CIN será feito exclusivamente no aplicativo do Poupatempo.</segment>
+    <segment id="45">O que é preciso levar?</segment>
+    <segment id="46">Documento com CPF Certidão de Nascimento ou de Casamento (original e cópia simples)</segment>
+    <segment id="47">Há outros requisitos?</segment>
+    <segment id="48">Ter uma conta Gov.br no nível Prata ou Ouro</segment>
+    <segment id="49">Ser maior de 16 anos</segment>
+    <segment id="50">Estar em situação regular na Receita Federal (dados devem estar idênticos em relação aos da certidão de nascimento/casamento)</segment>
+    <segment id="51">Não ter outra solicitação da CIN em andamento</segment>
+    <segment id="52">Qual o custo do documento?</segment>
+    <segment id="53">A primeira via da CIN é gratuita.</segment>
+    <segment id="54">Quais postos que emitem o documento em SP?  Capital:</segment>
+    <segment id="55">Poupatempo Itaquera (av. do Contorno</segment>
+    <segment id="56">, 60 - Cidade A E Carvalho) Poupatempo Lapa (rua do Curtume</segment>
+    <segment id="57">, s/nº)</segment>
+    <segment id="58">Poupatempo Santo Amaro (rua Amador Bueno</segment>
+    <segment id="59">, 229 - 2º andar)</segment>
+    <segment id="60">Poupatempo Sé (rua do Carmo</segment>
+    <segment id="61">, s/nº)</segment>
+    <segment id="62">Descomplica</segment>
+    <segment id="63">São Miguel (rua Dona Ana Flora Pinheiro De Sousa</segment>
+    <segment id="64">, 76 - Vila Jacuí)</segment>
+    <segment id="65">Outras cidades:   Poupatempo Guarulhos (no Internacional Shopping)</segment>
+    <segment id="66">Poupatempo Caieiras (rua Ambrosina do Carmo Buonaguide</segment>
+    <segment id="67">, 394 - centro)</segment>
+    <segment id="68">IIRGD Barueri (av. Henriqueta Mendes Guerra</segment>
+    <segment id="69">, 550 - centro)</segment>
+    <segment id="70">Atende Fácil de São Caetano do Sul (rua Major Carlos Del Prete</segment>
+    <segment id="71">, 651 - centro)</segment>
+    <segment id="72">Até quando poderei usar o RG?</segment>
+    <segment id="73">Os cidadãos têm até 28 de fevereiro de 2032 para fazer a troca do RG pela CIN.</segment>
+  </rst>
+</analysis>

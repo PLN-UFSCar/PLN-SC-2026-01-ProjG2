@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Continua</segment>
+    <segment id="2">Fifa emite comunicado e nega interrupÃ§Ã£o da Copa das ConfederaÃ§Ãµes</segment>
+    <segment id="3">Entidade afirma que</segment>
+    <segment id="4">, atÃ© o momento</segment>
+    <segment id="5">, possibilidade estÃ¡ descartada</segment>
+    <segment id="6">A Fifa divulgou comunicado nesta sexta-feira em que descarta a possibilidade de interromper a Copa das ConfederaÃ§Ãµes por conta dos protestos que ocorrem em todo o Brasil.
+- AtÃ© esta data</segment>
+    <segment id="7">, nem a Fifa nem o ComitÃª</segment>
+    <segment id="8">Organizador Local nunca discutiram qualquer possibilidade de cancelamento da Copa das ConfederaÃ§Ãµes da Fifa - disse a Fifa em comunicado enviado Ã  Reuters.</segment>
+    <segment id="9">A informaÃ§Ã£o de uma eventual suspensÃ£o do torneio foi divulgada pela mÃ­dia do paÃ­s apÃ³s o inÃ­cio das manifestaÃ§Ãµes contra a tarifa do transporte pÃºblico.</segment>
+    <segment id="10">Os manifestos evoluÃ­ram para um descontentamento geral</segment>
+    <segment id="11">, inclusive contra os gastos do governo com as copas das ConfederaÃ§Ãµes e do Mundo de 2014.</segment>
+    <segment id="12">Desde a cerimÃ´nia de abertura da Copa das ConfederaÃ§Ãµes</segment>
+    <segment id="13">, no dia 15 de junho em BrasÃ­lia</segment>
+    <segment id="14">, houve protestos nas Ã¡reas do estÃ¡dios e confrontos entre manifestantes e policiais no Rio de Janeiro</segment>
+    <segment id="15">, Belo Horizonte</segment>
+    <segment id="16">, Fortaleza e Salvador.</segment>
+    <segment id="17">Duas seleÃ§Ãµes teriam ameaÃ§ado sair da disputa por conta das manifestaÃ§Ãµes.</segment>
+    <segment id="18">A ItÃ¡lia seria uma delas</segment>
+    <segment id="19">, masmas informaÃ§Ã£o nÃ£o foi confirmada.</segment>
+  </rst>
+</analysis>

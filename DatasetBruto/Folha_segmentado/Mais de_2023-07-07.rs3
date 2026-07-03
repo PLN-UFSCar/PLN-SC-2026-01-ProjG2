@@ -1,0 +1,50 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Sete a cada dez brasileiros já foram alvo de pelo menos um golpe financeiro aplicado via internet.</segment>
+    <segment id="2">É o que mostra uma pesquisa da empresa de cibersegurança NordVPN.</segment>
+    <segment id="3">O relatório mostra que</segment>
+    <segment id="4">, do total de pessoas expostas aos golpes</segment>
+    <segment id="5">, 37% relataram ameaças concretas.</segment>
+    <segment id="6">Os casos mais frequentes envolveram transações bancárias via Pix.</segment>
+    <segment id="7">O vazamento de dados sensíveis</segment>
+    <segment id="8">sese tornou um dos grandes problemas dos brasileiros- FolhapressPara 75% dos entrevistados</segment>
+    <segment id="9">, as fraudes envolvendo pagamentos via</segment>
+    <segment id="10">Pix foram consideradas incidentes graves.</segment>
+    <segment id="11">Segundo a NordVPN</segment>
+    <segment id="12">, o Pix deu mais comodidade aos brasileiros</segment>
+    <segment id="13">, porém</segment>
+    <segment id="14">porém abriu brechas para golpes.</segment>
+    <segment id="15">"</segment>
+    <segment id="16">Cerca de 15% dos brasileiros foram pessoalmente afetados por fraudes financeiras usando pagamentos através do PIX no ano passado"</segment>
+    <segment id="17">, disse Daniel Markuson</segment>
+    <segment id="18">, especialista digital da NordVPN .</segment>
+    <segment id="19">"</segment>
+    <segment id="20">A mesma quantidade de pessoas também foi vítima de lojas falsas na internet e tiveram suas informações de cartão de banco roubadas.</segment>
+    <segment id="21">"</segment>
+    <segment id="22">A pesquisa foi realizada pela Cint entre os dias 20 e 22 de março com internautas entre 18 e 75 anos.</segment>
+    <segment id="23">Com Diego</segment>
+    <segment id="24">Felix</segment>
+  </rst>
+</analysis>

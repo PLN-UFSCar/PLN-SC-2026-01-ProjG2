@@ -1,0 +1,55 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Acidente deixa quatro mortos em Pedra de Guaratiba
+RIO - Quatro pessoas morreram e outras trÃªs ficaram feridas em um acidente no fim da tarde desta deste sÃ¡bado em um acidente envolvendo um Ã´nibus e dois carros de passeio</segment>
+    <segment id="2">, em Pedra de Guaratiba</segment>
+    <segment id="3">, na Zona Oeste do Rio.</segment>
+    <segment id="4">A colisÃ£o ocorreu prÃ³ximo ao nÃºmero 4.485 da Estrada da Matriz.</segment>
+    <segment id="5">A via chegou a ser interditada.</segment>
+    <segment id="6">De acordo com o Centro de OperaÃ§Ãµes da prefeitura</segment>
+    <segment id="7">, foi liberada por volta das 20h30m</segment>
+    <segment id="8">, e o trÃ¢nsito normalizado.</segment>
+    <segment id="9">Segundo o site G1</segment>
+    <segment id="10">, bombeiros informaram que dois feridos</segment>
+    <segment id="11">, identificados</segment>
+    <segment id="12">comocomo Edimilson Caetano</segment>
+    <segment id="13">, de 32 anos</segment>
+    <segment id="14">; e JosÃ© Airton VelÃ­cio</segment>
+    <segment id="15">, de 51</segment>
+    <segment id="16">, foram levados para o Hospital estadual Rocha Faria</segment>
+    <segment id="17">, em Campo Grande.</segment>
+    <segment id="18">Uma crianÃ§a</segment>
+    <segment id="19">, de aproximadamente 5 anos</segment>
+    <segment id="20">, foi encaminhada para o Hospital municipal Souza Aguiar</segment>
+    <segment id="21">, no Centro.</segment>
+    <segment id="22">De acordo com os bombeiros</segment>
+    <segment id="23">, os quatro mortos</segment>
+    <segment id="24">, que atÃ© o fim da noite deste sÃ¡bado ainda nÃ£o tinham sido identificados</segment>
+    <segment id="25">, estavam em um Fusca</segment>
+    <segment id="26">, que colidiu com o Ã´nibus - o outro veÃ­culo envolvido no acidente Ã© um modelo Fiesta.</segment>
+    <segment id="27">O caso</segment>
+    <segment id="28">caso foi registrado na 43Âª DP (Guaratiba).</segment>
+  </rst>
+</analysis>

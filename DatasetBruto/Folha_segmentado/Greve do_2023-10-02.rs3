@@ -1,0 +1,102 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A prefeitura suspendeu o rodízio de veículos na cidade de São Paulo</segment>
+    <segment id="2">, nesta terça-feira (3)</segment>
+    <segment id="3">, por causa da greve de 24 horas anunciada por funcionários do metrô</segment>
+    <segment id="4">, CPTM (Companhia Paulista de Trens Metropolitanos) e da Sabesp (empresa de saneamento).</segment>
+    <segment id="5">Continuam valendo normalmente o rodízio de placas para veículos pesados (caminhões) e as demais restrições: Zona de Máxima Restrição à Circulação de Caminhões (ZMRC) e a Zona de Máxima Restrição ao Fretamento (ZMRF)</segment>
+    <segment id="6">, além das proibições de circulação de veículos nas faixas e corredores de ônibus</segment>
+    <segment id="7">, conforme a sinalização.</segment>
+    <segment id="8">Trânsito na avenida Antonio Joaquim de Moura</segment>
+    <segment id="9">; prefeitura suspende rodízio de veículos em São Paulo nesta terça-feira (3)</segment>
+    <segment id="10">, por causa da greve no no Metrô</segment>
+    <segment id="11">, CPTM e Sabesp - Zanone Fraissat - 5.set.23/FolhapressSegundo anúncio feito na tarde desta segunda (2)</segment>
+    <segment id="12">, os ônibus municipais terão esquema especial de operação</segment>
+    <segment id="13">, com 100% da frota nas ruas durante todo o dia e não apenas nos horários de pico.</segment>
+    <segment id="14">De acordo com a Secretaria Executiva de Transporte e Mobilidade Urbana (Setram) e a SPTrans</segment>
+    <segment id="15">, estatal que gerencia os ônibus municipais</segment>
+    <segment id="16">, a medida tenta amenizar os transtornos para quem necessita de transporte público.</segment>
+    <segment id="17">Os ônibus de grande porte</segment>
+    <segment id="18">, lembra a empresa</segment>
+    <segment id="19">, têm capacidade para transportar 170 passageiros</segment>
+    <segment id="20">, enquanto um trem leva mais 1.000 pessoas a cada viagem.</segment>
+    <segment id="21">"</segment>
+    <segment id="22">Os técnicos SPTrans acompanharão a movimentação dos passageiros nas linhas municipais nesta terça-feira"</segment>
+    <segment id="23">, afirma a estatal.</segment>
+    <segment id="24">Leia mais sobre a greveFuncionários de Metrô</segment>
+    <segment id="25">, CPTM e Sabesp confirmam greve para esta terça (3)Governo Tarcísio de Freitas diz que greve é ataque político</segment>
+    <segment id="26">, ilegal e injustificávelVeja quais serviços devem ser afetados pela greve em SP nesta terça (3)Rodízio é suspenso nesta terça (3) devido à greve de metrô e CPTMEscolas estaduais suspendem aulas nesta terça (3) com greve no transporte em SP</segment>
+    <segment id="27">A CET (Companhia de Engenharia de Tráfego) afirma que manterá monitoramento constante nas ruas e avenidas da cidade</segment>
+    <segment id="28">, visando manter as condições de fluidez das vias.</segment>
+    <segment id="29">Também por causa da greve</segment>
+    <segment id="30">, a prefeitura paulistana decretou ponto facultativo.</segment>
+    <segment id="31">Está mantido o funcionamento de escolas e creches</segment>
+    <segment id="32">, unidades de saúde</segment>
+    <segment id="33">, serviços de segurança urbana</segment>
+    <segment id="34">, de assistência social</segment>
+    <segment id="35">, do serviço funerário</segment>
+    <segment id="36">, além de outras unidades cujas atividades não possam sofrer descontinuidade.</segment>
+    <segment id="37">Mais cedo</segment>
+    <segment id="38">, o governo do estado já havia decretado ponto facultativo nas repartições estaduais da capital paulista.</segment>
+    <segment id="39">A medida não</segment>
+    <segment id="40">sese estende a outras cidades da região metropolitana atendidas pelos trens da CPTM.</segment>
+    <segment id="41">O ponto facultativo deve ser publicado na edição do Diário Oficial desta terça.  "</segment>
+    <segment id="42">As consultas em Ambulatórios Médicos de Especialidades (AMEs) da capital e em outras unidades de saúde estaduais terão seus reagendamentos garantidos</segment>
+    <segment id="43">, assim</segment>
+    <segment id="44">comocomo nos postos do Poupatempo"</segment>
+    <segment id="45">, afirma o governo estadual</segment>
+    <segment id="46">, em nota.</segment>
+    <segment id="47">"</segment>
+    <segment id="48">Aulas e provas da rede estadual de ensino também serão repostas e reagendadas.</segment>
+    <segment id="49">"</segment>
+    <segment id="50">O governo ressaltou que não haverá mudança nos serviços de segurança pública.</segment>
+    <segment id="51">Restaurantes e postos móveis do Bom Prato devem oferecer normalmente as refeições previstas para esta terça.</segment>
+    <segment id="52">O ponto facultativo ocorre apesar de decisões na Justiça do Trabalho que obrigam os sindicatos dos metroviários e dos ferroviários a oferecer efetivo total dos funcionários em horários de pico durante a greve.</segment>
+    <segment id="53">Nos demais horários</segment>
+    <segment id="54">, o efetivo mínimo deve ser de 80% dos trabalhadores.</segment>
+    <segment id="55">Que linhas vão parar</segment>
+    <segment id="56">A previsão é que as linhas 1-azul</segment>
+    <segment id="57">, 2-verde</segment>
+    <segment id="58">, 3-vermelha e 15-prata do Metrô fiquem paralisadas.</segment>
+    <segment id="59">Na rede ferroviária</segment>
+    <segment id="60">, o sindicato dos funcionários da CPTM prevê uma paralisação de todas as linhas administradas pelo serviço público (7-rubi</segment>
+    <segment id="61">, 10-turquesa</segment>
+    <segment id="62">, 11-coral</segment>
+    <segment id="63">, 12-safira e 13-jade).</segment>
+    <segment id="64">As linhas 4-amarela e 5-liás de metrô</segment>
+    <segment id="65">, assim</segment>
+    <segment id="66">comocomo as linhas 8-diamante e 9-esmeralda</segment>
+    <segment id="67">, devem seguir operando na terça-feira —as quatro são administradas por concessionárias do grupo CCR.</segment>
+    <segment id="68">O sindicato</segment>
+    <segment id="69">, no entanto</segment>
+    <segment id="70">, vai convocar 170 trabalhadores da CPTM que trabalham nas bilheterias das duas linhas para aderir à paralisação.</segment>
+    <segment id="71">O governo estadual classifica a greve</segment>
+    <segment id="72">comocomo ilegal e diz esperar que as categorias cumpram a determinação judicial.</segment>
+    <segment id="73">Já os sindicatos estão recorrendo da decisão.</segment>
+    <segment id="74">Eles argumentam que aceitam trabalhar com efetivo total</segment>
+    <segment id="75">casocaso o governo adote a liberação das catracas</segment>
+    <segment id="76">, uma reivindicação histórica das categorias durante paralisações.</segment>
+  </rst>
+</analysis>

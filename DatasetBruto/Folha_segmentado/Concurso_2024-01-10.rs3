@@ -1,0 +1,140 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Ministério de Gestão e Inovação em Serviços Públicos anunciou nesta quarta-feira (10) os detalhes do Concurso Público Nacional Unificado</segment>
+    <segment id="2">, apelidado de "</segment>
+    <segment id="3">Enem dos concursos</segment>
+    <segment id="4">", com a publicação de oito editais para mais de 6.000 vagas no funcionalismo público.</segment>
+    <segment id="5">O novo formato foi anunciado pela ministra da Gestão</segment>
+    <segment id="6">, Esther Dweck</segment>
+    <segment id="7">, em entrevista coletiva.</segment>
+    <segment id="8">São vagas para nível médio e superior.</segment>
+    <segment id="9">As inscrições serão de R$ 60 e R$ 90</segment>
+    <segment id="10">, respectivamente.  "</segment>
+    <segment id="11">O concurso é um processo importantíssimo de reconstrução do estado brasileiro [...]</segment>
+    <segment id="12">, de forma a aumentar a capilaridade e chegar a locais onde nunca houve prova de concurso público federal.</segment>
+    <segment id="13">A democratização do Estado</segment>
+    <segment id="14">, com maior diversidade</segment>
+    <segment id="15">, e garantir um Estado que seja mais a cara da população brasileira"</segment>
+    <segment id="16">, disse.</segment>
+    <segment id="17">O Ministério da Gestão</segment>
+    <segment id="18">, de Esther Dweck</segment>
+    <segment id="19">, foi o responsável por elaborar o &amp;quot</segment>
+    <segment id="20">;Enem dos concursos&amp;quot</segment>
+    <segment id="21">;- Pedro Ladeira/FolhapressPara o primeiro concurso unificado</segment>
+    <segment id="22">, programado para maio</segment>
+    <segment id="23">, o Ministério da Gestão publicou nesta quarta um conjunto de oito editais</segment>
+    <segment id="24">, que representam os diferentes blocos temáticos das vagas abertas.</segment>
+    <segment id="25">Ao todo</segment>
+    <segment id="26">, serão 6.640 vagas para 21 órgãos ligados ao governo federal —entre eles</segment>
+    <segment id="27">, IBGE (Instituto Brasileiro de Geografia e Estatística)</segment>
+    <segment id="28">, ministérios e ANS (Agência Nacional de Saúde Suplementar).</segment>
+    <segment id="29">As posições são majoritariamente voltadas para candidatos com nível superior.</segment>
+    <segment id="30">Do total previsto</segment>
+    <segment id="31">, 5.948 são para quem tem graduação</segment>
+    <segment id="32">, e 692 para nível médio.</segment>
+    <segment id="33">Acesse os editaisBloco 1 – Infraestrutura</segment>
+    <segment id="34">, Exatas e EngenhariasBloco 2 – Tecnologia</segment>
+    <segment id="35">, Dados e InformaçãoBloco 3 – Ambiental</segment>
+    <segment id="36">, Agrário e BiológicasBloco 4 – Trabalho e Saúde do ServidorBloco 5 – Educação</segment>
+    <segment id="37">, Saúde</segment>
+    <segment id="38">, Desenvolvimento Social e Direitos HumanosBloco 6 – Setores Econômicos e RegulaçãoBloco 7 – Gestão Governamental e Administração PúblicaBloco 8 – Nível IntermediárioAs inscrições para o primeiro Concurso Público Nacional Unificado vão de 19 de janeiro a 9 de fevereiro.</segment>
+    <segment id="39">A taxa de inscrição varia de R$ 60 a R$ 90</segment>
+    <segment id="40">, e terá direito a isenção as pessoas cadastradas no CaDÚnico</segment>
+    <segment id="41">, doadores de medula óssea</segment>
+    <segment id="42">, alunos que foram bolsistas do Prouni e estudantes que receberam financiamento do Fies.</segment>
+    <segment id="43">Haverá reserva de vagas</segment>
+    <segment id="44">, de acordo com leis</segment>
+    <segment id="45">, de 5% para pessoas com deficiência e 20% para pessoas negras.</segment>
+    <segment id="46">Para os cargos na Funai</segment>
+    <segment id="47">, indígenas terão cota de 30%.</segment>
+    <segment id="48">A prova será aplicada em 5 de maio</segment>
+    <segment id="49">, em 220 cidades</segment>
+    <segment id="50">, com organização feita pela Fundação Cesgranrio.</segment>
+    <segment id="51">O número de cidades aumentou nesta semana</segment>
+    <segment id="52">, com a confirmação de locais de prova em Santos (SP)</segment>
+    <segment id="53">, Petrópolis (RJ) e Blumenau (SC).</segment>
+    <segment id="54">O concurso terá dois momentos.</segment>
+    <segment id="55">No primeiro</segment>
+    <segment id="56">, na manhã de 5 de maio</segment>
+    <segment id="57">, os candidatos serão submetidos a uma prova objetiva de conhecimentos gerais de 20 questões.</segment>
+    <segment id="58">A avaliação de nível médio ainda terá uma prova discursiva sobre algum conhecimento específico e</segment>
+    <segment id="59">, de nível médio</segment>
+    <segment id="60">, uma redação.</segment>
+    <segment id="61">As atividades matutinas terão tempo limite de 2h30.</segment>
+    <segment id="62">À tarde</segment>
+    <segment id="63">, os candidatos de nível superior serão submetidos a provas objetivas de conhecimentos específicos de 50 questões.</segment>
+    <segment id="64">A avaliação de nível médio terá 40 perguntas.</segment>
+    <segment id="65">A segunda parte do concurso terá 3h30 de duração.</segment>
+    <segment id="66">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="67">; aberta para não assinantes.</segment>
+    <segment id="68">Carregando...</segment>
+    <segment id="69">O resultado final do concurso dever ser anunciado em 30 de julho.</segment>
+    <segment id="70">Segundo o cronograma anunciado pelo Ministério da Gestão</segment>
+    <segment id="71">, a data para as primeiras convocações será 5 de agosto —cargos que demandam curso de formação terão as nomeações ao longo do segundo semestre.</segment>
+    <segment id="72">Os salários variam de acordo com a vaga.</segment>
+    <segment id="73">Um técnico em informações geográficas e estatísticas do IBGE</segment>
+    <segment id="74">, de nível médio</segment>
+    <segment id="75">, terá um piso de R$ 3.700 —salário mais baixo entre os cargos disponíveis.</segment>
+    <segment id="76">A maior remuneração será de auditor fiscal do trabalho</segment>
+    <segment id="77">, do Ministério do Trabalho e Emprego</segment>
+    <segment id="78">, que receberá inicialmente R$ 22</segment>
+    <segment id="79">,9 mil.</segment>
+    <segment id="80">O Concurso Público Nacional Unificado foi apelidado de "</segment>
+    <segment id="81">Enem dos Concursos</segment>
+    <segment id="82">" pela similaridade com o Exame Nacional do Ensino Médio.</segment>
+    <segment id="83">Somente com uma prova</segment>
+    <segment id="84">, aplicada em diversos locais do país</segment>
+    <segment id="85">, os candidatos poderão disputar vagas para mais de um posto de trabalho.</segment>
+    <segment id="86">O buscador de vagas do &amp;#</segment>
+    <segment id="87">039;Enem dos concursos</segment>
+    <segment id="88">públicos&amp;#039</segment>
+    <segment id="89">;Buscador mostra todas as vagas do &amp;#</segment>
+    <segment id="90">039;Enem dos concursos públicos&amp;#039</segment>
+    <segment id="91">; de 2024</segment>
+    <segment id="92">, por órgão</segment>
+    <segment id="93">, escolaridade e salárioNa inscrição</segment>
+    <segment id="94">, o concurseiro deve optar por um dos blocos das áreas de atuação.</segment>
+    <segment id="95">Depois</segment>
+    <segment id="96">, ele deve indicar quais vagas pretende concorrer e suas preferências.</segment>
+    <segment id="97">A previsão é de que a primeira etapa do concurso seja realizada em um único dia</segment>
+    <segment id="98">, com provas objetivas comuns a todos os candidatos</segment>
+    <segment id="99">, seguidas por provas dissertativas e específicas de acordo com cada bloco temático.</segment>
+    <segment id="100">O DeltaFolha</segment>
+    <segment id="101">, núcleo de dados da Folha</segment>
+    <segment id="102">, elaborou um buscador que permite ao candidato ver quais são as oportunidades em cada ministério</segment>
+    <segment id="103">, instituição ou agência.</segment>
+    <segment id="104">É possível consultar por cargo ou órgão.</segment>
+    <segment id="105">O resultado vai mostrar ao candidato o nível de escolaridade exigido</segment>
+    <segment id="106">, a quantidade de vagas oferecidas e o salário inicial de cada vaga.</segment>
+    <segment id="107">Por exemplo</segment>
+    <segment id="108">, um candidato que digitar no campo de busca a palavra "analista técnico"</segment>
+    <segment id="109">, receberá 11 resultados.</segment>
+    <segment id="110">Entre eles</segment>
+    <segment id="111">, as 90 vagas para analista técnico-administrativo da Advocacia-Geral da União</segment>
+    <segment id="112">, que exige nível superior e tem salário de R$ 6.761</segment>
+    <segment id="113">,72 a R$ 7.614</segment>
+    <segment id="114">,12.</segment>
+  </rst>
+</analysis>

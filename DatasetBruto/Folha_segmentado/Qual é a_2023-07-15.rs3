@@ -1,0 +1,108 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Tem sido calorosamente debatido o valor da alíquota do Imposto sobre Valor Adicionado (IVA) que será criado para substituir ISS</segment>
+    <segment id="2">, ICMS</segment>
+    <segment id="3">, PIS, Cofins e IPI.</segment>
+    <segment id="4">Inúmeras pessoas têm dito que não há transparência no cálculo da alíquota.</segment>
+    <segment id="5">Tenho duas dificuldades com essa questão.</segment>
+    <segment id="6">Primeiro</segment>
+    <segment id="7">, a alíquota será o que a política desejar que seja.</segment>
+    <segment id="8">E a alíquota será menor ou maior de acordo com a necessidade de financiar de forma não inflacionária o Estado brasileiro.</segment>
+    <segment id="9">Independentemente de haver ou não a aprovação da Reforma Tributária dos impostos indiretos</segment>
+    <segment id="10">, o Congresso Nacional</segment>
+    <segment id="11">, as Assembleias Legislativas estaduais e as Câmaras de Vereadores sempre podem alterar a alíquota.</segment>
+    <segment id="12">Aliás, o fazem recorrentemente.</segment>
+    <segment id="13">Segunda</segment>
+    <segment id="14">, tramita no Senado uma proposta de emenda constitucional (PEC).</segment>
+    <segment id="15">A Constituição Federal não é local para discutir alíquota.</segment>
+    <segment id="16">Na Carta</segment>
+    <segment id="17">, são estabelecidos princípios gerais de tributação —discuti com algum detalhe o tema aqui.</segment>
+    <segment id="18">Cédula de R$ 100 - Gabriel Cabral/FolhapressNo entanto</segment>
+    <segment id="19">, é relativamente simples</segment>
+    <segment id="20">sabermos qual deve ser a alíquota média</segment>
+    <segment id="21">para que</segment>
+    <segment id="22">para que a carga tributária não</segment>
+    <segment id="23">sese eleve.</segment>
+    <segment id="24">Basta sabermos quanto temos pago.</segment>
+    <segment id="25">A alíquota média praticada é dada pela razão</segment>
+    <segment id="26">, para um dado intervalo de tempo</segment>
+    <segment id="27">, entre a receita total dos impostos e o consumo das famílias.</segment>
+    <segment id="28">A média das alíquotas médias praticadas entre 2015 e 2019 foi de 24%.</segment>
+    <segment id="29">Para evitar possíveis distorções</segment>
+    <segment id="30">, excluí os anos da pandemia.</segment>
+    <segment id="31">Nós já pagamos um dos maiores IVAs do mundo.</segment>
+    <segment id="32">E nenhuma reforma tributária alterará esse fato.</segment>
+    <segment id="33">Para alterá-lo</segment>
+    <segment id="34">, temos que reduzir muito o gasto público</segment>
+    <segment id="35">, medida que</segment>
+    <segment id="36">, me parece</segment>
+    <segment id="37">, a sociedade não deseja.</segment>
+    <segment id="38">Basta lembrar que Lula recém-eleito e antes da posse liderou o Congresso Nacional na elevação do gasto público em pouco menos de R$ 200 bilhões</segment>
+    <segment id="39">, com grande aprovação da opinião pública.</segment>
+    <segment id="40">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="41">; aberta para não assinantes.</segment>
+    <segment id="42">Carregando...</segment>
+    <segment id="43">No texto da PEC da Reforma Tributária aprovado na Câmara</segment>
+    <segment id="44">, inúmeros setores tiveram tratamento privilegiado e serão tributados em uma alíquota de 40% da alíquota cheia.</segment>
+    <segment id="45">Vale conhecermos os setores: serviços de educação</segment>
+    <segment id="46">; serviços de saúde</segment>
+    <segment id="47">;</segment>
+    <segment id="48">dispositivos médicos e de acessibilidade para deficientes</segment>
+    <segment id="49">; medicamentos e produtos de cuidados básicos à saúde menstrual</segment>
+    <segment id="50">; serviços de transporte público coletivo rodoviários</segment>
+    <segment id="51">, ferroviário e hidroviário</segment>
+    <segment id="52">, de caráter urbano</segment>
+    <segment id="53">, semiurbano</segment>
+    <segment id="54">, metropolitano</segment>
+    <segment id="55">, intermunicipal e interestadual</segment>
+    <segment id="56">; produtos agropecuários e aquícolas</segment>
+    <segment id="57">, pesqueiros</segment>
+    <segment id="58">, florestais e extrativistas vegetais in natura</segment>
+    <segment id="59">; insumos agropecuários e aquícolas</segment>
+    <segment id="60">, alimentos destinados ao consumo humano e produtos de higiene pessoal</segment>
+    <segment id="61">; produções artísticas</segment>
+    <segment id="62">, culturais</segment>
+    <segment id="63">, jornalísticas e audiovisuais nacionais e atividades desportivas</segment>
+    <segment id="64">; bens e serviços relacionados à segurança e soberania nacional</segment>
+    <segment id="65">, segurança da informação e cibernética.</segment>
+    <segment id="66">Há setores que serão isentos.</segment>
+    <segment id="67">São eles: atividades de reabilitação urbana de zonas históricas e de áreas críticas de recuperação e reconversão urbanística</segment>
+    <segment id="68">; serviços de educação previstos pelo ProUni</segment>
+    <segment id="69">; serviços de transporte público coletivo urbano</segment>
+    <segment id="70">, semiurbano ou metropolitano</segment>
+    <segment id="71">; produtor rural pessoa física ou jurídica com receita anual inferior a R$ 3</segment>
+    <segment id="72">,6 milhões e para produtos integrados</segment>
+    <segment id="73">; serviços relacionados ao Perse (programa emergencial de retomada do setor de eventos)</segment>
+    <segment id="74">;</segment>
+    <segment id="75">e itens de cesta básica nacional.</segment>
+    <segment id="76">O que nós temos é a escolha de um monte de meias-entradas.</segment>
+    <segment id="77">Cada setor que</segment>
+    <segment id="78">sese beneficia de uma alíquota reduzida (ou de isenção) causará elevação da alíquota para todos os demais.</segment>
+    <segment id="79">A alíquota média</segment>
+    <segment id="80">, no entanto</segment>
+    <segment id="81">, será de 24%.</segment>
+    <segment id="82">É isso.</segment>
+  </rst>
+</analysis>

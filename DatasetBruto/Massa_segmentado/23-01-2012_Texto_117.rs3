@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Pai sente falta de R$ 2 mil e mata filho
+Antônio Miguel ameaçou o jovem várias vezes antes de cometer o crime</segment>
+    <segment id="2">Segundo informações da 20ª Delegacia de Candeias</segment>
+    <segment id="3">, o crime aconteceu na madrugada desta segunda feira (22) no bairro Brasília</segment>
+    <segment id="4">, em Candeias.</segment>
+    <segment id="5">O serralheiro Antônio Miguel de 45 anos deu por falta de R$ 2 mil reais em casa e desconfiou do próprio filho</segment>
+    <segment id="6">, Adolfo Felipe da Silva</segment>
+    <segment id="7">, 20 anos.</segment>
+    <segment id="8">Após ameaçar o jovem várias vezes</segment>
+    <segment id="9">, Antônio esfaqueou Adolfo na cabeça e abdômen</segment>
+    <segment id="10">, que não resistiu aos ferimentos e morreu.</segment>
+    <segment id="11">Uma jovem identificada</segment>
+    <segment id="12">comocomo B.C.S também foi ferida na coxa.</segment>
+    <segment id="13">A jovem deve prestar depoimento ainda nesta tarde (23).</segment>
+    <segment id="14">Antônio Miguel fugiu do local com a arma do crime.</segment>
+    <segment id="15">Ainda na residência</segment>
+    <segment id="16">, agentes da 20ª Delegacia apreenderam uma espingarda de fabricação caseira.</segment>
+    <segment id="17">Já o corpo de Adolfo Felipe foi encaminhado para o Departamento de Polícia Técnica (DPT) de Salvador para autópsia.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,174 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O século 20 foi o século do carro.</segment>
+    <segment id="2">Nos Estados Unidos do pós-guerra</segment>
+    <segment id="3">, o governo dedicou recursos para a criação de uma rede de estradas por todo o país e mudou a cara das cidades: ruas largas</segment>
+    <segment id="4">, amplas faixas de rolamento</segment>
+    <segment id="5">, velocidades altas e pouquíssimo espaço para os pedestres.</segment>
+    <segment id="6">Hoje, pessoas que construíram essa infraestrutura parecem estar</segment>
+    <segment id="7">sese arrependendo.</segment>
+    <segment id="8">É o caso</segment>
+    <segment id="9">caso do engenheiro de trânsito americano Charles Marohn</segment>
+    <segment id="10">, que lançou um livro emblemático.</segment>
+    <segment id="11">Depois de trabalhar anos construindo ruas mais largas e rápidas</segment>
+    <segment id="12">, ele se</segment>
+    <segment id="13">se deu conta de ter contribuído para criar lugares mais perigosos e com menos vitalidade.</segment>
+    <segment id="14">Na foto</segment>
+    <segment id="15">, trânsito pesado na EPTG</segment>
+    <segment id="16">, uma das principais avenidas de Brasília (DF) que liga a região central da cidade às regiões administrativas de Águas Claras</segment>
+    <segment id="17">, Taguatinga e Ceilândia - Pedro Ladeira - 7.jun.2022/FolhapressNo seu livro "Confessions of a recovering engineer"</segment>
+    <segment id="18">, ainda sem tradução</segment>
+    <segment id="19">, ele trata com candura surpreendente a sua conversão.</segment>
+    <segment id="20">Depois de sofrer um acidente</segment>
+    <segment id="21">, ele começou a pregar pela revisão do paradigma para as ruas.</segment>
+    <segment id="22">Mais do que espaços de passagem de veículos</segment>
+    <segment id="23">, as ruas são lugares onde a vida acontece.</segment>
+    <segment id="24">Marohn cunhou o termo Stroads (streets+roads)</segment>
+    <segment id="25">, que em português poderia ser algo</segment>
+    <segment id="26">comocomo "rodoruas" ou "estraduas</segment>
+    <segment id="27">"</segment>
+    <segment id="28">:</segment>
+    <segment id="29">são as ruas que têm casas</segment>
+    <segment id="30">, atividades comerciais</segment>
+    <segment id="31">, escolas</segment>
+    <segment id="32">, masmas onde os veículos trafegam em velocidades de estradas.</segment>
+    <segment id="33">É um gancho interessante para pensarmos na transformação das ruas brasileiras.</segment>
+    <segment id="34">Durante anos</segment>
+    <segment id="35">, nós também perseguimos o aumento da fluidez dos veículos ao custo da urbanidade.</segment>
+    <segment id="36">Na expansão das cidades médias brasileiras</segment>
+    <segment id="37">, essas "rodoruas" parecem ser uma configuração cada vez mais comum.</segment>
+    <segment id="38">Em São Paulo</segment>
+    <segment id="39">, temos exemplos variados da invasão automobilística por todas as partes.</segment>
+    <segment id="40">Não só nas vias expressas</segment>
+    <segment id="41">comocomo as marginais</segment>
+    <segment id="42">, a Radial e o Minhocão</segment>
+    <segment id="43">, masmas também nas ruas que foram sendo engolidas pelo trânsito – a Prestes Maia</segment>
+    <segment id="44">, a Tiradentes</segment>
+    <segment id="45">, a Washington Luiz</segment>
+    <segment id="46">, a Avenida do Estado</segment>
+    <segment id="47">, a Ricardo Jafet e até ruas de bairro</segment>
+    <segment id="48">comocomo a Cardeal Arcoverde são ruas onde o convívio fica abafado pelo trânsito avassalador.</segment>
+    <segment id="49">Citada</segment>
+    <segment id="50">comocomo bom exemplo</segment>
+    <segment id="51">,</segment>
+    <segment id="52">Fortaleza desafia trânsito e transporte lotadoMais    novamente         de   de  de  representando um</segment>
+    <segment id="53">As calçadas parecem apertadinhas</segment>
+    <segment id="54">, os predinhos originais perdem valor</segment>
+    <segment id="55">, os salões de cabeleireiras</segment>
+    <segment id="56">, os botecos e as lojinhas tentam conviver com o barulho e a poluição enquanto as pessoas</segment>
+    <segment id="57">sese acotovelam nas filas dos ônibus.</segment>
+    <segment id="58">E como</segment>
+    <segment id="59">como as ruas podem ser melhores?</segment>
+    <segment id="60">Há muitos modelos sendo discutidos e implantados no mundo todo.</segment>
+    <segment id="61">Um dos mais conhecidos é o conceito de ruas completas– aquelas que são desenhadas para garantir uso seguro e mobilidade para todos os usuários.</segment>
+    <segment id="62">Isso inclui pessoas de todas as idades e habilidades</segment>
+    <segment id="63">, sejam motoristas pedestres</segment>
+    <segment id="64">, ciclistas ou passageiros do transporte público.</segment>
+    <segment id="65">Algumas providências para melhorar a vitalidade das ruas</segment>
+    <segment id="66">, porém</segment>
+    <segment id="67">porém, são quase consensuais.</segment>
+    <segment id="68">A primeira coisa a</segment>
+    <segment id="69">sese fazer é pensar nas calçadas e travessias.</segment>
+    <segment id="70">A calçada é o item básico da urbanidade</segment>
+    <segment id="71">, é barata e razoavelmente simples de arrumar.</segment>
+    <segment id="72">Nas periferias</segment>
+    <segment id="73">, com ruas mais estreitas e calçadas quase inexistentes</segment>
+    <segment id="74">, a solução precisa passar por um desenho urbano que desestimule a velocidade dos automóveis e que permita o uso compartilhado.</segment>
+    <segment id="75">Colunas e BlogsReceba no seu email uma seleção de colunas e blogs da Folha</segment>
+    <segment id="76">; exclusiva para assinantes.</segment>
+    <segment id="77">Carregando...</segment>
+    <segment id="78">Também precisamos discutir a lei: a responsabilidade pela conservação hoje é dos moradores</segment>
+    <segment id="79">, masmas isso não está funcionando</segment>
+    <segment id="80">, até porque</segment>
+    <segment id="81">porque a Prefeitura praticamente não fiscaliza buracos e degraus.</segment>
+    <segment id="82">No quesito manutenção</segment>
+    <segment id="83">, Marohn sugere uma abordagem prática e básica para a municipalidade:</segment>
+    <segment id="84">surgiu um buraco?</segment>
+    <segment id="85">Conserta-</segment>
+    <segment id="86">sese.</segment>
+    <segment id="87">A faixa de pedestres está apagada?</segment>
+    <segment id="88">Pinta-</segment>
+    <segment id="89">sese, imediatamente.</segment>
+    <segment id="90">A segunda providência é diminuir a velocidade nas ruas.</segment>
+    <segment id="91">A 30 km/h</segment>
+    <segment id="92">, um atropelamento resulta em morte em 10% dos casos.</segment>
+    <segment id="93">A 60 km/h</segment>
+    <segment id="94">, o risco de morte sobe para 98%.</segment>
+    <segment id="95">Diante disso</segment>
+    <segment id="96">, o esforço para reduzir a velocidade tem que ir muito além de colocar uma placa.</segment>
+    <segment id="97">É preciso fiscalizar e mudar o desenho das ruas</segment>
+    <segment id="98">, para garantir que um motorista tenha que reduzir quando chegar perto de um ponto de travessia de pedestres ou uma ciclovia.</segment>
+    <segment id="99">A terceira preocupação é melhorar a relação dos prédios com a rua.</segment>
+    <segment id="100">Ruas mais confortáveis não são cercadas por paredes altas e muros</segment>
+    <segment id="101">, masmas por vitrines</segment>
+    <segment id="102">, bares</segment>
+    <segment id="103">, árvores</segment>
+    <segment id="104">, galerias comerciais.</segment>
+    <segment id="105">Em São Paulo</segment>
+    <segment id="106">, estamos assistindo à construção de centenas de novos prédios nos eixos de transporte.</segment>
+    <segment id="107">Isso faz parte dos objetivos do Plano Diretor.</segment>
+    <segment id="108">O que não está previsto</segment>
+    <segment id="109">, porém</segment>
+    <segment id="110">porém, é o efeito nefasto de construções gigantescas com muros</segment>
+    <segment id="111">, garagens e empenas voltados para a calçada</segment>
+    <segment id="112">, o que gera uma paisagem desalentadora</segment>
+    <segment id="113">, que desestimula a convivência.</segment>
+    <segment id="114">Minhocão passa a ter mobiliário aos fins de semanaMais    novamente         de   de  de  representando um  Finalmente</segment>
+    <segment id="115">, é preciso cuidar com obsessão dos detalhes e dos equipamentos urbanos.</segment>
+    <segment id="116">Na cidade cada vez mais quente</segment>
+    <segment id="117">, é preciso garantir amenidades para quem anda a pé</segment>
+    <segment id="118">, desde árvores</segment>
+    <segment id="119">, bancos</segment>
+    <segment id="120">, parklets e pontos de ônibus</segment>
+    <segment id="121">, até o planejamento de áreas para os entregadores de serviços de delivery.</segment>
+    <segment id="122">A complexidade faz parte da cidade</segment>
+    <segment id="123">, abraça-la é parte de qualquer solução.</segment>
+    <segment id="124">Há projetos interessantes sendo testados em São Paulo</segment>
+    <segment id="125">, de redução de velocidades e de redesenho de ruas perto de terminais e escolas.</segment>
+    <segment id="126">Outro dia</segment>
+    <segment id="127">, assisti a uma boa apresentação de uma equipe da CET sobre isso.</segment>
+    <segment id="128">Eles selecionaram uma rua com muitos acidentes no bairro de São Rafael</segment>
+    <segment id="129">, na Zona Leste.</segment>
+    <segment id="130">Os carros</segment>
+    <segment id="131">, motos e ônibus trafegam em velocidade alta</segment>
+    <segment id="132">, há poucos pontos de travessia e em alguns pontos</segment>
+    <segment id="133">, as calçadas são tão estreitas que as crianças têm que andar nas ruas.</segment>
+    <segment id="134">O diagnóstico é preciso</segment>
+    <segment id="135">, o projeto é bom e necessário</segment>
+    <segment id="136">, masmas falta velocidade na implantação.</segment>
+    <segment id="137">Para cada lugar</segment>
+    <segment id="138">, as equipes têm que conhecer os problemas dos moradores</segment>
+    <segment id="139">, fazer o projeto</segment>
+    <segment id="140">, licitar</segment>
+    <segment id="141">, escolher empreiteiras e acompanhar as obras.</segment>
+    <segment id="142">Precisamos multiplicar por dez ou cem o número de intervenções previstas – hoje há apenas quatro no plano de metas.</segment>
+    <segment id="143">É uma mudança de paradigma na Prefeitura</segment>
+    <segment id="144">, que envolve relocação de verbas e de recursos.</segment>
+    <segment id="145">Em 1970</segment>
+    <segment id="146">, o Minhocão foi construído em apenas um ano.</segment>
+    <segment id="147">Em 2022</segment>
+    <segment id="148">, é hora de termos a mesma velocidade para os projetos que promovem urbanidade em vez de subtraí-la</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Vacilão é pego com 3 kg de cocaínaDA NOTÍCIA</segment>
+    <segment id="2">A apreensão ocorreu durante operação de combate ao tráfico de drogas no Sudoeste
+Três quilos de cocaína foram apreendidos pela Polícia Rodoviária Federal (PRF) dentro de um ônibus</segment>
+    <segment id="3">, próximo ao município de Encruzilhada</segment>
+    <segment id="4">, que fica a 607 km de Salvador</segment>
+    <segment id="5">,na manhã desta quinta-feira</segment>
+    <segment id="6">, 1º.</segment>
+    <segment id="7">A apreensão ocorreu durante operação de combate ao tráfico de drogas na região</segment>
+    <segment id="8">Sudoeste do Estado.</segment>
+    <segment id="9">Os policias encontraram a droga escondida em uma mala preta em um ônibus da empresa São Geraldo</segment>
+    <segment id="10">, que fazia a linha São Paulo/SP X Mossoró/RN.</segment>
+    <segment id="11">O passageiro que transportava a droga não teve o nome divulgado.</segment>
+    <segment id="12">Segundo a PRF</segment>
+    <segment id="13">, o jovem tem 22 anos e é natural da cidade de Itau</segment>
+    <segment id="14">, no Rio Grande do Norte.</segment>
+    <segment id="15">O rapaz informou que receberia a quantia de dois mil reais</segment>
+    <segment id="16">, para levar a droga de São Paulo até Mossoró.</segment>
+    <segment id="17">O passageiro foi preso em flagrante e encaminhado à Delegacia de Polícia Judiciária de Cândido Sales.</segment>
+  </rst>
+</analysis>

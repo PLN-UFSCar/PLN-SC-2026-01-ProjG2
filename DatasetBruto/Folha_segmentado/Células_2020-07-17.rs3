@@ -1,0 +1,114 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Pesquisas recentes observaram uma grande diminuição dos anticorpos contra a Covid-19 pouco tempo após a recuperação da doença.</segment>
+    <segment id="2">Mas outras células de defesa do corpo</segment>
+    <segment id="3">, os linfócitos T</segment>
+    <segment id="4">, podem ajudar no combate ao novo coronavírus.</segment>
+    <segment id="5">Uma pesquisa publicada nesta semana na revista científica Nature encontrou sinais de resposta imune relacionada aos linfócitos</segment>
+    <segment id="6">T prolongada em pacientes que foram contaminados com o Sars (síndrome respiratória aguda grave) há 17 anos.</segment>
+    <segment id="7">Os cientistas responsáveis pelo estudo também observaram resposta imune</segment>
+    <segment id="8">, mais uma vez relacionada aos linfócitos</segment>
+    <segment id="9">T, cruzada entre o Sars-CoV-2 (o novo coronavírus) e o Sars.</segment>
+    <segment id="10">Além disso</segment>
+    <segment id="11">, “surpreendentemente</segment>
+    <segment id="12">, também detectamos linfócitos</segment>
+    <segment id="13">T específicos para Sars-CoV-2 em pessoas sem histórico de Sars</segment>
+    <segment id="14">, Covid-19 ou contato com pacientes de Sars/Covid-19”</segment>
+    <segment id="15">, afirma os autores do estudo.</segment>
+    <segment id="16">Isso poderia estar relacionado a contaminações anteriores por outros betacoronavírus</segment>
+    <segment id="17">, especulam os pesquisadores.</segment>
+    <segment id="18">Os linfócitos T têm ação próxima e concomitante à dos anticorpos.</segment>
+    <segment id="19">Quando um corpo estranho invade o organismo</segment>
+    <segment id="20">, algumas células (</segment>
+    <segment id="21">comocomo os macrófagos) fagocitam o invasor e passam a mostrar em sua parede celular fragmentos do intruso.</segment>
+    <segment id="22">É aí que entram em ação os linfócitos</segment>
+    <segment id="23">T, que</segment>
+    <segment id="24">sese aproximam das células apresentadoras de antígeno (a organela que fagocitou o invasor)</segment>
+    <segment id="25">, conectam-</segment>
+    <segment id="26">sese ao fragmento do intruso e</segment>
+    <segment id="27">, a partir disso</segment>
+    <segment id="28">, conseguem</segment>
+    <segment id="29">sese multiplicar para combater a infecção.</segment>
+    <segment id="30">Toda essa ativação dos linfócitos</segment>
+    <segment id="31">T é importante para a produção de citocinas</segment>
+    <segment id="32">, que são determinantes para processos de inflamação (defesa do corpo) e ativação de linfócitos B</segment>
+    <segment id="33">, responsáveis pela produção de anticorpos.</segment>
+    <segment id="34">Os pesquisadores estudaram 36 pessoas que tiveram casos moderados a graves de Covid-19.</segment>
+    <segment id="35">Encontraram</segment>
+    <segment id="36">, em todos os pacientes</segment>
+    <segment id="37">, linfócitos T (mais especificamente</segment>
+    <segment id="38">, dois tipos</segment>
+    <segment id="39">, o CD4 e o CD8) que reconheciam as estruturas presentes no Sars-CoV-2 —o que significa uma memória imune e a capacidade de combater o vírus em</segment>
+    <segment id="40">casocaso de infecção.</segment>
+    <segment id="41">Também foram analisados outros 23 pacientes que tiveram Sars</segment>
+    <segment id="42">, responsável pela primeira pandemia do milênio.</segment>
+    <segment id="43">Nesses</segment>
+    <segment id="44">, observaram os linfócitos T de memória de longa duração com elevada correspondência com as estruturas presentes no Sars-CoV-2.</segment>
+    <segment id="45">A similitude não é inesperada</segment>
+    <segment id="46">, afirma Mariane Amano</segment>
+    <segment id="47">, pesquisadora da área de imunologia do Hospital Sírio-Libanês e membro da Sociedade Brasileira de Imunologia</segment>
+    <segment id="48">, o que fica evidente até mesmo no nome dos vírus (Sars-CoV-1 e 2)</segment>
+    <segment id="49">, masmas é importante que haja trabalhos</segment>
+    <segment id="50">, como</segment>
+    <segment id="51">como o em questão</segment>
+    <segment id="52">, que comprovem isso.</segment>
+    <segment id="53">Por fim</segment>
+    <segment id="54">, os cientistas testaram a resposta das células</segment>
+    <segment id="55">T de 37 pessoas que não tiveram contato com Sars e Sars-CoV-2 e obtiveram resultados positivos em 19 delas.</segment>
+    <segment id="56">Os pesquisadores levantam a hipótese de que a reação esteja relacionada a infecções por gripes comuns</segment>
+    <segment id="57">, que podem também ser causadas por coronavírus.</segment>
+    <segment id="58">“</segment>
+    <segment id="59">É interessante que pessoas que não tiveram contato com os vírus tenham células com possibilidade de reconhecê-los.</segment>
+    <segment id="60">Não é algo ‘nossa</segment>
+    <segment id="61">, nunca vimos’</segment>
+    <segment id="62">, sabemos que existe a possibilidade de reação cruzada.</segment>
+    <segment id="63">Mas, ainda assim</segment>
+    <segment id="64">, é uma boa notícia”</segment>
+    <segment id="65">, afirma Amano.</segment>
+    <segment id="66">“Pode ser que isso explique o fato de parte das pessoas não desenvolverem sintomas tão graves.</segment>
+    <segment id="67">”  Contudo</segment>
+    <segment id="68">, alguns pontos sobre a pesquisa devem ser destacados.</segment>
+    <segment id="69">A amostra usada no estudo (algumas poucas dezenas de pessoas) é pequena para tirar conclusões definitivas.</segment>
+    <segment id="70">Além disso</segment>
+    <segment id="71">, o trabalho analisa a ativação de células fora do corpo.</segment>
+    <segment id="72">“Não é uma garantia de que os indivíduos que possuem as células que reconheceram os antígenos virais não vão apresentar nenhum tipo de sintoma.</segment>
+    <segment id="73">Especialmente aqueles que nunca foram infectados por Sars-CoV-1 ou 2”</segment>
+    <segment id="74">, diz Amano.</segment>
+    <segment id="75">A pesquisadora do Sírio também alerta que com a velocidade atual das publicações</segment>
+    <segment id="76">, não é comum haver uma queda da qualidade de produção.</segment>
+    <segment id="77">Ela cita</segment>
+    <segment id="78">comocomo exemplo um estudo da própria Nature —e também sobre linfócitos T— recentemente retratado</segment>
+    <segment id="79">, ou seja</segment>
+    <segment id="80">, teve sua publicação cancelada.</segment>
+    <segment id="81">Isso, porém</segment>
+    <segment id="82">porém, não significa que este estudo da Nature objeto da matéria esteja errado ou não seja de qualidade</segment>
+    <segment id="83">, pelo contrário.</segment>
+    <segment id="84">Somente quer dizer que ainda há necessidade de ainda mais pesquisas sobre o tema para</segment>
+    <segment id="85">, aí sim</segment>
+    <segment id="86">, ser possível chegar a respostas mais concretas sobre imunidade de longo prazo à Covid-19 —respostas que parecem distantes no momento.</segment>
+    <segment id="87">“Talvez seja um raiozinho de luz no fim do túnel”</segment>
+    <segment id="88">, diz Amano sobre a pesquisa sobre linfócitos</segment>
+  </rst>
+</analysis>

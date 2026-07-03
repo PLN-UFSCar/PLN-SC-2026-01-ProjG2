@@ -1,0 +1,177 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A pandemia ainda não acabou</segment>
+    <segment id="2">, masmas alguns hábitos adquiridos durante a crise sanitária já poderiam ter tido fim.</segment>
+    <segment id="3">Mesmo comprovadas cientificamente</segment>
+    <segment id="4">comocomo ineficazes para impedir a transmissão do coronavírus</segment>
+    <segment id="5">, algumas medidas continuam sendo usadas em estabelecimentos comerciais e órgãos públicos.</segment>
+    <segment id="6">Medição de temperatura</segment>
+    <segment id="7">, tapete sanitizante</segment>
+    <segment id="8">, substituição de cardápios físicos por QR</segment>
+    <segment id="9">Code se</segment>
+    <segment id="10">se tornaram um legado de práticas que persistiram a 18 meses de pandemia e evidências científicas que mostraram sua ineficiência contra a Covid.</segment>
+    <segment id="11">Na região central de São Paulo</segment>
+    <segment id="12">, por exemplo</segment>
+    <segment id="13">, em cinco supermercados visitados pela Folha</segment>
+    <segment id="14">todos mantêm totens com termômetros para controlar a entrada dos clientes.</segment>
+    <segment id="15">Funcionários disseram que nunca viram ninguém ser barrado de entrar nos estabelecimentos por estar com temperatura alta.</segment>
+    <segment id="16">A medição de temperatura na entrada das escolas também é frequente</segment>
+    <segment id="17">, tanto nas particulares</segment>
+    <segment id="18">comocomo nas públicas.</segment>
+    <segment id="19">As unidades colocam um ou dois funcionários especificamente para essa verificação.</segment>
+    <segment id="20">Funcionária mede a temperatura de alunos na entrada da Escola Estadual Rachel Macedo de Souza</segment>
+    <segment id="21">, na capital.</segment>
+    <segment id="22">Medida é considerada ineficaz na proteção sanitária - Zanone Fraissat/Folhapress"A ciência já comprovou que a medição de temperatura é completamente inócua para controlar a Covid.</segment>
+    <segment id="23">Além de não ser efetiva diante da forma</segment>
+    <segment id="24">comocomo a doença</segment>
+    <segment id="25">sese manifesta</segment>
+    <segment id="26">, a prática é completamente sem sentido da maneira</segment>
+    <segment id="27">comocomo é feita</segment>
+    <segment id="28">, com equipamentos sem calibragem ou medição no pulso"</segment>
+    <segment id="29">, diz o infectologista Carlos Fortaleza</segment>
+    <segment id="30">, da Unesp (Universidade Estadual Paulista).</segment>
+    <segment id="31">Ele explica que a medida é ineficaz</segment>
+    <segment id="32">, já que menos da metade das pessoas infectadas com Covid tiveram febre.</segment>
+    <segment id="33">Além de que o aumento da temperatura corporal costuma aparecer depois de outros sintomas da doença.</segment>
+    <segment id="34">"É uma medida inútil e custosa para os estabelecimentos.</segment>
+    <segment id="35">Até mesmo por ser custosa</segment>
+    <segment id="36">, muitos lugares acabam usando equipamentos de baixa qualidade</segment>
+    <segment id="37">, que não têm calibragem confiável para verificar</segment>
+    <segment id="38">sese a pessoa está mesmo com febre</segment>
+    <segment id="39">"</segment>
+    <segment id="40">,</segment>
+    <segment id="41">destaca a infectologista Raquel Stucchi</segment>
+    <segment id="42">, da Unicamp (Universidade Estadual de Campinas).</segment>
+    <segment id="43">Para os especialistas</segment>
+    <segment id="44">, outras medidas de menor custo são mais eficientes</segment>
+    <segment id="45">, como</segment>
+    <segment id="46">como o preenchimento de questionários sobre sintomas em locais de frequência diária</segment>
+    <segment id="47">, como</segment>
+    <segment id="48">como escritórios e escolas.</segment>
+    <segment id="49">Por esse instrumento</segment>
+    <segment id="50">, os frequentadores podem relatar outros sintomas mais comuns da doença</segment>
+    <segment id="51">, como</segment>
+    <segment id="52">como cansaço</segment>
+    <segment id="53">, perda de olfato</segment>
+    <segment id="54">, dor de cabeça ou de garganta.</segment>
+    <segment id="55">A aplicação dos questionários</segment>
+    <segment id="56">, no entanto</segment>
+    <segment id="57">, precisa ser monitorada</segment>
+    <segment id="58">para que</segment>
+    <segment id="59">para que as pessoas sintomáticas sejam encaminhadas para testagem ou isolamento.</segment>
+    <segment id="60">Outras práticas já reconhecidamente ineficazes contra a Covid são o uso de tapetes sanitizantes ou a retirada dos sapatos na entrada de casa.</segment>
+    <segment id="61">Para os especialistas</segment>
+    <segment id="62">, a medida pode ser importante do ponto de vista higiênico</segment>
+    <segment id="63">, masmas não para evitar o vírus.</segment>
+    <segment id="64">O mesmo em relação a lavar as roupas com produtos especiais ou assim que chegar em casa ou ainda usar roupas com tecido vendido</segment>
+    <segment id="65">comocomo "antiviral".</segment>
+    <segment id="66">"</segment>
+    <segment id="67">A transmissão do coronavírus é pelas gotículas que liberamos pelas vias respiratórias</segment>
+    <segment id="68">, ou seja</segment>
+    <segment id="69">, é pelo ar.</segment>
+    <segment id="70">A transmissão por superfícies</segment>
+    <segment id="71">, seja roupa ou sapato</segment>
+    <segment id="72">, é desprezível.</segment>
+    <segment id="73">O importante é higienizar as mãos para evitar o contato delas com a boca</segment>
+    <segment id="74">, nariz e olhos</segment>
+    <segment id="75">, que é por onde pode ocorrer o contágio"</segment>
+    <segment id="76">, diz Fortaleza.</segment>
+    <segment id="77">Qual máscara usar?Mais    novamente         de   de  de  representando um</segment>
+    <segment id="78">Exatamente</segment>
+    <segment id="79">pelas evidências de que a chance de transmissão por superfícies é muito baixa</segment>
+    <segment id="80">, os especialistas também ressaltam que outras práticas defendidas no início da pandemia são pouco eficazes</segment>
+    <segment id="81">, como</segment>
+    <segment id="82">como a higienização de embalagens e compras ou evitar tocar maçanetas e botões de elevador.  "</segment>
+    <segment id="83">No começo da pandemia</segment>
+    <segment id="84">, quando ainda tínhamos poucas informações sobre o comportamento do vírus</segment>
+    <segment id="85">, essas recomendações foram feitas.</segment>
+    <segment id="86">Hoje, sabemos que a contaminação por superfícies é desprezível"</segment>
+    <segment id="87">, diz Stucchi.</segment>
+    <segment id="88">Por isso</segment>
+    <segment id="89">, trocar cardápios físicos de restaurantes por versões digitais que podem ser acessadas por QR</segment>
+    <segment id="90">Code não diminui o risco de transmissão nesses locais.</segment>
+    <segment id="91">Os especialistas dizem que as práticas mais eficientes nesses estabelecimentos são manter boa ventilação</segment>
+    <segment id="92">, mesas afastadas e orientar os clientes a só tirarem as máscaras quando estiverem comendo ou bebendo.</segment>
+    <segment id="93">"</segment>
+    <segment id="94">Se a pessoa passa três horas em um ambiente fechado</segment>
+    <segment id="95">, sem máscara</segment>
+    <segment id="96">, falando</segment>
+    <segment id="97">, não é o ato de encostar no cardápio que vai ser o risco"</segment>
+    <segment id="98">, destaca Fortaleza.</segment>
+    <segment id="99">Para os especialistas</segment>
+    <segment id="100">, adotar medidas ineficientes pode fazer com que as pessoas sintam uma falsa segurança e deixem colocar em práticas o que de fato pode protegê-las da transmissão</segment>
+    <segment id="101">, como</segment>
+    <segment id="102">como o uso correto de máscara e manter o distanciamento.</segment>
+    <segment id="103">Ainda que ineficazes contra a Covid</segment>
+    <segment id="104">, algumas medidas são elencadas pelos especialistas</segment>
+    <segment id="105">comocomo boas práticas de higiene e prevenção de outras doenças.</segment>
+    <segment id="106">Por exemplo</segment>
+    <segment id="107">, manter o hábito de higienizar com frequências as mãos</segment>
+    <segment id="108">, especialmente após tocar áreas de uso comum</segment>
+    <segment id="109">, pode prevenir outras doenças virais.</segment>
+    <segment id="110">Retirar os sapatos ao entrar em casa e higienizar embalagens de alimentos também são medidas vistas</segment>
+    <segment id="111">comocomo boas práticas de higiene ainda que ineficazes na prevenção do coronavírus.</segment>
+    <segment id="112">Claudio Maierovitch</segment>
+    <segment id="113">, médico sanitarista da Fiocruz</segment>
+    <segment id="114">, avalia que a falta de uma política e coordenação nacional para divulgar e incentivar o uso de medidas corretas contra a Covid é um dos fatores que disseminou hábitos sem eficácia.  "</segment>
+    <segment id="115">Desde o início</segment>
+    <segment id="116">, o presidente</segment>
+    <segment id="117">, que é uma das figuras com maior poder de comunicação</segment>
+    <segment id="118">, foi contrário ao uso de máscara.</segment>
+    <segment id="119">Deixar de usá-la</segment>
+    <segment id="120">sese tornou um símbolo de que a situação está melhor</segment>
+    <segment id="121">, o que é uma armadilha.</segment>
+    <segment id="122">"</segment>
+    <segment id="123">O presidente Jair Bolsonaro (sem partido) sempre foi contrário ao uso de máscara.</segment>
+    <segment id="124">Inclusive</segment>
+    <segment id="125">, já foi multado em diversas cidades por não usá-la.</segment>
+    <segment id="126">Ele também continua em busca de formas para impedir que a proteção continue sendo obrigatória.</segment>
+    <segment id="127">Outro alvo do presidente</segment>
+    <segment id="128">, a exigência do comprovante de vacinação também é apontada pelos especialistas</segment>
+    <segment id="129">comocomo uma medida eficaz para controlar o vírus.  "</segment>
+    <segment id="130">A vacina nos levou ao estágio atual da pandemia</segment>
+    <segment id="131">, de arrefecimento.</segment>
+    <segment id="132">Exigir a comprovação é uma forma de fazer com que a população</segment>
+    <segment id="133">sese vacine corretamente</segment>
+    <segment id="134">, volte para tomar a segunda dose.</segment>
+    <segment id="135">O governo federal tentar barrar o passaporte é mais uma demonstração do negacionismo que embasa suas ações"</segment>
+    <segment id="136">, diz Stucchi.</segment>
+    <segment id="137">Apesar de defender a vacinação</segment>
+    <segment id="138">, o governador João Doria (PSDB) não exigiu que os estabelecimentos obriguem a comprovação da imunização e planeja retirar a obrigatoriedade do uso de máscara no estado.</segment>
+    <segment id="139">Na cidade de São Paulo</segment>
+    <segment id="140">, o prefeito Ricardo Nunes (MDB) determinou que a apresentação do comprovante só é obrigatória em eventos com público superior a 500 pessoas.</segment>
+    <segment id="141">Para os especialistas</segment>
+    <segment id="142">, a medida poderia ser mais difundida</segment>
+    <segment id="143">, com a obrigatoriedade da comprovação em escolas</segment>
+    <segment id="144">, faculdades</segment>
+    <segment id="145">, escritórios e outros estabelecimentos comerciais.</segment>
+    <segment id="146">Por enquanto</segment>
+    <segment id="147">, a exigência tem sido adotada isoladamente por alguns órgão</segment>
+    <segment id="148">, como</segment>
+    <segment id="149">como USP</segment>
+    <segment id="150">, Unicamp</segment>
+    <segment id="151">, Unesp e o Tribunal de Justiça de São Paulo.</segment>
+  </rst>
+</analysis>

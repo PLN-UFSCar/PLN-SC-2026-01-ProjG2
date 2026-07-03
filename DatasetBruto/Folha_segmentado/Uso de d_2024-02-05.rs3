@@ -1,0 +1,251 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Às vésperas da eleição para a Prefeitura de Chicago</segment>
+    <segment id="2">, nos Estados Unidos</segment>
+    <segment id="3">, viralizou um vídeo em que um homem dizia: "</segment>
+    <segment id="4">Antigamente</segment>
+    <segment id="5">, um policial podia matar 17 ou 18 pessoas e ninguém nem piscava.</segment>
+    <segment id="6">Essa conversa de ‘tire os recursos da polícia’ vai levar ao caos e à ilegalidade".</segment>
+    <segment id="7">O homem no vídeo era igualzinho ao candidato à prefeitura Paul Vallas —e tinha a mesma voz.</segment>
+    <segment id="8">Mas tratava-</segment>
+    <segment id="9">sese de um vídeo deepfake</segment>
+    <segment id="10">, uma manipulação feita com inteligência artificial</segment>
+    <segment id="11">, que havia sido postada em uma conta recém-criada no X (antigo Twitter).</segment>
+    <segment id="12">A conta fingia ser um veículo de mídia com o nome de Chicago Lakefront News.</segment>
+    <segment id="13">A campanha de Vallas denunciou o vídeo</segment>
+    <segment id="14">, que foi rapidamente retirado da rede social.</segment>
+    <segment id="15">Mesmo assim</segment>
+    <segment id="16">, já era tarde.</segment>
+    <segment id="17">O deepfake havia sido compartilhado milhares de vezes.</segment>
+    <segment id="18">Vallas acabou perdendo a eleição para Brandon Johnson —que</segment>
+    <segment id="19">, justamente</segment>
+    <segment id="20">, disputava com ele os votos dos eleitores moderados e era um crítico da violência policial.</segment>
+    <segment id="21">IA generativa foi usada para tentar influenciar a política em ao menos 16 países em 2023</segment>
+    <segment id="22">, mostra relatório da Freedom House - Sebastien Bozon - 1.dez.23/AFPA eleição em Chicago</segment>
+    <segment id="23">, em fevereiro de 2023</segment>
+    <segment id="24">, foi um prenúncio da avalanche de áudios</segment>
+    <segment id="25">, vídeos e imagens eleitorais falsas que estava por vir.</segment>
+    <segment id="26">De acordo com um levantamento da Freedom House</segment>
+    <segment id="27">, em 2023</segment>
+    <segment id="28">, a inteligência artificial generativa foi usada em pelo menos 16 países para criar vídeos</segment>
+    <segment id="29">, imagens ou áudios com o objetivo de "semear dúvidas</segment>
+    <segment id="30">, difamar opositores ou influenciar o debate público".</segment>
+    <segment id="31">Os deepfakes —imagens</segment>
+    <segment id="32">, áudios ou vídeos criados com a ajuda de modelos de inteligência artificial— têm</segment>
+    <segment id="33">sese tornado muito mais realistas e baratos.</segment>
+    <segment id="34">Inúmeras empresas oferecem serviços de criação de vídeos ou áudios sintéticos por preços a partir de US$ 5 por mês (cerca de R$ 25).  "</segment>
+    <segment id="35">O uso disseminado de deepfakes para manipular processos políticos e eleições deixou de ser uma questão teórica.</segment>
+    <segment id="36">É uma realidade"</segment>
+    <segment id="37">, disse à Folha Henry Ajder</segment>
+    <segment id="38">, especialista em IA que já trabalhou com Meta</segment>
+    <segment id="39">, Adobe e Comissão Europeia.  "</segment>
+    <segment id="40">A partir de agora</segment>
+    <segment id="41">, a tecnologia só vai melhorar.</segment>
+    <segment id="42">Os deepfakes vão ficar cada vez mais baratos e realistas.</segment>
+    <segment id="43">E a quantidade de coisas que podem ser falsificadas vai</segment>
+    <segment id="44">sese expandir muito.</segment>
+    <segment id="45">"</segment>
+    <segment id="46">Cuidados que devemos ter com as fake news em redes sociaisMais    novamente         de   de  de  representando um</segment>
+    <segment id="47">A popularização da desinformação política alimentada por IA ocorre em um momento particularmente delicado —cerca de metade da população do planeta vota em nível nacional ou regional em 2024</segment>
+    <segment id="48">, poucos lugares têm regulação em vigor</segment>
+    <segment id="49">, as big techs reduziram suas equipes de segurança e os sistemas de detecção não são muito eficientes</segment>
+    <segment id="50">, em especial para identificar áudios falsos.</segment>
+    <segment id="51">Na reta final da eleição parlamentar da Eslováquia</segment>
+    <segment id="52">, no fim de setembro do ano passado</segment>
+    <segment id="53">, o líder do partido que estava à frente nas pesquisas foi atropelado por um áudio deepfake.</segment>
+    <segment id="54">Na gravação</segment>
+    <segment id="55">, uma voz muito parecida com a de Michal Simecka</segment>
+    <segment id="56">, líder do partido Progressista</segment>
+    <segment id="57">, falava sobre um esquema para fraudar a eleição comprando votos de integrantes da minoria étnica roma.</segment>
+    <segment id="58">No fundo</segment>
+    <segment id="59">, uma imagem com o rosto de Simecka.</segment>
+    <segment id="60">O partido denunciou o áudio</segment>
+    <segment id="61">, que foi classificado</segment>
+    <segment id="62">comocomo falso pela agência France Presse.</segment>
+    <segment id="63">O conteúdo foi rotulado</segment>
+    <segment id="64">comocomo desinformativo no Facebook</segment>
+    <segment id="65">, masmas não foi removido.</segment>
+    <segment id="66">O Direção Social-Democracia</segment>
+    <segment id="67">, partido populista pró-Rússia</segment>
+    <segment id="68">, derrotou o Progressista e conquistou o maior número de assentos no Parlamento.</segment>
+    <segment id="69">Nos EUA</segment>
+    <segment id="70">, eleitores democratas de New Hampshire receberam ligações automatizadas com uma voz muito parecida com a do presidente Joe Biden instando-os a não participar das primárias do partido no estado</segment>
+    <segment id="71">, no fim de janeiro.</segment>
+    <segment id="72">Segundo pesquisadores</segment>
+    <segment id="73">, o áudio foi criado com o software da startup de clonagem de voz Eleven Labs.</segment>
+    <segment id="74">"</segment>
+    <segment id="75">O tipo de conteúdo sintético que mais consegue enganar as pessoas são os áudios gerados por IA</segment>
+    <segment id="76">, porque</segment>
+    <segment id="77">porque basta ter três segundos da voz de alguém para treinar o modelo e conseguir um deepfake convincente"</segment>
+    <segment id="78">, disse Ben Colman</segment>
+    <segment id="79">, presidente da Reality Defender</segment>
+    <segment id="80">, empresa de detecção de deepfakes.</segment>
+    <segment id="81">Quem são os pré-candidatos do Partido Republicano à Presidência dos EUA em 2024Mais    novamente         de   de  de  representando um  Antes</segment>
+    <segment id="82">, as vozes clonadas soavam robóticas e artificiais.</segment>
+    <segment id="83">Agora, a tecnologia analisa milhões de vozes</segment>
+    <segment id="84">, padrões nos fonemas e nas pausas</segment>
+    <segment id="85">, e consegue replicar tudo de forma muito realista.</segment>
+    <segment id="86">É muito mais fácil notar manipulações em vídeos ou imagens —</segment>
+    <segment id="87">comocomo as mãos deformadas e sombras estranhas— do que em áudios.</segment>
+    <segment id="88">Os detectores de IA não têm acompanhado a velocidade da evolução da tecnologia.  "</segment>
+    <segment id="89">As ferramentas de detecção avançaram muito</segment>
+    <segment id="90">, masmas ainda têm um longo caminho a percorrer.</segment>
+    <segment id="91">Nunca chegaremos a 100% de precisão</segment>
+    <segment id="92">, então quais são outras coisas —</segment>
+    <segment id="93">comocomo a alfabetização midiática— que precisamos combinar com o avanço tecnológico disso?</segment>
+    <segment id="94">", afirma Katie Harbath</segment>
+    <segment id="95">, chefe de assuntos globais da Duco Experts e ex-diretora de políticas públicas do Facebook.</segment>
+    <segment id="96">"</segment>
+    <segment id="97">Não existe um único sistema de detecção</segment>
+    <segment id="98">, uma bala de prata.</segment>
+    <segment id="99">É preciso entender as limitações</segment>
+    <segment id="100">, porque</segment>
+    <segment id="101">porque haverá vários resultados conflitantes"</segment>
+    <segment id="102">, diz Ajder.</segment>
+    <segment id="103">A regulação do uso de IA em eleições —e de forma geral— ainda engatinha.</segment>
+    <segment id="104">No Brasil</segment>
+    <segment id="105">, uma minuta de resolução do TSE (Tribunal Superior Eleitoral)</segment>
+    <segment id="106">, que precisa ser aprovada até março</segment>
+    <segment id="107">, obriga o uso de rótulos informando o uso de inteligência artificial em anúncios políticos e proíbe que a tecnologia seja aplicada para adulterar áudios e vídeos.</segment>
+    <segment id="108">O texto parece criar a obrigação das plataformas de identificarem esses conteúdos e removerem</segment>
+    <segment id="109">, sese for o</segment>
+    <segment id="110">casocaso.</segment>
+    <segment id="111">No entanto</segment>
+    <segment id="112">, as big techs insistiram</segment>
+    <segment id="113">, em audiência pública no TSE</segment>
+    <segment id="114">, que a responsabilidade pela identificação do uso de IA é dos candidatos e partidos</segment>
+    <segment id="115">, e não das empresas.</segment>
+    <segment id="116">As empresas estabeleceram regras de uso exigindo a rotulagem de anúncios políticos que usam IA e proibindo conteúdo sintético que interfira no processo democrático ou questione a integridade do sistema eleitoral.</segment>
+    <segment id="117">Não há</segment>
+    <segment id="118">, porém</segment>
+    <segment id="119">porém, fiscalização sobre a aplicação das regras.</segment>
+    <segment id="120">FolhaJusA newsletter sobre o mundo jurídico exclusiva para assinantes da FolhaCarregando...</segment>
+    <segment id="121">Na União Europeia</segment>
+    <segment id="122">, a lei de IA foi aprovada em dezembro e ainda não entrou em vigor.</segment>
+    <segment id="123">Nos EUA</segment>
+    <segment id="124">, apenas alguns estados —Minnesota</segment>
+    <segment id="125">, Michigan</segment>
+    <segment id="126">, Washington</segment>
+    <segment id="127">, Califórnia</segment>
+    <segment id="128">, e Texas— aprovaram leis regulando o uso de IA em comunicação eleitoral.</segment>
+    <segment id="129">Uma lei federal tramita na Câmara</segment>
+    <segment id="130">, masmas sem perspectiva de aprovação rápida.</segment>
+    <segment id="131">A Índia anunciou que terá regras duras para responsabilizar inteiramente as big techs por conteúdo deepfake que circular nas plataformas.</segment>
+    <segment id="132">As eleições gerais do país começam em abril.</segment>
+    <segment id="133">"</segment>
+    <segment id="134">Algumas plataformas adotaram políticas para mídia manipulada.</segment>
+    <segment id="135">Mas não adianta dizer 'isso não é permitido'</segment>
+    <segment id="136">sese você não fiscalizar e aplicar essas políticas.</segment>
+    <segment id="137">Portanto o governo tem a responsabilidade de forçar as plataformas [a fazerem isso]"</segment>
+    <segment id="138">, diz Ajder.</segment>
+    <segment id="139">"</segment>
+    <segment id="140">Os criadores dessas novas ferramentas de IA</segment>
+    <segment id="141">, por sua vez</segment>
+    <segment id="142">, têm a responsabilidade de desenvolver medidas de segurança para seus produtos.</segment>
+    <segment id="143">"</segment>
+    <segment id="144">Para Jeffrey Blevins</segment>
+    <segment id="145">, professor de jornalismo e relações internacionais da Universidade de Cincinnati</segment>
+    <segment id="146">, apenas rotular as mídias sintéticas</segment>
+    <segment id="147">, como</segment>
+    <segment id="148">como propõe o TSE</segment>
+    <segment id="149">, não será suficiente.</segment>
+    <segment id="150">"</segment>
+    <segment id="151">Isso vai ser</segment>
+    <segment id="152">comocomo enxugar gelo.</segment>
+    <segment id="153">Colocam o rótulo de mídia manipulada em um anúncio</segment>
+    <segment id="154">, e logo surge outro"</segment>
+    <segment id="155">, afirma.</segment>
+    <segment id="156">Além disso</segment>
+    <segment id="157">, a proliferação das mídias sintéticas ocorre em um momento em que as plataformas estão menos preparadas —e dispostas— a intervir.</segment>
+    <segment id="158">Após os escândalos da Cambridge Analytica e a interferência russa na eleição americana de 2016</segment>
+    <segment id="159">, as big techs mergulharam em uma operação de controle de danos e reforçaram suas equipes de "confiança e segurança".</segment>
+    <segment id="160">Agora, elas estão no movimento inverso.</segment>
+    <segment id="161">O X (Twitter) demitiu boa parte da equipe que fazia moderação após Elon Musk comprar a empresa.</segment>
+    <segment id="162">Até hoje</segment>
+    <segment id="163">, um áudio fake de outubro do ano passado em que o líder do partido Trabalhista da Inglaterra</segment>
+    <segment id="164">, Keir Starmer</segment>
+    <segment id="165">, xinga e humilha um assistente continua no X sem nenhum alerta de mídia manipulada.</segment>
+    <segment id="166">Imagens falsas feitas com IA viralizaram nas redes sociaisMais    novamente         de   de  de  representando um</segment>
+    <segment id="167">Nos EUA</segment>
+    <segment id="168">, as plataformas estão receosas em fazer moderação ou colaborar com autoridades após serem acusadas por políticos de direita de censurarem visões conservadoras.</segment>
+    <segment id="169">Tudo isso deságua em um outro problema —os fake deepfakes.</segment>
+    <segment id="170">Como vai ficar muito difícil dizer o que é verdadeiro e o que é IA</segment>
+    <segment id="171">, alegar deepfake vai virar escudo de muitos políticos flagrados em ilegalidades ou gafes.</segment>
+    <segment id="172">O ex-presidente Donald Trump</segment>
+    <segment id="173">, mais uma vez</segment>
+    <segment id="174">, foi pioneiro.</segment>
+    <segment id="175">Na eleição de 2016</segment>
+    <segment id="176">, abraçou a estratégia de chamar de fake news tudo quanto era notícia de que ele não gostava.</segment>
+    <segment id="177">Desta vez</segment>
+    <segment id="178">, a arma é o fake deepfake.</segment>
+    <segment id="179">Em dezembro</segment>
+    <segment id="180">, ele criticou um anúncio político que mostrava muitas de suas gafes</segment>
+    <segment id="181">, como</segment>
+    <segment id="182">como o episódio em que ele não conseguia pronunciar a palavra "anônimo" e quando confundiu o nome de uma cidade na Califórnia —chamou de Pleasure o município de Paradise.  "</segment>
+    <segment id="183">Os pervertidos e perdedores do fracassado Lincoln Project [grupo de republicanos anti-Trump] estão usando inteligência artificial em propagandas na TV</segment>
+    <segment id="184">para que</segment>
+    <segment id="185">para que eu pareça estar tão mal quanto Joe Biden"</segment>
+    <segment id="186">, disse Trump</segment>
+    <segment id="187">, em sua rede social</segment>
+    <segment id="188">, a Truth Social.</segment>
+    <segment id="189">Todas as gafes mostradas no anúncio eram públicas e tinham sido amplamente noticiadas.</segment>
+    <segment id="190">Como reconhecer deepfakes e uso de IA ou automação nas eleições</segment>
+    <segment id="191">Existem inúmeros softwares</segment>
+    <segment id="192">, muitos deles gratuitos</segment>
+    <segment id="193">, que ajudam a detectar uso de IA.</segment>
+    <segment id="194">Nenhum deles é 100% eficiente.</segment>
+    <segment id="195">Sempre é necessário usar mais de um e ter um humano para analisar o contexto das publicações.</segment>
+    <segment id="196">A IA está avançando rapidamente</segment>
+    <segment id="197">, e muitas técnicas de detecção podem</segment>
+    <segment id="198">sese tornar obsoletas.</segment>
+    <segment id="199">O conteúdo é disseminado por perfis de redes sociais recém-criados ou com nomes que parecem ser de veículos de notícias.</segment>
+    <segment id="200">Veículos de mídia estabelecidos não compartilham as imagens</segment>
+    <segment id="201">, áudios ou vídeos.</segment>
+    <segment id="202">Veja outros indícios:   Em áudio</segment>
+    <segment id="203">, as pausas entre as palavras são todas iguais ou muito inconsistentes</segment>
+    <segment id="204">As frases soam artificiais</segment>
+    <segment id="205">A pronúncia de algumas palavras é estranha</segment>
+    <segment id="206">Na maioria das vezes</segment>
+    <segment id="207">, a IA não consegue replicar de forma eficiente o barulho da respiração da pessoa ou o som ambiente</segment>
+    <segment id="208">Em um vídeo</segment>
+    <segment id="209">, há discrepâncias sutis entre o movimento dos lábios e o que é dito    Redes de perfis falsos em redes sociais usando fotos geradas por IA costumam ter os olhos e bocas das "pessoas</segment>
+    <segment id="210">"</segment>
+    <segment id="211">todos na mesma altura do rosto —isso pode ser visto ao</segment>
+    <segment id="212">sese examinar as imagens uma ao lado da outra    Imagens geradas por IA às vezes têm falhas nas mãos</segment>
+    <segment id="213">, orelhas</segment>
+    <segment id="214">, lábios</segment>
+    <segment id="215">, olhos e cabelo.</segment>
+    <segment id="216">Também podem apresentar diferenças em tom ou textura da pele    Barba</segment>
+    <segment id="217">, óculos e pintas também podem ter aparência estranha</segment>
+    <segment id="218">Em vídeos</segment>
+    <segment id="219">, a pessoa pisca demais ou nunca pisca</segment>
+    <segment id="220">Perfis postam centenas de vezes por dia</segment>
+    <segment id="221">, muitas vezes com intervalo muito curto entre publicações (automação ou pessoas contratadas)   Fonte: Digital Forensics</segment>
+    <segment id="222">Lab do Atlantic Council</segment>
+    <segment id="223">, Hany Farid da Universidade da Califórnia em Berkeley</segment>
+    <segment id="224">, MIT Media</segment>
+    <segment id="225">Lab</segment>
+  </rst>
+</analysis>

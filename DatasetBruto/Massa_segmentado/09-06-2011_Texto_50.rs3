@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Grajaú-Jacarepaguá será monitorada 24 horas por dia pela CET-Rio
+RIO - A Estrada Menezes Cortes - Serra Grajaú-Jacarepaguá - passará a ser monitorada 24h por dia pela CET-Rio a partir da próxima segunda-feira.</segment>
+    <segment id="2">O objetivo é fazer com que qualquer interferência no trânsito possa ser rapidamente identificada e sanada.</segment>
+    <segment id="3">A atuação contará com 1 pick-up</segment>
+    <segment id="4">, 1 reboque pesado e 10 motocicletas que circularão pela via e seus acessos</segment>
+    <segment id="5">, e também ficarão posicionados em pontos estratégicos</segment>
+    <segment id="6">, acompanhando o movimento de veículos.</segment>
+    <segment id="7">A iniciativa faz parte do plano de expansão da atividade operacional da CET-Rio.</segment>
+    <segment id="8">É esperado que equipes de plantão permitam a implementação mais rápida de medidas preventivas</segment>
+    <segment id="9">, como</segment>
+    <segment id="10">como o fechamento total ou parcial da via</segment>
+    <segment id="11">, em situações que indiquem risco de deslizamentos/escorregamentos</segment>
+    <segment id="12">, aumentando assim a segurança de todos que trafegam pela Serra.</segment>
+    <segment id="13">A Estrada Menezes Cortes é uma importante via de cidade</segment>
+    <segment id="14">, com volume de 39.201 veículos/dia</segment>
+    <segment id="15">, sendo uma das principais ligações entre a região de Jacarepaguá e a Zona Norte</segment>
+    <segment id="16">, além de servir também</segment>
+    <segment id="17">comocomo trajeto para a região do Centro.</segment>
+  </rst>
+</analysis>

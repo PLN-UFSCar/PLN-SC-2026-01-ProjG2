@@ -1,0 +1,182 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Brasil teria evitado pelo menos 5.000 mortes nos últimos meses</segment>
+    <segment id="2">casocaso o governo Jair Bolsonaro tivesse aceitado a oferta de vacinas da Pfizer em agosto do ano passado.</segment>
+    <segment id="3">É o que aponta cálculo feito a pedido da Folha pelo epidemiologista Pedro Hallal</segment>
+    <segment id="4">, professor da UFPel (Universidade Federal de Pelotas) e coordenador do Epicovid-19</segment>
+    <segment id="5">, o maior estudo epidemiológico sobre coronavírus no Brasil.</segment>
+    <segment id="6">Ele tomou</segment>
+    <segment id="7">comocomo base as informações prestadas pelo gerente-geral da Pfizer na América Latina</segment>
+    <segment id="8">, Carlos Murillo</segment>
+    <segment id="9">, à CPI da Covid nesta quinta-feira (13).</segment>
+    <segment id="10">Segundo o representante do laboratório</segment>
+    <segment id="11">, a Pfizer fez oferta ao Brasil no meio do ano passado que previa o envio de 70 milhões de doses</segment>
+    <segment id="12">, das quais 4</segment>
+    <segment id="13">,5 milhões seriam entregues ao país de dezembro a março —1</segment>
+    <segment id="14">,5 milhão em 2020 e 3 milhões no primeiro trimestre de 2021.</segment>
+    <segment id="15">O cálculo estima que 14 mil óbitos poderiam ter deixado de ocorrer considerando uma margem de erro que varia de 5.000 a 25 mil óbitos</segment>
+    <segment id="16">, chamado intervalo de confiança</segment>
+    <segment id="17">, caso</segment>
+    <segment id="18">caso essas doses tivessem sido adquiridas.</segment>
+    <segment id="19">Além disso</segment>
+    <segment id="20">, 30 mil internações em UTIs (unidades de tratamento intensivo) poderiam ter deixado de acontecer</segment>
+    <segment id="21">, com uma margem de erro que varia entre 23 mil e 37 mil hospitalizações.</segment>
+    <segment id="22">“Para entender o intervalo de confiança</segment>
+    <segment id="23">, basta pensar numa pesquisa eleitoral e na sua margem de erro</segment>
+    <segment id="24">, não se</segment>
+    <segment id="25">se trata de cenários distintos que levam em conta dados diferentes”</segment>
+    <segment id="26">, explica Hallal.</segment>
+    <segment id="27">SP recebe primeiras doses da vacina da PfizerMais    novamente         de   de  de  representando um</segment>
+    <segment id="28">Para o cálculo</segment>
+    <segment id="29">, o pesquisador usou os seguintes parâmetros: um terço da população com anticorpos</segment>
+    <segment id="30">, letalidade do coronavírus de 1% e eficácia da vacina de 94%.</segment>
+    <segment id="31">Com base no índice da população com anticorpos e na letalidade da doença</segment>
+    <segment id="32">, chega-</segment>
+    <segment id="33">sese a um total de mortes esperado</segment>
+    <segment id="34">casocaso o país tivesse recebido as 4</segment>
+    <segment id="35">,5 milhões de doses.</segment>
+    <segment id="36">Deste número descontam-</segment>
+    <segment id="37">sese os óbitos que poderiam ter sido evitados com base na eficácia da vacina e chega-</segment>
+    <segment id="38">sese ao resultado.</segment>
+    <segment id="39">A conta de Hallal já leva em conta as duas doses de Pfizer que devem ser aplicadas em cada pessoa que</segment>
+    <segment id="40">sese vacina com o imunizante.</segment>
+    <segment id="41">"</segment>
+    <segment id="42">Este cálculo é baseado na quantidade de doses</segment>
+    <segment id="43">, independentemente</segment>
+    <segment id="44">sese elas fossem aplicadas para 4</segment>
+    <segment id="45">,5 milhões de pessoas (1 dose) ou 2</segment>
+    <segment id="46">,250 millhões de pessoas em duas doses.</segment>
+    <segment id="47">Isso não influencia no cálculo"</segment>
+    <segment id="48">, detalha o professor.</segment>
+    <segment id="49">Como comparação</segment>
+    <segment id="50">, até março deste ano</segment>
+    <segment id="51">, o Brasil havia registrado 321.886 óbitos.</segment>
+    <segment id="52">Março foi considerado o pior da pandemia até então</segment>
+    <segment id="53">, com 66.868 mortes em 31 dias</segment>
+    <segment id="54">, sendo superado por abril</segment>
+    <segment id="55">, com 82.401 óbitos.</segment>
+    <segment id="56">Nesta quinta</segment>
+    <segment id="57">, o Brasil passou de 430 mil mortes.</segment>
+    <segment id="58">Em outra frente</segment>
+    <segment id="59">, só em março</segment>
+    <segment id="60">, houve 21.156 admissões em UTIs em decorrência do coronavírus.</segment>
+    <segment id="61">De dezembro a fevereiro</segment>
+    <segment id="62">, foram 32.609 pacientes com Covid que tiveram de ir para uma unidade de tratamento intensivo</segment>
+    <segment id="63">, segundo dados da Associação de Medicina Intensiva Brasileira.</segment>
+    <segment id="64">Veja quem já prestou depoimento à CPI da Covid no SenadoMais    novamente         de   de  de  representando um    Nesta quinta</segment>
+    <segment id="65">, o gerente-geral da Pfizer na América Latina disse à CPI que</segment>
+    <segment id="66">, sese o contrato com a empresa tivesse sido assinado pelo governo em agosto do ano passado</segment>
+    <segment id="67">, o Brasil teria disponíveis 18</segment>
+    <segment id="68">,5 milhões de doses da vacina até o segundo trimestre (abril</segment>
+    <segment id="69">, maio e junho) deste ano —das quais 4</segment>
+    <segment id="70">,5 milhões até março</segment>
+    <segment id="71">, 20% a mais do que foi aplicado na população até 31 de março.</segment>
+    <segment id="72">Carlos Murillo traçou uma linha do tempo.</segment>
+    <segment id="73">As negociações começaram em maio de 2020 e</segment>
+    <segment id="74">, em 14 de agosto</segment>
+    <segment id="75">, foi feita a primeira oferta para compra de 30 milhões ou de 70 milhões de doses</segment>
+    <segment id="76">, ignoradas pelo governo federal</segment>
+    <segment id="77">, como</segment>
+    <segment id="78">como mostrou a Folha no início de março deste ano.</segment>
+    <segment id="79">Segundo o representante da Pfizer</segment>
+    <segment id="80">, após ter iniciado as conversas com o Brasil em maio</segment>
+    <segment id="81">, a primeira oferta ocorreu em 14 de agosto.</segment>
+    <segment id="82">Depois</segment>
+    <segment id="83">, o laboratório fez mais duas ofertas</segment>
+    <segment id="84">, em 18 de agosto e 26 de agosto.</segment>
+    <segment id="85">Nas três foram feitas propostas separadas de entregas de dois quantitativos: 30 e 70 milhões de doses para entrega parcelada até o final de dezembro de 2021.</segment>
+    <segment id="86">As duas ofertas previam que ao menos 1</segment>
+    <segment id="87">,5 milhão de doses chegariam ao Brasil ainda em dezembro de 2020.</segment>
+    <segment id="88">Como a oferta foi ignorada</segment>
+    <segment id="89">, segundo Murillo</segment>
+    <segment id="90">, em novembro as negociações foram retomadas com mais duas propostas.</segment>
+    <segment id="91">Desta vez</segment>
+    <segment id="92">, só estava na mesa a possibilidade de compra de 70 milhões de doses e não havia mais a chance de alguma vacina da Pfizer chegar em 2020.</segment>
+    <segment id="93">O Brasil receberia 8</segment>
+    <segment id="94">,5 milhões de doses nos dois primeiros trimestres de 2021.</segment>
+    <segment id="95">Neste ano</segment>
+    <segment id="96">, a Pfizer fez nova oferta em 15 de fevereiro.</segment>
+    <segment id="97">Só havia uma proposta na mesa</segment>
+    <segment id="98">, para a compra de 100 milhões de doses.</segment>
+    <segment id="99">Mais uma vez</segment>
+    <segment id="100">, o governo não fechou o acordo.</segment>
+    <segment id="101">Em 8 de março deste ano</segment>
+    <segment id="102">, de acordo com o representante da farmacêutica</segment>
+    <segment id="103">, foi feita mais uma oferta</segment>
+    <segment id="104">, semelhante à de fevereiro</segment>
+    <segment id="105">, para a entrega de 100 milhões de doses</segment>
+    <segment id="106">, sendo 14 milhões no segundo trimestre de 2021 e mais 86 milhões no terceiro trimestre —esta foi aceita pelo governo federal.</segment>
+    <segment id="107">Murillo disse que só ficou confiante com o fechamento do acordo para o fornecimento da vacina com o governo brasileiro no dia 19 de março deste ano</segment>
+    <segment id="108">, quando o contrato foi assinado.</segment>
+    <segment id="109">Cronologia das negociações entre Pfizer e governo Bolsonaro  Mai.2020</segment>
+    <segment id="110">Primeiros contatos da Pfizer com o governo brasileiro  16.jul.2020</segment>
+    <segment id="111">Fornecimento da “expressão de interesse” da Pfizer ao Ministério da Saúde</segment>
+    <segment id="112">, quando a empresa resume as condições do processo</segment>
+    <segment id="113">6.ago.2020 Ministério da Saúde manifesta</segment>
+    <segment id="114">“possível interesse” na vacina</segment>
+    <segment id="115">7.ago.2020 Reunião de representantes da Pfizer com o Ministério da Economia  14.ago.2020</segment>
+    <segment id="116">Pfizer faz a primeira oferta da vacina</segment>
+    <segment id="117">, com duas opções:  30 milhões de doses</segment>
+    <segment id="118">, sendo:</segment>
+    <segment id="119">500 mil em 2020 1</segment>
+    <segment id="120">,5 milhão no 1º trimestre de 2021 5 milhões no 2º trimestre de 2021 14 milhões no 3º trimestre de 2021 8 milhões no 4º trimestre de 2021   70 milhões de doses</segment>
+    <segment id="121">, sendo:   500 mil em 2020 1</segment>
+    <segment id="122">,5 milhão no 1º trimestre de 2021 5 milhões no 2º trimestre de 2021 33 milhões no 3º trimestre de 2021 30 milhões no 4º trimestre de 2021   18.ago.2020</segment>
+    <segment id="123">Segunda oferta e a empresa consegue um quantitativo adicional de entregas para o final de 2020  30 milhões de doses</segment>
+    <segment id="124">, sendo:   1</segment>
+    <segment id="125">,5 milhão em 2020 1</segment>
+    <segment id="126">,5 milhão no 1º trimestre de 2021 5 milhões no 2º trimestre de 2021 14 milhões no 3º trimestre de 2021 8 milhões no 4º trimestre de 2021   70 milhões de doses</segment>
+    <segment id="127">, sendo:   1</segment>
+    <segment id="128">,5 milhão em 2020 1</segment>
+    <segment id="129">,5 milhão no 1º trimestre de 2021 5 milhões no 2º trimestre de 2021 33 milhões no 3º trimestre de 2021 29 milhões no 4º trimestre de 2021   26.ago.2020</segment>
+    <segment id="130">Terceira oferta da Pfizer</segment>
+    <segment id="131">, com um adicional de entrega maior para o 1º trimestre de 2021  30 milhões de doses</segment>
+    <segment id="132">, sendo:   1</segment>
+    <segment id="133">,5 milhão em 2020 2</segment>
+    <segment id="134">,5 milhões no 1º trimestre de 2021 8 milhões no 2º trimestre de 2021 10 milhões no 3º trimestre de 2021 8 milhões no 4º trimestre de 2021   70 milhões de doses</segment>
+    <segment id="135">, sendo:   1</segment>
+    <segment id="136">,5 milhão em 2020 3 milhões no 1º trimestre de 2021 14 milhões no 2º trimestre de 2021 26</segment>
+    <segment id="137">,5 milhões no 3º trimestre de 2021 25 milhões no 4º trimestre de 2021</segment>
+    <segment id="138">12.set.2020</segment>
+    <segment id="139">Pfizer envia carta ao governo brasileiro indicando interesse em chegar a um acordo</segment>
+    <segment id="140">11.nov.2020</segment>
+    <segment id="141">Quarta oferta pela proposta de 70 milhões de doses</segment>
+    <segment id="142">, sendo 2 milhões no 1º trimestre de 2021</segment>
+    <segment id="143">, 6,5 milhões no 2º trimestre de 2021</segment>
+    <segment id="144">, 32 milhões no 3º trimestre de 2021</segment>
+    <segment id="145">, e 29</segment>
+    <segment id="146">,5 milhões no 4º trimestre de 2021  24.nov.2020</segment>
+    <segment id="147">Pfizer faz a mesma oferta</segment>
+    <segment id="148">, com algumas alterações contratuais</segment>
+    <segment id="149">, como</segment>
+    <segment id="150">como na necessidade de ter o registro sanitário aprovado  15.fev.2021 Nova oferta de 100 milhões de doses.</segment>
+    <segment id="151">Entrega de 8</segment>
+    <segment id="152">,7 milhões no 2º trimestre de 2021</segment>
+    <segment id="153">, 32 milhões no 3º trimestre de 2021 e 59 milhões no 4º trimestre de 2021  22.fev.2021 Anvisa aprova o registro permanente da vacina  8.mar.2021 Oferta das 100 milhões de doses é aceita pelo governo brasileiro</segment>
+    <segment id="154">, com cronograma de 14 milhões no 2º trimestre de 2021 e 86 milhões no 3º trimestre de 2021  19.mar.2021 Contrato é assinado  23.abr.2021</segment>
+    <segment id="155">Nova oferta para mais 100 milhões de doses para o 3º trimestre de 2021.</segment>
+    <segment id="156">O representante da Pfizer disse que o segundo contrato está sendo finalizado nesta semana</segment>
+  </rst>
+</analysis>

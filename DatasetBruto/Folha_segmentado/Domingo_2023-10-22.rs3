@@ -1,0 +1,91 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O domingo (22) deverá ser de muito calor na maioria das capitais brasileiras</segment>
+    <segment id="2">, principalmente nas regiões Centro-Oeste e Norte.</segment>
+    <segment id="3">De acordo com o Inmet (Instituto Nacional de Meteorologia)</segment>
+    <segment id="4">, em Cuiabá (MT)</segment>
+    <segment id="5">, a previsão é que a máxima atinja 43ºC no meio da tarde.</segment>
+    <segment id="6">A cidade de Rondonópolis (MT)</segment>
+    <segment id="7">, que na última sexta-feira (20) registrou quase 40°C de temperatura máxima</segment>
+    <segment id="8">; onda de calor atingir</segment>
+    <segment id="9">, principalmente</segment>
+    <segment id="10">, a região Centro-Oeste do país - Vandréia de Paula - 19.out.23/AgoraMTSerá mais um dia quente para os cuiabanos.</segment>
+    <segment id="11">Na última quinta (19)</segment>
+    <segment id="12">, a capital do Mato Grosso já havia registrado 43</segment>
+    <segment id="13">,3ºC.  Por causa da onda de calor</segment>
+    <segment id="14">, o Inmet emitiu um alerta de perigo que vai até o início da noite de segunda (23) na região Centro-Oeste.</segment>
+    <segment id="15">Existe a possibilidade de os termômetros marcarem até 5ºC acima da média durante cinco dias.</segment>
+    <segment id="16">Segundo o instituto</segment>
+    <segment id="17">, há risco à saúde por causa da temperatura alta em quase todo o estado de Mato Grosso</segment>
+    <segment id="18">, para a porção norte de Mato Grosso do Sul</segment>
+    <segment id="19">, para a fatia sul do Amazonas e para trechos próximos às divisas de Mato Grosso com Tocantins e Goiás.</segment>
+    <segment id="20">Segundo Climatempo</segment>
+    <segment id="21">, o calorão é provocado pela intensificação de um sistema de alta pressão atmosférica sobre o interior do Brasil</segment>
+    <segment id="22">, que já vem ocorrendo desde o início desta semana.</segment>
+    <segment id="23">O sistema de alta pressão atmosférica</segment>
+    <segment id="24">, explica</segment>
+    <segment id="25">, inibe a formação de grandes nuvens e a ocorrência de chuva</segment>
+    <segment id="26">, permitindo o maior número de horas com sol forte sobre a superfície.</segment>
+    <segment id="27">"</segment>
+    <segment id="28">Além disso</segment>
+    <segment id="29">, é preciso considerar a época do ano</segment>
+    <segment id="30">, pois</segment>
+    <segment id="31">pois, com o movimento da Terra ao redor do Sol</segment>
+    <segment id="32">, o Hemisfério Sul já está sendo mais aquecido naturalmente"</segment>
+    <segment id="33">, afirma a meteorologista Josélia Pegorim</segment>
+    <segment id="34">, da Climatempo.</segment>
+    <segment id="35">O forte calor só não vai atingir duas capitais da região Sul do país –Florianópolis e Curitiba– e São Paulo</segment>
+    <segment id="36">, no Sudeste.</segment>
+    <segment id="37">Segundo o CGE (Centro de Gerenciamento de Emergências)</segment>
+    <segment id="38">, da Prefeitura de São Paulo</segment>
+    <segment id="39">, o domingo na capital paulista terá muitas nuvens</segment>
+    <segment id="40">, aberturas de sol e temperatura em elevação.</segment>
+    <segment id="41">A mínima prevista para a madrugada é de 16°C.</segment>
+    <segment id="42">A temperatura máxima</segment>
+    <segment id="43">, à tarde</segment>
+    <segment id="44">, deverá atingir 26°C.</segment>
+    <segment id="45">Não há previsão de chuva.</segment>
+    <segment id="46">VEJA</segment>
+    <segment id="47">A PREVISÃO PARA ESTE DOMINGO (22)</segment>
+    <segment id="48">NAS CAPITAIS     Cidade Mínima Máxima   Sul       Porto Alegre (RS) 18°C 30°C</segment>
+    <segment id="49">Florianópolis (SC) 18°C 23°C   Paraná (PR) 12°C 25°C   Sudeste       São Paulo (SP)</segment>
+    <segment id="50">16°C 26°C   Rio de Janeiro (RS) 16°C 30°C   Belo Horizonte (MG)</segment>
+    <segment id="51">16°C 30°C</segment>
+    <segment id="52">Vitória (ES) 22°C 30°C</segment>
+    <segment id="53">Nordeste       Salvador (BA) 24°C 28°C   Aracaju (SE) 24°C 29°</segment>
+    <segment id="54">C</segment>
+    <segment id="55">Maceió (AL) 23°C 30°C   Recife (PE) 23°C 29 °</segment>
+    <segment id="56">C</segment>
+    <segment id="57">João Pessoa (PB) 25°C 30 °C   Natal (RN)</segment>
+    <segment id="58">25°C 30 °C</segment>
+    <segment id="59">Fortaleza (CE) 26°C 31 °C   São Luís (MA)</segment>
+    <segment id="60">25°C</segment>
+    <segment id="61">33 °C   Teresina (PI) 24 °C 37 °C   Norte       Belém (PA) 24 °C 35 °C</segment>
+    <segment id="62">Macapá (PA) 25 °C 34 °C   Boa Vista (RO) 25 °C 37 °C   Manaus (AM) 26 °C 34 °C   Rio Branco (AC) 23 °C 34 °C   Porto Velho (RR) 26 °C 37 °C   Palmas (TO) 25 °C 38°C   Centro-Oeste       Cuiabá (MT) 30 °C 43°C   Campo Grande (MS)</segment>
+    <segment id="63">24 °C 36°C   Goiânia (GO) 21 °C 35°C</segment>
+    <segment id="64">Brasília (DF) 21 °C 32°C     Fonte:</segment>
+    <segment id="65">Inmet</segment>
+  </rst>
+</analysis>

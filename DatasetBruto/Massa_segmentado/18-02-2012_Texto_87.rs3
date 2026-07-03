@@ -1,0 +1,47 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Explosão em partida de futebol mata três
+“</segment>
+    <segment id="2">Um canto do campo do estádio foi atingido”</segment>
+    <segment id="3">, relatou uma testemunha</segment>
+    <segment id="4">Uma partida de futebol virou tragédia.</segment>
+    <segment id="5">Três pessoas morreram por causa de uma explosão em um estádio</segment>
+    <segment id="6">, durante um jogo disputado ontem</segment>
+    <segment id="7">,  em Mogadíscio</segment>
+    <segment id="8">, Somália.</segment>
+    <segment id="9">“</segment>
+    <segment id="10">Uma forte explosão</segment>
+    <segment id="11">, provavelmente causada por uma bomba</segment>
+    <segment id="12">, ocorreu no gramado enquanto o jogo estava prestes a começar.</segment>
+    <segment id="13">Três torcedores morreram e outros sete foram feridos”</segment>
+    <segment id="14">, afirmou o coronel Abdi Mohamed.</segment>
+    <segment id="15">A explosão</segment>
+    <segment id="16">, que ainda não foi reivindicada</segment>
+    <segment id="17">, foi registrada no sul de Mogadíscio</segment>
+    <segment id="18">, no bairro de Hararyale.</segment>
+    <segment id="19">“Um canto do campo do estádio foi atingido”</segment>
+    <segment id="20">, relatou a testemunha Abduhafid Bashir.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Trio rouba velhinho e espanca o coitado</segment>
+    <segment id="2">O idoso teve duas costelas quebradas e o pulmão perfurado</segment>
+    <segment id="3">Três homens roubaram a casa de um idoso de 75 anos e ainda o torturaram.</segment>
+    <segment id="4">O crime foi em Águas Lindas de Goiás</segment>
+    <segment id="5">, no Entorno de Brasília</segment>
+    <segment id="6">, no fim de semana.</segment>
+    <segment id="7">Segundo informações do site G1</segment>
+    <segment id="8">, os bandidos foram presos.</segment>
+    <segment id="9">O delegado Fernando Augusto Lima relata que os assaltantes fizeram o idoso carregar botijão de gás</segment>
+    <segment id="10">, televisão e outras coisas pesadas por cerca de 500 metros</segment>
+    <segment id="11">, até um matagal.</segment>
+    <segment id="12">Chegando lá</segment>
+    <segment id="13">, a vítima teve a boca amordaçada e foi amarrada.</segment>
+    <segment id="14">“</segment>
+    <segment id="15">O idoso teve duas costelas quebradas e o pulmão perfurado.</segment>
+    <segment id="16">Os bandidos abandonaram ele</segment>
+    <segment id="17">, masmas resolveram voltar e viram que estava tentando</segment>
+    <segment id="18">sese soltar.</segment>
+    <segment id="19">Aí começaram a torturá-lo novamente”</segment>
+    <segment id="20">, relata o delegado.</segment>
+  </rst>
+</analysis>

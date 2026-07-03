@@ -1,0 +1,120 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Vacinas contra Covid-19 desencadeiam diferentes períodos de imunidade e aquelas que utilizam a tecnologia de RNA mensageiro (mRNA) são as que protegem por mais tempo</segment>
+    <segment id="2">, segundo estudo conduzido por cientistas das universidades Yale e da Carolina do Norte publicado na última sexta (15) na revista científica PNAS.</segment>
+    <segment id="3">A pesquisa buscou estimar a probabilidade de infecções futuras por Sars-Cov-2 entre quem já contraiu o vírus e em pessoas imunizadas com as vacinas da Pfizer</segment>
+    <segment id="4">, Moderna</segment>
+    <segment id="5">, AstraZeneca ou Janssen.</segment>
+    <segment id="6">Para tanto</segment>
+    <segment id="7">, os pesquisadores compilaram os dados de dez estudos anteriores que avaliaram a resposta induzida pelos imunizantes e pela exposição ao vírus e compararam o nível de anticorpo IgG anti-S ao longo do tempo.</segment>
+    <segment id="8">Tanto os anticorpos por infecção natural quanto os induzidos por vacinas diminuem gradativamente</segment>
+    <segment id="9">, aumentando a probabilidade de infecções</segment>
+    <segment id="10">, porém</segment>
+    <segment id="11">porém as taxas são diferentes em cada</segment>
+    <segment id="12">casocaso.</segment>
+    <segment id="13">Profissional de saúde prepara dose de vacina da Pfizer contra Covid na Cidade do México</segment>
+    <segment id="14">, em junho deste ano   - Pedro Pardo/AFPSegundo os autores</segment>
+    <segment id="15">, enquanto a mediana do tempo para infecção após a vacinação com doses da Moderna e da Pfizer é de 29</segment>
+    <segment id="16">,6 meses</segment>
+    <segment id="17">, a observada com as vacinas da AstraZeneca e da Janssen é de 22</segment>
+    <segment id="18">,4 e 20</segment>
+    <segment id="19">,5 meses</segment>
+    <segment id="20">, respectivamente.</segment>
+    <segment id="21">No caso</segment>
+    <segment id="22">caso das infecções naturais</segment>
+    <segment id="23">, a mediana é de 21</segment>
+    <segment id="24">,5 meses.</segment>
+    <segment id="25">A partir desses números</segment>
+    <segment id="26">, os pesquisadores sugerem quando aplicar novas doses.</segment>
+    <segment id="27">Para permitir não mais do que 5% de probabilidade de infecção futura</segment>
+    <segment id="28">comocomo consequência do declínio da imunidade</segment>
+    <segment id="29">, eles indicam que as pessoas totalmente vacinadas com Moderna e Pfizer recebam o primeiro reforço pós-vacinação dentro de um ano e que os totalmente imunizados com AstraZeneca e Janssen tomem a dose de reforço em cinco meses e 4</segment>
+    <segment id="30">,5 meses</segment>
+    <segment id="31">, respectivamente.</segment>
+    <segment id="32">Para o médico infectologista Alexandre Naime Barbosa</segment>
+    <segment id="33">, professor na Unesp e vice-presidente da Sociedade Brasileira de Infectologia</segment>
+    <segment id="34">, o artigo contribui com informações importantes.</segment>
+    <segment id="35">A primeira é que o pico e a duração da imunidade com vacinas de mRNA são muito maiores do que aqueles por infecção natural</segment>
+    <segment id="36">, contrariando a ideia de que é melhor</segment>
+    <segment id="37">sese expor ao vírus para adquirir anticorpos.</segment>
+    <segment id="38">O estudo também confirma que vacinas de mRNA oferecem maior proteção do que aquelas por vetor viral.</segment>
+    <segment id="39">"</segment>
+    <segment id="40">Isso, porém</segment>
+    <segment id="41">porém, não inviabiliza os imunizantes de vetor viral</segment>
+    <segment id="42">porque</segment>
+    <segment id="43">porque eles conferem anticorpos e reduzem as chances de hospitalização e óbito"</segment>
+    <segment id="44">, ressalta o professor.</segment>
+    <segment id="45">Ele destaca também que</segment>
+    <segment id="46">, com o avanço da variante ômicron</segment>
+    <segment id="47">, a resposta por infecção natural pode agora ser mais curta do que a indicada no artigo</segment>
+    <segment id="48">, ampliando a distância entre o nível de proteção por contrair a doença e o oferecido pelas vacinas.</segment>
+    <segment id="49">Por outro lado</segment>
+    <segment id="50">, tanto Barbosa quanto a imunologista Cristina Bonorino</segment>
+    <segment id="51">, professora da UFCSPA (Universidade Federal de Ciências da Saúde de Porto Alegre) e integrante do comitê científico da Sociedade Brasileira de Imunologia</segment>
+    <segment id="52">, advertem que o estudo não considerou a ação das células</segment>
+    <segment id="53">T, imprescindíveis nas respostas antivirais.</segment>
+    <segment id="54">"</segment>
+    <segment id="55">Os anticorpos impedem cargas virais mais altas</segment>
+    <segment id="56">, masmas o que protege mesmo são as células T. É comum as pesquisas analisarem apenas anticorpos</segment>
+    <segment id="57">porque</segment>
+    <segment id="58">porque é mais fácil medi-los</segment>
+    <segment id="59">, masmas essa não é toda a história</segment>
+    <segment id="60">, não podemos nos basear apenas neles"</segment>
+    <segment id="61">, diz Cristina Bonorino.</segment>
+    <segment id="62">Ela comenta que o ideal seria cruzar dados de anticorpos</segment>
+    <segment id="63">, células</segment>
+    <segment id="64">T, número de casos e variantes e que ainda não há um modelo matemático para essa análise.</segment>
+    <segment id="65">"</segment>
+    <segment id="66">O problema no Brasil é que não temos dados claros do Ministério da Saúde"</segment>
+    <segment id="67">, critica a professora.</segment>
+    <segment id="68">Foi por não conseguirem encontrar dados suficientes que os pesquisadores não incluíram a Coronavac em sua análise</segment>
+    <segment id="69">, conta Jeffrey Townsend</segment>
+    <segment id="70">, professor na Escola de Saúde Pública de Yale e autor principal do artigo.</segment>
+    <segment id="71">Ele menciona</segment>
+    <segment id="72">, contudo</segment>
+    <segment id="73">contudo</segment>
+    <segment id="74">, que as durabilidades relativas encontradas na pesquisa parecem corresponder às eficácias relativas apontadas nos ensaios clínicos</segment>
+    <segment id="75">, então seria possível especular que o tempo de proteção da Coronavac estaria abaixo de AstraZeneca e Janssen.</segment>
+    <segment id="76">Primeiro dia de vacinação contra a Covid-19 em crianças de 3 e 4 anos com comorbidades em São PauloMais    novamente         de   de  de  representando um  "</segment>
+    <segment id="77">Estamos trabalhando agora nos benefícios de diferentes esquemas de reforço.</segment>
+    <segment id="78">Os resultados ainda não passaram pela revisão por pares</segment>
+    <segment id="79">, masmas é lógico que reforços em intervalos substancialmente maiores do que aqueles que mostramos para o primeiro reforço pós-vacinação provavelmente sejam ineficazes na supressão da infecção"</segment>
+    <segment id="80">, afirma Townsend.</segment>
+    <segment id="81">Tanto o pesquisador quanto Bonorino acreditam que esquemas de imunização</segment>
+    <segment id="82">comocomo o visto no Brasil</segment>
+    <segment id="83">, com vacinação com Coronavac e reforço com Pfizer</segment>
+    <segment id="84">, por exemplo</segment>
+    <segment id="85">, promovem a proteção.</segment>
+    <segment id="86">As dúvidas são qual combinação é melhor e quando tomar.</segment>
+    <segment id="87">A professora observa ainda que</segment>
+    <segment id="88">, mais do que administrar reforços</segment>
+    <segment id="89">, o Brasil precisa neste momento priorizar a vacinação de suas crianças.</segment>
+    <segment id="90">"</segment>
+    <segment id="91">Elas ficaram sem escola</segment>
+    <segment id="92">, sem vacina e voltaram às aulas sem imunização</segment>
+    <segment id="93">, sujeitas a complicações e Covid longa.</segment>
+    <segment id="94">As crianças são o grupo mais negligenciado na pandemia".</segment>
+  </rst>
+</analysis>

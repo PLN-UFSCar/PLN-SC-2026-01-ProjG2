@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Kleina projeta 25 pontos no 1Âº turno</segment>
+    <segment id="2">Ponte Preta tem que</segment>
+    <segment id="3">sese manter na elite do Campeonato Brasileiro do ano que vem</segment>
+    <segment id="4">Apesar de sonhar com classificaÃ§Ã£o Ã  Copa Libertadores da AmÃ©rica ou Ã  Sul-Americana de 2013</segment>
+    <segment id="5">, a Ponte Preta tem</segment>
+    <segment id="6">comocomo principal objetivo</segment>
+    <segment id="7">sese manter na elite do Campeonato Brasileiro do ano que vem.</segment>
+    <segment id="8">Para isso</segment>
+    <segment id="9">, o clube precisa conquistar pelo menos 25 pontos no primeiro turno e manter o desempenho na fase final.</segment>
+    <segment id="10">Estas sÃ£o as contas do tÃ©cnico Gilson Kleina</segment>
+    <segment id="11">, que jÃ¡ espera garantir trÃªs pontos amanhÃ£</segment>
+    <segment id="12">, Ã  noite</segment>
+    <segment id="13">, quando recebe o Bahia</segment>
+    <segment id="14">, no MoisÃ©s Lucarelli</segment>
+    <segment id="15">, e sÃ³ a vitÃ³ria interessa.</segment>
+  </rst>
+</analysis>

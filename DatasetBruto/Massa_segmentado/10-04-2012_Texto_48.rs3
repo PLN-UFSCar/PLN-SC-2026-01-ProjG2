@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Confusão em festa na casa de Adriano</segment>
+    <segment id="2">A farra promovida pelo Imperador no final de semana provocou a ira de uma vizinha</segment>
+    <segment id="3">O colunista Leo Dias</segment>
+    <segment id="4">, de “O Dia”</segment>
+    <segment id="5">, afirmou que a farra promovida pelo Imperador no final de semana provocou a ira de uma vizinha</segment>
+    <segment id="6">, que pediu para ele abaixar o volume e não foi atendida.</segment>
+    <segment id="7">Em resposta</segment>
+    <segment id="8">, subiu o som de sua casa</segment>
+    <segment id="9">, incomodando os convidados do jogador.</segment>
+    <segment id="10">Um deles teria quebrado as caixas de som da mulher.</segment>
+    <segment id="11">O caso</segment>
+    <segment id="12">caso foi parar na delegacia</segment>
+    <segment id="13">, é claro!</segment>
+  </rst>
+</analysis>

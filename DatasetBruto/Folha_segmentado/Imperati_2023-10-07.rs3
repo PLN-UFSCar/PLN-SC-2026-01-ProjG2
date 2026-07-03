@@ -1,0 +1,144 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Ainda que redes sociais e mecanismos de busca condicionem títulos e textos noticiosos de maneira cada vez mais contundente</segment>
+    <segment id="2">, certas regras insistem em perdurar.</segment>
+    <segment id="3">A maioria dos enunciados da Folha</segment>
+    <segment id="4">, por exemplo</segment>
+    <segment id="5">, continua no tempo presente</segment>
+    <segment id="6">, o tempo do jornalismo</segment>
+    <segment id="7">, apesar de esforços em contrário.</segment>
+    <segment id="8">A lista de coisas a</segment>
+    <segment id="9">sese evitar também continua importante</segment>
+    <segment id="10">, como</segment>
+    <segment id="11">como o gerundismo e o deselegante imperativo.</segment>
+    <segment id="12">"Privatize-</segment>
+    <segment id="13">sese", escreveu a Folha em editorial na noite de terça-feira (3)</segment>
+    <segment id="14">, após o dia de transtornos provocados pela greve de funcionários do transporte público em São Paulo.</segment>
+    <segment id="15">Mais do que forma verbal</segment>
+    <segment id="16">, como</segment>
+    <segment id="17">como descreveu Thiago Amparo</segment>
+    <segment id="18">, uma ordem a um estado em que 43% recusam a proposta de privatizar empresas e serviços.</segment>
+    <segment id="19">A greve é política</segment>
+    <segment id="20">, argumentou o jornal</segment>
+    <segment id="21">, como</segment>
+    <segment id="22">como se</segment>
+    <segment id="23">se isso bastasse para justificar a venda de qualquer coisa.</segment>
+    <segment id="24">O colunista notou que a greve é sim política e que isso não é um problema.</segment>
+    <segment id="25">Ruim é despolitizar a vida.</segment>
+    <segment id="26">E, pelo contrário</segment>
+    <segment id="27">, o que mais precisamos no inferno paulistano é buscar consensos</segment>
+    <segment id="28">, discutir os rumos da cidade.</segment>
+    <segment id="29">A greve é ilegal</segment>
+    <segment id="30">, martelou o editorial e também o jornal em seus títulos principais sobre o evento.</segment>
+    <segment id="31">A manchete do impresso foi "Greve em SP para trens e desobedece juiz"</segment>
+    <segment id="32">, em tom inconformado</segment>
+    <segment id="33">, quase editorializado.</segment>
+    <segment id="34">Qual greve ocorre sem embate judicial</segment>
+    <segment id="35">, sem flertar com a confusão</segment>
+    <segment id="36">, perguntou o ombudsman em crítica interna.</segment>
+    <segment id="37">Era muito mais fácil relatá-la</segment>
+    <segment id="38">comocomo o que foi</segment>
+    <segment id="39">, uma manifestação pública contra as planejadas privatizações do governo Tarcísio de Freitas.</segment>
+    <segment id="40">Ou, melhor ainda</segment>
+    <segment id="41">, que o dia de caos antecipava a disputa eleitoral de 2024</segment>
+    <segment id="42">, como</segment>
+    <segment id="43">como concluiu em análise Igor Gielow.</segment>
+    <segment id="44">A Folha</segment>
+    <segment id="45">, no entanto</segment>
+    <segment id="46">, sese mostra intolerante ao tratar do assunto</segment>
+    <segment id="47">, que virou uma espécie de prioridade do jornal desde agosto do ano passado</segment>
+    <segment id="48">, quando outro editorial</segment>
+    <segment id="49">, com título mais polido ("Privatizar é bom")</segment>
+    <segment id="50">, sublinhava aos então candidatos à Presidência que o assunto era um tema importante.</segment>
+    <segment id="51">As ameaças antidemocráticas já faziam o país arder</segment>
+    <segment id="52">, masmas havia um recado a ser dado.</segment>
+    <segment id="53">Talvez a leitora e o leitor esperassem demandas diferentes</segment>
+    <segment id="54">, masmas aí já é outra história.</segment>
+    <segment id="55">FolhapressDaquele editorial ao da última semana</segment>
+    <segment id="56">, 15 textos sobre privatização ou que citavam a temática foram publicados pela seção de Opinião</segment>
+    <segment id="57">, um por mês desde agosto último.</segment>
+    <segment id="58">Não é uma frequência acima do normal</segment>
+    <segment id="59">, ainda mais para um assunto em pauta</segment>
+    <segment id="60">, masmas o problema não está nisso.</segment>
+    <segment id="61">O que distingue a defesa do sistema de outras tantas bandeiras levantadas e conduzidas pela Folha é a veemência</segment>
+    <segment id="62">, escancarada na escolha do último enunciado</segment>
+    <segment id="63">, na ordem proferida.</segment>
+    <segment id="64">O jornal escreveria "</segment>
+    <segment id="65">Legalize já"?</segment>
+    <segment id="66">Não se</segment>
+    <segment id="67">se discute aqui as razões para tamanho esforço</segment>
+    <segment id="68">, masmas a forma.</segment>
+    <segment id="69">Como no</segment>
+    <segment id="70">casocaso da cobertura da greve</segment>
+    <segment id="71">, seria bem mais simples ampliar o debate e conceder espaço justo para o contraditório.</segment>
+    <segment id="72">O próprio jornal constatou em suíte na última semana que o transporte sobre trilhos privatizado é "raro em metrópoles"</segment>
+    <segment id="73">; a linha concessionada da CPTM é um fracasso a olhos vistos</segment>
+    <segment id="74">; por que não promover um seminário sobre reestatizações de saneamento ocorridas em outros países.</segment>
+    <segment id="75">Sobram caminhos.</segment>
+    <segment id="76">Interditar o debate é o que os dois lados da disputa política almejam.</segment>
+    <segment id="77">A Folha pode e deveria fazer diferente.</segment>
+    <segment id="78">Prioridades</segment>
+    <segment id="79">Os jornais têm suas bandeiras</segment>
+    <segment id="80">, masmas é forçoso constatar que ambiente raramente é uma delas.</segment>
+    <segment id="81">Em uma semana de disputas institucionais em Brasília e violência no Rio</segment>
+    <segment id="82">, não faltou notícia.</segment>
+    <segment id="83">É preciso registrar</segment>
+    <segment id="84">, porém</segment>
+    <segment id="85">porém, que o único diário entre os quatro grandes do país a</segment>
+    <segment id="86">sese impor uma manchete para a calamidade da seca na Amazônia foi o Valor Econômico.</segment>
+    <segment id="87">Faz lembrar "</segment>
+    <segment id="88">Não olhe para cima"</segment>
+    <segment id="89">, outro título imperativo.</segment>
+    <segment id="90">Barra pesada</segment>
+    <segment id="91">O chope entre amigos que virou tragédia presumidamente por um deles ser parecido com um alvo miliciano foi filmado por algumas câmeras no Rio.</segment>
+    <segment id="92">Na manhã de quinta-feira (5)</segment>
+    <segment id="93">, quase todos os sites mostravam as imagens.</segment>
+    <segment id="94">Na Folha</segment>
+    <segment id="95">, a coisa foi publicada</segment>
+    <segment id="96">comocomo chegou</segment>
+    <segment id="97">, limpa</segment>
+    <segment id="98">, com toda ação captada.</segment>
+    <segment id="99">Em O Globo</segment>
+    <segment id="100">, alguns borrões nos corpos caídos.</segment>
+    <segment id="101">Em O Estado de S.Paulo</segment>
+    <segment id="102">, todo o lado das vítimas borrado</segment>
+    <segment id="103">, restando intacta apenas a movimentação dos atiradores entre o carro e o quiosque.</segment>
+    <segment id="104">Há evidente interesse jornalístico em mostrar as imagens</segment>
+    <segment id="105">, masmas a pergunta é até que ponto:</segment>
+    <segment id="106">sese é de fato necessário revelar toda a carnificina ou</segment>
+    <segment id="107">sese é suficiente transmitir uma breve noção de sua materialidade</segment>
+    <segment id="108">; sé é razoável</segment>
+    <segment id="109">, em nome da informação</segment>
+    <segment id="110">, revitimizar quem é próximo aos chacinados.</segment>
+    <segment id="111">A Folha decide a exposição de imagens assim</segment>
+    <segment id="112">casocaso a</segment>
+    <segment id="113">casocaso.</segment>
+    <segment id="114">Não mostrou o estupro na sala de parto e recuou na transmissão do ataque na escola.</segment>
+    <segment id="115">Deveria ter</segment>
+    <segment id="116">sese contido também neste último episódio.</segment>
+    <segment id="117">Imagens precisam denunciar alguma coisa para serem publicadas.</segment>
+    <segment id="118">Apenas confirmar nossa estupidez não é requisito.</segment>
+  </rst>
+</analysis>

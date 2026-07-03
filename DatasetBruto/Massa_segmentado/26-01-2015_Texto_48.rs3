@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">MaurÃ­lio serÃ¡ ameaÃ§ado de morte</segment>
+    <segment id="2">A confusÃ£o vai comeÃ§ar na sede da ImpÃ©rio
+JoÃ£o Lucas agredirÃ¡ MaurÃ­lio (foto) em ImpÃ©rio.</segment>
+    <segment id="3">A confusÃ£o comeÃ§arÃ¡ quando o biÃ³logo chegar Ã  empresa perguntando por Maria Marta.</segment>
+    <segment id="4">Lucas, Maria Clara e JosÃ© Pedro responderÃ£o que o rapaz jÃ¡ nÃ£o tem ligaÃ§Ã£o com a milionÃ¡ria</segment>
+    <segment id="5">, pois</segment>
+    <segment id="6">pois, a esta altura</segment>
+    <segment id="7">, todos saberÃ£o da falsa morte de ZÃ© Alfredo.</segment>
+    <segment id="8">Durante a briga com o pessoal da ImpÃ©rio</segment>
+    <segment id="9">, MaurÃ­lio provocarÃ¡ Cristina</segment>
+    <segment id="10">, insinuando que ela Ã© prostituta.</segment>
+    <segment id="11">Se ofender minha irmÃ£ de novo</segment>
+    <segment id="12">, juro que te mato</segment>
+    <segment id="13">, prometerÃ¡</segment>
+    <segment id="14">JoÃ£o Lucas.</segment>
+  </rst>
+</analysis>

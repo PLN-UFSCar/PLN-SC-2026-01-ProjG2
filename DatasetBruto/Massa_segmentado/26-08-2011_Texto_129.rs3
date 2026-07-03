@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Incêndio interdita Rua Barão da Torre</segment>
+    <segment id="2">, em Ipanema
+RIO - O Centro de Operações da Prefeitura do Rio informou que a Rua Barão da Torre</segment>
+    <segment id="3">, em Ipanema</segment>
+    <segment id="4">, encontra-</segment>
+    <segment id="5">sese interditada no trecho entre as ruas Farme de Amoedo e Vinicius de Moraes</segment>
+    <segment id="6">para que</segment>
+    <segment id="7">para que agentes do Corpo de Bombeiros possam controlar um incêndio na altura do número 168.</segment>
+    <segment id="8">A rota alternativa é a seguinte:</segment>
+    <segment id="9">Farme de Amoedo</segment>
+    <segment id="10">, Prudente de Morais e Vinicius de Moraes.</segment>
+    <segment id="11">Neste momento</segment>
+    <segment id="12">, o trânsito não apresenta problemas na região.
+(só resumo</segment>
+    <segment id="13">, sem texto mAior)</segment>
+  </rst>
+</analysis>

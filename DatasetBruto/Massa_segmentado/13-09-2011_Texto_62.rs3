@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Cris Vianna
+Ela é Presente de Deus</segment>
+    <segment id="2">A atriz Cris Vianna</segment>
+    <segment id="3">, a cozinheira Dagmar de “Fina Estampa”</segment>
+    <segment id="4">, é o Presente de Deus da edição de setembro da revista ALFA.</segment>
+    <segment id="5">Ela exibiu suas formas esculpidas com muito balé clássico.</segment>
+    <segment id="6">Para melhorar a interpretação na novela</segment>
+    <segment id="7">, a atriz confessa ter aprendido a fazer empada</segment>
+    <segment id="8">, especialidade de sua personagem.</segment>
+    <segment id="9">“Quase nunca cozinho</segment>
+    <segment id="10">porque</segment>
+    <segment id="11">porque moro sozinha e acho meio deprimente fazer um prato só pra mim”</segment>
+    <segment id="12">, afirma.</segment>
+  </rst>
+</analysis>

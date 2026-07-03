@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Reuniões das áreas técnicas do Mercosul e da União Europeia previstas para o começo da semana foram canceladas</segment>
+    <segment id="2">, o que torna quase impossível a conclusão de um acordo comercial antes da cúpula do bloco sul-americano</segment>
+    <segment id="3">, na quinta-feira (7)</segment>
+    <segment id="4">, no Rio de Janeiro.</segment>
+    <segment id="5">No Itamaraty</segment>
+    <segment id="6">, a avaliação é que o acordo chegará muito perto de sua conclusão</segment>
+    <segment id="7">, masmas não será 100% fechado.</segment>
+    <segment id="8">A principal razão será a perda de entusiasmo dos argentinos</segment>
+    <segment id="9">, que querem deixar o tema para o próximo presidente</segment>
+    <segment id="10">, Javier Milei.</segment>
+    <segment id="11">Em recente visita ao Brasil</segment>
+    <segment id="12">, a futura chanceler argentina</segment>
+    <segment id="13">, Diana Mondino</segment>
+    <segment id="14">, deixou claro que Milei defende a celebração do acordo.</segment>
+    <segment id="15">Fachada do Palácio do Itamaraty</segment>
+    <segment id="16">, em Brasília - Folhapress</segment>
+  </rst>
+</analysis>

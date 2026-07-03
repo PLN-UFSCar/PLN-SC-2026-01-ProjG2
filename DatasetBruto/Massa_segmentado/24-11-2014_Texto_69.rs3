@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Record quer tirar Xuxa da Globo</segment>
+    <segment id="2">A Record quer a Rainha da TV na programaÃ§Ã£o 2015</segment>
+    <segment id="3">Depois de 28 anos</segment>
+    <segment id="4">comocomo contratada da TV Globo</segment>
+    <segment id="5">, Xuxa estÃ¡ prestes a deixar a emissora.</segment>
+    <segment id="6">Pelo menos Ã© o que afirma o colunista de TV FlÃ¡vio Ricco</segment>
+    <segment id="7">, do UOL.</segment>
+    <segment id="8">Segundo o jornalista</segment>
+    <segment id="9">, a apresentadora estaria negociando com a Record</segment>
+    <segment id="10">, que pretende apresenta-la</segment>
+    <segment id="11">comocomo grande novidade de 2015 ainda atÃ© o final deste ano.</segment>
+    <segment id="12">Resta saber</segment>
+    <segment id="13">comocomo ela</segment>
+    <segment id="14">sese livrarÃ¡ do contrato que tem com a Globo atÃ© 2017.</segment>
+    <segment id="15">Ainda segundo o colunista</segment>
+    <segment id="16">, O interesse da Record na contrataÃ§Ã£o da apresentadora Xuxa deverÃ¡ ganhar importantes desdobramentos nesses prÃ³ximos dias.</segment>
+  </rst>
+</analysis>

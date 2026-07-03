@@ -1,0 +1,50 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Golpe no crime</segment>
+    <segment id="2">Brigada Militar prende dupla e recupera quatro veÃ­culos roubados na Capital</segment>
+    <segment id="3">Brigada Militar prende dupla e recupera quatro veÃ­culos roubados na Capital</segment>
+    <segment id="4">Aline CustÃ³dio
+aline.custodio@diariogaucho.com.br
+Montagem divulgada pela BM mostra homem preso</segment>
+    <segment id="5">, carros roubados recuperados e o acidente envolvendo o Fiat Palio branco</segment>
+    <segment id="6">A Brigada Militar prendeu um homem e um adolescente que roubavam veÃ­culos nos bairros PetrÃ³polis</segment>
+    <segment id="7">, Boa Vista</segment>
+    <segment id="8">, TrÃªs Figueiras e Jardim BotÃ¢nico</segment>
+    <segment id="9">, na Capital.</segment>
+    <segment id="10">Eles seriam integrantes de uma quadrilha de Alvorada.</segment>
+    <segment id="11">Na manhÃ£ desta terÃ§a-feira</segment>
+    <segment id="12">, os policiais do 11Âº BPM</segment>
+    <segment id="13">sese depararam com os assaltantes em um Fiat Palio branco</segment>
+    <segment id="14">, na Avenida Luiz Manoel Gonzaga</segment>
+    <segment id="15">, Bairro TrÃªs Figueiras.</segment>
+    <segment id="16">ApÃ³s perseguiÃ§Ã£o</segment>
+    <segment id="17">, os criminosos perderam o controle do veÃ­culo e atingiram uma Ã¡rvore.</segment>
+    <segment id="18">Com eles</segment>
+    <segment id="19">, foram encontrados pertences das vÃ­timas</segment>
+    <segment id="20">, alÃ©m de quatro chaves de outros carros roubados no mesmo dia</segment>
+    <segment id="21">, todos abandonados em ruas prÃ³ximas.</segment>
+    <segment id="22">A dupla detida possuÃ­a antecedentes criminais.</segment>
+  </rst>
+</analysis>

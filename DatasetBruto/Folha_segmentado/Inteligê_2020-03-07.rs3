@@ -1,0 +1,164 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A inteligência artificial é a mais nova aliada da medicina no diagnóstico de doenças raras.</segment>
+    <segment id="2">Ferramentas que ajudam a analisar um grande volume de dados tornam possível identificar padrões em testes genéticos e permitem o esclarecimento de exames que até pouco tempo atrás eram inconclusivos.</segment>
+    <segment id="3">Para entender</segment>
+    <segment id="4">comocomo a tecnologia pode revolucionar o tratamento de pacientes raros</segment>
+    <segment id="5">, é preciso entender a raiz do problema.</segment>
+    <segment id="6">Uma pessoa tem aproximadamente 22 mil genes.</segment>
+    <segment id="7">Em exames</segment>
+    <segment id="8">, quando o genoma de alguém é comparado a um código de referência</segment>
+    <segment id="9">, são encontradas cerca de 60 mil variações.</segment>
+    <segment id="10">Essa diversidade é normal</segment>
+    <segment id="11">, de acordo com o geneticista Caio Robledo Quaio</segment>
+    <segment id="12">, do Fleury Medicina e Saúde.</segment>
+    <segment id="13">Mas, eventualmente</segment>
+    <segment id="14">, uma dessas variações compromete o funcionamento do organismo</segment>
+    <segment id="15">, gerando uma doença.</segment>
+    <segment id="16">A questão é:</segment>
+    <segment id="17">comocomo identificar</segment>
+    <segment id="18">, dentre milhares de variações</segment>
+    <segment id="19">, aquela que deu origem ao problema?</segment>
+    <segment id="20">É aí que entram as novas ferramentas.</segment>
+    <segment id="21">O empreendedor Dimas Timmers</segment>
+    <segment id="22">, 35, fundador da startup Nindoo  - Keiny Andrade/Folhapress“Antes</segment>
+    <segment id="23">, quando o médico achava que a doença era genética</segment>
+    <segment id="24">, ele examinava um ponto do DNA do paciente que podia estar relacionado àquele problema”</segment>
+    <segment id="25">, diz Quaio.</segment>
+    <segment id="26">Em 2010</segment>
+    <segment id="27">, veio uma revolução: o sequenciamento de nova geração</segment>
+    <segment id="28">, que é feito em menos de um mês e permite o estudo de milhões de pontos do DNA ao mesmo tempo.</segment>
+    <segment id="29">“</segment>
+    <segment id="30">Isso gera muitos dados</segment>
+    <segment id="31">, e precisamos da inteligência artificial para avaliar todas as etapas de modo eficaz”</segment>
+    <segment id="32">, completa.</segment>
+    <segment id="33">Esse processo tem ampliado significativamente</segment>
+    <segment id="34">, e de maneira veloz</segment>
+    <segment id="35">, o conhecimento acerca de variações genéticas e sua associação com doenças.</segment>
+    <segment id="36">Segundo Quaio</segment>
+    <segment id="37">, graças a isso</segment>
+    <segment id="38">, exames feitos há um ou dois anos que foram considerados inconclusivos estão sendo esclarecidos agora.  “</segment>
+    <segment id="39">Vivenciei essa situação recentemente.</segment>
+    <segment id="40">Fizemos a avaliação do exoma de um paciente em 2018</segment>
+    <segment id="41">, e vimos variações genéticas suspeitas</segment>
+    <segment id="42">, masmas não fechamos diagnóstico.</segment>
+    <segment id="43">Na reanálise</segment>
+    <segment id="44">, semana passada</segment>
+    <segment id="45">, achamos uma nova pesquisa</segment>
+    <segment id="46">, divulgada no fim de 2019</segment>
+    <segment id="47">, com duas dessas variações.</segment>
+    <segment id="48">”</segment>
+    <segment id="49">Leia maisBióloga levou 57 anos para descobrir que tem doença rara sem nome Astrid Fontenelle: &amp;</segment>
+    <segment id="50">quot;Quando descobri o lúpus</segment>
+    <segment id="51">, perdi 14 kg e quase fiz hemodiálise&amp;quot</segment>
+    <segment id="52">;</segment>
+    <segment id="53">Menina com síndrome do amor vive rindo e abraça todo mundo</segment>
+    <segment id="54">Por enquanto</segment>
+    <segment id="55">, o sequenciamento genético e a análise por inteligência artificial ainda são inacessíveis para a maioria da população.</segment>
+    <segment id="56">Uma iniciativa que une governo e setor privado pode começar a mudar esse quadro.</segment>
+    <segment id="57">Em dezembro do ano passado</segment>
+    <segment id="58">, o Ministério da Saúde e o Hospital Albert Einstein</segment>
+    <segment id="59">, de São Paulo</segment>
+    <segment id="60">, firmaram um acordo para a implementação do projeto Genoma Raro.</segment>
+    <segment id="61">A iniciativa</segment>
+    <segment id="62">, orçada em cerca de R$ 34 milhões</segment>
+    <segment id="63">, vai realizar</segment>
+    <segment id="64">, ao longo deste ano</segment>
+    <segment id="65">, o sequenciamento de 1.500 genomas completos</segment>
+    <segment id="66">, de brasileiros com doenças raras de suposta base genética ou com risco hereditário de câncer.</segment>
+    <segment id="67">A ideia é otimizar o diagnóstico dessas enfermidades no futuro.</segment>
+    <segment id="68">“</segment>
+    <segment id="69">Já existem projetos amplos de rastreamento em outros países</segment>
+    <segment id="70">, como</segment>
+    <segment id="71">como o All of Us</segment>
+    <segment id="72">, nos Estados Unidos</segment>
+    <segment id="73">, e o Genomic England</segment>
+    <segment id="74">, no Reino Unido”</segment>
+    <segment id="75">, diz Murilo Cervato</segment>
+    <segment id="76">, gerente de inovação do Einstein e CEO do VarStation</segment>
+    <segment id="77">, plataforma de sequenciamento genômico criada pela equipe do hospital.</segment>
+    <segment id="78">Na iniciativa norte-americana</segment>
+    <segment id="79">, a meta é sequenciar um milhão de genomas e</segment>
+    <segment id="80">, por meio de ferramentas de inteligência artificial</segment>
+    <segment id="81">, identificar quais são as variantes comuns</segment>
+    <segment id="82">, ainda não reportadas nos bancos de dados.  5 casos de doenças rarasMais    novamente         de   de  de  representando um</segment>
+    <segment id="83">A expectativa é que essas informações abram caminho para novas opções de tratamento</segment>
+    <segment id="84">, tanto para doenças comuns quanto para raras.</segment>
+    <segment id="85">“</segment>
+    <segment id="86">Durante muito tempo</segment>
+    <segment id="87">, a genética era uma área mais associada ao diagnóstico</segment>
+    <segment id="88">, ela não trazia muitas perspectivas de tratamento.</segment>
+    <segment id="89">Mas isso tem mudado.</segment>
+    <segment id="90">Já existem terapias específicas e terapias gênicas com bons resultados para doenças em várias áreas”</segment>
+    <segment id="91">, afirma a geneticista Têmis Félix</segment>
+    <segment id="92">, presidente da SBGM (Sociedade Brasileira de Genética Médica e Genômica).</segment>
+    <segment id="93">Além disso</segment>
+    <segment id="94">, a genética também vem ajudando a entender</segment>
+    <segment id="95">comocomo cada pessoa metaboliza determinadas substâncias</segment>
+    <segment id="96">, o que permite uma abordagem cada vez mais individualizada e precisa.</segment>
+    <segment id="97">“Se vemos que um paciente não metaboliza muito bem um remédio</segment>
+    <segment id="98">, podemos prescrever uma dosagem maior para obter o efeito desejado”</segment>
+    <segment id="99">, comenta Cervato</segment>
+    <segment id="100">, do Einstein.</segment>
+    <segment id="101">Foi pensando na medicina que gostaria de ver no futuro</segment>
+    <segment id="102">, com diagnóstico mais rápido e tratamentos personalizados</segment>
+    <segment id="103">, que Dimas Timmers</segment>
+    <segment id="104">, portador de uma doença rara</segment>
+    <segment id="105">, decidiu colocar as mãos na massa (ou melhor</segment>
+    <segment id="106">, no teclado do computador) e criou a startup Nindoo</segment>
+    <segment id="107">, que facilita o uso de inteligência artificial.</segment>
+    <segment id="108">“</segment>
+    <segment id="109">Um médico pode utilizar nossa plataforma para encontrar artigos relacionados ao exame genético de um paciente</segment>
+    <segment id="110">, facilitando o diagnóstico”</segment>
+    <segment id="111">, diz Timmers.</segment>
+    <segment id="112">A trajetória do empresário</segment>
+    <segment id="113">sese alinha à de muitos outros pacientes com doenças raras.</segment>
+    <segment id="114">Ele foi tratado para epilepsia até os 15 anos</segment>
+    <segment id="115">, quando os sintomas sumiram.</segment>
+    <segment id="116">Dois anos depois</segment>
+    <segment id="117">, voltou a procurar ajuda médica devido aos espasmos musculares que o acometiam.</segment>
+    <segment id="118">“Fui a 20 médicos</segment>
+    <segment id="119">, e não achavam a causa.</segment>
+    <segment id="120">” Timmers estava com 32 anos quando uma neurologista descobriu o que era: distonia mioclônica.</segment>
+    <segment id="121">Toda essa vivência despertou seu interesse para a associação entre tecnologia</segment>
+    <segment id="122">, área em que atua</segment>
+    <segment id="123">, e a medicina.</segment>
+    <segment id="124">Hoje, ele também cria projetos específicos para centros médicos e associações.</segment>
+    <segment id="125">“</segment>
+    <segment id="126">A gente está saindo de uma era massificada</segment>
+    <segment id="127">, em que todo mundo era tratado de forma igual</segment>
+    <segment id="128">, para uma em que o indivíduo é entendido</segment>
+    <segment id="129">comocomo único.</segment>
+    <segment id="130">E a inteligência artificial contribui para isso.</segment>
+    <segment id="131">”Leia mais sobre doenças rarasNo mundo</segment>
+    <segment id="132">, 10 mil doenças raras afetam mais de 300 milhões de pessoas</segment>
+    <segment id="133">Doenças raras respondem por 90% do que União gasta com processos por acesso a remédio</segment>
+    <segment id="134">Quem lucra com remédios de alto custo e pouco benefício?Menina com síndrome do amor vive rindo e abraça todo mundoBióloga levou 57 anos para descobrir que tem doença rara sem nomeDoença raríssima no mundo é comum na família de educadora brasileiraAstrid</segment>
+    <segment id="135">Fontenelle conta</segment>
+    <segment id="136">comocomo descobriu o lúpus e</segment>
+    <segment id="137">comocomo controla a doença</segment>
+    <segment id="138">Ela foge de praias e multidões para evitar bolhas na peleOrientação genética para casais pode evitar malformaçõesNovas drogas retardam progressão da esclerose múltiplaPersonagem com distrofia muscular de Duchenne entra para a Turma da MônicaAssociações conectam médico e paciente em busca de diagnóstico de doença rara</segment>
+  </rst>
+</analysis>

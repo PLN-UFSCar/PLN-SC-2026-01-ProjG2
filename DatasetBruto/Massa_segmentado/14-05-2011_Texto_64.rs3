@@ -1,0 +1,35 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Dois policiais baleados em Manguinhos</segment>
+    <segment id="2">O 22º BPM (Benfica) informou que dois policiais foram baleados no confronto com bandidos na favela de Manguinhos.</segment>
+    <segment id="3">Segundo o batalhão</segment>
+    <segment id="4">, eles foram levados para o Hospital Federal de Bonsucesso e passam bem.</segment>
+    <segment id="5">Ainda de acordo com a polícia</segment>
+    <segment id="6">, a troca de tiros começou por volta das 18h deste sábado e foi próxima à 21ª DP (Bonsucesso)</segment>
+    <segment id="7">, durante uma ronda dos policiais.</segment>
+    <segment id="8">Por meio do Twitter</segment>
+    <segment id="9">, o Centro de Operações da Prefeitura do Rio orientou motoristas a evitar a região.</segment>
+  </rst>
+</analysis>

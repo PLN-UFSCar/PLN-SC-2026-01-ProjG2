@@ -1,0 +1,48 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">AÃ§Ã£o policial
+Adolescentes sÃ£o apreendidos com arma da Brigada Militar</segment>
+    <segment id="2">Uma pistola .40</segment>
+    <segment id="3">, de batalhÃ£o da Capital</segment>
+    <segment id="4">, foi encontrada com suspeitos de trÃ¡fico em Alvorada
+Eduardo Torres
+eduardo.torres@diariogaucho.com.br</segment>
+    <segment id="5">Dois adolescentes de 13 e 16 anos foram apreendidos na manhÃ£ dessa sexta</segment>
+    <segment id="6">, em Alvorada</segment>
+    <segment id="7">, com uma pistola .40</segment>
+    <segment id="8">, pertencente ao 20ÂºBPM</segment>
+    <segment id="9">, que atua na Zona Norte da Capital e agora irÃ¡ investigar</segment>
+    <segment id="10">comocomo a arma foi parar no Bairro Umbu.</segment>
+    <segment id="11">Com os adolescentes</segment>
+    <segment id="12">, os agentes da polÃ­cia tambÃ©m encontraram um revÃ³lver calibre 38</segment>
+    <segment id="13">, muniÃ§Ãµes de diversos calibres e quantidades de crack e maconha.</segment>
+    <segment id="14">A OperaÃ§Ã£o Beira-Mar foi resultado de investigaÃ§Ãµes da 3ÂªDP de Alvorada contra o trÃ¡fico no bairro e teve a participaÃ§Ã£o das demais delegacias da RegiÃ£o Metropolitana.</segment>
+    <segment id="15">Um homem de 35 anos</segment>
+    <segment id="16">, com antecedentes por homicÃ­dio</segment>
+    <segment id="17">, porte de arma e ameaÃ§a tambÃ©m foi preso com um revÃ³lver calibre 38 e muniÃ§Ã£o.</segment>
+    <segment id="18">Ele pagou fianÃ§a e foi liberado.</segment>
+    <segment id="19">Os adolescentes foram apresentados ao MinistÃ©rio PÃºblico.</segment>
+  </rst>
+</analysis>

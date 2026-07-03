@@ -1,0 +1,198 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Google passou a entregar respostas geradas por inteligência artificial na busca para quem ativa uma opção de teste.</segment>
+    <segment id="2">O texto aparece em um lugar de destaque</segment>
+    <segment id="3">, antes de qualquer link de portais de notícias.</segment>
+    <segment id="4">O modelo</segment>
+    <segment id="5">, chamado por especialistas e entidades representativas dos jornais ouvidos pela Folha de prática anticompetitiva</segment>
+    <segment id="6">, retira visibilidade dos veículos que apuraram a notícia e</segment>
+    <segment id="7">sese adaptaram por anos à disputa pelo primeiro lugar na lista de resultados entregue na página mais visitada da internet.</segment>
+    <segment id="8">Além disso</segment>
+    <segment id="9">, afirmam</segment>
+    <segment id="10">, pode contribuir para o ruído no debate público e aumentar a desinformação.</segment>
+    <segment id="11">A fase de testes vai até maio de 2024</segment>
+    <segment id="12">, de acordo com a página do Google.</segment>
+    <segment id="13">A empresa faz alerta de que a IA generativa é experimental e a qualidade e a disponibilidade das respostas pode variar.</segment>
+    <segment id="14">Teste feito pela reportagem buscou dados sobre inflação na Argentina no Google na segunda (13) e na terça-feira (14) e recebeu respostas geradas por IA - Reprodução/GoogleO gigante das buscas diz que apresenta quais foram as fontes de informação usadas</segment>
+    <segment id="15">, diferentemente do concorrente ChatGPT.</segment>
+    <segment id="16">Apesar disso</segment>
+    <segment id="17">, mostra em destaque o texto gerado por IA e apresenta links de referência com fonte menor</segment>
+    <segment id="18">, à direita da resposta.</segment>
+    <segment id="19">Ao sumarizar as reportagens</segment>
+    <segment id="20">, a resposta gerada por IA reduz o incentivo</segment>
+    <segment id="21">para que</segment>
+    <segment id="22">para que as pessoas acessem o website indicado</segment>
+    <segment id="23">comocomo referência</segment>
+    <segment id="24">, de acordo com o professor de economia da Universidade de Houston Haaris Mateen.</segment>
+    <segment id="25">Ele é um dos autores recentes de estudo que estima a dívida do Google e do Facebook com os jornais americanos.</segment>
+    <segment id="26">"</segment>
+    <segment id="27">Entregar aos usuários os pontos mais importantes da matéria torna o conteúdo original menos interessante.</segment>
+    <segment id="28">Isso reduz ainda mais as chances dos veículos noticiosos de fazer dinheiro a partir do conteúdo que produzem e publicam"</segment>
+    <segment id="29">, avalia Mateen.</segment>
+    <segment id="30">Outro risco é afastar o leitor de discussões mais complexas.</segment>
+    <segment id="31">O Google ainda não informa</segment>
+    <segment id="32">sese se</segment>
+    <segment id="33">se responsabiliza pelas respostas geradas pelo seu modelo de inteligência artificial</segment>
+    <segment id="34">, como</segment>
+    <segment id="35">como fazem os jornais.</segment>
+    <segment id="36">No caso</segment>
+    <segment id="37">caso da plataforma de IA Bard</segment>
+    <segment id="38">, apenas diz que as respostas podem ser imprecisas.</segment>
+    <segment id="39">A advogada e coordenadora do Creative Commons Brasil</segment>
+    <segment id="40">, Alice Lana</segment>
+    <segment id="41">, afirma que o Google já faz a mediação na relação entre as pessoas e a informação ao ordenar quais páginas prioriza.</segment>
+    <segment id="42">"</segment>
+    <segment id="43">Com a IA</segment>
+    <segment id="44">, veremos um aprofundamento dessa mediação</segment>
+    <segment id="45">, porque</segment>
+    <segment id="46">porque não vai ser nem o texto escrito por alguém</segment>
+    <segment id="47">, masmas a própria IA vai gerar esse texto.</segment>
+    <segment id="48">"</segment>
+    <segment id="49">Assim, a discussão sobre responsabilidade das plataformas ganha um novo tópico.</segment>
+    <segment id="50">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="51">; aberta para não assinantes.</segment>
+    <segment id="52">Carregando...</segment>
+    <segment id="53">A Folha testou o recurso</segment>
+    <segment id="54">, que entrega informações recentes do noticiário.</segment>
+    <segment id="55">Consegue responder</segment>
+    <segment id="56">, por exemplo</segment>
+    <segment id="57">, qual a inflação na Argentina durante o mês de outubro.</segment>
+    <segment id="58">Para isso</segment>
+    <segment id="59">, usou informações de O Estado de S. Paulo</segment>
+    <segment id="60">, protegida por paywall</segment>
+    <segment id="61">, e do UOL.</segment>
+    <segment id="62">A reportagem da Folha que aparecia na primeira colocação na busca comum não foi citada</segment>
+    <segment id="63">comocomo fonte.</segment>
+    <segment id="64">Em nota</segment>
+    <segment id="65">, o Google Brasil afirma que "continua a priorizar abordagens que enviem tráfego para os sites de um amplo número de criadores de conteúdo</segment>
+    <segment id="66">, incluindo veículos de comunicação</segment>
+    <segment id="67">, para continuar a promover uma web saudável e aberta.</segment>
+    <segment id="68">"</segment>
+    <segment id="69">O Google ainda não divulgou meios para sites noticiosos protegerem seus dados</segment>
+    <segment id="70">, sese não quiserem disponibilizar informações para treinar os modelos de inteligência da empresa de tecnologia.</segment>
+    <segment id="71">Disse, no entanto</segment>
+    <segment id="72">, que trabalha para desenvolver novos protocolos legíveis por máquina para dar aos editores da web escolha e controle sobre</segment>
+    <segment id="73">comocomo seu conteúdo da web é usado para IA e pesquisa.</segment>
+    <segment id="74">No caso</segment>
+    <segment id="75">caso do ChatGPT</segment>
+    <segment id="76">, a desenvoledora OpenAI publicou instruções para os criadores resguardarem suas publicações.</segment>
+    <segment id="77">Os sites podem adicionar ao seu código fonte um arquivo chamado "robot.txt"</segment>
+    <segment id="78">, com instruções para os robôs do Google e de outros sites de busca ignorarem o conteúdo publicado em determinado endereço.</segment>
+    <segment id="79">Essa solução</segment>
+    <segment id="80">, contudo</segment>
+    <segment id="81">contudo</segment>
+    <segment id="82">, joga o link em uma espécie de limbo da web</segment>
+    <segment id="83">, já que deixa de aparecer em buscas.</segment>
+    <segment id="84">A Justiça</segment>
+    <segment id="85">, por exemplo</segment>
+    <segment id="86">, recorre a essa medida para apagar um dado histórico danoso a alguém</segment>
+    <segment id="87">, em países onde há o chamado direito ao esquecimento.</segment>
+    <segment id="88">Nos EUA</segment>
+    <segment id="89">, o recurso funciona desde agosto</segment>
+    <segment id="90">, e grandes veículos de imprensa já</segment>
+    <segment id="91">sese pronunciaram dizendo que não querem que a empresa</segment>
+    <segment id="92">sese aproprie de dados sem autorização.</segment>
+    <segment id="93">Foi o caso</segment>
+    <segment id="94">caso de New York Times e Washington Post</segment>
+    <segment id="95">, os jornais com mais assinaturas digitais no mundo.</segment>
+    <segment id="96">Segundo o Washington Post</segment>
+    <segment id="97">, mais de 500 jornais bloquearam os bots do ChatGPT.</segment>
+    <segment id="98">Com isso</segment>
+    <segment id="99">, no caso</segment>
+    <segment id="100">caso do Google</segment>
+    <segment id="101">, haveria outro efeito colateral: esses sites deixariam de aparecer entre os links citados</segment>
+    <segment id="102">comocomo referência pela resposta de IA do Google.</segment>
+    <segment id="103">Para o presidente da entidade patronal ANJ (Associação Nacional de Jornais)</segment>
+    <segment id="104">, Marcelo Rech</segment>
+    <segment id="105">, o novo recurso do Google é extremamente preocupante.</segment>
+    <segment id="106">"</segment>
+    <segment id="107">Pelos testes até agora</segment>
+    <segment id="108">, a fonte da informação fica oculta em uma aba</segment>
+    <segment id="109">, que precisa ser acionada pelo usuário.</segment>
+    <segment id="110">Há uma evidente tentativa de</segment>
+    <segment id="111">sese reduzir a visibilidade dos links</segment>
+    <segment id="112">, cortando ainda mais o tráfego para os veículos.</segment>
+    <segment id="113">"  "</segment>
+    <segment id="114">Essa iniciativa faz parte da estratégia das big techs de criarem internets em si mesmas</segment>
+    <segment id="115">, com o objetivo de manter o usuário dentro de seu próprio ecossistema</segment>
+    <segment id="116">, engajando-</segment>
+    <segment id="117">sese assim cada vez mais com seus anúncios"</segment>
+    <segment id="118">, afirma Rech.  "</segment>
+    <segment id="119">Infelizmente</segment>
+    <segment id="120">, isso é feito à custa do estímulo à pluralidade e do tráfego de veículos jornalísticos</segment>
+    <segment id="121">, o que só confirma a vocação monopolista das big techs e a necessidade de uma regulamentação que reequilibre as forças presentes no mundo digital"</segment>
+    <segment id="122">, acrescenta.</segment>
+    <segment id="123">À Folha a presidente da Fenaj (Federação Nacional de Jornalistas)</segment>
+    <segment id="124">, Samira Castro</segment>
+    <segment id="125">, diz que fazer um compilado de informações sem</segment>
+    <segment id="126">sese responsabilizar</segment>
+    <segment id="127">, de certa forma</segment>
+    <segment id="128">, pode gerar alguma forma de desinformação.</segment>
+    <segment id="129">"</segment>
+    <segment id="130">Por isso</segment>
+    <segment id="131">, há de</segment>
+    <segment id="132">sese pensar em regulamentação da tecnologia.</segment>
+    <segment id="133">"  Para Castro</segment>
+    <segment id="134">, as respostas geradas por IA invisibilizam o trabalho do jornalista</segment>
+    <segment id="135">, que tem sua produção usada para treinar os modelos de linguagem</segment>
+    <segment id="136">comocomo Bard</segment>
+    <segment id="137">, do Google</segment>
+    <segment id="138">, e ChatGPT.</segment>
+    <segment id="139">"</segment>
+    <segment id="140">É necessário proteger a produção de notícias desse uso usurpado.</segment>
+    <segment id="141">Fazer jornalismo custa caro.</segment>
+    <segment id="142">"</segment>
+    <segment id="143">O Google afirma que vai priorizar estratégias de remuneração dos veículos</segment>
+    <segment id="144">, à medida que experimenta novos recursos alimentados por IA em seus produtos.</segment>
+    <segment id="145">Hackers são desafiados a buscar falhas na inteligência artificialMais    novamente         de   de  de  representando um</segment>
+    <segment id="146">A novidade chega ao público em meio às discussões sobre o dever das big techs financiarem a produção de notícias.</segment>
+    <segment id="147">O serviço de busca do Google e a rede social Facebook devem entre US$ 11</segment>
+    <segment id="148">,9 bilhões e US$ 13</segment>
+    <segment id="149">,9 bilhões apenas aos veículos noticiosos dos Estados Unidos</segment>
+    <segment id="150">, segundo estimativas de instituto ligado à Universidade de Columbia.</segment>
+    <segment id="151">Em nota enviada à reportagem</segment>
+    <segment id="152">, o Google rejeita os dados apresentados no relatório e a metodologia.</segment>
+    <segment id="153">"</segment>
+    <segment id="154">Menos de 2% de todas as buscas são relacionadas a notícias"</segment>
+    <segment id="155">, afirmou sua assessoria.</segment>
+    <segment id="156">Ainda acrescentou que a plataforma gera "um enorme valor para os veículos noticiosos</segment>
+    <segment id="157">, enviando mais de 24 bilhões de visitantes para seus sites –sem qualquer custo para eles– que eles podem monetizar".</segment>
+    <segment id="158">Não há estudo similar no Brasil.</segment>
+    <segment id="159">O Congresso Nacional discute a possibilidade de empresas de tecnologia pagarem para veicular notícias</segment>
+    <segment id="160">, visto que as pessoas consomem e repercutem reportagens nessas plataformas.</segment>
+    <segment id="161">Esse trecho foi retirado do PL das Fake News e tramita em novo texto.</segment>
+    <segment id="162">Canadá e Austrália aprovaram projetos análogos</segment>
+    <segment id="163">, masmas passam por situações opostas.</segment>
+    <segment id="164">A Austrália deixou brecha para big techs negociarem diretamente com os jornais</segment>
+    <segment id="165">, e as empresas têm fechado acordos.</segment>
+    <segment id="166">No Canadá</segment>
+    <segment id="167">, a definição ficou por conta da lei e Facebook e Google responderam com boicotes —bloquearam a circulação de notícias.</segment>
+    <segment id="168">Neste meio-tempo</segment>
+    <segment id="169">, o Google segue a implementação de seus recursos de IA.</segment>
+    <segment id="170">Afirmou que deve levar a experiência de IA generativa a partir desta semana</segment>
+    <segment id="171">, de forma gradual</segment>
+    <segment id="172">, ao seu aplicativo disponível em Android e iPhone.</segment>
+  </rst>
+</analysis>

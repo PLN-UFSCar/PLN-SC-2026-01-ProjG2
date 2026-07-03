@@ -1,0 +1,51 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Balão provoca incêndio em depósito na Ilha do Governador
+RIO - Um incêndio provocado por um balão destruiu um depósito de materiais recicláveis na comunidade de Tubiacanga</segment>
+    <segment id="2">, na Ilha do Governador</segment>
+    <segment id="3">, no início da noite de domingo (03).</segment>
+    <segment id="4">Segundo moradores</segment>
+    <segment id="5">, as chamas começaram por volta das 18h</segment>
+    <segment id="6">, depois da queda do balão num terreno da Rua 96.</segment>
+    <segment id="7">Cerca de 30 toneladas de plástico e papelão armazenados no local foram queimados em pouco mais de 20 minutos.</segment>
+    <segment id="8">Três cães que estavam presos no depósito morreram.</segment>
+    <segment id="9">Bombeiros do 19 GBM (Ilha do Governador) foram chamados e controlaram o fogo por volta das 19h.</segment>
+    <segment id="10">LEIA TAMBÉM:</segment>
+    <segment id="11">Balão provoca incêndio em indústria de Diadema</segment>
+    <segment id="12">, SP
+TWITTER: Siga @OGlobo_Rio na rede social
+- A bucha do balão caiu e o fogo</segment>
+    <segment id="13">sese alastrou.</segment>
+    <segment id="14">Ficamos assustados</segment>
+    <segment id="15">porque</segment>
+    <segment id="16">porque o depósito fica entre uma escola e casas.</segment>
+    <segment id="17">Os bombeiros foram rápidos e evitaram uma tragédia - disse a dona de casa Marta Costa de Mendonça</segment>
+    <segment id="18">, de 43 anos.</segment>
+    <segment id="19">Responsável pelo depósito</segment>
+    <segment id="20">, Wanderson Sabino estimou em R$ 35 mil o prejuízo:
+- Além do material em estoque</segment>
+    <segment id="21">, perdemos uma máquina de prensar papel e plástico.</segment>
+  </rst>
+</analysis>

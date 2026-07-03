@@ -1,0 +1,192 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">No último ano</segment>
+    <segment id="2">, cibercriminosos voltaram seus ataques a hospitais e infraestrutura ligada à saúde</segment>
+    <segment id="3">, sese aproveitando da alta demanda no setor provocada pela pandemia de Covid-19.</segment>
+    <segment id="4">A conclusão aparece em estudo divulgado pela IBM nesta quarta-feira (24) e corrobora o que apontaram especialistas e relatórios de outras empresas publicados ao longo do último ano.</segment>
+    <segment id="5">Segundo o levantamento</segment>
+    <segment id="6">, a fatia de ataques ao setor mais do que dobrou em 2020 em relação a 2019</segment>
+    <segment id="7">, passando a 6</segment>
+    <segment id="8">,6% das ameaças detectadas (ante 3%).</segment>
+    <segment id="9">A análise leva em consideração mais de 130 países</segment>
+    <segment id="10">, incluindo o Brasil.</segment>
+    <segment id="11">Um dos ataques detectados pela empresa</segment>
+    <segment id="12">, em outubro</segment>
+    <segment id="13">, mirava a Comissão Europeia e outras organizações em diferentes países envolvidas na cadeia de distribuição de vacinas da Covid-19.</segment>
+    <segment id="14">Não foi possível identificar o autor da ofensiva</segment>
+    <segment id="15">, que tentava roubar dados de acesso a sistemas e informações privilegiadas.</segment>
+    <segment id="16">No mês anterior</segment>
+    <segment id="17">, a Microsoft publicou um estudo apontando que 16 grupos hackers que recebem apoio de governos de países passaram a visar atores envolvidos na resposta à pandemia.</segment>
+    <segment id="18">Ataques do tipo "ransomware" tiveram uma alta de 20% em relação a 2019 e foram responsáveis por um a cada quatro dos incidentes de segurança detectados na análise da IBM.</segment>
+    <segment id="19">Especificamente contra a saúde</segment>
+    <segment id="20">, foram 28% dos casos.</segment>
+    <segment id="21">Nessa modalidade</segment>
+    <segment id="22">, programas maliciosos bloqueiam computadores ou sistemas.</segment>
+    <segment id="23">Os criminosos</segment>
+    <segment id="24">, então</segment>
+    <segment id="25">, exigem pagamento de resgate para devolver o acesso —um sequestro digital.  "</segment>
+    <segment id="26">Quando as instituições de saúde são vítimas de ransomware</segment>
+    <segment id="27">, além de consequências econômicas drásticas</segment>
+    <segment id="28">, o ataque pode ter implicações gravemente prejudiciais</segment>
+    <segment id="29">, como</segment>
+    <segment id="30">como a perda de registros de pacientes e atrasos ou cancelamentos de tratamentos"</segment>
+    <segment id="31">, diz Luis Corrons</segment>
+    <segment id="32">, pesquisador da Avast</segment>
+    <segment id="33">, empresa tcheca de cibersegurança.</segment>
+    <segment id="34">A rotina nos hospitais que recebem pacientes com o novo coronavírus em São Paulo Mais    novamente         de   de  de  representando um  Em setembro</segment>
+    <segment id="35">, um desses vírus paralisou um hospital em Dusseldorf</segment>
+    <segment id="36">, na Alemanha.</segment>
+    <segment id="37">Como o local ficou impedido de receber novos pacientes</segment>
+    <segment id="38">, recusou a ambulância que transportava uma mulher de 78 anos que chegava com um aneurisma da aorta (dilatação da maior artéria do corpo</segment>
+    <segment id="39">, que pode romper).</segment>
+    <segment id="40">A idosa precisou ser levada a outra instituição</segment>
+    <segment id="41">, a 32 km dali.</segment>
+    <segment id="42">O translado demorou uma hora e ela morreu pouco depois.</segment>
+    <segment id="43">Mais da metade dos casos desses sequestros digitais em 2020</segment>
+    <segment id="44">, aponta o relatório</segment>
+    <segment id="45">, foram de uma variante chamada de “extorsão dupla”.</segment>
+    <segment id="46">Nela, além de cobrar para restaurar as máquinas</segment>
+    <segment id="47">, os criminosos pedem dinheiro para não vazar os dados obtidos.</segment>
+    <segment id="48">O ransomware “Sodinokibi”</segment>
+    <segment id="49">, que usa essa estratégia</segment>
+    <segment id="50">, foi o mais popular no período.</segment>
+    <segment id="51">A IBM estima que ele tenha rendido mais de U$ 120 milhões (R$ 650 mi) em resgates.</segment>
+    <segment id="52">A orientação para esse tipo de crime é de não ceder às demandas.</segment>
+    <segment id="53">"</segment>
+    <segment id="54">As empresas têm que lembrar que estão lidando com criminosos</segment>
+    <segment id="55">, não existe nenhuma garantia"</segment>
+    <segment id="56">, diz Marcio Silva</segment>
+    <segment id="57">, gerente técnico da IBM Security Brasil.</segment>
+    <segment id="58">Nesses casos</segment>
+    <segment id="59">, as dicas de Silva são: fazer a gestão correta de usuários e só dar os acessos necessários a cada um</segment>
+    <segment id="60">, fazer correção de eventuais vulnerabilidades (ou seja</segment>
+    <segment id="61">, manter os sistemas atualizados) e ter um plano de resposta para os casos de incidentes.</segment>
+    <segment id="62">O estudo aponta ainda que os criminosos cada vez mais voltam sua atenção à infraestrutura crítica</segment>
+    <segment id="63">, não necessariamente ligada ao combate ao coronavírus.</segment>
+    <segment id="64">Entram na categoria</segment>
+    <segment id="65">, por exemplo</segment>
+    <segment id="66">, sistemas de fornecimento de água e de energia.</segment>
+    <segment id="67">Foi o caso</segment>
+    <segment id="68">caso em Oldsmar</segment>
+    <segment id="69">, na Flórida</segment>
+    <segment id="70">, no último dia 8.</segment>
+    <segment id="71">Um hacker acessou o computador de um funcionário na estação de tratamento de água e tentou aumentar os níveis de hidróxido de sódio (soda cáustica) no abastecimento.</segment>
+    <segment id="72">A ameaça foi detectada e impedida sem causar danos.</segment>
+    <segment id="73">As áreas de manufatura e energia estão mais visadas para golpes e</segment>
+    <segment id="74">, no ano passado</segment>
+    <segment id="75">, ficaram atrás apenas do setor de finanças.</segment>
+    <segment id="76">Nelas, os atacantes</segment>
+    <segment id="77">sese aproveitaram principalmente de vulnerabilidades em sistemas de controle industrial (usados para operar ou automatizar processos).  "</segment>
+    <segment id="78">O mercado financeiro e de seguros sempre foi o mais atacado</segment>
+    <segment id="79">, historicamente.</segment>
+    <segment id="80">Ao longo dos anos as empresas vêm fazendo mais investimentos em segurança"</segment>
+    <segment id="81">, diz Silva.</segment>
+    <segment id="82">Na avaliação do especialista</segment>
+    <segment id="83">, os hackers perceberam que as outras áreas seriam potencialmente mais vulneráveis por não possuírem um retrospecto tão extenso de lidar com cibercrime.</segment>
+    <segment id="84">Além disso</segment>
+    <segment id="85">, como</segment>
+    <segment id="86">como são setores onde uma paralisação nos trabalhos pode causar grandes prejuízos</segment>
+    <segment id="87">, há uma maior tendência de aceitar os pedidos dos atacantes a fim de diminuir o tempo parado.</segment>
+    <segment id="88">Doença crônica</segment>
+    <segment id="89">As ameaças contra a área da saúde acenderam diversos alertas ao longo do ano passado.</segment>
+    <segment id="90">Em abril</segment>
+    <segment id="91">, a Interpol advertiu para o crescimento de ciberataques contra hospitais.</segment>
+    <segment id="92">A polícia internacional destacou também o ransomware</segment>
+    <segment id="93">comocomo a ameaça mais comum.</segment>
+    <segment id="94">Para a proteção</segment>
+    <segment id="95">, recomendou:</segment>
+    <segment id="96">Apenas abra emails ou faça downloads de programas/aplicativos de fontes seguras</segment>
+    <segment id="97">Não clique em links ou anexos em emails que você não espera receber</segment>
+    <segment id="98">, ou vindos de um remetente desconhecido</segment>
+    <segment id="99">Programe seu serviço de email para proteger contra spams que podem estar infectados Faça backup de todos os arquivos importantes com frequência</segment>
+    <segment id="100">, e salve-os em algum lugar separado do seu sistema (ex.</segment>
+    <segment id="101">:</segment>
+    <segment id="102">na nuvem</segment>
+    <segment id="103">, um HD externo)</segment>
+    <segment id="104">Tenha o antivírus instalado e atualizado em todos os seus sistemas e dispositivos móveis</segment>
+    <segment id="105">, e certifique-</segment>
+    <segment id="106">sese de que ele está funcionando</segment>
+    <segment id="107">Use senhas fortes e únicas para cada sistema</segment>
+    <segment id="108">, e troque-as regularmente</segment>
+    <segment id="109">Nos EUA</segment>
+    <segment id="110">, o FBI emitiu alerta para emails de phishing</segment>
+    <segment id="111">, mensagens falsas construídas para roubar dados ou instalar programas maliciosos.</segment>
+    <segment id="112">Como se</segment>
+    <segment id="113">se proteger de fraudes bancáriasMais    novamente         de   de  de  representando</segment>
+    <segment id="114">um  Não é de hoje</segment>
+    <segment id="115">, no entanto</segment>
+    <segment id="116">, que o setor da saúde está na mira do cibercrime.</segment>
+    <segment id="117">Um dos casos mais famosos aconteceu em 2017.</segment>
+    <segment id="118">Na ocasião</segment>
+    <segment id="119">, o ransomware WannaCry afetou computadores no mundo todo e causou danos principalmente ao sistema público de saúde britânico.</segment>
+    <segment id="120">No ano passado</segment>
+    <segment id="121">, o Hospital Sírio-Libanês</segment>
+    <segment id="122">, em São Paulo</segment>
+    <segment id="123">, sofreu uma tentativa de invasão que minou os serviços do site e do app da instituição.</segment>
+    <segment id="124">Pacientes disseram que não conseguiram ter acesso a exames</segment>
+    <segment id="125">comocomo ressonância magnética e tomografia.</segment>
+    <segment id="126">Meses antes</segment>
+    <segment id="127">, em janeiro</segment>
+    <segment id="128">, uma investida inutilizou os computadores de um hospital universitário em Madri</segment>
+    <segment id="129">, na Espanha.</segment>
+    <segment id="130">Anteriormente</segment>
+    <segment id="131">, ataques afetaram hospitais na França.</segment>
+    <segment id="132">Em 2019</segment>
+    <segment id="133">, um centro médico em Michigan</segment>
+    <segment id="134">, nos EUA</segment>
+    <segment id="135">, teve que interromper temporariamente os seus serviços após um ciberataque.</segment>
+    <segment id="136">No mesmo ano</segment>
+    <segment id="137">, os serviços do Hospital Pediátrico de Boston foram impactados por semanas —neste</segment>
+    <segment id="138">casocaso</segment>
+    <segment id="139">, o responsável foi preso.</segment>
+    <segment id="140">Antenados  É comum que hackers</segment>
+    <segment id="141">sese atentem aos principais temas em discussão na sociedade para pautar seus ataques.</segment>
+    <segment id="142">Durante a crise do coronavírus</segment>
+    <segment id="143">, golpes que usam a doença</segment>
+    <segment id="144">comocomo pretexto</segment>
+    <segment id="145">sese espalham por aplicativos mensageiros</segment>
+    <segment id="146">, como</segment>
+    <segment id="147">como o WhatsApp</segment>
+    <segment id="148">, redes sociais e por email.</segment>
+    <segment id="149">Golpistas criaram</segment>
+    <segment id="150">, por exemplo</segment>
+    <segment id="151">, um site falso prometendo liberar o auxílio emergencial.</segment>
+    <segment id="152">Ao entrar no site e preencher o formulário</segment>
+    <segment id="153">, a vítima tem seus dados roubados.</segment>
+    <segment id="154">Essa informação é útil para outros golpes</segment>
+    <segment id="155">, como</segment>
+    <segment id="156">como tentar</segment>
+    <segment id="157">sese passar pela vítima para pedir dinheiro a contatos no WhatsApp.</segment>
+    <segment id="158">É também um dos principais vetores para ataques mais complexos.</segment>
+    <segment id="159">Informações pessoais podem ajudar um criminoso a obter acesso ao sistema de uma empresa</segment>
+    <segment id="160">, por exemplo.</segment>
+    <segment id="161">A migração de empresas para o trabalho remoto também foi explorada.</segment>
+    <segment id="162">Análise da Kaspersky</segment>
+    <segment id="163">, empresa de segurança virtual</segment>
+    <segment id="164">, mostra um aumento de 235% nos ataques a protocolos de conexão remota —usados por empresas para permitir que funcionários acessem sistemas internos mesmo trabalhando a distância.</segment>
+    <segment id="165">Dicas de segurança e privacidade em redes sociaisMais    novamente         de   de  de  representando</segment>
+    <segment id="166">um</segment>
+  </rst>
+</analysis>

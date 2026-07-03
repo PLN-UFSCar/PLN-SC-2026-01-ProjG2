@@ -1,0 +1,91 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Governo estadual contesta pesquisa que questionou queda nos homicídios
+RIO - As secretarias de Segurança e de Saúde do estado contestaram na terça-feira os dados apresentados na polêmica pesquisa do economista Daniel Cerqueira</segment>
+    <segment id="2">, do Instituto de Pesquisa Econômica Aplicada (Ipea) - que contesta a queda nos números de homicídios do estado desde 2007.</segment>
+    <segment id="3">O governo explicou ontem que o número de mortes com causas externas não identificadas subiu no banco de dados da Saúde</segment>
+    <segment id="4">, o Data SUS.</segment>
+    <segment id="5">O motivo seria o fim de um convênio com a Segurança</segment>
+    <segment id="6">, que resultou numa maior lentidão no repasse de informações obtidas ao longo de inquéritos policiais entre os órgãos.</segment>
+    <segment id="7">Os dados divulgados pelo Instituto de Segurança Pública (ISP)</segment>
+    <segment id="8">, segundo o governo</segment>
+    <segment id="9">, estão corretos.
+
+- A Saúde alimenta seu banco de dados por meio de informações obtidas nos laudos do Instituto Médico-Legal (IML)</segment>
+    <segment id="10">, que muitas vezes não conseguem determinar a causa da morte.</segment>
+    <segment id="11">O ISP, por sua vez</segment>
+    <segment id="12">, utiliza as informações dos inquéritos policiais.</segment>
+    <segment id="13">Há um lapso de tempo</segment>
+    <segment id="14">para que</segment>
+    <segment id="15">para que os dados sejam cruzados e atualizados pela Saúde - explicou o diretor presidente do ISP</segment>
+    <segment id="16">, Paulo Augusto Souza Teixeira.</segment>
+    <segment id="17">Até meados de 2007</segment>
+    <segment id="18">, esteve em vigor um convênio entre as secretarias municipais de Saúde e a Secretaria estadual de Segurança.</segment>
+    <segment id="19">Há dois meses</segment>
+    <segment id="20">, um novo convênio foi firmado</segment>
+    <segment id="21">, como</segment>
+    <segment id="22">como informou a subsecretária estadual de Vigilância em Saúde</segment>
+    <segment id="23">, Hellen Miyamoto</segment>
+    <segment id="24">, para agilizar o repasse de informações</segment>
+    <segment id="25">, desta vez entre os órgãos estaduais.</segment>
+    <segment id="26">Uma mudança prevista é a inserção do número do boletim de ocorrência nos laudos do IML</segment>
+    <segment id="27">, para facilitar a busca por informações mais atualizadas sobre cada</segment>
+    <segment id="28">casocaso no sistema da polícia.</segment>
+    <segment id="29">Hoje, essa busca precisa ser realizada pelo nome da vítima.</segment>
+    <segment id="30">Hellen mostrou as alterações no número de mortes por causa externa não identificada ao longo do tempo.</segment>
+    <segment id="31">Com base nos dados de 2009</segment>
+    <segment id="32">, uma pesquisa no levantamento da Saúde em agosto de 2010 mostrava 6.352 mortes sem determinação.</segment>
+    <segment id="33">Já em outubro de 2011</segment>
+    <segment id="34">, esse número</segment>
+    <segment id="35">, segundo Hellen</segment>
+    <segment id="36">, caiu para 2.856.</segment>
+    <segment id="37">Economista do Ipea defende metodologia da pesquisa</segment>
+    <segment id="38">A polêmica em torno da pesquisa de Cerqueira abriu uma crise nos setores de estatística da Secretaria de Segurança.</segment>
+    <segment id="39">Anteontem</segment>
+    <segment id="40">, o secretário José Mariano Beltrame determinou que todos os dados fossem avaliados.</segment>
+    <segment id="41">De acordo com os dados da pesquisa "Mortes violentas não esclarecidas e impunidade no Rio de Janeiro" - divulgados no domingo passado na coluna de Elio Gaspari</segment>
+    <segment id="42">, no GLOBO -</segment>
+    <segment id="43">, feita com base nos dados do Serviço de Informação de Mortalidade (SIM) do Ministério da Saúde</segment>
+    <segment id="44">, os homicídios caíram 28</segment>
+    <segment id="45">,7% de 2006 para 2009.</segment>
+    <segment id="46">Mas, no mesmo período</segment>
+    <segment id="47">, multiplicaram-</segment>
+    <segment id="48">sese os casos de mortes violentas não esclarecidas.</segment>
+    <segment id="49">Autor da pesquisa</segment>
+    <segment id="50">, Cerqueira defende seus dados.</segment>
+    <segment id="51">Para fazer a estimativa sobre os mais de 3 mil homicídios ocultos</segment>
+    <segment id="52">, ele examinou os óbitos de morte violenta entre 2000 e 2006:
+
+- Traçamos um perfil dos mortos.</segment>
+    <segment id="53">A maioria dos casos de homicídios era de pretos</segment>
+    <segment id="54">, ou pardos</segment>
+    <segment id="55">, pobres e jovens.</segment>
+    <segment id="56">Mortos a tiros.</segment>
+    <segment id="57">Para Daniel Cerqueira</segment>
+    <segment id="58">, só existem duas opções sobre a crise dos números oficiais do estado do Rio:
+
+- Ou alguma coisa aconteceu que de repente o serviço ficou incompetente ou houve fraude.</segment>
+  </rst>
+</analysis>

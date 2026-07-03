@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governador da Bahia</segment>
+    <segment id="2">, Jerônimo Rodrigues (PT)</segment>
+    <segment id="3">, agregou a sua base política um deputado estadual do PL</segment>
+    <segment id="4">, partido do ex-presidente Jair Bolsonaro.</segment>
+    <segment id="5">Jerônimo Rodrigues elegeu-</segment>
+    <segment id="6">sese governador da Bahia - Jerônimo Rodrigues no Facebook  Raimundinho da JR foi nomeado na última quinta-feira (9) vice-líder da maioria na Assembleia Legislativa.</segment>
+    <segment id="7">O PL, no estado</segment>
+    <segment id="8">, tem 4 deputados estaduais.</segment>
+    <segment id="9">Oficialmente</segment>
+    <segment id="10">, a legenda</segment>
+    <segment id="11">sese diz independente</segment>
+    <segment id="12">, masmas metade da bancada</segment>
+    <segment id="13">sese inclina favoravelmente ao governo e metade à oposição.</segment>
+    <segment id="14">Jerônimo Rodrigues na campanha eleitoral de 2022Mais    novamente         de   de  de  representando um  Nacionalmente</segment>
+    <segment id="15">, PT e PL estão em polos opostos</segment>
+    <segment id="16">, masmas em alguns estados têm atuado de forma conjunta.</segment>
+    <segment id="17">Em Minas Gerais</segment>
+    <segment id="18">, por exemplo</segment>
+    <segment id="19">, apoiaram o mesmo nome para presidir a Assembleia Legislativa.</segment>
+  </rst>
+</analysis>

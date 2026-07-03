@@ -1,0 +1,97 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Confaz (Conselho Nacional de Política Fazendária) publicou nesta quinta-feira (26) novas alíquotas de ICMS para os combustíveis</segment>
+    <segment id="2">, com vigência a partir de fevereiro de 2024.</segment>
+    <segment id="3">São os primeiros aumentos desde que o imposto passou a ser cobrado em alíquota única nacional.</segment>
+    <segment id="4">O ICMS da gasolina subirá R$ 0</segment>
+    <segment id="5">,15, para R$ 1</segment>
+    <segment id="6">,37 por litro.</segment>
+    <segment id="7">No diesel</segment>
+    <segment id="8">, a alta será de R$ 0</segment>
+    <segment id="9">,12, para R$ 1</segment>
+    <segment id="10">,06 por litro.</segment>
+    <segment id="11">Já a alíquota do gás de cozinha foi definida em R$ 1</segment>
+    <segment id="12">,41 por quilo</segment>
+    <segment id="13">, aumento de R$ 0</segment>
+    <segment id="14">,16 em relação ao vigente atualmente —em um botijão de 13 quilos</segment>
+    <segment id="15">, a diferença é de R$ 2</segment>
+    <segment id="16">,08.</segment>
+    <segment id="17">As mudanças foram publicadas no site do Confaz</segment>
+    <segment id="18">, ainda sem explicações sobre o motivo das altas.</segment>
+    <segment id="19">A lei que unificou o ICMS sobre os combustíveis previa o prazo de um ano para a primeira alteração de alíquota.</segment>
+    <segment id="20">Depois</segment>
+    <segment id="21">, as revisões podem ser semestrais.</segment>
+    <segment id="22">Fila de carros em postos que vendiam combustíveis sem impostos em maio</segment>
+    <segment id="23">, na avenida Sumaré</segment>
+    <segment id="24">, em São Paulo.- Danilo Verpa - 25.mai.2023/FolhapressO novo modelo de cobrança sobre diesel e GLP começou a vigorar em maio.</segment>
+    <segment id="25">Já no caso</segment>
+    <segment id="26">caso da gasolina</segment>
+    <segment id="27">, o novo ICMS passou a ser cobrado em junho.</segment>
+    <segment id="28">Mas a lei que compensa estados por perdas com ICMS</segment>
+    <segment id="29">, publicada esta semana</segment>
+    <segment id="30">, derrubou o prazo mínimo inicial.</segment>
+    <segment id="31">Na avaliação do mercado</segment>
+    <segment id="32">, os estados agendaram a alta para fevereiro para respeitar princípios de quarentena e anualidade na mudança de impostos.</segment>
+    <segment id="33">Em nota</segment>
+    <segment id="34">, o Comsefaz</segment>
+    <segment id="35">, que reúne os secretários estaduais de Fazenda</segment>
+    <segment id="36">, afirmou que a medida está em consonância com o novo marco de tributação de combustíveis e que as novas alíquotas terão validade até o fim de 2024.</segment>
+    <segment id="37">A atualização dos valores considerou o período de novembro de 2021</segment>
+    <segment id="38">, quando as alíquotas foram tornadas fixas os valores foram atualizados pelo IPCA desde novembro de 2021</segment>
+    <segment id="39">, quando as tarifas foram tornadas fixas</segment>
+    <segment id="40">, e fevereiro</segment>
+    <segment id="41">, considerando projeções de preços pelo IPCA.</segment>
+    <segment id="42">Além de uma alíquota unificada</segment>
+    <segment id="43">, o novo ICMS passou a ser calculado em reais por litro</segment>
+    <segment id="44">, e não mais</segment>
+    <segment id="45">comocomo um percentual sobre o preço de bomba.</segment>
+    <segment id="46">As mudanças agradaram o mercado de combustíveis</segment>
+    <segment id="47">, que veem menor margem para fraudes tributárias.</segment>
+    <segment id="48">Mas foram questionadas pelos estados</segment>
+    <segment id="49">, que chegaram a recorrer ao STF (Supremo Tribunal Federal)</segment>
+    <segment id="50">, alegando perdas de arrecadação.</segment>
+    <segment id="51">De fato</segment>
+    <segment id="52">, dados do Confaz mostram que</segment>
+    <segment id="53">, até agosto</segment>
+    <segment id="54">, a receita de ICMS com combustíveis caiu quase 16%</segment>
+    <segment id="55">, para R$ 73</segment>
+    <segment id="56">,6 bilhões.</segment>
+    <segment id="57">Em 2022</segment>
+    <segment id="58">, porém</segment>
+    <segment id="59">porém, os estados foram beneficiados pela escalada dos preços dos combustíveis</segment>
+    <segment id="60">, que bateram recordes nas bombas no primeiro semestre.</segment>
+    <segment id="61">A arrecadação com esses produtos atingiu R$ 122</segment>
+    <segment id="62">,4 bilhões</segment>
+    <segment id="63">, alta de 7% em relação a 2021</segment>
+    <segment id="64">, o recorde anterior.</segment>
+    <segment id="65">A definição de uma alíquota única para a gasolina chegou a ser mediada pelo STF.</segment>
+    <segment id="66">Em um primeiro momento</segment>
+    <segment id="67">, os estados anunciaram a cobrança de R$ 1</segment>
+    <segment id="68">,45 por litro.</segment>
+    <segment id="69">Depois</segment>
+    <segment id="70">, reduziram o valor para R$ 1</segment>
+    <segment id="71">,22 por litro.</segment>
+  </rst>
+</analysis>

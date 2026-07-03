@@ -1,0 +1,115 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um grupo de amigos em uma mesa de bar</segment>
+    <segment id="2">, o garçom traz a conta.</segment>
+    <segment id="3">Tchelo:</segment>
+    <segment id="4">Como vocês querem fazer?</segment>
+    <segment id="5">Vamos dividir igual?</segment>
+    <segment id="6">Rodrigo: Mais prático.</segment>
+    <segment id="7">Quanto deu?</segment>
+    <segment id="8">Amanda:</segment>
+    <segment id="9">Então, gente</segment>
+    <segment id="10">, eu não bebi cerveja.</segment>
+    <segment id="11">Suzana: Tá</segment>
+    <segment id="12">, a gente tira sua parte</segment>
+    <segment id="13">, o que você comeu mesmo?  Amanda:</segment>
+    <segment id="14">O meu foi o gurjão</segment>
+    <segment id="15">, masmas o Rodrigo vai rachar comigo.</segment>
+    <segment id="16">Rodrigo:</segment>
+    <segment id="17">Por que</segment>
+    <segment id="18">sese eu mal toquei no gurjão?</segment>
+    <segment id="19">Amanda:</segment>
+    <segment id="20">Mas eu abortei um filho seu e você nunca pagou a sua parte.</segment>
+    <segment id="21">Rodrigo:</segment>
+    <segment id="22">Faz o seguinte</segment>
+    <segment id="23">, Amanda é minha convidada.</segment>
+    <segment id="24">Aqui aceita vale-refeição?</segment>
+    <segment id="25">Tchelo: Então também vou contribuir</segment>
+    <segment id="26">, porque</segment>
+    <segment id="27">porque fui eu que apresentei os dois</segment>
+    <segment id="28">, inclusive disse pra Amanda que você era ótimo.</segment>
+    <segment id="29">Amanda: Nossa</segment>
+    <segment id="30">, nem lembrava disso</segment>
+    <segment id="31">, não precisa.</segment>
+    <segment id="32">Tchelo: Faço questão.</segment>
+    <segment id="33">Suzana: Então deixa que eu pago o do Tchelo</segment>
+    <segment id="34">, que eu tô devendo de quando ele assumiu a culpa por aquele atropelamento e pegou dois anos de cadeia.</segment>
+    <segment id="35">Tchelo: Imagina</segment>
+    <segment id="36">, foi no semiaberto.</segment>
+    <segment id="37">Suzana:</segment>
+    <segment id="38">Mas eu pago aqui logo e fica elas por elas</segment>
+    <segment id="39">, pode ser?</segment>
+    <segment id="40">Rodrigo: Alguém pediu uma soda?  Amanda:</segment>
+    <segment id="41">E sese</segment>
+    <segment id="42">, pra simplificar</segment>
+    <segment id="43">, eu pagar a parte da Suzana</segment>
+    <segment id="44">, já que ela vai pagar a parte do Tchelo</segment>
+    <segment id="45">, que vai pagar parte da minha parte?</segment>
+    <segment id="46">Aí a gente já mata o lance do Babyssauro.</segment>
+    <segment id="47">Suzana: Menina</segment>
+    <segment id="48">, você arrancou a cabeça do meu Babyssauro na primeira série</segment>
+    <segment id="49">, verdade.</segment>
+    <segment id="50">Mas aí tem que converter pra dólar</segment>
+    <segment id="51">, porque</segment>
+    <segment id="52">porque esse brinquedo foi comprado nos Estados Unidos em 1997.</segment>
+    <segment id="53">Deixa eu calcular a correção monetária.</segment>
+    <segment id="54">Ilustração de Silvis para coluna de Manuela Cantuária de 13.fev.2023.</segment>
+    <segment id="55">- SilvisRodrigo: Suzana não tá esquecendo de nada</segment>
+    <segment id="56">, não?  Suzana: Verdade</segment>
+    <segment id="57">, pedi uma dose de vodka</segment>
+    <segment id="58">, masmas é nacional.</segment>
+    <segment id="59">Rodrigo:</segment>
+    <segment id="60">E…  Suzana: Putz</segment>
+    <segment id="61">, pode crer</segment>
+    <segment id="62">, eu torturei o Rodrigo em uma vida passada</segment>
+    <segment id="63">, ainda taquei fogo na casa dele com toda a família dentro quando eu era do exército da Joana D'Arc</segment>
+    <segment id="64">, uma coisa chatíssima.</segment>
+    <segment id="65">Então vamos lá</segment>
+    <segment id="66">, vou começar tudo de novo.</segment>
+    <segment id="67">Eu pago a vodka</segment>
+    <segment id="68">, o gurjão</segment>
+    <segment id="69">, a tortura medieval.</segment>
+    <segment id="70">Aí você paga duas cervejas e meia.</segment>
+    <segment id="71">Mas peraí</segment>
+    <segment id="72">, teve o aborto</segment>
+    <segment id="73">, quanto que foi o aborto?</segment>
+    <segment id="74">Rodrigo:Essa conta veio errada.</segment>
+    <segment id="75">Ninguém pediu soda.</segment>
+    <segment id="76">Tchelo:</segment>
+    <segment id="77">Não fala nada</segment>
+    <segment id="78">, aproveita que o garçom esqueceu de cobrar a porcentagem dele.</segment>
+    <segment id="79">Rodrigo:</segment>
+    <segment id="80">Mas tá aqui os dez por cento</segment>
+    <segment id="81">, eu conferi.</segment>
+    <segment id="82">Tchelo:</segment>
+    <segment id="83">É, mas</segment>
+    <segment id="84">mas e a dívida histórica?</segment>
+    <segment id="85">Nessa mesa metade é descendente de europeu</segment>
+    <segment id="86">, daí tem todo aquele ouro de Minas Gerais</segment>
+    <segment id="87">, pau-brasil a rodo</segment>
+    <segment id="88">, deixa quieto.</segment>
+    <segment id="89">Suzana: Alguém troca uma nota de duzentos?</segment>
+  </rst>
+</analysis>

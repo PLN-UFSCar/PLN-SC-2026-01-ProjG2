@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Dupla sertaneja estÃ¡ pagando jatinho
+LÃ©o admitiu que no inÃ­cio da carreira a vaidade subiu Ã  cabeÃ§a
+Victor e LÃ©o disseram em entrevistada ao programa "</segment>
+    <segment id="2">De frente com Gabi"</segment>
+    <segment id="3">, que vai ao ar neste domingo</segment>
+    <segment id="4">, que tÃªm um jatinho para ajudar nas viagens.</segment>
+    <segment id="5">"</segment>
+    <segment id="6">Temos um aviÃ£o</segment>
+    <segment id="7">, masmas ainda nÃ£o terminamos de pagar"</segment>
+    <segment id="8">, afirmou Victor.</segment>
+    <segment id="9">JÃ¡ LÃ©o admitiu que no inÃ­cio da carreira a vaidade subiu Ã  cabeÃ§a.</segment>
+    <segment id="10">"</segment>
+    <segment id="11">Teve um Natal que comprei presentes carÃ­ssimos para o meu filho e ele me pediu apenas uma balaâ€.</segment>
+  </rst>
+</analysis>

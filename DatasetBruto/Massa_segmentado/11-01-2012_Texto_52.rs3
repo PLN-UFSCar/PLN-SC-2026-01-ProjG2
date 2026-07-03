@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A preferida</segment>
+    <segment id="2">Gaúcha desbanca baiana</segment>
+    <segment id="3">A gaúcha Jéssica Amaral</segment>
+    <segment id="4">, de Alvorada (RS)</segment>
+    <segment id="5">, levou a melhor no concurso</segment>
+    <segment id="6">“Preferência Nacional”</segment>
+    <segment id="7">, promovido pela revista “Playboy”.</segment>
+    <segment id="8">A dona do bumbum mais bonito do Brasil recebeu mais de 65 mil votos</segment>
+    <segment id="9">, e ganhou o direito de estampar a capa da edição de fevereiro.</segment>
+    <segment id="10">A bela vai embolsar R$ 50 mil e começa a fotografar para o ensaio ainda hoje</segment>
+    <segment id="11">, em São Paulo.</segment>
+    <segment id="12">Com 98cm de quadril e 84 de busto</segment>
+    <segment id="13">, a gata desbancou a baiana Sayara Aguiar</segment>
+    <segment id="14">, que esteve entre as finalistas.</segment>
+    <segment id="15">Aliás, não faltaram  beldades para representar a Bahia no concurso.</segment>
+    <segment id="16">O estado</segment>
+    <segment id="17">, ao lado de São Paulo e do Rio Grande do Sul</segment>
+    <segment id="18">, mostrou que é fonte inesgotável de belos bumbuns.</segment>
+  </rst>
+</analysis>

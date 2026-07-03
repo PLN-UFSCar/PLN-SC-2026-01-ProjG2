@@ -1,0 +1,121 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Folha lança nesta terça-feira (10) a newsletter semanal</segment>
+    <segment id="2">FolhaJus</segment>
+    <segment id="3">, que tem</segment>
+    <segment id="4">comocomo público-alvo profissionais do direito</segment>
+    <segment id="5">, estudantes da área e leitores em geral interessados em temas jurídicos.</segment>
+    <segment id="6">A circulação da newsletter é semanal e exclusiva aos assinantes do jornal.</segment>
+    <segment id="7">Organizada pelos jornalistas Flávio Ferreira e Renata Galf</segment>
+    <segment id="8">, ela trará todas as terças-feiras uma seleção das principais reportagens ligadas a temas jurídicos</segment>
+    <segment id="9">, além de colunas e blogs.</segment>
+    <segment id="10">Na newsletter</segment>
+    <segment id="11">, haverá ainda espaço para a divulgação de conteúdos especiais</segment>
+    <segment id="12">, como</segment>
+    <segment id="13">como análises sobre as tendências e debates do setor</segment>
+    <segment id="14">, reportagens sobre os impactos da tecnologia e futuro da carreira</segment>
+    <segment id="15">, entrevistas e artigos exclusivos</segment>
+    <segment id="16">, dados e infográficos</segment>
+    <segment id="17">, agenda e calendário de concursos e dicas de profissionais conceituados.</segment>
+    <segment id="18">Quem já é assinante Folha pode ativar o recebimento da newsletter no site do jornal</segment>
+    <segment id="19">, basta acessar https://login.folha.com.br/newsletter.</segment>
+    <segment id="20">Para recebê-la é preciso ser assinante e ainda ativar o botão para ativar o recebimento pelo email cadastrado.</segment>
+    <segment id="21">Quem não é assinante também pode conhecer as newsletters gratuitas e ativá-las no mesmo endereço</segment>
+    <segment id="22">, após abrir uma conta gratuita no site.</segment>
+    <segment id="23">Outra forma é acessar o site da Folha e</segment>
+    <segment id="24">, na seção “Escolha suas ne​wsletters”</segment>
+    <segment id="25">, selecionar a preferida</segment>
+    <segment id="26">, ou ainda acessar a caixa "receba notícias da Folha" que está dentro de cada reportagem publicada.</segment>
+    <segment id="27">LelisA newsletter faz parte da FolhaJus</segment>
+    <segment id="28">, iniciativa que inclui ainda a assinatura promocional para advogados.</segment>
+    <segment id="29">Desde a semana passada</segment>
+    <segment id="30">, a Folha</segment>
+    <segment id="31">, em parceria com a OAB (Ordem dos Advogados do Brasil)</segment>
+    <segment id="32">, começou a oferecer a advogados de todo o país a assinatura grátis por seis meses de sua versão digital.</segment>
+    <segment id="33">Após esse período gratuito</segment>
+    <segment id="34">, será cobrado pela assinatura do advogado o valor de R$ 9</segment>
+    <segment id="35">,90 por mais seis meses</segment>
+    <segment id="36">, o que representa um desconto mensal automático de 67% em relação ao preço cheio da assinatura (hoje em R$ 29</segment>
+    <segment id="37">,90).</segment>
+    <segment id="38">O cancelamento pode ser feito a qualquer momento.</segment>
+    <segment id="39">A iniciativa conta também com o apoio da AASP (Associação dos Advogados de São Paulo).  "</segment>
+    <segment id="40">O jornalismo</segment>
+    <segment id="41">, feito com seriedade</segment>
+    <segment id="42">, é o melhor antídoto contra as notícias falsas.</segment>
+    <segment id="43">O convênio da OAB com a Folha de S.Paulo permitirá que os mais de 1</segment>
+    <segment id="44">,2 milhão de advogados tenham mais acesso a informação jornalística de qualidade"</segment>
+    <segment id="45">, afirma Felipe Santa Cruz</segment>
+    <segment id="46">, presidente nacional da OAB.   "</segment>
+    <segment id="47">A iniciativa une duas instituições pilares da defesa do Estado de Direito e do pluralismo</segment>
+    <segment id="48">, enriquecendo o diálogo com a sociedade civil”</segment>
+    <segment id="49">, diz Antonio Manuel Teixeira Mendes</segment>
+    <segment id="50">, superintendente do Grupo Folha.</segment>
+    <segment id="51">O caminho para fazer a assinatura é bem simples.</segment>
+    <segment id="52">Basta acessar o endereço www.assinefolha.com.br/folhajus.</segment>
+    <segment id="53">Para obter o desconto</segment>
+    <segment id="54">, os advogados deverão incluir três dados para identificação: CPF</segment>
+    <segment id="55">, nº de inscrição na OAB e a unidade da federação onde o registro na OAB foi feito.</segment>
+    <segment id="56">Os profissionais do direito assinantes terão acesso a todo o conteúdo digital da Folha</segment>
+    <segment id="57">, como</segment>
+    <segment id="58">como a edição diária do jornal</segment>
+    <segment id="59">, as últimas notícias</segment>
+    <segment id="60">, o acervo completo desde 1921</segment>
+    <segment id="61">, colunas e blogs com debates e diversidade de opiniões e uma ampla agenda de eventos culturais</segment>
+    <segment id="62">, além de infográficos</segment>
+    <segment id="63">, pesquisas</segment>
+    <segment id="64">, fotografias</segment>
+    <segment id="65">, charges e tirinhas.</segment>
+    <segment id="66">Quem não é advogado também terá oferta especial para a assinatura da FolhaJus (assinatura digital completa da Folha e o recebimento de uma newsletter semanal)</segment>
+    <segment id="67">, com o pagamento de apenas R$ 1</segment>
+    <segment id="68">,90 no primeiro mês e de R$ 9</segment>
+    <segment id="69">,90 nos cinco meses seguintes.</segment>
+    <segment id="70">Após esse período</segment>
+    <segment id="71">, o valor é de R$ 29</segment>
+    <segment id="72">,90.</segment>
+    <segment id="73">O endereço é o mesmo (www.assinefolha.com.br/folhajus).  PASSO</segment>
+    <segment id="74">A PASSO PARA ASSINATURA</segment>
+    <segment id="75">PROMOCIONAL FOLHAJUS   1)</segment>
+    <segment id="76">Acessar o endereço www.assinefolha.com.br/folhajus 2)</segment>
+    <segment id="77">Incluir três dados para identificação do advogado: CPF</segment>
+    <segment id="78">, nº de inscrição na OAB e a unidade da federação onde o registro na OAB foi feito 3)</segment>
+    <segment id="79">Incluir os dados pessoais 4)</segment>
+    <segment id="80">Escolher a forma de pagamento da assinatura</segment>
+    <segment id="81">, que só será cobrada a partir do sétimo mês    Desde março de 2019</segment>
+    <segment id="82">, professores da rede pública tem um ano de assinatura grátis do jornal</segment>
+    <segment id="83">, iniciativa fruto de uma parceria da Folha com o Google.</segment>
+    <segment id="84">Após os 12 primeiros meses</segment>
+    <segment id="85">, a assinatura do docente é renovada com um desconto automático.</segment>
+    <segment id="86">O endereço para o docente fazer a assinatura é o www.assinefolha.com.br/professores.</segment>
+    <segment id="87">Conheça as outras newsletters da Folha</segment>
+    <segment id="88">Notícias do dia</segment>
+    <segment id="89">Colunas e Blogs Dicas do Editor (somente para assinantes)</segment>
+    <segment id="90">Brasília</segment>
+    <segment id="91">Hoje (somente para assinantes)</segment>
+    <segment id="92">News in English Notícias en español F5</segment>
+    <segment id="93">Para curtir SP</segment>
+    <segment id="94">Folha na Sala (somente para assinantes)</segment>
+    <segment id="95">Lá fora</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,164 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Apesar de o IPCA (Índice Nacional de Preços ao Consumidor Amplo) ter apresentado alta acima do esperado pelo mercado</segment>
+    <segment id="2">, analistas mantiveram suas projeções de inflação e juros para este ano.</segment>
+    <segment id="3">Eles dizem</segment>
+    <segment id="4">, contudo</segment>
+    <segment id="5">contudo</segment>
+    <segment id="6">, que os dados divulgados nesta quinta-feira (8) acendem um alerta.</segment>
+    <segment id="7">Segundo o IBGE (Instituto Brasileiro de Geografia e Estatística)</segment>
+    <segment id="8">, a inflação oficial do Brasil medida pelo IPCA variou de 0</segment>
+    <segment id="9">,56% em dezembro para 0</segment>
+    <segment id="10">,42% em janeiro.</segment>
+    <segment id="11">Essa desaceleração</segment>
+    <segment id="12">, contudo</segment>
+    <segment id="13">contudo</segment>
+    <segment id="14">, foi menor do que o aguardado por economistas</segment>
+    <segment id="15">, que projetavam</segment>
+    <segment id="16">, em média</segment>
+    <segment id="17">, uma elevação de 0</segment>
+    <segment id="18">,34% nos preços ao consumidor</segment>
+    <segment id="19">, segundo projeções compiladas pela Bloomberg.</segment>
+    <segment id="20">Preços das carnes em supermercado de São Paulo - Zanone Fraissat/Folhapress</segment>
+    <segment id="21">O mês de janeiro costuma apresentar números mais altos devido a eventos sazonais</segment>
+    <segment id="22">, como</segment>
+    <segment id="23">como reajuste do salário mínimo</segment>
+    <segment id="24">, aumento nas despesas com educação</segment>
+    <segment id="25">, taxas anuais e até mesmo piora na oferta agrícola de alguns produtos por conta das chuvas e do calor.</segment>
+    <segment id="26">De fato</segment>
+    <segment id="27">, o IPCA do mês passado voltou a sofrer pressão da alta dos alimentos.</segment>
+    <segment id="28">O grupo alimentação e bebidas acelerou para 1</segment>
+    <segment id="29">,38%, após registrar 1</segment>
+    <segment id="30">,11% em dezembro</segment>
+    <segment id="31">, como</segment>
+    <segment id="32">como efeito das temperaturas e das chuvas intensas em regiões produtoras</segment>
+    <segment id="33">, intensificadas pelo fenômeno climático El Niño.</segment>
+    <segment id="34">Mas além da frustração na expectativa com o índice geral</segment>
+    <segment id="35">, analistas chamam atenção para alguns detalhes</segment>
+    <segment id="36">, como</segment>
+    <segment id="37">como a inflação subjacente de serviços</segment>
+    <segment id="38">, medida que busca captar uma tendência para os preços desse segmento sem levar em conta componentes mais transitórios.</segment>
+    <segment id="39">O Banco Central tem olhado esse fator de perto em suas decisões de juros.</segment>
+    <segment id="40">"</segment>
+    <segment id="41">Serviços subjacentes apresentaram um avanço de 0</segment>
+    <segment id="42">,76% nos preços</segment>
+    <segment id="43">, enquanto projetávamos alta de 0</segment>
+    <segment id="44">,65%", diz Étore Sanchez</segment>
+    <segment id="45">, economista-chefe da Ativa Investimentos.</segment>
+    <segment id="46">Para o grupo de serviços no geral</segment>
+    <segment id="47">, a Ativa esperava deflação de 0</segment>
+    <segment id="48">,08%, mas</segment>
+    <segment id="49">mas houve avanço de 0</segment>
+    <segment id="50">,02%.</segment>
+    <segment id="51">O analista diz que esses dados frustram uma parte do mercado que esperava que o IPCA de janeiro pudesse chancelar uma eventual aceleração no ritmo de corte da taxa básica de juros</segment>
+    <segment id="52">, Selic.</segment>
+    <segment id="53">Atualmente</segment>
+    <segment id="54">, o BC tem adotado cortes de 0</segment>
+    <segment id="55">,5 ponto percentual</segment>
+    <segment id="56">, levando a taxa do patamar de 13</segment>
+    <segment id="57">,75% em meados do ano passado para os atuais 11</segment>
+    <segment id="58">,25% ao ano.</segment>
+    <segment id="59">Mas para quem mantinha no horizonte esse ritmo de redução dos juros</segment>
+    <segment id="60">, reforçado pelo próprio BC na ata da última decisão do Copom (Comitê de Política Monetária)</segment>
+    <segment id="61">, nada muda</segment>
+    <segment id="62">, na visão de Sanchez.</segment>
+    <segment id="63">"</segment>
+    <segment id="64">Avaliamos que</segment>
+    <segment id="65">, apesar de ruim</segment>
+    <segment id="66">, não se</segment>
+    <segment id="67">se trata de um dado que irá alterar o plano de voo do Copom"</segment>
+    <segment id="68">, diz o analista da Ativa.</segment>
+    <segment id="69">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="70">; aberta para não assinantes.</segment>
+    <segment id="71">Carregando...  "</segment>
+    <segment id="72">Não há necessidade de examinar muito o IPCA de hoje para perceber que</segment>
+    <segment id="73">sese trata de um dado ruim exatamente onde mais importa: inflação subjacente de serviços"</segment>
+    <segment id="74">, afirma Daniel Cunha</segment>
+    <segment id="75">, estrategista-chefe da BGC Liquidez.</segment>
+    <segment id="76">"</segment>
+    <segment id="77">Ao todo</segment>
+    <segment id="78">, é uma divulgação ruim</segment>
+    <segment id="79">, masmas é apenas uma divulgação.</segment>
+    <segment id="80">Importante verificar as próximas ao longo do caminho.</segment>
+    <segment id="81">Portanto</segment>
+    <segment id="82">, não há necessidade (ainda) de alterar nosso cenário"</segment>
+    <segment id="83">, corrobora.</segment>
+    <segment id="84">Para Cunha</segment>
+    <segment id="85">, quem antecipa uma taxa terminal da Selic a menos de 9% ao final do atual ciclo de corte de juros deve ficar atento após o dado desta quinta-feira.</segment>
+    <segment id="86">"</segment>
+    <segment id="87">O IPCA de hoje deve jogar um pouco de água fria</segment>
+    <segment id="88">, já que 2024 começou com o pé esquerdo no front inflacionário"</segment>
+    <segment id="89">, diz.</segment>
+    <segment id="90">Por outro lado</segment>
+    <segment id="91">, o analista Rafael Costa</segment>
+    <segment id="92">, também da BCG Liquidez</segment>
+    <segment id="93">, chama atenção para o fato de a surpresa com inflação subjacente de serviços ter</segment>
+    <segment id="94">sese concentrado em um único subitem: serviço bancário.</segment>
+    <segment id="95">Segundo Costa</segment>
+    <segment id="96">, os serviços bancários já vêm registrando forte inflação nos primeiros meses em anos recentes</segment>
+    <segment id="97">, masmas ele acredita que os preços desse subitem devem recuar daqui para frente.</segment>
+    <segment id="98">Amabile Ferrazoli</segment>
+    <segment id="99">, economista da Tenax Capital</segment>
+    <segment id="100">, concorda com essa visão.</segment>
+    <segment id="101">"</segment>
+    <segment id="102">A dinâmica de preços de serviços bancários não é algo que nos deixa preocupados.</segment>
+    <segment id="103">Hoje, esse subitem no IPCA tem tendência estrutural deflacionária por causa de uma maior competição bancária com uma maior participação de bancos digitais na economia"</segment>
+    <segment id="104">, afirma.</segment>
+    <segment id="105">Os dez produtos com as maiores baixas de preço 2023Mais    novamente         de   de  de  representando um</segment>
+    <segment id="106">Ainda assim</segment>
+    <segment id="107">, o estrategista de inflação da Warren Investimentos Andréa Angelo acredita que ainda há risco de alta para a inflação de serviços subjacentes no ano.</segment>
+    <segment id="108">Mas enxerga uma dinâmica recente mais favorável de alimentação no domicílio</segment>
+    <segment id="109">, o que pode servir de contrapeso.</segment>
+    <segment id="110">"</segment>
+    <segment id="111">Mesmo com a surpresa no número de hoje</segment>
+    <segment id="112">, não alteramos o cenário de IPCA de 2024 que é de 3</segment>
+    <segment id="113">,90%, e de 3</segment>
+    <segment id="114">,50% em 2025"</segment>
+    <segment id="115">, afirma.</segment>
+    <segment id="116">Mas o alerta é sempre reforçado.</segment>
+    <segment id="117">"</segment>
+    <segment id="118">Acreditamos que nada muda na política monetária do BC</segment>
+    <segment id="119">, masmas alguma atenção é necessária.</segment>
+    <segment id="120">O ritmo de cortes deve</segment>
+    <segment id="121">sese manter em 0</segment>
+    <segment id="122">,5 ponto percentual nas próximas reuniões</segment>
+    <segment id="123">, masmas é preciso atenção para o comportamento da inflação e a trajetória fiscal"</segment>
+    <segment id="124">, ressalta Julio Hegedus</segment>
+    <segment id="125">, da Mirae Invest.</segment>
+    <segment id="126">"</segment>
+    <segment id="127">No geral</segment>
+    <segment id="128">, vemos manutenção de um cenário de desinflação</segment>
+    <segment id="129">, masmas com alguns sinais de alerta"</segment>
+    <segment id="130">, diz André Cordeiro</segment>
+    <segment id="131">, economista-sênior do banco Inter.</segment>
+    <segment id="132">"</segment>
+    <segment id="133">Em fevereiro devemos ter uma nova rodada de aceleração da inflação</segment>
+    <segment id="134">, com os reajustes escolares pressionando a inflação de serviços.</segment>
+    <segment id="135">Por outro lado</segment>
+    <segment id="136">, podemos começar a ver uma reversão nos preços de commodities alimentares</segment>
+    <segment id="137">, contribuindo para uma desaceleração da inflação de alimentos"</segment>
+    <segment id="138">, completa.</segment>
+  </rst>
+</analysis>

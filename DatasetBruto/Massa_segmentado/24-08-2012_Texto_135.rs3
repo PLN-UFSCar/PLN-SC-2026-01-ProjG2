@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Preso na â€˜bocaâ€™ do CemitÃ©rio de Periperi
+Daniel Santos</segment>
+    <segment id="2">, 19, foi preso por trÃ¡fico de drogas em um bar no beco da Baiuca
+Daniel Pereira dos Santos</segment>
+    <segment id="3">, 19, o Belo</segment>
+    <segment id="4">, foi preso por trÃ¡fico de drogas em um bar no beco da Baiuca</segment>
+    <segment id="5">, em Periperi.</segment>
+    <segment id="6">Segundo informaÃ§Ãµes da delegacia do bairro</segment>
+    <segment id="7">, ele faz parte de um grupo que vende drogas atrÃ¡s do CemitÃ©rio de Periperi.</segment>
+    <segment id="8">â€œEles agora nÃ£o ficam com a droga na mÃ£o.</segment>
+    <segment id="9">Deixam prÃ³ximoâ€</segment>
+    <segment id="10">, explica JÃºlio Oliveira</segment>
+    <segment id="11">, coordenador de investigaÃ§Ã£o da 5Âª DT.</segment>
+    <segment id="12">Daniel</segment>
+    <segment id="13">sese defende dizendo que vende peixe.</segment>
+    <segment id="14">â€œNÃ£o sou traficante.</segment>
+    <segment id="15">Vendo peixeâ€</segment>
+    <segment id="16">, afirma.</segment>
+  </rst>
+</analysis>

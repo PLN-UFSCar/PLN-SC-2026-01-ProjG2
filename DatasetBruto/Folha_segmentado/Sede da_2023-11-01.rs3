@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Sede da COP30 em 2025</segment>
+    <segment id="2">, a cidade de Belém terá parte de sua frota de ônibus renovada com recursos do PAC (Plano de Aceleração do Crescimento).</segment>
+    <segment id="3">Obra ligada à realização da COP30 em Belém</segment>
+    <segment id="4">, marcada para 2025 - Ueslei Marcelino/ReutersSerão 265 novos veículos</segment>
+    <segment id="5">, sendo 40 elétricos e 50 a gás natural</segment>
+    <segment id="6">, parte de um projeto para apresentar a capital paraense</segment>
+    <segment id="7">comocomo uma cidade mais sustentável para o evento climático da ONU.</segment>
+    <segment id="8">O investimento federal é de R$ 368</segment>
+    <segment id="9">,7 milhões</segment>
+    <segment id="10">, com recursos do FGTS.</segment>
+    <segment id="11">A seleção foi feita pelo Ministério das Cidades</segment>
+    <segment id="12">, com a análise técnica da Caixa Econômica Federal.</segment>
+    <segment id="13">A contrapartida do governo do Pará é de R$ 19</segment>
+    <segment id="14">,4 milhões.</segment>
+    <segment id="15">Esse é o segundo financiamento de renovação de frota liberado pelo Ministério das Cidades.</segment>
+    <segment id="16">O primeiro foi para a Prefeitura do Rio de Janeiro</segment>
+    <segment id="17">, no valor de R$ 828 milhões</segment>
+    <segment id="18">, para a aquisição de 254 ônibus articulados</segment>
+    <segment id="19">, para o BRT.</segment>
+  </rst>
+</analysis>

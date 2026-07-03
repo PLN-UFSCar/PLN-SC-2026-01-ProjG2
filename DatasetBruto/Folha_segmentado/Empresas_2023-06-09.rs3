@@ -1,0 +1,141 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A onda de pressão judicial do governo dos Estados Unidos contra as empresas de criptomoedas começa a remodelar o setor.</segment>
+    <segment id="2">A Coinbase</segment>
+    <segment id="3">, maior exchange de criptomoedas do país</segment>
+    <segment id="4">, abriu uma empresa nas Bermudas.</segment>
+    <segment id="5">A Gemini</segment>
+    <segment id="6">, empresa rival com sede em Nova York</segment>
+    <segment id="7">, busca uma licença nos Emirados Árabes Unidos.</segment>
+    <segment id="8">E a Bittrex</segment>
+    <segment id="9">, uma exchange de Seattle</segment>
+    <segment id="10">, encerrou suas operações nos EUA.</segment>
+    <segment id="11">Depois de anos tentando moldar a regulamentação federal nos Estados Unidos</segment>
+    <segment id="12">, um número crescente de criptoempresas americanas –especialmente as "exchanges"</segment>
+    <segment id="13">(bolsas) onde os clientes compram e vendem tokens digitais– estão explorando planos para abrir suas empresas no exterior.</segment>
+    <segment id="14">Elas estão</segment>
+    <segment id="15">sese expandindo para novos mercados e avaliando a possibilidade de deixar totalmente o país.</segment>
+    <segment id="16">Ilustração de criptomoedas - Unsplash</segment>
+    <segment id="17">As medidas são uma resposta à crescente repressão que tornou os Estados Unidos um dos reguladores de criptomoedas mais rígidos do mundo.</segment>
+    <segment id="18">Na terça-feira (6)</segment>
+    <segment id="19">, a Comissão de Valores Mobiliários (SEC na sigla em inglês) entrou com um processo há muito esperado contra a Coinbase</segment>
+    <segment id="20">, argumentando que ela estava comercializando valores mobiliários sem o devido registro.</segment>
+    <segment id="21">Um dia antes</segment>
+    <segment id="22">, a SEC processou a cripto-exchange internacional Binance</segment>
+    <segment id="23">, buscando barrar seu fundador do mercado de valores mobiliários dos EUA.</segment>
+    <segment id="24">A repressão é um ponto de virada para uma indústria que parecia estar ganhando aceitação popular apenas um ano atrás.</segment>
+    <segment id="25">As criptomoedas foram criadas com uma mentalidade antigoverno</segment>
+    <segment id="26">, um sistema financeiro descentralizado que operaria além do alcance dos órgãos reguladores.</segment>
+    <segment id="27">Mas, à medida que o mercado disparou</segment>
+    <segment id="28">, em 2021</segment>
+    <segment id="29">, as empresas de criptomoedas criaram um esquema de lobby em Washington e buscaram</segment>
+    <segment id="30">sese reapresentar</segment>
+    <segment id="31">comocomo empresas submissas</segment>
+    <segment id="32">, ansiosas para trabalhar com o governo.</segment>
+    <segment id="33">Esse esforço falhou em grande parte.</segment>
+    <segment id="34">No ano passado</segment>
+    <segment id="35">, uma série de colapsos de criptomoedas criou suspeitas generalizadas sobre o setor.</segment>
+    <segment id="36">O Congresso</segment>
+    <segment id="37">, os reguladores e o público tornaram-</segment>
+    <segment id="38">sese cada vez mais hostis.</segment>
+    <segment id="39">Hoje, a possibilidade de deixar os Estados Unidos é "a coisa número 1 que as startups de cripto estão falando e pensando"</segment>
+    <segment id="40">, disse Nic Carter</segment>
+    <segment id="41">, fundador da criptoempresa de capital de risco Castle Island Ventures.</segment>
+    <segment id="42">"</segment>
+    <segment id="43">Você pode</segment>
+    <segment id="44">sese mudar para as Ilhas Cayman</segment>
+    <segment id="45">, Londres ou Bermudas</segment>
+    <segment id="46">, ou ter uma facção significativa de seus executivos lá</segment>
+    <segment id="47">, ou em Hong Kong ou Dubai.</segment>
+    <segment id="48">"</segment>
+    <segment id="49">Em teoria</segment>
+    <segment id="50">, um grande êxodo dos Estados Unidos poderia eventualmente tornar mais difícil para os americanos negociar moedas digitais e experimentar novos produtos criptográficos.</segment>
+    <segment id="51">Mas nem todas as empresas de criptomoedas dos EUA estão tentando</segment>
+    <segment id="52">sese mudar: firmas especializadas em mineração de bitcoin</segment>
+    <segment id="53">, um processo de uso intensivo de energia</segment>
+    <segment id="54">, migraram para os Estados Unidos em busca de energia barata.</segment>
+    <segment id="55">E mesmo as empresas de criptomoedas que estão</segment>
+    <segment id="56">sese expandindo internacionalmente pretendem lutar por regras mais favoráveis em Washington.</segment>
+    <segment id="57">Ainda assim</segment>
+    <segment id="58">, as tensões entre o setor e os reguladores nos EUA vêm crescendo desde o início de 2021</segment>
+    <segment id="59">, quando Gary Gensler</segment>
+    <segment id="60">, um crítico ferrenho das criptomoedas</segment>
+    <segment id="61">, foi nomeado presidente da SEC.</segment>
+    <segment id="62">Durante dois anos</segment>
+    <segment id="63">, a SEC argumentou que quase todas as criptomoedas deveriam ser classificadas</segment>
+    <segment id="64">comocomo valores mobiliários</segment>
+    <segment id="65">, como</segment>
+    <segment id="66">como ações negociadas em Wall Street</segment>
+    <segment id="67">, o que forçaria essas empresas a</segment>
+    <segment id="68">sese registrarem na SEC e a submetê-las a rígidos requisitos de divulgação.</segment>
+    <segment id="69">Entenda o esquema de aluguel de bitcoinsMais    novamente         de   de  de  representando um</segment>
+    <segment id="70">Uma nova rodada de hostilidades começou em novembro após o colapso da FTX</segment>
+    <segment id="71">, a bolsa de criptomoedas fundada por Sam Bankman-Fried.</segment>
+    <segment id="72">Nos meses seguintes</segment>
+    <segment id="73">, a SEC processou uma série de criptoempresas de crédito e reprimiu um produto de investimento comercializado pela Kraken</segment>
+    <segment id="74">, uma exchange popular nos EUA.</segment>
+    <segment id="75">Ao mesmo tempo</segment>
+    <segment id="76">, vários reguladores financeiros importantes emitiram declarações alertando os bancos sobre os riscos das criptomoedas.</segment>
+    <segment id="77">Os apoiadores da indústria rotularam as ações do governo de Operação Choke Point 2.0</segment>
+    <segment id="78">, aludindo a uma campanha jurídica da era Obama para impedir que os bancos trabalhassem com certas empresas.  "</segment>
+    <segment id="79">As coisas definitivamente mudaram após o colapso da FTX"</segment>
+    <segment id="80">, disse Perianne Boring</segment>
+    <segment id="81">, que dirige a Câmara de Comércio Digital</segment>
+    <segment id="82">, um grupo de defesa das criptomoedas.</segment>
+    <segment id="83">"</segment>
+    <segment id="84">Tivemos muitos esforços de boa fé na SEC e até mesmo com outros formuladores de políticas que agora são os grandes críticos.</segment>
+    <segment id="85">"  Como maior criptoempresa dos EUA</segment>
+    <segment id="86">, a Coinbase tem estado no centro do debate regulatório.</segment>
+    <segment id="87">Depois de sua fundação em 2012</segment>
+    <segment id="88">, a Coinbase ganhou destaque ao</segment>
+    <segment id="89">sese promover</segment>
+    <segment id="90">comocomo a bolsa de criptomoedas mais confiável e compatível.</segment>
+    <segment id="91">Dois anos atrás</segment>
+    <segment id="92">, abriu seu capital</segment>
+    <segment id="93">, um momento decisivo que parecia indicar o papel crescente da indústria no comércio dos Estados Unidos.</segment>
+    <segment id="94">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="95">; aberta para não assinantes.</segment>
+    <segment id="96">Carregando...</segment>
+    <segment id="97">Desde então</segment>
+    <segment id="98">, a Coinbase teve diversos conflitos com os reguladores federais.</segment>
+    <segment id="99">Em setembro de 2021</segment>
+    <segment id="100">, depois que a SEC a impediu de oferecer um produto de investimento popular</segment>
+    <segment id="101">, seu CEO</segment>
+    <segment id="102">, Brian Armstrong</segment>
+    <segment id="103">, acusou o órgão de "comportamento realmente impreciso".</segment>
+    <segment id="104">Em Washington</segment>
+    <segment id="105">, a Coinbase e outras grandes criptoempresas dos EUA lutaram contra a intensificação do regime regulatório</segment>
+    <segment id="106">, fazendo lobby com os legisladores para criar regras específicas para a indústria de ativos digitais.</segment>
+    <segment id="107">Entretanto</segment>
+    <segment id="108">, esses esforços fracassaram e algumas firmas de criptomoedas começaram a procurar espaço no exterior.</segment>
+    <segment id="109">Em uma conferência em Londres em abril</segment>
+    <segment id="110">, Armstrong disse que os Estados Unidos precisam de regras mais claras para governar as criptomoedas.</segment>
+    <segment id="111">"</segment>
+    <segment id="112">Se os EUA não fizerem isso</segment>
+    <segment id="113">, essas empresas serão criadas em paraísos offshore"</segment>
+    <segment id="114">, disse ele.</segment>
+    <segment id="115">Tradução de Luiz Roberto M. Gonçalves</segment>
+  </rst>
+</analysis>

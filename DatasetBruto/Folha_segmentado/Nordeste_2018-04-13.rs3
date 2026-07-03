@@ -1,0 +1,94 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">​  ​</segment>
+    <segment id="2">O Flamengo aparece à frente do Corinthians em pesquisa Datafolha sobre as maiores torcidas do Brasil em grande parte graças à liderança da equipe carioca na preferência dos habitantes das regiões Norte e Nordeste.</segment>
+    <segment id="3">Considerando todo o território nacional</segment>
+    <segment id="4">, o Flamengo tem a preferência de 18% dos torcedores e está tecnicamente empatado na liderança com o Corinthians</segment>
+    <segment id="5">, com 14%</segment>
+    <segment id="6">, no limite da margem de erro (dois pontos percentuais para mais ou para menos).</segment>
+    <segment id="7">Na região Sudeste</segment>
+    <segment id="8">, o time paulista está numericamente à frente da equipe rubro-negra</segment>
+    <segment id="9">, com a preferência de 19% dos torcedores contra 14% do Flamengo.</segment>
+    <segment id="10">Se considerada a margem de erro de três pontos percentuais para mais ou para menos no recorte regional</segment>
+    <segment id="11">, porém</segment>
+    <segment id="12">porém, as equipes estão tecnicamente empatadas na primeira posição.</segment>
+    <segment id="13">Já no Norte do país</segment>
+    <segment id="14">, o Flamengo ocupa a primeira posição na preferência dos torcedores de forma isolada</segment>
+    <segment id="15">, com 37%.</segment>
+    <segment id="16">A equipe não é alcançada pelo Corinthians</segment>
+    <segment id="17">, o segundo colocado numericamente</segment>
+    <segment id="18">, com 8%</segment>
+    <segment id="19">, mesmo</segment>
+    <segment id="20">sese for considerada a margem de erro de seis pontos percentuais.</segment>
+    <segment id="21">A situação</segment>
+    <segment id="22">sese repete no Nordeste</segment>
+    <segment id="23">, onde o time rubro-negro tem a preferência de 23% dos torcedores</segment>
+    <segment id="24">, contra 9% da equipe alvinegra.</segment>
+    <segment id="25">Nesse caso</segment>
+    <segment id="26">caso, a margem de erro é de quatro pontos percentuais para mais ou para menos.</segment>
+    <segment id="27">O clube paulista aparece em pé de igualdade com o Flamengo na região Sul</segment>
+    <segment id="28">, onde tem a preferência de 12% dos torcedores contra 8% da equipe rubro-negra.</segment>
+    <segment id="29">Nessa região do país</segment>
+    <segment id="30">, Grêmio</segment>
+    <segment id="31">, Internacional e Corinthians estão tecnicamente empatados na liderança da preferência dos torcedores considerando a margem de erro de cinco pontos percentuais para mais ou para menos.</segment>
+    <segment id="32">O time tricolor</segment>
+    <segment id="33">, porém</segment>
+    <segment id="34">porém, está numericamente à frente dos adversários</segment>
+    <segment id="35">, com 20%</segment>
+    <segment id="36">, contra 18% de colorados.</segment>
+    <segment id="37">Na região Centro-Oeste</segment>
+    <segment id="38">, Flamengo e Corinthians estão tecnicamente empatados na liderança considerando a margem de erro de seis pontos percentuais para mais ou para menos.</segment>
+    <segment id="39">Numericamente</segment>
+    <segment id="40">, porém</segment>
+    <segment id="41">porém, a equipe carioca está à frente</segment>
+    <segment id="42">, com 23% contra 15% de corintianos.</segment>
+    <segment id="43">SEM ALTERAÇÃO</segment>
+    <segment id="44">Os dois títulos de Brasileiro conquistados desde a última pesquisa pelo Corinthians não alteraram de forma significativa a preferência dos torcedores.</segment>
+    <segment id="45">Os índices dos dois clubes mais populares no último levantamento</segment>
+    <segment id="46">, realizada de 29 a 30 de janeiro</segment>
+    <segment id="47">, são iguais aos do Datafolha anterior</segment>
+    <segment id="48">, realizado de 3 a 5 de junho de 2014.</segment>
+    <segment id="49">Nos últimos anos não houve grande variação na porcentagem de torcedores de cada um dos 14 maiores clubes do país.</segment>
+    <segment id="50">Desde 2007 os índices apenas oscilam dentro da margem de erro.</segment>
+    <segment id="51">No limite da margem de erro</segment>
+    <segment id="52">, São Paulo</segment>
+    <segment id="53">, Palmeiras</segment>
+    <segment id="54">, Vasco e Cruzeiro estão tecnicamente empatados na terceira posição.</segment>
+    <segment id="55">A equipe do Morumbi conta com a preferência de 8% dos torcedores brasileiros</segment>
+    <segment id="56">, seguida pelo time alviverde</segment>
+    <segment id="57">, com 6%.</segment>
+    <segment id="58">Vasco e Cruzeiro estão logo atrás</segment>
+    <segment id="59">, com 4%.</segment>
+    <segment id="60">Grêmio (3%)</segment>
+    <segment id="61">, Santos (3%)</segment>
+    <segment id="62">, Inter (3%) e Atlético-MG (2%) vêm na sequência.</segment>
+    <segment id="63">Botafogo</segment>
+    <segment id="64">, Fluminense</segment>
+    <segment id="65">, Bahia e Vitória têm 1% cada.</segment>
+    <segment id="66">Os demais times citados somam juntos 8%</segment>
+    <segment id="67">, sendo que 22% disseram não torcer para nenhum time.</segment>
+    <segment id="68">TorcidasMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

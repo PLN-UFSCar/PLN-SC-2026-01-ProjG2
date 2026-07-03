@@ -1,0 +1,180 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Analise a seção de laticínios de qualquer supermercado e você encontrará fileiras e fileiras de produtos com diferentes níveis de gordura.</segment>
+    <segment id="2">Sem gordura</segment>
+    <segment id="3">, com pouca gordura</segment>
+    <segment id="4">, integral: qual é a opção mais saudável?</segment>
+    <segment id="5">Se você consultar as diretrizes dietéticas dos Estados Unidos ou autoridades de saúde</segment>
+    <segment id="6">comocomo a American Heart Association ou a OMS (Organização Mundial da Saúde)</segment>
+    <segment id="7">, a resposta é clara: escolha uma versão sem gordura ou com baixo teor de gordura.</segment>
+    <segment id="8">Estudos recentes sobre os efeitos da gordura láctea não encontraram nenhum benefício em priorizar versões com baixo teor de gordura em relação às integrais - The New York</segment>
+    <segment id="9">TimesEssa recomendação</segment>
+    <segment id="10">sese baseia na ideia de que os produtos lácteos integrais são ricos em gorduras saturadas</segment>
+    <segment id="11">, portanto</segment>
+    <segment id="12">, escolher versões com menor teor de gordura pode reduzir o risco de doenças cardíacas</segment>
+    <segment id="13">, diz Dariush Mozaffarian</segment>
+    <segment id="14">, cardiologista e professor de medicina da Universidade Tufts.</segment>
+    <segment id="15">Mas essa orientação remonta a 1980</segment>
+    <segment id="16">, quando a primeira edição das Diretrizes Dietéticas para Americanos foi publicada</segment>
+    <segment id="17">, diz ele.</segment>
+    <segment id="18">Desde então</segment>
+    <segment id="19">, a maioria dos estudos sobre os efeitos da gordura láctea na saúde não encontrou nenhum benefício em priorizar versões com baixo teor de gordura em relação às integrais</segment>
+    <segment id="20">, diz Mozaffarian.</segment>
+    <segment id="21">O que parece ser mais importante do que o nível de gordura</segment>
+    <segment id="22">, acrescenta ele</segment>
+    <segment id="23">, é qual produto lácteo você escolhe em primeiro lugar.</segment>
+    <segment id="24">Veja imagens da avaliação de queijo ralado feita pela FolhaMais    novamente         de   de  de  representando</segment>
+    <segment id="25">um  O QUE</segment>
+    <segment id="26">A PESQUISA SUGERE</segment>
+    <segment id="27">Em estudos que pesquisaram as dietas das pessoas e acompanharam sua saúde ao longo de muitos anos</segment>
+    <segment id="28">, os pesquisadores encontraram associações entre o consumo de laticínios e menores riscos de certas condições</segment>
+    <segment id="29">, como</segment>
+    <segment id="30">como pressão alta</segment>
+    <segment id="31">, doenças cardiovasculares e diabetes tipo 2</segment>
+    <segment id="32">, diz Mozaffarian.</segment>
+    <segment id="33">Esses benefícios</segment>
+    <segment id="34">, acrescenta ele</segment>
+    <segment id="35">, muitas vezes estavam presentes independentemente de as pessoas escolherem iogurte</segment>
+    <segment id="36">, queijo ou leite com teor reduzido de gordura ou integral.</segment>
+    <segment id="37">E embora</segment>
+    <segment id="38">embora os produtos lácteos integrais tenham mais calorias</segment>
+    <segment id="39">, estudos descobriram que aqueles que os consomem não têm mais probabilidade de ganhar peso.</segment>
+    <segment id="40">Em um estudo publicado em 2018</segment>
+    <segment id="41">, por exemplo</segment>
+    <segment id="42">, pesquisadores acompanharam 136 mil adultos de 21 países por nove anos.</segment>
+    <segment id="43">Eles descobriram que</segment>
+    <segment id="44">, durante o período do estudo</segment>
+    <segment id="45">, aqueles que consumiam duas ou mais porções de laticínios por dia tinham 22% menos probabilidade de desenvolver doenças cardiovasculares e 17% menos probabilidade de morrer do que aqueles que não consumiam laticínios.</segment>
+    <segment id="46">Notavelmente</segment>
+    <segment id="47">, aqueles que consumiam níveis mais altos de gordura saturada dos laticínios não tinham mais probabilidade de desenvolver doenças cardíacas ou morrer.</segment>
+    <segment id="48">Cuide-seCiência</segment>
+    <segment id="49">, hábitos e prevenção</segment>
+    <segment id="50">numa newsletter para a sua saúde e bem-estarCarregando...</segment>
+    <segment id="51">Em outra análise ampla</segment>
+    <segment id="52">, também publicada em 2018</segment>
+    <segment id="53">, os pesquisadores reuniram os resultados de 16 estudos envolvendo mais de 63 mil adultos.</segment>
+    <segment id="54">Eles descobriram que</segment>
+    <segment id="55">, ao longo de uma média de nove anos</segment>
+    <segment id="56">, aqueles que tinham níveis mais altos de gorduras lácteas no sangue tinham 29% menos probabilidade do que aqueles com níveis mais baixos de desenvolver diabetes tipo 2.</segment>
+    <segment id="57">Essa descoberta sugere que pode haver um benefício em consumir gordura láctea em vez de evitá-la</segment>
+    <segment id="58">, afirma Mozaffarian.</segment>
+    <segment id="59">É claro que esses estudos não podem provar que os próprios produtos lácteos reduzem certos riscos de doenças.</segment>
+    <segment id="60">Isso exigiria ensaios clínicos de longo prazo</segment>
+    <segment id="61">, que não foram realizados</segment>
+    <segment id="62">, afirma o professor.</segment>
+    <segment id="63">Mas ensaios de curto prazo mostraram que o consumo de produtos lácteos</segment>
+    <segment id="64">, incluindo laticínios integrais</segment>
+    <segment id="65">, reduziu a pressão arterial dos participantes e não aumentou o peso ou os níveis de LDL</segment>
+    <segment id="66">, ou "colesterol ruim" —o que sugere novamente que a gordura láctea não é prejudicial à saúde do coração.</segment>
+    <segment id="67">POR QUE</segment>
+    <segment id="68">AS GORDURAS LÁCTEAS PODEM SER BOAS</segment>
+    <segment id="69">PARA VOCÊ  Existem várias explicações possíveis sobre por que as gorduras lácteas podem não ser tão prejudiciais</segment>
+    <segment id="70">comocomo</segment>
+    <segment id="71">sese pensava anteriormente —e podem até ser saudáveis</segment>
+    <segment id="72">, diz Ronald Krauss</segment>
+    <segment id="73">, professor de pediatria e medicina da Universidade da Califórnia</segment>
+    <segment id="74">, São Francisco.</segment>
+    <segment id="75">Entre os vários tipos de gorduras saturadas encontradas nos alimentos</segment>
+    <segment id="76">, os produtos lácteos contêm certos tipos que parecem ser neutros ou benéficos para a saúde</segment>
+    <segment id="77">, diz Krauss</segment>
+    <segment id="78">, incluindo aqueles associados a riscos reduzidos de diabetes tipo 2 e doenças coronárias.</segment>
+    <segment id="79">A gordura do leite também é naturalmente embalada em uma estrutura única chamada membrana de glóbulo de gordura do leite</segment>
+    <segment id="80">, afirma Marie-Caroline Michalski</segment>
+    <segment id="81">, diretora de pesquisa do Instituto Nacional de Pesquisa Agrícola</segment>
+    <segment id="82">, Alimentar e Ambiental da França.</segment>
+    <segment id="83">Componentes dessa estrutura podem ajudar a ligar o colesterol no trato digestivo</segment>
+    <segment id="84">, melhorando potencialmente os níveis no sangue.</segment>
+    <segment id="85">Também está</segment>
+    <segment id="86">sese tornando claro que certos tipos de alimentos lácteos podem ser melhores para você do que outros</segment>
+    <segment id="87">, diz Michalski.  Iogurte e queijo</segment>
+    <segment id="88">, por exemplo</segment>
+    <segment id="89">, parecem estar mais associados a benefícios para a saúde.</segment>
+    <segment id="90">Isso pode ser</segment>
+    <segment id="91">porque</segment>
+    <segment id="92">porque ambos são alimentos fermentados que podem fornecer boas bactérias para o seu intestino</segment>
+    <segment id="93">, diz a diretora.</segment>
+    <segment id="94">Eles também contêm outras moléculas benéficas produzidas durante a fermentação</segment>
+    <segment id="95">, incluindo a vitamina K</segment>
+    <segment id="96">, que está relacionada à saúde do coração</segment>
+    <segment id="97">, afirma Mozaffarian.</segment>
+    <segment id="98">Queijos mais duros</segment>
+    <segment id="99">, como</segment>
+    <segment id="100">como Cheddar e Parmesão</segment>
+    <segment id="101">, também parecem resultar em uma absorção mais gradual de gorduras no sangue do que queijos mais macios e manteiga</segment>
+    <segment id="102">, o que pode ajudar você a</segment>
+    <segment id="103">sese sentir mais saciado por mais tempo</segment>
+    <segment id="104">, diz Michalski.</segment>
+    <segment id="105">Conheça exemplares da nova geração de queijos veganosMais    novamente         de   de  de  representando um  CONSELHOS PARA A SEÇÃO DE LATICÍNIOS  Penny Kris-Etherton</segment>
+    <segment id="106">, professora emérita de ciências nutricionais na Universidade Estadual da Pensilvânia</segment>
+    <segment id="107">, diz que um painel independente de especialistas em nutrição está revisando atualmente as evidências sobre</segment>
+    <segment id="108">comocomo o consumo de gordura saturada afeta o risco de doenças cardiovasculares.</segment>
+    <segment id="109">E isso poderia levar a futuras mudanças nas recomendações de alimentos lácteos nos Estados Unidos</segment>
+    <segment id="110">, diz ela.</segment>
+    <segment id="111">Até lá</segment>
+    <segment id="112">, ela acredita que é melhor buscar três porções de laticínios por dia</segment>
+    <segment id="113">comocomo parte de uma dieta equilibrada</segment>
+    <segment id="114">, como</segment>
+    <segment id="115">como é recomendado pelas diretrizes dietéticas atuais.</segment>
+    <segment id="116">Com base nos dados mais recentes sobre gordura láctea</segment>
+    <segment id="117">, no entanto</segment>
+    <segment id="118">, provavelmente está tudo bem</segment>
+    <segment id="119">sese uma ou duas dessas porções forem de leite integral</segment>
+    <segment id="120">, iogurte ou queijo</segment>
+    <segment id="121">, diz, observando que mais do que isso pode resultar em muitas calorias.</segment>
+    <segment id="122">Mozaffarian sugere incorporar pelo menos uma ou duas porções de iogurte e queijo por dia</segment>
+    <segment id="123">, dados os benefícios à saúde desses alimentos —de preferência versões sem açúcar para evitar o açúcar adicionado.</segment>
+    <segment id="124">Quanto ao teor de gordura que você deve escolher</segment>
+    <segment id="125">,</segment>
+    <segment id="126">"escolha o que você gosta"</segment>
+    <segment id="127">, diz Mozaffarian.</segment>
+    <segment id="128">Alguns estudos sugerem que pode haver um benefício em consumir produtos lácteos integrais</segment>
+    <segment id="129">, "mas</segment>
+    <segment id="130">mas eu não acho que as evidências sejam convincentes o suficiente ainda para tornar isso uma recomendação dietética"</segment>
+    <segment id="131">, acrescenta ele.</segment>
+    <segment id="132">Michalski prefere consumir iogurte integral sem adição de açúcar</segment>
+    <segment id="133">;</segment>
+    <segment id="134">quando você remove as gorduras naturais</segment>
+    <segment id="135">, perde algumas vitaminas</segment>
+    <segment id="136">, como</segment>
+    <segment id="137">como as vitaminas</segment>
+    <segment id="138">A e D, além do "prazer" e da boa textura</segment>
+    <segment id="139">, diz ela.</segment>
+    <segment id="140">Em vez de manteiga</segment>
+    <segment id="141">, Kris-Etherton incentiva as pessoas a usarem óleos vegetais</segment>
+    <segment id="142">comocomo azeite</segment>
+    <segment id="143">, canola ou óleos de soja</segment>
+    <segment id="144">; ou margarinas feitas a partir dos mesmos óleos.</segment>
+    <segment id="145">Manteiga e creme parecem aumentar os níveis de colesterol no sangue mais do que outras fontes de gordura láctea</segment>
+    <segment id="146">, diz Krauss</segment>
+    <segment id="147">, e ele recomenda limitá-los</segment>
+    <segment id="148">sese você tiver colesterol alto.</segment>
+    <segment id="149">Embora não haja boas evidências de que produtos lácteos com baixo teor de gordura sejam uma escolha mais saudável para todos</segment>
+    <segment id="150">, diz Krauss</segment>
+    <segment id="151">, as pessoas respondem de maneira diferente a diferentes alimentos.</segment>
+    <segment id="152">Se você tiver colesterol alto no sangue</segment>
+    <segment id="153">, acrescenta</segment>
+    <segment id="154">, vale a pena discutir suas escolhas de laticínios com seu médico.</segment>
+  </rst>
+</analysis>

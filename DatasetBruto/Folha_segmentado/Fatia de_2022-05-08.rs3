@@ -1,0 +1,175 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Brasil deverá ter</segment>
+    <segment id="2">, em 2030</segment>
+    <segment id="3">, quase 30% de sua população adulta com obesidade.</segment>
+    <segment id="4">A projeção foi feita pela World Obesity Federation</segment>
+    <segment id="5">, uma organização internacional voltada para redução</segment>
+    <segment id="6">, prevenção e tratamento da obesidade.</segment>
+    <segment id="7">Atualmente</segment>
+    <segment id="8">, dados da Vigitel (Vigilância de Fatores de Risco e Proteção para Doenças Crônicas por Inquérito Telefônico) de 2021</segment>
+    <segment id="9">, uma pesquisa feita pelo Ministério da Saúde</segment>
+    <segment id="10">, indicam que 22% da população brasileira adulta apresenta obesidade.</segment>
+    <segment id="11">A condição é calculada por meio do IMC (índice de massa corporal)</segment>
+    <segment id="12">, que consiste na divisão do peso pela altura ao quadrado.</segment>
+    <segment id="13">Quando o resultado fica entre 25 e 30</segment>
+    <segment id="14">, considera-</segment>
+    <segment id="15">sese que há sobrepeso —condição que atinge 57% da população adulta no país</segment>
+    <segment id="16">, segundo a Vigitel.</segment>
+    <segment id="17">Se o IMC for maior que 30</segment>
+    <segment id="18">, o caso</segment>
+    <segment id="19">caso é categorizado</segment>
+    <segment id="20">comocomo obesidade.</segment>
+    <segment id="21">Iniciativa da World Obesity Federation busca retratar pessoas com obesidade em situações do dia a dia</segment>
+    <segment id="22">, como</segment>
+    <segment id="23">como cozinhar</segment>
+    <segment id="24">, fazer exercícios e fazer compras</segment>
+    <segment id="25">, em vez de poses estigmatizadas</segment>
+    <segment id="26">, como</segment>
+    <segment id="27">como consumindo fast foood ou com enquadramento na região da barriga ou nos quadris</segment>
+    <segment id="28">, por exemplo - World Obesity FederationOs números da World Obesity Federation também apontaram que a condição pode ser uma realidade para mais de 1 bilhão de pessoas em todo o mundo até 2030.</segment>
+    <segment id="29">Para efeito de comparação</segment>
+    <segment id="30">, em 2010 o número era aproximadamente a metade.</segment>
+    <segment id="31">"</segment>
+    <segment id="32">Alguns fatores relativamente conhecidos para obesidade estão impactando países que anteriormente não tinham altas taxas</segment>
+    <segment id="33">, como</segment>
+    <segment id="34">como um largo acesso a comidas muito industrializadas e de alimentos refinados"</segment>
+    <segment id="35">, diz Carlos Schiavon</segment>
+    <segment id="36">, cirurgião bariátrico e coordenador da ONG Obesidade Brasil.</segment>
+    <segment id="37">A federação utilizou dados já consolidados pela OMS (Organização Mundial da Saúde) e do Banco Mundial</segment>
+    <segment id="38">, além de realizar as estimativas por meio do histórico de obesidade dos países.</segment>
+    <segment id="39">No Brasil</segment>
+    <segment id="40">, caso</segment>
+    <segment id="41">caso se</segment>
+    <segment id="42">se confirme a projeção para 2030</segment>
+    <segment id="43">, o país vai</segment>
+    <segment id="44">sese tornar a quarta nação com maior número absoluto de pessoas com excesso de peso no mundo</segment>
+    <segment id="45">, atrás somente dos Estados Unidos</segment>
+    <segment id="46">, da China e da Índia.</segment>
+    <segment id="47">A possível prevalência de 30% da condição em toda a população adulta brasileira foi categorizada</segment>
+    <segment id="48">comocomo alta pela federação.</segment>
+    <segment id="49">Outras regiões</segment>
+    <segment id="50">, no entanto</segment>
+    <segment id="51">, chegam a percentuais muito maiores</segment>
+    <segment id="52">, como</segment>
+    <segment id="53">como a Samoa Americana</segment>
+    <segment id="54">, que, em oito anos</segment>
+    <segment id="55">, poderá ter quase 70% da sua população com obesidade.  "</segment>
+    <segment id="56">O índice no Brasil é muito alto.</segment>
+    <segment id="57">Comparativamente</segment>
+    <segment id="58">, está um pouco melhor</segment>
+    <segment id="59">, masmas continua sendo muito alto"</segment>
+    <segment id="60">, afirma Schiavon.</segment>
+    <segment id="61">As estimativas também conseguiram identificar a diferença em relação a gênero.</segment>
+    <segment id="62">No total</segment>
+    <segment id="63">, conforme a projeção</segment>
+    <segment id="64">, a maior parcela de pessoas com obesidade no país seriam as mulheres</segment>
+    <segment id="65">, algo já reconhecido pela literatura médica.  "</segment>
+    <segment id="66">Se formos ver o número de cirurgias bariátricas</segment>
+    <segment id="67">, são três mulheres operadas para cada homem.</segment>
+    <segment id="68">Então realmente há uma incidência e prevalência maior em mulheres comparada a homens" afirma Ricardo Cohen</segment>
+    <segment id="69">, coordenador do Centro de Obesidade e Diabetes do Hospital Alemão Oswaldo Cruz.</segment>
+    <segment id="70">Segundo ele</segment>
+    <segment id="71">, o quadro pode ter relação com aspectos genéticos.</segment>
+    <segment id="72">Isso ainda está sendo investigado e pode ser de extrema importância para prevenção e tratamento da condição</segment>
+    <segment id="73">, já que</segment>
+    <segment id="74">, segundo o médico</segment>
+    <segment id="75">, "sabemos que o grande fundamento da obesidade é genético".</segment>
+    <segment id="76">Os problemas de ter um maior número de pessoas obesas impactam diferentes facetas da sociedade</segment>
+    <segment id="77">, como</segment>
+    <segment id="78">como no desenvolvimento de diabetes</segment>
+    <segment id="79">, hipertensão e colesterol alto.</segment>
+    <segment id="80">Esse cenário reflete diretamente na situação econômica dos países</segment>
+    <segment id="81">, tanto em relação aos gastos no tratamento das doenças</segment>
+    <segment id="82">comocomo na perda de capacidade produtiva.</segment>
+    <segment id="83">Nesse caso</segment>
+    <segment id="84">caso, a projeção realizada pela organização também</segment>
+    <segment id="85">sese debruçou sobre esse ponto.</segment>
+    <segment id="86">Para entender esses efeitos</segment>
+    <segment id="87">, os pesquisadores observaram os custos diretos e os indiretos que o excesso de peso acarreta.</segment>
+    <segment id="88">Aqueles chamados diretos dizem respeito às despesas tidas no tratamento da obesidade e das doenças decorrentes dela</segment>
+    <segment id="89">, como</segment>
+    <segment id="90">como diabetes</segment>
+    <segment id="91">, masmas também às relacionadas ao processo de busca de serviço de saúde</segment>
+    <segment id="92">, como</segment>
+    <segment id="93">como quando ocorre viagens para atendimento médico.</segment>
+    <segment id="94">Os custos indiretos referem-</segment>
+    <segment id="95">sese à perda de capacidade produtiva das pessoas obesas e às mortes prematuras relacionadas à condição de excesso de peso.</segment>
+    <segment id="96">Com esses pontos definidos</segment>
+    <segment id="97">, foi mensurado que o Brasil iria mais do que quadruplicar seus custos envolvendo sobrepeso e obesidade.</segment>
+    <segment id="98">Estima-</segment>
+    <segment id="99">sese que o custo total alcançou US$ 39 bilhões em 2019.</segment>
+    <segment id="100">A projeção é que subiria para US$ 181 bilhões em 2060.</segment>
+    <segment id="101">Além dos adultos</segment>
+    <segment id="102">, a projeção observou a obesidade em crianças e adolescentes</segment>
+    <segment id="103">, que deve ter um incremento de quase 100 milhões entre 2020 e 2030 em todo o planeta.</segment>
+    <segment id="104">Para o Brasil</segment>
+    <segment id="105">, o estudo encontrou que o aumento de crianças e adolescentes obesas entre 2010 e 2030 deve ser de 3</segment>
+    <segment id="106">,8% a cada ano.</segment>
+    <segment id="107">Esse quadro</segment>
+    <segment id="108">, segundo a federação</segment>
+    <segment id="109">, é categorizado</segment>
+    <segment id="110">comocomo muito alto e deve ocasionar mais de 7 milhões de jovens obesos em oito anos.</segment>
+    <segment id="111">"</segment>
+    <segment id="112">Um problema é que essas crianças e adolescentes com obesidade têm uma grande chance de também serem adultos obesos.</segment>
+    <segment id="113">Isso é muito preocupante</segment>
+    <segment id="114">porque</segment>
+    <segment id="115">porque o futuro já estaria comprado</segment>
+    <segment id="116">, ou seja</segment>
+    <segment id="117">, já teríamos números ruins"</segment>
+    <segment id="118">, diz Schiavon.</segment>
+    <segment id="119">Tratamento e prevenção</segment>
+    <segment id="120">A obesidade</segment>
+    <segment id="121">, assim</segment>
+    <segment id="122">comocomo outras doenças</segment>
+    <segment id="123">, tem modos diferentes de realizar o tratamento e a prevenção</segment>
+    <segment id="124">, masmas isso ainda gera certa confusão.</segment>
+    <segment id="125">Cohen explica que uma das principais interfaces para prevenção da obesidade é identificar os fatores genéticos que estão associados com ela</segment>
+    <segment id="126">, algo ainda sendo investigado pela medicina atual.</segment>
+    <segment id="127">Observando esses aspectos</segment>
+    <segment id="128">, seria possível já direcionar um estilo de vida específico para alguém que tem tendência a ser obeso a fim de evitar que isso venha a acontecer.</segment>
+    <segment id="129">Iniciativa contra estigma na obesidadeMais    novamente         de   de  de  representando um  "</segment>
+    <segment id="130">Prevenção da obesidade e tratamento são coisas totalmente diferentes.</segment>
+    <segment id="131">Atividade física e orientação dietética são fundamentais para prevenção da obesidade</segment>
+    <segment id="132">, masmas não para tratamento.</segment>
+    <segment id="133">O tratamento tem sempre esse binômio</segment>
+    <segment id="134">, faça mais atividade física e coma melhor</segment>
+    <segment id="135">, junto com uma intervenção medicamentosa ou cirúrgica"</segment>
+    <segment id="136">, afirma.</segment>
+    <segment id="137">No entanto</segment>
+    <segment id="138">, o médico afirma que ainda há um problema em identificar a necessidade de realizar esses mecanismos de tratamento —seja com remédio ou com cirurgia bariátrica—</segment>
+    <segment id="139">porque</segment>
+    <segment id="140">porque</segment>
+    <segment id="141">, às vezes</segment>
+    <segment id="142">, não se</segment>
+    <segment id="143">se encara a gravidade da doença.  "</segment>
+    <segment id="144">A obesidade tem que ser levada a sério.</segment>
+    <segment id="145">A Covid é um exemplo: mortalidade</segment>
+    <segment id="146">, uso de respiradores e internação na UTI estão associados diretamente com a obesidade.</segment>
+    <segment id="147">Não adianta somente políticas de educação.</segment>
+    <segment id="148">Necessitamos de tratamentos eficazes e possibilitar esse acesso a população"</segment>
+    <segment id="149">, conclui.</segment>
+  </rst>
+</analysis>

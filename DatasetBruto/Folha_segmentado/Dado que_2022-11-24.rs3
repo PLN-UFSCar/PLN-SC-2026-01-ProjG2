@@ -1,0 +1,156 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente do PL</segment>
+    <segment id="2">, Valdemar Costa Neto</segment>
+    <segment id="3">, expôs nesta quarta-feira (23) as fragilidades na argumentação para pedir a anulação de votos da eleição apenas no segundo turno</segment>
+    <segment id="4">, quando Jair Bolsonaro foi derrotado para Lula na disputa presidencial</segment>
+    <segment id="5">, masmas não no primeiro turno</segment>
+    <segment id="6">, quando seu partido elegeu a maior bancada de deputados federais na Câmara.</segment>
+    <segment id="7">Em entrevista à imprensa</segment>
+    <segment id="8">, Valdemar citou a participação até de um "gênio lá de Uberlândia" para ajudar na fiscalização feita pelo PL</segment>
+    <segment id="9">, masmas disse que a equipe só conseguiu encontrar "algo palpável" no segundo turno.</segment>
+    <segment id="10">Os dados usados pelo partido para questionar os votos nessa etapa</segment>
+    <segment id="11">, porém</segment>
+    <segment id="12">porém,</segment>
+    <segment id="13">sese repetem no primeiro turno e estão disponíveis no próprio site do TSE (Tribunal Superior Eleitoral)</segment>
+    <segment id="14">, podendo ser obtidos em uma consulta de menos de 1 minuto.</segment>
+    <segment id="15">O presidente do TSE</segment>
+    <segment id="16">, Alexandre de Moraes</segment>
+    <segment id="17">, decidiu na noite desta quarta rejeitar a ação do PL e condenar a coligação ao pagamento de multa de quase R$ 23 milhões por litigância de má-fé.</segment>
+    <segment id="18">O presidente do PL</segment>
+    <segment id="19">, Valdemar Costa Neto</segment>
+    <segment id="20">, em entrevista para anunciar pedido de verificação de resultado das eleições - Pedro Ladeira/FolhapressComo mostrou a Folha</segment>
+    <segment id="21">, diferentemente do apontado no relatório do PL</segment>
+    <segment id="22">, a limitação relatada para questionar as urnas antigas não impede a identificação e a fiscalização das mesmas</segment>
+    <segment id="23">, conforme apontam especialistas em computação.</segment>
+    <segment id="24">Questionado por jornalistas na tarde desta quarta</segment>
+    <segment id="25">, Valdemar afirmou: "</segment>
+    <segment id="26">Nós contratamos uma empresa de homens altamente qualificados para poder acompanhar as eleições</segment>
+    <segment id="27">, e eles</segment>
+    <segment id="28">, por coincidência e talvez por tecnologia</segment>
+    <segment id="29">, eles conseguiram atingir esse objetivo de conseguir algo palpável no segundo turno.</segment>
+    <segment id="30">No primeiro eles não pegaram".  "</segment>
+    <segment id="31">No segundo turno eles aumentaram a equipe</segment>
+    <segment id="32">, trouxeram um gênio lá de Uberlândia e que ajudou muito a gente.</segment>
+    <segment id="33">Aí ele descobriu esse problema que o nosso pessoal não tinha descoberto.</segment>
+    <segment id="34">Então nós fomos obrigados a colocar isso aí"</segment>
+    <segment id="35">, completou.</segment>
+    <segment id="36">O PL pediu na ação a invalidação de votos depositados em urnas de modelos anteriores a 2020 e diz que</segment>
+    <segment id="37">, com isso</segment>
+    <segment id="38">, haveria uma vantagem a Jair Bolsonaro na contagem final.</segment>
+    <segment id="39">O partido afirma que</segment>
+    <segment id="40">, no log das urnas antigas</segment>
+    <segment id="41">, na coluna onde deveria constar um código de identificação único de cada urna</segment>
+    <segment id="42">, há um outro número que</segment>
+    <segment id="43">sese repete e que</segment>
+    <segment id="44">, sem esse código</segment>
+    <segment id="45">, não seria possível fazer a vinculação do arquivo à sua urna física correspondente.</segment>
+    <segment id="46">Apesar de a situação relatada ter ocorrido nos logs de ambos os turnos</segment>
+    <segment id="47">, o PL pediu a invalidação apenas de votos do segundo turno.</segment>
+    <segment id="48">No vídeo abaixo</segment>
+    <segment id="49">, é possível ver a consulta ao boletim e ao log da urna de duas seções eleitorais que usaram modelos de urna anteriores ao de 2020.</segment>
+    <segment id="50">Com a opção "primeiro turno" selecionada</segment>
+    <segment id="51">, é possível ver que</segment>
+    <segment id="52">, em ambas</segment>
+    <segment id="53">, o código "67305985"</segment>
+    <segment id="54">sese repete na quarta coluna.</segment>
+    <segment id="55">Também é possível notar que há outros dados que permitem identificar a urna</segment>
+    <segment id="56">, como</segment>
+    <segment id="57">como seção e zona eleitoral.</segment>
+    <segment id="58">O log das urnas funciona</segment>
+    <segment id="59">comocomo uma espécie de diário de bordo ou ata daquela urna.</segment>
+    <segment id="60">Nele são registrados todos os eventos que acontecem nela:</segment>
+    <segment id="61">comocomo ter sido ligada</segment>
+    <segment id="62">, desligada</segment>
+    <segment id="63">, sese ela apresenta baixa carga de bateria ou</segment>
+    <segment id="64">sese registra uma eventual falha.  Se organizado numa planilha</segment>
+    <segment id="65">, a composição de um log da urna seria com várias linhas</segment>
+    <segment id="66">, sendo cada uma delas um desses eventos</segment>
+    <segment id="67">, e junto de cada evento aparecem algumas colunas —uma delas é esse código identificador da urna.</segment>
+    <segment id="68">Neste ponto</segment>
+    <segment id="69">, a resposta de Valdemar destoa do argumento utilizado pelo PL para responder à determinação do presidente do TSE</segment>
+    <segment id="70">, Alexandre de Moraes</segment>
+    <segment id="71">, de que o partido deveria ter adicionado em sua ação um pedido de análise também a respeito do primeiro turno do pleito</segment>
+    <segment id="72">, já que as urnas foram as mesmas.</segment>
+    <segment id="73">Nesta quarta</segment>
+    <segment id="74">, o partido enviou ao TSE argumentos para insistir com a solicitação original feita na véspera.</segment>
+    <segment id="75">Moraes havia determinado 24 horas de prazo</segment>
+    <segment id="76">para que</segment>
+    <segment id="77">para que a o PL fizesse um aditamento.</segment>
+    <segment id="78">"</segment>
+    <segment id="79">Estender a verificação extraordinária pretendida também para o primeiro turno parece ser medida açodada</segment>
+    <segment id="80">, especialmente</segment>
+    <segment id="81">porque</segment>
+    <segment id="82">porque</segment>
+    <segment id="83">, como</segment>
+    <segment id="84">como efeito prático</segment>
+    <segment id="85">, traria a própria inviabilidade da medida ora pretendida</segment>
+    <segment id="86">, em razão da necessidade de fazer incluir no polo passivo da ação todos os milhares de candidatos que disputaram algum cargo político nessas eleições</segment>
+    <segment id="87">, bem como</segment>
+    <segment id="88">como seus partidos</segment>
+    <segment id="89">, coligações e federações"</segment>
+    <segment id="90">, alegou o PL.</segment>
+    <segment id="91">Entre os pontos levantados pelo partido na peça está também menção à equipe técnica do Instituto Voto Legal</segment>
+    <segment id="92">, a auditoria contratada pelo partido.</segment>
+    <segment id="93">"</segment>
+    <segment id="94">De acordo com a equipe técnica do IVL</segment>
+    <segment id="95">, o log é o mesmo.</segment>
+    <segment id="96">O log é um só.</segment>
+    <segment id="97">O log começa no dia em que liga a urna e termina no dia em que desliga a urna"</segment>
+    <segment id="98">, consta no documento.</segment>
+    <segment id="99">Conforme explica o professor de engenharia da computação Marcos Simplício</segment>
+    <segment id="100">, da Escola Politécnica da USP e do Larc (Laboratório de Arquitetura e Redes de Computadores)</segment>
+    <segment id="101">, de fato há apenas um log de urna para os dois turnos nos casos em que a mesma urna é usada nos dois turnos.</segment>
+    <segment id="102">Apesar de os logs das urnas serem</segment>
+    <segment id="103">, em muitos casos</segment>
+    <segment id="104">, portanto</segment>
+    <segment id="105">, os mesmos arquivos para o primeiro e segundo turno e estarem disponíveis no site do TSE</segment>
+    <segment id="106">, o PL questionou apenas as urnas usadas no segundo turno.</segment>
+    <segment id="107">Além disso</segment>
+    <segment id="108">, como</segment>
+    <segment id="109">como apontaram especialistas em computação consultados pela reportagem</segment>
+    <segment id="110">, ao contrário do que afirma o relatório</segment>
+    <segment id="111">, há outras maneiras de vincular o log com a urna.</segment>
+    <segment id="112">Uma delas é fazer tal vinculação por meio dos demais dados que constam no log da urna</segment>
+    <segment id="113">, como</segment>
+    <segment id="114">como o número da zona e da seção eleitoral</segment>
+    <segment id="115">, além do código de carga da urna.</segment>
+    <segment id="116">Todas essas informações constam tanto no boletim de urna quanto no log</segment>
+    <segment id="117">, que estão disponíveis no site do TSE.</segment>
+    <segment id="118">Além disso</segment>
+    <segment id="119">, os especialistas apontam o fato de os arquivos da urna serem assinados digitalmente</segment>
+    <segment id="120">comocomo uma garantia ainda mais robusta</segment>
+    <segment id="121">, ponto que a nova peça do PL também questiona.</segment>
+    <segment id="122">Há ainda uma terceira forma que demandaria mais trabalho</segment>
+    <segment id="123">, seria a verificação in loco das urnas por amostragem.</segment>
+    <segment id="124">Nesta quarta</segment>
+    <segment id="125">, ao negar a ação do PL e impor a multa</segment>
+    <segment id="126">, Moraes afirmou que a iniciativa encampada pelo PL teve "finalidade de tumultuar o próprio regime democrático brasileiro".</segment>
+    <segment id="127">Valdemar será alvo de investigações no STF (Supremo Tribunal Federal)</segment>
+    <segment id="128">, no inquérito das milícias digitais</segment>
+    <segment id="129">, e no TSE.</segment>
+    <segment id="130">Relembre declarações de tom golpista de BolsonaroMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

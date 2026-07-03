@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Ivete Sangalo vai fazer show nos EUA</segment>
+    <segment id="2">A cantora serÃ¡ a Ãºnica mulher brasileira a cantar no Rock In Rio Las Vegas
+Figurinha clÃ¡ssica do Rock In Rio</segment>
+    <segment id="3">, a baiana Ivete Sangalo vai cantar na ediÃ§Ã£o de Las Vegas de um dos maiores festivais de mÃºsica do mundo.</segment>
+    <segment id="4">Depoir de participar dos festivais Rock in Rio no Rio de Janeiro e em Portugal</segment>
+    <segment id="5">, Veveta tambÃ©m participa da festa nos Estados Unidos</segment>
+    <segment id="6">, dia 15 de maio.</segment>
+    <segment id="7">Ela serÃ¡ a Ãºnica mulher brasileira a</segment>
+    <segment id="8">sese apresentar na ediÃ§Ã£o norte-americana do evento</segment>
+    <segment id="9">, alÃ©m dela o Brasil tambÃ©m vai exportar a banda Sepultura.</segment>
+    <segment id="10">Ivete jÃ¡</segment>
+    <segment id="11">sese apresentou outras vezes na terra do tio San.</segment>
+    <segment id="12">Em 2010 a cantora gravou um DVD no Madison Square Garden</segment>
+    <segment id="13">, uma das maiores arenas de Nova York</segment>
+    <segment id="14">, alÃ©m de jÃ¡ ter passado pelo palco do Brazillian Day NY</segment>
+    <segment id="15">, uma festa organizada pela Globo Internacional para comemorar o Dia da IndependÃªncia do Brasil.</segment>
+  </rst>
+</analysis>

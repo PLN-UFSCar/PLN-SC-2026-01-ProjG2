@@ -1,0 +1,47 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Fácil de fazer</segment>
+    <segment id="2">, essa receita permite usar sorvete de diferentes sabores para rechear o pavê.</segment>
+    <segment id="3">Gelado e doce</segment>
+    <segment id="4">, serve para variar as sobremesas de festas e fim de semana.</segment>
+    <segment id="5">Pavê de sorvete - Treloso/Divulgação Ingredientes  Farofa    ½ xícara (chá) de leite em pó ½ xícara (chá) de castanha de caju picada   ½ xícara (chá) de açúcar</segment>
+    <segment id="6">Pavê    2 embalagens de bolacha waffer sabor chocolate   ½ litro de sorvete de morango    Cobertura    ½ tablete de chocolate meio amargo (90g) picado   1 embalagem de creme de leite (200g)</segment>
+    <segment id="7">Modo de Preparo</segment>
+    <segment id="8">Misture bem todos os ingredientes da farofa.</segment>
+    <segment id="9">Reserve.</segment>
+    <segment id="10">Numa forma refratária (pequena) cubra o fundo e as laterais com as bolachas   Cubra com uma camada de sorvete.</segment>
+    <segment id="11">Polvilhe com a farofa reservada.</segment>
+    <segment id="12">Coloque outra camada de bolacha e e cubra com sorvete.</segment>
+    <segment id="13">Para a cobertura</segment>
+    <segment id="14">Em uma panela</segment>
+    <segment id="15">, dissolva o chocolate em banho-maria.</segment>
+    <segment id="16">Espere esfriar para juntar o creme de leite</segment>
+    <segment id="17">, misturando bem.</segment>
+    <segment id="18">Cubra o pavê</segment>
+    <segment id="19">Leve ao congelador ou freezer.</segment>
+    <segment id="20">Retire um pouco antes de servir.</segment>
+    <segment id="21">Sirva com a farofa restante.</segment>
+  </rst>
+</analysis>

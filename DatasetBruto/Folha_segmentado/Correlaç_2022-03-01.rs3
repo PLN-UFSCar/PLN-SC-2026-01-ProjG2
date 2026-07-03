@@ -1,0 +1,98 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um dos grandes desafios da ciência sempre foi distinguir simples correlações entre dois fenômenos de relações de causa e efeito.</segment>
+    <segment id="2">É elementar na ciência saber que nem todas as correlações são causais.</segment>
+    <segment id="3">Até por isso</segment>
+    <segment id="4">, décadas atrás</segment>
+    <segment id="5">, um dos maiores epidemiologistas da história</segment>
+    <segment id="6">, Sir Austin Bradford Hill</segment>
+    <segment id="7">, publicou um texto com nove critérios que nos ajudam a distinguir correlações simples de relações causais.</segment>
+    <segment id="8">O Sir Hill é o mesmo que</segment>
+    <segment id="9">, ao lado do Sir Richard Doll</segment>
+    <segment id="10">, descobriu que o cigarro aumentava o risco de câncer de pulmão.</segment>
+    <segment id="11">É desse nível de cientista que estamos falando.</segment>
+    <segment id="12">Sepultadores paramentados enterram caixão no Cemitério Vila Formosa</segment>
+    <segment id="13">, em São Paulo- Mathilde Missioneiro - 27.abr.2021/FolhapressPois bem</segment>
+    <segment id="14">, há mais de um ano venho mostrando que existe uma correlação fortíssima e linear entre o percentual de votos obtidos pelo atual presidente nas últimas eleições e a mortalidade por Covid-19</segment>
+    <segment id="15">, utilizando dados oficiais das mais de 5.500 cidades brasileiras.</segment>
+    <segment id="16">O incômodo gráfico utiliza dados do Tribunal Superior Eleitoral e divide cada uma das cidades brasileiras em dez grupos</segment>
+    <segment id="17">, de acordo com o percentual de votos obtidos pelo atual presidente no segundo turno das eleições de 2018.</segment>
+    <segment id="18">No eixo vertical</segment>
+    <segment id="19">, o gráfico utiliza dados atualizados do Ministério da Saúde sobre a mortalidade acumulada por Covid-19 para cada grupo de 100 mil habitantes.</segment>
+    <segment id="20">​    Caso não houvesse nenhuma relação entre os votos obtidos pelo atual presidente e a mortalidade por Covid-19</segment>
+    <segment id="21">, a linha azul seria basicamente reta</segment>
+    <segment id="22">, obviamente com pequenas flutuações causadas pela variabilidade dos dados.</segment>
+    <segment id="23">No entanto</segment>
+    <segment id="24">, desde o início da pandemia</segment>
+    <segment id="25">, cada vez que rodamos essa análise</segment>
+    <segment id="26">, obtemos exatamente o mesmo resultado: quanto maior a votação do atual presidente</segment>
+    <segment id="27">, maior a mortalidade por Covid-19.</segment>
+    <segment id="28">Sempre que apresento esses dados</segment>
+    <segment id="29">, as reações são as mais variadas:</segment>
+    <segment id="30">O grupo mais radical</segment>
+    <segment id="31">, cujo guru acabou falecendo da doença que pregava não existir</segment>
+    <segment id="32">, e para a qual já existe vacina</segment>
+    <segment id="33">, parte imediatamente para o xingamento.</segment>
+    <segment id="34">Um segundo grupo adota um tom mais "professoral"</segment>
+    <segment id="35">, tentando me ensinar epidemiologia e as razões pelas quais essa análise</segment>
+    <segment id="36">é "equivocada".</segment>
+    <segment id="37">Um terceiro grupo adota um tom mais cauteloso</segment>
+    <segment id="38">, surpreendendo-</segment>
+    <segment id="39">sese com o estarrecedor resultado</segment>
+    <segment id="40">, e tentando compreender a relação.</segment>
+    <segment id="41">O quarto grupo já adota um tom mais indignado</segment>
+    <segment id="42">, simplesmente não conseguindo deixar impune o negacionismo que já matou familiares e amigos de todos os leitores dessa coluna.</segment>
+    <segment id="43">Obviamente que há muito espaço para os argumentos apresentados pelos grupos 2 e 3.</segment>
+    <segment id="44">A ciência vive de questionamentos.</segment>
+    <segment id="45">O grupo 2 normalmente começa a buscar explicações alternativas para a correlação observada</segment>
+    <segment id="46">, que não o fato de que o negacionismo realmente é causa de maior mortalidade por Covid-19.</segment>
+    <segment id="47">As principais são:  (a)</segment>
+    <segment id="48">O atual presidente teve mais votos entre as pessoas mais velhas</segment>
+    <segment id="49">, que também são mais vulneráveis ao risco de morte por Covid-19.  (b)</segment>
+    <segment id="50">O atual presidente teve mais votos entre as pessoas e cidades mais ricas</segment>
+    <segment id="51">, e isso pode distorcer os resultados.  (c)</segment>
+    <segment id="52">O atual presidente teve mais votos em cidades com maior densidade demográfica</segment>
+    <segment id="53">, e isso pode distorcer os resultados.</segment>
+    <segment id="54">A verdade é que todas as análises que fizemos testando essas explicações alternativas não modificam em nada o resultado apresentado.</segment>
+    <segment id="55">Talvez devêssemos então testar os nove critérios de causalidade do Sir Hill para ver</segment>
+    <segment id="56">sese há razão para suspeitar de uma relação causal entre negacionismo e mortalidade por Covid-19.</segment>
+    <segment id="57">Sim, já fizemos isso</segment>
+    <segment id="58">, e o resultado é assustador</segment>
+    <segment id="59">, embora</segment>
+    <segment id="60">embora não surpreendente.</segment>
+    <segment id="61">Como se</segment>
+    <segment id="62">se fosse o gabarito de uma prova perfeita</segment>
+    <segment id="63">, o check list do Sir Hill é preenchido</segment>
+    <segment id="64">, item por item</segment>
+    <segment id="65">, no caso</segment>
+    <segment id="66">caso da relação entre negacionismo e mortalidade por Covid-19.</segment>
+    <segment id="67">Há evidências corroborando cada um dos nove critérios listados pelo Sir Hill muitas décadas atrás.</segment>
+    <segment id="68">Um princípio básico da epidemiologia é que mortes não acontecem por acaso.</segment>
+    <segment id="69">O Brasil deveria</segment>
+    <segment id="70">sese indignar muito mais ao observar que tem uma mortalidade por Covid-19 entre quatro e cinco vezes maior do que a média mundial.</segment>
+    <segment id="71">O negacionismo mata</segment>
+    <segment id="72">, e quem paga com a vida são os nossos amigos e familiares.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,240 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Os irmãos José</segment>
+    <segment id="2">, 9, e Luís</segment>
+    <segment id="3">, 12, (os nomes são fictícios) perderam o pai por complicações da Covid-19 em fevereiro de 2021.</segment>
+    <segment id="4">Dois anos depois</segment>
+    <segment id="5">, no mesmo mês</segment>
+    <segment id="6">, a mãe deles</segment>
+    <segment id="7">sese suicidou</segment>
+    <segment id="8">, após um longo período de depressão.</segment>
+    <segment id="9">Os meninos moram agora com os avós paternos.</segment>
+    <segment id="10">José se</segment>
+    <segment id="11">se tornou agressivo e</segment>
+    <segment id="12">sese envolve em constantes brigas na escola.</segment>
+    <segment id="13">Já Luís</segment>
+    <segment id="14">sese fechou e não obedece ordens em casa ou dos professores.</segment>
+    <segment id="15">Todas as terças-feiras</segment>
+    <segment id="16">, os irmãos e a avó Rozilda Bezerra</segment>
+    <segment id="17">, 59, saem da região do Grajaú</segment>
+    <segment id="18">, na zona sul de São Paulo</segment>
+    <segment id="19">, e seguem para um ambulatório de luto infantojuvenil dentro do Proalu (Programa de Acolhimento ao Luto)</segment>
+    <segment id="20">, da Unifesp (Universidade Federal de São Paulo).</segment>
+    <segment id="21">O menino José (o nome é fictício)</segment>
+    <segment id="22">, 9, que perdeu pai por complicações da Covid-19 e mãe por suicídio</segment>
+    <segment id="23">, é acompanhado no ambulatório de luto infantil da Unifesp</segment>
+    <segment id="24">, em São Paulo - Karime Xavier/Folhapress"Semana passada</segment>
+    <segment id="25">, pela primeira vez</segment>
+    <segment id="26">, o diretor da escola elogiou o comportamento deles.</segment>
+    <segment id="27">Disse que eles estão melhores</segment>
+    <segment id="28">, mais calmos.</segment>
+    <segment id="29">Até chorei de emoção"</segment>
+    <segment id="30">, relata a avó.</segment>
+    <segment id="31">No ambulatório que</segment>
+    <segment id="32">sese chama Pequenos Enlutados</segment>
+    <segment id="33">, um grupo de psicólogos e psiquiatras voluntários lança mão de livros</segment>
+    <segment id="34">, jogos de emoção</segment>
+    <segment id="35">, brincadeiras e conversas para ajudar crianças a entender e a acomodar os sentimentos gerados por mortes de pessoas próximas</segment>
+    <segment id="36">, como</segment>
+    <segment id="37">como pai</segment>
+    <segment id="38">, mãe, irmãos e avós.</segment>
+    <segment id="39">Considerado um processo natural diante do momento de perda</segment>
+    <segment id="40">, o luto pode representar um problema à saúde quando</segment>
+    <segment id="41">sese torna intenso e prolongado.</segment>
+    <segment id="42">Desde 2022</segment>
+    <segment id="43">, a OMS (Organização Mundial da Saúde) passou a definir essas situações</segment>
+    <segment id="44">comocomo um transtorno mental</segment>
+    <segment id="45">, já incluído na CID (Classificação Internacional de Doenças).</segment>
+    <segment id="46">No dia em que a Folha visitou o ambulatório</segment>
+    <segment id="47">, o psiquiatra infantil Marcos Ribeiro</segment>
+    <segment id="48">, que acompanha José</segment>
+    <segment id="49">, carregava varetas</segment>
+    <segment id="50">, carretel de linha</segment>
+    <segment id="51">, cola e papel para construir uma pipa junto com o menino.</segment>
+    <segment id="52">"</segment>
+    <segment id="53">Ele ainda não consegue tocar nos sentimentos.</segment>
+    <segment id="54">Quando a gente tenta acessar emoções</segment>
+    <segment id="55">comocomo medo</segment>
+    <segment id="56">, raiva</segment>
+    <segment id="57">, tristeza</segment>
+    <segment id="58">, ele foge.</segment>
+    <segment id="59">A pipa é uma forma de tentar que ele traga algum sentimento.</segment>
+    <segment id="60">"</segment>
+    <segment id="61">O Proalu funciona no Caism (Centro de Atenção Integrada à Saúde Mental) da Vila Mariana (zona sul) e nasceu em 2020</segment>
+    <segment id="62">, durante a pandemia de Covid</segment>
+    <segment id="63">, para atendimento online de adultos enlutados.</segment>
+    <segment id="64">Desde então</segment>
+    <segment id="65">, mais de 3.000 atendimentos foram realizados.</segment>
+    <segment id="66">Há 40 pessoas na fila de espera.</segment>
+    <segment id="67">Segundo a psicóloga Samantha Mucci</segment>
+    <segment id="68">, coordenadora do Proalu</segment>
+    <segment id="69">, a demanda de crianças e adolescentes enlutados também cresceu muito e em 2022 foi necessária a criação de um ambulatório presencial para eles.</segment>
+    <segment id="70">Os profissionais são voluntários.</segment>
+    <segment id="71">Luis, 12</segment>
+    <segment id="72">, irmão de José</segment>
+    <segment id="73">, brinca com jogo proposto na terapia de luto voltada a crianças e adolescentes em ambulatório da Unifesp</segment>
+    <segment id="74">, em São Paulo - Karime Xavier/FolhapressSão dez sessões focadas em ludoterapia para o luto.</segment>
+    <segment id="75">De 24 a 36 crianças e adolescentes são atendidos a cada ciclo.</segment>
+    <segment id="76">Os cuidadores também participam de grupos de acolhimento e recebem orientação de</segment>
+    <segment id="77">comocomo conversar com eles sobre as perdas.</segment>
+    <segment id="78">Há uma fila de 83 à espera de atendimento presencial e de 133</segment>
+    <segment id="79">, virtual .  "</segment>
+    <segment id="80">Com jogos de construção e reconstrução</segment>
+    <segment id="81">, por exemplo</segment>
+    <segment id="82">, a criança entende que quando</segment>
+    <segment id="83">sese destrói um mundo conhecido é possível construir um outro diferente.</segment>
+    <segment id="84">Ela e a família passam a aprender a viver melhor com a ausência</segment>
+    <segment id="85">, dão um outro sentido à vida.</segment>
+    <segment id="86">É mágico"</segment>
+    <segment id="87">, diz Samantha.</segment>
+    <segment id="88">Um terço das demandas ainda são decorrentes direta ou indiretamente da pandemia.</segment>
+    <segment id="89">Além da Covid</segment>
+    <segment id="90">, há também lutos por mortes por câncer não diagnosticado durante a crise sanitária ou por suicídio causado por depressão.</segment>
+    <segment id="91">Crianças enlutadas pela morte violenta dos pais também são comuns.</segment>
+    <segment id="92">A abordagem vai depender da forma</segment>
+    <segment id="93">comocomo cada uma enfrenta a perda.</segment>
+    <segment id="94">"</segment>
+    <segment id="95">Tivemos um</segment>
+    <segment id="96">casocaso em que o pai foi assassinado e atendemos dois irmãos.</segment>
+    <segment id="97">Um teve dificuldade de socializar</segment>
+    <segment id="98">, sese isolou.</segment>
+    <segment id="99">Já outro ficou muito agitado</segment>
+    <segment id="100">, tornou-</segment>
+    <segment id="101">sese agressivo e voltou a fazer xixi na cama"</segment>
+    <segment id="102">, conta a psicóloga Débora Anger.</segment>
+    <segment id="103">Os profissionais precisam ser bem criativos na condução de cada</segment>
+    <segment id="104">casocaso.</segment>
+    <segment id="105">Uma menina de cinco anos</segment>
+    <segment id="106">, por exemplo</segment>
+    <segment id="107">, parou de comer após a morte do pai</segment>
+    <segment id="108">, que era o seu principal cuidador.</segment>
+    <segment id="109">O trabalho tem sido reestabelecer o vínculo da filha com a mãe.  "</segment>
+    <segment id="110">A gente fez um piquenique com elas.</segment>
+    <segment id="111">A menina quis fazer um bolo.</segment>
+    <segment id="112">A gente não tem fogão no ambulatório</segment>
+    <segment id="113">, masmas pegamos o microondas</segment>
+    <segment id="114">, levamos para o consultório e fizemos.</segment>
+    <segment id="115">Elas foram</segment>
+    <segment id="116">sese aproximando</segment>
+    <segment id="117">, criando um vínculo por meio da comida</segment>
+    <segment id="118">, e a menina voltou a comer"</segment>
+    <segment id="119">, conta Samantha.</segment>
+    <segment id="120">Outro menino</segment>
+    <segment id="121">, de oito anos</segment>
+    <segment id="122">, foi abandonado pela mãe</segment>
+    <segment id="123">, dependente de drogas.</segment>
+    <segment id="124">O pai, que morava no Ceará</segment>
+    <segment id="125">, estava a caminho de São Paulo para buscar o filho quando sofreu um acidente de carro e morreu.</segment>
+    <segment id="126">Brincadeiras ajudam crianças a superar perdas Mais    novamente         de   de  de  representando um</segment>
+    <segment id="127">O garoto foi levado para um abrigo.</segment>
+    <segment id="128">Lá, tornou-</segment>
+    <segment id="129">sese agressivo e defecava nas calças cada vez que alguém perguntava sobre o pai.</segment>
+    <segment id="130">No processo terapêutico</segment>
+    <segment id="131">, ele passou a</segment>
+    <segment id="132">sese expressar por meio das cores.</segment>
+    <segment id="133">Em desenho do corpo humano</segment>
+    <segment id="134">, rabiscou de vermelho toda a região gastrointestinal.</segment>
+    <segment id="135">A cor simboliza a raiva.</segment>
+    <segment id="136">"</segment>
+    <segment id="137">Ele passou a falar</segment>
+    <segment id="138">comocomo</segment>
+    <segment id="139">sese sentia</segment>
+    <segment id="140">, a verbalizar sem precisar viver isso no corpo</segment>
+    <segment id="141">, e foi diminuindo a agressividade"</segment>
+    <segment id="142">, relata a psicóloga Sandra Evangelista.</segment>
+    <segment id="143">No final do processo</segment>
+    <segment id="144">, o garoto quis</segment>
+    <segment id="145">sese despedir simbolicamente do pai.</segment>
+    <segment id="146">Com brinquedos e massinhas</segment>
+    <segment id="147">, ele e os terapeutas simularam um velório.</segment>
+    <segment id="148">Não é incomum que nessas sessões surjam questões que vão precisar de encaminhamento para outros ambulatórios mais especializados.</segment>
+    <segment id="149">Um menino de oito anos</segment>
+    <segment id="150">, por exemplo</segment>
+    <segment id="151">, manifestou em um quadro psicótico durante o tratamento de luto pela morte do pai e foi encaminhado para a psiquiatria.</segment>
+    <segment id="152">"</segment>
+    <segment id="153">Ele retrava a vida antes de perder o pai com desenhos bonitos e coloridos</segment>
+    <segment id="154">, e, depois da morte</segment>
+    <segment id="155">, tudo em pedacinhos espalhados.</segment>
+    <segment id="156">Passou a ouvir vozes de comando</segment>
+    <segment id="157">, dizendo que ele tinha que morrer para ficar o pai.</segment>
+    <segment id="158">Com um mês de psicoterapia</segment>
+    <segment id="159">, ele foi melhorando.</segment>
+    <segment id="160">Nós o acompanhamos por mais seis meses"</segment>
+    <segment id="161">, conta Samantha.</segment>
+    <segment id="162">As histórias mostram que</segment>
+    <segment id="163">, em se</segment>
+    <segment id="164">se tratando de crianças</segment>
+    <segment id="165">, nem sempre as metáforas são uma boa escolha para explicar a morte.</segment>
+    <segment id="166">Por exemplo</segment>
+    <segment id="167">, um menino passou a não dormir mais depois que a família disse que o pai dele tinha virado estrelinha.</segment>
+    <segment id="168">"</segment>
+    <segment id="169">Queria ficar acordado para descobrir qual estrelinha era o pai.</segment>
+    <segment id="170">"</segment>
+    <segment id="171">Como há muita demanda também por atendimento online</segment>
+    <segment id="172">, o programa conseguiu a doação de uma plataforma virtual</segment>
+    <segment id="173">, especialmente desenvolvida para possibilitar a interação virtual entre a criança e o terapeuta.</segment>
+    <segment id="174">O projeto também aceita doações para a compra de materiais usados na terapia</segment>
+    <segment id="175">, como</segment>
+    <segment id="176">como as caixas lúdicas.</segment>
+    <segment id="177">"</segment>
+    <segment id="178">Como não recebemos recursos públicos</segment>
+    <segment id="179">, tudo é feito na raça mesmo"</segment>
+    <segment id="180">, diz Samantha.</segment>
+    <segment id="181">Onde procurar ajuda para crianças e adolescentes?</segment>
+    <segment id="182">Segundo a Secretaria Municipal de Saúde</segment>
+    <segment id="183">, a porta de entrada para o atendimento é a UBS (Unidade Básica de Saúde) do bairro.</segment>
+    <segment id="184">Quando um jovem é atendido numa UBS com ideias suicidas ou após tentativa de suicídio</segment>
+    <segment id="185">, é feito o encaminhamento para o Núcleo de Prevenção à Violência (NPV)</segment>
+    <segment id="186">, que avalia quais as linhas de prevenção e cuidado necessárias.</segment>
+    <segment id="187">Em casos de baixo risco</segment>
+    <segment id="188">, o jovem é acompanhado na própria unidade pela equipe multiprofissional.</segment>
+    <segment id="189">Casos avaliados</segment>
+    <segment id="190">comocomo de médio ou alto risco são encaminhados para os Caps Infantojuvenis (Centros de Atenção Psicossocial).  NPV (Núcleo de Prevenção à Violência)</segment>
+    <segment id="191">Os NPVs são constituídos por ao menos quatro profissionais dentro das UBSs (Unidades Básicas de Saúde) e de outros equipamentos da rede municipal.</segment>
+    <segment id="192">Para acolher e resguardar as vítimas</segment>
+    <segment id="193">, os núcleos atuam em parceria com o Ministério Público</segment>
+    <segment id="194">, a Defensoria Pública</segment>
+    <segment id="195">, o Conselho Tutelar</segment>
+    <segment id="196">, a Secretaria Municipal de Educação e a Secretaria Municipal de Assistência e Desenvolvimento Social</segment>
+    <segment id="197">, para avaliar quais ações serão tomadas para proteger cada criança.</segment>
+    <segment id="198">Caps Infantojuvenis (Centros de Atenção Psicossocial)</segment>
+    <segment id="199">A rede do município conta com 33 Caps Infantojuvenis.</segment>
+    <segment id="200">Os pais ou responsáveis podem levar o jovem diretamente ao Caps Infantojuvenil</segment>
+    <segment id="201">, que fará a avaliação e</segment>
+    <segment id="202">, sese o</segment>
+    <segment id="203">casocaso for mais simples</segment>
+    <segment id="204">, reencaminhará o jovem à UBS do bairro.</segment>
+    <segment id="205">Mapa da Saúde Mental</segment>
+    <segment id="206">O site</segment>
+    <segment id="207">, do Instituto Vita Alere</segment>
+    <segment id="208">, mapeia serviços públicos de saúde mental disponíveis em todo território nacional</segment>
+    <segment id="209">, além de serviços de acolhimento e atendimento gratuitos ou voluntários realizados por ONGs</segment>
+    <segment id="210">, e instituições filantrópicas</segment>
+    <segment id="211">, entre outros.  CVV (Centro de Valorização da Vida)</segment>
+    <segment id="212">Voluntários atendem ligações gratuitas 24 horas por dia no número 188</segment>
+    <segment id="213">, por chat</segment>
+    <segment id="214">, por email ou diretamente em um posto de atendimento físico.</segment>
+  </rst>
+</analysis>

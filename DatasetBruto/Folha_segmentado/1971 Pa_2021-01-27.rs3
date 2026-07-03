@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Museu da Imagem e do Som</segment>
+    <segment id="2">, que deverá ser inaugurado no início de março</segment>
+    <segment id="3">, começou nesta quarta-feira (27) a ser instalado no Palácio dos Campos Elíseos</segment>
+    <segment id="4">, antiga sede do governo do estado de São Paulo.</segment>
+    <segment id="5">Três salas na parte térrea do edifício em reforma passaram a ser ocupadas pelas seções técnicas do MIS.</segment>
+    <segment id="6">Até o dia 4 de março</segment>
+    <segment id="7">, mais três salas serão utilizadas.</segment>
+    <segment id="8">Enquanto não</segment>
+    <segment id="9">sese conclui a obra total do edifício</segment>
+    <segment id="10">, destruído por um incêndio</segment>
+    <segment id="11">, a administração do museu ficará instalada no prédio do Conselho Estadual de Cultura.</segment>
+    <segment id="12">O MIS iniciará em breve a tomada de depoimentos de personalidades paulistas.</segment>
+    <segment id="13">Primeira Página da Folha de 28 de janeiro de 1971 - Reprodução</segment>
+  </rst>
+</analysis>

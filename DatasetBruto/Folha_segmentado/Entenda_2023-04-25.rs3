@@ -1,0 +1,97 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Ministério da Saúde decidiu ampliar a vacinação com a dose de reforço bivalente contra a Covid-19 para toda a população acima de 18 anos e</segment>
+    <segment id="2">, na cidade de São Paulo</segment>
+    <segment id="3">, pessoas acima de 50 anos já poderão tomar a vacina atualizada a partir desta quarta-feira (26).</segment>
+    <segment id="4">No estado</segment>
+    <segment id="5">, o Governo de São Paulo anunciou que começará a distribuir 600 mil doses da vacina bivalente que estavam em estoque para os 645 municípios do estado.</segment>
+    <segment id="6">Mulher recebe vacina bivalente contra a Covid em posto na Bela Vista</segment>
+    <segment id="7">, em São Paulo</segment>
+    <segment id="8">, em fevereiro - Rubens Cavallari - 27.fev.2023/Folhapress</segment>
+    <segment id="9">A quantidade ainda é insuficiente para atender o público-alvo de 23 milhões de pessoas em todo o estado</segment>
+    <segment id="10">, masmas a administração afirma que solicitou mais vacinas para o governo federal.</segment>
+    <segment id="11">Até a chegada das novas doses</segment>
+    <segment id="12">, o reforço deverá ocorrer de forma escalonada</segment>
+    <segment id="13">, com prioridade para pessoas de faixas etárias mais altas</segment>
+    <segment id="14">, como</segment>
+    <segment id="15">como na capital.</segment>
+    <segment id="16">Em todo o país</segment>
+    <segment id="17">, o ministério avalia que 97 milhões de pessoas poderão receber a vacina bivalente</segment>
+    <segment id="18">, aplicada desde fevereiro para grupos específicos</segment>
+    <segment id="19">, e cada estado deverá definir</segment>
+    <segment id="20">comocomo será o esquema de vacinação.</segment>
+    <segment id="21">Veja, abaixo</segment>
+    <segment id="22">, cinco pontos sobre a vacina.</segment>
+    <segment id="23">   1.</segment>
+    <segment id="24">O QUE É A VACINA BIVALENTE?</segment>
+    <segment id="25">As vacinas bivalentes são versões atualizadas dos imunizantes contra Covid contendo a cepa original de Wuhan combinada com a variante ômicron</segment>
+    <segment id="26">, atualmente a predominante em todo o mundo.</segment>
+    <segment id="27">No Brasil</segment>
+    <segment id="28">, a Anvisa (Agência Nacional de Vigilância Sanitária) aprovou o uso emergencial de duas formulações bivalentes da Pfizer</segment>
+    <segment id="29">, contendo as subvariantes BA.1 e BA.4/BA.5 da ômicron.</segment>
+    <segment id="30">É essa que está sendo aplicada nessa fase.  2.</segment>
+    <segment id="31">POR QUE TOMAR</segment>
+    <segment id="32">A VACINA BIVALENTE?</segment>
+    <segment id="33">A vacina atualizada oferece uma proteção maior às subvariantes da ômicron atualmente em circulação.</segment>
+    <segment id="34">As vacinas monovalentes ainda continuam a ter uma alta eficácia de proteção contra hospitalização e óbitos</segment>
+    <segment id="35">, masmas a proteção acaba diminuindo ao longo do tempo.</segment>
+    <segment id="36">Por isso</segment>
+    <segment id="37">, é importante receber os reforços</segment>
+    <segment id="38">, dizem os especialistas.  3.</segment>
+    <segment id="39">QUAIS</segment>
+    <segment id="40">SÃO</segment>
+    <segment id="41">OS EVENTOS ADVERSOS RELACIONADOS</segment>
+    <segment id="42">À BIVALENTE?</segment>
+    <segment id="43">As vacinas atualizadas contra a ômicron mantêm o mesmo padrão de segurança que as formas monovalentes já autorizadas e utilizadas em bilhões de pessoas em todo o mundo.</segment>
+    <segment id="44">Em geral</segment>
+    <segment id="45">, os efeitos mais comuns são dor no local da injeção</segment>
+    <segment id="46">, fadiga</segment>
+    <segment id="47">, dor de cabeça</segment>
+    <segment id="48">, dores no corpo (mialgia)</segment>
+    <segment id="49">, febre e calafrios.</segment>
+    <segment id="50">São eventos considerados leves e que costumam desaparecer em até 24 horas.</segment>
+    <segment id="51">Outros eventos adversos muito raros e considerados moderados a severos podem incluir miocardite (inflamação do miocárdio)</segment>
+    <segment id="52">, pericardite (inflamação do pericárdio)</segment>
+    <segment id="53">, dores no peito</segment>
+    <segment id="54">, falta de ar e arritmia.</segment>
+    <segment id="55">Leia mais aqui.</segment>
+    <segment id="56">Efeitos colaterais mais comuns das vacinas bivalentes contra CovidLevesDor no local da injeçãoFadigaDor no corpoFebreDores nas articulaçõesModeradosCalafriosDores no peitoEfeitos sistêmicos (em diversos locais do corpo)Muito raros (com necessidade de atendimento hospitalar)PericarditeMiocarditeArritmiasDificuldade para respirar4.</segment>
+    <segment id="57">EXISTE ALGUMA CONTRAINDICAÇÃO?</segment>
+    <segment id="58">Não.</segment>
+    <segment id="59">O que existe é uma indicação do intervalo mínimo entre a última dose de qualquer reforço monovalente ou da última dose do esquema primário e o reforço com a bivalente.</segment>
+    <segment id="60">Ou seja: é recomendado aguardar no mínimo quatro meses entre uma dose e outra.</segment>
+    <segment id="61">Também há uma limitação de idade.</segment>
+    <segment id="62">A Anvisa autorizou o uso da bivalente</segment>
+    <segment id="63">comocomo reforço para pessoas com 12 anos ou mais.</segment>
+    <segment id="64">Abaixo dessa idade</segment>
+    <segment id="65">, o reforço deve ser com uma vacina monovalente.  5.</segment>
+    <segment id="66">Grávidas podem tomar a vacina a partir de quantos meses?</segment>
+    <segment id="67">O Ministério da Saúde não preconiza uma quantidade mínima ou máxima de meses de gravidez</segment>
+    <segment id="68">para que</segment>
+    <segment id="69">para que as gestantes recebam a dose atualizada da vacina contra a Covid.</segment>
+    <segment id="70">No país</segment>
+    <segment id="71">, o reforço para grávidas e puérperas começou a ser aplicado no final de março.</segment>
+  </rst>
+</analysis>

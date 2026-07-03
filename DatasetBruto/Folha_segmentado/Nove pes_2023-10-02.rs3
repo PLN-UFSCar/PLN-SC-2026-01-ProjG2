@@ -1,0 +1,110 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Nove pessoas morreram após um acidente no final da tarde deste domingo (1)</segment>
+    <segment id="2">, na rodovia Deputado Cunha Bueno (SP-253)</segment>
+    <segment id="3">, em Guatapará (SP)</segment>
+    <segment id="4">, no interior de São Paulo.</segment>
+    <segment id="5">A informação é do secretário de Desenvolvimento Econômico e Marketing de Monte Alto</segment>
+    <segment id="6">, Luís Felipe Nunes.</segment>
+    <segment id="7">Ao menos 14 ocupantes do ônibus permanecem feridos —oito em estado grave.</segment>
+    <segment id="8">As vítimas foram levadas a serviços de saúde de Jaboticabal</segment>
+    <segment id="9">, Monte Alto</segment>
+    <segment id="10">, Sertãozinho e Ribeirão Preto.</segment>
+    <segment id="11">Outras três tiveram alta</segment>
+    <segment id="12">, segundo o secretário.</segment>
+    <segment id="13">Ônibus depois de capotamento em rodovia no interior de São Paulo - Reprodução/TV GloboO veículo</segment>
+    <segment id="14">, que retornava de Tambaú para Monte Alto</segment>
+    <segment id="15">, na região de Ribeirão Preto</segment>
+    <segment id="16">, com o motorista e 25 passageiros</segment>
+    <segment id="17">, capotou.</segment>
+    <segment id="18">Tambaú é uma cidade de turismo religioso</segment>
+    <segment id="19">, com atrações</segment>
+    <segment id="20">comocomo o caminho da fé</segment>
+    <segment id="21">, a casa</segment>
+    <segment id="22">, o mausoléu e a estátua do padre Donizetti</segment>
+    <segment id="23">, igrejas</segment>
+    <segment id="24">, parque e santuário.</segment>
+    <segment id="25">A Polícia Rodoviária Estadual afirmou</segment>
+    <segment id="26">, na manhã desta segunda-feira (2)</segment>
+    <segment id="27">, que as causas do acidente estão em apuração.</segment>
+    <segment id="28">Durante a noite de domingo e a madrugada desta segunda-feira (2)</segment>
+    <segment id="29">, moradores e autoridades da região</segment>
+    <segment id="30">sese mobilizaram para reconhecer os mortos e providenciar o velório coletivo.</segment>
+    <segment id="31">A Prefeitura de Monte Alto</segment>
+    <segment id="32">, cidade das vítimas</segment>
+    <segment id="33">, montou uma base de operações em um centro de convivência da cidade.</segment>
+    <segment id="34">Segundo o prefeito de Tambaú</segment>
+    <segment id="35">, Leonardo Spiga Real (PSDB)</segment>
+    <segment id="36">, os passageiros do ônibus participaram de uma missa no Santuário Nossa Senhora Aparecida do Beato</segment>
+    <segment id="37">Donizetti neste domingo.</segment>
+    <segment id="38">"</segment>
+    <segment id="39">Que o beato</segment>
+    <segment id="40">Donizetti acolha a alma desses fiéis"</segment>
+    <segment id="41">, disse.</segment>
+    <segment id="42">O vice-prefeito de Monte Alto</segment>
+    <segment id="43">, Joaquim Roberto de Oliveira</segment>
+    <segment id="44">, afirmou em entrevista ao jornal o Imparcial que muitas vítimas estavam sem documentos e isso dificulta a identificação.</segment>
+    <segment id="45">Padre Donizetti morou durante 35 anos na casa visitada por devotos em Tambaú</segment>
+    <segment id="46">, cidade onde morreu e foi sepultado.</segment>
+    <segment id="47">Religiosos atribuem a ele milagres e conversões.</segment>
+    <segment id="48">O sacerdote foi beatificado pela Igreja Católica em 2019.</segment>
+    <segment id="49">Quem são os mortos identificados até o momento?</segment>
+    <segment id="50">Edna de Fátima Ducatti</segment>
+    <segment id="51">,58  Idalina Ribeiro Neves</segment>
+    <segment id="52">, 84  Josefa Jovina dos Santos</segment>
+    <segment id="53">, 77  Lindalci Ribeiro da Silva</segment>
+    <segment id="54">, 50  Maria Aparecida Santos</segment>
+    <segment id="55">, 55  Maria de Fátima Batistela Fumis</segment>
+    <segment id="56">Tereza Amélia Salles dos Santos</segment>
+    <segment id="57">, 60  Paulo dos Santos</segment>
+    <segment id="58">, 53.</segment>
+    <segment id="59">Ainda resta uma mulher.</segment>
+    <segment id="60">Um ônibus capotou neste domingo (1º)</segment>
+    <segment id="61">, na Rodovia Deputado Cunha Bueno (SP-253)</segment>
+    <segment id="62">, em Guatapará (SP)</segment>
+    <segment id="63">;</segment>
+    <segment id="64">o acidente deixou mortos e feridos - Reprodução/TV</segment>
+    <segment id="65">GloboDemais</segment>
+    <segment id="66">passageiros já identificados</segment>
+    <segment id="67">Os pacientes abaixo foram transferidos para Ribeirão Preto</segment>
+    <segment id="68">, distribuídos entre o Hospital das Clínicas</segment>
+    <segment id="69">, a Santa Casa e o Hospital São Lucas.</segment>
+    <segment id="70">Não há informações sobre o estado de saúde.</segment>
+    <segment id="71">Edileu Lima dos Santos</segment>
+    <segment id="72">, 48  Josefa Maria dos Santos</segment>
+    <segment id="73">, 78  Maria das Dores Souza Olegário</segment>
+    <segment id="74">, 76  Maria Gorete Oliveira da Silva</segment>
+    <segment id="75">, 63  Neusa Tenório da Silva</segment>
+    <segment id="76">, 71  Osana Maria dos Nascimento Santos</segment>
+    <segment id="77">, 74  Salete Solange dos Santos</segment>
+    <segment id="78">, 42  Também foram identificadas três crianças</segment>
+    <segment id="79">, de 4</segment>
+    <segment id="80">, 8 e 12 anos.</segment>
+    <segment id="81">O motorista do ônibus</segment>
+    <segment id="82">, Denilson Souza Lame</segment>
+    <segment id="83">, foi levado a um hospital em Sertãozinho.</segment>
+    <segment id="84">O seu estado de saúde é considerado estável.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,85 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">ProUni: um em cada quatro alunos abandona o programa</segment>
+    <segment id="2">; a maioria abre mão da bolsa</segment>
+    <segment id="3">, masmas continua estudos</segment>
+    <segment id="4">, diz MEC
+BRASÍLIA - Um em cada quatro bolsistas abandona o Programa Universidade para Todos (ProUni)</segment>
+    <segment id="5">, revela balanço do Ministério da Educação (MEC).</segment>
+    <segment id="6">De 2005</segment>
+    <segment id="7">, ano em que o ProUni começou a funcionar</segment>
+    <segment id="8">, até o primeiro semestre de 2011</segment>
+    <segment id="9">, 893.102 estudantes de baixa renda foram contemplados em todo o país.</segment>
+    <segment id="10">Nesse período</segment>
+    <segment id="11">, 229.068 deixaram o programa.</segment>
+    <segment id="12">Segundo o MEC</segment>
+    <segment id="13">, porém</segment>
+    <segment id="14">porém, a maioria abriu mão da bolsa</segment>
+    <segment id="15">, masmas continuou estudando.</segment>
+    <segment id="16">CONTE :</segment>
+    <segment id="17">O levantamento analisou</segment>
+    <segment id="18">, um a um</segment>
+    <segment id="19">, os CPFs dos bolsistas que saíram do ProUni antes de concluir o curso.</segment>
+    <segment id="20">Dos 229.068 estudantes nessa situação</segment>
+    <segment id="21">, 102.506 abandonaram o ensino superior - o equivalente a 11</segment>
+    <segment id="22">,5% do total de bolsistas.</segment>
+    <segment id="23">Os demais</segment>
+    <segment id="24">, segundo o MEC</segment>
+    <segment id="25">, migraram para instituições públicas ou mesmo privadas</segment>
+    <segment id="26">, ainda que sem a bolsa do ProUni.</segment>
+    <segment id="27">Para o MEC</segment>
+    <segment id="28">, o índice de 11</segment>
+    <segment id="29">,5% é o que efetivamente retrata a evasão histórica no ProUni.</segment>
+    <segment id="30">O argumento é que os demais estudantes que largaram o programa não abandonaram o ensino superior.</segment>
+    <segment id="31">Assim, ainda que tenham saído</segment>
+    <segment id="32">, não podem figurar na categoria de evadidos.
+
+- Com certeza</segment>
+    <segment id="33">, esse camarada melhorou</segment>
+    <segment id="34">, tanto que abriu mão da bolsa - diz o secretário de Educação Superior</segment>
+    <segment id="35">, Luiz Claudio Costa</segment>
+    <segment id="36">, referindo-</segment>
+    <segment id="37">sese a quem deixou o ProUni</segment>
+    <segment id="38">, masmas segue matriculado em cursos de graduação.</segment>
+    <segment id="39">Luiz Claudio diz que é preciso reduzir as taxas de evasão</segment>
+    <segment id="40">, um obstáculo a mais na lista de gargalos que fazem o Brasil ter</segment>
+    <segment id="41">, proporcionalmente</segment>
+    <segment id="42">, menos universitários que vizinhos</segment>
+    <segment id="43">comocomo Chile</segment>
+    <segment id="44">, Argentina e Bolívia.</segment>
+    <segment id="45">Mas destaca que o problema seria menor entre bolsistas do ProUni</segment>
+    <segment id="46">, na comparação com o total dos estudantes de instituições particulares.</segment>
+    <segment id="47">Enquanto o índice histórico do ProUni está em 11</segment>
+    <segment id="48">,5% - excluídos ex-bolsistas que continuaram estudando -</segment>
+    <segment id="49">, a evasão no conjunto do ensino superior privado atingiu 17</segment>
+    <segment id="50">,9%, em 2009.</segment>
+    <segment id="51">O dado do setor privado é calculado pelo Sindicato das Entidades Mantenedoras de Estabelecimentos de Ensino Superior no Estado de São Paulo (Semesp).</segment>
+    <segment id="52">Mas não leva em conta eventuais transferências de estudantes para universidades públicas.</segment>
+    <segment id="53">No estado de São Paulo</segment>
+    <segment id="54">, segundo o Semesp</segment>
+    <segment id="55">, a evasão alcança 23</segment>
+    <segment id="56">,9%, subindo para 27% na região metropolitana da capital paulista.</segment>
+  </rst>
+</analysis>

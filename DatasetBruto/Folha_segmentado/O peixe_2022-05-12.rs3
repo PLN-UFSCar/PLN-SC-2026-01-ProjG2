@@ -1,0 +1,114 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O uso de bebidas alcoólicas permeia toda a história da humanidade.</segment>
+    <segment id="2">Há registros de que o homem armazenava bebidas fermentadas produzidas com arroz</segment>
+    <segment id="3">, frutas e mel desde 8 mil anos antes de Cristo</segment>
+    <segment id="4">, e de lá pra cá temos elaborado cada vez mais nossas receitas e produzido em larga escala.</segment>
+    <segment id="5">A cerveja era muito importante para as sociedades suméria</segment>
+    <segment id="6">, egípcia e babilônica</segment>
+    <segment id="7">, e servia de moeda de troca</segment>
+    <segment id="8">, enquanto o vinho era de largo uso entre os romanos e ganhou valor geopolítico para os impérios.</segment>
+    <segment id="9">E a cachaça animou muitas festas dos senhores de engenho</segment>
+    <segment id="10">, que a vendiam e barganhavam no Brasil colônia.</segment>
+    <segment id="11">Mas o que a ciência tem a ver com isso?</segment>
+    <segment id="12">Durante a Revolução Industrial</segment>
+    <segment id="13">, a partir da segunda metade do século 18</segment>
+    <segment id="14">, quando as bebidas alcoólicas passaram a ser produzidas em grandes volumes</segment>
+    <segment id="15">, a taxa de alcoolismo começou a chamar a atenção das autoridades.</segment>
+    <segment id="16">Foi então que tiveram início os primeiros estudos sobre os efeitos do álcool</segment>
+    <segment id="17">, seu modo de ação e consequências em curto e longo prazo.</segment>
+    <segment id="18">Ilustração: Julia Jabur - Instituto Serrapilheira</segment>
+    <segment id="19">O alcoolismo</segment>
+    <segment id="20">, considerado uma doença</segment>
+    <segment id="21">, afeta 4 milhões de indivíduos no Brasil.</segment>
+    <segment id="22">Sabemos que seu desenvolvimento não</segment>
+    <segment id="23">sese deve a uma única causa: envolve fatores genéticos</segment>
+    <segment id="24">, biológicos</segment>
+    <segment id="25">, sociais e psicológicos.</segment>
+    <segment id="26">E entender por que algumas pessoas</segment>
+    <segment id="27">sese tornam dependentes e outras não pode ser uma ferramenta de grande valia para a saúde pública.</segment>
+    <segment id="28">Em termos genéticos</segment>
+    <segment id="29">, já foram identificados vários genes relacionados à doença.</segment>
+    <segment id="30">Um deles</segment>
+    <segment id="31">, o CYP2E1</segment>
+    <segment id="32">, participa da produção de enzimas que quebram o álcool no cérebro: pessoas que produzem mais enzimas metabolizam mais o álcool e sentem mais seus efeitos.</segment>
+    <segment id="33">Além disso</segment>
+    <segment id="34">, o álcool age em outros sistemas no cérebro</segment>
+    <segment id="35">, como</segment>
+    <segment id="36">como o sistema de recompensa – a bebida causa uma sensação de prazer.</segment>
+    <segment id="37">Só que esse sistema passa a responder cada vez menos</segment>
+    <segment id="38">, e assim a pessoa precisa aumentar a quantidade de álcool para sentir os efeitos</segment>
+    <segment id="39">, e de repente a situação sai de controle</segment>
+    <segment id="40">, como</segment>
+    <segment id="41">como uma bola de neve.</segment>
+    <segment id="42">Não é fácil saber</segment>
+    <segment id="43">sese a pessoa tem esses genes</segment>
+    <segment id="44">, e ainda que ela não manifeste nenhuma propensão genética para</segment>
+    <segment id="45">sese tornar alcoólica</segment>
+    <segment id="46">, o ambiente social e o estilo de vida desempenham um papel decisivo.</segment>
+    <segment id="47">É aí que entram em cena alguns importantes colaboradores que nos auxiliam a desvendar outras características indicadoras de propensão ao alcoolismo.</segment>
+    <segment id="48">No Laboratório de Peixes da UFRN há um peixinho chamado zebrafish que</segment>
+    <segment id="49">, por compartilhar 70-80% do material genético conosco</segment>
+    <segment id="50">, funciona</segment>
+    <segment id="51">comocomo um ótimo modelo para estudar doenças humanas.</segment>
+    <segment id="52">Zebrafishes mais tímidos e que não gostam de situações novas</segment>
+    <segment id="53">sese tornam mais ousados quando expostos a baixas doses de álcool</segment>
+    <segment id="54">, o que indicaria que esses indivíduos</segment>
+    <segment id="55">sese beneficiam da experiência e podem buscar a droga</segment>
+    <segment id="56">comocomo muleta quando precisam enfrentar situações novas ou desafiadoras</segment>
+    <segment id="57">, como</segment>
+    <segment id="58">como se</segment>
+    <segment id="59">se ver em situação de predação ou num grupo social desconhecido.</segment>
+    <segment id="60">A droga reduz a ansiedade desses indivíduos</segment>
+    <segment id="61">, que passam a explorar mais o aquário.</segment>
+    <segment id="62">Mais do que isso</segment>
+    <segment id="63">, observamos que essa resposta pode ser monitorada desde muito cedo</segment>
+    <segment id="64">, a partir do nascimento.</segment>
+    <segment id="65">O zebrafish também nos permite estudar os efeitos do álcool em mulheres grávidas.</segment>
+    <segment id="66">A OMS (Organização Mundial da Saúde) estima que a prevalência do uso de álcool durante a gravidez seja de 9</segment>
+    <segment id="67">,8%, ou seja</segment>
+    <segment id="68">, quase uma em cada dez mulheres grávidas ingere álcool.</segment>
+    <segment id="69">Cerca de 77 em cada 10 mil nascidos apresentam desordens do espectro alcoólico fetal</segment>
+    <segment id="70">, condição que inclui casos mais severos</segment>
+    <segment id="71">, com malformações bastante evidentes</segment>
+    <segment id="72">, e mais leves</segment>
+    <segment id="73">, estes de diagnóstico muito difícil – a criança geralmente tem uma alteração no comportamento social</segment>
+    <segment id="74">, hiperatividade e déficits cognitivos.</segment>
+    <segment id="75">O zebrafish vem nos ajudando a entender esta desordem.</segment>
+    <segment id="76">Acrescentamos álcool à água em que</segment>
+    <segment id="77">sese encontra o embrião e avaliamos os efeitos ao longo da vida.</segment>
+    <segment id="78">Indivíduos de diagnóstico mais difícil</segment>
+    <segment id="79">, por exemplo</segment>
+    <segment id="80">, mostraram ansiedade muito elevada no início do desenvolvimento (corresponderia à fase infantil entre dois e quatro anos)</segment>
+    <segment id="81">, indicador que pode ajudar na detecção da doença e na prescrição de um tratamento com chances de amenizar a condição.</segment>
+    <segment id="82">Embora o zebrafish venha nos auxiliando a estudar o alcoolismo e responda a muitas das perguntas que temos</segment>
+    <segment id="83">, o caminho ainda é longo.</segment>
+    <segment id="84">De qualquer forma</segment>
+    <segment id="85">, já sabemos: devemos beber com moderação e ficar alertas</segment>
+    <segment id="86">sese a tolerância ao álcool estiver alta.  *  Ana Luchiari é bióloga e professora na UFRN.</segment>
+    <segment id="87">Inscreva-</segment>
+    <segment id="88">sese na newsletter do Instituto Serrapilheira para acompanhar mais novidades do instituto e do blog Ciência Fundamental.</segment>
+  </rst>
+</analysis>

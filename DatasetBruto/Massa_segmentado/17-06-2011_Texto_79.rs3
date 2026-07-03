@@ -1,0 +1,47 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Grécia: um calote e dois empréstimos</segment>
+    <segment id="2">A crise da Grécia começou oficialmente em 2009</segment>
+    <segment id="3">, quando agências de classificação de risco começaram a rebaixar o rating do país</segment>
+    <segment id="4">, pouco depois da posse de George Papandreou</segment>
+    <segment id="5">comocomo primeiro-ministro pelo partido socialista Pasok.</segment>
+    <segment id="6">Autoridades locais foram acusadas de falsificar dados sobre o déficit público para mantê-lo abaixo do limite máximo admitido na zona do euro</segment>
+    <segment id="7">, de 3% do Produto Interno Bruto (PIB</segment>
+    <segment id="8">, total de bens e serviços produzidos no país).</segment>
+    <segment id="9">Os sucessivos rebaixamentos e a revelação de que a dívida pública bruta atingiu 129</segment>
+    <segment id="10">,4% do PIB no fim de 2009 arruinaram a credibilidade do país perante a investidores e elevaram imensamente o custo de financiamento no mercado de títulos públicos.</segment>
+    <segment id="11">Para tentar reduzir os juros gastos na rolagem das dívidas</segment>
+    <segment id="12">, a Grécia recebeu um primeiro pacote de resgate de 110 bilhões em 2 de maio de 2010.</segment>
+    <segment id="13">Não foi o bastante e o país organizou o maior calote da história</segment>
+    <segment id="14">, obtendo o perdão de 100 bilhões em débitos em março deste ano.</segment>
+    <segment id="15">Só assim o FMI e a União Europeia aceitaram liberar um segundo pacote de resgate</segment>
+    <segment id="16">, de 130 bilhões.</segment>
+    <segment id="17">No ano passado</segment>
+    <segment id="18">, a economia do país encolheu 6</segment>
+    <segment id="19">,9%, no quarto ano consecutivo de recessão.</segment>
+    <segment id="20">A taxa de desemprego atingiu 21</segment>
+    <segment id="21">,9% da população em março deste ano.</segment>
+  </rst>
+</analysis>

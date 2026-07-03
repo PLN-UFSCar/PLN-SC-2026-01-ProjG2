@@ -1,0 +1,67 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O ministro Paulo Guedes (Economia) afirmou nesta sexta-feira (19) que o percentual de vacinação contra a Covid-19 no Brasil até o momento é muito baixo e precisa melhorar muito.</segment>
+    <segment id="2">Ao comentar que a pandemia avança em ritmo acelerado</segment>
+    <segment id="3">, ele disse que somente a imunização em massa permitirá o retorno seguro ao trabalho.</segment>
+    <segment id="4">"</segment>
+    <segment id="5">Cinco por cento da população já foi vacinada</segment>
+    <segment id="6">, é muito pouco ainda</segment>
+    <segment id="7">, temos que melhorar muito</segment>
+    <segment id="8">, trabalhar muito”</segment>
+    <segment id="9">, disse o ministro em entrevista ao jornal espanhol El Mundo.</segment>
+    <segment id="10">Dados do consórcio de veículos de imprensa</segment>
+    <segment id="11">, formado por Folha</segment>
+    <segment id="12">, UOL, G1</segment>
+    <segment id="13">, O Globo</segment>
+    <segment id="14">, Extra</segment>
+    <segment id="15">e O Estado de S. Paulo mostram que o Brasil vacinou 10</segment>
+    <segment id="16">,98 milhões de pessoas até esta quinta-feira (18).</segment>
+    <segment id="17">O número corresponde a 5</segment>
+    <segment id="18">,19% da população.</segment>
+    <segment id="19">De acordo com o ministro</segment>
+    <segment id="20">, o governo está ampliando os acordos para a compra de vacinas com o objetivo de adiantar o processo de imunização.</segment>
+    <segment id="21">Ele reconheceu que países com maior êxito na vacinação já estão</segment>
+    <segment id="22">sese recuperando.</segment>
+    <segment id="23">O ministro da Economia</segment>
+    <segment id="24">, Paulo Guedes</segment>
+    <segment id="25">, concede entrevista no Palácio do Planalto</segment>
+    <segment id="26">, em Brasília (DF) - Raul Spinassé - 8.mar.2020/FolhapressNo Brasil</segment>
+    <segment id="27">, a incerteza em relação à recuperação econômica está diretamente ligada ao avanço da pandemia</segment>
+    <segment id="28">, com aceleração das mortes e aumento do número de cidades com medidas restritivas e de isolamento social.</segment>
+    <segment id="29">“</segment>
+    <segment id="30">A pandemia chega com uma segunda onda</segment>
+    <segment id="31">, sese espalhando com maior velocidade e novas cepas</segment>
+    <segment id="32">, aparentemente mais mortíferas.</segment>
+    <segment id="33">A reação é uma só</segment>
+    <segment id="34">, vacinação em massa para garantir um retorno seguro ao trabalho”</segment>
+    <segment id="35">, afirmou.</segment>
+    <segment id="36">Na entrevista</segment>
+    <segment id="37">, Guedes afirmou que a nova rodada do auxílio emergencial tem valor menor do que os repasses feitos em 2020</segment>
+    <segment id="38">porque</segment>
+    <segment id="39">porque o governo trabalha com uma redução gradual da assistência</segment>
+    <segment id="40">, ao mesmo tempo em que a economia vai</segment>
+    <segment id="41">sese recuperando.</segment>
+  </rst>
+</analysis>

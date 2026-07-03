@@ -1,0 +1,110 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A cidade de São Paulo contabilizou 1.792 casos de dengue nas primeiras três semanas de janeiro</segment>
+    <segment id="2">, número que já ultrapassa o total registrado no primeiro mês do ano desde o início da série histórica</segment>
+    <segment id="3">, em 2015.</segment>
+    <segment id="4">O recorde anterior ocorreu em 2016</segment>
+    <segment id="5">, quando foram registradas 1.252 confirmações da doença.</segment>
+    <segment id="6">Os dados foram divulgados nesta segunda-feira (29) pela Secretaria Municipal da Saúde.</segment>
+    <segment id="7">De acordo com a pasta</segment>
+    <segment id="8">, foram notificados 5.052 casos de dengue de 1 a 20 de janeiro</segment>
+    <segment id="9">, dos quais 1.792 foram confirmados e são autóctones</segment>
+    <segment id="10">, ou seja</segment>
+    <segment id="11">, a infecção pelo vírus ocorreu no próprio município.</segment>
+    <segment id="12">O mosquito Aedes Aegypti - Divulgação/World Mosquito ProgForam notificados ainda quatro casos de zika vírus</segment>
+    <segment id="13">, 45 de chikungunya e dois de febre amarela.</segment>
+    <segment id="14">Para essas doenças</segment>
+    <segment id="15">, não há nenhum</segment>
+    <segment id="16">casocaso confirmado.</segment>
+    <segment id="17">Até o momento</segment>
+    <segment id="18">, a capital não registrou nenhum óbito associado a dengue.</segment>
+    <segment id="19">A doença</segment>
+    <segment id="20">, porém</segment>
+    <segment id="21">porém, causou mortes em outros municípios paulistas.</segment>
+    <segment id="22">Segundo o Centro de Vigilância Epidemiológica</segment>
+    <segment id="23">, foram registrados 10.728 casos de dengue no estado até o último dia 20</segment>
+    <segment id="24">, e quatro pacientes morreram.</segment>
+    <segment id="25">As vítimas residiam em Bebedouro</segment>
+    <segment id="26">, Jacareí e Pindamonhangaba</segment>
+    <segment id="27">, onde houve duas mortes.</segment>
+    <segment id="28">Além desses locais</segment>
+    <segment id="29">, a cidade de Dois Córregos</segment>
+    <segment id="30">, também no interior paulista</segment>
+    <segment id="31">, divulgou um óbito em decorrência da doença.</segment>
+    <segment id="32">O caso</segment>
+    <segment id="33">caso foi noticiado pela prefeitura no último dia 26.</segment>
+    <segment id="34">Maior taxa de casos</segment>
+    <segment id="35">A capital paulista possui atualmente um coeficiente de incidência (INC) de 14</segment>
+    <segment id="36">,9, ou seja</segment>
+    <segment id="37">, cerca de 15 casos confirmados por 100 mil habitantes.</segment>
+    <segment id="38">A taxa ajuda a identificar áreas de maior ou menor transmissão e varia entre as diferentes regiões.</segment>
+    <segment id="39">O maior coeficiente da cidade está no Jaguara</segment>
+    <segment id="40">, na zona oeste.</segment>
+    <segment id="41">Foram 127 confirmações desde o início do ano</segment>
+    <segment id="42">, causando uma taxa de 534</segment>
+    <segment id="43">,5.</segment>
+    <segment id="44">O que é dengueMais    novamente         de   de  de  representando um  Na região central</segment>
+    <segment id="45">, o distrito administrativo com maior INC é a Santa Cecília (12</segment>
+    <segment id="46">,4 a cada 100 mil habitantes)</segment>
+    <segment id="47">, com 11 casos de dengue confirmados.</segment>
+    <segment id="48">Já na zona leste</segment>
+    <segment id="49">, Itaquera possui o maior índice.</segment>
+    <segment id="50">Foram 188 casos confirmados desde o início do ano</segment>
+    <segment id="51">, levando a uma taxa de 88.</segment>
+    <segment id="52">Na zona norte</segment>
+    <segment id="53">, o Jaçanã teve 51 ocorrências confirmadas (INC de 52</segment>
+    <segment id="54">,9); na zona sul</segment>
+    <segment id="55">, o Campo Limpo soma 103 casos da doença (INC de 44</segment>
+    <segment id="56">,2); e na região sudeste</segment>
+    <segment id="57">, a Água Rasa lidera a lista</segment>
+    <segment id="58">, com 24 confirmações e coeficiente de 24</segment>
+    <segment id="59">,5.</segment>
+    <segment id="60">Cuide-seCiência</segment>
+    <segment id="61">, hábitos e prevenção</segment>
+    <segment id="62">numa newsletter para a sua saúde e bem-estarCarregando...</segment>
+    <segment id="63">Combate à doença</segment>
+    <segment id="64">Segundo a administração municipal</segment>
+    <segment id="65">, foram realizadas 256.127 ações de combate à dengue neste ano</segment>
+    <segment id="66">, considerando visitas casa a casa</segment>
+    <segment id="67">, vistorias a imóveis e pontos estratégicos</segment>
+    <segment id="68">, bloqueios de criadouros e nebulizações</segment>
+    <segment id="69">, entre outras.</segment>
+    <segment id="70">Em 2023</segment>
+    <segment id="71">, foram 5.317.437 atividades de prevenção.</segment>
+    <segment id="72">As ações de combate à dengue serão ampliadas a partir de 1º de fevereiro com o aumento do efetivo de agentes ambientais e de saúde.</segment>
+    <segment id="73">O número passará de 2 mil para 12 mil funcionários no trabalho de identificação e eliminação de criadouros do mosquito Aedes aegypti</segment>
+    <segment id="74">, transmissor dos vírus da dengue</segment>
+    <segment id="75">, zika e chikungunya.</segment>
+    <segment id="76">Também está previsto para este sábado (3) um "Dia</segment>
+    <segment id="77">D" de ações de combate à doença.</segment>
+    <segment id="78">Todas as 471 UBSs (Unidades Básicas de Saúde) estarão abertas das 8h às 17h com médicos e profissionais de enfermagem para realizar atendimentos e testes rápidos de dengue.</segment>
+    <segment id="79">Como eliminar focos de dengueTampe a caixa d’água e outros reservatórios de águaRetire folhas ou sujeiras que podem gerar acúmulo de água nas calhasGuarde pneus em locais cobertosGuarde baldes e garrafas com a boca virada para baixoRealize limpeza periódica em ralos</segment>
+    <segment id="80">, canaletas e outros tipos de escoamentos de águaLimpe e retire acúmulo de água de bandejas de ar-condicionado e geladeirasLave as bordas dos recipientes que acumulam água com sabão e buchaJogue as larvas na terra ou no chão</segment>
+    <segment id="81">secoPara grandes depósitos de água e outros reservatórios de água para consumo humano é necessária a presença de agente de saúde para aplicação do larvicida</segment>
+    <segment id="82">;</segment>
+    <segment id="83">Utilize areia nos pratos de vasos de plantasRetire água de plantas</segment>
+    <segment id="84">comocomo bambu e broméliasLimpe as piscinasGuarde ou jogue no lixo os objetos que podem acumular água</segment>
+  </rst>
+</analysis>

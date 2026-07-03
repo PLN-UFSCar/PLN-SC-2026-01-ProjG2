@@ -1,0 +1,54 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um projeto da Prefeitura de Santos (SP) que prevê o pagamento de aluguel para moradores de rua virou tema da campanha municipal do ano que vem.</segment>
+    <segment id="2">Batizada de Levante a Partir das Calçadas</segment>
+    <segment id="3">, a ação prevê pagamento de meio salário mínimo (R$ 660) para custear estadia em imóveis para os sem-teto.</segment>
+    <segment id="4">O projeto foi aprovado em primeira votação pela Câmara Municipal e ainda deve passar por uma segunda análise dos vereadores antes de virar lei.</segment>
+    <segment id="5">Prefeitura de Santos (SP) quer pagar aluguel para moradores de rua - Klaus Richmond/FolhapressOpositores do prefeito Rogério Santos (Republicanos)</segment>
+    <segment id="6">, que buscará a reeleição no ano que vem</segment>
+    <segment id="7">, dizem que o projeto perpetua o problema dos moradores de rua e pode atrair mais pessoas</segment>
+    <segment id="8">, inclusive de outras cidades</segment>
+    <segment id="9">, para Santos.</segment>
+    <segment id="10">"</segment>
+    <segment id="11">É errado oferecer dinheiro sem uma proposta ampla de resolução do problema.</segment>
+    <segment id="12">Essas pessoas precisam de um acolhimento integrado.</segment>
+    <segment id="13">É preciso um caminho gerenciado e planejado</segment>
+    <segment id="14">, para que</segment>
+    <segment id="15">para que a porta de saída dessa situação seja definitiva"</segment>
+    <segment id="16">, diz a deputada federal Rosana Valle (PL)</segment>
+    <segment id="17">, que deve ser uma das principais adversárias do atual prefeito no pleito.</segment>
+    <segment id="18">Ela compara a ação ao programa da gestão Fernando Haddad (PT) na prefeitura de São Paulo</segment>
+    <segment id="19">, apelidado de "Bolsa Crack".</segment>
+    <segment id="20">Em resposta</segment>
+    <segment id="21">, a prefeitura diz que o projeto está sendo distorcido</segment>
+    <segment id="22">, e que o dinheiro não será dado diretamente aos moradores de rua</segment>
+    <segment id="23">, masmas sim direcionado aos aluguéis.</segment>
+    <segment id="24">Os beneficiados são pessoas que já são atendidas por outros programas municipais.  "</segment>
+    <segment id="25">A iniciativa não atrairá mais pessoas em situação de rua para a cidade.</segment>
+    <segment id="26">Ao contrário: vai reduzir esse número atendendo quem já está na rede municipal de serviços em busca de oportunidades de recomeço</segment>
+    <segment id="27">, concedendo uma moradia temporária até que a pessoa seja preparada para ser reinserida no mercado de trabalho com toda a estrutura e respaldo das equipes técnicas da Prefeitura de Santos"</segment>
+    <segment id="28">, diz a administração municipal.</segment>
+  </rst>
+</analysis>

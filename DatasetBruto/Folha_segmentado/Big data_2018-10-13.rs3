@@ -1,0 +1,133 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">No início do ano</segment>
+    <segment id="2">, corretora de seguros JLT alertou a uma de suas empresas clientes que corria riscos: entre seus 5 mil funcionários</segment>
+    <segment id="3">, 15 eram bombas-relógio</segment>
+    <segment id="4">, com alta iminência de infarto.</segment>
+    <segment id="5">A JLT chegou a essa conclusão após desenvolver um programa chamado</segment>
+    <segment id="6">Meu BI</segment>
+    <segment id="7">, uma plataforma que cruza diferentes bancos de dados e detecta padrões de saúde das pessoas com um sistema de inteligência artificial.</segment>
+    <segment id="8">Qualquer procedimento de saúde que um funcionário faz com o plano de saúde da empresa cai na base de dados da plataforma –com exceção de prontuários</segment>
+    <segment id="9">, que são sigilosos.</segment>
+    <segment id="10">É possível detectar quem tem alta probabilidade de infarto</segment>
+    <segment id="11">porque</segment>
+    <segment id="12">porque um algoritmo específico foi desenvolvido para identificar esse risco.</segment>
+    <segment id="13">Leva em consideração a idade</segment>
+    <segment id="14">, o IMC</segment>
+    <segment id="15">, o vício em cigarro</segment>
+    <segment id="16">, o uso de medicamentos para a pressão e o histórico de diabetes e colesterol dos funcionários.</segment>
+    <segment id="17">Os 15 “bomba-relógio” tiveram soma alta</segment>
+    <segment id="18">, o que levou a JLT a informar sua segurada.</segment>
+    <segment id="19">Cruzamento de dados permite detectar quem tem alta probabilidade de infarto - Davi Ribeiro/Folhapress</segment>
+    <segment id="20">Com a tecnologia</segment>
+    <segment id="21">, que tem a base desenvolvida pela Microsoft</segment>
+    <segment id="22">, é possível identificar possíveis diabéticos (a depender da frequência e do tipo de exame a que</segment>
+    <segment id="23">sese submetem)</segment>
+    <segment id="24">, obesos (</segment>
+    <segment id="25">sese o número de cirurgias bariátricas é alto) e gestantes que vão para a UTI neonatal.</segment>
+    <segment id="26">Com informações precisas</segment>
+    <segment id="27">, a segurada decide</segment>
+    <segment id="28">comocomo gerenciar seus gastos.</segment>
+    <segment id="29">Pode oferecer uma parceria com uma academia e promover programas educativos para grávidas.</segment>
+    <segment id="30">“Conseguimos saber</segment>
+    <segment id="31">sese a pessoa faz exames de colesterol</segment>
+    <segment id="32">, não se</segment>
+    <segment id="33">se o índice está baixo ou alto</segment>
+    <segment id="34">, o tipo de cirurgia que fez</segment>
+    <segment id="35">, qual remédio tomou ou quantos dias ficou no quarto.</segment>
+    <segment id="36">Mas as empresas veem os dados</segment>
+    <segment id="37">, não os nomes”</segment>
+    <segment id="38">, diz Gabriela Agapito</segment>
+    <segment id="39">, responsável pelo projeto</segment>
+    <segment id="40">, diretora da JLT Brasil.</segment>
+    <segment id="41">Uma estimativa da IBM</segment>
+    <segment id="42">, de 2017</segment>
+    <segment id="43">, diz que produzimos 2</segment>
+    <segment id="44">,5 quintilhões de bytes em dados por dia</segment>
+    <segment id="45">, sendo 80% desestruturados (</segment>
+    <segment id="46">comocomo tuítes</segment>
+    <segment id="47">, emails e fotos).</segment>
+    <segment id="48">As empresas que estruturam</segment>
+    <segment id="49">, organizam e analisam registros chegam a padrões de consumo e comportamento.</segment>
+    <segment id="50">Com inteligência artificial</segment>
+    <segment id="51">, conseguem prever cenários.</segment>
+    <segment id="52">Uma ferramenta lançada pela Neoway</segment>
+    <segment id="53">, empresa de big data</segment>
+    <segment id="54">, e a Tendências</segment>
+    <segment id="55">, consultoria econômica</segment>
+    <segment id="56">, permite que os clientes explorem o potencial de consumo para 140 produtos nos municípios brasileiros.</segment>
+    <segment id="57">Chamado de Purchasing Power</segment>
+    <segment id="58">, o software coleta informações de 35 milhões empresas e de mais de 205 milhões de pessoas.</segment>
+    <segment id="59">Para chegar no “mercado potencial” de cada produto</segment>
+    <segment id="60">, usa informações</segment>
+    <segment id="61">comocomo endereço e renda salarial estimada dos cidadãos.  Se uma pessoa quiser abrir uma rede de salões de beleza em São Paulo</segment>
+    <segment id="62">, descobre que é mais vantajoso em Campinas</segment>
+    <segment id="63">, Guarulhos e São Bernardo do Campo.</segment>
+    <segment id="64">Se a ideia for um açougue</segment>
+    <segment id="65">, há mais potencial para consumo de carne de boi de segunda em Rondonópolis do que em Várzea Grande no Mato Grosso.</segment>
+    <segment id="66">“Temos 3 mil fontes públicas</segment>
+    <segment id="67">, fora as informações de parceiros.</segment>
+    <segment id="68">A ferramenta traça uma faixa de renda para cada segmento de consumo dos municípios brasileiros e dá mais de 2</segment>
+    <segment id="69">,5 milhões de possibilidades”</segment>
+    <segment id="70">, diz Cristina Penna</segment>
+    <segment id="71">, da Neoway.</segment>
+    <segment id="72">Os big data são alimentados com dados chamados públicos</segment>
+    <segment id="73">, disponibilizados pelo governo na internet.</segment>
+    <segment id="74">São resultados da PNAD (Pesquisa Nacional por Amostra de Domicílios)</segment>
+    <segment id="75">, da POF (Pesquisa  de Orçamentos Familiares)</segment>
+    <segment id="76">, do Caged (Cadastro Geral de Empregados e Desempregados)</segment>
+    <segment id="77">, além de registros de cartório</segment>
+    <segment id="78">, processos judiciais e juntas comerciais.</segment>
+    <segment id="79">Não há lei que proíba esse tipo de publicação e que restrinja seu uso comercial.</segment>
+    <segment id="80">A Lei Geral de Proteção de Dados Pessoais</segment>
+    <segment id="81">, que passa a valer em fevereiro de 2020</segment>
+    <segment id="82">, não acabará com o big data e nem impedirá o uso desses dados.</segment>
+    <segment id="83">Na visão de especialistas</segment>
+    <segment id="84">, pode alterar parte do funcionamento desse tipo de mercado</segment>
+    <segment id="85">, ao menos no que tange à transparência.</segment>
+    <segment id="86">Dinâmica de registro das informações</segment>
+    <segment id="87">O que é coletado?</segment>
+    <segment id="88">Dados cadastrais</segment>
+    <segment id="89">, como</segment>
+    <segment id="90">como nome completo</segment>
+    <segment id="91">, endereço</segment>
+    <segment id="92">, CPF, data de nascimento e nome de parentes</segment>
+    <segment id="93">; e dados menos óbvios</segment>
+    <segment id="94">, como</segment>
+    <segment id="95">como endereços de familiares</segment>
+    <segment id="96">, multas</segment>
+    <segment id="97">, histórico empregatício e faixa salarial.</segment>
+    <segment id="98">O que é feito com os dados?</segment>
+    <segment id="99">Empresas criam grupos de consumo segmentados e oferecem as informações a outras empresas</segment>
+    <segment id="100">, que podem direcionar produtos de forma assertiva ou tomar decisões estratégicas</segment>
+    <segment id="101">Posso impedir a coleta?</segment>
+    <segment id="102">Não.</segment>
+    <segment id="103">São dados divulgados pelo próprio governo.</segment>
+    <segment id="104">Pode minimizar a captura ao optar por navegadores com maior proteção à privacidade e ao apagar contas antigas.</segment>
+    <segment id="105">Em caso</segment>
+    <segment id="106">caso de prejuízo</segment>
+    <segment id="107">, a saída é recorrer à Justiça</segment>
+  </rst>
+</analysis>

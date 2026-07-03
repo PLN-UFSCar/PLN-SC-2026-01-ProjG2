@@ -1,0 +1,47 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Justiça condena clínica a indenizar pais de bebê morto
+RIO - O Tribunal de Justiça do Rio (TJ-RJ) condenou a Clínica Prontobaby</segment>
+    <segment id="2">, na Tijuca</segment>
+    <segment id="3">, a pagar R$ 177</segment>
+    <segment id="4">,5 mil de indenização por danos morais à família de uma criança de 18 meses que morreu após contrair uma infecção bacteriana nas dependências do hospital.</segment>
+    <segment id="5">De acordo com a assessoria do TJ-RJ</segment>
+    <segment id="6">, a criança</segment>
+    <segment id="7">, com leucemia</segment>
+    <segment id="8">, havia sido internada na unidade para tratamento quimioterápico.</segment>
+    <segment id="9">LEIA MAIS:</segment>
+    <segment id="10">Seis pessoas são presas por policiais da Delegacia do Consumidor em hospitais particulares do Rio</segment>
+    <segment id="11">O relator da decisão em 2ª instância</segment>
+    <segment id="12">, desembargador Camilo Ribeiro Rulière</segment>
+    <segment id="13">, da 1ª Câmara Cível da Capital</segment>
+    <segment id="14">, frisou que a clínica não possuía as condições mínimas de higiene e segurança para atender aos seus pacientes.</segment>
+    <segment id="15">Cabe recurso à decisão.</segment>
+    <segment id="16">No início de julho</segment>
+    <segment id="17">, o Hospital Prontobaby foi alvo de operação de policiais da Delegacia do Consumidor (Decon).</segment>
+    <segment id="18">Os agentes encontraram caixas de medicamentos</segment>
+    <segment id="19">, utensílios médicos e alimentos fora do prazo de validade.</segment>
+    <segment id="20">Os policiais foram até o hospital depois de o pai de uma criança internada na unidade denunciar que enfermeiros tentaram aplicar um medicamento vencido na filha.</segment>
+  </rst>
+</analysis>

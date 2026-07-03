@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Jovem Ã© preso com 4kg de maconha na Zona Norte da Capital</segment>
+    <segment id="2">O rapaz nÃ£o tinha antecedentes criminais</segment>
+    <segment id="3">Eduardo Torres
+eduardo.torres@diariogaucho.com.br</segment>
+    <segment id="4">Um jovem de 20 anos foi preso na tarde desta quarta com 4kg de maconha na Rua B</segment>
+    <segment id="5">, da Vila Nazareth</segment>
+    <segment id="6">, Bairro Sarandi</segment>
+    <segment id="7">, Zona Norte da Capital.</segment>
+    <segment id="8">Abordado pouco antes das 16h pelos policiais militares</segment>
+    <segment id="9">, o rapaz nÃ£o tinha antecedentes criminais.</segment>
+    <segment id="10">Ele levava a droga em seis tijolos dentro de uma mochila.</segment>
+    <segment id="11">Conforme o apurado pela polÃ­cia</segment>
+    <segment id="12">, ele levaria a droga para ser revendida em GravataÃ­.</segment>
+    <segment id="13">O suspeito foi encaminhado Ã  3Âª DPPA</segment>
+    <segment id="14">, onde serÃ¡ autuado em flagrante por trÃ¡fico.</segment>
+  </rst>
+</analysis>

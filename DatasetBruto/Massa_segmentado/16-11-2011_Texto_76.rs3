@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Folia estrelada</segment>
+    <segment id="2">Gilmelândia está cotada para ser a apresentadora do carnaval da Band</segment>
+    <segment id="3">A cantora Gilmelândia</segment>
+    <segment id="4">, que já apresentou programas no SBT e na Rede TV!</segment>
+    <segment id="5">, está cotadíssima para substituir a apresentadora Patrícia Maldonado (que está grávida) no comando das transmissões do Band Folia</segment>
+    <segment id="6">2012 ao lado do também apresentador Betinho.</segment>
+    <segment id="7">A emissora</segment>
+    <segment id="8">, no entanto</segment>
+    <segment id="9">, ainda não bateu o martelo.</segment>
+    <segment id="10">A única confirmação é com relação aos artistas que vão estrelar a campanha do carnaval do próximo ano</segment>
+    <segment id="11">, como</segment>
+    <segment id="12">como Carlinhos Brown</segment>
+    <segment id="13">, Durval</segment>
+    <segment id="14">, Levi Lima e Manno Góes (Jammil)</segment>
+    <segment id="15">, Netinho</segment>
+    <segment id="16">, Márcio Vitor</segment>
+    <segment id="17">, Xanddy</segment>
+    <segment id="18">, Bell Marques</segment>
+    <segment id="19">, dentre outros.</segment>
+  </rst>
+</analysis>

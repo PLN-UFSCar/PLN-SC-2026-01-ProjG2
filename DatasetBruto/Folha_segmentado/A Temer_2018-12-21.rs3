@@ -1,0 +1,122 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo Temer acaba em dez dias e podemos fazer um balanço preliminar de sua gestão.</segment>
+    <segment id="2">Esta coluna é sobre o gasto primário</segment>
+    <segment id="3">, pois</segment>
+    <segment id="4">pois o time “temerista” tinha por objetivo realizar uma grande reforma fiscal.</segment>
+    <segment id="5">Dois anos e meio depois</segment>
+    <segment id="6">, os resultados ficaram abaixo do projetado</segment>
+    <segment id="7">, masmas houve avanços</segment>
+    <segment id="8">, como</segment>
+    <segment id="9">como indica um documento publicado recentemente pelo Ministério da Fazenda.</segment>
+    <segment id="10">O ministro da Fazenda</segment>
+    <segment id="11">, Eduardo Guardia</segment>
+    <segment id="12">, e o presidente Michel Temer- Pedro Ladeira - 10.abr.18/FolhapressO relatório da Fazenda é um registro do que foi feito e</segment>
+    <segment id="13">, mais importante</segment>
+    <segment id="14">, do que não foi feito.</segment>
+    <segment id="15">A análise merece ser lida</segment>
+    <segment id="16">, masmas tem lacunas.</segment>
+    <segment id="17">Destaco apenas quatro por limite de espaço.</segment>
+    <segment id="18">Primeiro</segment>
+    <segment id="19">, não houve grande reforma do gasto obrigatório durante o governo Temer.</segment>
+    <segment id="20">Das 24 medidas listadas pela Fazenda</segment>
+    <segment id="21">, somente a substituição da TJLP  pela TLP pode ser considerada ação permanente</segment>
+    <segment id="22">, masmas cujo impacto final ainda não é conhecido.</segment>
+    <segment id="23">Mais especificamente</segment>
+    <segment id="24">, a TLP e a TJLP tiveram praticamente o mesmo valor acumulado em 2018 (6</segment>
+    <segment id="25">,9% versus 6</segment>
+    <segment id="26">,7%).</segment>
+    <segment id="27">A mudança maior começará a partir de 2019</segment>
+    <segment id="28">, quando saberemos melhor as consequências dessa reforma.</segment>
+    <segment id="29">Em princípio</segment>
+    <segment id="30">, o aumento do custo dos empréstimos do BNDES pode levar a mais subsídios explícitos no Orçamento</segment>
+    <segment id="31">, com impacto indefinido sobre o gasto primário no longo prazo.</segment>
+    <segment id="32">Ainda assim</segment>
+    <segment id="33">, a TLP pode ser um avanço na transparência fiscal.</segment>
+    <segment id="34">Segundo</segment>
+    <segment id="35">, passando ao restante do gasto primário obrigatório</segment>
+    <segment id="36">, as principais reformas do mandato 2015-18</segment>
+    <segment id="37">foram realizadas por Dilma</segment>
+    <segment id="38">, em 2015</segment>
+    <segment id="39">, no abono salarial</segment>
+    <segment id="40">, no seguro-desemprego</segment>
+    <segment id="41">, nas pensões por morte e no auxílio-doença.</segment>
+    <segment id="42">Os impactos das reformas de Dilma no INSS são graduais</segment>
+    <segment id="43">, masmas</segment>
+    <segment id="44">, no caso</segment>
+    <segment id="45">caso dos programas do FAT</segment>
+    <segment id="46">, já é possível constatar redução relevante: a despesa real anual com abono salarial e seguro-desemprego caiu de R$ 71</segment>
+    <segment id="47">,3 bilhões</segment>
+    <segment id="48">, em maio de 2015</segment>
+    <segment id="49">, para R$ 54</segment>
+    <segment id="50">,9 bilhões</segment>
+    <segment id="51">, em outubro de 2018.</segment>
+    <segment id="52">Essa queda corresponde a 0</segment>
+    <segment id="53">,2% do PIB por ano e foi a principal reforma da despesa obrigatória da União em 2015-18.</segment>
+    <segment id="54">Terceiro</segment>
+    <segment id="55">, os temeristas também destacam o controle do gasto discricionário sob sua gestão</segment>
+    <segment id="56">, masmas os dados indicam outra coisa.</segment>
+    <segment id="57">Esse tipo de despesa caiu de 4</segment>
+    <segment id="58">,5% do PIB</segment>
+    <segment id="59">, em dezembro de 2014</segment>
+    <segment id="60">, para 4</segment>
+    <segment id="61">,0% do PIB</segment>
+    <segment id="62">, em maio de 2016.</segment>
+    <segment id="63">Dilma fez</segment>
+    <segment id="64">, portanto</segment>
+    <segment id="65">, um ajuste de meio ponto do PIB em seu breve segundo mandato.</segment>
+    <segment id="66">Qual foi o ajuste de Temer?</segment>
+    <segment id="67">Os dados do Tesouro indicam que o gasto discricionário deve ficar em 3</segment>
+    <segment id="68">,9% do PIB neste ano</segment>
+    <segment id="69">, ou seja</segment>
+    <segment id="70">, o ajuste deve ser de 0</segment>
+    <segment id="71">,1 ponto do PIB sob Temer.</segment>
+    <segment id="72">A grande redução do gasto discricionário ocorreu sob Dilma.</segment>
+    <segment id="73">O que houve sob Temer foi grande volatilidade</segment>
+    <segment id="74">, com a despesa subindo abruptamente no fim de 2016 (o “banquete antes da dieta” do teto de gastos)</segment>
+    <segment id="75">, despencando em 2017 (o erro de Meirelles) e voltando a subir rapidamente em 2018 (a correção de Guardia).</segment>
+    <segment id="76">A montanha-russa do gasto discricionário implementada pela equipe temerista  acabou prejudicando a recuperação da economia</segment>
+    <segment id="77">, masmas confesso que nesse quesito o segundo governo Dilma incorreu em erro parecido.</segment>
+    <segment id="78">Houve contingenciamento excessivo entre dezembro de 2014 e novembro de 2015 (de 0</segment>
+    <segment id="79">,6% do PIB)</segment>
+    <segment id="80">, e isso contribuiu para a recessão daquele ano.</segment>
+    <segment id="81">Esse erro inicial só começou a ser sanado em dezembro de 2015</segment>
+    <segment id="82">, com a mudança de comando no Ministério da Fazenda</segment>
+    <segment id="83">, quando o gasto primário parou de cair e</segment>
+    <segment id="84">sese estabilizou em 4% do PIB.</segment>
+    <segment id="85">Por fim</segment>
+    <segment id="86">, como</segment>
+    <segment id="87">como já coloquei em outra coluna no fim de 2017</segment>
+    <segment id="88">, a “grande reforma fiscal” de Temer</segment>
+    <segment id="89">, o teto de gastos</segment>
+    <segment id="90">, foi feita para não ter grande impacto durante seu mandato.</segment>
+    <segment id="91">Sem reformas estruturais radicais</segment>
+    <segment id="92">, o limite de despesas não</segment>
+    <segment id="93">sese sustenta</segment>
+    <segment id="94">, como</segment>
+    <segment id="95">como reconhecem os próprios temeristas</segment>
+    <segment id="96">, masmas mesmo assim deixaram o trabalho duro para Bolsonaro.</segment>
+  </rst>
+</analysis>

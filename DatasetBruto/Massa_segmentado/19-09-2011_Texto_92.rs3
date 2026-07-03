@@ -1,0 +1,47 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Irmão de monstro é morto no Uruguai
+Em dezembro</segment>
+    <segment id="2">, Wisley (dir) foi preso junto com irmão</segment>
+    <segment id="3">O irmão de um dos suspeitos de matar as meninas Gabriela Nunes</segment>
+    <segment id="4">, de 13 anos</segment>
+    <segment id="5">, e Janaína Brito</segment>
+    <segment id="6">, de 16 anos</segment>
+    <segment id="7">, em  2010</segment>
+    <segment id="8">, foi morto ontem no Uruguai</segment>
+    <segment id="9">, em Salvador.</segment>
+    <segment id="10">Wisley Chaves de Souza tinha 21 anos e era irmão de  Jarbas Cristiano Chaves de Souza</segment>
+    <segment id="11">, o Cris</segment>
+    <segment id="12">, 24 anos</segment>
+    <segment id="13">, um dos monstros acusados pela polícia de estar envolvido na decapitação.</segment>
+    <segment id="14">Em dezembro de 2010 em Itaparica</segment>
+    <segment id="15">, Wisley foi preso junto com Cris.</segment>
+    <segment id="16">Sua participação ao lado dos monstros no crime chegou a ser cogitada.</segment>
+    <segment id="17">Ele foi preso</segment>
+    <segment id="18">, masmas liberado</segment>
+    <segment id="19">porque</segment>
+    <segment id="20">porque nada ficou comprovado.</segment>
+  </rst>
+</analysis>

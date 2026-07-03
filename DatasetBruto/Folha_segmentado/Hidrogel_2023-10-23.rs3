@@ -1,0 +1,96 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Pesquisadores brasileiros desenvolveram um hidrogel de baixo custo com ação anti-inflamatória que poderá</segment>
+    <segment id="2">, no futuro</segment>
+    <segment id="3">, ajudar a tratar feridas crônicas na pele</segment>
+    <segment id="4">, como</segment>
+    <segment id="5">como as que costumam acometer pessoas com diabetes.</segment>
+    <segment id="6">Resultados promissores de testes em animais foram divulgados na revista Biomedicine &amp;amp</segment>
+    <segment id="7">; Pharmacotherapy.</segment>
+    <segment id="8">De acordo com a Federação Internacional de Diabetes</segment>
+    <segment id="9">, o Brasil é o sexto país em número de pessoas com a doença</segment>
+    <segment id="10">, que atingiu proporções epidêmicas e</segment>
+    <segment id="11">sese tornou a quinta causa de morte no mundo.</segment>
+    <segment id="12">São 17</segment>
+    <segment id="13">,7 milhões de indivíduos sofrendo diariamente com as alterações metabólicas causadas pelo comprometimento da secreção e ação da insulina</segment>
+    <segment id="14">, como</segment>
+    <segment id="15">como nefro e neuropatias e dificuldades na cicatrização de feridas.</segment>
+    <segment id="16">Estima-</segment>
+    <segment id="17">sese que um entre cinco pacientes com diabetes possa desenvolver feridas crônicas</segment>
+    <segment id="18">, como</segment>
+    <segment id="19">como a úlcera do pé diabético.</segment>
+    <segment id="20">Dermatologista examina ferida pequena na pele - Evgeniy Kalinovskiy - stock.adobe.comEm pessoas saudáveis</segment>
+    <segment id="21">, lesões cutâneas são imediatamente seguidas de uma sequência de eventos que levam à cicatrização: o sangramento é controlado pela agregação plaquetária</segment>
+    <segment id="22">, proporcionando uma estrutura de suporte para a fixação e proliferação celular</segment>
+    <segment id="23">, ocorre formação de novos vasos sanguíneos e deposição de colágeno.</segment>
+    <segment id="24">Para quem sofre de diabetes</segment>
+    <segment id="25">, no entanto</segment>
+    <segment id="26">, o processo é muito mais complicado.</segment>
+    <segment id="27">A hiperglicemia aumenta a produção de substâncias derivadas do oxigênio (oxidantes) e</segment>
+    <segment id="28">, ao contrário da cicatrização normal</segment>
+    <segment id="29">, as feridas diabéticas são caracterizadas principalmente pela resposta inflamatória exacerbada e o processo da formação de vasos sanguíneos prejudicado.</segment>
+    <segment id="30">Recentemente</segment>
+    <segment id="31">, hidrogéis biológicos têm sido empregados com sucesso para acelerar o processo de cicatrização de feridas por conta do ambiente úmido e estéril que proporcionam.</segment>
+    <segment id="32">No trabalho apoiado pela Fapesp e conduzido durante o doutorado de Monielle Sant'Ana Leal</segment>
+    <segment id="33">, pesquisadores das universidades Estadual Paulista (Unesp) e Federal de São Paulo (Unifesp) desenvolveram uma fórmula à base da proteína anexina A1</segment>
+    <segment id="34">, cujo envolvimento na regulação da inflamação e da proliferação celular já havia sido comprovado em estudos prévios do mesmo grupo.</segment>
+    <segment id="35">No artigo mais recente</segment>
+    <segment id="36">, o grupo descreve que o tratamento pode modular o microambiente da lesão</segment>
+    <segment id="37">, favorecendo a regeneração do tecido.</segment>
+    <segment id="38">O efeito do hidrogel contendo AnxA12-26 (os aminoácidos que vão do número dois ao 26 na cadeia de peptídeos que forma a proteína) foi avaliado em testes com camundongos que tiveram um quadro semelhante ao do diabetes tipo 1 induzido.</segment>
+    <segment id="39">Observou-</segment>
+    <segment id="40">sese nos animais uma diminuição de células inflamatórias três dias após a indução das lesões.</segment>
+    <segment id="41">Após 14 dias</segment>
+    <segment id="42">, as feridas já estavam completamente cicatrizadas.</segment>
+    <segment id="43">A título de comparação</segment>
+    <segment id="44">, os animais que não passaram por nenhum tratamento e que receberam aplicação apenas do hidrogel apresentaram as características comuns da fase aguda da inflamação</segment>
+    <segment id="45">, com lesões mais intensas no terceiro dia.</segment>
+    <segment id="46">Análises mostraram que o tratamento promoveu melhora na regeneração tecidual pela proliferação de queratinócitos (células com papel fundamental na restauração da homeostase da pele)</segment>
+    <segment id="47">, redução de macrófagos (células-chave no processo de cicatrização) e aumento do fator de crescimento endotelial vascular (VEGF</segment>
+    <segment id="48">, que induz o crescimento de vasos sanguíneos).</segment>
+    <segment id="49">Já um ensaio de citotoxicidade in vitro (feito para avaliar</segment>
+    <segment id="50">comocomo as células da pele reagem ao material) assegurou a biocompatibilidade do produto</segment>
+    <segment id="51">, sugerindo a segurança para aplicação tópica.</segment>
+    <segment id="52">"</segment>
+    <segment id="53">Nosso hidrogel é altamente absorvente</segment>
+    <segment id="54">, mantém o meio úmido ideal para a cicatrização e mostra eficiência para levar ao processo de cicatrização completa da lesão</segment>
+    <segment id="55">, com redução de tempo de cicatrização</segment>
+    <segment id="56">, inclusive"</segment>
+    <segment id="57">, afirma Sonia Maria Oliani</segment>
+    <segment id="58">, pesquisadora do Instituto de Biociências</segment>
+    <segment id="59">, Letras e Ciências Exatas (Ibilce-Unesp) e coordenadora do estudo.</segment>
+    <segment id="60">"</segment>
+    <segment id="61">Trata-</segment>
+    <segment id="62">sese de uma opção eficaz e que pode ampliar o arsenal terapêutico para o tratamento de feridas diabéticas.</segment>
+    <segment id="63">"  Economia</segment>
+    <segment id="64">Outras vantagens do hidrogel desenvolvido pelos pesquisadores paulistas são a facilidade de produção e o baixo custo –este último é um fator fundamental a ser considerado</segment>
+    <segment id="65">, uma vez que os gastos médicos anuais com diabetes na América do Sul e Central ultrapassam US$ 65</segment>
+    <segment id="66">,3 bilhões.</segment>
+    <segment id="67">O produto também tem potencial para ser usado com outras finalidades.</segment>
+    <segment id="68">No momento</segment>
+    <segment id="69">, os pesquisadores testam seu efeito no tratamento de lesões na mucosa bucal.</segment>
+    <segment id="70">O artigo Annexin A12-26 hydrogel improves healing properties in an experimental skin lesion after induction of type 1 diabetes pode ser lido em www.sciencedirect.com/science/article/pii/S0753332223010211?via%3Dihu.</segment>
+  </rst>
+</analysis>

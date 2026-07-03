@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Luana Kisner</segment>
+    <segment id="2">Modelo é o novo rolo do Imperador
+Luana Kisner</segment>
+    <segment id="3">, nova namorada do atacante Adriano</segment>
+    <segment id="4">, é conhecida na noite de Porto Alegre</segment>
+    <segment id="5">, segundo coluna do jornal “Agora São Paulo”.</segment>
+    <segment id="6">A modelo de 23 anos até já tentou ser assistente do “Studio Pampa”</segment>
+    <segment id="7">, uma espécie de Pânico na TV</segment>
+    <segment id="8">, masmas não conseguiu.</segment>
+    <segment id="9">O Imperador conheceu Luana há cerca de dois meses</segment>
+    <segment id="10">, na capital paulista</segment>
+    <segment id="11">, onde ela mora</segment>
+    <segment id="12">, trabalha</segment>
+    <segment id="13">comocomo modelo e estuda Educação Física.</segment>
+    <segment id="14">Em seu Facebook</segment>
+    <segment id="15">, a modelo conta que já foi assistente de palco de Rodrigo Faro no programa “</segment>
+    <segment id="16">O Melhor do Brasil”.</segment>
+  </rst>
+</analysis>

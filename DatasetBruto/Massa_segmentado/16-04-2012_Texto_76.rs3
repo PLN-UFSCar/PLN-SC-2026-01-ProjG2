@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Paparazzo: Jonas tira a roupa na laje
+Ele causou alvoroço ao posar em uma laje no Complexo do Alemão</segment>
+    <segment id="2">, no Rio
+Já estão na internet as fotos do ensaio sensual feito pelo ex-BBB 12 Jonas.</segment>
+    <segment id="3">Ele causou alvoroço ao posar em uma laje no Complexo do Alemão</segment>
+    <segment id="4">, no Rio.</segment>
+    <segment id="5">Teve até quem botasse biquíni para</segment>
+    <segment id="6">sese exibir na varanda de casa ao ver o ex-BBB!</segment>
+    <segment id="7">O resultado pode ser visto no www.paparazzo.com.br</segment>
+    <segment id="8">, onde o loiro abaixa a sunga deixando à mostra uma tatuagem bem indiscreta...</segment>
+  </rst>
+</analysis>

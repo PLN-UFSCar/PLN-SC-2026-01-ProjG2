@@ -1,0 +1,57 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um órgão regulador da Itália afirmou nesta segunda-feira (29) que o ChatGPT</segment>
+    <segment id="2">, criado pela OpenAI</segment>
+    <segment id="3">, e as técnicas usadas para coletar dados dos usuários violam as leis de privacidade do país.</segment>
+    <segment id="4">De acordo com a entidade</segment>
+    <segment id="5">, a descoberta foi feita em uma investigação aberta por ela em março do ano passado e a empresa que criou o chatbot já foi notificada.</segment>
+    <segment id="6">OpenAI</segment>
+    <segment id="7">, criadora do ChatGPT</segment>
+    <segment id="8">, é notificada por órgão que regula privacidade na Itália - Dado Ruvic/ReutersEm seu comunicado</segment>
+    <segment id="9">, o órgão italiano disse que "os elementos adquiridos podem indicar uma ou mais violações das regulamentações da UE".</segment>
+    <segment id="10">A OpenAI tem 30 dias para responder à descoberta.</segment>
+    <segment id="11">O ChatGPT é um chatbot que a inteligência generativa com modelos que produzem texto</segment>
+    <segment id="12">, imagens e código semelhantes aos humanos em segundos.</segment>
+    <segment id="13">Leia tambémEmpresa de IA de Musk busca US$ 6 bilhões para concorrer com ChatGPTNova IA do Google gera vídeos de bichos em situações surreais</segment>
+    <segment id="14">;</segment>
+    <segment id="15">vejaEm vídeos</segment>
+    <segment id="16">, veja</segment>
+    <segment id="17">comocomo funciona IA da Samsung que edita e melhora fotosNa surdina</segment>
+    <segment id="18">, Apple investe em inteligência artificial para uso em iPhonesA OpenAI</segment>
+    <segment id="19">, sediada em San Francisco</segment>
+    <segment id="20">, é apoiada pela Microsoft que</segment>
+    <segment id="21">, juntamente com o Google</segment>
+    <segment id="22">, da Alphabet</segment>
+    <segment id="23">, tem utilizado a inteligência artificial para aprimorar seus produtos.</segment>
+    <segment id="24">Na abertura da investigação em março</segment>
+    <segment id="25">, o órgão italiano citou a falta de base legal que justificasse o agrupamento e armazenamento dos dados dos usuários para treinar os algoritmos.</segment>
+    <segment id="26">Foi solicitada a suspensão temporária da coleta de dados.</segment>
+    <segment id="27">Desvendando IAUm guia do New York Times em formato de newsletter para você entender</segment>
+    <segment id="28">comocomo funciona a IACarregando...</segment>
+    <segment id="29">Na ocasião</segment>
+    <segment id="30">, o órgão informou que a OpenAI poderia ser multada em até 20 milhões de euros (cerca de R$ 106</segment>
+    <segment id="31">,3 milhões) ou até 4% da sua receita anual.</segment>
+  </rst>
+</analysis>

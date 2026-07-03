@@ -1,0 +1,69 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Os resultados do Enem (Exame Nacional do Ensino Médio) de 2018 poderão ser consultados a partir desta sexta-feira (18) na página do participante e no aplicativo Enem 2018 pela maior parte dos participantes.</segment>
+    <segment id="2">Mas há uma exceção: quem não terminou o ensino médio e fez a prova para testar os conhecimentos - os chamados "treineiros —só verão as notas daqui a dois meses</segment>
+    <segment id="3">, em 18 de março.</segment>
+    <segment id="4">Isso porque</segment>
+    <segment id="5">porque o Inep</segment>
+    <segment id="6">, instituto que organiza a prova</segment>
+    <segment id="7">, prioriza a nota de quem usará o exame para tentar uma vaga no ensino superior no Sisu</segment>
+    <segment id="8">, pedir bolsa de estudos no Prouni ou tentar financiamento no Fies.</segment>
+    <segment id="9">O Enem</segment>
+    <segment id="10">, vale lembrar</segment>
+    <segment id="11">, utiliza o sistema de TRI (Teoria de Resposta ao Item)</segment>
+    <segment id="12">, em que o mesmo número de acertos proporcione notas distintas</segment>
+    <segment id="13">, já que as questões têm pesos diferentes.</segment>
+    <segment id="14">Segundo dia de provas do EnemMais    novamente         de   de  de  representando um</segment>
+    <segment id="15">Para verificar o resultado</segment>
+    <segment id="16">, o candidato precisa preencher o CPF e a senha cadastrada na Página do Participante.</segment>
+    <segment id="17">De 22 a 25 de janeiro</segment>
+    <segment id="18">, os candidatos poderão utilizar a nota para</segment>
+    <segment id="19">sese inscreverem no Sisu (Sistema de Seleção Unificada)</segment>
+    <segment id="20">, que oferece vagas nas instituições públicas de ensino superior</segment>
+    <segment id="21">, como</segment>
+    <segment id="22">como universidades estaduais e federais.</segment>
+    <segment id="23">O resultado será divulgado dia 28</segment>
+    <segment id="24">, e o candidato terá do dia 30 ao dia 4 de fevereiro para realizar a matrícula nas instituições.</segment>
+    <segment id="25">Quem não for selecionado na primeira chamada poderá</segment>
+    <segment id="26">sese inscrever para a lista de espera do dia 28 ao dia 4.</segment>
+    <segment id="27">Já o Prouni (Programa Universidade para Todos)</segment>
+    <segment id="28">, que permite estudar com bolsas de até 100% em instituições privadas do país</segment>
+    <segment id="29">, receberá inscrições do dia 29 de janeiro a 1º de fevereiro.</segment>
+    <segment id="30">A primeira chamada será divulgada no dia 4 de fevereiro e a segunda</segment>
+    <segment id="31">, no dia 18.</segment>
+    <segment id="32">Caso não seja selecionado nas duas chamadas</segment>
+    <segment id="33">, o candidato pode</segment>
+    <segment id="34">sese inscrever na lista de espera entre os dias 7 e 8 de março.</segment>
+    <segment id="35">Podem participar do Prouni candidatos que não tenham diploma de ensino superior e que atendam a pelo menos uma das condições: ter cursado o ensino médio completo em escola pública ou em instituição privada com bolsa</segment>
+    <segment id="36">, ser pessoa com deficiência ou ser professor da rede pública.</segment>
+    <segment id="37">O estudante também poderá</segment>
+    <segment id="38">sese candidatar ao Fies (Fundo de Financiamento Estudantil) entre os dias 5 e 12 de fevereiro.</segment>
+    <segment id="39">Os resultados serão divulgados a partir do dia 18 de fevereiro e a lista de espera estará aberta do dia 20 de fevereiro a 31 de março.</segment>
+    <segment id="40">O Fies permite ao estudante financiar as mensalidades do seu curso em instituições privadas.</segment>
+    <segment id="41">Cronograma:  Enem    18/1 - Liberação do resultado do Enem 2018 para quem já concluiu o ensino médio   18/3 - Liberação do resultado do Enem 2018 para treineiros e divulgação do espelho da redação</segment>
+    <segment id="42">Sisu    22/1 a 25/01 - Inscrições Sisu   28/1 - Resultado da 1ª chamada do Sisu   30/1 a 4/2 - Matrícula Sisu</segment>
+    <segment id="43">28/1 a 4/2 - Manifestação de interesse na lista de espera do Sisu    Prouni    29/1 a 1/2 - Inscrições Prouni   4/2 - Resultado da 1ª chamada do Prouni   4/2 a 12/2 - Matrícula 1ª chamada do Prouni   18/2 - Resultado 2ª chamada Prouni   18/2 a 25/2 - Matrícula 2ª chamada Prouni   7/3 a 8/3 - Manifestação de interesse na lista de espera do Prouni    Fies    5/2 a 12/2 - Inscrições Fies   18/2 - Resultado Fies   20/2 a 31/3 - Manifestação de interesse na lista de espera do Fies</segment>
+  </rst>
+</analysis>

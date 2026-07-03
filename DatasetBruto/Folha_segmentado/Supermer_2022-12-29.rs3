@@ -1,0 +1,49 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O varejo de alimentos vai ter um representante na cerimônia de posse do presidente eleito Lula.</segment>
+    <segment id="2">A Abras (Associação Brasileira de Supermercados)</segment>
+    <segment id="3">, cujas associadas reúnem mais de 90 mil estabelecimentos</segment>
+    <segment id="4">, confirmou a presença de João Galassi</segment>
+    <segment id="5">, presidente da entidade.</segment>
+    <segment id="6">Painel S.A.Receba no seu email as informações exclusivas da coluna</segment>
+    <segment id="7">Painel S.A.Carregando...</segment>
+    <segment id="8">De acordo com a associação</segment>
+    <segment id="9">, o convite foi feito pelo vice-presidente eleito</segment>
+    <segment id="10">, Geraldo Alckmin.</segment>
+    <segment id="11">Os presidentes da CNI (indústria) e da Febraban (bancos) também irão ao evento no próximo domingo (1º)</segment>
+    <segment id="12">, masmas a Fiesp não vai estar representada por Josué Gomes</segment>
+    <segment id="13">, filho de José Alencar</segment>
+    <segment id="14">, vice de Lula nos mandatos anteriores.</segment>
+    <segment id="15">Grandes nomes do empresariado</segment>
+    <segment id="16">, como</segment>
+    <segment id="17">como Andre Esteves (BTG Pactual)</segment>
+    <segment id="18">, Luiza Trajano (Magalu) e Abilio Diniz (Carrefour)</segment>
+    <segment id="19">, também não devem comparecer.</segment>
+    <segment id="20">Joana Cunha com Paulo Ricardo Martins e Diego</segment>
+    <segment id="21">Felix  Lula durante cerimônia de anúncio dos novos ministros</segment>
+    <segment id="22">, em Brasília - Adriano Machado - 29.dez.22/ReutersJoana Cunha com Paulo Ricardo Martins e Diego</segment>
+    <segment id="23">Felix</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Rua Barão da Torre é liberada ao tráfego
+RIO - A Rua Barão da Torre</segment>
+    <segment id="2">, em Ipanema</segment>
+    <segment id="3">, acabou de ser liberada ao tráfego de veículos no trecho entre as ruas Farme de Amoedo e Vinicius de Moraes.</segment>
+    <segment id="4">Mais cedo</segment>
+    <segment id="5">, para que</segment>
+    <segment id="6">para que bombeiros combatessem um incêndio na altura do número 168</segment>
+    <segment id="7">, o trecho precisou ser interditado. 
+(só resumo</segment>
+    <segment id="8">, sem texto mAior)</segment>
+  </rst>
+</analysis>

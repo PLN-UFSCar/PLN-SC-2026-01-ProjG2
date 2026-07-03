@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Estuprou a vovó de 90 anos</segment>
+    <segment id="2">A idosa disse que limpava a geladeira quando o suspeito a trancou no banheiro</segment>
+    <segment id="3">Um jovem de 21 anos foi preso acusado de ter estuprado uma senhora de 90 anos</segment>
+    <segment id="4">, no município de Eusébio</segment>
+    <segment id="5">, Região Metropolitana de Fortaleza.</segment>
+    <segment id="6">De acordo com a delegada Ana Lúcia Almeida</segment>
+    <segment id="7">, a idosa disse que limpava a geladeira quando o suspeito a abordou e a trancou no banheiro.</segment>
+    <segment id="8">Os vizinhos foram à casa da idosa quando ouviram latidos dos cães.</segment>
+    <segment id="9">O indivíduo foi encontrado nu</segment>
+    <segment id="10">, saindo do banheiro.</segment>
+    <segment id="11">A delegada diz que o jovem confessou o crime</segment>
+    <segment id="12">, masmas depois voltou atrás.</segment>
+    <segment id="13">Ele aparentava estar drogado.</segment>
+  </rst>
+</analysis>

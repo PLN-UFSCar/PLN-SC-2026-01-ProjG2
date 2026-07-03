@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Manutenção do relógio da estação Júlio Prestes</segment>
+    <segment id="2">, natação em pleno rio Tietê e trem da Cantareira cruzando uma feira livre em Santana.</segment>
+    <segment id="3">O projeto Fotografia Paulistana recebe um novo lote com 130 fotos do acervo do jornal e mostra a trajetória da cidade em imagens históricas</segment>
+    <segment id="4">, de 1920 até hoje.</segment>
+    <segment id="5">Acesse a página aqui.</segment>
+    <segment id="6">Fatos históricos das últimas décadas</segment>
+    <segment id="7">, o cotidiano dos bairros da cidade nos anos 1980 e a transformação das marginais são imagens que o leitor poderá encontrar.</segment>
+    <segment id="8">Acervo contém mais de 500 fotos</segment>
+    <segment id="9">, que podem ser filtradas por década</segment>
+    <segment id="10">, regiões da cidade ou temas.</segment>
+    <segment id="11">O relojoeiro Antônio Rodrigues faz manutenção no relógio da Estação Júlio Prestes</segment>
+    <segment id="12">, em São Paulo - Lalo de Almeida - 15.jan.2006/FolhapressO objetivo é ampliar o acervo com registros de leitores.</segment>
+    <segment id="13">Quem tiver uma foto da cidade e quiser vê-la publicada na página deverá preencher um formulário online com informações sobre autor e imagem.</segment>
+    <segment id="14">Uma equipe de curadores selecionará as melhores.</segment>
+    <segment id="15">É importante que o leitor seja o autor da foto.</segment>
+  </rst>
+</analysis>

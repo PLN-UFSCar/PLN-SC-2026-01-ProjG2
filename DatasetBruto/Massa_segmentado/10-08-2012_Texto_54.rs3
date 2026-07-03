@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Amizade eterna.</segment>
+    <segment id="2">AtÃ© quando?
+LÃ©o e Robertha juraram ser amigas para sempre.</segment>
+    <segment id="3">JÃ¡ Nicole e Vivi...</segment>
+    <segment id="4">Depois de dar a volta por cima - saiu da RoÃ§a direto para o cargo de Fazendeira -</segment>
+    <segment id="5">, LÃ©o</segment>
+    <segment id="6">sese aproximou ainda mais de Robertha.</segment>
+    <segment id="7">Perguntou</segment>
+    <segment id="8">sese elas seriam amigas para sempre e ouviu o que queria: sim!</segment>
+    <segment id="9">NÃ£o muito longe dali</segment>
+    <segment id="10">, no entanto</segment>
+    <segment id="11">, desandou o que parecia ser o inÃ­cio de uma amizade.</segment>
+    <segment id="12">A velha Nicole Bahls barraqueira voltou Ã  cena e nÃ£o economizou crÃ­ticas</segment>
+    <segment id="13">Ã  Viviane AraÃºjo</segment>
+    <segment id="14">, acusando a atriz de esconder comida e outras pequenas maldades.</segment>
+    <segment id="15">NÃ£o na cara da outra</segment>
+    <segment id="16">, Ã© claro!</segment>
+  </rst>
+</analysis>

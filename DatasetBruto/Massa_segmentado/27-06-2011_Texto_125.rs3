@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Festa em Sampa</segment>
+    <segment id="2">Com direito à limusine para chegar ao local do evento
+Depois da festa em Salvador</segment>
+    <segment id="3">, a filha de Scheila Carvalho e Toni Sales ganhou nova comemoração por seus dois aninhos.</segment>
+    <segment id="4">Desta vez</segment>
+    <segment id="5">, em São Paulo e com direito à limusine para chegar ao local do evento.</segment>
+    <segment id="6">Lá, a pequena encontrou a ‘tia’ Sheila Mello</segment>
+    <segment id="7">, companheira de palco da mamãe coruja nos bons tempos de “É o Tchan”.</segment>
+    <segment id="8">A loira gostou tanto de estar com a pequena que admitiu: está louca para ter o seu pequeno.</segment>
+    <segment id="9">“Quero engravidar no próximo ano”</segment>
+    <segment id="10">, disse a mulher do ex-nadador Xuxa.</segment>
+  </rst>
+</analysis>

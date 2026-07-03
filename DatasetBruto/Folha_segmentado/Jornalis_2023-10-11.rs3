@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Columbia Journalism School está oferecendo o Programa de Liderança Executiva Sulzberger 2024.</segment>
+    <segment id="2">Os candidatos podem concorrer a quatro bolsas de estudo para a formação.</segment>
+    <segment id="3">O programa oferece bolsas patrocinadas pelo Google News Initiative</segment>
+    <segment id="4">, que cobrem as despesas de viagem a Nova York e estadia.</segment>
+    <segment id="5">Os candidatos devem ter experiência em jornalismo nos EUA ou no mundo.</segment>
+    <segment id="6">A formação busca treinar líderes das organizações de notícias mais respeitadas do mundo e startups de mídia promissoras para liderar a inovação e resolver desafios estratégicos de negócios em um momento de rápida transformação</segment>
+    <segment id="7">, incerteza e oportunidades.</segment>
+    <segment id="8">Secretário-geral da ONU</segment>
+    <segment id="9">, António Guterres</segment>
+    <segment id="10">, em coletiva de imprensa durante 77ª Sessão da Assembleia Geral da organização</segment>
+    <segment id="11">, em Nova York</segment>
+    <segment id="12">, em 2022Com duração de 21 semanas</segment>
+    <segment id="13">, o curso começa com um intensivo na Columbia Journalism School</segment>
+    <segment id="14">, na cidade de Nova York</segment>
+    <segment id="15">, que vai de 2 a 12 de janeiro de 2024.</segment>
+    <segment id="16">Os bolsistas então trabalham em seus projetos e atribuições em suas organizações e participam de uma reunião virtual semanal do grupo.</segment>
+    <segment id="17">Em maio</segment>
+    <segment id="18">, os jornalistas voltam para Nova York para uma última semana de residência.</segment>
+    <segment id="19">As inscrições podem ser feitas até o dia 15 de outubro clicando aqui.</segment>
+  </rst>
+</analysis>

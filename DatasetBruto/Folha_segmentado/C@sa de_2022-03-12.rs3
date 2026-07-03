@@ -1,0 +1,143 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Quais palavras em minha resposta indicam que a mensagem não pode ser publicada automaticamente e exigem moderação?</segment>
+    <segment id="2">A pergunta ao ombudsman é frequente.</segment>
+    <segment id="3">No caso</segment>
+    <segment id="4">caso, o leitor reclama ao ver barrada resposta sua a comentário feito por outro assinante em uma coluna publicada na sexta-feira (11).</segment>
+    <segment id="5">Não havia nada de errado na réplica</segment>
+    <segment id="6">, apenas considerações polidas sobre</segment>
+    <segment id="7">sese o segundo</segment>
+    <segment id="8">, dono do comentário original</segment>
+    <segment id="9">, conhecia autores que o primeiro listava sobre o assunto em discussão.</segment>
+    <segment id="10">Por que então a observação caiu na moderação?</segment>
+    <segment id="11">Antes de responder</segment>
+    <segment id="12">, vale uma explicação mínima sobre o sistema de comentários da Folha</segment>
+    <segment id="13">, desenhado para dar mais luz aos debates naturalmente propostos por reportagens e artigos do jornal</segment>
+    <segment id="14">, masmas que também escoa em subterrâneos escuros</segment>
+    <segment id="15">, como</segment>
+    <segment id="16">como os das redes sociais.</segment>
+    <segment id="17">A ferramenta democrática segue o espírito do jornal de manter um diálogo aberto com seus leitores</segment>
+    <segment id="18">, algo que</segment>
+    <segment id="19">, no impresso</segment>
+    <segment id="20">, é simbolizado há décadas pelo Painel do Leitor.</segment>
+    <segment id="21">No site</segment>
+    <segment id="22">, a maioria dos títulos publicados permite comentários e respostas a estes.</segment>
+    <segment id="23">É preciso ser assinante do jornal e aceitar as regras</segment>
+    <segment id="24">, que pedem o básico da civilidade</segment>
+    <segment id="25">, como</segment>
+    <segment id="26">como "utilizar termos aceitáveis socialmente".</segment>
+    <segment id="27">Há uma lista de procedimentos proibidos</segment>
+    <segment id="28">, e as sanções vão da exclusão do comentário à do próprio usuário</segment>
+    <segment id="29">, sese houver reincidência nas faltas.</segment>
+    <segment id="30">Cadastro feito</segment>
+    <segment id="31">, basta apertar os botões existentes no início ou no fim de cada texto para deixar uma opinião.</segment>
+    <segment id="32">A moderação é automática</segment>
+    <segment id="33">, baseada em duas listas de palavras e expressões consideradas problemáticas pelo jornal.</segment>
+    <segment id="34">Se a máquina identifica algo da primeira lista</segment>
+    <segment id="35">, o comentário vai para a moderação manual.</segment>
+    <segment id="36">Se for algo da segunda</segment>
+    <segment id="37">, que reúne termos mais graves</segment>
+    <segment id="38">, o comentário é reprovado de chofre.</segment>
+    <segment id="39">O conteúdo das listas é sigiloso</segment>
+    <segment id="40">, para evitar manipulação</segment>
+    <segment id="41">, masmas dá para imaginar o tipo de coisa que é sumariamente proibida.</segment>
+    <segment id="42">São milhares de postagens.</segment>
+    <segment id="43">Em janeiro deste ano</segment>
+    <segment id="44">, por exemplo</segment>
+    <segment id="45">, 35.313 comentários foram aprovados automaticamente</segment>
+    <segment id="46">, 7.950</segment>
+    <segment id="47">, manualmente</segment>
+    <segment id="48">, e 1.945</segment>
+    <segment id="49">, reprovados.</segment>
+    <segment id="50">O sistema registrou também 18.981 respostas a comentários sem que houvesse impedimento</segment>
+    <segment id="51">, 3.513 que precisaram de aprovação manual e 1.007 eliminadas.</segment>
+    <segment id="52">Somando tudo</segment>
+    <segment id="53">, quase 70.000 mensagens em um mês</segment>
+    <segment id="54">, com média diária de 370 aprovações em segunda instância e 95 recusas.</segment>
+    <segment id="55">Muito trabalho e</segment>
+    <segment id="56">, por consequência</segment>
+    <segment id="57">, problemas</segment>
+    <segment id="58">, como</segment>
+    <segment id="59">como o do primeiro parágrafo.  CarvallParece claro que a máquina exagerou na moderação</segment>
+    <segment id="60">, empurrando a análise para a seleção manual</segment>
+    <segment id="61">, que, obviamente</segment>
+    <segment id="62">, é mais demorada.</segment>
+    <segment id="63">"</segment>
+    <segment id="64">Levamos meses aprimorando o sistema para coibir um pedido de esmola digital que estava recorrente"</segment>
+    <segment id="65">, afirma Mateus Camillo</segment>
+    <segment id="66">, editor de Interação e Redes Sociais da Folha.</segment>
+    <segment id="67">Um usuário burlava os controles para pedir dinheiro via Pix</segment>
+    <segment id="68">, vigarice que afetou também pelo menos outros dois veículos de comunicação.</segment>
+    <segment id="69">"</segment>
+    <segment id="70">Deu muito trabalho</segment>
+    <segment id="71">, masmas nos livramos dele.</segment>
+    <segment id="72">O problema é que esse esforço gerou o efeito colateral de aumentar o número de comentários que caem sem motivo na moderação manual.</segment>
+    <segment id="73">Temos que ir recalibrando"</segment>
+    <segment id="74">, explica.</segment>
+    <segment id="75">Essa é a questão atual</segment>
+    <segment id="76">, masmas outras tantas já acometeram o processo</segment>
+    <segment id="77">, que demanda atualização permanente e afeta</segment>
+    <segment id="78">, na visão dos leitores</segment>
+    <segment id="79">, um ponto nevrálgico da Folha</segment>
+    <segment id="80">, a liberdade de expressão.</segment>
+    <segment id="81">Uma legião de leitores acredita</segment>
+    <segment id="82">, por exemplo</segment>
+    <segment id="83">, que o nome Lula foi proibido durante um determinado período nos comentários do site.</segment>
+    <segment id="84">Outros acham que as regras são desenhadas para favorecer este ou aquele candidato ou ideia.</segment>
+    <segment id="85">Há quem reaja com humor</segment>
+    <segment id="86">, como</segment>
+    <segment id="87">como o leitor que compara o sistema ao lento VAR do futebol brasileiro</segment>
+    <segment id="88">, masmas vários</segment>
+    <segment id="89">sese sentem censurados.</segment>
+    <segment id="90">Entre tantas elaborações</segment>
+    <segment id="91">, uma das mais interessantes é a que constata um jornal aberto a opiniões extremadas em nome da pluralidade</segment>
+    <segment id="92">, a despeito de significarem afronta a parte importante de seus leitores</segment>
+    <segment id="93">, e, ao mesmo tempo</segment>
+    <segment id="94">, intolerante com os que</segment>
+    <segment id="95">sese inflamam nos comentários.</segment>
+    <segment id="96">"</segment>
+    <segment id="97">A ideia é melhorar o nível do debate</segment>
+    <segment id="98">, masmas confesso que</segment>
+    <segment id="99">, às vezes</segment>
+    <segment id="100">, me sinto</segment>
+    <segment id="101">comocomo o professor da quinta série tentando parar a briga dos alunos"</segment>
+    <segment id="102">, brinca Camillo.</segment>
+    <segment id="103">Em um mundo virado de cabeça para baixo</segment>
+    <segment id="104">, onde até censor processa rede social pela falta de moderação de postagens que defendem a morte de pessoas</segment>
+    <segment id="105">, a tarefa não parece nada fácil.</segment>
+    <segment id="106">P.S.: Para quem não entendeu</segment>
+    <segment id="107">, o título da coluna é uma tentativa tosca de emular algumas das táticas usadas para burlar regras de moderação vistas em comentários no site da Folha.</segment>
+    <segment id="108">Asteriscos</segment>
+    <segment id="109">, espaços e outros sinais gráficos são adotados para driblar o computador</segment>
+    <segment id="110">, o que</segment>
+    <segment id="111">, não raro</segment>
+    <segment id="112">, deixa os comentários quase ilegíveis.</segment>
+    <segment id="113">Lembram</segment>
+    <segment id="114">, de certa forma</segment>
+    <segment id="115">, as pichações</segment>
+    <segment id="116">, entendidas só pelas tribos de seus autores.</segment>
+    <segment id="117">Talvez a ideia seja a mesma.</segment>
+  </rst>
+</analysis>

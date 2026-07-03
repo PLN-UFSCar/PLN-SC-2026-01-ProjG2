@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">InscriÃ§Ãµes para Ibama comeÃ§am hoje</segment>
+    <segment id="2">A prova serÃ¡ realizada dia 21 de outubro
+EstÃ¡ disponÃ­vel hoje</segment>
+    <segment id="3">, a partir das 10h da manhÃ£</segment>
+    <segment id="4">, as inscriÃ§Ãµes para o concurso pÃºblico  do Instituto Brasileiro do Meio Ambiente (Ibama).</segment>
+    <segment id="5">SÃ£o oferecidas 300 vagas para todo o paÃ­s e 16 para a Bahia.</segment>
+    <segment id="6">As vagas sÃ£o para o cargo de tÃ©cnico administrativo e direcionadas Ã  candidatos com ensino mÃ©dio.</segment>
+    <segment id="7">A remuneraÃ§Ã£o Ã© de R$ 2.580</segment>
+    <segment id="8">,72, jÃ¡ incluÃ­das as gratificaÃ§Ãµes</segment>
+    <segment id="9">,  para uma jornada de  40 horas semanais.</segment>
+    <segment id="10">Interessados devem</segment>
+    <segment id="11">sese inscrever atÃ© o dia 13 de setembro</segment>
+    <segment id="12">, atravÃ©s do site www.cespe.unb.br/concursos/ibama_12.</segment>
+    <segment id="13">A taxa de inscriÃ§Ã£o</segment>
+    <segment id="14">Ã© de R$ 55.</segment>
+    <segment id="15">A prova serÃ¡ realizada dia 21 de outubro.</segment>
+  </rst>
+</analysis>

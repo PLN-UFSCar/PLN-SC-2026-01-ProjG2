@@ -1,0 +1,38 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Quantas pessoas moram na sua cidade?</segment>
+    <segment id="2">Como a população</segment>
+    <segment id="3">sese compara a outras cidades do país em 2022?</segment>
+    <segment id="4">E como</segment>
+    <segment id="5">como era em 1920?</segment>
+    <segment id="6">O gráfico interativo abaixo mostra uma comparação com o Censo de 1920 e permite visualizar a composição do mesmo território cem anos atrás.</segment>
+    <segment id="7">É possível saber qual a população de cada um dos 5.570 municípios brasileiros</segment>
+    <segment id="8">, de acordo com dados dos Censo de 2022</segment>
+    <segment id="9">, divulgado pelo IBGE (Instituto Brasileiro de Geografia e Estatística).</segment>
+    <segment id="10">Para usar</segment>
+    <segment id="11">, digite o nome da sua cidade e veja a equivalência com a soma da população dos menores municípios do Brasil ou de uma das cinco regiões.</segment>
+    <segment id="12">Veja as 10 maiores cidades do BrasilMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

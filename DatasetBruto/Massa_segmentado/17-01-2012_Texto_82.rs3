@@ -1,0 +1,47 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Branca demais?</segment>
+    <segment id="2">Beyoncé vira loiraça em CD</segment>
+    <segment id="3">A foto promocional do novo CD da pop star</segment>
+    <segment id="4">, batizado de “4”</segment>
+    <segment id="5">, provocou um barulho danado nos Estados Unidos.</segment>
+    <segment id="6">Tudo porque</segment>
+    <segment id="7">porque a diva aparece totalmente loira e com a pele muito mais clara do que o habitual e</segment>
+    <segment id="8">, claro</segment>
+    <segment id="9">, natural.</segment>
+    <segment id="10">Não é a primeira vez que Beyoncé</segment>
+    <segment id="11">sese envolve em polêmica desse tipo.</segment>
+    <segment id="12">Em 2008</segment>
+    <segment id="13">, uma outra foto da cantora causou titi-ti</segment>
+    <segment id="14">, quando ela posou para uma campanha da L'Oréal.</segment>
+    <segment id="15">Na ocasião</segment>
+    <segment id="16">, a empresa de cosméticos foi acusada de ter clareado a pele da diva.</segment>
+    <segment id="17">Mas, agora</segment>
+    <segment id="18">, a polêmica é outra</segment>
+    <segment id="19">, já que ela teria aprovado esse ‘clareamento’.</segment>
+    <segment id="20">Será um repeteco de Michael Jackson?</segment>
+    <segment id="21">Coisas do pop americano...</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Sargento ama o ExÃ©rcito</segment>
+    <segment id="2">Brasileiro
+Ãureo sÃ³ veste roupas civis para visitas</segment>
+    <segment id="3">Ã  igreja</segment>
+    <segment id="4">O sargento aposentado Ãureo Soares Leite</segment>
+    <segment id="5">, 73 anos</segment>
+    <segment id="6">, Ã© um apaixonado pelo ExÃ©rcito Brasileiro.</segment>
+    <segment id="7">Segundo informaÃ§Ãµes do G1</segment>
+    <segment id="8">, o morador de Porto Velho</segment>
+    <segment id="9">, RondÃ´nia</segment>
+    <segment id="10">, disse:</segment>
+    <segment id="11">â€œBandeira do Brasil</segment>
+    <segment id="12">, eu te amo!â€.</segment>
+    <segment id="13">O amor Ã© tÃ£o grande que ele sÃ³ tira a farda para ir Ã  igreja.</segment>
+    <segment id="14">â€œPor mim eu andava sempre assim</segment>
+    <segment id="15">, eleganteâ€.</segment>
+    <segment id="16">O aposentado ainda trabalha e possui um minimuseu em casa</segment>
+    <segment id="17">, montado com coisas que ele ganhou durante a carreira.</segment>
+  </rst>
+</analysis>

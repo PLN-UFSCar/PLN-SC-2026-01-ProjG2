@@ -1,0 +1,107 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo Luiz Inácio Lula da Silva (PT) discute uma manobra jurídica para limitar o tamanho máximo do contingenciamento em 2024 a R$ 26 bilhões.</segment>
+    <segment id="2">O valor é menor do que os R$ 53 bilhões que vêm sendo apontados por economistas</segment>
+    <segment id="3">comocomo o potencial bloqueio nas despesas</segment>
+    <segment id="4">, caso</segment>
+    <segment id="5">caso haja frustração nas medidas de arrecadação defendidas pelo ministro Fernando Haddad (Fazenda).</segment>
+    <segment id="6">Nos bastidores</segment>
+    <segment id="7">, a estratégia é vista</segment>
+    <segment id="8">comocomo uma forma de tentar aplacar a pressão por uma mudança no objetivo de zerar o déficit no ano que vem.</segment>
+    <segment id="9">Embora o governo tenha decidido manter esse alvo por ora</segment>
+    <segment id="10">, há um debate já contratado para março de 2024</segment>
+    <segment id="11">, quando a equipe econômica fará a primeira reavaliação do Orçamento.</segment>
+    <segment id="12">O ministro Fernando Haddad (Fazenda) e o presidente Luiz Inácio Lula da Silva (PT) - Marcelo Camargo - 02.ago.2023/Agência BrasilEconomistas e membros do governo veem uma alta probabilidade de que o relatório de março aponte a necessidade de conter despesas.</segment>
+    <segment id="13">Por isso</segment>
+    <segment id="14">, o tamanho do contingenciamento tornou-</segment>
+    <segment id="15">sese um dos principais pontos de tensão dentro do governo.</segment>
+    <segment id="16">Quanto mais rigorosa é a meta</segment>
+    <segment id="17">, maior é o risco de freio nos gastos.</segment>
+    <segment id="18">Segundo interlocutores do governo</segment>
+    <segment id="19">, a busca por uma saída levou à discussão de uma interpretação jurídica mais benevolente da lei complementar que instituiu o novo arcabouço fiscal.</segment>
+    <segment id="20">O tema vem sendo discutido pelos ministérios da Fazenda</segment>
+    <segment id="21">, do Planejamento e Orçamento e pela Casa Civil.</segment>
+    <segment id="22">De acordo com relatos</segment>
+    <segment id="23">, na reunião desta quinta-feira (16)</segment>
+    <segment id="24">, em que foi decidida a manutenção da meta de 2024</segment>
+    <segment id="25">, o ministro Fernando Haddad (Fazenda) citou que</segment>
+    <segment id="26">, mesmo num cenário mais adverso</segment>
+    <segment id="27">, o contingenciamento máximo ficaria entre R$ 22 bilhões e R$ 26 bilhões.</segment>
+    <segment id="28">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="29">; aberta para não assinantes.</segment>
+    <segment id="30">Carregando...</segment>
+    <segment id="31">A cifra mencionada por Haddad surpreendeu alguns dos presentes</segment>
+    <segment id="32">, uma vez que a conta do mercado indicava até então uma trava potencial de até R$ 53 bilhões.</segment>
+    <segment id="33">O valor equivale a 25% dos R$ 211</segment>
+    <segment id="34">,9 bilhões programados para despesas discricionárias (que incluem custeio e investimentos).</segment>
+    <segment id="35">A proporção de 25% existe</segment>
+    <segment id="36">porque</segment>
+    <segment id="37">porque a lei do novo arcabouço fiscal diz que o contingenciamento precisa observar o "nível mínimo de despesas discricionárias necessárias ao funcionamento regular da administração pública"</segment>
+    <segment id="38">, estipulado em 75% do valor autorizado no Orçamento.</segment>
+    <segment id="39">Leia maisMeta fiscal foi alterada em 14 dos 23 anos da Lei de Responsabilidade FiscalGoverno diz que não agirá para mudar meta de déficit zero em 2024Uma boa notícia de Lula</segment>
+    <segment id="40">, que agora pode cuidar do que importaHaddad pede esforço concentrado por receitas</segment>
+    <segment id="41">, masmas agenda enfrenta entravesHaddad vence por ora</segment>
+    <segment id="42">, masmas enfrentará acerto de contas em breveUma das opções na mesa é justamente interpretar</segment>
+    <segment id="43">, do ponto de vista jurídico</segment>
+    <segment id="44">, o que são essas despesas discricionárias necessárias ao funcionamento da máquina pública.</segment>
+    <segment id="45">Outra possibilidade</segment>
+    <segment id="46">, que ganhou força nas discussões mais recentes</segment>
+    <segment id="47">, é entender que basta efetuar um contingenciamento que assegure o cumprimento do limite mínimo da banda da meta fiscal.</segment>
+    <segment id="48">Entenda o novo arcabouço fiscalMais    novamente         de   de  de  representando um  No novo arcabouço</segment>
+    <segment id="49">, o resultado primário pode oscilar até 0</segment>
+    <segment id="50">,25 ponto percentual para mais ou menos em relação ao centro da meta.</segment>
+    <segment id="51">Ou seja</segment>
+    <segment id="52">, o governo só precisaria frear gastos até alcançar um déficit de 0</segment>
+    <segment id="53">,25% do PIB (equivalente a R$ 28</segment>
+    <segment id="54">,75 bilhões).</segment>
+    <segment id="55">Um terceiro caminho possível seria a interpretação de que o piso de investimentos de 0</segment>
+    <segment id="56">,6% do PIB precisa ser respeitado também na execução</segment>
+    <segment id="57">, blindando essas verbas de um eventual contingenciamento e também reduzindo a base de cálculo dos 25% sujeitos à trava.</segment>
+    <segment id="58">Independentemente da opção escolhida</segment>
+    <segment id="59">, técnicos afirmam que a construção tem</segment>
+    <segment id="60">comocomo objetivo central reduzir o tamanho do freio nos gastos em 2024.</segment>
+    <segment id="61">Lula já sinalizou em diferentes ocasiões que não pretende arcar com o ônus político de um contingenciamento</segment>
+    <segment id="62">, primeiro em café com jornalistas</segment>
+    <segment id="63">, depois em conversa com lideranças da Câmara dos Deputados.</segment>
+    <segment id="64">Veja glossário de termos econômicos e fiscaisMais    novamente         de   de  de  representando um</segment>
+    <segment id="65">Apesar da engenharia jurídica para aliviar a pressão sobre o Orçamento do ano que vem</segment>
+    <segment id="66">, interlocutores do governo ainda resistem à alternativa e seguem defendendo a mudança da meta fiscal.</segment>
+    <segment id="67">Essa ala argumenta que segurar gastos não é a única consequência de</segment>
+    <segment id="68">sese manter um alvo mais ambicioso</segment>
+    <segment id="69">, sujeito à frustração de receitas.</segment>
+    <segment id="70">O estouro da meta fiscal levaria ao acionamento de gatilhos que proíbem a elevação de algumas despesas em 2025</segment>
+    <segment id="71">, além de reduzir o tamanho da expansão real do limite do arcabouço em 2026 (ano eleitoral).</segment>
+    <segment id="72">Ainda segundo relatos</segment>
+    <segment id="73">, ao propor o contingenciamento menor</segment>
+    <segment id="74">, Haddad sinalizou que haveria um acordo para dividir o peso da trava igualmente entre despesas do Executivo e emendas parlamentares.</segment>
+    <segment id="75">Assim, o efeito seria mais diluído sobre as políticas públicas.</segment>
+    <segment id="76">Esse acerto</segment>
+    <segment id="77">, porém</segment>
+    <segment id="78">porém, é visto com desconfiança por membros do Congresso Nacional</segment>
+    <segment id="79">, que trabalham para tornar impositiva a execução do máximo possível das emendas parlamentares —que devem alcançar valor próximo a R$ 46 bilhões no ano que vem.</segment>
+    <segment id="80">Isso as blindaria de qualquer contingenciamento</segment>
+    <segment id="81">, frustrando o plano de Haddad.</segment>
+  </rst>
+</analysis>

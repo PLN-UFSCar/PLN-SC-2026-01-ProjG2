@@ -1,0 +1,52 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O superintendente de fiscalização da ANM (Agência Nacional de Mineração)</segment>
+    <segment id="2">, José Antonio Alves dos Santos</segment>
+    <segment id="3">, atribuiu a um protesto contra a Braskem realizado em setembro o atraso no trabalho de preenchimento com areia da mina 18</segment>
+    <segment id="4">, que corre risco de desabamento em Maceió (AL).</segment>
+    <segment id="5">Bairro Mutange</segment>
+    <segment id="6">, em Maceió</segment>
+    <segment id="7">, que tem risco de afundamento na região da mina 18 da Braskem - Reprodução/Google Street ViewA afirmação foi feita nesta segunda-feira (4) durante reunião mantida com o prefeito de Maceió</segment>
+    <segment id="8">, João Henrique Caldas (PL)</segment>
+    <segment id="9">, e o senador Rodrigo Cunha (Podemos-AL).</segment>
+    <segment id="10">Segundo participantes do encontro</segment>
+    <segment id="11">, o diretor disse que o ato</segment>
+    <segment id="12">, ao fechar a entrada da Braskem</segment>
+    <segment id="13">, atrasou o trabalho de preenchimento das minas</segment>
+    <segment id="14">, medida adotada para evitar o desabamento.</segment>
+    <segment id="15">O atraso ocorreu tanto no preenchimento em curso quanto naqueles que ainda não haviam começado</segment>
+    <segment id="16">, como</segment>
+    <segment id="17">como é o</segment>
+    <segment id="18">casocaso da mina 18.</segment>
+    <segment id="19">Na avaliação de Santos</segment>
+    <segment id="20">, sese esse protesto não tivesse ocorrido</segment>
+    <segment id="21">, o trabalho de preenchimento dessa mina já estaria acontecendo.</segment>
+    <segment id="22">Os primeiros relatos sobre os danos no solo em Mutange surgiram em meio a tremores de terra em março de 2018.</segment>
+    <segment id="23">No ano seguinte</segment>
+    <segment id="24">, o Serviço Geológico do Brasil</segment>
+    <segment id="25">, ligado ao Ministério das Minas e Energia</segment>
+    <segment id="26">, concluiu que as atividades de mineração da Braskem em uma área de falha geológica causaram o problema.</segment>
+  </rst>
+</analysis>

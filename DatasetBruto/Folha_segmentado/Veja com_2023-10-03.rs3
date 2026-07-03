@@ -1,0 +1,86 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Uma greve de 24 horas</segment>
+    <segment id="2">, iniciada à meia-noite desta terça-feira (3)</segment>
+    <segment id="3">, paralisa boa parte do transporte público sobre trilhos na cidade de São Paulo.</segment>
+    <segment id="4">A paralisação unificada foi convocada contra os planos de privatizações e concessões no metrô</segment>
+    <segment id="5">, na CPTM (Companhia Paulista de Trens Metropolitanos) e na Sabesp (Companhia de Saneamento do Estado de São Paulo) pelo governo Tarcísio de Freitas (Republicanos).</segment>
+    <segment id="6">A greve atinge as linhas 1-azul</segment>
+    <segment id="7">, 2-verde</segment>
+    <segment id="8">, 3-vermelha e 15-prata do metrô.</segment>
+    <segment id="9">Na rede ferroviária</segment>
+    <segment id="10">, a linha 7-rubi opera de Caieiras à estação da Luz e a 11-coral funciona de Guaianases à Luz.</segment>
+    <segment id="11">As linhas 10-turquesa</segment>
+    <segment id="12">, 12-safira e 13-jade estão fechadas.</segment>
+    <segment id="13">Há Integrações abertas na linha 7-rubi na Barra Funda com a linha 8-diamante</segment>
+    <segment id="14">; e na linha 11-coral e 7-rubi</segment>
+    <segment id="15">, na estação Luz</segment>
+    <segment id="16">, com a linha 4-amarela.</segment>
+    <segment id="17">As transferências com a linha 3-vermelha</segment>
+    <segment id="18">, na Barra Funda</segment>
+    <segment id="19">, e com a linha 1-azul</segment>
+    <segment id="20">, na Luz</segment>
+    <segment id="21">, continuam fechadas.</segment>
+    <segment id="22">As linhas 4-amarela e 5-liás de metrô</segment>
+    <segment id="23">, assim</segment>
+    <segment id="24">comocomo as linhas 8-diamante e 9-esmeralda</segment>
+    <segment id="25">, devem seguir operando na terça-feira —as quatro são administradas por empresas concessionárias do grupo CCR.</segment>
+    <segment id="26">Passageiros na estação Santo Amaro da linha 8-esmeralda da CPTM e 5-lilás do Metrô</segment>
+    <segment id="27">, que não estão em greve.</segment>
+    <segment id="28">- Rubens Cavallari/FolhapressDecisões na Justiça do Trabalho determinaram</segment>
+    <segment id="29">, na semana passada</segment>
+    <segment id="30">, que tanto o Metrô quanto a CPTM funcionem com capacidade total nos horários de pico.</segment>
+    <segment id="31">Nos demais horários</segment>
+    <segment id="32">, os funcionários devem garantir 80% do efetivo de funcionários.</segment>
+    <segment id="33">Os funcionários pediram na Justiça o direito de substituir a paralisação por um protesto com catracas livres</segment>
+    <segment id="34">, uma reivindicação histórica da categoria.</segment>
+    <segment id="35">O TRT-2 (Tribunal Regional do Trabalho da 2ª Região) recusou essa possibilidade.</segment>
+    <segment id="36">A juíza Raquel Gabbai de Oliveira</segment>
+    <segment id="37">, que julgou a ação sobre a greve na CPTM</segment>
+    <segment id="38">, aceitou o argumento da companhia de que liberar as catracas poderia provocar tumulto e risco de acidentes.</segment>
+    <segment id="39">A prefeitura suspendeu o rodízio de veículos na cidade de São Paulo</segment>
+    <segment id="40">, nesta terça.</segment>
+    <segment id="41">A SPTtrans</segment>
+    <segment id="42">, estatal que administra o transporte público municipal</segment>
+    <segment id="43">, anunciou que vai manter 100% da frota de ônibus durante todo o dia e não apenas nos horários de pico</segment>
+    <segment id="44">comocomo ocorre normalmente.</segment>
+    <segment id="45">O governo paulista Tarcísio fez uma série de críticas à greve convocada para esta terça-feira (3) por sindicatos de trabalhadores do Metrô</segment>
+    <segment id="46">, da CPTM (Companhia Paulista de Trens Metropolitanos) e da Sabesp.</segment>
+    <segment id="47">Em nota divulgada no fim da tarde desta segunda</segment>
+    <segment id="48">, a gestão Tarcísio classificou a paralisação</segment>
+    <segment id="49">comocomo "ilegal e abusiva" e que "torna refém a população que precisa do transporte público"</segment>
+    <segment id="50">, diz o texto.</segment>
+    <segment id="51">VEJA COMO ESTÁ</segment>
+    <segment id="52">A OPERAÇÃO DE CADA LINHA  CPTM   7-rubi - Operação parcial (funcionando entre Caieiras a Luz)  8-diamante - Funciona normalmente   9-esmeralda - Voltou a funcionar após pane em parte da linha   10-turquesa - Paralisada  11-coral - Operação parcial (funcionando entre Guaianases a Luz)</segment>
+    <segment id="53">12-safira - Paralisada 13-jade - Paralisada</segment>
+    <segment id="54">Metrô     1-azul - Paralisada 2-verde - Paralisada 3-vermelha - Paralisada 4-amarela - Funciona normalmente 5-lilás - Funciona normalmente 15-prata - Paralisada     ViaMobilidade  9-esmeralda - Paralisada</segment>
+    <segment id="55">desde às 14h por causa de uma pane elétrica no trecho entre as estações Morumbi e Villa Lobos-Jaguaré</segment>
+    <segment id="56">, a linha começou a voltar ao normal às 19h30</segment>
+    <segment id="57">;</segment>
+    <segment id="58">o funcionamento era normal entre as estações Mendes-Vila Natal e Morumbi</segment>
+    <segment id="59">, e no trecho entre as estações Villa Lobos-Jaguaré e Osasco.</segment>
+    <segment id="60">A linha é operada sob concessão pela ViaMobilidade e não está em greve</segment>
+  </rst>
+</analysis>

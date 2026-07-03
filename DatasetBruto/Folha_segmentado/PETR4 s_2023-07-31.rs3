@@ -1,0 +1,123 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O conselho de administração da Petrobras aprovou na sexta (28) uma nova política de dividendos</segment>
+    <segment id="2">, que reduz o valor distribuído aos acionistas.</segment>
+    <segment id="3">A companhia ainda abriu a possibilidade de criar um programa de recompra de ações</segment>
+    <segment id="4">, como</segment>
+    <segment id="5">como suas concorrentes.</segment>
+    <segment id="6">A mudança na política de dividendos é uma das promessas de campanha do governo Luiz Inácio Lula da Silva (PT)</segment>
+    <segment id="7">, crítico da política que levou a Petrobras a</segment>
+    <segment id="8">sese tornar uma das maiores pagadoras do mundo durante o governo Jair Bolsonaro (PL).</segment>
+    <segment id="9">O comunicado da estatal pode ser lido no site de relações com o investidor.</segment>
+    <segment id="10">Entenda o que muda.</segment>
+    <segment id="11">O presidente da Petrobras</segment>
+    <segment id="12">, Jean Paul Prates</segment>
+    <segment id="13">, durante entrevista no escritório da empresa</segment>
+    <segment id="14">, no centro do Rio de Janeiro - Eduardo Anizelli - 23.jun.2023/ FolhapressPorcentagem total destinada aos acionistas será menor</segment>
+    <segment id="15">A nova política reduziu o tamanho da "caixa d'água" que irriga os bolsos de seus acionistas com a distribuição de dividendos.</segment>
+    <segment id="16">Até a mudança</segment>
+    <segment id="17">, eram reservados para essa distribuição 60% do fluxo de caixa livre</segment>
+    <segment id="18">, que é a diferença entre fluxo de caixa das operações e os investimentos investimentos.</segment>
+    <segment id="19">O pagamento é autorizado sempre que a dívida da companhia estiver abaixo dos US$ 65 bilhões —teto estabelecido no atual plano estratégico</segment>
+    <segment id="20">, 2023-2027.</segment>
+    <segment id="21">Agora essa fatia passa para 45% do fluxo de caixa livre</segment>
+    <segment id="22">, também com a condição de que a dívida não supere os US$ 65 bilhões.</segment>
+    <segment id="23">Com a redução aprovada nesta sexta</segment>
+    <segment id="24">, a Petrobras</segment>
+    <segment id="25">sese aproxima de concorrentes internacionais que usam o indicador de fluxo de caixa</segment>
+    <segment id="26">comocomo parâmetro: segundo levantamento do Goldman Sachs</segment>
+    <segment id="27">, elas distribuem entre 25% e 40% do indicador.</segment>
+    <segment id="28">Conceito de investimentos foi ampliado</segment>
+    <segment id="29">Outra mudança que afeta o tamanho dessa "caixa d'água" foi a mudança no conceito de investimentos</segment>
+    <segment id="30">, parcela que é deduzida dos fluxo de caixa para calcular o fluxo de caixa livre</segment>
+    <segment id="31">, a base de cálculo para os dividendos.</segment>
+    <segment id="32">Até a mudanças</segment>
+    <segment id="33">, investimentos eram aquisições de imobilizados e intangíveis.</segment>
+    <segment id="34">Agora investimentos passam a incluir aquisições de participações acionárias (aportes</segment>
+    <segment id="35">, adiantamentos para futuro aumento de capital e as aquisições e/ou aumento de participação em empresas</segment>
+    <segment id="36">, inclusive em controladas da Petrobras).</segment>
+    <segment id="37">Como os investimentos são deduzidos do fluxo de caixa</segment>
+    <segment id="38">, sese o montante de investimentos cresce</segment>
+    <segment id="39">, diminui o fluxo de caixa livre</segment>
+    <segment id="40">, ou seja</segment>
+    <segment id="41">, a "caixa d'água" do qual saem os 45% distribuídos na forma de dividendos.</segment>
+    <segment id="42">Estatal promete debater com acionistas onde investir</segment>
+    <segment id="43">Na prática</segment>
+    <segment id="44">, essa nova repartição desvia para mais investimentos dinheiro que antes era pago</segment>
+    <segment id="45">comocomo dividendos.</segment>
+    <segment id="46">A empresa afirma que a nova política de dividendos é importante para garantir o cumprimento de diretrizes do Plano Estratégico 2024-2028</segment>
+    <segment id="47">, que direciona de 6% a 15% do total dos investimentos para projetos de baixo carbono.</segment>
+    <segment id="48">Desde que assumiu a presidência da companhia</segment>
+    <segment id="49">, em janeiro</segment>
+    <segment id="50">, Jean Paul Prates tem defendido diálogo com o investidor para debater que tipos de projetos podem receber esse dinheiro antes era destinado a dividendos.</segment>
+    <segment id="51">A expectativa é de uma revisão do plano estratégico ainda nas próximas semanas</segment>
+    <segment id="52">, já com alguma indicação de aporte em projeto de energias renováveis e confirmação de aportes em unidades de refino baseadas em óleos vegetais.</segment>
+    <segment id="53">O novo plano estratégico</segment>
+    <segment id="54">, porém</segment>
+    <segment id="55">porém, só será divulgado no fim do ano.</segment>
+    <segment id="56">Acionistas terão remuneração mínima</segment>
+    <segment id="57">Independentemente do nível de endividamento da companhia</segment>
+    <segment id="58">, a nova política estabelece que no mínimo US$ 4 bilhões serão distribuídos em dividendos por ano</segment>
+    <segment id="59">, sempre que o preço do petróleo estiver acima dos US$ 40 por barril.</segment>
+    <segment id="60">Para essa cláusula</segment>
+    <segment id="61">, a companhia considera o preço médio do barril de petróleo tipo Brent.</segment>
+    <segment id="62">Em 2022</segment>
+    <segment id="63">, por exemplo</segment>
+    <segment id="64">, o preço médio do barril de petróleo tipo Brent foi US$ 97</segment>
+    <segment id="65">,20 e, em 2021</segment>
+    <segment id="66">, US$ 70</segment>
+    <segment id="67">,40.</segment>
+    <segment id="68">Na última sexta</segment>
+    <segment id="69">, data da mudança na política</segment>
+    <segment id="70">, o barril fechou a US$ 84</segment>
+    <segment id="71">,41.</segment>
+    <segment id="72">Petrobras estuda programa de recompra de ações</segment>
+    <segment id="73">A companhia confirmou nesta sexta que a nova política cria a possibilidade de um programa de recompra de ações para destinar parte dos recursos</segment>
+    <segment id="74">, enquanto não eleva os investimentos.</segment>
+    <segment id="75">Não foi aprovada nenhuma recompra na reunião desta sexta</segment>
+    <segment id="76">, masmas</segment>
+    <segment id="77">, sese realizada</segment>
+    <segment id="78">, a recompra também reduzirá o volume da "caixa d'água" para distribuição entre os acionistas: "</segment>
+    <segment id="79">Eventuais valores alocados a programas de recompra de ações serão abatidos da fórmula da política de remuneração</segment>
+    <segment id="80">, com o desconto dos montantes gastos com recompra a cada trimestre</segment>
+    <segment id="81">, conforme reportado na demonstração dos fluxos de caixa do consolidado da companhia".</segment>
+    <segment id="82">Programas de recompra de ações</segment>
+    <segment id="83">sese tornaram mais frequentes em empresas de commodities</segment>
+    <segment id="84">, que tiveram os caixas inflados pelas cotações recordes dos últimos anos.</segment>
+    <segment id="85">Entre as grandes petroleiras</segment>
+    <segment id="86">, por exemplo</segment>
+    <segment id="87">, 41% dos recursos distribuídos aos acionistas em 2022 foram para reduzir a base acionária.</segment>
+    <segment id="88">No Brasil</segment>
+    <segment id="89">, a Vale também vem adotando a estratégia.</segment>
+    <segment id="90">Em três programas de recompra</segment>
+    <segment id="91">, já adquiriu 16% das ações negociadas em Bolsa</segment>
+    <segment id="92">, ampliando em 20% o ganho dos acionistas remanescentes</segment>
+    <segment id="93">, segundo o presidente da companhia</segment>
+    <segment id="94">, Eduardo Bartolomeo.</segment>
+    <segment id="95">Novas regras já estão valendo</segment>
+    <segment id="96">A companhia divulgou que a nova política tem vigência imediata e já será aplicada ao resultado do segundo trimestre de 2023 —o balanço será divulgado nesta quinta (3).</segment>
+    <segment id="97">A petrolífera manteve o pagamento de dividendos trimestrais</segment>
+  </rst>
+</analysis>

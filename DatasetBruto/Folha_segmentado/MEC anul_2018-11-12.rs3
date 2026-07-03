@@ -1,0 +1,62 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Inep</segment>
+    <segment id="2">, órgão do Ministério da Educação</segment>
+    <segment id="3">, anulou nesta segunda-feira (12) uma das questões da prova de matemática e suas tecnologias do Enem 2018</segment>
+    <segment id="4">, por ela já ter sido usada em um vestibular da UFPR (Universidade Federal do Paraná) em 2013.</segment>
+    <segment id="5">A repetição descumpre os requisitos de ineditismo e sigilo do exame.</segment>
+    <segment id="6">Segundo dia de provas do EnemMais    novamente         de   de  de  representando um  “</segment>
+    <segment id="7">A questão foi elaborada em 2012 para o Inep</segment>
+    <segment id="8">, por um professor que</segment>
+    <segment id="9">, à época</segment>
+    <segment id="10">, estava vinculado à UFPR.</segment>
+    <segment id="11">No entanto</segment>
+    <segment id="12">, posteriormente</segment>
+    <segment id="13">, em 2013</segment>
+    <segment id="14">, a questão foi utilizada no vestibular da própria Universidade</segment>
+    <segment id="15">, para ingresso em 2014</segment>
+    <segment id="16">, o que não deveria ter ocorrido”</segment>
+    <segment id="17">, afirmou o órgão</segment>
+    <segment id="18">, em nota.</segment>
+    <segment id="19">Após constatar a repetição</segment>
+    <segment id="20">, o MEC instaurou uma sindicância para apurar responsabilidades</segment>
+    <segment id="21">, que pode resultar em processos administrativo</segment>
+    <segment id="22">, cível e até criminal.</segment>
+    <segment id="23">A comissão tem 30 dias para concluir a apuração de eventuais irregularidades.</segment>
+    <segment id="24">O reitor da UFPR</segment>
+    <segment id="25">, Ricardo Fonseca</segment>
+    <segment id="26">, colocou a Instituição à disposição do ministro Rossieli Soares para colaborar com a apuração.</segment>
+    <segment id="27">A universidade tem um Acordo de Cooperação Técnica assinado com o Inep para integrar o processo de elaboração e revisão de itens do BNI (Banco Nacional de Itens).</segment>
+    <segment id="28">O Inep afirmou que "investe todos os anos em mecanismos de detecção de conteúdos plagiado" e que com a anulação da questão "irá reforçar procedimentos".</segment>
+    <segment id="29">A questão anulada tem número diferente a depender do caderno de prova do Enem 2018.</segment>
+    <segment id="30">Nos cadernos amarelo</segment>
+    <segment id="31">, laranja e verde</segment>
+    <segment id="32">, é a número 150.</segment>
+    <segment id="33">No caderno Azul</segment>
+    <segment id="34">, 163, no Cinza</segment>
+    <segment id="35">, 170 e no Rosa</segment>
+    <segment id="36">, 180.</segment>
+  </rst>
+</analysis>

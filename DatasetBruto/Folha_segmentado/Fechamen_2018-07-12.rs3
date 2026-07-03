@@ -1,0 +1,112 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um estudo de três economistas americanos avaliou as consequências do fechamento de 296 jornais em diversas partes dos Estados Unidos e concluiu que a falta da imprensa local e de sua fiscalização sobre o poder público afeta negativamente o governo —mais especificamente</segment>
+    <segment id="2">, os cofres públicos.</segment>
+    <segment id="3">No intervalo de três anos após o fechamento dos jornais</segment>
+    <segment id="4">, os juros dos títulos públicos municipais em suas áreas de cobertura cresceram</segment>
+    <segment id="5">, em média</segment>
+    <segment id="6">, entre 0</segment>
+    <segment id="7">,05 ponto percentual e 0</segment>
+    <segment id="8">,1 ponto percentual a mais do que em regiões que não enfrentaram a perda de veículos de imprensa</segment>
+    <segment id="9">, de acordo com o estudo.</segment>
+    <segment id="10">Na prática</segment>
+    <segment id="11">, esse aumento significa que o governo está pagando mais para pegar dinheiro emprestado</segment>
+    <segment id="12">, o que impacta diretamente o bolso do contribuinte.</segment>
+    <segment id="13">Parece pouco</segment>
+    <segment id="14">, masmas</segment>
+    <segment id="15">, segundo os autores</segment>
+    <segment id="16">, é um desvio estatisticamente significativo e encontra repercussão em outros estudos que demonstram que a cobertura da imprensa tem relação direta com o desempenho de investimentos.</segment>
+    <segment id="17">“Isso se</segment>
+    <segment id="18">se acumula ao longo de anos</segment>
+    <segment id="19">, décadas</segment>
+    <segment id="20">, e tem um impacto considerável no aumento dos custos do governo local”</segment>
+    <segment id="21">, afirmou à Folha a professora Chang Lee</segment>
+    <segment id="22">, da Universidade de Illinois</segment>
+    <segment id="23">, em Chicago</segment>
+    <segment id="24">, uma das autoras da pesquisa.</segment>
+    <segment id="25">“Ao final</segment>
+    <segment id="26">, quem financia isso é o cidadão.</segment>
+    <segment id="27">”</segment>
+    <segment id="28">De acordo com o estudo</segment>
+    <segment id="29">, o fechamento de um jornal traz mais dificuldades para os investidores avaliarem a qualidade dos projetos e o compromisso das autoridades envolvidas com o bem público.</segment>
+    <segment id="30">É por isso que os juros sobem: isso quer dizer que o investidor considera esse título mais arriscado do que outros.</segment>
+    <segment id="31">Os títulos municipais são usados pelos governos para levantar dinheiro para despesas obrigatórias ou para um projeto específico.</segment>
+    <segment id="32">Nos EUA</segment>
+    <segment id="33">, eles são uma das principais formas de arrecadação de um governo</segment>
+    <segment id="34">, além dos impostos.</segment>
+    <segment id="35">A pesquisa ainda avalia que</segment>
+    <segment id="36">, no mesmo período</segment>
+    <segment id="37">, houve uma queda na eficiência governamental desses municípios</segment>
+    <segment id="38">, com base em indicadores</segment>
+    <segment id="39">comocomo o número de funcionários públicos</segment>
+    <segment id="40">, o gasto com pessoal e a cobrança de impostos —todos subiram na comparação com cidades que não tiveram perda de jornais locais.</segment>
+    <segment id="41">“Esse é o outro lado da história: o mecanismo que está por trás do aumento de juros”</segment>
+    <segment id="42">, comenta Lee.</segment>
+    <segment id="43">Só com salários de funcionários</segment>
+    <segment id="44">, por exemplo</segment>
+    <segment id="45">, a diferença chega a 1</segment>
+    <segment id="46">,3 ponto percentual</segment>
+    <segment id="47">, o que</segment>
+    <segment id="48">, em um município de tamanho médio</segment>
+    <segment id="49">, representa um gasto adicional de cerca de US$ 1</segment>
+    <segment id="50">,4 milhão (R$ 5</segment>
+    <segment id="51">,3 milhões) por ano.</segment>
+    <segment id="52">Os autores citam o exemplo do Rocky Mountain News</segment>
+    <segment id="53">, na região de Denver</segment>
+    <segment id="54">, no Colorado e que fechou em 2009.</segment>
+    <segment id="55">Entre as coberturas ao longo de seus 150 anos de existência</segment>
+    <segment id="56">, o veículo revelou uma parceria público-privada que violou leis federais</segment>
+    <segment id="57">, um esquema de exploração de trabalhadores no aeroporto local e desvios em verbas da polícia.</segment>
+    <segment id="58">Após o seu fechamento</segment>
+    <segment id="59">, os juros dos títulos municipais de Denver subiram 0</segment>
+    <segment id="60">,3 ponto percentual</segment>
+    <segment id="61">, a despeito do bom desempenho da economia da cidade.</segment>
+    <segment id="62">“É um demonstrativo de que o jornal era um importante agente de monitoramento do governo local</segment>
+    <segment id="63">, oferecendo informações aos cidadãos sobre</segment>
+    <segment id="64">comocomo seus impostos eram gastos”</segment>
+    <segment id="65">, afirmam os autores</segment>
+    <segment id="66">, que incluem ainda os professores Dermot Murphy</segment>
+    <segment id="67">, da Universidade de Illinois em Chicago</segment>
+    <segment id="68">, e Pengjie Gao</segment>
+    <segment id="69">, da Universidade de Notre Dame.</segment>
+    <segment id="70">No total</segment>
+    <segment id="71">, a pesquisa identificou um encolhimento da imprensa local em 204 municipalidades americanas</segment>
+    <segment id="72">, espalhadas por 41 estados.</segment>
+    <segment id="73">Foram cidades onde o número de jornais impressos caiu para menos que três</segment>
+    <segment id="74">, no intervalo entre 1996 e 2015.</segment>
+    <segment id="75">Os economistas concluem que</segment>
+    <segment id="76">, nessas condições</segment>
+    <segment id="77">, há um “vácuo informativo”</segment>
+    <segment id="78">, pela falta de jornalismo investigativo em nível municipal.</segment>
+    <segment id="79">Os dados colhidos pela pesquisa também indicam que ele não está sendo suprido por veículos nacionais nem online</segment>
+    <segment id="80">, que comumente substituem os jornais impressos.</segment>
+    <segment id="81">“Esses veículos não necessariamente são um bom substituto para o jornalismo investigativo de alta qualidade e com fontes locais”</segment>
+    <segment id="82">, afirmam os autores.</segment>
+    <segment id="83">“</segment>
+    <segment id="84">A longo prazo</segment>
+    <segment id="85">, talvez um equilíbrio seja possível.</segment>
+    <segment id="86">”</segment>
+  </rst>
+</analysis>

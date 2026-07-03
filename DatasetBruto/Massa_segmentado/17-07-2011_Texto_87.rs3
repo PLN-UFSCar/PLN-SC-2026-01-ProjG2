@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Interdição de vias para a Maratona do Rio complicou o trânsito na cidade
+RIO - Os cariocas enfrentaram neste domingo trânsito intenso em vários pontos da cidade por causa da Maratona do Rio.</segment>
+    <segment id="2">Parte dos Jogos Mundiais Militares</segment>
+    <segment id="3">, a prova - que teve largada no Recreio dos Bandeirantes e chegada no Aterro do Flamengo</segment>
+    <segment id="4">, num total de 42 quilômetros - provocou uma série de interdições na orla durante a manhã.</segment>
+    <segment id="5">Vias fechadas na Zona Sul causaram transtornos ao tráfego.</segment>
+    <segment id="6">Com o trânsito interrompido na Avenida Niemeyer</segment>
+    <segment id="7">, por exemplo</segment>
+    <segment id="8">, o movimento de veículos ficou lento na Autoestrada Lagoa-Barra.
+CONFIRA:
+
+Interdições também vão ocorrer no dia 24 de julho</segment>
+    <segment id="9">Também houve problemas com o fechamento da Avenida Sernambetiba</segment>
+    <segment id="10">, no Recreio e na Barra da Tijuca</segment>
+    <segment id="11">, por causa do aumento do número de veículos na Avenida das Américas.</segment>
+    <segment id="12">"É um absurdo.</segment>
+    <segment id="13">Com a Reserva interditada</segment>
+    <segment id="14">, o único modo de ir para a praia foi pegando o trânsito infernal da Avenida das Américas"</segment>
+    <segment id="15">, reclamou Juliana Barbosa</segment>
+    <segment id="16">, no Twitter.</segment>
+  </rst>
+</analysis>

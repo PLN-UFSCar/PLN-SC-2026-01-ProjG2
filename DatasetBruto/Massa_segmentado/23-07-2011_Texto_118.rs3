@@ -1,0 +1,30 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Caixa divulga os números sorteados da Mega-Sena</segment>
+    <segment id="2">A Caixa Econômica Federal divulgou neste sábado as seis dezenas sorteadas no concurso 1.303 da Mega-Sena.</segment>
+    <segment id="3">Os números sorteados em Andradas (MG) são: 08 - 19 - 46 - 51 - 52 - 54.</segment>
+    <segment id="4">Ainda não foi divulgado o total de ganhadores.</segment>
+  </rst>
+</analysis>

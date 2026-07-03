@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Dedos indicam o tamanho do bilau</segment>
+    <segment id="2">Quanto mais curto é o dedo indicador em comparação ao anelar</segment>
+    <segment id="3">, mais longo será o pênis</segment>
+    <segment id="4">Homens cujos dedos indicadores são mais curtos que os dedos anelares podem ter pênis mais compridos.</segment>
+    <segment id="5">É o que diz um estudo sul-coreano.</segment>
+    <segment id="6">Segundo os pesquisadores</segment>
+    <segment id="7">, quanto mais curto é o dedo indicador em comparação ao anelar</segment>
+    <segment id="8">, mais longo será o pênis.</segment>
+    <segment id="9">Explicação</segment>
+    <segment id="10">Segundo o estudo</segment>
+    <segment id="11">, a testosterona pré-natal determina o desenvolvimento dos dedos e o comprimento do pênis</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Tiros</segment>
+    <segment id="2">Dois homens sÃ£o mortos a tiros em Alvorada
+Dupla foi alvejada ao descer de veÃ­culo na localidade de Pradinho</segment>
+    <segment id="3">Dois homens foram mortos na tarde desta terÃ§a-feira na localidade conhecida</segment>
+    <segment id="4">comocomo Pradinho</segment>
+    <segment id="5">, em Alvorada.</segment>
+    <segment id="6">De acordo com as primeiras informaÃ§Ãµes</segment>
+    <segment id="7">, os dois estavam dentro de um carro preto que parou numa das ruas do local.</segment>
+    <segment id="8">Logo apÃ³s os dois desembarcarem do veÃ­culo</segment>
+    <segment id="9">, os outros ocupantes do carro atiraram</segment>
+    <segment id="10">, matando a dupla.</segment>
+    <segment id="11">AtÃ© as 18h30min desta terÃ§a-feira</segment>
+    <segment id="12">, eles nÃ£o haviam sido identificados.</segment>
+  </rst>
+</analysis>

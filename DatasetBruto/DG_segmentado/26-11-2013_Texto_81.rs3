@@ -1,0 +1,55 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">HomicÃ­dio
+Homem de 52 anos</segment>
+    <segment id="2">Ã© morto na Vila SÃ£o Borja</segment>
+    <segment id="3">, na Zona Norte da Capital</segment>
+    <segment id="4">A vÃ­tima identificada</segment>
+    <segment id="5">comocomo Gerson Luis Gauze foi morta com golpes na cabeÃ§a
+Eduardo Torres
+eduardo.torres@diariogaucho.com.br</segment>
+    <segment id="6">Um homem foi encontrado morto na Travessa Tupi</segment>
+    <segment id="7">, Vila SÃ£o Borja</segment>
+    <segment id="8">, na Zona Norte da Capital na tarde desta terÃ§a-feira.</segment>
+    <segment id="9">A vÃ­tima foi identificada</segment>
+    <segment id="10">comocomo Gerson Luis Gauze</segment>
+    <segment id="11">, de 52 anos.</segment>
+    <segment id="12">De acordo com a investigaÃ§Ã£o</segment>
+    <segment id="13">, o homem foi morto com golpes na cabeÃ§a.</segment>
+    <segment id="14">A suspeita Ã© de que o homicÃ­dio tenha sido motivado por um desentendimento em um bar nas proximidades do local do crime.</segment>
+    <segment id="15">A ocorrÃªncia estÃ¡ sendo investigada pela 3Âª DHPP do bairro Sarandi.</segment>
+    <segment id="16">A polÃ­cia estÃ¡ no local.</segment>
+    <segment id="17">JÃ¡ hÃ¡ suspeitos para o crime.</segment>
+    <segment id="18">Leia mais:
+Homem</segment>
+    <segment id="19">Ã</segment>
+    <segment id="20">© assassinado a tiros</segment>
+    <segment id="21">, no Bairro Sarandi em Porto Alegre
+ApÃ³s discussÃ£o</segment>
+    <segment id="22">, homem</segment>
+    <segment id="23">Ã© morto a tiros na Vila Respeito</segment>
+    <segment id="24">, Bairro Sarandi</segment>
+  </rst>
+</analysis>

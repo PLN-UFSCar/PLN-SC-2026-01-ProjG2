@@ -1,0 +1,163 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Mães solo enfrentam mais dificuldades de inserção no mercado de trabalho e</segment>
+    <segment id="2">, quando conseguem uma ocupação</segment>
+    <segment id="3">, têm uma renda média inferior a de grupos</segment>
+    <segment id="4">comocomo mulheres e homens casados e com filhos.</segment>
+    <segment id="5">É o que sinaliza um estudo assinado pela economista Janaína Feijó</segment>
+    <segment id="6">, pesquisadora do FGV Ibre (Instituto Brasileiro de Economia da Fundação Getulio Vargas).</segment>
+    <segment id="7">De acordo com o levantamento</segment>
+    <segment id="8">, o rendimento do trabalho das mães solo no Brasil foi estimado em R$ 2.105 por mês no quarto trimestre de 2022.</segment>
+    <segment id="9">O valor ficou quase 39% abaixo da renda dos homens casados e com filhos (R$ 3.438).</segment>
+    <segment id="10">Antes da pandemia</segment>
+    <segment id="11">, no quarto trimestre de 2019</segment>
+    <segment id="12">, essa diferença era menor.</segment>
+    <segment id="13">Elas recebiam 33</segment>
+    <segment id="14">,4% a menos do que eles –R$ 2.325 e R$ 3.493</segment>
+    <segment id="15">, respectivamente.</segment>
+    <segment id="16">Os dados foram publicados em termos reais</segment>
+    <segment id="17">, ou seja</segment>
+    <segment id="18">, com o ajuste pela inflação.</segment>
+    <segment id="19">Mulher segura carteira de trabalho durante feirão de vagas em São Paulo   - Zanone Fraissat - 13.jul.2022/Folhapress"Ao contrário das mães solo</segment>
+    <segment id="20">, a trajetória dos homens no mercado de trabalho não é afetada após o nascimento dos filhos"</segment>
+    <segment id="21">, diz Feijó.</segment>
+    <segment id="22">No quarto trimestre de 2022</segment>
+    <segment id="23">, a renda das mães solo (R$ 2.105) foi cerca de 20% menor do que o rendimento das mulheres casadas e com filhos (R$ 2.626).</segment>
+    <segment id="24">"</segment>
+    <segment id="25">As mulheres casadas também enfrentam dificuldades no mercado de trabalho.</segment>
+    <segment id="26">A diferença é que elas podem contar com uma pessoa a mais com renda"</segment>
+    <segment id="27">, afirma Feijó.</segment>
+    <segment id="28">O estudo da economista foi elaborado a partir microdados da Pnad (Pesquisa Nacional por Amostra de Domicílios) Contínua</segment>
+    <segment id="29">, do IBGE (Instituto Brasileiro de Geografia e Estatística).</segment>
+    <segment id="30">A análise é focada nas mães solo de 15 a 60 anos que são consideradas pessoas de referência nos seus lares.</segment>
+    <segment id="31">As comparações são feitas com pais e mães da mesma faixa etária que estão em relações conjugais.</segment>
+    <segment id="32">Ensino e idade da mãe impactam</segment>
+    <segment id="33">O estudo aponta diferenças dentro do próprio grupo das mães solo.</segment>
+    <segment id="34">No quarto trimestre de 2022</segment>
+    <segment id="35">, a renda média do trabalho das mães solo negras foi estimada em R$ 1.685 no Brasil.</segment>
+    <segment id="36">O valor ficou 39</segment>
+    <segment id="37">,2% abaixo do rendimento das mães solo autodeclaradas brancas ou amarelas (R$ 2.772).</segment>
+    <segment id="38">Feijó afirma que um dos motivos para essa disparidade é o nível de escolaridade.</segment>
+    <segment id="39">No quarto trimestre de 2022</segment>
+    <segment id="40">, em torno de 21% do total de mães solo brancas ou amarelas tinham ensino superior.</segment>
+    <segment id="41">Entre as mães solo pretas ou pardas</segment>
+    <segment id="42">, o percentual caía a 9%.</segment>
+    <segment id="43">De acordo com Feijó</segment>
+    <segment id="44">, há uma forte correlação entre o momento da maternidade e o grau de escolaridade das mulheres.</segment>
+    <segment id="45">Nesse sentido</segment>
+    <segment id="46">, quando a gestação acontece durante a fase escolar (entre os 14 e 25 anos)</segment>
+    <segment id="47">, pode dificultar e até mesmo inviabilizar a continuidade dos estudos</segment>
+    <segment id="48">, com possíveis reflexos sobre o futuro profissional das mães</segment>
+    <segment id="49">, aponta a pesquisa.</segment>
+    <segment id="50">Segundo o levantamento</segment>
+    <segment id="51">, entre as mães solo que tiveram o primeiro filho com 15 anos ou menos</segment>
+    <segment id="52">, apenas 3% contavam com ensino superior completo.</segment>
+    <segment id="53">Já entre as que tiveram o primeiro filho aos 30 anos</segment>
+    <segment id="54">, 22% apresentavam ensino superior completo.</segment>
+    <segment id="55">O contexto social faz com que mães negras tenham filhos mais cedo</segment>
+    <segment id="56">, "e isso retroalimenta a situação desfavorável no mercado de trabalho"</segment>
+    <segment id="57">, diz Feijó.</segment>
+    <segment id="58">"</segment>
+    <segment id="59">Consequentemente</segment>
+    <segment id="60">, vai repercutir no nível salarial.</segment>
+    <segment id="61">"</segment>
+    <segment id="62">As mães solo que tiveram o primeiro filho mais tarde</segment>
+    <segment id="63">, por volta dos 27 anos</segment>
+    <segment id="64">, tendem a apresentar um rendimento médio em torno de R$ 1.700</segment>
+    <segment id="65">, diz o levantamento.</segment>
+    <segment id="66">É mais do que o dobro da renda de quem virou mãe com 15 anos ou menos (R$ 800).</segment>
+    <segment id="67">No quarto trimestre de 2022</segment>
+    <segment id="68">, 29,4% das mães solo estavam fora da força de trabalho no Brasil.</segment>
+    <segment id="69">Considerando somente as mães solo com filhos menores</segment>
+    <segment id="70">, de até cinco anos</segment>
+    <segment id="71">, a proporção era maior</segment>
+    <segment id="72">, de 32</segment>
+    <segment id="73">,4%.</segment>
+    <segment id="74">Entre as mães solo negras</segment>
+    <segment id="75">, o percentual fora da força era de 31% para aquelas com filhos de diferentes idades e de 34</segment>
+    <segment id="76">,6% para aquelas com filhos de até cinco anos.</segment>
+    <segment id="77">Entre as brancas e amarelas</segment>
+    <segment id="78">, a proporção estava em 26</segment>
+    <segment id="79">,6% e 27</segment>
+    <segment id="80">,5%, respectivamente.</segment>
+    <segment id="81">A população fora da força é composta por profissionais que não estão empregadas nem procurando ocupação.</segment>
+    <segment id="82">Segundo Feijó</segment>
+    <segment id="83">, um dos reflexos das dificuldades de inserção no mercado de trabalho é a ida de mães solo para a informalidade.</segment>
+    <segment id="84">De um lado</segment>
+    <segment id="85">, essa escolha pode permitir maior flexibilidade</segment>
+    <segment id="86">para que</segment>
+    <segment id="87">para que as mulheres consigam conciliar trabalho e cuidado dos filhos</segment>
+    <segment id="88">, diz a pesquisadora.</segment>
+    <segment id="89">O efeito colateral é a renda menor que a informalidade costuma gerar na comparação com vagas com carteira assinada ou CNPJ.</segment>
+    <segment id="90">"</segment>
+    <segment id="91">O que acontece é que a maternidade impõe um custo alto para a mãe.</segment>
+    <segment id="92">Para conciliar maternidade e trabalho</segment>
+    <segment id="93">, ela muitas vezes vai para uma ocupação informal"</segment>
+    <segment id="94">, analisa a pesquisadora.</segment>
+    <segment id="95">O estudo ainda chama atenção para a evolução dos domicílios cujas pessoas de referência são mães solo no Brasil.</segment>
+    <segment id="96">O número aumentou de 9</segment>
+    <segment id="97">,6 milhões no quarto trimestre de 2012 para 11</segment>
+    <segment id="98">,3 milhões no quarto trimestre de 2022.</segment>
+    <segment id="99">Isso significa um incremento de 17</segment>
+    <segment id="100">,8% na década</segment>
+    <segment id="101">, o equivalente a 1</segment>
+    <segment id="102">,7 milhão a mais de mães solo no período.</segment>
+    <segment id="103">Segundo o estudo</segment>
+    <segment id="104">, 90% desse aumento (1</segment>
+    <segment id="105">,5 milhão) veio de mães solo pretas e pardas</segment>
+    <segment id="106">, que passaram de 5</segment>
+    <segment id="107">,4 milhões para 6</segment>
+    <segment id="108">,9 milhões entre 2012 e 2022.</segment>
+    <segment id="109">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="110">; aberta para não assinantes.</segment>
+    <segment id="111">Carregando...</segment>
+    <segment id="112">A maior parte das mães solo (72</segment>
+    <segment id="113">,4%) vivem em domicílios monoparentais</segment>
+    <segment id="114">, compostos apenas por elas e seus filhos.</segment>
+    <segment id="115">Ou seja</segment>
+    <segment id="116">, não moram com parentes e não contam com uma rede de apoio para ajudar nas responsabilidades familiares e laborais.</segment>
+    <segment id="117">Na visão de Feijó</segment>
+    <segment id="118">, a melhoria das condições para a inserção dessas mulheres no mercado de trabalho passa por uma junção de esforços.</segment>
+    <segment id="119">Um deles viria da adequação da oferta e dos horários de creches às necessidades das trabalhadoras.</segment>
+    <segment id="120">"</segment>
+    <segment id="121">Para a mãe com filho pequeno</segment>
+    <segment id="122">, a creche é fundamental.</segment>
+    <segment id="123">Muitas vezes</segment>
+    <segment id="124">, a creche não está perto da mãe</segment>
+    <segment id="125">, e os horários não ajudam.</segment>
+    <segment id="126">É preciso entender quais são as demandas das mulheres"</segment>
+    <segment id="127">, afirma.</segment>
+    <segment id="128">Ela também defende medidas de capacitação para as mães solo que tiveram de interromper os estudos.</segment>
+    <segment id="129">Por fim</segment>
+    <segment id="130">, diz Feijó</segment>
+    <segment id="131">, empresas deveriam flexibilizar horários de chegada e saída do trabalho</segment>
+    <segment id="132">para que</segment>
+    <segment id="133">para que mães solo pudessem conciliar seus compromissos.</segment>
+    <segment id="134">Veja presentes de até R$ 100 para o Dia das Mães 2023Mais    novamente         de   de  de  representando um  ASSINATURA ESPECIAL: Neste dia das mães</segment>
+    <segment id="135">, aproveite a assinatura da Folha para mulheres.</segment>
+    <segment id="136">São dois meses grátis.</segment>
+    <segment id="137">Clique aqui para assinar ou compartilhar.</segment>
+  </rst>
+</analysis>

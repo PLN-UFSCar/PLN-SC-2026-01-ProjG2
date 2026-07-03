@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Rainha da CocaÃ­na tomba na ColÃ´mbia</segment>
+    <segment id="2">Griselda chegou a enviar aos Estados Unidos 1.500 kg de cocaÃ­na por mÃªs</segment>
+    <segment id="3">A colombiana Griselda Blanco</segment>
+    <segment id="4">, 69, conhecida nos anos 1970</segment>
+    <segment id="5">comocomo â€œa rainha da cocaÃ­naâ€ e mentora do mais poderoso chefe do narcotrÃ¡fico deste paÃ­s</segment>
+    <segment id="6">, Pablo Escobar</segment>
+    <segment id="7">, foi morta a tiros em MedellÃ­n.</segment>
+    <segment id="8">O crime foi na tarde de anteontem</segment>
+    <segment id="9">, quando ela saÃ­a de um aÃ§ougue.</segment>
+    <segment id="10">Os assassinos estavam em uma moto e dispararam contra a cabeÃ§a dela.</segment>
+    <segment id="11">Autoridades estimam que Griselda chegou a enviar aos Estados Unidos 1.500 kg de cocaÃ­na por mÃªs.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,38 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Prazo para desconto no IPTU de 2013</segment>
+    <segment id="2">Os contribuintes devem</segment>
+    <segment id="3">sese programar para benefÃ­cios do Programa Nota CidadÃ£ em 2013</segment>
+    <segment id="4">Os contribuintes de Salvador jÃ¡ devem</segment>
+    <segment id="5">sese programar para obter os benefÃ­cios do Programa Nota CidadÃ£ em 2013.</segment>
+    <segment id="6">Falta pouco mais de dois meses para o tÃ©rmino do prazo - 31 de outubro - de indicaÃ§Ã£o dos imÃ³veis para obtenÃ§Ã£o do desconto no carnÃª do Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU) do prÃ³ximo ano.</segment>
+    <segment id="7">O primeiro passo para ter direito ao desconto do programa Ã©</segment>
+    <segment id="8">sese cadastrar no site: www.notacidada.com.br.</segment>
+    <segment id="9">Depois</segment>
+    <segment id="10">, a cada serviÃ§o contratado de empresas de prestaÃ§Ã£o de serviÃ§os</segment>
+    <segment id="11">, basta indicar o CPF ou CNPJ</segment>
+    <segment id="12">, ao exigir a emissÃ£o da Nota Fiscal de ServiÃ§os EletrÃ´nica (NFS-e).</segment>
+  </rst>
+</analysis>

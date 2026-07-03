@@ -1,0 +1,106 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Os institutos Butantan</segment>
+    <segment id="2">, de São Paulo</segment>
+    <segment id="3">, e Vital Brazil</segment>
+    <segment id="4">, do Rio de Janeiro</segment>
+    <segment id="5">, estão desenvolvendo pesquisas com soro a partir do plasma do cavalo para tratamento de pacientes com a Covid-19.</segment>
+    <segment id="6">Se apresentarem a eficácia esperada na próxima etapa de testes</segment>
+    <segment id="7">, os soros podem ser os primeiros medicamentos eficazes no tratamento da doença.</segment>
+    <segment id="8">Países</segment>
+    <segment id="9">comocomo Costa Rica</segment>
+    <segment id="10">, Argentina e México também estão desenvolvendo o soro.</segment>
+    <segment id="11">Pesquisadores do Instituto Vital Brazil</segment>
+    <segment id="12">, do Rio de Janeiro</segment>
+    <segment id="13">, com cavalo usado no desenvolvimento de soro anti-Covid - Divulgação</segment>
+    <segment id="14">As técnicas utilizadas pelos laboratórios públicos são parecidas com a produção do soro antirrábico</segment>
+    <segment id="15">, experiência acumulada que facilitou o desenvolvimento da versão contra a Covid em menos de um ano.</segment>
+    <segment id="16">Segundo a diretora de Inovação do Butantan</segment>
+    <segment id="17">, Ana Marisa Chudzinski-Tavassi</segment>
+    <segment id="18">, é uma tecnologia brasileira com mais de um século de experiência</segment>
+    <segment id="19">, com resultados positivos e não é “absurdamente cara”.</segment>
+    <segment id="20">“</segment>
+    <segment id="21">Até hoje não foi desenvolvido um antiviral específico para o coronavírus e o soro pode ser uma alternativa”</segment>
+    <segment id="22">, disse.</segment>
+    <segment id="23">A diferença nas pesquisas está no modo</segment>
+    <segment id="24">comocomo usam o vírus na produção do soro.</segment>
+    <segment id="25">O Butantan utiliza o vírus inativado por radiação</segment>
+    <segment id="26">, enquanto o Vital Brazil faz uso da proteína S</segment>
+    <segment id="27">, que estimula resposta imune.</segment>
+    <segment id="28">Nas duas pesquisas</segment>
+    <segment id="29">, foram escolhidos dez cavalos</segment>
+    <segment id="30">, nos quais foram aplicados o vírus inativo ou a proteína S para estimular a produção de anticorpos.</segment>
+    <segment id="31">O soro é feito com o plasma retirado do sangue dos animais</segment>
+    <segment id="32">, que produzem muito mais anticorpos que os humanos</segment>
+    <segment id="33">, podem doar mais sangue por serem de grande porte e não têm doenças neurodegenerativas.</segment>
+    <segment id="34">O diretor industrial e científico do Vital Brazil</segment>
+    <segment id="35">, Eduardo Ribeiro da Cunha</segment>
+    <segment id="36">, explicou que é feita a coleta de sangue do animal e separado o plasma.</segment>
+    <segment id="37">“</segment>
+    <segment id="38">As hemácias que não nos interessam são devolvidas para o cavalo que precisa delas.</segment>
+    <segment id="39">Ele entra em um mês de descanso [até a próxima coleta]”</segment>
+    <segment id="40">, afirmou.</segment>
+    <segment id="41">Cunha disse que o plasma do cavalo é usado no mundo inteiro na fabricação de soros e é recomendado pela OMS (Organização Mundial de Saúde).</segment>
+    <segment id="42">Ele explicou que o plasma</segment>
+    <segment id="43">, assim que chega ao Vital Brazil</segment>
+    <segment id="44">, passa por um processo para evitar rejeição em humanos.</segment>
+    <segment id="45">Os laboratórios informaram que o soro teve bons resultados nas fases de testes in vitro e em camundongos.</segment>
+    <segment id="46">Eles foram enviados à Anvisa (Agência Nacional de Vigilância Sanitária)</segment>
+    <segment id="47">, que solicitou a realização de um teste que consiste em induzir a doença no animal e fazer tratamento com o soro.</segment>
+    <segment id="48">Se a resposta for bem-sucedida</segment>
+    <segment id="49">, a agência poderá autorizar testes em humanos.</segment>
+    <segment id="50">O Butantan vai realizar o teste em um laboratório NB3 (de segurança máxima) do ICB-USP (Instituto de Ciências Biomédicas da Universidade de São Paulo).</segment>
+    <segment id="51">Nesta semana</segment>
+    <segment id="52">, os pesquisadores já começaram a aclimatização dos animais para ter certeza de que estão com saúde boa para iniciar os experimentos.</segment>
+    <segment id="53">A expectativa é que o resultado saia ainda neste mês e que</segment>
+    <segment id="54">, e seguida</segment>
+    <segment id="55">, a Anvisa autorize os testes em humanos.</segment>
+    <segment id="56">“Precisa ter certeza</segment>
+    <segment id="57">sese não é tóxico</segment>
+    <segment id="58">, sese vai ter efeitos positivos e negativos.</segment>
+    <segment id="59">Ela [Anvisa] tem uma lista de testes e exigências que a gente tem que fazer”</segment>
+    <segment id="60">, disse a diretora do Butantan.</segment>
+    <segment id="61">O diretor do Vital Brazil disse que está está trocando protocolos com a Anvisa</segment>
+    <segment id="62">, informando que não vai conseguir fazer o teste em animais antes dos humanos devido a problemas</segment>
+    <segment id="63">, como</segment>
+    <segment id="64">como a falta de um animal transgênico com receptores de humanos e dificuldade de obter laboratórios NB3.</segment>
+    <segment id="65">Apesar disso</segment>
+    <segment id="66">, ele garante que a Anvisa não está atrasando a pesquisa e tem sido parceira no processo.</segment>
+    <segment id="67">De acordo com ele</segment>
+    <segment id="68">, em maio completa-</segment>
+    <segment id="69">sese um ano que o instituto está desenvolvendo o soro</segment>
+    <segment id="70">, e que isso é raro.</segment>
+    <segment id="71">“</segment>
+    <segment id="72">Você demora de cinco a dez anos para produzir um soro.</segment>
+    <segment id="73">A gente está queimando etapa</segment>
+    <segment id="74">porque</segment>
+    <segment id="75">porque está usando uma plataforma que usa há muitos anos.</segment>
+    <segment id="76">A pandemia exigiu”</segment>
+    <segment id="77">, enfatizou.</segment>
+    <segment id="78">Veja como</segment>
+    <segment id="79">como é a fábrica da Coronavac no Instituto Butantan   novamente         de   de  de  representando</segment>
+    <segment id="80">um</segment>
+  </rst>
+</analysis>

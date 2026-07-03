@@ -1,0 +1,134 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A produção de veículos está prestes a ser interrompida no Brasil por falta de insumos.</segment>
+    <segment id="2">Segundo Luiz Carlos Moraes</segment>
+    <segment id="3">, presidente da Anfavea (associação das montadoras)</segment>
+    <segment id="4">, o risco é imediato.</segment>
+    <segment id="5">“</segment>
+    <segment id="6">A situação está ficando mais preocupante</segment>
+    <segment id="7">, o risco de paralisação para dezembro é muito alto devido à falta de insumos</segment>
+    <segment id="8">, principalmente de aço”</segment>
+    <segment id="9">, disse o executivo durante a apresentação dos dados do setor em novembro.</segment>
+    <segment id="10">Há ainda escassez de pneus e de termoplásticos.</segment>
+    <segment id="11">Segundo o presidente da Anfavea</segment>
+    <segment id="12">, paradas pontuais já têm ocorrido.</segment>
+    <segment id="13">A consequência aparece no estoque disponível</segment>
+    <segment id="14">, o mais baixo desde março de 2004.</segment>
+    <segment id="15">Linha de montagem na montadora de caminhões Mercedes-Benz em São Bernardo do Campo</segment>
+    <segment id="16">, São Paulo - Bruno Santos - 18.mai.2020/FolhapressHoje há 119</segment>
+    <segment id="17">,4 mil veículos nos pátios de montadoras e de concessionárias</segment>
+    <segment id="18">, número suficiente para atender a apenas 16 dias de venda.</segment>
+    <segment id="19">No auge da pandemia</segment>
+    <segment id="20">, as unidades à espera de um dono supriam quatro meses de comercialização.</segment>
+    <segment id="21">“Há até montadoras comprando insumos para os fornecedores e tentando mitigar o risco de paralisação.</segment>
+    <segment id="22">Fazemos coisas impossíveis</segment>
+    <segment id="23">, masmas milagres a gente ainda não faz”</segment>
+    <segment id="24">, disse Moraes.</segment>
+    <segment id="25">Segundo o executivo</segment>
+    <segment id="26">, há possibilidade de falta de automóveis no mercado</segment>
+    <segment id="27">, o que deve interromper o crescimento de vendas de automóveis novos.</segment>
+    <segment id="28">A falta de aço</segment>
+    <segment id="29">sese deve principalmente ao problema da retomada da produção nas siderúrgicas em meio à pandemia.</segment>
+    <segment id="30">Segundo Moraes</segment>
+    <segment id="31">, as empresas do setor afirmam que as exportações não estão prejudicando o abastecimento no país</segment>
+    <segment id="32">, masmas há dificuldades em atender o mercado interno devido diferentes especificações do metal usado pelas montadoras no Brasil.</segment>
+    <segment id="33">A interrupção nas linhas de montagem vai agravar os problemas do varejo e das locadoras.</segment>
+    <segment id="34">As empresas de aluguel de carros esperam receber 40 mil unidades neste mês</segment>
+    <segment id="35">, masmas necessitam de 80 mil para atender à demanda no fim do ano.</segment>
+    <segment id="36">Sem carros novos</segment>
+    <segment id="37">, essas locadoras seguram as frotas atuais e deixam de abastecer o mercado de veículos usados</segment>
+    <segment id="38">, o que prejudica os lojistas –que já enfrentam a escassez de modelos zero-quilômetro e de carros com menos de três anos de uso.</segment>
+    <segment id="39">A parada iminente foi revelada após um mês de alta significativa na produção.</segment>
+    <segment id="40">Leia tambémDesarranjo da cadeia automotiva leva a fila de espera por carro zero e falta de usadoAtraso de montadoras e frota enxuta deixarão locadora sem carro no fim de ano</segment>
+    <segment id="41">Com 238</segment>
+    <segment id="42">,2 mil unidades manufaturadas</segment>
+    <segment id="43">, a montagem de veículos em novembro registrou crescimento de 4</segment>
+    <segment id="44">,7% em relação ao mesmo mês do ano anterior</segment>
+    <segment id="45">, segundo a Anfavea.</segment>
+    <segment id="46">É a primeira vez que isso ocorre desde o início da pandemia da covid-19.</segment>
+    <segment id="47">Em relação a outubro</segment>
+    <segment id="48">, o crescimento da produção ficou em 0</segment>
+    <segment id="49">,7%.</segment>
+    <segment id="50">Os dados divulgados pela Anfavea nesta segunda (7) incluem carros de passeio</segment>
+    <segment id="51">, veículos comerciais leves</segment>
+    <segment id="52">, ônibus e caminhões.</segment>
+    <segment id="53">A queda acumulada na produção é de 35% em 2020.</segment>
+    <segment id="54">As vendas tiveram alta de 4</segment>
+    <segment id="55">,7% em novembro na comparação com outubro</segment>
+    <segment id="56">, segundo dados da Fenabrave (entidade que representa os revendedores).</segment>
+    <segment id="57">Foram licenciadas 225 mil unidades</segment>
+    <segment id="58">, melhor resultado de 2020 até agora</segment>
+    <segment id="59">, com média diária de 11</segment>
+    <segment id="60">,3 mil emplacamentos.</segment>
+    <segment id="61">Em relação a novembro de 2019</segment>
+    <segment id="62">, houve retração de 7</segment>
+    <segment id="63">,1% na comercialização de veículos.</segment>
+    <segment id="64">No ano</segment>
+    <segment id="65">, a queda chega a 28</segment>
+    <segment id="66">,2%</segment>
+    <segment id="67">Os consumidores que optaram pelos veículos zero-quilômetro encontraram carros bem mais caros nos últimos meses</segment>
+    <segment id="68">, e não há expectativa de queda nos preços.</segment>
+    <segment id="69">Retomada das concessionárias    novamente         de   de  de  representando um  Segundo Moraes</segment>
+    <segment id="70">,</segment>
+    <segment id="71">será impossível reter os repasses</segment>
+    <segment id="72">, que ocorrem principalmente devido à variação cambial e aos reajustes dos insumos.</segment>
+    <segment id="73">Além das dificuldades para compra de aço</segment>
+    <segment id="74">, o metal já acumula alta de aproximadamente 40% ao longo de 2020.</segment>
+    <segment id="75">Enquanto lidam com problemas de produção e demanda</segment>
+    <segment id="76">, as montadoras seguem com planos de demissão voluntária abertos</segment>
+    <segment id="77">, o que explica a redução de 640 postos de trabalho entre outubro e novembro.</segment>
+    <segment id="78">Mas esse número é desigual entre os diferentes setores ligados à Anfavea</segment>
+    <segment id="79">, o que vai influenciar no balanço final de 2020.</segment>
+    <segment id="80">O segmento de máquinas agrícolas e rodoviárias registrou 179 contratações no último mês</segment>
+    <segment id="81">, masmas 819 funcionários foram desligados das fábricas de automóveis.</segment>
+    <segment id="82">Porém, a maior parte dessas contratações são por período temporário</segment>
+    <segment id="83">, para atender a demandas sazonais.</segment>
+    <segment id="84">As exportações surpreenderam</segment>
+    <segment id="85">, com alta de 26</segment>
+    <segment id="86">,2% em comparação a outubro.</segment>
+    <segment id="87">Segundo Luiz Carlos Moraes</segment>
+    <segment id="88">, presidente da Anfavea</segment>
+    <segment id="89">, houve a regularização nos envios a países que estavam com estoques em baixa.</segment>
+    <segment id="90">Em relação a outubro de 2019</segment>
+    <segment id="91">, foi registrado um crescimento de 38</segment>
+    <segment id="92">,6%.</segment>
+    <segment id="93">A Anfavea espera que 2021 seja um ano mais equilibrado em todos os setores da indústria automotiva</segment>
+    <segment id="94">, masmas o presidente da entidade admite que está sendo difícil fazer projeções.</segment>
+    <segment id="95">Caso o fornecimento de insumos não seja regularizado logo</segment>
+    <segment id="96">, o primeiro trimestre do próximo ano pode ser prejudicado</segment>
+    <segment id="97">, com queda no PIB industrial.</segment>
+    <segment id="98">O comércio também será afetado pela escassez de produtos.</segment>
+    <segment id="99">Outro fator que preocupa a Anfavea é o andamento da pandemia de covid-19</segment>
+    <segment id="100">, que registra alta seguidas nos casos.</segment>
+    <segment id="101">“Estávamos considerando a pandemia</segment>
+    <segment id="102">comocomo controlada</segment>
+    <segment id="103">, masmas</segment>
+    <segment id="104">, infelizmente</segment>
+    <segment id="105">, temos observado o aumento da contaminação”</segment>
+    <segment id="106">, disse Moraes.</segment>
+    <segment id="107">Segundo o executivo</segment>
+    <segment id="108">, esse fator vai influenciar nas previsões.</segment>
+  </rst>
+</analysis>

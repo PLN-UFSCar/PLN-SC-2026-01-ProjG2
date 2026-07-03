@@ -1,0 +1,109 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O economista Larry Summers acumula uma rara posição de prestígio nos debates sobre os rumos de políticas econômicas</segment>
+    <segment id="2">, de empresas e também no mundo academico.</segment>
+    <segment id="3">Ex-secretário do Tesouro dos EUA e presidente emérito da Universidade de Harvard</segment>
+    <segment id="4">, Summers vê uma relação indissociável entre universidades e sua missão de formação e</segment>
+    <segment id="5">, por outro lado</segment>
+    <segment id="6">, a resolução de problemas —na esfera pública ou privada.</segment>
+    <segment id="7">Ele presidiu Harvard entre 2001 e 2006 e conta que</segment>
+    <segment id="8">, nessa época</segment>
+    <segment id="9">, não era raro ouvir relatos de incômodos que alunos sentiam nas aulas da prestigiada instituição.</segment>
+    <segment id="10">"</segment>
+    <segment id="11">Acho que não tinha tato para responder"</segment>
+    <segment id="12">, brinca ele</segment>
+    <segment id="13">, ao relatar sua resposta provocativa.</segment>
+    <segment id="14">"</segment>
+    <segment id="15">Se você nunca sentir incômodo no seu tempo em Harvard</segment>
+    <segment id="16">, então sua educação foi um fracasso.</segment>
+    <segment id="17">Porque educação tem que ser algo que te desafia</segment>
+    <segment id="18">, incomoda</segment>
+    <segment id="19">, algo que não tinha pensando antes.</segment>
+    <segment id="20">Se você quiser</segment>
+    <segment id="21">sese sentir cômodo</segment>
+    <segment id="22">, sugiro que não venha em uma universidade</segment>
+    <segment id="23">comocomo a nossa e fique trancado na casa de seus pais"</segment>
+    <segment id="24">, relembrou.</segment>
+    <segment id="25">Larry Summers foi secretário de Tesouro dos EUA no governo Clinton - Brendan Mcdermid - 8.jul.22/Reuters Ainda falando sobre os estudantes</segment>
+    <segment id="26">, Summers diz que insucessos e fracassos são bem-vindos no processo de estudo e pesquisa.</segment>
+    <segment id="27">"</segment>
+    <segment id="28">Se não há erros</segment>
+    <segment id="29">, esse será o maior erro.</segment>
+    <segment id="30">Não ter insucessos é</segment>
+    <segment id="31">porque</segment>
+    <segment id="32">porque não assumimos desafios de entrar em um caminho novo"  Larry Summers falou no fim da manhã desta quarta-feira (10) no 5º Encontro Internacional de Reitores</segment>
+    <segment id="33">, em Valência (Espanha)</segment>
+    <segment id="34">, evento promovido pelo Universia</segment>
+    <segment id="35">, empresa educacional do banco Santander.</segment>
+    <segment id="36">Sua participação foi uma conversa com a presidente do banco</segment>
+    <segment id="37">, Ana Botín —o americano preside o conselho consultivo internacional da instituição.</segment>
+    <segment id="38">Summers é um formulador de políticas influente</segment>
+    <segment id="39">, considerado de centro-esquerda.</segment>
+    <segment id="40">Foi secretário do Tesouro de Bill Clinton e chefe do Conselho Econômico Nacional de Barack Obama.  Aos reitores</segment>
+    <segment id="41">, não deixou de fora correlações com o mundo econômico e político</segment>
+    <segment id="42">, masmas centrou suas reflexões sobre o meio acadêmico.</segment>
+    <segment id="43">Summers</segment>
+    <segment id="44">, de 68 anos</segment>
+    <segment id="45">, ainda figura</segment>
+    <segment id="46">comocomo professor</segment>
+    <segment id="47">, em Harvard</segment>
+    <segment id="48">, das disciplinas Política Econômica Americana e Economia Política da Globalização.</segment>
+    <segment id="49">Presidente do Santander</segment>
+    <segment id="50">, Ana Bótin</segment>
+    <segment id="51">, fala com Larry Summers no 5º Encontro Internacional de Reitores em Valência (Espanha) - DivulgaçãoO economista ressaltou que não vê as universidades</segment>
+    <segment id="52">comocomo empresas.</segment>
+    <segment id="53">Tanto na busca de lucro quanto na prestação de contas de professores e pesquisadores</segment>
+    <segment id="54">, que podem</segment>
+    <segment id="55">sese dedicar anos para a produção de apenas um livro que</segment>
+    <segment id="56">sese torne influente</segment>
+    <segment id="57">, por exemplo.</segment>
+    <segment id="58">O grande desafio</segment>
+    <segment id="59">, segundo ele</segment>
+    <segment id="60">, é que as instituições de ensino e pesquisa consigam ir além das suas fronteiras.</segment>
+    <segment id="61">"</segment>
+    <segment id="62">As universidades mais bem-sucedidas</segment>
+    <segment id="63">, que serão as mais importantes quando a história do século 20 for escrita mais adiante</segment>
+    <segment id="64">, serão as que deram mais oportunidades para descobrir e divulgar as coisas de uma forma exponencial"</segment>
+    <segment id="65">, disse ele</segment>
+    <segment id="66">, ao comentar sobre a relação entre universidade e problemas da sociedade.</segment>
+    <segment id="67">Um dos exemplos dessa sinergia útil foi com a Covid</segment>
+    <segment id="68">, disse ele.</segment>
+    <segment id="69">"Estamos no século onde as ideias são mais importantes do que foram antes.</segment>
+    <segment id="70">A [pandemia de] Covid-19 foi uma catástrofe</segment>
+    <segment id="71">masmas não tão catastrófica</segment>
+    <segment id="72">casocaso tivesse ocorrido há 20 anos.</segment>
+    <segment id="73">Toda revolução que aconteceu na biologia permitiu que pudéssemos ter uma vacina em menos de um ano.</segment>
+    <segment id="74">E isso não poderia ter ocorrido sem as universidades".</segment>
+    <segment id="75">Falando sobre o mercado de trabalho</segment>
+    <segment id="76">, Summers disse que as universidades precisam reduzir a brecha entre o mundo acadêmico e empresarial nos próximos anos.</segment>
+    <segment id="77">"</segment>
+    <segment id="78">Você não pode ter sucesso</segment>
+    <segment id="79">sese você não prepara seus alunos para o trabalho que vão desempenhar".</segment>
+    <segment id="80">O encontro de reitores em Valência ocorreu de segunda (8) até esta quarta</segment>
+    <segment id="81">, com o tema central Universidade e sociedade.</segment>
+    <segment id="82">Participaram cerca de 700 reitores de 14 países.</segment>
+    <segment id="83">O repórter viajou a convite do Santander</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,85 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente Jair Bolsonaro (PL) anunciou nesta quarta-feira (6) que a taxa extra cobrada na conta de luz para financiar térmicas durante a crise hídrica será extinta no próximo dia 16.</segment>
+    <segment id="2">A cobrança de R$ 14</segment>
+    <segment id="3">,20 por cada 100 kWh (quilowatts-hora) consumidos foi implantada em setembro.</segment>
+    <segment id="4">A partir do dia 16</segment>
+    <segment id="5">, disse o presidente</segment>
+    <segment id="6">, passa a vigorar a bandeira verde</segment>
+    <segment id="7">, que não tem custo adicional para o consumidor.</segment>
+    <segment id="8">Com a mudança</segment>
+    <segment id="9">, afirmou Bolsonaro pelo Twitter</segment>
+    <segment id="10">, a conta de luz deve ter uma redução de cerca de 20%.</segment>
+    <segment id="11">Chamada de bandeira de escassez hídrica</segment>
+    <segment id="12">, a taxa de R$ 14</segment>
+    <segment id="13">,20 foi criada para cobrir o rombo gerado pelo excesso de geração térmica durante o período mais crítico da crise no setor elétrico brasileiro</segment>
+    <segment id="14">, quando o país ainda vivia sob o risco de racionamento de energia.</segment>
+    <segment id="15">Conta de luz - Gabriel Cabral - 17.set.2021/FolhapressO cronograma original previa a vigência dessa taxa até abril e o mercado já esperava a adoção da bandeira verde em maio</segment>
+    <segment id="16">, diante da recuperação do nível dos reservatórios com as fortes chuvas que caíram no país durante o verão.  "</segment>
+    <segment id="17">Com a redução da geração termelétrica mais cara e o aumento da produção das hidrelétricas e das demais fontes renováveis</segment>
+    <segment id="18">, os custos serão menores durante o próximo período seco</segment>
+    <segment id="19">, que vai de maio a novembro</segment>
+    <segment id="20">, o que</segment>
+    <segment id="21">sese traduzirá em menores tarifas para os consumidores"</segment>
+    <segment id="22">, escreveu o presidente.</segment>
+    <segment id="23">Segundo o MME (Ministério de Minas e Energia)</segment>
+    <segment id="24">, a antecipação do fim da cobrança é justificada pela redução do uso das térmicas e por expectativa de aumento da produção das hidrelétricas e de usinas eólicas e solares</segment>
+    <segment id="25">, que reduzirão o custo da energia no período seco.</segment>
+    <segment id="26">A mudança beneficia os consumidores de renda mais alta</segment>
+    <segment id="27">, já que aqueles de baixa renda não foram afetados pela bandeira de escassez hídrica.</segment>
+    <segment id="28">Esse grupo está há quatro meses sem cobrança extra na conta de luz.</segment>
+    <segment id="29">Com as chuvas</segment>
+    <segment id="30">, o nível médio dos reservatórios das regiões</segment>
+    <segment id="31">Sudeste e Centro-Oeste chegou a 63</segment>
+    <segment id="32">,3% em março</segment>
+    <segment id="33">, último mês do chamado período chuvoso.</segment>
+    <segment id="34">As duas regiões concentram cerca de 70% da capacidade de armazenamento de energia das hidrelétricas brasileiras.</segment>
+    <segment id="35">O volume registrado em março é quase o dobro do registrado no mesmo mês de 2021</segment>
+    <segment id="36">, ano em que o país sofreu risco de racionamento de energia.</segment>
+    <segment id="37">Além de chuvas acima do esperado</segment>
+    <segment id="38">, a recuperação reflete também o acionamento de térmicas mais caras que pressionaram a conta de luz nos últimos meses.</segment>
+    <segment id="39">Com a melhora no nível dos reservatórios</segment>
+    <segment id="40">, o preço da energia no mercado atacadista está hoje em R$ 55</segment>
+    <segment id="41">,70 por MWh (megawatt-hora)</segment>
+    <segment id="42">, o menor valor possível no sistema atual.</segment>
+    <segment id="43">No auge da crise</segment>
+    <segment id="44">, passou três meses no teto estabelecido para 2021</segment>
+    <segment id="45">, de R$ 583</segment>
+    <segment id="46">,88 por MWh.</segment>
+    <segment id="47">Entenda o sistema de bandeiras tarifárias da conta de luzMais    novamente         de   de  de  representando um</segment>
+    <segment id="48">Apesar da expectativa de alívio com a taxa extra</segment>
+    <segment id="49">, a conta de luz seguirá pressionada pelo elevado uso de térmicas em 2021</segment>
+    <segment id="50">, que justificou a concessão de um empréstimo de R$ 5</segment>
+    <segment id="51">,3 bilhões ao setor</segment>
+    <segment id="52">, e pela decisão de contratar usinas emergenciais para tentar encher os reservatórios nos próximos anos.</segment>
+    <segment id="53">Essas usinas foram contratadas em leilão realizado em outubro para entregar 775 MW (megawatts) médios entre 2022 e 2025 ao custo total de R$ 39 bilhões.</segment>
+    <segment id="54">O processo foi criticado na época por especialistas e pela indústria por garantir aos projetos altos níveis de geração de energia mesmo em períodos de reservatórios cheios.</segment>
+    <segment id="55">O governo justificou a encomenda dizendo que precisava reforçar os reservatórios para evitar riscos de racionamento nos próximos anos</segment>
+    <segment id="56">, masmas agora com as hidrelétricas já em boas condições</segment>
+    <segment id="57">, os projetos</segment>
+    <segment id="58">sese mostram desnecessários</segment>
+    <segment id="59">, segundo especialistas do setor.</segment>
+  </rst>
+</analysis>

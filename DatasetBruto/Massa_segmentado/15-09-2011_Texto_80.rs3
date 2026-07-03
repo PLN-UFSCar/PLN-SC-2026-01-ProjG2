@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Peugeot estuda abrir nova fábrica no Rio
+RIO - A PSA</segment>
+    <segment id="2">Peugeot Citroën está em conversas com o governo do Estado do Rio para ampliar investimentos em Porto Real.</segment>
+    <segment id="3">O grupo estuda a construção de uma nova fábrica.</segment>
+    <segment id="4">Hoje, a empresa francesa investe R$ 1</segment>
+    <segment id="5">,4 bilhão na ampliação de sua atual fábrica</segment>
+    <segment id="6">, onde a produção passará de 29 carros por dia para 42.</segment>
+    <segment id="7">Carlos Gomes</segment>
+    <segment id="8">, presidente da montadora para o Brasil e América Latina</segment>
+    <segment id="9">, disse que o objetivo é crescer no Rio:
+
+- Em agosto</segment>
+    <segment id="10">, as vendas desaceleraram.</segment>
+    <segment id="11">Para o ano de 2011</segment>
+    <segment id="12">, reduzimos a nossa projeção de vendas</segment>
+    <segment id="13">, que caiu de 200 mil para 190 mil unidades - disse Gomes</segment>
+    <segment id="14">, ressaltando que as vendas no Brasil cresceram 10% entre janeiro e agosto este ano</segment>
+    <segment id="15">, acima dos 7% do mercado.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,91 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente Lula (PT) elogiou nesta sexta-feira (14) a ministra da Saúde</segment>
+    <segment id="2">, Nísia Trindade</segment>
+    <segment id="3">, e mandou um recado ao centrão</segment>
+    <segment id="4">, que fez movimentos nos bastidores para assumir o comando da pasta.</segment>
+    <segment id="5">"</segment>
+    <segment id="6">Tem ministros que não são trocáveis.</segment>
+    <segment id="7">Tem pessoas e tem funções que são uma coisa da escolha pessoal do presidente da República.</segment>
+    <segment id="8">Eu já disse publicamente: a Nísia não é ministra do Brasil</segment>
+    <segment id="9">, ela é minha ministra"</segment>
+    <segment id="10">, afirmou.</segment>
+    <segment id="11">A declaração foi dada em evento de sanção da lei do programa</segment>
+    <segment id="12">Mais Médicos no Palácio do Planalto.</segment>
+    <segment id="13">A ministra foi ovacionada pelos presentes em mais de uma oportunidade.</segment>
+    <segment id="14">O presidente Luiz Inacio Lula da Silva participa de lançamento do programa Mais Médicos</segment>
+    <segment id="15">, no Palácio do Planalto</segment>
+    <segment id="16">, ao lado da primeira-dama</segment>
+    <segment id="17">, Janja</segment>
+    <segment id="18">, e da ministra da Saúde</segment>
+    <segment id="19">, Nísia Trindade- Gabriela Biló - 20.mar.2023/Folhapress</segment>
+    <segment id="20">A retomada do programa é fruto da medida provisória que foi aprovada em junho pelo Congresso Nacional.</segment>
+    <segment id="21">A expectativa do Ministério da Saúde é que o Mais Médicos tenha</segment>
+    <segment id="22">, até o fim de 2023</segment>
+    <segment id="23">, 15 mil novos médicos em todo país</segment>
+    <segment id="24">, totalizando 28 mil profissionais.</segment>
+    <segment id="25">O governo espera que a iniciativa resgate o acesso à saúde para mais de 96 milhões de brasileiros.</segment>
+    <segment id="26">Lula criticou a extinção do programa e disse que nunca "imaginou que alguém fosse capaz de acabar com o Mais Médicos".</segment>
+    <segment id="27">"Era uma coisa tão importante para a sociedade que eu não imaginava que presidente ou ministro qualquer pudesse simplesmente dizer que esse programa não vai mais acontecer</segment>
+    <segment id="28">, sem dizer o que ia colocar no lugar"</segment>
+    <segment id="29">, afirmou.</segment>
+    <segment id="30">Ele também voltou a afirmar que o governo trabalha para ampliar o acesso das pessoas a médicos especializados.</segment>
+    <segment id="31">O chefe do Executivo disse que é inadmissível que</segment>
+    <segment id="32">, em alguns casos</segment>
+    <segment id="33">, a pessoa descubra uma doença e tenha que esperar por até 9 meses para ter uma consulta com um profissional com especialização naquela área.</segment>
+    <segment id="34">Nesta sexta (14)</segment>
+    <segment id="35">, o presidente Lula também assinou um decreto que institui um Grupo de Trabalho Interministerial.</segment>
+    <segment id="36">O objetivo é discutir e propor regras para reservas de vagas aos médicos com deficiência e pertencentes a grupos étnico-raciais.</segment>
+    <segment id="37">O GT, coordenado pelo Ministério da Saúde</segment>
+    <segment id="38">, terá a participação dos Ministérios da Igualdade Racial</segment>
+    <segment id="39">, dos Direitos Humanos e Cidadania</segment>
+    <segment id="40">, da Gestão e da Inovação em Serviços Públicos e do Planejamento.</segment>
+    <segment id="41">Logo no início desta gestão</segment>
+    <segment id="42">, em fevereiro</segment>
+    <segment id="43">, o Ministério da Saúde retomou editais que estavam paralisados pela gestão passada</segment>
+    <segment id="44">, causando desassistência para regiões de maior vulnerabilidade</segment>
+    <segment id="45">, principalmente nos territórios indígenas.</segment>
+    <segment id="46">Das 804 novas vagas</segment>
+    <segment id="47">, 152 profissionais foram direcionados para os DSEIS (Distritos Sanitários Especiais Indígenas)</segment>
+    <segment id="48">, sendo 14 deles para o território Yanomami.</segment>
+    <segment id="49">Em março</segment>
+    <segment id="50">, após a retomada oficial do programa</segment>
+    <segment id="51">, o primeiro edital foi lançado com 5.968 vagas para reposição das vagas que não foram preenchidas nos últimos anos —45% delas estão em regiões de maior vulnerabilidade.</segment>
+    <segment id="52">Dessas</segment>
+    <segment id="53">, mil vagas foram direcionadas para a região da Amazônia Legal.</segment>
+    <segment id="54">Em um modelo inédito</segment>
+    <segment id="55">, o Ministério da Saúde lançou um novo edital com</segment>
+    <segment id="56">, pelo menos</segment>
+    <segment id="57">, 10 mil vagas em coparticipação de municípios.</segment>
+    <segment id="58">Essa forma de contratação garante às prefeituras menor custo</segment>
+    <segment id="59">, maior agilidade na reposição do profissional e permanência nessas localidades.</segment>
+    <segment id="60">Neste edital</segment>
+    <segment id="61">, 2.683 municípios solicitaram 15.838 vagas que serão analisadas de acordo com os critérios já definidos.</segment>
+    <segment id="62">Dessas cidades</segment>
+    <segment id="63">, 599 poderão ter profissionais do Mais Médicos pela primeira vez.</segment>
+    <segment id="64">Este é Lula em 2023Mais    novamente         de   de  de  representando</segment>
+    <segment id="65">um</segment>
+  </rst>
+</analysis>

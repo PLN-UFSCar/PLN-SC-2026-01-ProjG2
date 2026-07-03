@@ -1,0 +1,195 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Após o baque causado pela pandemia</segment>
+    <segment id="2">, a recuperação do nível de vagas de trabalho ocorreu em ritmo mais lento no Nordeste</segment>
+    <segment id="3">, sinalizam dados do IBGE (Instituto Brasileiro de Geografia e Estatística).</segment>
+    <segment id="4">A região é a única das cinco grandes do país onde a população ocupada ainda segue levemente abaixo do patamar pré-coronavírus.</segment>
+    <segment id="5">O indicador mede a quantidade de pessoas com algum tipo de trabalho.</segment>
+    <segment id="6">No quarto trimestre de 2021</segment>
+    <segment id="7">, a população ocupada no Nordeste foi estimada em 21</segment>
+    <segment id="8">,481 milhões de pessoas.</segment>
+    <segment id="9">Apesar de ter crescido em relação a 2020</segment>
+    <segment id="10">, o número é 1</segment>
+    <segment id="11">,2% inferior ao do quarto trimestre de 2019</segment>
+    <segment id="12">, antes da crise sanitária.</segment>
+    <segment id="13">À época</segment>
+    <segment id="14">, a população ocupada no Nordeste era de 21</segment>
+    <segment id="15">,744 milhões.</segment>
+    <segment id="16">Ou seja</segment>
+    <segment id="17">, 263 mil postos de trabalho foram fechados no intervalo de dois anos.</segment>
+    <segment id="18">Obra é realizada em casa no subúrbio de Salvador  - Raul Spinassé - 6 ago.2020/FolhapressOs dados integram a Pnad Contínua (Pesquisa Nacional por Amostra de Domicílios Contínua).</segment>
+    <segment id="19">A edição mais recente com o recorte das grandes regiões é relativa ao quarto trimestre de 2021.</segment>
+    <segment id="20">A Pnad acompanha tanto o mercado de trabalho formal</segment>
+    <segment id="21">, com carteira assinada ou CNPJ</segment>
+    <segment id="22">, quanto o informal</segment>
+    <segment id="23">, que inclui os populares bicos.</segment>
+    <segment id="24">A economista Janaína Feijó</segment>
+    <segment id="25">, do FGV Ibre (Instituto Brasileiro de Economia da Fundação Getulio Vargas)</segment>
+    <segment id="26">, produziu um levantamento com microdados da Pnad que aponta possíveis fatores para a retomada em ritmo mais lento no Nordeste.</segment>
+    <segment id="27">Conforme a pesquisadora</segment>
+    <segment id="28">, trabalhadores com menor nível de escolaridade —muitas vezes associados a vagas informais ou com salários mais baixos— sentiram mais a chegada da pandemia e ainda não retornaram completamente ao mercado.</segment>
+    <segment id="29">No quarto trimestre de 2019</segment>
+    <segment id="30">, antes da Covid-19</segment>
+    <segment id="31">, o Nordeste tinha 9</segment>
+    <segment id="32">,908 milhões de ocupados sem ensino médio completo.</segment>
+    <segment id="33">No quarto trimestre de 2021</segment>
+    <segment id="34">, esse número era cerca de 5% menor</segment>
+    <segment id="35">, de 9</segment>
+    <segment id="36">,388 milhões.</segment>
+    <segment id="37">Enquanto isso</segment>
+    <segment id="38">, a população ocupada de trabalhadores com ensino médio ou superior completo já conseguiu retomar o patamar pré-pandemia.</segment>
+    <segment id="39">Esse quadro não é exclusivo do Nordeste.</segment>
+    <segment id="40">Também ocorreu em outras regiões.</segment>
+    <segment id="41">A questão é que os trabalhadores com menos anos de estudo representam uma fatia maior na população ocupada nordestina</segment>
+    <segment id="42">, na comparação com outros locais</segment>
+    <segment id="43">, indicam os microdados.</segment>
+    <segment id="44">Os profissionais sem ensino médio completo respondiam por 43</segment>
+    <segment id="45">,7% de toda a população ocupada na região no quarto trimestre do ano passado.</segment>
+    <segment id="46">É a maior porcentagem do país.</segment>
+    <segment id="47">"</segment>
+    <segment id="48">A retomada da população ocupada ocorreu de forma mais lenta</segment>
+    <segment id="49">, até agora</segment>
+    <segment id="50">, no Nordeste.</segment>
+    <segment id="51">Os dados mostram que boa parte das pessoas mais vulneráveis saiu do mercado de trabalho e ainda não voltou"</segment>
+    <segment id="52">, afirma Feijó</segment>
+    <segment id="53">, que é natural do Ceará.</segment>
+    <segment id="54">Na região Norte</segment>
+    <segment id="55">, a população ocupada total subiu 3</segment>
+    <segment id="56">,9% entre o quarto trimestre de 2019 e igual período de 2021.</segment>
+    <segment id="57">Passou de 7</segment>
+    <segment id="58">,493 milhões para 7</segment>
+    <segment id="59">,784 milhões.</segment>
+    <segment id="60">O Centro-Oeste</segment>
+    <segment id="61">, por sua vez</segment>
+    <segment id="62">, teve aumento de 1</segment>
+    <segment id="63">,3% —de 7</segment>
+    <segment id="64">,934 milhões para 8</segment>
+    <segment id="65">,038 milhões.</segment>
+    <segment id="66">O Sul e o Sudeste</segment>
+    <segment id="67">, que concentram as maiores populações ocupadas do país</segment>
+    <segment id="68">, registraram variações mais baixas.</segment>
+    <segment id="69">No Sul</segment>
+    <segment id="70">, houve leve avanço de 0</segment>
+    <segment id="71">,3% (de 15</segment>
+    <segment id="72">,257 milhões para 15</segment>
+    <segment id="73">,303 milhões).</segment>
+    <segment id="74">Já o Sudeste teve variação de 0</segment>
+    <segment id="75">,1% (de 43</segment>
+    <segment id="76">,086 milhões para 43</segment>
+    <segment id="77">,143 milhões).</segment>
+    <segment id="78">Seis estados seguem abaixo do pré-crise</segment>
+    <segment id="79">No recorte das unidades da federação</segment>
+    <segment id="80">, as estatísticas da Pnad sinalizam que seis estados ainda não recuperaram totalmente o patamar pré-pandemia da população ocupada.</segment>
+    <segment id="81">Quatro ficam no Nordeste.</segment>
+    <segment id="82">Em termos proporcionais</segment>
+    <segment id="83">, Ceará e Paraíba são os locais mais distantes do intervalo que antecedeu a Covid-19.  Neles</segment>
+    <segment id="84">, a população ocupada no quarto trimestre de 2021 ainda estava 7</segment>
+    <segment id="85">,1% e 6</segment>
+    <segment id="86">,6% abaixo do mesmo trimestre de 2019</segment>
+    <segment id="87">, respectivamente.  Pernambuco (-4</segment>
+    <segment id="88">,2%), Rio Grande do Sul (-2</segment>
+    <segment id="89">,5%), Piauí (-1</segment>
+    <segment id="90">,3%) e Minas Gerais (-0</segment>
+    <segment id="91">,9%) também não haviam recuperado totalmente o nível de vagas de trabalho.</segment>
+    <segment id="92">No Ceará</segment>
+    <segment id="93">, a população ocupada era de 3</segment>
+    <segment id="94">,790 milhões de pessoas no quarto trimestre de 2019.</segment>
+    <segment id="95">Em igual intervalo de 2021</segment>
+    <segment id="96">, o grupo que estava trabalhando foi estimado em 3</segment>
+    <segment id="97">,522 milhões.</segment>
+    <segment id="98">Ou seja</segment>
+    <segment id="99">, houve perda de 268 mil postos nessa comparação</segment>
+    <segment id="100">, número correspondente ao recuo de 7</segment>
+    <segment id="101">,1%.</segment>
+    <segment id="102">Na visão do economista Vitor Hugo Miro</segment>
+    <segment id="103">, professor da UFC (Universidade Federal do Ceará)</segment>
+    <segment id="104">, uma combinação de fatores pode explicar o quadro local.</segment>
+    <segment id="105">Em 2021</segment>
+    <segment id="106">, lembra Miro</segment>
+    <segment id="107">, o Ceará passou por período de recrudescimento da pandemia</segment>
+    <segment id="108">, o que forçou a manutenção de restrições a atividades econômicas.</segment>
+    <segment id="109">A crise sanitária dificultou o processo de reabertura e pode ter atrasado a retomada da ocupação</segment>
+    <segment id="110">, diz o economista.  "</segment>
+    <segment id="111">A reabertura pode ter ocorrido de forma mais lenta do que em outros estados</segment>
+    <segment id="112">, com impactos no mercado de trabalho"</segment>
+    <segment id="113">, aponta.</segment>
+    <segment id="114">Segundo ele</segment>
+    <segment id="115">, a transferência de renda via programas sociais</segment>
+    <segment id="116">, como</segment>
+    <segment id="117">como o auxílio emergencial</segment>
+    <segment id="118">, pago entre 2020 e 2021</segment>
+    <segment id="119">, minimizou os prejuízos gerados pela Covid-19 e também pode ter postergado a volta ao mercado.</segment>
+    <segment id="120">Na Paraíba</segment>
+    <segment id="121">, a população ocupada recuou de 1</segment>
+    <segment id="122">,489 milhão no quarto trimestre de 2019 para 1</segment>
+    <segment id="123">,391 milhão em igual intervalo de 2021.</segment>
+    <segment id="124">A baixa de 6</segment>
+    <segment id="125">,6% equivale a 98 mil vagas a menos nessa comparação.  "</segment>
+    <segment id="126">Com a pandemia</segment>
+    <segment id="127">, medidas restritivas foram alongadas.</segment>
+    <segment id="128">Outro fator com impacto no mercado de trabalho local é a conjuntura econômica nacional"</segment>
+    <segment id="129">, avalia o economista Werton Oliveira</segment>
+    <segment id="130">, da consultoria Ekonomy e do Sinduscon-JP (Sindicato da Indústria da Construção Civil de João Pessoa).  "</segment>
+    <segment id="131">A renda baixa da população e a alta generalizada dos preços no país afetam setores que empregam bastante</segment>
+    <segment id="132">, como</segment>
+    <segment id="133">como é o</segment>
+    <segment id="134">casocaso do comércio"</segment>
+    <segment id="135">, acrescenta.</segment>
+    <segment id="136">Retomada em meio a riscos em 2022</segment>
+    <segment id="137">Na visão de Janaína Feijó</segment>
+    <segment id="138">, do FGV Ibre</segment>
+    <segment id="139">, há perspectiva de que a população ocupada retome em 2022 o nível pré-pandemia em estados e regiões em que isso ainda não ocorreu.</segment>
+    <segment id="140">O embalo pode vir dos efeitos da reabertura da economia</segment>
+    <segment id="141">, masmas isso não quer dizer que o cenário esteja livre de riscos</segment>
+    <segment id="142">, segundo ela.</segment>
+    <segment id="143">Projeção de baixo desempenho da atividade econômica no Brasil</segment>
+    <segment id="144">, incertezas da corrida eleitoral e impactos da guerra na Ucrânia são fatores apontados</segment>
+    <segment id="145">comocomo possíveis entraves para uma recuperação mais consistente.  "</segment>
+    <segment id="146">O ano de 2022 também é de turbulência.</segment>
+    <segment id="147">Tem incertezas.</segment>
+    <segment id="148">Isso afeta o mercado de trabalho e a geração de empregos"</segment>
+    <segment id="149">, avalia.</segment>
+    <segment id="150">De acordo com a Pnad</segment>
+    <segment id="151">, 21 unidades da federação já alcançaram nível de população ocupada acima do pré-pandemia.</segment>
+    <segment id="152">O indicador de Alagoas</segment>
+    <segment id="153">, ao contrário da média da região Nordeste</segment>
+    <segment id="154">, teve acréscimo de 16</segment>
+    <segment id="155">,3%, ao passar de 1</segment>
+    <segment id="156">,028 milhão para 1</segment>
+    <segment id="157">,196 milhão de pessoas.</segment>
+    <segment id="158">Foi a maior alta em termos percentuais entre o quarto trimestre de 2019 e igual período de 2021.</segment>
+    <segment id="159">Na sequência</segment>
+    <segment id="160">, aparecem Roraima (9</segment>
+    <segment id="161">,7%), Acre (8</segment>
+    <segment id="162">,9%) e Tocantins (5</segment>
+    <segment id="163">,6%).</segment>
+    <segment id="164">São Paulo</segment>
+    <segment id="165">, o estado mais populoso</segment>
+    <segment id="166">, teve elevação de 0</segment>
+    <segment id="167">,6% no total de ocupados.</segment>
+    <segment id="168">Mercado de trabalho na pandemiaMais    novamente         de   de  de  representando</segment>
+    <segment id="169">um</segment>
+  </rst>
+</analysis>

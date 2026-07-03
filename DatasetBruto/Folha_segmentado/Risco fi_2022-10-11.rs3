@@ -1,0 +1,100 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Recebi com alegria a notícia de que Bernanke</segment>
+    <segment id="2">, Diamond e Dybvig ganharam o Nobel de economia deste ano.</segment>
+    <segment id="3">Tive a boa fortuna de ler</segment>
+    <segment id="4">, como</segment>
+    <segment id="5">como aluno de doutorado em Princeton no inicio dos anos 80</segment>
+    <segment id="6">, as contribuições seminais agora merecidamente agraciadas com o prêmio.</segment>
+    <segment id="7">O tema foi nada mais nada menos do que uma faceta desconcertante e recorrente das economias de mercado: as crises bancárias e financeiras.</segment>
+    <segment id="8">Desde então</segment>
+    <segment id="9">, uma parte importante de minha vida profissional lidou com o assunto</segment>
+    <segment id="10">, como</segment>
+    <segment id="11">como bem demonstra a minha careca.</segment>
+    <segment id="12">Ben Bernanke</segment>
+    <segment id="13">, ex-presidente do Federal Reserve Board</segment>
+    <segment id="14">, o BC americano</segment>
+    <segment id="15">, publicou em 1983 um artigo que caracterizou o decisivo papel causal que a crise bancária que ocorreu nos Estados Unidos no início do anos 30 teve no que viria a ser a Grande Depressão.</segment>
+    <segment id="16">O que se</segment>
+    <segment id="17">se viu foi um exemplo das externalidades negativas e de rede inerentes ao funcionamento de um sistema financeiro.</segment>
+    <segment id="18">Trata-</segment>
+    <segment id="19">sese de um fenômeno de fácil compreensão: bancos (e</segment>
+    <segment id="20">, hoje em dia</segment>
+    <segment id="21">, o sistema não bancário também) captam depósitos a curto prazo e resgatáveis ao valor de face e emprestam a prazos mais longos</segment>
+    <segment id="22">, tipicamente financiando o setor produtivo.</segment>
+    <segment id="23">Se, por qualquer razão</segment>
+    <segment id="24">, houver um aumento da demanda por liquidez no sistema e os intermediários financeiros não conseguirem financiar os seus balanços</segment>
+    <segment id="25">, pode</segment>
+    <segment id="26">sese instalar uma espiral de venda de ativos e mais demanda por liquidez</segment>
+    <segment id="27">, que trava a circulação do dinheiro e deprime a economia.</segment>
+    <segment id="28">Ben Bernanke</segment>
+    <segment id="29">, ex-presidente do Fed</segment>
+    <segment id="30">, durante evento em 2018 - Win McNamee/Getty Images/AFPA não identificação tempestiva desse processo contribuiu para transformar uma recessão em uma duradoura depressão.</segment>
+    <segment id="31">Em 2008</segment>
+    <segment id="32">, Bernanke</segment>
+    <segment id="33">, na cabine de comando do Fed</segment>
+    <segment id="34">, rapidamente diagnosticou o</segment>
+    <segment id="35">casocaso e expandiu agressivamente a política monetária</segment>
+    <segment id="36">, evitando assim o que poderia ter sido uma outra depressão.</segment>
+    <segment id="37">Foi um</segment>
+    <segment id="38">casocaso raro de um trabalho acadêmico influenciar na prática o seu próprio autor.</segment>
+    <segment id="39">Praticamente ao mesmo tempo em que Bernanke escrevia o seu artigo premiado por abordar aspectos macroeconômicos do tema</segment>
+    <segment id="40">, a dupla Douglas Diamond e Philipp Dybvig desenvolveu o arcabouço analítico microeconômico que revolucionou o entendimento das corridas bancárias e fenômenos similares.</segment>
+    <segment id="41">Partindo de premissas bastante intuitivas</segment>
+    <segment id="42">, os autores construíram um modelo que mostra que corridas bancárias podem ocorrer mesmo em circunstâncias tidas</segment>
+    <segment id="43">comocomo seguras.</segment>
+    <segment id="44">Diamond em particular</segment>
+    <segment id="45">, sozinho e em parceria com Raghuram Rajan</segment>
+    <segment id="46">, estendeu esse modelo em várias e importantes direções</segment>
+    <segment id="47">, que enriqueceram ainda mais o entendimento do funcionamento de sistemas financeiros.</segment>
+    <segment id="48">Crises financeiras têm uma longa história</segment>
+    <segment id="49">, que a partir do século 19 inspiraram inúmeras respostas de política pública.</segment>
+    <segment id="50">A primeira foi a pioneira transformação do Banco da Inglaterra em emprestador de última instância</segment>
+    <segment id="51">, com a missão de reduzir a instabilidade do sistema</segment>
+    <segment id="52">, até então mais regra do que exceção.</segment>
+    <segment id="53">No século 20</segment>
+    <segment id="54">, sobretudo a partir da Grande Depressão</segment>
+    <segment id="55">, surgiram outros mecanismos de defesa contra corridas bancárias</segment>
+    <segment id="56">, com destaque para o seguro de depósitos bancários</segment>
+    <segment id="57">, que reduziu o incentivo de sacar recursos dos bancos ao menor sinal de perigo.  Mas nem tudo</segment>
+    <segment id="58">sese resolveu.</segment>
+    <segment id="59">Ao mesmo tempo em que foram introduzidas defesas contra corridas bancárias e pânicos</segment>
+    <segment id="60">, as instituições financeiras</segment>
+    <segment id="61">, sese sentindo mais seguras</segment>
+    <segment id="62">, foram aumentando o nível de risco de suas operações.</segment>
+    <segment id="63">Uma primeira resposta a esse aumento foram as exigências de níveis mínimos de capital</segment>
+    <segment id="64">, conhecidas</segment>
+    <segment id="65">comocomo as regras da Basileia.</segment>
+    <segment id="66">Mesmo assim</segment>
+    <segment id="67">, em função de brechas nas regras e no crescimento do segmento não regulado do mercado</segment>
+    <segment id="68">, os níveis de risco dos intermediários (e portanto do sistema</segment>
+    <segment id="69">comocomo um todo) seguiram em sua trajetória de alta.</segment>
+    <segment id="70">Essa tendência fica clara quando</segment>
+    <segment id="71">sese observa que os empréstimos dos bancos subiram de cerca de 3 a 5 vezes seu capital no século 19 e chegaram aos inimagináveis 50 a 100 vezes às vésperas da grande crise de 2008.</segment>
+    <segment id="72">Claramente esse assunto permanece um grande desafio de política pública que</segment>
+    <segment id="73">, quem sabe</segment>
+    <segment id="74">, talvez os três ganhadores do prêmio possam nos ajudar a encarar.</segment>
+  </rst>
+</analysis>

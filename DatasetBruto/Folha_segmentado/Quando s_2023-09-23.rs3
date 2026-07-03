@@ -1,0 +1,123 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O futebol brasileiro e suas esquisitices.</segment>
+    <segment id="2">Três grandes clubes estão perto de ganhar copas importantes e</segment>
+    <segment id="3">, ao mesmo tempo</segment>
+    <segment id="4">, correm risco de cair para a Série B do Campeonato Brasileiro.</segment>
+    <segment id="5">É o caso</segment>
+    <segment id="6">caso do Internacional</segment>
+    <segment id="7">, a três passos do tricampeonato da Libertadores</segment>
+    <segment id="8">, embora</segment>
+    <segment id="9">embora com o Fluminense e Palmeiras ou Boca Juniors pela frente.</segment>
+    <segment id="10">Não é favorito</segment>
+    <segment id="11">, masmas em mata-mata tudo pode acontecer.</segment>
+    <segment id="12">E, sese acontecer</segment>
+    <segment id="13">, ou não</segment>
+    <segment id="14">, terá de olhar para baixo</segment>
+    <segment id="15">porque</segment>
+    <segment id="16">porque está apenas cinco pontos distante da zona do rebaixamento.</segment>
+    <segment id="17">É improvável</segment>
+    <segment id="18">, masmas poderá</segment>
+    <segment id="19">, em 2024</segment>
+    <segment id="20">, ser tetracampeão do maior torneio do continente americano ao mesmo tempo em que lutará para voltar à Série A.</segment>
+    <segment id="21">O Internacional precisa dar atenção ao Brasileiro - Silio Avila - 29.ago.23/AFPO</segment>
+    <segment id="22">São Paulo está na mesma situação e ainda mais próximo</segment>
+    <segment id="23">, a um empate de ganhar o título inédito da Copa do Brasil e só quatro pontos na frente do Santos</segment>
+    <segment id="24">, o primeiro dos quatro últimos.</segment>
+    <segment id="25">Superar o Flamengo neste domingo (24) significará o melhor dos mundos para o tricolor.</segment>
+    <segment id="26">Perder o título em casa equivalerá às profundezas do inferno.</segment>
+    <segment id="27">Finalmente</segment>
+    <segment id="28">, o Corinthians</segment>
+    <segment id="29">, também</segment>
+    <segment id="30">, como</segment>
+    <segment id="31">como o Inter</segment>
+    <segment id="32">, a três passos da taça que falta em sua sala de troféus</segment>
+    <segment id="33">, a da Copa Sul-Americana.</segment>
+    <segment id="34">Também</segment>
+    <segment id="35">, como</segment>
+    <segment id="36">como o Colorado</segment>
+    <segment id="37">, não é o favorito nos dois jogos contra o Fortaleza e numa eventual final contra a LDU do Equador</segment>
+    <segment id="38">, embora</segment>
+    <segment id="39">embora possa ser contra os argentinos do Defensa y Justicia.</segment>
+    <segment id="40">O alvinegro está a seis pontos do Santos.</segment>
+    <segment id="41">Sem catastrofismos</segment>
+    <segment id="42">, porque</segment>
+    <segment id="43">porque há outros candidatos mais fortes ao rebaixamento</segment>
+    <segment id="44">, dois já aparentemente condenados</segment>
+    <segment id="45">comocomo América e Coritiba</segment>
+    <segment id="46">, além de Bahia</segment>
+    <segment id="47">, Goiás e Santos</segment>
+    <segment id="48">, ou até mesmo o Cuiabá</segment>
+    <segment id="49">, a pergunta aos torcedores do trio que disputa as três copas é simples:</segment>
+    <segment id="50">você prefere ser campeão de quaisquer delas ou evitar a queda no Brasileirão?</segment>
+    <segment id="51">Lembremos que</segment>
+    <segment id="52">, em 2013</segment>
+    <segment id="53">, o Palmeiras viveu exatamente isso: campeão da Copa do Brasil em 2012</segment>
+    <segment id="54">, disputou a Libertadores até as oitavas de final e a Série B</segment>
+    <segment id="55">, da qual sagrou-</segment>
+    <segment id="56">sese campeão</segment>
+    <segment id="57">, em jornada que o palmeirense prefere esquecer.</segment>
+    <segment id="58">Torcedores lamentam segunda queda do Palmeiras - Daniel Marenco - 18.nov.12/FolhapressPor meio da Copa do Brasil</segment>
+    <segment id="59">, o Criciúma</segment>
+    <segment id="60">, em 1992</segment>
+    <segment id="61">, o Santo André</segment>
+    <segment id="62">, em 2005</segment>
+    <segment id="63">, e o Paulista de Jundiaí</segment>
+    <segment id="64">, em 2006</segment>
+    <segment id="65">, disputaram simultaneamente a Libertadores e a Série B.</segment>
+    <segment id="66">No caso</segment>
+    <segment id="67">caso deles</segment>
+    <segment id="68">, uma façanha</segment>
+    <segment id="69">, no do Palmeiras</segment>
+    <segment id="70">, uma vergonha.  CPI DAS APOSTAS</segment>
+    <segment id="71">O repórter Daniel Pereira</segment>
+    <segment id="72">, de Veja</segment>
+    <segment id="73">, assina importante denúncia sobre os bastidores da CPI das Apostas</segment>
+    <segment id="74">, na qual revela que o deputado Felipe Carreras (PSB-PE) teria pedido 35 milhões de reais a uma associação de bancas da jogatina em troca de dois favores:</segment>
+    <segment id="75">defender os interesses dela na regulamentação do setor e não fazer um inferno das vidas de seus associados na CPI da Câmara dos Deputados.</segment>
+    <segment id="76">A CPI nasceu exatamente com essa finalidade</segment>
+    <segment id="77">, a de criar dificuldades para vender facilidades.</segment>
+    <segment id="78">Que o governo federal fique atento e lembre-</segment>
+    <segment id="79">sese do primeiro mandato de Lula</segment>
+    <segment id="80">, quando o escândalo dos bingos</segment>
+    <segment id="81">, em 2004</segment>
+    <segment id="82">, causou a primeira dor de cabeça na gestão do PT</segment>
+    <segment id="83">, graças a um tal Waldomiro Diniz</segment>
+    <segment id="84">, que quis extorquir o não menos notório bicheiro goiano Carlinhos Cachoeira.</segment>
+    <segment id="85">Diniz acabou condenado</segment>
+    <segment id="86">, e os bingos</segment>
+    <segment id="87">, proibidos.</segment>
+    <segment id="88">Agora, graças às facilidades da internet</segment>
+    <segment id="89">, a jogatina voltou</segment>
+    <segment id="90">, e proibi-la é inócuo</segment>
+    <segment id="91">, razão pela qual está sendo regulamentada.</segment>
+    <segment id="92">Menos mau que o ministério da Fazenda tem Fernando Haddad à frente</segment>
+    <segment id="93">, não Antonio Palocci</segment>
+    <segment id="94">comocomo à época.</segment>
+    <segment id="95">De todo modo</segment>
+    <segment id="96">, nas águas da jogatina</segment>
+    <segment id="97">, jacaré nada de costas e toda atenção será pouca com tantos espertalhões.</segment>
+  </rst>
+</analysis>

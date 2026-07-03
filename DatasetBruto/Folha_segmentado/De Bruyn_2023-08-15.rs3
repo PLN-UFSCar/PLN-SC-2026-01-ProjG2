@@ -1,0 +1,38 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Kevin De Bruyne pode ficar fora de ação por até quatro meses depois de sofrer uma lesão no tendão no primeiro jogo da temporada da Premier League</segment>
+    <segment id="2">, disse o técnico Pep Guardiola na véspera do confronto da Supercopa da Uefa contra o Sevilla.</segment>
+    <segment id="3">O belga deixou o campo aos 36 minutos da vitória do Manchester City por 3 a 0 sobre o Burnley</segment>
+    <segment id="4">, na sexta-feira (11).</segment>
+    <segment id="5">De Bruyne também saiu mancando durante a final da Champions League em junho e Guardiola confirmou que o meio-campista voltou a sofrer da mesma lesão.</segment>
+    <segment id="6">Kevin De Bruyne deixa o campo após lesão em partida contra o Burnley</segment>
+    <segment id="7">, pela Premier League - Scott Heppell - 11.ago.23/Reuters"É grave.</segment>
+    <segment id="8">Temos que decidir sobre cirurgia ou sem cirurgia</segment>
+    <segment id="9">, masmas ele ficará afastado por alguns meses"</segment>
+    <segment id="10">, disse Guardiola a repórteres nesta terça-feira.  "[Uma decisão sobre a cirurgia será tomada] nos próximos dias.</segment>
+    <segment id="11">Serão três ou quatro meses.</segment>
+    <segment id="12">"</segment>
+  </rst>
+</analysis>

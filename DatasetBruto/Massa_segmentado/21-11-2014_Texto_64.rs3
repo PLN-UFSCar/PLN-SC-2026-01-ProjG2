@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Analice Salles faz sucesso na Record SP</segment>
+    <segment id="2">A jornalista baiana foi transferida para a sede da Record
+Analice Salles</segment>
+    <segment id="3">, apresentadora da Record Bahia</segment>
+    <segment id="4">, e que estÃ¡ temporariamente transferida para a rede na sede da empresa</segment>
+    <segment id="5">, estÃ¡ fazendo sucesso em SÃ£o Paulo.</segment>
+    <segment id="6">A gata do salto estÃ¡ reforÃ§ando a equipe de FabÃ­ola Gadelha na ediÃ§Ã£o matinal do BalanÃ§o Geral</segment>
+    <segment id="7">, e tambÃ©m estÃ¡ dando apoio ao Cidade Alerta</segment>
+    <segment id="8">, com Marcelo Rezende.</segment>
+    <segment id="9">Analice tem recebido elogios pelo trabalho.</segment>
+  </rst>
+</analysis>

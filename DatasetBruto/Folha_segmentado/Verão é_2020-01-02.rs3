@@ -1,0 +1,171 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O verão chegou e com ele o aumento de casos de doenças</segment>
+    <segment id="2">comocomo dengue</segment>
+    <segment id="3">, zika</segment>
+    <segment id="4">, chikungunya e até febre do mayaro —este último em circulação no Rio de Janeiro.</segment>
+    <segment id="5">Nova no Brasil</segment>
+    <segment id="6">, a febre do mayaro é transmitida por mosquitos silvestres</segment>
+    <segment id="7">, que vivem em matas e nas copas das árvores</segment>
+    <segment id="8">, como</segment>
+    <segment id="9">como o haemagogus —o mesmo da febre amarela silvestre.</segment>
+    <segment id="10">Os sintomas são semelhantes aos da chikungunya (febre e dores de cabeça e musculares</segment>
+    <segment id="11">, além de manchas avermelhadas na pele).</segment>
+    <segment id="12">“</segment>
+    <segment id="13">O verão traz o maior risco</segment>
+    <segment id="14">, devido às chuvas associadas ao comportamento das pessoas</segment>
+    <segment id="15">, que estão relaxadas e não</segment>
+    <segment id="16">sese preocupam em eliminar os criadouros do Aedes aegypti”</segment>
+    <segment id="17">, afirma Melissa Palmieri</segment>
+    <segment id="18">, especialista em vigilância em saúde e coordenadora-médica do Grupo Pardini.</segment>
+    <segment id="19">O mosquito Aedes aegypti   novamente         de   de  de  representando um</segment>
+    <segment id="20">De 1º de janeiro a 9 de dezembro de 2019</segment>
+    <segment id="21">, foram registrados na cidade de São Paulo 16.676 casos de dengue e três mortes em decorrência da doença</segment>
+    <segment id="22">, além de um</segment>
+    <segment id="23">casocaso de chikungunya</segment>
+    <segment id="24">, segundo dados da Covisa (Coordenação de Vigilância em Saúde)</segment>
+    <segment id="25">, órgão ligado à Secretaria Municipal da Saúde.</segment>
+    <segment id="26">Foi o segundo maior número de casos da doença em São Paulo.</segment>
+    <segment id="27">Só perde para 2015</segment>
+    <segment id="28">, quando houve mais de 100 mil notificações.</segment>
+    <segment id="29">No mesmo período do ano anterior</segment>
+    <segment id="30">, foram 586 casos de dengue</segment>
+    <segment id="31">, 34 de chikungunya e 14 de febre amarela</segment>
+    <segment id="32">, com seis mortes pela doença.</segment>
+    <segment id="33">Em 2017</segment>
+    <segment id="34">, foram registrados 866 confirmações de dengue</segment>
+    <segment id="35">, 3 de zika e 33 de chikungunya.</segment>
+    <segment id="36">Além da expectativa de aumento de notificações destas doenças</segment>
+    <segment id="37">, para 2020 há uma preocupação maior.</segment>
+    <segment id="38">Nos últimos cinco anos</segment>
+    <segment id="39">, circulou nos grandes centros o sorotipo 1 da dengue.</segment>
+    <segment id="40">O 2 está sendo monitorado na cidade de São Paulo desde o verão passado.</segment>
+    <segment id="41">As vítimas do vírus da zika   novamente         de   de  de  representando um  “Você tem um contingente de vulneráveis</segment>
+    <segment id="42">, porque</segment>
+    <segment id="43">porque acredita-</segment>
+    <segment id="44">sese que</segment>
+    <segment id="45">, nos grandes centros urbanos</segment>
+    <segment id="46">, 80% das pessoas já tiveram exposição ao vírus 1 e ficaram suscetíveis a outros tipos.</segment>
+    <segment id="47">Então, temos a somatória nada favorável: o verão</segment>
+    <segment id="48">, a entrada do novo sorotipo e o comportamento das pessoas”</segment>
+    <segment id="49">, explica Palmieri.</segment>
+    <segment id="50">“</segment>
+    <segment id="51">Essas situações adversas vão colaborar</segment>
+    <segment id="52">para que</segment>
+    <segment id="53">para que o cenário epidemiológico não seja positivo nem controlado”</segment>
+    <segment id="54">, afirma.</segment>
+    <segment id="55">Para Raquel Muarrek</segment>
+    <segment id="56">, infectologista do Hospital São Luiz</segment>
+    <segment id="57">, em São Paulo</segment>
+    <segment id="58">, a dengue está mais recorrente e há uma chance de ela ser mais grave (forma hemorrágica) por causa do novo sorotipo.</segment>
+    <segment id="59">Palmieri reforça a importância de</segment>
+    <segment id="60">sese eliminar os criadouros do mosquito Aedes aegypti semanalmente.</segment>
+    <segment id="61">“Não adianta cobrar do governo</segment>
+    <segment id="62">sese enquanto cidadão você não faz a sua parte.</segment>
+    <segment id="63">A população não aderiu à ideia de que tem obrigação de cuidar da própria casa.</segment>
+    <segment id="64">”  A médica dá outras dicas.</segment>
+    <segment id="65">“Geralmente</segment>
+    <segment id="66">, a picada do Aedes acontece por volta das 8h e por volta das 16h.</segment>
+    <segment id="67">É um mosquito que gosta de cor escura e odor forte</segment>
+    <segment id="68">, como</segment>
+    <segment id="69">como o chulé.</segment>
+    <segment id="70">Use repelente nestes horários e cores claras.</segment>
+    <segment id="71">"</segment>
+    <segment id="72">OUTRAS DOENÇAS</segment>
+    <segment id="73">Além das arboviroses</segment>
+    <segment id="74">, outras doenças têm circulação maior no verão</segment>
+    <segment id="75">, como</segment>
+    <segment id="76">como as diarreias</segment>
+    <segment id="77">, quadros virais</segment>
+    <segment id="78">, dermatites</segment>
+    <segment id="79">, conjuntivites</segment>
+    <segment id="80">, bicho geográfico e lesões de pele (micoses de unha e até erisipela</segment>
+    <segment id="81">, que é muito comum nesta época).</segment>
+    <segment id="82">As doenças diarreicas ocorrem quando há a ingestão de alimentos ou água contaminados.</segment>
+    <segment id="83">Têm como</segment>
+    <segment id="84">como principais causas os enterovírus</segment>
+    <segment id="85">, principalmente rotavírus e norovírus</segment>
+    <segment id="86">, e as bactérias</segment>
+    <segment id="87">, como</segment>
+    <segment id="88">como a Escherichia coli patogênica e a salmonella</segment>
+    <segment id="89">, entre outras.</segment>
+    <segment id="90">É possível evitá-las adotando medidas simples de higiene: lavar as mãos antes de preparar ou consumir alimentos</segment>
+    <segment id="91">, guardá-los em recipientes fechados</segment>
+    <segment id="92">, higienizar alimentos crus</segment>
+    <segment id="93">, consumir os alimentos cozidos imediatamente após o preparo e em temperatura quente</segment>
+    <segment id="94">, beber água potável</segment>
+    <segment id="95">, guardar as sobras em geladeiras e sempre reaquecê-las antes de consumir são algumas atitudes preventivas.</segment>
+    <segment id="96">O bicho geográfico é contraído na praia.</segment>
+    <segment id="97">Os médicos recomendam evitar ficar descalço na areia</segment>
+    <segment id="98">, principalmente perto do calçadão</segment>
+    <segment id="99">, onde a incidência de fezes e urina de animais domésticos é maior.</segment>
+    <segment id="100">Em condomínios</segment>
+    <segment id="101">, o ideal é cobrir os brinquedos do playground para impedir que cães e gatos sujem o local.</segment>
+    <segment id="102">No verão</segment>
+    <segment id="103">, aumenta a circulação do vírus da conjuntivite.</segment>
+    <segment id="104">Coçar os olhos sem lavar as mãos</segment>
+    <segment id="105">, frequentar piscinas e aglomerações e compartilhar objetos de uso comum aumentam as chances de contágio da doença.</segment>
+    <segment id="106">Muarrek recomenda redobrar os cuidados com a higiene</segment>
+    <segment id="107">, principalmente</segment>
+    <segment id="108">sese viajar a locais com muita chuva.</segment>
+    <segment id="109">“Hidrate-</segment>
+    <segment id="110">sese, lave bem as mãos e evite água de bica.</segment>
+    <segment id="111">Beber água que não é potável aumenta o risco de hepatite A.</segment>
+    <segment id="112">As águas de enchente podem transmitir leptospirose</segment>
+    <segment id="113">sese o local for infestado por roedores.</segment>
+    <segment id="114">Quem gosta de acampar deve tomar cuidado com carrapatos.</segment>
+    <segment id="115">O contato causa a febre maculosa”</segment>
+    <segment id="116">, alerta Muarrek.</segment>
+    <segment id="117">Outra dica é usar repelentes com icaridina (princípio ativo derivado da pimenta)</segment>
+    <segment id="118">, sese vestir com calça e blusa comprida.</segment>
+    <segment id="119">E mais: evite roupas escuras que atraem o mosquito.</segment>
+    <segment id="120">DOENÇAS DO VERÃO  Arboviroses  Dengue</segment>
+    <segment id="121">, zika</segment>
+    <segment id="122">, chikungunya</segment>
+    <segment id="123">, febre amarela e febre do mayaro</segment>
+    <segment id="124">Transmissão picada do Aedes aegypti Como ocorre mosquito é atraído por odores fortes e cores escuras</segment>
+    <segment id="125">;</segment>
+    <segment id="126">costuma picar as pessoas por volta das 8h e das 16h</segment>
+    <segment id="127">Prevenção elimine criadouros —retire a água acumulada em pratos de plantas</segment>
+    <segment id="128">, pneus</segment>
+    <segment id="129">, telhas etc.</segment>
+    <segment id="130">Febre do mayaro</segment>
+    <segment id="131">Transmissão pelo Haemagogus</segment>
+    <segment id="132">, o mesmo da febre amarela silvestre  Doenças diarreicas</segment>
+    <segment id="133">O que são ocorrem quando há ingestão de alimentos ou água contaminados Transmissão enterovírus e bactérias</segment>
+    <segment id="134">Prevenção  1)</segment>
+    <segment id="135">Lave as mãos antes de preparar ou consumir alimentos 2)</segment>
+    <segment id="136">Guarde os alimentos em recipientes fechados 3)</segment>
+    <segment id="137">Higienize alimentos crus 4)</segment>
+    <segment id="138">Consuma alimentos cozidos imediatamente após o preparo e em temperatura quente 5)</segment>
+    <segment id="139">Beba água potável 6)</segment>
+    <segment id="140">Guarde as sobras em geladeiras e sempre reaqueça antes de consumir</segment>
+    <segment id="141">Bicho geográfico</segment>
+    <segment id="142">Prevenção não ande descalço na areia da praia</segment>
+    <segment id="143">;</segment>
+    <segment id="144">em condomínios</segment>
+    <segment id="145">, cubra os brinquedos do playground para impedir que cães e gatos depositem fezes e urina no local</segment>
+  </rst>
+</analysis>

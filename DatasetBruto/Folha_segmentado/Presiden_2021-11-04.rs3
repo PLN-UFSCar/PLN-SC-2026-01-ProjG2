@@ -1,0 +1,48 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente do PDT</segment>
+    <segment id="2">, Carlos Lupi</segment>
+    <segment id="3">, disse ao Painel que Ciro Gomes não sabia do acordo da bancada do partido para apoiar a PEC dos Precatórios e que vai tentar reverter todos os votos favoráveis até terça (9)</segment>
+    <segment id="4">, quando será a votação em 2º turno.</segment>
+    <segment id="5">"</segment>
+    <segment id="6">Eu sou brasileiro</segment>
+    <segment id="7">, não perco a esperança nunca.</segment>
+    <segment id="8">Estou ligando de um a um e até terça-feira eu acredito nessa capacidade de convencimento que</segment>
+    <segment id="9">, modéstia à parte</segment>
+    <segment id="10">, eu costumo ter"</segment>
+    <segment id="11">, afirmou ao Painel.</segment>
+    <segment id="12">Lupi negou a versão de alguns deputados de que a cúpula do partido e a família Gomes sabiam do apoio da bancada à PEC.</segment>
+    <segment id="13">O presidente nacional do PDT Carlos Lupi e Ciro Gomes deixam reunião da Executiva Nacional do partido - Pedro Ladeira/Folhapress"Não estava todo mundo sabendo.</segment>
+    <segment id="14">O Ciro nunca foi informado e eu fui informado minutos antes da votação.</segment>
+    <segment id="15">Sabia que o André Figueiredo estava conversando sobre isso</segment>
+    <segment id="16">, masmas em nenhum momento nós concordamos</segment>
+    <segment id="17">, ele só me comunicou"</segment>
+    <segment id="18">, explicou.</segment>
+    <segment id="19">Como mostrou o Painel</segment>
+    <segment id="20">, deputados pedetistas classificam</segment>
+    <segment id="21">comocomo desproporcional a suspensão da pré-campanha por Ciro Gomes após a votação e argumentam que a cúpula do partido e a família</segment>
+    <segment id="22">Gomes sabiam da negociação.</segment>
+  </rst>
+</analysis>

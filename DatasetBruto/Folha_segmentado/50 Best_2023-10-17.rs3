@@ -1,0 +1,121 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Maior premiação do setor</segment>
+    <segment id="2">, o 50 Best Bars anunciou nesta terça-feira (17) a lista de 50 melhores bares do mundo.</segment>
+    <segment id="3">O Sips</segment>
+    <segment id="4">, que fica em Barcelona</segment>
+    <segment id="5">, na Espanha</segment>
+    <segment id="6">, ficou na 1ª colocação.</segment>
+    <segment id="7">A posição mais alta da América do Sul foi a 9ª</segment>
+    <segment id="8">, alcançada pelo Alquímico</segment>
+    <segment id="9">, em Cartagena</segment>
+    <segment id="10">, Colômbia.</segment>
+    <segment id="11">No Brasil</segment>
+    <segment id="12">, dois bares entraram na lista expandida do setor.</segment>
+    <segment id="13">O Tan Tan</segment>
+    <segment id="14">, endereço em Pinheiros comandado por Thiago Bañares e Caio Carvalhaes</segment>
+    <segment id="15">, subiu para a 56ª posição.</segment>
+    <segment id="16">Já SubAstor voltou à lista em 2023 no 58° lugar —estava fora dela desde 2019.</segment>
+    <segment id="17">Sips, em Barcelona</segment>
+    <segment id="18">, eleito melhor bar do mundo - Divulgação Veja lista dos vencedores do 50 Best Bars:  1° Sips</segment>
+    <segment id="19">, Barcelona</segment>
+    <segment id="20">Drinque servido no Sips - Divulgação 2°</segment>
+    <segment id="21">Double Chicken Please</segment>
+    <segment id="22">, Nova York  3° Handshake Speakeasy</segment>
+    <segment id="23">, Cidade do México  4º Paradiso</segment>
+    <segment id="24">, Barcelona  5º Connaught Bar</segment>
+    <segment id="25">, Londres  6º Little Red Door</segment>
+    <segment id="26">, Paris  7º</segment>
+    <segment id="27">Licorería Limantour</segment>
+    <segment id="28">, Cidade do México  8º Tayer +</segment>
+    <segment id="29">Elementary</segment>
+    <segment id="30">, Londres  9º Alquímico</segment>
+    <segment id="31">, Cartagena  10°</segment>
+    <segment id="32">Himkok</segment>
+    <segment id="33">, Oslo  11° Tres Monos</segment>
+    <segment id="34">, Buenos Aires  12° Line</segment>
+    <segment id="35">, Atenas  13º BKK Social Clube</segment>
+    <segment id="36">, Bangkok</segment>
+    <segment id="37">14° Jigger and Pony</segment>
+    <segment id="38">, Cingapura  15°</segment>
+    <segment id="39">Maybe Sammy</segment>
+    <segment id="40">, Sidney  16º</segment>
+    <segment id="41">Salmon Guru</segment>
+    <segment id="42">, Madri  17°</segment>
+    <segment id="43">Overstory</segment>
+    <segment id="44">, Nova York  18º Zest</segment>
+    <segment id="45">, Seoul  19º Mahaniyom Cocktail Bar</segment>
+    <segment id="46">, Bangkok  20º</segment>
+    <segment id="47">Coa, Hong Kong  21º</segment>
+    <segment id="48">Drink Kong</segment>
+    <segment id="49">, Roma  22º Hanky Panky</segment>
+    <segment id="50">, Cidade do México</segment>
+    <segment id="51">23º Caretaker’s Cottage</segment>
+    <segment id="52">, Melbourne  24º Café La Trova</segment>
+    <segment id="53">, Maimi  25º</segment>
+    <segment id="54">Baba Au Rum</segment>
+    <segment id="55">, Atenas  26º Cochinchina</segment>
+    <segment id="56">, Buenos Aires  27º</segment>
+    <segment id="57">Katana Kitten</segment>
+    <segment id="58">, Nova York</segment>
+    <segment id="59">28º</segment>
+    <segment id="60">Satan’s Whiskers</segment>
+    <segment id="61">, Londres  29º</segment>
+    <segment id="62">Wax On</segment>
+    <segment id="63">, Berlin  30º Florería</segment>
+    <segment id="64">Atlántico</segment>
+    <segment id="65">, Buenos Aires</segment>
+    <segment id="66">31º Roda Huset</segment>
+    <segment id="67">, Estocolmo  32º Sago House</segment>
+    <segment id="68">, Singapura  33º</segment>
+    <segment id="69">Freni e Frizioni</segment>
+    <segment id="70">, Roma</segment>
+    <segment id="71">34º Argo</segment>
+    <segment id="72">, Hong Kong  35º</segment>
+    <segment id="73">A Bar with Shapes for a Name</segment>
+    <segment id="74">, Londres  36º</segment>
+    <segment id="75">The SG Club</segment>
+    <segment id="76">, Tóquio</segment>
+    <segment id="77">37º Bar Benfiddich</segment>
+    <segment id="78">, Tóquio  38º</segment>
+    <segment id="79">The Cambridge Public House</segment>
+    <segment id="80">, Paris  39º Pandas &amp;amp</segment>
+    <segment id="81">; Sons</segment>
+    <segment id="82">, Edinburgo  40º Mimi Kakushi</segment>
+    <segment id="83">, Dubai  41º Scarfes Bar</segment>
+    <segment id="84">, Londres  42º 1930</segment>
+    <segment id="85">, Milão  43º Carnaval</segment>
+    <segment id="86">, Lima  44º L’antiquario</segment>
+    <segment id="87">, Napoli  45º Baltra Bar</segment>
+    <segment id="88">, Cidade do México</segment>
+    <segment id="89">46º</segment>
+    <segment id="90">Locale Firenze</segment>
+    <segment id="91">, Florença  47º The Clumsies</segment>
+    <segment id="92">, Atenas  48º Atlas</segment>
+    <segment id="93">, Singapura  49º Jewel of the South</segment>
+    <segment id="94">, Nova Orleans  50º Galaxy Bar</segment>
+    <segment id="95">, Dubai  Conheça a nova carta de drinques do bar Tan TanMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

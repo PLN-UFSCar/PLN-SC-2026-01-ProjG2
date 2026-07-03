@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Sobe para 92 o número de homicídios</segment>
+    <segment id="2">Nesta segunda-feira (6)</segment>
+    <segment id="3">, três pessoas foram assassinadas em Salvador e Região
+Sobe para 92 o número de homicídios registrados pela Superintendência de Telecomunicações das Polícias (Stelecom) durante a greve dos policiais militares</segment>
+    <segment id="4">, que começou no último dia 31.</segment>
+    <segment id="5">Nesta segunda-feira (6)</segment>
+    <segment id="6">, três pessoas foram assassinadas em Salvador e Região Metropolitana.</segment>
+    <segment id="7">Os três crimes aconteceram no mesmo local</segment>
+    <segment id="8">, na Rua do Índio</segment>
+    <segment id="9">, em Camaçari</segment>
+    <segment id="10">, sendo que Luís Cláudio dos Santos Cerqueira</segment>
+    <segment id="11">, 25 anos</segment>
+    <segment id="12">, e outro homem não identificado foram mortos às 1h45 e Fábio Monteiro Leite</segment>
+    <segment id="13">, 29, às 4h49.</segment>
+    <segment id="14">O número de assassinatos contabilizados durante a greve da PM é mais da metade dos 172 homicídios registrados em todo mês de fevereiro de 2011.</segment>
+    <segment id="15">A Stelecom também contabiliza 235 veículos roubados entre 31 de janeiro e hoje.</segment>
+    <segment id="16">Em fevereiro de 2011 foram 346 carros subtraídos.</segment>
+  </rst>
+</analysis>

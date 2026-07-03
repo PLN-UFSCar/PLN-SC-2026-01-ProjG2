@@ -1,0 +1,48 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Estudo realizado pela EY mostra que os trabalhadores brasileiros são mais favoráveis ao home office que os profissionais de outros países.</segment>
+    <segment id="2">O levantamento revela que</segment>
+    <segment id="3">, por aqui</segment>
+    <segment id="4">, 53% preferem trabalhar entre três e quatro dias de forma remota</segment>
+    <segment id="5">, ante 38% no cenário global.</segment>
+    <segment id="6">Trabalho remoto ganha preferência entre brasileiros - Getty Images/BBC News</segment>
+    <segment id="7">BrasilApenas 9% no Brasil optam por trabalhar um dia por semana</segment>
+    <segment id="8">, ou nenhum</segment>
+    <segment id="9">, no modelo remoto</segment>
+    <segment id="10">, ante 20% no cenário global.</segment>
+    <segment id="11">Para os empregadores</segment>
+    <segment id="12">, a pandemia acelerou a necessidade de mudanças amplas em uma política de recompensas que engloba remuneração</segment>
+    <segment id="13">, bem-estar</segment>
+    <segment id="14">, benefícios flexíveis</segment>
+    <segment id="15">, tempo livre</segment>
+    <segment id="16">, entre outras.</segment>
+    <segment id="17">Conforme a pesquisa</segment>
+    <segment id="18">, 43% dos funcionários entrevistados disseram ser provável que deixem seu trabalho atual no próximo ano</segment>
+    <segment id="19">, sendo a remuneração o principal fator motivador para esse movimento.</segment>
+    <segment id="20">No Brasil</segment>
+    <segment id="21">, esse percentual sobe para 50%.</segment>
+    <segment id="22">Joana Cunha com Paulo Ricardo Martins e Gilmara Santos  Catarina Pignato</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,99 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente turco</segment>
+    <segment id="2">, Recep Tayyip Erdogan</segment>
+    <segment id="3">, sofreu neste domingo (23) seu o maior revés desde que chegou ao poder há 16 anos ao ver seu candidato ser derrotado em uma nova eleição para prefeitura de Istambul —o pleito original de março tinha sido anulado a pedido do governo.</segment>
+    <segment id="4">Binali Yildirim</segment>
+    <segment id="5">, da mesma sigla de Erdogan</segment>
+    <segment id="6">, reconheceu a derrota pouco depois dos primeiros resultados oficiais mostrarem o nome da oposição</segment>
+    <segment id="7">, Ekrem Imamoglu</segment>
+    <segment id="8">, liderando a apuração.</segment>
+    <segment id="9">"</segment>
+    <segment id="10">De acordo com os resultados</segment>
+    <segment id="11">, meu adversário Ekrem Imamoglu vai adiante.</segment>
+    <segment id="12">Eu o felicito e desejo boa sorte"</segment>
+    <segment id="13">, disse Yildirim.</segment>
+    <segment id="14">A votação deste domingo é a segunda em menos de três meses na principal cidade da Turquia.</segment>
+    <segment id="15">A primeira aconteceu em 31 de março e apontou vitória de Imamoglu</segment>
+    <segment id="16">, do Partido Popular Republicano (CHP)</segment>
+    <segment id="17">, com 15 mil votos a mais em um universo de 10 milhões de eleitores.</segment>
+    <segment id="18">O candidato da oposição à prefeitura de Istambul</segment>
+    <segment id="19">, Ekrem Imamoglu (no centro</segment>
+    <segment id="20">, de óculos) acena após deixar colégio eleitoral- Bulent Kilic/AFP Mas a sigla de Yildirim e de Erdogan</segment>
+    <segment id="21">, o Partido Justiça e Desenvolvimento (AKP) entrou na Justiça alegando uma série de irregularidades na apuração do resultado.</segment>
+    <segment id="22">O partido conseguiu primeiro uma recontagem dos votos —que manteve a vitória da oposição— e depois conseguiu no início de maio que o Alto Comitê Eleitoral anulasse o pleito</segment>
+    <segment id="23">, cassasse o mandato de  Imamoglu (ele tomou posse em 17 de abril) e convocasse uma nova eleição para este domingo.</segment>
+    <segment id="24">A decisão causou críticas da oposição e de observadores internacionais</segment>
+    <segment id="25">, preocupados com os avanços autoritários do governo Erdogan.</segment>
+    <segment id="26">Os números</segment>
+    <segment id="27">, porém</segment>
+    <segment id="28">porém, mostram que a oposição conseguiu ampliar a vantagem na nova eleição.</segment>
+    <segment id="29">Segundo a agência estatal Anadolu</segment>
+    <segment id="30">, Imamoglu tinha 54% dos votos contra 45% de Yildirim com 99% das urnas apuradas —na primeira votação os dois tinham ficado respectivamente com 48</segment>
+    <segment id="31">,77% e 48</segment>
+    <segment id="32">,61%.</segment>
+    <segment id="33">O novo resultado confirma</segment>
+    <segment id="34">, assim</segment>
+    <segment id="35">, a derrota de Erdogan</segment>
+    <segment id="36">, que enfrenta uma série de problemas econômicos</segment>
+    <segment id="37">, incluindo a alta da inflação e o crescimento do desemprego.</segment>
+    <segment id="38">Além de perder Istambul</segment>
+    <segment id="39">, o AKP também já tinha sido derrotada em março em Ancara</segment>
+    <segment id="40">, capital e segunda maior cidade do país.</segment>
+    <segment id="41">"</segment>
+    <segment id="42">Esta vitória marca um novo começo para a Turquia"</segment>
+    <segment id="43">, comemorou Imamoglu</segment>
+    <segment id="44">, 49.</segment>
+    <segment id="45">"</segment>
+    <segment id="46">Não foi um único grupo ou partido</segment>
+    <segment id="47">, masmas toda a Istambul e a Turquia que venceram estas eleições"</segment>
+    <segment id="48">, acrescentou.</segment>
+    <segment id="49">Imamoglu também afirmou estar pronto para trabalhar com o Erdogan para resolver os problemas da cidade.</segment>
+    <segment id="50">No discurso em que reconheceu a derrota e desejou boa sorte ao adversário</segment>
+    <segment id="51">, o candidato governista também afirmou que o resultado mostra que a democracia continua funcionando bem na Turquia.</segment>
+    <segment id="52">A maior cidade do país é comandada por Erdogan e seus aliados desde 1994</segment>
+    <segment id="53">, quando ele mesmo foi eleito prefeito.</segment>
+    <segment id="54">O atual presidente</segment>
+    <segment id="55">, que no início da campanha mostrou-</segment>
+    <segment id="56">sese discreto para evitar inflamar seus oponentes</segment>
+    <segment id="57">, voltou ao ringue nos últimos dias</segment>
+    <segment id="58">, multiplicando os ataques contra Imamoglu.</segment>
+    <segment id="59">Erdogan passou a</segment>
+    <segment id="60">sese esforçar para minimizar o impacto da votação de março</segment>
+    <segment id="61">, e chegou a afirmar que essas eleições eram "simbólicas"</segment>
+    <segment id="62">, além de prometer que aceitaria o resultado final.</segment>
+    <segment id="63">Diante disso</segment>
+    <segment id="64">, Imamoglu apostou em um discurso unificador</segment>
+    <segment id="65">, repetindo</segment>
+    <segment id="66">comocomo um mantra seu slogan:</segment>
+    <segment id="67">"</segment>
+    <segment id="68">Tudo vai ficar bem".</segment>
+    <segment id="69">A oposição</segment>
+    <segment id="70">, no entanto</segment>
+    <segment id="71">, temia que houvesse fraude e mobilizou um exército de advogados para vigiar as urnas.</segment>
+    <segment id="72">Turquia sob Erdogan   novamente         de   de  de  representando</segment>
+    <segment id="73">um</segment>
+  </rst>
+</analysis>

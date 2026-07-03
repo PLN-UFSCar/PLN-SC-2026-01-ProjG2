@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Regina Casé será cidadã soteropolitana</segment>
+    <segment id="2">A atriz vira e mexe divulga a cultura do estado pelos quatro cantos do mundo</segment>
+    <segment id="3">A Bahia está na vida da apresentadora do “Esquenta” há muito tempo.</segment>
+    <segment id="4">Amiga de longa data de Gilberto Gil e Caetano Veloso</segment>
+    <segment id="5">, a atriz vira e mexe divulga a cultura do estado pelos quatro cantos do mundo.</segment>
+    <segment id="6">Por conta disso</segment>
+    <segment id="7">, ela  receberá o título de Cidadã Soteropolitana.</segment>
+    <segment id="8">Segundo o site oficial de Regina</segment>
+    <segment id="9">, a solenidade vai rolar em janeiro</segment>
+    <segment id="10">, quando ela e a família vêm de férias para Salvador.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,116 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Pesquisadores brasileiros aguardam parecer da Anvisa (Agência Nacional de Vigilância Sanitária) para iniciar os testes clínicos de um novo antiviral contra a Covid-19.</segment>
+    <segment id="2">Os primeiros resultados do estudo com a substância</segment>
+    <segment id="3">, batizada de MB-905</segment>
+    <segment id="4">, foram divulgados na última semana na revista científica Nature</segment>
+    <segment id="5">Communications</segment>
+    <segment id="6">e mostram que a molécula é capaz de inibir a replicação do Sars-CoV-2 em células do fígado e do pulmão</segment>
+    <segment id="7">, assim</segment>
+    <segment id="8">comocomo em células de defesa chamadas de monócitos.</segment>
+    <segment id="9">De acordo com os autores</segment>
+    <segment id="10">, ela também ajuda a frear o processo inflamatório desencadeado pelo vírus.</segment>
+    <segment id="11">"</segment>
+    <segment id="12">Esse estudo compõe um dossiê pré-clínico submetido à Anvisa junto com outro conjunto de dados</segment>
+    <segment id="13">para que</segment>
+    <segment id="14">para que essa substância possa</segment>
+    <segment id="15">sese tornar um antiviral inovador desenvolvido desde a sua concepção no Brasil</segment>
+    <segment id="16">, visando à maior independência nesse tipo de tecnologia</segment>
+    <segment id="17">, que é de alto custo para o SUS"</segment>
+    <segment id="18">, afirma o virologista Thiago Moreno Souza</segment>
+    <segment id="19">, pesquisador do Centro de Desenvolvimento Tecnológico em Saúde da Fiocruz e um dos autores do artigo.</segment>
+    <segment id="20">O Paxlovid</segment>
+    <segment id="21">, antiviral para tratamento da Covid-19 fabricado pela Pfizer</segment>
+    <segment id="22">, é comercializado em farmácias do país por até R$ 4.856</segment>
+    <segment id="23">,73.  "</segment>
+    <segment id="24">O Brasil</segment>
+    <segment id="25">sese notabiliza</segment>
+    <segment id="26">comocomo um grande mercado para as indústrias farmacêuticas multinacionais e</segment>
+    <segment id="27">, ao adquirirmos medicamentos</segment>
+    <segment id="28">, toda a população paga por um desenvolvimento que ocorre fora do país.</segment>
+    <segment id="29">Nosso estudo pavimenta o caminho para uma maior independência"</segment>
+    <segment id="30">, acrescenta Souza.</segment>
+    <segment id="31">Vírus Sars-CoV-2 registrado por microscópio em laboratório americano</segment>
+    <segment id="32">; pesquisa indica que a MB-905 atrapalha a replicação do material genético do vírus e reduz a inflamação que ele provoca - Divulgação/US National Institute of Allergy and Infectious DiseasesAlém da Fiocruz</segment>
+    <segment id="33">, a pesquisa</segment>
+    <segment id="34">, iniciada em meados de 2020</segment>
+    <segment id="35">, reúne cientistas da empresa Microbiológica e do CIEnP (Centro de Inovação e Ensaios Pré-Clínicos).</segment>
+    <segment id="36">O artigo contou também com a participação de pesquisadores da UFMG (Universidade Federal de Minas Gerais) e do Inca (Instituto Nacional de Câncer).</segment>
+    <segment id="37">"</segment>
+    <segment id="38">Estamos discutindo a autorização para início da fase clínica um com a Anvisa há aproximadamente um ano e estamos confiantes que a agência autorizará o estudo"</segment>
+    <segment id="39">, diz João Calixto</segment>
+    <segment id="40">, diretor do CIEnP e também autor do artigo.</segment>
+    <segment id="41">Para chegar ao novo antiviral oral</segment>
+    <segment id="42">, a equipe testou cerca de 250 moléculas e verificou que a cinetina</segment>
+    <segment id="43">, atualmente estudada no tratamento de pessoas com disautonomia familiar —doença que afeta o funcionamento do sistema nervoso autônomo— consegue atrapalhar o processo de reprodução do SARS-CoV-2.</segment>
+    <segment id="44">LEIA MAISChina amplia censura a publicações sobre Covid em meio a temor de novo surto de casosBrasil registra 77 mortes e 14</segment>
+    <segment id="45">,2 mil casos de CovidGrávidas com Covid têm 8 vezes mais risco de morte que não infectadasFiocruz alerta para possível aumento da linhagem XBB do coronavírusCovid segue</segment>
+    <segment id="46">comocomo principal causa de síndrome respiratória em crianças de 5 anos ou maisIsso ocorre</segment>
+    <segment id="47">porque</segment>
+    <segment id="48">porque a estrutura da MB-905 é muito parecida com uma parte do RNA do vírus.</segment>
+    <segment id="49">Essa semelhança confunde a enzima que atua na criação de novas cópias do material genético e ela acaba incorporando a cinetina.</segment>
+    <segment id="50">A inclusão da molécula intrusa gera uma confusão na sequência do RNA e induz a vários erros nas tentativas do Sars-CoV-2 de</segment>
+    <segment id="51">sese multiplicar</segment>
+    <segment id="52">, resultando na inibição da reprodução do vírus.</segment>
+    <segment id="53">O efeito foi observado em células humanas hepáticas e pulmonares in vitro</segment>
+    <segment id="54">, em camundongos e em hamsters e foi maior nos testes em que a MB-905 foi associada a substâncias capazes de barrar a exonuclease</segment>
+    <segment id="55">, enzima que tenta corrigir os erros na síntese do RNA.</segment>
+    <segment id="56">É o caso</segment>
+    <segment id="57">caso, por exemplo</segment>
+    <segment id="58">, do dolutegravir</segment>
+    <segment id="59">, utilizado no tratamento de pessoas com HIV.</segment>
+    <segment id="60">Sozinho</segment>
+    <segment id="61">, o medicamento não consegue suprimir a replicação do Sars-CoV-2</segment>
+    <segment id="62">, masmas</segment>
+    <segment id="63">, associado à cinetina</segment>
+    <segment id="64">, potencializada os resultados desta.</segment>
+    <segment id="65">De acordo com o artigo</segment>
+    <segment id="66">, além de agir</segment>
+    <segment id="67">comocomo antiviral</segment>
+    <segment id="68">, a molécula conseguiu reduzir os níveis de marcadores associados à inflamação provocada pelo coronavírus e os danos nos pulmões nos modelos animais.</segment>
+    <segment id="69">Com início na China</segment>
+    <segment id="70">, mundo completa três anos dos primeiros registros de casos da CovidMais    novamente         de   de  de  representando um  Outro ponto positivo</segment>
+    <segment id="71">, mencionam os autores</segment>
+    <segment id="72">, é que a segurança da cinetina já vem sendo testada nas pesquisas sobre disautonomia familiar.</segment>
+    <segment id="73">Calixto afirma que o grupo não imaginava que uma molécula em análise para tratar tal doença pudesse ser benéfica no combate à Covid-19.</segment>
+    <segment id="74">"</segment>
+    <segment id="75">Somente descobrimos esses estudos quando já tínhamos avançado muito nos estudos pré-clínicos da MB-905.</segment>
+    <segment id="76">"  Por todos esses fatores</segment>
+    <segment id="77">, os pesquisadores veem a oportunidade de desenvolver rapidamente o novo antiviral e depositaram duas patentes nesse sentido.</segment>
+    <segment id="78">"</segment>
+    <segment id="79">Uma dificuldade que enfrentamos foi selecionar</segment>
+    <segment id="80">, no Brasil</segment>
+    <segment id="81">, um centro de pesquisa capacitado para realizar estudos de fase um em voluntários de acordo com os requisitos da Anvisa e das agências reguladoras internacionais"</segment>
+    <segment id="82">, afirma Calixto.</segment>
+    <segment id="83">"</segment>
+    <segment id="84">O ecossistema de inovação do Brasil precisa ser desafiado com novos casos de pesquisas que avançam da fase pré-clínica para clínica</segment>
+    <segment id="85">, pois</segment>
+    <segment id="86">pois isso faz com que todos os atores envolvidos no processo —pesquisadores</segment>
+    <segment id="87">, agência regulatória</segment>
+    <segment id="88">, unidades fabris e centros clínicos—</segment>
+    <segment id="89">sese qualifiquem para atender as necessidades da população"</segment>
+    <segment id="90">, finaliza Souza.</segment>
+  </rst>
+</analysis>

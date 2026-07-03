@@ -1,0 +1,136 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Brasil foi o país que teve a pior gestão pública durante a pandemia</segment>
+    <segment id="2">, apontou um relatório feito pelo Lowy Institute</segment>
+    <segment id="3">, centro de estudos baseado em Sydney</segment>
+    <segment id="4">, na Austrália.</segment>
+    <segment id="5">O país ficou na última posição entre 98 governos avaliados.</segment>
+    <segment id="6">México</segment>
+    <segment id="7">, Colômbia</segment>
+    <segment id="8">, Irã e Estados Unidos também tiveram notas muito baixas.</segment>
+    <segment id="9">Na outra ponta da lista</segment>
+    <segment id="10">, a Nova Zelândia foi apontada</segment>
+    <segment id="11">comocomo país que melhor lidou com a crise sanitária.</segment>
+    <segment id="12">E Vietnã</segment>
+    <segment id="13">, Tailândia e Taiwan foram incluídos entre os bons exemplos.</segment>
+    <segment id="14">A Nova Zelândia praticamente erradicou o vírus com fechamentos de fronteira precoces e drásticos</segment>
+    <segment id="15">, entre outras ações.</segment>
+    <segment id="16">O país teve</segment>
+    <segment id="17">, desde o início da crise</segment>
+    <segment id="18">, apenas 2.299 casos e 25 mortes</segment>
+    <segment id="19">, em uma população de 5 milhões de pessoas.</segment>
+    <segment id="20">Parentes de pacientes esperam em fila para encher tanques de oxigênio em empresa de Manaus - Marcio James - 19.jan.21/AFPO estudo levou em conta seis critérios: casos confirmados</segment>
+    <segment id="21">, mortes</segment>
+    <segment id="22">, casos e mortes por milhão de habitantes</segment>
+    <segment id="23">, diagnósticos em relação à proporção de testes e exames feitos a cada mil pessoas.</segment>
+    <segment id="24">A pesquisa</segment>
+    <segment id="25">sese concentra nos dados registrados nas 36 semanas seguintes após a confirmação do 100º</segment>
+    <segment id="26">casocaso em cada país.</segment>
+    <segment id="27">O Brasil soma mais de 9 milhões de casos e 220 mil mortes por coronavírus e é o segundo com mais óbitos no mundo</segment>
+    <segment id="28">, atrás dos Estados Unidos</segment>
+    <segment id="29">, que teve 429 mil mortes até agora.</segment>
+    <segment id="30">Os dois países mais populosos do continente americano tiveram em comum governos de líderes populistas —Jair Bolsonaro e Donald Trump— que minimizaram ativamente a ameaça da Covid-19</segment>
+    <segment id="31">, ridicularizaram o uso de máscaras</segment>
+    <segment id="32">, opuseram-</segment>
+    <segment id="33">sese a confinamentos e fechamentos e foram pessoalmente infectados pelo vírus.</segment>
+    <segment id="34">O Brasil registra</segment>
+    <segment id="35">, ainda</segment>
+    <segment id="36">, cerca de 42 mil casos e 1.048 mortes por milhão de habitantes</segment>
+    <segment id="37">, segundo o Ministério da Saúde.</segment>
+    <segment id="38">Como comparação</segment>
+    <segment id="39">, a Nova Zelândia teve 5 mortes a cada milhão de pessoas.</segment>
+    <segment id="40">O país da Oceania fez</segment>
+    <segment id="41">, até agora</segment>
+    <segment id="42">, 1,5 milhão de testes de Covid-19</segment>
+    <segment id="43">, o que representa cerca de 300 mil por milhão de habitantes</segment>
+    <segment id="44">, segundo o governo neozelandês.</segment>
+    <segment id="45">Já o Brasil aplicou 30</segment>
+    <segment id="46">,9 milhões de exames</segment>
+    <segment id="47">, de acordo com dados compilados pela Universidade Federal de Viçosa</segment>
+    <segment id="48">, ou aproximadamente 150 mil testes por milhão de habitantes.</segment>
+    <segment id="49">O Brasil enfrenta uma alta forte de casos desde o fim de 2020.</segment>
+    <segment id="50">Em janeiro</segment>
+    <segment id="51">, a falta de oxigênio para pacientes do Amazonas e a desorganização no início da campanha de vacinação foram exemplos das falhas do governo federal na gestão da pandemia no país.</segment>
+    <segment id="52">Esses erros motivaram pedidos pelo impeachment de Bolsonaro.</segment>
+    <segment id="53">O levantamento do Lowy aponta que países da Ásia e do Pacífico</segment>
+    <segment id="54">, na média</segment>
+    <segment id="55">, tiveram maior sucesso ao conter a pandemia.</segment>
+    <segment id="56">E aponta que a Europa teve bom desempenho ao lidar com a primeira onda</segment>
+    <segment id="57">, masmas acabou sucumbindo à segunda alta de casos</segment>
+    <segment id="58">, no fim de 2020</segment>
+    <segment id="59">, em parte pela facilidade de deslocamento entre os países do continente.</segment>
+    <segment id="60">Já nas Américas</segment>
+    <segment id="61">, o patamar de casos</segment>
+    <segment id="62">sese manteve elevado ao longo dos meses</segment>
+    <segment id="63">, com altas a partir do final de 2020.</segment>
+    <segment id="64">Os países da região tiveram nota média de 33</segment>
+    <segment id="65">,8 no combate à pandemia</segment>
+    <segment id="66">, sendo que o Brasil teve nota de 4</segment>
+    <segment id="67">,3, em uma escala que vai até 100.</segment>
+    <segment id="68">O Uruguai foi uma exceção: ficou em 12º no ranking</segment>
+    <segment id="69">, com nota 75</segment>
+    <segment id="70">,8.</segment>
+    <segment id="71">A líder Nova Zelândia teve 94</segment>
+    <segment id="72">,4.</segment>
+    <segment id="73">O índice das Américas ficou abaixo de todas as outras regiões do planeta.</segment>
+    <segment id="74">África e Oriente Médio tiveram média 49.</segment>
+    <segment id="75">A Europa</segment>
+    <segment id="76">, 51, e a Ásia-Pacífico</segment>
+    <segment id="77">, 58,2.</segment>
+    <segment id="78">Distribuição das vacinas contra a Covid-19 no BrasilMais    novamente         de   de  de  representando um</segment>
+    <segment id="79">A China —onde o vírus foi detectado pela primeira vez</segment>
+    <segment id="80">, no final de 2019— não está incluída na lista por causa da falta de dados de diagnóstico disponíveis ao público</segment>
+    <segment id="81">, segundo os autores.</segment>
+    <segment id="82">De acordo com os responsáveis pelo estudo</segment>
+    <segment id="83">, Pequim tentou agressivamente manipular a percepção pública de</segment>
+    <segment id="84">comocomo estava lidando com a epidemia para provar que seu sistema autoritário é superior aos governos democráticos.</segment>
+    <segment id="85">Vizinhos brasileiros</segment>
+    <segment id="86">, Argentina e Venezuela também ficaram de fora do levantamento.</segment>
+    <segment id="87">O Lowy Institute afirma que não há um vencedor claro quando</segment>
+    <segment id="88">sese trata de saber qual sistema político —ditaduras</segment>
+    <segment id="89">, democracias ou modelos intermediários— administrou melhor a pandemia</segment>
+    <segment id="90">, porque</segment>
+    <segment id="91">porque</segment>
+    <segment id="92">, em praticamente todos os países analisados</segment>
+    <segment id="93">, a resposta foi ruim.</segment>
+    <segment id="94">“</segment>
+    <segment id="95">Alguns países administraram a pandemia melhor do que outros</segment>
+    <segment id="96">, masmas a maioria deles</segment>
+    <segment id="97">sese destacou apenas por seu desempenho insatisfatório”</segment>
+    <segment id="98">, diz o relatório.</segment>
+    <segment id="99">“</segment>
+    <segment id="100">Em geral</segment>
+    <segment id="101">, os países com menos populações</segment>
+    <segment id="102">, sociedades mais coesas e instituições bem treinadas têm uma vantagem comparativa quando</segment>
+    <segment id="103">sese trata de lidar com crises globais</segment>
+    <segment id="104">comocomo a pandemia”</segment>
+    <segment id="105">, completa o texto</segment>
+    <segment id="106">, em referência aos países com menos de 10 milhões de habitantes.</segment>
+    <segment id="107">Em todo o planeta</segment>
+    <segment id="108">, mais de 100 milhões de pessoas foram infectadas com o vírus e quase 2</segment>
+    <segment id="109">,2 milhões morreram por conta dele</segment>
+    <segment id="110">, segundo dados compilados pela universidade Johns Hopkins.</segment>
+  </rst>
+</analysis>

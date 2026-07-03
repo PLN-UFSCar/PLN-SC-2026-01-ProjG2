@@ -1,0 +1,113 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Estão disponíveis abaixo todos os episódios já publicados do podcast Presidente da Semana</segment>
+    <segment id="2">, programa em áudio da Folha que conta a história dos presidentes do Brasil.</segment>
+    <segment id="3">Com seu primeiro capítulo publicado em 16 de abril de 2018</segment>
+    <segment id="4">, o programa em áudio semanal contará em ordem cronológica a história dos presidentes brasileiros até o eleito ou a eleita em outubro deste ano.</segment>
+    <segment id="5">Produzido e apresentado pelo jornalista Rodrigo Vizeu</segment>
+    <segment id="6">, editor-adjunto de Poder</segment>
+    <segment id="7">, o podcast tem edição de som de Victor Parolin.</segment>
+    <segment id="8">A série é inspirada no podcast Presidential</segment>
+    <segment id="9">, produzido pelo jornal americano The Washington Post na eleição americana de 2016.</segment>
+    <segment id="10">O Presidente da Semana é publicado na internet às segundas-feiras.</segment>
+    <segment id="11">Ouça os episódios disponíveis:  Jair Bolsonaro (2019-)</segment>
+    <segment id="12">, o presidente eleito</segment>
+    <segment id="13">, com Boris Fausto   Michel Temer (2016-2018)</segment>
+    <segment id="14">, reformas e escândalos</segment>
+    <segment id="15">, com Carlos Pereira   Dilma Rousseff (2011-2016)</segment>
+    <segment id="16">, queda econômica e política</segment>
+    <segment id="17">, com Celso Rocha de Barros​   Luiz Inácio Lula da Silva (2003-2010)</segment>
+    <segment id="18">, amor e ódio</segment>
+    <segment id="19">, com André Singer e Demétrio Magnoli   Fernando Henrique Cardoso (1995-2002)</segment>
+    <segment id="20">, o primeiro reeleito</segment>
+    <segment id="21">, com Vinicius Torres Freire   Itamar Franco (1992-1994)</segment>
+    <segment id="22">, hiperinflação e Plano Real</segment>
+    <segment id="23">, com Monica de Bolle   Fernando Collor (1990-1992)</segment>
+    <segment id="24">, voto direto e impeachment</segment>
+    <segment id="25">, com Brasílio Sallum   José Sarney (1985-1990)</segment>
+    <segment id="26">, por ele ninguém esperava</segment>
+    <segment id="27">, com Clóvis Rossi​   João Baptista Figueiredo (1979-1985)</segment>
+    <segment id="28">, o regime escreve seu fim</segment>
+    <segment id="29">, com Angela Moreira   Ernesto Geisel (1974-1979)</segment>
+    <segment id="30">, tensão e distensão</segment>
+    <segment id="31">, com Marcos Napolitano</segment>
+    <segment id="32">Emílio Garrastazu Médici (1969-1974)</segment>
+    <segment id="33">, crimes e milagres</segment>
+    <segment id="34">, com Carlos Fico   Costa e Silva (1967-1969)</segment>
+    <segment id="35">, o presidente do AI-5</segment>
+    <segment id="36">, com Daniel Aarão Reis   Castelo Branco (1964-1967)</segment>
+    <segment id="37">, as fundações da ditadura</segment>
+    <segment id="38">, com Heloísa Starling   Jânio Quadros (1961)</segment>
+    <segment id="39">, a renúncia</segment>
+    <segment id="40">, e João Goulart (1961-1964)</segment>
+    <segment id="41">, o golpe</segment>
+    <segment id="42">, com Jorge Ferreira   Café Filho (1954-1955)</segment>
+    <segment id="43">, golpe na transição</segment>
+    <segment id="44">, e Juscelino Kubitschek (1956-1961)</segment>
+    <segment id="45">, Brasília e dívidas</segment>
+    <segment id="46">, com Lilia M. Schwarcz   Getúlio Vargas (1951-1954)</segment>
+    <segment id="47">, ele está de volta</segment>
+    <segment id="48">, com Boris Fausto   Eurico Gaspar Dutra (1946-1951)</segment>
+    <segment id="49">, getulista pero no mucho</segment>
+    <segment id="50">, com Heloísa Starling   Getúlio Vargas (1930-1945)</segment>
+    <segment id="51">, revolução e ditadura</segment>
+    <segment id="52">, com Boris Fausto   Washington Luís (1926-1930)</segment>
+    <segment id="53">, a soberba precede a ruína</segment>
+    <segment id="54">, com Christian Lynch   Artur Bernardes (1922-1926)</segment>
+    <segment id="55">, o país sob sítio</segment>
+    <segment id="56">, com Pedro Doria   Delfim Moreira (1918-1919)</segment>
+    <segment id="57">, doente e breve</segment>
+    <segment id="58">, e Epitácio Pessoa (1919-1922)</segment>
+    <segment id="59">, o começo do fim</segment>
+    <segment id="60">, com Pedro Doria​​         Venceslau Brás (1914-1918)</segment>
+    <segment id="61">, greve</segment>
+    <segment id="62">, gripe e guerra</segment>
+    <segment id="63">, com Carlos Daróz   Hermes da Fonseca (1910-1914)</segment>
+    <segment id="64">, intervenção militar e urucubaca</segment>
+    <segment id="65">, com Isabel Lustosa   Afonso Pena (1906-1909)</segment>
+    <segment id="66">, morto no cargo</segment>
+    <segment id="67">, e Nilo Peçanha (1909-1910)</segment>
+    <segment id="68">, o presidente mulato</segment>
+    <segment id="69">, com Lilia M. Schwarcz e Mary Del Priore   Rodrigues Alves (1902-1906)</segment>
+    <segment id="70">, o presidente prefeito</segment>
+    <segment id="71">, com Lilia M. Schwarcz    Campos Sales (1898-1902)</segment>
+    <segment id="72">, todo o poder emana das oligarquias</segment>
+    <segment id="73">, com Ana Luiza Backes    Prudente de Morais (1894-1898)</segment>
+    <segment id="74">, salvo por um atentado</segment>
+    <segment id="75">, com Laurentino Gomes   Floriano Peixoto (1891-1894)</segment>
+    <segment id="76">, brutal e popular</segment>
+    <segment id="77">, com José Murilo de Carvalho   Deodoro da Fonseca (1889-1891)</segment>
+    <segment id="78">, o homem errado</segment>
+    <segment id="79">, com José Murilo de Carvalho   Além de estar disponível no site da Folha</segment>
+    <segment id="80">, o podcast pode ser acessado em sites e aplicativos que disponibilizam podcasts em celulares e computadores.</segment>
+    <segment id="81">Em aplicativos</segment>
+    <segment id="82">, o usuário pode assinar —sem qualquer custo— o podcast</segment>
+    <segment id="83">, passando assim a receber notificações quando novos episódios são publicados.</segment>
+    <segment id="84">Algumas das plataformas em que o Presidente da Semana está acessível:  Spotify  Deezer  iTunes/Apple Podcasts  Google Podcasts  Castbox  Podbean  Overcast  Stitcher  RadioPublic​</segment>
+    <segment id="85">O feed RSS do podcast é http://presidentedasemana.libsyn.com/rss</segment>
+    <segment id="86">Fotos oficiais dos presidentes do BrasilMais    novamente         de   de  de  representando</segment>
+    <segment id="87">um</segment>
+  </rst>
+</analysis>

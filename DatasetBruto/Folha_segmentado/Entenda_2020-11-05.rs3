@@ -1,0 +1,115 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O segundo turno das eleições municipais está marcado para este domingo (29).</segment>
+    <segment id="2">Os eleitores votarão para decidir prefeitos em 57 cidades.</segment>
+    <segment id="3">Entenda as diferenças entre votar nulo ou em branco e</segment>
+    <segment id="4">comocomo é feita a contagem de votos para cada um desses cargos.</segment>
+    <segment id="5">Novidade nesta eleição</segment>
+    <segment id="6">, a proibição das coligações para eleger cargos dos Legislativos —</segment>
+    <segment id="7">Câmara dos Deputados</segment>
+    <segment id="8">, Assembleias Legislativas e Câmaras Municipais— favorece mais partidos do que candidatos.</segment>
+    <segment id="9">Confira algumas perguntas e respostas sobre o tema.</segment>
+    <segment id="10">Saiba como</segment>
+    <segment id="11">como serão as eleições a vereador após mudança de regras sobre as coligações   novamente         de   de  de  representando um   *</segment>
+    <segment id="12">O que é voto em branco?</segment>
+    <segment id="13">É a decisão do eleitor de não optar por nenhum candidato</segment>
+    <segment id="14">, apertando o botão "Branco" da urna eletrônica.</segment>
+    <segment id="15">O que é voto nulo?</segment>
+    <segment id="16">É a decisão do eleitor de anular o seu voto</segment>
+    <segment id="17">, escolhendo um número inválido ou não existente na lista de candidatos.</segment>
+    <segment id="18">Há alguma diferença entre o voto em branco e o voto nulo?</segment>
+    <segment id="19">Não.</segment>
+    <segment id="20">Os dois votos são considerados inválidos e não entram</segment>
+    <segment id="21">, de forma alguma</segment>
+    <segment id="22">, na contagem de votos.</segment>
+    <segment id="23">O voto em branco pode ser destinado a um candidato?</segment>
+    <segment id="24">Não.</segment>
+    <segment id="25">Ele é apenas invalidado.</segment>
+    <segment id="26">Na época da votação em cédulas de papel</segment>
+    <segment id="27">, havia o risco de o voto ser fraudado.</segment>
+    <segment id="28">A urna eletrônica invalida esse hipótese.</segment>
+    <segment id="29">O que é voto válido?</segment>
+    <segment id="30">São todos os votos destinados a um candidato ou a um partido.</segment>
+    <segment id="31">O que é voto nominal?</segment>
+    <segment id="32">É o voto dirigido diretamente a um candidato.</segment>
+    <segment id="33">O que é voto na legenda?</segment>
+    <segment id="34">É o voto em que não</segment>
+    <segment id="35">sese escolhe um candidato específico</segment>
+    <segment id="36">, sendo dirigido a um partido.</segment>
+    <segment id="37">Contagem de votos para prefeito</segment>
+    <segment id="38">Como os votos são distribuídos nas eleições majoritárias?</segment>
+    <segment id="39">Nas eleições majoritárias (para prefeito</segment>
+    <segment id="40">, governador</segment>
+    <segment id="41">, senador e presidente)</segment>
+    <segment id="42">, considera-</segment>
+    <segment id="43">sese o voto em cada candidato</segment>
+    <segment id="44">, e o mais votado</segment>
+    <segment id="45">sese elege.</segment>
+    <segment id="46">Urnas para eleições municipais são preparadas para transporte   novamente         de   de  de  representando um    Prepare-</segment>
+    <segment id="47">sese para as eleições  Como votar na urna eletrônica?</segment>
+    <segment id="48">Digite primeiro o número de seu candidato a vereador ou da legenda de um partido.</segment>
+    <segment id="49">Vão aparecer a foto</segment>
+    <segment id="50">, o número e o nome do candidato e/ou a sigla do partido.</segment>
+    <segment id="51">Confira a informação e aperte "</segment>
+    <segment id="52">Confirma".</segment>
+    <segment id="53">Na sequência</segment>
+    <segment id="54">, o voto será para prefeito.</segment>
+    <segment id="55">Basta digitar o número do candidato.</segment>
+    <segment id="56">Confira novamente os dados do candidato e aperte "Confirma".</segment>
+    <segment id="57">Se um dos números estiver incorreto</segment>
+    <segment id="58">, aperte o botão "</segment>
+    <segment id="59">Corrige" e reinicie o processo.</segment>
+    <segment id="60">Como votar em branco na urna eletrônica?</segment>
+    <segment id="61">Basta apertar o botão “Branco” e depois “Confirma”.</segment>
+    <segment id="62">Como votar nulo na urna eletrônica?</segment>
+    <segment id="63">Basta escolher um número que não existe</segment>
+    <segment id="64">, como</segment>
+    <segment id="65">como "00"</segment>
+    <segment id="66">, por exemplo</segment>
+    <segment id="67">, e apertar "Confirma".</segment>
+    <segment id="68">Quais são as principais datas do calendário eleitoral de 2020?</segment>
+    <segment id="69">Por causa da pandemia da Covid-19</segment>
+    <segment id="70">, as eleições acontecerão mais tarde neste ano.</segment>
+    <segment id="71">O primeiro turno foi transferido de 4 outubro para 15 de novembro.</segment>
+    <segment id="72">Nas cidades em que houver segundo turno</segment>
+    <segment id="73">, ele ocorrerá em 29 de novembro.</segment>
+    <segment id="74">O que devo levar na hora de votar?</segment>
+    <segment id="75">Está valendo a identificação por digital?</segment>
+    <segment id="76">O eleitor deve levar o título de eleitor e um documento oficial com foto.</segment>
+    <segment id="77">Em razão da pandemia</segment>
+    <segment id="78">, a Justiça Eleitoral descartou a utilização de dados biométricos</segment>
+    <segment id="79">, pois</segment>
+    <segment id="80">pois a superfície do equipamento que identifica as impressões digitais não pode ser higienizada com frequência.</segment>
+    <segment id="81">Também haveria mais filas e aglomerações</segment>
+    <segment id="82">, pois</segment>
+    <segment id="83">pois o sistema de biometria é mais demorado do que o de assinaturas.</segment>
+    <segment id="84">Fontes: TSE (Tribunal Superior Eleitoral)</segment>
+    <segment id="85">;</segment>
+    <segment id="86">Mônica Herman Salem Caggiano</segment>
+    <segment id="87">, professora da Faculdade de Direito da USP</segment>
+    <segment id="88">; Eduardo Grin</segment>
+    <segment id="89">, cientista político da FGV</segment>
+  </rst>
+</analysis>

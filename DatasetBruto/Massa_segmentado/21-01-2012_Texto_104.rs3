@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Cissa Chagas é a nova foliã de “</segment>
+    <segment id="2">O Trio”
+Ela vai entrar no bloco de “</segment>
+    <segment id="3">O Trio” de surpresa</segment>
+    <segment id="4">durante festa</segment>
+    <segment id="5">O Reality da TV Aratu ganha mais uma foliã a partir de hoje.</segment>
+    <segment id="6">Cissa Chaggas</segment>
+    <segment id="7">, a Mulher Maravilha</segment>
+    <segment id="8">, foi a vencedora da votação popular que terminou ontem.</segment>
+    <segment id="9">Ela vai entrar no bloco de “</segment>
+    <segment id="10">O Trio” de surpresa durante a festa que está programada e</segment>
+    <segment id="11">sese juntará aos atuais seis confinados.</segment>
+    <segment id="12">Enquanto isso</segment>
+    <segment id="13">, os anônimos  da atração</segment>
+    <segment id="14">, Ana Célia e Werlles</segment>
+    <segment id="15">, foram parar na corda e podem ser eliminados.</segment>
+  </rst>
+</analysis>

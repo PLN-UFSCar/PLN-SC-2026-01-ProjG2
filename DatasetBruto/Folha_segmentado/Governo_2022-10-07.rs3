@@ -1,0 +1,165 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo Biden anunciou na sexta-feira (7) novos limites abrangentes para a venda de tecnologia de semicondutores para a China</segment>
+    <segment id="2">, medida que pretende prejudicar a capacidade de Pequim de acessar tecnologias críticas que são necessárias para tudo</segment>
+    <segment id="3">, desde supercomputação até orientação de armamentos.</segment>
+    <segment id="4">As medidas são o sinal mais claro até agora de que um impasse perigoso entre as duas maiores superpotências do mundo está cada vez mais forte na esfera tecnológica</segment>
+    <segment id="5">, com os Estados Unidos tentando estabelecer o domínio sobre computação avançada e tecnologia de semicondutores que são essenciais para as ambições militares e econômicas da China.</segment>
+    <segment id="6">O pacote de restrições</segment>
+    <segment id="7">, que foi divulgado pelo Departamento de Comércio</segment>
+    <segment id="8">, é projetado em grande parte para retardar o progresso dos programas militares chineses</segment>
+    <segment id="9">, que usam supercomputação para modelar explosões nucleares</segment>
+    <segment id="10">, dirigir armas hipersônicas e estabelecer redes avançadas para vigiar dissidentes e minorias</segment>
+    <segment id="11">, entre outras atividades.</segment>
+    <segment id="12">Bandeiras da China e dos EUA sobrepostas - Dado Ruvic - 27.jan.2022/ReutersAlan Estevez</segment>
+    <segment id="13">, subsecretário de Comércio para indústria e segurança</segment>
+    <segment id="14">, disse que seu gabinete está trabalhando para impedir que tecnologias sensíveis com aplicações militares sejam adquiridas pelos serviços militares</segment>
+    <segment id="15">, de inteligência e de segurança da China.  "</segment>
+    <segment id="16">O ambiente de ameaças está sempre mudando</segment>
+    <segment id="17">, e estamos atualizando nossas políticas hoje para garantir que estamos enfrentando os desafios apresentados pela RPC enquanto continuamos nosso contato e coordenação com aliados e parceiros"</segment>
+    <segment id="18">, disse ele</segment>
+    <segment id="19">, referindo-</segment>
+    <segment id="20">sese à República Popular da China.</segment>
+    <segment id="21">As empresas americanas não poderão mais fornecer microchips avançados para computação</segment>
+    <segment id="22">, equipamentos de fabricação de chips e outros produtos para a China</segment>
+    <segment id="23">, a menos que recebam uma licença especial.</segment>
+    <segment id="24">A maioria dessas licenças será negada</segment>
+    <segment id="25">, embora</segment>
+    <segment id="26">embora certas remessas para instalações operadas por empresas americanas ou países aliados sejam avaliadas</segment>
+    <segment id="27">casocaso a</segment>
+    <segment id="28">casocaso</segment>
+    <segment id="29">, disse um alto funcionário do governo na quinta (6).</segment>
+    <segment id="30">As restrições limitam as exportações americanas de chips de ponta</segment>
+    <segment id="31">, chamados unidades de processamento gráfico</segment>
+    <segment id="32">, usados para alimentar aplicativos de inteligência artificial</segment>
+    <segment id="33">, e impõem amplos limites aos chips destinados a supercomputadores chineses.</segment>
+    <segment id="34">As regras também proíbem as empresas sediadas nos Estados Unidos que produzem os equipamentos usados para fabricar chips de lógica avançada e de memória de vender essas máquinas para a China sem licença.</segment>
+    <segment id="35">Talvez mais significativamente</segment>
+    <segment id="36">, o governo Biden também impôs amplas restrições internacionais que proibirão empresas de qualquer lugar do mundo de vender chips usados em inteligência artificial e supercomputação na China</segment>
+    <segment id="37">, sese forem feitos com tecnologia</segment>
+    <segment id="38">, software ou maquinário americanos.</segment>
+    <segment id="39">As restrições usam o que é conhecido</segment>
+    <segment id="40">comocomo regra do produto direto estrangeiro</segment>
+    <segment id="41">, que foi aplicada recentemente pelo presidente Donald Trump para prejudicar a Huawei.</segment>
+    <segment id="42">Outra regra de produto direto estrangeiro proíbe que uma gama mais ampla de produtos fabricados fora dos Estados Unidos com tecnologia americana sejam enviados para 28 empresas chinesas colocadas numa "lista de entidades" por questões de segurança nacional.</segment>
+    <segment id="43">Essas empresas incluem a Beijing Sensetime Technology Development</segment>
+    <segment id="44">, unidade da grande empresa chinesa de inteligência artificial SenseTime.</segment>
+    <segment id="45">Também estão incluídas a Dahua Technology</segment>
+    <segment id="46">, Higon</segment>
+    <segment id="47">, IFLYTEK</segment>
+    <segment id="48">, Megvii Technology</segment>
+    <segment id="49">, Sugon</segment>
+    <segment id="50">, Tianjian Phytium Information Technology</segment>
+    <segment id="51">, Sunway Microelectronics e Yitu Technologies</segment>
+    <segment id="52">, bem como</segment>
+    <segment id="53">como uma variedade de laboratórios e instituições de pesquisa ligadas a universidades chinesas e ao governo.</segment>
+    <segment id="54">As regras também restringem os cidadãos dos EUA de ajudar a desenvolver a indústria chinesa de semicondutores a níveis avançados.</segment>
+    <segment id="55">Na sexta-feira anterior (30)</segment>
+    <segment id="56">, o governo americano anunciou que estava adicionando outras 31 empresas e instituições chinesas a uma "lista não verificada" que limita sua capacidade de obter um conjunto menor de certos itens regulamentados dos EUA.</segment>
+    <segment id="57">Entre elas está</segment>
+    <segment id="58">a Yangtze Memory Technologies</segment>
+    <segment id="59">, importante fabricante de chips de memória da qual a Apple considera adquirir alguns produtos.</segment>
+    <segment id="60">Resta saber</segment>
+    <segment id="61">sese o governo chinês tomará medidas em reação.</segment>
+    <segment id="62">Samm Sacks</segment>
+    <segment id="63">, membro sênior da Escola de Direito de Yale que estuda política de tecnologia na China</segment>
+    <segment id="64">, disse que as novas regras podem levar Pequim a impor restrições a empresas americanas ou de outros países que cumpram as regras dos EUA</segment>
+    <segment id="65">, masmas ainda queiram manter operações na China.</segment>
+    <segment id="66">"</segment>
+    <segment id="67">A questão é: esse novo pacote cruzaria uma linha vermelha para desencadear uma resposta que não vimos antes?</segment>
+    <segment id="68">", disse ela.</segment>
+    <segment id="69">"</segment>
+    <segment id="70">Muitas pessoas estão esperando que isso aconteça.</segment>
+    <segment id="71">Acho que teremos que esperar para ver.</segment>
+    <segment id="72">"</segment>
+    <segment id="73">As medidas chegam num momento especialmente delicado para Pequim.</segment>
+    <segment id="74">Os líderes chineses realizarão uma grande reunião política a partir de 16 de outubro</segment>
+    <segment id="75">, na qual o presidente Xi Jinping deverá garantir um terceiro mandato</segment>
+    <segment id="76">, tornando-</segment>
+    <segment id="77">sese o líder mais antigo do país desde Mao Tsetung.</segment>
+    <segment id="78">Liu Pengyu</segment>
+    <segment id="79">, porta-voz da Embaixada da China em Washington</segment>
+    <segment id="80">, disse que os Estados Unidos estão tentando "usar suas proezas tecnológicas</segment>
+    <segment id="81">comocomo uma vantagem para atrapalhar e suprimir o desenvolvimento de mercados emergentes e países em desenvolvimento".  "</segment>
+    <segment id="82">Os EUA provavelmente esperam que a China e o resto do mundo em desenvolvimento permaneçam para sempre na extremidade inferior da cadeia industrial"</segment>
+    <segment id="83">, acrescentou.</segment>
+    <segment id="84">O governo chinês investiu pesadamente na construção de sua indústria de semicondutores</segment>
+    <segment id="85">, masmas ainda está atrás dos Estados Unidos</segment>
+    <segment id="86">, Taiwan e Coreia do Sul na capacidade de produzir chips mais avançados.</segment>
+    <segment id="87">Em outros campos</segment>
+    <segment id="88">, como</segment>
+    <segment id="89">como inteligência artificial</segment>
+    <segment id="90">, a China não está mais significativamente atrás dos Estados Unidos</segment>
+    <segment id="91">, masmas essas tecnologias dependem principalmente de chips avançados projetados ou fabricados por empresas não chinesas.</segment>
+    <segment id="92">Novos limites nas vendas de equipamentos de fabricação de chips também devem reprimir as operações de fabricantes de chips chinesas</segment>
+    <segment id="93">, incluindo Semiconductor Manufacturing International</segment>
+    <segment id="94">, Yangtze Memory Technologies e ChangXin Memory Technologies.</segment>
+    <segment id="95">O efeito das restrições dependerá de</segment>
+    <segment id="96">comocomo a política é implementada.</segment>
+    <segment id="97">Para a maioria das medidas</segment>
+    <segment id="98">, o Departamento de Comércio tem o poder de conceder às empresas licenças especiais para continuar vendendo os produtos restritos à China</segment>
+    <segment id="99">, embora</segment>
+    <segment id="100">embora tenha dito que a maioria será negada.</segment>
+    <segment id="101">Alguns legisladores republicanos e falcões criticaram o departamento por estar muito disposto a emitir tais licenças</segment>
+    <segment id="102">, permitindo que as empresas americanas continuem vendendo tecnologia sensível para a China</segment>
+    <segment id="103">, mesmo quando a segurança nacional pode estar em jogo.</segment>
+    <segment id="104">O deputado republicano Michael McCaul</segment>
+    <segment id="105">, do Texas</segment>
+    <segment id="106">, disse que pretendia usar sua autoridade</segment>
+    <segment id="107">comocomo atual membro do Comitê de Relações Exteriores da Câmara para pressionar o Departamento de Indústria e Segurança</segment>
+    <segment id="108">, que revisa tais licenças</segment>
+    <segment id="109">, sobre os pedidos e decisões.</segment>
+    <segment id="110">"</segment>
+    <segment id="111">Se o Congresso achar que o departamento está minando o espírito dessas regras com padrões de licenciamento frouxos</segment>
+    <segment id="112">, avaliaremos</segment>
+    <segment id="113">sese o Departamento de Comércio é o lar certo para esta agência de segurança nacional"</segment>
+    <segment id="114">, disse McCaul.</segment>
+    <segment id="115">Com seu vasto ecossistema de fábricas</segment>
+    <segment id="116">, a China continua sendo um mercado enorme e lucrativo para as exportações de chips dos EUA.</segment>
+    <segment id="117">As microtecnologias são cruciais para os smartphones</segment>
+    <segment id="118">, laptops</segment>
+    <segment id="119">, cafeteiras</segment>
+    <segment id="120">, carros e outros bens que as fábricas chinesas produzem para consumo doméstico e exportação para o mundo todo.</segment>
+    <segment id="121">Várias empresas americanas argumentam há muito tempo que suas vendas para a China são uma importante fonte de receita</segment>
+    <segment id="122">, que lhes permite reinvestir em pesquisa e desenvolvimento e manter uma vantagem competitiva.</segment>
+    <segment id="123">China exibe novos aviões militaresMais    novamente         de   de  de  representando um  Mas fazer negócios com a China</segment>
+    <segment id="124">tornou-</segment>
+    <segment id="125">sese muito mais complicado nos últimos anos</segment>
+    <segment id="126">, à medida que as tensões entre os Estados Unidos e a China</segment>
+    <segment id="127">sese transformaram numa competição de guerra fria.</segment>
+    <segment id="128">O governo chinês procurou atenuar a divisão entre seu setor de defesa e a indústria privada</segment>
+    <segment id="129">, recorrendo a empresas chinesas especializadas em áreas</segment>
+    <segment id="130">comocomo inteligência artificial</segment>
+    <segment id="131">, "big data"</segment>
+    <segment id="132">, tecnologias aeroespaciais e computação quântica para promover a modernização militar do país.</segment>
+    <segment id="133">Os exercícios militares chineses com o objetivo de intimidar Taiwan e o alinhamento da China com Moscou após a invasão russa da Ucrânia ajudaram a extinguir qualquer boa vontade em relação à China em Washington e fortaleceram o</segment>
+    <segment id="134">casocaso a favor da regulamentação tecnológica.</segment>
+    <segment id="135">Ainda assim</segment>
+    <segment id="136">, executivos do setor e alguns analistas argumentam que isolar a China dos chips estrangeiros acelerará o esforço de Pequim para desenvolvê-los e fará com que as empresas americanas percam para concorrentes estrangeiros</segment>
+    <segment id="137">, a menos que outros países também imponham restrições semelhantes.</segment>
+    <segment id="138">A Associação da Indústria de Semicondutores dos EUA disse na sexta que estava avaliando o impacto dos controles de exportação na indústria e trabalhando com as empresas para garantir a conformidade.</segment>
+    <segment id="139">Tradução de Luiz Roberto M. Gonçalves</segment>
+  </rst>
+</analysis>

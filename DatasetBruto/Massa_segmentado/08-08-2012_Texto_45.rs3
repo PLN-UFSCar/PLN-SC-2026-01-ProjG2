@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Golpe milionÃ¡rio na roÃ§a</segment>
+    <segment id="2">O bando comprou duas fazendas por R$ 8 e 11 milhÃµes</segment>
+    <segment id="3">, respectivamente</segment>
+    <segment id="4">, durante fraudes
+Paulo Roberto Campos de Souza</segment>
+    <segment id="5">, 35 anos</segment>
+    <segment id="6">, e Carlito Ferreira dos Santos</segment>
+    <segment id="7">, 49, foram presos em PotiraguÃ¡ (a 681 km de Salvador) acusados de participar de um esquema de fraude que lesou dois fazendeiros do Extremo Sul do estado em mais de R$ 1 milhÃ£o.</segment>
+    <segment id="8">A dupla simulava a compra de propriedades rurais com cheques e documentos falsos.</segment>
+    <segment id="9">Depois</segment>
+    <segment id="10">, revendiam equipamentos e gados antes que as vÃ­timas descobrissem a fraude.</segment>
+  </rst>
+</analysis>

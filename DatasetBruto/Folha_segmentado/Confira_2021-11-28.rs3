@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O gabarito oficial do Enem 2021 só deve ser divulgado em 1º de dezembro</segment>
+    <segment id="2">, masmas a Folha preparou</segment>
+    <segment id="3">, em parceria com o colégio Objetivo</segment>
+    <segment id="4">, uma correção extraoficial das provas de matemática e ciências da natureza</segment>
+    <segment id="5">, que aconteceram neste domingo (28).</segment>
+    <segment id="6">As questões tiveram enunciados baseados em temas</segment>
+    <segment id="7">comocomo dengue</segment>
+    <segment id="8">, extinção no Pantanal e até campeonato de futebol</segment>
+    <segment id="9">, masmas a pandemia de coronavírus ficou de fora.</segment>
+    <segment id="10">Veja imagens do 1º dia da prova do Enem</segment>
+    <segment id="11">, em São Paulo Mais    novamente         de   de  de  representando um</segment>
+    <segment id="12">Para os professores do Objetivo</segment>
+    <segment id="13">, foi uma prova que exigiu dos candidatos não só boa interpretação de textos e tabelas</segment>
+    <segment id="14">, masmas conhecimento específico dos temas tratados.</segment>
+    <segment id="15">Confira o gabarito:</segment>
+  </rst>
+</analysis>

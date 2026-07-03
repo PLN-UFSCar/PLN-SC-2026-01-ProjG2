@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">PrÃªmio de R$ 27 milhÃµes da Mega-Sena sai para apenas um apostador
+RIO - O prÃªmio do concurso 1421 da Mega Sena</segment>
+    <segment id="2">, acumulado em mais de R$ 27 milhÃµes</segment>
+    <segment id="3">, saiu para apenas um apostador de SÃ£o Paulo</segment>
+    <segment id="4">, capital.</segment>
+    <segment id="5">Ele vai receber R$ 27.700.609</segment>
+    <segment id="6">,77.</segment>
+    <segment id="7">As dezenas sorteadas foram: 19 - 31 - 39 - 44 - 53 - 59.</segment>
+    <segment id="8">O prÃ³ximo concurso</segment>
+    <segment id="9">, quarta-feira</segment>
+    <segment id="10">, deve pagar R$ 2</segment>
+    <segment id="11">,5 milhÃµes.</segment>
+    <segment id="12">A quina teve 142 acertadores e cada um vai receber R$ 20.561</segment>
+    <segment id="13">,45 e a quadra</segment>
+    <segment id="14">, com 8.046 acertadores</segment>
+    <segment id="15">, vai pagar R$ 518</segment>
+    <segment id="16">,39 a cada um.</segment>
+  </rst>
+</analysis>

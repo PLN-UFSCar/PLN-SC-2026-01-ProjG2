@@ -1,0 +1,149 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A epidemia de zika que assustou mundo entre 2015 e 2016 pode ter deixado uma marca além da microcefalia e da síndrome paralisante de Guillain-Barré.</segment>
+    <segment id="2">Um novo estudo mostra que pessoas que tiveram essa arbovirose transmitida por mosquitos do gênero Aedes apresentam um risco maior de terem formas mais graves de uma outra</segment>
+    <segment id="3">, a dengue</segment>
+    <segment id="4">, no caso</segment>
+    <segment id="5">caso de uma infecção subsequente.</segment>
+    <segment id="6">Esses novos resultados</segment>
+    <segment id="7">, publicados na edição desta semana da revista Science</segment>
+    <segment id="8">, podem ser especialmente importantes na hora de elaborar e testar vacinas contra essas doenças.</segment>
+    <segment id="9">O trabalho foi conduzido por pesquisadores da Universidade da Califórnia em Berkeley</segment>
+    <segment id="10">, nos EUA</segment>
+    <segment id="11">, do Instituto de Ciências Sustentáveis e do Laboratório Nacional de Virologia</segment>
+    <segment id="12">, na Nicarágua</segment>
+    <segment id="13">, e cientistas de outras instituições dos dois países.</segment>
+    <segment id="14">A pesquisa</segment>
+    <segment id="15">sese baseou em dados de 3.800 crianças e adolescentes da Nicarágua</segment>
+    <segment id="16">, país de 6</segment>
+    <segment id="17">,5 milhões de habitantes da América Central que sofreu com sucessivas epidemias de dengue nos últimos 16 anos</segment>
+    <segment id="18">, além da de zika.</segment>
+    <segment id="19">Os cientistas notaram que houve um grande número pessoas que tiveram dengue entre 2019 e 2020 —302 casos na corte acompanhada.</segment>
+    <segment id="20">Aqueles com histórico de infecção por zika tinham probabilidade de 12</segment>
+    <segment id="21">,1% de apresentar sintomas da infecção</segment>
+    <segment id="22">, causada pelo subtipo 2 do vírus (DENV2)</segment>
+    <segment id="23">, em comparação com apenas 3</segment>
+    <segment id="24">,5% entre aqueles nunca infectados.</segment>
+    <segment id="25">A probabilidade de manifestar dengue hemorrágica</segment>
+    <segment id="26">, forma mais severa da dengue</segment>
+    <segment id="27">, segundo o estudo</segment>
+    <segment id="28">, também é maior em quem teve zika: 1</segment>
+    <segment id="29">,1% contra 0%</segment>
+    <segment id="30">, nos dados do estudo.</segment>
+    <segment id="31">Nesse e em outros estudos</segment>
+    <segment id="32">, o candidato a grande vilão é o DENV2.</segment>
+    <segment id="33">A interação entre ele e os anticorpos produzidos pelo organismo parece estar na raiz do problema.</segment>
+    <segment id="34">A explicação é a chamada potenciação dependente de anticorpos (ou ADE</segment>
+    <segment id="35">, na sigla em inglês).</segment>
+    <segment id="36">Os anticorpos contra outros subtipos de vírus da dengue e contra o vírus da zika</segment>
+    <segment id="37">, numa quantidade reduzida</segment>
+    <segment id="38">, em vez de promover a aniquilação do DENV2</segment>
+    <segment id="39">, acabariam por protegê-lo e facilitar sua replicação.</segment>
+    <segment id="40">Não está descartado</segment>
+    <segment id="41">, porém</segment>
+    <segment id="42">porém, que o mesmo fenômeno ocorra com os outros subtipos (DENV1</segment>
+    <segment id="43">, DENV3 e DENV4).</segment>
+    <segment id="44">O virologista Maurício Nogueira</segment>
+    <segment id="45">, da Faculdade de Medicina de Rio Preto</segment>
+    <segment id="46">, estudioso de dengue e zika</segment>
+    <segment id="47">, afirma que os resultados da pesquisa na Science vão ao encontro do que tem visto nos pacientes que acompanha</segment>
+    <segment id="48">, embora</segment>
+    <segment id="49">embora esses resultados ainda não tenham sido publicados.</segment>
+    <segment id="50">O mosquito Aedes aegypti   novamente         de   de  de  representando um  “Já havíamos demonstrado que a exposição prévia à dengue não piorava o quadro de zika</segment>
+    <segment id="51">, masmas o contrário parece ser verdadeiro”</segment>
+    <segment id="52">, diz Nogueira.</segment>
+    <segment id="53">“É importante lembrar que esses fenômenos de ADE dependem do tempo.</segment>
+    <segment id="54">Se as infecções forem muito seguidas</segment>
+    <segment id="55">, nada muda</segment>
+    <segment id="56">, sese a segunda for muito tardia</segment>
+    <segment id="57">, também não.</segment>
+    <segment id="58">”  Atualmente há apenas uma vacina aprovada contra a dengue</segment>
+    <segment id="59">, a Dengvaxia</segment>
+    <segment id="60">, da Sanofi Pasteur</segment>
+    <segment id="61">, masmas há outras em desenvolvimento</segment>
+    <segment id="62">, assim</segment>
+    <segment id="63">comocomo outras contra a zika.</segment>
+    <segment id="64">“</segment>
+    <segment id="65">Neste momento é importante entender</segment>
+    <segment id="66">sese a eficácia da vacina contra a dengue varia de acordo com uma infecção prévia por zika”</segment>
+    <segment id="67">, escreve em comentário também publicado na Science a pesquisadora Hannah Clapham</segment>
+    <segment id="68">, da Universidade Nacional de Singapura.</segment>
+    <segment id="69">"</segment>
+    <segment id="70">No caso</segment>
+    <segment id="71">caso da Dengvaxia</segment>
+    <segment id="72">, os ensaios ocorreram antes da epidemia de 2015-16.</segment>
+    <segment id="73">E é ainda possível que as vacinas contra a zika possam levar a infecções subsequentes mais severas de dengue.</segment>
+    <segment id="74">"  Todos os anos</segment>
+    <segment id="75">, 390 milhões de pessoas de pessoas são infectadas pelo vírus da dengue</segment>
+    <segment id="76">, de acordo com a Organização Mundial da Saúde</segment>
+    <segment id="77">, sendo que 96 milhões apresentam sintomas.</segment>
+    <segment id="78">“Seria prudente que todos esses estudos de vacinas mensurassem a imunidade aos vírus antes e após a vacinação</segment>
+    <segment id="79">, com acompanhamento de longo prazo</segment>
+    <segment id="80">, já que a imunidade</segment>
+    <segment id="81">sese altera ao longo do tempo”</segment>
+    <segment id="82">, continua Clapham.</segment>
+    <segment id="83">Outros flavivírus</segment>
+    <segment id="84">, como</segment>
+    <segment id="85">como o da febre amarela e o da encefalite japonesa</segment>
+    <segment id="86">, também devem ganhar atenção</segment>
+    <segment id="87">, diz.  Eva Harris</segment>
+    <segment id="88">, autora sênior do artigo</segment>
+    <segment id="89">, lembra que não há estudos que digam que o ADE seja importante na resposta à infecção contra coronavírus humanos.</segment>
+    <segment id="90">“</segment>
+    <segment id="91">Nós não esperamos que esse inusual mecanismo</segment>
+    <segment id="92">sese aplique à Covid-19.</segment>
+    <segment id="93">No entanto</segment>
+    <segment id="94">, estudar a reação cruzada entre vírus correlacionados é sempre valioso e pode ajudar a entender</segment>
+    <segment id="95">sese infecções naturais por outros coronavírus podem gerar imunidade ou</segment>
+    <segment id="96">sese estão associadas a desfechos mais graves”</segment>
+    <segment id="97">, afirma.</segment>
+    <segment id="98">Ela diz que</segment>
+    <segment id="99">, por causa disso</segment>
+    <segment id="100">, as vacinas contra zika estão sendo construídas para induzir uma resposta melhor em comparação àquela da infecção natural</segment>
+    <segment id="101">, com a produção apenas de anticorpos neutralizantes</segment>
+    <segment id="102">, e não os potenciadores.</segment>
+    <segment id="103">"</segment>
+    <segment id="104">Isto é algo importante no</segment>
+    <segment id="105">casocaso da Covid-19: vacinas podem ser desenvolvidas para produzir uma resposta imunológica melhor do que a infecção natural pelo Sars-Cov-2</segment>
+    <segment id="106">, o que as torna mais seguras e mais efetivas”</segment>
+    <segment id="107">, diz Harris.</segment>
+    <segment id="108">Entenda a interação entre zika e dengue</segment>
+    <segment id="109">Parentes</segment>
+    <segment id="110">Os cientistas já desconfiavam que os anticorpos contra a zika poderiam interferir na resposta imunológica contra a dengue</segment>
+    <segment id="111">, já que os vírus são da mesma família  Ligação</segment>
+    <segment id="112">Quando há uma nova infecção por um vírus aparentado</segment>
+    <segment id="113">, é possível que os anticorpos fabricados na infecção anterior</segment>
+    <segment id="114">sese liguem fortemente ao novo invasor</segment>
+    <segment id="115">, eliminando-o  Problemas Mas é possível também que</segment>
+    <segment id="116">, por uma ligação mais fraca ou uma baixa quantidade de anticorpos</segment>
+    <segment id="117">, essa interação seja falha</segment>
+    <segment id="118">, o que aumenta a probabilidade de uma doença mais grave  Estudo Cientistas de um projeto que acompanha milhares de crianças e adolescentes na Nicarágua observaram que uma infecção prévia pelo vírus da zika é um fator de risco para uma infecção mais grave de dengue  Significado Especialmente na hora de elaborar vacinas</segment>
+    <segment id="119">, deve-</segment>
+    <segment id="120">sese levar em conta esse tipo de fenômeno (potencialização dependente de anticorpos</segment>
+    <segment id="121">, ou ADE na sigla em inglês)</segment>
+    <segment id="122">, para que</segment>
+    <segment id="123">para que a proteção contra um vírus não traga mais riscos do que o necessário  Fonte: Science</segment>
+  </rst>
+</analysis>

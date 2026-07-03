@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Morre cantor</segment>
+    <segment id="2">Wando aos 66 anos
+Ele foi vítima de uma parada cardíaca e faleceu em um hospital de Minas Gerais</segment>
+    <segment id="3">Wando morreu aos 66 anos em um hospital de Minas Gerais</segment>
+    <segment id="4">, vítima de uma parada cardíaca.</segment>
+    <segment id="5">Nas últimas semanas o cantor teve uma melhora e ontem chegou a ficar 8h sem a ajuda de aparelhos respiratórios.</segment>
+    <segment id="6">Os médicos estavam otimistas com a melhora significativa</segment>
+    <segment id="7">, masmas a notícia pegou a todos de surpresa.</segment>
+    <segment id="8">Segundo informações de sua assessoria</segment>
+    <segment id="9">, Wando tinha histórico na família de problemas cardíacos e não possuia bons hábitos alimentares.</segment>
+  </rst>
+</analysis>

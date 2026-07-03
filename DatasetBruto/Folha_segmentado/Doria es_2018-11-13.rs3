@@ -1,0 +1,151 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governador eleito João Doria (PSDB) anunciou nesta terça-feira (13) o general da reserva João Camilo Pires de Campos para comandar a Secretaria da Segurança Pública do estado de São Paulo.</segment>
+    <segment id="2">A indicação foi antecipada pela Folha na semana passada.</segment>
+    <segment id="3">Campos</segment>
+    <segment id="4">, 64, foi um dos responsáveis pela área de segurança do programa de governo de Geraldo Alckmin (PSDB) à Presidência da República e passou para a reserva após 48 anos de serviços no Exército.</segment>
+    <segment id="5">Essa será a primeira vez que um nome do Exército comanda a Secretaria da Segurança Pública em São Paulo desde 1979</segment>
+    <segment id="6">, quando Erasmo Dias foi titular da pasta.</segment>
+    <segment id="7">Novo secretário de segurança</segment>
+    <segment id="8">, João Camilo Pires de Campos</segment>
+    <segment id="9">, em evento no Palácio dos Bandeirantes em 2017 - Ze Carlos Barretta/Folhapress  Como general</segment>
+    <segment id="10">, campos chefiou o Departamento de Educação e Cultura do Exército e o Comando Militar do Sudeste.</segment>
+    <segment id="11">Ao anunciar o general</segment>
+    <segment id="12">, o tucano descumpre promessa de campanha de colocar um policial à frente da pasta.</segment>
+    <segment id="13">"</segment>
+    <segment id="14">Nós melhoramos</segment>
+    <segment id="15">, evoluímos nossa ideia e melhoramos ao ter um general à frente da Secretaria da Segurança Pública do estado de São Paulo"</segment>
+    <segment id="16">, disse o tucano nesta terça.</segment>
+    <segment id="17">"</segment>
+    <segment id="18">Nós teremos um secretário executivo da Polícia Militar e uma secretaria executiva com um policial civil.</segment>
+    <segment id="19">"  Doria foi aconselhado por auxiliares a recuar dessa promessa</segment>
+    <segment id="20">, sob o risco de começar o novo governo tendo de administrar um mal-estar entre as polícias.</segment>
+    <segment id="21">Se escolhesse um policial civil</segment>
+    <segment id="22">, irritaria os policiais militares.</segment>
+    <segment id="23">Se escolhesse um policial militar</segment>
+    <segment id="24">, traria desconforto para os policiais civis.</segment>
+    <segment id="25">Em entrevista nesta terça-feira</segment>
+    <segment id="26">, o governador eleito adotou um discurso mais moderado do que em sua campanha</segment>
+    <segment id="27">, quando disse que a polícia iria atirar para matar.</segment>
+    <segment id="28">"</segment>
+    <segment id="29">Óbvio que a primeira ação da polícia não será matar</segment>
+    <segment id="30">, será na inteligência</segment>
+    <segment id="31">, depois na pronta resposta que é imobilizar o criminoso</segment>
+    <segment id="32">, sese o criminoso reagir a ação será para imobilização"</segment>
+    <segment id="33">, disse.</segment>
+    <segment id="34">"</segment>
+    <segment id="35">A orientação é que</segment>
+    <segment id="36">sese ele ainda assim reagir armado é que ele vá deitado para o cemitério.</segment>
+    <segment id="37">"</segment>
+    <segment id="38">Questionado sobre o excludente de ilicitude para policiais em confrontos proposto pelo presidente eleito</segment>
+    <segment id="39">, Jair Bolsonaro (PSL)</segment>
+    <segment id="40">, Doria afirmou que</segment>
+    <segment id="41">, entre a vida de cidadãos de bem</segment>
+    <segment id="42">, do policial e a do bandido</segment>
+    <segment id="43">, fica com as primeiras duas.</segment>
+    <segment id="44">O general Campos também respondeu sobre o tema</segment>
+    <segment id="45">, com um tom cauteloso.</segment>
+    <segment id="46">"É um tema que tem profunda relevância e merece ser estudado com muito carinho.</segment>
+    <segment id="47">Bandido tem no mundo todo</segment>
+    <segment id="48">, agora bandido armado de fuzil constituindo ameaça só aqui"</segment>
+    <segment id="49">, afirmou.</segment>
+    <segment id="50">Perguntado</segment>
+    <segment id="51">sese sua gestão será linha-dura</segment>
+    <segment id="52">, ele afirmou que será "serena e segura".</segment>
+    <segment id="53">Ele evitou dar opiniões sobre temas espinhosos</segment>
+    <segment id="54">, como</segment>
+    <segment id="55">como a possível transferência de chefes da facção criminosa PCC para presídios federais</segment>
+    <segment id="56">, diante de ameaça de fuga.</segment>
+    <segment id="57">"</segment>
+    <segment id="58">Com relação à pergunta sobre o PCC</segment>
+    <segment id="59">, confesso que preciso aprofundar com o secretário atual</segment>
+    <segment id="60">para que</segment>
+    <segment id="61">para que tenhamos assim uma noção do quadro verdadeiro</segment>
+    <segment id="62">, claro</segment>
+    <segment id="63">, para que</segment>
+    <segment id="64">para que possamos levar para o nosso governador.</segment>
+    <segment id="65">"</segment>
+    <segment id="66">Ele também não deu detalhes do plano de combate a roubo de cargas no estado.</segment>
+    <segment id="67">Afirmou apenas que será tratado com o "devido respeito e convenientemente".</segment>
+    <segment id="68">Sobre a letalidade de policiais paulistas</segment>
+    <segment id="69">, afirmou que ninguém "mata por matar" e que o assunto será tratado</segment>
+    <segment id="70">casocaso a</segment>
+    <segment id="71">casocaso.</segment>
+    <segment id="72">O militar foi na contramão de outros políticos</segment>
+    <segment id="73">, que têm manifestado a opinião de que o MST (Movimento dos Trabalhadores Rurais Sem Terra) é criminoso.</segment>
+    <segment id="74">"</segment>
+    <segment id="75">O próprio movimento</segment>
+    <segment id="76">, em si</segment>
+    <segment id="77">, sese permanecer em condições normais de temperatura e pressão</segment>
+    <segment id="78">, não é um problema de segurança pública.</segment>
+    <segment id="79">Quando ele ultrapassa a barreira da ordem e da disciplina</segment>
+    <segment id="80">, passa a ser.</segment>
+    <segment id="81">"   Outros nomes  Nesta terça-feira</segment>
+    <segment id="82">, Doria anunciou outros nomes para o primeiro escalão de seu governo.</segment>
+    <segment id="83">Marcos Penido</segment>
+    <segment id="84">, que deixou a pasta das Subprefeituras da gestão Bruno Covas (PSDB) na cidade de São Paulo</segment>
+    <segment id="85">, assume a 'supersecretaria' de Energia</segment>
+    <segment id="86">, Saneamento</segment>
+    <segment id="87">, Recursos Hídricos e Meio Ambiente.</segment>
+    <segment id="88">Secretários de Doria no Governo de SPÍcone seta para esquerdaÍcone seta para direita</segment>
+    <segment id="89">novamenteÍcone seta para esquerda</segment>
+    <segment id="90">VoltarÍcone seta para cimaÍcone seta para baixoÍcone seta para esquerda Voltar       de  PinterestPinterestÍcone  de  de  representando um    ​Julio Serson</segment>
+    <segment id="91">, ex-secretário das Relações Internacionais no município</segment>
+    <segment id="92">, assumirá uma secretaria especial na mesma área no estado e também será presidente da companhia Investe SP.</segment>
+    <segment id="93">Wilson Pedroso</segment>
+    <segment id="94">, braço-direito de Doria e ex-chefe de gabinete na prefeitura</segment>
+    <segment id="95">, será chefe de gabinete de Doria no governo do estado.</segment>
+    <segment id="96">Pedroso foi aplaudido por militantes tucanos que estavam no evento.</segment>
+    <segment id="97">Nos últimos dias</segment>
+    <segment id="98">, Doria já havia anunciado outros nomes.</segment>
+    <segment id="99">Nesta segunda-feira (12)</segment>
+    <segment id="100">, por exemplo</segment>
+    <segment id="101">, anunciou que o desembargador Paulo Dimas Mascaretti</segment>
+    <segment id="102">, ex-presidente do Tribunal de Justiça de São Paulo</segment>
+    <segment id="103">, será o secretário de Justiça de sua administração.</segment>
+    <segment id="104">Anunciou ainda a deputada estadual Celia Leão (PSDB)</segment>
+    <segment id="105">comocomo secretária da Pessoa com Deficiência.</segment>
+    <segment id="106">Ela é a primeira tucana anunciada por Doria</segment>
+    <segment id="107">comocomo membro de seu secretariado.</segment>
+    <segment id="108">O distanciamento de Doria em relação ao partido vinha sendo criticado por membros do PSDB.</segment>
+    <segment id="109">João Doria</segment>
+    <segment id="110">Ícone seta para esquerdaÍcone seta para direita   novamenteÍcone seta para esquerda</segment>
+    <segment id="111">VoltarÍcone seta para cimaÍcone seta para baixoÍcone seta para esquerda Voltar       de  PinterestPinterestÍcone  de  de  representando um    Antes</segment>
+    <segment id="112">, Doria já havia confirmado três atuais ministros do governo Michel Temer (MDB) para o seu secretariado: Gilberto Kassab (Casa Civil)</segment>
+    <segment id="113">, Rossieli Soares (Educação) e Sérgio Sá Leitão (Cultura).</segment>
+    <segment id="114">Na campanha eleitoral</segment>
+    <segment id="115">, Doria usou a gestão Temer para atacar adversários.</segment>
+    <segment id="116">Em debates e programas de rádio e TV</segment>
+    <segment id="117">, buscou desgastar seu adversário Paulo Skaf (MDB) ao associá-lo ao presidente da República.</segment>
+    <segment id="118">Kassab</segment>
+    <segment id="119">, ex-prefeito da capital paulista e atual ministro da Ciência</segment>
+    <segment id="120">, Tecnologia</segment>
+    <segment id="121">, Inovações e Comunicações</segment>
+    <segment id="122">, tornou-</segment>
+    <segment id="123">sese réu em setembro deste ano devido a ação do Ministério Público de São Paulo que o acusa de ter recebido via caixa dois o valor de R$ 21 milhões durante campanha para prefeito em 2008.</segment>
+    <segment id="124">Doria e Kassab disseram que as acusações não influenciarão em nada no mandato.</segment>
+    <segment id="125">​     Doria também decidiu que a Secretaria de Governo será extinta e suas funções serão assumidas pelo vice-governador eleito Rodrigo Garcia (DEM).</segment>
+  </rst>
+</analysis>

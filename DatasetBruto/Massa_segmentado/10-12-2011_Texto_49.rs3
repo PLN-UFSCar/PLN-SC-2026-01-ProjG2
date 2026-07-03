@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Policiais apreendem metralhadora de 1917 e pistolas na Rocinha
+RIO - O Batalhão de Operações Especiais (Bope) apreendeu</segment>
+    <segment id="2">, na noite deste sábado</segment>
+    <segment id="3">, uma metralhadora</segment>
+    <segment id="4">, três pistolas e munições na Rocinha.</segment>
+    <segment id="5">As pistolas estavam embrulhadas em sacos plásticos e a arma dentro de um tonel.</segment>
+    <segment id="6">O material estava em uma região da favela conhecida</segment>
+    <segment id="7">comocomo Roupa Suja.</segment>
+    <segment id="8">A metralhadora</segment>
+    <segment id="9">, uma Browning.30</segment>
+    <segment id="10">, tem capacidade para derrubar aeronaves de pequeno porte e perfurar blindados.</segment>
+    <segment id="11">O modelo da arma é americano e de 1917.</segment>
+    <segment id="12">Os policiais falaram que a arma está funcionando e bem conservada:
+
+- Não é fácil encontrar uma metralhadora</segment>
+    <segment id="13">comocomo esta e por estar em boas condições</segment>
+    <segment id="14">, podemos dizer que é uma peça de colecionador - diz o Cabo Baltar</segment>
+    <segment id="15">O material será levado para a 15ª DP</segment>
+    <segment id="16">, na Gávea.</segment>
+  </rst>
+</analysis>

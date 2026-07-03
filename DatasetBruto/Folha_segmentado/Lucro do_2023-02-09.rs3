@@ -1,0 +1,114 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Bradesco anunciou nesta quinta-feira (9) que fez uma provisão extraordinária de R$ 4</segment>
+    <segment id="2">,9 bilhões para cobrir sua exposição total à Americanas</segment>
+    <segment id="3">, que pediu recuperação judicial no mês passado.</segment>
+    <segment id="4">A medida</segment>
+    <segment id="5">, que é uma forma de</segment>
+    <segment id="6">sese proteger contra um eventual calote</segment>
+    <segment id="7">, teve forte impacto no resultado do banco no quarto trimestre.</segment>
+    <segment id="8">O lucro recorrente</segment>
+    <segment id="9">, de R$ 1</segment>
+    <segment id="10">,595 bilhão</segment>
+    <segment id="11">, ficando bastante abaixo da projeção média de analistas consultados pela Refinitiv</segment>
+    <segment id="12">, que esperavam R$ 4</segment>
+    <segment id="13">,4 bilhões.</segment>
+    <segment id="14">Na comparação frente ao mesmo período de 2021</segment>
+    <segment id="15">, o lucro caiu 75</segment>
+    <segment id="16">,9%.</segment>
+    <segment id="17">O lucro contábil do Bradesco</segment>
+    <segment id="18">, que leva em conta efeitos extraordinários</segment>
+    <segment id="19">, ficou em R$ 1</segment>
+    <segment id="20">,44 bilhão.</segment>
+    <segment id="21">O número é o menor registrado pelo banco desde o terceiro trimestre de 2006</segment>
+    <segment id="22">, quando o Bradesco teve ganhos de R$ 219 milhões</segment>
+    <segment id="23">, segundo levantamento feito pelo TradeMap</segment>
+    <segment id="24">, sem correção pela inflação.</segment>
+    <segment id="25">A provisão total do Bradesco para inadimplência foi de R$ 14</segment>
+    <segment id="26">,9 bilhões</segment>
+    <segment id="27">, mais do que o dobro do reservado um ano antes.</segment>
+    <segment id="28">Fachada de agência do Bradesco no Rio de Janeiro- Sergio Moraes - 26.jul.2018/ReutersSem o efeito</segment>
+    <segment id="29">Americanas</segment>
+    <segment id="30">, as provisões do banco seriam de R$ 10</segment>
+    <segment id="31">,562 bilhões</segment>
+    <segment id="32">, que representaria um avanço de 23% ante o terceiro trimestre de 2022</segment>
+    <segment id="33">, e de 108% em relação ao fim de 2021.</segment>
+    <segment id="34">Além do Bradesco</segment>
+    <segment id="35">, Santander e Itaú também fizeram elevaram as provisões em razão da Americanas.</segment>
+    <segment id="36">Conhecida</segment>
+    <segment id="37">comocomo PDD (Provisão para Créditos de Liquidação Duvidosa)</segment>
+    <segment id="38">, a despesa representa um colchão que o banco é obrigado a fazer para proteger seu capital contra possíveis atrasos nos empréstimos que concedeu.</segment>
+    <segment id="39">No caso</segment>
+    <segment id="40">caso do Itaú</segment>
+    <segment id="41">, o aumento foi de R$ 1</segment>
+    <segment id="42">,7 bilhão em três meses</segment>
+    <segment id="43">, passando de R$ 8</segment>
+    <segment id="44">,2 bilhões no terceiro trimestre de 2022 para R$ 9</segment>
+    <segment id="45">,9 bilhões na parte final do ano passado.</segment>
+    <segment id="46">No caso</segment>
+    <segment id="47">caso do Santander</segment>
+    <segment id="48">, a despesa com provisão aumentou 14% em três meses.</segment>
+    <segment id="49">Com o resultado</segment>
+    <segment id="50">, a rentabilidade do Bradesco</segment>
+    <segment id="51">, medida pelo Retorno sobre Patrimônio Líquido</segment>
+    <segment id="52">, caiu de 13% entre julho e setembro para 3</segment>
+    <segment id="53">,9% no quarto trimestre de 2022.</segment>
+    <segment id="54">O Bradesco fechou o ano passado com uma carteira de crédito expandida de quase R$ 892 bilhões</segment>
+    <segment id="55">, crescimento de 1</segment>
+    <segment id="56">,5% em três meses</segment>
+    <segment id="57">, e de 9</segment>
+    <segment id="58">,8% em um ano.</segment>
+    <segment id="59">O maior crescimento foi registrado nos empréstimos para pessoas físicas</segment>
+    <segment id="60">, com avanço de 2</segment>
+    <segment id="61">,4% no trimestre e de 12</segment>
+    <segment id="62">,6% no ano.</segment>
+    <segment id="63">Para grandes empresas</segment>
+    <segment id="64">, os financiamentos tiveram aumento de 0</segment>
+    <segment id="65">,9% em três meses</segment>
+    <segment id="66">, e de 7</segment>
+    <segment id="67">,9% em 12 meses.</segment>
+    <segment id="68">O cenário de inadimplência do Bradesco piorou no final do ano passado.</segment>
+    <segment id="69">Os créditos com atraso superior a 90% passaram de 3</segment>
+    <segment id="70">,9% para 4</segment>
+    <segment id="71">,3% da carteira total entre setembro e dezembro.</segment>
+    <segment id="72">Nas pessoas físicas</segment>
+    <segment id="73">, a inadimplência atingiu o patamar de 5</segment>
+    <segment id="74">,5% no fim de 2022</segment>
+    <segment id="75">, ante 5</segment>
+    <segment id="76">,1% no terceiro trimestre.</segment>
+    <segment id="77">Nas micro</segment>
+    <segment id="78">, pequenas e médias empresas</segment>
+    <segment id="79">, os atrasos passaram de 4</segment>
+    <segment id="80">,5% para 5</segment>
+    <segment id="81">,3% em três meses.</segment>
+    <segment id="82">O destaque positivo do balanço do Bradesco ficou com a área de seguros</segment>
+    <segment id="83">, que teve lucro líquido recorrente de 1</segment>
+    <segment id="84">,893 bilhão no quarto trimestre de 2022</segment>
+    <segment id="85">, crescimento de 26</segment>
+    <segment id="86">,6% em relação ao terceiro trimestre</segment>
+    <segment id="87">, e de quase 25% na comparação anual.</segment>
+    <segment id="88">Com Reuters</segment>
+  </rst>
+</analysis>

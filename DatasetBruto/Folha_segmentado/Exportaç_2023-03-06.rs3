@@ -1,0 +1,120 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Brasil exportou 8</segment>
+    <segment id="2">,4 milhões de toneladas de carnes no ano passado</segment>
+    <segment id="3">, um volume 13% superior ao de 2020 e 9% acima do de 2021.</segment>
+    <segment id="4">As receitas</segment>
+    <segment id="5">, que atingiram US$ 26 bilhões</segment>
+    <segment id="6">, superam em 50% as de 2020 e em 29% as de 2021.</segment>
+    <segment id="7">O desenvolvimento desse setor tem sido importante também para uma melhora da participação das mulheres no agronegócio.</segment>
+    <segment id="8">No ano passado</segment>
+    <segment id="9">, elas representaram 17% da força de trabalho do setor de pecuária dentro da porteira —considerado os serviços no campo.</segment>
+    <segment id="10">No setor de aves</segment>
+    <segment id="11">, líder nacional nas exportações de proteínas</segment>
+    <segment id="12">, a presença das mulheres somou 36% da força de trabalho</segment>
+    <segment id="13">; na suinocultura</segment>
+    <segment id="14">, 27%; e</segment>
+    <segment id="15">, na produção bovinos</segment>
+    <segment id="16">, 14%.</segment>
+    <segment id="17">Na cadeia industrial da carne</segment>
+    <segment id="18">, a presença feminina também é importante</segment>
+    <segment id="19">, atingindo 36% nos abates de animais e 46% no setor de laticínios.</segment>
+    <segment id="20">Os dados fazem parte de um acompanhamento do mercado de trabalho feminino no agronegócio feito pelo Cepea (Centro de Estudos Avançados em Economia Aplicada).</segment>
+    <segment id="21">O Cepea avalia o setor incluindo dados da produção dentro da porteira</segment>
+    <segment id="22">, dos insumos</segment>
+    <segment id="23">, da agroindústria e do agrosserviço.</segment>
+    <segment id="24">Em 2022</segment>
+    <segment id="25">, o agronegócio empregava 19 milhões de trabalhadores em seus diversos setores.</segment>
+    <segment id="26">As mulheres ocupavam 5</segment>
+    <segment id="27">,9 milhões</segment>
+    <segment id="28">, 31% deles</segment>
+    <segment id="29">, segundo Nicole Rennó</segment>
+    <segment id="30">, pesquisadora do Cepea e responsável pela elaboração dos dados.</segment>
+    <segment id="31">A participação das mulheres no emprego e na renda vem crescendo no setor</segment>
+    <segment id="32">, masmas ainda são muitos os desafios para um equilíbrio de gênero.</segment>
+    <segment id="33">Essa presença vai</segment>
+    <segment id="34">sese tornar mais forte</segment>
+    <segment id="35">, masmas há muita coisa pela frente em relação a cargos e salários</segment>
+    <segment id="36">, afirma a pesquisadora.</segment>
+    <segment id="37">Em 2012</segment>
+    <segment id="38">, 9,3% dos cargos de direção ou de gerência na produção primária estavam nas mãos de mulheres.</segment>
+    <segment id="39">No ano passado</segment>
+    <segment id="40">, eram 14%.</segment>
+    <segment id="41">Os dados de Nicole apontam que o agrosserviço é o setor que tem a maior participação de mulheres no setor de agronegócios.</segment>
+    <segment id="42">Elas respondem por 42% da força de trabalho desse segmento.</segment>
+    <segment id="43">A seguir vem a agroindústria</segment>
+    <segment id="44">, com 37%.</segment>
+    <segment id="45">O trabalho dentro da porteira</segment>
+    <segment id="46">, chamado de primário e que</segment>
+    <segment id="47">, às vezes</segment>
+    <segment id="48">, exige mais força bruta</segment>
+    <segment id="49">, tem a participação de 20% das mulheres.</segment>
+    <segment id="50">Em alguns segmentos desse setor primário</segment>
+    <segment id="51">, no entanto</segment>
+    <segment id="52">, elas têm uma presença bastante marcante</segment>
+    <segment id="53">, segundo Nicole.</segment>
+    <segment id="54">Fazenda de café onde apenas mulheres trabalham na colheita - Cleiton Correa/DivulgaçãoA produção primária de fumo</segment>
+    <segment id="55">, que emprega 243 mil trabalhadores</segment>
+    <segment id="56">, tem a presença de 95</segment>
+    <segment id="57">,5 mil mulheres</segment>
+    <segment id="58">, 39% da mão de obra da atividade.</segment>
+    <segment id="59">A presença feminina é importante também nos segmentos de flores</segment>
+    <segment id="60">, plantas ornamentais</segment>
+    <segment id="61">, horticultura e colheita de uva</segment>
+    <segment id="62">, segundo a pesquisadora.</segment>
+    <segment id="63">Em todos eles</segment>
+    <segment id="64">, a participação da mulher fica próximo de um terço.</segment>
+    <segment id="65">Dentro da porteira</segment>
+    <segment id="66">, a presença feminina na produção de cereais ainda é bastante restrita</segment>
+    <segment id="67">, com apenas 15% da atividade nacional.</segment>
+    <segment id="68">É menor ainda na produção de cana</segment>
+    <segment id="69">, em que as 22 mil mulheres</segment>
+    <segment id="70">, de um universo de 315 mil trabalhadores no setor</segment>
+    <segment id="71">, representam apenas 7%.</segment>
+    <segment id="72">Nicole afirma que a participação das mulheres na soja</segment>
+    <segment id="73">, cultura que lidera a produção nacional de grãos</segment>
+    <segment id="74">, vem aumentando e está em 17%.</segment>
+    <segment id="75">As lavouras de soja abrem espaço</segment>
+    <segment id="76">porque</segment>
+    <segment id="77">porque avançam ano a ano e já somam 44 milhões de hectares plantados</segment>
+    <segment id="78">, com produção projetada para esta safra próxima de 150 milhões de toneladas.</segment>
+    <segment id="79">Se o bom desempenho do mercado externo favorece a participação das mulheres no agronegócio</segment>
+    <segment id="80">, a recessão interna vivida pelo país nos últimos anos atrapalha</segment>
+    <segment id="81">, afirma Nicole.</segment>
+    <segment id="82">A presença da mulher é de 77% na mão de obra do setor de vestuário e de acessórios</segment>
+    <segment id="83">, que não vai bem ultimamente devido à queda de renda interna e à concorrência externa.</segment>
+    <segment id="84">O estudo do Cepea mostra que</segment>
+    <segment id="85">, dos 42 milhões de mulheres empregadas no país</segment>
+    <segment id="86">, 5,9 milhões estão no agronegócio</segment>
+    <segment id="87">, o que indica uma participação feminina de 14% no total.</segment>
+    <segment id="88">Considerando apenas os 19 milhões de ocupados do agronegócio</segment>
+    <segment id="89">, a participação feminina é de 31% no setor.</segment>
+    <segment id="90">Agrosserviços e agroindústria concentram o maior percentual de trabalhadoras.</segment>
+    <segment id="91">A agroindústria acaba servindo de aumento de renda para a família.</segment>
+    <segment id="92">Quando a indústria está próxima</segment>
+    <segment id="93">, o homem cuida das atividades do campo e a mulher busca ocupação no setor agroindustrial</segment>
+    <segment id="94">, afirma a pesquisadora</segment>
+  </rst>
+</analysis>

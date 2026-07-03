@@ -1,0 +1,53 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Aluno atira em colegas e causa terror</segment>
+    <segment id="2">Segundo informações da polícia de Ohio</segment>
+    <segment id="3">, nos EUA</segment>
+    <segment id="4">, uma pessoa morreu</segment>
+    <segment id="5">Um estudante atirou contra colegas na manhã de ontem</segment>
+    <segment id="6">, em uma escola de Ohio</segment>
+    <segment id="7">, nos Estados Unidos.</segment>
+    <segment id="8">Um aluno morreu e outros quatro ficaram feridos no incidente</segment>
+    <segment id="9">, que ocorreu na cafeteria da escola de ensino médio Chardon</segment>
+    <segment id="10">, a 56 km a leste de Cleveland</segment>
+    <segment id="11">, pouco antes das aulas do dia serem iniciadas.</segment>
+    <segment id="12">Informações indicam que o suspeito do ataque tinha um rifle calibre 22 e uma faca.</segment>
+    <segment id="13">A polícia</segment>
+    <segment id="14">, assim</segment>
+    <segment id="15">comocomo  estudantes que presenciaram o tiroteio</segment>
+    <segment id="16">, contaram que o autor dos disparos era estudante da escola.</segment>
+    <segment id="17">O superintendente da Chardon Schools</segment>
+    <segment id="18">, Joseph Bergant</segment>
+    <segment id="19">, tranquilizou as famílias.</segment>
+    <segment id="20">“Todos os nossos estudantes de ensino médio estão seguros agora.</segment>
+    <segment id="21">A suposta pessoa que realizou os estragos está sob custódia” contou Bergant.</segment>
+    <segment id="22">Um porta-voz do gabinete do xerife confirmou que o atirador está preso.</segment>
+    <segment id="23">“</segment>
+    <segment id="24">Ocorreram disparos</segment>
+    <segment id="25">, masmas o suspeito está detido”.</segment>
+    <segment id="26">O colégio americano foi rodeado e isolado imediatamente após o ataque.</segment>
+    <segment id="27">As escolas da região também foram fechadas.</segment>
+  </rst>
+</analysis>

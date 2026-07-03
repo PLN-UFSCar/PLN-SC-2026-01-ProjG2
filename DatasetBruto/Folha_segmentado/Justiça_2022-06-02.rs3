@@ -1,0 +1,47 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Justiça de São Paulo deu prazo de 72 horas</segment>
+    <segment id="2">para que</segment>
+    <segment id="3">para que a Prefeitura de São Paulo</segment>
+    <segment id="4">sese manifeste em ação que pede a suspensão do cachê pago à cantora Ludmilla por sua participação na Virada Cultural.</segment>
+    <segment id="5">Apresentação da cantora Ludmilla na Virada Cultural</segment>
+    <segment id="6">, em São Paulo - Bruno Santos/FolhapressColunas e BlogsReceba no seu email uma seleção de colunas e blogs da Folha</segment>
+    <segment id="7">; exclusiva para assinantes.</segment>
+    <segment id="8">Carregando...</segment>
+    <segment id="9">A ação foi proposta pelo vereador Fernando Holiday (Novo)</segment>
+    <segment id="10">, com o argumento de que ela</segment>
+    <segment id="11">, no show</segment>
+    <segment id="12">, fez com a mão a letra "L"</segment>
+    <segment id="13">, em alusão à pré-candidatura presidencial de Luiz Inácio Lula da Silva (PT).</segment>
+    <segment id="14">Holiday pede que o pagamento de R$ 200 mil seja suspenso ou restituído aos cofres públicos</segment>
+    <segment id="15">, caso</segment>
+    <segment id="16">caso já tenha sido feito.</segment>
+    <segment id="17">Nas redes sociais</segment>
+    <segment id="18">, a cantora negou que seja uma referência a Lula</segment>
+    <segment id="19">, masmas sim à primeira letra de seu nome.</segment>
+    <segment id="20">A decisão foi tomada pelo Kenichi Koyama</segment>
+    <segment id="21">, da 15ª Vara da Fazenda Pública do Tribunal de Justiça do Estado de São Paulo.</segment>
+  </rst>
+</analysis>

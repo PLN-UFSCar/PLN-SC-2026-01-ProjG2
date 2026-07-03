@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Não tinha para ninguém!</segment>
+    <segment id="2">O maior caçador de gias de Catu
+Quando criança</segment>
+    <segment id="3">, Ed se</segment>
+    <segment id="4">se enfiava nos rios</segment>
+    <segment id="5">, brejos e até em bueiro para caçar gias.</segment>
+    <segment id="6">“Ele era  o maior caçador de gia da região.</segment>
+    <segment id="7">Ele pegava e eu fazia uma moqueca de gia deliciosa para vender na barraquinha.</segment>
+    <segment id="8">Era um sucesso aqui”</segment>
+    <segment id="9">, diz Jonas.</segment>
+  </rst>
+</analysis>

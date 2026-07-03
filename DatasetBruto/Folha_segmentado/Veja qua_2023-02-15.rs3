@@ -1,0 +1,202 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A partir deste mês</segment>
+    <segment id="2">, trabalhadores estão com um desconto maior do INSS (Instituto Nacional do Seguro Social) no salário.</segment>
+    <segment id="3">A tabela de contribuições de assalariados é reajustada pela inflação do ano anterior</segment>
+    <segment id="4">, e também considera o valor do salário mínimo vigente</segment>
+    <segment id="5">, de R$ 1.302.</segment>
+    <segment id="6">Os valores de contribuições de autônomos e facultativos também respeitam os limites do salário mínimo e do teto do INSS (R$ 7.507</segment>
+    <segment id="7">,49) em 2023.</segment>
+    <segment id="8">Neste ano</segment>
+    <segment id="9">, a contribuição ao INSS vai de R$ 65</segment>
+    <segment id="10">,10 a R$ 1.501</segment>
+    <segment id="11">,49.</segment>
+    <segment id="12">Para trabalhadores com carteira assinada</segment>
+    <segment id="13">, a contribuição varia de R$ 97</segment>
+    <segment id="14">,65 a R$ 877</segment>
+    <segment id="15">,22.</segment>
+    <segment id="16">A contribuição é descontada diretamente no salário de trabalhadores registrados ou recolhida por conta própria por facultativos e parte dos autônomos.</segment>
+    <segment id="17">Pelo app</segment>
+    <segment id="18">Meu INSS o trabalhador pode consultar sua situação previdenciária - Gabriel Cabral/FolhapressA reforma da Previdência alterou o cálculo da contribuição de trabalhadores assalariados e domésticos</segment>
+    <segment id="19">, que é progressivo.</segment>
+    <segment id="20">Nesses casos</segment>
+    <segment id="21">, o cálculo é feito sobre as partes do salário que</segment>
+    <segment id="22">sese enquadrarem em cada faixa.</segment>
+    <segment id="23">Confira exemplo do Ingrácio Advocacia:  Milena trabalha</segment>
+    <segment id="24">comocomo farmacêutica.</segment>
+    <segment id="25">Em 2023</segment>
+    <segment id="26">, ela começou a receber R$ 1.700 e pagará   7</segment>
+    <segment id="27">,5% de R$ 1.302 = R$ 97</segment>
+    <segment id="28">,65 9% sobre R$ 398 (valor que sobrou do seu salário após passar a primeira faixa</segment>
+    <segment id="29">, ou seja R$ 1.700 – R$ 1.302)</segment>
+    <segment id="30">= R$ 35</segment>
+    <segment id="31">,82 R$ 97</segment>
+    <segment id="32">,65 + R$ 35</segment>
+    <segment id="33">,82 = R$ 133</segment>
+    <segment id="34">,47   Total:</segment>
+    <segment id="35">Neste ano</segment>
+    <segment id="36">, Milena deve contribuir com R$ 133</segment>
+    <segment id="37">,47 por mês.</segment>
+    <segment id="38">Tabela de contribuição para segurados empregados</segment>
+    <segment id="39">, empregado doméstico e trabalhadores avulsos em 2023:     Faixa de salário Alíquota aplicada Alíquota efetiva*</segment>
+    <segment id="40">Até um salário mínimo (R$ 1.302 em 2023) 7</segment>
+    <segment id="41">,5% 7,5%</segment>
+    <segment id="42">De R$ 1.302</segment>
+    <segment id="43">,01 a R$ 2.571</segment>
+    <segment id="44">,29 9% 7</segment>
+    <segment id="45">,5% a 8</segment>
+    <segment id="46">,25%</segment>
+    <segment id="47">De R$ 2.571</segment>
+    <segment id="48">,30 a R$ 3.856</segment>
+    <segment id="49">,94 12% 8</segment>
+    <segment id="50">,25% a 9</segment>
+    <segment id="51">,5%</segment>
+    <segment id="52">De R$ 3.856</segment>
+    <segment id="53">,95 a R$ 7.507</segment>
+    <segment id="54">,49 (teto do INSS em 2023) 14% 9</segment>
+    <segment id="55">,5% a 11</segment>
+    <segment id="56">,69%     *Cálculo da Ingrácio Advocacia  Veja outros exemplos  1º</segment>
+    <segment id="57">Um segurado com salário mensal de R$ 3.600:      Faixa salarial (R$)</segment>
+    <segment id="58">Alíquotas (%)</segment>
+    <segment id="59">Cálculo**   Valor da contribuição (R$)**       até 1.302   7</segment>
+    <segment id="60">,5%   (R$ 1.302 x 7</segment>
+    <segment id="61">,5%)   97</segment>
+    <segment id="62">,65     de 1.302</segment>
+    <segment id="63">,01 até 2.571</segment>
+    <segment id="64">,29   9%   (R$ 2.571</segment>
+    <segment id="65">,29 - R$ 1.302 = R$ 1.269</segment>
+    <segment id="66">,29 x 9%)   114</segment>
+    <segment id="67">,23     de 2.571</segment>
+    <segment id="68">,30 até 3.600   12%   (R$ 3.600 - R$ 2.571</segment>
+    <segment id="69">,29 = R$ 1.028</segment>
+    <segment id="70">,71 x 12%)   123</segment>
+    <segment id="71">,44</segment>
+    <segment id="72">Contribuição total devida por este empregado = R$ 335</segment>
+    <segment id="73">,32  2º</segment>
+    <segment id="74">Um trabalhador com salário de R$ 8.000:      Faixa salarial (R$)</segment>
+    <segment id="75">Alíquotas (%)</segment>
+    <segment id="76">Cálculo**   Valor da contribuição (R$)**       até 1.302   7</segment>
+    <segment id="77">,5%   (R$ 1.302 x 7</segment>
+    <segment id="78">,5%)   97</segment>
+    <segment id="79">,65     de 1.302</segment>
+    <segment id="80">,01 até 2.571</segment>
+    <segment id="81">,29   9%   (R$ 2.571</segment>
+    <segment id="82">,29 - R$ 1.302 = R$ 1.269</segment>
+    <segment id="83">,29 x 9%)   114</segment>
+    <segment id="84">,23     de 2.571</segment>
+    <segment id="85">,30 até 3.856</segment>
+    <segment id="86">,94   12%   (R$ 3.856</segment>
+    <segment id="87">,94 - R$ 2.571</segment>
+    <segment id="88">,29 = R$ 1.285</segment>
+    <segment id="89">,65 x 12%)   154</segment>
+    <segment id="90">,27</segment>
+    <segment id="91">De 3.856</segment>
+    <segment id="92">,95 até 7.507</segment>
+    <segment id="93">,49   14%   (R$ 7.507</segment>
+    <segment id="94">,49 – R$ 3.856</segment>
+    <segment id="95">,94 = R$ 3.650</segment>
+    <segment id="96">,55 x 14%)   511</segment>
+    <segment id="97">,07</segment>
+    <segment id="98">Contribuição total devida por este empregado = R$ 877</segment>
+    <segment id="99">,22  *</segment>
+    <segment id="100">*Fonte: IOB</segment>
+    <segment id="101">Conheça os benefícios por incapacidade pagos pelo INSSMais    novamente         de   de  de  representando um  TRABALHADOR AUTÔNOMO</segment>
+    <segment id="102">Os autônomos que prestam serviços a pessoas físicas (e não a pessoas jurídicas) podem contribuir com 11% sobre o salário mínimo.</segment>
+    <segment id="103">Neste caso</segment>
+    <segment id="104">caso, porém</segment>
+    <segment id="105">porém, o segurado terá direito somente à aposentadoria por idade e no valor do salário mínimo.</segment>
+    <segment id="106">Outro tipo de recolhimento de contribuição de autônomos é com a alíquota de 20% em cima de um valor que deve ser entre o salário mínimo e o teto do INSS.</segment>
+    <segment id="107">O pagamento deve ser realizado mensalmente pela GPS (Guia de Previdência Social)</segment>
+    <segment id="108">, o carnê laranja</segment>
+    <segment id="109">, que pode ser preenchido pela internet ou manualmente.</segment>
+    <segment id="110">Exemplos:  1)</segment>
+    <segment id="111">Remuneração recebida no mês pelos serviços prestados</segment>
+    <segment id="112">comocomo autônomo</segment>
+    <segment id="113">= R$ 4.500</segment>
+    <segment id="114">Valor da contribuição previdenciária devida</segment>
+    <segment id="115">= R$ 900 (20% de R$ 4.500)   2)</segment>
+    <segment id="116">Remuneração recebida no mês pelos serviços prestados</segment>
+    <segment id="117">comocomo autônomo = R$ 15 mil</segment>
+    <segment id="118">Valor da contribuição previdenciária devida</segment>
+    <segment id="119">= R$ 1.501</segment>
+    <segment id="120">,49 (20% de R$ 7.507</segment>
+    <segment id="121">,49 – teto de contribuição em 2023)</segment>
+    <segment id="122">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="123">; aberta para não assinantes.</segment>
+    <segment id="124">Carregando...</segment>
+    <segment id="125">TIPOS DE CONTRIBUIÇÃO PARA AUTÔNOMOS  Plano normal de contribuição  Código 1007: dá direito a todos os benefícios e a todos os tipos de aposentadoria</segment>
+    <segment id="126">, inclusive a por tempo de contribuição nas regras de transição.</segment>
+    <segment id="127">O recolhimento deve ser de 20% sobre o salário do trabalhador</segment>
+    <segment id="128">, limitado ao teto da Previdência.</segment>
+    <segment id="129">O valor da contribuição varia de R$ 260</segment>
+    <segment id="130">,40 (sobre o salário mínimo) até R$ 1.501</segment>
+    <segment id="131">,49 (sobre o teto).</segment>
+    <segment id="132">Plano de contribuição simplificado  Código 1163 : contribuição de 11% sobre o salário mínimo</segment>
+    <segment id="133">, o que dá R$ 143</segment>
+    <segment id="134">,22 em 2023.</segment>
+    <segment id="135">Dá direito à aposentadoria por idade</segment>
+    <segment id="136">, no valor de um salário mínimo.</segment>
+    <segment id="137">Segundo o INSS</segment>
+    <segment id="138">, essa condição</segment>
+    <segment id="139">sese aplica ao profissional que trabalha por conta própria e não é prestador de serviço a empresas e também ao contribuinte facultativo</segment>
+    <segment id="140">, aquele que não exerce atividade remunerada.</segment>
+    <segment id="141">Os segurados que mantiverem suas contribuições em dia têm acesso aos seguintes benefícios:   auxílio-doença (chamado de benefício por incapacidade temporária) aposentadoria por invalidez salário-maternidade auxílio-reclusão pensão por morte para dependentes aposentadorias (não é preciso ter a chamada qualidade de segurado</segment>
+    <segment id="142">, masmas é necessário atingir os requisitos exigidos pelo INSS)</segment>
+    <segment id="143">SEGURADOS FACULTATIVOS  Quem não exerce nenhuma atividade remunerada</segment>
+    <segment id="144">, como</segment>
+    <segment id="145">como estudantes</segment>
+    <segment id="146">, donas de casa e desempregados</segment>
+    <segment id="147">, pode contribuir ao INSS para ter direito a benefícios</segment>
+    <segment id="148">comocomo aposentadorias</segment>
+    <segment id="149">, auxílios e pensões.</segment>
+    <segment id="150">É preciso recolher 20% sobre um valor decidido pelo próprio segurado</segment>
+    <segment id="151">, que fique entre o salário mínimo e o teto do INSS.</segment>
+    <segment id="152">Também há a possibilidade de o facultativo contribuir com uma alíquota de 11% sobre o mínimo</segment>
+    <segment id="153">, o que dá R$ 143</segment>
+    <segment id="154">,22 neste ano.</segment>
+    <segment id="155">Caso se</segment>
+    <segment id="156">se enquadre no conceito de baixa renda</segment>
+    <segment id="157">, a alíquota para este contribuinte será de 5% sobre o salário mínimo (R$ 65</segment>
+    <segment id="158">,10, em 2023).</segment>
+    <segment id="159">Veja quais são as opções de contribuição facultativaMais    novamente         de   de  de  representando um  Microempreendedores Individuais</segment>
+    <segment id="160">Os MEIs (microempreendedores individuais) também contribuem sobre o valor do mínimo</segment>
+    <segment id="161">, masmas com a alíquota de 5%.</segment>
+    <segment id="162">Ou seja</segment>
+    <segment id="163">, neste ano</segment>
+    <segment id="164">, recolhem R$ 65</segment>
+    <segment id="165">,10 por mês.</segment>
+    <segment id="166">Esta contribuição dá direito apenas à aposentadoria por idade no valor de um salário mínimo.</segment>
+    <segment id="167">Também há o recolhimento do ISS (Imposto sobre Serviços) e do ICMS (Imposto sobre a Circulação de Mercadorias e Serviços)</segment>
+    <segment id="168">, dependendo da atividade.</segment>
+    <segment id="169">A guia de pagamento é chamada de DAS (Documento de Arrecadação do Simples Nacional) e tem vencimento até o dia 20 de cada mês.</segment>
+    <segment id="170">Quando a data cai em final de semana ou feriado</segment>
+    <segment id="171">, o pagamento pode ser feito até o próximo dia útil sem multas.</segment>
+    <segment id="172">Se atrasar ou não pagar o DAS</segment>
+    <segment id="173">, o autônomo vai acumular dívida</segment>
+    <segment id="174">, com multa de 0</segment>
+    <segment id="175">,33% por dia de atraso</segment>
+    <segment id="176">, limitada a 20% do valor.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Mega acumula e pode pagar R$ 28 milhÃµes</segment>
+    <segment id="2">Mega Sena acumulou novamente e pode chegar a R$ 28 milhÃµes no prÃ³ximo sorteio</segment>
+    <segment id="3">O prÃªmio da Mega Sena acumulou novamente e pode chegar a R$ 28 milhÃµes no prÃ³ximo sorteio</segment>
+    <segment id="4">, no sÃ¡bado (01/09).</segment>
+    <segment id="5">Nenhuma aposta acertou as seis dezenas do concurso 1.420.</segment>
+    <segment id="6">A quina saiu para 129 apostadores (prÃªmio de R$ 18.723</segment>
+    <segment id="7">,93) e a quadra</segment>
+    <segment id="8">, para 9.189 apostadores (prÃªmio de R$ 375</segment>
+    <segment id="9">,50).</segment>
+    <segment id="10">As dezenas sorteadas hoje (29/08) em Morrinhos (GO) foram: 02 - 11 - 16 - 18 - 36 - 45. (AE)</segment>
+  </rst>
+</analysis>

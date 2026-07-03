@@ -1,0 +1,123 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O ministro da Saúde</segment>
+    <segment id="2">, Marcelo Queiroga</segment>
+    <segment id="3">, chamou nesta quarta-feira (27) as pessoas que defendem a liberação das drogas de "vermes</segment>
+    <segment id="4">"</segment>
+    <segment id="5">e sugeriu um vermífugo contra elas</segment>
+    <segment id="6">porque</segment>
+    <segment id="7">porque "talvez mate essa gente".  "</segment>
+    <segment id="8">O Arnaldo [Correia de Medeiros</segment>
+    <segment id="9">, secretário do ministério] falou que o uso de drogas é uma das causas mais prevalentes da hepatite C. Nós somos contra o uso de drogas</segment>
+    <segment id="10">, embora</segment>
+    <segment id="11">embora haja pessoas que estão defendendo isso: liberação das drogas.</segment>
+    <segment id="12">Para esses vermes</segment>
+    <segment id="13">, nitazoxanida.</segment>
+    <segment id="14">Talvez mate essa gente"</segment>
+    <segment id="15">, afirmou.</segment>
+    <segment id="16">A declaração ocorreu durante o lançamento da campanha nacional de combate às hepatites virais</segment>
+    <segment id="17">, em Brasília.</segment>
+    <segment id="18">A nitazoxanida é um antiparasitário conhecido também pelo nome comercial</segment>
+    <segment id="19">, Annita.</segment>
+    <segment id="20">O vermífugo fazia parte do chamado kit Covid —conjunto de substâncias sem eficácia contra o coronavírus (que é um vírus</segment>
+    <segment id="21">, e não um verme) e defendido pelo governo Bolsonaro.</segment>
+    <segment id="22">O ministro da Saúde</segment>
+    <segment id="23">, Marcelo Queiroga</segment>
+    <segment id="24">, em entrevista coletiva em Brasília</segment>
+    <segment id="25">, em abril deste ano   - Adriano Machado - 18.abr.22/ReutersHá duas semanas</segment>
+    <segment id="26">, a cantora Anitta pediu ao ex-presidente Luiz Inácio Lula da Silva (PT) a legalização da maconha em um eventual novo governo.</segment>
+    <segment id="27">A artista declarou apoio ao petista para derrotar o presidente Jair Bolsonaro (PL).</segment>
+    <segment id="28">Durante o evento desta quarta</segment>
+    <segment id="29">, Queiroga também rebateu as críticas pela atuação do ministério no combate à varíola dos macacos (monkeypox) e à Covid-19 e</segment>
+    <segment id="30">, em tom de campanha</segment>
+    <segment id="31">, citou trechos da Bíblia.</segment>
+    <segment id="32">"Quer dizer que há três meses começamos a nos preparar para essa questão da monkeypox?</segment>
+    <segment id="33">E conhecereis a verdade e a verdade vos libertará"</segment>
+    <segment id="34">, disse</segment>
+    <segment id="35">, ressaltando que quatro laboratórios públicos fazem o diagnóstico da varíola dos macacos.</segment>
+    <segment id="36">Nesta terça (26)</segment>
+    <segment id="37">, a líder técnica para varíola dos macacos da OMS (Organização Mundial da Saúde)</segment>
+    <segment id="38">, Rosamund Lewis</segment>
+    <segment id="39">, disse em entrevista coletiva que "a situação do Brasil [para a doença] é preocupante".</segment>
+    <segment id="40">Também nesta terça-feira (26)</segment>
+    <segment id="41">, o presidente do Conass (Conselho Nacional de Secretários da Saúde)</segment>
+    <segment id="42">, Nésio Fernandes</segment>
+    <segment id="43">, afirmou que a resposta do país à nova doença é "protocolar" e pode ser "insuficiente</segment>
+    <segment id="44">" nos próximos meses.</segment>
+    <segment id="45">Queiroga também rebateu as críticas feitas à elevada taxa de mortalidade de crianças por Covid-19 e ao atraso na vacinação infantil.</segment>
+    <segment id="46">"'</segment>
+    <segment id="47">Ah não</segment>
+    <segment id="48">, masmas as crianças estão todas morrendo de Covid.'</segment>
+    <segment id="49">Nesses últimos dois anos</segment>
+    <segment id="50">, a Covid</segment>
+    <segment id="51">, como</segment>
+    <segment id="52">como uma pandemia</segment>
+    <segment id="53">, é a principal causa de óbitos.</segment>
+    <segment id="54">Os óbitos em crianças aconteceram</segment>
+    <segment id="55">, sobretudo</segment>
+    <segment id="56">, na primeira onda e na segunda onda.</segment>
+    <segment id="57">Depois houve a ômicron</segment>
+    <segment id="58">, que também houve óbitos.</segment>
+    <segment id="59">Cai os casos</segment>
+    <segment id="60">, cai os óbitos.</segment>
+    <segment id="61">'Ah, a cada dois dias morre uma criança.'</segment>
+    <segment id="62">Os óbitos foram concentrados nas ondas e nós estamos tomando as medidas"</segment>
+    <segment id="63">, disse.  "</segment>
+    <segment id="64">Vacinação de crianças de 5 a 11 anos.</segment>
+    <segment id="65">'Ah, o ministro atrasou as vacinas de 5 a 11 anos</segment>
+    <segment id="66">porque</segment>
+    <segment id="67">porque fez uma audiência pública.</segment>
+    <segment id="68">' Imagina</segment>
+    <segment id="69">sese tivesse feito uma audiência secreta.</segment>
+    <segment id="70">Porque foi pública para todo mundo ver.</segment>
+    <segment id="71">Foram lá e me denunciaram ao STF [Supremo Tribunal Federal].</segment>
+    <segment id="72">Sabe o que aconteceu com a denúncia?</segment>
+    <segment id="73">Arquivada.</segment>
+    <segment id="74">Porque é um embuste.</segment>
+    <segment id="75">"</segment>
+    <segment id="76">O governo Bolsonaro desestimulou os pais a vacinarem os filhos e chegou a fazer uma audiência pública sobre o tema mesmo após o aval da Anvisa (Agência Nacional de Vigilância Sanitária) ao uso da vacina da Pfizer nas crianças de 5 a 11 anos.</segment>
+    <segment id="77">Em dois anos</segment>
+    <segment id="78">, as mortes de crianças de até cinco anos por Covid-19 foram mais do que o triplo das causadas</segment>
+    <segment id="79">, em uma década</segment>
+    <segment id="80">, por outras 14 doenças que podem ter mortalidade evitada por vacinação e outras ações de saúde.</segment>
+    <segment id="81">O ministro também afirmou que o ministério usou a família do personagem Zé Gotinha nas campanhas de vacinação</segment>
+    <segment id="82">porque</segment>
+    <segment id="83">porque "o governo defende as famílias" e encerrou sua fala com mais uma referência à bíblia.</segment>
+    <segment id="84">"'</segment>
+    <segment id="85">Ah, o ministério não tem campanha [de vacinação]'.</segment>
+    <segment id="86">Só com campanha de vacinação para a Covid</segment>
+    <segment id="87">, foram gastos R$ 175 milhões.</segment>
+    <segment id="88">'Zé Gotinha está aposentado</segment>
+    <segment id="89">, esconderam o Zé gotinha'.</segment>
+    <segment id="90">Tem uma família de Zé Gotinha inteira.</segment>
+    <segment id="91">Vovô Gotinha</segment>
+    <segment id="92">, vovó</segment>
+    <segment id="93">, mamãe</segment>
+    <segment id="94">, papai.</segment>
+    <segment id="95">Até porque</segment>
+    <segment id="96">porque este governo defende as famílias.</segment>
+    <segment id="97">"</segment>
+  </rst>
+</analysis>

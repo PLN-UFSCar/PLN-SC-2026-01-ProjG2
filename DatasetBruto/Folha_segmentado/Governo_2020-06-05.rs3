@@ -1,0 +1,99 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo acatou nova indicação do Centrão e decidiu nomear nesta sexta-feira (5)</segment>
+    <segment id="2">Arnaldo Correia de Medeiros</segment>
+    <segment id="3">comocomo novo secretário de Vigilância da Saúde do Ministério da Saúde.</segment>
+    <segment id="4">Trata-</segment>
+    <segment id="5">sese da área responsável por monitorar dados e formular ações de controle de doenças</segment>
+    <segment id="6">, caso</segment>
+    <segment id="7">caso da estratégia contra o novo coronavírus.</segment>
+    <segment id="8">Desde que</segment>
+    <segment id="9">sese viu enfraquecido em meio à crise política que</segment>
+    <segment id="10">sese soma à pandemia</segment>
+    <segment id="11">, o presidente Jair Bolsonaro (sem partido) passou a</segment>
+    <segment id="12">sese aproximar do chamado Centrão</segment>
+    <segment id="13">, bloco formado por partidos</segment>
+    <segment id="14">comocomo PL</segment>
+    <segment id="15">, PSD, Solidariedade</segment>
+    <segment id="16">, PP e Republicanos.</segment>
+    <segment id="17">A nomeação de Medeiros foi publicada no Diário Oficial da União desta sexta.</segment>
+    <segment id="18">Formado em ciências farmacêuticas pela Universidade Federal da Paraíba</segment>
+    <segment id="19">, ele tem mestrado em bioquímica e imunologia pela Universidade Federal de Minas Gerais e doutorado em ciências biológicas pela Universidade de São Paulo.</segment>
+    <segment id="20">Também é professor associado da Universidade Federal da Paraíba.</segment>
+    <segment id="21">Medeiros assume no lugar do enfermeiro epidemiologista Wanderson de Oliveira</segment>
+    <segment id="22">, que entrou na gestão do ex-ministro Luiz Henrique Mandetta e ficou conhecido</segment>
+    <segment id="23">comocomo um dos formuladores da estratégia brasileira de monitoramento e controle da epidemia da Covid-19.</segment>
+    <segment id="24">Bolsonaro em manifestação a favor do governo em Brasília</segment>
+    <segment id="25">, em 31/05/2020Mais    novamente         de   de  de  representando um  Embora tenha anunciado sua saída em abril</segment>
+    <segment id="26">, Oliveira ficou no cargo por mais um mês</segment>
+    <segment id="27">, durante a transição para a gestão do ministro Nelson Teich</segment>
+    <segment id="28">, de quem recebeu convite para permanecer no governo.</segment>
+    <segment id="29">Desde a saída de Teich</segment>
+    <segment id="30">, há 20 dias</segment>
+    <segment id="31">, a pasta está sob o comando interino do general Eduardo Pazuello</segment>
+    <segment id="32">, que tem aumentado o número de militares da Saúde</segment>
+    <segment id="33">, seguindo um movimento adotado por Bolsonaro ao longo dos últimos meses.</segment>
+    <segment id="34">A indicação do novo secretário é atribuída por parlamentares e interlocutores do governo ao líder do PL na Câmara</segment>
+    <segment id="35">, deputado Wellington Roberto (PB)</segment>
+    <segment id="36">, ambos são paraibanos.</segment>
+    <segment id="37">A Folha não conseguiu contato com o parlamentar para comentar a indicação.</segment>
+    <segment id="38">Em conversas reservadas</segment>
+    <segment id="39">, parlamentares disseram à reportagem que as indicações do Centrão para cargos do governo estão acontecendo pouco a pouco e de forma desordenada.</segment>
+    <segment id="40">Além de Medeiros</segment>
+    <segment id="41">, outro nome indicado pelo Centrão já assumiu um cargo vinculado à Saúde.</segment>
+    <segment id="42">Trata-</segment>
+    <segment id="43">sese do coronel Giovanne Gomes da Silva</segment>
+    <segment id="44">, que deixou o comando da Polícia Militar de Minas Gerais para ocupar a presidência da Funasa</segment>
+    <segment id="45">, fundação vinculada ao Ministério da Saúde e que responde por ações de saneamento básico em cidades de pequeno porte e áreas rurais.</segment>
+    <segment id="46">Até o momento</segment>
+    <segment id="47">, ao menos 26 militares já foram nomeados</segment>
+    <segment id="48">, a maioria para cargos de direção</segment>
+    <segment id="49">, coordenação e assessoria técnica.</segment>
+    <segment id="50">O ministro</segment>
+    <segment id="51">, porém</segment>
+    <segment id="52">porém, tem dito que eles devem permanecer no cargo inicialmente por apenas 90 dias</segment>
+    <segment id="53">, os quais podem ser prorrogados.</segment>
+    <segment id="54">Nesta sexta</segment>
+    <segment id="55">, mais dois deles foram nomeados.</segment>
+    <segment id="56">Nivaldo Alves de Moura Filho deve assumir o cargo de diretor na secretaria-executiva.</segment>
+    <segment id="57">Já o coronel Roberto Bentes Batista</segment>
+    <segment id="58">, que é médico</segment>
+    <segment id="59">, deve assumir o cargo de diretor do departamento de engenharia de saúde pública da Fundação Nacional de Saúde.</segment>
+    <segment id="60">No mesmo dia em que nomeou mais dois militares</segment>
+    <segment id="61">, Pazuello também publicou a exoneração de dois servidores que assinaram uma nota técnica sobre acesso à saúde sexual e reprodutiva das mulheres durante a pandemia.</segment>
+    <segment id="62">O documento foi distorcido pelo presidente Jair Bolsonaro</segment>
+    <segment id="63">, que mandou procurar os autores e disse que a pasta não apoiava uma tentativa de legalização do aborto —o documento</segment>
+    <segment id="64">, porém</segment>
+    <segment id="65">porém, falava apenas na necessidade de manter serviços de assistência para os casos previstos em lei e que já ocorrem hoje.</segment>
+    <segment id="66">As exonerações de Danilo Campos da Luz</segment>
+    <segment id="67">, coordenador de Saúde do Homem</segment>
+    <segment id="68">, e Flávia Andrade Fialho</segment>
+    <segment id="69">, coordenadora de Saúde das Mulheres</segment>
+    <segment id="70">, ambos da Coordenação-geral de Ciclos da Vida da Secretaria de Atenção Primária à Saúde</segment>
+    <segment id="71">, foram publicadas no Diário Oficial.</segment>
+    <segment id="72">Em nota</segment>
+    <segment id="73">, o ministério disse apenas que as exonerações fazem parte de composição da nova equipe da pasta.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,68 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Argentina bate a Costa Rica e</segment>
+    <segment id="2">sese classifica na Copa América
+RIO - Acabou o sufoco dos 'hermanos'.</segment>
+    <segment id="3">Messi desencantou</segment>
+    <segment id="4">, Agüero brilhou e a Argentina derrotou a Costa Rica por 3 a 0 na noite desta segunda-feira</segment>
+    <segment id="5">, em Córdoba</segment>
+    <segment id="6">, garantindo o segundo lugar no Grupo A da Copa América</segment>
+    <segment id="7">, com cinco pontos.</segment>
+    <segment id="8">A Colômbia</segment>
+    <segment id="9">, com sete</segment>
+    <segment id="10">, acabou em primeiro.
+SELEÇÃO BRASILEIRA:</segment>
+    <segment id="11">Lúcio cobra seriedade
+TABELA:</segment>
+    <segment id="12">Os jogos da Copa América
+Nas quartas de final a Argentina vai enfrentar o segundo colocado do Grupo C</segment>
+    <segment id="13">, que pode ser Chile</segment>
+    <segment id="14">, Peru ou Uruguai</segment>
+    <segment id="15">, no sábado</segment>
+    <segment id="16">, às 19h15</segment>
+    <segment id="17">, em Santa Fé.</segment>
+    <segment id="18">Pressionada após empatar com Bolívia e Colômbia</segment>
+    <segment id="19">, a Argentina dominou o jogo todo.</segment>
+    <segment id="20">Com boa movimentação e passes açúcarados</segment>
+    <segment id="21">, Messi deixou seus companheiros inúmeras vezes em boas condições de marcar.</segment>
+    <segment id="22">Higuaín</segment>
+    <segment id="23">, porém</segment>
+    <segment id="24">porém, abusou do direito de perder gols.</segment>
+    <segment id="25">Apesar do domínio argentino</segment>
+    <segment id="26">, o primeiro tempo caminhava para um empate sem gols até que</segment>
+    <segment id="27">, aos 45 minutos</segment>
+    <segment id="28">, Gago acertou belo chute de fora da área.</segment>
+    <segment id="29">O goleiro Moreira deu rebote e Agüero completou para o gol vazio</segment>
+    <segment id="30">, abrindo o placar e aliviando os mais de 50 mil torcedores presentes em Córdoba.</segment>
+    <segment id="31">No segundo tempo</segment>
+    <segment id="32">, aos sete</segment>
+    <segment id="33">, Messi deu lindo passe para Agüero</segment>
+    <segment id="34">, que tocou com calma na saída do goleiro para fazer 2 a 0.</segment>
+    <segment id="35">Aos 18</segment>
+    <segment id="36">, novo passe milimétrico de Messi</segment>
+    <segment id="37">, desta vez para Di María</segment>
+    <segment id="38">, que encheu o pé para dar números finais ao jogo: 3 a 0.</segment>
+  </rst>
+</analysis>

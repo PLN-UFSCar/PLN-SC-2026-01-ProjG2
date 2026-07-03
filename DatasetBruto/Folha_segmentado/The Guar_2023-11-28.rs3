@@ -1,0 +1,63 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O jornal britânico The Guardian publicou neste mês a "The Long</segment>
+    <segment id="2">Read"</segment>
+    <segment id="3">, uma edição especial impressa</segment>
+    <segment id="4">, em formato de revista</segment>
+    <segment id="5">, com conteúdos de sua seção de grandes reportagens.</segment>
+    <segment id="6">A revista</segment>
+    <segment id="7">, de cem páginas</segment>
+    <segment id="8">, contém dez textos entre reportagens aprofundadas</segment>
+    <segment id="9">, ensaios e perfis.</segment>
+    <segment id="10">O conteúdo já havia sido publicado no site do jornal ao longo do último ano.</segment>
+    <segment id="11">O acesso às matérias originais</segment>
+    <segment id="12">, em inglês</segment>
+    <segment id="13">, é gratuito.</segment>
+    <segment id="14">Revista The Long Read</segment>
+    <segment id="15">, do jornal britânico The Guardian</segment>
+    <segment id="16">, que reúne grandes reportagens</segment>
+    <segment id="17">, ensaios e perfis - ReproduçãoA edição impressa está à venda no Reino Unido em lojas selecionadas e no site do jornal</segment>
+    <segment id="18">, pelo valor de 12</segment>
+    <segment id="19">,99 euros</segment>
+    <segment id="20">, o equivalente a cerca de R$ 70.</segment>
+    <segment id="21">Dentre os textos da revista</segment>
+    <segment id="22">, há uma reportagem da jornalista Melissa Denes que conta a história da criminologista Betsy Stanko.</segment>
+    <segment id="23">Ela atuou em um projeto na polícia britânica para investigar o motivo de casos de estupro terem poucas soluções e</segment>
+    <segment id="24">comocomo tentar mudar esse sistema.</segment>
+    <segment id="25">Outro destaque é um perfil do cientista da computação alemão Joseph Weizenbaum</segment>
+    <segment id="26">, feito pelo escritor Ben Tarnoff.</segment>
+    <segment id="27">Weizenbaum foi o criador da primeira versão do que viria a</segment>
+    <segment id="28">sese tonar um chatbot</segment>
+    <segment id="29">, ainda na década de 1960.</segment>
+    <segment id="30">O formato de revista não é uma novidade para o jornal.</segment>
+    <segment id="31">O Guardian já havia publicado uma versão impressa de sua seção "Long</segment>
+    <segment id="32">Read"</segment>
+    <segment id="33">em 2013.</segment>
+    <segment id="34">Atualmente</segment>
+    <segment id="35">, as produções de profundidade também são publicadas pelo Guardian em formato de áudio</segment>
+    <segment id="36">, por meio do podcast "The Audio Long Read"</segment>
+    <segment id="37">, disponível nas plataformas de streaming.</segment>
+  </rst>
+</analysis>

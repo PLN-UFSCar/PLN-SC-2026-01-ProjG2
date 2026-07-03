@@ -1,0 +1,48 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Rebeldes da Síria matam 5 soldados
+Cinco soldados do Exército regular da Síria foram mortos e 13 outros feridos</segment>
+    <segment id="2">Desertores mataram cinco soldados do Exército da Síria</segment>
+    <segment id="3">, em um confronto nesta segunda-feira na província de Homs</segment>
+    <segment id="4">, no centro do país</segment>
+    <segment id="5">, disseram ativistas.</segment>
+    <segment id="6">"</segment>
+    <segment id="7">Cinco soldados do Exército regular da Síria foram mortos e 13 outros feridos em um confronto com um grupo de desertores em um posto de controle na vila de Al-Ziraa"</segment>
+    <segment id="8">, afirmou o Observatório Sírio pelos Direitos Humanos.</segment>
+    <segment id="9">A ONG sediada no Reino Unido</segment>
+    <segment id="10">, em comunicado recebido na Nicósia</segment>
+    <segment id="11">, também afirmou que as forças de segurança haviam matado a tiros oito civis no domingo</segment>
+    <segment id="12">, cinco na região de Damasco</segment>
+    <segment id="13">, dois em Idlib</segment>
+    <segment id="14">, no noroeste sírio</segment>
+    <segment id="15">, e um em Homs.</segment>
+    <segment id="16">O governo sírio rechaçou nesta segunda-feira o plano da Liga Árabe</segment>
+    <segment id="17">para que</segment>
+    <segment id="18">para que o presidente Bashar Assad transfira o poder para seu vice</segment>
+    <segment id="19">, após 10 meses de protestos contra o regime que custaram milhares de vidas</segment>
+    <segment id="20">, por causa da repressão das forças de segurança.</segment>
+    <segment id="21">As informações são da Dow Jones.</segment>
+  </rst>
+</analysis>

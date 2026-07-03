@@ -1,0 +1,121 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Pesquisador diz que médicos receitam sibutramina</segment>
+    <segment id="2">porque</segment>
+    <segment id="3">porque temem perder clientes
+RIO - Francisco Paumgartten</segment>
+    <segment id="4">, da Câmara Técnica de Medicamentos da Anvisa e da Escola Nacional de Saúde Pública Sérgio Arouca</segment>
+    <segment id="5">, está preocupado com a possibilidade de o órgão liberar a sibutramina</segment>
+    <segment id="6">, contrariando o parecer dos técnicos.</segment>
+    <segment id="7">Ele diz que</segment>
+    <segment id="8">, do ponto de vista científico</segment>
+    <segment id="9">, não se</segment>
+    <segment id="10">se justifica e lembra que a droga foi retirada em vários países</segment>
+    <segment id="11">porque</segment>
+    <segment id="12">porque traz mais danos do que benefícios.</segment>
+    <segment id="13">Houve aumento de 16% de risco de problemas cardiovasculares em usuários de sibutramina.</segment>
+    <segment id="14">A liberação de inibidores de apetite é medida correta?</segment>
+    <segment id="15">FRANCISCO PAUMGARTTEN:</segment>
+    <segment id="16">Os inibidores do apetite têm uma história trágica quanto à sua segurança.</segment>
+    <segment id="17">Os anfetamínicos</segment>
+    <segment id="18">, por exemplo</segment>
+    <segment id="19">, podem causar dependência e surtos psicóticos.</segment>
+    <segment id="20">O estudo de longa duração Scout (sigla de Sibutramine Cardiovascular Outcomes Trial)</segment>
+    <segment id="21">, envolvendo 10.744 obesos de 16 países com doença cardiovascular</segment>
+    <segment id="22">, diabetes</segment>
+    <segment id="23">, ou ambas</segment>
+    <segment id="24">, mostrou que a sibutramina aumentou o risco de infarto e acidente vascular encefálico nesses pacientes.</segment>
+    <segment id="25">Apesar de os defensores da sibutramina afirmarem que o Scout apontou elevação de risco de problema cardiovascular numa população já vulnerável</segment>
+    <segment id="26">, inexistem estudos clínicos comparáveis ao Scout</segment>
+    <segment id="27">, em rigor metodológico e poder estatístico</segment>
+    <segment id="28">, que sustentem a afirmação de que a droga seria benéfica em obesos sem doença cardiovascular.</segment>
+    <segment id="29">O estudo revelou a ineficácia da sibutramina em prevenir ou atenuar as doenças relacionadas à obesidade.</segment>
+    <segment id="30">Por isso</segment>
+    <segment id="31">, foi proibida na Europa</segment>
+    <segment id="32">, nos Estados Unidos e em outros países.</segment>
+    <segment id="33">Os outros inibidores (femproporex</segment>
+    <segment id="34">, anfepramona e mazindol) são mais perigosos e não são vendidos na maioria dos países.</segment>
+    <segment id="35">O maior risco é a preparação dessas fórmulas em farmácias de manipulação.</segment>
+    <segment id="36">Médicos dizem que inibidores facilitam a adesão ao tratamento com dieta e exercícios.</segment>
+    <segment id="37">PAUMGARTTEN:</segment>
+    <segment id="38">Hoje, a única droga segura para emagrecer</segment>
+    <segment id="39">, mesmo assim</segment>
+    <segment id="40">comocomo adjuvante de um programa de dieta e exercícios</segment>
+    <segment id="41">, é o orlistat</segment>
+    <segment id="42">, que reduz a absorção de gordura consumida</segment>
+    <segment id="43">; e, mesmo assim</segment>
+    <segment id="44">, causa desconforto intestinal</segment>
+    <segment id="45">, gases e diarreia.</segment>
+    <segment id="46">A sibutramina promove a discreta perda peso</segment>
+    <segment id="47">, mais acentuada no início.</segment>
+    <segment id="48">Causa,</segment>
+    <segment id="49">porémporém</segment>
+    <segment id="50">, pequeno aumento da pressão arterial.</segment>
+    <segment id="51">Assim, o benefício que</segment>
+    <segment id="52">sese esperaria alcançar com a modesta perda de peso é anulado ou revertido pelo efeito no coração e na pressão.</segment>
+    <segment id="53">O indivíduo recupera totalmente o peso perdido quando interrompe o tratamento com a sibutramina.</segment>
+    <segment id="54">Reeducação alimentar e prática exercícios com orientação e apoio psicológico</segment>
+    <segment id="55">, sese necessário</segment>
+    <segment id="56">, são as melhores alternativas.</segment>
+    <segment id="57">A proposta da Anvisa é que o médico e o paciente assinem um termo de responsabilidade ao usar sibutramina.</segment>
+    <segment id="58">PAUMGARTTEN:</segment>
+    <segment id="59">O termo assinado pelo paciente e pelo médico é inaceitável eticamente</segment>
+    <segment id="60">porque</segment>
+    <segment id="61">porque transfere ao paciente a responsabilidade pelas consequências da prescrição.</segment>
+    <segment id="62">Ele protege o médico - que tem mais informações -</segment>
+    <segment id="63">, e não o paciente</segment>
+    <segment id="64">, que confia e consome.</segment>
+    <segment id="65">O paralelo feito com o termo exigido para uso de talidomida (sedativo que foi usado contra enjoos em grávidas) e isotretinoína (contra acne) não é correto</segment>
+    <segment id="66">, porque</segment>
+    <segment id="67">porque esses dois medicamentos podem causar má formação do feto</segment>
+    <segment id="68">, e nesses ambos são responsáveis</segment>
+    <segment id="69">, médico e paciente.</segment>
+    <segment id="70">Endocrinologistas são contra a proibição da sibutramina e eles têm o apoio do Conselho Federal de Medicina (CFM)</segment>
+    <segment id="71">, em Brasília.
+
+PAUMGARTTEN:</segment>
+    <segment id="72">Há um conflito de interesse por parte dos endocrinologistas que receitam a sibutramina e uma posição equivocada da direção do CFM.</segment>
+    <segment id="73">No caso</segment>
+    <segment id="74">caso de médicos que prescrevem a sibutramina</segment>
+    <segment id="75">, há o temor de que os pacientes desapareçam</segment>
+    <segment id="76">, sese eles não dispuserem de inibidores de apetite</segment>
+    <segment id="77">, ainda que sejam ineficazes e perigosos.</segment>
+    <segment id="78">O CFM se</segment>
+    <segment id="79">se posicionou sem ouvir os demais segmentos da classe médica</segment>
+    <segment id="80">, entre os quais os profissionais de saúde pública</segment>
+    <segment id="81">, e sem discutir a questão à luz daquilo que deveria defender</segment>
+    <segment id="82">, a medicina baseada em evidências.</segment>
+    <segment id="83">Médicos dizem que sem os inibidores não terão opções?</segment>
+    <segment id="84">PAUMGARTTEN: Drogas</segment>
+    <segment id="85">comocomo a sibutramina</segment>
+    <segment id="86">, cuja eficácia e segurança são questionáveis</segment>
+    <segment id="87">, não são opções válidas.</segment>
+    <segment id="88">O próprio laboratório que fabricava o Reductil (à base da substância) retirou-o das drogarias.</segment>
+    <segment id="89">As farmácias de manipulação respondem por mais da metade da sibutramina vendida no nosso país.</segment>
+    <segment id="90">Em 2009</segment>
+    <segment id="91">, antes de a droga ser retirada nos EUA e na Europa</segment>
+    <segment id="92">, o Brasil era responsável por metade de seu consumo.</segment>
+  </rst>
+</analysis>

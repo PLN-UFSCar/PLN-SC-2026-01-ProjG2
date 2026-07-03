@@ -1,0 +1,134 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A declaração do presidente Luiz Inácio Lula da Silva (PT) de que a meta fiscal de 2024 não precisa ser de déficit zero é vista</segment>
+    <segment id="2">comocomo um comando</segment>
+    <segment id="3">para que</segment>
+    <segment id="4">para que a mudança seja sacramentada no Congresso Nacional</segment>
+    <segment id="5">, diz o deputado Danilo Forte (União Brasil-CE)</segment>
+    <segment id="6">, relator do projeto de diretrizes orçamentárias para o ano que vem.</segment>
+    <segment id="7">Ele afirma à Folha que a fala do chefe do Executivo coloca o ministro Fernando Haddad (Fazenda) "num certo constrangimento" à medida que a autoridade máxima do país admite que a meta não é factível.</segment>
+    <segment id="8">Por outro lado</segment>
+    <segment id="9">, significa também uma oportunidade que coloca o Orçamento do ano que vem em bases mais reais e factíveis.</segment>
+    <segment id="10">O deputado federal Danilo Forte</segment>
+    <segment id="11">, relator do PLDO (Projeto de Lei de Diretrizes Orçamentárias) durante entrevista à Folha em seu gabinete.</segment>
+    <segment id="12">- Pedro Ladeira - 08.ago.2023 / Folhapress"Eu acho que a gente tem aí um choque de realidade.</segment>
+    <segment id="13">Mas às vezes é melhor do que permanecer em ambiente de insegurança</segment>
+    <segment id="14">, que pode inclusive trazer falta de credibilidade"</segment>
+    <segment id="15">, afirma o deputado.</segment>
+    <segment id="16">"</segment>
+    <segment id="17">Agora é refazer a conta com o que a gente já tem e fechar a proposta orçamentária.</segment>
+    <segment id="18">É prudente que o governo faça a reavaliação.</segment>
+    <segment id="19">"</segment>
+    <segment id="20">Para o relator</segment>
+    <segment id="21">, a declaração de Lula não só abre a porteira para a discussão da revisão da meta</segment>
+    <segment id="22">, masmas serve de comando</segment>
+    <segment id="23">para que</segment>
+    <segment id="24">para que ela ocorra.</segment>
+    <segment id="25">"</segment>
+    <segment id="26">Agora, determinou [a mudança da meta].</segment>
+    <segment id="27">Apesar de todo o esforço do ministro</segment>
+    <segment id="28">, o próprio presidente jogou a toalha e admitiu que não é factível.</segment>
+    <segment id="29">Então, vamos para o que é factível"</segment>
+    <segment id="30">, diz.</segment>
+    <segment id="31">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="32">; aberta para não assinantes.</segment>
+    <segment id="33">Carregando...</segment>
+    <segment id="34">Para ele</segment>
+    <segment id="35">, é preciso esperar a posição oficial do governo</segment>
+    <segment id="36">, masmas ele lembra que agentes do mercado têm falado em um déficit "em torno de 0</segment>
+    <segment id="37">,75%" do PIB (Produto Interno Bruto) no ano que vem.</segment>
+    <segment id="38">Forte já havia defendido a mudança da meta fiscal em entrevista à Folha no início de agosto.</segment>
+    <segment id="39">Na época</segment>
+    <segment id="40">, as declarações incomodaram a equipe de Haddad</segment>
+    <segment id="41">, que pregava a manutenção de um objetivo mais ambicioso para obter apoio do Congresso à aprovação de medidas que ampliam a arrecadação.</segment>
+    <segment id="42">Apesar disso</segment>
+    <segment id="43">, como</segment>
+    <segment id="44">como mostrou a reportagem</segment>
+    <segment id="45">, a meta de Haddad enfrenta ceticismo dentro do próprio governo.</segment>
+    <segment id="46">Segundo relatos</segment>
+    <segment id="47">, a própria ministra Simone Tebet (Planejamento e Orçamento) chegou a defender um alvo mais flexível</segment>
+    <segment id="48">, com um déficit de 0</segment>
+    <segment id="49">,5% do PIB (Produto Interno Bruto).</segment>
+    <segment id="50">Na época</segment>
+    <segment id="51">, Tebet argumentou que havia obstáculos consideráveis para garantir a aprovação de tantas medidas para ampliar a arrecadação.</segment>
+    <segment id="52">O governo enviou a proposta de Orçamento de 2024 contando com R$ 168</segment>
+    <segment id="53">,5 bilhões em receitas extras para fechar as contas e cumprir a meta de déficit zero.</segment>
+    <segment id="54">O próprio mercado não demonstra acreditar no cumprimento da meta de Haddad e projeta um déficit de 0</segment>
+    <segment id="55">,75% do PIB</segment>
+    <segment id="56">, segundo o mais recente Boletim Focus</segment>
+    <segment id="57">, do Banco Central.</segment>
+    <segment id="58">Haddad</segment>
+    <segment id="59">, porém</segment>
+    <segment id="60">porém, vem insistindo na manutenção da meta zero para 2024.</segment>
+    <segment id="61">Para isso</segment>
+    <segment id="62">, tem como</segment>
+    <segment id="63">como aliado o presidente do Banco Central</segment>
+    <segment id="64">, Roberto Campos Neto</segment>
+    <segment id="65">, para quem é importante o governo persistir no objetivo para demonstrar compromisso com o reequilíbrio fiscal —algo que poderia influenciar inclusive nas decisões de juros da instituição.</segment>
+    <segment id="66">Por outro lado</segment>
+    <segment id="67">, o próprio governo havia pedido</segment>
+    <segment id="68">para que</segment>
+    <segment id="69">para que a CMO (Comissão Mista de Orçamento)</segment>
+    <segment id="70">, no Congresso</segment>
+    <segment id="71">, deixasse para novembro a votação do projeto de LDO (Lei de Diretrizes Orçamentárias) de 2024</segment>
+    <segment id="72">, diante de incertezas no cenário fiscal do próximo ano.</segment>
+    <segment id="73">O prazo legal era votá-la em julho.</segment>
+    <segment id="74">A previsão atual é votar o projeto na semana de 20 de novembro na CMO (Comissão Mista de Orçamento).</segment>
+    <segment id="75">Isso daria à equipe econômica</segment>
+    <segment id="76">, segundo Forte</segment>
+    <segment id="77">, menos de um mês para recalibrar os números.</segment>
+    <segment id="78">Orçamento: o que é o PLDO?Mais    novamente         de   de  de  representando um  Em café com jornalistas nesta sexta-feira (27)</segment>
+    <segment id="79">, Lula disse que a meta fiscal não precisa ser zero e que esse resultado dificilmente será atingido</segment>
+    <segment id="80">, pois</segment>
+    <segment id="81">pois ele não quer realizar cortes em investimentos e obras no ano que vem.</segment>
+    <segment id="82">Para o presidente</segment>
+    <segment id="83">, um déficit correspondente a 0</segment>
+    <segment id="84">,5% do PIB (Produto Interno Bruto) não seria um problema.</segment>
+    <segment id="85">Sob o objetivo de déficit zero</segment>
+    <segment id="86">, economistas avaliam que Haddad precisará impor</segment>
+    <segment id="87">, já no começo do ano que vem</segment>
+    <segment id="88">, um freio bilionário nos gastos para evitar o estouro da meta no primeiro ano de vigência do novo arcabouço fiscal.</segment>
+    <segment id="89">A nova regra fiscal exige que o gestor adote providências para evitar o descumprimento do alvo e prevê que a trava pode chegar a 25% das despesas discricionárias</segment>
+    <segment id="90">, parte não obrigatória dos gastos que inclui custeio e investimentos.</segment>
+    <segment id="91">Isso significa que o contingenciamento poderia chegar a R$ 53 bilhões.</segment>
+    <segment id="92">Como as incertezas já superam esse valor</segment>
+    <segment id="93">, a avaliação preliminar dos especialistas é de que há risco elevado de o governo começar 2024 sob uma trava significativa —algo que Lula disse não querer.</segment>
+    <segment id="94">"</segment>
+    <segment id="95">Deixa eu dizer para vocês uma coisa.</segment>
+    <segment id="96">Tudo o que a gente puder fazer para cumprir a meta fiscal</segment>
+    <segment id="97">, a gente vai cumprir.</segment>
+    <segment id="98">O que eu posso te dizer é que ela não precisa ser zero.</segment>
+    <segment id="99">A gente não precisa disso.</segment>
+    <segment id="100">Eu não vou estabelecer uma meta fiscal que me obrigue a começar o ano fazendo corte de bilhões nas obras que são prioritárias nesse país"</segment>
+    <segment id="101">, afirmou o presidente</segment>
+    <segment id="102">, em resposta a questionamento da Folha.</segment>
+    <segment id="103">O próprio Tesouro Nacional já fez alertas para a necessidade de contingenciamento em 2024 para cumprir a meta fiscal.</segment>
+    <segment id="104">Mesmo com um esforço adicional pelo lado das receitas</segment>
+    <segment id="105">, o governo ainda teria de segurar R$ 56</segment>
+    <segment id="106">,5 bilhões em despesas</segment>
+    <segment id="107">, segundo estimativas dos técnicos divulgadas no Relatório de Projeções Fiscais</segment>
+    <segment id="108">, em julho.</segment>
+  </rst>
+</analysis>

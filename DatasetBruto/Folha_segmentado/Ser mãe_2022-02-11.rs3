@@ -1,0 +1,108 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O texto abaixo celebra o Dia Internacional das Mulheres e Meninas na Ciência</segment>
+    <segment id="2">, comemorado hoje</segment>
+    <segment id="3">, 11 de fevereiro.  *</segment>
+    <segment id="4">São apenas sete horas da manhã e</segment>
+    <segment id="5">, em vez de tomar um café da manhã sossegada</segment>
+    <segment id="6">, ligo o computador com uma xícara de café ao lado para poder adiantar o trabalho.</segment>
+    <segment id="7">Depois de pensar alguns minutos e escrever as primeiras duas frases de um texto</segment>
+    <segment id="8">, uma filha acorda com fome.</segment>
+    <segment id="9">Paro tudo</segment>
+    <segment id="10">, vou à cozinha</segment>
+    <segment id="11">, preparo seu desjejum</segment>
+    <segment id="12">, conversamos um pouco e volto ao trabalho.</segment>
+    <segment id="13">Dez minutos depois a segunda filha acorda</segment>
+    <segment id="14">, e todo o ciclo recomeça.</segment>
+    <segment id="15">A partir daí</segment>
+    <segment id="16">, as interrupções para atender às demandas intensas de duas crianças pequenas não param.</segment>
+    <segment id="17">É difícil até mesmo produzir um texto sobre as dificuldades de ser cientista trabalhando em casa enquanto cuida dos filhos.</segment>
+    <segment id="18">Ilustração: Lívia Serri Francoio - Instituto SerrapilheiraPenso que a essa hora meus colegas e minhas colegas sem filhos já fizeram reuniões</segment>
+    <segment id="19">, escreveram artigos e iniciaram muitas outras atividades</segment>
+    <segment id="20">, enquanto eu ainda tento concluir o primeiro parágrafo de um texto.</segment>
+    <segment id="21">"</segment>
+    <segment id="22">São escolhas"</segment>
+    <segment id="23">, muitos dirão.</segment>
+    <segment id="24">Em alguns casos talvez sejam</segment>
+    <segment id="25">, masmas nem sempre.</segment>
+    <segment id="26">Em nosso país</segment>
+    <segment id="27">, metade das gestações não são planejadas.</segment>
+    <segment id="28">Não bastasse</segment>
+    <segment id="29">, mulheres trabalham cerca de dez horas por semana a mais que os homens em tarefas domésticas e cuidados com filhos e familiares.</segment>
+    <segment id="30">O movimento Parent in Science</segment>
+    <segment id="31">, do qual eu faço parte</segment>
+    <segment id="32">, pesquisa e discute os impactos da parentalidade na carreira científica.</segment>
+    <segment id="33">Segundo dados do grupo</segment>
+    <segment id="34">, mais da metade das cientistas mulheres no Brasil são as únicas ou principais cuidadoras dos filhos</segment>
+    <segment id="35">, e antes da pandemia 45% delas afirmavam não conseguir trabalhar em casa.</segment>
+    <segment id="36">Desde o advento do isolamento social e do trabalho remoto</segment>
+    <segment id="37">, este cenário</segment>
+    <segment id="38">sese intensificou:</segment>
+    <segment id="39">apenas 47% das cientistas mulheres com filhos estavam conseguindo submeter os artigos científicos que haviam planejado antes do início da pandemia</segment>
+    <segment id="40">, contra 76% dos cientistas homens sem filhos.</segment>
+    <segment id="41">Mesmo considerando somente cientistas com filhos</segment>
+    <segment id="42">, homens e mulheres</segment>
+    <segment id="43">, a sobrecarga feminina ficou evidente:</segment>
+    <segment id="44">28% das mães de filhos com idade entre um e seis anos estavam conseguindo submeter seus artigos</segment>
+    <segment id="45">, contra 52% dos cientistas pais de filhos da mesma faixa etária.</segment>
+    <segment id="46">Na vida acadêmica</segment>
+    <segment id="47">, homens e mulheres</segment>
+    <segment id="48">, brancos e negros</segment>
+    <segment id="49">, com ou sem filhos</segment>
+    <segment id="50">, podem até competir em posição de igualdade (seguindo os mesmos critérios de seleção)</segment>
+    <segment id="51">, masmas não de equidade.</segment>
+    <segment id="52">A licença-maternidade</segment>
+    <segment id="53">, por exemplo</segment>
+    <segment id="54">, que é tão necessária e foi conquistada a duras penas na comunidade acadêmica</segment>
+    <segment id="55">, pode acabar prejudicando as mulheres.</segment>
+    <segment id="56">Este tempo de pausa para cuidar dos filhos não é levado em consideração na hora de avaliar a performance dos cientistas: ao submeter um projeto solicitando verbas para pesquisa</segment>
+    <segment id="57">, ou ao prestar um concurso</segment>
+    <segment id="58">, todos serão avaliados de acordo com a publicação de artigos científicos nos últimos anos.</segment>
+    <segment id="59">Consequentemente</segment>
+    <segment id="60">, a mulher que interrompeu a carreira após a maternidade será penalizada nesta avaliação.</segment>
+    <segment id="61">Essa é uma das razões da diferença do número de mulheres nos postos mais altos da trajetória acadêmica.</segment>
+    <segment id="62">Maternidade na CiênciaMais    novamente         de   de  de  representando um  Mulheres representam a maioria dos bolsistas de iniciação científica</segment>
+    <segment id="63">, ainda na graduação</segment>
+    <segment id="64">, no Brasil.</segment>
+    <segment id="65">No entanto</segment>
+    <segment id="66">, somam apenas cerca de 25% dos bolsistas de produtividade em pesquisa do nível mais alto da carreira brasileira.</segment>
+    <segment id="67">Dos laureados com o Nobel em todo o mundo</segment>
+    <segment id="68">, apenas 6% são mulheres.</segment>
+    <segment id="69">Além disso</segment>
+    <segment id="70">, mulheres pretas e pardas com doutorado representam menos de 3% dos cientistas docentes de Pós-Graduação em nosso país.</segment>
+    <segment id="71">E quem lembra o nome de uma ministra da Ciência e Tecnologia?</segment>
+    <segment id="72">Pois é</segment>
+    <segment id="73">, não tivemos nenhuma.</segment>
+    <segment id="74">Esta sub-representação das mulheres ao longo do percurso acadêmico traz muitos entraves ao desenvolvimento científico e tecnológico do país</segment>
+    <segment id="75">, já que uma ciência com mais diversidade é também uma ciência mais justa e eficiente.</segment>
+    <segment id="76">Considerar o período de licença-maternidade ao avaliar a produtividade das cientistas é apenas uma das medidas necessárias no caminho para a equidade.</segment>
+    <segment id="77">Enquanto não conseguimos ultrapassar os muros da academia e promover mudanças culturais e sociais</segment>
+    <segment id="78">, como</segment>
+    <segment id="79">como a participação igualitária de homens e mulheres nos cuidados com os filhos</segment>
+    <segment id="80">, o sistema que promove a ascensão de cientistas ao longo da carreira precisa mudar.  *  Rossana Soletti é professora da Universidade Federal do Rio Grande do Sul e membro do movimento Parent in Science.</segment>
+    <segment id="81">Inscreva-</segment>
+    <segment id="82">sese na newsletter do Serrapilheira para acompanhar mais novidades do instituto e do blog Ciência Fundamental.</segment>
+  </rst>
+</analysis>

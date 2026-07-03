@@ -1,0 +1,137 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Em um país onde milhares de famílias são formadas por mães solteiras</segment>
+    <segment id="2">, separadas ou viúvas e seus filhos</segment>
+    <segment id="3">, o Dia dos Pais sempre teve menos brilho para o varejo do que o Dia das Mães e o Natal</segment>
+    <segment id="4">, por exemplo.</segment>
+    <segment id="5">Neste ano</segment>
+    <segment id="6">, porém</segment>
+    <segment id="7">porém, a expectativa é diferente</segment>
+    <segment id="8">, devido principalmente à injeção de recursos esperada na economia com o Auxílio Brasil de R$ 600</segment>
+    <segment id="9">, que começa a ser pago nesta terça-feira (9/8).</segment>
+    <segment id="10">Segundo o Ministério da Cidadania</segment>
+    <segment id="11">, 20,2 milhões de famílias devem receber o benefício</segment>
+    <segment id="12">, com a inclusão de 2</segment>
+    <segment id="13">,2 milhões de famílias na passagem de julho para agosto.</segment>
+    <segment id="14">Somente em agosto</segment>
+    <segment id="15">, os desembolsos com o Auxílio devem somar R$ R$ 12</segment>
+    <segment id="16">,1 bilhões</segment>
+    <segment id="17">, conforme a pasta.</segment>
+    <segment id="18">Loja em shopping Center Norte</segment>
+    <segment id="19">, em São Paulo - Keiny Andrade - 13.set.17/Folhapress  Nesse cenário</segment>
+    <segment id="20">, a CNC (Confederação Nacional do Comércio de Bens</segment>
+    <segment id="21">, Serviços e Turismo) calcula que o Dia dos Pais deve movimentar R$ 7</segment>
+    <segment id="22">,28 bilhões em vendas no varejo</segment>
+    <segment id="23">, crescimento de 5</segment>
+    <segment id="24">,3% em relação a 2021.</segment>
+    <segment id="25">O aumento deve superar o das vendas de Dia das Mães (3</segment>
+    <segment id="26">,9%) e da Páscoa (2</segment>
+    <segment id="27">,2%) —o desempenho do Dia dos Namorados será conhecido apenas na quarta-feira (10/8)</segment>
+    <segment id="28">, quando o IBGE (Instituto Brasileiro de Geografia e Estatística) divulga a Pesquisa Mensal do Comércio referente a junho.</segment>
+    <segment id="29">"</segment>
+    <segment id="30">Deve ser a melhor data (em crescimento de vendas) do varejo em 2022"</segment>
+    <segment id="31">, prevê Fabio Bentes</segment>
+    <segment id="32">, economista da CNC.</segment>
+    <segment id="33">Segundo ele</segment>
+    <segment id="34">, as melhores datas do varejo em geral são</segment>
+    <segment id="35">, pela ordem: Natal</segment>
+    <segment id="36">, Dia das Mães</segment>
+    <segment id="37">, Dia das Crianças</segment>
+    <segment id="38">, Dia dos Pais</segment>
+    <segment id="39">, Black Friday</segment>
+    <segment id="40">, Páscoa e Dia dos Namorados.</segment>
+    <segment id="41">"Enfileirou-</segment>
+    <segment id="42">sese uma série de estímulos ao consumo: teve liberação de FGTS</segment>
+    <segment id="43">, antecipação de INSS e agora o Auxílio Brasil turbinado.</segment>
+    <segment id="44">Isso vai jogar a favor das vendas</segment>
+    <segment id="45">, junto com outro fator</segment>
+    <segment id="46">, que é a redução da inflação</segment>
+    <segment id="47">, por conta da desoneração dos combustíveis"</segment>
+    <segment id="48">, diz Bentes.</segment>
+    <segment id="49">"</segment>
+    <segment id="50">Ninguém dá galão de gasolina para o pai</segment>
+    <segment id="51">, masmas</segment>
+    <segment id="52">sese um dos principais itens da inflação</segment>
+    <segment id="53">, que é a gasolina</segment>
+    <segment id="54">, está bem mais barata a partir de julho</segment>
+    <segment id="55">, isso desafixa o orçamento das famílias.</segment>
+    <segment id="56">É um fator adicional que não estava previsto há dois ou três meses"</segment>
+    <segment id="57">, acrescenta.</segment>
+    <segment id="58">No varejo em geral</segment>
+    <segment id="59">, para além do Dia dos Pais</segment>
+    <segment id="60">, a CNC estima que o Auxílio Brasil e outros benefícios</segment>
+    <segment id="61">comocomo o Vale-Gás e os auxílios para caminhoneiros e taxistas vão injetar R$ 16</segment>
+    <segment id="62">,3 bilhões nas vendas até o fim de 2022 —isso</segment>
+    <segment id="63">porque</segment>
+    <segment id="64">porque parte dos R$ 34 bilhões totais previstos em benefícios devem ir para o setor de serviços e pagamento de dívidas</segment>
+    <segment id="65">, por exemplo.</segment>
+    <segment id="66">No varejo</segment>
+    <segment id="67">, os setores de hiper e supermercados (R$ 5</segment>
+    <segment id="68">,53 bilhões)</segment>
+    <segment id="69">, combustíveis e lubrificantes (R$ 3</segment>
+    <segment id="70">,03 bilhões) e tecido</segment>
+    <segment id="71">, vestuário e calçados (R$ 2</segment>
+    <segment id="72">,32 bilhões) devem ser os principais beneficiários.  '</segment>
+    <segment id="73">O outro lado da moeda'</segment>
+    <segment id="74">Bentes alerta</segment>
+    <segment id="75">, porém</segment>
+    <segment id="76">porém, que o ganho que o varejo vai ter no curto prazo pode ser anulado no médio prazo</segment>
+    <segment id="77">, caso</segment>
+    <segment id="78">caso os juros</segment>
+    <segment id="79">sese mantenham no elevadíssimo patamar atual (13</segment>
+    <segment id="80">,75%) por mais tempo</segment>
+    <segment id="81">, para conter a pressão inflacionária decorrente dessa injeção de recursos.  "</segment>
+    <segment id="82">Em um cenário de expansão fiscal</segment>
+    <segment id="83">comocomo estamos assistindo</segment>
+    <segment id="84">, aumenta a chance de os juros ficarem rodando no teto por mais tempo.</segment>
+    <segment id="85">Se a taxa ficar em 13</segment>
+    <segment id="86">,75% por nove a dez meses</segment>
+    <segment id="87">, os benefícios poderão ser anulados no médio prazo"</segment>
+    <segment id="88">, diz Bentes</segment>
+    <segment id="89">, explicando que os juros elevados encarecem a oferta de crédito e desaceleram o desempenho da economia.</segment>
+    <segment id="90">Auxílio Brasil no paísMais    novamente         de   de  de  representando um</segment>
+    <segment id="91">A "bomba de estímulos" também deve manter a inflação pressionada por mais tempo.</segment>
+    <segment id="92">"Vamos ter que conviver com a inflação elevada.</segment>
+    <segment id="93">Temos um alívio em julho (por conta da queda dos combustíveis)</segment>
+    <segment id="94">, masmas muito provavelmente essa tendência não</segment>
+    <segment id="95">sese mantém a partir de agosto"</segment>
+    <segment id="96">, diz o economista.</segment>
+    <segment id="97">Nas cestas de produtos mais consumidos no Dia dos Pais</segment>
+    <segment id="98">, por exemplo</segment>
+    <segment id="99">, a alta de preços deverá ser de 8</segment>
+    <segment id="100">,6% este ano</segment>
+    <segment id="101">, em relação a 2021</segment>
+    <segment id="102">, com roupas (21</segment>
+    <segment id="103">,9%), sapatos (18</segment>
+    <segment id="104">,2) e bebidas alcoólicas (17%) entre os itens com altas de preços mais expressivas</segment>
+    <segment id="105">, segundo a CNC.</segment>
+    <segment id="106">Com a inflação</segment>
+    <segment id="107">, a Black Friday deve sair novamente prejudicada neste ano.</segment>
+    <segment id="108">Isso porque</segment>
+    <segment id="109">porque o grande atrativo da data são os descontos</segment>
+    <segment id="110">, masmas a inflação de custos tende a dificultar a redução de preços pelo varejo.</segment>
+    <segment id="111">Este texto foi originalmente publicado aqui.</segment>
+  </rst>
+</analysis>

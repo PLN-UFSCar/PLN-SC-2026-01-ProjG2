@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Arrocheira</segment>
+    <segment id="2">Priscila curte dançar estilo universitário</segment>
+    <segment id="3">A professora de Educação Física Priscila Gomes</segment>
+    <segment id="4">, 32 anos</segment>
+    <segment id="5">, é também dançarina e coreógrafa da banda de arrocha universitário X10.</segment>
+    <segment id="6">No grupo</segment>
+    <segment id="7">, ela  é apelidada de “Sargentinha” pelas outras dançarinas.</segment>
+    <segment id="8">”</segment>
+    <segment id="9">Elas me deram esse apelido pelo fato de eu não gostar de bagunça”</segment>
+    <segment id="10">, conta.</segment>
+    <segment id="11">A dança entrou na vida de Priscila aos 18 anos</segment>
+    <segment id="12">, quando ela praticava  capoeira.</segment>
+    <segment id="13">O sonho de dançar fora do país não faz parte dos desejos da moça.</segment>
+    <segment id="14">“Nunca quis ir para fora do Brasil.</segment>
+    <segment id="15">Quero ficar  perto da minha família”</segment>
+    <segment id="16">, conta.</segment>
+  </rst>
+</analysis>

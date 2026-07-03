@@ -1,0 +1,52 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Pesquisa feita pela Genial/Quaest aponta que 43% da população consideram a resposta da Polícia Militar na Operação Escudo</segment>
+    <segment id="2">, no litoral paulista</segment>
+    <segment id="3">, excessiva.</segment>
+    <segment id="4">Os confrontos resultaram em 18 mortes desde o final de julho.</segment>
+    <segment id="5">Outros 35% classificaram a atuação</segment>
+    <segment id="6">comocomo adequada</segment>
+    <segment id="7">, enquanto 5% dizem que a resposta dos policiais não foi nem uma coisa</segment>
+    <segment id="8">, nem outra.</segment>
+    <segment id="9">Outros 18% não souberam responder.</segment>
+    <segment id="10">Policiais transitam pela Vila Baiana no Guarujá - Danilo Verpa - 31.jul.2023/FolhapressA pesquisa entrevistou 2.029 pessoas no Brasil</segment>
+    <segment id="11">, entre os dias 10 e 14 de agosto</segment>
+    <segment id="12">, e a margem de erro é de 2</segment>
+    <segment id="13">,2%.</segment>
+    <segment id="14">Entre os homens</segment>
+    <segment id="15">, 45% consideram a resposta adequada</segment>
+    <segment id="16">, enquanto 47% das mulheres avaliam</segment>
+    <segment id="17">comocomo excessiva.</segment>
+    <segment id="18">Como esperado</segment>
+    <segment id="19">, a ação é mais bem avaliada entre os que votaram em Jair Bolsonaro (PL) no ano passado.</segment>
+    <segment id="20">Neste grupo</segment>
+    <segment id="21">, 49% avaliam a resposta</segment>
+    <segment id="22">comocomo adequada</segment>
+    <segment id="23">, o dobro do segmento dos votantes em Luiz Inácio Lula da Silva (PT) que têm essa opinião (24%).</segment>
+    <segment id="24">De acordo com a pesquisa</segment>
+    <segment id="25">, 55% dos entrevistados disseram que tinham conhecimento da operação</segment>
+    <segment id="26">, contra 45% que não sabiam dela.</segment>
+  </rst>
+</analysis>

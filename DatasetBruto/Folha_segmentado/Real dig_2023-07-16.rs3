@@ -1,0 +1,218 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A privacidade financeira dos usuários será colocada à prova nos primeiros testes da moeda digital brasileira —o real digital</segment>
+    <segment id="2">, em desenvolvimento pelo Banco Central.</segment>
+    <segment id="3">O objetivo é replicar nesse novo ambiente o mesmo grau de proteção aos clientes bancários exigido pela legislação</segment>
+    <segment id="4">, ou seja</segment>
+    <segment id="5">, garantir que transações só possam ser rastreadas pelas partes interessadas.</segment>
+    <segment id="6">Nesta fase</segment>
+    <segment id="7">, também serão testadas as funcionalidades que darão ao cidadão a capacidade de controlar e programar o uso do seu dinheiro eletrônico.</segment>
+    <segment id="8">A ideia é que o uso da CBDC (Central Bank Digital Currency) brasileira seja tão simples quanto fazer um Pix</segment>
+    <segment id="9">, masmas traga ganhos em transações mais complexas e hoje pouco acessíveis à população brasileira.</segment>
+    <segment id="10">Em entrevista à Folha</segment>
+    <segment id="11">, Fabio Araujo</segment>
+    <segment id="12">, coordenador do real digital no BC</segment>
+    <segment id="13">, define a nova versão da moeda nacional</segment>
+    <segment id="14">comocomo "uma plataforma para democratizar o acesso aos serviços financeiros no Brasil".</segment>
+    <segment id="15">Fabio Araujo</segment>
+    <segment id="16">, coordenador do real digital no Banco Central</segment>
+    <segment id="17">, em entrevista à Folha na sede da autoridade monetária - Pedro Ladeira/FolhapressNo futuro</segment>
+    <segment id="18">, o real digital abrirá a possibilidade de fazer</segment>
+    <segment id="19">, por exemplo</segment>
+    <segment id="20">, a compra de veículos atrelada a contratos inteligentes —documentos digitais programados por meio de tecnologia para serem executados de forma automática sob as condições acordadas.</segment>
+    <segment id="21">Na prática</segment>
+    <segment id="22">, isso funciona de modo que o registro do carro em negociação seja transferido automaticamente para o comprador assim que o pagamento for efetivado por ele</segment>
+    <segment id="23">, e tudo ocorre simultaneamente.</segment>
+    <segment id="24">Eliminar esse hiato no processo de compra e venda traz mais segurança para um acordo comercial entre pessoas desconhecidas.</segment>
+    <segment id="25">A lógica serve também para imóveis</segment>
+    <segment id="26">, produtos comercializados em plataformas eletrônicas</segment>
+    <segment id="27">, entre outros itens.</segment>
+    <segment id="28">Nos termos técnicos</segment>
+    <segment id="29">, esse tipo de negociação</segment>
+    <segment id="30">sese chama DvP (entrega versus pagamento).</segment>
+    <segment id="31">Hoje, as transações envolvendo contratos inteligentes não estão disponíveis em um ambiente regulado e necessitam de intermediários</segment>
+    <segment id="32">, o que torna o modelo economicamente inviável para negociações de itens de valor mais baixo.</segment>
+    <segment id="33">"</segment>
+    <segment id="34">Esse tipo de instrumento</segment>
+    <segment id="35">, que é muito caro e hoje só está acessível para algumas transações</segment>
+    <segment id="36">, poderá ser feito a um custo marginal"</segment>
+    <segment id="37">, projeta Araujo.</segment>
+    <segment id="38">O foco do projeto do real digital é levar serviço de varejo para toda a população.</segment>
+    <segment id="39">Ao longo das discussões sobre o tema</segment>
+    <segment id="40">, o BC concluiu que as pessoas não precisam ter o real digital</segment>
+    <segment id="41">"stricto sensu</segment>
+    <segment id="42">" em suas mãos para ter acesso a seus benefícios.</segment>
+    <segment id="43">"Tem vários inconvenientes</segment>
+    <segment id="44">, de risco de desintermediação</segment>
+    <segment id="45">, de problemas macroeconômicos</segment>
+    <segment id="46">, que podem acontecer no ambiente onde há uma moeda do Banco Central direto na mão das pessoas"</segment>
+    <segment id="47">, pondera o coordenador.</segment>
+    <segment id="48">Ele ressalta que hoje uma pequena parcela de papel-moeda circula na economia</segment>
+    <segment id="49">, enquanto a maioria das pessoas usa a "versão bancária" da moeda.</segment>
+    <segment id="50">Para evitar uma mudança abrupta no sistema financeiro e assimetrias regulatórias entre os sistemas</segment>
+    <segment id="51">, a autoridade monetária atualizou as diretrizes da moeda digital e convencionou que o real digital ficará concentrado para atividades de atacado</segment>
+    <segment id="52">, ou seja</segment>
+    <segment id="53">, restrito a pagamentos entre o BC e instituições financeiras.</segment>
+    <segment id="54">A população</segment>
+    <segment id="55">, por sua vez</segment>
+    <segment id="56">, terá acesso ao real chamado de tokenizado.</segment>
+    <segment id="57">Nesse caso</segment>
+    <segment id="58">caso, a representação da moeda brasileira será o token [representação digital de um ativo real] de um depósito mantido por instituições financeiras ou instituições de pagamento.</segment>
+    <segment id="59">"</segment>
+    <segment id="60">Os bancos vão criar stablecoins [criptomoedas de baixa volatilidade</segment>
+    <segment id="61">, com lastro em ativos mais seguros] em cima dos depósitos.</segment>
+    <segment id="62">E as stablecoins vão ser garantidas pelo BC</segment>
+    <segment id="63">, um para um</segment>
+    <segment id="64">, em uma moeda digital"</segment>
+    <segment id="65">, detalhou em setembro de 2022 Roberto Campos Neto</segment>
+    <segment id="66">, presidente da autoridade monetária.</segment>
+    <segment id="67">"</segment>
+    <segment id="68">Então, você vai ter stablecoins dos bancos</segment>
+    <segment id="69">A, B e C. Todos são fundíveis</segment>
+    <segment id="70">, todos têm o mesmo valor e todos podem ser convertidos na moeda digital emitida pelo BC"</segment>
+    <segment id="71">,</segment>
+    <segment id="72">complementou.</segment>
+    <segment id="73">Real digital é uma nova forma de representação da moeda brasileira - Gabriel Cabral - 21.fev.19/FolhapressNeste mês</segment>
+    <segment id="74">, o BC inicia a incorporação dos 16 participantes (individuais ou consórcios) selecionados para a infraestrutura onde serão realizados os testes.</segment>
+    <segment id="75">A rede escolhida para essa fase de desenvolvimento foi a Hyperledger Besu.</segment>
+    <segment id="76">Ela é baseada na Ethereum</segment>
+    <segment id="77">, plataforma que usa tecnologia blockchain para registrar transações com ativos digitais.</segment>
+    <segment id="78">Segundo Aristides Cavalcante</segment>
+    <segment id="79">, chefe do escritório de Inovação Tecnológica e Segurança Cibernética do BC</segment>
+    <segment id="80">, a Hyperledger Besu foi escolhida por ser uma rede que conta com participantes conhecidos</segment>
+    <segment id="81">, ter diversidade de provedores de tecnologia e ter um ecossistema aberto de governança.  "</segment>
+    <segment id="82">Essa plataforma tem por objetivo a construção de novos modelos de serviços financeiros"</segment>
+    <segment id="83">, justifica o técnico.</segment>
+    <segment id="84">Ele também argumenta que "é importante não colocar o sistema financeiro dependente de um único provedor de tecnologia".</segment>
+    <segment id="85">Por se</segment>
+    <segment id="86">se tratar de um sistema que possui código aberto</segment>
+    <segment id="87">, não há a exigência de fazer uma concorrência pública e não há despesas com licenciamentos.</segment>
+    <segment id="88">Se a plataforma for bem-sucedida durante a fase de testes</segment>
+    <segment id="89">, ela pode ser escolhida</segment>
+    <segment id="90">comocomo tecnologia definitiva da versão tokenizada da moeda brasileira.</segment>
+    <segment id="91">"</segment>
+    <segment id="92">Temos que realmente saber</segment>
+    <segment id="93">sese conseguimos</segment>
+    <segment id="94">, com essa tecnologia</segment>
+    <segment id="95">, atingir os requerimentos mínimos de privacidade e de programabilidade"</segment>
+    <segment id="96">, diz Cavalcante.</segment>
+    <segment id="97">No piloto</segment>
+    <segment id="98">, esses aspectos serão testados em duas frentes ao longo de 18 meses.</segment>
+    <segment id="99">A primeira</segment>
+    <segment id="100">, prevista para durar até dezembro</segment>
+    <segment id="101">, envolve a troca de dinheiro entre os participantes usando tanto o real digital propriamente dito quanto o real tokenizado.</segment>
+    <segment id="102">A segunda envolve a compra e venda de título público federal entre clientes de instituições diferentes e deve ser concluída em fevereiro de 2024.</segment>
+    <segment id="103">"</segment>
+    <segment id="104">O objetivo final é permitir que duas pessoas troquem entre si título público federal"</segment>
+    <segment id="105">, diz Araujo.</segment>
+    <segment id="106">O BC argumenta que</segment>
+    <segment id="107">, ao escolher um título público federal para essa nova fase do projeto</segment>
+    <segment id="108">, tentou ser o mais neutro possível e abrir espaço para a participação do Tesouro Nacional</segment>
+    <segment id="109">, que já havia manifestado o desejo de colaborar com os trabalhos.</segment>
+    <segment id="110">Em um cenário hipotético</segment>
+    <segment id="111">, um cliente de um restaurante pode emprestar dinheiro via QR</segment>
+    <segment id="112">Code para que</segment>
+    <segment id="113">para que o dono do empreendimento abra uma filial ou faça uma reforma no local.</segment>
+    <segment id="114">Assim que o dinheiro é transferido</segment>
+    <segment id="115">, a pessoa recebe automaticamente o título de dívida em sua carteira.</segment>
+    <segment id="116">"</segment>
+    <segment id="117">À medida que essa tecnologia seja mais utilizada pela população</segment>
+    <segment id="118">, qualquer um vai poder pegar dinheiro emprestado com o outro diretamente"</segment>
+    <segment id="119">, diz Araujo.</segment>
+    <segment id="120">"</segment>
+    <segment id="121">A possibilidade de criar produtos é muito grande.</segment>
+    <segment id="122">"</segment>
+    <segment id="123">Nesta primeira etapa do piloto</segment>
+    <segment id="124">, o processo é feito em um ambiente simulado</segment>
+    <segment id="125">, sem envolver transações ou valores reais.</segment>
+    <segment id="126">A expectativa é que no fim de 2024 ou início de 2025 clientes reais possam fazer as primeiras operações com o real digital.      ENTENDA</segment>
+    <segment id="127">A MOEDA DIGITAL BRASILEIRA</segment>
+    <segment id="128">O que é o real digital?</segment>
+    <segment id="129">É uma CBDC (Central Bank Digital Currency)</segment>
+    <segment id="130">, ou seja</segment>
+    <segment id="131">, uma moeda digital emitida por Banco Central.</segment>
+    <segment id="132">Ela é uma nova forma de representação do real e poderá ser convertida em outras formas de pagamento disponíveis hoje</segment>
+    <segment id="133">, pois</segment>
+    <segment id="134">pois terá o mesmo valor do dinheiro tradicional.</segment>
+    <segment id="135">Como será a versão brasileira da CBDC?</segment>
+    <segment id="136">O real digital em si será voltado para atividades de atacado</segment>
+    <segment id="137">, enquanto a população terá acesso ao real tokenizado.</segment>
+    <segment id="138">Nesse caso</segment>
+    <segment id="139">caso, a representação digital da moeda brasileira será o token de um depósito mantido por instituições financeiras ou instituições de pagamento.</segment>
+    <segment id="140">Quais as diferenças do real digital para as criptomoedas e stablecoins?</segment>
+    <segment id="141">O real digital é a expressão eletrônica da moeda brasileira</segment>
+    <segment id="142">, enquanto criptomoedas e stablecoins são de emissão privada e</segment>
+    <segment id="143">, em geral</segment>
+    <segment id="144">, não dispõem de regulação.</segment>
+    <segment id="145">Criptomoedas</segment>
+    <segment id="146">, como</segment>
+    <segment id="147">como bitcoin e ethereum</segment>
+    <segment id="148">, apresentam grande volatilidade.</segment>
+    <segment id="149">Já stablecoins buscam corrigir esse problema atrelando seu valor</segment>
+    <segment id="150">, em geral</segment>
+    <segment id="151">, a uma moeda soberana.</segment>
+    <segment id="152">Qual a diferença entre uma moeda digital de varejo e de atacado?</segment>
+    <segment id="153">Uma moeda digital de atacado é voltada para transações de valores elevados</segment>
+    <segment id="154">, envolvendo bancos</segment>
+    <segment id="155">, cooperativas</segment>
+    <segment id="156">, instituições de pagamento e eventualmente grandes empresas.</segment>
+    <segment id="157">Já uma moeda digital de varejo busca atender às necessidades de indivíduos e empresas de todos os portes</segment>
+    <segment id="158">, podendo ser utilizada para pagamentos e para operações financeiras cotidianas em quaisquer faixas de valores.</segment>
+    <segment id="159">O que o real digital traz de novidade?</segment>
+    <segment id="160">Além de poder ser utilizado em conjunto com contas bancárias</segment>
+    <segment id="161">, contas de pagamentos</segment>
+    <segment id="162">, cartões e dinheiro em espécie</segment>
+    <segment id="163">, ele permitirá acesso a serviços financeiros que estão sendo desenvolvidos com base em novas tecnologias</segment>
+    <segment id="164">, como</segment>
+    <segment id="165">como contratos inteligentes e dinheiro programável (valor monetário digital que pode ser programado para ser gasto somente para determinada finalidade).</segment>
+    <segment id="166">Um exemplo prático de uso é a possibilidade de uma família transferir uma quantia de dinheiro aos filhos menores de 18 anos com a certeza de que o montante poderá ser gasto unicamente com atividades culturais</segment>
+    <segment id="167">, como</segment>
+    <segment id="168">como cinema</segment>
+    <segment id="169">, não com algo não autorizado pelos pais.</segment>
+    <segment id="170">Qual será a tecnologia usada no real digital?</segment>
+    <segment id="171">A rede escolhida para a fase de testes foi a Hyperledger Besu.</segment>
+    <segment id="172">Ela é baseada na Ethereum</segment>
+    <segment id="173">, plataforma que usa tecnologia blockchain para registrar transações com ativos digitais</segment>
+    <segment id="174">, é capaz de executar contratos inteligentes e tem condições de operar em grande escala.</segment>
+    <segment id="175">Se for bem-sucedida durante o piloto</segment>
+    <segment id="176">, a Hyperledger Besu pode ser escolhida</segment>
+    <segment id="177">comocomo tecnologia definitiva da versão tokenizada da moeda brasileira.</segment>
+    <segment id="178">Quais são os próximos passos para o desenvolvimento do real digital?</segment>
+    <segment id="179">A fase piloto terá duração de 18 meses</segment>
+    <segment id="180">, com previsão de término em fevereiro de 2024.</segment>
+    <segment id="181">A expectativa é que no fim do próximo ano ou no início de 2025 clientes reais possam fazer as primeiras operações (ainda em modelo de testes) com o real digital.</segment>
+    <segment id="182">O cronograma pode sofrer alterações.</segment>
+    <segment id="183">O nome real digital é definitivo?</segment>
+    <segment id="184">Não.</segment>
+    <segment id="185">O BC estuda a nova identidade da moeda digital brasileira</segment>
+    <segment id="186">, que será rebatizada.</segment>
+    <segment id="187">A ideia é que seja escolhido um nome curto e sonoro para impulsionar a sua popularidade após o lançamento</segment>
+    <segment id="188">, como</segment>
+    <segment id="189">como é o</segment>
+    <segment id="190">casocaso do Pix.</segment>
+    <segment id="191">A divulgação da nova marca ainda não tem data definida</segment>
+    <segment id="192">, masmas deve ocorrer durante a fase de testes.</segment>
+  </rst>
+</analysis>

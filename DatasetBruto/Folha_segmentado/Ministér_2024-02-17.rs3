@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Ministério do Turismo está discutindo uma parceria com o governo da Jamaica para criar um voo direto entre os dois países.</segment>
+    <segment id="2">O assunto será discutido pela secretária-executiva da pasta do Turismo</segment>
+    <segment id="3">, Ana Carla Lopes</segment>
+    <segment id="4">, e representantes do governo jamaicano durante a Conferência do Dia Global da Resiliência do Turismo</segment>
+    <segment id="5">, neste fim de semana</segment>
+    <segment id="6">, na Jamaica.</segment>
+    <segment id="7">A ideia é que o voo possa sair de São Luís</segment>
+    <segment id="8">, no Maranhão.</segment>
+    <segment id="9">Na conferência também deverá ser renovado um acordo de cooperação turística entre os dois países que prevê</segment>
+    <segment id="10">, entre outras coisas</segment>
+    <segment id="11">, intercâmbio de informações sobre tecnologia no campo da indústria do turismo e de especialistas do setor</segment>
+    <segment id="12">, além do desenvolvimento de atividades promocionais conjuntas.</segment>
+    <segment id="13">As praias da JamaicaMais    novamente         de   de  de  representando</segment>
+    <segment id="14">um</segment>
+  </rst>
+</analysis>

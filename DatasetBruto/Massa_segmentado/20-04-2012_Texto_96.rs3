@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Sertanejo critica Latino e Michel Teló</segment>
+    <segment id="2">Zezé di Camargo diz que as músicas dos novos cantores não serão lembradas eternamante</segment>
+    <segment id="3">Em entrevista para o “Jornal da Tarde”</segment>
+    <segment id="4">, Zezé Di Camargo criticou as canções dos dois cantores</segment>
+    <segment id="5">, dizendo que são passageiras.</segment>
+    <segment id="6">Segundo o sertanejo</segment>
+    <segment id="7">, daqui a dez anos elas não serão lembradas</segment>
+    <segment id="8">, enquanto “a música romântica vai ser sempre eterna”.</segment>
+    <segment id="9">De quebra</segment>
+    <segment id="10">, ainda alfinetou a imprensa ‘fofoqueira’: “Estou na base do que quer falar</segment>
+    <segment id="11">, fala.</segment>
+    <segment id="12">Além disso</segment>
+    <segment id="13">, ser certinho demais é muito chato</segment>
+    <segment id="14">, né?</segment>
+    <segment id="15">".</segment>
+  </rst>
+</analysis>

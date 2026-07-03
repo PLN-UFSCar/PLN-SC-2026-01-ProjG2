@@ -1,0 +1,74 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O boletim de operação do ONS (Operador Nacional do Sistema Elétrico) diz que sete estados tiveram o fornecimento de energia totalmente interrompido após a perturbação da rede que gerou o apagão desta terça-feira (15).</segment>
+    <segment id="2">Outros 18 foram afetados apenas parcialmente</segment>
+    <segment id="3">, a maior parte deles de forma controlada</segment>
+    <segment id="4">, com o acionamento do sistema automático de proteção do sistema elétrico</segment>
+    <segment id="5">, chamado Erac (esquema regional de alívio de carga).</segment>
+    <segment id="6">As informações são do IPDO (Informativo Preliminar Diário da Operação)</segment>
+    <segment id="7">, divulgado todas as manhãs pelo operador com um resumo do que aconteceu no sistema interligado de energia no dia anterior.</segment>
+    <segment id="8">Torres de alta tensão da EDP</segment>
+    <segment id="9">Bandeirante</segment>
+    <segment id="10">, na região central de São José dos Campos (SP) - Lucas Lacaz Ruiz - 10.jan.2019/FolhapressNesta terça</segment>
+    <segment id="11">, diz o documento</segment>
+    <segment id="12">, uma ocorrência às 8h31 "provocou a separação elétrica das regiões Norte e Nordeste das regiões</segment>
+    <segment id="13">Sul e Sudeste-Centro Oeste</segment>
+    <segment id="14">, com a abertura das interligações entre essas regiões</segment>
+    <segment id="15">"</segment>
+    <segment id="16">.</segment>
+    <segment id="17">Às 8h43 foi iniciado o restabelecimento das cargas no Sul e</segment>
+    <segment id="18">, às 14h49</segment>
+    <segment id="19">, todo o sistema estava recomposto.</segment>
+    <segment id="20">O IPDO é um relatório da operação do sistema e não traz avaliações sobre as causas da ocorrência.</segment>
+    <segment id="21">Ele repete informação já dada pelo ONS que a perturbação no sistema derrubou 18</segment>
+    <segment id="22">,9 mil MW (megawatts)</segment>
+    <segment id="23">, o que equivalia a 27% da demanda naquele momento.</segment>
+    <segment id="24">Segundo o documento</segment>
+    <segment id="25">, Amapá</segment>
+    <segment id="26">, Amazonas</segment>
+    <segment id="27">, Acre</segment>
+    <segment id="28">, Rondônia</segment>
+    <segment id="29">, Maranhão</segment>
+    <segment id="30">, Pará e Tocantins tiveram o fornecimento totalmente interrompido.</segment>
+    <segment id="31">Os quatro primeiros são interligados ao sistema elétrico por linhões específicos —Amapá e Amazonas são conectados ao Pará</segment>
+    <segment id="32">, e os outros dois</segment>
+    <segment id="33">, a Mato Grosso.</segment>
+    <segment id="34">Já os demais estados do Nordeste e das outras regiões do país tiveram o fornecimento afetado apenas de forma parcial.</segment>
+    <segment id="35">A região Sul foi a primeira a ter o abastecimento totalmente restabelecido</segment>
+    <segment id="36">, às 9h05.</segment>
+    <segment id="37">Nas regiões</segment>
+    <segment id="38">Sudeste e Centro-Oeste</segment>
+    <segment id="39">, o restabelecimento foi concluído às 9h33.</segment>
+    <segment id="40">O ministro de Minas e Energia</segment>
+    <segment id="41">, Alexandre Silveira</segment>
+    <segment id="42">, afirmou no fim da tarde de terça que o ONS entregará um primeiro relatório sobre a ocorrência em 48 horas.</segment>
+    <segment id="43">Silveira disse que o primeiro fato gerador ocorreu no Ceará</segment>
+    <segment id="44">, masmas não deu maiores explicações.</segment>
+    <segment id="45">Normalmente</segment>
+    <segment id="46">, o ONS antecipa ao menos a localização da falha que dá início a distúrbios no sistema no mesmo dia</segment>
+    <segment id="47">, masmas desta vez o operador sequer foi chamado a falar na entrevista coletiva convocada pelo governo para explicar o apagão.</segment>
+    <segment id="48">Apagão atinge vários estados do BrasilMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

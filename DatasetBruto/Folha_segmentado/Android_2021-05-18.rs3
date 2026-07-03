@@ -1,0 +1,124 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Após um ano sem seu tradicional evento de desenvolvedores</segment>
+    <segment id="2">, o Google fez anúncios de software e de melhorias em seus serviços nesta terça-feira (18)</segment>
+    <segment id="3">, durante a conferência I/O</segment>
+    <segment id="4">, transmitida de Montain View</segment>
+    <segment id="5">, na Califórnia.</segment>
+    <segment id="6">Entre as principais novidades</segment>
+    <segment id="7">, a companhia revelou a última versão beta do Android 12</segment>
+    <segment id="8">, atualização do sistema operacional que será lançada em breve.</segment>
+    <segment id="9">A novidade vem com um sistema visual chamado Material You</segment>
+    <segment id="10">, que de acordo com Sameer Samat</segment>
+    <segment id="11">, vice-presidente de Android</segment>
+    <segment id="12">, representa a maior mudança de design na história do Android.</segment>
+    <segment id="13">Ele é mais colorido e personalizável.</segment>
+    <segment id="14">O evento</segment>
+    <segment id="15">, que vai até quinta-feira (20)</segment>
+    <segment id="16">, é transmitido pelo YouTube.</segment>
+    <segment id="17">Sundar Pichai</segment>
+    <segment id="18">, presidente do Google</segment>
+    <segment id="19">, abriu a transmissão fazendo um breve retrospecto da pandemia e citando países que ainda enfrentam situações críticas</segment>
+    <segment id="20">, como</segment>
+    <segment id="21">como o Brasil.</segment>
+    <segment id="22">"Lugares</segment>
+    <segment id="23">comocomo o Brasil e o meu país natal</segment>
+    <segment id="24">, a Índia</segment>
+    <segment id="25">, estão passando agora pelos momentos mais difíceis da pandemia.</segment>
+    <segment id="26">Nossos pensamentos estão com todos os que foram afetados pela Covid e todos esperamos dias melhores</segment>
+    <segment id="27">"</segment>
+    <segment id="28">, disse Pichai.</segment>
+    <segment id="29">Imagem do Android 12</segment>
+    <segment id="30">, que será lançado em breve - DivulgaçãoDe acordo com a empresa</segment>
+    <segment id="31">, a nova versão do Android</segment>
+    <segment id="32">sese baseia em três pilares: personalização</segment>
+    <segment id="33">, segurança e privacidade por padrão</segment>
+    <segment id="34">, e conectividade com outros aparelhos</segment>
+    <segment id="35">, centrada no smartphone.</segment>
+    <segment id="36">Com um design redesenhado</segment>
+    <segment id="37">, os ícones e as notificações do sistema</segment>
+    <segment id="38">sese adaptam às cores da foto de papel de parede escolhida</segment>
+    <segment id="39">, por exemplo</segment>
+    <segment id="40">, tornando a interface mais dinâmica e expressiva.</segment>
+    <segment id="41">O novo sistema permite que o usuário personalize o smartphone "com cores sob medida".</segment>
+    <segment id="42">A empresa também promete dispositivos mais rápidos e com melhor eficiência de energia</segment>
+    <segment id="43">, graças à redução de tempo de CPU.</segment>
+    <segment id="44">O novo sistema também virá com privacidade e segurança por padrão</segment>
+    <segment id="45">, uma demanda cada vez mais presente na indústria e já encabeçada pela Apple</segment>
+    <segment id="46">, que promoveu mudanças em seu sistema.</segment>
+    <segment id="47">Nesse conceito</segment>
+    <segment id="48">, as configurações de privacidade já vêm avançadas de fábrica.</segment>
+    <segment id="49">O novo sistema também inclui recursos que mostram quais dados são coletados por aplicativos instalados no celular e um painel de controle que permitirá fácil visualização sobre as concessões e autorizações dadas a cada serviço.</segment>
+    <segment id="50">Mais de 3 bilhões de aparelhos no mundo (não apenas celulares) têm o Android embarcado.</segment>
+    <segment id="51">Ainda em relação à privacidade</segment>
+    <segment id="52">, um indicador deve mostrar quando aplicativos conectados ao microfone e à câmera estão ouvindo ou gravando.</segment>
+    <segment id="53">A empresa ainda incluiu a "permissão de localização aproximada"</segment>
+    <segment id="54">, que permitirá que alguns aplicativos acessem apenas essa localização</segment>
+    <segment id="55">, e não o ponto exato onde</segment>
+    <segment id="56">sese encontra o usuário.</segment>
+    <segment id="57">"</segment>
+    <segment id="58">Aplicativos de previsão do tempo não precisam saber a localização precisa da pessoa para serem capazes de oferecer uma previsão precisa"</segment>
+    <segment id="59">, diz o Google.</segment>
+    <segment id="60">Em outras frentes</segment>
+    <segment id="61">, a companhia afirmou que vai lançar mais de cem melhorias impulsionadas por inteligência artificial para o Google Maps até o fim deste ano</segment>
+    <segment id="62">, que o Google Fotos deixará de oferecer armazenamento ilimitado —a previsão é que termine em junho—</segment>
+    <segment id="63">, além de novidades no Google Meet</segment>
+    <segment id="64">, de chamada</segment>
+    <segment id="65">, e no Worksapce.</segment>
+    <segment id="66">​Inteligência artificial  Sundar Pichai apresentou as pesquisas relacionadas ao LaMDA</segment>
+    <segment id="67">, sistema de inteligência artificial para compreensão de linguagem natural</segment>
+    <segment id="68">, dedicado a aplicativos de diálogo.</segment>
+    <segment id="69">Como é domínio aberto</segment>
+    <segment id="70">, o programa foi projetado para falar sobre qualquer assunto.</segment>
+    <segment id="71">"Estamos ansiosos para incorporar recursos de conversação em produtos</segment>
+    <segment id="72">comocomo Google Assistente</segment>
+    <segment id="73">, Busca e Workspace</segment>
+    <segment id="74">, bem como</segment>
+    <segment id="75">como explorar</segment>
+    <segment id="76">comocomo fornecer recursos para desenvolvedores e clientes empresariais"</segment>
+    <segment id="77">, afirmou.</segment>
+    <segment id="78">Para apoiar a LaMDA</segment>
+    <segment id="79">, a empresa anunciou sua próxima geração de TPUs (os circuitos integrados personalizados para acelerar processos de aprendizado de máquina):</segment>
+    <segment id="80">a TPU v4</segment>
+    <segment id="81">, alimentada pelo chip v4</segment>
+    <segment id="82">, com velocidade duas vezes mais rápida que a do chip anterior.</segment>
+    <segment id="83">Ele está presente em funções</segment>
+    <segment id="84">comocomo a busca e o Google Assistente.</segment>
+    <segment id="85">Pichai destaca que o LaMDA é treinado apenas em texto</segment>
+    <segment id="86">, masmas que a comunicação interpessoal passa também por imagens</segment>
+    <segment id="87">, áudio e vídeo.</segment>
+    <segment id="88">"</segment>
+    <segment id="89">Precisamos construir modelos que permitam às pessoas naturalmente fazer perguntas sobre diferentes tipos de informação</segment>
+    <segment id="90">, o que é chamado de MUM [modelo multimodal].</segment>
+    <segment id="91">Com isso</segment>
+    <segment id="92">, você poderia um dia planejar uma viagem pedindo ao Google 'um trajeto com belas vistas da montanha'"</segment>
+    <segment id="93">, afirmou.</segment>
+    <segment id="94">"</segment>
+    <segment id="95">Esse é só um exemplo de</segment>
+    <segment id="96">comocomo estamos progredindo em direção a formas mais naturais e intuitivas de interagir com a busca.</segment>
+    <segment id="97">"</segment>
+    <segment id="98">Reconhecimento facial na prática   novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,111 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Enquanto pessoas saudáveis queimam mais energia durante o dia</segment>
+    <segment id="2">, quem tem obesidade é mais propenso a gastá-la à noite</segment>
+    <segment id="3">, durante o sono</segment>
+    <segment id="4">,</segment>
+    <segment id="5">mostra um novo estudo publicado na revista científica internacional Obesity.</segment>
+    <segment id="6">Segundo os autores</segment>
+    <segment id="7">, a dificuldade em queimar calorias à luz do dia pode ser tanto a causa quanto uma consequência da doença.</segment>
+    <segment id="8">Mulher observa o movimento na Times Square</segment>
+    <segment id="9">, em Nova York (EUA).</segment>
+    <segment id="10">Índice de obesidade cresceu no país no último ano.</segment>
+    <segment id="11">- Lucas Jackson - 23.set.20/ReutersPara Maria Rita Marques de Oliveira</segment>
+    <segment id="12">, professora do Instituto de Biociências de Botucatu da Unesp</segment>
+    <segment id="13">, os resultados reforçam a necessidade de regular o sono</segment>
+    <segment id="14">comocomo parte de uma abordagem completa de prevenção e tratamento da obesidade.</segment>
+    <segment id="15">Além disso</segment>
+    <segment id="16">, levar em consideração o tempo circadiano do paciente pode ser uma estratégia a ser adotada por médicos para aumentar a eficácia das intervenções.</segment>
+    <segment id="17">Cuide-seCiência</segment>
+    <segment id="18">, hábitos e prevenção</segment>
+    <segment id="19">numa newsletter para a sua saúde e bem-estarCarregando...</segment>
+    <segment id="20">O ciclo circadiano do nosso corpo é ditado pelos nossos hábitos de sono.</segment>
+    <segment id="21">Enquanto dormimos</segment>
+    <segment id="22">, ocorrem uma série de regulações metabólicas que visam especialmente a reparação do organismo.</segment>
+    <segment id="23">O consumo de energia e o controle da glicose estão entre os processos que são afetados pela nossa rotina de descanso.</segment>
+    <segment id="24">Tentando conhecer melhor essa relação</segment>
+    <segment id="25">, pesquisadores dos Estados Unidos recrutaram 30 pessoas</segment>
+    <segment id="26">, com ou sem obesidade</segment>
+    <segment id="27">, para um experimento de cinco dias em uma clínica no estado americano do Oregon.</segment>
+    <segment id="28">Os voluntários foram submetidos a um protocolo de "dessincronia forçada"</segment>
+    <segment id="29">, durante o qual receberam uma dieta padronizada.</segment>
+    <segment id="30">Na primeira noite internados</segment>
+    <segment id="31">, puderam dormir suas oito horas naturais.</segment>
+    <segment id="32">A partir de então</segment>
+    <segment id="33">, pelos próximos três dias</segment>
+    <segment id="34">, passaram a alternar cinco horas de sono em completa escuridão com cinco horas acordados em luz fraca</segment>
+    <segment id="35">, durante as quais faziam suas refeições e realizavam 15 minutos de pedalada</segment>
+    <segment id="36">, sempre sob monitoração de uma equipe técnica.</segment>
+    <segment id="37">Durante o período</segment>
+    <segment id="38">, foram submetidos a uma série de exames para acompanhar o seu consumo energético e níveis de glicose.</segment>
+    <segment id="39">Depois</segment>
+    <segment id="40">, os dados das pessoas obesas e indivíduos sem a condição foram comparados.</segment>
+    <segment id="41">Nos resultados</segment>
+    <segment id="42">, pessoas com obesidade apresentaram um nível maior de insulina durante o dia</segment>
+    <segment id="43">, que leva a uma menor queima de calorias.</segment>
+    <segment id="44">A insulina é responsável por transportar a glicose do sangue para o interior das células.</segment>
+    <segment id="45">A presença de gordura</segment>
+    <segment id="46">, especialmente localizada nas vísceras</segment>
+    <segment id="47">, atrapalha este processo.</segment>
+    <segment id="48">Sem remédios para tratamento da obesidade</segment>
+    <segment id="49">, SUS prioriza outras formas para perda de pesoMais    novamente         de   de  de  representando um</segment>
+    <segment id="50">Por esta razão</segment>
+    <segment id="51">, os autores do estudo concluem que os altos índices de insulina estão relacionados com o menor consumo de energia.</segment>
+    <segment id="52">Como o excesso dessa substância pode contribuir ainda mais para a obesidade</segment>
+    <segment id="53">, o ciclo é retroalimentado.</segment>
+    <segment id="54">Josemar de Almeida Moura</segment>
+    <segment id="55">, médico e professor da UFMG (Universidade Federal de Minas Gerais)</segment>
+    <segment id="56">, explica que esses pacientes</segment>
+    <segment id="57">, de modo geral</segment>
+    <segment id="58">, já têm uma resistência ao hormônio</segment>
+    <segment id="59">, masmas faz uma ressalva: o ciclo da insulina está associado à ingestão de alimentos</segment>
+    <segment id="60">, e não ao sono.</segment>
+    <segment id="61">Outro resultado mostrado pela pesquisa é a maior queima calórica de pacientes obesos durante a noite</segment>
+    <segment id="62">, em relação àqueles saudáveis.</segment>
+    <segment id="63">Os dados levantam novas questões ainda não respondidas</segment>
+    <segment id="64">, masmas os autores concluem</segment>
+    <segment id="65">, preliminarmente</segment>
+    <segment id="66">, que pode haver uma dificuldade do corpo dessas pessoas em adaptar as funções metabólicas ao dormir.</segment>
+    <segment id="67">Existem outros fatores diretamente ligados ao ciclo circadiano que podem ter impacto sobre o acúmulo de gordura no corpo.</segment>
+    <segment id="68">Segundo um estudo publicado este ano na revista Nature Reviews Endocrinology</segment>
+    <segment id="69">, a privação de sono aumenta o gasto calórico diário em 100 kcal</segment>
+    <segment id="70">, masmas faz também com que a pessoa consuma 250 kcal por dia a mais em alimentos do que aqueles que passam uma noite bem dormida.</segment>
+    <segment id="71">O saldo final</segment>
+    <segment id="72">, portanto</segment>
+    <segment id="73">, leva ao ganho de peso.</segment>
+    <segment id="74">Além disso</segment>
+    <segment id="75">, noites mal dormidas influenciam as escolhas alimentares</segment>
+    <segment id="76">, afirmam os especialistas do artigo</segment>
+    <segment id="77">, e podem piorar a qualidade das refeições.</segment>
+    <segment id="78">O trabalho também destaca o papel de hormônios ligados tanto ao apetite e saciedade quanto ao ciclo circadiano: em outro estudo</segment>
+    <segment id="79">, publicado na revista Obesity</segment>
+    <segment id="80">, os níveis de hormônio ligado à saciedade reduziram</segment>
+    <segment id="81">, enquanto aqueles ligados à fome subiram</segment>
+    <segment id="82">, com impacto ainda maior em pessoas obesas.</segment>
+    <segment id="83">Os especialistas concordam que melhorar as noites de sono não basta.</segment>
+    <segment id="84">O hábito ajuda na medida em que é combinado com outras práticas</segment>
+    <segment id="85">, especialmente uma alimentação adequada e a prática regular de exercícios físicos.</segment>
+  </rst>
+</analysis>

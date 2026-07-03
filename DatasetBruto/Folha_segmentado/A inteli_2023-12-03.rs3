@@ -1,0 +1,176 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O ChatGPT acaba de fazer um ano.</segment>
+    <segment id="2">Nenhuma tecnologia do pós-guerra nos impactou tanto em período tão exíguo.</segment>
+    <segment id="3">A ferramenta da OpenAI tornou-</segment>
+    <segment id="4">sese central para a mudança de zeitgeist em curso</segment>
+    <segment id="5">, a qual tem</segment>
+    <segment id="6">, entre suas facetas</segment>
+    <segment id="7">, a algoritmização relacional</segment>
+    <segment id="8">, a reavaliação do paradigma educacional que</segment>
+    <segment id="9">sese escora na formação de memórias por repetição e as redefinições produtivas que prometem eliminar tarefas pouco inspiradoras e também multiplicar a taxa de desemprego.</segment>
+    <segment id="10">Isso explica por que a remoção e subsequente recontratação de seu CEO</segment>
+    <segment id="11">, Sam Altman</segment>
+    <segment id="12">, ganhou tanta visibilidade.</segment>
+    <segment id="13">Para muitos</segment>
+    <segment id="14">, o que está em jogo é a própria orientação do "espírito do tempo" à luz da contraposição de interesses corporativos e preocupações societárias.</segment>
+    <segment id="15">Conforme Ronaldo Lemos apontou: "</segment>
+    <segment id="16">Sam queria [...] implementar produtos novos sem olhar para as consequências.</segment>
+    <segment id="17">Isso esbarrou no fato de a OpenAI [ser] regida por uma entidade sem fins lucrativos".</segment>
+    <segment id="18">Pessoas ao lado de logo do ChatGPT - AFPA especulação ventilada por veículos</segment>
+    <segment id="19">comocomo Reuters e The Information é que o pomo dessa discórdia corporativa de consequências societárias seja um algoritmo chamado</segment>
+    <segment id="20">Q* (lê-</segment>
+    <segment id="21">sese kiu-star)</segment>
+    <segment id="22">, que permitiria ao ChatGPT raciocinar matematicamente</segment>
+    <segment id="23">, planejar suas produções pela comparação de alternativas e</segment>
+    <segment id="24">, em sentido restrito</segment>
+    <segment id="25">, treinar a si mesmo.</segment>
+    <segment id="26">Essas parecem competências bastante distintas entre si</segment>
+    <segment id="27">, masmas</segment>
+    <segment id="28">, tecnicamente</segment>
+    <segment id="29">, não são.</segment>
+    <segment id="30">Antes mesmo do surgimento dos atuais grandes modelos de linguagem (LLMs)</segment>
+    <segment id="31">, como</segment>
+    <segment id="32">como o ChatGPT</segment>
+    <segment id="33">, algoritmos</segment>
+    <segment id="34">sese tornaram notícia ao bateram experts em jogos</segment>
+    <segment id="35">comocomo Go e Poker.</segment>
+    <segment id="36">Estas vitórias são traduções diretas (1) da habilidade desses de jogar consigo mesmos</segment>
+    <segment id="37">, modificando suas "sinapses" em função disso e (2) da capacidade de planejar cada jogada pensando no seu impacto de longo prazo</segment>
+    <segment id="38">, o que contrasta com o que fazem os LLMs atuais</segment>
+    <segment id="39">, que têm</segment>
+    <segment id="40">comocomo janela de referência futura a próxima palavra.</segment>
+    <segment id="41">Vale lembrar que jogos não são apenas diversão</segment>
+    <segment id="42">, vício ou esporte.</segment>
+    <segment id="43">Eles são referências para as dinâmicas sociais de mundo real</segment>
+    <segment id="44">, sejam elas opositivas ou cooperativas.</segment>
+    <segment id="45">Em 2017</segment>
+    <segment id="46">, um algoritmo chamado AlphaZero precisava de apenas duas horas de treinamento para compreender o jogo e superar grão-mestres.</segment>
+    <segment id="47">Seis anos depois</segment>
+    <segment id="48">, foi superado em muito (aqui vai o ranking atualizado dos algoritmos que jogam xadrez).</segment>
+    <segment id="49">Essa evolução é paralela a que</segment>
+    <segment id="50">sese observa na modelagem de negociações</segment>
+    <segment id="51">, avaliação de cenários sob incerteza e na identificação de preferências</segment>
+    <segment id="52">, domínio no qual o TikTok domina.</segment>
+    <segment id="53">Por outro lado</segment>
+    <segment id="54">, a ausência da capacidade de converter as orientações decisórias em discurso e vice-versa limita muito o escopo dessas ferramentas.</segment>
+    <segment id="55">Quando as coisas que estavam em diferentes caixinhas</segment>
+    <segment id="56">sese juntam</segment>
+    <segment id="57">, não se</segment>
+    <segment id="58">se obtém a soma linear delas</segment>
+    <segment id="59">, masmas algo muito maior.</segment>
+    <segment id="60">A combinação de estratégias avançadas de jogos com a habilidade de transacionar com pessoas e com outras máquinas</segment>
+    <segment id="61">, formalizando o que foi estabelecido em contratos</segment>
+    <segment id="62">, tende a levar ao surgimento de uma nova geração de IAs discursivo-decisórias</segment>
+    <segment id="63">, com grande potencial no direito</segment>
+    <segment id="64">, em suprimentos</segment>
+    <segment id="65">, marketing e vendas</segment>
+    <segment id="66">, nas decisões de investimento e até mesmo no planejamento estratégico da alta gestão</segment>
+    <segment id="67">, que,</segment>
+    <segment id="68">comocomo essas outras áreas</segment>
+    <segment id="69">, baseia-</segment>
+    <segment id="70">sese na análise de cenários decisórios e subsequente produção de discurso.</segment>
+    <segment id="71">Veja 8 ferramentas de inteligência artificial para ir além do ChatGPTMais    novamente         de   de  de  representando um</segment>
+    <segment id="72">A fonte anônima da OpenAI consultada pela Reuters ressaltou que o salto atingido leva à capacidade de resolver problemas matemáticos</segment>
+    <segment id="73">comocomo um estudante secundarista.</segment>
+    <segment id="74">Isso é bem menos impressionante do que negociar um contrato com base em cenários alternativos</segment>
+    <segment id="75">, eventualmente fechando uma compra acima do preço normal</segment>
+    <segment id="76">, apenas para revender o produto mais caro com base em projeções acertadas sobre o comportamento do mercado.</segment>
+    <segment id="77">Porém, não</segment>
+    <segment id="78">sese iluda: computacionalmente</segment>
+    <segment id="79">, seus fundamentos são aparentados e uma coisa deve puxar a outra.</segment>
+    <segment id="80">No mundo da cognição</segment>
+    <segment id="81">, é dado</segment>
+    <segment id="82">comocomo certo que a matemática descreve o funcionamento do mundo e que o seu domínio turbina o desempenho nas situações em que faz sentido pensar que os envolvidos estão tentando maximizar seus ganhos e minimizar suas perdas.</segment>
+    <segment id="83">Pode não resolver a vida afetiva</segment>
+    <segment id="84">, masmas multiplica resultados quando as coisas são mais objetivas e sistemáticas.</segment>
+    <segment id="85">Cientistas do Google vêm dizendo com toda clareza que sua próxima IA</segment>
+    <segment id="86">, chamada Gemini</segment>
+    <segment id="87">, deve ir nessa direção mais "racionalista".</segment>
+    <segment id="88">Não é preciso embarcar na boataria sobre Q* para assumir que o vento sopra nesse sentido da racionalização do comportamento dos LLMs.</segment>
+    <segment id="89">A tendência é convergente com a da multimodalidade</segment>
+    <segment id="90">, que tem entre seus objetivos a geração de filmes com qualidade de cinema a partir de instruções textuais ("prompts")</segment>
+    <segment id="91">, de modo a dominar essa indústria que vale em torno de US$ 100 bi/ano.</segment>
+    <segment id="92">Vale conhecer um ou outro concorrente.</segment>
+    <segment id="93">Q* possivelmente adiciona ao ChatGPT um algoritmo de aprendizado por reforço chamado Q-learning</segment>
+    <segment id="94">, que traz capacidade decisória de longo prazo ao software</segment>
+    <segment id="95">, conferindo-lhe potencial estratégico.</segment>
+    <segment id="96">Assim como</segment>
+    <segment id="97">como no</segment>
+    <segment id="98">casocaso dos algoritmos de jogos existentes</segment>
+    <segment id="99">, a ideia é que o aprendizado seja guiado por interações consigo mesmo</segment>
+    <segment id="100">, tal como</segment>
+    <segment id="101">como leigos imaginam que faria um paciente neurológico que sofresse uma secção completa do corpo caloso</segment>
+    <segment id="102">, que une os hemisférios cerebrais: o hemisfério esquerdo criaria um texto</segment>
+    <segment id="103">, que o direito avaliaria</segment>
+    <segment id="104">, antes de devolver para o outro</segment>
+    <segment id="105">, que iria corrigi-lo e reiterar.</segment>
+    <segment id="106">Mostrei</segment>
+    <segment id="107">comocomo isso funciona para a TV</segment>
+    <segment id="108">Folha há cerca de um ano.</segment>
+    <segment id="109">A nova estratégia também deve incluir um algoritmo de otimização de trajetórias chamado</segment>
+    <segment id="110">A*, que permite o reconhecimento prévio da melhor alternativa de ação.</segment>
+    <segment id="111">Trata-</segment>
+    <segment id="112">sese de um método de busca dirigida que</segment>
+    <segment id="113">sese aproxima do pensamento racional</segment>
+    <segment id="114">, tal como</segment>
+    <segment id="115">como definido por Von Neumann e Morgestern (1944)</segment>
+    <segment id="116">, que escreveram a principal obra do século 20 sobre o assunto.</segment>
+    <segment id="117">No mundo da inteligência sintética</segment>
+    <segment id="118">, a expansão da sistematicidade caminha junto com a ampliação da criatividade.</segment>
+    <segment id="119">O avanço que torna a IA capaz de negociar contratos com excelência também a torna muito melhor na elaboração de enredos.</segment>
+    <segment id="120">Os impactos</segment>
+    <segment id="121">sese dão em cascata.</segment>
+    <segment id="122">A combinação de estímulos e estratégias de processamento tem</segment>
+    <segment id="123">comocomo fronteira o surgimento de IAs que podem processar todo tipo de estímulo</segment>
+    <segment id="124">, produzindo resultados no mínimo tão bons quanto a média das pessoas e dos algoritmos especializados atualmente existentes.</segment>
+    <segment id="125">Essas tecnologias inexistentes são conhecidas</segment>
+    <segment id="126">comocomo inteligências artificiais gerais (AGIs) —um marco civilizatório no caminho à superinteligência (ASI)</segment>
+    <segment id="127">, que é a IA que promete superar os maiores experts em todas as tarefas</segment>
+    <segment id="128">, seja para o bem ou para o mal.</segment>
+    <segment id="129">Dario Amodei</segment>
+    <segment id="130">, CEO da Anthropic</segment>
+    <segment id="131">, diz que a AGI deve ser atingida em dois ou três anos</segment>
+    <segment id="132">; Shane Legg</segment>
+    <segment id="133">, fundador da Deep Mind</segment>
+    <segment id="134">, afirma que isso tende a ocorrer em torno de 2028.</segment>
+    <segment id="135">Considerando a questão de um ponto de vista estritamente técnico</segment>
+    <segment id="136">, acredito que tome mais tempo</segment>
+    <segment id="137">, dada sua dependência das competências listadas abaixo</segment>
+    <segment id="138">, masmas não vejo razões para dizer que a AGI é uma miragem tecnológica e que seguiremos —nós</segment>
+    <segment id="139">, os humanos— imbatíveis em todas as áreas teóricas e artísticas.</segment>
+    <segment id="140">Para além da questão técnica</segment>
+    <segment id="141">, é preciso considerar que toda projeção em IA que ignora as reações societárias e regulatórias tende a</segment>
+    <segment id="142">sese revelar equivocada.</segment>
+    <segment id="143">É razoável supor que controvérsias adiem o surgimento da inteligência artificial geral e mesmo inviabilizem a comercialização da superinteligência.</segment>
+    <segment id="144">Não seria um</segment>
+    <segment id="145">casocaso isolado</segment>
+    <segment id="146">, vide as bombas de hidrogênio</segment>
+    <segment id="147">, que jamais foram usadas por país algum.</segment>
+    <segment id="148">Porém, uma coisa é inegável: o debate sobre a inteligência artificial geral saiu do armário.</segment>
+    <segment id="149">Enquanto você lê este artigo</segment>
+    <segment id="150">, ele chega ao mainstream.</segment>
+  </rst>
+</analysis>

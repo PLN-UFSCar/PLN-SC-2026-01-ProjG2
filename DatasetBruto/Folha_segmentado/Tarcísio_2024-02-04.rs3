@@ -1,0 +1,111 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O ex-presidente Jair Bolsonaro (PL) comentou a recente troca de afagos entre o governador de São Paulo</segment>
+    <segment id="2">, Tarcísio de Freitas (Republicanos)</segment>
+    <segment id="3">, seu aliado</segment>
+    <segment id="4">, e o presidente Lula (PT)</segment>
+    <segment id="5">, seu principal opositor.</segment>
+    <segment id="6">"</segment>
+    <segment id="7">Tarcísio é meu irmão"</segment>
+    <segment id="8">, sese limitou a dizer</segment>
+    <segment id="9">, afirmando que não tinha mais nenhuma declaração política a fazer sobre o evento de sexta-feira (2) em que Lula e Tarcísio formalizaram a parceria na construção do túnel entre Santos e Guarujá e celebraram disposição para trabalhar juntos em projetos estratégicos para o estado.</segment>
+    <segment id="10">A lacônica frase de Bolsonaro foi dada em resposta a uma pergunta da Folha feita após ele receber apoiadores em sua casa de praia na Vila Histórica de Mambucaba</segment>
+    <segment id="11">, em Angra dos Reis (RJ)</segment>
+    <segment id="12">, no sábado (3).</segment>
+    <segment id="13">O presidente Lula e o governador Tarcísio de Freitas durante celebração dos 132 anos do porto de Santos - Adriano Vizoni - 2.fev.24/FolhapressApesar disso</segment>
+    <segment id="14">, o ex-presidente não deixou de aproveitar o assunto para criticar o adversário.</segment>
+    <segment id="15">"</segment>
+    <segment id="16">Mandaram para mim uma declaração do [Guilherme] Boulos de que</segment>
+    <segment id="17">, sese bobear</segment>
+    <segment id="18">, o Lula até filia o Tarcísio no PT.</segment>
+    <segment id="19">Eu ia ficar com receio é</segment>
+    <segment id="20">sese ele tivesse dito que o Lula iria roubar o Tarcísio para o PT</segment>
+    <segment id="21">, porque</segment>
+    <segment id="22">porque disso [roubar] ele entende bem.</segment>
+    <segment id="23">"</segment>
+    <segment id="24">Bolsonaro disse ainda que Tarcísio é reconhecido até pelos adversários</segment>
+    <segment id="25">comocomo um bom gestor e que sua atitude difere da que</segment>
+    <segment id="26">, segundo ele</segment>
+    <segment id="27">, os governadores petistas tiveram enquanto ele ocupava a Presidência da República</segment>
+    <segment id="28">, de 2019 a 2022.</segment>
+    <segment id="29">Segundo Bolsonaro</segment>
+    <segment id="30">, à exceção de uma ligação recebida de Camilo Santana (Ceará)</segment>
+    <segment id="31">, nenhum outro governador petista quis conversar com ele no período.</segment>
+    <segment id="32">Bolsonaro instala &amp;#039</segment>
+    <segment id="33">;cercadinho de Mambucaba&amp;#039</segment>
+    <segment id="34">;, em AngraMais    novamente         de   de  de  representando um  No evento de sexta em Santos</segment>
+    <segment id="35">, Tarcísio disse que era preciso celebrar os acordos recentes entre governo federal e governo paulista</segment>
+    <segment id="36">, como</segment>
+    <segment id="37">como a construção da obra no litoral.</segment>
+    <segment id="38">"</segment>
+    <segment id="39">O que importa é enxergar o interesse público"</segment>
+    <segment id="40">, disse o governador</segment>
+    <segment id="41">, que foi aplaudido ao ser anunciado</segment>
+    <segment id="42">, masmas também ouviu algumas vaias e xingamentos.</segment>
+    <segment id="43">"</segment>
+    <segment id="44">Vamos deixar esse legado trabalhando juntos.</segment>
+    <segment id="45">Muito obrigado pela parceria</segment>
+    <segment id="46">, presidente Lula.</segment>
+    <segment id="47">"  Lula falou em seguida e saiu em defesa de Tarcísio.</segment>
+    <segment id="48">Disse que é preciso restaurar a "normalidade" política</segment>
+    <segment id="49">para que</segment>
+    <segment id="50">para que ele e o governador possam atuar em conjunto em programas para o estado</segment>
+    <segment id="51">, com "respeito às diferenças" dentro da democracia.  "</segment>
+    <segment id="52">O governador merece ser tratado com muito respeito nas atividades públicas que nós fazemos"</segment>
+    <segment id="53">, afirmou.</segment>
+    <segment id="54">"</segment>
+    <segment id="55">Parabéns pela relação democrática entre Brasil e São Paulo"</segment>
+    <segment id="56">, completou Lula ao final de sua fala.</segment>
+    <segment id="57">Leia tambémBolsonaro instala &amp;#</segment>
+    <segment id="58">039;cercadinho&amp;#039</segment>
+    <segment id="59">; em casa de praia</segment>
+    <segment id="60">, e conversas incluem nióbio e Lula</segment>
+    <segment id="61">; veja vídeo Bolsonaro enaltece morte de suspeitos pela Rota em resposta a assassinato de soldadoBolsonaro tem assistido a desgaste de aliados que</segment>
+    <segment id="62">, nas redes sociais</segment>
+    <segment id="63">, são criticados por declarações</segment>
+    <segment id="64">, recentes ou antigas de apoio a Lula.</segment>
+    <segment id="65">O presidente do PL</segment>
+    <segment id="66">, Valdemar Costa Neto</segment>
+    <segment id="67">, por exemplo</segment>
+    <segment id="68">, teve que</segment>
+    <segment id="69">sese explicar nas redes e ao ex-presidente após começar a circular na internet vídeo editado de uma entrevista de dezembro em que ele</segment>
+    <segment id="70">, Valdemar</segment>
+    <segment id="71">, elogiava Lula</segment>
+    <segment id="72">, afirmando que o atual mandatário tem prestígio e popularidade.</segment>
+    <segment id="73">Bolsonaro reagiu e falou em "implosão do partido" com "declaração absurda" de "pessoa do partido"  "</segment>
+    <segment id="74">Essa semana tive um problema sério</segment>
+    <segment id="75">, não vou falar com quem.</segment>
+    <segment id="76">Se continuar assim</segment>
+    <segment id="77">, vai implodir o partido.</segment>
+    <segment id="78">Pessoa do partido dando declaração absurda</segment>
+    <segment id="79">, como</segment>
+    <segment id="80">como 'o Lula é extremamente popular'.</segment>
+    <segment id="81">Manda ele tomar um [cachaça] 51 ali na esquina.</segment>
+    <segment id="82">[Lula] Não vem"</segment>
+    <segment id="83">, afirmou à época a apoiadores.</segment>
+    <segment id="84">Entenda rusgas entre Bolsonaro e TarcísioMais    novamente         de   de  de  representando</segment>
+    <segment id="85">um</segment>
+  </rst>
+</analysis>

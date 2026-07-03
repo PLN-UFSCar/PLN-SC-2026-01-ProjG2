@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo Luiz Inácio Lula da Silva definiu os temas que nortearão a presidência brasileira do G20</segment>
+    <segment id="2">, grupo que reúne países ricos e emergentes</segment>
+    <segment id="3">, a partir de dezembro.</segment>
+    <segment id="4">O presidente Lula durante entrevista no encontro dos Brics</segment>
+    <segment id="5">, na África do Sul - Phill Magakoe/AFPSerá um tripé: transição energética</segment>
+    <segment id="6">, sustentabilidade justa e reforma das instituições globais.</segment>
+    <segment id="7">Os dois primeiros pontos têm relação com as agendas da sustentabilidade e da justiça social</segment>
+    <segment id="8">, que o presidente defende rotineiramente em fóruns globais.</segment>
+    <segment id="9">Já o terceiro ponto é uma prioridade antiga do Itamaraty e inclui</segment>
+    <segment id="10">, por exemplo</segment>
+    <segment id="11">, a reforma do Conselho de Segurança da ONU.</segment>
+    <segment id="12">A presidência rotativa do G20</segment>
+    <segment id="13">, que dura um ano</segment>
+    <segment id="14">, é considerada por Lula a grande oportunidade para o Brasil</segment>
+    <segment id="15">sese projetar em âmbito mundial durante seu mandato.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Carbonizados no Bairro da Paz</segment>
+    <segment id="2">Os cadáveres estavam numa estrada de barro que dá acesso ao KM 17</segment>
+    <segment id="3">Dois corpos carbonizados</segment>
+    <segment id="4">, do sexo masculino</segment>
+    <segment id="5">, foram encontrados</segment>
+    <segment id="6">, ontem</segment>
+    <segment id="7">, no Bairro da Paz.</segment>
+    <segment id="8">Os cadáveres estavam numa estrada de barro que dá acesso ao KM 17</segment>
+    <segment id="9">, em Itapuã</segment>
+    <segment id="10">, perto de uma construção de prédios.</segment>
+    <segment id="11">Os corpos estavam com os braços e as mãos amarradas.</segment>
+    <segment id="12">Havia manchas de sangue no local do crime.</segment>
+    <segment id="13">A polícia investiga o</segment>
+    <segment id="14">casocaso.</segment>
+  </rst>
+</analysis>

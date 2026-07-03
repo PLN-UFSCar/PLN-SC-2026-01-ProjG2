@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Uziel Bueno acerta sua volta Ã  TV</segment>
+    <segment id="2">O apresentador tem recebido propostas interessantes</segment>
+    <segment id="3">Fora do comando do programa Brasil Urgente</segment>
+    <segment id="4">, na Band</segment>
+    <segment id="5">, o apresentador Uziel Bueno aproveita o tempo livre para curtir a famÃ­lia e descansar.</segment>
+    <segment id="6">Ele nÃ£o estÃ¡ no ar na TV</segment>
+    <segment id="7">, masmas</segment>
+    <segment id="8">, continua na Tudo FM e cuidando do seu site www.osistemaebruto.com.br.</segment>
+    <segment id="9">Em off</segment>
+    <segment id="10">, ele estÃ¡ negociando com algumas emissoras â€</segment>
+    <segment id="11">“ inclusive de outros estados</segment>
+    <segment id="12">,  mas</segment>
+    <segment id="13">mas ele prefere ficar na Bahia â€</segment>
+    <segment id="14">“ seu retorno Ã  telinha.</segment>
+    <segment id="15">Segundo fontes prÃ³ximas ao comunicador</segment>
+    <segment id="16">, atÃ© o mÃªs de dezembro jÃ¡</segment>
+    <segment id="17">estarÃ¡ definido o destino dele o do seu diretor e braÃ§o direito</segment>
+    <segment id="18">, Ramon Margiolle.</segment>
+    <segment id="19">As propostas tÃªm sido tentadoras no quesito salarial</segment>
+    <segment id="20">, alÃ©m de participaÃ§Ã£o nos lucros de merchan.</segment>
+  </rst>
+</analysis>

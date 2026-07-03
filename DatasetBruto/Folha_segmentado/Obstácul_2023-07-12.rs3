@@ -1,0 +1,184 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Esta é a edição da Combo</segment>
+    <segment id="2">, a newsletter de games da Folha.</segment>
+    <segment id="3">Quer recebê-la todas as terças no seu email?</segment>
+    <segment id="4">Inscreva-</segment>
+    <segment id="5">sese abaixo.</segment>
+    <segment id="6">ComboA newsletter da Folha com o que interessa sobre a indústria de games e com as dicas do que você ainda vai jogar.</segment>
+    <segment id="7">Carregando...</segment>
+    <segment id="8">Jogos construídos com a ajuda de IA (inteligência artificial) estão sendo vetados na Steam</segment>
+    <segment id="9">, considerada a maior loja virtual de games do mundo.</segment>
+    <segment id="10">As medidas foram tomadas pela Valve</segment>
+    <segment id="11">, dona da loja</segment>
+    <segment id="12">, devido a "incertezas legais</segment>
+    <segment id="13">" sobre o uso dessa tecnologia nos games</segment>
+    <segment id="14">, principalmente em relação a direitos autorais.</segment>
+    <segment id="15">Vale lembrar</segment>
+    <segment id="16">A Valve já tomou medida similar com jogos em "blockchain" ou que usam NFTs.</segment>
+    <segment id="17">Esses games estavam em alta em 2021 e no início de 2022</segment>
+    <segment id="18">, masmas já perderam boa parte do prestígio desde que o mercado adotou a IA</segment>
+    <segment id="19">comocomo a tecnologia da moda.</segment>
+    <segment id="20">O que diz a Valve  "</segment>
+    <segment id="21">A introdução da IA [no desenvolvimento de games] às vezes pode tornar mais difícil demonstrar que um desenvolvedor tem direitos suficientes para usar a IA na criação de alguns elementos</segment>
+    <segment id="22">, incluindo imagens</segment>
+    <segment id="23">, texto e música.</segment>
+    <segment id="24">Em particular</segment>
+    <segment id="25">, existe uma incerteza legal relacionada aos dados utilizados para treinar modelos de IA"</segment>
+    <segment id="26">, afirmou a empresa em comunicado enviado ao site GamesIndustry.biz.</segment>
+    <segment id="27">Catarina PignatoComo assim?</segment>
+    <segment id="28">A IA é uma forma de imitar a inteligência humana e o processo de aprendizado humano em máquinas.</segment>
+    <segment id="29">Uma das técnicas que ajudaram a impulsionar essa tecnologia</segment>
+    <segment id="30">sese chama "machine learning".</segment>
+    <segment id="31">Nela, o computador examina grandes conjuntos de dados para detectar padrões nas informações</segment>
+    <segment id="32">, podendo depois reproduzi-las e recombiná-las de outras formas.</segment>
+    <segment id="33">Dessa forma</segment>
+    <segment id="34">, sese uma IA usada para criar um jogo for "treinada" com uma base de dados que inclui elementos que não são dos desenvolvedores do jogo</segment>
+    <segment id="35">, é possível que ela gere um conteúdo copiado de terceiros</segment>
+    <segment id="36">, o que poderia acarretar processos por plágio ou quebra de direitos autorais.</segment>
+    <segment id="37">Mais perguntas que respostas</segment>
+    <segment id="38">"</segment>
+    <segment id="39">Está todo mundo ainda engatinhando"</segment>
+    <segment id="40">, afirma Vanessa Lerner</segment>
+    <segment id="41">, sócia do escritório Dias Carneiro Advogados que há dez anos assessora empresas do setor de games.</segment>
+    <segment id="42">"</segment>
+    <segment id="43">Nos Estados Unidos</segment>
+    <segment id="44">, o Copyright Office emitiu uma opinião falando que itens criados por uma IA</segment>
+    <segment id="45">, a princípio</segment>
+    <segment id="46">, não teriam direito autoral</segment>
+    <segment id="47">, masmas isso ainda está sendo avaliado.</segment>
+    <segment id="48">"  Brasil atrasado  Se mesmo nos Estados Unidos essa questão ainda é incerta</segment>
+    <segment id="49">, no Brasil a situação é ainda pior.</segment>
+    <segment id="50">Lerner lembra que a legislação de direitos autorais do Brasil é de 1998 e já estava defasada em relação a regular conteúdos digitais.</segment>
+    <segment id="51">Quando entramos no terreno da IA</segment>
+    <segment id="52">, a incerteza jurídica é total.  "</segment>
+    <segment id="53">Essa insegurança inviabiliza o uso da tecnologia para o pequeno desenvolvedor.</segment>
+    <segment id="54">Uma empresa grande</segment>
+    <segment id="55">, em geral</segment>
+    <segment id="56">, está mais disposta a correr risco</segment>
+    <segment id="57">, masmas uma empresa pequena simplesmente não pode"</segment>
+    <segment id="58">, afirma Lerner.</segment>
+    <segment id="59">Dicas para o seu robô    Saiba de onde vem sua base de dados.</segment>
+    <segment id="60">Para evitar problemas</segment>
+    <segment id="61">, Lerner aconselha que os desenvolvedores saibam de onde vem o conteúdo que foi usado para treinar a IA.</segment>
+    <segment id="62">"</segment>
+    <segment id="63">Na hora que você está juntando informações para alimentar a IA</segment>
+    <segment id="64">, você precisa ter certeza que aquelas informações podem de fato ser usadas para isso.</segment>
+    <segment id="65">"</segment>
+    <segment id="66">Cheque o conteúdo gerado.</segment>
+    <segment id="67">É importante</segment>
+    <segment id="68">sese certificar que o conteúdo produzido é realmente original.</segment>
+    <segment id="69">"É preciso uma avaliação muito clara do conteúdo que está sendo gerado para ter certeza que ele é de fato novo e não é baseado em termos ainda vinculantes a um conteúdo anterior"</segment>
+    <segment id="70">, diz Lerner.</segment>
+    <segment id="71">Seja transparente.</segment>
+    <segment id="72">Por fim</segment>
+    <segment id="73">, a advogada recomenda que o desenvolvedor informe os usuários</segment>
+    <segment id="74">sese eles forem interagir com uma IA.</segment>
+    <segment id="75">"</segment>
+    <segment id="76">A gente sabe que essa tecnologia nova não é necessariamente conhecida pelos jogadores.</segment>
+    <segment id="77">Então é preciso um trabalho grande de transparência</segment>
+    <segment id="78">para que</segment>
+    <segment id="79">para que eles entendam exatamente do que eles estão participando.</segment>
+    <segment id="80">"</segment>
+    <segment id="81">ChatGPT mudou cenário da inteligência artificialMais    novamente         de   de  de  representando um   Play  dica de game</segment>
+    <segment id="82">, novo ou antigo</segment>
+    <segment id="83">, para você testar  Rogue Legacy 2  (PC</segment>
+    <segment id="84">, Switch</segment>
+    <segment id="85">, PS 4/5</segment>
+    <segment id="86">, Xbox One/X/S)  Lançado em abril de 2022 para PCs e consoles Xbox</segment>
+    <segment id="87">, esse ótimo jogo de ação/plataforma mistura elementos de "Metroidvania" (similar às séries "Metroid" e "Castlevania") e de "roguelike" chegou só no mês passado aos consoles PlayStation.</segment>
+    <segment id="88">A cada vida</segment>
+    <segment id="89">, o jogador enfrenta um labirinto cheio de monstros com um herói com habilidades e características diferentes</segment>
+    <segment id="90">, deixando de legado o ouro e melhorias conquistadas para a próxima geração.</segment>
+    <segment id="91">Essa mecânica cria um ciclo viciante de jogabilidade</segment>
+    <segment id="92">, difícil de largar.</segment>
+    <segment id="93">Imagem do jogo &amp;#039</segment>
+    <segment id="94">;Rogue</segment>
+    <segment id="95">Legacy 2&amp;#039</segment>
+    <segment id="96">; - Divulgação Update  novidades</segment>
+    <segment id="97">, lançamentos</segment>
+    <segment id="98">, negócios e o que mais importa</segment>
+    <segment id="99">Um relatório anual publicado pela Nintendo apontou que apenas 4</segment>
+    <segment id="100">,2% dos gerentes que trabalham nos seus escritórios no Japão são mulheres</segment>
+    <segment id="101">, destacou o site Axios.</segment>
+    <segment id="102">Ainda segundo o documento</segment>
+    <segment id="103">, as mulheres recebem em média 72% do salário dos homens.</segment>
+    <segment id="104">A Nintendo nega que exista diferença no tratamento de homens e mulheres na empresa e atribui os números à longevidade de seus empregados no trabalho (média de 14</segment>
+    <segment id="105">,3 anos).</segment>
+    <segment id="106">Yuji Naka</segment>
+    <segment id="107">, um dos co-criadores do porco-espinho</segment>
+    <segment id="108">Sonic, foi condenado no Japão a dois anos e meio de prisão e multa de 173 milhões de ienes (R$ 6 milhões)</segment>
+    <segment id="109">, afirmou o site VGC.</segment>
+    <segment id="110">Ele se</segment>
+    <segment id="111">se declarou culpado por negociar ações com uso indevido de informação privilegiada</segment>
+    <segment id="112">, prática conhecida</segment>
+    <segment id="113">comocomo "insider trading"</segment>
+    <segment id="114">, e poderá cumprir a sentença em liberdade condicional.</segment>
+    <segment id="115">A IO Interactive</segment>
+    <segment id="116">, responsável pelos últimos jogos da franquia "Hitman"</segment>
+    <segment id="117">, anunciou a abertura de um novo estúdio em Brighton</segment>
+    <segment id="118">, na Inglaterra.</segment>
+    <segment id="119">Sugestivamente</segment>
+    <segment id="120">, o estúdio inglês trabalhará no novo game do espião 007.</segment>
+    <segment id="121">Já a EA anunciou a criação do estúdio Cliffhanger Games</segment>
+    <segment id="122">, baseado em Seattle.</segment>
+    <segment id="123">A nova empresa desenvolverá jogos de primeira linha da publicadora e está trabalhando atualmente em um game de aventura em terceira pessoa baseado no herói Pantera Negra</segment>
+    <segment id="124">, da Marvel.</segment>
+    <segment id="125">O BIG Festival recebeu mais de 50 mil visitantes ao longo dos cinco dias do evento deste ano</segment>
+    <segment id="126">, um recorde para o festival segundo seus organizadores.</segment>
+    <segment id="127">A edição do ano que vem acontecerá de 26 a 30 de junho</segment>
+    <segment id="128">, de novo no Expo São Paulo</segment>
+    <segment id="129">, zona sul da capital paulista.</segment>
+    <segment id="130">O New York Times começou a testar a inclusão de anúncios no Wordle</segment>
+    <segment id="131">, um de seus jogos mais populares.</segment>
+    <segment id="132">Segundo a Axios</segment>
+    <segment id="133">, as propagandas aparecem para usuários que não assinam a plataforma de games do jornal.</segment>
+    <segment id="134">O game "GTA V"</segment>
+    <segment id="135">, da Rockstar</segment>
+    <segment id="136">, voltou ao serviço de games por assinatura da Microsoft</segment>
+    <segment id="137">, o Xbox Game Pass.</segment>
+    <segment id="138">O título já está disponível na versão para consoles e na nuvem.</segment>
+    <segment id="139">O serviço também recebe no próximo dia 18 "The Cave"</segment>
+    <segment id="140">, título menos conhecido de Ron Gilbert</segment>
+    <segment id="141">, um dos criadores da (esta sim famosa) série "Monkey Island".</segment>
+    <segment id="142">Download  games que serão lançados nos próximos dias e promoções que valem a pena  12.jul  "Mordhau": R$ 159</segment>
+    <segment id="143">,95 (Xbox One/X/S)</segment>
+    <segment id="144">, preço não disponível (PS 4/5)  "</segment>
+    <segment id="145">Oxenfree II: Lost Signals": R$ 75</segment>
+    <segment id="146">,93 (Switch)</segment>
+    <segment id="147">, R$ 104</segment>
+    <segment id="148">,90 (PS 4/5)</segment>
+    <segment id="149">, preço não disponível (PC</segment>
+    <segment id="150">, iOS, Android)  13.jul  "Gravity Circuit": R$ 38</segment>
+    <segment id="151">,99 (Switch)</segment>
+    <segment id="152">, preço não disponível (PC</segment>
+    <segment id="153">, PS 4/5)  14.jul  "Exoprimal": R$ 249* (PC</segment>
+    <segment id="154">, Xbox One/X/S)</segment>
+    <segment id="155">, R$ 279</segment>
+    <segment id="156">,50 (PS 4/5)  18.jul  "Viewfinder": preço não disponível (PC</segment>
+    <segment id="157">, PS 5)  "Techtonica": preço não disponível* (PC</segment>
+    <segment id="158">, Xbox One/X/S)  *Disponível no Xbox Game Pass</segment>
+  </rst>
+</analysis>

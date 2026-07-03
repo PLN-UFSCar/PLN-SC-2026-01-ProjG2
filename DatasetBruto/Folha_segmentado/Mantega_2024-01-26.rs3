@@ -1,0 +1,55 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O ex-ministro Guido Mantega vai divulgar uma carta ainda nesta sexta-feira (26) afirmando que abre mão de ocupar um cargo na Vale</segment>
+    <segment id="2">, em um movimento articulado junto com o presidente Lula (PT).</segment>
+    <segment id="3">A ideia do governo é que isso seja interpretado</segment>
+    <segment id="4">comocomo uma sinalização para a mineradora privada escolher um outro nome para o cargo de presidente</segment>
+    <segment id="5">, sem reconduzir Eduardo Bartolomeo</segment>
+    <segment id="6">, que ocupa o posto atualmente.</segment>
+    <segment id="7">O movimento também foi articulado com o ministro Alexandre Silveira (Minas e Energia).</segment>
+    <segment id="8">Embora</segment>
+    <segment id="9">sese articulasse</segment>
+    <segment id="10">para que</segment>
+    <segment id="11">para que Mantega assumisse a presidência</segment>
+    <segment id="12">, o governo Lula também aceitaria que ele fosse indicado para o conselho</segment>
+    <segment id="13">, masmas o ex-ministro desistiu de todas as opções.</segment>
+    <segment id="14">O recuo ocorreu em face da grande resistência ao nome dele</segment>
+    <segment id="15">, em razão de sua atuação no governo Dilma Rousseff</segment>
+    <segment id="16">, que registrou a maior recessão da história do país.</segment>
+    <segment id="17">A mineradora privada começou a debater nesta semana sobre o comando da companhia nos próximos três anos</segment>
+    <segment id="18">, com a avaliação de comitê interno sobre a possível recondução do presidente atual.</segment>
+    <segment id="19">Nas últimas semanas</segment>
+    <segment id="20">, membros do governo e aliados do petista fizeram uma ofensiva em defesa do nome de Mantega.</segment>
+    <segment id="21">Nesta semana</segment>
+    <segment id="22">, Lula criticou a atuação da mineradora após a tragédia de Brumadinho (MG)</segment>
+    <segment id="23">, que matou 270 pessoas há cinco anos e</segment>
+    <segment id="24">, em outra frente</segment>
+    <segment id="25">, a presidente do PT</segment>
+    <segment id="26">, Gleisi Hoffmann</segment>
+    <segment id="27">, recorreu às redes sociais para reforçar a pressão pela indicação de Mantega ao comando da Vale.</segment>
+    <segment id="28">Guido Mantega durante sessão no Congresso Nacional</segment>
+    <segment id="29">, em Brasília - Evaristo Sa - 27.out.2015/AFP</segment>
+  </rst>
+</analysis>

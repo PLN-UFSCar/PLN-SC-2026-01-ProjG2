@@ -1,0 +1,173 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Ministério da Fazenda decidiu atender a pleitos de governadores e propor uma série de mudanças nas regras do chamado Regime de Recuperação Fiscal (RRF)</segment>
+    <segment id="2">, criado há seis anos e que concede alívio para a dívida de estados em crise em troca de um conjunto de medidas para melhorar as contas públicas.</segment>
+    <segment id="3">O Tesouro Nacional promete ser mais tolerante com medidas específicas impostas hoje aos estados</segment>
+    <segment id="4">, como</segment>
+    <segment id="5">como congelamento de salários do funcionalismo</segment>
+    <segment id="6">, e focar o alcance dos resultados prometidos.</segment>
+    <segment id="7">Na prática</segment>
+    <segment id="8">, as alterações devem representar uma flexibilização em relação ao desenho atual do programa de socorro.</segment>
+    <segment id="9">As demandas vinham sendo feitas pelos estados que participam hoje do regime –Rio de Janeiro</segment>
+    <segment id="10">, Rio Grande do Sul e Goiás– e por Minas Gerais</segment>
+    <segment id="11">, cujo pedido de adesão feito no ano passado ainda não foi homologado pelo governo federal.</segment>
+    <segment id="12">A reclamação era de que o regime impunha medidas muito severas</segment>
+    <segment id="13">, o que foi parcialmente reconhecido pelo Tesouro.</segment>
+    <segment id="14">Secretário do Tesouro Nacional</segment>
+    <segment id="15">, Rogério Ceron</segment>
+    <segment id="16">, em seu gabinete no Ministério da Fazenda - Gabriela Biló - 4.jan.2023/FolhapressO tema avançou após uma reunião em maio entre o ministro Fernando Haddad (Fazenda) e os governadores Cláudio Castro (PL-RJ)</segment>
+    <segment id="17">, Eduardo Leite (PSDB-RS)</segment>
+    <segment id="18">, Ronaldo Caiado (União-GO) e Romeu Zema (Novo-MG) –apontado</segment>
+    <segment id="19">comocomo possível candidato ao Palácio do Planalto pela direita para 2026 depois que o ex-presidente Jair Bolsonaro (PL) foi declarado inelegível.</segment>
+    <segment id="20">No encontro</segment>
+    <segment id="21">, os governadores argumentaram que as receitas estaduais fugiram do controle por influência das mudanças no ICMS</segment>
+    <segment id="22">, articuladas pelo governo de Bolsonaro em meio à corrida eleitoral</segment>
+    <segment id="23">, e citaram outros fatores de dificuldades –</segment>
+    <segment id="24">comocomo o aumento do teto remuneratório do serviço público e consequentes reajustes automáticos para diferentes carreiras.</segment>
+    <segment id="25">À Folha</segment>
+    <segment id="26">, o secretário do Tesouro Nacional</segment>
+    <segment id="27">, Rogério Ceron</segment>
+    <segment id="28">, afirma que as mudanças não representam uma flexibilização aos governadores</segment>
+    <segment id="29">, masmas aperfeiçoamentos</segment>
+    <segment id="30">para que</segment>
+    <segment id="31">para que o programa</segment>
+    <segment id="32">sese volte ao seu objetivo central: ajudar estados em situação de calamidade financeira.</segment>
+    <segment id="33">"</segment>
+    <segment id="34">O único interesse da União é que ele [estado] volte a ter condições de honrar a dívida"</segment>
+    <segment id="35">, diz.</segment>
+    <segment id="36">"</segment>
+    <segment id="37">Ele [RRF] não é tão punitivo quanto era</segment>
+    <segment id="38">, ele fica mais voltado para a indução de conduta</segment>
+    <segment id="39">, para incentivo.</segment>
+    <segment id="40">Se [o estado] performar seus resultados fiscais</segment>
+    <segment id="41">, ele tem mais flexibilidade.</segment>
+    <segment id="42">Se sair antes do regime</segment>
+    <segment id="43">, tem benefícios"</segment>
+    <segment id="44">, diz Ceron.</segment>
+    <segment id="45">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="46">; aberta para não assinantes.</segment>
+    <segment id="47">Carregando...</segment>
+    <segment id="48">Entre as alterações</segment>
+    <segment id="49">, que serão propostas pelo governo por meio de um projeto de lei complementar</segment>
+    <segment id="50">, a que mais abranda as regras é a extensão do prazo máximo de permanência no regime de 9 para 12 anos.</segment>
+    <segment id="51">Segundo Ceron</segment>
+    <segment id="52">, a ampliação considera os efeitos da menor arrecadação dos estados após as mudanças no ICMS em 2022.</segment>
+    <segment id="53">Durante a vigência do regime fiscal</segment>
+    <segment id="54">, o estado deve hoje respeitar atualmente um conjunto de proibições com o intuito de restringir a expansão das despesas e a concessão de benefícios fiscais.</segment>
+    <segment id="55">É o caso</segment>
+    <segment id="56">caso, por exemplo</segment>
+    <segment id="57">, da concessão de reajustes salariais</segment>
+    <segment id="58">, da realização de concursos públicos e do corte de alíquotas que reduza a arrecadação.</segment>
+    <segment id="59">O governo quer agora dar mais liberdade para as contrapartidas oferecidas pelos estados</segment>
+    <segment id="60">, inclusive quanto à venda de ativos.</segment>
+    <segment id="61">Hoje, o regime demanda a apresentação de um plano que inclua medidas</segment>
+    <segment id="62">comocomo a alienação de participação em estatais</segment>
+    <segment id="63">comocomo parte do processo de ajuste.</segment>
+    <segment id="64">De acordo com Ceron</segment>
+    <segment id="65">, tais operações passarão a ser opcionais.</segment>
+    <segment id="66">As modificações devem ser decisivas para destravar a homologação do pedido de adesão feito no ano passado por Minas Gerais</segment>
+    <segment id="67">, que enfrenta dificuldades políticas em sua Assembleia Legislativa para aprovar parte das medidas necessárias para o acordo com o Tesouro.</segment>
+    <segment id="68">No estado</segment>
+    <segment id="69">, há uma resistência em revogar o adicional por tempo de serviço a que os servidores têm direito —um benefício já extinto na União e que também precisou ser revogado por outros estados que quiseram aderir ao RRF.</segment>
+    <segment id="70">Em 2022</segment>
+    <segment id="71">, Zema precisou de uma medida cautelar do ministro Kassio Nunes Marques</segment>
+    <segment id="72">, do STF (Supremo Tribunal Federal)</segment>
+    <segment id="73">, para não interromper o processo de adesão em trâmite no Tesouro.</segment>
+    <segment id="74">O novo modelo proposto pelo Tesouro inclui também uma redução da penalidade imposta para quem descumprir os itens previstos na época de adesão ao plano.</segment>
+    <segment id="75">Em vez de um incremento de até 30% nos encargos da dívida</segment>
+    <segment id="76">, a "multa" passa a ser gradual.</segment>
+    <segment id="77">A sanção será de 5%</segment>
+    <segment id="78">sese houver descumprimento de alguma medida ao fim de cada ciclo de avaliação (seis meses).</segment>
+    <segment id="79">Outra mudança é a criação de um incentivo para os estados</segment>
+    <segment id="80">sese anteciparem ao prazo final e</segment>
+    <segment id="81">sese desligarem antes do regime.</segment>
+    <segment id="82">Nesses casos</segment>
+    <segment id="83">, o ente ganha uma extensão para o pagamento de suas dívidas correspondente ao tempo que ainda teria</segment>
+    <segment id="84">casocaso continuasse no plano –por exemplo</segment>
+    <segment id="85">, sese sai três anos antes do prazo</segment>
+    <segment id="86">, pode alongar o pagamento da dívida em três anos.</segment>
+    <segment id="87">O Tesouro também propõe a possibilidade de os estados elevarem seus gastos além da inflação em</segment>
+    <segment id="88">casocaso de cumprimento das metas fiscais no ano anterior</segment>
+    <segment id="89">, desde que não haja comprometimento dos alvos para os exercícios seguintes (hoje</segment>
+    <segment id="90">, os estados devem contemplar um plano para evitar tal elevação).</segment>
+    <segment id="91">A lógica atual segue um modelo semelhante ao do teto de gastos</segment>
+    <segment id="92">, que impede o crescimento real das despesas</segment>
+    <segment id="93">, e é considerada rígida demais para casos</segment>
+    <segment id="94">comocomo o de Goiás –que tem situação um pouco melhor que os demais estados.</segment>
+    <segment id="95">Não haverá uma limitação percentual de quanto o gasto de cada ente poderá crescer acima da inflação.</segment>
+    <segment id="96">Também serão elevados os limites para crédito quando a operação for voltada à reestruturação de passivos.</segment>
+    <segment id="97">Além disso</segment>
+    <segment id="98">, haverá autorização para empréstimos garantidos pela União para operações de financiamento para PPPs (parcerias público-privadas) que reduzam custos já existentes (por exemplo</segment>
+    <segment id="99">, a reforma de um hospital em modelo de PPP que corte gastos em relação ao modelo vigente).</segment>
+    <segment id="100">As mudanças serão anunciadas pelo governo nesta quarta-feira (26) em meio a um pacote mais amplo de propostas voltadas aos estados e</segment>
+    <segment id="101">, sese aprovadas pelo Congresso Nacional</segment>
+    <segment id="102">, representarão a segunda modificação estrutural nas regras do programa</segment>
+    <segment id="103">, criado em 2017 para socorrer entes em crise.</segment>
+    <segment id="104">Apesar da série de concessões</segment>
+    <segment id="105">, o Tesouro não atendeu integralmente aos pleitos feitos pelos estados.</segment>
+    <segment id="106">A demanda pela redução dos juros das dívidas dos entes</segment>
+    <segment id="107">, por exemplo</segment>
+    <segment id="108">, ficou de fora por representar um forte subsídio da União.</segment>
+    <segment id="109">ENTENDA</segment>
+    <segment id="110">O REGIME DE RECUPERAÇÃO FISCAL</segment>
+    <segment id="111">O que é o Regime de Recuperação Fiscal?</segment>
+    <segment id="112">Programa criado em 2017 para ajudar estados em grave desequilíbrio fiscal e que permite</segment>
+    <segment id="113">, por exemplo</segment>
+    <segment id="114">, a suspensão do pagamento de dívidas dos entes em troca de medidas de ajuste.</segment>
+    <segment id="115">Que estados fazem parte do regime?</segment>
+    <segment id="116">Rio de Janeiro (desde 2017)</segment>
+    <segment id="117">, Goiás (desde 2021) e Rio Grande do Sul (desde 2022).</segment>
+    <segment id="118">Minas Gerais pediu para entrar no ano passado</segment>
+    <segment id="119">, masmas ainda não teve o plano homologado.</segment>
+    <segment id="120">Quem pode aderir?</segment>
+    <segment id="121">Estados que tenham</segment>
+    <segment id="122">, cumulativamente:</segment>
+    <segment id="123">-receita corrente líquida menor que a dívida consolidada -despesas correntes superiores a 95% da receita corrente líquida ou despesas com pessoal de</segment>
+    <segment id="124">, no mínimo</segment>
+    <segment id="125">, 60% da receita corrente líquida -valor total de obrigações maior que caixa  Que medidas de ajuste precisam ser implementadas?</segment>
+    <segment id="126">Ficam vedados</segment>
+    <segment id="127">, por exemplo</segment>
+    <segment id="128">, reajustes salariais</segment>
+    <segment id="129">, concursos públicos e corte de alíquotas que reduza a arrecadação.</segment>
+    <segment id="130">Essas limitações</segment>
+    <segment id="131">, no entanto</segment>
+    <segment id="132">, podem ser flexibilizadas</segment>
+    <segment id="133">casocaso a medida não impacte o equilíbrio fiscal.</segment>
+    <segment id="134">Estado também precisa apresentar um plano com medidas</segment>
+    <segment id="135">comocomo venda de ativos</segment>
+    <segment id="136">, redução de benefícios fiscais e limitação do crescimento das despesas à inflação.</segment>
+    <segment id="137">O que propõe o Tesouro?</segment>
+    <segment id="138">-Maior foco em resultados fiscais</segment>
+    <segment id="139">-Gradação das penalidades em</segment>
+    <segment id="140">casocaso de descumprimento de medidas acordadas</segment>
+    <segment id="141">-Incentivos para saída antecipada do RRF (extensão para o pagamento das dívidas correspondente ao tempo que o estado ainda teria</segment>
+    <segment id="142">casocaso continuasse no plano)</segment>
+    <segment id="143">-Possibilidade de crescimento real das despesas em</segment>
+    <segment id="144">casocaso de cumprimento das metas fiscais do exercício anterior</segment>
+    <segment id="145">-Aumento dos limites para operações de crédito visando reestruturação de passivos -Autorização para operações garantidas pela União para operações de financiamento de contraprestações ou aportes em PPPs que reduzam custos já existentes (por exemplo</segment>
+    <segment id="146">, construção de um hospital em modelo de PPP que reduza gastos em relação ao modelo público)</segment>
+    <segment id="147">-Possibilidade de extensão do prazo do regime de 9 para 12 anos</segment>
+  </rst>
+</analysis>

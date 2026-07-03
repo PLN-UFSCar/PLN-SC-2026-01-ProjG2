@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O ministro Waldez Góes (Integração e Desenvolvimento Regional) afirmou a interlocutores que a prioridade da pasta neste ano será a aprovação no Congresso Nacional de projetos que instituem planos regionais de desenvolvimento do Nordeste</segment>
+    <segment id="2">, do Centro-Oeste e da Amazônia.</segment>
+    <segment id="3">Em novembro</segment>
+    <segment id="4">, o Executivo enviou três projetos à Câmara dos Deputados</segment>
+    <segment id="5">, cada um voltado para uma região</segment>
+    <segment id="6">, masmas não houve andamento —não foram designados relatores</segment>
+    <segment id="7">, por exemplo.</segment>
+    <segment id="8">O ministro da Integração</segment>
+    <segment id="9">, Waldez Góes - Pedro Ladeira - 22.fev.23/Folhapress</segment>
+    <segment id="10">Cada matéria apresenta um plano regional de desenvolvimento da região em questão para o período de 2024 a 2027</segment>
+    <segment id="11">, com apresentação de programas e metas em eixos</segment>
+    <segment id="12">comocomo infraestrutura</segment>
+    <segment id="13">, meio ambiente e inovação.</segment>
+    <segment id="14">Segundo o ministro afirmou a interlocutores</segment>
+    <segment id="15">, ele irá procurar pessoalmente na volta dos trabalhos legislativos líderes partidários e o próprio presidente da Casa</segment>
+    <segment id="16">, Arthur Lira (PP-AL)</segment>
+    <segment id="17">, para tentar dar celeridade aos trâmites.</segment>
+    <segment id="18">Ex-governador do Amapá</segment>
+    <segment id="19">, Góes foi indicado ao cargo na Esplanada pelo senador Davi Alcolumbre (União Brasil-AP) e tem bom trânsito entre parlamentares.</segment>
+  </rst>
+</analysis>

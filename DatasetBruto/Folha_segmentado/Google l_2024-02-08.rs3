@@ -1,0 +1,119 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Google lançou nesta quinta-feira (8) o Gemini</segment>
+    <segment id="2">, seu mais recente sistema de inteligência artificial generativa</segment>
+    <segment id="3">, juntamente com novas ofertas para empresas e consumidores</segment>
+    <segment id="4">, enquanto a gigante da tecnologia disputa com a Microsoft e a OpenAI a comercialização da tecnologia.</segment>
+    <segment id="5">A gigante das buscas disse que seu sistema de IA é "maior</segment>
+    <segment id="6">, mais capaz e mais geral".</segment>
+    <segment id="7">O Gemini (gemini.google.com) substituirá o Bard e está disponível em 40 idiomas</segment>
+    <segment id="8">, incluindo o português.</segment>
+    <segment id="9">A IA também terá um novo aplicativo separado gratuito no Android e</segment>
+    <segment id="10">, no iOS</segment>
+    <segment id="11">, estará disponível no app do Google.</segment>
+    <segment id="12">O CEO do Google</segment>
+    <segment id="13">, Sundar Pichai</segment>
+    <segment id="14">, apresentando os modelos Gemini - Jason Henry -10.mai.23/The New York TimesO modelo mais avançado da IA</segment>
+    <segment id="15">, o Gemini Ultra 1.0</segment>
+    <segment id="16">, será oferecido</segment>
+    <segment id="17">comocomo um chatbot e integrado ao pacote de ferramentas de produtividade da empresa</segment>
+    <segment id="18">, como</segment>
+    <segment id="19">como Gmail</segment>
+    <segment id="20">, Docs e Sheets</segment>
+    <segment id="21">, por meio de um plano de assinatura premium que custa US$ 20 por mês</segment>
+    <segment id="22">, cerca de R$ 100.</segment>
+    <segment id="23">A IA generativa —sistemas que geram texto</segment>
+    <segment id="24">, código e vídeo em segundos— abriu uma nova frente na batalha pela dominação da tecnologia entre as grandes empresas de tecnologia do Vale do Silício.</segment>
+    <segment id="25">O modelo mais recente do Google</segment>
+    <segment id="26">, que, segundo a empresa</segment>
+    <segment id="27">, pode analisar informações de imagens e áudio e possui capacidades sofisticadas de raciocínio e codificação</segment>
+    <segment id="28">, segue os lançados pela OpenAI apoiada pela Microsoft</segment>
+    <segment id="29">, pela Meta e por startups</segment>
+    <segment id="30">comocomo Anthropic e Mistral.</segment>
+    <segment id="31">Depois de gastar bilhões no desenvolvimento de IA generativa</segment>
+    <segment id="32">, os grupos de tecnologia agora estão</segment>
+    <segment id="33">sese concentrando em criar modelos de negócios claros a partir da tecnologia.</segment>
+    <segment id="34">Em novembro</segment>
+    <segment id="35">, a Microsoft lançou o Copilot</segment>
+    <segment id="36">, seu assistente de produtividade de IA nas versões empresariais de seu amplamente utilizado conjunto de aplicativos de produtividade Microsoft 365</segment>
+    <segment id="37">, que inclui Word</segment>
+    <segment id="38">, PowerPoint e Excel</segment>
+    <segment id="39">, por US$ 30 por mês.</segment>
+    <segment id="40">O Google renomeou todos os seus produtos de IA</segment>
+    <segment id="41">, como</segment>
+    <segment id="42">como o chatbot Bard</segment>
+    <segment id="43">, como</segment>
+    <segment id="44">como para Gemini</segment>
+    <segment id="45">, como</segment>
+    <segment id="46">como parte de uma reformulação corporativa projetada para unificar sua variedade de ofertas de IA generativa.</segment>
+    <segment id="47">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="48">; aberta para não assinantes.</segment>
+    <segment id="49">Carregando...</segment>
+    <segment id="50">No entanto</segment>
+    <segment id="51">, o sistema não estará disponível na UE no lançamento</segment>
+    <segment id="52">, o que o Google sugeriu ser devido a obstáculos regulatórios.</segment>
+    <segment id="53">A UE concordou com um Ato de IA</segment>
+    <segment id="54">, que vai impor novos encargos às empresas de tecnologia que constroem modelos de IA.</segment>
+    <segment id="55">"</segment>
+    <segment id="56">Estamos trabalhando com reguladores locais para garantir que estejamos cumprindo os requisitos do regime local antes de podermos expandir"</segment>
+    <segment id="57">, disse Sissie Hsiao</segment>
+    <segment id="58">, vice-presidente do Google e gerente geral de experiências do Gemini.</segment>
+    <segment id="59">Nos celulares Android</segment>
+    <segment id="60">, o Gemini atua</segment>
+    <segment id="61">comocomo um assistente virtual que responde a comandos de voz e texto.</segment>
+    <segment id="62">"</segment>
+    <segment id="63">Você pode tirar uma foto do seu pneu furado e pedir instruções</segment>
+    <segment id="64">, gerar uma imagem personalizada para o convite da sua festa de jantar ou pedir ajuda para escrever uma mensagem de texto difícil"</segment>
+    <segment id="65">, disse Hsiao.</segment>
+    <segment id="66">"É um primeiro passo importante na construção de um verdadeiro assistente de IA - um que seja conversacional</segment>
+    <segment id="67">, multimodal e útil".</segment>
+    <segment id="68">Agora que o Google lançou a primeira versão comercial de seu software de IA</segment>
+    <segment id="69">, os investidores estão observando sinais de que a empresa californiana pode reduzir a diferença com a Microsoft no desenvolvimento de modelos de IA generativa.</segment>
+    <segment id="70">As ações da Alphabet</segment>
+    <segment id="71">, empresa controladora do Google</segment>
+    <segment id="72">, atingiram máximas históricas em janeiro</segment>
+    <segment id="73">, em meio a uma alta mais ampla das ações de tecnologia.</segment>
+    <segment id="74">Em seu relatório de ganhos trimestrais no mês passado</segment>
+    <segment id="75">, a receita geral da Alphabet subiu para US$ 86</segment>
+    <segment id="76">,3 bilhões</segment>
+    <segment id="77">, um aumento de 13</segment>
+    <segment id="78">,5% em relação ao ano anterior</segment>
+    <segment id="79">, que superou as expectativas dos analistas</segment>
+    <segment id="80">, embora</segment>
+    <segment id="81">embora tenha ficado ligeiramente abaixo das previsões de crescimento em seu negócio de publicidade.</segment>
+    <segment id="82">O CEO da Alphabet</segment>
+    <segment id="83">, Sundar Pichai</segment>
+    <segment id="84">, disse que o Google também está "experimentando" a aplicação de seus modelos Gemini em seu negócio de busca.  "</segment>
+    <segment id="85">A IA nos oferece uma oportunidade no lado orgânico e no lado de monetização</segment>
+    <segment id="86">, e estamos nos estágios iniciais disso"</segment>
+    <segment id="87">, disse ele.</segment>
+    <segment id="88">"</segment>
+    <segment id="89">Olhando a longo prazo</segment>
+    <segment id="90">, seremos capazes de atender às necessidades de informação de uma maneira mais profunda</segment>
+    <segment id="91">, e estou muito animado com o que está por vir".</segment>
+    <segment id="92">Destaques da CES 2024</segment>
+    <segment id="93">, megaevento de tecnologia em Las VegasMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

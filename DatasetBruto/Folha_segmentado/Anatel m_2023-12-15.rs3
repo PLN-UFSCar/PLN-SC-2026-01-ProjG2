@@ -1,0 +1,102 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Anatel (Agência Nacional de Telecomunicações) emitiu novo parecer contrário à instalação de uma usina de dessalinização de água na praia do Futuro</segment>
+    <segment id="2">, em Fortaleza</segment>
+    <segment id="3">, reforçando pleito do setor de telecomunicações contra o projeto.</segment>
+    <segment id="4">O novo parecer considera alterações no projeto feitas pela Cagece (Companhia de Água e Esgoto do Ceará) após a primeira negativa.</segment>
+    <segment id="5">Ainda assim</segment>
+    <segment id="6">, diz a Anatel</segment>
+    <segment id="7">, as obras "podem provocar perturbações do leito marinho com reflexos na área atualmente ocupada por cabos de telecomunicações".</segment>
+    <segment id="8">Banhistas na praia do Futuro em Fortaleza - Haroldo Saboia 15.dez.17/FolhapressCom</segment>
+    <segment id="9">investimentos previstos em R$ 526 milhões</segment>
+    <segment id="10">,</segment>
+    <segment id="11">a usina começou a ser projetada em 2017</segment>
+    <segment id="12">masmas</segment>
+    <segment id="13">sese tornou alvo do setor de telecomunicações neste ano.</segment>
+    <segment id="14">Em entrevista à coluna</segment>
+    <segment id="15">Painel S.A em novembro</segment>
+    <segment id="16">, o vice-presidente institucional da Claro</segment>
+    <segment id="17">, Fábio Andrade</segment>
+    <segment id="18">, disse que a obra criava risco de pane na internet.</segment>
+    <segment id="19">"</segment>
+    <segment id="20">Não faz o menor sentido seguir com esse projeto nesse terreno</segment>
+    <segment id="21">, porque</segment>
+    <segment id="22">porque vai colocar em risco o futuro desse hub [de telecomunicações]"</segment>
+    <segment id="23">, diz Luiz Henrique Barbosa da Silva</segment>
+    <segment id="24">, presidente executivo da TelComp</segment>
+    <segment id="25">, que representa empresas de telefonia de menor porte.</segment>
+    <segment id="26">"É uma estrutura crítica que não pode conviver com 'talvez'.</segment>
+    <segment id="27">O risco tem que ser mínimo".</segment>
+    <segment id="28">A Cagece alega que o projeto é fundamental para a segurança hídrica em Fortaleza.</segment>
+    <segment id="29">"</segment>
+    <segment id="30">Precisamos diversificar a matriz hídrica no estado.</segment>
+    <segment id="31">Não adianta mais ficar esperando só por chuva em açudes e barragens"</segment>
+    <segment id="32">, disse à Folha em setembro o presidente da empresa</segment>
+    <segment id="33">, Neuri Freitas.</segment>
+    <segment id="34">Ele acusa as empresas de querer "privatizar" a praia</segment>
+    <segment id="35">, que é considerada estratégica pelo setor de telecomunicações</segment>
+    <segment id="36">, por concentrar a infraestrutura de transmissão internacional de dados do país.</segment>
+    <segment id="37">São hoje 17 cabos submarinos</segment>
+    <segment id="38">, operados por oito empresas ou consórcios</segment>
+    <segment id="39">, além de data centers em terra.</segment>
+    <segment id="40">A reportagem procurou a Cagece após o parecer da Anatel</segment>
+    <segment id="41">, masmas não obteve resposta até o fechamento deste texto.</segment>
+    <segment id="42">No parecer</segment>
+    <segment id="43">, a Anatel argumentou que os cabos submarinos estão ancorados há décadas na praia e "são infraestrutura essencial ao funcionamento das telecomunicações e da internet no Brasil e também para o fluxo de informações entre os continentes sul-americano</segment>
+    <segment id="44">, africano</segment>
+    <segment id="45">, europeu e norte americano".</segment>
+    <segment id="46">"</segment>
+    <segment id="47">Não há no projeto atual qualquer estudo</segment>
+    <segment id="48">, previsão</segment>
+    <segment id="49">, planejamento e detalhamento das medidas que serão adotadas para garantir que os dutos terrestres da usina (adutoras de grande calibre e cortes</segment>
+    <segment id="50">, perfurações nas avenidas da cidade) não provocarão interferências nos cabos terrestres de telecomunicações.</segment>
+    <segment id="51">"</segment>
+    <segment id="52">A primeira tentativa de aprovar a obra parou na SPU (Secretaria do Patrimônio da União)</segment>
+    <segment id="53">, que negou em janeiro autorização para o uso da área de marinha após pareceres contrários da Anatel e do GSI (Gabinete de Segurança Institucional).</segment>
+    <segment id="54">Na área escolhida para a obra</segment>
+    <segment id="55">, diz a Anatel</segment>
+    <segment id="56">, "estão ancoradas</segment>
+    <segment id="57">, há décadas</segment>
+    <segment id="58">, as infraestruturas de cabos submarinos intercontinentais brasileiros que ligam América do Sul</segment>
+    <segment id="59">, Central do Norte</segment>
+    <segment id="60">, Europa e a África".</segment>
+    <segment id="61">"</segment>
+    <segment id="62">Tais cabos são essenciais às telecomunicações brasileiras e sul-americanas"</segment>
+    <segment id="63">, completa.</segment>
+    <segment id="64">A Cagece alterou o projeto</segment>
+    <segment id="65">, afastando as estruturas de captação e descarte da usina de dessalinização para uma distância de 500 metros dos cabos</segment>
+    <segment id="66">, como</segment>
+    <segment id="67">como recomendado por organizações internacionais</segment>
+    <segment id="68">, elevando em cerca de R$ 35 milhões o custo da obra.</segment>
+    <segment id="69">A TelComp</segment>
+    <segment id="70">, porém</segment>
+    <segment id="71">porém, alega ainda risco aos cabos terrestres que ligam a praia aos data centers e</segment>
+    <segment id="72">, principalmente</segment>
+    <segment id="73">, à classificação de segurança desses empreendimentos</segment>
+    <segment id="74">, que passarão a operar próximos a uma unidade industrial.</segment>
+    <segment id="75">A Cagece defende que a praia do Futuro foi escolhida por reunir as melhores condições de maré para captação de água e dispersão do sal e por estar próxima aos reservatórios que abastecem a capital</segment>
+    <segment id="76">, o que reduz a tarifa paga pelo consumidor.</segment>
+  </rst>
+</analysis>

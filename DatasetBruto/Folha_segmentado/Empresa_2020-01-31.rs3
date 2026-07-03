@@ -1,0 +1,70 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O FBI (a polícia federal dos EUA) está investigando uma fabricante israelense de software por suspeita de coleta de dados do governo e por possíveis invasões de celulares de empresas e cidadãos americanos.</segment>
+    <segment id="2">A informação sobre o</segment>
+    <segment id="3">casocaso envolvendo a NSO Group Technologies</segment>
+    <segment id="4">, especializada na criação de "spyware"</segment>
+    <segment id="5">,  foi divulgada nesta sexta-feira (31) pela agência de notícias Reuters</segment>
+    <segment id="6">, que conversou com quatro pessoas familiarizadas com o inquérito e que não puderam ser identificadas.</segment>
+    <segment id="7">Logo do WhatsApp</segment>
+    <segment id="8">;</segment>
+    <segment id="9">Facebook acusa a NSO de explorar uma falha no serviço de mensagens para hackear 1.400 usuários - Thomas White - 3.ago.17/Reuters</segment>
+    <segment id="10">A investigação estava em andamento em 2017</segment>
+    <segment id="11">, quando funcionários do FBI tentavam descobrir</segment>
+    <segment id="12">sese a NSO obteve de hackers americanos qualquer código necessário para infectar smartphones</segment>
+    <segment id="13">, disse uma pessoa entrevistada pela polícia à época e de novo em 2019.</segment>
+    <segment id="14">A NSO afirmou que vende seu software espião e seu suporte técnico exclusivamente a governos e que essas ferramentas devem ser usadas na perseguição de suspeitos de terrorismo e outros criminosos.</segment>
+    <segment id="15">A empresa defende há muito tempo que seus produtos não podem mirar números de telefone dos EUA</segment>
+    <segment id="16">, embora</segment>
+    <segment id="17">embora alguns especialistas em segurança cibernética contestem isso.</segment>
+    <segment id="18">O FBI voltou a investigar o</segment>
+    <segment id="19">casocaso com mais atenção e fez novas entrevistas com especialistas do setor de tecnologia depois que o Facebook entrou com uma ação contra a NSO em outubro.</segment>
+    <segment id="20">No processo</segment>
+    <segment id="21">, a empresa de Mark Zuckerberg acusa a NSO de explorar uma falha no serviço de mensagens WhatsApp (que pertence ao Facebook) para hackear 1.400 usuários</segment>
+    <segment id="22">, de acordo com duas pessoas que falaram com representantes do Departamento de Justiça.</segment>
+    <segment id="23">A companhia israelense afirma não ter conhecimento de nenhum inquérito contra ela.</segment>
+    <segment id="24">"</segment>
+    <segment id="25">Nós não fomos contatados por nenhuma aplicação da lei dos EUA sobre tais assuntos"</segment>
+    <segment id="26">, disse a NSO em comunicado divulgado pela empresa de estratégia Mercury Public Affairs.</segment>
+    <segment id="27">Cinco passos para fazer um detox digitalMais    novamente         de   de  de  representando um</segment>
+    <segment id="28">A NSO não respondeu a perguntas adicionais feitas pela Reuters sobre a conduta de seus funcionários</segment>
+    <segment id="29">, masmas afirmou anteriormente que os seus clientes governamentais são os responsáveis por invadirem aparelhos.</segment>
+    <segment id="30">Uma porta-voz do FBI disse que a agência "segue a política do Departamento de Justiça de não confirmar nem negar a existência de qualquer investigação</segment>
+    <segment id="31">, por isso não poderemos fornecer mais comentários".</segment>
+    <segment id="32">A Reuters não pôde determinar quais alvos suspeitos de hackers são as principais preocupações dos investigadores ou em que fase está a investigação.</segment>
+    <segment id="33">Mas a empresa é um foco</segment>
+    <segment id="34">, e uma questão importante que o FBI tenta determinar é o quão envolvida ela esteve em invasões específicas</segment>
+    <segment id="35">, disseram as fontes.</segment>
+    <segment id="36">Parte da investigação do FBI visa compreender as operações comerciais da NSO e a assistência técnica que oferece aos clientes</segment>
+    <segment id="37">, de acordo com duas fontes familiarizadas com a investigação.</segment>
+    <segment id="38">Os fornecedores de ferramentas de hackers podem ser processados ​​sob a Lei de Fraude e Abuso de Computadores (CFAA) ou Lei de Escutas</segment>
+    <segment id="39">casocaso eles tenham conhecimento suficiente ou envolvimento em uso inadequado</segment>
+    <segment id="40">, disse James Baker</segment>
+    <segment id="41">, consultor geral do FBI até janeiro de 2018.</segment>
+    <segment id="42">A NSO é conhecida no mundo da cibersegurança por seu software Pegasus e outras ferramentas que podem ser fornecidas de várias maneiras.</segment>
+    <segment id="43">O software pode capturar tudo em um telefone</segment>
+    <segment id="44">, incluindo o texto sem formatação de mensagens criptografadas.</segment>
+  </rst>
+</analysis>

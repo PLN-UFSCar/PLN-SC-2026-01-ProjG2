@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Banrisul (Banco do Estado do Rio Grande do Sul) financiará projetos de inovação liderados por mulheres por meio de quatro linhas de crédito.</segment>
+    <segment id="2">Poderão participar do edital empresas com receita operacional bruta anual de até R$ 300 milhões e cujo comando (mais de 51% do capital) esteja em mãos de mulheres.</segment>
+    <segment id="3">Banrisul quer impulsionar negócios em que mulheres são protagonistas - Drobot Dean/Adobe StockCada candidata poderá pleitear até R$ 15 milhões oferecidos em quatro linhas de crédito cujas taxas variam de acordo com o porte da empresa.</segment>
+    <segment id="4">Para quem faturou até R$ 16 milhões em 2023</segment>
+    <segment id="5">, a taxa será TR mais 4</segment>
+    <segment id="6">,2% ao ano.</segment>
+    <segment id="7">Acima desse patamar</segment>
+    <segment id="8">, será de TR mais 5</segment>
+    <segment id="9">,5% ao ano.</segment>
+    <segment id="10">Os prazos de pagamento variam entre 48 e 96 meses.</segment>
+    <segment id="11">Este é o primeiro edital do banco voltado para empreendedoras femininas.</segment>
+    <segment id="12">As inscrições estão abertas até o dia 21.</segment>
+    <segment id="13">Com Diego</segment>
+    <segment id="14">Felix</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,120 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um dos fenômenos mais fascinantes da natureza é que animais extremamente complexos</segment>
+    <segment id="2">comocomo os seres humanos são formados a partir de uma única célula</segment>
+    <segment id="3">, o zigoto</segment>
+    <segment id="4">, resultado da junção de um óvulo com um espermatozoide.</segment>
+    <segment id="5">Cerca de 30 horas após a fecundação</segment>
+    <segment id="6">, o zigoto começa a</segment>
+    <segment id="7">sese dividir e</segment>
+    <segment id="8">, conforme as divisões avançam</segment>
+    <segment id="9">, as células vão adquirindo destinos específicos: algumas formarão todos os tipos celulares do corpo humano</segment>
+    <segment id="10">;</segment>
+    <segment id="11">outras</segment>
+    <segment id="12">, tecidos de sustentação e nutrição</segment>
+    <segment id="13">comocomo a placenta.</segment>
+    <segment id="14">Embriões produzidos por fertilização in vitro são transferidos para o útero por volta do quinto dia</segment>
+    <segment id="15">, pois</segment>
+    <segment id="16">pois é ao final dessa primeira semana que</segment>
+    <segment id="17">sese inicia o processo de implantação</segment>
+    <segment id="18">, no qual o embrião precisará buscar oxigênio e nutriente nos vasos sanguíneos maternos.</segment>
+    <segment id="19">Nos dias seguintes ocorrerão alguns dos eventos mais importantes do desenvolvimento embrionário</segment>
+    <segment id="20">, e ao mesmo tempo os mais desconhecidos.</segment>
+    <segment id="21">Ilustração: Joana Lavôr - Instituto SerrapilheiraA partir da implantação</segment>
+    <segment id="22">, as células do futuro embrião dividem-</segment>
+    <segment id="23">sese em três camadas que darão origem aos nossos cerca de 200 tipos celulares.</segment>
+    <segment id="24">Pouco entendido em humanos</segment>
+    <segment id="25">, esse fenômeno</segment>
+    <segment id="26">, a gastrulação</segment>
+    <segment id="27">, é extensamente estudado em embriões de animais</segment>
+    <segment id="28">comocomo galinhas</segment>
+    <segment id="29">, peixes e moscas.</segment>
+    <segment id="30">A importância é tamanha que Lewis Wolpert</segment>
+    <segment id="31">, um conhecido embriologista</segment>
+    <segment id="32">, disse há quatro décadas que não é o nascimento</segment>
+    <segment id="33">, o casamento ou a morte</segment>
+    <segment id="34">, masmas sim a gastrulação</segment>
+    <segment id="35">, o momento mais importante pelo qual passamos.</segment>
+    <segment id="36">É também nessas primeiras semanas que</segment>
+    <segment id="37">sese concentra a metade dos casos de perdas gestacionais.</segment>
+    <segment id="38">Detalhes desse estágio</segment>
+    <segment id="39">, verdadeira "caixa preta do desenvolvimento embrionário humano</segment>
+    <segment id="40">"</segment>
+    <segment id="41">,</segment>
+    <segment id="42">não podem ser diretamente observados no útero materno</segment>
+    <segment id="43">, nem mimetizados em laboratório</segment>
+    <segment id="44">, dada a necessidade de o embrião</segment>
+    <segment id="45">sese implantar para seguir em frente.</segment>
+    <segment id="46">Nos últimos cinco anos</segment>
+    <segment id="47">, porém</segment>
+    <segment id="48">porém, muitos avanços foram feitos</segment>
+    <segment id="49">, permitindo que embriões humanos pudessem ser cultivados para além dos seis dias.</segment>
+    <segment id="50">A partir de excedentes doados por casais que passaram por fertilização in vitro</segment>
+    <segment id="51">, o grupo liderado pela professora Magdalena Zernicka-Goetz</segment>
+    <segment id="52">, da Universidade de Cambridge</segment>
+    <segment id="53">, elaborou uma forma de cultivo especial em laboratório que possibilitou a implantação e o desenvolvimento dos embriões por uma semana adicional</segment>
+    <segment id="54">, mesmo sem o suporte do tecido materno.</segment>
+    <segment id="55">Novas técnicas de microscopia permitiram filmar o crescimento do embrião nesse período</segment>
+    <segment id="56">, mostrando</segment>
+    <segment id="57">comocomo as camadas de células</segment>
+    <segment id="58">sese separam</segment>
+    <segment id="59">, e também revelaram algumas diferenças entre a gastrulação dos humanos e o que conhecíamos a respeito de outros mamíferos</segment>
+    <segment id="60">, como</segment>
+    <segment id="61">como camundongos.</segment>
+    <segment id="62">O cultivo dos embriões foi interrompido no 13º dia devido a normas éticas existentes em diversos países</segment>
+    <segment id="63">, que já proibiam o cultivo de embriões humanos para além de duas semanas</segment>
+    <segment id="64">, antes mesmo que isso fosse possível em termos tecnológicos.</segment>
+    <segment id="65">Neste ano</segment>
+    <segment id="66">, outro marco foi atingido: a produção de embriões de camundongos sem utilizar espermatozoides e óvulos.</segment>
+    <segment id="67">Essa conquista era um grande desejo da comunidade acadêmica havia décadas e foi alcançada pelo grupo de Zernicka-Goetz e pela equipe de Jacob Hanna</segment>
+    <segment id="68">, de Israel.</segment>
+    <segment id="69">Os chamados embrióides ou "embriões sintéticos</segment>
+    <segment id="70">"</segment>
+    <segment id="71">são gerados pelo cultivo simultâneo de três tipos de células-tronco: um tipo que forma todos os tecidos do corpo do camundongo e outros dois que formam estruturas anexas ao embrião.</segment>
+    <segment id="72">As células cultivadas</segment>
+    <segment id="73">sese auto-organizam em estruturas muito semelhantes aos embriões</segment>
+    <segment id="74">, com os mesmos eixos corporais</segment>
+    <segment id="75">, regiões cerebrais</segment>
+    <segment id="76">, um intestino primitivo e até mesmo um coração batendo.</segment>
+    <segment id="77">Os embrioides foram viáveis por oito dias</segment>
+    <segment id="78">, cerca de metade do período gestacional de um camundongo.</segment>
+    <segment id="79">Os protocolos de produção dessas estruturas ainda serão aprimorados</segment>
+    <segment id="80">, visando aumentar a eficiência</segment>
+    <segment id="81">, masmas já são um avanço impressionante nesse campo.</segment>
+    <segment id="82">Todas essas recentes descobertas da ciência contribuirão</segment>
+    <segment id="83">para que</segment>
+    <segment id="84">para que nos próximos anos possamos entender por que algumas gestações não evoluem</segment>
+    <segment id="85">, e o que fazer para evitar as perdas gestacionais.</segment>
+    <segment id="86">Também será possível estudar a origem de diversas doenças congênitas e projetar técnicas para obter tecidos biológicos ou órgãos inteiros utilizando</segment>
+    <segment id="87">, por exemplo</segment>
+    <segment id="88">, células da pele do próprio paciente.</segment>
+    <segment id="89">Com investimentos adequados</segment>
+    <segment id="90">, teremos um grande progresso na ciência da reprodução humana</segment>
+    <segment id="91">, sempre andando de mãos dadas com os preceitos bioéticos.</segment>
+    <segment id="92">*  Rossana Soletti é doutora em ciências morfológicas e professora na Universidade Federal do Rio Grande do Sul.</segment>
+    <segment id="93">Inscreva-</segment>
+    <segment id="94">sese na newsletter do Instituto Serrapilheira para acompanhar mais novidades do instituto e do blog Ciência Fundamental.</segment>
+  </rst>
+</analysis>

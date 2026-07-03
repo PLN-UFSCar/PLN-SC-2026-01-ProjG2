@@ -1,0 +1,48 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Violencia domÃ©stica
+Preso por agredir a mulher em Caxias do Sul</segment>
+    <segment id="2">Homem tinha mandado de prisÃ£o decretado depois de ferir a esposa</segment>
+    <segment id="3">Eduardo Torres
+eduardo.torres@diariogaucho.com.br</segment>
+    <segment id="4">Policiais civis da Delegacia Especializada no Atendimento</segment>
+    <segment id="5">Ã  Mulher (DEAM) de Caxias do Sul cumpriram</segment>
+    <segment id="6">, nessa segunda-feira</segment>
+    <segment id="7">, mandado de prisÃ£o preventiva de um homem suspeito de ter arremessado um vaso na direÃ§Ã£o de sua companheira</segment>
+    <segment id="8">, que naquele momento descia uma escada.</segment>
+    <segment id="9">Na tentativa de escapar do golpe que sofreria com o objeto</segment>
+    <segment id="10">, a vÃ­tima desequilibrou-</segment>
+    <segment id="11">sese e caiu de uma altura de quase 3 metros.</segment>
+    <segment id="12">Em razÃ£o da queda</segment>
+    <segment id="13">, ela lesionou gravemente o pulso e foi submetida a cirurgia.</segment>
+    <segment id="14">A mulher afirmou que vinha sendo vÃ­tima de ameaÃ§as e agressÃµes fÃ­sicas hÃ¡ algum tempo.</segment>
+    <segment id="15">A prisÃ£o foi decretada apÃ³s representaÃ§Ã£o da autoridade policial</segment>
+    <segment id="16">, Ã  vista da gravidade da agressÃ£o.</segment>
+    <segment id="17">O preso tinha antecedentes por roubo</segment>
+    <segment id="18">, receptaÃ§Ã£o</segment>
+    <segment id="19">, homicÃ­dio</segment>
+    <segment id="20">, uso de documento falso e desobediÃªncia.</segment>
+  </rst>
+</analysis>

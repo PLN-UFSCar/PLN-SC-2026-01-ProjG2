@@ -1,0 +1,112 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O número de trabalhadores autônomos no Brasil chegou a 25</segment>
+    <segment id="2">,7 milhões no trimestre encerrado em maio</segment>
+    <segment id="3">, segundo a Pnad Contínua (Pesquisa Nacional por Amostra de Domicílios)</segment>
+    <segment id="4">, do IBGE (Instituto Brasileiro de Geografia e Estatística).</segment>
+    <segment id="5">É o maior índice de pessoas trabalhando por conta própria no país desde o começo da série histórica</segment>
+    <segment id="6">, em 2015.</segment>
+    <segment id="7">Segundo a pesquisa</segment>
+    <segment id="8">, houve aumento de 1</segment>
+    <segment id="9">,5 milhão de trabalhadores nessa condição</segment>
+    <segment id="10">, sese comparado ao mesmo período do ano passado.</segment>
+    <segment id="11">Nesse número</segment>
+    <segment id="12">, entram pessoas que declararam estar trabalhando por conta orópria de maneira formal</segment>
+    <segment id="13">, com CNPJ</segment>
+    <segment id="14">, e informal</segment>
+    <segment id="15">, fazendo "bicos".</segment>
+    <segment id="16">Número de trabalhadores autônomos é recorde no Brasil</segment>
+    <segment id="17">, indica levantamento do IBGE - Raul Spinassé - 22.jan.2022/FolhapressA advogada Adriane Bramante</segment>
+    <segment id="18">, presidente do IBDP (Instituto Brasileiro de Direito Previdenciário)</segment>
+    <segment id="19">, explica que todo trabalhador que exerce algum tipo de atividade remunerada</segment>
+    <segment id="20">, mesmo sem ser celetista</segment>
+    <segment id="21">, é obrigado a contribuir com a Previdência.</segment>
+    <segment id="22">"</segment>
+    <segment id="23">E o profissional é responsável por fazer o próprio recolhimento"</segment>
+    <segment id="24">, diz.</segment>
+    <segment id="25">Segundo a especialista</segment>
+    <segment id="26">, há casos de prestadores de serviço</segment>
+    <segment id="27">, sem vínculo trabalhista</segment>
+    <segment id="28">, que têm o recolhimento da contribuição feito pela própria empresa.</segment>
+    <segment id="29">Adriane reforça a importância de oautônomo continuar na condição de segurado do INSS</segment>
+    <segment id="30">, para ter acesso a direitos previdenciários</segment>
+    <segment id="31">comocomo o auxílio-doença (hoje chamado de auxílio por incapacidade temporária).</segment>
+    <segment id="32">O trabalho na informalidadeMais    novamente         de   de  de  representando um  Números são reflexo da precarização do trabalho</segment>
+    <segment id="33">O economista e professor da USP (Universidade de São Paulo) Paulo Feldmann associa o crescimento do contingente de autônomos à precarização do trabalho e ao avanço tecnológico</segment>
+    <segment id="34">, que permitiu o surgimento de atividades</segment>
+    <segment id="35">comocomo as de motorista e entregador por aplicativo.</segment>
+    <segment id="36">"</segment>
+    <segment id="37">Esse é um fenômeno mundial</segment>
+    <segment id="38">, não está acontecendo apenas no Brasil.</segment>
+    <segment id="39">A diferença é que nos países desenvolvidos o assunto já está sendo discutido e as legislações estão sendo reformuladas.</segment>
+    <segment id="40">Lamentavelmente</segment>
+    <segment id="41">, aqui ainda não há discussão.</segment>
+    <segment id="42">"  Para Feldmann</segment>
+    <segment id="43">, o trabalho informal limita o acesso a benefícios e afeta a renda mensal das famílias.</segment>
+    <segment id="44">"</segment>
+    <segment id="45">Isso gera um problema sério no país</segment>
+    <segment id="46">, porque</segment>
+    <segment id="47">porque a queda na renda é uma das grandes responsáveis pela queda no consumo</segment>
+    <segment id="48">, e a queda no consumo é responsável pela queda no crescimento do país.</segment>
+    <segment id="49">"  Revisão da aposentadoria do INSSMais    novamente         de   de  de  representando um  Aposentadoria na condição de trabalhador autônomo</segment>
+    <segment id="50">O profissional que tem atividade remunerada</segment>
+    <segment id="51">, masmas sem vínculo empregatício</segment>
+    <segment id="52">, pode fazer os recolhimentos ao INSS</segment>
+    <segment id="53">comocomo contribuinte individual.</segment>
+    <segment id="54">Há dois tipos de contribuição: o plano normal e o simplificado</segment>
+    <segment id="55">, com diferentes valores e alíquotas.  "</segment>
+    <segment id="56">Nesse tipo de contribuição [pelo plano simplificado]</segment>
+    <segment id="57">, a pessoa tem direito a todos os benefícios do INSS</segment>
+    <segment id="58">, exceto a aposentadoria por tempo de contribuição</segment>
+    <segment id="59">, que está em fase de transição após a reforma [da Previdência] e vai deixar de existir"</segment>
+    <segment id="60">, explica a presidente do IBDP.</segment>
+    <segment id="61">Tipos de contribuição para autônomos  Plano normal de contribuição  Código 1007: garante ao contribuinte direito a todos os benefícios e a todos os tipos de aposentadoria</segment>
+    <segment id="62">, inclusive a por tempo de contribuição nas regras de transição.</segment>
+    <segment id="63">O recolhimento deve ser de 20% sobre o salário do trabalhador</segment>
+    <segment id="64">, limitado ao teto da Previdência de R$ 7.087</segment>
+    <segment id="65">,22, neste ano.</segment>
+    <segment id="66">O valor da contribuição varia de R$ 242</segment>
+    <segment id="67">,40 (sobre o salário mínimo</segment>
+    <segment id="68">, de R$ 1.212) até R$ 1.417</segment>
+    <segment id="69">,44 (sobre o teto).</segment>
+    <segment id="70">Plano de contribuição simplificado  Código 1163 : contribuição de 11% sobre o salário mínimo</segment>
+    <segment id="71">, o que dá R$ 133</segment>
+    <segment id="72">,32 em 2022.</segment>
+    <segment id="73">Garante aposentadoria por idade</segment>
+    <segment id="74">, no valor de um salário mínimo.</segment>
+    <segment id="75">Segundo o INSS</segment>
+    <segment id="76">, essa condição</segment>
+    <segment id="77">sese aplica ao profissional que trabalha por conta própria e não é prestador de serviço a empresas e também ao contribuinte facultativo</segment>
+    <segment id="78">, aquele que não exerce atividade.</segment>
+    <segment id="79">Os segurados que mantiverem suas contribuições em dia têm acesso aos seguintes benefícios:   auxílio-doença (chamado de benefício por incapacidade temporária) aposentadoria por invalidez salário-maternidade auxílio-reclusão pensão por morte para dependentes aposentadorias (não é preciso ter a chamada qualidade de segurado</segment>
+    <segment id="80">, masmas é necessário atingir os requisitos exigidos pelo INSS)</segment>
+    <segment id="81">Como contribuir   o pagamento deve ser realizado mensalmente pela GPS (Guia de Previdência Social) é possível preencher a GPS pela internet ou manualmente</segment>
+    <segment id="82">, comprando um carnê laranja em papelaria</segment>
+    <segment id="83">Quem paga sobre o valor de um salário mínimo também pode realizar recolhimentos trimestrais.</segment>
+    <segment id="84">É preciso utilizar o código específico de contribuição trimestral</segment>
+    <segment id="85">, considerar</segment>
+    <segment id="86">comocomo referência no cálculo das contribuições o salário mínimo vigente multiplicado por três e preencher o campo "competência" da GPS obedecendo os trimestres civis.</segment>
+  </rst>
+</analysis>

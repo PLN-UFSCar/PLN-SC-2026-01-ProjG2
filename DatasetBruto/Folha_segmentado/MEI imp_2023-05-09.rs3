@@ -1,0 +1,235 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A mudança do salário mínimo para R$ 1.320</segment>
+    <segment id="2">, oficializada pelo presidente Luiz Inácio Lula da Silva a partir de 1º de maio</segment>
+    <segment id="3">, alterará os valores de contribuição para quem é MEI (Microempreendedor Individual).</segment>
+    <segment id="4">O pagamento maior começa a valer a partir de junho.</segment>
+    <segment id="5">Com o reajuste do piso nacional</segment>
+    <segment id="6">, a base do MEI sobe para R$ 66 por mês</segment>
+    <segment id="7">, equivalente a 5% do salário mínimo</segment>
+    <segment id="8">, e cada atividade tem um adicional conforme a área de atuação.</segment>
+    <segment id="9">Quem atua no comércio</segment>
+    <segment id="10">, indústria e serviço de transporte soma R$ 1 de ICMS (Imposto sobre Circulação de Mercadorias e Serviços) e</segment>
+    <segment id="11">, portanto</segment>
+    <segment id="12">, passa a pagar R$ 67.</segment>
+    <segment id="13">Já os MEIs que trabalham com serviços em geral acrescentam R$ 5 de ISS (Imposto sobre Serviços)</segment>
+    <segment id="14">, o que eleva a taxa para R$ 71.</segment>
+    <segment id="15">Já quem contribui nos dois setores</segment>
+    <segment id="16">, tem a cobrança dos dois impostos e passará a gastar R$ 72 por mês.</segment>
+    <segment id="17">Imposto pago por MEIs subirá a partir de junho com o aumento do salário mínimo - Gabriel Cabral/FolhapressPara o MEI caminhoneiro</segment>
+    <segment id="18">, que faz o transporte autônomo de cargas</segment>
+    <segment id="19">, a base de cálculo é feita sobre 12% do salário mínimo.</segment>
+    <segment id="20">Portanto</segment>
+    <segment id="21">, o valor sobe para R$ 158</segment>
+    <segment id="22">,40, além dos acréscimos de ISS e/ou ICMS</segment>
+    <segment id="23">, conforme a sua classificação</segment>
+    <segment id="24">, que depende das especificações da carga e da abrangência do território em que viaja.</segment>
+    <segment id="25">A alteração entra em vigor a partir de 20 de junho</segment>
+    <segment id="26">, quando há o vencimento do DAS (Documento de Arrecadação do Simples Nacional)</segment>
+    <segment id="27">, que tem</segment>
+    <segment id="28">comocomo base os rendimentos recebidos em maio.</segment>
+    <segment id="29">Neste mês</segment>
+    <segment id="30">, no dia 20</segment>
+    <segment id="31">, o DAS segue com o valor sobre o antigo do salário mínimo de R$ 1.302.</segment>
+    <segment id="32">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="33">; aberta para não assinantes.</segment>
+    <segment id="34">Carregando...</segment>
+    <segment id="35">Contribuição do MEI a partir de junho</segment>
+    <segment id="36">, com salário mínimo de R$ 1.320     TIPO DE ATIVIDADE INSS (em R$) TAXA</segment>
+    <segment id="37">POR ATIVIDADE (em R$) TOTAL (em R$)     Comércio e Indústria - ICMS</segment>
+    <segment id="38">66 1 67   Serviços - ISS 66 5 71   Comércio e Serviços - ICMS e ISS 66 6 72   MEI</segment>
+    <segment id="39">Caminhoneiro - ICMS 158</segment>
+    <segment id="40">,40 1 159</segment>
+    <segment id="41">,40   MEI</segment>
+    <segment id="42">Caminhoneiro - ISS 158</segment>
+    <segment id="43">,40 5 163</segment>
+    <segment id="44">,40   MEI</segment>
+    <segment id="45">Caminhoneiro - ICMS e ISS 158</segment>
+    <segment id="46">,40 6 164</segment>
+    <segment id="47">,40     Contribuição do MEI até maio</segment>
+    <segment id="48">, com salário mínimo de R$ 1.302     TIPO DE ATIVIDADE INSS (em R$) TAXA</segment>
+    <segment id="49">POR ATIVIDADE (em R$) TOTAL (em R$)     Comércio e Indústria - ICMS</segment>
+    <segment id="50">65,10 1 66</segment>
+    <segment id="51">,10   Serviços - ISS 65</segment>
+    <segment id="52">,10 5 70</segment>
+    <segment id="53">,10   Comércio e Serviços - ICMS e ISS 65</segment>
+    <segment id="54">,10 6 71</segment>
+    <segment id="55">,10   MEI</segment>
+    <segment id="56">Caminhoneiro - ICMS 156</segment>
+    <segment id="57">,24 1 157</segment>
+    <segment id="58">,24   MEI</segment>
+    <segment id="59">Caminhoneiro - ISS 156</segment>
+    <segment id="60">,24 5 161</segment>
+    <segment id="61">,24   MEI</segment>
+    <segment id="62">Caminhoneiro - ICMS e ISS 156</segment>
+    <segment id="63">,24 6 162</segment>
+    <segment id="64">,24</segment>
+    <segment id="65">Como gerar a guia de pagamento  Para gerar a guia de pagamento</segment>
+    <segment id="66">, é preciso entrar no PGMEI (Programa Gerador do DAS para o MEI) e fazer o seguinte passo a passo.</segment>
+    <segment id="67">Acesse https://www8.receita.fazenda.gov.br/SimplesNacional/Aplicacoes/ATSPO/pgmei.app</segment>
+    <segment id="68">Informe o CNPJ de MEI e clique em Continuar</segment>
+    <segment id="69">Na versão completa</segment>
+    <segment id="70">, é preciso ter código de acesso ou certificado digital</segment>
+    <segment id="71">Caso não tenha código de acesso</segment>
+    <segment id="72">, é possível criar na hora</segment>
+    <segment id="73">, clicando neste link (https://www8.receita.fazenda.gov.br/SimplesNacional/controleAcesso/GeraCodigo.aspx).</segment>
+    <segment id="74">Ele pede o CNPJ e o CPF do responsável</segment>
+    <segment id="75">, preencha as letras solicitadas e clique em Validar</segment>
+    <segment id="76">O dono do CPF precisa ser titular de ao menos uma declaração de Imposto de Renda de Pessoa Jurídica entregue nos últimos dois anos.</segment>
+    <segment id="77">Em caso</segment>
+    <segment id="78">caso positivo</segment>
+    <segment id="79">, o usuário seleciona o ano de uma das declarações</segment>
+    <segment id="80">, informa o recibo dela (digite os dez primeiros números)</segment>
+    <segment id="81">, informa números e letras que aparecem na tela e clica em Continuar.</segment>
+    <segment id="82">Em seguida</segment>
+    <segment id="83">, é gerado o código de acesso</segment>
+    <segment id="84">Caso o CPF informado não conste</segment>
+    <segment id="85">comocomo titular em nenhuma declaração entregue nos últimos dois anos</segment>
+    <segment id="86">, o sistema solicita título do eleitor e data de nascimento para gerar o código de acesso</segment>
+    <segment id="87">Com o código de acesso</segment>
+    <segment id="88">, clique neste link (https://www8.receita.fazenda.gov.br/SimplesNacional/Servicos/Grupo.aspx?grp=8) e</segment>
+    <segment id="89">, em seguida</segment>
+    <segment id="90">, na chave à frente da palavra PGMEI - Programa Gerador do DAS para o MEI.</segment>
+    <segment id="91">Informe o número do CNPJ</segment>
+    <segment id="92">, do CPF do responsável</segment>
+    <segment id="93">, o código de acesso e letras e números que aparecerem na tela.</segment>
+    <segment id="94">Clique em Continuar</segment>
+    <segment id="95">Em seguida</segment>
+    <segment id="96">, o usuário entra no PGMEI e clica no item "</segment>
+    <segment id="97">Emitir Guia de Pagamento (DAS)".</segment>
+    <segment id="98">Selecione o ano-calendário desejado e clique em Ok</segment>
+    <segment id="99">O sistema abre uma tela com todos os mesmos meses do ano e o usuário precisa marcar o período de apuração desejado.</segment>
+    <segment id="100">Selecione "</segment>
+    <segment id="101">Apurar/Gerar DAS" e clique no botão "</segment>
+    <segment id="102">Imprimir/Visualizar PDF" para visualizar a imprimir o DAS para pagamento</segment>
+    <segment id="103">A data de vencimento ocorre no dia 20 (ou o primeiro dia útil seguinte) do próximo mês ao período de apuração escolhido.</segment>
+    <segment id="104">Ou seja</segment>
+    <segment id="105">, sese o período apurado foi maio de 2023</segment>
+    <segment id="106">, o prazo de vencimento será 20 de junho de 2023   Também é possível gerar a guia por meio do aplicativo PGMEI    Se houver atraso no pagamento</segment>
+    <segment id="107">, há cobrança de multa de 0</segment>
+    <segment id="108">,33% por dia</segment>
+    <segment id="109">, limitada a 20% no mês</segment>
+    <segment id="110">, mais 1% de juros pelo mês de pagamento e ainda o acréscimo referente à taxa Selic (Sistema Especial de Liquidação e Custódia).</segment>
+    <segment id="111">A Receita disponibiliza o Sicalc (Sistema de Cálculo de Acréscimos Legais)</segment>
+    <segment id="112">, que faz automaticamente o cálculo.</segment>
+    <segment id="113">Pelo sistema do PGMEI também é possível consultar as pendências e</segment>
+    <segment id="114">, sese houver pagamentos abertos</segment>
+    <segment id="115">, é possível fazer a emissão do DAS com o valor corrigido com as multas e os juros</segment>
+    <segment id="116">, e efetuar o pagamento.</segment>
+    <segment id="117">Benefícios da Previdência Social</segment>
+    <segment id="118">Mais    novamente         de   de  de  representando um  Veja tudo o que muda com o novo salário mínimo  1 - Aposentadorias</segment>
+    <segment id="119">, pensões</segment>
+    <segment id="120">, auxílios e BPC</segment>
+    <segment id="121">Os benefícios previdenciários no valor de um salário mínimo passam a ser de R$ 1.320 a partir do pagamento referente à competência do mês de maio</segment>
+    <segment id="122">, que começa a ser liberada no dia 25.</segment>
+    <segment id="123">Quem recebe BPC (Benefício de Prestação Continuada) também terá o reajuste.</segment>
+    <segment id="124">Calendário de pagamentos do INSS em 2023 - Reprodução2 - Atrasados do INSS</segment>
+    <segment id="125">As ações iniciadas nos JEFs (Juizados Especiais Federais) são limitadas a 60 salários mínimos.</segment>
+    <segment id="126">Quando o salário mínimo sobe</segment>
+    <segment id="127">, o valor máximo para esse tipo de processo também tem reajuste.</segment>
+    <segment id="128">A partir de agora</segment>
+    <segment id="129">, poderão entrar com ação nos JEFs segurados cujo valor total do processo seja de até R$ 79</segment>
+    <segment id="130">,2 mil.</segment>
+    <segment id="131">Antes, o valor estava em R$ 78.120.</segment>
+    <segment id="132">Essas ações são chamadas de RPVs (Requisições de Pequeno Valor).</segment>
+    <segment id="133">Têm direito de receber por RPV segurados que iniciaram ações de concessão e revisão de benefício em Juizados Especiais Federais no valor de até 60 salários.</segment>
+    <segment id="134">São devidos atrasados de até cinco anos anteriores ao pedido de revisão</segment>
+    <segment id="135">, mais o tempo de espera até receber o aumento</segment>
+    <segment id="136">, sese houver direito.</segment>
+    <segment id="137">O pagamento é feito em até dois meses após a ordem do juiz para quitar os valores</segment>
+    <segment id="138">, quando o processo chega totalmente ao final.</segment>
+    <segment id="139">Como funciona a aposentadoria do INSSMais    novamente         de   de  de  representando um  3 - Abono do PIS/Pasep</segment>
+    <segment id="140">O abono do PIS/Pasep é pago a trabalhadores que</segment>
+    <segment id="141">, no ano-base</segment>
+    <segment id="142">, tiveram atividade profissional com carteira assinada ou</segment>
+    <segment id="143">comocomo servidores recebendo até dois salários mínimos.</segment>
+    <segment id="144">É preciso estar inscrito no PIS/Pasep há ao menos cinco anos e ter os dados informados corretamente pelo empregador na Rais (Relação Anual de Informações Sociais) ou no eSocial.</segment>
+    <segment id="145">O valor pago varia conforme o número de meses trabalhados no ano-base e</segment>
+    <segment id="146">, a partir de agora</segment>
+    <segment id="147">, irá de R$ 110 a R$ 1.320.</segment>
+    <segment id="148">Veja a tabela com os novos valores do PIS/Pasep</segment>
+    <segment id="149">, em R$</segment>
+    <segment id="150">Número de meses trabalhados</segment>
+    <segment id="151">Valor que deve ser pago     1 110</segment>
+    <segment id="152">,00   2 220</segment>
+    <segment id="153">,00   3 330</segment>
+    <segment id="154">,00   4 440</segment>
+    <segment id="155">,00   5 550</segment>
+    <segment id="156">,00   6 660</segment>
+    <segment id="157">,00   7 770</segment>
+    <segment id="158">,00   8 880</segment>
+    <segment id="159">,00   9 990</segment>
+    <segment id="160">,00   10 1.100</segment>
+    <segment id="161">,00   11 1.210</segment>
+    <segment id="162">,00</segment>
+    <segment id="163">12 1.320</segment>
+    <segment id="164">,00</segment>
+    <segment id="165">O abono salarial pago em 2023 é relativo ao trabalho feito em 2021.</segment>
+    <segment id="166">Segundo o Ministério do Trabalho e Emprego</segment>
+    <segment id="167">, serão pagos abonos a 22</segment>
+    <segment id="168">,9 milhões de trabalhadores com direito a receber o benefício</segment>
+    <segment id="169">, sendo 20</segment>
+    <segment id="170">,4 milhões com direito ao PIS e outros 2</segment>
+    <segment id="171">,5 milhões com direito ao Pasep</segment>
+    <segment id="172">, totalizando cerca de R$ 22 bilhões.</segment>
+    <segment id="173">O calendário de pagamentos segue as datas aprovadas pelo Codefat (Conselho Deliberativo do Fundo de Amparo ao Trabalhador) em dezembro</segment>
+    <segment id="174">, conforme a Folha antecipou.</segment>
+    <segment id="175">VEJA AS DATA DE PAGAMENTO DO PIS</segment>
+    <segment id="176">Nascidos em Recebem a partir de Recebem até     Janeiro e fevereiro  já foi pago  28/12/2023   Março e abril  já foi pago  28/12/2023   Maio e junho 17/04/2023 28/12/2023</segment>
+    <segment id="177">Julho e agosto</segment>
+    <segment id="178">15/05/2023 28/12/2023</segment>
+    <segment id="179">Setembro e outubro 15/06/2023 28/12/2023</segment>
+    <segment id="180">Novembro e dezembro</segment>
+    <segment id="181">17/07/2023 28/12/2023     Fonte: Caixa Econômica Federal  VEJA</segment>
+    <segment id="182">AS DATAS DE PAGAMENTO DO PASEP     Final da inscrição Recebem a partir de Recebem 28/12/2023 até     0  já foi pago  28/12/2023   1  já foi pago  28/12/2023   2 e 3 17/04/2023 28/12/2023   4 e 5 15/05/2023 28/12/2023   6 e 7 15/06/2023 28/12/2023   8 e 9 17/07/2023 28/12/2023        4 - Seguro-desemprego</segment>
+    <segment id="183">O novo reajuste do salário mínimo altera também o valor mínimo pago de seguro-desemprego em 2023</segment>
+    <segment id="184">, que subiu de R$ 1.302 para R$ 1.320 a partir de maio.</segment>
+    <segment id="185">O benefício é pago de acordo com uma fórmula que considera a média dos três salários anteriores à demissão.</segment>
+    <segment id="186">São três faixas de renda possível</segment>
+    <segment id="187">, sendo que a menor delas é de R$ 1.320 a partir de agora.  Veja quem tem direito ao abono do PISMais    novamente         de   de  de  representando um  5 - Contribuições previdenciárias</segment>
+    <segment id="188">As contribuições previdenciárias pagas mês a mês também mudarão para os segurados que contribuem pelo piso nacional.</segment>
+    <segment id="189">Essa alteração</segment>
+    <segment id="190">, no entanto</segment>
+    <segment id="191">, deverá ocorrer apenas nas GPSs (Guias de Previdência Social) pagas a partir de junho</segment>
+    <segment id="192">, com referência ao mês de maio.</segment>
+    <segment id="193">Segurados que contribuem</segment>
+    <segment id="194">comocomo facultativos ou autônomos com alíquotas de 11% ou de 20% pagarão R$ 145</segment>
+    <segment id="195">,20 e R$ 264</segment>
+    <segment id="196">, respectivamente.</segment>
+    <segment id="197">As donas de casa de baixa renda</segment>
+    <segment id="198">, que contribuem com 5% do salário mínimo</segment>
+    <segment id="199">, passam a pagar R$ 66.</segment>
+    <segment id="200">Leia tambémVeja a nova tabela de descontos do Imposto de RendaConfira</segment>
+    <segment id="201">comocomo fica o desconto do IR nos salários e aposentadorias com a nova isenção6 - Causas no Juizado Especial Cível  Quem vai entrar com ação no Juizado Especial Cível</segment>
+    <segment id="202">, antigo Juizado de Pequenas Causas</segment>
+    <segment id="203">, também terá alteração no valor-limite da ação</segment>
+    <segment id="204">, que é de até 40 salários mínimos.</segment>
+    <segment id="205">Antes, esse total era de R$ 52.080.</segment>
+    <segment id="206">Agora, passa a R$ 52</segment>
+    <segment id="207">,8 mil.</segment>
+    <segment id="208">Veja o que Lula anunciou no 1º de Maio das centrais sindicaisMais    novamente         de   de  de  representando</segment>
+    <segment id="209">um</segment>
+  </rst>
+</analysis>

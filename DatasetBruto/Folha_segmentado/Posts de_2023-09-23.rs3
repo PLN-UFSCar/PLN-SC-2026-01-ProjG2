@@ -1,0 +1,61 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Uma publicação no X (antigo Twitter) desencadeou uma série de denúncias sobre o atendimento médico prestado a mulheres com problemas de saúde durante a gestação.</segment>
+    <segment id="2">De humilhações a omissão de socorro</segment>
+    <segment id="3">, relatos jogam luz sobre comportamentos dos profissionais da saúde.</segment>
+    <segment id="4">Tudo começou com o relato do perfil @daniduncan</segment>
+    <segment id="5">, que compartilhou a história testemunhada pela sua mãe.</segment>
+    <segment id="6">"</segment>
+    <segment id="7">Minha mãe que é assistente social já me disse que há relatos de mulheres grávidas que</segment>
+    <segment id="8">, ao buscarem atendimento médico por dores</segment>
+    <segment id="9">, são acusadas indiciadas por suspeitas de aborto.</segment>
+    <segment id="10">a mulher passa por um aborto espontâneo e precisa responder na justiça.</segment>
+    <segment id="11">comocomo isso pode ser considerado normal?</segment>
+    <segment id="12">", questionava o perfil.</segment>
+    <segment id="13">A partir da postagem</segment>
+    <segment id="14">, diversas mulheres falaram sobre suas próprias experiências ou histórias de parentes e conhecidos.</segment>
+    <segment id="15">Todas com semelhanças entre si:</segment>
+    <segment id="16">Outros relatos abordam a mesma falta de empatia e discriminação.</segment>
+    <segment id="17">Em outro</segment>
+    <segment id="18">casocaso</segment>
+    <segment id="19">, a usuária do perfil @CarterBarbosa</segment>
+    <segment id="20">, afirma ter sofrido humilhação logo após saber que estava sofrendo um aborto.</segment>
+    <segment id="21">"</segment>
+    <segment id="22">Sofri um aborto espontâneo a alguns meses e assim que a médica me informou que eu estava sofrendo um aborto</segment>
+    <segment id="23">sese virou pra colega e começou a conversar e rir normalmente enquanto eu chorava na frente delas</segment>
+    <segment id="24">, na hora da curetagem comecei a chorar muito".</segment>
+    <segment id="25">Já o perfil @alineadeli conta ter ouvido ser "melhor" a perda da criança</segment>
+    <segment id="26">, que nasceria</segment>
+    <segment id="27">comocomo um "monstrinho" segundo as palavras do médico.</segment>
+    <segment id="28">"</segment>
+    <segment id="29">O médico teve a coragem de olhar na minha cara e dizer que tinha sido melhor eu perder mesmo</segment>
+    <segment id="30">, porque</segment>
+    <segment id="31">porque</segment>
+    <segment id="32">sese fosse nascer seria um "monstrinho" todo deformado.</segment>
+    <segment id="33">Não passou pela cabeça dele que eu tava sofrendo e que ia sofrer nos próximos meses?</segment>
+    <segment id="34">Ninguém tem sensibilidade…</segment>
+    <segment id="35">".</segment>
+  </rst>
+</analysis>

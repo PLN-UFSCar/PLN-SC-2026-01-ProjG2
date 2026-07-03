@@ -1,0 +1,38 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Funcionário da Uneb é assassinado
+Visdaelton presenciou um assalto e foi seguido pelos bandidos que o abordaram
+Analista de sistema do Campus II/Alagoinhas da Universidade do Estado da Bahia (Uneb)</segment>
+    <segment id="2">, Visdaelton Rodrigo Santos Júnior</segment>
+    <segment id="3">, 25 anos</segment>
+    <segment id="4">, foi morto na madrugada de ontem próximo à sua residência em Alagoinhas.</segment>
+    <segment id="5">Visdaelton foi assassinado a tiros por dois homens em uma moto.</segment>
+    <segment id="6">Ele atuava no setor de informática por empresa terceirizada.</segment>
+    <segment id="7">Em nota</segment>
+    <segment id="8">, a Uneb informou que após ter presenciado um assalto</segment>
+    <segment id="9">, Visdaelton continuou andando em direção à sua casa</segment>
+    <segment id="10">, quando foi seguido e abordado pelos suspeitos.</segment>
+  </rst>
+</analysis>

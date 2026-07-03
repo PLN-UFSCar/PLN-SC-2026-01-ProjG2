@@ -1,0 +1,90 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um novo estudo brasileiro concluiu que em 2020</segment>
+    <segment id="2">, primeiro ano da pandemia</segment>
+    <segment id="3">, houve um aumento de 40% no número de mortes maternas no país comparado a anos anteriores.</segment>
+    <segment id="4">No total</segment>
+    <segment id="5">, 549 mortes maternas foram provocadas pelo Sars-CoV-2</segment>
+    <segment id="6">, vírus que causa a Covid-19.</segment>
+    <segment id="7">Mas esse incremento observado durante a crise sanitária não foi somente advindo diretamente da doença.</segment>
+    <segment id="8">Já era esperado que a Covid causasse um excesso de mortes</segment>
+    <segment id="9">, termo utilizado para</segment>
+    <segment id="10">sese referir ao número que supera o que é visto normalmente.</segment>
+    <segment id="11">No entanto</segment>
+    <segment id="12">, uma parcela de 14% das morte maternas extrapola o que</segment>
+    <segment id="13">sese estimava para a situação atípica da emergência de saúde.</segment>
+    <segment id="14">O ponto é um indicativo de que a pandemia causou um impacto indireto no sistema de saúde e</segment>
+    <segment id="15">, consequentemente</segment>
+    <segment id="16">, entre gestantes e puérperas</segment>
+    <segment id="17">, como</segment>
+    <segment id="18">como na dificuldade de atendimento ao pré-natal.</segment>
+    <segment id="19">Para uma morte ser considerada materna</segment>
+    <segment id="20">, o óbito precisa ocorrer durante a gravidez</segment>
+    <segment id="21">, no parto ou em até 42 dias após o parto.</segment>
+    <segment id="22">Outro ponto é que a causa da morte precisa ter alguma relação ou ter sido agravada pela gestação.</segment>
+    <segment id="23">Mulher grávida é vacinada contra a Covid-19 nos EUA - Hannah Beier - 11.fev.2021/ReutersO novo estudo é mais um que demonstra</segment>
+    <segment id="24">comocomo o Brasil passa por um crescimento nos números de mortes maternas.</segment>
+    <segment id="25">O cenário dificulta a meta de reduzir o índice desse tipo de óbito até 2030</segment>
+    <segment id="26">, considerando os objetivos do desenvolvimento sustentável da ONU (Organização das Nações Unidas).</segment>
+    <segment id="27">Publicada na revista BMJ Pregnancy and Childbirth</segment>
+    <segment id="28">, a pesquisa foi feita pelo Observatório Covid-19 da Fiocruz.</segment>
+    <segment id="29">Dados do SIM (Sistema de Informação sobre Mortalidade) foram utilizados para estimar o número esperado de mortes maternas em 2020</segment>
+    <segment id="30">, enquanto informações do Sivep-Gripe (Sistema de Vigilância Epidemiológica da Gripe) serviram de base para calcular a quantidade de mortes relacionadas de maneira direta com a Covid.</segment>
+    <segment id="31">De início</segment>
+    <segment id="32">, os pesquisadores mensuraram a quantidade de mortes maternas ocasionadas pela Covid-19</segment>
+    <segment id="33">, número que foi comparado com os registros de anos anteriores.</segment>
+    <segment id="34">Também foi possível calcular o excesso geral do total de mortalidade no</segment>
+    <segment id="35">casocaso de mortes maternas em 2020.</segment>
+    <segment id="36">Ao observar o número de mortes maternas durante o ano de 2020</segment>
+    <segment id="37">, a maior parte delas ocorreu entre abril e agosto e</segment>
+    <segment id="38">, depois</segment>
+    <segment id="39">, entre outubro e dezembro.</segment>
+    <segment id="40">Os autores explicam que o pico da Covid-19 no Brasil durante o primeiro ano da pandemia foi em junho.</segment>
+    <segment id="41">Para efeito de comparação</segment>
+    <segment id="42">, nesse mês</segment>
+    <segment id="43">, houve um aumento de 56% das mortes maternas comparado ao que</segment>
+    <segment id="44">sese esperava ao observar os dados dos anos anteriores.</segment>
+    <segment id="45">O estudo também averiguou o perfil de mortes maternas considerando algumas variáveis sociais.</segment>
+    <segment id="46">Concluiu-</segment>
+    <segment id="47">sese, por exemplo</segment>
+    <segment id="48">, que o risco de registrar uma morte materna era maior entre mulheres negras</segment>
+    <segment id="49">, naquelas que viviam em zonas rurais ou que precisavam</segment>
+    <segment id="50">sese deslocar para outra cidade a fim de ter assistência médica.</segment>
+    <segment id="51">Dia das Mães fica mais especial após gestantes vencerem a CovidMais    novamente         de   de  de  representando um</segment>
+    <segment id="52">Essa observação condiz com o fato de que mortes maternas têm uma forte relação com desigualdades sociais.</segment>
+    <segment id="53">Os autores citam que</segment>
+    <segment id="54">, na literatura</segment>
+    <segment id="55">, já é sólida a percepção de que o incremento das mortes entre gestantes e puérperas está associado com o aumento de pobreza e fome</segment>
+    <segment id="56">, por exemplo.</segment>
+    <segment id="57">Os autores</segment>
+    <segment id="58">, então</segment>
+    <segment id="59">, chamam atenção para o fato de que a alta taxa de excesso de mortes maternas no primeiro ano da pandemia é um sinal da falha em ter um sistema de saúde apto a suprir as necessidades de saúde de gestantes e puérperas.</segment>
+    <segment id="60">A melhoria do cenário</segment>
+    <segment id="61">, no entanto</segment>
+    <segment id="62">, não depende só do Brasil.  "</segment>
+    <segment id="63">Uma solução requer o envolvimento da comunidade internacional já que isso afeta o desenvolvimento global"</segment>
+    <segment id="64">, escrevem os autores no artigo.</segment>
+  </rst>
+</analysis>

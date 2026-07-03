@@ -1,0 +1,230 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A namorada de Alfonso Villa Muñoz tinha dito para ele não comprar uma patinete elétrica</segment>
+    <segment id="2">, masmas ele ficou curioso.</segment>
+    <segment id="3">Trabalhava numa adega no Brooklyn em agosto quando um entregador disse que conhecia alguém que vendia uma por US$ 700 (R$ 3.351).</segment>
+    <segment id="4">Muñoz disse que sim.</segment>
+    <segment id="5">A scooter era vermelho-cereja</segment>
+    <segment id="6">, com o número 7 na frente.</segment>
+    <segment id="7">Sob o assento havia uma bateria de íons de lítio extra grande.</segment>
+    <segment id="8">Quando precisava ser carregada</segment>
+    <segment id="9">, Muñoz a removia e a levava até o apartamento do casal</segment>
+    <segment id="10">, no terceiro andar em College Point</segment>
+    <segment id="11">, no bairro nova-iorquino do Queens.</segment>
+    <segment id="12">Alfonso Villa Muñoz</segment>
+    <segment id="13">, Marilu Torres e Jefferson Jimenez</segment>
+    <segment id="14">, pais e irmão de Stephanie Villa Torres - José A. Alvarado Jr. - 10.mai.23/The New York Times</segment>
+    <segment id="15">Um mês depois</segment>
+    <segment id="16">, a bateria explodiu na sala</segment>
+    <segment id="17">, desencadeando chamas que tomaram conta do apartamento.</segment>
+    <segment id="18">Muñoz gritou por sua filha Stephanie</segment>
+    <segment id="19">, 8, que dormia.</segment>
+    <segment id="20">Ele não conseguiu atravessar a parede de fumaça preta para chegar até ela.</segment>
+    <segment id="21">Stephanie morreu por inalação de fumaça.</segment>
+    <segment id="22">"</segment>
+    <segment id="23">É como</segment>
+    <segment id="24">como se</segment>
+    <segment id="25">se você trouxesse morte e destruição para sua casa</segment>
+    <segment id="26">, não apenas para você</segment>
+    <segment id="27">, masmas para todos ao seu redor"</segment>
+    <segment id="28">, disse Muñoz</segment>
+    <segment id="29">, 36, tirando os óculos para enxugar as lágrimas.</segment>
+    <segment id="30">"</segment>
+    <segment id="31">Você pode perder tudo.</segment>
+    <segment id="32">"  Bicicletas e scooters elétricas inundaram as ruas de Nova York adotadas por entregadores e passageiros</segment>
+    <segment id="33">comocomo uma maneira econômica e eficiente de</segment>
+    <segment id="34">sese locomover.</segment>
+    <segment id="35">Apesar de os dispositivos terem ficado quase onipresentes</segment>
+    <segment id="36">, suas baterias fizeram da cidade o epicentro de um novo tipo de incêndio feroz e rápido.</segment>
+    <segment id="37">Esses incêndios são perigosos</segment>
+    <segment id="38">, alerta Laura Kavanagh</segment>
+    <segment id="39">, comissária de bombeiros de Nova York.</segment>
+    <segment id="40">Com pouco ou nenhum aviso</segment>
+    <segment id="41">, as baterias podem pegar fogo</segment>
+    <segment id="42">, deixando segundos para as pessoas escaparem.</segment>
+    <segment id="43">Em apenas três anos</segment>
+    <segment id="44">, os incêndios com baterias de lítio igualaram os elétricos e superaram os provocados por cozinhar e fumar</segment>
+    <segment id="45">comocomo principais causas de incêndios fatais na cidade.</segment>
+    <segment id="46">Stephanie Villa Torres</segment>
+    <segment id="47">, 8, foi uma das 23 vítimas de incêndios provocados por baterias de lítio na cidade de Nova York neste ano - José A. Alvarado Jr. - 10.mai.23/The New York Times</segment>
+    <segment id="48">As razões para o aumento desses acidentes são inúmeras.</segment>
+    <segment id="49">Incluem falta de regulamentação e testes de segurança para dispositivos de propriedade individual</segment>
+    <segment id="50">, práticas perigosas de carregamento (</segment>
+    <segment id="51">comocomo o uso de equipamentos incompatíveis ou sobrecarga) e falta de áreas de carregamento seguras numa cidade densamente povoada</segment>
+    <segment id="52">, com inúmeros prédios residenciais</segment>
+    <segment id="53">, onde começa a maioria dos incêndios.</segment>
+    <segment id="54">Para os que dependem de bicicletas elétricas e outros dispositivos movidos a bateria para fazer entregas ou ganhar a vida</segment>
+    <segment id="55">, os incêndios forçaram uma escolha entre estabilidade financeira e segurança pessoal.</segment>
+    <segment id="56">Em todos os EUA</segment>
+    <segment id="57">, mais de 200 casos de incêndio ou superaquecimento de micromobilidade foram relatados em 39 estados</segment>
+    <segment id="58">, resultando em ao menos 19 mortes</segment>
+    <segment id="59">, segundo a Comissão de Segurança de Produtos de Consumo.</segment>
+    <segment id="60">Mas a organização enfatiza que o problema é especialmente grave em áreas densamente povoadas.</segment>
+    <segment id="61">Em Londres</segment>
+    <segment id="62">, incêndios do tipo são o risco que mais cresce</segment>
+    <segment id="63">, com 57 casos em bicicletas elétricas e 13 em patinetes elétricas neste ano</segment>
+    <segment id="64">, de acordo com o Corpo de Bombeiros local.</segment>
+    <segment id="65">Em Nova York</segment>
+    <segment id="66">, incêndios em baterias de lítio mataram 13 pessoas neste ano —quatro num episódio que começou numa loja de bicicletas em Chinatown.</segment>
+    <segment id="67">No total</segment>
+    <segment id="68">, 23 pessoas morreram em incêndios de baterias desde 2021.</segment>
+    <segment id="69">Neste ano</segment>
+    <segment id="70">, foram 108 incêndios</segment>
+    <segment id="71">, ante 98 no mesmo período do ano passado.</segment>
+    <segment id="72">Resultado de um incêndio em uma loja de reparos de bicicletas elétricas em Chinatown</segment>
+    <segment id="73">, Manhattan - Amir Hamja - 10.jun.23/The New York Times'Esses dispositivos estão aqui agora</segment>
+    <segment id="74">, e são muitos'  Durante a pandemia de Covid</segment>
+    <segment id="75">, quando o transporte público foi reduzido e a demanda por entrega de alimentos disparou</segment>
+    <segment id="76">, houve uma oferta imediata de bicicletas elétricas e patinetes eletrônicas baratas de qualidade questionável em toda a cidade.</segment>
+    <segment id="77">Aqueles em busca de bons negócios atacaram.</segment>
+    <segment id="78">Com muitos vivendo em locais apertados</segment>
+    <segment id="79">, eles carregavam suas baterias nos próprios apartamentos.</segment>
+    <segment id="80">Mas quando uma bateria de lítio superaquece ou apresenta mau funcionamento</segment>
+    <segment id="81">, a velocidade e o impacto dos incêndios as tornam especialmente perigosas</segment>
+    <segment id="82">, sobretudo quando muitos moram em locais pequenos.</segment>
+    <segment id="83">Isso levou cada vez mais proprietários de apartamentos a proibir bicicletas elétricas e outros dispositivos de mobilidade elétrica</segment>
+    <segment id="84">, enquanto políticos de Nova York trabalham para evitar incêndios em várias frentes.</segment>
+    <segment id="85">Lá foraReceba no seu email uma seleção semanal com o que de mais importante aconteceu no mundo</segment>
+    <segment id="86">; aberta para não assinantes.</segment>
+    <segment id="87">Carregando...</segment>
+    <segment id="88">Em setembro</segment>
+    <segment id="89">, a cidade</segment>
+    <segment id="90">sese tornará a primeira do país a proibir a venda de bicicletas elétricas e outros dispositivos de mobilidade elétrica que não atendam aos padrões de segurança aprovados.</segment>
+    <segment id="91">Autoridades e bombeiros também pressionaram por maior supervisão estadual e federal</segment>
+    <segment id="92">, fecharam estações ilegais de carregamento de baterias</segment>
+    <segment id="93">, trabalharam com apps de entrega para educar os trabalhadores e mostraram mensagens de serviço público com baterias explodindo.</segment>
+    <segment id="94">"</segment>
+    <segment id="95">Tenho preocupações muito sérias em curto prazo"</segment>
+    <segment id="96">, diz Kavanagh.</segment>
+    <segment id="97">"</segment>
+    <segment id="98">Esses dispositivos estão aqui agora</segment>
+    <segment id="99">, e há muitos deles.</segment>
+    <segment id="100">"</segment>
+    <segment id="101">Um 'mini-inferno' no Citi Bike prenuncia uma crise  Em março de 2019</segment>
+    <segment id="102">, o Citi Bike</segment>
+    <segment id="103">, popular programa de compartilhamento de bicicletas</segment>
+    <segment id="104">, estava carregando suas bicicletas elétricas com pedal em seu depósito no Brooklyn quando houve um incêndio.</segment>
+    <segment id="105">Começou com um estrondo.</segment>
+    <segment id="106">Então vieram chamas com faíscas cromadas voando e uma onda de calor. "</segment>
+    <segment id="107">Num instante</segment>
+    <segment id="108">, as baterias começaram a explodir em chamas uma a uma</segment>
+    <segment id="109">, como</segment>
+    <segment id="110">como em efeito dominó"</segment>
+    <segment id="111">, relatou uma testemunha aos bombeiros.</segment>
+    <segment id="112">"</segment>
+    <segment id="113">Em dez segundos</segment>
+    <segment id="114">, toda a linha superior</segment>
+    <segment id="115">sese tornou um mini-inferno.</segment>
+    <segment id="116">"</segment>
+    <segment id="117">Embora os incêndios em bicicletas elétricas estivessem</segment>
+    <segment id="118">sese tornando um problema</segment>
+    <segment id="119">, os bombeiros estão cientes dos perigos das baterias de lítio há anos.</segment>
+    <segment id="120">Inicialmente</segment>
+    <segment id="121">, concentraram-</segment>
+    <segment id="122">sese nas baterias altamente reguladas em sistemas de armazenamento de energia</segment>
+    <segment id="123">, que estocam eletricidade para edifícios.</segment>
+    <segment id="124">Após incêndio em um depósito da Citi Bike em 2019</segment>
+    <segment id="125">, a segurança da bateria</segment>
+    <segment id="126">sese tornou uma prioridade para o serviço de compartilhamento de bicicletas - José A. Alvarado Jr. - 19.jun.23/The New York Times</segment>
+    <segment id="127">Após o</segment>
+    <segment id="128">casocaso Citi Bike</segment>
+    <segment id="129">, a segurança da bateria tornou-</segment>
+    <segment id="130">sese prioridade para o programa de compartilhamento de bicicletas.</segment>
+    <segment id="131">Ele utiliza apenas baterias certificadas de acordo com as normas de segurança e com sensores integrados que as monitoram em tempo real</segment>
+    <segment id="132">, bem como</segment>
+    <segment id="133">como um interruptor de desligamento.</segment>
+    <segment id="134">No armazém</segment>
+    <segment id="135">, cada bateria é inspecionada e carregada em um rack com divisórias de concreto à prova de fogo.</segment>
+    <segment id="136">Não houve um grande incêndio de bateria no Citi Bike desde que esses protocolos foram adotados.</segment>
+    <segment id="137">Bombeiros também revisaram o código de incêndio da cidade</segment>
+    <segment id="138">, que agora exige que os edifícios forneçam medidas de segurança</segment>
+    <segment id="139">, como</segment>
+    <segment id="140">como uma sala de carregamento dedicada com sprinkler quando mais de cinco estiverem carregando.</segment>
+    <segment id="141">Mas o código de incêndio não cobre o uso individual de bicicletas elétricas</segment>
+    <segment id="142">, e os inspetores não entram em residências para verificar violações de segurança sem um mandado.  'Estamos tentando espremer muita energia dessas baterias'</segment>
+    <segment id="143">As baterias de lítio</segment>
+    <segment id="144">, usadas comercialmente desde 1991</segment>
+    <segment id="145">, têm histórico de provocar incêndios em notebooks Dell</segment>
+    <segment id="146">, smartphones Samsung e hoverboards</segment>
+    <segment id="147">, levando a grandes recalls.</segment>
+    <segment id="148">Depois de anos de pesquisa para eliminar o perigo</segment>
+    <segment id="149">, porém</segment>
+    <segment id="150">porém, as baterias de lítio geralmente</segment>
+    <segment id="151">sese tornaram mais seguras</segment>
+    <segment id="152">, diz Adam Barowy</segment>
+    <segment id="153">, engenheiro de proteção contra incêndios especializado em baterias de lítio para o Instituto de Pesquisa de Segurança contra Incêndios</segment>
+    <segment id="154">, nos Institutos de Pesquisa UL.</segment>
+    <segment id="155">Dentro de uma bateria de lítio</segment>
+    <segment id="156">, várias pequenas células são agrupadas.</segment>
+    <segment id="157">Quando a bateria é usada</segment>
+    <segment id="158">, os íons de lítio</segment>
+    <segment id="159">sese movem entre os eletrodos dentro de cada célula</segment>
+    <segment id="160">, gerando uma corrente elétrica.</segment>
+    <segment id="161">Patinete elétrico em SPMais    novamente         de   de  de  representando um</segment>
+    <segment id="162">O perigo ocorre quando uma célula entra em "descontrole térmico"</segment>
+    <segment id="163">, reação em cadeia na qual o calor</segment>
+    <segment id="164">sese desenvolve com extrema rapidez</segment>
+    <segment id="165">, criando uma ameaça de incêndio e</segment>
+    <segment id="166">, às vezes</segment>
+    <segment id="167">, explosão.</segment>
+    <segment id="168">Uma célula pode entrar em descontrole térmico por sobrecarga</segment>
+    <segment id="169">, defeito de fabricação ou calor de uma célula adjacente.</segment>
+    <segment id="170">Mas há pressão do mercado sobre os fabricantes para adicionar mais energia às baterias</segment>
+    <segment id="171">, o que pode ultrapassar os limites de segurança.</segment>
+    <segment id="172">As baterias das bicicletas elétricas contêm muito mais energia do que as dos celulares e</segment>
+    <segment id="173">, assim</segment>
+    <segment id="174">, são mais destrutivas em</segment>
+    <segment id="175">casocaso de incêndio.</segment>
+    <segment id="176">"</segment>
+    <segment id="177">Estamos tentando espremer muita energia dessas baterias</segment>
+    <segment id="178">, e isso as torna mais perigosas"</segment>
+    <segment id="179">, diz Nikhil Gupta</segment>
+    <segment id="180">, professor de engenharia mecânica e aeroespacial da Escola de Engenharia Tandon da Universidade de Nova York.</segment>
+    <segment id="181">Regulamentação significa testes caros</segment>
+    <segment id="182">, masmas dispositivos mais seguros  Baterias mais potentes são apenas parte do motivo pelo qual tantos veículos elétricos estão pegando fogo.</segment>
+    <segment id="183">Os carros elétricos e os sistemas de armazenamento de energia</segment>
+    <segment id="184">, cada vez mais adotados para combater as mudanças climáticas</segment>
+    <segment id="185">, exigem muito mais energia e</segment>
+    <segment id="186">, no entanto</segment>
+    <segment id="187">, provocam menos incêndios.</segment>
+    <segment id="188">A diferença</segment>
+    <segment id="189">, de acordo com especialistas em baterias e segurança contra incêndios</segment>
+    <segment id="190">, é que essas indústrias são rigorosamente regulamentadas e precisam passar por várias etapas de testes para provar que os produtos são seguros.</segment>
+    <segment id="191">Até recentemente</segment>
+    <segment id="192">, bicicletas elétricas não recebiam escrutínio semelhante.</segment>
+    <segment id="193">Entregador observa o trânsito antes de pegar um pedido em Nova York - José A. Alvarado Jr. - 4.nov.20/The New York Times</segment>
+    <segment id="194">A Comissão de Segurança de Produtos de Consumo aumentou a supervisão de dispositivos de mobilidade elétrica</segment>
+    <segment id="195">, instando as empresas a "cumprir os padrões de segurança voluntários estabelecidos ou enfrentar possíveis ações de fiscalização".</segment>
+    <segment id="196">E os legisladores de Nova York propuseram um padrão de segurança federal para baterias de lítio usadas nesses dispositivos.</segment>
+    <segment id="197">Ash Lovell</segment>
+    <segment id="198">, diretora de política e campanha de bicicletas elétricas da PeopleForBikes</segment>
+    <segment id="199">, a associação nacional de fabricantes de bicicletas</segment>
+    <segment id="200">, que pediu mais regulamentos de segurança</segment>
+    <segment id="201">, disse que as baterias de baixa qualidade não refletem a indústria de bicicletas elétricas</segment>
+    <segment id="202">comocomo um todo.</segment>
+    <segment id="203">A maioria de seus membros também vende bicicletas elétricas na Europa e já atende a regulamentos de segurança robustos lá</segment>
+    <segment id="204">, disse.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,68 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Secretaria de Estado da Saúde de São Paulo decidiu prorrogar novamente a campanha de vacinação contra gripe.</segment>
+    <segment id="2">Todas as pessoas com mais de seis meses de idade poderão receber o imunizante até o dia 31 de agosto.</segment>
+    <segment id="3">A medida é uma maneira de aumentar a cobertura vacinal e evitar internações e mortes pela doença.</segment>
+    <segment id="4">Desde janeiro</segment>
+    <segment id="5">, foram 222 óbitos decorrentes de casos graves relacionados às diferentes linhagens do vírus Influenza.</segment>
+    <segment id="6">No mesmo período do ano passado</segment>
+    <segment id="7">, foram registradas 266 mortes.</segment>
+    <segment id="8">Paciente recebe vacina contra gripe em UBS da zona sul de São Paulo</segment>
+    <segment id="9">; doença provocou 222 mortes no Estado neste ano - Bruno Santos/Folhapress</segment>
+    <segment id="10">A queda observada na letalidade</segment>
+    <segment id="11">, porém</segment>
+    <segment id="12">porém, não</segment>
+    <segment id="13">sese repete nas hospitalizações.</segment>
+    <segment id="14">Neste ano</segment>
+    <segment id="15">, foram registradas 2.398 internações por gripe até a última semana de julho</segment>
+    <segment id="16">, contra 1.596 no ano passado</segment>
+    <segment id="17">, uma alta de 50</segment>
+    <segment id="18">,2%.</segment>
+    <segment id="19">Segundo a secretaria</segment>
+    <segment id="20">, a meta de cobertura vacinal para o estado é de 90%</segment>
+    <segment id="21">, porém</segment>
+    <segment id="22">porém até esta segunda-feira (31) a taxa estava em 47</segment>
+    <segment id="23">,8%, o equivalente a 12.017.605 doses aplicadas.</segment>
+    <segment id="24">Entenda a vacina</segment>
+    <segment id="25">O vírus que causa a gripe é o Influenza</segment>
+    <segment id="26">, sendo os tipos</segment>
+    <segment id="27">A e B os mais comuns entre humanos.</segment>
+    <segment id="28">No caso</segment>
+    <segment id="29">caso do A</segment>
+    <segment id="30">, as linhagens H1N1 e H3N2 são as principais causadoras da doença</segment>
+    <segment id="31">, por isso a vacina desenvolvida pelo Instituto Butantan e disponibilizada no SUS contêm as duas cepas em sua formulação.</segment>
+    <segment id="32">LEIA MAISSupervacina contra gripe tem sucesso em primeira fase de testes em humanos</segment>
+    <segment id="33">Além delas</segment>
+    <segment id="34">, uma terceira linhagem compõe a vacina.</segment>
+    <segment id="35">Nesse caso</segment>
+    <segment id="36">caso, é do tipo B</segment>
+    <segment id="37">, que é dividido em Yamagata e Victoria –é esta última linhagem que foi utilizada na vacina de 2023.</segment>
+    <segment id="38">O imunizante leva o organismo a produzir anticorpos contra a infecção e estimula a memória das células</segment>
+    <segment id="39">para que</segment>
+    <segment id="40">para que elas aprendam a lidar com o vírus.</segment>
+    <segment id="41">Menos de 10% das pessoas que recebem a vacina desenvolvem febre</segment>
+    <segment id="42">, mal-estar e dores musculares e reações alérgicas são consideradas raras.</segment>
+  </rst>
+</analysis>

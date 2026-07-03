@@ -1,0 +1,263 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O livro &amp;ldquo</segment>
+    <segment id="2">;O Poder da Destrui&amp;ccedil</segment>
+    <segment id="3">;&amp;atilde</segment>
+    <segment id="4">;o Criativa&amp;rdquo</segment>
+    <segment id="5">;, de Philippe Aghion e coautores</segment>
+    <segment id="6">, faz uma excelente s&amp;iacute</segment>
+    <segment id="7">;ntese da teoria de crescimento econ&amp;ocirc</segment>
+    <segment id="8">;mico.</segment>
+    <segment id="9">O argumento central &amp;eacute</segment>
+    <segment id="10">; que as economias prosperam devido &amp;agrave</segment>
+    <segment id="11">;</segment>
+    <segment id="12">inova&amp;ccedil</segment>
+    <segment id="13">;&amp;atilde</segment>
+    <segment id="14">;o tecnol&amp;oacute</segment>
+    <segment id="15">;gica.</segment>
+    <segment id="16">Inovar &amp;eacute</segment>
+    <segment id="17">;</segment>
+    <segment id="18">um processo cont&amp;iacute</segment>
+    <segment id="19">;nuo.</segment>
+    <segment id="20">A inven&amp;ccedil</segment>
+    <segment id="21">;&amp;atilde</segment>
+    <segment id="22">;o do smartphone</segment>
+    <segment id="23">, por exemplo</segment>
+    <segment id="24">, foi sucedida pela cria&amp;ccedil</segment>
+    <segment id="25">;&amp;atilde</segment>
+    <segment id="26">;o de aplicativos diversos e pelo aumento da capacidade de processamento dos aparelhos.</segment>
+    <segment id="27">Cada inova&amp;ccedil</segment>
+    <segment id="28">;&amp;atilde</segment>
+    <segment id="29">;o adicional ampliou as possibilidades de uso do aparelho</segment>
+    <segment id="30">, criando mais produtos</segment>
+    <segment id="31">, neg&amp;oacute</segment>
+    <segment id="32">;cios e empresas.</segment>
+    <segment id="33">Para que um pa&amp;iacute</segment>
+    <segment id="34">;s atinja a alta renda</segment>
+    <segment id="35">, n&amp;atilde</segment>
+    <segment id="36">;o basta construir f&amp;aacute</segment>
+    <segment id="37">;bricas.</segment>
+    <segment id="38">&amp;Eacute</segment>
+    <segment id="39">; preciso que sucessivas inova&amp;ccedil</segment>
+    <segment id="40">;&amp;otilde</segment>
+    <segment id="41">;es tornem as m&amp;aacute</segment>
+    <segment id="42">;quinas e trabalhadores dessas f&amp;aacute</segment>
+    <segment id="43">;bricas cada vez mais produtivos.</segment>
+    <segment id="44">Ficando obsoleta</segment>
+    <segment id="45">, a f&amp;aacute</segment>
+    <segment id="46">;brica tem que sair do mercado.</segment>
+    <segment id="47">Pa&amp;iacute</segment>
+    <segment id="48">;ses tecnologicamente atrasados podem acelerar seu crescimento copiando inova&amp;ccedil</segment>
+    <segment id="49">;&amp;otilde</segment>
+    <segment id="50">;es j&amp;aacute</segment>
+    <segment id="51">; existentes.</segment>
+    <segment id="52">Quanto mais distantes da fronteira tecnol&amp;oacute</segment>
+    <segment id="53">;gica, mais espa&amp;ccedil</segment>
+    <segment id="54">;o t&amp;ecirc</segment>
+    <segment id="55">;m para crescer.</segment>
+    <segment id="56">J&amp;aacute</segment>
+    <segment id="57">; os pa&amp;iacute</segment>
+    <segment id="58">;ses desenvolvidos</segment>
+    <segment id="59">, para continuar crescendo</segment>
+    <segment id="60">, t&amp;ecirc</segment>
+    <segment id="61">;m a tarefa mais complexa de expandir a fronteira de inova&amp;ccedil</segment>
+    <segment id="62">;&amp;atilde</segment>
+    <segment id="63">;o.</segment>
+    <segment id="64">Inova&amp;ccedil</segment>
+    <segment id="65">;&amp;atilde</segment>
+    <segment id="66">;o de fronteira requer muitos cientistas</segment>
+    <segment id="67">, centros tecnol&amp;oacute</segment>
+    <segment id="68">;gicos</segment>
+    <segment id="69">, integra&amp;ccedil</segment>
+    <segment id="70">;&amp;atilde</segment>
+    <segment id="71">;o entre a pesquisa b&amp;aacute</segment>
+    <segment id="72">;sica e a aplicada.</segment>
+    <segment id="73">Inovar &amp;eacute</segment>
+    <segment id="74">; atividade de retorno incerto</segment>
+    <segment id="75">, o que demanda sistema financeiro e de capitais sofisticado</segment>
+    <segment id="76">, capaz de mitigar riscos.</segment>
+    <segment id="77">Essencial</segment>
+    <segment id="78">, tamb&amp;eacute</segment>
+    <segment id="79">;m, a prote&amp;ccedil</segment>
+    <segment id="80">;&amp;atilde</segment>
+    <segment id="81">;o dos direitos de propriedade</segment>
+    <segment id="82">, para garantir retorno financeiro aos inovadores.</segment>
+    <segment id="83">Homem trabalha em montagem de motores - Bruno Santos-1.jul.21/FolhapressPa&amp;iacute</segment>
+    <segment id="84">;ses de renda m&amp;eacute</segment>
+    <segment id="85">;dia e baixa dificilmente t&amp;ecirc</segment>
+    <segment id="86">;m essa capacidade econ&amp;ocirc</segment>
+    <segment id="87">;mica e institucional.</segment>
+    <segment id="88">Podem at&amp;eacute</segment>
+    <segment id="89">; fazer alguma inova&amp;ccedil</segment>
+    <segment id="90">;&amp;atilde</segment>
+    <segment id="91">;o de fronteira</segment>
+    <segment id="92">, masmas a absor&amp;ccedil</segment>
+    <segment id="93">;&amp;atilde</segment>
+    <segment id="94">;o de tecnologia</segment>
+    <segment id="95">sese torna mais atraente.</segment>
+    <segment id="96">Para tanto</segment>
+    <segment id="97">, &amp;eacute</segment>
+    <segment id="98">; preciso dar &amp;ecirc</segment>
+    <segment id="99">;nfase ao ensino b&amp;aacute</segment>
+    <segment id="100">;sico, que cria uma for&amp;ccedil</segment>
+    <segment id="101">;a de trabalho capaz de entender e operar as inova&amp;ccedil</segment>
+    <segment id="102">;&amp;otilde</segment>
+    <segment id="103">;es absorvidas</segment>
+    <segment id="104">, bem como</segment>
+    <segment id="105">como permite a forma&amp;ccedil</segment>
+    <segment id="106">;&amp;atilde</segment>
+    <segment id="107">;o de profissionais de ger&amp;ecirc</segment>
+    <segment id="108">;ncia, apta a identificar e adotar novas tecnologias.</segment>
+    <segment id="109">Tamb&amp;eacute</segment>
+    <segment id="110">;m importante &amp;eacute</segment>
+    <segment id="111">; a abertura da economia</segment>
+    <segment id="112">, para ter acesso &amp;agrave</segment>
+    <segment id="113">; tecnologia e aos melhores insumos.</segment>
+    <segment id="114">Em ambiente amig&amp;aacute</segment>
+    <segment id="115">;vel &amp;agrave</segment>
+    <segment id="116">; absor&amp;ccedil</segment>
+    <segment id="117">;&amp;atilde</segment>
+    <segment id="118">;o tecnol&amp;oacute</segment>
+    <segment id="119">;gica, pa&amp;iacute</segment>
+    <segment id="120">;ses em desenvolvimento caminham em dire&amp;ccedil</segment>
+    <segment id="121">;&amp;atilde</segment>
+    <segment id="122">;o &amp;agrave</segment>
+    <segment id="123">; fronteira</segment>
+    <segment id="124">, criando condi&amp;ccedil</segment>
+    <segment id="125">;&amp;otilde</segment>
+    <segment id="126">;es para o dif&amp;iacute</segment>
+    <segment id="127">;cil salto de</segment>
+    <segment id="128">sese tornarem inovadores.</segment>
+    <segment id="129">Nem todos conseguem</segment>
+    <segment id="130">, ficando presos na armadilha da renda m&amp;eacute</segment>
+    <segment id="131">;dia.</segment>
+    <segment id="132">O livro cita o</segment>
+    <segment id="133">casocaso da Coreia do Sul</segment>
+    <segment id="134">, que seguiu a cartilha e cresceu muito at&amp;eacute</segment>
+    <segment id="135">;</segment>
+    <segment id="136">o fim dos anos 1990</segment>
+    <segment id="137">, quando entrou em estagna&amp;ccedil</segment>
+    <segment id="138">;&amp;atilde</segment>
+    <segment id="139">;o.</segment>
+    <segment id="140">Os &amp;ldquo</segment>
+    <segment id="141">;chaebols&amp;rdquo</segment>
+    <segment id="142">;, conglomerados formados por pol&amp;iacute</segment>
+    <segment id="143">;tica de &amp;ldquo</segment>
+    <segment id="144">;campe&amp;otilde</segment>
+    <segment id="145">;es nacionais&amp;rdquo</segment>
+    <segment id="146">; da fase inicial de industrializa&amp;ccedil</segment>
+    <segment id="147">;&amp;atilde</segment>
+    <segment id="148">;o, pressionavam o governo e impediam a entrada de concorrentes e a inova&amp;ccedil</segment>
+    <segment id="149">;&amp;atilde</segment>
+    <segment id="150">;o.</segment>
+    <segment id="151">Com a crise financeira de 1997</segment>
+    <segment id="152">, a Coreia do Sul recorreu ao FMI (Fundo Monet&amp;aacute</segment>
+    <segment id="153">;rio Internacional)</segment>
+    <segment id="154">, que condicionou a ajuda &amp;agrave</segment>
+    <segment id="155">; abertura da economia e a medidas de refor&amp;ccedil</segment>
+    <segment id="156">;o de direitos de propriedade e de defesa da concorr&amp;ecirc</segment>
+    <segment id="157">;ncia.</segment>
+    <segment id="158">Os chaebols</segment>
+    <segment id="159">sese enfraqueceram</segment>
+    <segment id="160">, empresas inovadoras entraram no mercado e a Coreia do Sul</segment>
+    <segment id="161">sese transformou em uma economia de inova&amp;ccedil</segment>
+    <segment id="162">;&amp;atilde</segment>
+    <segment id="163">;o de fronteira.</segment>
+    <segment id="164">No Brasil</segment>
+    <segment id="165">, que n&amp;atilde</segment>
+    <segment id="166">;o foi analisado pelos autores</segment>
+    <segment id="167">, n&amp;atilde</segment>
+    <segment id="168">;o escolhemos o rumo da absor&amp;ccedil</segment>
+    <segment id="169">;&amp;atilde</segment>
+    <segment id="170">;o de tecnologia.</segment>
+    <segment id="171">Em alguns casos</segment>
+    <segment id="172">, como</segment>
+    <segment id="173">como na lei de inform&amp;aacute</segment>
+    <segment id="174">;tica, tentamos cri&amp;aacute</segment>
+    <segment id="175">;-la do zero</segment>
+    <segment id="176">, reinventando a roda.</segment>
+    <segment id="177">Acreditamos que crescer era construir f&amp;aacute</segment>
+    <segment id="178">;bricas e depois proteg&amp;ecirc</segment>
+    <segment id="179">;-las da concorr&amp;ecirc</segment>
+    <segment id="180">;ncia.</segment>
+    <segment id="181">Criamos barreiras comerciais</segment>
+    <segment id="182">, oferecendo mercado cativo a quem aqui colocasse sua produ&amp;ccedil</segment>
+    <segment id="183">;&amp;atilde</segment>
+    <segment id="184">;o.</segment>
+    <segment id="185">Elas sobrevivem e ganham dinheiro sem precisar aumentar sua produtividade.</segment>
+    <segment id="186">Um veneno para a inova&amp;ccedil</segment>
+    <segment id="187">;&amp;atilde</segment>
+    <segment id="188">;o.</segment>
+    <segment id="189">Descuidamos da qualidade da educa&amp;ccedil</segment>
+    <segment id="190">;&amp;atilde</segment>
+    <segment id="191">;o b&amp;aacute</segment>
+    <segment id="192">;sica.</segment>
+    <segment id="193">O aumento do gasto no setor</segment>
+    <segment id="194">, nos anos recentes</segment>
+    <segment id="195">, n&amp;atilde</segment>
+    <segment id="196">;o resultou em mais aprendizado.</segment>
+    <segment id="197">Continuamos com uma for&amp;ccedil</segment>
+    <segment id="198">;a de trabalho incapaz de entender e lidar com inova&amp;ccedil</segment>
+    <segment id="199">;&amp;otilde</segment>
+    <segment id="200">;es.</segment>
+    <segment id="201">Tentamos copiar o modelo de inova&amp;ccedil</segment>
+    <segment id="202">;&amp;atilde</segment>
+    <segment id="203">;o de fronteira dos pa&amp;iacute</segment>
+    <segment id="204">;ses desenvolvidos</segment>
+    <segment id="205">, criando uma rede de universidades federais e subs&amp;iacute</segment>
+    <segment id="206">;dios &amp;agrave</segment>
+    <segment id="207">; pesquisa</segment>
+    <segment id="208">, que custa caro</segment>
+    <segment id="209">, masmas n&amp;atilde</segment>
+    <segment id="210">;o prospera</segment>
+    <segment id="211">, por n&amp;atilde</segment>
+    <segment id="212">;o termos rede de pesquisa com intensidade suficiente</segment>
+    <segment id="213">, seguran&amp;ccedil</segment>
+    <segment id="214">;a jur&amp;iacute</segment>
+    <segment id="215">;dica ou parceria privada.</segment>
+    <segment id="216">A Embraer</segment>
+    <segment id="217">, citada</segment>
+    <segment id="218">comocomo exemplo de sucesso de nossa pol&amp;iacute</segment>
+    <segment id="219">;tica industrial</segment>
+    <segment id="220">, na verdade deu certo por n&amp;atilde</segment>
+    <segment id="221">;o seguir o padr&amp;atilde</segment>
+    <segment id="222">;o protecionista.</segment>
+    <segment id="223">Sempre competiu no mercado externo e teve liberdade para importar insumos e tecnologia.</segment>
+    <segment id="224">Apoiou-</segment>
+    <segment id="225">sese no Instituto de Tecnologia Aeron&amp;aacute</segment>
+    <segment id="226">;utica</segment>
+    <segment id="227">, uma exce&amp;ccedil</segment>
+    <segment id="228">;&amp;atilde</segment>
+    <segment id="229">;o em termos de qualidade acad&amp;ecirc</segment>
+    <segment id="230">;mica, dif&amp;iacute</segment>
+    <segment id="231">;cil de reproduzir em larga escala.</segment>
+    <segment id="232">Em vez de destrui&amp;ccedil</segment>
+    <segment id="233">;&amp;atilde</segment>
+    <segment id="234">;o criativa</segment>
+    <segment id="235">, optamos pela prote&amp;ccedil</segment>
+    <segment id="236">;&amp;atilde</segment>
+    <segment id="237">;o destrutiva.​</segment>
+  </rst>
+</analysis>

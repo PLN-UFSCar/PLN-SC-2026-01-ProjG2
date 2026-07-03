@@ -1,0 +1,89 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">'Crescimento europeu é a chave'
+PARIS.</segment>
+    <segment id="2">O alemão Guntram Wolff</segment>
+    <segment id="3">, vice-diretor do instituto Bruegel</segment>
+    <segment id="4">, em Bruxelas</segment>
+    <segment id="5">, e um dos responsáveis pela reforma da governança da zona do euro</segment>
+    <segment id="6">, diz que a ameaça da agência Moody's de rebaixamento dos países do bloco tem que ser levada a sério.</segment>
+    <segment id="7">Ele alerta que os investidores estão cada vez mais convencidos de que o euro não sobreviverá</segment>
+    <segment id="8">, e diz que é hora de mudar isso.</segment>
+    <segment id="9">O GLOBO:</segment>
+    <segment id="10">A Alemanha ganhou a batalha</segment>
+    <segment id="11">para que</segment>
+    <segment id="12">para que o Banco Central Europeu (BCE) não interfira</segment>
+    <segment id="13">comocomo credor para salvar a zona do euro.</segment>
+    <segment id="14">É a Alemanha quem claramente dita as ordens na zona do euro?</segment>
+    <segment id="15">GUNTRAM WOLFF: Alemanha é certamente o maior e o mais poderoso membro da zona do euro.</segment>
+    <segment id="16">Mas nunca vai</segment>
+    <segment id="17">sese encontrar numa situação onde é o único patrão.</segment>
+    <segment id="18">A França tem um papel importante também.</segment>
+    <segment id="19">O GLOBO: Mas é a vontade alemã que tem prevalecido.</segment>
+    <segment id="20">WOLFF: Afinal</segment>
+    <segment id="21">, quem é mais poderoso: o credor ou o devedor?</segment>
+    <segment id="22">Se você deve mil euros</segment>
+    <segment id="23">, é problema do devedor.</segment>
+    <segment id="24">Mas se</segment>
+    <segment id="25">se você deve um milhão de euros</segment>
+    <segment id="26">, o problema é do credor.</segment>
+    <segment id="27">O poder dos devedores é muito alto neste momento.</segment>
+    <segment id="28">O GLOBO:</segment>
+    <segment id="29">O que acontecerá numa recessão na Europa?</segment>
+    <segment id="30">WOLFF:</segment>
+    <segment id="31">Crescimento europeu é a chave.</segment>
+    <segment id="32">Mas isso só acontecerá quando restaurarmos a confiança.</segment>
+    <segment id="33">Essa deve ser a prioridade.</segment>
+    <segment id="34">E só acontecerá com uma solução factível para a crise</segment>
+    <segment id="35">, inclusive no sistema financeiro e bancário</segment>
+    <segment id="36">, que está sem dinheiro.</segment>
+    <segment id="37">Precisa de capital para evitar crise do crédito.</segment>
+    <segment id="38">O GLOBO:</segment>
+    <segment id="39">Como resolver isso?</segment>
+    <segment id="40">WOLFF:</segment>
+    <segment id="41">Essa é a batalha política.</segment>
+    <segment id="42">Acho que haverá acordo para algum tipo de união fiscal.</segment>
+    <segment id="43">Precisamos disso</segment>
+    <segment id="44">sese quisermos que o euro sobreviva.</segment>
+    <segment id="45">E isso deve incluir algum tipo de eurobônus.</segment>
+    <segment id="46">O GLOBO:</segment>
+    <segment id="47">A Alemanha teve dificuldade para vender seus títulos.</segment>
+    <segment id="48">Sua estabilidade começa a ser afetada?</segment>
+    <segment id="49">WOLFF:</segment>
+    <segment id="50">Há duas interpretações.</segment>
+    <segment id="51">Uma diz que os investidores acham que a Alemanha está pagando para o resto da zona do euro.</segment>
+    <segment id="52">Essa é a interpretação na Alemanha.</segment>
+    <segment id="53">A outra diz simplesmente que os mercados não creem mais na Alemanha ou no euro.</segment>
+    <segment id="54">O GLOBO:</segment>
+    <segment id="55">O alerta da agência Moody's de rebaixamento dos países da zona do euro deve ser levado a sério?</segment>
+    <segment id="56">WOLFF:</segment>
+    <segment id="57">Muito!</segment>
+    <segment id="58">Tem impacto no mercado.</segment>
+    <segment id="59">Investidores estrangeiros estão preocupados com a zona do euro.</segment>
+    <segment id="60">Se um investidor da Ásia acha que o euro não vai sobreviver</segment>
+    <segment id="61">, vai parar de investir na Europa</segment>
+    <segment id="62">, inclusive na Alemanha.</segment>
+  </rst>
+</analysis>

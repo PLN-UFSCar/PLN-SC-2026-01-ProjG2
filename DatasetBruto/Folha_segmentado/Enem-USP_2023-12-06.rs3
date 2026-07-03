@@ -1,0 +1,90 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Fuvest recebe até as 12h desta sexta (5) as inscrições para o preenchimento de 1.500 vagas em cursos de graduação na USP (Universidade de São Paulo) na modalidade Enem-USP.</segment>
+    <segment id="2">O Enem-USP é um novo sistema implantado no ano passado que substitui o ingresso na universidade via Sisu (Sistema de Seleção Unificada) do Ministério da Educação</segment>
+    <segment id="3">, que era utilizado anteriormente.</segment>
+    <segment id="4">A ideia é que</segment>
+    <segment id="5">, com o novo sistema</segment>
+    <segment id="6">, os ingressantes pelo sistema Enem-USP possam seguir o mesmo calendário de matrícula dos ingressantes que entrarem pelo concurso vestibular da Fuvest</segment>
+    <segment id="7">, o que não era possível no sistema anterior</segment>
+    <segment id="8">, via Sisu</segment>
+    <segment id="9">, que muitas vezes demorava mais de um mês para a seleção.</segment>
+    <segment id="10">RUF (Ranking Universitário Folha)Veja as notas de todos os cursos da USPUSP e Unicamp repetem a dobradinha e</segment>
+    <segment id="11">sese mantêm na liderança do RUFOs cursos oferecidos no processo seletivo</segment>
+    <segment id="12">sese agrupam nas áreas do conhecimento: ciências biológicas e da vida</segment>
+    <segment id="13">; ciências exatas e tecnológicas</segment>
+    <segment id="14">; e ciências humanas e sociais.</segment>
+    <segment id="15">Os candidatos devem</segment>
+    <segment id="16">sese inscrever em uma única área e selecionar</segment>
+    <segment id="17">, em ordem de prioridade</segment>
+    <segment id="18">, até o máximo de três cursos pretendidos.</segment>
+    <segment id="19">Candidatos durante o exame da primeira fase da Fuvest na FEA-USP</segment>
+    <segment id="20">, na Cidade Universitária</segment>
+    <segment id="21">, zona oeste de São Paulo -Rubens Cavallari - 19.nov.2023/FolhapressO resultado do Enem será divulgado apenas no dia 16 de janeiro</segment>
+    <segment id="22">, por isso</segment>
+    <segment id="23">, depois de saberem suas notas os candidatos ainda terão a oportunidade de alterar suas opções de cursos dentro da área escolhida no período de 18 a 19 de janeiro.</segment>
+    <segment id="24">A taxa de inscrição é de R$ 10.</segment>
+    <segment id="25">Estão isentos os candidatos inscritos no vestibular da Fuvest 2024</segment>
+    <segment id="26">, aqueles em situação de vulnerabilidade socioeconômica e os inscritos no CadÚnico (Cadastro Único para programas sociais do governo federal).</segment>
+    <segment id="27">A primeira chamada de candidatos aprovados será em 24 de janeiro e a segunda</segment>
+    <segment id="28">, em 14 de fevereiro.</segment>
+    <segment id="29">Haverá também chamadas de candidatos em listas de espera.</segment>
+    <segment id="30">Como será a seleção</segment>
+    <segment id="31">A seleção dos candidatos será por classificação conforme a pontuação obtida no Enem 2023.</segment>
+    <segment id="32">Primeiro serão preenchidas 685 vagas destinadas à ampla concorrência (AC)</segment>
+    <segment id="33">;</segment>
+    <segment id="34">depois 512 vagas destinadas às políticas de ações afirmativas</segment>
+    <segment id="35">, nas categorias escola pública (L1 e L3)</segment>
+    <segment id="36">; e, por fim</segment>
+    <segment id="37">, os candidatos autodeclarados pretos</segment>
+    <segment id="38">, pardos e indígenas que tenham realizado a inscrição</segment>
+    <segment id="39">, também</segment>
+    <segment id="40">, para as 303 vagas PPI</segment>
+    <segment id="41">, nas categorias PPI (L2 e L4).  Universidade de São Paulo cria programa para captar recursos privadosMais    novamente         de   de  de  representando um  Confira a tabela de distribuição de vagas por modalidade no Enem-USP 2024:   Escola Pública (EP-L1) – candidatos com renda familiar bruta per capita igual ou inferior a 1</segment>
+    <segment id="42">,5 salário mínimo que tenham cursado integralmente o ensino médio em escolas públicas brasileiras</segment>
+    <segment id="43">;</segment>
+    <segment id="44">Escola Pública (EP-L3) – candidatos que</segment>
+    <segment id="45">, independentemente da renda</segment>
+    <segment id="46">, tenham cursado integralmente o ensino médio em escolas públicas brasileiras</segment>
+    <segment id="47">; Pretos</segment>
+    <segment id="48">, Pardos e Indígenas (PPI-L2)</segment>
+    <segment id="49">– vagas destinadas aos candidatos autodeclarados pretos</segment>
+    <segment id="50">, pardos ou indígenas com renda familiar bruta per capita igual ou inferior a 1</segment>
+    <segment id="51">,5 salário mínimo</segment>
+    <segment id="52">, que tenham cursado integralmente o ensino médio em escolas públicas brasileiras</segment>
+    <segment id="53">; Pretos</segment>
+    <segment id="54">, Pardos e Indígenas (PPI-L4)</segment>
+    <segment id="55">– vagas destinadas aos candidatos autodeclarados pretos</segment>
+    <segment id="56">, pardos ou indígenas que</segment>
+    <segment id="57">, independentemente da renda</segment>
+    <segment id="58">, tenham cursado integralmente o ensino médio em escolas públicas brasileiras.</segment>
+    <segment id="59">O candidato concorrerá apenas com aqueles que tenham optado pelo mesmo curso e período no processo seletivo Enem-USP 2024</segment>
+    <segment id="60">, masmas a pontuação final poderá variar para cada curso.</segment>
+    <segment id="61">Para ingresso em 2024</segment>
+    <segment id="62">, além das 1.500 vagas pelo Enem</segment>
+    <segment id="63">, a USP oferece 8.147 vagas pelo vestibular da Fuvest e 1.500 vagas pelo Provão Paulista</segment>
+    <segment id="64">, totalizando 11.147 vagas para novos alunos.</segment>
+  </rst>
+</analysis>

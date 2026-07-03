@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">2 mil animais sÃ£o vacinados em 3 dias</segment>
+    <segment id="2">A campanha de vacinaÃ§Ã£o segue a todo vapor</segment>
+    <segment id="3">A campanha de vacinaÃ§Ã£o antirrÃ¡bica promovida pela Secretaria Municipal de SaÃºde jÃ¡</segment>
+    <segment id="4">contabiliza mais de 2 mil vacinaÃ§Ãµes em animais</segment>
+    <segment id="5">, entre cÃ£es e gatos.</segment>
+    <segment id="6">O nÃºmero corresponde ao atendimento prestado nas regiÃµes de PernanbuÃ©s</segment>
+    <segment id="7">, Cabula e Centro HistÃ³rico</segment>
+    <segment id="8">, onde o Centro de Controle de Zoonoses atua desde o inÃ­cio da semana com diversas unidades mÃ³veis e tambÃ©m nas Unidades de SaÃºde da FamÃ­lia de cada bairro.</segment>
+    <segment id="9">A vacinaÃ§Ã£o contra a raiva Ã© muito importante</segment>
+    <segment id="10">, pois</segment>
+    <segment id="11">pois se</segment>
+    <segment id="12">se trata de um problema 100% letal</segment>
+    <segment id="13">, que nÃ£o tem cura.</segment>
+    <segment id="14">A Ãºnica vantagem Ã© que existe a vacina antirrÃ¡bica</segment>
+    <segment id="15">, no entanto</segment>
+    <segment id="16">, ela precisa ser reforÃ§ada anualmente</segment>
+    <segment id="17">, comentou Ana GalvÃ£o</segment>
+    <segment id="18">, mÃ©dica veterinÃ¡ria e chefe do setor de informaÃ§Ãµes em zoonoses de Salvador.</segment>
+  </rst>
+</analysis>

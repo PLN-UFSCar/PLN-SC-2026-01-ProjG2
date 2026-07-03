@@ -1,0 +1,102 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Texts, o aplicativo que promete reunir as mensagens de todos os aplicativos em um único lugar</segment>
+    <segment id="2">, foi comprado por US$ 50 milhões (R$ 250</segment>
+    <segment id="3">,3 milhões) nesta terça-feira (24).</segment>
+    <segment id="4">A responsável pela proposta foi a Automattic</segment>
+    <segment id="5">, holding que controla Wordpress.com e Tumblr.</segment>
+    <segment id="6">A plataforma reúne mensagens de WhatsApp</segment>
+    <segment id="7">, Telegram</segment>
+    <segment id="8">, Signal</segment>
+    <segment id="9">, iMessage</segment>
+    <segment id="10">, Messenger</segment>
+    <segment id="11">, Twitter</segment>
+    <segment id="12">, Instagram</segment>
+    <segment id="13">, LinkedIn</segment>
+    <segment id="14">, IRC, Slack e mensagens privadas do Discord.</segment>
+    <segment id="15">Em uma interface similar à do WhatsApp</segment>
+    <segment id="16">, a plataforma reúne os remetentes de mensagens à esquerda e os bate-papos à direita.</segment>
+    <segment id="17">Uma pequena figurinha ao lado da foto indica de qual plataforma veio a mensagem.</segment>
+    <segment id="18">Ainda é possível arquivar mensagens e ver apenas as não lidas.</segment>
+    <segment id="19">Interface do Texts é similar a do WhatsApp</segment>
+    <segment id="20">, masmas tem uma barra das diferentes fontes de mensagem à esquerda - Divulgação/X (ex-Twitter)Hoje</segment>
+    <segment id="21">, a plataforma tem uma lista de espera para ser acessada.</segment>
+    <segment id="22">É possível acessá-la neste link.</segment>
+    <segment id="23">Para furar a fila</segment>
+    <segment id="24">, há duas alternativas: receber indicação de um amigo já cadastrado ou assinar o serviço por US$ 12</segment>
+    <segment id="25">,50 (cerca de R$ 63).</segment>
+    <segment id="26">O Texts informa que as assinaturas são sua única fonte de renda</segment>
+    <segment id="27">, até o momento.</segment>
+    <segment id="28">O agregador de mensagens diz que não recebe o conteúdo enviado em servidores</segment>
+    <segment id="29">, o que garantiria a integridade da criptografia de ponta a ponta dos aplicativos.</segment>
+    <segment id="30">"</segment>
+    <segment id="31">Todas as mensagens são enviadas diretamente à plataforma.</segment>
+    <segment id="32">"</segment>
+    <segment id="33">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="34">; aberta para não assinantes.</segment>
+    <segment id="35">Carregando...</segment>
+    <segment id="36">Isso é feito a partir de um protocolo de distribuição de mensagens</segment>
+    <segment id="37">, que, simplificando</segment>
+    <segment id="38">, redireciona os conteúdos de forma automática do aplicativo de mensagens para a conta no Texts.</segment>
+    <segment id="39">Dessa maneira</segment>
+    <segment id="40">, o Texts afirma que não armazena dados sensíveis de seus usuários.</segment>
+    <segment id="41">"</segment>
+    <segment id="42">As informações pessoais continuam seguras mesmo em um evento de vazamento de dados.</segment>
+    <segment id="43">"</segment>
+    <segment id="44">A plataforma foi financiada por executivos com ligados a Facebook</segment>
+    <segment id="45">, Twitter</segment>
+    <segment id="46">, Snapchat</segment>
+    <segment id="47">, a empresa de pagamentos Stripe</segment>
+    <segment id="48">, entre outros gigantes da tecnologia.</segment>
+    <segment id="49">Essa é a solução mais centrada no usuário já tentada</segment>
+    <segment id="50">, ao dar uma alternativa para o usuário</segment>
+    <segment id="51">sese desprender de plataformas e</segment>
+    <segment id="52">, ao mesmo tempo</segment>
+    <segment id="53">, dar suporte a todas elas</segment>
+    <segment id="54">, disse o chefe-executivo da Automattic</segment>
+    <segment id="55">, Matt Mullenweg</segment>
+    <segment id="56">, ao site especializado Verge.</segment>
+    <segment id="57">Outro ponto forte da plataforma é a criptografia</segment>
+    <segment id="58">, segundo Mullenweg.</segment>
+    <segment id="59">A aquisição é o primeiro ensaio da Automattic na área de mensagens online.</segment>
+    <segment id="60">Até então</segment>
+    <segment id="61">, a empresa atua na área de publicação e comércio eletrônico.</segment>
+    <segment id="62">A Meta</segment>
+    <segment id="63">, dona do WhatsApp</segment>
+    <segment id="64">, também pode estar trabalhando em soluções de integração de aplicativos de mensagem.</segment>
+    <segment id="65">Em setembro</segment>
+    <segment id="66">, testadores do WhatsApp perceberam uma aba disfuncional com o título "Third-party chats"</segment>
+    <segment id="67">, algo</segment>
+    <segment id="68">comocomo</segment>
+    <segment id="69">, chat de terceiros.</segment>
+    <segment id="70">A integração com aplicativos concorrentes é uma das novas exigências do novo marco regulatório europeu contra práticas anticoncorrenciais na internet —DMA (ato dos mercados digitais</segment>
+    <segment id="71">, em tradução livre).</segment>
+    <segment id="72">O WhatsApp foi um dos 19 aplicativos das 6 maiores empresas de tecnologia listados pela União Europeia</segment>
+    <segment id="73">comocomo alvo da nova regulação.</segment>
+    <segment id="74">O mensageiro reúne mais de 100 milhões de usuários no velho continente</segment>
+    <segment id="75">, segundo a plataforma de monitoramento Similar Web.</segment>
+    <segment id="76">A Meta foi procurada pela Folha à época e preferiu não comentar.</segment>
+  </rst>
+</analysis>

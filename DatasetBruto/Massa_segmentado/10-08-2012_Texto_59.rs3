@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Brasileiros querem celular com internet</segment>
+    <segment id="2">Galera sÃ³ quer acessar a web pelo telefone</segment>
+    <segment id="3">Fazer chamadas</segment>
+    <segment id="4">Ã© o mÃ­nimo que o telefone celular pode fazer.</segment>
+    <segment id="5">Para o brasileiro</segment>
+    <segment id="6">, tambÃ©m</segment>
+    <segment id="7">Ã© interessante entrar na internet.</segment>
+    <segment id="8">Segundo levantamento da Nielsen</segment>
+    <segment id="9">, os aparelhos com acesso Ã  rede jÃ¡ sÃ£o a maioria entre os novos celulares vendidos no Brasil.</segment>
+    <segment id="10">Na pesquisa</segment>
+    <segment id="11">, 55% dos telefones mÃ³veis vendidos no PaÃ­s no primeiro semestre deste ano permitiam navegaÃ§Ã£o na web.</segment>
+    <segment id="12">No segundo semestre de 2011</segment>
+    <segment id="13">, o valor era de 49%.</segment>
+  </rst>
+</analysis>

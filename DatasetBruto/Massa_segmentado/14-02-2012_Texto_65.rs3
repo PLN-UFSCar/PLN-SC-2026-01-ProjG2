@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Peitões salvam bela modelo da morte
+Hershey bateu o carro em uma árvore perto de sua casa em Houston</segment>
+    <segment id="2">, EUA</segment>
+    <segment id="3">A modelo brasileira Sheyla Hershey diz ter saído sem um arranhão de um acidente de carro graças aos seus seios.</segment>
+    <segment id="4">Hershey bateu o carro em uma árvore perto de sua casa em Houston</segment>
+    <segment id="5">, EUA, depois de uma festa no último domingo.</segment>
+    <segment id="6">Ela não estava usando cinto de segurança.</segment>
+    <segment id="7">“Meus seios impediram que eu batesse a cabeça.</segment>
+    <segment id="8">Sou muito grata a eles”</segment>
+    <segment id="9">, disse.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,190 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A ocupação de leitos de UTI (Unidade de Terapia Intensiva) exclusivos para pacientes com Covid-19 apresenta taxa de pelo menos 90% em seis capitais de quatro regiões do país nesta semana</segment>
+    <segment id="2">, mostra levantamento feito pela Folha.</segment>
+    <segment id="3">O cenário de alta demanda é melhor do que o registrado na última semana</segment>
+    <segment id="4">, quando dez capitais e o Distrito Federal estavam nesta situação</segment>
+    <segment id="5">, masmas está longe de ser confortável.</segment>
+    <segment id="6">Há 11 capitais com índices de pelo menos 80% nesta semana</segment>
+    <segment id="7">, conforme os dados das secretarias de Saúde locais</segment>
+    <segment id="8">, ante as 13 registradas na semana anterior.</segment>
+    <segment id="9">A situação preocupa também</segment>
+    <segment id="10">porque</segment>
+    <segment id="11">porque sete capitais chegaram a anunciar nesta semana a suspensão da aplicação da primeira dose da vacina contra a Covid-19</segment>
+    <segment id="12">, entre elas</segment>
+    <segment id="13">Aracaju e Campo Grande</segment>
+    <segment id="14">, duas das capitais que têm altos índices de ocupação dos leitos exclusivos destinados a pacientes infectados pelo coronavírus.</segment>
+    <segment id="15">O pior cenário</segment>
+    <segment id="16">, com dados da última segunda-feira (21)</segment>
+    <segment id="17">, é o de Palmas</segment>
+    <segment id="18">, onde o índice alcançou 99%</segment>
+    <segment id="19">, ante os 97% da semana anterior.</segment>
+    <segment id="20">A alta contrasta com a média estadual</segment>
+    <segment id="21">, que recuou de 94% para 92%</segment>
+    <segment id="22">, ainda grave.</segment>
+    <segment id="23">Em Campo Grande</segment>
+    <segment id="24">, que perdeu 39 leitos em relação à semana anterior</segment>
+    <segment id="25">, a taxa de ocupação de UTIs cresceu de 90% para 98% e ainda há 82 pessoas na fila de espera por vagas na capital.</segment>
+    <segment id="26">A classificação da cidade no mapa de risco da pandemia</segment>
+    <segment id="27">, usado pelo governo de Mato Grosso do Sul para gerir as atividades econômicas</segment>
+    <segment id="28">, tem gerado conflitos entre prefeitura e governo.</segment>
+    <segment id="29">Segundo o município</segment>
+    <segment id="30">, entre 5 e 11 de junho –período em que estaria no pior nível da classificação–</segment>
+    <segment id="31">, 63% dos pacientes atendidos em UTIs locais eram de outras cidades.</segment>
+    <segment id="32">Já o estado diz que 88% dos internados na capital nos últimos seis meses são do próprio município.</segment>
+    <segment id="33">Em Aracaju</segment>
+    <segment id="34">, uma das capitais a suspender a vacinação</segment>
+    <segment id="35">, a ocupação é de 98%</segment>
+    <segment id="36">, com 12 pacientes aguardando a liberação de leitos intensivos.</segment>
+    <segment id="37">Segundo a Secretaria da Saúde da capital</segment>
+    <segment id="38">, a imunização ao longo do fim de semana foi acima do previsto e</segment>
+    <segment id="39">, por isso</segment>
+    <segment id="40">, a suspensão foi necessária.</segment>
+    <segment id="41">Curitiba conseguiu ultrapassar o momento de superlotação de UTIs</segment>
+    <segment id="42">, masmas ainda conta com índice alto de ocupação desse tipo de leito</segment>
+    <segment id="43">, 95%.</segment>
+    <segment id="44">A fila de espera também diminuiu</segment>
+    <segment id="45">, de 155 para 84 pacientes</segment>
+    <segment id="46">, masmas continua sendo a maior entre as capitais brasileiras.</segment>
+    <segment id="47">A pandemia e a crise na saúde da região Sul   novamente         de   de  de  representando um</segment>
+    <segment id="48">Os números da pandemia estão em alta no Paraná.</segment>
+    <segment id="49">Nesta terça</segment>
+    <segment id="50">, o estado registrou o maior índice de novos casos desde o início de março</segment>
+    <segment id="51">, com um aumento de 153% na média móvel.</segment>
+    <segment id="52">A taxa de transmissão do vírus cresceu de 0</segment>
+    <segment id="53">,99 para 1</segment>
+    <segment id="54">,16 em uma semana</segment>
+    <segment id="55">, ficando atrás apenas de São Paulo.</segment>
+    <segment id="56">Houve ainda aumento de 113% na média móvel de mortes.</segment>
+    <segment id="57">A taxa de ocupação de UTIs no estado</segment>
+    <segment id="58">sese manteve praticamente estável</segment>
+    <segment id="59">, em 95%</segment>
+    <segment id="60">, mesmo com o acréscimo de 17 leitos na última semana.</segment>
+    <segment id="61">O número de pessoas com Covid-19 aguardando por vagas caiu cerca de 35%</segment>
+    <segment id="62">, masmas ainda segue sendo o maior do país</segment>
+    <segment id="63">, com 339 pacientes.</segment>
+    <segment id="64">A proporcionalidade na distribuição de vacinas pelo governo estadual vem sendo criticada pelo prefeito da capital</segment>
+    <segment id="65">, Rafael Greca (DEM)</segment>
+    <segment id="66">, que afirmou que Curitiba tem recebido menos doses do que o ideal.</segment>
+    <segment id="67">“</segment>
+    <segment id="68">Peço absoluta igualdade e isonomia.</segment>
+    <segment id="69">Estou pedindo respeito por Curitiba e que seja recomposta a proporcionalidade”</segment>
+    <segment id="70">, disse.</segment>
+    <segment id="71">A secretária de Saúde</segment>
+    <segment id="72">, Márcia Huçulak</segment>
+    <segment id="73">, também criticou o governo estadual</segment>
+    <segment id="74">, chamando de “política” a promessa de vacinar toda população do estado até o final de setembro.</segment>
+    <segment id="75">Segundo ela</segment>
+    <segment id="76">, havendo doses</segment>
+    <segment id="77">, Curitiba conseguiria vacinar todo o público-alvo antes disso.</segment>
+    <segment id="78">Já em Goiânia</segment>
+    <segment id="79">, mesmo com quatro leitos a mais (agora são 253)</segment>
+    <segment id="80">, a ocupação de UTIs avançou de 87%</segment>
+    <segment id="81">, na última semana</segment>
+    <segment id="82">, para os atuais 92%.</segment>
+    <segment id="83">Havia, na segunda</segment>
+    <segment id="84">, uma pessoa na fila de espera por internação.</segment>
+    <segment id="85">No estado</segment>
+    <segment id="86">, com 9 vagas criadas em uma semana</segment>
+    <segment id="87">, a ocupação apresentou oscilação e alcançou 87% agora</segment>
+    <segment id="88">, ante 86% da última semana.</segment>
+    <segment id="89">São 565 vagas no total no estado</segment>
+    <segment id="90">, que tem 36 pessoas na fila para leitos.</segment>
+    <segment id="91">Nesta terça</segment>
+    <segment id="92">, a prefeitura publicou no Diário Oficial decreto para regulamentar aulas presenciais com capacidade de 50% na rede privada</segment>
+    <segment id="93">, masmas na rede pública a previsão é que a volta ocorra na segunda quinzena de agosto</segment>
+    <segment id="94">, após os profissionais receberam a segunda dose da vacina contra a Covid-19.</segment>
+    <segment id="95">“</segment>
+    <segment id="96">O objetivo é oferecer mais segurança para os servidores e a comunidade escolar”</segment>
+    <segment id="97">, disse</segment>
+    <segment id="98">, via assessoria</segment>
+    <segment id="99">, o secretário da Educação</segment>
+    <segment id="100">, Wellington Bessa.</segment>
+    <segment id="101">No Nordeste</segment>
+    <segment id="102">, São Luís está entre as capitais com maiores ocupações de UTIs</segment>
+    <segment id="103">, além de Aracaju.</segment>
+    <segment id="104">Ela registrou oscilação negativa de dois pontos percentuais na ocupação de seus leitos de UTI</segment>
+    <segment id="105">, de 94% para 92% das 279 vagas na Grande Ilha em uso.</segment>
+    <segment id="106">No estado</segment>
+    <segment id="107">, também houve recuo</segment>
+    <segment id="108">, masmas de três pontos</segment>
+    <segment id="109">, e agora há 84% dos leitos de UTI em uso.</segment>
+    <segment id="110">A cidade do Rio de Janeiro viu sua ocupação ficar abaixo de 90% pela primeira vez em meses</segment>
+    <segment id="111">, ainda que ela continue alta: 88% das UTIs estavam cheias no sábado (18)</segment>
+    <segment id="112">, último dado disponível.</segment>
+    <segment id="113">Havia 70 vagas a menos que na semana passada.</segment>
+    <segment id="114">A pandemia e a rede de saúde na região Centro-Oeste   novamente         de   de  de  representando um</segment>
+    <segment id="115">O estado fluminense também tem registrado um cenário de queda</segment>
+    <segment id="116">, agora com 66% dos leitos de terapia intensiva e 42% de enfermaria ocupados.</segment>
+    <segment id="117">Não há grandes filas nem horas de espera por vagas</segment>
+    <segment id="118">, como</segment>
+    <segment id="119">como ocorreu em outros picos da doença.</segment>
+    <segment id="120">A ocupação de UTIs caiu em Cuiabá nesta semana graças à ampliação da oferta de vagas.</segment>
+    <segment id="121">Das 277 existentes na capital e na região da Baixada</segment>
+    <segment id="122">, o total subiu para 297</segment>
+    <segment id="123">, o que fez o índice cair de 91% para 85%.</segment>
+    <segment id="124">Sem as novas vagas</segment>
+    <segment id="125">, a ocupação</segment>
+    <segment id="126">sese manteria em 91% nesta semana.</segment>
+    <segment id="127">No Distrito Federal</segment>
+    <segment id="128">, a taxa de ocupação de leitos de UTI estava em 81</segment>
+    <segment id="129">,6% na segunda</segment>
+    <segment id="130">, o que representa queda em relação à última semana</segment>
+    <segment id="131">, quando superava 90%.</segment>
+    <segment id="132">A redução coincide com abertura de alguns leitos que estavam bloqueados.</segment>
+    <segment id="133">Na última semana</segment>
+    <segment id="134">, de 452 leitos intensivos voltados à Covid</segment>
+    <segment id="135">, apenas 194 estavam em operação</segment>
+    <segment id="136">, número que passou a 212 nesta segunda</segment>
+    <segment id="137">, segundo dados até 18h30.</segment>
+    <segment id="138">Pandemia da Covid-19 na região Norte   novamente         de   de  de  representando um</segment>
+    <segment id="139">Apesar da queda na taxa de ocupação</segment>
+    <segment id="140">, o secretário de saúde do DF</segment>
+    <segment id="141">, Osnei Okumoto</segment>
+    <segment id="142">, disse que o cenário é de preocupação diante do indicativo de aumento de casos em cidades de Goiás que ficam no entorno.</segment>
+    <segment id="143">Na capital paulista</segment>
+    <segment id="144">, a taxa de ocupação de leitos UTI Covid-19 caiu de 76% para 71%.</segment>
+    <segment id="145">Atualmente</segment>
+    <segment id="146">, a capital conta com 1.431 leitos de UTI e 1.458 de enfermaria para Covid-19.</segment>
+    <segment id="147">Dos 250 novos leitos de UTI anunciados pela Secretaria da Saúde</segment>
+    <segment id="148">, 127 já foram entregues nos hospitais municipais Guarapiranga (65)</segment>
+    <segment id="149">, Vereador José Storopolli (30)</segment>
+    <segment id="150">, Josanias Castanha Braga – Parelheiros (22) e São Luiz Gonzaga (10).</segment>
+    <segment id="151">Já em Salvador</segment>
+    <segment id="152">, a ocupação de leitos atingiu 78% nesta segunda-feira</segment>
+    <segment id="153">, patamar semelhante ao das semanas anteriores.</segment>
+    <segment id="154">Mas outras regiões da Bahia enfrentam situação mais crítica</segment>
+    <segment id="155">, caso</segment>
+    <segment id="156">caso do Oeste</segment>
+    <segment id="157">, onde 93% dos leitos para pacientes graves estão ocupados</segment>
+    <segment id="158">, e do Sudoeste</segment>
+    <segment id="159">, com ocupação de 88%.</segment>
+    <segment id="160">Esta semana</segment>
+    <segment id="161">, marcada pelo São João</segment>
+    <segment id="162">, é considerada crucial pelo governo baiano para evitar uma nova onda de casos de Covid-19 no estado.</segment>
+    <segment id="163">A possibilidade de aglomerações acendeu o alerta de governo e prefeituras</segment>
+    <segment id="164">, que intensificaram as medidas restritivas.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Acidente jet ski: menino melhora</segment>
+    <segment id="2">Apesar do estado dele ser estável</segment>
+    <segment id="3">, o garoto continua internado em observação na UTI</segment>
+    <segment id="4">O quadro de saúde do menino</segment>
+    <segment id="5">, Luan Emanuel</segment>
+    <segment id="6">, 4 anos</segment>
+    <segment id="7">, vítima de um acidente de jet ski</segment>
+    <segment id="8">, melhorou</segment>
+    <segment id="9">, de acordo com boletim médico divulgado nesta terça-feira (14) pela assessoria do Hospital do Subúrbio.</segment>
+    <segment id="10">Apesar do estado dele ser estável</segment>
+    <segment id="11">, o garoto continua internado em observação na UTI da unidade de saúde.</segment>
+    <segment id="12">Luan Emanuel sofreu o acidente junto com o pai George Milton Matos Paiva</segment>
+    <segment id="13">, que não resistiu e morreu durante o socorro.</segment>
+    <segment id="14">O jet ski onde eles estavam colidiu com uma lancha.</segment>
+    <segment id="15">A Capitania dos Portos investiga as causas do acidente.</segment>
+  </rst>
+</analysis>

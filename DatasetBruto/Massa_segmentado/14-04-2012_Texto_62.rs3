@@ -1,0 +1,59 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Mulher denuncia racismo em mercado</segment>
+    <segment id="2">O caso</segment>
+    <segment id="3">caso aconteceu no Bompreço da Vasco da Gama.</segment>
+    <segment id="4">Empresa garante que vai investigar
+Rejane dos Santos Nascimento</segment>
+    <segment id="5">, 37 anos</segment>
+    <segment id="6">, agente administrativa da prefeitura de Salvador</segment>
+    <segment id="7">, denuncia que foi vítima de racismo dentro do supermercado Bompreço da Avenida Vasco da Gama</segment>
+    <segment id="8">, na tarde de ontem.</segment>
+    <segment id="9">De acordo com Rejane</segment>
+    <segment id="10">, o crime teria sido praticado por um dos seguranças do estabelecimento</segment>
+    <segment id="11">, de prenome Eduardo.</segment>
+    <segment id="12">“Eu vi o segurança humilhando e sendo truculento com uma criança de nove anos de idade que havia furtado caixas de chocolate.</segment>
+    <segment id="13">Tentei defender a criança e esse segurança falou para mim: ‘</segment>
+    <segment id="14">Você não tem nada a ver com o meu serviço</segment>
+    <segment id="15">, sua negrinha.</segment>
+    <segment id="16">Não dou um murro na sua cara</segment>
+    <segment id="17">porque</segment>
+    <segment id="18">porque você é mulher”</segment>
+    <segment id="19">, acusa Rejane.
+
+Luciana Gomes</segment>
+    <segment id="20">, 44, amiga de Rejane</segment>
+    <segment id="21">, diz que uma gerente do Bompreço pediu desculpas pelo ocorrido.</segment>
+    <segment id="22">Caso vai ser apurado</segment>
+    <segment id="23">, diz empresa</segment>
+    <segment id="24">Em nota enviada pela assessoria de comunicação</segment>
+    <segment id="25">, o supermercado Bompreço “informa que tem entre seus princípios a ética e respeito ao indivíduo e a todas as diversidades culturais</segment>
+    <segment id="26">, raciais e religiosas</segment>
+    <segment id="27">, e não admite qualquer prática contrária a essa orientação”.</segment>
+    <segment id="28">O Bompreço garante que “em relação à queixa da cliente</segment>
+    <segment id="29">, a empresa vai investigar o</segment>
+    <segment id="30">casocaso internamente”.</segment>
+  </rst>
+</analysis>

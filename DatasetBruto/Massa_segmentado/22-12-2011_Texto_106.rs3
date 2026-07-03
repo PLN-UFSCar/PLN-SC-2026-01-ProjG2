@@ -1,0 +1,57 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Etanol: produtor dos EUA espera fim de subsídio
+WASHINGTON - A Coalizão Americana para o Etanol (ACE</segment>
+    <segment id="2">, sigla em inglês) não acredita em um esforço de última hora no Congresso para a renovação dos subsídios concedidos ao etanol no país.</segment>
+    <segment id="3">A tarifa de importação do etanol brasileiro de US$ 0</segment>
+    <segment id="4">,54 por galão (3</segment>
+    <segment id="5">,78 litros) e o crédito tributário de US$ 0</segment>
+    <segment id="6">,45 por galão ao etanol misturado à gasolina nos Estados Unidos expiram no dia 31</segment>
+    <segment id="7">, encerrando uma era de 30 anos de benefícios</segment>
+    <segment id="8">, a um custo atual para o governo americano de cerca de US$ 6 bilhões por ano.
+Chuck Beck</segment>
+    <segment id="9">, integrante da ACE</segment>
+    <segment id="10">, disse que os produtores americanos não serão pegos de surpresa:
+
+- Havia sinais claros de que a política de subsídios não teria continuidade.</segment>
+    <segment id="11">Estamos nos preparando para isso há alguns meses</segment>
+    <segment id="12">, avisando a nossos membros.</segment>
+    <segment id="13">Com as preocupações fiscais do Congresso</segment>
+    <segment id="14">, é pouco provável um retorno dessas práticas.</segment>
+    <segment id="15">Para Beck</segment>
+    <segment id="16">, ainda é cedo para avaliar qual será o impacto do fim dos subsídios para a indústria americana</segment>
+    <segment id="17">, masmas não há razões para temer a competição brasileira.</segment>
+    <segment id="18">Christopher Thorne</segment>
+    <segment id="19">, diretor da Growth Energy</segment>
+    <segment id="20">, conglomerado de produtores de etanol dos EUA</segment>
+    <segment id="21">, também diz que não há o que temer:
+
+- O etanol americano é competitivo</segment>
+    <segment id="22">, não há receio em relação a um mercado aberto.</segment>
+    <segment id="23">Nossa posição é a de que</segment>
+    <segment id="24">, sese tivermos acesso ao mercado</segment>
+    <segment id="25">, podemos competir.</segment>
+  </rst>
+</analysis>

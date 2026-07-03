@@ -1,0 +1,131 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Já pensou</segment>
+    <segment id="2">sese existisse um lugar para atender</segment>
+    <segment id="3">, gratuitamente</segment>
+    <segment id="4">, as pessoas em sofrimento e com transtornos mentais?</segment>
+    <segment id="5">Pois isso já existe no Sistema Único de Saúde (SUS) e não apenas em um só lugar</segment>
+    <segment id="6">, masmas em um conjunto de serviços e pontos de atenção dos mais variados destinados a este fim: a Rede de Atenção Psicossocial (RAPS).</segment>
+    <segment id="7">A RAPS</segment>
+    <segment id="8">, que foi criada em 2011 com o objetivo de ampliar o acesso da população a tratamentos de saúde mental</segment>
+    <segment id="9">, incluindo as pessoas com necessidades decorrentes do uso de crack</segment>
+    <segment id="10">, álcool e outras drogas e seus familiares</segment>
+    <segment id="11">, é essa rede de serviços já estruturada e capilarizada para o cuidado com a saúde mental no Brasil.</segment>
+    <segment id="12">Por isso</segment>
+    <segment id="13">, sese os próximos governantes querem diminuir os impactos da pandemia de Covid-19 na saúde mental da população</segment>
+    <segment id="14">, investir na RAPS é um dos caminhos mais curtos e eficientes.</segment>
+    <segment id="15">A RAPS oferece tratamentos diversos garantindo a articulação e integração dos serviços de saúde</segment>
+    <segment id="16">, qualificando o cuidado a quem mais precisa por meio do acolhimento</segment>
+    <segment id="17">, do acompanhamento contínuo e da atenção às urgências.</segment>
+    <segment id="18">A Rede é composta por diversos serviços e ações conforme a tabela abaixo:     Atenção Básica em Saúde  - Unidade Básica de Saúde - Núcleo de Apoio à Saúde da Família - Consultório na Rua - Centro de Convivência e Cooperativa    Atenção Psicossocial Estratégica - Centro de Atenção Psicossocial nas suas diferentes modalidades -Equipe Multiprofissional de Atenção Especializada em Saúde Mental/Unidades Ambulatoriais Especializadas   Atenção de Urgência e Emergência - SAMU 192 - Sala de Estabilização - UPA 24 horas e portas hospitalares de atenção à urgência/pronto socorro - Unidades Básicas de Saúde   Atenção Residencial de Caráter Transitório  - Unidades de Acolhimento - Serviço de Atenção em Regime Residencial - CT's    Atenção Hospitalar - Enfermaria especializada em Hospital Geral - Hospital Psiquiátrico Especializado - Hospital Dia   Estratégias de Desinstitucionalização  - Serviços Residenciais Terapêuticos - Programa de Volta para Casa - Programa de Desinstitucionalização    Estratégias de Reabilitação Psicossocial - Iniciativas de Geração de Trabalho e Renda - Empreendimentos Solidários e Cooperativas Sociais     Fonte: Mais SUS em Evidência - Saúde Mental</segment>
+    <segment id="19">Apesar de todo o potencial já existente</segment>
+    <segment id="20">, nos últimos anos a Rede tem sofrido alterações estruturais sem o respaldo de uma discussão ampla</segment>
+    <segment id="21">, participativa e baseada em evidências</segment>
+    <segment id="22">, o que gera assimetrias que prejudicam a qualidade do serviço e o foco nas pessoas que precisam desse tipo de atendimento.</segment>
+    <segment id="23">Hoje é possível identificar desigualdades de acesso e investimento entre os serviços oferecidos pela RAPS</segment>
+    <segment id="24">Um exemplo é o aumento</segment>
+    <segment id="25">, sem fundamentação técnica e debate</segment>
+    <segment id="26">, do financiamento em serviços difíceis de fiscalizar</segment>
+    <segment id="27">, como</segment>
+    <segment id="28">como as Comunidades Terapêuticas</segment>
+    <segment id="29">, e o estímulo a internações psiquiátricas</segment>
+    <segment id="30">, em detrimento do investimento em em serviços e práticas mais humanizadas que compõem a Rede.</segment>
+    <segment id="31">Um passo importante para transformar o cenário brasileiro</segment>
+    <segment id="32">, caracterizado pelo aumento da depressão e do suicídio</segment>
+    <segment id="33">, é alcançar cobertura mínima dos Centros de Atenção Psicossocial (CAPS).</segment>
+    <segment id="34">Os CAPS</segment>
+    <segment id="35">, nas suas diferentes modalidades</segment>
+    <segment id="36">, são substitutos ao modelo manicomial</segment>
+    <segment id="37">, tendo</segment>
+    <segment id="38">comocomo premissa a importância da integração da família e da comunidade nos processos terapêuticos.</segment>
+    <segment id="39">Eles são fundamentais para alterar a lógica de que o confinamento é o melhor tipo de tratamento e fazem isso de forma descentralizada</segment>
+    <segment id="40">, localizados próximos de nossas casas e comunidades.</segment>
+    <segment id="41">Saiba mais sobre essas e outras propostas para a Saúde Mental na Agenda Mais SUS.</segment>
+    <segment id="42">Sabemos que o cuidado com a saúde mental não</segment>
+    <segment id="43">sese dá apenas através do tratamento de aspectos individuais</segment>
+    <segment id="44">, masmas também na articulação para trabalhar os diferentes determinantes sociais e estruturais do adoecimento</segment>
+    <segment id="45">, o que envolve o acesso à cultura</segment>
+    <segment id="46">, moradia e espaços de convívio.</segment>
+    <segment id="47">Por isso</segment>
+    <segment id="48">, outros serviços que merecem destaque são os Centros de Convivência e Cultura e as Unidades de Acolhimento.</segment>
+    <segment id="49">Os Centros de Convivência</segment>
+    <segment id="50">, através da construção de espaços de convívio e sustentação das diferenças na comunidade</segment>
+    <segment id="51">, facilitam a construção de laços sociais e a inclusão das pessoas com transtornos mentais.</segment>
+    <segment id="52">Se os governantes e gestores querem combater o estigma e o preconceito e promover a cidadania</segment>
+    <segment id="53">, é importante priorizar esse tipo de serviço</segment>
+    <segment id="54">, equiparando-o aos demais componentes da RAPS - ou seja</segment>
+    <segment id="55">, o Poder Executivo deve estabelecer custeio mensal e de financiamento mínimo e padronizado em todo o país.</segment>
+    <segment id="56">Movimentação de pacientes no Centro de Atenção Psicossocial Álcool e Drogas (Caps AD) no noroeste de Campinas (SP).-</segment>
+    <segment id="57">Foto: Adriano Vizoni/FolhapressO mesmo deve ser feito com as Unidades de Acolhimento que</segment>
+    <segment id="58">, por sua vez</segment>
+    <segment id="59">, têm como</segment>
+    <segment id="60">como objetivo oferecer acolhimento voluntário e cuidados contínuos para pessoas em situação de vulnerabilidade social e familiar e que demandem moradia temporária.</segment>
+    <segment id="61">Em um cenário de piora dos índices socioeconômicos</segment>
+    <segment id="62">, como</segment>
+    <segment id="63">como aumento da população em situação de rua</segment>
+    <segment id="64">, esse tipo de serviço é fundamental para garantir o mínimo necessário para essas pessoas.</segment>
+    <segment id="65">Este tipo de atendimento pode ser fornecido também por outros equipamentos</segment>
+    <segment id="66">, como</segment>
+    <segment id="67">como são os hotéis sociais na cidade de São Paulo.</segment>
+    <segment id="68">Estados podem também</segment>
+    <segment id="69">sese articular para fortalecer essa rede: o</segment>
+    <segment id="70">casocaso de sucesso do cofinanciamento estadual do Rio de Janeiro</segment>
+    <segment id="71">Apesar do Poder Executivo Federal ser o principal responsável pelo investimento em saúde mental</segment>
+    <segment id="72">, os estados também podem contribuir na melhora da saúde mental dos brasileiros.</segment>
+    <segment id="73">É isso que o estado do Rio de Janeiro tem feito e a iniciativa tem</segment>
+    <segment id="74">sese mostrado uma potente alternativa para a ampliação dos investimentos através do cofinanciamento estadual da RAPS (Cofi-RAPS)</segment>
+    <segment id="75">, resultado possível a partir da aprovação de uma Lei em 2018.</segment>
+    <segment id="76">Para sair do papel</segment>
+    <segment id="77">, foi determinado que o Estado empregue 0</segment>
+    <segment id="78">,25% do Fundo Estadual de Combate à Pobreza e às Desigualdades Sociais na área.</segment>
+    <segment id="79">No segundo ano de Cofi-RAPS</segment>
+    <segment id="80">, o valor repassado foi 13 vezes maior ao que era destinado antes do Programa.</segment>
+    <segment id="81">Apenas em 2021</segment>
+    <segment id="82">, foram destinados recursos para 169 Serviços Residenciais Terapêuticos (SRT)</segment>
+    <segment id="83">, 53 hospitais gerais com 226 leitos de saúde mental e 136 CAPS.</segment>
+    <segment id="84">Em um contexto de pandemia</segment>
+    <segment id="85">, o repasse aos municípios foi vital para ampliar e qualificar a RAPS nos territórios.</segment>
+    <segment id="86">É o caso</segment>
+    <segment id="87">caso do CAPS III Casa Azul</segment>
+    <segment id="88">, em Mesquita</segment>
+    <segment id="89">, que passou a ter atendimento 24 horas.</segment>
+    <segment id="90">A unidade</segment>
+    <segment id="91">, que antes contava com 14 funcionários</segment>
+    <segment id="92">, agora tem 57 profissionais de saúde para atender a população do município em suas demandas relacionadas à saúde mental.</segment>
+    <segment id="93">Este é apenas um exemplo de que é possível reverter o cenário de adoecimento dos brasileiros.</segment>
+    <segment id="94">A Rede de Saúde Mental do SUS está aí para acolher quem mais precisa e para atuar na prevenção de novos casos.</segment>
+    <segment id="95">Sem o fortalecimento de uma rede articulada e capilarizada</segment>
+    <segment id="96">, como</segment>
+    <segment id="97">como a RAPS</segment>
+    <segment id="98">, não há remédio que cure o sofrimento e os transtornos aos quais estamos</segment>
+    <segment id="99">, todos</segment>
+    <segment id="100">, expostos.  &amp;gt</segment>
+    <segment id="101">;&amp;gt;</segment>
+    <segment id="102">Para sugestões de pauta</segment>
+    <segment id="103">, parcerias e comentários</segment>
+    <segment id="104">, entre em contato através dos e-mails contato@ieps.org.br e contato@institutocactus.org.</segment>
+    <segment id="105">Até o próximo Saúde Mental em Pauta!</segment>
+  </rst>
+</analysis>

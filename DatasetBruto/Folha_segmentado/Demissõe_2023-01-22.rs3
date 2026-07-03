@@ -1,0 +1,248 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Quando a Lyft demitiu 13% de seus funcionários em novembro</segment>
+    <segment id="2">, Kelly Chang ficou chocada ao</segment>
+    <segment id="3">sese descobrir entre as 700 pessoas que perderam o emprego na empresa de transporte por aplicativo de San Francisco</segment>
+    <segment id="4">, na Califórnia.</segment>
+    <segment id="5">"</segment>
+    <segment id="6">Parecia que as empresas de tecnologia tinham tantas oportunidades"</segment>
+    <segment id="7">, disse Chang</segment>
+    <segment id="8">, 26.</segment>
+    <segment id="9">"</segment>
+    <segment id="10">Se você conseguisse um emprego</segment>
+    <segment id="11">, estava feita.</segment>
+    <segment id="12">Era um caminho sustentável.</segment>
+    <segment id="13">"</segment>
+    <segment id="14">Brian Pulliam</segment>
+    <segment id="15">, por outro lado</segment>
+    <segment id="16">, não se</segment>
+    <segment id="17">se incomodou com a notícia de que a exchange de criptomoedas</segment>
+    <segment id="18">Coinbase estava cortando seu cargo.</segment>
+    <segment id="19">Desde que o engenheiro de 48 anos foi demitido de seu primeiro emprego na empresa de videogame Atari</segment>
+    <segment id="20">, em 2003</segment>
+    <segment id="21">, ele disse que</segment>
+    <segment id="22">sese perguntava uma vez por ano: "</segment>
+    <segment id="23">Se eu fosse demitido</segment>
+    <segment id="24">, o que faria?</segment>
+    <segment id="25">"</segment>
+    <segment id="26">Os cofundadores da Lyft</segment>
+    <segment id="27">, primeira empresa de transporte compartilhado de capital aberto</segment>
+    <segment id="28">, na festa de IPO da empresa em 2019</segment>
+    <segment id="29">, em Los Angeles - Alex Welsh-19.out.2019/The New York TimesO contraste entre as reações de Chang e Pulliam às suas respectivas decepções profissionais fala de uma divisão geracional que está ficando mais clara à medida que a indústria de tecnologia</segment>
+    <segment id="30">, que se</segment>
+    <segment id="31">se expandiu rapidamente durante a pandemia</segment>
+    <segment id="32">, tende para as demissões em massa.</segment>
+    <segment id="33">A Microsoft disse nesta semana que planeja cortar 10.000 empregos</segment>
+    <segment id="34">, ou cerca de 5% de sua força de trabalho.</segment>
+    <segment id="35">E na manhã de sexta-feira (20) a Alphabet</segment>
+    <segment id="36">, controladora do Google</segment>
+    <segment id="37">, disse que pretende cortar 12 mil empregos</segment>
+    <segment id="38">, ou cerca de 6% do total de trabalhadores.</segment>
+    <segment id="39">Esses cortes acompanham grandes demissões em outras empresas de tecnologia</segment>
+    <segment id="40">, como</segment>
+    <segment id="41">como Meta</segment>
+    <segment id="42">, Amazon e Salesforce.</segment>
+    <segment id="43">A geração do Milênio e a geração Z</segment>
+    <segment id="44">, nascidas entre 1981 e 2012</segment>
+    <segment id="45">, iniciaram carreiras em tecnologia durante uma década de expansão</segment>
+    <segment id="46">, quando os empregos</segment>
+    <segment id="47">sese multiplicaram tão rápido quanto as vendas do iPhone.</segment>
+    <segment id="48">As empresas em que entraram estavam conquistando o mundo e desafiando as regras econômicas.</segment>
+    <segment id="49">E quando eles foram trabalhar em empresas que ofereciam viagens de ônibus até o escritório e cortesias</segment>
+    <segment id="50">comocomo comida e lavanderia gratuitas</segment>
+    <segment id="51">, eles não estavam apenas aceitando um novo emprego</segment>
+    <segment id="52">; estavam assumindo um estilo de vida.</segment>
+    <segment id="53">Poucos haviam passado por demissões generalizadas.</segment>
+    <segment id="54">Os membros da geração "baby boom" e da geração X</segment>
+    <segment id="55">, nascidos entre 1946 e 1980</segment>
+    <segment id="56">, por outro lado</segment>
+    <segment id="57">, viveram a maior contração que o setor já viu.</segment>
+    <segment id="58">O crash das pontocom no início dos anos 2000 eliminou mais de 1 milhão de empregos</segment>
+    <segment id="59">, esvaziando de usuários a Rodovia 101 do Vale do Silício</segment>
+    <segment id="60">, pois</segment>
+    <segment id="61">pois muitas empresas fecharam da noite para o dia.</segment>
+    <segment id="62">"</segment>
+    <segment id="63">Foi um banho de sangue</segment>
+    <segment id="64">, e durou anos"</segment>
+    <segment id="65">, disse Jason DeMorrow</segment>
+    <segment id="66">, engenheiro de software que foi demitido duas vezes em 18 meses e ficou desempregado durante mais de seis meses.</segment>
+    <segment id="67">"Por mais preocupante que seja a crise atual e por mais que eu tenha empatia pelas pessoas afetadas</segment>
+    <segment id="68">, não há comparação.</segment>
+    <segment id="69">"</segment>
+    <segment id="70">A divisão geracional na indústria tech representa um fenômeno mais amplo.</segment>
+    <segment id="71">O ano de nascimento de uma pessoa tem grande influência em suas opiniões sobre trabalho e dinheiro.</segment>
+    <segment id="72">As primeiras experiências pessoais determinam fortemente o apetite de uma pessoa por riscos financeiros</segment>
+    <segment id="73">, de acordo com um estudo de 2011 dos economistas Ulrike Malmendier</segment>
+    <segment id="74">, da Universidade da Califórnia em Berkeley</segment>
+    <segment id="75">, e Stefan Nagel</segment>
+    <segment id="76">, da Universidade de Chicago.</segment>
+    <segment id="77">O estudo</segment>
+    <segment id="78">, que analisou a Pesquisa de Finanças do Consumidor do Federal Reserve de 1960 a 2007</segment>
+    <segment id="79">, descobriu que as pessoas que atingiram a maioridade na década de 1970</segment>
+    <segment id="80">, quando o mercado de ações estagnou</segment>
+    <segment id="81">, relutavam em investir no início dos anos 1980</segment>
+    <segment id="82">, quando ele disparou.</segment>
+    <segment id="83">Essa tendência</segment>
+    <segment id="84">sese inverteu na década de 1990.</segment>
+    <segment id="85">"</segment>
+    <segment id="86">Depois que você sofre seu primeiro acidente</segment>
+    <segment id="87">, as coisas mudam"</segment>
+    <segment id="88">, disse Nagel.</segment>
+    <segment id="89">"</segment>
+    <segment id="90">Você percebe que coisas ruins acontecem e talvez deva ser um pouco mais cauteloso.</segment>
+    <segment id="91">"</segment>
+    <segment id="92">Para a geração X</segment>
+    <segment id="93">, o colapso das pontocom ocorreu no início de suas carreiras.</segment>
+    <segment id="94">De 2001 a 2005</segment>
+    <segment id="95">, o setor de tecnologia demitiu um quarto dos trabalhadores</segment>
+    <segment id="96">, conforme uma análise dos dados do Departamento de Estatísticas do Trabalho da CompTIA</segment>
+    <segment id="97">, uma organização de pesquisa e educação em tecnologia.</segment>
+    <segment id="98">As demissões que varreram o setor foram piores que a recessão do início dos anos 1990</segment>
+    <segment id="99">, quando o total de empregos no setor de tecnologia caiu 5%</segment>
+    <segment id="100">, e que a crise financeira global que</segment>
+    <segment id="101">sese seguiu em 2008</segment>
+    <segment id="102">, quando a força de trabalho</segment>
+    <segment id="103">sese contraiu 6%.</segment>
+    <segment id="104">Em 2011</segment>
+    <segment id="105">, o setor tecnológico iniciou um boom de contratações que duraria uma década.</segment>
+    <segment id="106">Acrescentou em média mais de 100 mil empregos anualmente</segment>
+    <segment id="107">, e até 2021 recuperou todos os empregos perdidos quando a bolha das pontocom estourou.</segment>
+    <segment id="108">Os números de empregos representam empresas de software</segment>
+    <segment id="109">, hardware</segment>
+    <segment id="110">, serviços de tecnologia e telecomunicações</segment>
+    <segment id="111">, incluindo Apple</segment>
+    <segment id="112">, Meta</segment>
+    <segment id="113">, Nvidia</segment>
+    <segment id="114">, Salesforce e outras.</segment>
+    <segment id="115">Mas eles podem excluir algumas empresas relacionadas à tecnologia</segment>
+    <segment id="116">, como</segment>
+    <segment id="117">como Airbnb</segment>
+    <segment id="118">, Lyft e Uber</segment>
+    <segment id="119">, devido à ambiguidade sobre o mercado de trabalho nos relatórios do governo</segment>
+    <segment id="120">, que classificam algumas empresas</segment>
+    <segment id="121">comocomo serviços ao consumidor</segment>
+    <segment id="122">, disse Tim Herbert</segment>
+    <segment id="123">, diretor de pesquisa da CompTIA.</segment>
+    <segment id="124">Os maiores aumentos de empregos em tecnologia ocorreram após o início da pandemia</segment>
+    <segment id="125">, quando as empresas correram para atender à demanda crescente.</segment>
+    <segment id="126">Em 2022</segment>
+    <segment id="127">, o setor criou quase 260 mil empregos</segment>
+    <segment id="128">, segundo a CompTIA</segment>
+    <segment id="129">, o maior número criado em um único ano desde 2000.</segment>
+    <segment id="130">O aumento de empregos na área de tecnologia continuou no ano passado</segment>
+    <segment id="131">, mesmo com o início de grandes demissões</segment>
+    <segment id="132">, embora</segment>
+    <segment id="133">embora não esteja claro</segment>
+    <segment id="134">sese essa tendência</segment>
+    <segment id="135">sese estendeu até este ano.</segment>
+    <segment id="136">Novas oportunidades de emprego contribuíram</segment>
+    <segment id="137">para que</segment>
+    <segment id="138">para que quase 80% dos trabalhadores em tecnologia demitidos afirmassem ter encontrado um novo emprego em três meses</segment>
+    <segment id="139">, de acordo com uma pesquisa da ZipRecruiter.</segment>
+    <segment id="140">"</segment>
+    <segment id="141">Estamos vendo a loucura de contratações da pandemia sendo corrigida –não o estouro de uma bolha"</segment>
+    <segment id="142">, disse Andy Challenger</segment>
+    <segment id="143">, vice-presidente sênior da empresa de transição de carreiras Challenger</segment>
+    <segment id="144">, Gray &amp;amp</segment>
+    <segment id="145">; Christmas.</segment>
+    <segment id="146">No outono passado</segment>
+    <segment id="147">, David Hayden</segment>
+    <segment id="148">, gerente de programa com doutorado em física</segment>
+    <segment id="149">, soube por seu gerente que seria demitido da empresa de semicondutores nLight.</segment>
+    <segment id="150">Preocupado com as mensalidades da faculdade de sua filha</segment>
+    <segment id="151">, ele imediatamente procurou recrutadores para marcar entrevistas.</segment>
+    <segment id="152">Em dezembro</segment>
+    <segment id="153">, um mês após ser demitido</segment>
+    <segment id="154">, assumiu um novo cargo na Lattice Semiconductor.</segment>
+    <segment id="155">Em todas as entrevistas</segment>
+    <segment id="156">, Hayden</segment>
+    <segment id="157">, 56, disse que tinha sido demitido.</segment>
+    <segment id="158">Sua experiência durante a crise das pontocom</segment>
+    <segment id="159">, quando ele evitou demissões mesmo quando colegas talentosos eram dispensados</segment>
+    <segment id="160">, lhe ensinou que os cortes nem sempre são racionais.</segment>
+    <segment id="161">"</segment>
+    <segment id="162">A vergonha de ser demitido acabou"</segment>
+    <segment id="163">, disse Hayden. "</segment>
+    <segment id="164">As empresas sabem que muitas pessoas boas estão sendo demitidas agora.</segment>
+    <segment id="165">"  Microsoft</segment>
+    <segment id="166">, Google</segment>
+    <segment id="167">, Meta: empresas de tecnologia anunciam demissões em massaMais    novamente         de   de  de  representando um  Erin Sumner</segment>
+    <segment id="168">, recrutadora de software da Meta</segment>
+    <segment id="169">, controladora do Facebook</segment>
+    <segment id="170">, costumava</segment>
+    <segment id="171">sese gabar para potenciais contratados de que a empresa foi a mais rápida a alcançar um valor de mercado de US$ 1 trilhão.</segment>
+    <segment id="172">Ela disse que salientava os pontos fortes da empresa</segment>
+    <segment id="173">, mesmo no ano passado</segment>
+    <segment id="174">, quando o preço de suas ações despencou e seu principal negócio</segment>
+    <segment id="175">, a publicidade digital</segment>
+    <segment id="176">, passou por dificuldades.</segment>
+    <segment id="177">Quando rumores de demissões começaram a circular no ano passado</segment>
+    <segment id="178">, ela garantiu aos colegas que seus empregos estavam seguros</segment>
+    <segment id="179">, apontando para os mais de US$ 40 bilhões em dinheiro que a empresa tinha no banco.</segment>
+    <segment id="180">Mas em novembro ela mesma estava entre os 11 mil trabalhadores demitidos.</segment>
+    <segment id="181">"</segment>
+    <segment id="182">Foi angustiante"</segment>
+    <segment id="183">, disse Sumner</segment>
+    <segment id="184">, 32.</segment>
+    <segment id="185">Ela conseguiu um novo emprego</segment>
+    <segment id="186">comocomo recrutadora-chefe de uma startup chamada DeleteMe</segment>
+    <segment id="187">, que visa remover as informações dos clientes dos resultados de pesquisas.</segment>
+    <segment id="188">Mas disse que</segment>
+    <segment id="189">sese contrai cada vez que lê sobre mais demissões em tecnologia.</segment>
+    <segment id="190">"Temo que</segment>
+    <segment id="191">a situação piore antes de melhorar"</segment>
+    <segment id="192">, disse Sumner.</segment>
+    <segment id="193">"</segment>
+    <segment id="194">Não há garantia.</segment>
+    <segment id="195">Fui demitida pela empresa mais segura do mundo.</segment>
+    <segment id="196">"</segment>
+    <segment id="197">Uma reversão da sorte semelhante desafiou as empresas que vendem serviços de software.</segment>
+    <segment id="198">As ações da Salesforce</segment>
+    <segment id="199">, líder do setor</segment>
+    <segment id="200">, caíram quase 50% no ano passado</segment>
+    <segment id="201">, com a desaceleração do crescimento das vendas.</segment>
+    <segment id="202">A empresa esbanjou durante a pandemia</segment>
+    <segment id="203">, gastando US$ 28 bilhões para comprar a Slack Technologies</segment>
+    <segment id="204">, e aumentou o número de funcionários de 49 mil para 80 mil em dois anos.</segment>
+    <segment id="205">Durante uma reunião geral na semana passada para discutir a decisão da empresa de demitir 10% dos funcionários</segment>
+    <segment id="206">, Marc Benioff</segment>
+    <segment id="207">, CEO da Salesforce</segment>
+    <segment id="208">, tentou criar empatia com sua equipe insatisfeita</segment>
+    <segment id="209">, colocando os cortes em contexto.</segment>
+    <segment id="210">"</segment>
+    <segment id="211">Passei por muitos momentos difíceis nesta empresa.</segment>
+    <segment id="212">Cada perda relembra outra perda para mim"</segment>
+    <segment id="213">, disse ele</segment>
+    <segment id="214">, segundo uma gravação ouvida pelo The New York Times.</segment>
+    <segment id="215">"</segment>
+    <segment id="216">Obviamente</segment>
+    <segment id="217">, estamos falando de uma ampla demissão.</segment>
+    <segment id="218">Penso nos funcionários que morreram.</segment>
+    <segment id="219">Penso nas pessoas que perdemos e que não queríamos perder.</segment>
+    <segment id="220">"  Questionado sobre o conselho que daria aos funcionários que estavam preocupados com a situação da empresa e novas demissões</segment>
+    <segment id="221">, Benioff sugeriu "gratidão".</segment>
+    <segment id="222">Tradução de Luiz Roberto M. Gonçalves</segment>
+  </rst>
+</analysis>

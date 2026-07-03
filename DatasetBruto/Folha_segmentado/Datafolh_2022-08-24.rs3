@@ -1,0 +1,115 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Ex-prefeito de Salvador</segment>
+    <segment id="2">, ACM Neto (União Brasil) lidera as intenções de voto na corrida pelo Governo da Bahia</segment>
+    <segment id="3">, aponta pesquisa Datafolha divulgada nesta quarta-feira (24).</segment>
+    <segment id="4">Na pesquisa estimulada</segment>
+    <segment id="5">, em que são mostrados os nomes dos candidatos</segment>
+    <segment id="6">, ACM Neto tem 54% das intenções de voto contra 16% do ex-secretário Jerônimo Rodrigues (PT)</segment>
+    <segment id="7">, candidato apoiado pelo ex-presidente Lula (PT) e pelo governador Rui Costa (PT).</segment>
+    <segment id="8">Na sequência</segment>
+    <segment id="9">, aparece o ex-ministro da Cidadania João Roma (PL)</segment>
+    <segment id="10">, candidato que tem o apoio do presidente Jair Bolsonaro (PL).</segment>
+    <segment id="11">Ele marcou 8% das intenções de voto.</segment>
+    <segment id="12">Montagem com os candidatos a governador ACM Neto (União Brasil)</segment>
+    <segment id="13">, Jerônimo Rodrigues (PT) e João Roma (PL) - Gilberto Jr/Divulgação</segment>
+    <segment id="14">, Mateus Pereira/GOVBAe Marcelo Camargo/Agência Brasil</segment>
+    <segment id="15">O levantamento</segment>
+    <segment id="16">, contratado pela rádio Metrópole</segment>
+    <segment id="17">, da Bahia</segment>
+    <segment id="18">, foi realizado de segunda (22) a quarta-feira (24) e entrevistou 1.008 eleitores.</segment>
+    <segment id="19">Ele está registrado no TSE (Tribunal Superior Eleitoral) com o número BA-01548/2022.</segment>
+    <segment id="20">A margem de erro da pesquisa é de três pontos percentuais</segment>
+    <segment id="21">, para mais ou para menos.</segment>
+    <segment id="22">Os candidatos a governador Giovani Damico (PCB) e Marcelo Millet (PCO) marcaram 1%.</segment>
+    <segment id="23">Kleber Rosa (PSOL) não pontuou.</segment>
+    <segment id="24">Brancos e nulos somam 10% dos eleitores</segment>
+    <segment id="25">, enquanto 10% dizem estar indecisos em relação à sucessão estadual.</segment>
+    <segment id="26">Levando em conta apenas os votos válidos</segment>
+    <segment id="27">, ACM Neto chega a 67% das intenções de voto contra 20% de Jerônimo</segment>
+    <segment id="28">, 9% de João Roma</segment>
+    <segment id="29">, 2% de Giovani Damico e 1% de Marcelo Millet.</segment>
+    <segment id="30">Neste cenário</segment>
+    <segment id="31">, ACM Neto venceria no primeiro turno.</segment>
+    <segment id="32">Eleições</segment>
+    <segment id="33">2022Um resumo com o que de mais importante a Folha destaca sobre a eleiçãoCarregando...</segment>
+    <segment id="34">Na pesquisa espontânea</segment>
+    <segment id="35">, na qual os nomes dos candidatos não são apresentados</segment>
+    <segment id="36">, ACM Neto marcou 27% contra 7% de Jerônimo e 2% de João Roma.</segment>
+    <segment id="37">Os demais candidatos não pontuaram.</segment>
+    <segment id="38">Outros 10% deram outras respostas</segment>
+    <segment id="39">, 4% disseram votar em branco ou nulo e 50% disseram não saber em quem vão votar.</segment>
+    <segment id="40">A simulação de segundo turno testou um único cenário de disputa</segment>
+    <segment id="41">, entre ACM Neto e Jerônimo Rodrigues.</segment>
+    <segment id="42">Na pesquisa estimulada</segment>
+    <segment id="43">, o ex-prefeito de Salvador marcou 68%</segment>
+    <segment id="44">, contra 23% do petista.</segment>
+    <segment id="45">Brancos e nulos são 6%</segment>
+    <segment id="46">, e outros 4%</segment>
+    <segment id="47">sese disseram indecisos.</segment>
+    <segment id="48">Os dados do Datafolha também revelam diferenças na taxa de conhecimento dos eleitores sobre candidatos ao Governo da Bahia.</segment>
+    <segment id="49">Enquanto ACM Neto é conhecido por 92% dos eleitores baianos</segment>
+    <segment id="50">, Jerônimo Rodrigues só é conhecido por 39%</segment>
+    <segment id="51">, e João Roma</segment>
+    <segment id="52">, por 31% dos eleitores.</segment>
+    <segment id="53">Os demais candidatos têm taxas de conhecimento ainda mais baixas:</segment>
+    <segment id="54">Marcelo Millet é conhecido por 9%</segment>
+    <segment id="55">, e Giovani Damico e Kleber Rosa</segment>
+    <segment id="56">, por 6% dos eleitores.</segment>
+    <segment id="57">A pesquisa também mediu a rejeição dos candidatos: 37% disseram não votar em João Roma de jeito nenhum</segment>
+    <segment id="58">, seguido de 35% de Jerônimo Rodrigues</segment>
+    <segment id="59">, 33% de Kleber Rosa</segment>
+    <segment id="60">, 29% de Marcelo Millet</segment>
+    <segment id="61">, 29% de Giovani Damico e 15% de ACM Neto.  SENADO</segment>
+    <segment id="62">Na disputa para o Senado</segment>
+    <segment id="63">, o senador e candidato à reeleição Otto Alencar (PSD) aparece na liderança com 32% das intenções de voto.</segment>
+    <segment id="64">Na sequência</segment>
+    <segment id="65">, aparecem o deputado federal Cacá Leão (PP)</segment>
+    <segment id="66">, com 10%</segment>
+    <segment id="67">, e a médica Raíssa Soares (PL)</segment>
+    <segment id="68">, com 7%.</segment>
+    <segment id="69">Cícero Araújo (PCO) tem 6%</segment>
+    <segment id="70">, Tâmara Azevedo</segment>
+    <segment id="71">, 4%, e Marcelo Barreto Luz para Todos (PMN)</segment>
+    <segment id="72">, também tem 4%.</segment>
+    <segment id="73">Com margem de erro de três pontos percentuais para mais ou para menos</segment>
+    <segment id="74">, os quatro últimos estão tecnicamente empatados</segment>
+    <segment id="75">, assim</segment>
+    <segment id="76">comocomo Cacá Leão</segment>
+    <segment id="77">, Raíssa Soares e Cícero Araújo.</segment>
+    <segment id="78">Brancos e nulos somam 21% na disputa pelo Senado</segment>
+    <segment id="79">, e os indecisos são 16%.</segment>
+    <segment id="80">Veja quem são os candidatos a governador da BahiaMais    novamente         de   de  de  representando um</segment>
+    <segment id="81">Os dados dos questionários sobre a disputa para a Presidência não foram divulgados após terem sido censurados.</segment>
+    <segment id="82">A decisão foi tomada na terça (23) pelo juiz Paulo Sérgio Barbosa de Oliveira</segment>
+    <segment id="83">, do Tribunal Regional Eleitoral da Bahia</segment>
+    <segment id="84">, e atendeu parcialmente a um pedido da coligação liderada por Rodrigues.</segment>
+    <segment id="85">O juiz decidiu proibir apenas a divulgação de quesitos relacionados ao cargo de presidente da República da pesquisa</segment>
+    <segment id="86">, sob pena de pagamento de multa diária no valor de R$ 20 mil em</segment>
+    <segment id="87">casocaso de descumprimento.</segment>
+    <segment id="88">O Datafolha diz que não há motivo para a censura</segment>
+    <segment id="89">, que a pesquisa foi registrada no TSE e que vai recorrer.</segment>
+  </rst>
+</analysis>

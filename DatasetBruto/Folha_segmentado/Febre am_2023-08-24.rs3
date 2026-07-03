@@ -1,0 +1,104 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Por apresentar sintomas semelhantes a outras doenças transmitidas pelo mosquito Aedes aegypti</segment>
+    <segment id="2">, entre elas chikungunya</segment>
+    <segment id="3">, dengue e zika</segment>
+    <segment id="4">, a febre amarela não é uma arbovirose de fácil diagnóstico.</segment>
+    <segment id="5">Para superar essa dificuldade e agilizar o tratamento adequado</segment>
+    <segment id="6">, pesquisadores brasileiros e britânicos desenvolveram um biossensor eletroquímico capaz de detectar a infecção</segment>
+    <segment id="7">, com um bônus:</segment>
+    <segment id="8">é construído a partir de cápsulas de café recicladas</segment>
+    <segment id="9">, material que o torna mais sustentável e ajuda a reduzir seu custo.</segment>
+    <segment id="10">Manufaturado em impressora 3D comum</segment>
+    <segment id="11">, o sensor miniaturizado cumpre ainda os critérios para testes diagnósticos em locais remotos ou com poucos recursos estabelecidos pela Organização Mundial da Saúde (OMS): acessibilidade</segment>
+    <segment id="12">, sensibilidade</segment>
+    <segment id="13">, especificidade</segment>
+    <segment id="14">, facilidade de uso</segment>
+    <segment id="15">, rapidez e robustez</segment>
+    <segment id="16">, sendo livre de equipamentos e facilmente distribuível aos usuários finais.</segment>
+    <segment id="17">Os detalhes do dispositivo foram descritos no periódico Chemical Engineering Journal.</segment>
+    <segment id="18">Mosquito Aedes aegypti</segment>
+    <segment id="19">, uma das espécies que transmitem a febre amarela - Genilton J. Vieira/IOC-Fiocruz/Divulgação  "</segment>
+    <segment id="20">Sensores miniaturizados</segment>
+    <segment id="21">comocomo este poderiam ser facilmente transportados a regiões ou comunidades remotas</segment>
+    <segment id="22">, onde a febre amarela é mais comum"</segment>
+    <segment id="23">, diz Cristiane Kalinke</segment>
+    <segment id="24">, pós-doutoranda no Instituto de Química da Universidade Estadual de Campinas (IQ-Unicamp)</segment>
+    <segment id="25">, pesquisadora visitante na Universidade Metropolitana de Manchester (Reino Unido) e primeira autora do artigo.</segment>
+    <segment id="26">"</segment>
+    <segment id="27">Isso é especialmente importante no</segment>
+    <segment id="28">casocaso de doenças comuns em países tropicais e consideradas negligenciadas</segment>
+    <segment id="29">, que carecem tanto de estratégias de prevenção quanto de tratamento.</segment>
+    <segment id="30">"</segment>
+    <segment id="31">O funcionamento do dispositivo é simples: sua superfície conta com eletrodos impressos por meio de tecnologia 3D em ácido polilático (polímero biodegradável conhecido pela sigla em inglês PLA)</segment>
+    <segment id="32">, proveniente de cápsulas de café processadas e recicladas.</segment>
+    <segment id="33">Filamentos com nanotubos de carbono e negro de fumo</segment>
+    <segment id="34">comocomo aditivos são responsáveis por garantir a condutividade do sensor e gerar a reação eletroquímica</segment>
+    <segment id="35">, em que fragmentos do DNA da febre amarela</segment>
+    <segment id="36">sese encaixam na sequência genética da amostra de soro sanguíneo dos pacientes.</segment>
+    <segment id="37">Sensores miniaturizados poderiam ser facilmente transportados a regiões ou comunidades remotas</segment>
+    <segment id="38">, onde a febre amarela é mais comum - Cristiane KalinkeApenas uma gota de amostra (cerca de 200 microlitros) é suficiente para a análise.</segment>
+    <segment id="39">Por meio da diferença de sinais antes e depois dessa ligação</segment>
+    <segment id="40">, o diagnóstico é feito.</segment>
+    <segment id="41">Além disso</segment>
+    <segment id="42">, também foi possível diferenciar resultados em amostras contendo o vírus da febre amarela e da dengue</segment>
+    <segment id="43">, o que permitiria o diagnóstico preciso da doença.</segment>
+    <segment id="44">Entre as possibilidades de aperfeiçoamento do sensor para o futuro está seu funcionamento com amostras integrais de sangue ou até mesmo de saliva</segment>
+    <segment id="45">, o que não demandaria etapas de processamento para a separação do soro.</segment>
+    <segment id="46">Para isso</segment>
+    <segment id="47">, no entanto</segment>
+    <segment id="48">, serão necessários novos testes.</segment>
+    <segment id="49">De acordo com Juliano Alves Bonacin</segment>
+    <segment id="50">, professor do Departamento de Química Inorgânica do IQ-Unicamp e supervisor do estudo</segment>
+    <segment id="51">, a ideia é que esse modelo</segment>
+    <segment id="52">, com uso de filamentos à base de nanotubos de carbono e materiais avançados modificados</segment>
+    <segment id="53">, possa ser replicado para identificar também outras doenças</segment>
+    <segment id="54">, ampliando o uso da eletroquímica no campo da saúde.</segment>
+    <segment id="55">Febre amarela muda rotina de condomínios verdes em SPMais    novamente         de   de  de  representando um    Trabalho em equipe</segment>
+    <segment id="56">O projeto multidisciplinar foi desenvolvido por Kalinke durante seu estágio de pós-doutoramento na Inglaterra e envolveu pesquisadores das universidades Federal de São Carlos e de São Paulo</segment>
+    <segment id="57">, além da Faculdade de Ciência e Engenharia da Universidade Metropolitana de Manchester (Inglaterra).</segment>
+    <segment id="58">"Trata-</segment>
+    <segment id="59">sese de um exemplo clássico de que</segment>
+    <segment id="60">, quando unimos grupos de diversas universidades e com expertises complementares</segment>
+    <segment id="61">, é possível realizar um trabalho de ponta de forma relativamente rápida"</segment>
+    <segment id="62">, diz Bonacin.  "</segment>
+    <segment id="63">Se precisássemos desenvolver aqui todos os parâmetros laboratoriais de processamento de polímeros já em uso na universidade britânica</segment>
+    <segment id="64">, seria necessário um tempo muito maior</segment>
+    <segment id="65">para que</segment>
+    <segment id="66">para que o trabalho fosse concluído.</segment>
+    <segment id="67">"</segment>
+    <segment id="68">O artigo Recycled additive manufacturing feedstocks</segment>
+    <segment id="69">with carboxylated multi-walled carbon nanotubes toward</segment>
+    <segment id="70">the detection of yellow fever virus cDNA</segment>
+    <segment id="71">, também assinado por Robert D. Crapnell</segment>
+    <segment id="72">, Evelyn Sigley</segment>
+    <segment id="73">, Matthew J. Whittingham</segment>
+    <segment id="74">, Paulo Roberto de Oliveira</segment>
+    <segment id="75">, Laís C. Brazaca</segment>
+    <segment id="76">, Bruno C. Janegitz e Craig E. Banks</segment>
+    <segment id="77">, pode ser lido em:</segment>
+    <segment id="78">www.sciencedirect.com/science/article/pii/S1385894723022441.</segment>
+  </rst>
+</analysis>

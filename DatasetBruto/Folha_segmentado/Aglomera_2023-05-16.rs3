@@ -1,0 +1,236 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A formação de tempestades depende da umidade e da energia disponíveis na atmosfera.</segment>
+    <segment id="2">Mas existem condições que fazem com que essas chuvas fortes</segment>
+    <segment id="3">sese aglomerem</segment>
+    <segment id="4">, formando os chamados sistemas convectivos de mesoescala (SCMs) — grosso modo</segment>
+    <segment id="5">, grandes tempestades que</segment>
+    <segment id="6">sese retroalimentam</segment>
+    <segment id="7">, estendendo-</segment>
+    <segment id="8">sese por quilômetros e podendo durar horas.</segment>
+    <segment id="9">De acordo com novo artigo publicado na revista Climate Dynamics</segment>
+    <segment id="10">, eles são responsáveis por 40% da precipitação na Amazônia e vêm sendo impactados pelas mudanças climáticas: sua ocorrência vem sendo reduzida.</segment>
+    <segment id="11">Trata-</segment>
+    <segment id="12">sese do primeiro estudo relacionando a ocorrência de sistemas convectivos de mesoescala com as mudanças climáticas na Amazônia</segment>
+    <segment id="13">, segundo os autores.  "</segment>
+    <segment id="14">Tínhamos indícios de que a precipitação na região estava sendo afetada durante os meses de setembro</segment>
+    <segment id="15">, outubro e novembro</segment>
+    <segment id="16">, com a estação chuvosa sendo reduzida e a seca aumentando.</segment>
+    <segment id="17">Então, nos perguntamos</segment>
+    <segment id="18">sese os sistemas convectivos de mesoescala poderiam estar relacionados a esse fenômeno.</segment>
+    <segment id="19">Na Amazônia</segment>
+    <segment id="20">, não havia nenhum estudo sobre sistemas convectivos e mudanças climáticas"</segment>
+    <segment id="21">, afirma Amanda Rehbein</segment>
+    <segment id="22">, pós-doutoranda no Departamento de Ciências Atmosféricas do Instituto de Astronomia</segment>
+    <segment id="23">, Geofísica e Ciências Atmosféricas da Universidade de São Paulo (IAG-USP) e primeira autora do trabalho.</segment>
+    <segment id="24">Cientistas da USP revelam que a ocorrência dos chamados sistemas convectivos de mesoescala</segment>
+    <segment id="25">, responsáveis por 40% da precipitação na região</segment>
+    <segment id="26">, já sofre impacto das mudanças climáticas - Léo Ramos Chaves/Pesquisa FapespSegundo a pesquisadora</segment>
+    <segment id="27">, comparando-</segment>
+    <segment id="28">sese o período passado (1950 a 1960) ao presente</segment>
+    <segment id="29">, houve redução de quase 3% na ocorrência dos SCMs.</segment>
+    <segment id="30">"</segment>
+    <segment id="31">É claro que</segment>
+    <segment id="32">, quando separamos por estações</segment>
+    <segment id="33">, conseguimos uma visão mais pontual do que acontece em cada período do ano.</segment>
+    <segment id="34">Mas, numa visão geral do passado para o futuro próximo</segment>
+    <segment id="35">, os SCMs tendem a diminuir.</segment>
+    <segment id="36">Por outro lado</segment>
+    <segment id="37">, a intensidade deles</segment>
+    <segment id="38">, no sentido da precipitação</segment>
+    <segment id="39">, está aumentando.</segment>
+    <segment id="40">E essa precipitação aumentada está igualmente projetada para o futuro</segment>
+    <segment id="41">, entre 2040 e 2050</segment>
+    <segment id="42">, que foi o período que modelamos"</segment>
+    <segment id="43">, revela ela.  Para Tércio Ambrizzi</segment>
+    <segment id="44">, professor do IAG-USP e coautor do artigo</segment>
+    <segment id="45">, compreender esses sistemas e</segment>
+    <segment id="46">comocomo</segment>
+    <segment id="47">sese comportarão no futuro dará uma ideia da variabilidade da precipitação na Amazônia e também poderá indicar</segment>
+    <segment id="48">, sazonalmente</segment>
+    <segment id="49">, como</segment>
+    <segment id="50">como ela será impactada.</segment>
+    <segment id="51">"</segment>
+    <segment id="52">Descobrimos que a precipitação é muito afetada entre setembro e dezembro e entre junho e agosto</segment>
+    <segment id="53">, masmas menos de março a maio.</segment>
+    <segment id="54">"</segment>
+    <segment id="55">O trabalho foi financiado pela Fapesp por meio de quatro projetos (16/10557-0</segment>
+    <segment id="56">, 17/09659-6</segment>
+    <segment id="57">, 14/50848-9 e 18/17134-3).</segment>
+    <segment id="58">Dados</segment>
+    <segment id="59">A dupla usou dados observacionais de sensoriamento remoto</segment>
+    <segment id="60">, principalmente de satélites</segment>
+    <segment id="61">, e também dados de estações de medição utilizadas pelo GOAmazon (programa integrado ao Experimento de Larga Escala na Biosfera-Atmosfera na Amazônia [LBA] e apoiado pela Fapesp)</segment>
+    <segment id="62">, além de modelos climáticos.</segment>
+    <segment id="63">Do GOAmazon</segment>
+    <segment id="64">, focado na região central da Amazônia</segment>
+    <segment id="65">, resultou o primeiro recenseamento de nuvens do Brasil (leia mais aqui).</segment>
+    <segment id="66">"</segment>
+    <segment id="67">Para estudar esses sistemas precisamos de dados com alta resolução temporal e espacial e esses dados de satélite só existem a partir dos anos 2000 para a Amazônia.</segment>
+    <segment id="68">Então, para estudar o clima passado e o futuro</segment>
+    <segment id="69">, tivemos de usar modelos.</segment>
+    <segment id="70">Mas esses modelos que levam em conta o input das mudanças climáticas geralmente têm uma resolução muito baixa</segment>
+    <segment id="71">, são muito genéricos</segment>
+    <segment id="72">, simulam mais as circulações gerais e</segment>
+    <segment id="73">, com eles</segment>
+    <segment id="74">, não conseguimos representar essas tempestades"</segment>
+    <segment id="75">, explica Rehbein.</segment>
+    <segment id="76">De acordo com a cientista</segment>
+    <segment id="77">, no início dos anos 2000</segment>
+    <segment id="78">, um grupo de cientistas japoneses desenvolveu um modelo chamado Nicam (Nonhydrostatic ICosahedral Atmospheric Model)</segment>
+    <segment id="79">, que leva em conta essas circulações gerais da atmosfera</segment>
+    <segment id="80">, masmas representadas com uma resolução mais alta.</segment>
+    <segment id="81">Acampamento 41</segment>
+    <segment id="82">, na Amazônia</segment>
+    <segment id="83">, estuda efeitos da crise climática na florestaMais    novamente         de   de  de  representando um  "Estávamos usando outra ferramenta quando nos deparamos com esse modelo e achamos que ele nos seria mais útil.</segment>
+    <segment id="84">Acabei fazendo um estágio na Universidade de Tóquio</segment>
+    <segment id="85">, no Japão</segment>
+    <segment id="86">, com uma das pessoas que desenvolveram esse modelo.</segment>
+    <segment id="87">Aprendi a rodar e a usar o Nicam e</segment>
+    <segment id="88">, então</segment>
+    <segment id="89">, fizemos algumas simulações para o estudo"</segment>
+    <segment id="90">, revela.</segment>
+    <segment id="91">Rehbein explica que os modelos são divididos em quadrados.</segment>
+    <segment id="92">"</segment>
+    <segment id="93">Se os pontos estão muito distantes não</segment>
+    <segment id="94">sese enxerga a nuvem que ocorre no meio e aí o modelo tem de ‘adivinhar’.</segment>
+    <segment id="95">À medida que a resolução aumenta</segment>
+    <segment id="96">, esses pontos são aproximados e a chance de detectar as nuvens é maior.</segment>
+    <segment id="97">Quanto maior a resolução</segment>
+    <segment id="98">, maiores as chances de detectar os sistemas convectivos.</segment>
+    <segment id="99">"  Segundo ela</segment>
+    <segment id="100">, as simulações finais usadas no estudo</segment>
+    <segment id="101">, que levam 30 anos de dados</segment>
+    <segment id="102">, foram geradas pelos japoneses.</segment>
+    <segment id="103">"</segment>
+    <segment id="104">Elas exigem poder computacional de processamento e armazenamento muito grande.</segment>
+    <segment id="105">"</segment>
+    <segment id="106">Ambrizzi explica que o modelo utilizado faz simulações interpolando dados: usa os de satélite e os de estação meteorológica</segment>
+    <segment id="107">, quando há.</segment>
+    <segment id="108">"</segment>
+    <segment id="109">Com essas informações</segment>
+    <segment id="110">sese faz a análise dos SCMs no passado e no presente.</segment>
+    <segment id="111">Fizemos uma comparação do passado com o presente e sua extrapolação para um clima mais quente</segment>
+    <segment id="112">, no futuro.</segment>
+    <segment id="113">"  Ele observa</segment>
+    <segment id="114">, porém</segment>
+    <segment id="115">porém, que o fator desmatamento não foi levado em consideração no estudo.</segment>
+    <segment id="116">"</segment>
+    <segment id="117">O desmatamento</segment>
+    <segment id="118">, que altera a estrutura termodinâmica da floresta</segment>
+    <segment id="119">, pode levar não só a uma diminuição dos SCMs</segment>
+    <segment id="120">, masmas à redução das chuvas — que é o que as projeções</segment>
+    <segment id="121">, no geral</segment>
+    <segment id="122">, indicam.</segment>
+    <segment id="123">A floresta</segment>
+    <segment id="124">, do jeito que está</segment>
+    <segment id="125">, tem condições ainda de gerar mais umidade e</segment>
+    <segment id="126">, essa umidade</segment>
+    <segment id="127">, de gerar nuvens e precipitação.</segment>
+    <segment id="128">É por isso que</segment>
+    <segment id="129">, em alguns meses</segment>
+    <segment id="130">, encontramos tendência de aumento dos SCMs.</segment>
+    <segment id="131">O desmate altera esse equilíbrio e</segment>
+    <segment id="132">, provavelmente</segment>
+    <segment id="133">, sese o considerarmos</segment>
+    <segment id="134">, teremos menos chuvas</segment>
+    <segment id="135">, como</segment>
+    <segment id="136">como indicam alguns modelos que trabalham com desmatamento.</segment>
+    <segment id="137">"</segment>
+    <segment id="138">Segundo Ambrizzi</segment>
+    <segment id="139">, agora é possível não somente entender melhor esses sistemas</segment>
+    <segment id="140">, como</segment>
+    <segment id="141">como também olhar para o futuro</segment>
+    <segment id="142">, no cenário de aquecimento do planeta</segment>
+    <segment id="143">, e tentar projetar</segment>
+    <segment id="144">comocomo isso influencia os SCMs.</segment>
+    <segment id="145">"</segment>
+    <segment id="146">Amanda vem estudando e descrevendo esses sistemas:</segment>
+    <segment id="147">qual o tempo de vida</segment>
+    <segment id="148">, quando nascem e morrem</segment>
+    <segment id="149">, a porcentagem que geram de precipitação na Amazônia</segment>
+    <segment id="150">, no cômputo geral.</segment>
+    <segment id="151">Isso tudo é novo</segment>
+    <segment id="152">, poucos estudos tinham sido feitos.</segment>
+    <segment id="153">A resolução do GOAmazon é boa e ela usou esses dados.</segment>
+    <segment id="154">Depois disso</segment>
+    <segment id="155">, ampliou para a bacia toda e usou todos os tipos de dados disponíveis.</segment>
+    <segment id="156">"  Entenda</segment>
+    <segment id="157">comocomo os riscos climáticos afetam 40 milhões de crianças e adolescentes no Brasil Mais    novamente         de   de  de  representando um  Tendência de queda</segment>
+    <segment id="158">O que os cientistas descobriram difere de alguns poucos estudos que existem sobre o tema em outros lugares</segment>
+    <segment id="159">, como</segment>
+    <segment id="160">como a região central dos Estados Unidos e o Sahel (faixa de território na África localizada entre o oceano Atlântico e o mar Vermelho)</segment>
+    <segment id="161">, em que</segment>
+    <segment id="162">sese observa um aumento da ocorrência dos sistemas e também de sua intensidade.  "</segment>
+    <segment id="163">Nos Estados Unidos há dados de longo prazo que apontam essa tendência de aumento da ocorrência e da intensidade.</segment>
+    <segment id="164">Então, o primeiro resultado importante leva</segment>
+    <segment id="165">, na verdade</segment>
+    <segment id="166">, a outra pergunta: por que na Amazônia essa tendência é diferente de outros lugares do globo?</segment>
+    <segment id="167">Um segundo insight nessa linha é que nossos modelos consideram apenas as mudanças climáticas</segment>
+    <segment id="168">, ou seja</segment>
+    <segment id="169">, o aumento da temperatura</segment>
+    <segment id="170">; não estamos considerando outras variáveis.</segment>
+    <segment id="171">E sese considerássemos?</segment>
+    <segment id="172">E uma terceira contribuição é a descoberta do grande potencial do Nicam para estudar tempestades na Amazônia"</segment>
+    <segment id="173">, sublinha Rehbein.</segment>
+    <segment id="174">Basicamente</segment>
+    <segment id="175">, o que os cientistas concluíram é que os SCMs já têm essa variabilidade entre as estações (no inverno eles tendem a produzir mais precipitação do que no verão) e</segment>
+    <segment id="176">, no futuro</segment>
+    <segment id="177">, reafirma-</segment>
+    <segment id="178">sese a tendência de produção de mais precipitação</segment>
+    <segment id="179">, independentemente da estação.</segment>
+    <segment id="180">Eles explicam que os sistemas convectivos de mesoescala</segment>
+    <segment id="181">sese formam quando há condições especiais na atmosfera que fazem com que as tempestades</segment>
+    <segment id="182">sese aglomerem e</segment>
+    <segment id="183">sese retroalimentem.</segment>
+    <segment id="184">"</segment>
+    <segment id="185">Começa a chover</segment>
+    <segment id="186">, forma-</segment>
+    <segment id="187">sese uma piscina fria na baixa atmosfera</segment>
+    <segment id="188">, um ar frio que ajuda a levantar mais ar quente e retroalimenta a tempestade</segment>
+    <segment id="189">, que vai crescendo</segment>
+    <segment id="190">, aumentando</segment>
+    <segment id="191">, toma a dimensão de vários quilômetros e dura muitas horas.</segment>
+    <segment id="192">E esses aglomerados</segment>
+    <segment id="193">sese formam na Amazônia também.</segment>
+    <segment id="194">Agora já sabemos melhor</segment>
+    <segment id="195">comocomo eles funcionam.</segment>
+    <segment id="196">Sabemos que o aumento da temperatura provoca mais umidade na atmosfera e isso contribui</segment>
+    <segment id="197">para que</segment>
+    <segment id="198">para que esses fenômenos sejam mais intensos.</segment>
+    <segment id="199">Estamos investigando várias hipóteses:</segment>
+    <segment id="200">por exemplo</segment>
+    <segment id="201">, por que em junho</segment>
+    <segment id="202">, julho e agosto foi observado um aumento nos SCMs</segment>
+    <segment id="203">, quando em todos os outros períodos eles estão diminuindo?</segment>
+    <segment id="204">Pode ser algum impacto na dinâmica da atmosfera</segment>
+    <segment id="205">, uma modificação na dinâmica geral da atmosfera</segment>
+    <segment id="206">, masmas ainda são investigações e hipóteses"</segment>
+    <segment id="207">, adianta Ambrizzi.</segment>
+    <segment id="208">O artigo "Mesoscale convective systems over the Amazon basin in a changing climate under global warming" ("</segment>
+    <segment id="209">Sistemas convectivos de mesoescala sobre a bacia amazônica em um clima em mudança sob o aquecimento global")</segment>
+    <segment id="210">pode ser acessado aqui.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo Lula (PT) registrou um aumento de cerca de 240% na análise de pedidos de refúgio no Brasil em 2023 em relação a 2022.</segment>
+    <segment id="2">Segundo dados da Secretaria Nacional de Justiça</segment>
+    <segment id="3">, vinculada ao Ministério da Justiça e Segurança Pública</segment>
+    <segment id="4">, foram 140 mil pedidos de refúgio analisados entre janeiro e dezembro de 2023</segment>
+    <segment id="5">, ante 41 mil em 2022.</segment>
+    <segment id="6">O secretário da pasta</segment>
+    <segment id="7">, Augusto de Arruda Botelho</segment>
+    <segment id="8">, diz que houve empenho das equipes responsáveis e destaca atos normativos da pasta que deram agilidade ao processo.</segment>
+    <segment id="9">Entre eles uma portaria que permitiu procedimento simplificado para análise de pedidos de refúgios de pessoas LGBTQIA+ que deixaram países onde há penas de morte e prisão para essas pessoas.</segment>
+    <segment id="10">"</segment>
+    <segment id="11">A expectativa é que em 2024 a gente possa continuar com essa marca histórica construída através de iniciativas e novas políticas que a secretaria implementou"</segment>
+    <segment id="12">, diz Arruda Botelho.</segment>
+    <segment id="13">Refugiados vindos do Afeganistão em fuga do regime Talibã no Aeroporto Internacional de São Paulo</segment>
+    <segment id="14">, em Guarulhos - Bruno Santos - 29.jun.23/Folhapress</segment>
+  </rst>
+</analysis>

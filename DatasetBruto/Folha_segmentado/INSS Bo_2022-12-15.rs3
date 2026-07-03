@@ -1,0 +1,78 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente Jair Bolsonaro (PL) editou uma medida provisória nesta quinta-feira (15) para liberar um crédito extraordinário de R$ 7</segment>
+    <segment id="2">,5 bilhões a fim de pagar benefícios previdenciários.</segment>
+    <segment id="3">A liberação ocorre depois de o governo ter feito uma consulta ao TCU (Tribunal de Contas da União) sobre até que ponto pode recorrer ao mecanismo para honrar compromissos em meio ao apagão orçamentário vivido pelo Executivo</segment>
+    <segment id="4">, cenário que chegou a afetar a fabricação de passaportes e bolsas de estudo.</segment>
+    <segment id="5">O aval era visto</segment>
+    <segment id="6">comocomo necessário</segment>
+    <segment id="7">porque</segment>
+    <segment id="8">porque o crédito extraordinário é um recurso usado fora do teto de gastos e autorizado pela Constituição apenas em casos restritos.</segment>
+    <segment id="9">A corte de contas foi genérica ao responder e disse apenas que é cabível a abertura de crédito extraordinário por meio de MP "desde que atendidas as condições de relevância</segment>
+    <segment id="10">, urgência e imprevisibilidade" da situação.</segment>
+    <segment id="11">O presidente Jair Bolsonaro em agosto em cerimônia de posse do ministro Luis Felipe Salomão</segment>
+    <segment id="12">, na corregedoria do CNJ - Gabriela Biló/FolhapressA medida assinada por Bolsonaro e publicada no Diário Oficial desta quinta destina verba para dois tipos de despesas: cerca de R$ 1</segment>
+    <segment id="13">,7 bilhão voltados à compensação previdenciária e os outros R$ 5</segment>
+    <segment id="14">,7 bilhões para benefícios previdenciários.</segment>
+    <segment id="15">Segundo relatos colhidos pela Folha</segment>
+    <segment id="16">, o valor foi calculado a partir do entendimento do Ministério do Trabalho e Previdência sobre o que pode ser enquadrado na autorização do TCU.</segment>
+    <segment id="17">Entre os pontos do voto do ministro do TCU Antonio Anastasia destacados pelos técnicos</segment>
+    <segment id="18">, estão três fatores tidos</segment>
+    <segment id="19">comocomo imprevisíveis —e que justificariam a abertura de um crédito fora do limite do teto de gastos.</segment>
+    <segment id="20">Os fatores são a redução acelerada da fila de pedidos de benefício ao INSS</segment>
+    <segment id="21">, a redução no volume de pagamentos cessados por óbito do beneficiário e uma mudança na contabilização dos repasses de compensação previdenciária (quando o INSS precisa reembolsar contribuições recolhidas e repassá-las a um regime próprio de município ou estado pelo qual o cidadão</segment>
+    <segment id="22">sese aposentou).</segment>
+    <segment id="23">Ao tirar uma parcela das despesas do teto de gastos</segment>
+    <segment id="24">, o crédito extraordinário abre espaço para o governo reduzir o bloqueio no Orçamento</segment>
+    <segment id="25">, hoje em R$ 15</segment>
+    <segment id="26">,4 bilhões</segment>
+    <segment id="27">, e dar algum alívio a ministérios com dificuldades na reta final do ano.</segment>
+    <segment id="28">Técnicos ainda estão calculando o valor que pode ser liberado</segment>
+    <segment id="29">, masmas a cifra pode ficar abaixo dos R$ 7</segment>
+    <segment id="30">,5 bilhões.</segment>
+    <segment id="31">Uma ala acha prudente manter uma reserva bloqueada para eventuais surpresas nos últimos 15 dias de 2022.</segment>
+    <segment id="32">Além disso</segment>
+    <segment id="33">, ainda não há decisão sobre quem seria contemplado.</segment>
+    <segment id="34">O Ministério da Educação espera receber uma parcela dessa verba.</segment>
+    <segment id="35">Mas, no Congresso</segment>
+    <segment id="36">, há pressão para desbloquear as chamadas emendas de relator</segment>
+    <segment id="37">, que hoje representam cerca de metade do que está travado no Orçamento.</segment>
+    <segment id="38">Essas emendas são usadas</segment>
+    <segment id="39">comocomo moeda de troca nas negociações políticas e servem de instrumento para os parlamentares enviarem recursos a seus redutos eleitorais.</segment>
+    <segment id="40">Há entre técnicos do governo uma preocupação sobre a interpretação do TCU em relação a essa triangulação de recursos</segment>
+    <segment id="41">, daí uma preferência por usar o espaço para desafogar os ministérios em situação crítica em vez de contemplar as emendas.</segment>
+    <segment id="42">A aceleração da concessão de benefícios do INSS (Instituto Nacional de Seguridade Social) no segundo semestre já havia acendido o alerta no governo sobre uma possível falta de verba para pagar as aposentadorias.</segment>
+    <segment id="43">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="44">; aberta para não assinantes.</segment>
+    <segment id="45">Carregando...</segment>
+    <segment id="46">O governo acabou sem recursos suficientes dentro do teto de gastos (que impede as despesas federais de crescerem acima da inflação) e</segment>
+    <segment id="47">, por isso</segment>
+    <segment id="48">, pediu uma espécie de aval ao TCU para acionar os créditos extraordinários.</segment>
+    <segment id="49">No tribunal havia uma preocupação de evitar uma espécie de triangulação dos recursos</segment>
+    <segment id="50">, tirando do teto parte da despesa do INSS e abrindo espaço para desbloquear gastos com as chamadas emendas de relator —instrumento usado</segment>
+    <segment id="51">comocomo moeda de troca nas negociações políticas com o Congresso.</segment>
+    <segment id="52">A manobra seria passível de punição.</segment>
+  </rst>
+</analysis>

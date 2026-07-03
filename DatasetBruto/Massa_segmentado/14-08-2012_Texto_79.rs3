@@ -1,0 +1,55 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Marido</segment>
+    <segment id="2">Ã© suspeito de detonar a mulher
+Sempre que bebia</segment>
+    <segment id="3">, JosÃ© agredia e ameaÃ§ava Maria de morte</segment>
+    <segment id="4">A imagem da mÃ£e morta</segment>
+    <segment id="5">, deitada no chÃ£o da casa</segment>
+    <segment id="6">, toda ensanguentada</segment>
+    <segment id="7">, ele tentava esquecer.</segment>
+    <segment id="8">Ontem, o montador Marcelo da PaixÃ£o Pinto</segment>
+    <segment id="9">, 26, se</segment>
+    <segment id="10">se esforÃ§ava para pensar apenas na alegria de Maria Rita da PaixÃ£o Pinto</segment>
+    <segment id="11">, 53, na Ãºltima vez em que ele a viu  viva</segment>
+    <segment id="12">, hÃ¡ oito dias.</segment>
+    <segment id="13">Ela foi morta em casa</segment>
+    <segment id="14">, na madrugada de ontem</segment>
+    <segment id="15">, na Rua 25 de Maio</segment>
+    <segment id="16">, em Narandiba.</segment>
+    <segment id="17">O companheiro dela</segment>
+    <segment id="18">, JosÃ© MÃ¡rio da Silva</segment>
+    <segment id="19">, Ã© acusado do assassinato.</segment>
+    <segment id="20">Ele nÃ£o foi encontrado pela polÃ­cia</segment>
+    <segment id="21">, segundo o delegado  SÃ©rgio</segment>
+    <segment id="22">Schlang JÃºnior</segment>
+    <segment id="23">, do DHPP.</segment>
+    <segment id="24">Conforme familiares</segment>
+    <segment id="25">, os dois estavam juntos hÃ¡ sete meses.</segment>
+    <segment id="26">Sempre que bebia</segment>
+    <segment id="27">,  JosÃ© agredia e ameaÃ§ava Maria de morte.</segment>
+    <segment id="28">Ela jÃ¡ havia prestado queixa.</segment>
+  </rst>
+</analysis>

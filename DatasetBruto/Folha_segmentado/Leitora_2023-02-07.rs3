@@ -1,0 +1,131 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Está na maior parte do meu lazer</segment>
+    <segment id="2">, diz o empresário Fernando Rodrigues Assumpção</segment>
+    <segment id="3">, 52, de Bertioga (SP)</segment>
+    <segment id="4">, sobre a presença do álcool em sua rotina.</segment>
+    <segment id="5">A Folha perguntou aos leitores de que forma as bebidas alcoólicas afetam suas vidas e as respostas foram variadas</segment>
+    <segment id="6">, indo desde a superação da timidez até o histórico de dependentes químicos na família.</segment>
+    <segment id="7">No caso</segment>
+    <segment id="8">caso do analista ambiental Nicolas Bernardo</segment>
+    <segment id="9">, 24, de Rio Claro (SP)</segment>
+    <segment id="10">, o álcool é um bom mecanismo de socialização.</segment>
+    <segment id="11">"Sou uma pessoa extremamente insegura e tímida</segment>
+    <segment id="12">, bebidas alcoólicas em doses baixas me deixam mais tranquilo e mais sociável</segment>
+    <segment id="13">, felizmente consigo me controlar e bebo o suficiente para entender a que ponto ele me faz bem e me faz mal.</segment>
+    <segment id="14">"</segment>
+    <segment id="15">O debate entre os assinantes do jornal</segment>
+    <segment id="16">sese intensificou após coluna de Drauzio Varella</segment>
+    <segment id="17">, "</segment>
+    <segment id="18">Álcool não faz bem ao coração"</segment>
+    <segment id="19">, na qual o médico apresenta estudos mais recentes que indicam que</segment>
+    <segment id="20">, mesmo com o consumo consciente e moderado</segment>
+    <segment id="21">, pode aumentar as chances de desenvolver câncer</segment>
+    <segment id="22">, especialmente nas mulheres.</segment>
+    <segment id="23">Taça de vinho da empresa de Murilo Rodrigues</segment>
+    <segment id="24">, 51, sócio-fundador da Wine2Go - Jardiel Carvalho - 19.dez.22/Folhapress</segment>
+    <segment id="25">Foi após ler o texto do colunista</segment>
+    <segment id="26">, inclusive</segment>
+    <segment id="27">, que Jefferson Vieira</segment>
+    <segment id="28">, 58, de São Paulo</segment>
+    <segment id="29">, refletiu sobre seus hábitos e resolveu maneirar.</segment>
+    <segment id="30">"</segment>
+    <segment id="31">Tenho tomado álcool ao menos 4 dias da semana.</segment>
+    <segment id="32">Se encontro um amigo</segment>
+    <segment id="33">, bebo.</segment>
+    <segment id="34">Se está calor</segment>
+    <segment id="35">, bebo.</segment>
+    <segment id="36">Se está frio</segment>
+    <segment id="37">, bebo.</segment>
+    <segment id="38">Ou seja</segment>
+    <segment id="39">, o álcool passou a fazer parte da minha alimentação!</segment>
+    <segment id="40">Pela primeira vez em não sei quantos anos</segment>
+    <segment id="41">, não bebi no meu aniversário e pretendo diminuir bem o consumo para não dar mais chance ao azar.</segment>
+    <segment id="42">"</segment>
+    <segment id="43">Observando o exemplo dos pais desde criança</segment>
+    <segment id="44">, Johel Souza Filho conta que cresceu sem sentir necessidade ou curiosidade de beber.</segment>
+    <segment id="45">Para ele</segment>
+    <segment id="46">, não é algo que faz falta e defende que amizades verdadeiras não dependem dessa substância para existir.</segment>
+    <segment id="47">"</segment>
+    <segment id="48">Mas sentiria muito</segment>
+    <segment id="49">sese tivesse que ficar sem suco de laranja ou sem leite com café"</segment>
+    <segment id="50">, diz o leitor de 61 anos que mora em Araraquara (SP).</segment>
+    <segment id="51">Museu da Cachaça reúne 5.000 rótulos em ItaquaquecetubaMais    novamente         de   de  de  representando um</segment>
+    <segment id="52">A médica Fabiana Seppe Laforga</segment>
+    <segment id="53">, 55, de São Paulo</segment>
+    <segment id="54">, condena aqueles que bebem exageradamente e reflete sobre histórico na família.</segment>
+    <segment id="55">"</segment>
+    <segment id="56">Tive um tio alcoólatra que impactou a minha infância.</segment>
+    <segment id="57">Morreu pelo alcoolismo</segment>
+    <segment id="58">, inclusive.</segment>
+    <segment id="59">"</segment>
+    <segment id="60">Hoje com 70 anos</segment>
+    <segment id="61">, Beatriz Pianalto</segment>
+    <segment id="62">, de Palmas (TO)</segment>
+    <segment id="63">, analisa seu histórico com drinques</segment>
+    <segment id="64">, que começou na adolescência com um gim fizz</segment>
+    <segment id="65">, evoluiu para a cerveja quando tinha 20 anos</segment>
+    <segment id="66">, passou por uma fase com uísque e hoje não abre mão do vinho ao anoitecer e da cachaça antes do almoço.</segment>
+    <segment id="67">A leitora tem uma coleção de cachaças (de arnica</segment>
+    <segment id="68">, murici</segment>
+    <segment id="69">, jalapa e cajuim</segment>
+    <segment id="70">, cita)</segment>
+    <segment id="71">, masmas não deixa de fazer acompanhamento médico.</segment>
+    <segment id="72">"</segment>
+    <segment id="73">Até o momento</segment>
+    <segment id="74">, meu fígado ainda está disposto a receber o aditivo alcoólico.</segment>
+    <segment id="75">Amém!</segment>
+    <segment id="76">"</segment>
+    <segment id="77">Até o momento</segment>
+    <segment id="78">, meu fígado ainda está disposto a receber o aditivo alcoólico.</segment>
+    <segment id="79">Amém!Beatriz Pianaltode Palmas (TO)</segment>
+    <segment id="80">Um ano mais velho que Beatriz</segment>
+    <segment id="81">, o leitor Arnaldo Tadeu Guimarães está há 12 meses sem beber.</segment>
+    <segment id="82">"</segment>
+    <segment id="83">Entendo que a bebida alcoólica deveria ser somente para jovens.</segment>
+    <segment id="84">Álcool zero para os idosos"</segment>
+    <segment id="85">, escreve</segment>
+    <segment id="86">, de Belo Horizonte (MG).</segment>
+    <segment id="87">Alguns dizem saber o limite do que faz bem</segment>
+    <segment id="88">, como</segment>
+    <segment id="89">como é o</segment>
+    <segment id="90">casocaso da geógrafa Maria Angela Cabianca</segment>
+    <segment id="91">, 63, que só bebe em celebrações com amigos e familiares</segment>
+    <segment id="92">, masmas não ultrapassa duas doses para evitar dores de cabeça e náuseas.</segment>
+    <segment id="93">Para a professora Luana Cunha de Andrade</segment>
+    <segment id="94">, 38, o efeito da bebida é ilusório.</segment>
+    <segment id="95">"Me traz uma falsa sensação de prazer e liberdade.</segment>
+    <segment id="96">"</segment>
+    <segment id="97">O empreendedor André Gouvêa</segment>
+    <segment id="98">, 45, que mora em Nova York há 20 anos</segment>
+    <segment id="99">, e não bebe há 10</segment>
+    <segment id="100">, diz que a abstenção é comum na cidade.</segment>
+    <segment id="101">Sua relação com o álcool agora é só observar seus amigos ficarem mais descontraídos.</segment>
+    <segment id="102">"</segment>
+    <segment id="103">Continuo frequentando bares e festas</segment>
+    <segment id="104">, masmas sempre bebendo coquetéis não alcoólicos.</segment>
+    <segment id="105">"</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,120 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Em estudo publicado na segunda-feira (30/10)</segment>
+    <segment id="2">, no jornal científico Pnas</segment>
+    <segment id="3">, da Academia Nacional de Ciências dos Estados Unidos</segment>
+    <segment id="4">, pesquisadores sugerem uma correlação entre o uso de agrotóxicos no cultivo da soja e mortes por leucemia entre crianças do Brasil.</segment>
+    <segment id="5">Em anos recentes</segment>
+    <segment id="6">, produtores rurais das regiões do Cerrado e da Amazônia passaram a expandir o cultivo da soja</segment>
+    <segment id="7">, em substituição à criação de gado.</segment>
+    <segment id="8">Segundo a pesquisa</segment>
+    <segment id="9">, os pesticidas usados nessas plantações – principalmente o glifosato – acabam contaminando os rios e chegando até os reservatórios de água</segment>
+    <segment id="10">, o que pode contribuir para o surgimento de câncer e a subsequente morte de crianças.</segment>
+    <segment id="11">Campo de soja no município de Luís Eduardo Magalhães (BA)</segment>
+    <segment id="12">, no cerrado brasileiro - Avener Prado - 03.mai.2018/Folhapress</segment>
+    <segment id="13">A equipe de pesquisadores relata que</segment>
+    <segment id="14">, na fase inicial do estudo</segment>
+    <segment id="15">, cerca de metade das famílias que viviam nas áreas pesquisadas utilizavam poços artesianos para obter água.</segment>
+    <segment id="16">Os demais dependiam da água da superfície</segment>
+    <segment id="17">, que pode estar sujeita à contaminação.</segment>
+    <segment id="18">Os pesquisadores</segment>
+    <segment id="19">sese concentraram nas mortes associadas ao câncer em crianças menores de dez anos de idade que vivem em áreas rurais.</segment>
+    <segment id="20">O estudo</segment>
+    <segment id="21">sese baseia em dados de 2008 a 2019</segment>
+    <segment id="22">, quando houve um crescimento do cultivo da soja nos ecossistemas do Cerrado e da Amazônia.</segment>
+    <segment id="23">A análise de dados levou em consideração dois fatores principais: a proximidade entre os locais de residência das crianças enfermas e os rios</segment>
+    <segment id="24">, e a distância para hospitais que possuem tratamento contra o câncer infantil.</segment>
+    <segment id="25">Concluiu-</segment>
+    <segment id="26">sese que 123 crianças morreram de leucemia linfoblástica aguda (LLA) relacionados à produção da soja no período avaliado.</segment>
+    <segment id="27">Cerca da metade das mortes ocorridas no período de dez anos pode estar associada à maior exposição aos pesticidas</segment>
+    <segment id="28">,</segment>
+    <segment id="29">A LLA é uma doença que pode ser tratada.</segment>
+    <segment id="30">O resultado do estudo parece confirmar que os únicos pacientes que morreram após a ampliação do cultivo da soja nessas regiões eram os que viviam a mais de 100 quilômetros de um hospital que oferece tratamento específico.</segment>
+    <segment id="31">Aumento da produção de soja</segment>
+    <segment id="32">Nas últimas décadas</segment>
+    <segment id="33">, a produção pecuária na Amazônia brasileira passou a ser substituída pela soja devido à alta demanda global que colocou o Brasil</segment>
+    <segment id="34">comocomo o maior produtor mundial do insumo.  "</segment>
+    <segment id="35">A expansão ocorreu bastante rápido"</segment>
+    <segment id="36">, observa a pesquisadora Marin Skidmore</segment>
+    <segment id="37">, professora assistente do Departamento de Economia Agrícola e de Consumo da Universidade de Illinois</segment>
+    <segment id="38">, nos Estados Unidos</segment>
+    <segment id="39">, que liderou a pesquisa.</segment>
+    <segment id="40">Segundo os cientistas</segment>
+    <segment id="41">, entre 2000 e 2019</segment>
+    <segment id="42">, a produção de soja do Cerrado triplicou</segment>
+    <segment id="43">, enquanto na Amazônia o aumento foi de 20 vezes.</segment>
+    <segment id="44">De acordo com dados da ONG ambientalista WWF</segment>
+    <segment id="45">, em torno de 20% da produção global de soja é utilizada para o consumo humano</segment>
+    <segment id="46">, enquanto 80%</segment>
+    <segment id="47">sese destina à alimentação de gado e para a avicultura</segment>
+    <segment id="48">, especialmente para produção de carne vermelha</segment>
+    <segment id="49">, frangos</segment>
+    <segment id="50">, ovos e laticínios.</segment>
+    <segment id="51">O que o estudo não revela</segment>
+    <segment id="52">A pesquisa</segment>
+    <segment id="53">, porém</segment>
+    <segment id="54">porém, é acompanhada de algumas ressalvas.</segment>
+    <segment id="55">Em primeiro lugar</segment>
+    <segment id="56">, o estudo não fornece uma relação causal entre as mortes por câncer e a exposição aos pesticidas</segment>
+    <segment id="57">, apresentando apenas uma associação entre os dois fatores.</segment>
+    <segment id="58">Os pesquisadores destacaram que o trabalho foi desenvolvido de modo a eliminar outros fatores potencias.</segment>
+    <segment id="59">Não foi encontrada</segment>
+    <segment id="60">, por exemplo</segment>
+    <segment id="61">, nenhuma conexão entre o consumo da soja e o câncer.</segment>
+    <segment id="62">Jörg Rahnenführer</segment>
+    <segment id="63">, diretor do Departamento de Métodos Estatísticos em Genética e Quimiometria da Universidade Técnica de Dortmund</segment>
+    <segment id="64">, que não esteve envolvido na pesquisa</segment>
+    <segment id="65">, critica os autores não terem considerado fatores externos com a profundidade necessária.  "</segment>
+    <segment id="66">Apesar da conexão sugerida parecer plausível e possivelmente correta</segment>
+    <segment id="67">, há muitas outras explicações possíveis para as relações observadas nos dados.</segment>
+    <segment id="68">Os autores conduziram algumas análises adicionais bem ponderadas</segment>
+    <segment id="69">, masmas vários outros fatores</segment>
+    <segment id="70">, como</segment>
+    <segment id="71">como as variáveis socioeconômicas</segment>
+    <segment id="72">, não foram considerados.</segment>
+    <segment id="73">"</segment>
+    <segment id="74">Rahnenführer avalia que as conclusões dos autores</segment>
+    <segment id="75">sese baseiam em suposições de que a poluição da água por pesticidas seria a culpada pelas mortes de câncer.</segment>
+    <segment id="76">Isso sugeriria que</segment>
+    <segment id="77">sese poderia obter resultados mais confiáveis medindo diretamente a poluição da água e os casos de câncer potencialmente relacionados.</segment>
+    <segment id="78">Por outro lado</segment>
+    <segment id="79">, reconhece que esse tipo de análise seria "muito mais complexa".</segment>
+    <segment id="80">"Difícil imaginar causas além dos pesticidas"  Matthias Liess</segment>
+    <segment id="81">, diretor do Departamento de Ecotoxicologia do Centro Helmholtz para Pesquisas Ambientais (UFZ) em Leipzig</segment>
+    <segment id="82">, tampouco evolvido na pesquisa</segment>
+    <segment id="83">, avalia que</segment>
+    <segment id="84">, apesar das ressalvas</segment>
+    <segment id="85">, os dados são de qualidade</segment>
+    <segment id="86">, e a conclusão é sólida.</segment>
+    <segment id="87">"</segment>
+    <segment id="88">É plausível que a associação entre o cultivo da soja ou ao uso de pesticidas com o adoecimento das crianças não seja apenas correlacional</segment>
+    <segment id="89">, masmas que também haja uma relação causal"</segment>
+    <segment id="90">, afirmou.  Indício disso é os pesquisadores terem constatado uma maior incidência de câncer em áreas localizadas rio abaixo das plantações de soja do que rio acima.</segment>
+    <segment id="91">Assim, os casos estariam de fato ligados à poluição da água.</segment>
+    <segment id="92">"</segment>
+    <segment id="93">É difícil imaginar outras causas além dos pesticidas nesse ambiente de impacto"</segment>
+    <segment id="94">, reforça o toxicólogo.</segment>
+  </rst>
+</analysis>

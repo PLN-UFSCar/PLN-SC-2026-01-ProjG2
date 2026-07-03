@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Além de R$ 30 mil vencendor levará carro</segment>
+    <segment id="2">A disputa no reality da TV Aratu promete ficar ainda mais acirrada a partir de agora</segment>
+    <segment id="3">A disputa no reality da TV Aratu  promete ficar ainda mais acirrada a partir de agora.</segment>
+    <segment id="4">O prêmio para o ganhador</segment>
+    <segment id="5">, que era de R$ 30 mil recebeu um fermento e aumentou.</segment>
+    <segment id="6">Além desse valor</segment>
+    <segment id="7">, o sortudo vai levar um carro zerinho!</segment>
+    <segment id="8">Para o superintendente de conteúdo da emissora</segment>
+    <segment id="9">, Chagas Vieira</segment>
+    <segment id="10">, o novo prêmio é uma forma de consagrar o sucesso do programa.</segment>
+    <segment id="11">“</segment>
+    <segment id="12">A grande repercussão</segment>
+    <segment id="13">, não só aqui na Bahia</segment>
+    <segment id="14">, masmas também nacionalmente</segment>
+    <segment id="15">, nos surpreende.</segment>
+    <segment id="16">Nada mais justo que aumentar o prêmio”</segment>
+    <segment id="17">, diz.</segment>
+    <segment id="18">A guerra está declarada!</segment>
+  </rst>
+</analysis>

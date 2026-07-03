@@ -1,0 +1,146 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Em junho do ano passado</segment>
+    <segment id="2">, a Comédie de Genève cancelou</segment>
+    <segment id="3">, às vésperas da estreia</segment>
+    <segment id="4">, a adaptação teatral de "</segment>
+    <segment id="5">Os Emigrantes"</segment>
+    <segment id="6">, de W.G. Sebald</segment>
+    <segment id="7">, com direção do polonês Krystian Lupa</segment>
+    <segment id="8">, um dos maiores nomes do teatro contemporâneo</segment>
+    <segment id="9">, depois de a equipe técnica acusá-lo de abuso psicológico e maus-tratos.</segment>
+    <segment id="10">Na sequência</segment>
+    <segment id="11">, sem a estrutura e o financiamento do teatro suíço</segment>
+    <segment id="12">, o Festival de Avignon</segment>
+    <segment id="13">, coprodutor do projeto</segment>
+    <segment id="14">, também cancelou a peça</segment>
+    <segment id="15">, que só agora estreia no teatro do Odéon</segment>
+    <segment id="16">, em Paris.</segment>
+    <segment id="17">Lupa selecionou apenas duas das quatro histórias do livro.</segment>
+    <segment id="18">Ainda assim sua adaptação ficou com quatro horas e meia.</segment>
+    <segment id="19">O escritor alemão W.G. Sebald - DivulgaçãoA primeira parte do espetáculo conta a história de Paul Bereyter</segment>
+    <segment id="20">, professor numa cidade do interior da Alemanha durante o nazismo</segment>
+    <segment id="21">, incapaz de ver o que acontece a sua volta mesmo depois de ser proibido de lecionar</segment>
+    <segment id="22">, e que só retrospectivamente vai entender que a mulher que ele poderia ter amado foi deportada e assassinada nos campos.</segment>
+    <segment id="23">A segunda é a história de Ambros Adelwarth</segment>
+    <segment id="24">, tio-avô do narrador</segment>
+    <segment id="25">, que se</segment>
+    <segment id="26">se muda para os Estados Unidos no início do século 20 e</segment>
+    <segment id="27">sese torna acompanhante (e provável amante) de um jovem herdeiro que morre louco.</segment>
+    <segment id="28">A adaptação de Lupa me despertou a vontade de reler Sebald por uma razão específica.</segment>
+    <segment id="29">Nos seus livros</segment>
+    <segment id="30">, fotos e achados de segunda mão (um carnê de viagem atribuído pelo narrador ao tio-avô</segment>
+    <segment id="31">, por exemplo) são pretextos para a construção da ficção</segment>
+    <segment id="32">; mais que documentos</segment>
+    <segment id="33">, são a parte especulativa da ficção.</segment>
+    <segment id="34">O que foi de outro torna-</segment>
+    <segment id="35">sese seu</segment>
+    <segment id="36">, é incorporado à memória dos personagens.</segment>
+    <segment id="37">A ambiguidade e a migração dos sentidos entre o texto e as imagens permitem uma história que fala pelos silêncios</segment>
+    <segment id="38">, pelo não dito</segment>
+    <segment id="39">, ao mesmo tempo em rede e a contrapelo da asserção dos discursos coletivos.</segment>
+    <segment id="40">Hoje todo o mundo reivindica um pertencimento (não necessariamente a uma história</segment>
+    <segment id="41">, que é dinâmica e fluida</segment>
+    <segment id="42">, masmas a uma origem e a uma representação).</segment>
+    <segment id="43">É o efeito inevitável de uma perspectiva sociológica da literatura</segment>
+    <segment id="44">, para a qual um ser em contradição com o seu lugar</segment>
+    <segment id="45">, com a sua "origem"</segment>
+    <segment id="46">, é no máximo uma aberração burguesa.</segment>
+    <segment id="47">É esse</segment>
+    <segment id="48">, porém</segment>
+    <segment id="49">porém, o dispositivo da literatura de Sebald.</segment>
+    <segment id="50">Todo o mundo está fora do lugar.</segment>
+    <segment id="51">O lugar certo é o errado.</segment>
+    <segment id="52">É o que põe os personagens e os sentidos em movimento.</segment>
+    <segment id="53">E os faz ver e dar a ver.</segment>
+    <segment id="54">Emigrantes.</segment>
+    <segment id="55">Cada época é capaz de ler uma coisa.</segment>
+    <segment id="56">Entender uma coisa e não outra.</segment>
+    <segment id="57">O personagem em movimento é um sujeito intangível.</segment>
+    <segment id="58">Assim também o artista que</segment>
+    <segment id="59">sese recusa a pertencer passa a ser visto</segment>
+    <segment id="60">comocomo antagonista da justiça social</segment>
+    <segment id="61">, traidor da pátria</segment>
+    <segment id="62">, e deve</segment>
+    <segment id="63">, como</segment>
+    <segment id="64">como tudo o mais</segment>
+    <segment id="65">, ser delimitado</segment>
+    <segment id="66">, posto em seu devido lugar de porta-voz</segment>
+    <segment id="67">, representante.</segment>
+    <segment id="68">Por comparação à primeira leitura há mais de 20 anos</segment>
+    <segment id="69">, Sebald me parece hoje muito mais ficção do que ensaio ou documento</segment>
+    <segment id="70">, embora</segment>
+    <segment id="71">embora os três estejam entrelaçados (as fotos apropriadas</segment>
+    <segment id="72">comocomo ilustração da narrativa continuam a documentar alguma coisa que</segment>
+    <segment id="73">sese perdeu de ou sobre alguém que a rigor não sabemos quem é e que pode não ter nada a ver com a narrativa</segment>
+    <segment id="74">, embora</segment>
+    <segment id="75">embora a ilustre</segment>
+    <segment id="76">, ocupando sua "origem"</segment>
+    <segment id="77">, agora vista</segment>
+    <segment id="78">comocomo terreno capilar e movediço de associações).</segment>
+    <segment id="79">Pesquisadores identificam crianças enviadas a campos de concentração nazistasMais    novamente         de   de  de  representando</segment>
+    <segment id="80">um  Perder a memória é perder o eu.</segment>
+    <segment id="81">A narrativa de Sebald põe a origem em perspectiva e em dúvida por meio desse "disse que disse" de um narrador dentro de outro.</segment>
+    <segment id="82">Memória não é origem</segment>
+    <segment id="83">; é um processo dinâmico de constituição de um eu complexo.</segment>
+    <segment id="84">Em Sebald os personagens pertencem ao que odeiam</segment>
+    <segment id="85">, ao que os rejeita</segment>
+    <segment id="86">, não ao que os redime e emancipa.</segment>
+    <segment id="87">A origem é o ideal dos nacionalismos</segment>
+    <segment id="88">, do nazismo e do racismo.</segment>
+    <segment id="89">A memória é o seu antídoto no presente.</segment>
+    <segment id="90">Muito já</segment>
+    <segment id="91">sese falou sobre o silêncio no qual Sebald cresceu</segment>
+    <segment id="92">, silêncio em família para evitar o confronto com a história e com a culpa.</segment>
+    <segment id="93">A estratégia narrativa de sua ficção é confrontar o silêncio familiar com outro silêncio</segment>
+    <segment id="94">, que lhe é estranho (e aí entram as fotos de anônimos</segment>
+    <segment id="95">, de origem ambígua ou desconhecida</segment>
+    <segment id="96">, usadas</segment>
+    <segment id="97">comocomo ilustração).</segment>
+    <segment id="98">O silêncio do que</segment>
+    <segment id="99">sese perdeu ganha sentido pela ficção</segment>
+    <segment id="100">, fora do lugar.</segment>
+    <segment id="101">As representações são o que uma época pode ver</segment>
+    <segment id="102">, o espelho onde ela</segment>
+    <segment id="103">sese reconhece.</segment>
+    <segment id="104">Sebald tenta mostrar que o sentido (e a verdade) está no que não vemos</segment>
+    <segment id="105">, no que não reconhecemos.</segment>
+    <segment id="106">É a razão da ficção e de sua narrativa de silêncios</segment>
+    <segment id="107">, da ilustração do que não podemos saber nem confirmar</segment>
+    <segment id="108">, de quem não conhecemos.</segment>
+    <segment id="109">É um projeto literário sofisticado e potente.</segment>
+    <segment id="110">Lupa diz ter tentado transpor esse silêncio para o teatro.</segment>
+    <segment id="111">Não sei</segment>
+    <segment id="112">sese conseguiu</segment>
+    <segment id="113">, não vi o espetáculo.</segment>
+    <segment id="114">Quem viu</segment>
+    <segment id="115">, a julgar pelas críticas</segment>
+    <segment id="116">, diz que beira o insuportável.</segment>
+    <segment id="117">Talvez</segment>
+    <segment id="118">, involuntariamente</segment>
+    <segment id="119">, mais que o silêncio</segment>
+    <segment id="120">, ele tenha posto em cena o estorvo da representação.</segment>
+  </rst>
+</analysis>

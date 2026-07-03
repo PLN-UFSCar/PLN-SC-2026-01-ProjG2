@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Uma fala do ministro da Justiça e Segurança Pública</segment>
+    <segment id="2">, Flávio Dino</segment>
+    <segment id="3">, virou meme nas redes redes sociais nesta sexta (13).</segment>
+    <segment id="4">Muita gente que assistiu à entrevista coletiva dada pelo ministro nesta manhã o ouviu mencionar o nome da cantora norte-americana Beyoncé ao tratar das investigações sobre os atos antidemocráticos.</segment>
+    <segment id="5">Mas, é claro</segment>
+    <segment id="6">, foi apenas um mal-entendido.</segment>
+    <segment id="7">Na verdade</segment>
+    <segment id="8">, Dino disse: "</segment>
+    <segment id="9">Não há nenhuma posição apriorística</segment>
+    <segment id="10">, política</segment>
+    <segment id="11">, no sentido de investigar A</segment>
+    <segment id="12">, B ou C ou deixar de investigar</segment>
+    <segment id="13">A, B ou C".</segment>
+    <segment id="14">O próprio ministro brincou sobre a confusão no Twitter e afirmou que a cantora não está sob investigação.</segment>
+    <segment id="15">Nas redes sociais</segment>
+    <segment id="16">, muita gente reagiu à possível investigação de Beyoncé.</segment>
+    <segment id="17">Muitos fãs concordam que a cantora deveria ser mesmo investigada pela demora na divulgação dos clipes do álbum "Renaissance"</segment>
+    <segment id="18">, lançado em julho do ano passado.  E a Beyoncé sem entender nada.</segment>
+  </rst>
+</analysis>

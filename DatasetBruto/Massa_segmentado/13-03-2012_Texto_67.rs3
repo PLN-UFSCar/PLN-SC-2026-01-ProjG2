@@ -1,0 +1,77 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">De ônibus ou de carro</segment>
+    <segment id="2">, vias com BRS andam bem
+RIO - Com a utilização das faixas seletivas na Zona Sul e no Centro</segment>
+    <segment id="3">, os ônibus já estão levando praticamente o mesmo tempo dos carros para percorrer alguns dos principais corredores da cidade.</segment>
+    <segment id="4">O GLOBO testou na manhã de terça-feira os trechos onde foram implantados os sistemas de BRS</segment>
+    <segment id="5">, comparando os tempos de viagem entre ônibus e carro.</segment>
+    <segment id="6">Em três dos seis corredores</segment>
+    <segment id="7">, o transporte público foi mais rápido.</segment>
+    <segment id="8">O carro chegou na frente em dois deles.</segment>
+    <segment id="9">Já no BRS da Avenida Rio Branco</segment>
+    <segment id="10">, deu empate.</segment>
+    <segment id="11">O melhor resultado do ônibus aconteceu no BRS das Avenida Nossa Senhora de Copacabana e Princesa Isabel: 16 minutos(das 9h04m às 9h20m).</segment>
+    <segment id="12">O mesmo trecho foi feito em 21 minutos pelo carro (das 9h04m às 9h25m).</segment>
+    <segment id="13">O BRS que liga a Rua Prudente Moraes</segment>
+    <segment id="14">, em Ipanema</segment>
+    <segment id="15">, à Avenida General San Martin</segment>
+    <segment id="16">, no Leblon</segment>
+    <segment id="17">, também colocou o transporte coletivo na dianteira.</segment>
+    <segment id="18">Neste trecho a diferença foi de três minutos: o ônibus fez em sete minutos ( 10h07m às 10h14m) e o carro em 11 minutos (10h07m às 10h18m).</segment>
+    <segment id="19">A mesma diferença aconteceu no corredor da Avenida Presidente Antônio Carlos- Primeiro de Março</segment>
+    <segment id="20">, no Centro.</segment>
+    <segment id="21">O ônibus percorreu em dois minutos (das 11h34m às 11h36m) - sem fazer qualquer parada.</segment>
+    <segment id="22">O carro levou cinco minutos (11h34m às 11h39m).</segment>
+    <segment id="23">Em outros dois casos</segment>
+    <segment id="24">, o carro superou o ônibus - num deles quando percorreu da Rua Barata Ribeiro até a Raul Pompeia</segment>
+    <segment id="25">, também em Copacabana</segment>
+    <segment id="26">, em 12 minutos (das 9h37m às 9h49m).</segment>
+    <segment id="27">Já o ônibus levou 14 minutos (9h37m às 9h51m).</segment>
+    <segment id="28">O carro chegou antes também quando percorreu da Praça Antero de Quental</segment>
+    <segment id="29">, no Leblon</segment>
+    <segment id="30">, à Praça General Osório</segment>
+    <segment id="31">, em Ipanema.</segment>
+    <segment id="32">Mas a diferença foi de apenas um minuto.</segment>
+    <segment id="33">O trecho foi percorrido em 9 minutos pelo carro (8h33m às 8h42m) e em dez minutos pelo ônibus (8h33m às 8h43m).</segment>
+    <segment id="34">Na Rio Branco</segment>
+    <segment id="35">, carro e ônibus percorreram o trecho entre o começo da via e a Cinelândia em apenas cinco minutos (das 12h22m às 12h27m).</segment>
+    <segment id="36">Na Avenida Presidente Vargas</segment>
+    <segment id="37">, um teste feito na segunda-feira pelo GLOBO</segment>
+    <segment id="38">constatou que o ônibus pode levar quase o dobro do tempo do carro para ir da Leopoldina à Candelária.</segment>
+    <segment id="39">Foram 12 minutos para o ônibus e sete para o carro</segment>
+    <segment id="40">, masmas o ônibus parou em quatro pontos.</segment>
+    <segment id="41">Ontem, as câmeras que vigiam o BRS da Presidente Vargas começaram a multar os veículos que desrespeitam as faixas.</segment>
+    <segment id="42">Segundo a CET-Rio</segment>
+    <segment id="43">, um balanço das multas será divulgado dentro de uma semana.</segment>
+    <segment id="44">Enquanto os motoristas ainda</segment>
+    <segment id="45">sese adaptam ao BRS das pistas centrais da Avenida Presidente Vargas</segment>
+    <segment id="46">, a Secretaria municipal de Transporte informou ontem que o início dos corredores nas pistas laterais ainda deve levar pelo menos mais um mês.</segment>
+    <segment id="47">A ideia inicial era que todas as pistas tivessem o BRS cerca de 15 dias depois do início do novo sistema.</segment>
+    <segment id="48">Segundo a secretaria</segment>
+    <segment id="49">, serão realizados novos estudos técnicos na via antes que os novos corredores sejam implantados.</segment>
+    <segment id="50">O prazo de um mês também será utilizado para possíveis adaptações no sistema.</segment>
+  </rst>
+</analysis>

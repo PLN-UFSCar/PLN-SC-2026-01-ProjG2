@@ -1,0 +1,150 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O relatório utilizado pelo partido do atual presidente Jair Bolsonaro</segment>
+    <segment id="2">, o PL</segment>
+    <segment id="3">, para pedir a invalidação de votos depositados em urnas de modelos anteriores a 2020 tira conclusões incorretas a partir dos dados identificados</segment>
+    <segment id="4">, segundo especialistas em computação consultados pela Folha.</segment>
+    <segment id="5">O PL questiona a ausência do código de série das urnas no "diário de bordo" desses equipamentos mais antigos.</segment>
+    <segment id="6">Alega que</segment>
+    <segment id="7">, com isso</segment>
+    <segment id="8">, não é possível fiscalizá-las.</segment>
+    <segment id="9">Há, porém</segment>
+    <segment id="10">porém, outros dados e formas para identificar essas urnas.</segment>
+    <segment id="11">Ou seja</segment>
+    <segment id="12">, diferentemente da afirmação do parecer</segment>
+    <segment id="13">, a falha apontada não impossibilita a vinculação do arquivo gerado pela urna (conhecido</segment>
+    <segment id="14">comocomo log da urna) com sua urna física correspondente</segment>
+    <segment id="15">, argumento base do relatório do PL.</segment>
+    <segment id="16">Na comparação feita por um especialista</segment>
+    <segment id="17">, é como</segment>
+    <segment id="18">como se</segment>
+    <segment id="19">se um um órgão estatal</segment>
+    <segment id="20">, por um erro</segment>
+    <segment id="21">, não tivesse em sua planilha os dados do INSS de um cidadão</segment>
+    <segment id="22">, masmas tivesse RG e CPF —sendo possível</segment>
+    <segment id="23">, portanto</segment>
+    <segment id="24">, identificá-lo.</segment>
+    <segment id="25">Além disso</segment>
+    <segment id="26">, o documento do PL possui lacunas ao ignorar o primeiro turno da eleição e a distribuição dos diferentes modelos de urnas dentro de um mesmo estado.  Jair Bolsonaro e o presidente do PL</segment>
+    <segment id="27">, Valdemar Costa Neto</segment>
+    <segment id="28">, em evento no Palácio do Planalto - Pedro Ladeira/Folhapress</segment>
+    <segment id="29">Em que</segment>
+    <segment id="30">sese baseia a ação do PL?</segment>
+    <segment id="31">A ação apresentada pelo PL nesta terça-feira (22) ao TSE (Tribunal Superior Eleitoral) é baseada em relatório do Instituto Voto Legal</segment>
+    <segment id="32">, que foi entregue ao tribunal em anexo e tem vários de seus trechos reproduzidos na ação.</segment>
+    <segment id="33">Uma versão parcial também circulou na última semana.</segment>
+    <segment id="34">Na ação</segment>
+    <segment id="35">, o PL pede a invalidação de votos depositados em urnas de modelos anteriores a 2020.</segment>
+    <segment id="36">O partido aponta que</segment>
+    <segment id="37">, no log dessas urnas</segment>
+    <segment id="38">, na coluna onde deveria constar o código de identificação único de cada urna há um outro número que</segment>
+    <segment id="39">sese repete.</segment>
+    <segment id="40">Cada urna gera diferentes arquivos referentes a cada turno.</segment>
+    <segment id="41">Um deles é o log das urnas</segment>
+    <segment id="42">, que funciona</segment>
+    <segment id="43">comocomo uma espécie de diário de bordo ou ata daquela urna.</segment>
+    <segment id="44">Nele são registrados todos os eventos que acontecem nela:</segment>
+    <segment id="45">comocomo ter sido ligada</segment>
+    <segment id="46">, desligada</segment>
+    <segment id="47">, sese ela apresenta baixa carga de bateria ou</segment>
+    <segment id="48">sese registra uma eventual falha.  Se organizado numa planilha</segment>
+    <segment id="49">, a composição de um log da urna seria com várias linhas</segment>
+    <segment id="50">, sendo cada uma delas um desses eventos</segment>
+    <segment id="51">, e junto de cada evento aparecem algumas colunas —uma delas é esse código identificador da urna.</segment>
+    <segment id="52">Leia tambémMoraes nega ação do PL sobre urnas e condena partido a pagar R$ 23 milhões por má-féPL ignora Moraes e insiste em contestar resultado apenas do 2º turnoO que o PL afirma com base nisso?</segment>
+    <segment id="53">O parecer alega que</segment>
+    <segment id="54">, sem esse código</segment>
+    <segment id="55">, não seria possível vincular o arquivo gerado pela urna (o log da urna) à sua urna física correspondente</segment>
+    <segment id="56">, no caso</segment>
+    <segment id="57">caso das urnas de modelos anteriores a 2020.</segment>
+    <segment id="58">"</segment>
+    <segment id="59">Como há evidências de mau funcionamento das urnas eletrônicas que geraram arquivos log com erros graves no campo do código de identificação da urna</segment>
+    <segment id="60">, fica comprometida a certeza dos resultados gerados nestas urnas e a garantia de integridade dos demais arquivos gerados</segment>
+    <segment id="61">, pelas mesmas urnas"</segment>
+    <segment id="62">, diz trecho do relatório que consta na representação.</segment>
+    <segment id="63">Apesar de o problema apontado ter ocorrido nos logs de ambos os turnos e o parecer considerar que os erros "são graves"</segment>
+    <segment id="64">, o PL</segment>
+    <segment id="65">, que elegeu a maior bancada do Congresso no primeiro turno</segment>
+    <segment id="66">, pede a invalidação apenas de votos do segundo turno.</segment>
+    <segment id="67">Por que a alegação do PL é frágil?</segment>
+    <segment id="68">O erro no registro dos logs não representa um problema grave</segment>
+    <segment id="69">, pois</segment>
+    <segment id="70">pois há outras formas de verificar que um log pertence a determinada urna</segment>
+    <segment id="71">, afirma o professor de engenharia da computação Marcos Simplício</segment>
+    <segment id="72">, da Escola Politécnica da USP e do Larc (Laboratório de Arquitetura e Redes de Computadores).  "</segment>
+    <segment id="73">O que importa não é a ausência ou existência de bugs.</segment>
+    <segment id="74">É o quanto aquele bug gera um problema de fato"</segment>
+    <segment id="75">, diz Simplício.</segment>
+    <segment id="76">Também de acordo com Bruno Albertini</segment>
+    <segment id="77">, que é integrante da Comissão de Transparência das Eleições do TSE e professor do departamento de Engenharia de Computação da Escola Politécnica da USP</segment>
+    <segment id="78">, o erro encontrado no log da urna não é crítico e não impossibilita a vinculação do log com a urna.</segment>
+    <segment id="79">"</segment>
+    <segment id="80">Ao contrário do que afirma o relatório</segment>
+    <segment id="81">, há outras maneiras de vincular o log com a urna.</segment>
+    <segment id="82">Também a urna gerar um log com um identificador inválido não invalida o arquivo todo e não caracteriza falha de funcionamento"</segment>
+    <segment id="83">, diz Albertini.</segment>
+    <segment id="84">Quais as formas de vincular o log da urna à urna correspondente?</segment>
+    <segment id="85">Um dos meios de fazer tal vinculação é por meio dos demais dados que constam no log da urna</segment>
+    <segment id="86">, como</segment>
+    <segment id="87">como o número da zona e da seção eleitoral</segment>
+    <segment id="88">, além do código de carga da urna.</segment>
+    <segment id="89">Todos essas informações constam tanto no boletim de urna quanto no log.</segment>
+    <segment id="90">Além disso</segment>
+    <segment id="91">, os especialistas apontam o fato de os arquivos da urna serem assinados digitalmente</segment>
+    <segment id="92">comocomo uma garantia ainda mais robusta.</segment>
+    <segment id="93">"</segment>
+    <segment id="94">A urna só assina o seu log e a assinatura é suficiente para garantir com segurança criptográfica que o log veio daquela urna de fato"</segment>
+    <segment id="95">, diz Albertini.</segment>
+    <segment id="96">Uma forma que demandaria mais trabalho</segment>
+    <segment id="97">, seria a verificação in loco das urnas por amostragem.</segment>
+    <segment id="98">A urna armazena os dados da votação em duas mídias: uma memória interna e outra externa (tipo um pen drive).</segment>
+    <segment id="99">Assim, é possível verificar</segment>
+    <segment id="100">, por exemplo</segment>
+    <segment id="101">, sese os logs salvos na memória interna das urnas usadas no pleito correspondem aos dados disponibilizados no site do TSE.</segment>
+    <segment id="102">O que Bolsonaro já disse sobre urnas e ameaças às eleições e ao TSEMais    novamente         de   de  de  representando um  O que mais o PL ignora?</segment>
+    <segment id="103">Nessas eleições foram usados seis modelos de urnas diferentes —o modelo 2020 estreou neste ano.</segment>
+    <segment id="104">Além dele</segment>
+    <segment id="105">, foram usadas urnas 2009</segment>
+    <segment id="106">, 2010</segment>
+    <segment id="107">, 2011</segment>
+    <segment id="108">, 2013 e 2015 –esses números correspondem ao ano da licitação.</segment>
+    <segment id="109">Um ponto ignorado pela representação do PL é a análise sobre</segment>
+    <segment id="110">comocomo as urnas dos diferentes modelos foram distribuídas dentro de um mesmo estado ou de acordo com a quantidade de eleitores.</segment>
+    <segment id="111">Ela afirma apenas que as urnas de modelo 2020 foram "distribuídas aparentemente de forma proporcional e equitativa pelo país pela própria Justiça Eleitoral".</segment>
+    <segment id="112">FolhaJus DiaReceba no seu email a seleção diária das principais notícias jurídicas</segment>
+    <segment id="113">; aberta para não assinantes.</segment>
+    <segment id="114">Carregando...</segment>
+    <segment id="115">A partir disso</segment>
+    <segment id="116">, conclui que "os votos válidos e auditáveis do segundo turno" atestariam resultado diferente e dariam 51</segment>
+    <segment id="117">,05% dos votos a Bolsonaro.</segment>
+    <segment id="118">O documento indica que as urnas 2020 seriam as únicas que teriam "elementos de auditoria válida e que atestam a autenticidade do resultado eleitoral com a certeza necessária – na concepção do próprio Tribunal Superior Eleitoral".</segment>
+    <segment id="119">Documento publicado por pesquisadores da USP e da UFSCar (Universidade Federal de São Carlos)</segment>
+    <segment id="120">, na semana passada</segment>
+    <segment id="121">, mostrou</segment>
+    <segment id="122">, por exemplo</segment>
+    <segment id="123">, que as urnas novas foram mais comumente usadas em seções com mais de 400 eleitores —ao rebater afirmações infundadas feitas na live do argentino Fernando Cerimedo</segment>
+    <segment id="124">, que também levantou dúvidas sobre urnas dos modelos mais antigos.</segment>
+  </rst>
+</analysis>

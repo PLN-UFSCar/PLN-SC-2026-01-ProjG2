@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Carroceiro leva bala na cabeça</segment>
+    <segment id="2">O crime aconteceu na Góes Calmon</segment>
+    <segment id="3">, no bairro Rua Nova em Feira de Santana</segment>
+    <segment id="4">Dois homens que estavam em uma motocicleta de dados ignorados assassinaram ontem o carroceiro Edvaldo Oliveira Barbosa</segment>
+    <segment id="5">, o Touro</segment>
+    <segment id="6">, 36 anos.</segment>
+    <segment id="7">O crime aconteceu na Góes Calmon</segment>
+    <segment id="8">, no bairro Rua Nova</segment>
+    <segment id="9">, próximo ao Centro de Abastecimento</segment>
+    <segment id="10">, em Feira de Santana.</segment>
+  </rst>
+</analysis>

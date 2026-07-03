@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Melancias recheadas com muita maconha</segment>
+    <segment id="2">Os condutores foram pegos enquanto transferiam os sacos de maconnha para outro carro</segment>
+    <segment id="3">Policiais rodoviários federais apreenderam cerca de 223 quilos de maconha escondida em uma carga de melancia</segment>
+    <segment id="4">, que era transportada em um caminhão Mercedes Benz</segment>
+    <segment id="5">, placa CTJ-3484</segment>
+    <segment id="6">, de Mariporã (SP)</segment>
+    <segment id="7">, na madrugada de ontem.</segment>
+    <segment id="8">O material foi encontrado na BR-324</segment>
+    <segment id="9">, perto do bairro São Caetano.</segment>
+    <segment id="10">A erva estava acondicionada em sacos plásticos.</segment>
+    <segment id="11">Os condutores foram surpreendidos pela polícia enquanto transferiam os sacos de maconha para uma caminhonete Strada</segment>
+    <segment id="12">, (NYZ-0768)</segment>
+    <segment id="13">, prata.</segment>
+    <segment id="14">Quatro pessoas foram autuadas por tráfico de drogas.</segment>
+  </rst>
+</analysis>

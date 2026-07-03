@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">ViolÃªncia
+Homem</segment>
+    <segment id="2">Ã© morto com pelo menos oito tiros no Bairro Jardim Algarve</segment>
+    <segment id="3">, em Alvorada
+Augusto Pacheco GonÃ§alves</segment>
+    <segment id="4">, 21 anos</segment>
+    <segment id="5">, chegou a ser socorrido ao Hospital da cidade</segment>
+    <segment id="6">, masmas nÃ£o resistiu
+Augusto Pacheco GonÃ§alves</segment>
+    <segment id="7">, 21 anos</segment>
+    <segment id="8">, foi morto com pelo menos oito tiros na madrugada desta sexta-feira no Bairro Jardim Algarve</segment>
+    <segment id="9">, em Alvorada.</segment>
+    <segment id="10">O crime ocorreu na Rua Elmira Pereira Silveira</segment>
+    <segment id="11">, prÃ³ximo da Avenida Zero Hora</segment>
+    <segment id="12">, por volta da meia-noite.</segment>
+    <segment id="13">A vÃ­tima chegou a ser socorrida ao Hospital de Alvorada</segment>
+    <segment id="14">, masmas nÃ£o resistiu.</segment>
+    <segment id="15">Segundo a Brigada Militar</segment>
+    <segment id="16">, testemunhas teriam visto um homem em uma moto efetuar os disparos e fugir.</segment>
+  </rst>
+</analysis>

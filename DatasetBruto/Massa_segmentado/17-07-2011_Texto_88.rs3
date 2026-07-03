@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Operação Lapa Legal multou 82 veículos no fim de semana
+RIO - A operação Choque de Ordem Lapa Legal realizada por agentes da Secretaria Especial da Ordem Pública (Seop)</segment>
+    <segment id="2">, com apoio de guardas municipais</segment>
+    <segment id="3">, neste fim de semana</segment>
+    <segment id="4">, multou 82 veículos e rebocou 18 por estacionamento irregular na região.</segment>
+    <segment id="5">Na noite de sábado</segment>
+    <segment id="6">, um cambista que tentava comercializar ingressos para a casa de shows</segment>
+    <segment id="7">Fundição Progresso foi detido.</segment>
+    <segment id="8">Marcelo Modesto dos Santos foi encaminhado para a 5ª DP (Mem de Sá) juntamente com as entradas apreendidas.</segment>
+    <segment id="9">Na ação</segment>
+    <segment id="10">, agentes de Controle Urbano da Seop apreenderam</segment>
+    <segment id="11">, com ambulantes não autorizados</segment>
+    <segment id="12">, 142 latas de cerveja</segment>
+    <segment id="13">, 34 de refrigerante e 7 garrafas de água.</segment>
+  </rst>
+</analysis>

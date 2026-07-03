@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">José Aníbal</segment>
+    <segment id="2">, ex-presidente do PSDB</segment>
+    <segment id="3">, decidiu apresentar formalmente seu nome ao partido para disputar o Senado por São Paulo.</segment>
+    <segment id="4">Ele é atualmente suplente de José Serra</segment>
+    <segment id="5">, que está encerrando o mandato e não buscará a reeleição.</segment>
+    <segment id="6">O partido</segment>
+    <segment id="7">, porém</segment>
+    <segment id="8">porém, tende a oferecer a vaga para alguma legenda coligada.</segment>
+    <segment id="9">Aníbal assumiu vaga no Senado de agosto de 2021 até fevereiro de 2022</segment>
+    <segment id="10">, período em que Serra ficou afastado para tratar de problemas de saúde.</segment>
+    <segment id="11">José Aníbal</segment>
+    <segment id="12">, ex-presidente do PSDB</segment>
+    <segment id="13">, durante evento na Livraria Cultura</segment>
+    <segment id="14">, em SP - Bruno Poletti-25.jun.2014/Folhapress</segment>
+    <segment id="15">Ao lado de Tasso Jereissati e Aécio Neves</segment>
+    <segment id="16">, Aníbal fez parte de um grupo de tucanos críticos à candidatura presidencial de João Doria pelo PSDB.</segment>
+    <segment id="17">Sem apoio no PSDB e sem crescimento nas pesquisas de intenção de votos</segment>
+    <segment id="18">, o ex-governador de SP desistiu de seu projeto no final de maio.</segment>
+    <segment id="19">Em abril</segment>
+    <segment id="20">, o Painel mostrou a intenção do grupo de tucanos de lançar Aníbal ao Senado.</segment>
+  </rst>
+</analysis>

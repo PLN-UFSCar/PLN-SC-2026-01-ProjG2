@@ -1,0 +1,56 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Incêndio destrói barracos em favela</segment>
+    <segment id="2">O acidente aconteceu na localidade do Congo</segment>
+    <segment id="3">, em Itabuna</segment>
+    <segment id="4">Os moradores dos 18 barracos atingidos por um incêndio na noite deste domingo (4) na favela do Congo na BR-101</segment>
+    <segment id="5">, em Itabuna</segment>
+    <segment id="6">, foram cadastrados pela Prefeitura na manhã desta segunda-feira (5) para receber auxílio-moradia.
+
+"</segment>
+    <segment id="7">Vamos sugerir um local para eles ficarem enquanto não acham um imóvel para alugar</segment>
+    <segment id="8">, depois eles recebem o auxílio-moradia"</segment>
+    <segment id="9">, explica a secretária de assistência social do município</segment>
+    <segment id="10">, Marina Santos.</segment>
+    <segment id="11">De acordo com ela</segment>
+    <segment id="12">, não há previsão para interrupção da ajuda para o aluguel.</segment>
+    <segment id="13">"</segment>
+    <segment id="14">Não tem prazo</segment>
+    <segment id="15">, será fornecido até resolver o problema deles</segment>
+    <segment id="16">, que também serão encaminhados ao Programa Minha Casa</segment>
+    <segment id="17">, Minha Vida".</segment>
+    <segment id="18">De acordo com os moradores</segment>
+    <segment id="19">, o fogo foi provocado por uma vela acesa em um dos imóveis.</segment>
+    <segment id="20">As chamas</segment>
+    <segment id="21">sese alastraram para os outros barracos.</segment>
+    <segment id="22">Ninguém ficou ferido</segment>
+    <segment id="23">, masmas alguns animais de estimação morreram.</segment>
+    <segment id="24">Foi o que aconteceu com o cachorro de Ronivaldo de Jesus Santos</segment>
+    <segment id="25">, 27 anos.</segment>
+    <segment id="26">Ele disse que o cão era seu único companheiro.</segment>
+    <segment id="27">Os moradores também perderam todos os móveis e objetos que estavam nos barracos</segment>
+    <segment id="28">, que foram totalmente destruídos.</segment>
+  </rst>
+</analysis>

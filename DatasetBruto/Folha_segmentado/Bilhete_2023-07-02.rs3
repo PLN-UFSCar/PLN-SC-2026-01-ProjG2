@@ -1,0 +1,57 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Uma falha técnica bloqueou cerca de 40 mil cartões do Bilhete Único em São Paulo.</segment>
+    <segment id="2">Segundo nota da SPTrans —empresa que gerencia o sistema público de ônibus do município— os usuários estão sendo bloqueados nas catracas dos ônibus desde a noite de sexta-feira (30).</segment>
+    <segment id="3">Entre os bilhetes afetados</segment>
+    <segment id="4">, estão os que utilizam as modalidades de crédito comum</segment>
+    <segment id="5">, estudante</segment>
+    <segment id="6">, vale transporte e idoso 60-64.</segment>
+    <segment id="7">O munícipe pode consultar a situação do seu cartão aqui.</segment>
+    <segment id="8">A troca é gratuita</segment>
+    <segment id="9">, de acordo com a SPTrans.</segment>
+    <segment id="10">Para isso</segment>
+    <segment id="11">, o usuário deverá comparecer a um posto de atendimento da SPTrans munido de documento original com foto.</segment>
+    <segment id="12">Caso ele tenha sido afetado pela falha</segment>
+    <segment id="13">, será emitida a segunda via sem custos.</segment>
+    <segment id="14">Os créditos dos passageiros serão restituídos nos novos cartões em até 72 horas.</segment>
+    <segment id="15">Os endereços dos postos de atendimento da SPTrans podem ser encontrados aqui.</segment>
+    <segment id="16">O horário de funcionamento é das 6h às 22h.</segment>
+    <segment id="17">Estações de carga do Bilhete Único na estação do Metrô Fradique Coutinho</segment>
+    <segment id="18">, na zona oeste de São Paulo - Rivaldo Gomes - 8.out.19/FolhapressCPTM e Metrô —inclusive a ViaMobilidade (operadora das linhas 5-Lilás do Metrô</segment>
+    <segment id="19">, 8-Diamante e 9-Esperalda</segment>
+    <segment id="20">, ambas da CPTM) e a ViaQuatro (4 - Amarela do Metrô)</segment>
+    <segment id="21">— foram orientados a liberarem o embarque dos passageiros que apresentarem o Bilhete Único com falha.  "</segment>
+    <segment id="22">Desde que a questão foi constatada</segment>
+    <segment id="23">, as equipes técnicas da SPTrans trabalham para reduzir a abrangência ao menor número de cartões possível e</segment>
+    <segment id="24">, paralelamente</segment>
+    <segment id="25">, para atender todos os usuários cujos cartões foram bloqueados.</segment>
+    <segment id="26">A SPTrans já solicitou reforço no atendimento dos postos de toda a cidade"</segment>
+    <segment id="27">, afirmou em nota.</segment>
+    <segment id="28">A SPTrans descartou a possibilidade de ataque hacker.</segment>
+    <segment id="29">Nas redes sociais</segment>
+    <segment id="30">, muitos usuários ficaram sabendo do problema justamente quando foram passar na catraca do coletivo</segment>
+    <segment id="31">, sendo pegos de surpresa.</segment>
+  </rst>
+</analysis>

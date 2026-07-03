@@ -1,0 +1,133 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um dos maiores temores da vida estudantil é o erro.</segment>
+    <segment id="2">Marcar a resposta errada</segment>
+    <segment id="3">, errar uma conta</segment>
+    <segment id="4">, entender errado a pergunta.</segment>
+    <segment id="5">Há várias formas de errar.</segment>
+    <segment id="6">E a impressão mais comum é a de que o ato de errar diz respeito ao universo estudantil.</segment>
+    <segment id="7">Nada mais errado!</segment>
+    <segment id="8">Em matemática</segment>
+    <segment id="9">, e em ciência em geral</segment>
+    <segment id="10">, errar não só é humano</segment>
+    <segment id="11">comocomo é parte da rotina.</segment>
+    <segment id="12">E exemplos acometem as estrelas mais importantes da constelação profissional.</segment>
+    <segment id="13">Colunas e BlogsReceba no seu email uma seleção de colunas e blogs da Folha</segment>
+    <segment id="14">; exclusiva para assinantes.</segment>
+    <segment id="15">Carregando...</segment>
+    <segment id="16">Uma história belíssima envolve o cientista francês Henri Poincaré e o rei Oscar II</segment>
+    <segment id="17">, da Suécia e Noruega.</segment>
+    <segment id="18">Para homenagear o aniversário de 60 anos do monarca</segment>
+    <segment id="19">, o periódico "</segment>
+    <segment id="20">Acta</segment>
+    <segment id="21">Mathematica</segment>
+    <segment id="22">" promoveu uma competição.</segment>
+    <segment id="23">Uma lista de tópicos importantes foi anunciada</segment>
+    <segment id="24">, e trabalhos acerca daqueles temas iriam competir pelo prêmio.</segment>
+    <segment id="25">A iniciativa partiu do matemático sueco fundador da Acta</segment>
+    <segment id="26">, Gösta Mittag-Leffler</segment>
+    <segment id="27">, que entre outras coisas queria envolver o rei na promoção da Acta.</segment>
+    <segment id="28">O entusiasmo de Mittag-Leffler pelo suporte real não era novidade:</segment>
+    <segment id="29">ele já havia garantido ao rei a primazia de ter sido que o primeiro assinante do periódico.</segment>
+    <segment id="30">Ilustração: Lívia Serri Francoio - Instituto SerrapilheiraDoze monografias</segment>
+    <segment id="31">sese inscreveram na competição</segment>
+    <segment id="32">, anunciada no volume 7 da "Acta" (estamos em 1885).</segment>
+    <segment id="33">Uma delas</segment>
+    <segment id="34">, "</segment>
+    <segment id="35">Sobre o problema de três corpos e as equações da dinâmica"</segment>
+    <segment id="36">, de Poincaré</segment>
+    <segment id="37">, logo</segment>
+    <segment id="38">sese mostrou pertencer a uma esfera de qualidade muito superior.</segment>
+    <segment id="39">E naturalmente venceu o prêmio.</segment>
+    <segment id="40">Entretanto</segment>
+    <segment id="41">, entre ser considerada vencedora e ser publicada na Acta ocorreu uma pequena surpresa.  E a surpresa era um erro.</segment>
+    <segment id="42">Nos fins de novembro de 1889</segment>
+    <segment id="43">, Poincaré enviou um telegrama a Mittag-Leffler pedindo-lhe que interrompesse a impressão da revista devido a um erro nos argumentos.</segment>
+    <segment id="44">No dia seguinte</segment>
+    <segment id="45">, uma carta de Poincaré explicava a grave natureza do erro.</segment>
+    <segment id="46">Corrigir o trabalho (vencedor!) exigiria esforço substancial.</segment>
+    <segment id="47">Poincaré revisou a monografia e</segment>
+    <segment id="48">, em janeiro de 1890</segment>
+    <segment id="49">, submeteu uma nova versão.</segment>
+    <segment id="50">Sua revisão expandia o documento original</segment>
+    <segment id="51">, estava matematicamente correta e</segment>
+    <segment id="52">, sobretudo</segment>
+    <segment id="53">, inaugurava questões fundamentais na teoria dos sistemas dinâmicos.</segment>
+    <segment id="54">Foi nessa versão corrigida que apareceu pela primeira vez a noção de ponto homoclínico.</segment>
+    <segment id="55">Se começamos a andar a partir de um ponto homoclínico e seguimos a regra do sistema dinâmico</segment>
+    <segment id="56">, tanto faz</segment>
+    <segment id="57">sese o tempo anda pra frente ou para trás: sempre acabamos no mesmo lugar!</segment>
+    <segment id="58">O erro de Poincaré parece familiar a muitos matemáticos profissionais:</segment>
+    <segment id="59">escreve-</segment>
+    <segment id="60">sese um artigo</segment>
+    <segment id="61">, ou um livro</segment>
+    <segment id="62">, e de repente alguém nos pergunta sobre determinado argumento.</segment>
+    <segment id="63">E em alguns casos o argumento está equivocado.</segment>
+    <segment id="64">E ao consertar as coisas</segment>
+    <segment id="65">, aprendemos todos.</segment>
+    <segment id="66">Mas essa percepção óbvia não é necessariamente universal.</segment>
+    <segment id="67">Em 2021</segment>
+    <segment id="68">, mais de 230 mil artigos em matemática foram publicados.</segment>
+    <segment id="69">Seria ingênuo imaginar que estão todos corretos.</segment>
+    <segment id="70">Por outro lado</segment>
+    <segment id="71">, quando comparamos a matemática a outras áreas do conhecimento</segment>
+    <segment id="72">, a taxa de correções é muito menor.</segment>
+    <segment id="73">Eu, por exemplo</segment>
+    <segment id="74">, nunca ouvi falar de um artigo retratado em matemática.</segment>
+    <segment id="75">Será porque</segment>
+    <segment id="76">porque os profissionais da área ficam constrangidos em reconhecer que</segment>
+    <segment id="77">, como</segment>
+    <segment id="78">como todos os outros</segment>
+    <segment id="79">, erram?</segment>
+    <segment id="80">O problema aqui são as consequências de uma atitude editorial que "olha para outro lado" e ignora o erro.</segment>
+    <segment id="81">Primeiro</segment>
+    <segment id="82">, porque</segment>
+    <segment id="83">porque um resultado errado</segment>
+    <segment id="84">sese propaga por intermédio da literatura.</segment>
+    <segment id="85">Ora, muito do que</segment>
+    <segment id="86">sese faz hoje depende do que foi feito ontem.</segment>
+    <segment id="87">E sese ontem estava errado</segment>
+    <segment id="88">, os ombros do gigante não oferecem a sustentação necessária para amanhã.</segment>
+    <segment id="89">Outro problema grave diz respeito ao acesso ao conhecimento.</segment>
+    <segment id="90">Na literatura</segment>
+    <segment id="91">, há uma série de pequenos erros de que apenas alguns poucos cientistas estão a par.</segment>
+    <segment id="92">E cujas soluções são conhecidas por ainda menos pessoas.</segment>
+    <segment id="93">Assim, o acesso à informação correta torna-</segment>
+    <segment id="94">sese limitado.</segment>
+    <segment id="95">E o progresso da matemática — que deveria ser o principal objetivo — fica restrito a um grupo.</segment>
+    <segment id="96">Sem falar nas premiações atribuídas a indivíduos</segment>
+    <segment id="97">, que devem</segment>
+    <segment id="98">sese sustentar em avanços no mínimo corretos da disciplina.</segment>
+    <segment id="99">Para a profissão de matemático</segment>
+    <segment id="100">, talvez seja uma boa hora de entender melhor o lugar de estar errado</segment>
+    <segment id="101">, para aperfeiçoar a beleza de cada acerto.  *  Edgard Pimentel é pesquisador do Centro de Matemática da Universidade de Coimbra e professor da PUC-Rio.</segment>
+    <segment id="102">O blog Ciência Fundamental é editado pelo Serrapilheira</segment>
+    <segment id="103">, um instituto privado</segment>
+    <segment id="104">, sem fins lucrativos</segment>
+    <segment id="105">, de apoio à ciência no Brasil.</segment>
+    <segment id="106">Inscreva-</segment>
+    <segment id="107">sese na newsletter do Serrapilheira para acompanhar as novidades do instituto e do blog.</segment>
+  </rst>
+</analysis>

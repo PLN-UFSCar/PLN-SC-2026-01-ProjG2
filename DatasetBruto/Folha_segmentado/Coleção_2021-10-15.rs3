@@ -1,0 +1,274 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Refletir sobre a ética</segment>
+    <segment id="2">, a justiça</segment>
+    <segment id="3">, a intolerância</segment>
+    <segment id="4">, o feminismo</segment>
+    <segment id="5">, o racismo e as liberdades individuais nunca foi tão necessário e</segment>
+    <segment id="6">, para entender um mundo cada vez mais múltiplo e complexo</segment>
+    <segment id="7">, as ferramentas intelectuais têm que ser também variadas e diversificadas.</segment>
+    <segment id="8">A Coleção Folha</segment>
+    <segment id="9">Os Pensadores</segment>
+    <segment id="10">, que estará nas bancas a partir do próximo domingo</segment>
+    <segment id="11">, dia 24</segment>
+    <segment id="12">, reúne 30 textos essenciais em versão integral</segment>
+    <segment id="13">, impressos em capa dura e papel especial.</segment>
+    <segment id="14">Tomados em conjunto</segment>
+    <segment id="15">, os tomos compõem um mapa das ideias que definiram o modo ocidental de interpretar e que vêm sendo repensadas e questionadas.</segment>
+    <segment id="16">Os 30 volumes da Coleção Folha - Os Pensadores - ReproduçãoDilatada no tempo</segment>
+    <segment id="17">, no espaço e nas pautas abordadas</segment>
+    <segment id="18">, a seleção abrange desde os filósofos gregos a autores contemporâneos</segment>
+    <segment id="19">, incluindo mulheres e autores brasileiros.  Filosofia</segment>
+    <segment id="20">, religião</segment>
+    <segment id="21">, sociologia</segment>
+    <segment id="22">, economia são abordadas por autores não apenas representativos dos cânones de suas respectivas áreas</segment>
+    <segment id="23">, como</segment>
+    <segment id="24">como divergentes e conflitantes</segment>
+    <segment id="25">, porque</segment>
+    <segment id="26">porque a coleção tem recorte essencialmente pluralista</segment>
+    <segment id="27">, contemplando uma polifonia de pontos de vista.</segment>
+    <segment id="28">Uma mera vista de olhos na lista de pensadores escolhidos revelará mais diferenças do que comunhão entre eles</segment>
+    <segment id="29">, pois</segment>
+    <segment id="30">pois o dissenso é o melhor antídoto contra os riscos das certezas</segment>
+    <segment id="31">, a esterilidade das ideias prontas e os malefícios do pensamento único.</segment>
+    <segment id="32">Um contraste que</segment>
+    <segment id="33">sese revela já nos dois primeiros itens da coleção</segment>
+    <segment id="34">, vendidos juntos</segment>
+    <segment id="35">, pelo preço de R$ 22</segment>
+    <segment id="36">,90.</segment>
+    <segment id="37">O primeiro volume é "</segment>
+    <segment id="38">A República"</segment>
+    <segment id="39">, célebre diálogo socrático com que Platão</segment>
+    <segment id="40">, na Grécia Antiga</segment>
+    <segment id="41">, discute o conceito de justiça</segment>
+    <segment id="42">, e pensa em uma cidade utópica</segment>
+    <segment id="43">, que seria governada por um rei filósofo.</segment>
+    <segment id="44">O segundo é o "Discurso sobre o Espírito Positivo"</segment>
+    <segment id="45">, em que o francês Auguste Comte formulou a doutrina do positivismo —inspiradora do lema inscrito na bandeira do Brasil.</segment>
+    <segment id="46">Na ciência política</segment>
+    <segment id="47">, haverá as reflexões originais de clássicos</segment>
+    <segment id="48">comocomo Nicolau Maquiavel</segment>
+    <segment id="49">, em "</segment>
+    <segment id="50">A Arte da Guerra"</segment>
+    <segment id="51">, Thomas Hobbes</segment>
+    <segment id="52">, em"Leviatã"</segment>
+    <segment id="53">, Jean-Jacques Rousseau</segment>
+    <segment id="54">, de "Discurso sobre a Origem e os Fundamentos da Desigualdade entre os Homens"</segment>
+    <segment id="55">, Max Weber</segment>
+    <segment id="56">, em "</segment>
+    <segment id="57">Ciência e Política:</segment>
+    <segment id="58">Duas Vocações"</segment>
+    <segment id="59">, e Karl Marx</segment>
+    <segment id="60">, de "Manuscritos Econômico-Filosóficos".</segment>
+    <segment id="61">O pensamento filosófico está solidamente ancorado em nomes</segment>
+    <segment id="62">comocomo Aristóteles</segment>
+    <segment id="63">, em "</segment>
+    <segment id="64">Sobre a Alma"</segment>
+    <segment id="65">, Santo Agostinho</segment>
+    <segment id="66">, em "</segment>
+    <segment id="67">Sobre a Mentira"</segment>
+    <segment id="68">, Étienne de la Boétie</segment>
+    <segment id="69">, em "</segment>
+    <segment id="70">Discurso sobre a Servidão Voluntária"</segment>
+    <segment id="71">, René Descartes</segment>
+    <segment id="72">, em "</segment>
+    <segment id="73">Regras para a Orientação do Espírito"</segment>
+    <segment id="74">, Immanuel Kant</segment>
+    <segment id="75">, em "Crítica da Razão Pura"</segment>
+    <segment id="76">, Arthur Schopenhauer</segment>
+    <segment id="77">, em "</segment>
+    <segment id="78">A Arte de Ter Razão"</segment>
+    <segment id="79">, Michel Foucault</segment>
+    <segment id="80">, em "</segment>
+    <segment id="81">A Sociedade Punitiva"</segment>
+    <segment id="82">, e Leo Strauss</segment>
+    <segment id="83">, em "Direito Natural e História".</segment>
+    <segment id="84">Coleção Folha</segment>
+    <segment id="85">Os Pensadores reúne escritos essenciais do pensamento ocidentalMais    novamente         de   de  de  representando um  Isso para não falar no "fundador" da sociologia</segment>
+    <segment id="86">comocomo ciência</segment>
+    <segment id="87">, Émile Durkheim</segment>
+    <segment id="88">, em "</segment>
+    <segment id="89">As Regras do Método Sociológico"</segment>
+    <segment id="90">, e no criador da antropologia estruturalista</segment>
+    <segment id="91">, o estudioso da cultura brasileira e membro da primeira geração de professores da Universidade de São Paulo Claude Lévi-Strauss.</segment>
+    <segment id="92">O feminismo</segment>
+    <segment id="93">, que alguns supõem ser invenção atual</segment>
+    <segment id="94">, encontra uma de suas matrizes na obra da britânica Mary Wollstonecraft</segment>
+    <segment id="95">, de "</segment>
+    <segment id="96">Reivindicação dos Direitos das Mulheres"</segment>
+    <segment id="97">, pioneira que no século 18 impôs suas ideias fortes a um mundo intelectual dominado havia séculos por homens.</segment>
+    <segment id="98">Outras autoras representadas são as americanas Ruth Benedict</segment>
+    <segment id="99">, de "Padrões de Cultura"</segment>
+    <segment id="100">, antropóloga</segment>
+    <segment id="101">, e bell hooks —assim mesmo</segment>
+    <segment id="102">, com minúscula—</segment>
+    <segment id="103">, feminista e ativista antirracista influenciada por Paulo Freire e autora de "Ensinando a Transgredir".</segment>
+    <segment id="104">Além de bell hooks</segment>
+    <segment id="105">, o multiculturalismo</segment>
+    <segment id="106">, campo de ideias que potencializa as diferenças e atualiza a disposição crítica do pensamento</segment>
+    <segment id="107">, sese faz presente nas obras do historiador americano Carter G. Woodson</segment>
+    <segment id="108">, com "</segment>
+    <segment id="109">A (Des)Educação do Negro"</segment>
+    <segment id="110">, e do etnólogo baiano Edison Carneiro</segment>
+    <segment id="111">, em "Ladinos e Crioulos".</segment>
+    <segment id="112">Outro autor baiano de destaque é o advogado Luiz Gama</segment>
+    <segment id="113">, de "Humor e Crítica: Armas do Pioneiro Abolicionista"</segment>
+    <segment id="114">, ativista da luta contra a escravidão no Brasil do século 19</segment>
+    <segment id="115">, cujo legado tem sido recentemente relido e redescoberto.</segment>
+    <segment id="116">O liberalismo é o último e não menos importante conjunto de grande destaque na Coleção Folha</segment>
+    <segment id="117">Os Pensadores</segment>
+    <segment id="118">, por meio de Adam Smith</segment>
+    <segment id="119">, com seu "Teoria dos Sentimentos Morais"</segment>
+    <segment id="120">, Stuart Mill</segment>
+    <segment id="121">, de "Sobre a Liberdade"</segment>
+    <segment id="122">, Frédéric Bastiat</segment>
+    <segment id="123">, de "</segment>
+    <segment id="124">A Lei"</segment>
+    <segment id="125">, Friedrich Hayek</segment>
+    <segment id="126">, de "</segment>
+    <segment id="127">O Caminho da Servidão"</segment>
+    <segment id="128">, e Ludwig von Mises</segment>
+    <segment id="129">, de "</segment>
+    <segment id="130">As Seis Lições"</segment>
+    <segment id="131">, em sintonia com as discussões contemporâneas sobre o peso e a interferência excessiva do Estado sobre a economia</segment>
+    <segment id="132">, a sociedade e as liberdades individuais.</segment>
+    <segment id="133">A coleção completa pode ser adquirida por R$ 664</segment>
+    <segment id="134">,10.</segment>
+    <segment id="135">Para os dois volumes iniciais</segment>
+    <segment id="136">, haverá a promoção</segment>
+    <segment id="137">"</segment>
+    <segment id="138">leve o volume um e ganhe o volume dois".</segment>
+    <segment id="139">Para a coleção completa e lotes avulsos</segment>
+    <segment id="140">, o frete é gratuito para os estados de SP</segment>
+    <segment id="141">, RJ, MG e PR.</segment>
+    <segment id="142">Nos demais estados</segment>
+    <segment id="143">, ou na aquisição de volumes individuais</segment>
+    <segment id="144">, o valor do frete será calculado no momento da compra</segment>
+    <segment id="145">, ao inserir o CEP.</segment>
+    <segment id="146">1.</segment>
+    <segment id="147">Platão</segment>
+    <segment id="148">, 'A República'  Diálogo filosófico em que Sócrates é o protagonista e discute a questão da justiça  2.</segment>
+    <segment id="149">Auguste Comte</segment>
+    <segment id="150">, 'Discurso Sobre o Espírito Positivo'  O fundador do positivismo expõe os fundamentos de sua doutrina  3.</segment>
+    <segment id="151">bell hooks</segment>
+    <segment id="152">, 'Ensinando a Transgredir'</segment>
+    <segment id="153">Relata a experiência da autora</segment>
+    <segment id="154">comocomo professora e defende uma pedagogia crítica e a educação</segment>
+    <segment id="155">comocomo prática de liberdade  4.</segment>
+    <segment id="156">René Descartes</segment>
+    <segment id="157">, 'Regras para a Orientação do Espírito'  Tratado em que o autor busca delinear um método racional para o pensamento científico e filosófico  5.</segment>
+    <segment id="158">Max Weber</segment>
+    <segment id="159">, 'Ciência e Política: Duas Vocações'  Ensaios que analisam a forma de a ciência contribuir para a racionalidade humana e exibem as características do Estado moderno  6.</segment>
+    <segment id="160">Voltaire</segment>
+    <segment id="161">, 'O Preço da Justiça'  Obra-chave de um dos mais relevantes pensadores do Iluminismo  7.</segment>
+    <segment id="162">Claude Lévi-Strauss</segment>
+    <segment id="163">, 'Antropologia Estrutural'</segment>
+    <segment id="164">O autor propõe um empréstimo das teorias estruturalistas de Roman Jakobson para uma renovação do método antropológico  8.</segment>
+    <segment id="165">Santo Agostinho</segment>
+    <segment id="166">, 'Sobre a Mentira'  Livro do mais célebre do teólogo dos primeiros séculos do cristianismo</segment>
+    <segment id="167">, conhecida</segment>
+    <segment id="168">comocomo patrística  9.</segment>
+    <segment id="169">Michel Foucault</segment>
+    <segment id="170">, 'A Sociedade Punitiva'  A obra é um produto de aulas do autor com reflexões críticas a respeito dos mecanismos sociais de punição  10.</segment>
+    <segment id="171">Mary Wollstonecraft</segment>
+    <segment id="172">, 'Reivindicação dos Direitos das Mulheres'  Escrita em 1792</segment>
+    <segment id="173">, é uma das primeiras obras de filosofia feminista  11.</segment>
+    <segment id="174">Jean-Jacques Rousseau</segment>
+    <segment id="175">, 'Discurso sobre a Origem e os Fundamentos da Desigualdade entre os Homens'  O autor estabelece a propriedade privada</segment>
+    <segment id="176">comocomo fonte da desigualdade humana  12.</segment>
+    <segment id="177">Nicolau Maquiavel</segment>
+    <segment id="178">, 'A Arte da Guerra'</segment>
+    <segment id="179">Tratado militar pioneiro em forma de diálogo socrático</segment>
+    <segment id="180">, e única obra histórico-política do autor publicada em vida  13.</segment>
+    <segment id="181">Adam Smith</segment>
+    <segment id="182">, 'Teoria dos Sentimentos Morais'  Principal obra filosófica do fundador da economia moderna  14.</segment>
+    <segment id="183">Karl Marx</segment>
+    <segment id="184">, 'Manuscritos Econômico-Filosóficos'</segment>
+    <segment id="185">O autor explora o descompasso entre moral e economia</segment>
+    <segment id="186">, denunciando a exploração do homem no capitalismo  15.</segment>
+    <segment id="187">Frédéric Bastiat</segment>
+    <segment id="188">, 'A Lei'</segment>
+    <segment id="189">O autor preconiza que a lei deve defender a liberdade e a propriedade contra os males causados pela ambição estúpida e a falsa filantropia  16.</segment>
+    <segment id="190">Carter G. Woodson</segment>
+    <segment id="191">, 'A (Des)Educação do Negro'  Clássico do pensamento antirracista</segment>
+    <segment id="192">, aponta que os currículos escolares são baseados na cultura eurocêntrica</segment>
+    <segment id="193">, desprezando a história e a cultura africana  17.</segment>
+    <segment id="194">Aristóteles</segment>
+    <segment id="195">, 'Sobre a Alma'</segment>
+    <segment id="196">O autor discute a imaginação e o pensamento</segment>
+    <segment id="197">, além das relações entre sensação e intelecto  18.</segment>
+    <segment id="198">Ludwig von Mises</segment>
+    <segment id="199">, 'As Seis Lições'  Palestras em que o defensor do liberalismo econômico discute o capitalismo</segment>
+    <segment id="200">, o socialismo</segment>
+    <segment id="201">, o intervencionismo</segment>
+    <segment id="202">, a inflação</segment>
+    <segment id="203">, o investimento estrangeiro e as relações entre política e ideias  19.</segment>
+    <segment id="204">Immanuel Kant</segment>
+    <segment id="205">, 'Crítica da Razão Pura'  Obra fundadora do idealismo alemão e principal produção da teoria do conhecimento de Kant  20.</segment>
+    <segment id="206">Luiz Gama</segment>
+    <segment id="207">, 'Humor e Crítica: Armas do Pioneiro Abolicionista'  Exemplo da verve vigorosa do ativo defensor do abolicionismo no Brasil no século 19  21.</segment>
+    <segment id="208">Étienne de la Boétie</segment>
+    <segment id="209">, 'Discurso sobre a Servidão Voluntária'</segment>
+    <segment id="210">Este panegírico à liberdade analisa a relação de subordinação existente entre o soberano e seus súditos num governo tirânico  22.</segment>
+    <segment id="211">Ruth Benedict</segment>
+    <segment id="212">, 'Padrões de Cultura'  Clássico estudo antropológico de três sociedades</segment>
+    <segment id="213">, propõe que as culturas concedem um maior privilégio a certas personalidades e rejeitam outras</segment>
+    <segment id="214">, formando determinados padrões de cultura  23.</segment>
+    <segment id="215">Émile Durkheim</segment>
+    <segment id="216">, 'As Regras do Método Sociológico'  Obra em que o autor lança os fundamentos da sociologia</segment>
+    <segment id="217">comocomo nova ciência social  24.</segment>
+    <segment id="218">John Stuart Mill</segment>
+    <segment id="219">, 'Sobre a Liberdade'  Ensaio filosófico que enfatiza a importância da liberdade na relação entre o indivíduo e a sociedade  25.</segment>
+    <segment id="220">Arthur Schopenhauer</segment>
+    <segment id="221">, 'A Arte de Ter Razão'</segment>
+    <segment id="222">O filósofo apresenta 38 estratégias para vencer qualquer debate  26.</segment>
+    <segment id="223">Friedrich Hayek</segment>
+    <segment id="224">, 'O Caminho da Servidão'  Defesa do liberalismo econômico que advoga que as formas de coletivismo levam à tirania e supressão das liberdades  27.</segment>
+    <segment id="225">Edison Carneiro</segment>
+    <segment id="226">, 'Ladinos e Crioulos'  Estudo sobre as relações entre África e Brasil</segment>
+    <segment id="227">, por um dos principais etnólogos brasileiros  28.</segment>
+    <segment id="228">Ludwig Feuerbach</segment>
+    <segment id="229">, 'A Essência do Cristianismo'  Texto de referência na área de filosofia da religião</segment>
+    <segment id="230">, por um dos principais pensadores germânicos do século 19  29.</segment>
+    <segment id="231">Thomas Hobbes</segment>
+    <segment id="232">, 'Leviatã'  Uma das obras mais influentes do pensamento político</segment>
+    <segment id="233">, tem como</segment>
+    <segment id="234">como tema central a organização social e as relações de poder  30.</segment>
+    <segment id="235">Leo Strauss</segment>
+    <segment id="236">, 'Direito Natural e História'  Reflexão sobre o direito natural por um dos mais influentes filósofos do século 20</segment>
+    <segment id="237">COMO COMPRAR</segment>
+    <segment id="238">Site da coleção  Telefone (11)</segment>
+    <segment id="239">3224-3090 (Grande São Paulo) e 0800 775 8080 (outras localidades)</segment>
+    <segment id="240">Frete grátis SP</segment>
+    <segment id="241">, RJ, MG e PR (na compra da coleção completa)</segment>
+    <segment id="242">A partir de 24 de outubro nas bancas por R$ 22</segment>
+    <segment id="243">,90 o volume</segment>
+    <segment id="244">Coleção completa: R$ 664</segment>
+    <segment id="245">,10; lote avulso (com cinco volumes</segment>
+    <segment id="246">):</segment>
+    <segment id="247">R$ 132</segment>
+    <segment id="248">,80</segment>
+  </rst>
+</analysis>

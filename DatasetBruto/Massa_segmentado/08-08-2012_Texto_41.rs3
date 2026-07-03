@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Igor kannÃ¡rio resolve falar sobre bafafÃ¡</segment>
+    <segment id="2">O cantor vai entrar na JustiÃ§a contra o estabelecimento</segment>
+    <segment id="3">O cantor da banda</segment>
+    <segment id="4">A Bronkka</segment>
+    <segment id="5">, rebateu as denÃºncias de que teria agredido um mensageiro e destruÃ­do o quarto de um hotel em Aracaju</segment>
+    <segment id="6">, Sergipe.</segment>
+    <segment id="7">"Eu estou sendo acusado de coisas que nÃ£o fizâ€</segment>
+    <segment id="8">, disse a uma emissora de TV.</segment>
+    <segment id="9">KannÃ¡rio afirmou que havia mais de dez bandas no hotel e negou que estivesse acompanhado de garotas menores de idade.</segment>
+    <segment id="10">O cantor vai entrar na JustiÃ§a contra o estabelecimento.</segment>
+  </rst>
+</analysis>

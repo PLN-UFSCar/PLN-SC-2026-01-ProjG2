@@ -1,0 +1,201 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Se a infância passa rápido até demais</segment>
+    <segment id="2">, fica uma dúvida: quais livros ler antes de crescer?</segment>
+    <segment id="3">Não precisa sair correndo nem brigar contra o tempo</segment>
+    <segment id="4">, masmas a Folhinha fez essa pergunta para um time de escritores e ilustradores.</segment>
+    <segment id="5">A partir daí</segment>
+    <segment id="6">, cada um preparou uma lista própria de dez livros essenciais para a infância.</segment>
+    <segment id="7">E, da união delas</segment>
+    <segment id="8">, chegou-</segment>
+    <segment id="9">sese a um livro vencedor e mais dez leituras imperdíveis.</segment>
+    <segment id="10">Veja 11 livros para ler antes de crescerMais    novamente         de   de  de  representando um  Participaram da seleção os escritores Pedro Bandeira</segment>
+    <segment id="11">, Marina Colasanti</segment>
+    <segment id="12">, Heloisa Prieto e Silvana Salerno</segment>
+    <segment id="13">, além dos também ilustradores Mariana Massarani</segment>
+    <segment id="14">, Odilon Moraes e Fernando Vilela (veja abaixo a lista de cada um).</segment>
+    <segment id="15">Para isso</segment>
+    <segment id="16">, cada número da lista dos autores recebeu uma pontuação.</segment>
+    <segment id="17">O primeiro colocado recebeu 20 pontos —valor que foi diminuindo nos outros números do ranking: 2º (17 pontos)</segment>
+    <segment id="18">, 3º (15 pontos)</segment>
+    <segment id="19">, 4º (13 pontos)</segment>
+    <segment id="20">, 5º (11 pontos)</segment>
+    <segment id="21">, 6º (9 pontos)</segment>
+    <segment id="22">, 7º (8 pontos)</segment>
+    <segment id="23">, 8º (7 pontos)</segment>
+    <segment id="24">, 9º (6 pontos) e 10º (5 pontos).</segment>
+    <segment id="25">Da soma da pontuação de todas as listas</segment>
+    <segment id="26">, foi formada um ranking final de 11 livros para ler antes de crescer.</segment>
+    <segment id="27">O campeão não é nenhum conto de fadas antigo ou um clássico de Monteiro Lobato (</segment>
+    <segment id="28">embora</segment>
+    <segment id="29">embora eles estejam também na lista).</segment>
+    <segment id="30">O vencedor é a história de uma árvore e de um menino: "</segment>
+    <segment id="31">A Árvore Generosa"</segment>
+    <segment id="32">, um dos principais livros ilustrados americanos</segment>
+    <segment id="33">, escrito e ilustrado por Shel Silverstein.</segment>
+    <segment id="34">O autor é o mesmo de "</segment>
+    <segment id="35">A Parte que Falta"</segment>
+    <segment id="36">, que virou best-seller no país depois de um vídeo da youtuber Jout Jout.</segment>
+    <segment id="37">Mais do que uma seleção de melhores livros</segment>
+    <segment id="38">, a lista serve de guia de leituras imperdíveis —de um dos títulos ilustrados mais cultuados ("</segment>
+    <segment id="39">Onde</segment>
+    <segment id="40">Vivem os Monstros")</segment>
+    <segment id="41">a "Reinações de Narizinho"</segment>
+    <segment id="42">, dos contos dos Irmãos Grimm a "</segment>
+    <segment id="43">O Menino Maluquinho".</segment>
+    <segment id="44">A maior parte deles pode ser encontrada em livrarias.</segment>
+    <segment id="45">Dois estão esgotados no Brasil</segment>
+    <segment id="46">, masmas ainda podem ser achados em sebos e na internet.</segment>
+    <segment id="47">Um desses casos é "</segment>
+    <segment id="48">Onde</segment>
+    <segment id="49">Vivem os Monstros"</segment>
+    <segment id="50">, de Maurice Sendak.</segment>
+    <segment id="51">Publicado pela extinta Cosac Naify</segment>
+    <segment id="52">, ele não recebeu outra edição no país até o momento —</segment>
+    <segment id="53">embora</segment>
+    <segment id="54">embora seja um dos títulos mais cultuados da literatura infantojuvenil e tenha virado filme em 2009.</segment>
+    <segment id="55">Claro que esses livros todos podem ser lidos em qualquer idade.</segment>
+    <segment id="56">Mas, antes de crescer</segment>
+    <segment id="57">, tudo tem um gosto especial.  11 LIVROS PARA LER ANTES DE CRESCER   "</segment>
+    <segment id="58">A Árvore Generosa" (Shel Silverstein)</segment>
+    <segment id="59">"</segment>
+    <segment id="60">Reinações de Narizinho" (Monteiro Lobato)</segment>
+    <segment id="61">"</segment>
+    <segment id="62">Onde</segment>
+    <segment id="63">Vivem os Monstros" (Maurice Sendak)</segment>
+    <segment id="64">"</segment>
+    <segment id="65">A Ilha do Tesouro" (Robert Louis Stevenson)</segment>
+    <segment id="66">"</segment>
+    <segment id="67">Contos Maravilhosos</segment>
+    <segment id="68">, Infantis e Domésticos" (Irmãos Grimm) "</segment>
+    <segment id="69">Robinson Crusoé" (Daniel Defoe) "</segment>
+    <segment id="70">O Menino Maluquinho" (Ziraldo) "</segment>
+    <segment id="71">Os Meninos da Rua Paulo" (Ferenc Molnár) "</segment>
+    <segment id="72">A História de Babar" (Jean de Brunhoff)</segment>
+    <segment id="73">"</segment>
+    <segment id="74">Histórias de Índio" (Daniel Munduruku) "</segment>
+    <segment id="75">As Aventuras de Pinóquio" (Carlo Collodi)   Ilustrações do livro &amp;quot</segment>
+    <segment id="76">;Reinações de Narizinho&amp;quot</segment>
+    <segment id="77">;, de Monteiro Lobato</segment>
+    <segment id="78">, em edição da Biblioteca Azul - Divulgação</segment>
+    <segment id="79">OS ELEITOS</segment>
+    <segment id="80">DE</segment>
+    <segment id="81">CADA AUTOR  Pedro Bandeira   "</segment>
+    <segment id="82">Os Meninos da Rua Paulo" (Ferenc Molnár) "</segment>
+    <segment id="83">A Ilha do Tesouro" (Robert Louis Stevenson) "</segment>
+    <segment id="84">O Príncipe e o Mendigo" (Mark Twain) "</segment>
+    <segment id="85">As Aventuras de Tom Sawyer" (Mark Twain) "</segment>
+    <segment id="86">As Aventuras de Huckleberry Finn" (Mark Twain) "</segment>
+    <segment id="87">O Gênio do Crime" (João Carlos Marinho) "</segment>
+    <segment id="88">O Sol É</segment>
+    <segment id="89">Para Todos"</segment>
+    <segment id="90">(Harper Lee) "</segment>
+    <segment id="91">O Poeta do Exílio" (Marisa Lajolo)  "</segment>
+    <segment id="92">A Droga da Obediência" (Pedro Bandeira) "</segment>
+    <segment id="93">A Marca de uma Lágrima" (Pedro Bandeira)</segment>
+    <segment id="94">Marina Colasanti   "</segment>
+    <segment id="95">As Aventuras de Pinóquio" (Carlo Collodi) "</segment>
+    <segment id="96">Contos Maravilhosos</segment>
+    <segment id="97">, Infantis e Domésticos" (Irmãos Grimm)</segment>
+    <segment id="98">Contos de fadas de Hans Christian Andersen  "</segment>
+    <segment id="99">A Menina</segment>
+    <segment id="100">, o Coração e a Casa" (María Teresa Andruetto) "</segment>
+    <segment id="101">A Ilha do Tesouro" (Robert Louis Stevenson)</segment>
+    <segment id="102">"</segment>
+    <segment id="103">Robinson Crusoé" (Daniel Defoe) "</segment>
+    <segment id="104">Meu Amigo Pintor" (Lygia Bojunga) "</segment>
+    <segment id="105">Volto ao Anoitecer" (Aharon Appelfeld) "</segment>
+    <segment id="106">O Olho de Vidro do meu Avô" (Bartolomeu Campos Queirós) "Contos e Lendas de um Vale Encantado" (Ricardo Azevedo)    Odilon Moraes   "</segment>
+    <segment id="107">Onde</segment>
+    <segment id="108">Vivem os Monstros" (Maurice Sendak)</segment>
+    <segment id="109">"</segment>
+    <segment id="110">O Anjo da Guarda do Vovô" (Jutta Bauer)</segment>
+    <segment id="111">"</segment>
+    <segment id="112">A Árvore Generosa" (Shell Silverstein) "</segment>
+    <segment id="113">Hora de Sair da Banheira</segment>
+    <segment id="114">, Shirley!</segment>
+    <segment id="115">" (John Birmingham)</segment>
+    <segment id="116">"Pequeno</segment>
+    <segment id="117">Azul</segment>
+    <segment id="118">, Pequeno Amarelo" (Léo Lionni) "</segment>
+    <segment id="119">O Pato</segment>
+    <segment id="120">, a Morte e a Tulipa" (Wolf Erlbruch) "</segment>
+    <segment id="121">Ida e Volta" (Juarez Machado) "</segment>
+    <segment id="122">Flicts</segment>
+    <segment id="123">"</segment>
+    <segment id="124">(Ziraldo)</segment>
+    <segment id="125">"Bárbaro" (Renato Moriconi) "Vizinho</segment>
+    <segment id="126">, Vizinha" (Roger Mello</segment>
+    <segment id="127">, Graça Lima e Mariana Massarani)    Fernando Vilela   "</segment>
+    <segment id="128">A Árvore Generosa" (Shel Silverstein) "</segment>
+    <segment id="129">O Menino Maluquinho" (Ziraldo) "</segment>
+    <segment id="130">A Bruxinha Zuzu" (Eva Furnari) "</segment>
+    <segment id="131">Fogo no Céu" (Mary França e Eliardo França) "</segment>
+    <segment id="132">A Curiosidade Premiada" (Fernanda Lopes de Almeida) "</segment>
+    <segment id="133">A Noite Escura" (Bruno Munari) "Ida e Volta" (Juarez Machado) "</segment>
+    <segment id="134">O Reizinho das Flores" (Kveta Pacovska)</segment>
+    <segment id="135">"</segment>
+    <segment id="136">Bruxa Bruxa Vem</segment>
+    <segment id="137">à Minha Festa" (Arden Drucs) "Zoom" (Itsvan Banyai)    Heloisa Prieto    "Histórias de Índio" (Daniel Munduruku) "Histórias da Preta" (Heloisa Pires) "</segment>
+    <segment id="138">Contos dos Curumins Guaranis" (Jeguaka Mirim e Tupã Mirim) "</segment>
+    <segment id="139">Minimaginário de Andersen" (Hans Christian Andersen) "</segment>
+    <segment id="140">O Pequeno Príncipe" (Antoine de Saint-Exupéry) "Poemas para Brincar" (José Paulo Paes) "</segment>
+    <segment id="141">O Picapau Amarelo" (Monteiro Lobato) "</segment>
+    <segment id="142">O Príncipe Feliz e Outros Contos" (Oscar Wilde) "</segment>
+    <segment id="143">Alice no País das Maravilhas" (Lewis Carroll)</segment>
+    <segment id="144">"</segment>
+    <segment id="145">Gente de Cor</segment>
+    <segment id="146">, Cor de Gente" (Maurício Negro)</segment>
+    <segment id="147">Mariana Massarani</segment>
+    <segment id="148">"</segment>
+    <segment id="149">A História de Babar" (Jean de Brunhoff)</segment>
+    <segment id="150">"</segment>
+    <segment id="151">A Nau Catarineta" (Roger Mello) "</segment>
+    <segment id="152">Robinson Crusoé" (Daniel Defoe) "</segment>
+    <segment id="153">Reinações de Narizinho" (Monteiro Lobato)</segment>
+    <segment id="154">"</segment>
+    <segment id="155">Contos Maravilhosos</segment>
+    <segment id="156">, Infantis e Domésticos" (Irmãos Grimm) "</segment>
+    <segment id="157">Grimble" (Glemente Freud)</segment>
+    <segment id="158">"</segment>
+    <segment id="159">Onde</segment>
+    <segment id="160">Vivem os Monstros" (Maurice Sendak)</segment>
+    <segment id="161">"Era Um Urso" (Frank Tashlin) "</segment>
+    <segment id="162">As Bruxas" (Roald Dahl) "</segment>
+    <segment id="163">A Fada que Tinha Idéias" (Fernanda Lopes de Almeida)    Silvana Salerno</segment>
+    <segment id="164">"Reinações de Narizinho" (Monteiro Lobato) "</segment>
+    <segment id="165">Os Doze Trabalhos de Hércules" (Monteiro Lobato)</segment>
+    <segment id="166">"</segment>
+    <segment id="167">A Bolsa Amarela" (Lygia Bojunga) "</segment>
+    <segment id="168">Alice no País das Maravilhas" (Lewis Carroll) "</segment>
+    <segment id="169">O Reizinho Mandão" (Ruth Rocha) "Menina Bonita do Laço de Fita" (Ana Maria Machado) "Felpo Filva" (Eva Furnari) "</segment>
+    <segment id="170">A História</segment>
+    <segment id="171">Sem Fim" (Michael Ende)</segment>
+    <segment id="172">"</segment>
+    <segment id="173">Um Dia</segment>
+    <segment id="174">, um Rio" (Leo Cunha e André Neves) "</segment>
+    <segment id="175">O Menino Maluquinho" (Ziraldo)</segment>
+  </rst>
+</analysis>

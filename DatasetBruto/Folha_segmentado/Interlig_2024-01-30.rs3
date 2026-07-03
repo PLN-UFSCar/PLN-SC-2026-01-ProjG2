@@ -1,0 +1,55 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Ministério de Minas e Energia aproveitou o acordo com a Bolívia sobre fertilizantes para amarrar o contrato de interligação elétrica com o vizinho</segment>
+    <segment id="2">, que receberá energia exportada pela hidrelétrica de Jirau</segment>
+    <segment id="3">, no rio Madeira.</segment>
+    <segment id="4">A expectativa é que seja assinado no primeiro semestre deste ano.</segment>
+    <segment id="5">Segundo pessoas que participam das negociações</segment>
+    <segment id="6">, pelo acordo entre os dois países</segment>
+    <segment id="7">, a usina terá seu plano de produção ampliado para exportar seu excedente para o vizinho.</segment>
+    <segment id="8">Parte da usina hidrelétrica de Jirau</segment>
+    <segment id="9">, em Rondônia - DivulgaçãoCom isso</segment>
+    <segment id="10">, Jirau produzirá o ano todo.</segment>
+    <segment id="11">Hoje, ela gera menos do que pode devido à sobreoferta do sistema elétrico nacional.</segment>
+    <segment id="12">Isso obriga a hidrelétrica a comprar energia no mercado para honrar contratos de entrega de energia no momento em que</segment>
+    <segment id="13">, devido à seca</segment>
+    <segment id="14">, produz menos.</segment>
+    <segment id="15">A medida é mais um passo no plano do ministro de Minas e Energia</segment>
+    <segment id="16">, Alexandre Silveira</segment>
+    <segment id="17">, de interligação dos países latino-americanos.</segment>
+    <segment id="18">Hoje o Brasil só tem integração elétrica com Argentina</segment>
+    <segment id="19">, Uruguai e Venezuela.</segment>
+    <segment id="20">Com a conexão por linhas de transmissão</segment>
+    <segment id="21">, comunidades indígenas isoladas e outras localidades ainda muito dependentes do diesel na Amazônia serão conectadas.</segment>
+    <segment id="22">Consultada</segment>
+    <segment id="23">, a usina disse que está envolvida em negociações voltadas para o aumento da produção energética.</segment>
+    <segment id="24">"</segment>
+    <segment id="25">Atualmente</segment>
+    <segment id="26">, dedicamos esforços à preparação técnica e à obtenção das documentações necessárias para viabilizar essa operação.</segment>
+    <segment id="27">"</segment>
+    <segment id="28">Com Diego</segment>
+    <segment id="29">Felix</segment>
+  </rst>
+</analysis>

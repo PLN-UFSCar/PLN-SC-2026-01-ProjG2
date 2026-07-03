@@ -1,0 +1,148 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Antioxidantes são substâncias importantes para a indústria alimentícia e cosmética</segment>
+    <segment id="2">, pois</segment>
+    <segment id="3">pois retardam o processo de oxidação de produtos ricos em lipídios</segment>
+    <segment id="4">, como</segment>
+    <segment id="5">como maionese</segment>
+    <segment id="6">, margarina</segment>
+    <segment id="7">, cremes hidratantes e afins.</segment>
+    <segment id="8">Boa parte dos antioxidantes usados atualmente é sintética e</segment>
+    <segment id="9">, no Brasil</segment>
+    <segment id="10">, produtos já banidos em outros países</segment>
+    <segment id="11">, como</segment>
+    <segment id="12">como a TBHQ (terc-butil-hidroquinona)</segment>
+    <segment id="13">, ainda estão em uso.</segment>
+    <segment id="14">Na busca por alternativas naturais</segment>
+    <segment id="15">, um grupo de pesquisadores da USP (Universidade de São Paulo) vem estudando os compostos fenólicos da acerola e conseguiu extrair</segment>
+    <segment id="16">, do fruto verde</segment>
+    <segment id="17">, micropartículas antioxidantes tão eficazes quanto a TBHQ.</segment>
+    <segment id="18">O foco da pesquisa</segment>
+    <segment id="19">, que conta com apoio da Fapesp</segment>
+    <segment id="20">, é desenvolver um processo que possa ser adotado facilmente em escala industrial.</segment>
+    <segment id="21">Resultados recentes foram divulgados na revista Future Foods.</segment>
+    <segment id="22">Eduardo Knapp - 19.jan.2022/Folhapress"Há várias pesquisas que comprovam a presença de compostos antioxidantes em diversas fontes.</segment>
+    <segment id="23">Mas como</segment>
+    <segment id="24">como fazer</segment>
+    <segment id="25">para que</segment>
+    <segment id="26">para que as substâncias de interesse e com grande potencial de uso possam ser produzidas em escala industrial de forma técnica e economicamente factível?</segment>
+    <segment id="27">Muitos estudos na área de bioquímica são feitos em bancadas ou com amostras muito pequenas</segment>
+    <segment id="28">, sem condições de serem levados para a indústria.</segment>
+    <segment id="29">Nossa meta é trabalhar com processos para a obtenção de produtos</segment>
+    <segment id="30">, em geral ingredientes</segment>
+    <segment id="31">, com intenção de aplicação prática"</segment>
+    <segment id="32">, resume Thais Maria Ferreira de Souza Vieira</segment>
+    <segment id="33">, professora do Departamento de Agroindústria</segment>
+    <segment id="34">, Nutrição e Alimentos da Escola Superior de Agricultura Luiz de Queiroz (Esalq-USP).</segment>
+    <segment id="35">Leia maisCientistas criam creme anti-inflamatório e protetor solar com restos de pequiCompostos da laranja ajudam a controlar glicemia no sangue</segment>
+    <segment id="36">, sugere estudoCom amostras representativas (5 a 10 kg de frutas) e usando apenas água ou etanol</segment>
+    <segment id="37">comocomo solvente —os derivados de petróleo foram evitados por conta da toxicidade—</segment>
+    <segment id="38">, o estudo buscou a otimização de processos para aumentar a produtividade</segment>
+    <segment id="39">, ou seja</segment>
+    <segment id="40">, recuperar da matéria-prima o máximo de compostos de interesse e</segment>
+    <segment id="41">, ao mesmo tempo</segment>
+    <segment id="42">, reduzir o gasto de energia e os custos dos insumos.</segment>
+    <segment id="43">"</segment>
+    <segment id="44">Colegas de grupo já estavam trabalhando com a acerola e</segment>
+    <segment id="45">, em estudos anteriores</segment>
+    <segment id="46">, compararam frutos verdes e maduros</segment>
+    <segment id="47">, demonstrando que a acerola verde tem mais compostos antioxidantes que a madura.</segment>
+    <segment id="48">O que acontece é que</segment>
+    <segment id="49">, na mesma árvore</segment>
+    <segment id="50">, há frutos maduros e verdes</segment>
+    <segment id="51">, que são colhidos juntos.</segment>
+    <segment id="52">Os frutos verdes acabam deixando a polpa não tão atrativa do ponto de vista visual.</segment>
+    <segment id="53">Assim, entendemos que usar esses frutos verdes para produzir um antioxidante natural é uma boa estratégia"</segment>
+    <segment id="54">, conta Bianca Ferraz Teixeira</segment>
+    <segment id="55">, primeira autora do artigo e bolsista de iniciação científica da Fapesp.</segment>
+    <segment id="56">Processo e testes</segment>
+    <segment id="57">Amostras obtidas de um grande produtor de Junqueirópolis (SP) foram lavadas e liofilizadas (submetidas a um processo que extrai a água do alimento) para caracterização e homogeneização.</segment>
+    <segment id="58">Um extrato foi obtido por meio de adição de água às amostras liofilizadas e</segment>
+    <segment id="59">, em seguida</segment>
+    <segment id="60">, o material passou por centrifugação e filtragem.  "</segment>
+    <segment id="61">Esse extrato foi atomizado no spraydryer [equipamento que promove a secagem do alimento por pulverização e é usada</segment>
+    <segment id="62">, por exemplo</segment>
+    <segment id="63">, na produção de leite em pó] e</segment>
+    <segment id="64">, assim</segment>
+    <segment id="65">, obtivemos a micropartícula.</segment>
+    <segment id="66">Optamos pelo spraydryer por ser um método já largamente utilizado na indústria.</segment>
+    <segment id="67">Ele permite transformar o extrato da acerola em um antioxidante em pó</segment>
+    <segment id="68">, que pode ser armazenado</segment>
+    <segment id="69">, comercializado e utilizado de forma simples</segment>
+    <segment id="70">, sem sofrer oxidação.</segment>
+    <segment id="71">Eventualmente</segment>
+    <segment id="72">, pode vir a substituir a TBHQ</segment>
+    <segment id="73">, que também é usada na forma de pó</segment>
+    <segment id="74">, não estraga com facilidade e mistura-</segment>
+    <segment id="75">sese bem ao produto</segment>
+    <segment id="76">, sem causar alteração de cor</segment>
+    <segment id="77">, sabor e aroma"</segment>
+    <segment id="78">, explica Teixeira.</segment>
+    <segment id="79">Para testar a eficácia das micropartículas</segment>
+    <segment id="80">, as pesquisadoras fizeram uma emulsão à base de óleo</segment>
+    <segment id="81">, emulsificante e água —semelhante à encontrada em diversos produtos</segment>
+    <segment id="82">, incluindo maionese</segment>
+    <segment id="83">, molhos de salada e cosméticos— e separaram as amostras em três grupos: o primeiro foi aditivado com TBHQ</segment>
+    <segment id="84">, o segundo recebeu as micropartículas de acerola e</segment>
+    <segment id="85">, o terceiro (grupo-controle) permaneceu sem nenhum aditivo.</segment>
+    <segment id="86">"</segment>
+    <segment id="87">Adicionamos a concentração permitida pelas normas vigentes do antioxidante sintético e diversas concentrações do pó de acerola microencapsulada.</segment>
+    <segment id="88">E vimos que este último foi tão efetivo quanto a TBHQ na mesma concentração"</segment>
+    <segment id="89">, diz Teixeira.</segment>
+    <segment id="90">Vieira explica que o ensaio no sistema modelo (água em óleo) é ideal para explorar possibilidades de aplicação do produto e para descobrir em que concentração o pó de acerola é efetivo.</segment>
+    <segment id="91">"</segment>
+    <segment id="92">Já existem antioxidantes naturais produzidos comercialmente.</segment>
+    <segment id="93">Mas não adianta ter um produto de origem natural encapsulado que requer a aplicação de uma grande quantidade para ter eficácia</segment>
+    <segment id="94">, pois</segment>
+    <segment id="95">pois muitas vezes o custo é impeditivo.</segment>
+    <segment id="96">O antioxidante também não pode mudar a aparência</segment>
+    <segment id="97">, a cor ou o aroma do produto final.</segment>
+    <segment id="98">Neste trabalho</segment>
+    <segment id="99">, foi feita a análise de aroma com provadores e não houve diferença entre as amostras com antioxidante sintético e com o produto à base de acerola do ponto de vista sensorial"</segment>
+    <segment id="100">, diz Vieira.</segment>
+    <segment id="101">Compostos</segment>
+    <segment id="102">Teixeira lembra que a acerola tem grande concentração de ácido ascórbico (vitamica C) —que não é considerado um composto fenólico</segment>
+    <segment id="103">, masmas apresenta atividade antioxidante considerada alta.</segment>
+    <segment id="104">"</segment>
+    <segment id="105">A fruta também contém ácido ferúlico</segment>
+    <segment id="106">, ácido clorogênico e ácido cumárico.</segment>
+    <segment id="107">Mas os testes realizados indicam que</segment>
+    <segment id="108">, no caso</segment>
+    <segment id="109">caso da acerola verde</segment>
+    <segment id="110">, o que mais está presente é o ácido ascórbico"</segment>
+    <segment id="111">, relata.</segment>
+    <segment id="112">A pesquisadora reitera que a eficácia da acerola é similar à dos antioxidantes sintéticos.</segment>
+    <segment id="113">"</segment>
+    <segment id="114">Foi o primeiro produto</segment>
+    <segment id="115">, de todos os que testamos em laboratório</segment>
+    <segment id="116">, que teve o mesmo desempenho.</segment>
+    <segment id="117">Usamos a TBHQ</segment>
+    <segment id="118">comocomo baliza por ser uma substância muito eficiente.</segment>
+    <segment id="119">Mas na França</segment>
+    <segment id="120">, no Japão e nos Estados Unidos esse antioxidante sintético já praticamente não é usado.</segment>
+    <segment id="121">Assim, encontrar uma alternativa natural tão eficaz e tão fácil de aplicar é um feito e tanto.</segment>
+    <segment id="122">"</segment>
+  </rst>
+</analysis>

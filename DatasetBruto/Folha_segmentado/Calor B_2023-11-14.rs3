@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Cerca de 116</segment>
+    <segment id="2">,6 milhões de pessoas vivem em áreas afetadas pela onda de calor que atinge 2.707 cidades do país.</segment>
+    <segment id="3">Isso significa que 57%</segment>
+    <segment id="4">, mais da metade da população</segment>
+    <segment id="5">, está sujeita ao problema.</segment>
+    <segment id="6">O alerta de grande perigo</segment>
+    <segment id="7">, nível máximo estabelecido pelo Inmet (Instituto Nacional de Meteorologia)</segment>
+    <segment id="8">, vale até a próxima sexta-feira (17).</segment>
+    <segment id="9">O risco à saúde</segment>
+    <segment id="10">sese deve a um período com temperatura 5°C acima da média por um período maior do que cinco dias.</segment>
+    <segment id="11">Quinze estados e o Distrito Federal estão na área abrangida pela onda de calor.</segment>
+    <segment id="12">Lideram a relação em número de municípios</segment>
+    <segment id="13">Minas Gerais (853)</segment>
+    <segment id="14">, São Paulo (645) e Paraná (292).</segment>
+    <segment id="15">Movimento das ruas na região da Liberdade</segment>
+    <segment id="16">, no centro de SP - Rubens Cavallari - 12.nov.2023/Folhapress</segment>
+  </rst>
+</analysis>

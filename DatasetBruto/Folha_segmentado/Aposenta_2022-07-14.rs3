@@ -1,0 +1,268 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Trabalhadores que contribuem com o INSS (Instituto Nacional do Seguro Social) podem usar a calculadora da Folha para estimar quanto ganharão de aposentadoria.</segment>
+    <segment id="2">Para fazer a consulta</segment>
+    <segment id="3">, informe quantos anos faltam para a aposentadoria e um valor aproximado da média salarial.</segment>
+    <segment id="4">A calculadora aceita apenas valores até o teto do INSS em 2022</segment>
+    <segment id="5">, de R$ 7.087</segment>
+    <segment id="6">,22, que é o valor máximo das contribuições pagas.</segment>
+    <segment id="7">Porém, a média salarial para quem sempre contribuiu pelo teto é de R$ 6.695</segment>
+    <segment id="8">,38 em junho deste ano.</segment>
+    <segment id="9">Esse limite</segment>
+    <segment id="10">, chamado de média-teto</segment>
+    <segment id="11">, muda todos os meses</segment>
+    <segment id="12">, acompanhando a correção da inflação.</segment>
+    <segment id="13">Os dados da calculadora consideram apenas o cálculo geral criado pela reforma da Previdência: de 60% da média salarial mais 2% a cada ano de contribuição que passar de 15 anos</segment>
+    <segment id="14">, para mulheres</segment>
+    <segment id="15">, e de 20 anos</segment>
+    <segment id="16">, para homens.</segment>
+    <segment id="17">A calculadora não inclui as situações dos trabalhadores que vão</segment>
+    <segment id="18">sese aposentar por uma das regras de transição dos pedágios de 50% e de 100%.</segment>
+    <segment id="19">O resultado será uma demonstração simplificada</segment>
+    <segment id="20">, que reproduz apenas o valor aproximado da aposentadoria.</segment>
+    <segment id="21">Como calcular a média salarial</segment>
+    <segment id="22">Para benefícios concedidos após a reforma da Previdência</segment>
+    <segment id="23">, de novembro de 2019</segment>
+    <segment id="24">, o INSS faz uma média de todos os salários com contribuição desde julho de 1994</segment>
+    <segment id="25">, com correção monetária.</segment>
+    <segment id="26">Segundo especialistas</segment>
+    <segment id="27">, essas informações estão na carteira de trabalho</segment>
+    <segment id="28">, nos carnês de contribuição e no Cnis (Cadastro Nacional de Informações Sociais)</segment>
+    <segment id="29">, que pode ser acessado pelo aplicativo ou site</segment>
+    <segment id="30">Meu INSS.</segment>
+    <segment id="31">O trabalhador que recolheu todas as contribuições desde julho de 1994 pelo teto e teve todos os salários de contribuição considerados no cálculo da média salarial tem uma média de R$ 6.695</segment>
+    <segment id="32">,38 em junho</segment>
+    <segment id="33">, segundo o Ieprev (Instituto de Estudos Previdenciários).</segment>
+    <segment id="34">TIRE SUAS DÚVIDAS</segment>
+    <segment id="35">SOBRE APOSENTADORIAO que é aposentadoria?Quem tem direito a aposentadoria?​Qual o tempo de contribuição para</segment>
+    <segment id="36">sese aposentar?Qual o tempo mínimo de contribuição para</segment>
+    <segment id="37">sese aposentar por idade?Como saber quanto tempo falta para aposentar?Já quem sempre recolheu pelo salário mínimo receberá uma aposentadoria igual ao piso vigente no ano do início do pagamento.</segment>
+    <segment id="38">Nenhuma aposentadoria do INSS pode ser menor do que o salário mínimo</segment>
+    <segment id="39">, que é de R$ 1.212 em 2022.</segment>
+    <segment id="40">Especialistas indicam que a melhor forma de calcular a média salarial é por meio do simulador dentro do Meu INSS.</segment>
+    <segment id="41">No entanto</segment>
+    <segment id="42">, a conta é aproximada</segment>
+    <segment id="43">, porque</segment>
+    <segment id="44">porque depende de dados do Cnis</segment>
+    <segment id="45">, e o programa sai do ar ou fica instável com certa frequência.</segment>
+    <segment id="46">O INSS informou que o cálculo da média salarial pelo Meu INSS só está disponível para trabalhadores que estão a cinco anos da aposentadoria.</segment>
+    <segment id="47">O órgão informa que o simulador de renda está temporariamente indisponível para ser adequado às mudanças de cálculo trazidas pela lei 14.331/2022.</segment>
+    <segment id="48">Quanto às falhas no acesso ao sistema</segment>
+    <segment id="49">, o INSS afirma que a Dataprev vem fazendo intervenções para melhoria e que</segment>
+    <segment id="50">, em caso</segment>
+    <segment id="51">caso de indisponibilidade</segment>
+    <segment id="52">, o segurado deve acessar novamente em outro momento.</segment>
+    <segment id="53">Leia tambémINSS muda sistema de cálculo após fim da contribuição únicaVeja</segment>
+    <segment id="54">comocomo pagar o INSS por conta própria para</segment>
+    <segment id="55">sese aposentarSaiba</segment>
+    <segment id="56">comocomo provar tempo de contribuição para</segment>
+    <segment id="57">sese aposentar pelo INSSComo saber quanto tempo falta para</segment>
+    <segment id="58">sese aposentar</segment>
+    <segment id="59">Desde a reforma da Previdência ficou mais difícil saber quanto falta para</segment>
+    <segment id="60">sese aposentar</segment>
+    <segment id="61">, pois</segment>
+    <segment id="62">pois o trabalhador pode</segment>
+    <segment id="63">sese enquadrar na regra de transição por pontos</segment>
+    <segment id="64">, da idade mínima progressiva</segment>
+    <segment id="65">, do pedágio de 50%</segment>
+    <segment id="66">, do pedágio de 100%</segment>
+    <segment id="67">, da transição da aposentadoria por idade ou pela regra definitiva da reforma.</segment>
+    <segment id="68">Para dificultar um pouco mais</segment>
+    <segment id="69">, as exigências aumentam com o passar dos anos em parte das regras de transição.</segment>
+    <segment id="70">Se o trabalhador acessar o site ou aplicativo</segment>
+    <segment id="71">Meu INSS</segment>
+    <segment id="72">, o sistema mostrará quanto tempo falta para</segment>
+    <segment id="73">sese aposentar em cada uma das transições e pela regra geral da reforma.</segment>
+    <segment id="74">No primeiro acesso será necessário cadastrar uma senha e responder a perguntas relacionadas ao seu histórico de contribuições.</segment>
+    <segment id="75">Mas atenção:</segment>
+    <segment id="76">sese o INSS não estiver reconhecendo algum período trabalhado</segment>
+    <segment id="77">, o sistema não vai considerar esses anos ou meses na simulação.</segment>
+    <segment id="78">Por isso</segment>
+    <segment id="79">, é importante consultar o Cnis (cadastro de contribuições) para verificar</segment>
+    <segment id="80">sese há falhas e pedir as correções ao órgão.</segment>
+    <segment id="81">Reforma da Previdência criou regras de transição para quem já estava no mercado de trabalho em novembro de 2019 - Catarina PignatoO que é aposentadoria?</segment>
+    <segment id="82">Aposentadoria é um benefício pago mensalmente ao trabalhador que contribui com um sistema previdenciário e atinge as regras mínimas para receber a renda.</segment>
+    <segment id="83">A aposentadoria pode ser de regime geral</segment>
+    <segment id="84">, como</segment>
+    <segment id="85">como o INSS (Instituto Nacional do Seguro Social)</segment>
+    <segment id="86">, ou próprio</segment>
+    <segment id="87">, como</segment>
+    <segment id="88">como de estados</segment>
+    <segment id="89">, municípios e o Distrito Federal.</segment>
+    <segment id="90">Tem direito à aposentadoria apenas quem contribui para o sistema previdenciário no qual está vinculado ou pelo qual pretende</segment>
+    <segment id="91">sese aposentar.</segment>
+    <segment id="92">No caso</segment>
+    <segment id="93">caso do INSS</segment>
+    <segment id="94">, é preciso pagar contribuições mensais à Previdência</segment>
+    <segment id="95">, seja</segment>
+    <segment id="96">comocomo trabalhador formal</segment>
+    <segment id="97">, com carteira assinada</segment>
+    <segment id="98">, ou como</segment>
+    <segment id="99">como autônomo.</segment>
+    <segment id="100">A aposentadoria do INSS é paga mensalmente em conta aberta no nome do segurado</segment>
+    <segment id="101">, conforme calendário divulgado todo ano pela Previdência.</segment>
+    <segment id="102">A cada mês</segment>
+    <segment id="103">, é pago primeiro o benefício de quem recebe renda mensal no valor do salário mínimo e</segment>
+    <segment id="104">, depois</segment>
+    <segment id="105">, os de valor maior</segment>
+    <segment id="106">, até o teto previdenciário.</segment>
+    <segment id="107">Quem tem direito a aposentadoria?</segment>
+    <segment id="108">A aposentadoria do INSS é paga aos trabalhadores que contribuem com o órgão por um tempo mínimo</segment>
+    <segment id="109">, conforme o tipo de benefício a ser solicitado.</segment>
+    <segment id="110">As regras também variam</segment>
+    <segment id="111">sese o segurado é homem ou mulher ou conforme o tipo de atividade que exerce</segment>
+    <segment id="112">, caso</segment>
+    <segment id="113">caso o trabalho seja considerado</segment>
+    <segment id="114">comocomo realizado em condições prejudiciais à saúde.</segment>
+    <segment id="115">Tem direito ao benefício do INSS trabalhadores da iniciativa privada</segment>
+    <segment id="116">, autônomos</segment>
+    <segment id="117">, donas de casa de baixa renda</segment>
+    <segment id="118">, estudantes</segment>
+    <segment id="119">, pessoas com deficiência</segment>
+    <segment id="120">, cidadãos que atuam em atividade considerada prejudicial à saúde e profissionais que já trabalharam no serviço público</segment>
+    <segment id="121">, masmas que passaram a contribuir com o INSS e vão fazer a transferência de contribuições de um regime para o outro.</segment>
+    <segment id="122">Qual o tempo de contribuição para</segment>
+    <segment id="123">sese aposentar?</segment>
+    <segment id="124">O tempo mínimo de contribuição para</segment>
+    <segment id="125">sese aposentar pelo INSS depende do tipo de benefício que o cidadão irá pedir.</segment>
+    <segment id="126">Até 13 de novembro de 2019</segment>
+    <segment id="127">, data em que a reforma da Previdência foi publicada</segment>
+    <segment id="128">, os trabalhadores conseguiam o aposentadoria por tempo de contribuição com 35 anos de contribuição ao INSS (homens) ou 30 anos de contribuição (mulheres).</segment>
+    <segment id="129">No caso</segment>
+    <segment id="130">caso da aposentadoria por idade</segment>
+    <segment id="131">, o tempo mínimo exigido era de 15 anos de contribuição para homens e mulheres.</segment>
+    <segment id="132">A idade mínima</segment>
+    <segment id="133">, no entanto</segment>
+    <segment id="134">, variava.</segment>
+    <segment id="135">Era necessário ter 65 anos de idade para os homens e 60 anos para as mulheres.</segment>
+    <segment id="136">A regra geral que passou a valer após a reforma da Previdência determina idade mínima de 65 anos para os homens pedirem o benefício e de 62 anos para as mulheres que entraram no mercado de trabalho após a nova lei.</segment>
+    <segment id="137">O tempo mínimo de contribuição é de 15 anos para as mulheres e  Há</segment>
+    <segment id="138">, no entanto</segment>
+    <segment id="139">, regras de transição para quem já estava no mercado de trabalho tanto para a aposentadoria por idade quanto por tempo de contribuição (clique aqui para saber quais são).</segment>
+    <segment id="140">Qual o tempo mínimo de contribuição para</segment>
+    <segment id="141">sese aposentar por idade?</segment>
+    <segment id="142">Até 13 de novembro de 2019</segment>
+    <segment id="143">, data em que reforma da Previdência entrou em vigor</segment>
+    <segment id="144">, o tempo mínimo de contribuição exigido pelo INSS para a aposentadoria por idade era de 15 anos de contribuição para homens e mulheres.</segment>
+    <segment id="145">A idade mínima</segment>
+    <segment id="146">, no entanto</segment>
+    <segment id="147">, variava.</segment>
+    <segment id="148">Era necessário ter 65 anos de idade para os homens e 60 anos para as mulheres.</segment>
+    <segment id="149">Após a reforma da Previdência</segment>
+    <segment id="150">, a regra geral do sistema determina idade mínima de 62 anos (mulheres) e 65 anos (homens).</segment>
+    <segment id="151">O tempo de contribuição continua sendo de 15 anos de pagamentos ao INSS.</segment>
+    <segment id="152">Essas normas</segment>
+    <segment id="153">, no entanto</segment>
+    <segment id="154">, são válidas para novos segurados.</segment>
+    <segment id="155">Quem já estava no mercado de trabalho entra nas regras de transição.</segment>
+    <segment id="156">Para as mulheres que vão</segment>
+    <segment id="157">sese aposentar por idade em 2022</segment>
+    <segment id="158">, o benefício é liberado para quem tem 61 anos e meio de idade.</segment>
+    <segment id="159">Como saber quanto tempo falta para aposentar?</segment>
+    <segment id="160">O segurado pode fazer esse cálculo com base em seus próprios documentos</segment>
+    <segment id="161">, como</segment>
+    <segment id="162">como a carteira de trabalho e os carnês de pagamento ao INSS ou as GPSs (Guias de Pagamento da Previdência Social).</segment>
+    <segment id="163">No entanto</segment>
+    <segment id="164">, o INSS disponibiliza um Simulador de Aposentadoria por meio do aplicativo ou site</segment>
+    <segment id="165">Meu INSS.</segment>
+    <segment id="166">Para ter acesso ao Simulador da Aposentadoria</segment>
+    <segment id="167">, o segurado precisa cadastrar uma senha.</segment>
+    <segment id="168">O acesso é feito com o CPF e a senha cadastrada.</segment>
+    <segment id="169">Segundo o INSS</segment>
+    <segment id="170">, é possível fazer a simulação com os dados que constam no Cnis (Cadastro Nacional de Informações Sociais) ou o cidadão pode informar a idade e o tempo de contribuição</segment>
+    <segment id="171">para que</segment>
+    <segment id="172">para que o cálculo seja feito.</segment>
+    <segment id="173">Também é possível incluir vínculos e alterar sua data de nascimento no momento da simulação.</segment>
+    <segment id="174">O resultado gerado pela calculadora vale somente para consulta e não garante direito à aposentadoria.</segment>
+    <segment id="175">Para se</segment>
+    <segment id="176">se aposentar</segment>
+    <segment id="177">, é necessário fazer o pedido ao INSS após atingir os requisitos mínimos.</segment>
+    <segment id="178">Confira as respostas às principais dúvidas dos trabalhadores sobre o INSSMais    novamente         de   de  de  representando um  Regra geral da aposentadoria</segment>
+    <segment id="179">A reforma da Previdência instituiu</segment>
+    <segment id="180">comocomo regra as idades mínimas de 62 anos</segment>
+    <segment id="181">, para mulheres</segment>
+    <segment id="182">, e 65 anos</segment>
+    <segment id="183">, para homens</segment>
+    <segment id="184">O cálculo é de 60% da média salarial mais 2% a cada ano de contribuição que passar de 15 anos</segment>
+    <segment id="185">, para mulheres</segment>
+    <segment id="186">, e de 20 anos</segment>
+    <segment id="187">, para homens   Regras de transição da aposentadoria  Aposentadoria por tempo de contribuição por pontos</segment>
+    <segment id="188">É preciso ter pelo menos 30 anos de contribuição ao INSS (mulheres) e 35 anos (homens)</segment>
+    <segment id="189">Em 2022</segment>
+    <segment id="190">, a soma da idade com o tempo de contribuição precisa atingir</segment>
+    <segment id="191">, no mínimo</segment>
+    <segment id="192">, 89 pontos (mulheres) e 99 pontos (homens)</segment>
+    <segment id="193">A soma exigida sobe um ponto a cada ano</segment>
+    <segment id="194">, até chegar a 100 pontos (para mulheres</segment>
+    <segment id="195">, em 2033) e 105 (para homens</segment>
+    <segment id="196">, em 2028)</segment>
+    <segment id="197">Aposentadoria por tempo de contribuição com idade mínima progressiva</segment>
+    <segment id="198">Em 2022</segment>
+    <segment id="199">, podem</segment>
+    <segment id="200">sese aposentar mulheres com 57 anos e seis meses de idade e 30 anos de contribuição</segment>
+    <segment id="201">, no mínimo Para homens o mínimo é de 62 anos e seis meses de idade e 35 anos de contribuição em 2022</segment>
+    <segment id="202">A idade mínima exigida aumenta seis meses por ano e chegará a 62 anos em 2031 (mulheres) e 65 anos em 2027 (homens)</segment>
+    <segment id="203">Transição da aposentadoria por idade</segment>
+    <segment id="204">Para se</segment>
+    <segment id="205">se aposentar em 2022</segment>
+    <segment id="206">, é preciso ter 61 anos e seis meses (mulheres) e 15 anos de contribuição</segment>
+    <segment id="207">Homens podem</segment>
+    <segment id="208">sese aposentar com 65 anos (homens) e 15 anos de contribuição</segment>
+    <segment id="209">Em 2023</segment>
+    <segment id="210">, a idade mínima das mulheres chegará aos 62 anos exigidos na regra geral</segment>
+    <segment id="211">Leia tambémINSS</segment>
+    <segment id="212">, renda fixa e Bolsa entram em plano para ter renda extra ao</segment>
+    <segment id="213">sese aposentarVeja quem consegue a aposentadoria do INSS em 2022Veja</segment>
+    <segment id="214">comocomo corrigir falhas no Cnis que podem reduzir aposentadoria do INSSRecurso de aposentadoria do INSS pode demorar mais de dois anosRegras do pedágio</segment>
+    <segment id="215">Há ainda duas regras de transição que exigem um pedágio</segment>
+    <segment id="216">, em que o trabalhador precisa contribuir por um tempo adicional.</segment>
+    <segment id="217">Para calcular esse tempo extra</segment>
+    <segment id="218">, considera-</segment>
+    <segment id="219">sese o total de contribuições acumuladas quando a reforma da Previdência começou a valer.</segment>
+    <segment id="220">No pedágio de 100%</segment>
+    <segment id="221">, há também exigência de idade mínima.</segment>
+    <segment id="222">A calculadora não contempla os segurados que vão</segment>
+    <segment id="223">sese aposentar por uma das regras do pedágio.</segment>
+    <segment id="224">Pedágio de 100%</segment>
+    <segment id="225">Idade mínima de 57 anos (mulheres) e 60 (homens) na concessão do benefício.</segment>
+    <segment id="226">Esse requisito é fixo</segment>
+    <segment id="227">, ou seja</segment>
+    <segment id="228">, não aumenta com o tempo É preciso contribuir pelo dobro do tempo que faltava para atingir os 30 anos (mulheres) e 35 anos de contribuição (homens) em 13 de novembro de 2019</segment>
+    <segment id="229">Cálculo do benefício: a aposentadoria é integral</segment>
+    <segment id="230">, ou seja igual à média salarial do trabalhador  Pedágio de 50%</segment>
+    <segment id="231">Exigências do INSS em 2022:</segment>
+    <segment id="232">Pode se</segment>
+    <segment id="233">se aposentar pelo pedágio de 50% quem</segment>
+    <segment id="234">, em novembro de 2019</segment>
+    <segment id="235">, já tinha períodos de contribuição entre 28 e 30 anos incompletos (mulheres) ou entre 33 e 35 anos incompletos (homens) É preciso contribuir por mais 50% do tempo que faltava para atingir 30 anos de contribuição (mulher) ou 35 anos (homem) em 13 de novembro de 2019</segment>
+    <segment id="236">Não há idade mínima</segment>
+    <segment id="237">Cálculo do benefício: o INSS calcula a média salarial e depois aplica o fator previdenciário</segment>
+    <segment id="238">, índice que leva em conta a idade</segment>
+    <segment id="239">, o tempo de de contribuição e a expectativa de sobrevida para cada idade.</segment>
+    <segment id="240">Quanto maior a idade do trabalhador</segment>
+    <segment id="241">, menor é o desconto aplicado na aposentadoria</segment>
+    <segment id="242">Como funciona a aposentadoria do INSSMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

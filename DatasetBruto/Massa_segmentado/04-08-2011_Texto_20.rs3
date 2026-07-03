@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Leitores do site do GLOBO apoiam CPI do Dnit e da Agricultura
+RIO - Enquete realizada pelo site do GLOBO revelou que a maioria dos internautas é a favor da realização de uma CPI para apurar irregularidades no Dnit e no Ministério da Agricultura.</segment>
+    <segment id="2">No total</segment>
+    <segment id="3">, 144 leitores responderam</segment>
+    <segment id="4">sese achavam necessária ou não a criação de uma nova CPI.</segment>
+    <segment id="5">participaram da pesquisa.</segment>
+    <segment id="6">54,86% dos leitores votaram a favor da CPI não apenas no Dnit</segment>
+    <segment id="7">, masmas também na Agricultura</segment>
+    <segment id="8">, enquanto que 24</segment>
+    <segment id="9">,31% dos votos foram dos que consideravam que há mais envolvidos que ainda não foram afastados.</segment>
+    <segment id="10">Já 11,11% votaram contra a CPI</segment>
+    <segment id="11">porque</segment>
+    <segment id="12">porque a Comissão poderia paralisar as ações do governo e os outros 9</segment>
+    <segment id="13">,03% dos internautas consideram que a instalação de uma nova CPI será insuficiente para acabar com a corrupção no setor.</segment>
+  </rst>
+</analysis>

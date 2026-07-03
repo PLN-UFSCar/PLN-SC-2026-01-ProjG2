@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Bienal do Livro do Rio de Janeiro acaba de esgotar a venda de toda sua área de exposição para a edição deste ano</segment>
+    <segment id="2">, segundo a organização do evento</segment>
+    <segment id="3">, feita pelo SNEL (Sindicato Nacional dos Editores de Livros) com a multinacional GL events.</segment>
+    <segment id="4">Público faz fila para receber livros LGBT na Bienal do Livro do RioMais    novamente         de   de  de  representando um</segment>
+    <segment id="5">Cerca de 80 expositores estão confirmados para a Bienal no Riocentro</segment>
+    <segment id="6">, que acontecerá entre 3 e 12 de dezembro e em formato híbrido por causa da pandemia.</segment>
+    <segment id="7">O espaço de circulação está menor do que em 2019 e a capacidade de público será reduzida pela metade.</segment>
+    <segment id="8">Os organizadores estimam a presença de 300 mil pessoas em dez dias de evento.</segment>
+    <segment id="9">A negociação com os patrocinadores foi concluída e terá nomes</segment>
+    <segment id="10">comocomo Colgate</segment>
+    <segment id="11">, Petrobras</segment>
+    <segment id="12">, Bic e OLX</segment>
+    <segment id="13">, segundo a organização</segment>
+    <segment id="14">, que aponta mais de R$ 40 milhões de investimentos para a realização da Bienal</segment>
+    <segment id="15">, além de 10 mil vagas de trabalho com 300 empresas.  com Mariana Grazini e Andressa Motter</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Cinara Leal</segment>
+    <segment id="2">Atriz pode gravar série austríaca em Salvador
+Cinara Leal</segment>
+    <segment id="3">, que fez a novela “Araguaia”</segment>
+    <segment id="4">, está feliz da vida.</segment>
+    <segment id="5">Isso porque</segment>
+    <segment id="6">porque a moça vai fazer um teste para uma série austríaca.</segment>
+    <segment id="7">Os produtores do seriado já estão no Brasil exclusivamente para realizar essa avaliação com a atriz.</segment>
+    <segment id="8">Se aprovada</segment>
+    <segment id="9">, ela vai gravar as cenas</segment>
+    <segment id="10">, que vão ao ar na Áustria</segment>
+    <segment id="11">, em Salvador.</segment>
+    <segment id="12">Apesar de não falar alemão</segment>
+    <segment id="13">, a língua oficial deste país</segment>
+    <segment id="14">, ela diz:</segment>
+    <segment id="15">“Vou dar o melhor de mim”.</segment>
+  </rst>
+</analysis>

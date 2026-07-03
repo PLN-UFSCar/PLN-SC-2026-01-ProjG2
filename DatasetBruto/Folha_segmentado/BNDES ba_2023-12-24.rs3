@@ -1,0 +1,96 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O BNDES fechará 2023 com recorde de aprovação e desembolsos desde 1995.</segment>
+    <segment id="2">As aprovações para setores de infraestrutura devem totalizar R$ 37</segment>
+    <segment id="3">,5 bilhões e os desembolsos</segment>
+    <segment id="4">, R$ 23</segment>
+    <segment id="5">,9 bilhões.  "</segment>
+    <segment id="6">O novo PAC</segment>
+    <segment id="7">, lançado pelo presidente Lula</segment>
+    <segment id="8">, abriu espaço para o início de um novo ciclo de investimentos para impulsionar o desenvolvimento"</segment>
+    <segment id="9">, disse o presidente do BNDES</segment>
+    <segment id="10">, Aloizio Mercadante.</segment>
+    <segment id="11">"</segment>
+    <segment id="12">Mais de 80% dos desembolsos foram destinados a novos investimentos.</segment>
+    <segment id="13">"  Mercadante diz que houve um salto de 20% dos investimentos em infraestrutura (transportes</segment>
+    <segment id="14">, logística</segment>
+    <segment id="15">, mobilidade e saneamento)</segment>
+    <segment id="16">, atingindo R$ 213 bilhões</segment>
+    <segment id="17">, número próximo à máxima histórica de R$ 227 bilhões de 2014.</segment>
+    <segment id="18">Isso ocorre no momento em que houve queda de 21% no investimento total da indústria de base</segment>
+    <segment id="19">, segundo levantamento da Abdid</segment>
+    <segment id="20">, a associação que representa o setor.</segment>
+    <segment id="21">Aloizio Mercadante</segment>
+    <segment id="22">, presidente do BNDES - 07.dez.2023-Daniel</segment>
+    <segment id="23">Ramalho/AFPDebêntures</segment>
+    <segment id="24">Uma boa parte dessas operações foi estruturada na modalidade project finance (em que o projeto é a própria garantia).</segment>
+    <segment id="25">O aperfeiçoamento da política de crédito e de garantias</segment>
+    <segment id="26">, que ampliou a flexibilidade operacional e o apetite a risco</segment>
+    <segment id="27">, permitiu que o BNDES passasse a assumir mais riscos de projeto</segment>
+    <segment id="28">, viabilizando o apoio a empreendimentos que demandam elevados volumes de investimento.</segment>
+    <segment id="29">"Vale destacar também que cerca de metade do número de operações aprovadas contou com o apoio via debêntures"</segment>
+    <segment id="30">, diz Mercadante.  "</segment>
+    <segment id="31">Após as fraudes da Americanas</segment>
+    <segment id="32">, houve um forte comportamento defensivo dos bancos privados e</segment>
+    <segment id="33">, simultaneamente</segment>
+    <segment id="34">, uma redução drástica das emissões de instrumentos de mercados de capitais.</segment>
+    <segment id="35">Nesse contexto</segment>
+    <segment id="36">, o BNDES participou de emissões relevantes</segment>
+    <segment id="37">, desempenhando seu papel de banco de desenvolvimento e contribuindo para viabilizar os investimentos"</segment>
+    <segment id="38">, afirma Mercadante  Dentre as operações de debêntures aprovadas pelo BNDES este ano</segment>
+    <segment id="39">, destacam-</segment>
+    <segment id="40">sese duas maiores operações da história com debêntures de infraestrutura</segment>
+    <segment id="41">, ambas do setor de saneamento: as ofertas da Iguá Rio –emissão de R$ 3</segment>
+    <segment id="42">,8 bilhões</segment>
+    <segment id="43">, dos quais o BNDES subscreveu R$ 1</segment>
+    <segment id="44">,8 bilhão– e da Águas do Rio –emissão de R$ 5</segment>
+    <segment id="45">,5 bilhões</segment>
+    <segment id="46">, com subscrição de R$ 1</segment>
+    <segment id="47">,9 bilhão pelo BNDES.</segment>
+    <segment id="48">Obras inacabadas do PAC em Camaçari (BA)Mais    novamente         de   de  de  representando um  Transporte público</segment>
+    <segment id="49">No setor de mobilidade urbana</segment>
+    <segment id="50">, foram aprovados R$ 15 bilhões no total</segment>
+    <segment id="51">, com destaque para o apoio ao Plano de Investimentos de Mobilidade do Estado de SP (projeto incluído no Novo PAC)</segment>
+    <segment id="52">, de R$ 10 bilhões</segment>
+    <segment id="53">, e para a operação de Eletrificação de Frota do Município de São Paulo</segment>
+    <segment id="54">, de R$ 2</segment>
+    <segment id="55">,5 bilhões</segment>
+    <segment id="56">, primeira operação de Finame Direto para entes públicos.</segment>
+    <segment id="57">Em rodovias</segment>
+    <segment id="58">, destaca-</segment>
+    <segment id="59">sese a operação da Viasul</segment>
+    <segment id="60">, de R$ 1</segment>
+    <segment id="61">,45 bilhão (composta por R$ 900 milhões em debêntures e R$ 550 milhões em Finem</segment>
+    <segment id="62">, para apoiar os investimentos da Concessionária das Rodovias Integradas do Sul S.A.</segment>
+    <segment id="63">, referente aos trechos da BR-101/290/386/448/RS).</segment>
+    <segment id="64">Outra operação relevante envolveu a subscrição de R$ 750 milhões em debêntures da Rumo S.A.</segment>
+    <segment id="65">, para apoiar os investimentos na Malha Paulista.</segment>
+    <segment id="66">A emissão totalizou R$ 1</segment>
+    <segment id="67">,5 bilhão.</segment>
+    <segment id="68">Painel S.A.Receba no seu email uma newsletter exclusiva da coluna Carregando...</segment>
+    <segment id="69">Com Diego</segment>
+    <segment id="70">Felix</segment>
+  </rst>
+</analysis>

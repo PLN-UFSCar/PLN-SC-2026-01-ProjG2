@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Gomes da Costa deve anunciar nos próximos dias que vai trocar de presidente</segment>
+    <segment id="2">, levando uma mulher ao posto pela primeira vez na história da empresa de pescados.</segment>
+    <segment id="3">Três casas oferecem opções com sardinha   novamente         de   de  de  representando um    Andrea Napolitano assume o cargo de presidente do Grupo Calvo na América Latina</segment>
+    <segment id="4">, no lugar de Enrique Orge</segment>
+    <segment id="5">, que passa a ocupar a presidência da companhia para a divisão europeia.</segment>
+    <segment id="6">A executiva fez carreira no mercado de bens de consumo</segment>
+    <segment id="7">, com passagens por empresas</segment>
+    <segment id="8">comocomo Unilever</segment>
+    <segment id="9">, PepsiCo</segment>
+    <segment id="10">, BRF e outras.  com Filipe Oliveira e Mariana Grazini</segment>
+  </rst>
+</analysis>

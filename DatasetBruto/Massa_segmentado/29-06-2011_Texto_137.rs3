@@ -1,0 +1,34 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Gêmeos e gatos</segment>
+    <segment id="2">Os irmãos são as estrelas do editorial de moda</segment>
+    <segment id="3">Os irmãos Márcio e Marcos Patriota</segment>
+    <segment id="4">, considerados uma delícia por muitos gays no Brasil e fora</segment>
+    <segment id="5">, são as estrelas do editorial de moda da revista “Attitude” de julho.</segment>
+    <segment id="6">Em fotos feitas pelo fotógrafo Philip Riches</segment>
+    <segment id="7">, os meninos seguem a linha de pura sedução</segment>
+    <segment id="8">, deixando muitos com vontade de estar junto com eles.</segment>
+  </rst>
+</analysis>

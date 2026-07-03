@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Presa com 9 kg de pÃ³</segment>
+    <segment id="2">Droga tinha alto teor de pureza e poderia ser transformada em 90 kg
+Agentes da PolÃ­cia RodoviÃ¡ria Federal (PRF) apreenderam</segment>
+    <segment id="3">, ontem</segment>
+    <segment id="4">, no municÃ­pio de Encruzilhada</segment>
+    <segment id="5">, 9 kg de cocaÃ­na pura.</segment>
+    <segment id="6">A droga estava em um Ã´nibus interestadual na divisa entre Bahia e Minas Gerais</segment>
+    <segment id="7">, no KM-932 da BR-116.</segment>
+    <segment id="8">O coletivo seguia de SÃ£o Paulo para Iquatu (CE) e a mercadoria estava na mochila de uma jovem de 25 anos</segment>
+    <segment id="9">, que foi presa.</segment>
+    <segment id="10">As informaÃ§Ãµes sÃ£o do Acorda Cidade.</segment>
+  </rst>
+</analysis>

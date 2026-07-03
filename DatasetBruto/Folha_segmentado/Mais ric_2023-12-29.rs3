@@ -1,0 +1,208 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Foi um ano de retorno para os mais ricos do mundo.</segment>
+    <segment id="2">A fortuna combinada das 500 pessoas mais ricas aumentou em US$ 1</segment>
+    <segment id="3">,5 trilhão (R$ 7</segment>
+    <segment id="4">,27 trilhões) em 2023</segment>
+    <segment id="5">, recuperando totalmente os US$ 1</segment>
+    <segment id="6">,4 trilhão perdidos no ano anterior</segment>
+    <segment id="7">, de acordo com o ranking feito pela Bloomberg.</segment>
+    <segment id="8">Musk vê fortuna crescer US$ 95</segment>
+    <segment id="9">,4 bilhões em 2023 e volta a ser o mais rico do mundo - Guglielmo Mangiapane/Reuters  Mais uma vez</segment>
+    <segment id="10">, suas fortunas estavam intimamente correlacionadas ao desempenho das ações de tecnologia</segment>
+    <segment id="11">, que atingiram novos recordes em 2023</segment>
+    <segment id="12">, apesar dos temores de recessão</segment>
+    <segment id="13">, inflação persistente</segment>
+    <segment id="14">, altas taxas de juros e turbulências geopolíticas.</segment>
+    <segment id="15">Os bilionários da tecnologia viram sua riqueza crescer 48% ou US$ 658 bilhões</segment>
+    <segment id="16">, impulsionados pela intenso interesse em torno da inteligência artificial.</segment>
+    <segment id="17">Os cinco mais ricos do mundo     Posição Nome Patrimônio (em US$)   1°</segment>
+    <segment id="18">Elon Musk 232</segment>
+    <segment id="19">,39 bilhões</segment>
+    <segment id="20">2° Bernard Arnault 178</segment>
+    <segment id="21">,98 bilhões</segment>
+    <segment id="22">Jeff Bezos 178</segment>
+    <segment id="23">,98 bilhões   4°</segment>
+    <segment id="24">Bill Gates 140</segment>
+    <segment id="25">,51 bilhões   5°</segment>
+    <segment id="26">Steve Ballmer 130</segment>
+    <segment id="27">,53 bilhões</segment>
+    <segment id="28">Ninguém</segment>
+    <segment id="29">sese saiu melhor do que Elon Musk</segment>
+    <segment id="30">, que ultrapassou o magnata francês do luxo Bernard Arnault</segment>
+    <segment id="31">, dono do grupo LVMH</segment>
+    <segment id="32">, e voltou a ser a pessoa mais rica do mundo.</segment>
+    <segment id="33">O CEO da Tesla e novo dono do X (antigo Twitter) aumentou o seu patrimônio em US$ 95</segment>
+    <segment id="34">,4 bilhões neste ano até os dados compilados nessa quinta-feira (28)</segment>
+    <segment id="35">, impulsionado pelo sucesso da Tesla e da SpaceX.</segment>
+    <segment id="36">Veja os destaques da nova biografia de Elon MuskMais    novamente         de   de  de  representando um    No ano passado</segment>
+    <segment id="37">, a fortuna de Musk havia diminuído US$ 138 bilhões.</segment>
+    <segment id="38">Sua fortuna agora é de US$ 232</segment>
+    <segment id="39">,39 bilhões (R$ 1</segment>
+    <segment id="40">,1 trilhão)</segment>
+    <segment id="41">, mais de US$ 50 bilhões acima de Arnault</segment>
+    <segment id="42">, que teve o patrimônio afetado pela desaceleração global na demanda por bens de luxo</segment>
+    <segment id="43">, o que afetou as ações da LVMH</segment>
+    <segment id="44">, dona de marcas</segment>
+    <segment id="45">comocomo Louis Vuitton e Dior.</segment>
+    <segment id="46">O fundador da Amazon</segment>
+    <segment id="47">, Jeff Bezos</segment>
+    <segment id="48">, adicionou mais de US$ 70 bilhões à sua carteira este ano e agora está empatado com Arnault em segundo lugar.</segment>
+    <segment id="49">A lista dos cinco primeiros é completada por Bill Gates (US$ 140</segment>
+    <segment id="50">,51 bilhões) e Steve Ballmer (US$ 130</segment>
+    <segment id="51">,53 bilhões).</segment>
+    <segment id="52">Fora do top 5</segment>
+    <segment id="53">, o CEO do Meta</segment>
+    <segment id="54">, Mark Zuckerberg</segment>
+    <segment id="55">, viu sua fortuna aumentar mais de US$ 80 bilhões no ano.</segment>
+    <segment id="56">No ano</segment>
+    <segment id="57">, alguns milionários sofreram grandes perdas.</segment>
+    <segment id="58">O bilionário indiano Gautam Adani viu sua fortuna reduzir em US$ 21 bilhões apenas em 27 de janeiro sozinho</segment>
+    <segment id="59">, o que resultou na perda de US$ 37</segment>
+    <segment id="60">,3 bilhões ao longo de todo o ano - depois do</segment>
+    <segment id="61">casocaso envolvendo Hindenburg Research ter derrubado o valor do Grupo Adani.</segment>
+    <segment id="62">No entanto</segment>
+    <segment id="63">, ele ainda possui uma fortuna de 11 dígitos.</segment>
+    <segment id="64">Olhando para o futuro  O que o mundo reserva para as pessoas mais ricas em 2024?</segment>
+    <segment id="65">Embora seja impossível saber com certeza —poucos teriam previsto uma recuperação tão grande este ano— aqui estão alguns dos nomes para ficar de olho:  Miriam Adelson  Adelson</segment>
+    <segment id="66">, 78 anos</segment>
+    <segment id="67">, tornou-</segment>
+    <segment id="68">sese a acionista majoritária da operadora de cassinos Las Vegas Sands</segment>
+    <segment id="69">, após a morte de seu marido Sheldon em 2021.</segment>
+    <segment id="70">Depois de</segment>
+    <segment id="71">sese manter discreta por um tempo</segment>
+    <segment id="72">, Adelson fechou um acordo neste ano para comprar uma participação majoritária de US$ 3</segment>
+    <segment id="73">,5 bilhões no Dallas Mavericks</segment>
+    <segment id="74">, time da NBA (liga americana de basquete) e cortejou a candidata presidencial republicana Nikki Haley.</segment>
+    <segment id="75">Sua fortuna subiu para US$ 34</segment>
+    <segment id="76">,3 bilhões.</segment>
+    <segment id="77">Miriam Adelson participa de convenção do Partido Republicano</segment>
+    <segment id="78">, nos Estados Unidos - Getty Images via AFP  Françoise Bettencourt Meyers</segment>
+    <segment id="79">Como herdeira da fortuna da empresa de cosmétics L'Oréal</segment>
+    <segment id="80">, Bettencourt Meyers</segment>
+    <segment id="81">, 70, é a mulher mais rica do planeta e a primeira a possuir uma fortuna de 12 dígitos.</segment>
+    <segment id="82">O sucesso de Bettencourt Meyers é resultado das prósperas indústrias de beleza e moda da França</segment>
+    <segment id="83">, que também levaram Arnault</segment>
+    <segment id="84">, da LVMH</segment>
+    <segment id="85">, os irmãos Wertheimer</segment>
+    <segment id="86">, da Chanel e a família Hermès ao reino dos ultrarricos.</segment>
+    <segment id="87">Sua fortuna aumentou 40% este ano</segment>
+    <segment id="88">, à medida que as ações da L'Oréal atingiram uma alta recorde.</segment>
+    <segment id="89">Steve Cohen</segment>
+    <segment id="90">O fundador da gestora de investimentos Point72</segment>
+    <segment id="91">Asset Management está totalmente envolvido nas dinastias de Nova York —antigas e novas.</segment>
+    <segment id="92">Cohen, 67</segment>
+    <segment id="93">, é dono do New York Mets (time de beisebol) e está tentando revitalizar a franquia após anos de desempenho fraco.</segment>
+    <segment id="94">Ele também está</segment>
+    <segment id="95">sese associando à Hard Rock International na tentativa de obter uma das limitadas novas licenças de cassino do estado</segment>
+    <segment id="96">, dando aos desanimados fãs dos Mets a chance de apostar suas tristezas.</segment>
+    <segment id="97">Sua riqueza aumentou para US$ 13</segment>
+    <segment id="98">,9 bilhões em 2023.Mark Cuban grita durante jogo do Dallas Mavericks na NBA</segment>
+    <segment id="99">; ele vendeu a maioria de suas ações no time - Kevin Jairaj/USA Today/ReutersMark Cuban  Cuban</segment>
+    <segment id="100">, 65 anos</segment>
+    <segment id="101">, tem o dom de sair na hora certa</segment>
+    <segment id="102">, vendendo seu site de rádio por streaming Broadcast.com pouco antes da explosão da bolha das empresas ponto-com.</segment>
+    <segment id="103">Ele comprou o Dallas Mavericks em 2000 por US$ 285 milhões</segment>
+    <segment id="104">, viu o time conquistar um título da NBA e vendeu a maioria de sua participação no time para Adelson por US$ 3</segment>
+    <segment id="105">,5 bilhões.</segment>
+    <segment id="106">Cuban ainda será acionista minoritário na franquia.  Se isso será mais uma venda bem cronometrada de Cuban</segment>
+    <segment id="107">, ainda está por ser visto.</segment>
+    <segment id="108">Sua fortuna aumentou para US$ 6</segment>
+    <segment id="109">,8 bilhões este ano.</segment>
+    <segment id="110">Carl Icahn  Foi um ano difícil para o investidor ativista depois que a Hindenburg Research iniciou uma queda que tirou US$ 18</segment>
+    <segment id="111">,1 bilhões de sua fortuna</segment>
+    <segment id="112">, com direito a uma perda de mais de US$ 10 bilhões em apenas um dia.</segment>
+    <segment id="113">Ainda assim</segment>
+    <segment id="114">, o octogenário Icahn tem muita luta pela frente.</segment>
+    <segment id="115">Ele pretende lançar uma nova batalha judicial para assumir o controle do conselho da Illumina</segment>
+    <segment id="116">, que atua no ramo da genética</segment>
+    <segment id="117">, segundo pessoas familiarizadas com o assunto.</segment>
+    <segment id="118">Recentemente</segment>
+    <segment id="119">, Icahn criticou uma negociação feita pela empresa de sequenciamento de DNA.</segment>
+    <segment id="120">Rupert Murdoch</segment>
+    <segment id="121">O fundador do grupo de mídia News Corp</segment>
+    <segment id="122">, de 92 anos</segment>
+    <segment id="123">, sese aposentou oficialmente</segment>
+    <segment id="124">, cedendo o controle ao seu filho</segment>
+    <segment id="125">, Lachlan.</segment>
+    <segment id="126">Será um ano difícil para o herdeiro</segment>
+    <segment id="127">, já que candidatos</segment>
+    <segment id="128">comocomo Joe Biden e Donald Trump disputam novamente a presidência.</segment>
+    <segment id="129">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="130">; aberta para não assinantes.</segment>
+    <segment id="131">Carregando...</segment>
+    <segment id="132">A Fox News</segment>
+    <segment id="133">, uma das empresas do grupo</segment>
+    <segment id="134">, já chegou a um acordo com a Dominion Voting Systems no valor de US$ 787</segment>
+    <segment id="135">,5 milhões</segment>
+    <segment id="136">, depois que a empresa acusou a emissora de transmitir informações falsas de que a eleição de 2020 foi manipulada contra Trump.</segment>
+    <segment id="137">A emissora de televisão ainda enfrenta outro processo movido pela Smartmatic em um</segment>
+    <segment id="138">casocaso semelhante.</segment>
+    <segment id="139">A controvérsia não afetou a fortuna de Rupert Murdoch</segment>
+    <segment id="140">, que subiu para US$ 8</segment>
+    <segment id="141">,9 bilhões em 2023.  Masayoshi Son</segment>
+    <segment id="142">O investidor japonês fez uma grande aposta na WeWork</segment>
+    <segment id="143">, que oficialmente desmoronou e pediu recuperação judicial em 2023</segment>
+    <segment id="144">, e as pessoas estão questionando seu julgamento depois que ele continuou a investir dinheiro no negócio de trabalho remoto de Adam Neumann</segment>
+    <segment id="145">, mesmo quando estava claro que estava enfrentando dificuldades.</segment>
+    <segment id="146">O fundador da SoftBank Group</segment>
+    <segment id="147">, de 66 anos</segment>
+    <segment id="148">, provavelmente terá mais obstáculos pela frente à medida que os negócios diminuírem.</segment>
+    <segment id="149">Mas ele já</segment>
+    <segment id="150">sese recuperou de situações piores antes</segment>
+    <segment id="151">, reerguendo-</segment>
+    <segment id="152">sese depois de perder dezenas de bilhões de dólares no colapso das empresas ponto-com.</segment>
+    <segment id="153">A fortuna de Son caiu para US$ 11</segment>
+    <segment id="154">,4 bilhões este ano.</segment>
+    <segment id="155">Donald Trump</segment>
+    <segment id="156">O ex-presidente e atual candidato a presidente dos Estados Unidos pode ter perdido a eleição de 2020</segment>
+    <segment id="157">, masmas sua carteira só cresceu.</segment>
+    <segment id="158">Sua fortuna aumentou em US$ 500 milhões desde 2021</segment>
+    <segment id="159">, dando-lhe um patrimônio líquido total de US$ 3</segment>
+    <segment id="160">,1 bilhões</segment>
+    <segment id="161">, de acordo com o ranking da Bloomberg.</segment>
+    <segment id="162">Quais são os 4 processos que Donald Trump enfrenta na Justiça dos EUAMais    novamente         de   de  de  representando um</segment>
+    <segment id="163">Ainda assim</segment>
+    <segment id="164">, 2024 será uma batalha para Trump</segment>
+    <segment id="165">, de 77 anos</segment>
+    <segment id="166">, enquanto ele</segment>
+    <segment id="167">sese defende em processos relacionados à difamação da autora E. Jean Carroll por suposta fraude</segment>
+    <segment id="168">, bem como</segment>
+    <segment id="169">como suas tentativas de reverter a eleição de 2020 —tudo isso enquanto concorre à presidência.</segment>
+    <segment id="170">Changpeng "CZ" Zhao</segment>
+    <segment id="171">De muitas maneiras</segment>
+    <segment id="172">, foi um ano difícil para o fundador de 46 anos da Binance</segment>
+    <segment id="173">, a maior exchange de criptomoedas do mundo.</segment>
+    <segment id="174">Em novembro</segment>
+    <segment id="175">, CZ e a Binance</segment>
+    <segment id="176">sese declararam culpados de lavagem de dinheiro e violações de sanções dos EUA.</segment>
+    <segment id="177">Ele concordou em renunciar ao cargo de CEO e pagar pessoalmente uma multa de US$ 50 milhões</segment>
+    <segment id="178">, além dos US$ 4</segment>
+    <segment id="179">,3 bilhões que a Binance terá que pagar.</segment>
+    <segment id="180">Ainda assim</segment>
+    <segment id="181">, a recuperação das criptomoedas impulsionou a fortuna de CZ em quase US$ 25 bilhões este ano</segment>
+    <segment id="182">, mesmo que ele possa estar indo para a prisão em 2024.</segment>
+  </rst>
+</analysis>

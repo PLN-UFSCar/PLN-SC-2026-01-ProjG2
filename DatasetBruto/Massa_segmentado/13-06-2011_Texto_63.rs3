@@ -1,0 +1,49 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Polícia prende acusado de estupro
+Para contê-lo na fuga</segment>
+    <segment id="2">, os PMs atiraram.</segment>
+    <segment id="3">Disparo atingiu a perna</segment>
+    <segment id="4">Policiais militares do núcleo de inteligência da 18ª CIPM (Periperi) capturaram o ajudante de pedreiro Joceval Cardoso Santos</segment>
+    <segment id="5">, 27 anos.</segment>
+    <segment id="6">Conhecido</segment>
+    <segment id="7">comocomo Negão</segment>
+    <segment id="8">, Joceval é acusado de estuprar duas jovens</segment>
+    <segment id="9">, uma de 18 e outra de 24 anos</segment>
+    <segment id="10">, em Periperi.</segment>
+    <segment id="11">A garota de 24 anos foi atacada na madrugada de 22 de maio e ainda teve o celular roubado.</segment>
+    <segment id="12">Nos últimos dias</segment>
+    <segment id="13">, segundo a polícia</segment>
+    <segment id="14">, Joceval telefonou várias vezes para uma tia da vítima</segment>
+    <segment id="15">, ameaçando-as de morte</segment>
+    <segment id="16">casocaso não mantivesse nova relação sexual com a garota.</segment>
+    <segment id="17">Ele perseguia a vítima no trabalho e escola.</segment>
+    <segment id="18">O criminoso também foi reconhecido pela primeira vítima</segment>
+    <segment id="19">, uma menina de 18 anos</segment>
+    <segment id="20">, que foi estuprada por ele no dia 14 de março</segment>
+    <segment id="21">, na Rua da Glória.</segment>
+    <segment id="22">Ele deu um soco no olho da garota e a ameaçou com faca.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,108 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Todo mundo conhece o gaspacho</segment>
+    <segment id="2">, feito com tomate</segment>
+    <segment id="3">, pepino y otras cositas</segment>
+    <segment id="4">, masmas ele é só uma amostra de uma tradição culinária espanhola: a sopa fria.</segment>
+    <segment id="5">Entre essas sopas</segment>
+    <segment id="6">, a mais antiga é provavelmente o ajoblanco</segment>
+    <segment id="7">, uma receita que é uma combinação tão simples quanto deliciosa —à base de pão</segment>
+    <segment id="8">, amêndoas</segment>
+    <segment id="9">, azeite</segment>
+    <segment id="10">, vinagre e</segment>
+    <segment id="11">, por supuesto</segment>
+    <segment id="12">, alho.</segment>
+    <segment id="13">Enquanto o gaspacho só pôde existir depois que os espanhóis trouxeram o tomate das Américas</segment>
+    <segment id="14">, o ajoblanco tem origens na Antiguidade Clássica.</segment>
+    <segment id="15">Ajoblanco</segment>
+    <segment id="16">, receita espanhola de sopa fria à base de pão</segment>
+    <segment id="17">, amêndoas e alho</segment>
+    <segment id="18">; ela não vai ao fogo - Marcos NogueiraDizem que a sopa descende de uma papa que os romanos preparavam com pão e vinagre.</segment>
+    <segment id="19">Os árabes</segment>
+    <segment id="20">, que ocuparam a Península Ibérica nos tempos medievais</segment>
+    <segment id="21">, teriam sido responsáveis pela popularização das amêndoas na região.</segment>
+    <segment id="22">Hoje o ajoblanco é considerado patrimônio da gastronomia de Málaga</segment>
+    <segment id="23">, na Andaluzia</segment>
+    <segment id="24">, justamente a parte da Espanha que mais guarda a herança cultural da ocupação moura.</segment>
+    <segment id="25">Catedral na cidade de Málaga</segment>
+    <segment id="26">, na Andaluzia</segment>
+    <segment id="27">, sul da Espanha - Clóvis Ferreira/DivulgaçãoO preparo do ajoblanco é ridiculamente simples: basta bater todos os ingredientes no liquidificador.</segment>
+    <segment id="28">A lista de compras para esta receita pode parecer até meio simplória</segment>
+    <segment id="29">, masmas todos os elementos</segment>
+    <segment id="30">sese encaixam perfeitamente no equilíbrio do sabor.</segment>
+    <segment id="31">O pão é a argamassa</segment>
+    <segment id="32">, a sustança do prato.</segment>
+    <segment id="33">As amêndoas e o azeite entregam untuosidade e aromas mais complexos.</segment>
+    <segment id="34">O alho e o vinagre enchem de arestas afiadas a mistura que</segment>
+    <segment id="35">, sem eles</segment>
+    <segment id="36">, seria plana e sem graça.</segment>
+    <segment id="37">O agridoce das uvas</segment>
+    <segment id="38">, acrescentadas na hora de servir</segment>
+    <segment id="39">, balanceia o picante do alho.</segment>
+    <segment id="40">Ajoblanco é uma ótima solução para aproveitar pão amanhecido.</segment>
+    <segment id="41">A maioria das receitas pede para você amolecer o pão velho na água</segment>
+    <segment id="42">, porém</segment>
+    <segment id="43">porém isso só é necessário</segment>
+    <segment id="44">sese ele estiver realmente muito duro.</segment>
+    <segment id="45">Quanto às amêndoas</segment>
+    <segment id="46">, elas devem estar sem pele.</segment>
+    <segment id="47">Se não achar amêndoas peladas para comprar</segment>
+    <segment id="48">, remova a pele aferventando a amêndoa por alguns minutos.</segment>
+    <segment id="49">Idealmente</segment>
+    <segment id="50">, você deve fazer esta sopa com dois tipos de azeite.</segment>
+    <segment id="51">Use um azeite suave para bater o ajoblanco –um azeite de muito intenso vai deixá-lo um tanto amargo e enjoativo– e outro mais aromático para regar na hora de servir.</segment>
+    <segment id="52">Se for usar só um tipo</segment>
+    <segment id="53">, fique com o suave.</segment>
+    <segment id="54">Eu usei vinagre de jerez</segment>
+    <segment id="55">, algo típico da Andaluzia e com um perfil distinto de sabor</segment>
+    <segment id="56">, porque</segment>
+    <segment id="57">porque já tinha um vidro na despensa.</segment>
+    <segment id="58">Qualquer vinagre de vinho vai bem na receita.</segment>
+    <segment id="59">O nome ajoblanco significa</segment>
+    <segment id="60">, literalmente</segment>
+    <segment id="61">, "alho branco".</segment>
+    <segment id="62">A receita leva só um dente de alho contra um montão de pão</segment>
+    <segment id="63">, amêndoas e azeite.</segment>
+    <segment id="64">Ainda assim</segment>
+    <segment id="65">, o alho prepondera no resultado geral.</segment>
+    <segment id="66">É importante servir o ajoblanco gelado e em porções comedidas</segment>
+    <segment id="67">, como</segment>
+    <segment id="68">como a entrada da refeição.</segment>
+    <segment id="69">O sabor do bichinho é uma delícia</segment>
+    <segment id="70">, masmas é feroz.</segment>
+    <segment id="71">AJOBLANCO</segment>
+    <segment id="72">Rendimento: 4 porções  Dificuldade: fácil  Ingredientes  100 g de pão picado  100 g de amêndoas sem pele  100 ml de azeite  350 ml de água</segment>
+    <segment id="73">1 dente de alho  2 colheres (sopa) de vinagre  ½ colher (chá) de sal  Uvas verdes sem semente</segment>
+    <segment id="74">, azeite e pimenta-do-reino para guarnecer  Modo de fazer  1.</segment>
+    <segment id="75">Bata tudo</segment>
+    <segment id="76">, menos as guarnições</segment>
+    <segment id="77">, no liquidificador até obter um creme liso.</segment>
+    <segment id="78">Acrescente mais água</segment>
+    <segment id="79">sese a mistura ficar espessa demais.  2.</segment>
+    <segment id="80">Guarde a sopa num pote tampado e deixe na geladeira por pelo menos duas horas.</segment>
+    <segment id="81">Sirva com uvas verdes</segment>
+    <segment id="82">, um fio de azeite e pimenta preta moída na hora.</segment>
+  </rst>
+</analysis>

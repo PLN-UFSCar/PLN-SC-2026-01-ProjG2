@@ -1,0 +1,56 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Uma pessoa morreu na queda de um caminhão de ponte no município de Fundão (ES)</segment>
+    <segment id="2">, na região metropolitana de Vitória</segment>
+    <segment id="3">, na manhã desta quarta (16).</segment>
+    <segment id="4">Imagens de câmera de segurança mostram o momento da queda.</segment>
+    <segment id="5">Imagens de câmera de segurança mostram o momento da queda de um caminhão de ponte no município de Fundão (ES)</segment>
+    <segment id="6">, na região metropolitana de Vitória</segment>
+    <segment id="7">, na manhã desta quarta (16) - Reprodução PRF</segment>
+    <segment id="8">O veículo seguia no sentido Timbuí.</segment>
+    <segment id="9">A vítima era motorista do caminhão</segment>
+    <segment id="10">, viajava sozinha e foi identificada</segment>
+    <segment id="11">comocomo Gilberto Alves de Souza</segment>
+    <segment id="12">, 30, morador de Viana</segment>
+    <segment id="13">, no mesmo estado</segment>
+    <segment id="14">, segundo informações da PRF (Polícia Rodoviária Federal).</segment>
+    <segment id="15">O caminhão</segment>
+    <segment id="16">, que transportava material de supermercado</segment>
+    <segment id="17">, como</segment>
+    <segment id="18">como caixas e sacolas</segment>
+    <segment id="19">, caiu em um rio que passa sob a ponte.</segment>
+    <segment id="20">A cabine ficou submersa e as rodas para cima.</segment>
+    <segment id="21">Vídeo: Veja o momento do acidente</segment>
+    <segment id="22">A PRF informou não ter havido reação do motorista para evitar o acidente.</segment>
+    <segment id="23">Marcas de frenagem não foram localizadas na pista</segment>
+    <segment id="24">, e a hipótese da corporação é que o motorista dormiu ao volante.</segment>
+    <segment id="25">O trabalho de perícia ainda estava em andamento por volta das 16h30.</segment>
+    <segment id="26">A concessionária que administra a rodovia informou que foram acionados ambulância</segment>
+    <segment id="27">, guincho e viatura de inspeção da empresa</segment>
+    <segment id="28">, além da PRF</segment>
+    <segment id="29">, Samu</segment>
+    <segment id="30">, Iema (Instituto Estadual de Meio Ambiente e Recursos Hídricos e Corpo de Bombeiros.</segment>
+  </rst>
+</analysis>

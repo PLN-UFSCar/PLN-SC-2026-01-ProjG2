@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">BarrigÃ£o de 39 semanas</segment>
+    <segment id="2">Claudia Leitte exibiu o barrigÃ£o ao compartilhar uma foto no Instagram
+Claudia Leitte exibiu o barrigÃ£o de grÃ¡vida nesta quarta-feira (8)</segment>
+    <segment id="3">, ao compartilhar uma foto no Instagram.</segment>
+    <segment id="4">â€œForam 39 semanas saudÃ¡veis!</segment>
+    <segment id="5">Estou na atividade</segment>
+    <segment id="6">, devagar</segment>
+    <segment id="7">, masmas...</segment>
+    <segment id="8">SEMPRE!â€</segment>
+    <segment id="9">, escreveu a cantora</segment>
+    <segment id="10">, que aparece em uma academia de ginÃ¡stica</segment>
+    <segment id="11">, com a camisa do Bahia levantada.</segment>
+    <segment id="12">Claudia deve dar Ã  luz seu segundo filho</segment>
+    <segment id="13">, Rafael</segment>
+    <segment id="14">, nos prÃ³ximos dias.</segment>
+  </rst>
+</analysis>

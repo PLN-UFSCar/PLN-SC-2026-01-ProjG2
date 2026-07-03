@@ -1,0 +1,38 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Fornecimento de água interrompido</segment>
+    <segment id="2">O fornecimento de água será interrompido nesta quarta-feira a partir de 8 horas</segment>
+    <segment id="3">O fornecimento de água será interrompido nesta quarta-feira (1º)</segment>
+    <segment id="4">, a partir de 8 horas</segment>
+    <segment id="5">, em Simões Filho.</segment>
+    <segment id="6">De acordo com a Embasa</segment>
+    <segment id="7">, a suspensão é para realização de serviços de melhoria na rede distribuidora.</segment>
+    <segment id="8">A interrupção atinge os seguintes bairros: Conjunto Residencial CIA I e II</segment>
+    <segment id="9">, Pitanguinha</segment>
+    <segment id="10">, CIA SUL</segment>
+    <segment id="11">, Comunidade Jardim Esperança e Barródromo.</segment>
+    <segment id="12">O abastecimento será normalizado durante a noite.</segment>
+  </rst>
+</analysis>

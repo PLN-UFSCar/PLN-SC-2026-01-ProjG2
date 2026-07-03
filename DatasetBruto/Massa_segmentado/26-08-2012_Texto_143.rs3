@@ -1,0 +1,48 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Paes promete levar ao Complexo da Penha melhorias do vizinho AlemÃ£o
+RIO - O prefeito Eduardo Paes (PMDB)</segment>
+    <segment id="2">, candidato Ã  reeleiÃ§Ã£o</segment>
+    <segment id="3">, fez neste domingo uma caminhada no Complexo da Penha.</segment>
+    <segment id="4">Acompanhado do candidato a vice de sua chapa</segment>
+    <segment id="5">, AdÃ­lson Pires (PT)</segment>
+    <segment id="6">, e de candidatos a vereador do PMDB e do PT</segment>
+    <segment id="7">, Paes andou pela Avenida Nossa Senhora de Aparecida por cerca de 20 minutos</segment>
+    <segment id="8">, cumprimentando eleitores.</segment>
+    <segment id="9">Ele prometeu levar obras e serviÃ§os Ã  localidade</segment>
+    <segment id="10">, vizinha ao Complexo do AlemÃ£o.
+- Estamos no comeÃ§o de uma transformaÃ§Ã£o</segment>
+    <segment id="11">, que jÃ¡ acontece hÃ¡ algum tempo no Complexo do AlemÃ£o</segment>
+    <segment id="12">, e vai acontecer tambÃ©m no Complexo da Penha</segment>
+    <segment id="13">, com ainda mais intensidade - afirmou</segment>
+    <segment id="14">, sem detalhar o que seria feito</segment>
+    <segment id="15">casocaso seja reeleito.</segment>
+    <segment id="16">Na Ã¡rea</segment>
+    <segment id="17">, estÃ£o em construÃ§Ã£o quatro EspaÃ§os de Desenvolvimento Infantil (EDIs)</segment>
+    <segment id="18">, modelo que reÃºne creche e prÃ©-escola</segment>
+    <segment id="19">, e uma Nave do Conhecimento</segment>
+    <segment id="20">, espaÃ§o que oferece cursos profissionalizantes gratuitos e equipamentos para acesso Ã  internet e produÃ§Ã£o de conteÃºdo digital.</segment>
+  </rst>
+</analysis>

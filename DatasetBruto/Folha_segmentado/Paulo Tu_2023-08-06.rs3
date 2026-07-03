@@ -1,0 +1,58 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Santos demitiu o técnico Paulo Turra neste domingo (6).</segment>
+    <segment id="2">Ele foi avisado que não continuaria no cargo após o empate em 1 a 1 com o Athletico neste sábado (5)</segment>
+    <segment id="3">, na Vila Belmiro.</segment>
+    <segment id="4">Trata-</segment>
+    <segment id="5">sese da oitava troca de comando na administração do presidente Andres Rueda</segment>
+    <segment id="6">, iniciada em 2021.</segment>
+    <segment id="7">Paulo Turra entra em campo antes da partida do Santos contra o Goiás - Raul Barretta - 9.jul.23/Santos FCIndicado</segment>
+    <segment id="8">por Luiz Felipe Scolari</segment>
+    <segment id="9">, Turra foi contratado para a vaga de Odair Hellmann</segment>
+    <segment id="10">, masmas ficou à frente do time por apenas sete jogos.</segment>
+    <segment id="11">Foram três derrotas</segment>
+    <segment id="12">, três empates e uma vitória.</segment>
+    <segment id="13">Esta foi obtida contra o Goiás por 4 a 3</segment>
+    <segment id="14">, na Vila</segment>
+    <segment id="15">, com um pênalti nos acréscimos muito contestado pelos visitantes..</segment>
+    <segment id="16">No dia seguinte</segment>
+    <segment id="17">, o árbitro Bruno Arleu de Araújo</segment>
+    <segment id="18">, que deu o penalidade para o alvinegro</segment>
+    <segment id="19">, foi afastado pela comissão de arbitragem.</segment>
+    <segment id="20">Turra marcou sua passagem no clube paulista por ter afastado jogadores.</segment>
+    <segment id="21">O nome mais conhecido foi o de Soteldo</segment>
+    <segment id="22">, que agora pode ser reintegrado.</segment>
+    <segment id="23">Ele recebeu carta branca para fazer isso</segment>
+    <segment id="24">, masmas a promessa de liberdade não durou.</segment>
+    <segment id="25">Turra deixa o time 24 horas após a saída do coordenador de futebol Paulo Roberto Falcão</segment>
+    <segment id="26">, acusado de importunação sexual.</segment>
+    <segment id="27">O favorito ao cargo de treinador é o uruguaio</segment>
+    <segment id="28">Diego Aguirre.</segment>
+    <segment id="29">Em situação difícil no Campeonato Brasileiro</segment>
+    <segment id="30">, o Santos pode terminar a rodada na zona de rebaixamento</segment>
+    <segment id="31">, caso</segment>
+    <segment id="32">caso o Bahia derrote o América-MG.</segment>
+  </rst>
+</analysis>

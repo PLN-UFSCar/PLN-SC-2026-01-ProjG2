@@ -1,0 +1,109 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Chuva provoca estragos na Serra e governo anuncia força-tarefa na região
+RIO - A chuva de quarta-feira provocou o fechamento temporário de dois trechos da RJ- 116</segment>
+    <segment id="2">, que liga Itaboraí a Macuco</segment>
+    <segment id="3">, passando por Nova Friburgo.</segment>
+    <segment id="4">No Km 71</segment>
+    <segment id="5">, em Mury</segment>
+    <segment id="6">, uma árvore caiu sobre a pista e derrubou os fios de energia elétrica que alimentam a região.</segment>
+    <segment id="7">Em Bom Jardim</segment>
+    <segment id="8">, uma barreira deslizou sobre a estrada</segment>
+    <segment id="9">, por onde o vice-governador Luiz Fernando Pezão havia passado momentos antes.</segment>
+    <segment id="10">O governo federal enviará uma força-tarefa à Região Serrana para monitorar as condições climáticas e os riscos de desastres durante a época de chuvas.</segment>
+    <segment id="11">Um centro de operações aberto 24 horas por dia deverá ser instalado na segunda-feira</segment>
+    <segment id="12">, provavelmente em Friburgo.</segment>
+    <segment id="13">A iniciativa será coordenada pelo Ministério da Integração Nacional.</segment>
+    <segment id="14">O governo estuda fazer o mesmo em Minas</segment>
+    <segment id="15">, em Santa Catarina e no Espírito Santo.</segment>
+    <segment id="16">O objetivo da força-tarefa é agilizar as ações de prevenção e resposta a desastres.</segment>
+    <segment id="17">Para o Ministério da Integração Nacional</segment>
+    <segment id="18">, a presença física de agentes federais facilitará a mobilização dos demais órgãos do governo.</segment>
+    <segment id="19">A ideia é que o escritório local acione as Forças Armadas para ceder helicópteros e retirar moradores de áreas de risco.</segment>
+    <segment id="20">O mesmo vale para o Ministério da Saúde</segment>
+    <segment id="21">, caso</segment>
+    <segment id="22">caso seja necessário distribuir remédios.</segment>
+    <segment id="23">O ministro Fernando Bezerra Coelho disse ser a primeira vez que pasta</segment>
+    <segment id="24">sese instala com antecedência em áreas de risco:
+
+- Normalmente</segment>
+    <segment id="25">, a gente chegava após a ocorrência.</segment>
+    <segment id="26">É uma mudança de cultura que demandará tempo.</segment>
+    <segment id="27">Mas estamos muito mais bem preparados do que estávamos um ano atrás.</segment>
+    <segment id="28">Enquanto as chuvas voltavam a fazer estragos na Região Serrana</segment>
+    <segment id="29">, às vésperas de a tragédia de 12 de janeiro passado completar um ano</segment>
+    <segment id="30">, o governo do estado apresentava o mapeamento das áreas de risco iminente em 31 municípios fluminenses.</segment>
+    <segment id="31">O levantamento</segment>
+    <segment id="32">, que exclui a Região Serrana</segment>
+    <segment id="33">, onde já há estudos sendo feitos há mais tempo</segment>
+    <segment id="34">, deve direcionar a atuação das prefeituras em ações preventivas.</segment>
+    <segment id="35">O cenário não é positivo</segment>
+    <segment id="36">, reconheceu Pezão</segment>
+    <segment id="37">, que também é secretário estadual de Obras.</segment>
+    <segment id="38">As previsões indicam grandes volumes de chuva para janeiro:
+
+- Ainda é um verão preocupante.</segment>
+    <segment id="39">As chuvas estão cada vez mais fortes</segment>
+    <segment id="40">, e é fundamental que as cidades ensinem a sua população a agir em situações de emergência.</segment>
+    <segment id="41">Conforme o mapeamento realizado pelo Departamento de Recursos Minerais (DRM)</segment>
+    <segment id="42">, 32 mil pessoas vivem em 7.683 casas erguidas em locais com risco iminente de desabamento e deslizamento.</segment>
+    <segment id="43">Duque de Caxias</segment>
+    <segment id="44">, na Baixada Fluminense</segment>
+    <segment id="45">, apresenta o pior panorama</segment>
+    <segment id="46">, com 680 e 2.680 pessoas ameaçadas.</segment>
+    <segment id="47">Em Barra do Piraí são 590 casas ameaçadas e em Magé</segment>
+    <segment id="48">, 541.</segment>
+    <segment id="49">O mapeamento não conta com os municípios serranos</segment>
+    <segment id="50">, considerados um</segment>
+    <segment id="51">casocaso à parte.</segment>
+    <segment id="52">De acordo com o coronel Sérgio Simões</segment>
+    <segment id="53">, secretário de Defesa Civil estadual</segment>
+    <segment id="54">, municípios com até 200 casas em risco devem disponibilizar para treinamento pelo menos cinco profissionais para atuarem em ações preventivas</segment>
+    <segment id="55">, enquanto cidades com mais residências devem reservar dez profissionais.</segment>
+    <segment id="56">É recomendável ainda a definição de um líder comunitário para cada grupo de dez casas ameaçadas.
+
+- Esse líder deve morar na região e receberá do estado lanterna</segment>
+    <segment id="57">, apito e capa de chuva.</segment>
+    <segment id="58">Não temos tempo para outro sistema de alerta neste verão.</segment>
+    <segment id="59">As prefeituras precisam interagir com os moradores e mapear e indicar por placas as rotas de fuga e os locais seguros para abrigar os moradores em casos de emergência - disse Simões.</segment>
+    <segment id="60">De acordo com o secretário de Meio Ambiente</segment>
+    <segment id="61">, Carlos Minc</segment>
+    <segment id="62">, estão sendo instalados equipamentos de som em carros de secretarias municipais de Defesa Civil</segment>
+    <segment id="63">, ação inspirada na iniciativa da prefeitura de Areal</segment>
+    <segment id="64">, que salvou dezenas de pessoas ao anunciar a elevação das águas do Rio Piabanha na enxurrada de janeiro passado.</segment>
+    <segment id="65">O governo do estado vai disponibilizar R$ 5 milhões para auxiliar prefeituras a transformar dados do mapeamento em projetos necessários à captação de recursos federais.</segment>
+    <segment id="66">Há ainda outros R$ 50 milhões</segment>
+    <segment id="67">, destinados a desapropriações e investimentos em áreas de risco.</segment>
+    <segment id="68">Secretário de Assistência Social</segment>
+    <segment id="69">, Rodrigo Neves ressaltou ainda que</segment>
+    <segment id="70">, desde junho</segment>
+    <segment id="71">, há R$ 30 milhões em um fundo para municípios que precisem capacitar profissionais na área humanitária.</segment>
+    <segment id="72">Estão reservados R$ 1</segment>
+    <segment id="73">,3 milhão para a Região Serrana</segment>
+    <segment id="74">, contemplada também pela extensão do pagamento do aluguel social por mais um ano.</segment>
+    <segment id="75">-</segment>
+    <segment id="76">É importante as prefeituras priorizem projetos habitacionais - disse.</segment>
+  </rst>
+</analysis>

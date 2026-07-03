@@ -1,0 +1,92 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Carrefour informou aos clientes de quatro países europeus que não venderá mais produtos da PepsiCo</segment>
+    <segment id="2">, como</segment>
+    <segment id="3">como Pepsi e batatas fritas</segment>
+    <segment id="4">Lay's,</segment>
+    <segment id="5">porque</segment>
+    <segment id="6">porque eles estão muito caros</segment>
+    <segment id="7">, no mais recente episódio da disputa entre varejistas e gigantes globais de alimentos.</segment>
+    <segment id="8">A partir desta quinta-feira (4)</segment>
+    <segment id="9">, as prateleiras dos produtos PepsiCo nas lojas do Carrefour na França</segment>
+    <segment id="10">, na Itália</segment>
+    <segment id="11">, na Espanha e na Bélgica exibirão cartazes informando que a unidade não armazenará mais as marcas "devido a aumentos de preços inaceitáveis"</segment>
+    <segment id="12">, disse um porta-voz do supermercado francês.</segment>
+    <segment id="13">A PepsiCo não respondeu a um pedido de comentário.</segment>
+    <segment id="14">Carrefour coloca aviso que Pepsi e batatas fritas Lay&amp;#039</segment>
+    <segment id="15">;s não serão mais vendidos na França por causa dos &amp;#039</segment>
+    <segment id="16">;preços inaceitáveis&amp;#039</segment>
+    <segment id="17">; - Stephanie Lecocq/ReutersA empresa norte-americana disse em outubro que planejava aumentos "modestos" de preços este ano</segment>
+    <segment id="18">, uma vez que a demanda</segment>
+    <segment id="19">sese manteve apesar de reajustes anteriores</segment>
+    <segment id="20">, levando-a a elevar a previsão de lucro para 2023 pela terceira vez consecutiva.</segment>
+    <segment id="21">A mudança do Carrefour impacta mais de 9 mil lojas nos quatro países</segment>
+    <segment id="22">, totalizando dois terços da presença global do varejista de 14.348 lojas</segment>
+    <segment id="23">, segundo seu relatório anual de 2022.</segment>
+    <segment id="24">Varejistas de produtos alimentares em vários países</segment>
+    <segment id="25">, incluindo a Alemanha e a Bélgica</segment>
+    <segment id="26">, também suspenderam as encomendas</segment>
+    <segment id="27">, numa tática nas negociações de preços que</segment>
+    <segment id="28">sese tornaram mais tensas devido à inflação.</segment>
+    <segment id="29">Alguns produtos da PepsiCo</segment>
+    <segment id="30">, como</segment>
+    <segment id="31">como Cheetos e 7Up</segment>
+    <segment id="32">, não estavam disponíveis em um supermercado Carrefour no elegante 16º distrito de Paris nesta quinta-feira (4)</segment>
+    <segment id="33">, enquanto outros</segment>
+    <segment id="34">, incluindo a Pepsi</segment>
+    <segment id="35">, ainda estavam nas prateleiras</segment>
+    <segment id="36">, ao lado das placas.</segment>
+    <segment id="37">Os clientes do supermercado aprovaram a medida.</segment>
+    <segment id="38">"</segment>
+    <segment id="39">Isso não me surpreende em nada"</segment>
+    <segment id="40">, disse a compradora Edith Carpentier à Reuters.</segment>
+    <segment id="41">"</segment>
+    <segment id="42">Acho que ainda restarão muitos produtos nas prateleiras</segment>
+    <segment id="43">porque</segment>
+    <segment id="44">porque ficaram muito caros e são coisas que podemos evitar comprar.</segment>
+    <segment id="45">"</segment>
+    <segment id="46">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="47">; aberta para não assinantes.</segment>
+    <segment id="48">Carregando...</segment>
+    <segment id="49">O Carrefour tem sido um dos varejistas mais ativos a desafiar as grandes empresas de produtos de consumo e de alimentos em relação aos preços.</segment>
+    <segment id="50">No ano passado</segment>
+    <segment id="51">, o grupo deu início a uma campanha de alerta aos consumidores sobre o encolhimento de produtos</segment>
+    <segment id="52">, colocando avisos naqueles cujas embalagens diminuíram de tamanho</segment>
+    <segment id="53">, masmas que seguiram custando mais.</segment>
+    <segment id="54">O porta-voz não pôde confirmar imediatamente nesta quinta-feira</segment>
+    <segment id="55">sese esse ainda era o</segment>
+    <segment id="56">casocaso.</segment>
+    <segment id="57">Em esforços para reduzir a inflação</segment>
+    <segment id="58">, o governo francês pediu aos varejistas e fornecedores que encerrem negociações anuais de preços em janeiro</segment>
+    <segment id="59">, dois meses antes do habitual.</segment>
+    <segment id="60">A França destoa da Europa na medida em que regula fortemente o setor varejista</segment>
+    <segment id="61">, forçando os supermercados a negociar preços apenas uma vez por ano com os produtores de alimentos e bebidas</segment>
+    <segment id="62">, numa tentativa de proteger sua indústria agrícola.</segment>
+    <segment id="63">Mas a última rodada de negociações no início do ano passado</segment>
+    <segment id="64">, no auge da crise inflacionária</segment>
+    <segment id="65">, resultou em aumentos de preços muito elevados em todos os níveis</segment>
+    <segment id="66">, o que atingiu o volume de negócios nos supermercados e os estimulou a negociar reduções de preços desta vez.</segment>
+  </rst>
+</analysis>

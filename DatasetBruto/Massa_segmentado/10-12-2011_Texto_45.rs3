@@ -1,0 +1,49 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Polícia acaba com Ocupem Wall Street de Boston
+BOSTON - A polícia desmontou o acampamento de manifestantes do movimento Ocupem Wall Street do distrito financeiro de Boston na manhã de ontem</segment>
+    <segment id="2">, prendendo 47 pessoas.</segment>
+    <segment id="3">Boston era uma das poucas grandes cidades americanas onde as autoridades ainda não haviam expulsado de lugares públicos os integrantes do movimento.</segment>
+    <segment id="4">Havia cerca de 75 pessoas no acampamento</segment>
+    <segment id="5">, montado em Dewey Square - uma área verde em frente ao Federal Reserve (banco central americano) de Boston e à principal estação de trem da cidade - quando os policiais chegaram</segment>
+    <segment id="6">, por volta das 5h de ontem.</segment>
+    <segment id="7">Segundo a polícia a operação foi pacífica.</segment>
+    <segment id="8">Foram detidas 33 mulheres e 14 crianças</segment>
+    <segment id="9">, sob a alegação de invasão de propriedade.</segment>
+    <segment id="10">A expulsão não foi uma surpresa.</segment>
+    <segment id="11">Na quinta-feira</segment>
+    <segment id="12">, um juiz de Boston cassou uma liminar que impedia a polícia de desocupar a área.</segment>
+    <segment id="13">Na sexta-feira</segment>
+    <segment id="14">, os manifestantes receberam uma notificação com a decisão judicial.</segment>
+    <segment id="15">Eles foram alertados de que</segment>
+    <segment id="16">, sese não não removessem o acampamento até 24h daquele dia</segment>
+    <segment id="17">, seriam expulsos.
+
+- Em nome da segurança pública</segment>
+    <segment id="18">, tivemos que agir -</segment>
+    <segment id="19">, disse o prefeito de Boston</segment>
+    <segment id="20">, Thomas Menino.</segment>
+  </rst>
+</analysis>

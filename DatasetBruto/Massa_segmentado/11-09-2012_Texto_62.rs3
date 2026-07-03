@@ -1,0 +1,52 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Sine dispÃµe de 149 vagas para o 2Âº grau</segment>
+    <segment id="2">VÃ¡ ao Sine levando Ctps</segment>
+    <segment id="3">, RG, CPF</segment>
+    <segment id="4">, comprovantes de residÃªncia e de escolaridade</segment>
+    <segment id="5">Os postos sÃ£o de ajudante de carga e descarga (5)</segment>
+    <segment id="6">, auxiliar de cozinha (6)</segment>
+    <segment id="7">, cabista (18)</segment>
+    <segment id="8">,  consultora de venda externa (13)</segment>
+    <segment id="9">,  copeira de hospital (10)</segment>
+    <segment id="10">, corretor de imÃ³veis (10)</segment>
+    <segment id="11">, encarregado de logÃ­stica (5)</segment>
+    <segment id="12">, encarregado de obras (5)</segment>
+    <segment id="13">, inspetor de seguranÃ§a (10)</segment>
+    <segment id="14">, instalador de linhas telefÃ´nicas  (18)</segment>
+    <segment id="15">, lÃ­der em instalaÃ§Ã£o de linhas telefÃ´nicas (8)</segment>
+    <segment id="16">,  motoboy (6)</segment>
+    <segment id="17">, motorista de caminhÃ£o guincho (8)</segment>
+    <segment id="18">, oficial de redes telefÃ´nicas (12)</segment>
+    <segment id="19">, projetista elÃ©trico (5) e promotor de vendas (10).</segment>
+    <segment id="20">VÃ¡ ao Sine (Av. ACM</segment>
+    <segment id="21">, nÂº 3.359</segment>
+    <segment id="22">, Edf.</segment>
+    <segment id="23">Torres do Iguatemi ou postos do SAC)</segment>
+    <segment id="24">,  levando Ctps</segment>
+    <segment id="25">, RG, CPF</segment>
+    <segment id="26">, comprovantes de residÃªncia e de escolaridade.</segment>
+  </rst>
+</analysis>

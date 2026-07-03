@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A cantora Preta Gil vai estampar a capa de março da revista Claudia.</segment>
+    <segment id="2">Ela falou à publicação sobre seus projetos para celebrar os 20 anos de carreira e sobre padrões estéticos.</segment>
+    <segment id="3">A cantora Preta Gil posa em ensaio para a edição de março da revista Claudia - Raquel Espírito Santo/DivulgaçãoCURVAS  "</segment>
+    <segment id="4">A gente normalizou um padrão de beleza que trouxe muitas mazelas</segment>
+    <segment id="5">, e as revistas têm responsabilidade em transformar esse cenário.</segment>
+    <segment id="6">Eu não sou o padrão</segment>
+    <segment id="7">, eu represento a ruptura"</segment>
+    <segment id="8">, disse.</segment>
+    <segment id="9">A cantora Preta Gil posa em ensaio para a edição de março da revista Claudia - Raquel Espírito Santo/DivulgaçãoCURVAS 2</segment>
+    <segment id="10">A pedido de Preta</segment>
+    <segment id="11">, as fotos do ensaio não passaram por tratamento de pele</segment>
+    <segment id="12">, apenas por correções de luz.</segment>
+    <segment id="13">A edição chega às bancas na sexta (11).  com BIANKA VIEIRA</segment>
+    <segment id="14">, KARINA MATIAS e MANOELLA SMITH</segment>
+  </rst>
+</analysis>

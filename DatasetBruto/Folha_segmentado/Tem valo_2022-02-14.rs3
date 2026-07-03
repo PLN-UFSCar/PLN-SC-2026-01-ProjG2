@@ -1,0 +1,172 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Banco Central liberou neste domingo (13) o acesso à plataforma do Sistema de Valores a Receber (SVR) do governo.</segment>
+    <segment id="2">Quem tem dinheiro a receber deverá retornar ao site na data informada no primeiro acesso e logar em sua conta gov.br</segment>
+    <segment id="3">, que deverá ter nível de segurança prata ou ouro</segment>
+    <segment id="4">, para solicitar a transferência dos valores.</segment>
+    <segment id="5">A conta criada na plataforma do governo gov.br dá acesso a serviços digitais do governo</segment>
+    <segment id="6">, como</segment>
+    <segment id="7">como o aplicativo Conecte Sus (Sistema Único de Saúde)</segment>
+    <segment id="8">, o Meu INSS (Instituto Nacional do Seguro Social) e a Carteira de Trabalho Digital.</segment>
+    <segment id="9">Também é o login usado para acesso ao sistema do Enem (Exame Nacional do Ensino Médio) e à CNH (Carteira Nacional de Habilitação).</segment>
+    <segment id="10">Agora, esse login será usado também para solicitar as transferências dos valores disponíveis no Sistema de Valores a Receber do Banco Central.</segment>
+    <segment id="11">Gabriel Cabral/FolhapressAs contas simples criadas no portal gov.br têm nível de segurança bronze</segment>
+    <segment id="12">, considerado o menos seguro.</segment>
+    <segment id="13">Para acessar funcionalidades do portal que exigem maior segurança</segment>
+    <segment id="14">, como</segment>
+    <segment id="15">como a assinatura eletrônica de documentos</segment>
+    <segment id="16">, a transferência de valores do SVR e realização da prova de vida digital do INSS</segment>
+    <segment id="17">, é preciso realizar alguns passos que transformam a conta nível bronze em prata ou ouro.</segment>
+    <segment id="18">Os principais recursos para "subir" o nível de segurança da conta envolvem o uso da biometria facial cadastrada em serviços do governo (</segment>
+    <segment id="19">comocomo Denatran ou TSE) ou o acesso ao gov.br por meio de conta bancária já existente e</segment>
+    <segment id="20">, portanto</segment>
+    <segment id="21">, cujas informações pessoais já foram verificadas pela instituição financeira.</segment>
+    <segment id="22">Além de criar uma conta bronze e transformá-la em prata ou ouro</segment>
+    <segment id="23">, também é possível realizar o cadastro no portal gov.br já nestes níveis de segurança</segment>
+    <segment id="24">, ao realizar o acesso ao gov.br utilizando as credenciais de seu banco.</segment>
+    <segment id="25">Saiba mais sobre a consulta ao dinheiro esquecidoBanco Central: veja</segment>
+    <segment id="26">comocomo consultar valores a receber e calendárioBanco Central: herdeiros também têm valores a receber</segment>
+    <segment id="27">; veja o que fazer81% das consultas por dinheiro esquecido não têm saldo a receber do Banco CentralTem valores a receber do Banco Central?</segment>
+    <segment id="28">Veja como</segment>
+    <segment id="29">como usar o gov.brNão tem valores a receber do Banco Central?</segment>
+    <segment id="30">Nova consulta começa em maioValores a Receber do Banco Central gera memes</segment>
+    <segment id="31">; veja reações dos decepcionadosMais de 37 milhões consultaram site do Banco Central de Valores a Receber  Veja</segment>
+    <segment id="32">comocomo criar e aumentar a segurança da sua conta no portal do governo:</segment>
+    <segment id="33">Crie a conta</segment>
+    <segment id="34">O cadastro gratuito é feito no site ou pelo app Gov.br (Google Play e App Store)</segment>
+    <segment id="35">Informe seu CPF</segment>
+    <segment id="36">, selecione as opções de Termo de Uso</segment>
+    <segment id="37">, Não sou robô e clique em Continuar</segment>
+    <segment id="38">Como aumentar o nível de segurança da conta</segment>
+    <segment id="39">Após acessar a conta no gov.br</segment>
+    <segment id="40">, clique na opção "Privacidade" e</segment>
+    <segment id="41">, em seguida</segment>
+    <segment id="42">, em "</segment>
+    <segment id="43">Gerenciar lista de selos de confiabilidade" e autorize o uso de dados pessoais</segment>
+    <segment id="44">A página mostrará o nível de segurança da conta e a lista de opções para "adquirir novas confiabilidades do gov.br"</segment>
+    <segment id="45">, ou seja</segment>
+    <segment id="46">, aumentar a segurança</segment>
+    <segment id="47">Para obter nível prata por meio da carteira de motorista   Para quem tem a biometria já cadastrada no Denatran</segment>
+    <segment id="48">, o sistema dá opção de validação com esses dados Para isso</segment>
+    <segment id="49">, em "</segment>
+    <segment id="50">Adquirir novas confiabilidades do gov.br"</segment>
+    <segment id="51">, selecione "</segment>
+    <segment id="52">Cadastro</segment>
+    <segment id="53">Validado por Biometria Facial (Denatran)" e clique em "Gerar QR</segment>
+    <segment id="54">Code"</segment>
+    <segment id="55">Abra o aplicativo gov.br em seu celular</segment>
+    <segment id="56">, clique em "Ler QR</segment>
+    <segment id="57">Code" e aponte a câmera do celular para o código gerado no computador</segment>
+    <segment id="58">Após a leitura do código</segment>
+    <segment id="59">, clique em "Fazer reconhecimento facial" e siga as instruções para tirar a foto</segment>
+    <segment id="60">, como</segment>
+    <segment id="61">como piscar e sorrir até o sistema validar as informações</segment>
+    <segment id="62">Clique em "Ok" no celular e continue o processo no computador</segment>
+    <segment id="63">; o sistema irá comparar a foto tirada com a foto disponível no cadastro da carteira de motorista</segment>
+    <segment id="64">Para obter nível prata por meio de conta em banco  Em "Selos de Confiabilidade"</segment>
+    <segment id="65">, clicar em "</segment>
+    <segment id="66">Cadastro via Internet</segment>
+    <segment id="67">Banking</segment>
+    <segment id="68">do [nome do banco]"</segment>
+    <segment id="69">e seguir os passos do banco para acessar sua conta e validar os dados por meio do acesso da conta bancária</segment>
+    <segment id="70">.</segment>
+    <segment id="71">Se o usuário for cliente do Bradesco</segment>
+    <segment id="72">, por exemplo</segment>
+    <segment id="73">, os passos seguintes para obtenção do nível prata por meio da conta bancária serão</segment>
+    <segment id="74">, segundo o banco:</segment>
+    <segment id="75">Clique em "Continuar" na página em que aparece a mensagem "</segment>
+    <segment id="76">O site Gov.br quer acessar algumas informações de seu perfil"</segment>
+    <segment id="77">Em seguida</segment>
+    <segment id="78">, informe os dados da conta bancária</segment>
+    <segment id="79">, como</segment>
+    <segment id="80">como agência e número Acesse o aplicativo do Bradesco e selecione "</segment>
+    <segment id="81">Chave de Segurança"</segment>
+    <segment id="82">Em seguida</segment>
+    <segment id="83">, selecione "Validação digital"</segment>
+    <segment id="84">Escaneie o QR</segment>
+    <segment id="85">Code e digite o código de oito dígitos gerado no aplicativo Digite a senha do internet banking</segment>
+    <segment id="86">Na página de autorização</segment>
+    <segment id="87">, leia o termo de consentimento e clique em "</segment>
+    <segment id="88">Autorizar"</segment>
+    <segment id="89">Aparecerá a mensagem "</segment>
+    <segment id="90">Autorização efetuada" e o usuário será direcionado para o site Gov.br</segment>
+    <segment id="91">Leia mais Veja</segment>
+    <segment id="92">comocomo consultar os valores a receber do Banco Central e o calendário de transferênciasNão tem valores a receber do Banco Central?</segment>
+    <segment id="93">Nova consulta começa em maio36 milhões consultaram site do Banco Central de Valores a ReceberValores a Receber do Banco Central gera piadas na internetComo logar automaticamente com nível prata</segment>
+    <segment id="94">Há ainda a alternativa de substituir os três passos anteriores pelo login no gov.br com as credenciais do banco.</segment>
+    <segment id="95">Assim, o usuário já acessa o portal com nível de segurança prata</segment>
+    <segment id="96">, automaticamente.</segment>
+    <segment id="97">Se o usuário for cliente do Banco do Brasil</segment>
+    <segment id="98">, por exemplo</segment>
+    <segment id="99">, deve seguir os passos:</segment>
+    <segment id="100">Acessar a página acesso.portal.gov.br e escolher a opção "</segment>
+    <segment id="101">Seu Banco"</segment>
+    <segment id="102">Selecionar "</segment>
+    <segment id="103">Banco do Brasil"</segment>
+    <segment id="104">Informar agência</segment>
+    <segment id="105">, conta e senha de 8 dígitos</segment>
+    <segment id="106">; por segurança</segment>
+    <segment id="107">, a barra de endereço deve contar um cadeado e o endereço https://oauth.bb.com.br</segment>
+    <segment id="108">Um código de verificação é enviado para o celular do cliente</segment>
+    <segment id="109">, via SMS.</segment>
+    <segment id="110">O cliente deve confirmar que está na página https://oauth.bb.com.br e digitar o código para completar o acesso</segment>
+    <segment id="111">O acesso nível prata é concedido   Se a conta for do Santander</segment>
+    <segment id="112">, os passos informados pelo banco são:</segment>
+    <segment id="113">Acessar a página acesso.portal.gov.br e escolher a opção "</segment>
+    <segment id="114">Seu Banco"</segment>
+    <segment id="115">Clicar em "Santander"</segment>
+    <segment id="116">Informar o CPF e senha do internet ou mobile banking</segment>
+    <segment id="117">Se o acesso for feito pelo celular</segment>
+    <segment id="118">, será enviado SMS para confirmação</segment>
+    <segment id="119">, que deverá ser digitado no site gov.br</segment>
+    <segment id="120">Caso o acesso seja pelo computador</segment>
+    <segment id="121">, será necessário realizar a confirmação de segurança capturando o QR</segment>
+    <segment id="122">Code pelo mobile banking</segment>
+    <segment id="123">, informando o código gerado pelo celular</segment>
+    <segment id="124">O gov.br informará que poderá acessar sua conta para consultar informações de nome completo e CPF registrado</segment>
+    <segment id="125">Com a confirmação do acesso</segment>
+    <segment id="126">, o nível de segurança do gov.br é elevado para prata automaticamente.</segment>
+    <segment id="127">O Itaú informou que o serviço estará disponível em breve para seus clientes.</segment>
+    <segment id="128">Para obter nível ouro  Opção para quem tem biometria cadastrada nas bases do TSE (Tribunal Superior Eleitoral).</segment>
+    <segment id="129">Os passos são similares à validação da biometria no Denatran:</segment>
+    <segment id="130">Para isso</segment>
+    <segment id="131">, em "</segment>
+    <segment id="132">Adquirir novas confiabilidades do gov.br" no site gov.br</segment>
+    <segment id="133">, selecione "</segment>
+    <segment id="134">Cadastro</segment>
+    <segment id="135">Validado por Biometria Facial (TSE)" e clique em "Gerar QR</segment>
+    <segment id="136">Code"</segment>
+    <segment id="137">Abra o aplicativo gov.br em seu celular</segment>
+    <segment id="138">, clique em "Ler QR</segment>
+    <segment id="139">Code" e aponte a câmera do celular para o código gerado no computador</segment>
+    <segment id="140">Após a leitura do código</segment>
+    <segment id="141">, clique em "Fazer reconhecimento facial" e siga as instruções para tirar a foto</segment>
+    <segment id="142">, como</segment>
+    <segment id="143">como piscar e sorrir até o sistema validar as informações</segment>
+    <segment id="144">Clique em "Ok" no celular e continue o processo no computador</segment>
+    <segment id="145">; o sistema irá comparar a foto tirada com a foto disponível no cadastro do título do eleitor</segment>
+    <segment id="146">Sistema Valores a Receber reúne dinheiro esquecido nos bancosMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

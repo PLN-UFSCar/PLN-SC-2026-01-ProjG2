@@ -1,0 +1,49 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Pedreiro é morto e jogado em esgoto</segment>
+    <segment id="2">Policias da 27ª Delegacia Territorial (DT/Itinga) prenderam Wellington e e Adriano</segment>
+    <segment id="3">O corpo do pedreiro Valnei Góes Soares</segment>
+    <segment id="4">, 30, foi encontrado enrolado em um lençol</segment>
+    <segment id="5">, de cabeça para baixo</segment>
+    <segment id="6">, dentro de uma manilha de esgoto</segment>
+    <segment id="7">, próximo ao Bairro da Paz</segment>
+    <segment id="8">, em uma localidade conhecida</segment>
+    <segment id="9">comocomo Big Brother.</segment>
+    <segment id="10">O corpo tinha marcas de agressão.</segment>
+    <segment id="11">Soares saiu de casa na sexta-feira (2)</segment>
+    <segment id="12">, masmas seu corpo só   foi achado sábado à tarde.</segment>
+    <segment id="13">Luciana Santos da Silva</segment>
+    <segment id="14">, companheira da vítima</segment>
+    <segment id="15">, disse que ele usava drogas e havia brigado com traficantes  do bairro Jardim Metrópole</segment>
+    <segment id="16">, em Lauro de Freitas</segment>
+    <segment id="17">, onde morava.</segment>
+    <segment id="18">Segundo ela</segment>
+    <segment id="19">, os supostos assassinos  a telefonaram</segment>
+    <segment id="20">, dando a notícia do crime e fazendo ameaça.</segment>
+    <segment id="21">Policias da 27ª Delegacia Territorial (DT/Itinga) prenderam Wellington e Adriano Bastos</segment>
+    <segment id="22">, denunciados por Luciana</segment>
+    <segment id="23">, masmas por falta de provas eles foram liberados.</segment>
+  </rst>
+</analysis>

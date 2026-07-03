@@ -1,0 +1,133 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O projeto de lei que deverá regulamentar a atividade profissional de trabalhadores por meio de aplicativos deve ser entregue até terça-feira (31)</segment>
+    <segment id="2">, segundo o ministro Luiz Marinho</segment>
+    <segment id="3">, do Trabalho e Emprego</segment>
+    <segment id="4">, mesmo sem consenso entre empresas</segment>
+    <segment id="5">, governo e trabalhadores.</segment>
+    <segment id="6">O ministro afirma que o acordo está fechado com as empresas de transporte de passageiros</segment>
+    <segment id="7">, como</segment>
+    <segment id="8">como Uber</segment>
+    <segment id="9">, 99 e Cabify.</segment>
+    <segment id="10">No caso</segment>
+    <segment id="11">caso do trabalho dos entregadores</segment>
+    <segment id="12">, o acordo não avançou com o setor chamado de duas rodas</segment>
+    <segment id="13">, que envolve IFood</segment>
+    <segment id="14">, por exemplo</segment>
+    <segment id="15">, e o governo deverá "arbitrar" pró-trabalhador</segment>
+    <segment id="16">, diz ele.</segment>
+    <segment id="17">"Eu vou arbitrar para o lado dos trabalhadores</segment>
+    <segment id="18">, para dar transparência total.</segment>
+    <segment id="19">Então,</segment>
+    <segment id="20">sese as plataformas não chegarem a um acordo nos próximos dias</segment>
+    <segment id="21">, nos próximos 15 dias</segment>
+    <segment id="22">, o conceito que for de transporte de pessoas</segment>
+    <segment id="23">, nós vamos usar o mesmo conceito para transporte de cargas e vamos negociar as bases com os trabalhadores.</segment>
+    <segment id="24">É isso.</segment>
+    <segment id="25">"  Luiz Marinho</segment>
+    <segment id="26">, ministro do Trabalho e Emprego</segment>
+    <segment id="27">, no destaque do telão</segment>
+    <segment id="28">, em evento sobre sindicatos em São Paulo</segment>
+    <segment id="29">; segundo ele</segment>
+    <segment id="30">, projeto dos apps está nos detalhes finais - Cristiane Gercina/Folhapress   Marinho falou sobre o tema à Folha na 5ª edição do Sindimais</segment>
+    <segment id="31">, evento que reúne sindicatos</segment>
+    <segment id="32">, na última quinta-feira (26).</segment>
+    <segment id="33">A lei deverá contemplar regras já acordadas com o setor de quatro rodas e</segment>
+    <segment id="34">, mesmo sem consenso no setor de duas rodas</segment>
+    <segment id="35">, deverá valer para entregadores por motos e bicicletas.</segment>
+    <segment id="36">Segundo ele</segment>
+    <segment id="37">, será dado cerca de 15 dias</segment>
+    <segment id="38">para que</segment>
+    <segment id="39">para que as empresas "</segment>
+    <segment id="40">sese acertem"</segment>
+    <segment id="41">, caso</segment>
+    <segment id="42">caso contrário</segment>
+    <segment id="43">, terão de aceitar o que foi desenhado após as discussões do grupo que envolve trabalhadores</segment>
+    <segment id="44">, governo e empresas.</segment>
+    <segment id="45">O ministro afirma que faltam apenas alguns detalhes</segment>
+    <segment id="46">para que</segment>
+    <segment id="47">para que o projetoapresentado ao presidente Lula.</segment>
+    <segment id="48">"</segment>
+    <segment id="49">É questão de detalhe no texto</segment>
+    <segment id="50">, de ver a agenda do presidente para apresentar a ele todo o escopo desse acordo e dar um ok"</segment>
+    <segment id="51">, disse.</segment>
+    <segment id="52">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="53">; aberta para não assinantes.</segment>
+    <segment id="54">Carregando...</segment>
+    <segment id="55">"A gente vai fazer a programação de agenda com a direção das casas [Câmara e Senado]</segment>
+    <segment id="56">, para expor a eles</segment>
+    <segment id="57">, socializar com o Mistério Público</segment>
+    <segment id="58">, socializar com o Judiciário e a partir daí encaminhar [para votação].</segment>
+    <segment id="59">"</segment>
+    <segment id="60">A regulamentação dos trabalhadores por aplicativos deverá prever valor mínimo da hora trabalhada</segment>
+    <segment id="61">, contribuição ao INSS (Instituto Nacional do Seguro Social) e seguro de vida de R$ 40 mil</segment>
+    <segment id="62">, conforme minuta a qual a Folha teve acesso.</segment>
+    <segment id="63">À plateia de sindicalistas</segment>
+    <segment id="64">, Marinho afirmou que as empresas do setor de entregas disseram que a proteção ao trabalhador "não cabe no escopo" delas.</segment>
+    <segment id="65">"</segment>
+    <segment id="66">Os entregadores ainda não têm acordo</segment>
+    <segment id="67">, porque</segment>
+    <segment id="68">porque não cabem no escopo do negócio.</segment>
+    <segment id="69">Não tem um acordo</segment>
+    <segment id="70">, o governo vai arbitrar.</segment>
+    <segment id="71">Eu vou arbitrar"</segment>
+    <segment id="72">, falou.</segment>
+    <segment id="73">Entenda os tipos de contratos de trabalhoMais    novamente         de   de  de  representando um</segment>
+    <segment id="74">O projeto de lei vai prever três formas de contribuição ao INSS</segment>
+    <segment id="75">, como</segment>
+    <segment id="76">como contribuinte individual</segment>
+    <segment id="77">, autônomo ou carteira assinada</segment>
+    <segment id="78">, a depender da relação de trabalho entre o profissional e a plataforma.</segment>
+    <segment id="79">No entanto</segment>
+    <segment id="80">, não haverá a possibilidade de ser MEI (Microempreendedor Individual).  "</segment>
+    <segment id="81">O MEI não</segment>
+    <segment id="82">; está muito fora.</segment>
+    <segment id="83">Não tem debate sobre MEI.</segment>
+    <segment id="84">Não cabe.</segment>
+    <segment id="85">"</segment>
+    <segment id="86">Questionado sobre os motoristas que já contribuem ao INSS</segment>
+    <segment id="87">comocomo MEIs</segment>
+    <segment id="88">, disse que terão de adaptar.</segment>
+    <segment id="89">"</segment>
+    <segment id="90">Eles vão ter que</segment>
+    <segment id="91">sese adequar.</segment>
+    <segment id="92">"</segment>
+    <segment id="93">Leia tambémTST usa tese da &amp;#039</segment>
+    <segment id="94">;gamificação&amp;#039</segment>
+    <segment id="95">; para reconhecer vínculo trabalhista com a UberUberização no mundo do trabalho impõe desafios à esquerda&amp;#039</segment>
+    <segment id="96">;Não chamei a Uber para vir</segment>
+    <segment id="97">, não vou falar para ir&amp;#039</segment>
+    <segment id="98">;, afirma ministroJustiça multa Uber em R$ 1 bilhão e manda empresa registrar motoristasProcurada</segment>
+    <segment id="99">, a Amobitec (Associação Brasileira de Mobilidade e Tecnologia) afirma que "participou de forma ativa nas discussões sobre a regulação do trabalho intermediado por plataformas tecnológicas no Grupo de Trabalho Tripartite criado pelo governo federal" e que vê "de forma positiva a evolução das discussões".</segment>
+    <segment id="100">"</segment>
+    <segment id="101">Reconhecemos dois pontos consensuais nas discussões ocorridas no âmbito do Grupo de Trabalho Tripartite: um valor mínimo por hora efetivamente trabalhada que considere os gastos operacionais dos trabalhadores e um modelo de integração na Previdência Social"</segment>
+    <segment id="102">, afirma a associação.</segment>
+    <segment id="103">A entidade defende "a inserção dos trabalhadores no sistema de contribuição previdenciária" e diz que segue interessada em colaborar com a construção de um modelo regulatório.</segment>
+    <segment id="104">Uber pagará R$ 1.000 a motoristas nível &amp;#</segment>
+    <segment id="105">039;diamante&amp;#039</segment>
+    <segment id="106">; no aplicativoMais    novamente         de   de  de  representando</segment>
+    <segment id="107">um</segment>
+  </rst>
+</analysis>

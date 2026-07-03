@@ -1,0 +1,94 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um histórico de escândalos no Ministério dos Transportes
+RIO - Hoje no centro do noticiário por denúncias de corrupção</segment>
+    <segment id="2">, o Departamento Nacional de Infraestrutura de Transportes (Dnit) nasceu de um escândalo.</segment>
+    <segment id="3">A autarquia foi criada com a extinção do Departamento Nacional de Estradas de Rodagem (DNER)</segment>
+    <segment id="4">, que implodiu no governo de Fernando Henrique Cardoso</segment>
+    <segment id="5">, após a descoberta</segment>
+    <segment id="6">, em 1999</segment>
+    <segment id="7">, da "máfia dos precatórios".</segment>
+    <segment id="8">A mudança de nome não fez cessar as denúncias.
+PRECATÓRIOS:</segment>
+    <segment id="9">No governo FH o Ministério Público Federal</segment>
+    <segment id="10">detectou existência de um grupo de lobistas e funcionários públicos que recebia propina para favorecer o pagamento de indenizações judiciais milionárias do DNER</segment>
+    <segment id="11">, sem base jurídica consistente.</segment>
+    <segment id="12">Para furar a fila dos precatórios</segment>
+    <segment id="13">, os beneficiários teriam pago propina de até 25% dos valores devidos.</segment>
+    <segment id="14">A crise derrubou o diretor financeiro do DNER</segment>
+    <segment id="15">, Gilson Zerwes</segment>
+    <segment id="16">, e o procurador-geral substituto do órgão</segment>
+    <segment id="17">, Pedro Eloi Soares.
+FAVORECIMENTO</segment>
+    <segment id="18">A EMPREITEIRAS:</segment>
+    <segment id="19">No governo Lula</segment>
+    <segment id="20">, em maio de 2003</segment>
+    <segment id="21">, o ex-diretor-financeiro do Dnit</segment>
+    <segment id="22">, Sérgio Pimentel</segment>
+    <segment id="23">, foi exonerado do cargo e acusou o ministro dos Transportes</segment>
+    <segment id="24">, Anderson Adauto</segment>
+    <segment id="25">, de favorecer a empreiteira Queiroz Galvão em pagamentos do governo.</segment>
+    <segment id="26">Segundo Pimentel</segment>
+    <segment id="27">, o ministro teria ordenado acréscimos no valor da dívida da União a ser paga à construtora e autorizado repasses para uma obra em Pernambuco.</segment>
+    <segment id="28">Adauto foi mantido por Lula com alegação de que o subordinado foi demitido por cobrar propina para liberar verba a credores do governo.
+DESVIO DE RECURSOS:</segment>
+    <segment id="29">Em janeiro de 2004</segment>
+    <segment id="30">, o diretor-geral do Dnit</segment>
+    <segment id="31">, José Antonio da Silva Coutinho</segment>
+    <segment id="32">, denunciou Adauto à Procuradoria Geral da República por suposto desvio de R$ 32</segment>
+    <segment id="33">,3 milhões de financiamentos dos bancos Mundial e Interamericano de Desenvolvimento</segment>
+    <segment id="34">, carimbados para obras em estradas.</segment>
+    <segment id="35">O dinheiro teria sido destinado a outros projetos.</segment>
+    <segment id="36">Adauto caiu no mês seguinte</segment>
+    <segment id="37">, após um ano de "fritura"</segment>
+    <segment id="38">, e foi disputar a Prefeitura de Uberaba (MG).</segment>
+    <segment id="39">OPERAÇÃO MÃO DUPLA: Conduzida pela Polícia Federal</segment>
+    <segment id="40">, a operação prendeu</segment>
+    <segment id="41">, em agosto do ano passado</segment>
+    <segment id="42">, o então chefe do Dnit no Ceará</segment>
+    <segment id="43">, Guedes Neto</segment>
+    <segment id="44">, indicado pelo PR do ex-governador Lúcio Alcântara</segment>
+    <segment id="45">, e mais 21 pessoas</segment>
+    <segment id="46">, entre elas empresários do setor de construção</segment>
+    <segment id="47">, por envolvimento em esquema que desviou R$ 5</segment>
+    <segment id="48">,5 milhões.</segment>
+    <segment id="49">Guedes Neto e servidores do Dnit foram demitidos.</segment>
+    <segment id="50">SUPERFATURAMENTO NA VALEC:</segment>
+    <segment id="51">O Ministério Público Federal apura</segment>
+    <segment id="52">, este ano</segment>
+    <segment id="53">, superfaturamento em obras da Ferrovia Norte-Sul em Goiás</segment>
+    <segment id="54">, tocadas pela Valec</segment>
+    <segment id="55">, empresa pública vinculada ao Dnit.</segment>
+    <segment id="56">Laudo da PF apontou diferença de R$ 71</segment>
+    <segment id="57">,7 milhões nos preços pagos pelos serviços em trecho de 105 quilômetros.</segment>
+    <segment id="58">CPI DO DNIT:</segment>
+    <segment id="59">A cúpula recém-afastada do Dnit é alvo de suspeitas de corrupção e tiroteio político no Senado desde 2009.</segment>
+    <segment id="60">O ex-senador Mario Couto (PSDB-PA) já tentou</segment>
+    <segment id="61">, sem sucesso</segment>
+    <segment id="62">, a criação de uma CPI para apurar supostas irregularidades na gestão do diretor-geral do órgão</segment>
+    <segment id="63">, Luiz Antonio Pagot</segment>
+    <segment id="64">, agora afastado por Dilma.</segment>
+  </rst>
+</analysis>

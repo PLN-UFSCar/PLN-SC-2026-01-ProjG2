@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Confusão no Leblon assusta clientes de shopping</segment>
+    <segment id="2">Uma confusão na Avenida Afrânio de Melo Franco assustou frequentadores do Shopping Leblon no início desta noite.</segment>
+    <segment id="3">De acordo com policiais</segment>
+    <segment id="4">, o tumulto começou por volta das 18h30m</segment>
+    <segment id="5">, quando um homem</segment>
+    <segment id="6">, não identificado</segment>
+    <segment id="7">, empunhou uma arma de fogo em uma discussão com um policial militar.</segment>
+    <segment id="8">Com medo de um possível tiroteio</segment>
+    <segment id="9">, os pedestres que passavam pela via no momento da briga correram exaltados para o shopping</segment>
+    <segment id="10">, em busca de refúgio.</segment>
+    <segment id="11">Algumas lojas do primeiro piso fecharam as portas por alguns instantes</segment>
+    <segment id="12">, por precaução</segment>
+    <segment id="13">, masmas logo reabriram.</segment>
+    <segment id="14">A assessoria de imprensa do Shopping Leblon confirmou a versão da polícia e afirmou que a confusão não alterou o funcionamento do centro de compras.</segment>
+  </rst>
+</analysis>

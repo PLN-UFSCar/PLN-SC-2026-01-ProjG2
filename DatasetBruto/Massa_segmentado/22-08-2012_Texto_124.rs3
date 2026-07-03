@@ -1,0 +1,34 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Bandidos especialistas atÃ© em construÃ§Ã£o</segment>
+    <segment id="2">O tÃºnel estava situado a 5 metros de profundidade e 30 metros jÃ¡ haviam sido cavados</segment>
+    <segment id="3">Policias civis de CÃ¡ceres (a 250 km de CuiabÃ¡) descobriram ontem um tÃºnel que estava sendo cavado em direÃ§Ã£o Ã  Cadeia PÃºblica.</segment>
+    <segment id="4">As obras eram operadas numa casa a cerca de 130 m do presÃ­dio.</segment>
+    <segment id="5">O imÃ³vel foi vendido recentemente e a suspeita Ã© que ele era usado somente para a escavaÃ§Ã£o.</segment>
+    <segment id="6">Quando a polÃ­cia chegou</segment>
+    <segment id="7">, nÃ£o havia ninguÃ©m lÃ¡</segment>
+    <segment id="8">.</segment>
+  </rst>
+</analysis>

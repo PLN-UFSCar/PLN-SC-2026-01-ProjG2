@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A chinesa BYD vendeu um carro Dolphin a cada dois minutos e meio desde o lançamento do carro elétrico até as 18h de quarta.</segment>
+    <segment id="2">A fabricante anunciou que</segment>
+    <segment id="3">, em apenas seis horas</segment>
+    <segment id="4">, comercializou 146 unidades.</segment>
+    <segment id="5">Os modelos ainda são importados</segment>
+    <segment id="6">, masmas a BYD já anunciou que vai fabricar carros no Brasil.</segment>
+    <segment id="7">BYD apresenta compacto elétrico</segment>
+    <segment id="8">Dolphin no Clube Monte Líbano</segment>
+    <segment id="9">, em São Paulo.</segment>
+    <segment id="10">Carro deve ser produzido na Bahia - 28.jun.2023-Eduardo SodréEm encontro no Palácio do Planalto</segment>
+    <segment id="11">, a vice-presidente executiva da companhia</segment>
+    <segment id="12">, Stella Li</segment>
+    <segment id="13">, reafirmou ao presidente Luiz Inácio Lula da Silva (PT) a intenção da empresa em</segment>
+    <segment id="14">sese instalar em Camaçari (BA)</segment>
+    <segment id="15">, no lugar do antigo complexo industrial da Ford.</segment>
+    <segment id="16">Com Diego</segment>
+    <segment id="17">Felix</segment>
+  </rst>
+</analysis>

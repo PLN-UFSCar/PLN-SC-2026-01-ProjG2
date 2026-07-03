@@ -1,0 +1,99 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Governo quer mais etanol em 2012
+BRASÍLIA - Pressionado pelos usineiros</segment>
+    <segment id="2">, o governo prepara medidas para estimular a produção de etanol no ano que vem</segment>
+    <segment id="3">, para evitar que</segment>
+    <segment id="4">sese repita o resultado que está</segment>
+    <segment id="5">sese confirmando em 2011: a produção brasileira de álcool hidratado</segment>
+    <segment id="6">, usado em automóveis movidos a álcool e a gasolina</segment>
+    <segment id="7">, cairá quase 30% em relação a 2010.</segment>
+    <segment id="8">Também está prevista uma queda de 13</segment>
+    <segment id="9">,1% na oferta de álcool anidro</segment>
+    <segment id="10">, misturado à gasolina.</segment>
+    <segment id="11">Entre as ações em estudo está a elevação</segment>
+    <segment id="12">, de 20% para 25%</segment>
+    <segment id="13">, da parcela de anidro adicionada obrigatoriamente à gasolina.</segment>
+    <segment id="14">Há dois meses</segment>
+    <segment id="15">, o governo reduziu a mistura para 20%</segment>
+    <segment id="16">, para evitar que</segment>
+    <segment id="17">sese mantivesse a escalada dos preços do etanol e um desabastecimento.</segment>
+    <segment id="18">Agora, no entanto</segment>
+    <segment id="19">, os produtores dizem que há sobra de anidro no mercado e que pelo menos 500 milhões de litros do produto serão "molhados"</segment>
+    <segment id="20">, ou seja</segment>
+    <segment id="21">, transformados em álcool hidratado até a próxima safra</segment>
+    <segment id="22">, que começa em março de 2012.
+
+- Estamos com sobra de anidro.</segment>
+    <segment id="23">(Retomar os 25%) é bom para o setor e para o país</segment>
+    <segment id="24">, uma vez que uma das consequências é a redução das importações de gasolina</segment>
+    <segment id="25">, reduzindo os gastos da Petrobras - disse o presidente da União da Indústria da Cana-de-Açúcar (Unica)</segment>
+    <segment id="26">, Marcos Jank.</segment>
+    <segment id="27">Setor de biodiesel reivindica incentivos ao consumo</segment>
+    <segment id="28">A ordem da presidente Dilma Rousseff é pensar formas de evitar que a falta do produto na entressafra tenha reflexo na inflação.</segment>
+    <segment id="29">Outra determinação é que os técnicos criem uma linha de crédito específica para a estocagem de cana-de-açúcar.</segment>
+    <segment id="30">Segundo uma fonte do Ministério da Agricultura</segment>
+    <segment id="31">, isso já existiu</segment>
+    <segment id="32">, masmas foi suspenso no início da década.</segment>
+    <segment id="33">Segundo estimativa da Unica</segment>
+    <segment id="34">, a produção de anidro na safra atual será 9</segment>
+    <segment id="35">,25% superior à de 2010/2011.</segment>
+    <segment id="36">No hidratado</segment>
+    <segment id="37">, a situação é inversa: haverá queda de 28</segment>
+    <segment id="38">,8%, ou cinco bilhões de litros.</segment>
+    <segment id="39">Até o fim da safra</segment>
+    <segment id="40">, a expectativa é que o mix de açúcar e etanol fique em 48</segment>
+    <segment id="41">,36% e 51</segment>
+    <segment id="42">,64%, respectivamente.</segment>
+    <segment id="43">Para Jank</segment>
+    <segment id="44">, outro estímulo seria tratamento tributário diferenciado.</segment>
+    <segment id="45">Segundo ele</segment>
+    <segment id="46">, os estados deveriam seguir São Paulo</segment>
+    <segment id="47">, onde o ICMS sobre a gasolina é maior que o do álcool - 25% e 12%</segment>
+    <segment id="48">, respectivamente.
+
+- A redução da Cide (Contribuição de Intervenção no Domínio Econômico) fez com que a carga tributária da gasolina caísse para 35%</segment>
+    <segment id="49">, enquanto a do etanol é de 31%.</segment>
+    <segment id="50">Como o valor energético do álcool é 30% menor do que o da gasolina</segment>
+    <segment id="51">, a diferença não existe mais - disse Jank.</segment>
+    <segment id="52">Também à espera de incentivos e desonerações para reduzir o preço e aumentar a produção</segment>
+    <segment id="53">, as usinas de biodiesel receberam este mês a notícia de que terão benefício de 50% do crédito de PIS/Cofins na compra de insumos.</segment>
+    <segment id="54">O valor poderá ser abatido de débitos nesses mesmos tributos na Receita Federal.</segment>
+    <segment id="55">Isso representará uma renúncia fiscal de R$ 377 milhões por ano.</segment>
+    <segment id="56">Segundo Miguel Angelo Vedana</segment>
+    <segment id="57">, diretor-executivo da Pró-Biodiesel</segment>
+    <segment id="58">, associação criada para incentivar o consumo do produto</segment>
+    <segment id="59">, a capacidade instalada no país é de 6</segment>
+    <segment id="60">,3 bilhões de litros</segment>
+    <segment id="61">, para uma demanda de apenas 2</segment>
+    <segment id="62">,6 bilhões de litros:
+
+- Parte das usinas está parada</segment>
+    <segment id="63">porque</segment>
+    <segment id="64">porque não há demanda suficiente.</segment>
+    <segment id="65">O setor reivindica o aumento da mistura do produto ao óleo diesel</segment>
+    <segment id="66">, hoje de 5%.</segment>
+  </rst>
+</analysis>

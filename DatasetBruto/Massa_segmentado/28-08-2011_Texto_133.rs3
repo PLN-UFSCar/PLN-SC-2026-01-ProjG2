@@ -1,0 +1,61 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Cirurgia de Ricardo Gomes é um sucesso</segment>
+    <segment id="2">, masmas técnico do Vasco segue em estado grave
+RIO - Foi um sucesso a cirurgia de aproximadamente três horas realizada no técnico do Vasco</segment>
+    <segment id="3">, Ricardo Gomes</segment>
+    <segment id="4">, na noite deste domingo para drenar o sangue derramado e controlar a pressão sanguínea no cérebro.</segment>
+    <segment id="5">O treinador passou mal durante o segundo tempo do clássico entre Vasco e Flamengo</segment>
+    <segment id="6">, deixou o gramado em uma ambulância e foi atendido no centro médico do Engenhão</segment>
+    <segment id="7">, antes de ser transferido para o Hospital Pasteur</segment>
+    <segment id="8">, no Méier</segment>
+    <segment id="9">, em estado gravíssimo.</segment>
+    <segment id="10">Ricardo Gomes sofreu um acidente vascular encefálico hemorrágico.</segment>
+    <segment id="11">O hematoma foi drenado</segment>
+    <segment id="12">, masmas o treinador continua entubado</segment>
+    <segment id="13">, em estado grave</segment>
+    <segment id="14">, no Centro de Tratamento Intensivo.</segment>
+    <segment id="15">De acordo com o médico do Vasco</segment>
+    <segment id="16">, Clovis Munhoz</segment>
+    <segment id="17">, as próximas 72 horas determinarão</segment>
+    <segment id="18">sese o técnico ficará com sequelas.</segment>
+    <segment id="19">Ricardo Gomes</segment>
+    <segment id="20">, de 47 anos</segment>
+    <segment id="21">, já havia sofrido um acidente vascular cerebral (AVC) leve em 2010</segment>
+    <segment id="22">, quando era técnico do São Paulo</segment>
+    <segment id="23">, após um clássico contra o Palmeiras</segment>
+    <segment id="24">, pelo Campeonato Paulista.
+
+- Ele não teve nenhuma perda sensitiva ou motora naquela ocasião.</segment>
+    <segment id="25">Não tem nada a ver uma coisa com a outra - disse Munhoz.</segment>
+    <segment id="26">Jogadores do Vasco</segment>
+    <segment id="27">, como</segment>
+    <segment id="28">como Felipe e Fernando Prass</segment>
+    <segment id="29">, e o presidente do clube</segment>
+    <segment id="30">, Roberto Dinamite</segment>
+    <segment id="31">, estiveram no hospital para prestar solidariedade.</segment>
+    <segment id="32">v</segment>
+  </rst>
+</analysis>

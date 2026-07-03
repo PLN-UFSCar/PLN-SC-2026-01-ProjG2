@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Juliana Paes</segment>
+    <segment id="2">sese emociona em meditaÃ§Ã£o</segment>
+    <segment id="3">A intÃ©rprete de Gabriela</segment>
+    <segment id="4">sese emocionou ao subir no palco</segment>
+    <segment id="5">Acompanhada do marido</segment>
+    <segment id="6">, o empresÃ¡rio Carlos Eduardo Baptista</segment>
+    <segment id="7">, a atriz participou de uma meditaÃ§Ã£o coletiva comandada pelo guru indiano â€œSri Sri Ravi Shankarâ€</segment>
+    <segment id="8">, na PraÃ§a da CinelÃ¢ndia</segment>
+    <segment id="9">, centro do Rio</segment>
+    <segment id="10">, ontem.</segment>
+    <segment id="11">A intÃ©rprete de Gabriela</segment>
+    <segment id="12">sese emocionou ao subir no palco.</segment>
+    <segment id="13">â€œEstou aqui para pedir paz</segment>
+    <segment id="14">, e para ver o guru.</segment>
+    <segment id="15">Estou com muita gratidÃ£o no coraÃ§Ã£oâ€</segment>
+    <segment id="16">, disse com lÃ¡grimas nos olhos.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,50 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O empresário Fernando Cavendish</segment>
+    <segment id="2">, dono da empreiteira Delta Construções</segment>
+    <segment id="3">, foi condenado nesta quarta-feira (13) a quatro anos e dois meses de prisão.</segment>
+    <segment id="4">O juiz Marcelo Bretas o considerou culpado na ação penal derivada da Operação Saqueador.</segment>
+    <segment id="5">Nela, o empresário foi acusado de ter gerado R$ 370 milhões para o caixa dois da Delta por meio de lavagem de dinheiro com as empresas de Carlos Augusto Ramos</segment>
+    <segment id="6">, o Carlinhos Cachoeira</segment>
+    <segment id="7">, e de Adir Assad.</segment>
+    <segment id="8">Cavendish é réu confesso no processo.</segment>
+    <segment id="9">Elle reconheceu os crimes e declarou que parte dos recursos foi usado para pagar propina ao ex-governador Sérgio Cabral (MDB).</segment>
+    <segment id="10">O político não é réu neste processo.</segment>
+    <segment id="11">O empresário Fernando Cavendish</segment>
+    <segment id="12">, da empreiteira Delta</segment>
+    <segment id="13">, depõe em CPI na Câmara dos Deputados - Sergio Lima - 29.ago.2012/FolhapressO empresário também disponibilizou para a Justiça Federal créditos de R$ 375 milhões que a Delta considera ter com governos estaduais e municipais.</segment>
+    <segment id="14">O dinheiro disponibilizado reduziu em três anos e nove meses sua pena.</segment>
+    <segment id="15">O magistrado definiu</segment>
+    <segment id="16">comocomo regime inicial o semiaberto.</segment>
+    <segment id="17">Bretas também condenou outros sete diretores da Delta</segment>
+    <segment id="18">, além do próprio Carlinhos Cachoeira (9 anos e seis meses).</segment>
+    <segment id="19">OUTRO LADO</segment>
+    <segment id="20">A defesa de Cavendish afirmou</segment>
+    <segment id="21">, em nota</segment>
+    <segment id="22">, que "a sentença proferida vem ao encontro dos atos processuais".  "</segment>
+    <segment id="23">O réu durante todo o processo colaborou com as investigações permitindo assim a total elucidação dos fatos e demonstrou efetivo arrependimento ao promover a devolução de expressiva quantia em ativos"</segment>
+    <segment id="24">, afirma a nota da defesa do empresário.</segment>
+  </rst>
+</analysis>

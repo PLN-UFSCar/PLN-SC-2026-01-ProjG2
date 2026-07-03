@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente nacional do MDB</segment>
+    <segment id="2">, Baleia Rossi</segment>
+    <segment id="3">, será o coordenador da campanha à reeleição do prefeito de São Paulo</segment>
+    <segment id="4">, Ricardo Nunes</segment>
+    <segment id="5">, do mesmo partido.</segment>
+    <segment id="6">A decisão de colocar o dirigente máximo da legenda na função mostra que os emedebistas estão tratando</segment>
+    <segment id="7">comocomo prioridade absoluta a vitória na capital paulista no ano que vem.</segment>
+    <segment id="8">O pleito na maior cidade do país colocará em rota de colisão o partido</segment>
+    <segment id="9">, que tem três ministérios no governo Lula</segment>
+    <segment id="10">, com o próprio presidente</segment>
+    <segment id="11">, que promete entrar de cabeça na campanha de Guilherme Boulos (PSOL).  Baleia Rossi</segment>
+    <segment id="12">, presidente do MDB</segment>
+    <segment id="13">, durante conversa com Simone Tebet</segment>
+    <segment id="14">, ministra do Planejamento - Pedro Ladeira-4.abr.2023/Folhapres</segment>
+  </rst>
+</analysis>

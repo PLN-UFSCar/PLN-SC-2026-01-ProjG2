@@ -1,0 +1,160 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Há três anos</segment>
+    <segment id="2">, Jesús Tilano</segment>
+    <segment id="3">, 85, foi a um hospital em uma região de floresta densa</segment>
+    <segment id="4">, na Colômbia</segment>
+    <segment id="5">, com grandes lesões abertas no nariz</segment>
+    <segment id="6">, no braço direito e na mão esquerda.</segment>
+    <segment id="7">Recebu o diagnóstico de leishmaniose</segment>
+    <segment id="8">, doença parasitária transmitida pela picada de um flebotomíneo fêmea –também conhecido</segment>
+    <segment id="9">comocomo mosquito-palha–</segment>
+    <segment id="10">, que comumente acomete pessoas pobres que trabalham no campo ou em áreas florestais de países em desenvolvimento.</segment>
+    <segment id="11">Para o tratamento de Tilano</segment>
+    <segment id="12">, foi prescrito um medicamento que requer três injeções diárias durante 20 dias –cada uma delas muito dolorosa.</segment>
+    <segment id="13">Para conseguir</segment>
+    <segment id="14">sese tratar</segment>
+    <segment id="15">, ele precisou fazer repetidas e caras viagens de ônibus à cidade.</segment>
+    <segment id="16">Depois</segment>
+    <segment id="17">, os rins começaram a falhar –efeito colateral comum do medicamento</segment>
+    <segment id="18">, assim</segment>
+    <segment id="19">comocomo insuficiência cardíaca e problemas hepáticos.  "</segment>
+    <segment id="20">O tratamento me deixou pior do que eu estava antes"</segment>
+    <segment id="21">, resume ele.</segment>
+    <segment id="22">Juliana Quintero analisa lesões na pele de Maria de las Mercedes Gonzalez em Medelín</segment>
+    <segment id="23">, na Colômbia - 21.jan.2023 - Federico Rios/The New York TimesA leishmaniose é uma doença difícil e envolve tratamentos penosos que não apresentaram praticamente nenhuma evolução em quase um século.</segment>
+    <segment id="24">O medicamento que Tilano tomou foi usado pela primeira vez há 70 anos</segment>
+    <segment id="25">, e todos os procedimentos combinam sintomas dolorosos</segment>
+    <segment id="26">, toxicidade</segment>
+    <segment id="27">, custo alto e aplicação difícil</segment>
+    <segment id="28">, exigindo internação hospitalar ou idas diárias a um consultório durante um mês.</segment>
+    <segment id="29">Segundo os especialistas</segment>
+    <segment id="30">, entre as "doenças tropicais negligenciadas"</segment>
+    <segment id="31">, a leishmaniose</segment>
+    <segment id="32">, que foi identificada há 120 anos pela primeira vez</segment>
+    <segment id="33">, já ganhou uma distinção no que diz respeito à "falta de progresso" para ajudar os dois milhões de pessoas que a contraem anualmente.</segment>
+    <segment id="34">Cuide-seCiência</segment>
+    <segment id="35">, hábitos e prevenção</segment>
+    <segment id="36">numa newsletter para a sua saúde e bem-estarCarregando...</segment>
+    <segment id="37">Mas esse cenário está</segment>
+    <segment id="38">, finalmente</segment>
+    <segment id="39">, começando a mudar: quando o neto de Tilano</segment>
+    <segment id="40">, Andrés Tilano</segment>
+    <segment id="41">, 14, contraiu a doença no ano passado</segment>
+    <segment id="42">, foi tratado em uma clínica em Medellín</segment>
+    <segment id="43">, com uma terapia experimental que curou a infecção no período de alguns dias.</segment>
+    <segment id="44">O tratamento que ele recebeu é um dos vários que estão sendo desenvolvidos pelo Programa de Estudo e Controle de Doenças Tropicais (Pecet</segment>
+    <segment id="45">, em espanhol)</segment>
+    <segment id="46">, um pequeno instituto de pesquisa sediado na Universidade de Antioquia</segment>
+    <segment id="47">, em Medellín.</segment>
+    <segment id="48">Como parte do esforço de buscar novas abordagens para a leishmaniose</segment>
+    <segment id="49">, o programa</segment>
+    <segment id="50">sese associou à iniciativa Medicamentos para Doenças Negligenciadas (DNDi</segment>
+    <segment id="51">, em inglês)</segment>
+    <segment id="52">, uma organização de pesquisa e desenvolvimento sem fins lucrativos sediada em Genebra.</segment>
+    <segment id="53">Todos os tratamentos experimentais que os pesquisadores estão avaliando são muito menos tóxicos</segment>
+    <segment id="54">, mais simples e mais baratos do que os atuais.</segment>
+    <segment id="55">Mas um grande obstáculo ainda impede que eles cheguem às milhões de pessoas que precisam deles: nenhum dos novos procedimentos foi testado em um ensaio em larga escala</segment>
+    <segment id="56">, nem aprovado pelo órgão regulador de medicamentos da Colômbia</segment>
+    <segment id="57">, nem adotado pelas diretrizes nacionais de tratamento da doença.</segment>
+    <segment id="58">Quando uma medicação é fabricada por uma empresa farmacêutica</segment>
+    <segment id="59">, ela é submetida a um processo regulatório que é caro e demorado.</segment>
+    <segment id="60">Juliana Quintero dá a Luis Alfonso Tilano um medicamento em creme desenvolvido para tratar leishmaniose - 21.jan.2023 - Federico Rios/The New York TimesMas não</segment>
+    <segment id="61">sese ganha dinheiro com um medicamento para uma doença que acomete predominantemente a população pobre</segment>
+    <segment id="62">, e os institutos acadêmicos ou de saúde pública raramente têm recursos para levá-lo até o fim do processo</segment>
+    <segment id="63">, explica Marcela Vieira</segment>
+    <segment id="64">, advogada brasileira da área de propriedade intelectual</segment>
+    <segment id="65">, especializada em acesso e elaboração de medicamentos e pesquisadora do Centro de Saúde Global do Instituto de Pós-Graduação em Estudos Internacionais e de Desenvolvimento</segment>
+    <segment id="66">, em Genebra.</segment>
+    <segment id="67">O sistema global de desenvolvimento de medicamentos sempre favoreceu empresas do setor privado que podem financiar experimentos voltados para doenças que afetam pessoas que têm dinheiro para pagar por tratamentos.</segment>
+    <segment id="68">Cada vez mais</segment>
+    <segment id="69">, novas pesquisas sobre enfermidades</segment>
+    <segment id="70">, como</segment>
+    <segment id="71">como a leishmaniose</segment>
+    <segment id="72">, vêm do setor público e de instituições acadêmicas de países de renda média</segment>
+    <segment id="73">, especialmente do Brasil</segment>
+    <segment id="74">, da África do Sul</segment>
+    <segment id="75">, da Índia</segment>
+    <segment id="76">, de Cuba e da China</segment>
+    <segment id="77">, diz Vieira.</segment>
+    <segment id="78">A pandemia de Covid</segment>
+    <segment id="79">, durante a qual nações menos favorecidas economicamente foram relegadas ao fim da fila para vacinas e tratamentos</segment>
+    <segment id="80">, ajudou a impulsionar novos investimentos na construção de capacidade de desenvolvimento e produção de medicamentos.</segment>
+    <segment id="81">"</segment>
+    <segment id="82">Precisamos fazer isso</segment>
+    <segment id="83">, porque</segment>
+    <segment id="84">porque ninguém vai fazer por nós"</segment>
+    <segment id="85">, afirma Juliana Quintero</segment>
+    <segment id="86">, especialista em leishmaniose e pesquisadora do Pecet.</segment>
+    <segment id="87">Os pesquisadores de leishmaniose</segment>
+    <segment id="88">sese inspiraram nos povos indígenas da região: um dos medicamentos que está sendo testado</segment>
+    <segment id="89">, um gel aplicado às lesões</segment>
+    <segment id="90">, é derivado de uma planta que os indígenas usam para combater o parasita.</segment>
+    <segment id="91">O tratamento experimental que curou Andrés Tilano</segment>
+    <segment id="92">, chamado de termoterapia</segment>
+    <segment id="93">, assemelha-</segment>
+    <segment id="94">sese à cura tradicional indígena de queimar as lesões.</segment>
+    <segment id="95">Em sua clínica</segment>
+    <segment id="96">, Quintero usou um dispositivo portátil que emitia calor a uma temperatura de 50ºC</segment>
+    <segment id="97">, matando o parasita nas camadas internas da pele.</segment>
+    <segment id="98">Hoje, ela prescreve dois tratamentos que seu instituto desenvolveu e os fornece aos pacientes sob um "programa de uso compassivo" para medicamentos que ainda não foram aprovados ou registrados pelo governo colombiano.</segment>
+    <segment id="99">A DNDi</segment>
+    <segment id="100">, organização sem fins lucrativos</segment>
+    <segment id="101">, examinou mais de dois milhões e meio de compostos –primeiro passo padrão no desenvolvimento de medicamentos– para chegar a cinco estruturas químicas que pareciam</segment>
+    <segment id="102">, em testes de laboratório iniciais</segment>
+    <segment id="103">, ser efetivas contra o parasita que causa a leishmaniose.</segment>
+    <segment id="104">Mas, das cinco</segment>
+    <segment id="105">, só uma ou duas avançarão para ensaios clínicos maiores</segment>
+    <segment id="106">, declara Jadel Kratz</segment>
+    <segment id="107">, responsável pelo trabalho de descoberta de medicamentos da organização na América Latina.</segment>
+    <segment id="108">Ele pontua que a descoberta inicial e os estudos pré-clínicos custam de US$ 10 milhões a US$ 20 milhões</segment>
+    <segment id="109">, enquanto os primeiros ensaios clínicos pequenos</segment>
+    <segment id="110">, voltados para segurança e sinais de eficácia</segment>
+    <segment id="111">, podem custar mais de US$ 6 milhões.</segment>
+    <segment id="112">A última fase</segment>
+    <segment id="113">, que consiste em um grande ensaio em pacientes para testar</segment>
+    <segment id="114">sese o medicamento funciona</segment>
+    <segment id="115">, custa</segment>
+    <segment id="116">, no mínimo</segment>
+    <segment id="117">, US$ 20 milhões –muito mais do que equipes de pesquisa públicas e acadêmicas podem financiar.</segment>
+    <segment id="118">"</segment>
+    <segment id="119">É um enorme risco para a pesquisa local</segment>
+    <segment id="120">sese só as corporações multinacionais puderem fazer esse trabalho"</segment>
+    <segment id="121">, diz Iván Darío Vélez-Bernal</segment>
+    <segment id="122">, que se</segment>
+    <segment id="123">se aposentou recentemente</segment>
+    <segment id="124">comocomo diretor do Pecet.</segment>
+    <segment id="125">Mas o foco da DNDi na leishmaniose e o trabalho de pesquisadores em uma rede que inclui a Índia</segment>
+    <segment id="126">, a Colômbia e o Brasil estão começando a dar resultados.</segment>
+    <segment id="127">Hoje, existem cinco medicamentos em fase 1 de testes e outro na Fase 2</segment>
+    <segment id="128">, o que é inédito na história da doença.</segment>
+    <segment id="129">Contudo</segment>
+    <segment id="130">, não está claro quando</segment>
+    <segment id="131">, ou como</segment>
+    <segment id="132">como, as medicações chegarão às próximas fases do processo.</segment>
+    <segment id="133">Medicamentos provenientes de instituições públicas tendem a ficar estagnados sem um defensor ativo</segment>
+    <segment id="134">, observa Vieira.</segment>
+  </rst>
+</analysis>

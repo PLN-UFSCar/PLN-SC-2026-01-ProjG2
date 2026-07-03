@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Ilha de SÃ£o JoÃ£o recebe projeto</segment>
+    <segment id="2">O Projeto de EficiÃªncia EnergÃ©tica da Coelba estarÃ¡ em Ilha de SÃ£o JoÃ£o</segment>
+    <segment id="3">O Projeto de EficiÃªncia EnergÃ©tica da Coelba estarÃ¡ na Rua do Sobrado</segment>
+    <segment id="4">, no Conjunto Paripe-CIA</segment>
+    <segment id="5">, em Ilha de SÃ£o JoÃ£o</segment>
+    <segment id="6">, atÃ© sÃ¡bado</segment>
+    <segment id="7">, das 8h30</segment>
+    <segment id="8">Ã s 16h30.</segment>
+    <segment id="9">A concessionÃ¡ria ensinarÃ¡ os clientes a economizar energia e realizarÃ¡ serviÃ§os</segment>
+    <segment id="10">, como</segment>
+    <segment id="11">como troca de titularidade da fatura</segment>
+    <segment id="12">, cadastro na Tarifa Social e negociaÃ§Ã£o de dÃ©bitos</segment>
+    <segment id="13">, que possibilitam o cliente participar de projetos de eficiÃªncia da empresa.</segment>
+  </rst>
+</analysis>

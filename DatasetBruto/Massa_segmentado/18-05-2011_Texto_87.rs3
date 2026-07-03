@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Procuradoria manda traduzir rótulos de cosméticos</segment>
+    <segment id="2">RIO - O Tribunal Regional Federal</segment>
+    <segment id="3">, 2ª região</segment>
+    <segment id="4">, determinou que a Agência Nacional de Vigilância Sanitária (Anvisa) edite norma exigindo que cosméticos e produtos de higiene pessoal tenham seus componentes descritos em português nas embalagens</segment>
+    <segment id="5">, informa reportagem de Nadja Sampaio.</segment>
+    <segment id="6">A ação</segment>
+    <segment id="7">, proposta pelo procurador Claudio Gheventer</segment>
+    <segment id="8">, do Ministério Público Federal (MPF)</segment>
+    <segment id="9">, foi motivada por queixas de consumidores alérgicos inconformados com a dificuldade de ler os rótulos.
+- A Anvisa autoriza a descrição exclusiva dos componentes pela Nomenclatura Internacional de Ingredientes Cosméticos (INCI)</segment>
+    <segment id="10">, cujos termos técnicos são próximos da língua inglesa.</segment>
+    <segment id="11">Os rótulos podem ter esta descrição e em português</segment>
+    <segment id="12">, para cumprir o Código de Defesa do Consumidor</segment>
+    <segment id="13">, que exige informações claras e ostensivas.</segment>
+    <segment id="14">A Anvisa diz que não foi notificada e</segment>
+    <segment id="15">, por isso</segment>
+    <segment id="16">, não irá</segment>
+    <segment id="17">sese pronunciar.</segment>
+  </rst>
+</analysis>

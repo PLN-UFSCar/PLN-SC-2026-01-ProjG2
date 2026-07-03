@@ -1,0 +1,95 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Os juros elevados têm sido um obstáculo ao fomento da indústria brasileira</segment>
+    <segment id="2">, contradizendo a lógica mundial referente ao papel do setor no progresso das nações.</segment>
+    <segment id="3">Distintos estudos demonstram que somente as economias que promoveram forte desenvolvimento manufatureiro conseguiram crescer de modo sustentado mais de 3% ao ano.</segment>
+    <segment id="4">Afinal</segment>
+    <segment id="5">, a atividade é geradora intensiva de empregos</segment>
+    <segment id="6">, paga os salários médios mais elevados</segment>
+    <segment id="7">, cria e provê tecnologia e exporta bens de alto valor agregado.</segment>
+    <segment id="8">Fachada do Banco Central</segment>
+    <segment id="9">, em Brasília (DF) - Antonio Molina/Folhapress  - FolhapressAdemais</segment>
+    <segment id="10">, considerando que a grande maioria dos itens de consumo nasce no chão de fábrica</segment>
+    <segment id="11">, os ganhos de competitividade em termos de crédito com juros menores e menos impostos proporcionariam oferta maior para o mercado interno</segment>
+    <segment id="12">, com menor pressão inflacionária.</segment>
+    <segment id="13">Também haveria mais excedentes exportáveis.</segment>
+    <segment id="14">Parte dos ônus que ferem a manufatura está sendo equacionada</segment>
+    <segment id="15">, com a Reforma Tributária aprovada na Câmara dos Deputados</segment>
+    <segment id="16">, que reduz a assimetria da taxação</segment>
+    <segment id="17">, prejudicial ao setor</segment>
+    <segment id="18">, e com o programa de neoindustrialização do governo</segment>
+    <segment id="19">, que já soma R$ 106 bilhões</segment>
+    <segment id="20">, incluindo recursos para produção e inovação.</segment>
+    <segment id="21">Porém, sem desconsiderar a necessidade da reforma administrativa</segment>
+    <segment id="22">, mais segurança jurídica e pública e melhor infraestrutura</segment>
+    <segment id="23">, fatores impactantes do "custo Brasil"</segment>
+    <segment id="24">, é crucial encontrar uma solução urgente para o gargalo dos juros.</segment>
+    <segment id="25">Veja fotos do protesto de centrais sindicais contra taxa de juros definida pelo BCMais    novamente         de   de  de  representando um</segment>
+    <segment id="26">Os danos do problema são demonstrados em estudo do Departamento de Competitividade e Tecnologia (Decomtec) da Fiesp:</segment>
+    <segment id="27">sese tivéssemos os mesmos juros reais de África do Sul</segment>
+    <segment id="28">, Chile</segment>
+    <segment id="29">, Indonésia e México</segment>
+    <segment id="30">, países emergentes nos quais as taxas já são bastante altas</segment>
+    <segment id="31">, o custo de financiamento do capital de giro da indústria brasileira</segment>
+    <segment id="32">, de R$ 71</segment>
+    <segment id="33">,5 bilhões em 2022</segment>
+    <segment id="34">, cairia para R$ 37</segment>
+    <segment id="35">,6 bilhões.</segment>
+    <segment id="36">Os R$ 33</segment>
+    <segment id="37">,9 bilhões de diferença correspondem a quase 98% dos gastos com atividades internas de pesquisa e desenvolvimento.</segment>
+    <segment id="38">Ou seja</segment>
+    <segment id="39">, poderíamos praticamente duplicar o aporte de recursos nessas rubricas</segment>
+    <segment id="40">sese não fôssemos agredidos por um custo de dinheiro que flerta com a agiotagem.</segment>
+    <segment id="41">Para pessoas físicas</segment>
+    <segment id="42">, os juros referentes ao crédito somaram R$ 46</segment>
+    <segment id="43">,7 bilhões</segment>
+    <segment id="44">, masmas</segment>
+    <segment id="45">, sese tivéssemos a mesma taxa média dos países citados</segment>
+    <segment id="46">, seriam de R$ 15</segment>
+    <segment id="47">,6 bilhões —ou R$ 31</segment>
+    <segment id="48">,1 bilhões a menos.</segment>
+    <segment id="49">A demanda de consumo resultante dessa diferença geraria 123</segment>
+    <segment id="50">,5 mil postos de trabalho nas fábricas.</segment>
+    <segment id="51">Veja fotos da sala de reuniões do CopomMais    novamente         de   de  de  representando um</segment>
+    <segment id="52">A soma dos valores dos juros pagos a mais pela indústria e as famílias alcançou R$ 65 bilhões em 2022.</segment>
+    <segment id="53">Para dimensionar o que isso significa em termos práticos</segment>
+    <segment id="54">, fiz uma comparação interessante</segment>
+    <segment id="55">, para não dizer assustadora: o montante é equivalente ao Orçamento do governo do Rio Grande do Sul no ano passado</segment>
+    <segment id="56">, o sexto do país</segment>
+    <segment id="57">, atrás apenas da União e dos estados de São Paulo</segment>
+    <segment id="58">, Minas Gerais e Rio de Janeiro e da prefeitura paulistana.</segment>
+    <segment id="59">Esse é o resultado absurdo da Selic média nominal de 12</segment>
+    <segment id="60">,63% em 2022</segment>
+    <segment id="61">, mais spread de 3</segment>
+    <segment id="62">,1% para indústrias de grande porte</segment>
+    <segment id="63">, 10% para as pequenas e médias e 39</segment>
+    <segment id="64">,6% para pessoas físicas.</segment>
+    <segment id="65">É uma distorção prejudicial a investimentos decisivos para a competitividade do Brasil.</segment>
+    <segment id="66">Não podemos continuar preterindo desenvolvimento e beneficiando o aluguel de dinheiro.</segment>
+    <segment id="67">TENDÊNCIAS / DEBATES</segment>
+    <segment id="68">Os artigos publicados com assinatura não traduzem a opinião do jornal.</segment>
+    <segment id="69">Sua publicação obedece ao propósito de estimular o debate dos problemas brasileiros e mundiais e de refletir as diversas tendências do pensamento contemporâneo.</segment>
+  </rst>
+</analysis>

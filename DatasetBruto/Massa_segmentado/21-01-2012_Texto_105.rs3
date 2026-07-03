@@ -1,0 +1,52 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Sete praias impróprias para banho</segment>
+    <segment id="2">As condições balneabilidade são obtidas mediante o recolhimento de amostras</segment>
+    <segment id="3">Sete praias estão impróprias para o banho neste fim de semana em Salvador e região metropolitana (RMS).</segment>
+    <segment id="4">De acordo com o Instituto do Meio Ambiente e Recursos Hídricos da Bahia (Inema)</segment>
+    <segment id="5">, das 34 praias avaliadas</segment>
+    <segment id="6">, os banhistas devem evitar as  de Periperi (Atrás da estação férrea)</segment>
+    <segment id="7">, Penha (Em frente à Igreja N. S. da Penha)</segment>
+    <segment id="8">, Bogari (Em frente ao Colégio João Florêncio Gomes)</segment>
+    <segment id="9">, Pedra Furada (Atrás do Hospital Sagrada Família)</segment>
+    <segment id="10">, Roma (Em frente à Rua Professor Roberto Correia)</segment>
+    <segment id="11">, Armação (Em frente ao Clube Inter.</segment>
+    <segment id="12">Pass) e Boca do Rio (Em frente ao Posto Salva Vidas).</segment>
+    <segment id="13">Nas demais praias da RMS</segment>
+    <segment id="14">, as condições são normais.</segment>
+    <segment id="15">O diagnóstico das condições de balneabilidade é obtido mediante o recolhimento de amostras em 30 praias de Salvador</segment>
+    <segment id="16">, mais quatro praias de Lauro de Freitas</segment>
+    <segment id="17">, durante cinco semanas.</segment>
+    <segment id="18">Tempo</segment>
+    <segment id="19">A previsão do tempo é de céu parcialmente nublado com chuvas fracas e as temperaturas oscilando entre mínima de 20°C e máxima de 32ºC. Isso</segment>
+    <segment id="20">porque</segment>
+    <segment id="21">porque as instabilidades atmosféricas vindas do Oceano Atlântico</segment>
+    <segment id="22">continuam influenciando as condições do tempo no Recôncavo baiano</segment>
+    <segment id="23">, incluindo Salvador e região metropolitana.</segment>
+    <segment id="24">Nas regiões</segment>
+    <segment id="25">Sudoeste e Sul da Bahia</segment>
+    <segment id="26">, a previsão é de céu nublado a parcialmente nublado com chuvas fracas.</segment>
+  </rst>
+</analysis>

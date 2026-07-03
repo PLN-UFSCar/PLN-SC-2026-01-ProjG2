@@ -1,0 +1,217 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A ocupação de leitos de UTI para pacientes graves da Covid-19 no país voltou a preocupar especialmente nas três capitais do sul do país</segment>
+    <segment id="2">, que, no início da pandemia registravam relativo controle da doença</segment>
+    <segment id="3">, e em Vitória</segment>
+    <segment id="4">, no Espírito Santo.</segment>
+    <segment id="5">Também voltaram a subir as internações em Manaus</segment>
+    <segment id="6">, cidade cujas imagens de enterros em série nas valas coletivas rodaram o mundo.</segment>
+    <segment id="7">Em ao menos seis capitais (Vitória</segment>
+    <segment id="8">, Florianópolis</segment>
+    <segment id="9">, Porto Alegre</segment>
+    <segment id="10">, Curitiba</segment>
+    <segment id="11">, Manaus e Rio de Janeiro)</segment>
+    <segment id="12">, a ocupação de leitos de UTI estaduais chega ou supera 80%</segment>
+    <segment id="13">, segundo levantamento da Folha com prefeituras e governos estaduais.</segment>
+    <segment id="14">E o número pode ser maior</segment>
+    <segment id="15">, já que Recife e Macapá</segment>
+    <segment id="16">, por exemplo</segment>
+    <segment id="17">, não informaram dados</segment>
+    <segment id="18">, masmas seus estados apresentam taxas elevadas de lotação</segment>
+    <segment id="19">, de mais de 70% —e leitos de UTIs tendem a</segment>
+    <segment id="20">sese concentrar a maioria nas capitais.</segment>
+    <segment id="21">No Sul</segment>
+    <segment id="22">, há excesso de pacientes graves com Covid-19 em todas as capitais.</segment>
+    <segment id="23">São 87</segment>
+    <segment id="24">,76% dos leitos de UTI ocupados em Florianópolis</segment>
+    <segment id="25">, 85,38%</segment>
+    <segment id="26">, em Porto Alegre</segment>
+    <segment id="27">, 85,39%</segment>
+    <segment id="28">, e 82%</segment>
+    <segment id="29">, em Curitiba.</segment>
+    <segment id="30">No Paraná</segment>
+    <segment id="31">, 56% de UTIs</segment>
+    <segment id="32">, em geral</segment>
+    <segment id="33">, receberam pacientes da doença</segment>
+    <segment id="34">, masmas em Curitiba alguns hospitais particulares estão trabalhando com capacidade máxima.</segment>
+    <segment id="35">Diante do avanço da pandemia na cidade</segment>
+    <segment id="36">, a prefeitura suspendeu cirurgias eletivas (não urgentes)</segment>
+    <segment id="37">, masmas também autorizou a volta às aulas de crianças com menos de dez anos em escolas particulares.</segment>
+    <segment id="38">O comércio também continua aberto na capital.</segment>
+    <segment id="39">O ensino público presencial</segment>
+    <segment id="40">, estadual e municipal</segment>
+    <segment id="41">, no entanto</segment>
+    <segment id="42">, tende a retornar somente no ano que vem.</segment>
+    <segment id="43">Santa Catarina tem aumentado seus números de contaminados.</segment>
+    <segment id="44">No estado</segment>
+    <segment id="45">, a ocupação das UTIs</segment>
+    <segment id="46">, na terça</segment>
+    <segment id="47">, era de 75</segment>
+    <segment id="48">,66%, e Florianópolis está sob “risco gravíssimo”.</segment>
+    <segment id="49">Nos últimos feriadões</segment>
+    <segment id="50">, as cenas foram de praias lotadas</segment>
+    <segment id="51">, o que influenciou o surgimento de uma segunda onda de Covid-19 na cidade.</segment>
+    <segment id="52">A governadora interina</segment>
+    <segment id="53">, Daniela Reinehr (sem partido) recebeu diagnóstico de Covid-19 na última semana.</segment>
+    <segment id="54">Ela chegou a apagar das redes sociais uma mensagem em que pedia para a população usar máscara.</segment>
+    <segment id="55">O Rio Grande do Sul tinha 74</segment>
+    <segment id="56">,9% das UTIs ocupadas.</segment>
+    <segment id="57">Na capital gaúcha</segment>
+    <segment id="58">, onde a ocupação era de 85</segment>
+    <segment id="59">,39%, há hospitais com ocupação total</segment>
+    <segment id="60">, como</segment>
+    <segment id="61">como o Moinhos de Vento</segment>
+    <segment id="62">, segundo os dados da prefeitura.</segment>
+    <segment id="63">Porto Alegre havia sido considerada região de “risco alto”</segment>
+    <segment id="64">, no mapa divulgado pelo governo gaúcho na última sexta-feira (13).</segment>
+    <segment id="65">Porém, após recurso do município</segment>
+    <segment id="66">, o governo considerou a capital gaúcha</segment>
+    <segment id="67">comocomo “risco médio”</segment>
+    <segment id="68">, sem restringir serviços e atividades econômicas.</segment>
+    <segment id="69">O prefeito da capital</segment>
+    <segment id="70">, Nelson Marchezan Jr. (PSDB) anunciou na terça (17) que seu exame deu positivo para Covid-19.</segment>
+    <segment id="71">“</segment>
+    <segment id="72">Meus sintomas são leves e estou em casa</segment>
+    <segment id="73">, cumprindo isolamento.</segment>
+    <segment id="74">Aproveito para pedir novamente que os porto-alegrenses não descuidem dos protocolos e</segment>
+    <segment id="75">, sese sentirem algum sintoma</segment>
+    <segment id="76">, que procurem nossa rede de saúde”</segment>
+    <segment id="77">, escreveu Marchezan em uma rede social.</segment>
+    <segment id="78">Coveiros enterram vítima do coronavírus em Manaus</segment>
+    <segment id="79">; veja fotos de hoje   novamente         de   de  de  representando um  No Sudeste</segment>
+    <segment id="80">, a região metropolitana de Vitória é a mais lotada de pacientes da Covid-19 no país</segment>
+    <segment id="81">, com taxa de 87</segment>
+    <segment id="82">,8% nas UTIs.</segment>
+    <segment id="83">A rede soma leitos públicos e privados</segment>
+    <segment id="84">, filantrópicos e federalizados contratados ou contratualizadas pela gestão de Renato Casagrande (PSB).</segment>
+    <segment id="85">O estado registrou 172.924 casos e 4.037 mortes relacionadas à doença.</segment>
+    <segment id="86">No Amazonas</segment>
+    <segment id="87">, todas as UTIs</segment>
+    <segment id="88">sese concentram na capital</segment>
+    <segment id="89">, a primeira a sofrer colapso na rede de saúde.</segment>
+    <segment id="90">Enquanto sobe a taxa de ocupação dos leitos no Estado</segment>
+    <segment id="91">, hoje de 82%</segment>
+    <segment id="92">, reduziu-</segment>
+    <segment id="93">sese de 223 para 142 o número de leitos só para a doença desde agosto.</segment>
+    <segment id="94">Na última terça-feira (17)</segment>
+    <segment id="95">, Manaus superou a marca de 3.000 mortos na pandemia.</segment>
+    <segment id="96">No mesmo dia</segment>
+    <segment id="97">, a Prefeitura de Manaus publicou um decreto que mantém fechada</segment>
+    <segment id="98">, até 31 de dezembro</segment>
+    <segment id="99">, a praia da Ponta Negra</segment>
+    <segment id="100">, principal balneário público da capital.</segment>
+    <segment id="101">Também merece atenção o vizinho Pará</segment>
+    <segment id="102">, entre os estados que mais reduziram leitos da doença na pandemia.</segment>
+    <segment id="103">Na capital</segment>
+    <segment id="104">, Belém</segment>
+    <segment id="105">, a taxa de ocupação é de 73%</segment>
+    <segment id="106">, masmas em geral os leitos distribuídos pelo estado mantêm índice de 50%.</segment>
+    <segment id="107">No Rio</segment>
+    <segment id="108">, o aumento da doença voltou a preocupar.</segment>
+    <segment id="109">Na capital</segment>
+    <segment id="110">, 80% das cerca de 520 vagas de UTI públicas (somando as redes municipal</segment>
+    <segment id="111">, estadual e federal) estavam cheias na última terça (17).</segment>
+    <segment id="112">Se for considerada apenas a rede municipal</segment>
+    <segment id="113">, a ocupação era de 97% dos 251 leitos municipais da capital estão lotados com apenas oito leitos vagos.</segment>
+    <segment id="114">A disparada fez a Secretaria Municipal de Saúde enviar uma carta interna às coordenações de atenção primária da cidade na última semana: "</segment>
+    <segment id="115">Vivemos um expressivo aumento do número de atendimentos de síndrome gripal</segment>
+    <segment id="116">, casos confirmados e internações por Covid-19 nas últimas semanas"</segment>
+    <segment id="117">, alerta o comunicado.</segment>
+    <segment id="118">A lotação também</segment>
+    <segment id="119">sese deve à redução dos leitos nos últimos meses.</segment>
+    <segment id="120">O único hospital de campanha que sobrou foi o da prefeitura</segment>
+    <segment id="121">, já que a gestão do governador afastado Wilson Witzel (PSC) fechou todas as suas unidades.</segment>
+    <segment id="122">O governo federal também desativou as poucas vagas que existiam no Hospital de Bonsucesso após um incêndio em outubro.</segment>
+    <segment id="123">Em São Paulo</segment>
+    <segment id="124">, a ocupação de leitos aumentou no mês de novembro</segment>
+    <segment id="125">, de 40% no início do mês para 43%.</segment>
+    <segment id="126">As internações em geral</segment>
+    <segment id="127">, que incluem pacientes em enfermaria e UTI</segment>
+    <segment id="128">, eram 6.650 no começo do mês e na segunda-feira (17) eram 7.705.</segment>
+    <segment id="129">Os números referem-</segment>
+    <segment id="130">sese à média móvel nos sete dias até a data indicada.</segment>
+    <segment id="131">Apesar disso</segment>
+    <segment id="132">, a ocupação de UTIs ainda é menor que a registrada no último levantamento</segment>
+    <segment id="133">, em 10 de agosto</segment>
+    <segment id="134">; nessa data</segment>
+    <segment id="135">, ​era de 59% tanto no estado quanto na capital paulista.</segment>
+    <segment id="136">Na capital paulista</segment>
+    <segment id="137">, a lotação era de 52% na segunda.</segment>
+    <segment id="138">A rotina nos hospitais que recebem pacientes com o novo coronavírus em São Paulo    novamente         de   de  de  representando um</segment>
+    <segment id="139">No Centro-Ceste</segment>
+    <segment id="140">, antes com baixos índices de pacientes graves</segment>
+    <segment id="141">, Campo Grande registrou nesta semana 76% de ocupação nas UTIs.</segment>
+    <segment id="142">Se for considerada apenas leitos SUS</segment>
+    <segment id="143">, a taxa é de 83%</segment>
+    <segment id="144">, masmas a prefeitura utiliza leitos contratados da rede privada para dar conta dos casos de internação decorrentes da Covid-19.</segment>
+    <segment id="145">No estado</segment>
+    <segment id="146">, a situação é mais confortável</segment>
+    <segment id="147">, com taxa de ocupação de UTIs em 29%.</segment>
+    <segment id="148">No Amapá</segment>
+    <segment id="149">, estado que vive situação de caos com o apagão elétrico nas últimas semanas</segment>
+    <segment id="150">, também convive com o avanço da pandemia.</segment>
+    <segment id="151">São 79% dos leitos de UTI para Covid-19 ocupados no estado</segment>
+    <segment id="152">, que chegou a cancelar cirurgias eletivas durante a falta de fornecimento de energia.</segment>
+    <segment id="153">Minas Gerais</segment>
+    <segment id="154">, que não divulga separadamente leitos gerais do SUS de leitos reservados para a Covid-19</segment>
+    <segment id="155">, tem 62</segment>
+    <segment id="156">,9% de ocupação de UTIs —18</segment>
+    <segment id="157">,3% de leitos ocupados com casos relacionados à doença até quarta-feira.</segment>
+    <segment id="158">Minas teve 387.751 casos confirmados e 9.605 mortes até quarta-feira (18).</segment>
+    <segment id="159">Belo Horizonte tem 33</segment>
+    <segment id="160">,5% dos leitos de UTI para Covid ocupados.</segment>
+    <segment id="161">Por ora</segment>
+    <segment id="162">, segundo o infectologista Carlos Starling</segment>
+    <segment id="163">, membro do comitê de enfrentamento à Covid-19 da prefeitura</segment>
+    <segment id="164">, não há indicativo de novo fechamento do comércio na capital mineira</segment>
+    <segment id="165">, que segue com algumas restrições de dias e horários.</segment>
+    <segment id="166">Para abertura de escolas</segment>
+    <segment id="167">, diz ele</segment>
+    <segment id="168">, foi estabelecido o critério de menos de 20 casos para 100 mil habitantes</segment>
+    <segment id="169">comocomo parâmetro de segurança.</segment>
+    <segment id="170">Nos últimos dez dias</segment>
+    <segment id="171">, Pernambuco precisou mobilizar novamente leitos de UTI destinados a pacientes com síndrome respiratória aguda grave devido ao aumento de casos.</segment>
+    <segment id="172">No dia 7 de novembro</segment>
+    <segment id="173">, a taxa de ocupação dos leitos de UTI/Covid ficou em 81% e voltou a preocupar as autoridades sanitárias.</segment>
+    <segment id="174">O governo ampliou</segment>
+    <segment id="175">, na última semana</segment>
+    <segment id="176">, a oferta de vagas.</segment>
+    <segment id="177">Passou de 780 para 833.</segment>
+    <segment id="178">Nesta terça-feira (18)</segment>
+    <segment id="179">, 73% dos 833 leitos estavam ocupados.</segment>
+    <segment id="180">No início de agosto</segment>
+    <segment id="181">, o índice era de 63% para o quantitativo de 868 vagas.</segment>
+    <segment id="182">Estão com patamares mais controlados</segment>
+    <segment id="183">, no Centro-Oeste</segment>
+    <segment id="184">, Cuiabá (29% de leitos ocupados) e Goiânia (42%)</segment>
+    <segment id="185">, algumas capitais do Nordeste</segment>
+    <segment id="186">, como</segment>
+    <segment id="187">como Maceió (taxas de 26%)</segment>
+    <segment id="188">, São Luís e Aracaju</segment>
+    <segment id="189">, ambas com 37%.</segment>
+    <segment id="190">O local com maior tranquilidade da doença é Palmas</segment>
+    <segment id="191">, com apenas 10% dos 76 leitos em uso para pacientes da Covid-19.</segment>
+  </rst>
+</analysis>

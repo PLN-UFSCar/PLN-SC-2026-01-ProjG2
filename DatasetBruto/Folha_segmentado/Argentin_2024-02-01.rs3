@@ -1,0 +1,110 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O segundo dia de protestos contra as reformas liberais de Javier Milei na Argentina teve novos confrontos entre policiais e manifestantes.</segment>
+    <segment id="2">Os agentes usaram balas de borracha</segment>
+    <segment id="3">, cassetetes</segment>
+    <segment id="4">, sprays de pimenta e motocicletas para impedir que o grupo bloqueasse as ruas ao redor do Congresso Nacional.</segment>
+    <segment id="5">É ali dentro que deputados discutem a chamada "lei ônibus</segment>
+    <segment id="6">"</segment>
+    <segment id="7">desde quarta-feira (31)</segment>
+    <segment id="8">, em longas sessões que devem</segment>
+    <segment id="9">sese estender pelo menos até esta sexta (2)</segment>
+    <segment id="10">.</segment>
+    <segment id="11">Isso porque</segment>
+    <segment id="12">porque o plenário precisa votar o projeto em geral e depois discutir artigo por artigo para chegar ao texto final</segment>
+    <segment id="13">, que originalmente tinha 664 pontos e agora já tem menos de 400.</segment>
+    <segment id="14">Manifestantes e policiais entram em confronto do lado de fora do Congresso Nacional da Argentina</segment>
+    <segment id="15">, em Buenos Aires</segment>
+    <segment id="16">, pelo segundo dia seguido - Agustin Marcarian - 1º.fev.2024/ReutersO clima voltou a esquentar na tarde desta quinta (1º)</segment>
+    <segment id="17">, quando organizações sociais e de esquerda</segment>
+    <segment id="18">, assim</segment>
+    <segment id="19">comocomo pessoas sem ligação com nenhum grupo</segment>
+    <segment id="20">, ocuparam novamente a praça em frente ao Legislativo.</segment>
+    <segment id="21">Ao menos 21 profissionais da imprensa teriam ficado feridos pelos projéteis ou por passarem mal com o spray</segment>
+    <segment id="22">, segundo uma lista de nomes lida no plenário por um deputado da esquerda.</segment>
+    <segment id="23">O primeiro tumulto aconteceu por volta das 18h: uma fileira de policiais usou escudos para reprimir pessoas que estavam em cima da calçada.</segment>
+    <segment id="24">A situação logo</segment>
+    <segment id="25">sese estabilizou</segment>
+    <segment id="26">, masmas</segment>
+    <segment id="27">, momentos depois</segment>
+    <segment id="28">, um grande efetivo de agentes federais desembarcou em caminhões em frente ao edifício</segment>
+    <segment id="29">, o que elevou a tensão.</segment>
+    <segment id="30">Nos primeiros dias de seu mandato</segment>
+    <segment id="31">, em dezembro</segment>
+    <segment id="32">, Milei instituiu um novo protocolo com tolerância zero contra o fechamento de vias por manifestantes</segment>
+    <segment id="33">, os chamados piquetes</segment>
+    <segment id="34">, criticados por parte da população.</segment>
+    <segment id="35">O protocolo inclui o uso de forças federais para romper o método de protesto utilizado por organizações sociais.</segment>
+    <segment id="36">Seguindo esse protocolo</segment>
+    <segment id="37">, os policiais formaram fileiras na intenção de retirar manifestantes que bloqueavam uma rua na lateral da praça.</segment>
+    <segment id="38">Houve vários focos de confronto nas duas horas que</segment>
+    <segment id="39">sese seguiram</segment>
+    <segment id="40">, e os manifestantes reagiram à ação policial com cabos de bandeiras e garrafas de água.</segment>
+    <segment id="41">Os agentes retiravam os grupos das vias</segment>
+    <segment id="42">, masmas aos poucos eles voltavam.</segment>
+    <segment id="43">Diante da resistência</segment>
+    <segment id="44">, um efetivo de moto passou a fazer movimentos circulares e a atirar com balas de borracha</segment>
+    <segment id="45">, em geral em direção ao chão</segment>
+    <segment id="46">, provocando correria.</segment>
+    <segment id="47">Um desses projéteis</segment>
+    <segment id="48">, já à noite</segment>
+    <segment id="49">, atingiu a canela de um fotojornalista</segment>
+    <segment id="50">, que saiu caminhando ensanguentado.</segment>
+    <segment id="51">Argentina tem greve geral contra reformas ultraliberais de MileiMais    novamente         de   de  de  representando um  Por volta das 21h</segment>
+    <segment id="52">, voltaram a acontecer confrontos depois que os manifestantes fecharam a avenida principal.</segment>
+    <segment id="53">A Folha presenciou pelo menos dois homens sendo detidos</segment>
+    <segment id="54">, carregados pelas pernas e pelos braços por agentes para dentro do edifício do Congresso.</segment>
+    <segment id="55">Deputados da coalizão de oposição peronista</segment>
+    <segment id="56">, União pela Pátria</segment>
+    <segment id="57">, abandonaram a sessão e foram às ruas em meio à confusão.</segment>
+    <segment id="58">Por volta das 21h15 a situação havia</segment>
+    <segment id="59">sese estabilizado</segment>
+    <segment id="60">, masmas um grande grupo seguia ocupando a praça com bandeiras e faixas contra a lei de Milei</segment>
+    <segment id="61">, enquanto policiais mantinham uma longa barreira em frente à Assembleia.</segment>
+    <segment id="62">Grande parte da oposição na Câmara tem sinalizado que vai apoiar as reformas de maneira geral</segment>
+    <segment id="63">, masmas discordar de pontos específicos.</segment>
+    <segment id="64">Os pontos que geram mais divergências são a concessão de poderes especiais ao presidente enquanto durar a situação de emergência no país e a privatização de cerca de 40 empresas estatais.</segment>
+    <segment id="65">No primeiro dia de protestos</segment>
+    <segment id="66">, nesta quarta</segment>
+    <segment id="67">, parte dos manifestantes que ocupavam a mesma praça em frente ao Congresso também tentaram andar por pistas de ruas próximas.</segment>
+    <segment id="68">As forças de segurança intevieram</segment>
+    <segment id="69">, e ouve ao menos um policial ferido e cinco pessoas detidas.</segment>
+    <segment id="70">Quatro delas eram mulheres e foram liberadas apenas na manhã desta quinta.</segment>
+    <segment id="71">Em vídeos nas redes sociais</segment>
+    <segment id="72">, elas contaram que não</segment>
+    <segment id="73">sese conheciam: "</segment>
+    <segment id="74">Passamos 12 horas presas por cantar o hino nacional pacificamente sentadas em frente ao Congresso"</segment>
+    <segment id="75">, disse uma das militantes</segment>
+    <segment id="76">, Ivanna Bunge.</segment>
+    <segment id="77">Também houve outros incidentes.</segment>
+    <segment id="78">Um apoiador de Milei e um jornalista do canal LN+</segment>
+    <segment id="79">, do mesmo grupo do jornal La Nacion</segment>
+    <segment id="80">, foram agredidos por dois manifestantes.</segment>
+    <segment id="81">O primeiro levou um soco</segment>
+    <segment id="82">, e o segundo</segment>
+    <segment id="83">, uma cuspida</segment>
+    <segment id="84">, ambos registrados em vídeos.</segment>
+  </rst>
+</analysis>

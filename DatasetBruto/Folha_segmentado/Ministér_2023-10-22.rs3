@@ -1,0 +1,47 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Ministério da Cultura irá lançar o programa Rouanet nas Favelas que irá investir R$ 5 milhões nos estados do Pará</segment>
+    <segment id="2">, Maranhão</segment>
+    <segment id="3">, Ceará</segment>
+    <segment id="4">, Bahia e Goiás.</segment>
+    <segment id="5">A ideia do projeto é descentralizar os recursos da Lei Rouanet</segment>
+    <segment id="6">, principal mecanismo de fomento à cultura no país — uma das promessas da ministra Margareth Menezes.</segment>
+    <segment id="7">O decreto editado neste ano pelo governo Lula (PT) que estabelece novas diretrizes para a norma permite que sejam criados editais públicos com recursos da Rouanet</segment>
+    <segment id="8">, fazendo com que o ministério atue junto aos patrocinadores</segment>
+    <segment id="9">, estabelecendo diretrizes e critérios que terão de ser respeitados.</segment>
+    <segment id="10">O Rouanet nas Favelas é realizado em parceria com a Cufa (Central Única das Favelas)</segment>
+    <segment id="11">, a Vale e o Instituto Cultural Vale.</segment>
+    <segment id="12">O programa será lançado na próxima terça-feira (24) em evento em São Luís (MA) com a participação da ministra.</segment>
+    <segment id="13">Na data</segment>
+    <segment id="14">, será assinado um termo de compromisso que inaugura o programa —os editais que detalham as regras do Rouanet nas Favelas devem ser lançados em novembro.</segment>
+    <segment id="15">Segundo a pasta da Cultura</segment>
+    <segment id="16">, os estados foram selecionados</segment>
+    <segment id="17">porque</segment>
+    <segment id="18">porque registram baixo índice de projetos aprovados para captação de valores e contam com atuação da Vale.</segment>
+    <segment id="19">Os recursos serão destinados a projetos em comunidades em cada um dos estados escolhidos.</segment>
+    <segment id="20">A ministra da Cultura Margareth Menezes na inauguração da pasta em janeiro de 2023</segment>
+    <segment id="21">, em Brasília - Reuters</segment>
+  </rst>
+</analysis>

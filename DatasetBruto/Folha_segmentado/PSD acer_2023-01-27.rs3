@@ -1,0 +1,48 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O PSD acertou a filiação das senadoras</segment>
+    <segment id="2">Eliziane Gama (Cidadania-MA) e Mara Gabrilli (PSDB-SP)</segment>
+    <segment id="3">, e com isso chegará à eleição para o comando da Casa</segment>
+    <segment id="4">, em 1 de fevereiro</segment>
+    <segment id="5">, com uma bancada de 15 parlamentares.</segment>
+    <segment id="6">A senadora Eliziane Gama (MA)</segment>
+    <segment id="7">, que está trocando o Cidadania pelo PSD - Pedro Ladeira/FolhapressA expectativa é que ambas formalizem sua entrada na legenda presidida por Gilberto Kassab até este sábado (28).</segment>
+    <segment id="8">A filiação de Mara foi antecipada pela Folha.</segment>
+    <segment id="9">Com isso</segment>
+    <segment id="10">, o PSD</segment>
+    <segment id="11">sese consolida com a maior bancada do Senado</segment>
+    <segment id="12">, o que é visto</segment>
+    <segment id="13">comocomo um impulso para a reeleição do presidente Rodrigo Pacheco (PSD-MG).</segment>
+    <segment id="14">O PL, que lançou Rogério Marinho (RN)</segment>
+    <segment id="15">, tem 13.</segment>
+    <segment id="16">PainelReceba no seu email as informações exclusivas da coluna PainelCarregando...</segment>
+    <segment id="17">A legenda começará a próxima legislatura com 16 senadores.</segment>
+    <segment id="18">Isso porque</segment>
+    <segment id="19">porque Jussara Lima (PI)</segment>
+    <segment id="20">, suplente de Wellington Dias (PT)</segment>
+    <segment id="21">, assumirá em 2 de fevereiro</segment>
+    <segment id="22">, com o retorno do titular do mandato para o Ministério do Desenvolvimento Social.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,140 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O FBI está investigando as gigantes Johnson &amp;amp</segment>
+    <segment id="2">;</segment>
+    <segment id="3">Johnson</segment>
+    <segment id="4">, Siemens</segment>
+    <segment id="5">, General Electric e Philips por suposto pagamento de subornos</segment>
+    <segment id="6">comocomo parte de um esquema envolvendo a venda de equipamentos médicos no Brasil</segment>
+    <segment id="7">, disseram duas autoridades envolvidas na investigação brasileira à agência Reuters.</segment>
+    <segment id="8">Procuradores do Ministério Público Federal suspeitam que as empresas tenham realizado pagamentos ilegais a autoridades públicas para garantir contratos na área de saúde pública no país ao longo das últimas duas décadas.</segment>
+    <segment id="9">Autoridades brasileiras dizem que mais de 20 empresas podem ter participado de um "cartel" que pagava propinas e cobrava preços inflacionados por equipamentos médicos</segment>
+    <segment id="10">, como</segment>
+    <segment id="11">como máquinas de ressonância magnética e próteses.</segment>
+    <segment id="12">As quatro multinacionais</segment>
+    <segment id="13">, que juntas têm valor de mercado de quase US$ 600 bilhões  (cerca de R$ 2</segment>
+    <segment id="14">,4 trilhões)</segment>
+    <segment id="15">, são as maiores empresas estrangeiras a serem investigadas no âmbito das diversas operações anticorrupção no Brasil deflagradas nos últimos anos.</segment>
+    <segment id="16">Grandes empresas norte-americanas e europeias que tenham envolvimento comprovado em irregularidades no Brasil também podem enfrentar multas pesadas e outras punições</segment>
+    <segment id="17">, de acordo com a Lei de Práticas Corruptas no Exterior dos Estados Unidos.</segment>
+    <segment id="18">Desde 1977</segment>
+    <segment id="19">, a lei tornou ilegal cidadãos e empresas norte-americanas ou empresas estrangeiras que tenham ações listadas nos EUA pagarem autoridades estrangeiras para fechar negócios.</segment>
+    <segment id="20">COMBATE</segment>
+    <segment id="21">Á CORRUPÇÃO</segment>
+    <segment id="22">As empresas estrangeiras são o alvo mais recente das investigações de corrupção no Brasil.</segment>
+    <segment id="23">Nos últimos cinco anos</segment>
+    <segment id="24">, procuradores revelaram esquemas de corrupção enraizados em instituições estatais e em companhias do setor privado que desejam fazer negócios no país.</segment>
+    <segment id="25">As investigações abrangentes dos procuradores e da Polícia Federal --entre elas a operação Lava Jato</segment>
+    <segment id="26">, centrada na Petrobras</segment>
+    <segment id="27">,  derrubaram líderes políticos e empresariais em toda a América Latina.</segment>
+    <segment id="28">Autoridades dizem que acordos de delação feitos com suspeitos apontaram para outros esquemas possíveis</segment>
+    <segment id="29">, incluindo supostas propinas pagas por multinacionais para obter contratos públicos no Brasil.</segment>
+    <segment id="30">COMPARTILHANDO INFORMAÇÕES</segment>
+    <segment id="31">A procuradora da República Marisa Ferrari confirmou em uma entrevista à Reuters que autoridades do Departamento de Justiça dos EUA e da SEC (Securities and Exchange Commission</segment>
+    <segment id="32">, que regula o mercado de capitais nos EUA) estão auxiliando a investigação brasileira sobre equipamentos médicos que ela ajuda a comandar.</segment>
+    <segment id="33">Em 2016</segment>
+    <segment id="34">, procuradores do Brasil e dos EUA negociaram conjuntamente a maior multa relacionada a compliance do mundo</segment>
+    <segment id="35">, de 3</segment>
+    <segment id="36">,5 bilhões de dólares</segment>
+    <segment id="37">, contra a construtora brasileira Odebrecht</segment>
+    <segment id="38">, por seu envolvimento no escândalo da Lava Jato.</segment>
+    <segment id="39">“</segment>
+    <segment id="40">A gente está sempre compartilhando informações sobre esta investigação com o FBI.</segment>
+    <segment id="41">Pedem documentos</segment>
+    <segment id="42">, a gente encaminha</segment>
+    <segment id="43">, e eles estão investigando também</segment>
+    <segment id="44">,” disse Ferrari.</segment>
+    <segment id="45">“</segment>
+    <segment id="46">A gente já recebeu muito material do Departamento de Justiça</segment>
+    <segment id="47">, da SEC.</segment>
+    <segment id="48">Enfim, estamos em contato com eles permanentemente”</segment>
+    <segment id="49">, acrescentou.</segment>
+    <segment id="50">Ela não quis identificar quais empresas as agências de cumprimento da lei dos EUA estão investigando.</segment>
+    <segment id="51">Duas autoridades envolvidas nas investigações com conhecimento direto do assunto confirmaram à Reuters que Johnson &amp;amp</segment>
+    <segment id="52">; Johnson</segment>
+    <segment id="53">, , SiemensEGn.</segment>
+    <segment id="54">GE e Philips estão na mira do FBI pelo suposto pagamento de propinas no Brasil.</segment>
+    <segment id="55">As fontes pediram anonimato por não terem autorização para discutir o lado norte-americano da investigação.</segment>
+    <segment id="56">O FBI não quis confirmar nem negar a existência de qualquer investigação.</segment>
+    <segment id="57">A SECdiss disse por email que não comentará.</segment>
+    <segment id="58">Sediada em Boston</segment>
+    <segment id="59">, a GE não quis comentar qualquer investigação relacionada ao seu negócio no Brasil</segment>
+    <segment id="60">, dizendo em um comunicado enviado por email que "estamos comprometidos com a integridade</segment>
+    <segment id="61">, a conformidade e o Estado de Direito no Brasil e em todo país em que fazemos negócios".</segment>
+    <segment id="62">A Siemens</segment>
+    <segment id="63">, que tem sede em Munique</segment>
+    <segment id="64">, disse em um comunicado enviado por email que a empresa "não está ciente de nenhuma investigação do FBI sobre a companhia relacionada a uma atividade de cartel no Brasil" e que sua política é de sempre cooperar com investigações das forças da lei quando elas ocorrem.</segment>
+    <segment id="65">A Philips</segment>
+    <segment id="66">, sediada em Amsterdã</segment>
+    <segment id="67">, confirmou em um email que está sendo investigada no Brasil.</segment>
+    <segment id="68">Em seu relatório anual de 2018</segment>
+    <segment id="69">, a Philips reconheceu que "também recebeu indagações de certas autoridades dos EUA a respeito desta questão".</segment>
+    <segment id="70">Em resposta enviada por email à Reuters</segment>
+    <segment id="71">, a Philips disse que "não é incomum autoridades dos EUA mostrarem interesse nestas questões</segment>
+    <segment id="72">, e que é cedo demais para chegar a qualquer conclusão".</segment>
+    <segment id="73">Com sedes em New Brunswick e New Jersey</segment>
+    <segment id="74">, a Johnson &amp;amp</segment>
+    <segment id="75">; Johnson disse em uma resposta enviada por email que o Departamento de Justiça e a SEC "fizeram indagações preliminares à companhia" no tocante a uma operação da Polícia Federal brasileira sobre seus escritórios em São Paulo no ano passado e que está cooperando.</segment>
+    <segment id="76">ENORME  Ferrari disse que a investigação sobre os equipamentos médicos está em seus estágios iniciais</segment>
+    <segment id="77">, masmas que indícios apontam para pagamentos de propinas de grande escala e superfaturamento de preços por parte de empresas que atuam no sistema de saúde pública do Brasil</segment>
+    <segment id="78">, que atende 210 milhões de pessoas e é um dos maiores do mundo.  "</segment>
+    <segment id="79">Como o orçamento da saúde é muito grande no Brasil</segment>
+    <segment id="80">, este esquema é realmente enorme"</segment>
+    <segment id="81">,</segment>
+    <segment id="82">disse a procuradora.</segment>
+    <segment id="83">“Como se</segment>
+    <segment id="84">se trata de uma investigação muito grande</segment>
+    <segment id="85">, nós estamos fazendo o trabalho por etapas</segment>
+    <segment id="86">, então essa primeira denúncia não exaure o trabalho</segment>
+    <segment id="87">, os fatos criminosos</segment>
+    <segment id="88">, isso foi só um recorte que a gente fez que eram as provas mais robustas que já tínhamos naquele momento e nós já denunciamos esses fatos</segment>
+    <segment id="89">, masmas existem vários procedimentos ainda em andamento para apurar outras irregularidades e o envolvimento de outras grandes empresas.</segment>
+    <segment id="90">”         Além de pagar subornos através de intermediários para garantir contratos</segment>
+    <segment id="91">, alguns fornecedores cobraram preços até oito vezes acima dos valores de mercado do governo brasileiro para ajudar a acobertar o custo de suas propinas</segment>
+    <segment id="92">, segundo autos e acordos de delação fechados pelos procuradores.</segment>
+    <segment id="93">Daurio Speranzini</segment>
+    <segment id="94">, ex-executivo-chefe da GE para a América Latina</segment>
+    <segment id="95">, e outras 22 pessoas foram acusadas no ano passado no primeiro</segment>
+    <segment id="96">casocaso ligado ao suposto esquema.</segment>
+    <segment id="97">O então presidente-executivo da GEpara a América Latina</segment>
+    <segment id="98">, Daurio Speranzini Jr. chega a sede dapolicia federal em sp</segment>
+    <segment id="99">comocomo resultado da operação Ressonância - Marcos Alves-4.jul.2018 / Agencia</segment>
+    <segment id="100">O GloboOs procuradores dizem que os contratos forjados concedidos a fornecedores de equipamentos médicos corruptos</segment>
+    <segment id="101">, que se</segment>
+    <segment id="102">se concentram no Rio de Janeiro</segment>
+    <segment id="103">, privaram os contribuintes brasileiros de ao menos 600 milhões de reais entre 2007 e 2018.</segment>
+    <segment id="104">Os advogados de Speranzini</segment>
+    <segment id="105">, que deixou a GE em novembro</segment>
+    <segment id="106">, disseram por email que ele é inocente.</segment>
+    <segment id="107">Procuradores alegam que Speranzini começou a participar do cartel</segment>
+    <segment id="108">comocomo chefe de operações da Philips Healthcare na América Latina de 2004 até o final de 2010.</segment>
+    <segment id="109">Um delator alertou a área de compliance da Philips sobre a fraude</segment>
+    <segment id="110">, e Speranzini foi demitido após um inquérito interno</segment>
+    <segment id="111">, segundo os documentos.</segment>
+    <segment id="112">Ele foi contratado pela GE poucos meses depois de sair da Philips.</segment>
+    <segment id="113">Investigadores dizem ter indícios fortes de que Speranzini manteve o esquema enquanto esteve na GE.</segment>
+    <segment id="114">A GE não quis comentar a contratação de Speranzini ou sua saída da empresa.</segment>
+  </rst>
+</analysis>

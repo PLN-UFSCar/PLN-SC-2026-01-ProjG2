@@ -1,0 +1,48 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Folha reconhece a importância de desenvolver um ambiente plural não só em sua Redação</segment>
+    <segment id="2">masmas na empresa</segment>
+    <segment id="3">comocomo um todo.</segment>
+    <segment id="4">Sabe que a diversidade nos mais variados aspectos aumenta a quantidade de pontos de vista que o jornalismo é capaz de oferecer a seus leitores.</segment>
+    <segment id="5">Reconhece</segment>
+    <segment id="6">, porém</segment>
+    <segment id="7">porém, que ainda é limitada a gama de ideias e visões de mundo em circulação entre os jornalistas.</segment>
+    <segment id="8">Para enfrentar esse problema</segment>
+    <segment id="9">, o jornal criou em 2019 o cargo de editora de Diversidade .</segment>
+    <segment id="10">O objetivo é promover a publicação de conteúdos capazes de refletir a variedade da vida social no Brasil</segment>
+    <segment id="11">, com especial atenção para os atores historicamente marginalizados.</segment>
+    <segment id="12">Sem abrir mão do mérito</segment>
+    <segment id="13">, a nova editoria participará da produção jornalística com vistas a reforçar a diversidade de gênero</segment>
+    <segment id="14">, origem étnica</segment>
+    <segment id="15">, classe social</segment>
+    <segment id="16">, raça</segment>
+    <segment id="17">, cor, crença religiosa</segment>
+    <segment id="18">, deficiência</segment>
+    <segment id="19">, orientação sexual</segment>
+    <segment id="20">, idade e inclinação política.</segment>
+    <segment id="21">Tornando sua própria equipe mais heterogênea</segment>
+    <segment id="22">, a Folha espera ampliar os seus horizontes e diversificar também a sua base de leitores.</segment>
+  </rst>
+</analysis>

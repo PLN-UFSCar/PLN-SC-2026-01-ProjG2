@@ -1,0 +1,146 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O fundo soberano da Rússia e a farmacêutica russa ChemRar anunciaram nesta quinta (24) um acordo para fornecer a 17 países</segment>
+    <segment id="2">, inclusive o Brasil</segment>
+    <segment id="3">, um antiviral contra a Covid-19.</segment>
+    <segment id="4">Segundo o fundo</segment>
+    <segment id="5">, que bancou também a criação da vacina Sputnik V</segment>
+    <segment id="6">, o medicamento está sendo negociado com um laboratório privado brasileiro</segment>
+    <segment id="7">, que não teve o nome divulgado.</segment>
+    <segment id="8">Para ser usado</segment>
+    <segment id="9">, ele precisa ser aprovado pela Anvisa.</segment>
+    <segment id="10">O presidente do fundo soberano russo</segment>
+    <segment id="11">, Kirill Dmitriev</segment>
+    <segment id="12">, que anunciou acordo sobre novo antiviral - Maxim Chemetov - 7.jun.2019/ReutersA droga em questão é o Avifavir</segment>
+    <segment id="13">, nome comercial do favipiravir</segment>
+    <segment id="14">, composto que é usado desde 2014 no Japão contra a gripe chamado de Avigan.</segment>
+    <segment id="15">Em abril</segment>
+    <segment id="16">, sua fabricante</segment>
+    <segment id="17">, a Fujifilm (a mesma do ramo fotográfico)</segment>
+    <segment id="18">, começou testes clínicos de fase 3 para determinar</segment>
+    <segment id="19">sese ele poderia ser eficaz no combate ao novo coronavírus.</segment>
+    <segment id="20">Seu princípio é o de inibir a enzima polimerase</segment>
+    <segment id="21">, que ajuda o patógeno a</segment>
+    <segment id="22">sese reproduzir quando invade uma célula saudável.</segment>
+    <segment id="23">A Rússia iniciou testes próprios com um genérico sob licença japonesa e</segment>
+    <segment id="24">, em junho</segment>
+    <segment id="25">, aprovou o uso emergencial de 60 mil doses do remédio em 74 de suas 85 regiões.</segment>
+    <segment id="26">Como no</segment>
+    <segment id="27">casocaso da Sputnik</segment>
+    <segment id="28">, houve críticas à aprovação sem o fim dos testes clínicos.</segment>
+    <segment id="29">Segundo o Ministério da Saúde da Rússia</segment>
+    <segment id="30">, como</segment>
+    <segment id="31">como o remédio não trazia riscos à saúde por já estar em uso</segment>
+    <segment id="32">, isso seria tolerável.</segment>
+    <segment id="33">Segundo o órgão</segment>
+    <segment id="34">, 940 pacientes foram acompanhados.</segment>
+    <segment id="35">Neles, 30% tiveram o Sars-CoV-2 eliminado do corpo e o restante</segment>
+    <segment id="36">, reduziu seu tempo de tratamento de sintomas</segment>
+    <segment id="37">comocomo pneumonia leve de quatro para dois dias.</segment>
+    <segment id="38">Ainda assim</segment>
+    <segment id="39">, houve questionamentos na comunidade médica russa.</segment>
+    <segment id="40">Nesta quarta (23)</segment>
+    <segment id="41">, a Fujifilm divulgou os resultados de sua fase 3</segment>
+    <segment id="42">, apontando que o remédio de fato é eficaz para reduzir o tempo de tratamento em casos não graves da Covid-19.</segment>
+    <segment id="43">Agora, pretende iniciar o processo de aprovação do uso da droga no Japão</segment>
+    <segment id="44">, o que pretende concluir em outubro.</segment>
+    <segment id="45">A ação do Avifavir é semelhante à da droga experimental remdesivir</segment>
+    <segment id="46">, cujos estoques mundiais foram virtualmente sequestrados pelo governo dos Estados Unidos</segment>
+    <segment id="47">, numa iniciativa condenada pela Organização Mundial da Saúde.</segment>
+    <segment id="48">Os russos já haviam enviado a medicação para as ex-repúblicas soviéticas Belarus</segment>
+    <segment id="49">, Cazaquistão</segment>
+    <segment id="50">, Uzbequistão</segment>
+    <segment id="51">, Quirguistão e Turcomenistão.</segment>
+    <segment id="52">Além deles</segment>
+    <segment id="53">, na segunda (21)</segment>
+    <segment id="54">, o governo da Bolívia anunciou a compra de 150 mil doses da droga.</segment>
+    <segment id="55">Agora, o fundo soberano afirma que deverá fornecer o remédio</segment>
+    <segment id="56">, que custa cerca de três vezes menos que o Remdesivir</segment>
+    <segment id="57">, para Brasil</segment>
+    <segment id="58">, Argentina</segment>
+    <segment id="59">, Bulgária</segment>
+    <segment id="60">, Chile</segment>
+    <segment id="61">, Colômbia</segment>
+    <segment id="62">, Equador</segment>
+    <segment id="63">, El Salvador</segment>
+    <segment id="64">, Honduras</segment>
+    <segment id="65">, Kuwait</segment>
+    <segment id="66">, Paraguai</segment>
+    <segment id="67">, Panamá</segment>
+    <segment id="68">, Arábia Saudita</segment>
+    <segment id="69">, Sérvia</segment>
+    <segment id="70">, Eslováquia</segment>
+    <segment id="71">, África do Sul</segment>
+    <segment id="72">, Emirados Árabes Unidos e Uruguai.</segment>
+    <segment id="73">As vacinas em teste contra a Covid-19   novamente         de   de  de  representando um  "</segment>
+    <segment id="74">Quando nós registramos a primeira droga contra o coronavírus no mundo</segment>
+    <segment id="75">, houve ceticismo</segment>
+    <segment id="76">porque</segment>
+    <segment id="77">porque o Japão ainda não havia a registrado.</segment>
+    <segment id="78">Agora a eficácia está comprovada"</segment>
+    <segment id="79">, afirmou Kirill Dmitriev</segment>
+    <segment id="80">, presidente do fundo.</segment>
+    <segment id="81">A estratégia de marketing dos russos na pandemia tem sido agressiva.</segment>
+    <segment id="82">Após uma atitude inicial negacionista do governo de Vladimir Putin</segment>
+    <segment id="83">, o país abraçou uma agenda de busca pela vacina e por drogas com velocidade criticada por médicos russos e estrangeiros.</segment>
+    <segment id="84">No caso</segment>
+    <segment id="85">caso da Sputnik V</segment>
+    <segment id="86">, ela foi registrada em 11 de agosto para uso civil</segment>
+    <segment id="87">, a primeira do mundo.</segment>
+    <segment id="88">Na verdade</segment>
+    <segment id="89">, ela só tinha passado pelas fases 1 e 2 dos ensaios clínicos</segment>
+    <segment id="90">, indo para a fase 3 agora —Dmitriev diz que há mais de 50 mil voluntários inscritos para os testes.</segment>
+    <segment id="91">Nenhum estudo científico havia sido publicado até o dia 4 de setembro.</segment>
+    <segment id="92">O texto aprovado pela prestigiosa revista britânica The Lancet apontava a eficácia do imunizante</segment>
+    <segment id="93">, masmas ressaltava que faltava ainda a fase 3 para confirmá-lo.</segment>
+    <segment id="94">Mesmo o estudo foi alvo de críticas de um grupo de cientistas</segment>
+    <segment id="95">, que questionou a duplicação de alguns resultados.</segment>
+    <segment id="96">Os russos responderam ao texto com um novo artigo na mesma revista.</segment>
+    <segment id="97">Dmitriev disse à Folha</segment>
+    <segment id="98">, na semana retrasada</segment>
+    <segment id="99">, que as críticas são parte de um jogo político que une governos contrários ao Kremlin e as grandes farmacêuticas</segment>
+    <segment id="100">, que controlam 80% do mercado mundial.</segment>
+    <segment id="101">Seja como</segment>
+    <segment id="102">como for</segment>
+    <segment id="103">, há um padrão de anúncios que</segment>
+    <segment id="104">sese antecipam a resultados clínicos.</segment>
+    <segment id="105">Para Dmitriev</segment>
+    <segment id="106">, isso é justificável dada a emergência da pandemia e pelo fato de a Rússia usar</segment>
+    <segment id="107">comocomo base medicamentos que já estavam em uso —o favipiravir no</segment>
+    <segment id="108">casocaso da droga e o vetor adenoviral humano</segment>
+    <segment id="109">, no caso</segment>
+    <segment id="110">caso da Sputnik.</segment>
+    <segment id="111">Ainda assim</segment>
+    <segment id="112">, há uma certa opacidade nas ações.</segment>
+    <segment id="113">Na entrevista à Folha</segment>
+    <segment id="114">, o presidente do fundo revelou que negociava a produção da Sputnik V com parceiros europeus e americanos</segment>
+    <segment id="115">, além de parcerias conhecidas</segment>
+    <segment id="116">comocomo as com a Índia ou com os governos do Paraná e da Bahia.</segment>
+    <segment id="117">Ele disse que anúncios deveriam ser feitos nas próximas duas semanas.</segment>
+    <segment id="118">Tal prazo acaba nesta sexta (25)</segment>
+    <segment id="119">, e o fundo informou que as negociações continuam</segment>
+    <segment id="120">, masmas não havia ainda acordos a serem revelados.</segment>
+  </rst>
+</analysis>

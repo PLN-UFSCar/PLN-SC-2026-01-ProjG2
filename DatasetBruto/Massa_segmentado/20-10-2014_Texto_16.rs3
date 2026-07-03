@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Franciele PerÃ£o
+Catarinense Ã© louquinha pelo Figueirense</segment>
+    <segment id="2">A catarinense Franciele PerÃ£o tem 25 anos</segment>
+    <segment id="3">, foi finalista do Musa do BrasileirÃ£o pelo Figueirense</segment>
+    <segment id="4">, em 2011</segment>
+    <segment id="5">, e adora futebol.</segment>
+    <segment id="6">Sempre gostei muito de futebol.</segment>
+    <segment id="7">AtÃ© arriscava jogar uma peladinha no meio da molecada quando pequena</segment>
+    <segment id="8">, diz.</segment>
+    <segment id="9">Ela</segment>
+    <segment id="10">Ã© torcedora fanÃ¡tica do Figueira.</segment>
+  </rst>
+</analysis>

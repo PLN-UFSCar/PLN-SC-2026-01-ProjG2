@@ -1,0 +1,59 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Freio na economia já reduz abertura de vagas com carteira e impacto é maior na indústria
+BRASÍLIA - A desaceleração da economia no segundo trimestre do ano atingiu em cheio os empregos formais</segment>
+    <segment id="2">, sobretudo na indústria.</segment>
+    <segment id="3">No parque industrial</segment>
+    <segment id="4">, mais da metade dos subsetores pesquisados - sete dos 13 - já abre vagas em ritmo abaixo da média histórica mensal de criação de postos de trabalho.</segment>
+    <segment id="5">Também estão sofrendo os impactos o comércio varejista</segment>
+    <segment id="6">, a construção civil e até o setor de serviços</segment>
+    <segment id="7">, que vinha apresentando saldos bastantes elevados</segment>
+    <segment id="8">, nas atividades relacionadas ao comércio e à administração de imóveis e aos serviços técnicos profissionais.</segment>
+    <segment id="9">Estados e prefeituras também estão empregando menos funcionários com carteira assinada.</segment>
+    <segment id="10">A conclusão é do Departamento de Pesquisas e Estudos Econômicos (Depec) do Bradesco</segment>
+    <segment id="11">, com base nos dados do Cadastro Geral de Empregados e Desempregados (Caged) do Ministério do Trabalho</segment>
+    <segment id="12">, já descontados os fatores sazonais (por exemplo</segment>
+    <segment id="13">, épocas de maior contratação</segment>
+    <segment id="14">comocomo Páscoa</segment>
+    <segment id="15">, carnaval e fim de ano).</segment>
+    <segment id="16">O resultado foi obtido a partir da comparação entre a média de criação de empregos de cada setor nos três meses encerrados em julho e a média mensal de geração de postos dos segmentos desde 1998</segment>
+    <segment id="17">, quando o banco iniciou a sua série histórica.</segment>
+    <segment id="18">Queda de 40% entre agosto e dezembro</segment>
+    <segment id="19">De acordo com o relatório do Bradesco</segment>
+    <segment id="20">, o país saiu de uma média mensal de 166 mil empregos com carteira criados no primeiro trimestre deste ano para 159 mil postos no segundo</segment>
+    <segment id="21">, caindo para 129 mil</segment>
+    <segment id="22">, conforme os dados iniciais</segment>
+    <segment id="23">, neste terceiro trimestre.</segment>
+    <segment id="24">A projeção do Depec aponta para uma geração média mensal de 100 mil entre agosto e dezembro - uma queda de 40% sobre o início de 2011.
+
+- O PIB (Produto Interno Bruto</segment>
+    <segment id="25">, conjunto de bens e serviços produzidos no país) do segundo trimestre mais fraco reflete a acomodação da indústria</segment>
+    <segment id="26">, com acúmulo de estoques</segment>
+    <segment id="27">, depois de um primeiro trimestre forte.</segment>
+    <segment id="28">Isso faz os empresários olharem mais à frente</segment>
+    <segment id="29">, reduzirem os negócios e as contratações - afirmou o economista Leandro Câmara Negrão</segment>
+    <segment id="30">, do Bradesco.</segment>
+  </rst>
+</analysis>

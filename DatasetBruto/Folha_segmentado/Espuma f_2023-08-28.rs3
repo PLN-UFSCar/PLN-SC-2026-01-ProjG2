@@ -1,0 +1,71 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O fornecimento de água da principal estação de tratamento do Rio de Janeiro ficou interrompido por 14 horas desta segunda-feira (28) em razão da presença de uma espuma de origem desconhecida no rio Guandu.</segment>
+    <segment id="2">A principal suspeita é de que</segment>
+    <segment id="3">sese trata do vazamento de rejeitos industriais de substância presente em produtos de higiene</segment>
+    <segment id="4">, como</segment>
+    <segment id="5">como detergentes.</segment>
+    <segment id="6">A produção ficou interrompida das 5h até as 19h30</segment>
+    <segment id="7">, quando análises laboratoriais indicaram</segment>
+    <segment id="8">, segundo a Cedae (Companhia de Águas e Esgotos)</segment>
+    <segment id="9">, ausência de risco na qualidade da água.</segment>
+    <segment id="10">De acordo com a Cedae</segment>
+    <segment id="11">, o sistema Guandu atende a mais de 11 milhões pessoas</segment>
+    <segment id="12">, e a medida foi tomada para garantir a segurança hídrica da população.</segment>
+    <segment id="13">Espuma de origem desconhecida interrompe fornecimento de água no Rio de Janeiro</segment>
+    <segment id="14">; mais de 10 milhões de pessoas são atingidas - Divulgação/Cedae"O protocolo de contingência da Cedae foi acionado em razão das alterações da qualidade da água bruta (não tratada).</segment>
+    <segment id="15">Técnicos da Companhia monitoram continuamente as condições do manancial até que a concentração deste material não represente risco e</segment>
+    <segment id="16">, assim que a situação for controlada</segment>
+    <segment id="17">, a operação da ETA [estação de tratamento de água] será retomada.</segment>
+    <segment id="18">A companhia pede que a população economize água"</segment>
+    <segment id="19">, afirmou a Cedae</segment>
+    <segment id="20">, em nota.</segment>
+    <segment id="21">A Cedae afirma ter indícios de que o vazamento já foi interrompido e prevê que a captação de água seja retomada até o fim do dia.</segment>
+    <segment id="22">A distribuição de água só deverá ser normalizada três dias após o restabelecimento da operação da estação de tratamento.</segment>
+    <segment id="23">"</segment>
+    <segment id="24">A espuma veio muito forte e agora reduziu.</segment>
+    <segment id="25">Foi uma onda que passou"</segment>
+    <segment id="26">, disse Daniel Okumura</segment>
+    <segment id="27">, diretor de Saneamento e Grande Operação da Cedae.</segment>
+    <segment id="28">O presidente do Inea (Instituto Estadual do Ambiente)</segment>
+    <segment id="29">, Philipe Campello</segment>
+    <segment id="30">, disse que o órgão ambiental não foi informado por nenhuma indústria sobre o vazamento de rejeitos.</segment>
+    <segment id="31">A ausência desta notificação já configura</segment>
+    <segment id="32">, para ele</segment>
+    <segment id="33">, um crime ambiental.</segment>
+    <segment id="34">O órgão vai apurar a origem do despejo.</segment>
+    <segment id="35">"</segment>
+    <segment id="36">Vamos verificar</segment>
+    <segment id="37">sese foi alguma falha operacional de uma planta industrial licenciada.</segment>
+    <segment id="38">Ela é obrigada a avisar a ocorrência de vazamentos</segment>
+    <segment id="39">para que</segment>
+    <segment id="40">para que os órgãos ambientais tomem medidas.</segment>
+    <segment id="41">Já há inconformidade tanto no lançamento</segment>
+    <segment id="42">comocomo na ausência de comunicação"</segment>
+    <segment id="43">, disse Campello.</segment>
+    <segment id="44">A Delegacia de Proteção ao Meio Ambiente realizou operação para apurar a origem do material.</segment>
+    <segment id="45">Foram colhidas amostras que ainda serão analisadas.</segment>
+  </rst>
+</analysis>

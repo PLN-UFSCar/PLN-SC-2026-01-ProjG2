@@ -1,0 +1,135 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A vacinação contra a Covid-19 fez com que</segment>
+    <segment id="2">, na cidade de São Paulo</segment>
+    <segment id="3">, 81,8% da população com mais de 18 anos desenvolvessem anticorpos neutralizantes contra o coronavírus em setembro</segment>
+    <segment id="4">, quando 6 em cada 10 adultos já tinham recebido ao menos uma dose do imunizante.</segment>
+    <segment id="5">Esse valor</segment>
+    <segment id="6">, aliado ao avanço crescente na vacinação nos últimos dois meses</segment>
+    <segment id="7">, indica um arrefecimento da pandemia no município</segment>
+    <segment id="8">, como</segment>
+    <segment id="9">como indicado nas últimas semanas pela redução nos índices de novos casos</segment>
+    <segment id="10">, hospitalizações e mortes.</segment>
+    <segment id="11">Mulher realiza teste de Covid na entrada de evento em Santos (SP) - Rubens Cavallari - 21.jul.21/FolhapressJá a parcela de indivíduos que possuem anticorpos específicos contra o Sars-CoV-2 é de 52</segment>
+    <segment id="12">,8%, equivalente a quase 5 milhões de paulistanos.</segment>
+    <segment id="13">Nas regiões mais pobres do município</segment>
+    <segment id="14">, esse número chega a 62</segment>
+    <segment id="15">,2%, quase 9 pontos percentuais a mais do que nas regiões mais ricas</segment>
+    <segment id="16">, de 43</segment>
+    <segment id="17">,1%.</segment>
+    <segment id="18">Os resultados fazem parte da sétima etapa do mapeamento sorológico da cidade realizado pelo laboratório Fleury em parceria com o Ipec (Inteligência em Pesquisa e Consultoria</segment>
+    <segment id="19">, o antigo Ibope)</segment>
+    <segment id="20">, Instituto Semeia e Todos pela Saúde.</segment>
+    <segment id="21">O estudo sorológico da população adulta de São Paulo utiliza dois tipos de teste a fim de localizar no sangue anticorpos específicos para o coronavírus.</segment>
+    <segment id="22">Um deles busca os anticorpos IgM (produzidos no início da infecção)</segment>
+    <segment id="23">, IgG (de memória) e Ig (totais)</segment>
+    <segment id="24">;</segment>
+    <segment id="25">o outro</segment>
+    <segment id="26">, anticorpos neutralizantes.</segment>
+    <segment id="27">Os anticorpos neutralizantes são capazes de bloquear a entrada do vírus nas células por impedir a ligação da proteína</segment>
+    <segment id="28">S do Spike (usada pelo vírus para infectar as células) e são importantes fatores de proteção</segment>
+    <segment id="29">, masmas não os únicos</segment>
+    <segment id="30">, contra formas graves da doença.</segment>
+    <segment id="31">Em geral</segment>
+    <segment id="32">, essas moléculas são produzidas após a vacinação contra Covid-19.</segment>
+    <segment id="33">Já a resposta imune do tipo IgG e IgM contra o Sars-CoV-2 (também chamada de proteção contra a nucleoproteína do vírus) é formada após uma infecção natural do coronavírus.</segment>
+    <segment id="34">Ela pode</segment>
+    <segment id="35">, alternativamente</segment>
+    <segment id="36">, ocorrer pela vacinação com Coronavac</segment>
+    <segment id="37">, a única em uso no país que utiliza uma tecnologia de vírus inteiro inativado</segment>
+    <segment id="38">, produzindo uma defesa no corpo contra todas as partes do vírus</segment>
+    <segment id="39">, e não apenas a proteína Spike.</segment>
+    <segment id="40">Não houve uma diferença significativa da prevalência de anticorpos neutralizantes nos distritos de renda mais alta em comparação aos de renda mais baixa</segment>
+    <segment id="41">, diferente do observado nas etapas anteriores.</segment>
+    <segment id="42">Terceira dose contra a Covid-19 em idosos e vacinação em adolescentesMais    novamente         de   de  de  representando um  "</segment>
+    <segment id="43">Esta última fase mostra a importância da vacinação e</segment>
+    <segment id="44">comocomo</segment>
+    <segment id="45">, caso</segment>
+    <segment id="46">caso a vacinação tivesse começado antes</segment>
+    <segment id="47">, a maior prevalência de anticorpos contra a Covid em indivíduos mais pobres em relação aos mais ricos não seria observada"</segment>
+    <segment id="48">, afirma a pesquisadora e diretora-executiva do Ipec</segment>
+    <segment id="49">, Márcia Cavallari Nunes.</segment>
+    <segment id="50">"</segment>
+    <segment id="51">Esses indivíduos sofreram mais com a doença por não conseguirem parar [as atividades presenciais] e</segment>
+    <segment id="52">sese exporem mais ao vírus"</segment>
+    <segment id="53">, completa.</segment>
+    <segment id="54">A pesquisa foi realizada entre os dias 9 e 20 de setembro</segment>
+    <segment id="55">, ou seja</segment>
+    <segment id="56">, logo após o término da aplicação de primeira dose em toda a população adulta no município.</segment>
+    <segment id="57">O avanço da vacinação permitiu incluir</segment>
+    <segment id="58">, já a partir da sexta etapa</segment>
+    <segment id="59">, o teste de anticorpos do tipo neutralizante no sangue.</segment>
+    <segment id="60">"</segment>
+    <segment id="61">Cerca de um terço da população já tinha anticorpos neutralizantes ao final da sexta etapa</segment>
+    <segment id="62">, em 1˚ de maio</segment>
+    <segment id="63">, e dois terços não possuía.</segment>
+    <segment id="64">Agora, vemos que esse número subiu para 81</segment>
+    <segment id="65">,8%, ao final desta sétima etapa</segment>
+    <segment id="66">, e o número de pessoas em que não foi possível detectar anticorpos neutralizantes caiu de 66</segment>
+    <segment id="67">,7% para 18</segment>
+    <segment id="68">,2%, o que é um resultado da vacinação"</segment>
+    <segment id="69">, explica autor principal do estudo</segment>
+    <segment id="70">, o biólogo e professor da USP Fernando Reinach.</segment>
+    <segment id="71">"</segment>
+    <segment id="72">Não temos</segment>
+    <segment id="73">comocomo saber qual é esse número hoje</segment>
+    <segment id="74">, masmas é provável que ele já seja maior</segment>
+    <segment id="75">, de pessoas com anticorpos seja por vacinação seja por infecção prévia"</segment>
+    <segment id="76">, afirma ele.</segment>
+    <segment id="77">O levantamento conclui que com cerca de 82% da população adulta já apresentando anticorpos neutralizantes e com o atual ritmo de vacinação</segment>
+    <segment id="78">, é provável que a pandemia na cidade de São Paulo continue em trajetória de queda —desde que não apareçam novas variantes do vírus.</segment>
+    <segment id="79">Nesta nova fase</segment>
+    <segment id="80">, a pesquisa do SoroEpiSP dividiu a cidade em 160 setores.</segment>
+    <segment id="81">Em cada um deles</segment>
+    <segment id="82">, foram sorteadas oito residências aleatoriamente e colhidas 1.055 amostras de sangue de indivíduos maiores de 18 anos.</segment>
+    <segment id="83">Além disso</segment>
+    <segment id="84">, foi aplicado ainda um questionário a esses moradores.</segment>
+    <segment id="85">A primeira etapa do projeto</segment>
+    <segment id="86">, concluída em maio de 2020</segment>
+    <segment id="87">, comparou os bairros com maior número de casos e óbitos por cem mil habitantes e apontou que 5% da população já havia entrado em contato com o vírus.</segment>
+    <segment id="88">A segunda etapa</segment>
+    <segment id="89">, concluída em junho do ano passado</segment>
+    <segment id="90">, mostrou uma prevalência em toda a população de 11</segment>
+    <segment id="91">,4%.</segment>
+    <segment id="92">Na terceira fase</segment>
+    <segment id="93">, realizada em julho de 2020</segment>
+    <segment id="94">, a soroprevalência observada foi de 17</segment>
+    <segment id="95">,9%.</segment>
+    <segment id="96">Em outubro</segment>
+    <segment id="97">, a quarta fase indicou que 26</segment>
+    <segment id="98">,2% da população adulta de São Paulo já possuía anticorpos contra o vírus.</segment>
+    <segment id="99">A quinta fase</segment>
+    <segment id="100">, que ocorreu em janeiro deste ano</segment>
+    <segment id="101">, apontou um terço da população adulta com infecção prévia da doença.</segment>
+    <segment id="102">Por fim</segment>
+    <segment id="103">, a sexta etapa</segment>
+    <segment id="104">, realizada entre os dias 22 de abril e 1˚ de maio</segment>
+    <segment id="105">, já indicava 41</segment>
+    <segment id="106">,6% dos adultos com anticorpos no sangue contra o Sars-CoV-2.</segment>
+    <segment id="107">À época</segment>
+    <segment id="108">, apenas 8</segment>
+    <segment id="109">,6% da população adulta da cidade já havia recebido as duas doses da vacina contra Covid.</segment>
+  </rst>
+</analysis>

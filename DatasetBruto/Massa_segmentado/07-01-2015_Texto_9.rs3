@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Madoona compra casa no Rio de Janeiro</segment>
+    <segment id="2">A cantora pop investiu em um imÃ³vel no Morro do Vidigal
+Madonna nÃ£o apareceu para o RÃ©veillon no Rio</segment>
+    <segment id="3">, masmas deve desembarcar no Brasil</segment>
+    <segment id="4">Ã© nas prÃ³ximas semanas</segment>
+    <segment id="5">, segundo o site NotÃ­cias da TV</segment>
+    <segment id="6">, para fechar a compra de uma casa no morro do Vidigal</segment>
+    <segment id="7">, famoso pela vista e por atrair celebridades</segment>
+    <segment id="8">, como</segment>
+    <segment id="9">como o jogador de futebol inglÃªs David Beckham.</segment>
+    <segment id="10">Enquanto isso</segment>
+    <segment id="11">, a nossa loira Claudia Leitte investe numa mansÃ£o em Miami</segment>
+    <segment id="12">, nos EUA</segment>
+    <segment id="13">, onde pretende morar com a famÃ­lia e alavancar sua carreira internacional</segment>
+    <segment id="14">, de acordo com o jornal â€œExtraâ€. Como</segment>
+    <segment id="15">sese vÃª</segment>
+    <segment id="16">, tem gosto para tudo nesse mundo!</segment>
+  </rst>
+</analysis>

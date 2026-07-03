@@ -1,0 +1,116 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Pesquisadores descobriram uma nova classe de antibióticos capaz de matar bactérias multirresistentes a drogas</segment>
+    <segment id="2">, um problema de saúde global que preocupa autoridades de saúde.</segment>
+    <segment id="3">A resistência a antibióticos ocorre quando cepas de microrganismos que antes respondiam a tratamentos com os antimicrobianos passam a não ser mais suscetíveis</segment>
+    <segment id="4">, prolongando as infecções</segment>
+    <segment id="5">, causando novas hospitalizações e aumentando o risco de transmissão.</segment>
+    <segment id="6">Bactérias resistentes a antibióticos são um problema de saúde global</segment>
+    <segment id="7">; pesquisadores descobriram nova classe de antibióticos capaz de combatê-las  - Getty ImagesPor essa razão</segment>
+    <segment id="8">, a descoberta da nova classe de medicamentos com potencial clínico traz esperança para médicos</segment>
+    <segment id="9">, autoridades de saúde e pacientes em todo o mundo.</segment>
+    <segment id="10">O grupo faz parte dos chamados MPCs (peptídeos macrocíclicos)</segment>
+    <segment id="11">, moléculas de tamanho maior do que a maioria dos antibióticos conhecidos e que apresentam uma atividade antimicrobiana promissora</segment>
+    <segment id="12">, inclusive combatendo cepas multirresistentes a drogas.</segment>
+    <segment id="13">Em um banco de dados com cerca de 45 mil moléculas</segment>
+    <segment id="14">, os cientistas encontraram a nova substância</segment>
+    <segment id="15">, chamada zosurabalpina (zosurabalpin</segment>
+    <segment id="16">, em inglês)</segment>
+    <segment id="17">, e descrita pela primeira vez em um artigo na edição desta quarta-feira (3) da revista Nature por Claudia Zampaloni</segment>
+    <segment id="18">, Patrizio Mattei</segment>
+    <segment id="19">, Konrad Bleicher e demais colegas da empresa farmacêutica Grupo Roche (Suíça) e da Universidade de Harvard (EUA)</segment>
+    <segment id="20">, dentre outros.</segment>
+    <segment id="21">O grupo de antibióticos possui ação contra bactérias gram-negativas e gram-positivas</segment>
+    <segment id="22">, masmas a zosurabalpina foi eficaz principalmente contra a CRAB (Acinetobacter baumannii carbapenêmico-resistente</segment>
+    <segment id="23">, na sigla em inglês).</segment>
+    <segment id="24">A droga foi testada em placas de laboratório infectadas com a bactéria e em camundongos</segment>
+    <segment id="25">, onde conseguiu inibir o crescimento bacteriano.</segment>
+    <segment id="26">A A. baumannii é uma bactéria gram-negativa listada entre os microrganismos de prioridade máxima para a OMS (Organização Mundial da Saúde) devido à resistência antimicrobiana.</segment>
+    <segment id="27">Segundo um estudo publicado na revista The Lancet</segment>
+    <segment id="28">, aproximadamente 1</segment>
+    <segment id="29">,3 milhão de mortes por ano em todo mundo são causadas por bactérias resistentes.</segment>
+    <segment id="30">A descoberta é</segment>
+    <segment id="31">, assim</segment>
+    <segment id="32">, um marco para o desenvolvimento e pesquisa de novos fármacos capazes de combater microrganismos.</segment>
+    <segment id="33">"</segment>
+    <segment id="34">Faz mais de 50 anos desde o lançamento da última classe de antibióticos capaz de tratar infecções causadas por bactérias gram-negativas</segment>
+    <segment id="35">, e há hoje resistência aos medicamentos de praticamente todas as classes existentes.</segment>
+    <segment id="36">Qualquer nova classe de antibióticos que tenha a capacidade de tratar infecções causadas por bactérias resistentes</segment>
+    <segment id="37">, como</segment>
+    <segment id="38">como a CRAB</segment>
+    <segment id="39">, é um avanço significativo"</segment>
+    <segment id="40">, disse à Folha Kenneth Bradley</segment>
+    <segment id="41">, autor correspondente do estudo e chefe global de descoberta de doenças infecciosas da Roche.</segment>
+    <segment id="42">No estudo</segment>
+    <segment id="43">, os autores afirmam que novos antibióticos descritos nos últimos anos são</segment>
+    <segment id="44">, em sua maioria</segment>
+    <segment id="45">, derivados de substâncias já existentes</segment>
+    <segment id="46">, e que encontrar novas classes de drogas é extremamente raro.</segment>
+    <segment id="47">Em um estudo complementar também publicado nesta quarta (3) na Nature</segment>
+    <segment id="48">, Daniel Kahne e colegas da Universidade de Harvard descrevem o mecanismo de ação da substância.</segment>
+    <segment id="49">LEIA MAISSuperbactérias avançam no mundo e geram preocupação de saúde globalNuvens transportam bactérias resistentes a antibióticos</segment>
+    <segment id="50">, revela estudoIsolar pacientes com rapidez ajuda a conter superbactérias em hospitais</segment>
+    <segment id="51">, diz estudoEstudo detecta aumento de nova geração de superbactérias em hospitais brasileirosFunciona assim: a bactéria A. baumannii resistente possui várias moléculas de lipopolissacarídeos (LPS) na membrana externa que impedem a penetração do antibiótico na célula.</segment>
+    <segment id="52">Pense como</segment>
+    <segment id="53">como se</segment>
+    <segment id="54">se fosse uma película protetora.</segment>
+    <segment id="55">Os especialistas encontraram duas maneiras de impedir essa proteção: bloquear a síntese dos LPS ou interromper o seu transporte até a membrana externa</segment>
+    <segment id="56">, evitando assim a formação da película</segment>
+    <segment id="57">, tornando a bactéria suscetível novamente a alguns antibióticos.</segment>
+    <segment id="58">A nova droga age da segunda forma.</segment>
+    <segment id="59">Ao ligar a um complexo de proteínas (LptB2FGC) entre as duas camadas da membrana celular (interna e externa)</segment>
+    <segment id="60">, a zosurabalpina bloqueia a via de transporte do LPS.</segment>
+    <segment id="61">Essas moléculas acabam</segment>
+    <segment id="62">sese acumulando na membrana interna da bactéria</segment>
+    <segment id="63">, impedindo outras trocas da bactéria com o meio externo.</segment>
+    <segment id="64">Sem o transporte</segment>
+    <segment id="65">, ocorre a morte celular.</segment>
+    <segment id="66">Um fato curioso do modo de ação da zorusabalpina é que ela não chega a interagir com o citoplasma</segment>
+    <segment id="67">, o que dificulta a aquisição de resistência microbiana no longo prazo.</segment>
+    <segment id="68">"</segment>
+    <segment id="69">A membrana externa é importante para as bactérias</segment>
+    <segment id="70">porque</segment>
+    <segment id="71">porque as ajuda a sobreviver em condições adversas e a resistir aos mecanismos de defesa imunológica.</segment>
+    <segment id="72">O LPS é produzido dentro da célula bacteriana</segment>
+    <segment id="73">, masmas precisa ser transportado para a membrana externa</segment>
+    <segment id="74">, um processo cuidadosamente controlado por estes microrganismos.</segment>
+    <segment id="75">Sem a membrana com LPS</segment>
+    <segment id="76">, as bactérias têm dificuldade em estabelecer infecções.</segment>
+    <segment id="77">Mesmo para bactérias raras que podem sobreviver sem membranas externas</segment>
+    <segment id="78">, o sistema de transporte é tóxico para elas</segment>
+    <segment id="79">, levando-as à morte"</segment>
+    <segment id="80">, afirmou Bradley.</segment>
+    <segment id="81">Como ele é altamente específico por</segment>
+    <segment id="82">sese ligar a um complexo de proteína da A. baumannii</segment>
+    <segment id="83">, o risco de surgirem cepas resistentes pelo processo de mutação ou transferência horizontal —a aquisição de genes mutados de outras bactérias para a que</segment>
+    <segment id="84">sese tenta combater— é baixo.</segment>
+    <segment id="85">Os autores do estudo concluem que a nova molécula supera os mecanismos de resistência a medicamentos existentes</segment>
+    <segment id="86">, cujos antibióticos atualmente disponíveis são incapazes de superar.</segment>
+    <segment id="87">"</segment>
+    <segment id="88">Com essa descoberta significativa</segment>
+    <segment id="89">, a zosurabalpina tem o potencial de atender a uma grande necessidade não atendida na luta contra a resistência antimicrobiana"</segment>
+    <segment id="90">, completam.</segment>
+  </rst>
+</analysis>

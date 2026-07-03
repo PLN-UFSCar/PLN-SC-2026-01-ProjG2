@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Criança era abusada por caminhoneiros</segment>
+    <segment id="2">A menor fugiu de casa há duas semanas e foi encontrada vagando em um ponto de ônibus</segment>
+    <segment id="3">No início da manhã desta sexta-feira (10)</segment>
+    <segment id="4">, agentes da Polícia Rodoviária Federal (PRF) da Delegacia de Simões Filho apreenderam uma menina de 13 anos que estava sendo explorada sexualmente por caminhoneiros.</segment>
+    <segment id="5">A menor</segment>
+    <segment id="6">, que fugiu de casa há duas semanas</segment>
+    <segment id="7">, foi encontrada vagando no ponto de ônibus localizado nas proximidades do Posto da PRF</segment>
+    <segment id="8">, no Km 604 da BR-324</segment>
+    <segment id="9">, por volta das 6 horas.</segment>
+    <segment id="10">A menina informou que fugiu de casa</segment>
+    <segment id="11">, no município de Andaraí (a 414 Km de Salvador)</segment>
+    <segment id="12">, e seguia com destino à capital baiana</segment>
+    <segment id="13">, pedindo carona aos caminhoneiros.</segment>
+    <segment id="14">Ela contou que pernoitou em postos de combustíveis</segment>
+    <segment id="15">, sendo vítima de abusos sexuais para obter meios de sustento.</segment>
+    <segment id="16">A adolescente foi encaminhada para o Juizado de Menores da cidade de Simões Filho</segment>
+    <segment id="17">, Região Metropolitana de Salvador (RMS).</segment>
+  </rst>
+</analysis>

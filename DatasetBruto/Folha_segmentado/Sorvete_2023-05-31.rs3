@@ -1,0 +1,101 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O caso</segment>
+    <segment id="2">caso de um médico demitido após receitar sorvete e videogame para uma criança com dor de garganta suscitou uma antiga dúvida.</segment>
+    <segment id="3">Afinal</segment>
+    <segment id="4">, é recomendado consumir alimentos ou líquidos gelados ao ter uma inflamação na garganta?</segment>
+    <segment id="5">Segundo a Prefeitura de Osasco</segment>
+    <segment id="6">, município da Grande São Paulo onde ocorreu o atendimento</segment>
+    <segment id="7">, o médico havia informado que a substância seria positiva</segment>
+    <segment id="8">, já que o sorvete iria amenizar a irritação.</segment>
+    <segment id="9">O ponto é reiterado por especialistas e agências internacionais.</segment>
+    <segment id="10">Por exemplo</segment>
+    <segment id="11">, o CDC (Centro de Controle e Prevenção de Doenças dos EUA) informa que chupar cubos de gelo</segment>
+    <segment id="12">, picolés e pastilhas é uma medida para diminuir a dor de garganta.</segment>
+    <segment id="13">O NHS, serviço de saúde pública do Reino Unido</segment>
+    <segment id="14">, também fornece uma orientação semelhante.</segment>
+    <segment id="15">Casquinha de sorvete- Bruno Geraldi/DivulgaçãoNo que diz respeito a pesquisas científicas</segment>
+    <segment id="16">, um artigo publicado em 2020 examinou o efeito de vapor gelado e cubos de gelo em pacientes com dor de garganta e rouquidão após passarem por cirurgias.</segment>
+    <segment id="17">Cento</segment>
+    <segment id="18">e vinte pessoas participam do estudo e foram divididas igualmente em quatro grupos: um que utilizou as pedras de gelo</segment>
+    <segment id="19">, outro exposto ao vapor gelado</segment>
+    <segment id="20">, o terceiro que acessou ambas as intervenções e o último</segment>
+    <segment id="21">, o placebo</segment>
+    <segment id="22">, que não passou por nenhuma das medidas analisadas no estudo.</segment>
+    <segment id="23">Horas depois</segment>
+    <segment id="24">, a dor de garganta e a rouquidão foram analisadas.</segment>
+    <segment id="25">Observou-</segment>
+    <segment id="26">sese que os três grupos submetidos às intervenções</segment>
+    <segment id="27">, quando são comparados com o placebo</segment>
+    <segment id="28">, apresentaram melhora no incômodo.</segment>
+    <segment id="29">Em relação à rouquidão</segment>
+    <segment id="30">, não foram registradas alterações significativas em nenhum dos grupos.</segment>
+    <segment id="31">"</segment>
+    <segment id="32">Aplicação de vapor gelado</segment>
+    <segment id="33">, absorção de cubo de gelo e absorção de cubo de gelo com aplicação de vapor gelado foram efetivas em reduzir dor de garganta</segment>
+    <segment id="34">, masmas foram ineficazes</segment>
+    <segment id="35">comocomo tratamento para rouquidão"</segment>
+    <segment id="36">, escrevem os autores da pesquisa.  Luciano Gregório</segment>
+    <segment id="37">, otorrinolaringologista do Hospital Albert Einstein</segment>
+    <segment id="38">, explica que</segment>
+    <segment id="39">, por haver estudos em pacientes submetidos a substâncias geladas após cirurgias</segment>
+    <segment id="40">, pode ocorrer a recomendação do "uso de alimentos gelados para ajudar na dor".</segment>
+    <segment id="41">Mas o mesmo não pode ser dito para outros tipos de inflamações na garganta</segment>
+    <segment id="42">, como</segment>
+    <segment id="43">como as bacterianas</segment>
+    <segment id="44">, já que faltam pesquisas para esses casos.</segment>
+    <segment id="45">"</segment>
+    <segment id="46">Não existe nenhum outro estudo que corrobore o uso em pacientes com dores de garganta por infecção</segment>
+    <segment id="47">, por exemplo.</segment>
+    <segment id="48">Então, realmente só no pós-operatório que eu costumo usar no consultório.</segment>
+    <segment id="49">"</segment>
+    <segment id="50">As explicações de por que temperaturas mais baixas diminuem a irritação na garganta perpassam pelo processo inflamatório no local.</segment>
+    <segment id="51">"</segment>
+    <segment id="52">Os alimentos frios muitas vezes reduzem os fatores que causam a inflamação local</segment>
+    <segment id="53">, fazendo então com que haja uma redução desse desconforto"</segment>
+    <segment id="54">, diz Roberta Pilla</segment>
+    <segment id="55">, otorrinolaringologista membro da Associação Brasileira de Otorrinolaringologia e Cirurgia Cérvico-Facial (ABORL-CCF).</segment>
+    <segment id="56">Gregório também cita o fluxo sanguíneo na região.</segment>
+    <segment id="57">"</segment>
+    <segment id="58">A diminuição do fluxo sanguíneo causado pela baixa temperatura pode interromper a sinalização do nervo que está enervando a região e que dar a sensação de dor.</segment>
+    <segment id="59">"</segment>
+    <segment id="60">Por outro lado</segment>
+    <segment id="61">, alimentos quentes não são muito bem-vindos.</segment>
+    <segment id="62">Raquel Stucchi</segment>
+    <segment id="63">, infectologista e professora da Unicamp (Universidade Estadual de Campinas)</segment>
+    <segment id="64">, indica que esses produtos podem piorar o quadro.</segment>
+    <segment id="65">"</segment>
+    <segment id="66">Se eu tenho uma inflamação na garganta e tomo chá ou sopa quente</segment>
+    <segment id="67">, vai piorar.</segment>
+    <segment id="68">"</segment>
+    <segment id="69">De toda forma</segment>
+    <segment id="70">, casos mais sérios de dor de garganta precisam ser avaliadas por um profissional.</segment>
+    <segment id="71">Pilla afirma que</segment>
+    <segment id="72">sese o incômodo estiver associada a febre muito intensa</segment>
+    <segment id="73">, problemas para engolir ou</segment>
+    <segment id="74">sese a dor de garganta continuar por dias</segment>
+    <segment id="75">, o melhor é procurar um médico.</segment>
+  </rst>
+</analysis>

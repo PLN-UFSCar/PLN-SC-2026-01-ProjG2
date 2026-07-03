@@ -1,0 +1,51 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A balneabilidade das praias brasileiras registrou piora pelo segundo ano consecutivo.</segment>
+    <segment id="2">Levantamento da Folha aponta que 33% dos 1.287 pontos de medição da qualidade da água no litoral brasileiro forma considerados ruins ou péssimos</segment>
+    <segment id="3">, ou seja</segment>
+    <segment id="4">, ficaram impróprios em mais de 25% das medições entre novembro de 2018 e outubro de 2019.</segment>
+    <segment id="5">Este percentual era de 32% em 2018 e 27% em 2017.</segment>
+    <segment id="6">O Nordeste foi a região que mais puxou a piora</segment>
+    <segment id="7">, a despeito da medição analisar apenas a presença de coliformes fecais e não ter interferência do óleo que chegou à costa da região no segundo semestre.</segment>
+    <segment id="8">A reportagem seguiu normas federais no levantamento.</segment>
+    <segment id="9">Um trecho é considerado próprio</segment>
+    <segment id="10">sese não tiver registrado mais de 1.000 coliformes fecais para cada 100 ml de água na semana de análise e nas quatro anteriores.</segment>
+    <segment id="11">Para a avaliação anual</segment>
+    <segment id="12">, foi adotado o método da Cetesb (órgão ambiental de SP)</segment>
+    <segment id="13">, que classifica as praias a partir dos testes semanais.</segment>
+    <segment id="14">Nos dois extremos estão as boas</segment>
+    <segment id="15">, próprias em todas as medições</segment>
+    <segment id="16">, e as péssimas</segment>
+    <segment id="17">, impróprias em mais da metade das medições.</segment>
+    <segment id="18">Foram apurados dados das praias de 14 estados no período de 12 meses.</segment>
+    <segment id="19">Amapá e Piauí ficaram de fora</segment>
+    <segment id="20">porque</segment>
+    <segment id="21">porque não medem a qualidade da água</segment>
+    <segment id="22">, e o Pará não informou dados.</segment>
+    <segment id="23">Praia do Curral</segment>
+    <segment id="24">, no sul de Ilhabela</segment>
+    <segment id="25">, a mais frequentada pelos turistas de um dia - Reginaldo Pupo/Folhapress</segment>
+  </rst>
+</analysis>

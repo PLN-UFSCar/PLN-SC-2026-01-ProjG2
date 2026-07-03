@@ -1,0 +1,51 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">HomicÃ­dio em ViamÃ£o</segment>
+    <segment id="2">Jovem</segment>
+    <segment id="3">Ã</segment>
+    <segment id="4">© executado pelo trÃ¡fico na Vila Augusta</segment>
+    <segment id="5">, em ViamÃ£o
+Corpo foi encontrado na Rua NÃ¡rgica Rodrigues de Castro</segment>
+    <segment id="6">, masmas teria sido morto junto a um ponto de trÃ¡fico na regiÃ£o</segment>
+    <segment id="7">Eduardo Torres
+eduardo.torres@diariogaucho.com.br</segment>
+    <segment id="8">Um homem aparentando em torno de 25 anos</segment>
+    <segment id="9">, ainda nÃ£o identificado</segment>
+    <segment id="10">, foi encontrado morto com um tiro na cabeÃ§a na Rua NÃ¡rgica Rodrigues de Castro</segment>
+    <segment id="11">, Vila Augusta</segment>
+    <segment id="12">, em ViamÃ£o</segment>
+    <segment id="13">, por volta das 6h30min desta quarta.</segment>
+    <segment id="14">A suspeita da polÃ­cia Ã© de que o rapaz nÃ£o tenha sido morto naquele local</segment>
+    <segment id="15">, e sim na Rua AraranguÃ¡</segment>
+    <segment id="16">, onde funcionaria um ponto de trÃ¡fico.</segment>
+    <segment id="17">De acordo com o chefe de investigaÃ§Ã£o da 2Âª DP local</segment>
+    <segment id="18">, moradores teriam ouvido disparos no comeÃ§o da madrugada.</segment>
+    <segment id="19">A vÃ­tima teria sido levada dali</segment>
+    <segment id="20">, provavelmente jÃ¡ sem vida</segment>
+    <segment id="21">, em um carrinho de papeleiro.</segment>
+    <segment id="22">A polÃ­cia jÃ</segment>
+    <segment id="23">¡ teria suspeitos do crime.</segment>
+  </rst>
+</analysis>

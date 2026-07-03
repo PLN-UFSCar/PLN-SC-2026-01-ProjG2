@@ -1,0 +1,125 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Congresso aprovou nesta quinta-feira (17) um projeto que libera cerca de R$ 1 bilhão</segment>
+    <segment id="2">para que</segment>
+    <segment id="3">para que o Brasil pague dívidas com organismos internacionais.</segment>
+    <segment id="4">A proposta agora vai à sanção do presidente Jair Bolsonaro (sem partido).</segment>
+    <segment id="5">Sem conseguir honrar compromissos básicos</segment>
+    <segment id="6">, o Brasil fica sem direito a voto nessas entidades.</segment>
+    <segment id="7">Por isso</segment>
+    <segment id="8">, articuladores do governo no Congresso conseguiram</segment>
+    <segment id="9">, às pressas</segment>
+    <segment id="10">, convocar uma sessão no Legislativo para analisar o projeto.</segment>
+    <segment id="11">O líder do governo na Câmara</segment>
+    <segment id="12">, deputado Ricardo Barros (PP-PR)</segment>
+    <segment id="13">, em evento no Palácio do Planalto - Pedro Ladeira - 8.dez.20/Folhapress  A articulação</segment>
+    <segment id="14">, tocada adiante entre líderes do governo e o presidente do Congresso</segment>
+    <segment id="15">, senador Davi Alcolumbre (DEM-AP)</segment>
+    <segment id="16">, foi considerada um sucesso para o governo.</segment>
+    <segment id="17">No entanto</segment>
+    <segment id="18">, provocou um grande bate-boca na primeira sessão do Congresso</segment>
+    <segment id="19">, com os deputados —à tarde foram os senadores que</segment>
+    <segment id="20">sese reuniram.</segment>
+    <segment id="21">O presidente da Câmara</segment>
+    <segment id="22">, Rodrigo Maia (DEM-RJ)</segment>
+    <segment id="23">, recusou-</segment>
+    <segment id="24">sese inicialmente a abrir a sessão do Congresso e levou adiante a atividade da Câmara</segment>
+    <segment id="25">, ignorando pedidos de interrupção.  "</segment>
+    <segment id="26">O Brasil está em débito há muitos anos.</segment>
+    <segment id="27">E na sessão anterior o relator de um dos PLNs [projeto de lei] retirou todo o dinheiro dos organismos internacionais.</segment>
+    <segment id="28">O governo poderia ter vetado.</segment>
+    <segment id="29">O governo sancionou a retirada desses recursos"</segment>
+    <segment id="30">, afirmou.</segment>
+    <segment id="31">A discussão depois seguiu entre Maia e Arthur Lira (PP-AL)</segment>
+    <segment id="32">, o candidato do presidente Jair Bolsonaro (sem partido) para a Presidência da Câmara</segment>
+    <segment id="33">, que havia questionado a pauta da Câmara.</segment>
+    <segment id="34">Se a discussão</segment>
+    <segment id="35">sese deu de maneira acalorada na Câmara</segment>
+    <segment id="36">, a proposta acabou aprovada pelos senadores em poucos minutos.</segment>
+    <segment id="37">O Orçamento de 2020 preveria R$ 1</segment>
+    <segment id="38">,2 bilhão em contribuições que o Brasil planejava fazer a organismos internacionais</segment>
+    <segment id="39">, como</segment>
+    <segment id="40">como a ONU (Organização das Nações Unidas) e a OEA (Organização dos Estados Americanos).</segment>
+    <segment id="41">O Itamaraty acabou perdendo essa verba após articulação de ministros</segment>
+    <segment id="42">, como</segment>
+    <segment id="43">como Rogério Marinho (Desenvolvimento Regional)</segment>
+    <segment id="44">, para que</segment>
+    <segment id="45">para que o governo tivesse mais dinheiro para obras de infraestrutura.</segment>
+    <segment id="46">A votação desta quinta recompôs parte do orçamento do Ministério das Relações Exteriores</segment>
+    <segment id="47">, com dinheiro para quitar parcialmente as dívidas.</segment>
+    <segment id="48">Além de ONU e OEA</segment>
+    <segment id="49">, o governo poderá fazer aportes para pagar valores em atraso com a Unesco (Organização das Nações Unidas para a Educação</segment>
+    <segment id="50">, a Ciência e a Cultura)</segment>
+    <segment id="51">, o Mercosul e a OMC (Organização Mundial do Comércio)</segment>
+    <segment id="52">, entre outros.</segment>
+    <segment id="53">Os pagamentos são considerados fundamentais pelo Itamaraty</segment>
+    <segment id="54">, uma vez que podem garantir ao Brasil direito a voto e a apresentar candidaturas no âmbito dessas entidades.</segment>
+    <segment id="55">Além disso</segment>
+    <segment id="56">, a situação de recorrentes atrasos com esses organismos é considerada péssima para a imagem internacional do país.</segment>
+    <segment id="57">Pela 1ª vez virtual</segment>
+    <segment id="58">, Assembleia Geral da ONU reúne discursos de líderes mundiais   novamente         de   de  de  representando um</segment>
+    <segment id="59">O Ministério da Economia também pediu que o Congresso liberasse dinheiro para contribuição ao Novo Banco de Desenvolvimento (conhecido</segment>
+    <segment id="60">comocomo Banco dos Brics).</segment>
+    <segment id="61">O projeto analisado pelos congressistas chegou a prever verba para essa instituição financeira internacional</segment>
+    <segment id="62">, masmas os recursos acabaram sendo realocados para outros ministérios</segment>
+    <segment id="63">, para ampliar o orçamento a ser usado em emendas parlamentares (instrumentos que atendem a demandas de deputados e senadores e destinam dinheiro às bases eleitorais).</segment>
+    <segment id="64">Na manhã desta quinta</segment>
+    <segment id="65">, o líder do governo na Câmara</segment>
+    <segment id="66">, Ricardo Barros (PP-PR)</segment>
+    <segment id="67">, disse que a contribuição ao banco era fundamental para projetos de saneamento</segment>
+    <segment id="68">, logística</segment>
+    <segment id="69">, energia e mobilidade</segment>
+    <segment id="70">, por exemplo</segment>
+    <segment id="71">, já aprovados pela instituição.</segment>
+    <segment id="72">“Esses R$ 5 bilhões estão aprovados no Banco do Brics</segment>
+    <segment id="73">para que</segment>
+    <segment id="74">para que possamos aplicar no Brasil no próximo ano.</segment>
+    <segment id="75">Se nós não pagarmos a nossa contribuição para o Banco do Brics</segment>
+    <segment id="76">, nós não vamos poder acessar esse recurso”</segment>
+    <segment id="77">, afirmou.</segment>
+    <segment id="78">Na ONU</segment>
+    <segment id="79">, os países perdem o direito a voto quando o valor devido supera o total das contribuições que deveriam ser feitas nos dois anos anteriores.</segment>
+    <segment id="80">O Brasil perderia então o direito a voto na Assembleia Geral e também em todos os conselhos de que participa.</segment>
+    <segment id="81">A inadimplência poderia afetar planos no Brasil para ganhar proeminência internacional e emplacar suas indicações.</segment>
+    <segment id="82">Uma delas é a desembargadora Mônica Jaqueline Sifuentes</segment>
+    <segment id="83">, que disputa uma vaga no TPI (Tribunal Penal Internacional)</segment>
+    <segment id="84">, em uma candidatura que vem sendo trabalhada pelo Itamaraty há meses.</segment>
+    <segment id="85">A assembleia em que ocorreria a eleição deveria ser realizada em dezembro</segment>
+    <segment id="86">, masmas acabou adiada devido à pandemia da Covid-19.</segment>
+    <segment id="87">Ao passar para o próximo ano</segment>
+    <segment id="88">, sese não houvesse o pagamento das contribuições devidas</segment>
+    <segment id="89">, poderia ser impugnada.</segment>
+    <segment id="90">​Além disso</segment>
+    <segment id="91">, o Brasil cogita</segment>
+    <segment id="92">sese candidatar a uma das vagas rotativas do Conselho de Segurança</segment>
+    <segment id="93">, já recebendo o apoio dos Brics.</segment>
+    <segment id="94">Embora a inadimplência não seja uma exclusividade do governo Jair Bolsonaro</segment>
+    <segment id="95">, ela reflete a posição da gestão atual</segment>
+    <segment id="96">, que vive em constante conflito com as instituições multilaterais.</segment>
+    <segment id="97">O presidente inclusive já ameaçou retirar o Brasil da organização.</segment>
+    <segment id="98">Bolsonaro também criticou em diversos momentos recentes a OMS (Organização Mundial da Saúde)</segment>
+    <segment id="99">, por suas recomendações durante a pandemia do novo coronavírus.</segment>
+  </rst>
+</analysis>

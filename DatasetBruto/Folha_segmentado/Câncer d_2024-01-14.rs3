@@ -1,0 +1,201 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Uma nova diretriz internacional para o câncer de mama recomenda o teste genético em mulheres com idade igual a 65 anos ou menos que tiveram diagnóstico recente da doença.</segment>
+    <segment id="2">A recomendação inclui a busca pelos genes que podem apresentar mutações germinativas —passadas de forma hereditária.</segment>
+    <segment id="3">Entre eles</segment>
+    <segment id="4">, estão mutações nos genes BRCA1 e BRCA2</segment>
+    <segment id="5">, que podem aumentar em 87% o risco de desenvolver câncer de mama.</segment>
+    <segment id="6">Mapeamento genético para câncer é uma ferramenta que pode ajudar no diagnóstico precoce - Eduardo Knapp - 14.fev.22/FolhapressNo</segment>
+    <segment id="7">casocaso de mulheres mais velhas</segment>
+    <segment id="8">, que tiveram histórico recente de tumor nas mamas</segment>
+    <segment id="9">, a indicação também é válida</segment>
+    <segment id="10">, desde que tenham estágio avançado</segment>
+    <segment id="11">, câncer de mama do tipo triplo-negativo</segment>
+    <segment id="12">, histórico familiar ou variante patogênica.</segment>
+    <segment id="13">A indicação também é retroativa</segment>
+    <segment id="14">, isto é</segment>
+    <segment id="15">, uma mulher de 72 anos que teve câncer de mama aos 58</segment>
+    <segment id="16">, por exemplo</segment>
+    <segment id="17">, pode ser testada para avaliar também o risco de hereditariedade.  Cuide-seCiência</segment>
+    <segment id="18">, hábitos e prevenção numa newsletter para a sua saúde e bem-estarCarregando...</segment>
+    <segment id="19">O câncer de mama é o segundo principal tipo de câncer em mulheres</segment>
+    <segment id="20">, atrás somente do câncer de pele do tipo não-melanoma.</segment>
+    <segment id="21">Cerca de 85% dos casos diagnosticados no Brasil são causados por fatores ambientais —em torno de 10% a 15% são hereditários.</segment>
+    <segment id="22">A nova recomendação foi publicada no último dia 4 deste mês na revista especializada Journal of Clinical Oncology.</segment>
+    <segment id="23">Organizado por Mark Robson</segment>
+    <segment id="24">, do Centro Memorial Sloan Kettle (NY)</segment>
+    <segment id="25">, o documento conta com especialistas da ASCO (Sociedade Americana de Oncologia Clínica) de diversos países</segment>
+    <segment id="26">, incluindo o Brasil.</segment>
+    <segment id="27">A médica Maria Isabel Achatz</segment>
+    <segment id="28">, do Hospital Sírio-Libanês</segment>
+    <segment id="29">, em São Paulo</segment>
+    <segment id="30">, é a única representante da América Latina.</segment>
+    <segment id="31">"</segment>
+    <segment id="32">Como a maioria dos consultores é de americanos</segment>
+    <segment id="33">, europeus e também asiáticos</segment>
+    <segment id="34">, ter uma representante da América Latina e</segment>
+    <segment id="35">, mais especificamente</segment>
+    <segment id="36">, do Brasil</segment>
+    <segment id="37">, é fundamental</segment>
+    <segment id="38">, porque</segment>
+    <segment id="39">porque isso impacta diretamente nos dados sobre prevalência de algumas mutações aqui"</segment>
+    <segment id="40">, disse.</segment>
+    <segment id="41">Em caso</segment>
+    <segment id="42">caso de carregar a mutação</segment>
+    <segment id="43">, a paciente pode realizar um painel genético para avaliar a presença de outros genes ligados à possibilidade de ter câncer hereditário.</segment>
+    <segment id="44">Segundo a médica</segment>
+    <segment id="45">, a definição do painel genético pode ser um fator importante para mudar tanto a conduta clínica —</segment>
+    <segment id="46">comocomo</segment>
+    <segment id="47">, por exemplo</segment>
+    <segment id="48">, a realização de cirurgia e outras terapias—</segment>
+    <segment id="49">comocomo avaliar a possibilidade de uma recidiva do câncer</segment>
+    <segment id="50">, no caso</segment>
+    <segment id="51">caso de um tumor maligno.</segment>
+    <segment id="52">"</segment>
+    <segment id="53">E não é</segment>
+    <segment id="54">porque</segment>
+    <segment id="55">porque a gente está falando de um gene que pode aumentar o risco de câncer de mama que ele não tem impacto em homens.</segment>
+    <segment id="56">O mesmo gene pode levar a um aumento de risco relevante para o câncer de próstata agressivo em homens jovens"</segment>
+    <segment id="57">, explica Achatz.</segment>
+    <segment id="58">Embora a proporção de mulheres carregando mutações nos genes BRCA1 e 2 no Brasil seja menor do que em outros países</segment>
+    <segment id="59">, segundo estudos de prevalência</segment>
+    <segment id="60">, aqui há uma proporção aumentada de outros genes associados ao câncer</segment>
+    <segment id="61">, como</segment>
+    <segment id="62">como o tp53.</segment>
+    <segment id="63">Por essa razão</segment>
+    <segment id="64">, a realização de busca genética na população com histórico familiar ou diagnóstico recente na família pode alterar significativamente o prognóstico.</segment>
+    <segment id="65">"</segment>
+    <segment id="66">Isso implica</segment>
+    <segment id="67">, também</segment>
+    <segment id="68">, na possibilidade de o tumor ser bilateral [nas duas mamas]</segment>
+    <segment id="69">, e aí muda a conduta cirúrgica.</segment>
+    <segment id="70">Se ela é portadora de um gene mutado</segment>
+    <segment id="71">, ela pode ter acesso</segment>
+    <segment id="72">, via plano de saúde</segment>
+    <segment id="73">, a um tipo de quimioterapia</segment>
+    <segment id="74">, que traz uma resposta muito melhor</segment>
+    <segment id="75">, somente com a comprovação do exame genético.</segment>
+    <segment id="76">Então porque</segment>
+    <segment id="77">porque essa mulher tem a mutação</segment>
+    <segment id="78">, o risco de ter um novo câncer de mama chega a 50%"</segment>
+    <segment id="79">, disse.</segment>
+    <segment id="80">Em 2015</segment>
+    <segment id="81">, o governo do estado do Rio de Janeiro aprovou a lei n° 7.049/2015</segment>
+    <segment id="82">, batizada popularmente de "Lei Angelina Jolie"</segment>
+    <segment id="83">, para ofertar o exame dos genes BRCA1 e 2 via convênio com o SUS (Sistema Único de Saúde) em mulheres com histórico familiar de diagnóstico de câncer de mama ou de ovário.</segment>
+    <segment id="84">Outros estados criaram legislações específicas</segment>
+    <segment id="85">, como</segment>
+    <segment id="86">como por exemplo Minas Gerais</segment>
+    <segment id="87">, Amazonas e Distrito Federal.</segment>
+    <segment id="88">Já em 2019</segment>
+    <segment id="89">, a ANS (Agência Nacional de Saúde Suplementar) incluiu na cobertura obrigatória no rol de procedimentos de planos de saúde a testagem genética em pacientes com câncer de mama ou ovário hereditário.</segment>
+    <segment id="90">Acesso a terapias inovadoras para câncer de mama está atrasado no SUSMais    novamente         de   de  de  representando um</segment>
+    <segment id="91">A abrangência dos procedimentos</segment>
+    <segment id="92">, porém</segment>
+    <segment id="93">porém, não significou amplitude do acesso</segment>
+    <segment id="94">, uma vez que muitas mulheres ainda entram com ações na justiça para conseguir realizar os testes via planos de saúde</segment>
+    <segment id="95">, e aquelas que dependem de serviços públicos seguem sem a oferta.</segment>
+    <segment id="96">"Temos uma deficiência muito grande na saúde pública</segment>
+    <segment id="97">, que ainda não oferta esses exames</segment>
+    <segment id="98">, que podem salvar vidas e gerar economia para os cofres públicos"</segment>
+    <segment id="99">, disse Achatz.</segment>
+    <segment id="100">De acordo com ela</segment>
+    <segment id="101">, iniciativas locais podem ajudar</segment>
+    <segment id="102">, masmas não são suficientes</segment>
+    <segment id="103">, pois</segment>
+    <segment id="104">pois falta ainda um sistema nacional –que poderia</segment>
+    <segment id="105">, inclusive</segment>
+    <segment id="106">, sese beneficiar de uma redução de custos.</segment>
+    <segment id="107">Um exame genético em laboratórios privados custa entre R$1.200 e R$2.000</segment>
+    <segment id="108">, masmas com a realização em laboratórios conveniados e Lacens (Laboratórios Centrais</segment>
+    <segment id="109">, ligados ao governo federal)</segment>
+    <segment id="110">, o valor por exame poderia ser cerca de 10% disso.</segment>
+    <segment id="111">"</segment>
+    <segment id="112">Realmente seria uma boa estratégia para ser implementada</segment>
+    <segment id="113">, pois</segment>
+    <segment id="114">pois o teste pode salvar vidas"</segment>
+    <segment id="115">, afirmou a médica.</segment>
+    <segment id="116">Procurado</segment>
+    <segment id="117">, o Ministério da Saúde disse que a assistência à saúde de pessoas com câncer é realizada no âmbito dos Cacons (Centros de Alta Complexidade em Oncologia) e Unacons (Unidades de Alta Complexidade em Oncologia)</segment>
+    <segment id="118">, e eles são os locais habilitados para fazer o estadiamento de câncer e definir o melhor tipo de tratamento.</segment>
+    <segment id="119">TodasDiscussões</segment>
+    <segment id="120">, notícias e reflexões pensadas para mulheresCarregando...  "</segment>
+    <segment id="121">Caso haja algum paciente com características indicativas de predisposição familiar ou hereditária</segment>
+    <segment id="122">, são esses os hospitais responsáveis por providenciar os testes necessários</segment>
+    <segment id="123">, ainda que seja necessário estabelecer parcerias com hospitais universitários</segment>
+    <segment id="124">, rede filantrópica ou outros parceiros"</segment>
+    <segment id="125">, disse a nota.  "</segment>
+    <segment id="126">O registro de todos os tipos de câncer</segment>
+    <segment id="127">, hereditários ou não</segment>
+    <segment id="128">, são acompanhados por meio da avaliação dos RCBP (Registro de câncer de Base Populacional) e RHC (Registro Hospitalar de Câncer)</segment>
+    <segment id="129">, (...) e as informações produzidas subsidiam estudos epidemiológicos para identificação de populações de risco.</segment>
+    <segment id="130">"  Disse</segment>
+    <segment id="131">, ainda</segment>
+    <segment id="132">, que financiou dois estudos envolvidos diretamente com detecção dos genes BRCA1 e BRCA2 para mulheres diagnosticadas ou com histórico familiar de câncer de mama</segment>
+    <segment id="133">, sendo um desenvolvido pelo Idor (Instituto D’Or de Pesquisa e Ensino) no Ceará</segment>
+    <segment id="134">, com investimento de R$ 202</segment>
+    <segment id="135">,2 mil</segment>
+    <segment id="136">, e um estudo da prevalência de câncer e associação com síndromes de predisposição hereditária em quilombos cearenses</segment>
+    <segment id="137">, conduzido pelo Grupo de Educação e Estudos Oncológicos</segment>
+    <segment id="138">, cujo investimento foi de R$ 2</segment>
+    <segment id="139">,22 milhões.</segment>
+    <segment id="140">NOVA RECOMENDAÇÃO PARA TESTE GENÉTICO</segment>
+    <segment id="141">Pacientes recém-diagnosticadas com câncer de mama em estágio 1 a 3 ou estágio 4 (metastático) que tenham 65 anos ou menos no momento do diagnóstico devem receber testes BRCA1/2</segment>
+    <segment id="142">;  Pacientes recém-diagnosticadas com câncer de mama em estágio 1 a 2 ou estágio 4 (metastático) que tenham mais de 65 anos devem ser testadas</segment>
+    <segment id="143">sese:    forem candidatas a terapias com inibidores de poli (ADP-ribose) polimerase-1 (PARP-1) para doença em estágio inicial ou metastática</segment>
+    <segment id="144">;   tiverem câncer de mama triplo-negativo</segment>
+    <segment id="145">;   sua história pessoal ou familiar sugira a possibilidade de uma variante patogênica</segment>
+    <segment id="146">;   tenham sido designadas</segment>
+    <segment id="147">comocomo sexo masculino ao nascer</segment>
+    <segment id="148">;   sejam de ascendência judaica ashkenazi ou façam parte de uma população com prevalência aumentada de mutações fundadoras.</segment>
+    <segment id="149">Pacientes submetidos a testes BRCA1/2 também devem receber testes para outros genes predisponentes ao câncer</segment>
+    <segment id="150">, conforme sugerido por sua história pessoal ou familiar</segment>
+    <segment id="151">–a consulta com um profissional deverá auxiliar nessa tomada de decisão.</segment>
+    <segment id="152">Pacientes com câncer de mama recorrente (local ou metastático) que sejam candidatos à terapia com inibidores de PARP devem receber testes BRCA1/2</segment>
+    <segment id="153">, independente do histórico familiar.</segment>
+    <segment id="154">Pacientes com segundo câncer de mama devem receber testes BRCA1/2.</segment>
+    <segment id="155">Pacientes com história pessoal de câncer de mama diagnosticado antes dos 65 anos sem doença ativa podem ser testadas</segment>
+    <segment id="156">sese o resultado informar a gestão de risco pessoal ou avaliação de risco familiar.</segment>
+    <segment id="157">Pacientes com história pessoal de câncer de mama diagnosticado após os 65 anos</segment>
+    <segment id="158">, sem doença ativa</segment>
+    <segment id="159">, podem receber testes BRCA1/2</segment>
+    <segment id="160">sese o resultado informar a gestão de risco pessoal ou avaliação de risco familiar</segment>
+    <segment id="161">, caso</segment>
+    <segment id="162">caso apresentem um dos critérios:    sua história pessoal ou familiar sugere a possibilidade de uma variante patogênica</segment>
+    <segment id="163">;   foram designados</segment>
+    <segment id="164">comocomo sexo masculino ao nascer</segment>
+    <segment id="165">;   têm câncer de mama triplo-negativo</segment>
+    <segment id="166">;   são de ascendência judaica ashkenazi ou fazem parte de uma população com uma prevalência aumentada de mutações fundadoras.</segment>
+    <segment id="167">Fonte: Bedrosian et al.</segment>
+    <segment id="168">, 2024</segment>
+    <segment id="169">, Germline Testing in Patients</segment>
+    <segment id="170">With</segment>
+    <segment id="171">Breast</segment>
+    <segment id="172">Cancer</segment>
+    <segment id="173">: ASCO–Society of Surgical Oncology Guideline (Journal of Clinical Oncology).</segment>
+    <segment id="174">Como parte da iniciativa Todas</segment>
+    <segment id="175">, a Folha presenteia mulheres com dois meses de assinatura digital grátis</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,52 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Carrefour de olho no Pão de Açúcar
+
+PARIS - A rede de supermercados francesa</segment>
+    <segment id="2">Carrefour estaria interessada em uma fusão entre sua subsidiária brasileira e o grupo Pão de Açúcar</segment>
+    <segment id="3">, segundo reportagem publicada domingo no semanário francês "Le Journal du Dimanche".</segment>
+    <segment id="4">Segundo a publicação</segment>
+    <segment id="5">, o banco de investimentos Lazard já teria sido contratado para buscar uma aproximação com a família Diniz</segment>
+    <segment id="6">, um dos donos da Companhia Brasileira de Distribuição (CBD)</segment>
+    <segment id="7">, que controla o Pão de Açúcar.</segment>
+    <segment id="8">Pela proposta</segment>
+    <segment id="9">, a CBD ficaria com uma fatia do Carrefour.</segment>
+    <segment id="10">O semanário lembra</segment>
+    <segment id="11">, no entanto</segment>
+    <segment id="12">, um fator complicador para um eventual acordo: o varejista francês Casino</segment>
+    <segment id="13">, concorrente direto do Carrefour</segment>
+    <segment id="14">, detém 67% do capital votante da CBD</segment>
+    <segment id="15">, incluindo a fatia da Wilkes</segment>
+    <segment id="16">, sociedade formada entre Abilio Diniz e o grupo Casino</segment>
+    <segment id="17">, na qual cada um tem metade das ações.</segment>
+    <segment id="18">Segundo a reportagem</segment>
+    <segment id="19">, a tentativa de aproximação com a CBD seria um sinal da crescente pressão sobre o Carrefour para elevar o valor dos seus ativos antes de uma reunião de acionistas que está marcada para o próximo mês.</segment>
+    <segment id="20">Na ocasião</segment>
+    <segment id="21">, também será decidido o futuro da rede de supermercados Dia</segment>
+    <segment id="22">, forte no Brasil e na Espanha e controlada pelo gigante varejista francês.</segment>
+    <segment id="23">Procurados</segment>
+    <segment id="24">, nem Carrefour nem o grupo Casino comentaram a reportagem.</segment>
+  </rst>
+</analysis>

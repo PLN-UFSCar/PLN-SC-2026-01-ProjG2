@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Após a divulgação do resultado das eleições brasileiras na noite deste domingo (30)</segment>
+    <segment id="2">, uma política norte-americana questionou a rapidez da apuração em sua conta no Twitter.</segment>
+    <segment id="3">Na publicação</segment>
+    <segment id="4">, a republicana Lavern Spicer perguntou: "</segment>
+    <segment id="5">Como eles fazem a contagem de todos os votos em uma noite?</segment>
+    <segment id="6">".</segment>
+    <segment id="7">Brasileiros não deixaram a postagem passar em branco e deram respostas bem-humoradas a Spicer</segment>
+    <segment id="8">, que neste ano disputou uma vaga para representar o 24º distrito da Flórida na Câmara dos Estados Unidos</segment>
+    <segment id="9">, masmas perdeu as primárias do Partido Republicano.</segment>
+    <segment id="10">Muitos internautas exaltaram a tecnologia da urna eletrônica e fizeram comparações entre Brasil e Estados Unidos —inclusive lembrando outras invenções brasileiras</segment>
+    <segment id="11">, como</segment>
+    <segment id="12">como o avião e o relógio de pulso</segment>
+    <segment id="13">, criações de Santos Dumont (1873-1932).</segment>
+    <segment id="14">Alguns usuários do Twitter preferiram escrever em inglês</segment>
+    <segment id="15">, para facilitar a compreensão da americana.</segment>
+    <segment id="16">Outros brasileiros escolheram explicar a rapidez da contagem de votos inventando novas formas de votação.</segment>
+  </rst>
+</analysis>

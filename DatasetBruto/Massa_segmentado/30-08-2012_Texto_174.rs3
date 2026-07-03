@@ -1,0 +1,54 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Homem tem pÃ</segment>
+    <segment id="2">© amputado em fÃ¡brica</segment>
+    <segment id="3">A vÃ­tima</segment>
+    <segment id="4">, identificada</segment>
+    <segment id="5">comocomo LuÃ­s Wellington</segment>
+    <segment id="6">, Ã© funcionÃ¡rio da empresa</segment>
+    <segment id="7">Um homem teve o pÃ© direito amputado na manhÃ£ desta quinta-feira</segment>
+    <segment id="8">, 30, em uma mÃ¡quina da fÃ¡brica Bahia</segment>
+    <segment id="9">Pet Reciclagem em SimÃµes Filho</segment>
+    <segment id="10">, na RegiÃ£o Metropolitana de Salvador.</segment>
+    <segment id="11">A vÃ­tima</segment>
+    <segment id="12">, identificada</segment>
+    <segment id="13">comocomo LuÃ­s Wellington</segment>
+    <segment id="14">, Ã© funcionÃ¡rio da empresa.</segment>
+    <segment id="15">Ele foi socorrido pelos bombeiros e por uma equipe da Samu e levado ao Hospital do SubÃºrbio.</segment>
+    <segment id="16">"Ele estava operando uma bomba</segment>
+    <segment id="17">, que puxa Ã¡gua de uma piscina para fazer lavagem do material (de reciclagem).</segment>
+    <segment id="18">Essa mÃ¡quina nÃ£o tem nenhuma proteÃ§Ã£o e a correia puxou o pÃ© do funcionÃ¡rio"</segment>
+    <segment id="19">, conta o diretor do Sindicato dos trabalhadores da industria quÃ­mica</segment>
+    <segment id="20">, petroquÃ­mica</segment>
+    <segment id="21">, plÃ¡stica</segment>
+    <segment id="22">, farmacÃ©utica do Estado da Bahia (Sindiquimica)</segment>
+    <segment id="23">, Jairo Rodrigues.</segment>
+    <segment id="24">O sindicalista disse que um socorrista da Samu feriu a mÃ£o ao tentar salvar o rapaz e um bombeiro chegou a cair na mÃ¡quina</segment>
+    <segment id="25">, masmas foi socorrido por pessoas que estavam no local.</segment>
+    <segment id="26">A reportagem tentou contato com a Bahia</segment>
+    <segment id="27">Pet atravÃ©s do nÃºmero divulgado no site da empresa</segment>
+    <segment id="28">, masmas nÃ£o foi atendida.</segment>
+  </rst>
+</analysis>

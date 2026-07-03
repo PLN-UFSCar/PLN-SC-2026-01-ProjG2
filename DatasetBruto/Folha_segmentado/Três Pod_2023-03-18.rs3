@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Vencedor da semana:</segment>
+    <segment id="2">O governador do Distrito Federal</segment>
+    <segment id="3">, Ibaneis Rocha (MDB)</segment>
+    <segment id="4">, que não apenas escapou da cassação</segment>
+    <segment id="5">, como</segment>
+    <segment id="6">como conseguiu voltar ao cargo antes do previsto.</segment>
+    <segment id="7">Governador do Distrito Federal</segment>
+    <segment id="8">, Ibaneis Rocha (MDB)</segment>
+    <segment id="9">, volta ao cargo após passar 64 dias afastado por decisão do STF - Gabriela Biló /FolhapressPerdedor da semana:</segment>
+    <segment id="10">O ex-ministro da Saúde Marcelo Queiroga</segment>
+    <segment id="11">, após a revelação da Folha de que o governo Bolsonaro deixou vencer 39 milhões de vacinas contra a Covid-19.</segment>
+    <segment id="12">Ex-ministro da Saúde Marcelo Queiroga em entrevista concedida em agosto de 2022 em Brasília - Adriano Machado/ReutersFique de olho: Semana quente na economia</segment>
+    <segment id="13">, com anúncio da regra fiscal e reunião do Copom</segment>
+    <segment id="14">;</segment>
+    <segment id="15">Lula prepara visita à China</segment>
+  </rst>
+</analysis>

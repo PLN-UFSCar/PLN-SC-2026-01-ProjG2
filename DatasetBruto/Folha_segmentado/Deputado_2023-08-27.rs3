@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Deputados do PSDB de São Paulo estão incomodados com o que chamam de assédio a prefeitos do partido por parte de membros do governo Tarcísio de Freitas (Republicanos)</segment>
+    <segment id="2">para que</segment>
+    <segment id="3">para que</segment>
+    <segment id="4">sese filiem ao PSD</segment>
+    <segment id="5">, sigla presidida por Gilberto Kassab</segment>
+    <segment id="6">, secretário estadual de Governo.</segment>
+    <segment id="7">Eles afirmam que a ação do PSD tem atrapalhado no planejamento das estratégias regionais dos tucanos para as eleições de 2024.</segment>
+    <segment id="8">A insatisfação já foi comunicada ao governador</segment>
+    <segment id="9">, que tem tentado estreitar laços com os tucanos na Assembleia Legislativa.</segment>
+    <segment id="10">No começo de agosto</segment>
+    <segment id="11">, Tarcísio</segment>
+    <segment id="12">sese encontrou com os parlamentares do PSDB na tentativa de atraí-los à base do governo na Casa.</segment>
+    <segment id="13">Kassab diz à coluna que está muito tranquilo</segment>
+    <segment id="14">, pois</segment>
+    <segment id="15">pois não existe qualquer interferência entre as suas funções de dirigente partidário e secretário estadual.</segment>
+    <segment id="16">Governador Tarcísio de Freitas (Republicanos-SP) durante jantar do grupo Esfera  - Rubens Cavallari/Folhapress</segment>
+  </rst>
+</analysis>

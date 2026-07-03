@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Belo</segment>
+    <segment id="2">Ã© eleito o cantor com o pior visual
+Antes da fama</segment>
+    <segment id="3">, usava bigode e cabelo preto</segment>
+    <segment id="4">Uma enquete feita pelo site R7 apontou quem Ã© o cantor com o visual mais ridÃ­culo do mundo</segment>
+    <segment id="5">, segundo a opiniÃ£o do pÃºblico.</segment>
+    <segment id="6">Pelo resultado</segment>
+    <segment id="7">, Belo</segment>
+    <segment id="8">Ã© sÃ³ belo no nome</segment>
+    <segment id="9">, pois</segment>
+    <segment id="10">pois foi ele o artista mais votado.</segment>
+    <segment id="11">Apesar da mudanÃ§a no visual do cantor</segment>
+    <segment id="12">, que antes de estourar usava bigodinho e o cabelo escuro</segment>
+    <segment id="13">, Belo continua chamando a atenÃ§Ã£o pelo cabelo bicolor e as roupas esquisitas.</segment>
+    <segment id="14">O pagodeiro disputava o tÃ­tulo com nomes</segment>
+    <segment id="15">comocomo Reginaldo Rossi</segment>
+    <segment id="16">, Compadre Washington e FalcÃ£o.</segment>
+  </rst>
+</analysis>

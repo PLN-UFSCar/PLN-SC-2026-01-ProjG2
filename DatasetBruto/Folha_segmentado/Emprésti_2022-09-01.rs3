@@ -1,0 +1,140 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O anúncio do empréstimo consignado ligado ao Auxílio Brasil gerou uma busca de beneficiários do programa social a instituições financeiras.</segment>
+    <segment id="2">Interessados no empréstimo anunciado pelo governo federal –que ainda não passou a valer–</segment>
+    <segment id="3">, muitos beneficiários firmam contratos de empréstimo pessoal acreditando</segment>
+    <segment id="4">sese tratar do crédito consignado divulgado pelo governo federal.</segment>
+    <segment id="5">A reportagem da Folha apurou que a confusão ocorre pela exigência de documentação específica e pela escolha da data de pagamento do empréstimo</segment>
+    <segment id="6">, que deve coincidir com o dia de recebimento do benefício.</segment>
+    <segment id="7">Para especialistas</segment>
+    <segment id="8">, a oferta de crédito para famílias de baixa renda e em situação de vulnerabilidade social pode aprofundar ainda mais o endividamento das famílias.</segment>
+    <segment id="9">Fila na agência da Caixa</segment>
+    <segment id="10">, em São Paulo</segment>
+    <segment id="11">, para sacar parcela de R$ 600 do Auxílio Brasil - Rivaldo Gomes - 09.ago.2022/Folhapress</segment>
+    <segment id="12">O governo prevê que o consignado do Auxílio Brasil começará em meados de setembro.</segment>
+    <segment id="13">Segundo o Ministério da Cidadania</segment>
+    <segment id="14">, é preciso aguardar a publicação de regulamentação do órgão para</segment>
+    <segment id="15">, só depois</segment>
+    <segment id="16">, assinar contrato com as entidades que poderão oferecer o empréstimo com desconto direto no benefício.</segment>
+    <segment id="17">Moradora do Rio de Janeiro</segment>
+    <segment id="18">, uma beneficiária do Auxílio Brasil que pediu para não ser identificada disse ter conseguido o empréstimo pessoal quatro dias após entrar em contato com uma financeira.</segment>
+    <segment id="19">Ela soube da modalidade por meio de publicações nas redes sociais.</segment>
+    <segment id="20">Entre os documentos para contratar o empréstimo foram exigidos o extrato de conta do Auxílio Brasil</segment>
+    <segment id="21">, o documento do CadÚnico e um extrato bancário da conta no Caixa Tem contendo a data do pagamento do último benefício.</segment>
+    <segment id="22">"</segment>
+    <segment id="23">Vão descontar as parcelas direto do meu auxílio a partir do mês que vem"</segment>
+    <segment id="24">, disse.</segment>
+    <segment id="25">O advogado Alexandre Ricco</segment>
+    <segment id="26">, do escritório Ferreira e Ricco Advogados</segment>
+    <segment id="27">, explica que o desconto direto na folha de pagamento é uma característica do empréstimo consignado</segment>
+    <segment id="28">, não do pessoal –que depende da boa-fé do consumidor para ser pago.</segment>
+    <segment id="29">Caso a parcela do empréstimo não seja quitada no dia programado para o pagamento</segment>
+    <segment id="30">, a instituição cobra juros e multa.</segment>
+    <segment id="31">O empréstimo é um dos principais assuntos discutidos em grupos nas redes sociais que reúnem beneficiários do programa</segment>
+    <segment id="32">, onde os agentes financeiros também divulgam as ofertas de crédito.</segment>
+    <segment id="33">São cerca de 90 grupos apenas no Facebook.</segment>
+    <segment id="34">Apesar de tentativas de alerta</segment>
+    <segment id="35">, muitos são atraídos pelo crédito fácil.</segment>
+    <segment id="36">"Não é empréstimo consignado</segment>
+    <segment id="37">, é pessoal"</segment>
+    <segment id="38">, afirma uma participante.</segment>
+    <segment id="39">Outra rebate: "Dá no mesmo</segment>
+    <segment id="40">, você vai pagar com teu auxílio.</segment>
+    <segment id="41">"</segment>
+    <segment id="42">Famílias cortam alimentos para sobreviver com auxílio e inflação altaMais    novamente         de   de  de  representando um</segment>
+    <segment id="43">A coordenadora do programa de serviços financeiros do Idec (Instituto de defesa do Consumidor)</segment>
+    <segment id="44">, Ione Amorim</segment>
+    <segment id="45">, diz que a prática pode ser vista</segment>
+    <segment id="46">comocomo abusiva.</segment>
+    <segment id="47">Ela afirma que a oferta não chega a ser considerada ilegal –</segment>
+    <segment id="48">poispois acompanha a taxa de juros praticada no mercado.  "</segment>
+    <segment id="49">Além de não ajudar as famílias</segment>
+    <segment id="50">, que por alguma necessidade estão precisando de crédito</segment>
+    <segment id="51">, ela contribui para a piora da situação de endividamento.</segment>
+    <segment id="52">"</segment>
+    <segment id="53">Especialista em direito bancário e do consumidor</segment>
+    <segment id="54">, o advogado diz não ser irregular a empresa exigir a comprovação de renda do cliente para a concessão de crédito.</segment>
+    <segment id="55">"</segment>
+    <segment id="56">Normalmente</segment>
+    <segment id="57">, as financeiras vão querer entender qual é a capacidade de pagamento daquele cliente.</segment>
+    <segment id="58">Se ele [consumidor] atrela essa capacidade de pagamento ao recebimento de um benefício</segment>
+    <segment id="59">, a instituição financeira vai pedir essa informação.</segment>
+    <segment id="60">"  Mas para a coordenadora do Idec</segment>
+    <segment id="61">, a concessão de crédito para beneficiários do Auxílio Brasil</segment>
+    <segment id="62">, por parte das financeiras</segment>
+    <segment id="63">, deveria ser fiscalizada pelo BC (Banco Central).</segment>
+    <segment id="64">"</segment>
+    <segment id="65">A gente tem observado uma fragilidade na fiscalização do Banco Central com relação às modalidades de crédito que vêm surgindo"</segment>
+    <segment id="66">, diz.</segment>
+    <segment id="67">Procurado</segment>
+    <segment id="68">, o BC informou por meio de sua assessoria de imprensa de que não iria</segment>
+    <segment id="69">sese manifestar.</segment>
+    <segment id="70">Apesar do acréscimo de R$ 200</segment>
+    <segment id="71">, Auxílio Brasil alivia poucoMais    novamente         de   de  de  representando um  Lei do Superindividamento protege consumidor</segment>
+    <segment id="72">Desde que entrou em vigor em 2021</segment>
+    <segment id="73">, a Lei do Superendividamento aumentou a responsabilidade das empresas para proteger o consumidor de contrair um número excessivo de dívidas</segment>
+    <segment id="74">, afirma Guilherme Farid</segment>
+    <segment id="75">, diretor do Procon-SP.</segment>
+    <segment id="76">Entre os objetivos da lei está o de evitar o assédio ou a pressão pelas instituições financeiras aos consumidores mais vulneráveis</segment>
+    <segment id="77">, além de trazer a possibilidade de conciliação entre consumidor e credor.</segment>
+    <segment id="78">Farid afirma que o órgão não foi acionado para apurar irregularidades em relação ao fornecimento de crédito para beneficiários do Auxílio Brasil</segment>
+    <segment id="79">, masmas que fiscaliza e acompanha</segment>
+    <segment id="80">comocomo o serviço é oferecido.</segment>
+    <segment id="81">No entanto</segment>
+    <segment id="82">, ele pede cautela.</segment>
+    <segment id="83">"</segment>
+    <segment id="84">Será que o fornecimento de crédito atrelado ao Auxílio não está comprometendo uma renda que o consumidor tem para subsistência?</segment>
+    <segment id="85">Amanhã</segment>
+    <segment id="86">, sese o consumidor sequer tiver acesso à essa renda</segment>
+    <segment id="87">, qual outro socorro que</segment>
+    <segment id="88">sese tem depois de ele ter comprometido seu benefício?</segment>
+    <segment id="89">"</segment>
+    <segment id="90">Beneficiários recorrem ao empréstimo para itens essenciais  Desempregada e com um filho de 3 anos</segment>
+    <segment id="91">, a mãe solteira Jasselmara Seermann</segment>
+    <segment id="92">, 23, não estava conseguindo arcar com as despesas básicas para sobreviver apenas com a parcela de R$ 600 do Auxílio Brasil.</segment>
+    <segment id="93">Com dificuldades para comprar alimentos e correndo o risco de ter a energia elétrica cortada por falta de pagamento</segment>
+    <segment id="94">, ela esperava ansiosa pela liberação do consignado do Auxílio Brasil.</segment>
+    <segment id="95">Por conta da urgência</segment>
+    <segment id="96">, recorreu a um empréstimo pessoal oferecido por uma financeira.</segment>
+    <segment id="97">"</segment>
+    <segment id="98">Estava sem nem 1 litro de leite em casa para dar para o meu filho.</segment>
+    <segment id="99">Precisava do dinheiro para ontem.</segment>
+    <segment id="100">"</segment>
+    <segment id="101">Jasselmara soube da linha de crédito disponível para beneficiários do Auxílio Brasil também nas redes sociais.</segment>
+    <segment id="102">Não era necessário ter o nome limpo</segment>
+    <segment id="103">, masmas era preciso comprovar fazer parte do programa que substituiu o Bolsa Família.</segment>
+    <segment id="104">Três dias após fazer contato com o agente financeiro e de enviar a documentação por meio de um aplicativo de troca de mensagens</segment>
+    <segment id="105">, o dinheiro caiu na conta.</segment>
+    <segment id="106">Ela pegou emprestada a quantia de R$ 339</segment>
+    <segment id="107">,11 e terá que pagar o valor de R$ 600 para a financeira</segment>
+    <segment id="108">, divididos em seis parcelas de R$ 100 cada.</segment>
+    <segment id="109">A cobrança começa em setembro.</segment>
+    <segment id="110">"</segment>
+    <segment id="111">Vai ficar pesado</segment>
+    <segment id="112">, masmas quando a gente precisa</segment>
+    <segment id="113">, não pensa na hora.</segment>
+    <segment id="114">"</segment>
+  </rst>
+</analysis>

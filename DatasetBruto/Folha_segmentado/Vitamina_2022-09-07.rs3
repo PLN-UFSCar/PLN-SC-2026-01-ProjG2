@@ -1,0 +1,116 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Faltam evidências que justifiquem a indicação de vitaminas para adultos saudáveis</segment>
+    <segment id="2">, tenho repetido nesta coluna há anos.</segment>
+    <segment id="3">Não esqueço de fazer a ressalva de que as grávidas podem</segment>
+    <segment id="4">sese beneficiar de algumas delas</segment>
+    <segment id="5">, como</segment>
+    <segment id="6">como o ácido fólico</segment>
+    <segment id="7">, importante para o desenvolvimento do sistema nervoso fetal.</segment>
+    <segment id="8">Toda vez que escrevo isso</segment>
+    <segment id="9">, recebo uma avalanche de críticas pouco civilizadas</segment>
+    <segment id="10">, muitas das quais partem de médicos que</segment>
+    <segment id="11">sese proclamam testemunhas dos benefícios das vitaminas</segment>
+    <segment id="12">, sais minerais e antioxidantes na saúde de seus pacientes que já eram saudáveis.</segment>
+    <segment id="13">Ilustração - Libero  Faço esse preâmbulo</segment>
+    <segment id="14">, caríssima leitora</segment>
+    <segment id="15">, na vã tentativa de evitar as ofensas de sempre.</segment>
+    <segment id="16">O texto que</segment>
+    <segment id="17">sese segue traz uma série de recomendações enunciadas</segment>
+    <segment id="18">, não por mim</segment>
+    <segment id="19">, masmas pelo respeitado United States Preventive Services Task Force</segment>
+    <segment id="20">, o USPSTF</segment>
+    <segment id="21">, que acaba de atualizar a análise do impacto dos suplementos vitamínicos no risco de doenças cardiovasculares</segment>
+    <segment id="22">, câncer e na mortalidade geral da população adulta</segment>
+    <segment id="23">, bem como</segment>
+    <segment id="24">como de seus efeitos nocivos.</segment>
+    <segment id="25">A revisão</segment>
+    <segment id="26">sese concentrou em estudos com adultos saudáveis</segment>
+    <segment id="27">, de 18 anos ou mais</segment>
+    <segment id="28">, sem deficiências nutricionais</segment>
+    <segment id="29">, doenças cardiovasculares</segment>
+    <segment id="30">, câncer ou outras enfermidades crônicas —com exceção de pressão alta</segment>
+    <segment id="31">, sobrepeso e obesidade.</segment>
+    <segment id="32">Estudos com betacaroteno e vitamina</segment>
+    <segment id="33">A. Foram avaliados seis ensaios clínicos randomizados</segment>
+    <segment id="34">, duplo-cegos sobre a suplementação com beta caroteno.</segment>
+    <segment id="35">Quando comparado ao grupo que tomou placebo</segment>
+    <segment id="36">, os que receberam betacaroteno diariamente não tiveram redução da mortalidade nem da incidência de doença cardiovascular ou câncer</segment>
+    <segment id="37">, as duas principais causas de óbito entre nós.</segment>
+    <segment id="38">Em dois ensaios randomizados realizados entre adultos com risco de câncer de pulmão —fumantes e trabalhadores expostos ao asbesto—</segment>
+    <segment id="39">, o grupo que tomou betacaroteno ou betacaroteno associado à vitamina</segment>
+    <segment id="40">A, apresentou aumento da incidência de câncer de pulmão de 18% e 28%</segment>
+    <segment id="41">, respectivamente.</segment>
+    <segment id="42">Um estudo realizado para avaliar o papel da vitamina</segment>
+    <segment id="43">A na mortalidade geral não mostrou diferença significativa em relação ao grupo placebo.</segment>
+    <segment id="44">Vitamina E.</segment>
+    <segment id="45">Em nove estudos randomizados a administração diária de vitamina E</segment>
+    <segment id="46">, por um período de três a dez anos</segment>
+    <segment id="47">, não foi capaz de reduzir a mortalidade geral ou por eventos cardiovasculares.</segment>
+    <segment id="48">A incidência e a mortalidade por câncer foram iguais às do grupo-placebo.</segment>
+    <segment id="49">Multivitaminas.</segment>
+    <segment id="50">A revisão analisou nove estudos randomizados.</segment>
+    <segment id="51">Não foi possível demonstrar benefícios na mortalidade geral</segment>
+    <segment id="52">, por doenças cardiovasculares ou câncer.</segment>
+    <segment id="53">Dos nove</segment>
+    <segment id="54">, três estudaram especificamente a mortalidade por câncer e doenças cardiovasculares: dois empregaram suplementos multivitamínicos enquanto o terceiro associou um antioxidante às multivitaminas.</segment>
+    <segment id="55">Não houve benefício.</segment>
+    <segment id="56">Entenda o que é a vitamina</segment>
+    <segment id="57">DMais    novamente         de   de  de  representando um  Vitamina D com ou sem cálcio.</segment>
+    <segment id="58">Em 32 ensaios randomizados em que a vitamina D foi administrada isoladamente ou associada ao cálcio</segment>
+    <segment id="59">, não ocorreu diminuição da mortalidade geral ou por doença cardiovascular ou câncer.</segment>
+    <segment id="60">A incidência de infartos e AVCs foi igual à do grupo-placebo.</segment>
+    <segment id="61">Vitamina C.</segment>
+    <segment id="62">Apesar da popularidade e do consumo disseminado</segment>
+    <segment id="63">, há apenas dois estudos randomizados.</segment>
+    <segment id="64">Resultado: nenhum efeito na mortalidade geral</segment>
+    <segment id="65">, na incidência de eventos cardiovasculares e na mortalidade por câncer.</segment>
+    <segment id="66">Selênio.</segment>
+    <segment id="67">Não há demonstração de efeito benéfico na mortalidade geral</segment>
+    <segment id="68">, por câncer ou por doenças cardiovasculares.</segment>
+    <segment id="69">Malefícios.</segment>
+    <segment id="70">A maioria dos suplementos não provoca efeitos colaterais importantes.</segment>
+    <segment id="71">Betacaroteno não deve ser administrado a fumantes e pessoas expostas ao asbesto.</segment>
+    <segment id="72">Vitamina E em doses diárias entre 111 e 200 unidades aumenta o risco de AVC hemorrágico.</segment>
+    <segment id="73">Vitaminas D —em doses acima de mil unidades— e vitamina C aumentam o risco de cálculos renais.</segment>
+    <segment id="74">Você perguntará</segment>
+    <segment id="75">, prezado leitor:</segment>
+    <segment id="76">sese não há demonstração de eficácia</segment>
+    <segment id="77">, de onde vem tanta popularidade das vitaminas?</segment>
+    <segment id="78">Primeiro</segment>
+    <segment id="79">, do sonho com a fonte da juventude que acalanta a humanidade desde os primórdios.</segment>
+    <segment id="80">Segundo</segment>
+    <segment id="81">, da nossa falta de disposição para as atividades físicas e para levantar da mesa antes de devorar tudo o que nos ofereceram.</segment>
+    <segment id="82">Os comprimidos de vitaminas nos dão a sensação de que estamos cuidando bem da saúde</segment>
+    <segment id="83">, sem nenhum esforço.</segment>
+    <segment id="84">Essa ilusão é responsável por um mercado mundial que movimenta US$ 110 bilhões por ano.</segment>
+    <segment id="85">Nos Estados Unidos são US$ 10 bilhões</segment>
+    <segment id="86">; no Brasil</segment>
+    <segment id="87">, R$ 6</segment>
+    <segment id="88">,6 bilhões anuais.</segment>
+    <segment id="89">Tanto dinheiro investido em comprimidos quase sempre inúteis que vão parar no vaso sanitário.</segment>
+    <segment id="90">Faz sentido?</segment>
+  </rst>
+</analysis>

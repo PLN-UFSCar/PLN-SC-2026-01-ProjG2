@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Ator estÃ¡ deprimido
+Marcelo Faria ficou com o estado emocional abalado devido Ã  exposiÃ§Ã£o negativa
+Acusado de agredir um seguranÃ§a de uma casa de shows</segment>
+    <segment id="2">, Marcelo Faria ficou com o estado emocional  abalado devido Ã  exposiÃ§Ã£o negativa do seu nome</segment>
+    <segment id="3">, de acordo com amigos.</segment>
+    <segment id="4">Recentemente o ator</segment>
+    <segment id="5">sese separou da mulher</segment>
+    <segment id="6">, Camila Lucciola.</segment>
+    <segment id="7">Deprimido</segment>
+    <segment id="8">, ele tem buscado ajuda espiritual.</segment>
+    <segment id="9">Segundo o site R7</segment>
+    <segment id="10">, ele tambÃ©m nÃ£o anda comendo direito e jÃ¡</segment>
+    <segment id="11">perdeu 6 quilos.</segment>
+  </rst>
+</analysis>

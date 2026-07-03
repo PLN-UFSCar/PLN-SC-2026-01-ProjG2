@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Ela ainda é sexy</segment>
+    <segment id="2">A ex-BBB estampará edição de publicação masculina</segment>
+    <segment id="3">A ex-BBB Fabiana está prestes a assinar contrato para estampar a capa da "Sexy".</segment>
+    <segment id="4">Segundo uma fonte próxima à publicação masculina</segment>
+    <segment id="5">, a Mama está em negociação avançada com a revista e o ensaio nu deve sair no mês de agosto.</segment>
+    <segment id="6">Vale lembrar que</segment>
+    <segment id="7">, no início de maio</segment>
+    <segment id="8">, a paulista recusou o mesmo convite para posar nua.</segment>
+    <segment id="9">Enquanto ela não aparece peladona nas páginas impressas</segment>
+    <segment id="10">, vale uma espiadinha no ensaio sensual que a moça fez para o site Paparazzo.</segment>
+    <segment id="11">Afinal</segment>
+    <segment id="12">, vale a máxima:</segment>
+    <segment id="13">recordar é viver!</segment>
+  </rst>
+</analysis>

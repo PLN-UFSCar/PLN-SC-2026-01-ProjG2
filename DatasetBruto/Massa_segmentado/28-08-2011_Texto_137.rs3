@@ -1,0 +1,144 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">SUS tem mais de 20 sistemas que não</segment>
+    <segment id="2">sese comunicam</segment>
+    <segment id="3">; falta monitoração de leitos e remédios</segment>
+    <segment id="4">RIO - Um dos maiores sistemas de saúde do mundo</segment>
+    <segment id="5">, o SUS - criado há 23 anos para abranger de atendimento laboratorial a transplantes de órgãos</segment>
+    <segment id="6">, e atender gratuitamente a todos os brasileiros - padece de um mal que atinge várias áreas do setor público: a falta de atualização e integração de bancos de dados</segment>
+    <segment id="7">, conforme O GLOBO vem mostrando desde domingo.</segment>
+    <segment id="8">O DataSUS</segment>
+    <segment id="9">, que reúne os sistemas de informação do SUS</segment>
+    <segment id="10">, tem "de 25 a 30 sistemas estruturantes</segment>
+    <segment id="11">, e falta comunicação entre todos"</segment>
+    <segment id="12">, de acordo com Augusto Gadelha</segment>
+    <segment id="13">, diretor do Departamento de Informação do SUS.</segment>
+    <segment id="14">Na internet</segment>
+    <segment id="15">, o site do DataSUS mostra</segment>
+    <segment id="16">, por exemplo</segment>
+    <segment id="17">, sete sistemas na categoria Hospitalares</segment>
+    <segment id="18">, cinco na categoria Epidemiológicos e outros sete em Cadastros Nacionais.
+
+- Alguns poucos sistemas falam ao CadSUS (Cadastramento Nacional de Usuários do Sistema Único de Saúde) e</segment>
+    <segment id="19">, por isso</segment>
+    <segment id="20">, estamos unificando os cadastros</segment>
+    <segment id="21">, o que vai evitar</segment>
+    <segment id="22">, por exemplo</segment>
+    <segment id="23">, que um mesmo dado conte duas vezes.</segment>
+    <segment id="24">O ministério reconhece que o cidadão é prejudicado pela falta de integração - diz Gadelha.</segment>
+    <segment id="25">Enquanto não muda</segment>
+    <segment id="26">, há quem espere anos por um exame.</segment>
+    <segment id="27">Foi o caso</segment>
+    <segment id="28">caso de Luzia da Silva</segment>
+    <segment id="29">, de 55 anos</segment>
+    <segment id="30">, que levou 11 para fazer um cateterismo no Rio:
+
+- Se fosse grave</segment>
+    <segment id="31">, caso</segment>
+    <segment id="32">caso de morte</segment>
+    <segment id="33">, eu já tinha morrido</segment>
+    <segment id="34">, né?</segment>
+    <segment id="35">- diz Luzia</segment>
+    <segment id="36">, que teve o primeiro pedido feito em 2000 e só realizou o procedimento em fevereiro.</segment>
+    <segment id="37">- Não tinha vaga</segment>
+    <segment id="38">, eu ficava angustiada.</segment>
+    <segment id="39">Agora, depois do exame</segment>
+    <segment id="40">, consegui fazer a angioplastia e é vida nova.</segment>
+    <segment id="41">No Rio</segment>
+    <segment id="42">, regulação de leitos ainda por fax
+
+No Rio</segment>
+    <segment id="43">, a central estadual de regulação de leitos hospitalares ainda entrega aos médicos pedidos via fax.</segment>
+    <segment id="44">Em um plantão de 24 horas</segment>
+    <segment id="45">, cada um recebe em média 300 pedidos para internação em CTI.</segment>
+    <segment id="46">Muitas vezes conseguem vaga para duas ou três pessoas</segment>
+    <segment id="47">, no máximo:
+
+- O sistema é precário.</segment>
+    <segment id="48">Temos duas salas</segment>
+    <segment id="49">, uma com os médicos e outra com videofonistas</segment>
+    <segment id="50">, que recebem os pedidos por fax.</segment>
+    <segment id="51">Não temos ordem de prioridade</segment>
+    <segment id="52">;</segment>
+    <segment id="53">então, não sabemos que doente precisa mais do leito.</segment>
+    <segment id="54">Se o paciente está numa UPA (Unidade de Pronto Atendimento)</segment>
+    <segment id="55">, ligamos para as unidades e dizemos nome por nome para saber quem morreu e quem ainda precisa ser transferido - conta X.</segment>
+    <segment id="56">, médico que trabalha na central.</segment>
+    <segment id="57">- O plantonista fica assoberbado com esse trabalho insano e sabe que morre muita gente que não precisaria morrer.</segment>
+    <segment id="58">Ministro do Tribunal de Contas da União (TCU)</segment>
+    <segment id="59">, José Jorge diz que o Ministério da Saúde "ainda está na década de 80" e que o DataSUS "é um bocado de cadastro antigo junto".
+
+--</segment>
+    <segment id="60">O DataSUS não tem cadastro on-line integrado e atualizado.</segment>
+    <segment id="61">O problema é que o SUS repassa</segment>
+    <segment id="62">, todo ano</segment>
+    <segment id="63">, cerca de R$ 50 bilhões para estados e municípios.</segment>
+    <segment id="64">Qual o acompanhamento regular da execução dessa verba?</segment>
+    <segment id="65">É pelos conselhos municipais de Saúde</segment>
+    <segment id="66">, que não acompanham - diz José Jorge.</segment>
+    <segment id="67">- Já relatei processos sobre falta de cadastros de estoque de medicamentos em programas</segment>
+    <segment id="68">comocomo o Farmácia Básica.</segment>
+    <segment id="69">Em outro processo</segment>
+    <segment id="70">, comparamos registros de internações com os de óbitos</segment>
+    <segment id="71">, e vimos que havia muito morto sendo internado para operar.</segment>
+    <segment id="72">O TCU identificou</segment>
+    <segment id="73">, em julho</segment>
+    <segment id="74">, nove mil casos de internações ou procedimentos de alta complexidade feitos após as datas dos óbitos dos pacientes</segment>
+    <segment id="75">; os pagamentos realizados pelo SUS foram de mais de R$ 14 milhões.</segment>
+    <segment id="76">Alguns dos acórdãos sobre medicamentos de que fala José Jorge tratam do Hórus - Sistema Nacional de Gestão da Assistência Farmacêutica</segment>
+    <segment id="77">, software lançado em 2009 pelo governo federal</segment>
+    <segment id="78">, para gerenciar dados</segment>
+    <segment id="79">comocomo controle de estoque</segment>
+    <segment id="80">, distribuição e dispensação de medicamentos.</segment>
+    <segment id="81">Pelo que as decisões do TCU mostram</segment>
+    <segment id="82">, o Hórus ainda vai demorar para ser utilizado por todos os municípios</segment>
+    <segment id="83">, pois</segment>
+    <segment id="84">pois muitos sequer usam controles manuais.</segment>
+    <segment id="85">Em São Luís (MA)</segment>
+    <segment id="86">, nas unidades de saúde visitadas</segment>
+    <segment id="87">, foi informado que "os médicos tomam conhecimento da relação de medicamentos do município e de suas alterações e atualizações por meio de avisos afixados em suas mesas de trabalho"</segment>
+    <segment id="88">, diz o acórdão 1018/2011.</segment>
+    <segment id="89">O texto é de uma auditoria do TCU em 30 municípios no país.</segment>
+    <segment id="90">De 75 unidades de saúde visitadas</segment>
+    <segment id="91">, "só em 25 havia controle informatizado da dispensação de medicamentos".</segment>
+    <segment id="92">Já exemplos do "bocado de cadastro antigo junto</segment>
+    <segment id="93">" de que fala José Jorge estão no acórdão 1274/2010.</segment>
+    <segment id="94">Nele, o TCU aponta falta de atualização num dos principais cadastros do SUS</segment>
+    <segment id="95">, o Cadastro Nacional de Estabelecimentos de Saúde (CNES).</segment>
+    <segment id="96">O tribunal diz que</segment>
+    <segment id="97">, em 2009</segment>
+    <segment id="98">, "do total de cerca de 200.000 estabelecimentos registrados</segment>
+    <segment id="99">, foram constatados 13.403 registros de estabelecimentos que não atualizaram o CNES Nacional nos últimos seis meses".</segment>
+    <segment id="100">Além disso</segment>
+    <segment id="101">, 1.016 estabelecimentos públicos e 400 estabelecimentos privados prestadores de serviços ao SUS não tinham</segment>
+    <segment id="102">, então</segment>
+    <segment id="103">, atualizado os dados por período superior a dois anos.</segment>
+    <segment id="104">Em Linhares (ES)</segment>
+    <segment id="105">, como</segment>
+    <segment id="106">como os profissionais registrados no CNES já não atuavam mais ali</segment>
+    <segment id="107">, houve repasses federais por quatro meses</segment>
+    <segment id="108">, "sem prestação de serviços de saúde à população".</segment>
+  </rst>
+</analysis>

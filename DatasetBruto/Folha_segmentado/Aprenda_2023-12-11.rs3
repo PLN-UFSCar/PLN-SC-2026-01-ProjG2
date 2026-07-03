@@ -1,0 +1,58 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Farofas são tradição na ceia de Natal no Brasil</segment>
+    <segment id="2">, seja para acompanhar os pratos principais ou para rechear as aves.</segment>
+    <segment id="3">O lobozó</segment>
+    <segment id="4">, um mexido de inspiração caipira</segment>
+    <segment id="5">, é um ótimo e saboroso substituto.</segment>
+    <segment id="6">A receita</segment>
+    <segment id="7">, proposta pelo chef Gustavo Rodrigues</segment>
+    <segment id="8">, do restaurante Lobozó</segment>
+    <segment id="9">, em São Paulo</segment>
+    <segment id="10">, leva farinha de milho e rende até quatro porções.</segment>
+    <segment id="11">Frango caipira assado ao lado do lobozó</segment>
+    <segment id="12">,do restaurante homônimo na Vila Madalena em SP - Eduardo Knapp/FolhapressIngredientes    100 g de bacon em cubos</segment>
+    <segment id="13">, sem o couro   100 g de linguiça fresca</segment>
+    <segment id="14">, sem as tripas   50 g de amendoim torrado</segment>
+    <segment id="15">, sem casca   300 g de farinha de milho flocada</segment>
+    <segment id="16">Sal a gosto   75 ml de caldo de frango (ou água)</segment>
+    <segment id="17">salsinha picada para finalizar</segment>
+    <segment id="18">Degustação prova os melhores espumantes do mercadoFolha</segment>
+    <segment id="19">Prova espumantes: veja os melhores moscatéis a partir de R$ 35Folha</segment>
+    <segment id="20">Prova espumantes:</segment>
+    <segment id="21">veja os melhores bruts por até R$ 150Modo de fazer</segment>
+    <segment id="22">Em uma frigideira</segment>
+    <segment id="23">, doure o bacon e reserve</segment>
+    <segment id="24">, descartando o excesso da gordura que derreteu.</segment>
+    <segment id="25">Na mesma frigideira</segment>
+    <segment id="26">, doure a massa de linguiça fresca em pedaços até estar totalmente cozida e escorra o excesso de gordura.</segment>
+    <segment id="27">Junte o bacon frito</segment>
+    <segment id="28">, adicione o amendoim</segment>
+    <segment id="29">, a farinha de milho e o sal.</segment>
+    <segment id="30">Hidrate com o caldo de frango</segment>
+    <segment id="31">, misture bem</segment>
+    <segment id="32">, finalize com a salsinha e sirva (ou use para rechear o frango assado).</segment>
+  </rst>
+</analysis>

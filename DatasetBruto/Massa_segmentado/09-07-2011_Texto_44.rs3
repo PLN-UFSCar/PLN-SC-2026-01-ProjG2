@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Morre no Rio o ex-governador Faria Lima
+RIO - O ex-governador do Rio Floriano Peixoto Faria Lima faleceu neste sábado no Hospital Naval Marcílio Dias</segment>
+    <segment id="2">, no Lins do Vasconcelos</segment>
+    <segment id="3">, aos 93 anos.</segment>
+    <segment id="4">A causa da morte</segment>
+    <segment id="5">, segundo sua filha Regina Maria Faria Lima</segment>
+    <segment id="6">, foi apontada</segment>
+    <segment id="7">comocomo infecção generalizada.</segment>
+    <segment id="8">O corpo do ex-governador será cremado na próxima quarta-feira</segment>
+    <segment id="9">, às 10h</segment>
+    <segment id="10">, no Cemitério do Caju.</segment>
+    <segment id="11">Faria Lima foi o primeiro governador do Estado do Rio depois da fusão com o Estado da Guanabara e assumiu o cargo em 1975.</segment>
+    <segment id="12">Para ser governador</segment>
+    <segment id="13">, ele deixou a presidência da Petrobras.</segment>
+  </rst>
+</analysis>

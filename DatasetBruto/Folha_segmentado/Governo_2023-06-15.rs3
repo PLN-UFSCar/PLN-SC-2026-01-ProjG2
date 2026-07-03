@@ -1,0 +1,69 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O ministro da Casa Civil</segment>
+    <segment id="2">, Rui Costa</segment>
+    <segment id="3">, afirmou nesta quinta-feira (15) que o governo Luiz Inácio Lula da Silva (PT) vai lançar um programa para disponibilizar internet em 100% das escolas públicas do país.</segment>
+    <segment id="4">"[Vamos anunciar] Ações na área da educação</segment>
+    <segment id="5">, para levar banda larga para 100% das escolas no país</segment>
+    <segment id="6">, inclusive as escolas rurais.</segment>
+    <segment id="7">Todas as escolas terão [internet] até o final do mandato do presidente"</segment>
+    <segment id="8">, disse Rui à imprensa após reunião ministerial.</segment>
+    <segment id="9">O projeto envolve os ministérios da Educação e de Comunicações</segment>
+    <segment id="10">, além do BNDES (Banco Nacional de Desenvolvimento Econômico e Social)</segment>
+    <segment id="11">, e deve usar recursos do Fust (Fundo de Universalização dos Serviços de Telecomunicações) para custear a banda larga.</segment>
+    <segment id="12">O ministro da Casa Civil</segment>
+    <segment id="13">, Rui Costa</segment>
+    <segment id="14">, disse que o programa para disponibilizar internet em 100% das escolas públicas será anunciado em julho - Pedro Ladeira/Folhapress</segment>
+    <segment id="15">O ministro não entrou em detalhes sobre</segment>
+    <segment id="16">comocomo será o novo programa</segment>
+    <segment id="17">, que será lançado em julho —mês que o governo ainda pretende anunciar o novo PAC (Programa de Aceleração do Crescimento).</segment>
+    <segment id="18">"</segment>
+    <segment id="19">Tudo o que havíamos programado para lançar de programas fundamentais e importantes</segment>
+    <segment id="20">, entre eles o Minha Casa</segment>
+    <segment id="21">, Minha Vida e o Bolsa Família</segment>
+    <segment id="22">, na área de educação e infraestrutura</segment>
+    <segment id="23">, foram lançados</segment>
+    <segment id="24">, ou seja</segment>
+    <segment id="25">, cumprimos nossa meta e anunciamos coletivamente aquilo que cada um vai fazer"</segment>
+    <segment id="26">, completou Rui Costa.</segment>
+    <segment id="27">Segundo o Gape (Grupo de Acompanhamento do Custeio a Projetos de Conectividade de Escolas)</segment>
+    <segment id="28">, da Anatel (Agência Nacional de Telecomunicações)</segment>
+    <segment id="29">, 94% das escolas públicas de ensino básico possuíam acesso à internet em 2022.</segment>
+    <segment id="30">O número é maior entre as escolas em áreas urbanas.</segment>
+    <segment id="31">Das 82.233</segment>
+    <segment id="32">, 98,8% têm acesso à internet.</segment>
+    <segment id="33">Em área rural</segment>
+    <segment id="34">, o acesso</segment>
+    <segment id="35">sese restringe a 86% das 52.122 escolas.</segment>
+    <segment id="36">Os estados com menor número de escolas com acesso à internet são Acre (45</segment>
+    <segment id="37">,4%), Amazonas (36</segment>
+    <segment id="38">,8%) e Roraima (32%).</segment>
+    <segment id="39">Os estados do Paraná e Mato Grosso do Sul concedem acesso à internet a 99</segment>
+    <segment id="40">,9% das escolas do ensino básico</segment>
+    <segment id="41">, seguidas por Goiás (99</segment>
+    <segment id="42">,7%) e Rio Grande do Sul (99</segment>
+    <segment id="43">,6%).</segment>
+  </rst>
+</analysis>

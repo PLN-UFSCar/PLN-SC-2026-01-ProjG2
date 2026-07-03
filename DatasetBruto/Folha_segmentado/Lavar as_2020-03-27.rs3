@@ -1,0 +1,119 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Nas últimas semanas</segment>
+    <segment id="2">, enquanto o país enfrenta um isolamento social que afetou a rotina de milhões de brasileiros</segment>
+    <segment id="3">, muito</segment>
+    <segment id="4">sese tem perguntado sobre formas de prevenção do contágio pelo Sars-Cov-2</segment>
+    <segment id="5">, o novo coronavírus.</segment>
+    <segment id="6">Embora o Ministério da Saúde recomende lavar as mãos com água e sabão ou limpá-las com álcool em gel de concentração mínima de 60%</segment>
+    <segment id="7">, a correta higiene das mãos não está clara para a maioria da população.</segment>
+    <segment id="8">A ação do sabão ou álcool em gel no vírus é muito simples</segment>
+    <segment id="9">, de acordo com a microbiologista Natália Pasternak</segment>
+    <segment id="10">, pesquisadora do Instituto de Ciências Biomédicas da USP e presidente do Instituto Questão de Ciência.</segment>
+    <segment id="11">O Sars-Cov-2 é um vírus da família dos coronavírus</segment>
+    <segment id="12">, que são formados basicamente de RNA —material genético “primo” do DNA</segment>
+    <segment id="13">, porém</segment>
+    <segment id="14">porém com apenas uma fita— e uma cápsula de revestimento feita de proteínas e lipídios —nome técnico para gordura.</segment>
+    <segment id="15">Essa capa</segment>
+    <segment id="16">, segundo a pesquisadora</segment>
+    <segment id="17">, é essencial</segment>
+    <segment id="18">para que</segment>
+    <segment id="19">para que o vírus</segment>
+    <segment id="20">sese prenda nas células humanas.</segment>
+    <segment id="21">Sem ela</segment>
+    <segment id="22">, o vírus morre.</segment>
+    <segment id="23">Assim, a água e sabão ou o álcool têm a função de destruir essa cápsula.</segment>
+    <segment id="24">Como se</segment>
+    <segment id="25">se aprende nas aulas de química no colégio</segment>
+    <segment id="26">, aos se</segment>
+    <segment id="27">se colocarem água e gordura —por exemplo</segment>
+    <segment id="28">, óleo de cozinha— em um recipiente</segment>
+    <segment id="29">, as substâncias</segment>
+    <segment id="30">sese mantêm separadas</segment>
+    <segment id="31">, masmas a adição de detergente comum “quebra” a gordura.</segment>
+    <segment id="32">A lógica é a mesma: ao lavarmos as mãos com água e sabão</segment>
+    <segment id="33">, o envelope protetor do vírus é quebrado</segment>
+    <segment id="34">, destruindo-o.</segment>
+    <segment id="35">Por isso</segment>
+    <segment id="36">, é sempre importante lavar as mãos.</segment>
+    <segment id="37">“Qualquer tipo de sabão serve: sabonete</segment>
+    <segment id="38">, detergente líquido</segment>
+    <segment id="39">, sabonete líquido...</segment>
+    <segment id="40">Só não pode usar aquele sabão antibacteriano</segment>
+    <segment id="41">, por dois motivos:</segment>
+    <segment id="42">ele mata bactérias</segment>
+    <segment id="43">, e não vírus</segment>
+    <segment id="44">;</segment>
+    <segment id="45">e ele pode também matar bactérias que são protetoras da nossa pele</segment>
+    <segment id="46">, deixando-a muito mais suscetível a infecções”</segment>
+    <segment id="47">, completa Pasternak.</segment>
+    <segment id="48">A pesquisadora ressalta ainda que o uso do álcool em gel</segment>
+    <segment id="49">, que já está em falta nos mercados</segment>
+    <segment id="50">, deve ser restrito para quando</segment>
+    <segment id="51">sese está na rua</segment>
+    <segment id="52">; em casa</segment>
+    <segment id="53">, o bom uso de água e sabão basta.</segment>
+    <segment id="54">Quanto à limpeza de superfícies</segment>
+    <segment id="55">, os maiores cuidados devem ser aplicados a mesas</segment>
+    <segment id="56">, bancadas</segment>
+    <segment id="57">, botões de elevadores e corrimãos</segment>
+    <segment id="58">, que são áreas de uso comum.</segment>
+    <segment id="59">Nesses casos</segment>
+    <segment id="60">, pode-</segment>
+    <segment id="61">sese usar também a solução de hipoclorito de cloro —a água sanitária</segment>
+    <segment id="62">, ou cândida</segment>
+    <segment id="63">, produto doméstico dos mais corriqueiros</segment>
+    <segment id="64">, diluída em água comum.</segment>
+    <segment id="65">A substância</segment>
+    <segment id="66">, porém</segment>
+    <segment id="67">porém, não deve ser usada na higiene das mãos</segment>
+    <segment id="68">, pois</segment>
+    <segment id="69">pois é agressiva para a pele</segment>
+    <segment id="70">, podendo causar feridas que facilitariam a entrada do vírus.</segment>
+    <segment id="71">O álcool líquido a 70% é altamente inflamável e deve ser usado com cuidado para a limpeza de superfícies.</segment>
+    <segment id="72">Natália lembra ainda que a transmissão do vírus é dada por contato direto de secreções</segment>
+    <segment id="73">, quando uma pessoa contaminada espirra ou tosse</segment>
+    <segment id="74">, e as gotículas ficam na superfície</segment>
+    <segment id="75">, ou então quando as mãos são usadas para cobrir o espirro ou cutucar o nariz e depois o vírus é espalhado em objetos compartilhados.</segment>
+    <segment id="76">Veja como</segment>
+    <segment id="77">como lavar as mãos   novamente         de   de  de  representando um</segment>
+    <segment id="78">Como não é possível saber ao certo</segment>
+    <segment id="79">sese alguém esteve no local antes e espirrou ou tossiu ali</segment>
+    <segment id="80">, higienizar essas superfícies é recomendado</segment>
+    <segment id="81">, além de manter distância de pelo menos dois metros de outras pessoas e evitar aglomerações.</segment>
+    <segment id="82">Dentro de casa</segment>
+    <segment id="83">, manter a boa higiene já é suficiente.</segment>
+    <segment id="84">Para Pasternak</segment>
+    <segment id="85">, não é necessária a atitude de chegar em casa e retirar toda a roupa imediatamente do corpo</segment>
+    <segment id="86">, lavá-la e correr para o banho.</segment>
+    <segment id="87">Basta manter o cuidado de lavar bem as mãos por ao menos vinte segundos</segment>
+    <segment id="88">, além de não tocar em objetos compartilhados —</segment>
+    <segment id="89">comocomo maçanetas— sem antes fazer a limpeza.</segment>
+    <segment id="90">“Tenho visto uma atitude muito positiva nos mercados que frequento</segment>
+    <segment id="91">; sempre antes de pegar o carrinho tem uma pessoa passando um pano com álcool a 70%.</segment>
+    <segment id="92">Espero que essa pandemia deixe o bom hábito nas pessoas de manterem a higiene dos lugares”</segment>
+    <segment id="93">, completa.</segment>
+  </rst>
+</analysis>

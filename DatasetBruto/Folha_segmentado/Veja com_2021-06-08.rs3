@@ -1,0 +1,96 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Municípios têm criado regras para a distribuição da chamada xepa da vacina contra a Covid-19</segment>
+    <segment id="2">, com a aplicação de doses que sobram nos frascos já abertos dos imunizantes ao final do dia.</segment>
+    <segment id="3">A medida ajuda a evitar o desperdício</segment>
+    <segment id="4">, uma vez que as substâncias têm um prazo de validade após a abertura dos recipientes</segment>
+    <segment id="5">, que podem conter mais de uma dose.</segment>
+    <segment id="6">Atualmente</segment>
+    <segment id="7">, são aplicadas três vacinas diferentes no país (CoronaVac</segment>
+    <segment id="8">, AstraZeneca/Oxford e Pfizer/BioNTech)</segment>
+    <segment id="9">, e cada uma delas pode ficar fora da geladeira um tempo diferente</segment>
+    <segment id="10">, que varia de 6 horas a 48 horas.</segment>
+    <segment id="11">Paulistanos buscam vacina da Pfizer nos postos   novamente         de   de  de  representando um  Veja abaixo quem pode</segment>
+    <segment id="12">sese inscrever para receber as doses remanescentes e o que é necessário para entrar na fila nas cidades de São Paulo e Rio de Janeiro.</segment>
+    <segment id="13">Quem pode tomar?</segment>
+    <segment id="14">São Paulo Pessoas com deficiência permanente</segment>
+    <segment id="15">, que tenham mais de 18 anos e morem no território da unidade de saúde</segment>
+    <segment id="16">; estudantes de cursos da área da saúde descritos no instrutivo para priorização de doses da vacina</segment>
+    <segment id="17">; pessoas com mais de 50 anos.</segment>
+    <segment id="18">Rio de Janeiro Idosos acamados e pessoas dos grupos prioritários listados no Programa Nacional de Imunização (PNI) que estejam no local de vacinação naquele momento.</segment>
+    <segment id="19">Como se</segment>
+    <segment id="20">se cadastrar?</segment>
+    <segment id="21">São Paulo É preciso entrar na lista de espera da unidade de saúde mais próxima do local de residência.</segment>
+    <segment id="22">Rio de Janeiro</segment>
+    <segment id="23">A família ou acompanhante dos acamados deve preencher o cadastro no site da prefeitura ou</segment>
+    <segment id="24">sese dirigir à unidade de referência de seu endereço</segment>
+    <segment id="25">, que pode ser consultada na página</segment>
+    <segment id="26">Onde Ser Atendido.</segment>
+    <segment id="27">Para os outros grupos não existe cadastro.</segment>
+    <segment id="28">O que é preciso levar?</segment>
+    <segment id="29">São Paulo Documento de identificação (preferencialmente CPF) e comprovante de endereço.</segment>
+    <segment id="30">Para as pessoas com deficiência permanente</segment>
+    <segment id="31">, é necessário levar um comprovante da deficiência</segment>
+    <segment id="32">, que pode ser laudo médico</segment>
+    <segment id="33">, cartão de gratuidade no transporte público</segment>
+    <segment id="34">, documentos que comprovem atendimento em centros especializados no atendimento de pessoas com deficiência ou documento de identidade que indique a deficiência.</segment>
+    <segment id="35">Os estudantes elegíveis devem levar comprovante de matrícula.</segment>
+    <segment id="36">Rio de Janeiro Documento de identidade</segment>
+    <segment id="37">, número do CPF e</segment>
+    <segment id="38">, sese possível</segment>
+    <segment id="39">, caderneta de vacinação.</segment>
+    <segment id="40">No caso</segment>
+    <segment id="41">caso de pessoas com comorbidades ou deficiências permanentes</segment>
+    <segment id="42">, é preciso laudo</segment>
+    <segment id="43">, atestado</segment>
+    <segment id="44">, receitas médicas ou outros documentos ​que comprovem as condições (com QR Code ou originais).</segment>
+    <segment id="45">Informações mais detalhadas estão no site da prefeitura.</segment>
+    <segment id="46">Quais vacinas estão sendo oferecidas neste esquema?</segment>
+    <segment id="47">São Paulo</segment>
+    <segment id="48">Vacinas disponíveis na unidade de saúde.</segment>
+    <segment id="49">Rio de Janeiro</segment>
+    <segment id="50">A AstraZeneca e a Pfizer.</segment>
+    <segment id="51">No caso</segment>
+    <segment id="52">caso da Coronavac</segment>
+    <segment id="53">, que no momento está sendo usada apenas para a segunda dose</segment>
+    <segment id="54">, só se</segment>
+    <segment id="55">se abre um frasco com dez doses no fim do dia</segment>
+    <segment id="56">sese houver dez pessoas aguardando.</segment>
+    <segment id="57">Caso contrário</segment>
+    <segment id="58">, a pessoa é orientada a voltar no outro dia.</segment>
+    <segment id="59">Devo ir esperar sobras da vacina nas unidades?</segment>
+    <segment id="60">São Paulo</segment>
+    <segment id="61">Não.</segment>
+    <segment id="62">A equipe da unidade de saúde comunica por telefone no final do horário da vacinação e o candidato a receber o imunizante deve ir imediatamente até o local.</segment>
+    <segment id="63">Rio de Janeiro</segment>
+    <segment id="64">A prefeitura diz que "não há sobras de vacina" e "não recomenda que pessoas de fora dos grupos prioritários</segment>
+    <segment id="65">sese aglomerem na porta das unidades em busca da chamada 'xepa'".</segment>
+    <segment id="66">"</segment>
+    <segment id="67">As unidades trabalham de forma racional e todos os cuidados são tomados</segment>
+    <segment id="68">para que</segment>
+    <segment id="69">para que os frascos sejam integralmente usados nos grupos prioritários do dia"</segment>
+    <segment id="70">, afirma a Secretaria de Saúde.</segment>
+  </rst>
+</analysis>

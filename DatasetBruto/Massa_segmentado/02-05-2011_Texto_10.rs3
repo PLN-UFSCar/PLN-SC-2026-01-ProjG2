@@ -1,0 +1,47 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Botafogo impede vistoria do CREA-RJ
+
+Revolta:</segment>
+    <segment id="2">Facção de torcida tenta invadir sede do Botafogo
+BLOG:</segment>
+    <segment id="3">'É Por Ti</segment>
+    <segment id="4">, Fogo'</segment>
+    <segment id="5">, o blog do torcedor do Botafogo
+Para surpresa dos membros do CREA</segment>
+    <segment id="6">, o Botafogo alegou que o órgão não havia feito um pedido formal.</segment>
+    <segment id="7">Como ninguém conseguiu contato com o presidente Maurício Assumpção</segment>
+    <segment id="8">para que</segment>
+    <segment id="9">para que este autorizasse a entrada dos engenheiros</segment>
+    <segment id="10">, a visita foi adiada.</segment>
+    <segment id="11">No fim da tarde</segment>
+    <segment id="12">, o vice presidente de patrimônio do clube</segment>
+    <segment id="13">, Francisco Fonseca</segment>
+    <segment id="14">, afirmou que o Botafogo produz constantes relatórios de manutenção e que o CREA não tinha poder fiscalizador.</segment>
+    <segment id="15">Luiz Cosenza afirmou que</segment>
+    <segment id="16">, sese até amanhã o órgão não for autorizado a entrar no estádio</segment>
+    <segment id="17">, vai apelar ao Ministério Público.</segment>
+  </rst>
+</analysis>

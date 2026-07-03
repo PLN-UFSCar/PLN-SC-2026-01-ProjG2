@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Homem leva bala no Rio Vermelho</segment>
+    <segment id="2">A vÃ­tima estava prÃ³xima ao Largo do Rio Vermelho quando um homem efetuou os disparos</segment>
+    <segment id="3">Joel Jorge Pontes Vitoria</segment>
+    <segment id="4">, 32 anos</segment>
+    <segment id="5">, foi baleado no pescoÃ§o durante uma tentativa de homicÃ­dio</segment>
+    <segment id="6">, por volta das 6h da manhÃ£ de ontem</segment>
+    <segment id="7">, no bairro Rio Vermelho.</segment>
+    <segment id="8">De acordo com a polÃ­cia</segment>
+    <segment id="9">, a vÃ­tima estava prÃ³xima ao Largo do Rio Vermelho quando um homem</segment>
+    <segment id="10">sese aproximou e efetuou vÃ¡rios disparos.</segment>
+    <segment id="11">Joel foi o Ãºnico atingido.</segment>
+    <segment id="12">Ferido</segment>
+    <segment id="13">, ele foi levado  ao Hospital Geral do Estado (HGE) por policiais da 12Âª Companhia Independente de Policia Militar (12Âª CIPM).</segment>
+    <segment id="14">AtÃ©</segment>
+    <segment id="15">o fechamento da ediÃ§Ã£o</segment>
+    <segment id="16">, nÃ£o foi divulgado o estado de saÃºde da vÃ­tima.</segment>
+    <segment id="17">Ainda nÃ£o</segment>
+    <segment id="18">sese sabe o que motivou o atentado.</segment>
+    <segment id="19">O caso</segment>
+    <segment id="20">caso serÃ¡ investigado pela Delegacia do Rio Vermelho.</segment>
+  </rst>
+</analysis>

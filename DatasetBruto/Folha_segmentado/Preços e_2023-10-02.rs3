@@ -1,0 +1,119 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O agronegócio caminha para mais um recorde nas exportações.</segment>
+    <segment id="2">A redução na queda dos preços médios do setor no mercado externo está sendo compensada pelo aumento do volume exportado.</segment>
+    <segment id="3">As receitas com as exportações já superam US$ 125 bilhões neste ano</segment>
+    <segment id="4">, e, no ritmo atual</segment>
+    <segment id="5">, deverão ficar acima dos US$ 159 bilhões de 2022.</segment>
+    <segment id="6">Este será o quinto ano em que as vendas externas do agronegócio atingem receitas superiores a US$ 100 bilhões.</segment>
+    <segment id="7">Ao mesmo tempo em que as exportações aumentam</segment>
+    <segment id="8">, os gastos com as importações têm forte recuo</segment>
+    <segment id="9">, devido a volumes e preços menores dos insumos.</segment>
+    <segment id="10">Entre os destaques</segment>
+    <segment id="11">, estão as importações de agrotóxicos</segment>
+    <segment id="12">, com queda de 32% no volume de compras externas neste ano.</segment>
+    <segment id="13">A soja</segment>
+    <segment id="14">, o principal item na pauta de exportação do país</segment>
+    <segment id="15">, mantém o setor aquecido.</segment>
+    <segment id="16">O preço médio obtido no exterior pela oleaginosa está com queda de 11% neste ano</segment>
+    <segment id="17">, masmas o volume exportado já atingiu 87</segment>
+    <segment id="18">,3 milhões de toneladas até o mês passado</segment>
+    <segment id="19">, 24% a mais do que em igual período de 2022.Caminhão é carregado de grãos de soja em fazenda de Campo Verde (MT) - Gustavo Bonato - 10.jan.2017/ReutersCom o avanço do volume das exportações</segment>
+    <segment id="20">, as receitas do chamado complexo soja (grãos</segment>
+    <segment id="21">, farelo e óleo) deverão atingir o recorde de US$ 67 bilhões neste ano</segment>
+    <segment id="22">, acima do então maior volume financeiro de US$ 61 bilhões de 2022.  Maiores produção e esmagamento interno de soja vão permitir exportações de 99 milhões de toneladas de grãos e 22 milhões de toneladas de farelo de soja neste ano</segment>
+    <segment id="23">, segundo a Abiove (Associação Brasileira das Indústrias de Óleos Vegetais).Em alguns setores</segment>
+    <segment id="24">, como</segment>
+    <segment id="25">como o de carnes</segment>
+    <segment id="26">, a queda de preços foi tão intensa que afeta o desempenho da balança comercial.</segment>
+    <segment id="27">Em abril de 2022</segment>
+    <segment id="28">, o Brasil exportava a tonelada de carne bovina por US$ 6.961.</segment>
+    <segment id="29">No mês passado</segment>
+    <segment id="30">, os preços estiveram em US$ 4.537.</segment>
+    <segment id="31">Apesar da redução dos preços</segment>
+    <segment id="32">, o volume exportado volta a atingir patamar elevado.</segment>
+    <segment id="33">Em setembro</segment>
+    <segment id="34">, foram 195 mil toneladas de carne "in natura"</segment>
+    <segment id="35">, um volume próximo ao do recorde de 203 mil de agosto do ano passado</segment>
+    <segment id="36">, segundo o Cepea (Centro de Estudos Avançados em Economia Aplicada).</segment>
+    <segment id="37">A balança do agronegócio</segment>
+    <segment id="38">sese mantém sustentada também pelo bom desempenho do açúcar.</segment>
+    <segment id="39">Ofertas menores em grandes produtores</segment>
+    <segment id="40">, como</segment>
+    <segment id="41">como Índia e Tailândia</segment>
+    <segment id="42">, incentivaram os preços externos.</segment>
+    <segment id="43">Neste ano</segment>
+    <segment id="44">, o volume exportado pelo Brasil cresceu 13%</segment>
+    <segment id="45">, masmas as receitas subiram 43%.Colunas e BlogsReceba no seu email uma seleção de colunas e blogs da Folha</segment>
+    <segment id="46">; exclusiva para assinantes.</segment>
+    <segment id="47">Carregando...</segment>
+    <segment id="48">O milho</segment>
+    <segment id="49">, com a entrada da China no mercado brasileiro</segment>
+    <segment id="50">, também registra bom desempenho.</segment>
+    <segment id="51">A produção brasileira foi recorde</segment>
+    <segment id="52">, e o país voltou a superar as exportações dos Estados Unidos na safra 22/23.</segment>
+    <segment id="53">No período 23/24</segment>
+    <segment id="54">, os brasileiros terão bom patamar de produção</segment>
+    <segment id="55">, masmas os americanos retornam para níveis recordes.</segment>
+    <segment id="56">O café</segment>
+    <segment id="57">, produto que o país é líder mundial em exportações</segment>
+    <segment id="58">, perde força.</segment>
+    <segment id="59">A queda de 8% nos preços médios</segment>
+    <segment id="60">, devido à melhora nos estoques mundiais</segment>
+    <segment id="61">, reduziu as receitas.</segment>
+    <segment id="62">Ao contrário das carnes bovina e de aves</segment>
+    <segment id="63">, a suína está com valorização de 7%</segment>
+    <segment id="64">, o que resulta em um aumento de 17% nas receitas externas deste ano.</segment>
+    <segment id="65">O arroz também sobe no mercado externo</segment>
+    <segment id="66">, e tem valorização de 22%.</segment>
+    <segment id="67">Os preços mais competitivos lá fora incentivam as exportações brasileiras.</segment>
+    <segment id="68">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="69">; aberta para não assinantes.</segment>
+    <segment id="70">Carregando...</segment>
+    <segment id="71">Após um 2022 de muitos gastos com importações</segment>
+    <segment id="72">, a balança comercial do agronegócio tem um alívio com as compras externas.</segment>
+    <segment id="73">De janeiro a setembro</segment>
+    <segment id="74">, o país importou um volume 6% menor de fertilizantes do que em igual período de 2022.</segment>
+    <segment id="75">A queda dos preços internacionais permitiu uma redução de 52% nos gastos.</segment>
+    <segment id="76">O mesmo ocorre com os agrotóxicos</segment>
+    <segment id="77">, que têm queda de 32% tanto no volume</segment>
+    <segment id="78">comocomo nos gastos neste ano.</segment>
+    <segment id="79">As compras acumuladas</segment>
+    <segment id="80">, que somaram 524 mil toneladas de janeiro a setembro do ano passado</segment>
+    <segment id="81">, recuaram para 359 mil toneladas.</segment>
+    <segment id="82">Leite e derivados</segment>
+    <segment id="83">, porém</segment>
+    <segment id="84">porém, são um novo item de peso nas importações brasileiras.</segment>
+    <segment id="85">Com redução da oferta interna e preços competitivos nos países vizinhos</segment>
+    <segment id="86">, os gastos brasileiros com esse produto somaram US$ 827 milhões até o mês passado</segment>
+    <segment id="87">, uma alta de 81%.</segment>
+    <segment id="88">Já o trigo</segment>
+    <segment id="89">, um dos itens de maior peso nas importações brasileiras de cereais</segment>
+    <segment id="90">, tem queda de 31%.</segment>
+    <segment id="91">Foi importado 1 milhão de toneladas até setembro</segment>
+    <segment id="92">, o menor volume para o período em 46 anos</segment>
+    <segment id="93">, quando teve início essa série de estatísticas pela Secex (Secretaria de Comércio Exterior).</segment>
+  </rst>
+</analysis>

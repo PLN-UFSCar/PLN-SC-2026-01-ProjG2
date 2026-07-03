@@ -1,0 +1,48 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um motorista perdeu o controle da direção de um ônibus de turismo que conduzia e invadiu duas residências</segment>
+    <segment id="2">, em Franco da Rocha</segment>
+    <segment id="3">, na Grande São Paulo</segment>
+    <segment id="4">, na madrugada desta quinta-feira (28).</segment>
+    <segment id="5">Não havia passageiros no coletivo e o motorista foi socorrido com ferimentos para o PS Franco da Rocha e seu estado é considerado estável.</segment>
+    <segment id="6">Ônibus perdeu o controle e invadiu duas casas - Reprodução/TV GloboDe acordo com o Corpo de Bombeiros</segment>
+    <segment id="7">, o acidente foi as 4h55</segment>
+    <segment id="8">, na rua Manoel Pereira Sobrinho</segment>
+    <segment id="9">, no Parque Vitória.</segment>
+    <segment id="10">Ainda não</segment>
+    <segment id="11">sese sabe as causas do acidente</segment>
+    <segment id="12">, masmas o veículo invadiu um canteiro</segment>
+    <segment id="13">, avançou pela rua e só parou depois de atingir as duas casas.</segment>
+    <segment id="14">Os moradores acordaram assustados com o barulho provocado pela colisão.</segment>
+    <segment id="15">Nenhum morador ficou ferido.</segment>
+    <segment id="16">O coletivo acertou a garagem de uma das casas e a parede de outra.</segment>
+    <segment id="17">A frente do ônibus ficou bastante danificada.</segment>
+    <segment id="18">A Polícia Militar está preservando o local para a chegada da perícia.</segment>
+    <segment id="19">A Folha procurou a empresa Dinatur</segment>
+    <segment id="20">, responsável pelo coletivo</segment>
+    <segment id="21">, masmas as ligações não foram atendidas.</segment>
+    <segment id="22">Ônibus perdeu o controle e invadiu duas casas - Reprodução/TV Globo</segment>
+  </rst>
+</analysis>

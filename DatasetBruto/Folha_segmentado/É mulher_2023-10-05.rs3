@@ -1,0 +1,206 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Mãe solo de uma filha de 3 anos</segment>
+    <segment id="2">, a produtora Ana (nome fictício)</segment>
+    <segment id="3">, 42, que prefere não</segment>
+    <segment id="4">sese identificar</segment>
+    <segment id="5">, descobriu que ganha metade do salário que seu colega homem na mesma função.</segment>
+    <segment id="6">"</segment>
+    <segment id="7">Não faz sentido.</segment>
+    <segment id="8">Fiquei muito mal</segment>
+    <segment id="9">, masmas não posso pedir demissão</segment>
+    <segment id="10">, pois</segment>
+    <segment id="11">pois dependo do emprego"</segment>
+    <segment id="12">, diz ela</segment>
+    <segment id="13">, que integra as estatísticas da desigualdade de gênero no mercado de trabalho no país.</segment>
+    <segment id="14">No Brasil</segment>
+    <segment id="15">, a remuneração média dos homens</segment>
+    <segment id="16">, no segundo quadrimestre de 2023</segment>
+    <segment id="17">, foi 25</segment>
+    <segment id="18">,3% maior do que a das mulheres.</segment>
+    <segment id="19">Além de ocuparem a maioria dos cargos de gerência (60%)</segment>
+    <segment id="20">, eles registraram a menor taxa de desemprego no mesmo período</segment>
+    <segment id="21">, 6,9%.</segment>
+    <segment id="22">A das mulheres foi de 9</segment>
+    <segment id="23">,6%.</segment>
+    <segment id="24">Os dados fazem parte da pesquisa de Janaína Feijó</segment>
+    <segment id="25">, doutora em economia e docente da FGV-Ibre (Instituto Brasileiro de Economia da Fundação Getúlio Vargas).</segment>
+    <segment id="26">"</segment>
+    <segment id="27">A cada dez mulheres em idade para trabalhar</segment>
+    <segment id="28">, apenas cinco participam do mercado de trabalho.</segment>
+    <segment id="29">Já entre os homens</segment>
+    <segment id="30">, sete a cada dez estão empregados"</segment>
+    <segment id="31">, diz.</segment>
+    <segment id="32">Mulheres ganham em média 25% a menos do que homens - Catarina PignatoO estudo</segment>
+    <segment id="33">, com base em dados do IBGE (Instituto Brasileiro de Geografia e Estatística)</segment>
+    <segment id="34">, mostra que o rendimento médio das mulheres tem sido inferior ao dos homens nos últimos 11 anos.</segment>
+    <segment id="35">Enquanto eles ganham</segment>
+    <segment id="36">, em média</segment>
+    <segment id="37">, R$ 3.196 mensais</segment>
+    <segment id="38">, elas recebem R$ 2.551.</segment>
+    <segment id="39">Comissionada num órgão público por dez anos</segment>
+    <segment id="40">, a assessora Maria (nome fictício)</segment>
+    <segment id="41">, 53, que também pediu para não ser identificada</segment>
+    <segment id="42">, descobriu que seus colegas homens ganhavam 30% mais do que ela.</segment>
+    <segment id="43">TodasNotícias que você quer saber e discussões que vai adorar acompanharCarregando...</segment>
+    <segment id="44">"Ainda tive redução de salário.</segment>
+    <segment id="45">Quando questionei à minha chefia</segment>
+    <segment id="46">, disseram que meu cargo era muito alto"</segment>
+    <segment id="47">, conta.</segment>
+    <segment id="48">Ela pediu demissão e levou três meses para conseguir outro emprego.</segment>
+    <segment id="49">"</segment>
+    <segment id="50">Agora ganho menos</segment>
+    <segment id="51">, masmas não me arrependo</segment>
+    <segment id="52">; me sinto mais útil</segment>
+    <segment id="53">, mais valorizada.</segment>
+    <segment id="54">"</segment>
+    <segment id="55">O desemprego por nível educacional também é maior entre as mulheres (9</segment>
+    <segment id="56">,8% contra 6</segment>
+    <segment id="57">,5% entre eles) e a progressão de carreira feminina é mais lenta</segment>
+    <segment id="58">, gerando sub-representação em cargos de gerência (39</segment>
+    <segment id="59">,2% contra 60</segment>
+    <segment id="60">,8%).</segment>
+    <segment id="61">A maternidade e as responsabilidades com a casa</segment>
+    <segment id="62">, ressalta Janaína Feijó</segment>
+    <segment id="63">, também influenciam na participação delas no mercado de trabalho</segment>
+    <segment id="64">, que vê o homem-pai</segment>
+    <segment id="65">comocomo mais responsável</segment>
+    <segment id="66">, masmas a mulher-mãe</segment>
+    <segment id="67">comocomo um problema.</segment>
+    <segment id="68">Entenda os tipos de contratos de trabalhoMais    novamente         de   de  de  representando um</segment>
+    <segment id="69">Entre as mulheres casadas com filhos de até 2 anos</segment>
+    <segment id="70">, apenas 33% estão empregadas.</segment>
+    <segment id="71">Já entre os homens com filhos da mesma idade</segment>
+    <segment id="72">, a taxa de participação é de 70%.</segment>
+    <segment id="73">Mesmo com as conquistas e avanços na legislação</segment>
+    <segment id="74">, a sociedade ainda é machista</segment>
+    <segment id="75">, e as empresas precisam rever seus valores organizacionais</segment>
+    <segment id="76">, avalia a psicóloga do trabalho Cláudia Basso</segment>
+    <segment id="77">, doutora em orientação profissional e de carreira.</segment>
+    <segment id="78">"</segment>
+    <segment id="79">É comum ouvir relatos de mulheres gestoras que</segment>
+    <segment id="80">, para serem respeitadas</segment>
+    <segment id="81">, precisam</segment>
+    <segment id="82">sese impor e assumir postura mais séria e rígida</segment>
+    <segment id="83">, não expressar muitas emoções</segment>
+    <segment id="84">, nem sentimentos</segment>
+    <segment id="85">, e ainda provar suas competências o tempo todo"</segment>
+    <segment id="86">, diz Basso.</segment>
+    <segment id="87">Com isso</segment>
+    <segment id="88">, destaca a psicóloga</segment>
+    <segment id="89">, acabam assumindo mais atividades do que homens na mesma função</segment>
+    <segment id="90">, gerando sobrecarga e estresse</segment>
+    <segment id="91">, que resultam em doenças físicas e psicológicas.</segment>
+    <segment id="92">"E ainda precisam aguentar comentários</segment>
+    <segment id="93">comocomo ‘deve estar na TPM’"</segment>
+    <segment id="94">, afirma Basso</segment>
+    <segment id="95">, lembrando que há situações que podem ser consideradas assédio e discriminação de gênero.</segment>
+    <segment id="96">O que fazer ao</segment>
+    <segment id="97">sese deparar com um salário menor</segment>
+    <segment id="98">Caso perceba que está ganhando menos que um homem na mesma função</segment>
+    <segment id="99">, a psicóloga orienta primeiramente entender a política de promoção da empresa</segment>
+    <segment id="100">, o plano de cargos e salários</segment>
+    <segment id="101">, uma vez que algumas preveem remuneração ligada ao tempo de serviço.</segment>
+    <segment id="102">"</segment>
+    <segment id="103">É preciso entender</segment>
+    <segment id="104">sese essa política da empresa está atrelada ao desenvolvimento de competências</segment>
+    <segment id="105">, ao sistema de progressão salarial por tempo no cargo ou</segment>
+    <segment id="106">sese realmente está havendo uma disparidade por questão de gênero"</segment>
+    <segment id="107">, pontua.</segment>
+    <segment id="108">Neste caso</segment>
+    <segment id="109">caso, sugere Basso</segment>
+    <segment id="110">, a mulher pode conversar com seu gestor ou RH</segment>
+    <segment id="111">, a depender do tamanho da empresa.</segment>
+    <segment id="112">Na conversa</segment>
+    <segment id="113">, ela deve mostrar quanto vem desenvolvendo suas competências</segment>
+    <segment id="114">, assim</segment>
+    <segment id="115">comocomo seus resultados</segment>
+    <segment id="116">, justificando um aumento salarial.</segment>
+    <segment id="117">Neste momento</segment>
+    <segment id="118">, é possível expor o sentimento de frustração e injustiça diante da diferença.</segment>
+    <segment id="119">Caso não resolva</segment>
+    <segment id="120">, pode-</segment>
+    <segment id="121">sese levar a situação para a ouvidoria da empresa</segment>
+    <segment id="122">, sese houver</segment>
+    <segment id="123">, ou buscar a Justiça do Trabalho.</segment>
+    <segment id="124">Nilda Couto</segment>
+    <segment id="125">, consultora de RH</segment>
+    <segment id="126">, observa que a trabalhadora deve avaliar</segment>
+    <segment id="127">sese vale a pena estar numa instituição que já tem esta cultura de desigualdade de gênero e</segment>
+    <segment id="128">sese entrar com uma ação trabalhista pode ajudar a impedir que outros casos de disparidade salarial</segment>
+    <segment id="129">sese repitam no futuro.</segment>
+    <segment id="130">"</segment>
+    <segment id="131">É possível trabalhar sua empregabilidade</segment>
+    <segment id="132">, sua formação e competências</segment>
+    <segment id="133">, e buscar uma empresa que valoriza seu trabalho"</segment>
+    <segment id="134">, diz Couto.</segment>
+    <segment id="135">O que diz a legislação</segment>
+    <segment id="136">A igualdade salarial entre homens e mulheres é garantida no Brasil desde o surgimento da CLT (Consolidação das Leis do Trabalho)</segment>
+    <segment id="137">, em 1943.</segment>
+    <segment id="138">Outras leis</segment>
+    <segment id="139">, inclusive internacionais</segment>
+    <segment id="140">, vedam a discriminação no ambiente de trabalho</segment>
+    <segment id="141">, impondo multas pesadas ao empregador.</segment>
+    <segment id="142">"</segment>
+    <segment id="143">Essa vedação</segment>
+    <segment id="144">sese aplica para qualquer cargo</segment>
+    <segment id="145">, desde que</segment>
+    <segment id="146">sese verifique que os profissionais exercem as mesmas atividades para um mesmo empregador</segment>
+    <segment id="147">, inclusive em cargos de confiança"</segment>
+    <segment id="148">, lembra a advogada Daniele Slivinski</segment>
+    <segment id="149">, especialista em direito do trabalho.</segment>
+    <segment id="150">No entanto</segment>
+    <segment id="151">, como</segment>
+    <segment id="152">como o salário é sigiloso</segment>
+    <segment id="153">, é difícil a mulher conseguir provas sobre as diferenças salariais.</segment>
+    <segment id="154">"</segment>
+    <segment id="155">O meio mais seguro é requerer judicialmente que a empresa junte os holerites para comprovar essa diferença"</segment>
+    <segment id="156">, diz a advogada.</segment>
+    <segment id="157">Para ajuizar a ação</segment>
+    <segment id="158">, o sindicato da categoria pode ajudar</segment>
+    <segment id="159">, com assistência judiciária gratuita.</segment>
+    <segment id="160">Testemunhas também serão importantes.</segment>
+    <segment id="161">A contestação pode ser feita com o contrato de trabalho ativo ou encerrado</segment>
+    <segment id="162">, "o que é mais comum"</segment>
+    <segment id="163">, ressalta.</segment>
+    <segment id="164">Slivinski explica que</segment>
+    <segment id="165">, em caso</segment>
+    <segment id="166">caso de vitória na Justiça</segment>
+    <segment id="167">, a mulher pode receber as diferenças salariais e uma compensação por danos morais.</segment>
+    <segment id="168">Além disso</segment>
+    <segment id="169">, a empresa pode arcar com multa administrativa</segment>
+    <segment id="170">, ao órgão público</segment>
+    <segment id="171">, no valor equivalente a dez vezes do novo salário.</segment>
+    <segment id="172">Caso a ação seja desfavorável</segment>
+    <segment id="173">, a empregada terá que arcar com os honorários do advogado da empresa.</segment>
+    <segment id="174">A advogada observa ser comum em ações trabalhistas o pedido de equiparação salarial</segment>
+    <segment id="175">, especialmente em cargos de gestão.</segment>
+    <segment id="176">"</segment>
+    <segment id="177">Porém, não é tão comum o pedido de equiparação embasado na discriminação por gênero.</segment>
+    <segment id="178">"</segment>
+    <segment id="179">Como parte da iniciativa Todas</segment>
+    <segment id="180">, a Folha presenteia mulheres com dois meses de assinatura digital grátis</segment>
+  </rst>
+</analysis>

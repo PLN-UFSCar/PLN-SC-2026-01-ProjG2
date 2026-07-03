@@ -1,0 +1,120 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Uma vacina em forma de spray nasal de fácil aplicação</segment>
+    <segment id="2">, baixo custo</segment>
+    <segment id="3">, proteção duradoura inclusive contra variantes e capaz de bloquear a ação do novo coronavírus ainda no nariz</segment>
+    <segment id="4">, onde começam as infecções.</segment>
+    <segment id="5">Esse é o objetivo de um projeto que está sendo desenvolvido por um grupo de pesquisadores da Universidade de São Paulo (USP)</segment>
+    <segment id="6">, em parceria com a Universidade Federal de São Paulo (Unifesp) e a Fundação Oswaldo Cruz (Fiocruz).</segment>
+    <segment id="7">O novo imunizante</segment>
+    <segment id="8">, ainda em fases iniciais de estudo</segment>
+    <segment id="9">, foi apresentado na segunda-feira (30) durante o Ciclo ILP-FAPESP de Ciência e Inovação.</segment>
+    <segment id="10">O evento</segment>
+    <segment id="11">, uma parceria entre a Fapesp e o Instituto do Legislativo Paulista (ILP)</segment>
+    <segment id="12">, está disponível na íntegra no YouTube.</segment>
+    <segment id="13">Pessoa faz teste nasal para o novo coronavírus na França - Sebastien Salom-Gomi/AFP“Uma das vantagens da imunização nasal é que ela gera uma imunidade local no nariz</segment>
+    <segment id="14">, na orofaringe [parte da garganta logo atrás da boca] e nos pulmões.</segment>
+    <segment id="15">É exatamente o ‘território’ ideal para impedir a consolidação de uma infecção pelo Sars-CoV-2.</segment>
+    <segment id="16">Vacinas injetáveis são muito boas para induzir imunidade sistêmica e também nos pulmões</segment>
+    <segment id="17">, masmas não são especialmente boas para gerar uma resposta protetora na região nasal e orofaringe”</segment>
+    <segment id="18">, explicou Edécio Cunha Neto</segment>
+    <segment id="19">, professor da Faculdade de Medicina (FM-USP) e pesquisador do Laboratório de Imunologia do Instituto do Coração (InCor).</segment>
+    <segment id="20">O projeto</segment>
+    <segment id="21">, do qual ele é um dos pesquisadores principais</segment>
+    <segment id="22">, tem apoio da Fapesp e é coordenado por Jorge Elias Kalil Filho</segment>
+    <segment id="23">, professor da FM-USP e chefe do Laboratório de Imunologia Clínica e Alergia do Hospital das Clínicas (HC-FM-USP).</segment>
+    <segment id="24">Vacinas pelo mundo e a aplicação no Brasil   novamente         de   de  de  representando um  “</segment>
+    <segment id="25">As vacinas que existem hoje são excelentes</segment>
+    <segment id="26">, desenvolvidas em tempo recorde</segment>
+    <segment id="27">, masmas agora precisamos de um imunizante de segunda geração capaz de contornar problemas que apareceram no decorrer da imunização [escape imune ou efeitos adversos</segment>
+    <segment id="28">, por exemplo] e servir</segment>
+    <segment id="29">comocomo reforço às injetáveis”</segment>
+    <segment id="30">, disse Cunha Neto.</segment>
+    <segment id="31">Segundo o pesquisador</segment>
+    <segment id="32">, o objetivo é criar uma vacina que gere anticorpos neutralizantes duradouros e também estimule de forma robusta a imunidade celular — aquela mediada pelos linfócitos</segment>
+    <segment id="33">T, que reconhecem o patógeno e destroem células infectadas.</segment>
+    <segment id="34">Além disso</segment>
+    <segment id="35">, a nova vacina deve proteger contra variantes de preocupação.</segment>
+    <segment id="36">Para isso</segment>
+    <segment id="37">, os pesquisadores estão desenvolvendo um antígeno que pode conter a região da proteína</segment>
+    <segment id="38">S (spike</segment>
+    <segment id="39">, presente na superfície do vírus) que</segment>
+    <segment id="40">sese liga às células humanas (RBD) de três ou quatro variantes ao mesmo tempo.</segment>
+    <segment id="41">O antígeno vai conter ainda pedaços de proteínas que estimulem a resposta celular</segment>
+    <segment id="42">, mais duradoura do que aquela mediada pelos anticorpos neutralizantes.</segment>
+    <segment id="43">Por isso</segment>
+    <segment id="44">, deve incluir os chamados linfócitos T CD8+ citotóxicos</segment>
+    <segment id="45">, que matam células infectadas</segment>
+    <segment id="46">, e os linfócitos T CD4+</segment>
+    <segment id="47">, que ajudam na produção de anticorpos e nas respostas citotóxicas.</segment>
+    <segment id="48">Atualmente</segment>
+    <segment id="49">, a equipe está testando 25 combinações diferentes de proteínas</segment>
+    <segment id="50">, que serão encapsuladas em nanopartículas de cerâmica recobertas com um polímero para garantir a adesão do imunizante ao ambiente nasal.</segment>
+    <segment id="51">Testes preliminares com duas doses de protótipos do antígeno levaram à geração de altas quantidades de anticorpos neutralizantes em camundongos.</segment>
+    <segment id="52">Cunha Neto ressalta que o produto esperado deverá ainda ser estável em temperatura ambiente</segment>
+    <segment id="53">, além de seguro</segment>
+    <segment id="54">, com baixo custo e domínio de todo o processo de fabricação no país.</segment>
+    <segment id="55">A expectativa é que os testes clínicos sejam realizados em 2022.</segment>
+    <segment id="56">Vigilância genômica  Para saber quais variantes devem ser alvos de uma vacina</segment>
+    <segment id="57">, é essencial saber quais as cepas mais presentes no país.</segment>
+    <segment id="58">Para isso</segment>
+    <segment id="59">, alguns grupos realizam no Brasil a chamada vigilância genômica.</segment>
+    <segment id="60">O trabalho consiste em sequenciar o genoma das variantes em circulação para determinar as que são mais preocupantes em termos epidemiológicos.</segment>
+    <segment id="61">Em uma parceria com a Prefeitura de São Paulo</segment>
+    <segment id="62">, o Centro Conjunto Brasil-Reino Unido para Descoberta</segment>
+    <segment id="63">, Diagnóstico</segment>
+    <segment id="64">, Genômica e Epidemiologia de Arbovírus (CADDE)</segment>
+    <segment id="65">, apoiado pela Fapesp</segment>
+    <segment id="66">, está monitorando a prevalência da variante delta do Sars-CoV-2 no município.</segment>
+    <segment id="67">“No início</segment>
+    <segment id="68">, a proporção dessa cepa era de 2%</segment>
+    <segment id="69">, masmas ela vem subindo sistematicamente e</segment>
+    <segment id="70">sese espalhando em vários pontos da cidade de São Paulo.</segment>
+    <segment id="71">Hoje estamos em torno de 33%.</segment>
+    <segment id="72">Infelizmente</segment>
+    <segment id="73">, a delta vai predominar nas próximas semanas”</segment>
+    <segment id="74">, disse Ester Sabino</segment>
+    <segment id="75">, professora da FM-USP e pesquisadora do Instituto de Medicina Tropical (IMT-USP).</segment>
+    <segment id="76">O que se</segment>
+    <segment id="77">se sabe sobre a variante delta   novamente         de   de  de  representando um</segment>
+    <segment id="78">Outro palestrante foi Fernando Spilki</segment>
+    <segment id="79">, pró-reitor de pesquisa da Universidade Feevale e coordenador da Rede Corona-Ômica do Ministério da Ciência</segment>
+    <segment id="80">, Tecnologia e Inovações (MCTI)</segment>
+    <segment id="81">, criada em 2020 para liderar os esforços de vigilância genômica no país.</segment>
+    <segment id="82">Entre outros assuntos</segment>
+    <segment id="83">, o pesquisador falou dos esforços para integrar dados de todo o território nacional.  Sandra Vessoni</segment>
+    <segment id="84">, diretora do Centro de Desenvolvimento Científico do Instituto Butantan e coordenadora da Rede de Alertas das Variantes do Sars-CoV-2 do Estado de São Paulo</segment>
+    <segment id="85">, falou sobre o monitoramento</segment>
+    <segment id="86">, diagnóstico e a definição da estratégia vacinal realizados pela instituição.  Paola Cristina Resende Silva</segment>
+    <segment id="87">, pesquisadora do Laboratório de Vírus Respiratórios e do Sarampo do Instituto Oswaldo Cruz/Fiocruz</segment>
+    <segment id="88">, coordenadora da equipe de curadoria da plataforma de dados GISAID no Brasil</segment>
+    <segment id="89">, explicou</segment>
+    <segment id="90">comocomo é realizado o trabalho no repositório</segment>
+    <segment id="91">, que reúne dados de sequenciamento de variantes do mundo todo.</segment>
+    <segment id="92">O encontro teve</segment>
+    <segment id="93">comocomo mediador Carlos Américo Pacheco</segment>
+    <segment id="94">, diretor-presidente do Conselho Técnico-Administrativo da Fapesp.</segment>
+  </rst>
+</analysis>

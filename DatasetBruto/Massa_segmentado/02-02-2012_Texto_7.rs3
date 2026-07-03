@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Jonas diz que Bieber é gay</segment>
+    <segment id="2">Bocão sem noção!</segment>
+    <segment id="3">Jonas disse que cantor americano é biba e os fãs ficaram tristes</segment>
+    <segment id="4">Tudo o que os brothers falam no BBB ganham grandes repercussões do lado de fora da casa.</segment>
+    <segment id="5">Mas parece que eles não conseguem controlar a boca e falam sem pensar nas consequências!</segment>
+    <segment id="6">Ontem, Jonas  comentou com Renata que o cantor americano Justin Bieber deveria ser chamado de “Justin Biba”</segment>
+    <segment id="7">, afirmando que o artista é gay.</segment>
+    <segment id="8">Os fãs de Justin ficaram bem irritados com o brother!</segment>
+    <segment id="9">No Twitter</segment>
+    <segment id="10">, rolou uma comoção para eliminar Jonas na primeira oportunidade.</segment>
+    <segment id="11">O  termo #JONASBIBAFORA chegou a ficar entre os tópicos mais comentados na rede social.</segment>
+  </rst>
+</analysis>

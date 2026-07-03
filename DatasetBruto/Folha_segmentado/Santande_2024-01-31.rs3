@@ -1,0 +1,146 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Santander Brasil teve um lucro líquido recorrente de R$ 9</segment>
+    <segment id="2">,383 bilhões em 2023</segment>
+    <segment id="3">, uma queda de 27</segment>
+    <segment id="4">,7% em relação a 2022</segment>
+    <segment id="5">, informou o banco nesta quarta-feira (31).</segment>
+    <segment id="6">No quarto trimestre do ano</segment>
+    <segment id="7">, o lucro desacelerou para R$ 2</segment>
+    <segment id="8">,2 bilhões</segment>
+    <segment id="9">, ante R$ 2</segment>
+    <segment id="10">,7 bilhões do terceiro trimestre de 2023.</segment>
+    <segment id="11">O resultado veio abaixo do esperado.</segment>
+    <segment id="12">Previsões compiladas pela LSEG apontavam lucro de R$ 2</segment>
+    <segment id="13">,87 bilhões.</segment>
+    <segment id="14">No quarto trimestre de 2023</segment>
+    <segment id="15">, o lucro do Santander desacelerou para R$ 2</segment>
+    <segment id="16">,2 bilhões</segment>
+    <segment id="17">, ante R$ 2</segment>
+    <segment id="18">,7 bilhões do trimestre anterior.  - Edgard Garrido/REUTERSO ROAE (retorno sobre o patrimônio líquido</segment>
+    <segment id="19">, indicador que mede a rentabilidade da operação) de 2023 foi de 11</segment>
+    <segment id="20">,8%, ante 16</segment>
+    <segment id="21">,3% de 2022.</segment>
+    <segment id="22">Entre 2019 e 2021</segment>
+    <segment id="23">, durante a presidência de Sergio Rial</segment>
+    <segment id="24">, a rentabilidade do banco ficou acima de 21%.  "</segment>
+    <segment id="25">Na direção para onde estamos levando o banco</segment>
+    <segment id="26">, buscamos</segment>
+    <segment id="27">ROAEs mais altos ao longo dos anos.</segment>
+    <segment id="28">Não é impossível atingir isso [20%] de novo</segment>
+    <segment id="29">, masmas temos que ir passo a passo.</segment>
+    <segment id="30">Primeiro vamos buscar os 15%.</segment>
+    <segment id="31">20% será passo final"</segment>
+    <segment id="32">, afirmou o atual presidente Mário Leão</segment>
+    <segment id="33">, em entrevista para comentar o balanço.</segment>
+    <segment id="34">A piora no resultado</segment>
+    <segment id="35">sese deve ao aumento de 7</segment>
+    <segment id="36">,7% na provisão contra calotes</segment>
+    <segment id="37">, para R$ 29 bilhões</segment>
+    <segment id="38">, e ao prejuízo de R$ 3</segment>
+    <segment id="39">,1 bilhões na margem financeira com o mercado.</segment>
+    <segment id="40">Uma parte do aumento no PDD (provisão para devedores duvidosos)</segment>
+    <segment id="41">sese deve a Americanas</segment>
+    <segment id="42">, da qual o banco é credor e</segment>
+    <segment id="43">, segundo analistas</segment>
+    <segment id="44">, não tem 100% dos valores a receber provisionados.</segment>
+    <segment id="45">Outro fator que pesou sobre o banco é a nova estratégia de crescimento seletivo</segment>
+    <segment id="46">, com foco em linhas de crédito mais saudáveis</segment>
+    <segment id="47">, masmas não necessariamente mais rentáveis.</segment>
+    <segment id="48">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="49">; aberta para não assinantes.</segment>
+    <segment id="50">Carregando..."Estamos construindo um portfólio sólido</segment>
+    <segment id="51">, duradouro e com capacidade de gerar resultados sustentáveis"</segment>
+    <segment id="52">, escreveu o CEO Leão no balanço.</segment>
+    <segment id="53">A mudança aparece na manutenção dos níveis de inadimplência em todos os seguimentos do banco em relação a 2022</segment>
+    <segment id="54">, a 3,1%.</segment>
+    <segment id="55">A carteira de crédito do banco terminou o ano passado em R$ 516</segment>
+    <segment id="56">,6 bilhões</segment>
+    <segment id="57">, 5,5% maior que em 2022.</segment>
+    <segment id="58">Considerando títulos privados</segment>
+    <segment id="59">, avais e fianças</segment>
+    <segment id="60">, o crescimento foi maior</segment>
+    <segment id="61">, de 9</segment>
+    <segment id="62">,0%, para R$ 643 bilhões.</segment>
+    <segment id="63">O crédito para o agronegócio foi a que mais cresceu na comparação anual</segment>
+    <segment id="64">, com um salto de 42%</segment>
+    <segment id="65">, para R$ 43</segment>
+    <segment id="66">,7 bilhões.</segment>
+    <segment id="67">"</segment>
+    <segment id="68">A carteira] de crédito vai continuar crescendo de forma consistente e pulverizada.</segment>
+    <segment id="69">Não vamos nos arrepender de crescer de forma rápida e errada"</segment>
+    <segment id="70">, disse Leão a jornalistas para comentar o balanço.</segment>
+    <segment id="71">Um ponto a melhorar</segment>
+    <segment id="72">, destacou o executivo</segment>
+    <segment id="73">, é a operação com o varejo massificado</segment>
+    <segment id="74">, que hoje não é rentável.</segment>
+    <segment id="75">Para isso</segment>
+    <segment id="76">, o banco foca a redução de custos</segment>
+    <segment id="77">, ofertando menos produtos.</segment>
+    <segment id="78">De cerca de 300 linhas de cartões de crédito</segment>
+    <segment id="79">, o Santander já reduziu a oferta para cerca de 100.</segment>
+    <segment id="80">"</segment>
+    <segment id="81">Menos é mais"</segment>
+    <segment id="82">, resume Leão.</segment>
+    <segment id="83">Já o varejo de alta renda gera cinco vezes mais receita que o massificado.</segment>
+    <segment id="84">Em 2023</segment>
+    <segment id="85">, o banco atingiu 1</segment>
+    <segment id="86">,2 milhões de clientes (crescimento anual de 51%)</segment>
+    <segment id="87">, o que representa 27% da carteira de crédito do varejo pessoa física</segment>
+    <segment id="88">, que soma R$ 240 bilhões.</segment>
+    <segment id="89">No pregão desta quarta</segment>
+    <segment id="90">, os papéis do Santander na Bolsa de Valores brasileira fecharam em queda 1</segment>
+    <segment id="91">,88%, a R$ 28</segment>
+    <segment id="92">,65 cada um.  Rafael Reis</segment>
+    <segment id="93">, analista do BB Investimentos vê espaço para o Santander</segment>
+    <segment id="94">sese recuperar</segment>
+    <segment id="95">, à medida que custos de captação caiam</segment>
+    <segment id="96">, masmas segue em dúvida</segment>
+    <segment id="97">sese o banco vai conseguir reduzir as despesas.  "</segment>
+    <segment id="98">Nesse momento optamos pela manutenção do benefício da dúvida</segment>
+    <segment id="99">, imaginando que a piora marginal da inadimplência seja passageira</segment>
+    <segment id="100">, já que</segment>
+    <segment id="101">sese dá após o estabelecimento de um mix de crédito mais conservador</segment>
+    <segment id="102">, e ainda em oposição ao esperado pelo setor</segment>
+    <segment id="103">comocomo um todo"</segment>
+    <segment id="104">, escreveu Reis.</segment>
+    <segment id="105">O banco é um dos poucos que recomenda a compra do papel</segment>
+    <segment id="106">, com preço-alvo em R$ 33</segment>
+    <segment id="107">,80 para o final de 2024.</segment>
+    <segment id="108">"Estamos diante de um dos maiores potenciais do nosso universo de cobertura.</segment>
+    <segment id="109">"    RAIO-X | SANTANDER</segment>
+    <segment id="110">BRASIL</segment>
+    <segment id="111">EM 2023  Clientes: 66 milhões  Funcionários: 55.611  Lucro líquido: R$ 2</segment>
+    <segment id="112">,729 bilhões  ROE: 11</segment>
+    <segment id="113">,8%  Agências e pontos de atendimento: 2</segment>
+    <segment id="114">,7 mil  Fundação: em atividade no mercado local desde 1982</segment>
+    <segment id="115">Principais concorrentes: Itaú Unibanco</segment>
+    <segment id="116">, Bradesco</segment>
+    <segment id="117">, Banco do Brasil</segment>
+    <segment id="118">, Caixa  Saiba</segment>
+    <segment id="119">comocomo renegociar uma dívida pelo DesenrolaMais    novamente         de   de  de  representando um</segment>
+    <segment id="120">Com informações da Reuters</segment>
+  </rst>
+</analysis>

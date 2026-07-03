@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A disputa com ela é pesada</segment>
+    <segment id="2">Solteirinha em Salvador</segment>
+    <segment id="3">, ela adora uma balada</segment>
+    <segment id="4">Aglaupe</segment>
+    <segment id="5">Sé está doidinha para vencer o Concurso Garota do Tempo</segment>
+    <segment id="6">, do jornal MASSA!.</segment>
+    <segment id="7">E atributos não faltam!</segment>
+    <segment id="8">Se faturar o prêmio</segment>
+    <segment id="9">, ela promete fazer uma viagem inesquecível.</segment>
+    <segment id="10">Chamada de Loura pelos “chegados”</segment>
+    <segment id="11">, a belezura de 20 aninhos trabalha com eventos e está no quarto ano do curso de Psicologia.</segment>
+    <segment id="12">Solteirinha em Salvador</segment>
+    <segment id="13">, ela adora uma balada com as amigas.</segment>
+  </rst>
+</analysis>

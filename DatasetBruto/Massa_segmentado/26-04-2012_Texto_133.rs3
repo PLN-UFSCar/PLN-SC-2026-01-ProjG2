@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O traficante que adorava cobras
+Bicho de estimação.</segment>
+    <segment id="2">A cobra que Mineiro criava foi levada para o Ibama
+Investigadores da 20ª Delegacia Territorial (Candeias)</segment>
+    <segment id="3">sese surpreenderam ao entrar na casa do traficante Douglas Dias de Aguilar</segment>
+    <segment id="4">, o Mineiro</segment>
+    <segment id="5">,  27 anos.</segment>
+    <segment id="6">Além de encontrar dois revólveres calibre 38</segment>
+    <segment id="7">, muita munição</segment>
+    <segment id="8">, um colete balístico</segment>
+    <segment id="9">, certa quantidade de maconha e cocaína</segment>
+    <segment id="10">, os policiais encontraram uma cobra jiboia.</segment>
+    <segment id="11">“</segment>
+    <segment id="12">Tem pessoas que gostam de criar gatos</segment>
+    <segment id="13">, cachorros e outros bichinhos domésticos.</segment>
+    <segment id="14">Eu crio uma cobra”</segment>
+    <segment id="15">, disse Mineiro.</segment>
+    <segment id="16">Ele já responde pelos crimes de homicídio e porte ilegal de arma em Minas Gerais.</segment>
+    <segment id="17">Mineiro estava em liberdade provisória e há oito meses morava em Candeias.</segment>
+  </rst>
+</analysis>

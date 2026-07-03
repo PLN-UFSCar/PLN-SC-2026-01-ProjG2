@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Foto com grana na casa de Nem Gorda
+“Amor</segment>
+    <segment id="2">, casa comigo”</segment>
+    <segment id="3">, escrito com dinheiro</segment>
+    <segment id="4">Na residência do casal Maria Lúcia dos Santos Gomes</segment>
+    <segment id="5">, 36, a Nem Gorda</segment>
+    <segment id="6">, e Alex Brito das Neves</segment>
+    <segment id="7">, 21, o Grilinho</segment>
+    <segment id="8">, a polícia achou uma foto com um pedido de casamento escrito com notas de R$ 50 e R$ 100.</segment>
+    <segment id="9">Segundo a polícia</segment>
+    <segment id="10">, Nem Gorda</segment>
+    <segment id="11">, cheia de amor para dar</segment>
+    <segment id="12">, planejava oferecer a foto a Grilinho.</segment>
+    <segment id="13">A imagem é facilmente encontrada na internet</segment>
+    <segment id="14">, masmas não</segment>
+    <segment id="15">sese sabe a origem.</segment>
+    <segment id="16">O advogado Antônio Santos falou das acusações contra os clientes.</segment>
+    <segment id="17">“Quem tem boca fala o que quer</segment>
+    <segment id="18">, o papel aceita tudo.</segment>
+    <segment id="19">Só quem tem o poder de julgar é o Judiciário”.</segment>
+  </rst>
+</analysis>

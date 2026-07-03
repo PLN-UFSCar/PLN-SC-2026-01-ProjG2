@@ -1,0 +1,113 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Há dez anos</segment>
+    <segment id="2">, o Brasil</segment>
+    <segment id="3">sese consolidou</segment>
+    <segment id="4">comocomo destaque internacional em direitos digitais ao aprovar o Marco Civil da Internet</segment>
+    <segment id="5">, lei que define o modelo de rede que temos hoje.</segment>
+    <segment id="6">Como relator do projeto na Câmara dos Deputados</segment>
+    <segment id="7">, vivenciei intensos debates em torno de seus pilares: liberdade de expressão</segment>
+    <segment id="8">, direitos individuais no mundo digital e neutralidade da rede.</segment>
+    <segment id="9">Agora, temos a oportunidade de reforçar o compromisso do Brasil com a internet aberta a partir de um processo democrático.</segment>
+    <segment id="10">Em 15 de janeiro</segment>
+    <segment id="11">, a Anatel (Agência Nacional de Telecomunicações) abriu nova consulta para discutir</segment>
+    <segment id="12">, entre outros temas</segment>
+    <segment id="13">, a possível criação de uma cobrança extra pelo uso da infraestrutura de internet</segment>
+    <segment id="14">, conhecida</segment>
+    <segment id="15">comocomo "network fee"</segment>
+    <segment id="16">, ou taxa de rede.</segment>
+    <segment id="17">Senadores e membros da sociedade civil comemoram aprovação do Marco Civil da Internet após votação no Senado - Joel Rodrigues - 22.abr.14/Folhapress - FolhapressA ideia não é nova e acumula reveses.</segment>
+    <segment id="18">Na Europa</segment>
+    <segment id="19">, mais de 400 organizações</segment>
+    <segment id="20">sese manifestaram contrariamente à medida numa ampla consulta pública.</segment>
+    <segment id="21">Em novembro</segment>
+    <segment id="22">, a Bélgica rejeitou a proposta de vez.</segment>
+    <segment id="23">Na Coreia do Sul</segment>
+    <segment id="24">, único país em que a cobrança foi de alguma forma implantada</segment>
+    <segment id="25">, os resultados são desastrosos:</segment>
+    <segment id="26">o preço da conexão subiu</segment>
+    <segment id="27">, a qualidade caiu e empresas anunciaram a saída do país.</segment>
+    <segment id="28">Mas, se</segment>
+    <segment id="29">se a ideia é tão ruim</segment>
+    <segment id="30">, por que cogitá-la no Brasil?</segment>
+    <segment id="31">A taxa é defendida apenas por algumas gigantes das telecomunicações</segment>
+    <segment id="32">, que se</segment>
+    <segment id="33">se beneficiariam economicamente.</segment>
+    <segment id="34">Elas argumentam que provedores de conteúdo e aplicações</segment>
+    <segment id="35">, como</segment>
+    <segment id="36">como aplicativos</segment>
+    <segment id="37">, serviços de streaming</segment>
+    <segment id="38">, redes sociais armazenamento (cloud)</segment>
+    <segment id="39">, sobrecarregam a internet e</segment>
+    <segment id="40">, portanto</segment>
+    <segment id="41">, parte dos custos deveria ser repassada a eles.</segment>
+    <segment id="42">Entenda debate sobre a regulação das redes sociais no BrasilMais    novamente         de   de  de  representando um</segment>
+    <segment id="43">O argumento não</segment>
+    <segment id="44">sese sustenta.</segment>
+    <segment id="45">Faltam evidências de que o aumento de tráfego coloque em risco a infraestrutura</segment>
+    <segment id="46">, como</segment>
+    <segment id="47">como destacou recentemente o colegiado europeu de reguladores de telecomunicações.</segment>
+    <segment id="48">Os provedores de conteúdos e serviços</segment>
+    <segment id="49">, na verdade</segment>
+    <segment id="50">, contribuem para o modelo de negócios das teles.</segment>
+    <segment id="51">Afinal</segment>
+    <segment id="52">, os consumidores pagam pela conexão justamente para poder acessar o que a internet tem a oferecer —os conteúdos.</segment>
+    <segment id="53">E a conta não é baixa.</segment>
+    <segment id="54">Um brasileiro que ganha o salário mínimo precisa trabalhar 353 minutos (quase 6 horas) para ter acesso ao mais básico dos planos de banda larga —7 vezes mais que um trabalhador americano</segment>
+    <segment id="55">, segundo o estudo Digital Quality of Life</segment>
+    <segment id="56">, da empresa de cibersegurança Surfshark.</segment>
+    <segment id="57">A taxa de rede seria uma cobrança dupla por um mesmo serviço:</segment>
+    <segment id="58">primeiro cobra-</segment>
+    <segment id="59">sese o consumidor</segment>
+    <segment id="60">, depois os provedores de conteúdos e aplicações.</segment>
+    <segment id="61">Dicas de telefonia</segment>
+    <segment id="62">, internet e TV por assinaturaMais    novamente         de   de  de  representando um</segment>
+    <segment id="63">Os defensores da proposta argumentam que só grandes empresas de tecnologia sentiriam o impacto</segment>
+    <segment id="64">, o que tampouco é verdade.</segment>
+    <segment id="65">Em uma sociedade cada vez mais conectada</segment>
+    <segment id="66">, qualquer serviço intensivo em dados poderá ser obrigado a pagar a taxa —e eles estão por toda parte.  Tome-</segment>
+    <segment id="67">sese o exemplo do setor de medicina digital</segment>
+    <segment id="68">, que se</segment>
+    <segment id="69">se popularizou na pandemia e usa cada vez mais dados para o diagnóstico e tratamento de doenças.</segment>
+    <segment id="70">Ou serviços de educação a distância</segment>
+    <segment id="71">, que facilitam o acesso de milhões de brasileiros à capacitação.</segment>
+    <segment id="72">Estudantes da rede pública com dificuldade de acesso à internetMais    novamente         de   de  de  representando um</segment>
+    <segment id="73">O impacto da taxa seria generalizado</segment>
+    <segment id="74">, e o consumidor sofreria seus reflexos mesmo que indiretamente.</segment>
+    <segment id="75">Para além do efeito no bolso</segment>
+    <segment id="76">, a taxa de rede criaria uma internet dividida em classes</segment>
+    <segment id="77">, algo incompatível com a neutralidade da rede</segment>
+    <segment id="78">, uma conquista do Marco Civil da Internet.</segment>
+    <segment id="79">Num momento em que discutimos o avanço de tecnologias disruptivas</segment>
+    <segment id="80">, como</segment>
+    <segment id="81">como a inteligência artificial</segment>
+    <segment id="82">, o foco deveria estar em preparar a sociedade para prosperar num mundo mais digitalizado.</segment>
+    <segment id="83">Ao seguir o exemplo de países desenvolvidos e</segment>
+    <segment id="84">sese afastar da ideia de criar uma nova taxa</segment>
+    <segment id="85">, o Brasil tem a chance de continuar garantindo uma internet aberta e livre para todos.  TENDÊNCIAS / DEBATES</segment>
+    <segment id="86">Os artigos publicados com assinatura não traduzem a opinião do jornal.</segment>
+    <segment id="87">Sua publicação obedece ao propósito de estimular o debate dos problemas brasileiros e mundiais e de refletir as diversas tendências do pensamento contemporâneo.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,113 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Salário caiu 1</segment>
+    <segment id="2">,2% em abril</segment>
+    <segment id="3">, a 1ª queda desde setembro
+RIO - A taxa de desemprego voltou a cair em abril</segment>
+    <segment id="4">, para 6%</segment>
+    <segment id="5">, após um primeiro trimestre de ascensão.</segment>
+    <segment id="6">Diminuiu para o menor nível no mês desde 2002</segment>
+    <segment id="7">, segundo pesquisa do IBGE divulgada nesta quinta-feira.</segment>
+    <segment id="8">Mas a renda média real encolheu 1</segment>
+    <segment id="9">,2% no mês</segment>
+    <segment id="10">, para R$ 1.719</segment>
+    <segment id="11">,50, por efeito da desaceleração da economia.</segment>
+    <segment id="12">Foi a primeira queda desde setembro do ano passado quando tinha recuado 1</segment>
+    <segment id="13">,8%.</segment>
+    <segment id="14">O único setor que sofreu diminuição relevante na mão de obra empregada foi a indústria</segment>
+    <segment id="15">, com recuo de 1</segment>
+    <segment id="16">,6%, para 3</segment>
+    <segment id="17">,7 milhões de pessoas.</segment>
+    <segment id="18">Houve ligeira queda no total de trabalhadores do comércio</segment>
+    <segment id="19">, para 4</segment>
+    <segment id="20">,2 milhões de pessoas.</segment>
+    <segment id="21">Mas, nas seis regiões metropolitanas pesquisadas pelo IBGE</segment>
+    <segment id="22">, a população ocupada cresceu 0</segment>
+    <segment id="23">,3% e somou 22</segment>
+    <segment id="24">,7 milhões de pessoas.</segment>
+    <segment id="25">A quantidade de desempregados diminuiu por consequência</segment>
+    <segment id="26">, para 1</segment>
+    <segment id="27">,5 milhão de pessoas no mês</segment>
+    <segment id="28">, queda de 2</segment>
+    <segment id="29">,5% ante março.</segment>
+    <segment id="30">Cimar Azeredo</segment>
+    <segment id="31">, gerente da Coordenação de Trabalho e Rendimento do IBGE</segment>
+    <segment id="32">, avalia que a renda média diminuiu principalmente em reflexo da queda do salário na indústria e na construção civil.</segment>
+    <segment id="33">O rendimento médio encolheu 3</segment>
+    <segment id="34">,8% e 3</segment>
+    <segment id="35">,9% respectivamente nesses dois setores da economia</segment>
+    <segment id="36">, para R$ 1.768</segment>
+    <segment id="37">,20 e R$ 1.383</segment>
+    <segment id="38">,40.</segment>
+    <segment id="39">A redução foi mais acentuada nas regiões metropolitanas de Salvador e São Paulo</segment>
+    <segment id="40">, onde o salário médio na indústria caiu na sequência para R$ 1608</segment>
+    <segment id="41">,30 e R$ 1.846</segment>
+    <segment id="42">,80.
+
+- A construção está contratando gente para postos de trabalho com rendimento menor.</segment>
+    <segment id="43">Há uma tendência de redução na taxa de desemprego causada por um leve aumento na geração de postos de trabalho - diz Azeredo.</segment>
+    <segment id="44">Freio na indústria chegou ao mercado de trabalho</segment>
+    <segment id="45">O rendimento médio encolheu em todas as formas de contratação</segment>
+    <segment id="46">, até no mercado de trabalho informal.</segment>
+    <segment id="47">Só aumentou a renda de quem trabalha por conta própria</segment>
+    <segment id="48">, com avanço de 1</segment>
+    <segment id="49">,4%, para R$ 1.529</segment>
+    <segment id="50">,00 na média do país.</segment>
+    <segment id="51">No setor privado</segment>
+    <segment id="52">, a renda do empregado sem carteira retrocedeu 3</segment>
+    <segment id="53">,4%, para R$ 1.254</segment>
+    <segment id="54">,70.</segment>
+    <segment id="55">Com carteira assinada</segment>
+    <segment id="56">, também houve perdas</segment>
+    <segment id="57">, de 2</segment>
+    <segment id="58">,1%, para R$ 1.556.</segment>
+    <segment id="59">Para especialistas</segment>
+    <segment id="60">, o freio na indústria no início do ano só afetou o bolso do trabalhador em abril.</segment>
+    <segment id="61">O economista Celso Toledo</segment>
+    <segment id="62">, diretor de macroeconomia da LCA Consultores</segment>
+    <segment id="63">, lembra que a indústria habitualmente só começa a demitir e a contratar com salários menores depois de sofrer uma queda na produção.</segment>
+    <segment id="64">Por isso</segment>
+    <segment id="65">, a diminuição na renda média do trabalhador parece reflexo da desaceleração no primeiro trimestre deste ano.</segment>
+    <segment id="66">No período</segment>
+    <segment id="67">, a produção industrial diminuiu 0</segment>
+    <segment id="68">,5% e só cresceu brevemente de um mês para o outro em fevereiro.</segment>
+    <segment id="69">Em abril</segment>
+    <segment id="70">, houve a primeira retração no salário da indústria desde outubro de 2011</segment>
+    <segment id="71">, quando encolhera 0</segment>
+    <segment id="72">,2%.
+
+- Decisões de contratações ou demissões só são tomadas quando</segment>
+    <segment id="73">sese tem certeza que o vento mudou.</segment>
+    <segment id="74">A reação das empresas acontece com defasagem - diz Toledo.</segment>
+    <segment id="75">Para o economista</segment>
+    <segment id="76">, mesmo com a queda salarial</segment>
+    <segment id="77">, o mercado de trabalho continuou aquecido em abril</segment>
+    <segment id="78">, tanto que a taxa de desemprego caiu no mês.</segment>
+    <segment id="79">Esse cenário favorece que os preços de serviços continuem a subir acima da inflação.
+
+- Um mercado de trabalho forte sugere que o consumo não vai cair tanto quanto a produção.</segment>
+    <segment id="80">Mas o desemprego baixo indica que não há muito espaço para estimular a economia sem ter inflação.</segment>
+  </rst>
+</analysis>

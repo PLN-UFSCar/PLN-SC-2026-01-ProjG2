@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A cantora Taylor Swift anunciou o lançamento de um novo disco no palco do Grammy 2024.</segment>
+    <segment id="2">A artista venceu o prêmio de melhor álbum de pop vocal por "Midnights"</segment>
+    <segment id="3">, até então o seu trabalho mais recente.</segment>
+    <segment id="4">A cantora Taylor Swift no tapete vermelho do Grammy 2024 - Robyn Beck/AFPO disco é o 11° da carreira da cantora e</segment>
+    <segment id="5">sese chama "The Tortured Poets Department".</segment>
+    <segment id="6">Ele está previsto para sair oficialmente no próximo dia 19 de abril e</segment>
+    <segment id="7">, até o momento</segment>
+    <segment id="8">, não tem maiores detalhes sobre o repertório e suas participações oficiais.</segment>
+    <segment id="9">Segundo Taylor</segment>
+    <segment id="10">, o disco é desenvolvido já há dois anos por ela.</segment>
+    <segment id="11">A cantora também divulgou no Instagram a capa do álbum.</segment>
+    <segment id="12">Taylor Swift concorre ainda ao Grammy nesta noite.</segment>
+    <segment id="13">Entre as indicações</segment>
+    <segment id="14">, disputa o prêmio de álbum do ano por 'Midnights'.</segment>
+    <segment id="15">Veja os vencedores do Grammy 2024Mais    novamente         de   de  de  representando</segment>
+    <segment id="16">um</segment>
+  </rst>
+</analysis>

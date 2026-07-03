@@ -1,0 +1,54 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">São Gonçalo ganha Área Recreativa destinada a militares</segment>
+    <segment id="2">RIO - Cerca de 500 pessoas participaram</segment>
+    <segment id="3">, na manhã deste domingo</segment>
+    <segment id="4">, da inauguração da Área Recreativa de São Gonçalo do Abrigo do Marinheiro.</segment>
+    <segment id="5">O novo espaço</segment>
+    <segment id="6">, que fica no quilômetro 2 da Niterói-Manilha</segment>
+    <segment id="7">, tem 68 mil metros quadrados e é destinado a 60 mil Militares Praças</segment>
+    <segment id="8">, seus dependentes e civis assemelhados (que trabalham com os militares).</segment>
+    <segment id="9">Centros cultural e gastronômico</segment>
+    <segment id="10">, piscina</segment>
+    <segment id="11">, um bar com capacidade para 1.400 pessoas</segment>
+    <segment id="12">, campo de futebol</segment>
+    <segment id="13">, quadra de vôlei de areia</segment>
+    <segment id="14">, academia a céu aberto</segment>
+    <segment id="15">, dez churrasqueiras com área gourmet</segment>
+    <segment id="16">, deck para embarcações e um mirante para a Baía de Guanabara fazem parte das atrações do novo espaço.</segment>
+    <segment id="17">Ainda no local</segment>
+    <segment id="18">, um prédio com laboratórios de informática e robótica foi criado para desenvolver a formação integral de filhos de militares que participam dos projetos</segment>
+    <segment id="19">Adolescer e Pequenos Marinheiros.</segment>
+    <segment id="20">Durante a inauguração da área recreativa</segment>
+    <segment id="21">, a Igreja Nossa Senhora Aparecida</segment>
+    <segment id="22">, que fica no espaço</segment>
+    <segment id="23">, foi beatificada pelo chefe dos capelães navais</segment>
+    <segment id="24">, Padre Emanuel.</segment>
+    <segment id="25">O evento contou ainda com a presença do comandante da Marinha</segment>
+    <segment id="26">, o almirante Julio Soares de Moura Neto.</segment>
+    <segment id="27">A obra</segment>
+    <segment id="28">, que foi patrocinada por empresas particulares.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,247 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O jornal The Lancet</segment>
+    <segment id="2">, um dos periódicos científicos mais respeitados do mundo</segment>
+    <segment id="3">, anunciou em julho a criação de um comitê para estudar a solidão e o isolamento social.</segment>
+    <segment id="4">Num editorial sobre o tema</segment>
+    <segment id="5">, os responsáveis pela publicação destacaram</segment>
+    <segment id="6">comocomo esse incômodo ganhou protagonismo nos últimos anos —e</segment>
+    <segment id="7">sese mostra cada vez mais</segment>
+    <segment id="8">comocomo um fator negativo para a saúde do corpo e da mente.</segment>
+    <segment id="9">"</segment>
+    <segment id="10">Conexões sociais empobrecidas são associadas a um risco aumentado de doenças cardiovasculares</segment>
+    <segment id="11">, hipertensão</segment>
+    <segment id="12">, diabetes</segment>
+    <segment id="13">, infecções</segment>
+    <segment id="14">, declínio cognitivo</segment>
+    <segment id="15">, depressão e ansiedade"</segment>
+    <segment id="16">, listam os autores.</segment>
+    <segment id="17">Estar só pode ser bom ou ruim?</segment>
+    <segment id="18">Depende da frequência e da forma</segment>
+    <segment id="19">comocomo esse tempo é aproveitado   - Getty ImagesA ideia do comitê</segment>
+    <segment id="20">, que deve começar a</segment>
+    <segment id="21">sese debruçar sobre o tema em breve</segment>
+    <segment id="22">, está justamente em definir o que é a solidão</segment>
+    <segment id="23">, como</segment>
+    <segment id="24">como ela pode ser identificada e quais são as principais formas de combatê-la</segment>
+    <segment id="25">, segundo as melhores evidências científicas disponíveis.</segment>
+    <segment id="26">Mas essa é apenas uma entre diversas iniciativas relacionadas ao assunto que foram anunciadas nos últimos anos.</segment>
+    <segment id="27">Os governos de Reino Unido e Japão</segment>
+    <segment id="28">, por exemplo</segment>
+    <segment id="29">, criaram "</segment>
+    <segment id="30">Ministérios da Solidão" em 2018 e 2021</segment>
+    <segment id="31">, respectivamente.</segment>
+    <segment id="32">Já o médico Vivek Murthy</segment>
+    <segment id="33">, o atual US Surgeon General —uma das principais autoridades de saúde dos Estados Unidos—</segment>
+    <segment id="34">, declarou em maio deste ano que</segment>
+    <segment id="35">sese sentir só equivale a fumar 15 cigarros ao dia em termos de prejuízos à saúde.</segment>
+    <segment id="36">Mas por que a solidão ganhou tantos holofotes recentemente?  'É impossível ser feliz sozinho'  Uma das principais dificuldades quando pensamos no impacto da solidão está em definir exatamente o que é esse incômodo.  "</segment>
+    <segment id="37">O sentimento de solidão é uma experiência individual.</segment>
+    <segment id="38">Não basta estar isolado</segment>
+    <segment id="39">, afinal muitas pessoas que estão sozinhas não</segment>
+    <segment id="40">sese sentem necessariamente solitárias.</segment>
+    <segment id="41">E, na contramão</segment>
+    <segment id="42">, tem gente que está no meio de outros indivíduos</segment>
+    <segment id="43">, masmas isso não é garantia que elas</segment>
+    <segment id="44">sese sintam conectadas"</segment>
+    <segment id="45">, reflete o psiquiatra Lucas Spanemberg</segment>
+    <segment id="46">, pesquisador do Instituto do Cérebro da Pontifícia Universidade Católica do Rio Grande do Sul (PUC-RS).</segment>
+    <segment id="47">"</segment>
+    <segment id="48">A solidão é uma sensação de desconexão</segment>
+    <segment id="49">, de não pertencimento a um grupo social</segment>
+    <segment id="50">, que traz implicações emocionais e comportamentais —e isso está relacionado a uma série de desfechos negativos do ponto de vista da saúde mental e física"</segment>
+    <segment id="51">, complementa ele.</segment>
+    <segment id="52">Essa relação entre solidão e prejuízos ao corpo e à mente está bem documentada numa série de pesquisas.</segment>
+    <segment id="53">Uma delas</segment>
+    <segment id="54">, feita em 2010 na Universidade Brigham Young</segment>
+    <segment id="55">, dos Estados Unidos</segment>
+    <segment id="56">, revelou que indivíduos com relações sociais fortes têm 50% mais chance de sobreviver por mais tempo em comparação àqueles que interagem menos com o meio onde vivem.  E a necessidade de manter essa conexão está praticamente inscrita na origem de nossa espécie</segment>
+    <segment id="57">, como</segment>
+    <segment id="58">como explica Spanemberg.</segment>
+    <segment id="59">"</segment>
+    <segment id="60">Os seres humanos foram programados geneticamente para viver em sociedade e integrar grupos.</segment>
+    <segment id="61">Durante os primeiros anos de vida</segment>
+    <segment id="62">, somos muito frágeis e indefesos</segment>
+    <segment id="63">, portanto precisamos de um núcleo coeso capaz de proteger a prole"</segment>
+    <segment id="64">, diz o médico</segment>
+    <segment id="65">, que também atua no Hospital São Lucas</segment>
+    <segment id="66">, em Porto Alegre.</segment>
+    <segment id="67">"</segment>
+    <segment id="68">E essa coesão social forma famílias</segment>
+    <segment id="69">, grupos</segment>
+    <segment id="70">, sociedades</segment>
+    <segment id="71">, países...</segment>
+    <segment id="72">", lista ele.</segment>
+    <segment id="73">O especialista também chama a atenção para um acompanhamento de centenas de indivíduos realizado pela Universidade Harvard</segment>
+    <segment id="74">, nos EUA</segment>
+    <segment id="75">, há 80 anos.</segment>
+    <segment id="76">"</segment>
+    <segment id="77">Os autores desse levantamento observaram que o fator mais importante para sentir-</segment>
+    <segment id="78">sese feliz no final da vida não era sucesso financeiro</segment>
+    <segment id="79">, emprego dos sonhos</segment>
+    <segment id="80">, fama ou dinheiro</segment>
+    <segment id="81">, masmas</segment>
+    <segment id="82">, sim, coesão social"</segment>
+    <segment id="83">, diz Spanemberg.  "</segment>
+    <segment id="84">A grande variável associada à sensação de felicidade foi justamente ter relações importantes e significativas ao longo da vida"</segment>
+    <segment id="85">, completa ele.</segment>
+    <segment id="86">'Solidão é lava</segment>
+    <segment id="87">, que cobre tudo'  A enfermeira Juliana Teixeira Antunes</segment>
+    <segment id="88">, do Instituto Federal do Norte de Minas Gerais</segment>
+    <segment id="89">, em Januária</segment>
+    <segment id="90">, destaca que durante muito tempo a solidão esteve relacionada aos mais velhos</segment>
+    <segment id="91">, como</segment>
+    <segment id="92">como se</segment>
+    <segment id="93">se fosse um fenômeno que ocorresse apenas nessa faixa etária.</segment>
+    <segment id="94">De fato</segment>
+    <segment id="95">, os idosos podem</segment>
+    <segment id="96">sese sentir desconectados com maior frequência e geralmente apresentam mais dificuldade para</segment>
+    <segment id="97">sese adaptar e acompanhar as novidades.</segment>
+    <segment id="98">A morte de familiares e amigos da mesma geração deixa mais sozinho quem fica</segment>
+    <segment id="99">, explicam os profissionais de saúde ouvidos pela BBC News Brasil.</segment>
+    <segment id="100">"Mas hoje nós identificamos a solidão em qualquer fase da vida"</segment>
+    <segment id="101">,</segment>
+    <segment id="102">observa ela.</segment>
+    <segment id="103">Durante o trabalho de mestrado</segment>
+    <segment id="104">, Antunes decidiu estudar</segment>
+    <segment id="105">comocomo esse incômodo afeta os adolescentes brasileiros.</segment>
+    <segment id="106">"</segment>
+    <segment id="107">Esse é um momento de vida caracterizado pelo convívio social</segment>
+    <segment id="108">, pela criação de vínculos e de relações"</segment>
+    <segment id="109">, caracteriza a pesquisadora.</segment>
+    <segment id="110">"</segment>
+    <segment id="111">Mas, infelizmente</segment>
+    <segment id="112">, hoje em dia a solidão afeta um número considerável de jovens.</segment>
+    <segment id="113">"  No levantamento</segment>
+    <segment id="114">, que usou inquéritos epidemiológicos nacionais de 2015</segment>
+    <segment id="115">, 15,5% dos adolescentes entrevistados relataram que</segment>
+    <segment id="116">sese sentiam solitários "na maioria das vezes" ou "sempre".  "</segment>
+    <segment id="117">Um dos fatores que parece contribuir para esse cenário é a violência familiar</segment>
+    <segment id="118">, as agressões e o autoritarismo dos pais"</segment>
+    <segment id="119">, lista Antunes.  "</segment>
+    <segment id="120">Por outro lado</segment>
+    <segment id="121">, a prevalência de solidão era baixa entre os jovens que relataram hábitos mais constantes</segment>
+    <segment id="122">, como</segment>
+    <segment id="123">como fazer refeições em família com frequência</segment>
+    <segment id="124">, ou ter o apoio de pais que</segment>
+    <segment id="125">sese preocupam e conversam com eles"</segment>
+    <segment id="126">, detalha ela.</segment>
+    <segment id="127">Apesar de ser tradicionalmente vinculada aos mais velhos</segment>
+    <segment id="128">, solidão afeta qualquer faixa etária   - Getty Images'A solidão é fera</segment>
+    <segment id="129">, a solidão devora'</segment>
+    <segment id="130">Mas por que a solidão virou um assunto urgente de saúde pública nos últimos anos?</segment>
+    <segment id="131">Para a psicóloga clínica Dorli Kamkhagi</segment>
+    <segment id="132">, do Laboratório de Neurociências do Instituto de Psiquiatria da Universidade de São Paulo (IPq-USP)</segment>
+    <segment id="133">, há vários fatores que contribuem para este cenário.</segment>
+    <segment id="134">"</segment>
+    <segment id="135">Acabamos de sair de uma pandemia de Covid-19</segment>
+    <segment id="136">, em que havia a necessidade de isolamento social</segment>
+    <segment id="137">, por exemplo"</segment>
+    <segment id="138">, contextualiza.</segment>
+    <segment id="139">"Mas agora não estamos mais na crise sanitária e</segment>
+    <segment id="140">, mesmo assim</segment>
+    <segment id="141">, algumas pessoas não querem mais frequentar lugares ou fazer encontros presenciais.</segment>
+    <segment id="142">"  "</segment>
+    <segment id="143">Mas é totalmente diferente sentir o toque</segment>
+    <segment id="144">, ver as coisas</segment>
+    <segment id="145">, andar no parque...</segment>
+    <segment id="146">", reflete ela.</segment>
+    <segment id="147">Em outras palavras</segment>
+    <segment id="148">, a necessidade de ficar em casa para evitar o coronavírus fez com que muitos encontrassem nesse ambiente uma zona de conforto</segment>
+    <segment id="149">, da qual não querem sair agora.</segment>
+    <segment id="150">Antunes destaca que</segment>
+    <segment id="151">, aos poucos</segment>
+    <segment id="152">, a solidão gera outros sentimentos negativos.  "</segment>
+    <segment id="153">Com o passar do tempo</segment>
+    <segment id="154">, surge o medo</segment>
+    <segment id="155">, a angústia</segment>
+    <segment id="156">, o sofrimento...</segment>
+    <segment id="157">", diz.</segment>
+    <segment id="158">O editorial do The Lancet aponta que a solidão é "um produto de</segment>
+    <segment id="159">comocomo as sociedades e o mundo ao redor de nós estão organizados".</segment>
+    <segment id="160">Alguns autores chegam a citar que muitas cidades são construídas com base em "ambientes solitarizantes".  "</segment>
+    <segment id="161">Nosso ambiente físico</segment>
+    <segment id="162">, ditado pelo planejamento urbano</segment>
+    <segment id="163">, pode impedir a conexão social</segment>
+    <segment id="164">sese não permitir interações e engajamento"</segment>
+    <segment id="165">, diz o texto.</segment>
+    <segment id="166">Os autores ainda destacam outros ingredientes que contribuem para esse contexto.  "</segment>
+    <segment id="167">O uso de redes sociais</segment>
+    <segment id="168">, com as promessas de aproximar as pessoas</segment>
+    <segment id="169">, tem sido associado a um aumento da sensação de desconexão social"</segment>
+    <segment id="170">, lembram eles.</segment>
+    <segment id="171">"Austeridade</segment>
+    <segment id="172">, pobreza</segment>
+    <segment id="173">, racismo e xenofobia também causam desigualdade e sentimentos de exclusão.</segment>
+    <segment id="174">As tendências sociais para o individualismo</segment>
+    <segment id="175">, em detrimento do coletivismo e do sentimento de pertencimento</segment>
+    <segment id="176">, elevam o risco de experimentar sentimentos de solidão.</segment>
+    <segment id="177">"Seres humanos são geneticamente programados para viver em grupo</segment>
+    <segment id="178">, dizem especialistas   - Getty Images'Agora é hora de sair da cápsula'</segment>
+    <segment id="179">Mas será que é possível identificar a solidão e interferir antes que ela provoque prejuízos à saúde?</segment>
+    <segment id="180">Para Kamkhagi</segment>
+    <segment id="181">, o desafio está em saber diferenciar solitude (estar só voluntariamente) e solidão.</segment>
+    <segment id="182">"</segment>
+    <segment id="183">Reservar momentos para ficar sozinho é importante e saudável"</segment>
+    <segment id="184">, diz a psicóloga.</segment>
+    <segment id="185">"</segment>
+    <segment id="186">O problema é quando você fica o tempo todo desligado do resto do mundo e começa a desaprender os códigos e as condutas das relações sociais"</segment>
+    <segment id="187">, complementa ela.  "</segment>
+    <segment id="188">Na solidão</segment>
+    <segment id="189">, o isolamento não está mais a serviço de uma experiência de bem-estar</segment>
+    <segment id="190">, como</segment>
+    <segment id="191">como uma leitura ou o contato com a natureza</segment>
+    <segment id="192">, masmas passa a apresentar padrões prejudiciais</segment>
+    <segment id="193">, como</segment>
+    <segment id="194">como ficar apenas em casa</segment>
+    <segment id="195">, abusar de álcool e outras drogas e</segment>
+    <segment id="196">sese desconectar do restante da vida"</segment>
+    <segment id="197">, concorda Spanemberg.</segment>
+    <segment id="198">O psiquiatra acrescenta que a solidão geralmente acontece junto de descuidos com a própria saúde e a aparência</segment>
+    <segment id="199">, perda de autocuidado e irritabilidade nos momentos em que é necessário ter contato com o outro.</segment>
+    <segment id="200">Em alguns casos</segment>
+    <segment id="201">, a própria pessoa consegue identificar esses sinais de alarme —em outros</segment>
+    <segment id="202">, é necessário o auxílio de um familiar ou colega próximo</segment>
+    <segment id="203">, que pode observar padrões e prejuízos na vida da pessoa solitária.</segment>
+    <segment id="204">Diagnosticado o problema</segment>
+    <segment id="205">, é possível lançar mão de algumas intervenções e cuidados que previnem a evolução de um isolamento social voluntário para algo ainda mais grave</segment>
+    <segment id="206">, como</segment>
+    <segment id="207">como quadros de ansiedade e depressão.</segment>
+    <segment id="208">A solidão dos mais velhos isolados em asilos na pandemiaMais    novamente         de   de  de  representando um  "Pode ser necessário realizar uma avaliação ou um acompanhamento psicológico ou psiquiátrico"</segment>
+    <segment id="209">, sugere Spanemberg.</segment>
+    <segment id="210">Aos poucos</segment>
+    <segment id="211">, com o auxílio de um profissional de saúde</segment>
+    <segment id="212">, é possível retomar as atividades sociais e o vínculo com a comunidade.</segment>
+    <segment id="213">"</segment>
+    <segment id="214">Podemos começar devagar</segment>
+    <segment id="215">, com uma caminhada leve no parque</segment>
+    <segment id="216">, ou o envio de uma mensagem a um amigo para perguntar</segment>
+    <segment id="217">comocomo ele está e dizer que está com saudades"</segment>
+    <segment id="218">, exemplifica Kamkhagi.  "</segment>
+    <segment id="219">Essas pequenas atitudes permitem reabrir o campo dos relacionamentos e lidar melhor com a solidão"</segment>
+    <segment id="220">, conclui a psicóloga.</segment>
+    <segment id="221">O texto foi publicado originalmente aqui.</segment>
+  </rst>
+</analysis>

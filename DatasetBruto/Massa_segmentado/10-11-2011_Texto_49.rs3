@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Mochila com granada é encontrada nas imediações da Escola Americana</segment>
+    <segment id="2">, na Gávea
+RIO - Após receberem denúncias com informações sobre uma mochila abandonada</segment>
+    <segment id="3">, contendo material do tráfico da Rocinha</segment>
+    <segment id="4">, policiais da delegacia do Tanque (41ªDP)</segment>
+    <segment id="5">, realizaram diligências próximo a Escola Americana</segment>
+    <segment id="6">, na Estrada da Gávea.</segment>
+    <segment id="7">Quando chegaram ao local</segment>
+    <segment id="8">, os policiais encontraram na mochila uma granada</segment>
+    <segment id="9">, uma bóia de sinalização pertencente as Forças Armadas</segment>
+    <segment id="10">, uma boia no Exército</segment>
+    <segment id="11">, um carregador para rádio de comunicação</segment>
+    <segment id="12">, um saco contendo fogos e rojões</segment>
+    <segment id="13">, que poderiam ser usados para fabricar bombas caseiras e um coldre.</segment>
+    <segment id="14">O material foi encaminhado à 15ªDP (Gávea).</segment>
+  </rst>
+</analysis>

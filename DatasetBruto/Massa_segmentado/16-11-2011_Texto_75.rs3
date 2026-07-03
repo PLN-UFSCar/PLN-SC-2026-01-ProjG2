@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Fernanda Vasconcellos</segment>
+    <segment id="2">Atriz gosta de fazer sexo no 1º encontro</segment>
+    <segment id="3">Fernanda Vasconcellos pensa diferente de muitas mulheres que diriam não ao homem que quisesse transar no primeiro encontro.</segment>
+    <segment id="4">Segundo ela</segment>
+    <segment id="5">, “com consciência e segurança</segment>
+    <segment id="6">, é uma delícia”.</segment>
+    <segment id="7">A moça</segment>
+    <segment id="8">, que está na novela “</segment>
+    <segment id="9">A vida da gente”</segment>
+    <segment id="10">, declarou ainda</segment>
+    <segment id="11">, em entrevista</segment>
+    <segment id="12">, que foi ela que tomou a iniciativa de beijar o namorado</segment>
+    <segment id="13">, o também ator Henri Castelli: “Agarrei mesmo”.</segment>
+  </rst>
+</analysis>

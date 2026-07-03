@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Will Smith encantado com passistas</segment>
+    <segment id="2">Ainda em ritmo de Carnaval</segment>
+    <segment id="3">, passistas de escolas de samba recepcionaram Will
+Will Smith chegou ao Rio de Janeiro para lançar o filme “Homens de Preto 3”.</segment>
+    <segment id="4">Ainda em ritmo de Carnaval</segment>
+    <segment id="5">, passistas de escolas de samba foram recepcioná-lo no evento de lançamento.</segment>
+    <segment id="6">Desirée Oliveira (à direita)</segment>
+    <segment id="7">, que interpretava a Mulata Difícil no "Zorra Total"</segment>
+    <segment id="8">, estava lá e</segment>
+    <segment id="9">, segundo sua assessoria</segment>
+    <segment id="10">, foi convidada pelo ator para participar de um clipe dele.</segment>
+    <segment id="11">O tempo dirá</segment>
+    <segment id="12">sese é verdade...</segment>
+  </rst>
+</analysis>

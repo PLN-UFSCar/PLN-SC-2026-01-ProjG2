@@ -1,0 +1,142 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Cerca de 10% dos homens afirmam dirigir após o consumo de bebidas alcoólicas</segment>
+    <segment id="2">, enquanto entre as mulheres a taxa é de pouco mais de 2%</segment>
+    <segment id="3">, revela a edição deste ano da pesquisa Vigitel (Vigilância de Fatores de Risco e Proteção para Doenças Crônicas por Inquérito Telefônico)</segment>
+    <segment id="4">, do Ministério da Saúde.</segment>
+    <segment id="5">O estudo reúne as respostas de 21.690 adultos das 26 capitais e do Distrito Federal</segment>
+    <segment id="6">, entrevistados sobre consumo de álcool</segment>
+    <segment id="7">, tabagismo</segment>
+    <segment id="8">, obesidade</segment>
+    <segment id="9">, alimentação</segment>
+    <segment id="10">, atividade física</segment>
+    <segment id="11">, percepção da própria saúde e realização de exames.</segment>
+    <segment id="12">Policial Militar faz teste do bafômetro em motorista na zona leste de São Paulo</segment>
+    <segment id="13">;</segment>
+    <segment id="14">homens dirigem mais sob efeito do álcool do que mulheres</segment>
+    <segment id="15">, indica pesquisa - Joel Silva - 27.nov.2010/FolhapressNo conjunto das 27 localidades</segment>
+    <segment id="16">, 5,9% dos indivíduos afirmaram conduzir veículo motorizado após ingerir bebida alcoólica.</segment>
+    <segment id="17">Em algumas cidades</segment>
+    <segment id="18">, porém</segment>
+    <segment id="19">porém, as taxas foram maiores.</segment>
+    <segment id="20">Em Palmas</segment>
+    <segment id="21">, por exemplo</segment>
+    <segment id="22">, a combinação álcool e direção foi mencionada por 16% dos participantes</segment>
+    <segment id="23">, chegando a 24</segment>
+    <segment id="24">,5% entre os homens e a 8</segment>
+    <segment id="25">,5% entre as mulheres.</segment>
+    <segment id="26">Para o presidente da Abramet (Associação Brasileira de Medicina de Tráfego)</segment>
+    <segment id="27">, Antonio Meira Júnior</segment>
+    <segment id="28">, as diferenças regionais podem estar relacionadas aos padrões de fiscalização em cada local —a cada hora</segment>
+    <segment id="29">, cerca de oito motoristas são autuados no Brasil por terem ingerido bebida alcoólica ou substâncias psicoativas antes de dirigir.</segment>
+    <segment id="30">Já a variação entre condutores e condutoras envolve educação e senso de proteção.</segment>
+    <segment id="31">"</segment>
+    <segment id="32">Os estudos têm demonstrado que as mulheres são mais prudentes no trânsito"</segment>
+    <segment id="33">, diz.</segment>
+    <segment id="34">As maiores frequências entre homens foram observadas em Palmas</segment>
+    <segment id="35">, Teresina (23</segment>
+    <segment id="36">,2%) e Boa Vista (20%)</segment>
+    <segment id="37">, e as menores ocorreram em Recife (3</segment>
+    <segment id="38">,6%), Natal (4</segment>
+    <segment id="39">,2%) e Porto Alegre (4</segment>
+    <segment id="40">,4%).</segment>
+    <segment id="41">Entre mulheres</segment>
+    <segment id="42">, as maiores frequências foram registradas em Palmas</segment>
+    <segment id="43">, Cuiabá (7</segment>
+    <segment id="44">,2%) e Boa Vista (5%)</segment>
+    <segment id="45">, e as menores em Recife (0</segment>
+    <segment id="46">,2%), Maceió (0</segment>
+    <segment id="47">,3%) e Natal (0</segment>
+    <segment id="48">,8%).</segment>
+    <segment id="49">Cidades com as maiores taxas de motoristas que afirmam ingerir bebida alcoólica   Localidade Total Homens Mulheres</segment>
+    <segment id="50">Palmas 16% 24</segment>
+    <segment id="51">,5% 8,5%   Teresina 12</segment>
+    <segment id="52">,9% 23</segment>
+    <segment id="53">,2% 4,4%</segment>
+    <segment id="54">Boa Vista 12</segment>
+    <segment id="55">,2% 20% 5%   Campo Grande 9</segment>
+    <segment id="56">,4% 16</segment>
+    <segment id="57">,1% 3,5%</segment>
+    <segment id="58">Florianópolis 9</segment>
+    <segment id="59">,4% 9,9% 4</segment>
+    <segment id="60">,7%   Brasil 5</segment>
+    <segment id="61">,9% 10</segment>
+    <segment id="62">,1% 2,2%   Fonte: Vigitel - Ministério da Saúde</segment>
+    <segment id="63">O médico também explica por que a pesquisa considera qualquer quantidade de álcool na análise sobre direção</segment>
+    <segment id="64">, diferentemente das questões sobre consumo abusivo</segment>
+    <segment id="65">, que especificam o número de doses.</segment>
+    <segment id="66">Como cada indivíduo tem peso</segment>
+    <segment id="67">, altura e hábitos próprios</segment>
+    <segment id="68">, a bebida tem impactos variados e não há</segment>
+    <segment id="69">comocomo estabelecer uma quantidade padrão que não cause prejuízos ao volante.</segment>
+    <segment id="70">Cada um fica alterado com concentrações diferentes.</segment>
+    <segment id="71">"</segment>
+    <segment id="72">O único padrão seguro é o zero"</segment>
+    <segment id="73">, defende.</segment>
+    <segment id="74">Para dimensionar o problema</segment>
+    <segment id="75">, Meira destaca que o risco de envolvimento em um acidente fatal para condutores que ingerem uma ou duas doses –cada dose equivale a uma lata de cerveja</segment>
+    <segment id="76">, uma taça de vinho ou meio copo de uísque– chega a ser 4</segment>
+    <segment id="77">,6 vezes maior do que para motoristas sóbrios.</segment>
+    <segment id="78">Cuide-seCiência</segment>
+    <segment id="79">, hábitos e prevenção</segment>
+    <segment id="80">numa newsletter para a sua saúde e bem-estarCarregando...</segment>
+    <segment id="81">O consumo de álcool reduz a capacidade de percepção da velocidade e dos obstáculos.</segment>
+    <segment id="82">"</segment>
+    <segment id="83">O álcool diminui a visão periférica</segment>
+    <segment id="84">, é como</segment>
+    <segment id="85">como se</segment>
+    <segment id="86">se a pessoa não tivesse os retrovisores no carro"</segment>
+    <segment id="87">, acrescenta.</segment>
+    <segment id="88">Outro impacto da bebida é a diminuição da autocrítica.</segment>
+    <segment id="89">"</segment>
+    <segment id="90">O condutor faz o que não deve ao volante.</segment>
+    <segment id="91">Há a euforia</segment>
+    <segment id="92">, a empolgação e ele acaba abusando da velocidade e do limite</segment>
+    <segment id="93">, negligenciando os riscos"</segment>
+    <segment id="94">, afirma o médico.</segment>
+    <segment id="95">"</segment>
+    <segment id="96">Tem gente que chega ao ponto de falar: ‘</segment>
+    <segment id="97">Quando eu bebo</segment>
+    <segment id="98">, eu dirijo melhor’.</segment>
+    <segment id="99">É o contrário.</segment>
+    <segment id="100">Você perde a autocrítica"</segment>
+    <segment id="101">, ressalta.</segment>
+    <segment id="102">Uma dica de Meira para evitar essas situações é:</segment>
+    <segment id="103">sese houver dúvida sobre beber</segment>
+    <segment id="104">, não dirija.</segment>
+    <segment id="105">A decisão de não consumir álcool deve ser tomada antes de sair da garagem de casa</segment>
+    <segment id="106">porque</segment>
+    <segment id="107">porque</segment>
+    <segment id="108">, chegando ao bar</segment>
+    <segment id="109">, à festa ou à reunião com os amigos</segment>
+    <segment id="110">, haverá a empolgação</segment>
+    <segment id="111">, o incentivo de terceiros e ninguém sóbrio para levar seu carro de volta.  "</segment>
+    <segment id="112">As tragédias no trânsito envolvendo álcool não são acidentais.</segment>
+    <segment id="113">Elas poderiam ter sido evitadas"</segment>
+    <segment id="114">, finaliza Meira.</segment>
+    <segment id="115">Reunião do AA (Alcoólicos Anônimos): depoimentos</segment>
+    <segment id="116">, conselhos e apoioMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

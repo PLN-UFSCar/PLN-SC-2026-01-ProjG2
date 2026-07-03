@@ -1,0 +1,58 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Veja as dicas da semana do coletivo</segment>
+    <segment id="2">Transcultura</segment>
+    <segment id="3">Alice: Gostei muito de "</segment>
+    <segment id="4">A morte de Tony Bennett" (Lumme Editor</segment>
+    <segment id="5">, 2010)</segment>
+    <segment id="6">, segundo livro de poesia de Leonardo Gandolfi.</segment>
+    <segment id="7">Os versos passeiam num clima de perseguição</segment>
+    <segment id="8">, mistério e "a permanente sensação de que as coisas/ não têm corrido assim tão bem".</segment>
+    <segment id="9">Bruno:</segment>
+    <segment id="10">O Google lançou seu serviço de música</segment>
+    <segment id="11">, no qual o usuário hospeda sua discoteca de graça e pode acessar o material de qualquer lugar</segment>
+    <segment id="12">, incluindo celulares rodando o sistema Android.</segment>
+    <segment id="13">É basicamente um Spotify gratuito com potencial pirata</segment>
+    <segment id="14">, já que aparentemente não questiona a procedência das músicas.</segment>
+    <segment id="15">Carol:</segment>
+    <segment id="16">Em tempos de arte digital</segment>
+    <segment id="17">, surge o FRAMED*</segment>
+    <segment id="18">, uma plataforma para exibição de obras interativas e digitais que você pode pendurar na parede da sua casa.</segment>
+    <segment id="19">É o futuro...
+Fabiano:</segment>
+    <segment id="20">Me diverti esta semana com a mixtape "</segment>
+    <segment id="21">Osama lives"</segment>
+    <segment id="22">, do produtor capixaba Vitor Rotiv (não confundir com o Victor Rotciv citado na pauta dos edits)</segment>
+    <segment id="23">, em total clima árabe</segment>
+    <segment id="24">, com canções originais desta cultura</segment>
+    <segment id="25">, um remix do Men at Work e samples de Asian Dub Foundation</segment>
+    <segment id="26">, Ke$ha</segment>
+    <segment id="27">, LMFAO</segment>
+    <segment id="28">, Prodigy</segment>
+    <segment id="29">, Apna Sapna</segment>
+    <segment id="30">, DJ</segment>
+    <segment id="31">Myth e DJ Kiran.</segment>
+  </rst>
+</analysis>

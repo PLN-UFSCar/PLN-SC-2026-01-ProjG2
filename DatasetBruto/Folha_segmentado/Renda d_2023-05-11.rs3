@@ -1,0 +1,175 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Com a ampliação do Auxílio Brasil para R$ 600 às vésperas da eleição e a geração de vagas de trabalho</segment>
+    <segment id="2">, a desigualdade de renda entre ricos e pobres caiu em 2022</segment>
+    <segment id="3">, último ano do governo Jair Bolsonaro (PL)</segment>
+    <segment id="4">, para o menor nível de uma série histórica iniciada em 2012</segment>
+    <segment id="5">, segundo dados divulgados nesta quinta-feira (11) pelo IBGE (Instituto Brasileiro de Geografia e Estatística).</segment>
+    <segment id="6">O abismo entre os extremos da população é medido pelo índice de Gini</segment>
+    <segment id="7">, que varia de 0 (igualdade máxima) a 1 (desigualdade máxima).</segment>
+    <segment id="8">Em 2022</segment>
+    <segment id="9">, o Gini do rendimento domiciliar per capita (por pessoa) recuou a 0</segment>
+    <segment id="10">,518, o menor nível da série em 11 anos</segment>
+    <segment id="11">, após subir a 0</segment>
+    <segment id="12">,544 em 2021.</segment>
+    <segment id="13">Apesar da queda no ano passado</segment>
+    <segment id="14">, o índice ainda segue em um nível elevado</segment>
+    <segment id="15">sese comparado ao de outros países</segment>
+    <segment id="16">, segundo o IBGE.</segment>
+    <segment id="17">Agência da Caixa na zona norte do Rio tem fila em dia de pagamento do Auxílio Brasil  - Eduardo Anizelli - 9.ago.2022/FolhapressO rendimento domiciliar per capita da metade da população mais pobre subiu 18% no ano passado</segment>
+    <segment id="18">, para R$ 537 por mês.</segment>
+    <segment id="19">Enquanto isso</segment>
+    <segment id="20">, o ganho médio dos brasileiros 1% mais ricos foi de R$ 17.447.</segment>
+    <segment id="21">O valor no topo da distribuição ficou 0</segment>
+    <segment id="22">,3% abaixo do registrado em 2021 (R$ 17.494).</segment>
+    <segment id="23">Todos os valores são em termos reais</segment>
+    <segment id="24">, ou seja</segment>
+    <segment id="25">, são ajustados pela inflação.</segment>
+    <segment id="26">Mesmo com o leve recuo</segment>
+    <segment id="27">, os brasileiros 1% mais ricos (R$ 17.447) ganharam o equivalente a 32</segment>
+    <segment id="28">,5 vezes a renda da metade da população mais pobre (R$ 537).</segment>
+    <segment id="29">Essa diferença é a menor da série histórica</segment>
+    <segment id="30">, embora</segment>
+    <segment id="31">embora o abismo siga existindo.</segment>
+    <segment id="32">Em 2012</segment>
+    <segment id="33">, ano inicial dos registros</segment>
+    <segment id="34">, a marca era de 38</segment>
+    <segment id="35">,2 vezes.</segment>
+    <segment id="36">"</segment>
+    <segment id="37">A queda brusca dessa razão para o menor patamar da série histórica reflete um pouco tudo que observamos.</segment>
+    <segment id="38">Muitas pessoas voltaram para o mercado de trabalho</segment>
+    <segment id="39">, os muito pobres estão recebendo um auxílio que</segment>
+    <segment id="40">sese compara ao auxílio emergencial em valor</segment>
+    <segment id="41">, e o 1% mais rico teve uma pequena redução no rendimento"</segment>
+    <segment id="42">, afirmou Alessandra Brito</segment>
+    <segment id="43">, analista da pesquisa do IBGE.</segment>
+    <segment id="44">Leia tambémRenda média do trabalho cai</segment>
+    <segment id="45">, masmas massa salarial sobe com mais empregos em 2022Renda que inclui benefícios sociais bate recorde com Auxílio Brasil em 2022Renda dos 5% mais pobres dobra</segment>
+    <segment id="46">, masmas ainda é inferior a R$ 90 por pessoaVolta do emprego é mais lenta que procura pelo Bolsa Família no Norte e NordesteOs resultados integram a Pnad (Pesquisa Nacional por Amostra de Domicílios)</segment>
+    <segment id="47">Contínua: Rendimento de Todas as Fontes 2022.</segment>
+    <segment id="48">O rendimento domiciliar per capita corresponde ao ganho total de uma família dividido pela quantidade de pessoas na residência.</segment>
+    <segment id="49">Segundo o instituto</segment>
+    <segment id="50">, a ampliação do Auxílio Brasil para R$ 600</segment>
+    <segment id="51">, às vésperas das eleições de 2022</segment>
+    <segment id="52">, no governo Jair Bolsonaro (PL)</segment>
+    <segment id="53">, elevou os rendimentos dos mais pobres.</segment>
+    <segment id="54">Em paralelo</segment>
+    <segment id="55">, o mercado de trabalho deu sinais de retomada com o aumento de 7</segment>
+    <segment id="56">,7 milhões de pessoas na população ocupada.</segment>
+    <segment id="57">Além disso</segment>
+    <segment id="58">, a base de comparação fragilizada de 2021 também influenciou os avanços nas faixas da população com renda menor</segment>
+    <segment id="59">, de acordo com o instituto.</segment>
+    <segment id="60">De 2021 para 2022</segment>
+    <segment id="61">, a desigualdade medida pelo índice de Gini diminuiu em todas as regiões</segment>
+    <segment id="62">, com destaque para o Nordeste (de 0</segment>
+    <segment id="63">,556 para 0</segment>
+    <segment id="64">,517) e o Sudeste (de 0</segment>
+    <segment id="65">,533 para 0</segment>
+    <segment id="66">,505).</segment>
+    <segment id="67">O Nordeste</segment>
+    <segment id="68">, contudo</segment>
+    <segment id="69">contudo</segment>
+    <segment id="70">, manteve o maior indicador das regiões.</segment>
+    <segment id="71">O Sul seguiu com a menor marca (0</segment>
+    <segment id="72">,458).</segment>
+    <segment id="73">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="74">; aberta para não assinantes.</segment>
+    <segment id="75">Carregando...</segment>
+    <segment id="76">O economista Marcelo Neri</segment>
+    <segment id="77">, diretor do centro de políticas sociais FGV Social</segment>
+    <segment id="78">, também avalia que o recuo da desigualdade reflete a ampliação do Auxílio Brasil no segundo semestre do ano passado</segment>
+    <segment id="79">, além da volta do mercado de trabalho.</segment>
+    <segment id="80">"</segment>
+    <segment id="81">É um resultado que chama atenção.</segment>
+    <segment id="82">Tivemos um ciclo eleitoral forte</segment>
+    <segment id="83">, que se</segment>
+    <segment id="84">se manifestou tanto no auxílio de R$ 600 quanto em medidas</segment>
+    <segment id="85">comocomo o controle do preço da gasolina.</segment>
+    <segment id="86">Esses efeitos</segment>
+    <segment id="87">sese concentraram no segundo semestre"</segment>
+    <segment id="88">, diz.</segment>
+    <segment id="89">Para Neri</segment>
+    <segment id="90">, o movimento de redução do Gini tende a permanecer em 2023.</segment>
+    <segment id="91">Segundo o economista</segment>
+    <segment id="92">, um dos motivos que sustentam essa projeção é a manutenção de transferências do Auxílio Brasil</segment>
+    <segment id="93">, com previsão de adicionais</segment>
+    <segment id="94">, no governo Luiz Inácio Lula da Silva (PT).</segment>
+    <segment id="95">O programa</segment>
+    <segment id="96">, contudo</segment>
+    <segment id="97">contudo</segment>
+    <segment id="98">, foi rebatizado</segment>
+    <segment id="99">comocomo Bolsa Família na gestão petista.</segment>
+    <segment id="100">"</segment>
+    <segment id="101">Vamos ter um ano cheio do benefício em 2023.</segment>
+    <segment id="102">A sustentabilidade [da redução da desigualdade] terá</segment>
+    <segment id="103">comocomo grande prova 2024</segment>
+    <segment id="104">, 2025"</segment>
+    <segment id="105">, diz Neri.</segment>
+    <segment id="106">"</segment>
+    <segment id="107">Em 2024</segment>
+    <segment id="108">, isso vai ficar sujeito a questões orçamentárias"</segment>
+    <segment id="109">, completa.</segment>
+    <segment id="110">Conheça o novo Bolsa FamíliaMais    novamente         de   de  de  representando um</segment>
+    <segment id="111">O IBGE também divulgou o índice de Gini específico do rendimento médio mensal de todos os trabalhos dos brasileiros.</segment>
+    <segment id="112">O indicador de desigualdade recuou de 0</segment>
+    <segment id="113">,499 para 0</segment>
+    <segment id="114">,486, a menor marca da série.</segment>
+    <segment id="115">A renda média de todos os trabalhos teve queda de 2</segment>
+    <segment id="116">,1% em 2022.</segment>
+    <segment id="117">Já a massa de rendimentos</segment>
+    <segment id="118">, considerada a soma dos salários</segment>
+    <segment id="119">, avançou 6</segment>
+    <segment id="120">,6%.</segment>
+    <segment id="121">Segundo Brito</segment>
+    <segment id="122">, do IBGE</segment>
+    <segment id="123">, a entrada de quase 8 milhões de brasileiros na população ocupada puxou a média do rendimento do trabalho para baixo</segment>
+    <segment id="124">, masmas</segment>
+    <segment id="125">, aparentemente</segment>
+    <segment id="126">, essas pessoas ingressaram no mercado com vencimentos similares.</segment>
+    <segment id="127">A combinação teria resultado em uma distribuição menos desigual.</segment>
+    <segment id="128">"</segment>
+    <segment id="129">Além disso</segment>
+    <segment id="130">, o rendimento médio dos trabalhadores sem carteira e por conta própria aumentou no período</segment>
+    <segment id="131">, também contribuindo para essa queda no índice de desigualdade"</segment>
+    <segment id="132">, disse a pesquisadora.</segment>
+    <segment id="133">Com a redução de 2</segment>
+    <segment id="134">,1% ante 2021</segment>
+    <segment id="135">, a renda média de todos os trabalhos foi estimada em R$ 2.659 no ano passado.</segment>
+    <segment id="136">Trata-</segment>
+    <segment id="137">sese do menor patamar da série histórica</segment>
+    <segment id="138">, iniciada em 2012</segment>
+    <segment id="139">, e da segunda retração consecutiva.</segment>
+    <segment id="140">O valor do rendimento médio é calculado a partir da divisão dos recursos obtidos com o trabalho pelo número de trabalhadores ocupados em vagas formais ou informais.</segment>
+    <segment id="141">A massa de rendimento mensal de todos os trabalhos</segment>
+    <segment id="142">, por sua vez</segment>
+    <segment id="143">, subiu para R$ 253</segment>
+    <segment id="144">,1 bilhões.</segment>
+    <segment id="145">Segundo o IBGE</segment>
+    <segment id="146">, o resultado representa uma recuperação do indicador</segment>
+    <segment id="147">, após as perdas de 3</segment>
+    <segment id="148">,2% em 2021 e de 5</segment>
+    <segment id="149">,6% em 2020.</segment>
+  </rst>
+</analysis>

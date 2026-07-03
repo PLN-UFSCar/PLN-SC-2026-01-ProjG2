@@ -1,0 +1,51 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Criança é atingida de raspão na cabeça durante tentativa de assalto na Avenida Brasil
+RIO - Uma criança foi atingida por um tiro de raspão na cabeça</segment>
+    <segment id="2">, na noite deste domingo</segment>
+    <segment id="3">, durante uma tentativa de assalto</segment>
+    <segment id="4">, na Avenida Brasil</segment>
+    <segment id="5">, na altura de Irajá.</segment>
+    <segment id="6">De acordo com a Polícia Militar</segment>
+    <segment id="7">, uma mulher viu um carro ser roubado e assustada acelerou o seu veículo para</segment>
+    <segment id="8">sese afastar.</segment>
+    <segment id="9">Os bandidos perceberam e atiraram na direção de seu carro.</segment>
+    <segment id="10">O filho dela de 10 anos foi atingido na cabeça de raspão.</segment>
+    <segment id="11">A criança foi socorrida pelos bombeiros e encaminhada para o Hospital Souza Aguiar</segment>
+    <segment id="12">, na Penha.
+RIO - Uma criança foi atingida por um tiro de raspão na cabeça</segment>
+    <segment id="13">, na noite deste domingo</segment>
+    <segment id="14">, durante uma tentativa de assalto</segment>
+    <segment id="15">, na Avenida Brasil</segment>
+    <segment id="16">, na altura de Irajá.</segment>
+    <segment id="17">De acordo com a Polícia Militar</segment>
+    <segment id="18">, uma mulher viu um carro ser roubado e assustada acelerou o seu veículo para</segment>
+    <segment id="19">sese afastar.</segment>
+    <segment id="20">Os bandidos perceberam e atiraram na direção de seu carro.</segment>
+    <segment id="21">O filho dela de 10 anos foi atingido na cabeça de raspão.</segment>
+    <segment id="22">A criança foi socorrida pelos bombeiros e encaminhada para o Hospital Souza Aguiar</segment>
+    <segment id="23">, na Penha.</segment>
+  </rst>
+</analysis>

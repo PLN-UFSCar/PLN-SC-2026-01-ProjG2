@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A startup imobiliária Loft demitiu mais 340 pessoas</segment>
+    <segment id="2">, ou 15% de seu quadro de funcionários</segment>
+    <segment id="3">, em sua mais nova rodada de cortes</segment>
+    <segment id="4">, informou a empresa nesta sexta-feira (3)</segment>
+    <segment id="5">, citando adequação de custos no atual ambiente econômico.</segment>
+    <segment id="6">A Loft já havia realizado 855 demissões em 2022 em três rodadas de cortes</segment>
+    <segment id="7">, em meio a uma onda geral de desligamentos no setor de tecnologia no Brasil e no mundo diante de fatores</segment>
+    <segment id="8">comocomo a elevação das taxas de juros.  "</segment>
+    <segment id="9">O movimento de hoje</segment>
+    <segment id="10">sese concentra nas equipes administrativas ou focadas em projetos com prazo de maturação mais longo.</segment>
+    <segment id="11">O objetivo é adequar custos e despesas do grupo num contexto econômico local e global mais desafiador para as empresas de tech do que poderia ter sido previsto"</segment>
+    <segment id="12">, disse a empresa em comunicado à imprensa nesta sexta-feira.</segment>
+    <segment id="13">Mate Pencz</segment>
+    <segment id="14">, fundador da Loft</segment>
+    <segment id="15">, startup que</segment>
+    <segment id="16">sese tornou gigante no mercado imobiliário -Zanone Fraissat - 2.set.2021/Folhapress</segment>
+  </rst>
+</analysis>

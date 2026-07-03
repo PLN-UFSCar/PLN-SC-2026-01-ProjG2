@@ -1,0 +1,50 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">MistÃ©rio</segment>
+    <segment id="2">na Capital</segment>
+    <segment id="3">Corpo de um homem</segment>
+    <segment id="4">Ã© retirado do Arroio DilÃºvio</segment>
+    <segment id="5">, em Porto Alegre
+Segundo a polÃ­cia</segment>
+    <segment id="6">, nÃ£o hÃ¡ sinais aparentes de violÃªncia</segment>
+    <segment id="7">Carolina Rocha
+carolina.rocha@diariogaucho.com.br
+NÃ£o hÃ¡ informaÃ§Ãµes sobre as causas da morte</segment>
+    <segment id="8">, masmas segundo os policias da equipe volante da 1Âª DPPA</segment>
+    <segment id="9">, nÃ£o hÃ¡ sinais aparentes de violÃªncia</segment>
+    <segment id="10">O corpo de um homem identificado</segment>
+    <segment id="11">comocomo Odilson Lucio Maciel da Luz</segment>
+    <segment id="12">, 41 anos</segment>
+    <segment id="13">, foi retirado do Arroio DilÃºvio</segment>
+    <segment id="14">, na esquina das avenidas JoÃ£o Pessoa e Ipiranga</segment>
+    <segment id="15">, no final da manhÃ£ desta quarta-feira.</segment>
+    <segment id="16">NÃ£o hÃ¡ informaÃ§Ãµes sobre as causas da morte</segment>
+    <segment id="17">, masmas segundo os policias da equipe volante da 1Âª DPPA</segment>
+    <segment id="18">, nÃ£o hÃ¡ sinais aparentes de violÃªncia.</segment>
+    <segment id="19">O caso</segment>
+    <segment id="20">caso serÃ¡ investigado pela 2Âª DP da Capital.</segment>
+    <segment id="21">O corpo foi levado ao DML para ser periciado.</segment>
+  </rst>
+</analysis>

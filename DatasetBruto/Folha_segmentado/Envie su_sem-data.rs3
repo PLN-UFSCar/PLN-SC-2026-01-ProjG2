@@ -1,0 +1,31 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Os leitores podem colaborar com o conteúdo da Folha de S.Paulo</segment>
+    <segment id="2">, Agora e F5 enviando notícias e fotos de acontecimentos que sejam relevantes no Brasil e no mundo.</segment>
+    <segment id="3">Caso você presencie algo que possa influenciar o dia a dia de outras pessoas ou de sua cidade preencha o formulário abaixo com um texto final ou informações sobre o fato que você deseja ver publicado.</segment>
+    <segment id="4">Após a apuração dos dados</segment>
+    <segment id="5">, seu texto ou imagem poderá ser publicado.</segment>
+  </rst>
+</analysis>

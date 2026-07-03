@@ -1,0 +1,158 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Entender o que influencia o resultado de um título de renda fixa é o primeiro passo para escolher qual tipo de título de renda fixa pode apresentar melhor resultado e</segment>
+    <segment id="2">, assim</segment>
+    <segment id="3">, elevar o retorno esperado.</segment>
+    <segment id="4">No artigo de ontem</segment>
+    <segment id="5">, expliquei que três fatores básicos influenciam o retorno de ativos de renda fixa.</segment>
+    <segment id="6">Hoje, vou explicar o terceiro.</segment>
+    <segment id="7">Escolher o indexador certo</segment>
+    <segment id="8">, pode gerar resultados até 40% maiores - Michael M. Santiago/Getty Images via AFPRelembrando</segment>
+    <segment id="9">, os três fatores são:</segment>
+    <segment id="10">emissor</segment>
+    <segment id="11">, prazo de vencimento e indexador.</segment>
+    <segment id="12">No artigo de ontem</segment>
+    <segment id="13">, abordei os dois primeiros fatores.</segment>
+    <segment id="14">Expliquei que o investidor pode elevar o retorno aplicando em títulos emitidos por bancos ou empresas</segment>
+    <segment id="15">, ou seja</segment>
+    <segment id="16">, emissores privados e elevando o prazo de aplicação.</segment>
+    <segment id="17">O terceiro fator não é tão simples e</segment>
+    <segment id="18">, por isso</segment>
+    <segment id="19">, reservei um espaço maior para ele.</segment>
+    <segment id="20">Existem três indexadores básicos: pós-fixado ou referenciado ao CDI ou Selic</segment>
+    <segment id="21">, prefixado e referenciado ao IPCA.</segment>
+    <segment id="22">A escolha de qual dos três vai proporcionar o maior resultado depende de duas estimativas que o investidor precisa fazer em relação ao que o mercado já precifica nas taxas dos títulos: evolução dos movimentos da Selic pelo Banco Central (BC) e a inflação implícita.</segment>
+    <segment id="23">Vamos começar pela decisão entre os títulos pós-fixados e prefixados.</segment>
+    <segment id="24">Nesta decisão</segment>
+    <segment id="25">, o investidor precisa construir uma expectativa de</segment>
+    <segment id="26">comocomo ele acredita que serão as alterações de Selic implementadas pelo BC.</segment>
+    <segment id="27">Essa estimativa deve ser comparada com a taxa de juros prefixada que ele tem disponível.</segment>
+    <segment id="28">Por exemplo</segment>
+    <segment id="29">, hoje o título Tesouro IPCA 2029 tem uma taxa de juros de 10</segment>
+    <segment id="30">,25% ao ano.</segment>
+    <segment id="31">A taxa Selic que hoje está em 11</segment>
+    <segment id="32">,65% ao ano.</segment>
+    <segment id="33">Sim a taxa</segment>
+    <segment id="34">Selic diária que remunera os títulos é ligeiramente menor que a Selic Meta definida pelo Copom.</segment>
+    <segment id="35">Então, a taxa prefixada é menor que a taxa Selic.</segment>
+    <segment id="36">Será que compensa investir no título prefixado?</segment>
+    <segment id="37">Para responder</segment>
+    <segment id="38">, você precisa construir um cenário de evolução da taxa Selic até 2029.</segment>
+    <segment id="39">Ano Cenário de Selic Aplicação na Selic Aplicação no Tesouro Prefixado a 10</segment>
+    <segment id="40">,25%</segment>
+    <segment id="41">Ganho em %</segment>
+    <segment id="42">Selic Acumulado     2024</segment>
+    <segment id="43">10,0% R$ 11.000</segment>
+    <segment id="44">,00 R$ 11.025</segment>
+    <segment id="45">,00 102</segment>
+    <segment id="46">,5%   2025 8</segment>
+    <segment id="47">,5% R$ 11.935</segment>
+    <segment id="48">,00 R$ 12.155</segment>
+    <segment id="49">,06 111</segment>
+    <segment id="50">,4%   2026 7</segment>
+    <segment id="51">,5% R$ 12.830</segment>
+    <segment id="52">,13 R$ 13.400</segment>
+    <segment id="53">,96 120</segment>
+    <segment id="54">,2%   2027 7</segment>
+    <segment id="55">,0% R$ 13.728</segment>
+    <segment id="56">,23 R$ 14.774</segment>
+    <segment id="57">,55 128</segment>
+    <segment id="58">,1%   2028 7</segment>
+    <segment id="59">,0% R$ 14.689</segment>
+    <segment id="60">,21 R$ 16.288</segment>
+    <segment id="61">,95 134</segment>
+    <segment id="62">,1%   2029 7</segment>
+    <segment id="63">,0% R$ 15.717</segment>
+    <segment id="64">,45 R$ 17.958</segment>
+    <segment id="65">,56 139</segment>
+    <segment id="66">,2%</segment>
+    <segment id="67">Por exemplo</segment>
+    <segment id="68">, sese você acredita que a taxa Selic média de cada ano vai evoluir</segment>
+    <segment id="69">comocomo na tabela acima</segment>
+    <segment id="70">, ou seja</segment>
+    <segment id="71">, caindo gradativamente para 7% em 2027</segment>
+    <segment id="72">, então</segment>
+    <segment id="73">, um investimento que remunera a Selic vai render menos que o Tesouro Prefixado 2029.</segment>
+    <segment id="74">Veja na tabela que um investimento que rende 10</segment>
+    <segment id="75">,25% ao ano fixo pode no fim do período acumular um valor quase 40% maior que o investimento na taxa Selic.</segment>
+    <segment id="76">Entretanto</segment>
+    <segment id="77">, é importante entender o risco nesta comparação.</segment>
+    <segment id="78">A taxa Selic pode não cair conforme este cenário.</segment>
+    <segment id="79">Por exemplo</segment>
+    <segment id="80">, veja a simulação apresentada na tabela abaixo.</segment>
+    <segment id="81">Nesta nova simulação</segment>
+    <segment id="82">, a taxa Selic voltaria a subir em 2026 e alcançaria 12% em 2028.</segment>
+    <segment id="83">Neste cenário</segment>
+    <segment id="84">, o investimento que remunera a taxa Selic resulta em um valor maior no futuro.</segment>
+    <segment id="85">O título Tesouro Prefixado 2029 renderia apenas o equivalente a 98</segment>
+    <segment id="86">,1% do retorno da Selic.</segment>
+    <segment id="87">Ano Cenário de Selic Aplicação na Selic Aplicação no Tesouro Prefixado a 10</segment>
+    <segment id="88">,25%</segment>
+    <segment id="89">Ganho em %</segment>
+    <segment id="90">Selic Acumulado     2024</segment>
+    <segment id="91">10,0% R$ 11.000</segment>
+    <segment id="92">,00 R$ 11.025</segment>
+    <segment id="93">,00 102</segment>
+    <segment id="94">,5%   2025 8</segment>
+    <segment id="95">,5% R$ 11.935</segment>
+    <segment id="96">,00 R$ 12.155</segment>
+    <segment id="97">,06 111</segment>
+    <segment id="98">,4%   2026 9</segment>
+    <segment id="99">,0% R$ 13.009</segment>
+    <segment id="100">,15 R$ 13.400</segment>
+    <segment id="101">,96 113</segment>
+    <segment id="102">,0%   2027 11</segment>
+    <segment id="103">,0% R$ 14.440</segment>
+    <segment id="104">,16 R$ 14.774</segment>
+    <segment id="105">,55 107</segment>
+    <segment id="106">,5%   2028 12</segment>
+    <segment id="107">,0% R$ 16.172</segment>
+    <segment id="108">,98 R$ 16.288</segment>
+    <segment id="109">,95 101</segment>
+    <segment id="110">,9%   2029 12</segment>
+    <segment id="111">,0% R$ 18.113</segment>
+    <segment id="112">,73 R$ 17.958</segment>
+    <segment id="113">,56 98</segment>
+    <segment id="114">,1%</segment>
+    <segment id="115">Portanto</segment>
+    <segment id="116">, de forma simplista</segment>
+    <segment id="117">, para você optar por um título prefixado em relação à taxa Selic ou CDI</segment>
+    <segment id="118">, você precisa acreditar que a taxa Selic vai convergir para um valor inferior ao da taxa prefixada.</segment>
+    <segment id="119">Caso contrário</segment>
+    <segment id="120">, há um risco de o investimento no título prefixado apresentar pior resultado.</segment>
+    <segment id="121">Logo, para que</segment>
+    <segment id="122">para que sua renda fixa renda mais</segment>
+    <segment id="123">, você precisa primeiro construir um cenário de evolução da Selic e assim escolher o indexador com maior retorno.</segment>
+    <segment id="124">Sei que muitas vezes pode ser difícil para o investidor realizar esta tarefa.</segment>
+    <segment id="125">Nesta situação</segment>
+    <segment id="126">, peça ajuda ao seu assessor de investimentos ou ao seu especialista em investimentos.</segment>
+    <segment id="127">No próximo artigo desta série</segment>
+    <segment id="128">, vou explicar</segment>
+    <segment id="129">comocomo você pode escolher entre o título prefixado e o referenciado ao IPCA para elevar o retorno.</segment>
+    <segment id="130">Michael Viriato é assessor de investimentos e sócio fundador da Casa do Investidor.</segment>
+    <segment id="131">Fale direto comigo no e-mail.  Siga e curta o De Grão em Grão nas redes sociais.</segment>
+    <segment id="132">Acompanhe as lições de investimentos no Instagram.</segment>
+  </rst>
+</analysis>

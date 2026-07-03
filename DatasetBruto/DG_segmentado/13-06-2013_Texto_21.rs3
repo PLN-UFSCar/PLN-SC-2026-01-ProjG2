@@ -1,0 +1,53 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Em bom estado</segment>
+    <segment id="2">Carro roubado sete horas apÃ³s a compra</segment>
+    <segment id="3">Ã© encontrado em Canoas
+PolÃ­cia localizou veÃ­culo na Rua SÃ£o Gabriel sem as rodas e o estepe</segment>
+    <segment id="4">O carro foi encontrado pela polÃ­cia na Rua SÃ£o Gabriel</segment>
+    <segment id="5">, Bairro Mathias Velho</segment>
+    <segment id="6">, em Canoas.</segment>
+    <segment id="7">Os pneus novos foram roubados e</segment>
+    <segment id="8">, no lugar</segment>
+    <segment id="9">, trocados por rodas velhas.</segment>
+    <segment id="10">Dono do veÃ­culo</segment>
+    <segment id="11">, Carlos estÃ¡ alegre por ter reavido o carro</segment>
+    <segment id="12">, que ajudarÃ¡ na clÃ­nica geriÃ¡trica da famÃ­lia. 
+- Estava todo aberto e com rodas velhas</segment>
+    <segment id="13">, masmas em bom estado - contou.</segment>
+    <segment id="14">O dinheiro levado pelos assaltantes nÃ£o foi localizado.</segment>
+    <segment id="15">FamÃ­lia foi atacada quando chegava em casa
+Carlos Oliveira</segment>
+    <segment id="16">, 45 anos</segment>
+    <segment id="17">, havia entregado o seu Gol 1994</segment>
+    <segment id="18">comocomo entrada para o novo veÃ­culo.</segment>
+    <segment id="19">Seria mais uma forma de ajudar a esposa nos negÃ³cios.</segment>
+    <segment id="20">O Corsa cinza</segment>
+    <segment id="21">, adquirido na tarde de segunda-feira</segment>
+    <segment id="22">, foi levado por assaltantes sete horas apÃ³s a compra</segment>
+    <segment id="23">, quando a famÃ­lia entrava em casa</segment>
+    <segment id="24">, no Bairro FÃ¡tima.</segment>
+  </rst>
+</analysis>

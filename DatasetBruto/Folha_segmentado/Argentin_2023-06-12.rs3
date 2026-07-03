@@ -1,0 +1,47 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A fintech norte-americana Fiserv vai disponibilizar aos comerciantes da Argentina pagamentos nas compras feitas por brasileiros em suas lojas via</segment>
+    <segment id="2">Pix.</segment>
+    <segment id="3">Para os brasileiros</segment>
+    <segment id="4">, a novidade também é uma forma de facilitar o manejo de dinheiro</segment>
+    <segment id="5">, sem precisar recorrer às casas de câmbio do país para comprar dólar ou peso argentino.</segment>
+    <segment id="6">O Pix se</segment>
+    <segment id="7">se tornou um dos meios de pagamentos mais usados no Brasil - Marcello Casal Jr/Agência BrasilAs operações serão realizadas usando QR code</segment>
+    <segment id="8">, que serão gerados já com o valor a ser pago em reais.</segment>
+    <segment id="9">No valor</segment>
+    <segment id="10">, já estará embutida a conversão cambial no momento da compra e a taxa de IOF aplicada a transações de câmbio.</segment>
+    <segment id="11">"</segment>
+    <segment id="12">Como a Fiserv opera em vários países da região</segment>
+    <segment id="13">, somos capazes de adaptar tecnologias localmente</segment>
+    <segment id="14">, melhorando a experiência de nossos clientes e</segment>
+    <segment id="15">, neste</segment>
+    <segment id="16">casocaso</segment>
+    <segment id="17">, as pessoas que visitam a Argentina"</segment>
+    <segment id="18">, disse Jorge Valdivia</segment>
+    <segment id="19">, executivo da Fiserv no Brasil.</segment>
+    <segment id="20">Com Diego</segment>
+    <segment id="21">Felix</segment>
+  </rst>
+</analysis>

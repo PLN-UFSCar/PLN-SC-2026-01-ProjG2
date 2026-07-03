@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente nacional do MDB</segment>
+    <segment id="2">, Baleia Rossi</segment>
+    <segment id="3">, criticou em reunião com a direção do partido na cidade de São Paulo a estratégia de Guilherme Boulos (PSOL) de usar a imagem do presidente Luiz Inácio Lula da Silva (PT) na disputa municipal.</segment>
+    <segment id="4">O presidente nacional do MDB</segment>
+    <segment id="5">, deputado federal Baleia Rossi (SP) - Antonio Molina/Folhapress"Tem candidato que nunca fez absolutamente nada por São Paulo e quer criticar</segment>
+    <segment id="6">, quer xingar</segment>
+    <segment id="7">, quer polemizar.</segment>
+    <segment id="8">Quer trazer padrinho para São Paulo</segment>
+    <segment id="9">, porque</segment>
+    <segment id="10">porque não tem o que falar</segment>
+    <segment id="11">, não tem o que mostrar"</segment>
+    <segment id="12">, disse Baleia</segment>
+    <segment id="13">, que será o coordenador da campanha à reeleição do prefeito Ricardo Nunes (MDB).</segment>
+    <segment id="14">Ele participou na última segunda-feira (5) da posse do novo presidente do diretório emedebista na capital paulista</segment>
+    <segment id="15">, Enrico Misasi</segment>
+    <segment id="16">, também secretário-executivo de Relações Institucionais da Prefeitura.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Espertinho aplicava o ‘golpe do emprego’</segment>
+    <segment id="2">Ele convencia as vítimas a fornecerem cópias de seus documentos e depois sumia</segment>
+    <segment id="3">José Jaquisson Rocha Pinto Júnior</segment>
+    <segment id="4">, 26 anos</segment>
+    <segment id="5">, que aplicou o “golpe do emprego” em dezenas de pessoas</segment>
+    <segment id="6">, oferecendo vagas temporárias</segment>
+    <segment id="7">comocomo garçom em um evento em Salvador</segment>
+    <segment id="8">, já está custodiado no Complexo Policial da Baixa do Fiscal.</segment>
+    <segment id="9">Ele convencia as vítimas a fornecerem cópias de seus documentos e a entregarem os celulares</segment>
+    <segment id="10">, alegando que durante o trabalho não era permitido fazer uso do aparelho.</segment>
+    <segment id="11">De posse dos celulares</segment>
+    <segment id="12">, José desaparecia com os aparelhos.</segment>
+    <segment id="13">Ontem, uma vítima do golpe</segment>
+    <segment id="14">, também aplicado em outras nove pessoas no dia 23 de março</segment>
+    <segment id="15">, localizou o estelionatário no Largo do Tanque e entrou em contato com a polícia.</segment>
+    <segment id="16">José, que</segment>
+    <segment id="17">sese apresentava</segment>
+    <segment id="18">comocomo um sargento do Exército</segment>
+    <segment id="19">, de prenome Tiago</segment>
+    <segment id="20">, foi preso em flagrante no momento em que aplicava o mesmo golpe em mais quatro pessoas.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,106 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A diversidade dos micro-organismos que existem dentro do sistema digestório da nossa espécie é crucial para impedir que micróbios causadores de doenças</segment>
+    <segment id="2">sese multipliquem no intestino</segment>
+    <segment id="3">, indicam experimentos conduzidos por cientistas europeus.</segment>
+    <segment id="4">Ao que tudo indica</segment>
+    <segment id="5">, bactérias benfazejas impedem que as vilãs causem problemas de saúde</segment>
+    <segment id="6">porque</segment>
+    <segment id="7">porque competem com elas por nutrientes.</segment>
+    <segment id="8">Os resultados</segment>
+    <segment id="9">, sese estiverem corretos</segment>
+    <segment id="10">, podem ser um passo importante para a criação sob medida de "fazendas de micróbios" no sistema digestório</segment>
+    <segment id="11">, capazes de proteger as pessoas de infecções que são difíceis de tratar depois que</segment>
+    <segment id="12">sese instalam no organismo.</segment>
+    <segment id="13">A pesquisa</segment>
+    <segment id="14">, que acaba de sair na revista especializada americana Science</segment>
+    <segment id="15">, é fruto de uma colaboração entre cientistas da Universidade de Oxford</segment>
+    <segment id="16">, no Reino Unido</segment>
+    <segment id="17">, e da Universidade de Estrasburgo</segment>
+    <segment id="18">, na França.</segment>
+    <segment id="19">Liderados por Kevin Foster e Olivier Cunrath</segment>
+    <segment id="20">, os pesquisadores conduziram uma série de testes para tentar identificar qual seria a melhor receita para um intestino equilibrado</segment>
+    <segment id="21">, menos vulnerável a bactérias patogênicas.</segment>
+    <segment id="22">Bactérias são as pequenas céculas verdes</segment>
+    <segment id="23">, vermelhas e azuis</segment>
+    <segment id="24">, que estão sobre a parede do intesttino</segment>
+    <segment id="25">;</segment>
+    <segment id="26">os núcleos das células hospedeiras são os círculos azuis cercados por muco verde - Carolina Tropini/Universidade da British ColumbiaJá</segment>
+    <segment id="27">sese sabe há muito tempo que o intestino humano (e</segment>
+    <segment id="28">, claro</segment>
+    <segment id="29">, o dos outros animais) é habitado por uma enorme diversidade de micro-organismos</segment>
+    <segment id="30">, assim</segment>
+    <segment id="31">comocomo acontece com outras partes do nosso corpo</segment>
+    <segment id="32">, como</segment>
+    <segment id="33">como a pele.</segment>
+    <segment id="34">Em certo sentido</segment>
+    <segment id="35">, é como</segment>
+    <segment id="36">como se</segment>
+    <segment id="37">se fosse uma floresta ou oceano em miniatura</segment>
+    <segment id="38">, na qual essas espécies usam os recursos do ambiente e cooperam ou competem entre si.</segment>
+    <segment id="39">A presença de tais criaturas é importante</segment>
+    <segment id="40">, por exemplo</segment>
+    <segment id="41">, para a absorção de certos nutrientes dos alimentos que o organismo humano não é capaz de capturar com a mesma facilidade sem essa ajuda.</segment>
+    <segment id="42">Há ainda indícios de que a presença de determinadas comunidades microbianas pode influenciar na obesidade ou em disfunções metabólicas.</segment>
+    <segment id="43">E também já havia dados indicando a importância da microbiota (conjunto de micro-organismos) intestinal para a proteção contra bactérias causadoras de doenças.</segment>
+    <segment id="44">Os experimentos feitos por Foster</segment>
+    <segment id="45">, Cunrath e seus colegas tentaram investigar as raízes do processo</segment>
+    <segment id="46">, primeiro in vitro e depois em camundongos cuja microbiota foi rigidamente controlada desde o nascimento.</segment>
+    <segment id="47">O passo inicial do processo foi testar bactérias benéficas uma a uma</segment>
+    <segment id="48">, confrontando-as com dois micróbios problemáticos: a Salmonella enterica (que pode causar gastroenterite) e a Klebsiella pneumoniae</segment>
+    <segment id="49">, cuja presença aumenta o risco de infecções resistentes a antibióticos em outros pontos do organismo.</segment>
+    <segment id="50">De início</segment>
+    <segment id="51">, os pesquisadores perceberam que os micróbios "do bem"</segment>
+    <segment id="52">, quando isolados</segment>
+    <segment id="53">, não eram capazes de impedir a multiplicação da Salmonella e da Klebsiella.</segment>
+    <segment id="54">Passo seguinte:</segment>
+    <segment id="55">ir adicionando mais micro-organismos benfazejos ao coquetel —5</segment>
+    <segment id="56">, 10 e até 50 espécies diferentes.</segment>
+    <segment id="57">Foi então que a coisa começou a mudar de figura.</segment>
+    <segment id="58">As bactérias são os pontos na cor magenta</segment>
+    <segment id="59">, que estão sobre a parede do intestino</segment>
+    <segment id="60">; os núcleos das células hospedeiras são os círculos azuis - Martin Jahn/University de OxfordO efeito de controle dos micróbios patogênicos (causadores de doenças) logo</segment>
+    <segment id="61">sese fez sentir</segment>
+    <segment id="62">, e crescia na mesma proporção que novas bactérias "amigas do intestino" eram acrescentadas à mistura.</segment>
+    <segment id="63">No entanto</segment>
+    <segment id="64">, nem todas tinham o mesmo efeito benéfico: era preciso que a combinação de espécies contivesse ao menos a espécie bacteriana</segment>
+    <segment id="65">Escherichia coli</segment>
+    <segment id="66">, junto com outros micróbios</segment>
+    <segment id="67">, para que</segment>
+    <segment id="68">para que fosse possível evitar a multiplicação das espécies patogênicas.</segment>
+    <segment id="69">As razões profundas por trás disso começaram a ficar um pouco mais claras quando os pesquisadores examinaram detalhadamente as regiões do DNA dessas espécies bacterianas responsáveis pela produção de proteínas —basicamente os tijolos essenciais da construção das células.</segment>
+    <segment id="70">O que eles verificaram é que existe uma sobreposição grande entre as necessidades básicas de produção de proteínas do conjunto das bactérias benéficas e as das nocivas</segment>
+    <segment id="71">, muito provavelmente indicando que elas precisam consumir um conjunto parecido de nutrientes para sobreviver.</segment>
+    <segment id="72">Ou seja</segment>
+    <segment id="73">, é como</segment>
+    <segment id="74">como se</segment>
+    <segment id="75">se as bactérias "do bem" devorassem o jantar das vilãs</segment>
+    <segment id="76">, deixando-as sem meios de continuar</segment>
+    <segment id="77">sese multiplicando</segment>
+    <segment id="78">, uma hipótese que foi confirmada por outros experimentos.</segment>
+    <segment id="79">Em tese</segment>
+    <segment id="80">, seria possível usar esse tipo de informação para produzir um contra-ataque bacteriano a determinada infecção de maneira precisa.</segment>
+  </rst>
+</analysis>

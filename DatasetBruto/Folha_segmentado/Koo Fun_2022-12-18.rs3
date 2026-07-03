@@ -1,0 +1,200 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Na segunda semana de novembro</segment>
+    <segment id="2">, quando Elon Musk demitiu funcionários e ameaçou acabar com o Twitter</segment>
+    <segment id="3">, brasileiros descobriram uma nova rede social: o Koo.</segment>
+    <segment id="4">O microblog indiano criado em 2020 —que também tem um passarinho</segment>
+    <segment id="5">comocomo símbolo</segment>
+    <segment id="6">, masmas amarelo— agradou pelo duplo sentido do nome —que é do som da ave</segment>
+    <segment id="7">, "não o que você pensa"</segment>
+    <segment id="8">, segundo mensagem da empresa— e pela similaridade com a plataforma comprada neste ano pelo bilionário americano por US$ 44 bilhões.</segment>
+    <segment id="9">Entre os novos perfis estão o do presidente eleito</segment>
+    <segment id="10">, Luiz Inácio Lula da Silva (PT)</segment>
+    <segment id="11">, o do influenciador Felipe Neto e o do líder espiritual dalai-lama.</segment>
+    <segment id="12">Segundo Mayank Bidawatka</segment>
+    <segment id="13">, cofundador da rede</segment>
+    <segment id="14">, em duas semanas</segment>
+    <segment id="15">, 2,5 milhões de usuários brasileiros</segment>
+    <segment id="16">sese cadastraram no Koo.</segment>
+    <segment id="17">Pronuncia-</segment>
+    <segment id="18">sese kôo.</segment>
+    <segment id="19">Mayank Bidawatka</segment>
+    <segment id="20">, cofundador do Koo - DivulgaçãoO Koo começou a ser desenvolvido em dezembro de 2019.</segment>
+    <segment id="21">Em maio de 2021</segment>
+    <segment id="22">, levantou US$ 30 milhões em uma rodada de investimentos liderada pela empresa americana Tiger Global.</segment>
+    <segment id="23">A empresa recebeu notoriedade na Índia em um momento parecido</segment>
+    <segment id="24">, quando o Twitter enfrentou uma crise com o governo local.</segment>
+    <segment id="25">Em entrevista à Folha</segment>
+    <segment id="26">, Bidawatka afirma que a plataforma será rigorosa na moderação de conteúdos.</segment>
+    <segment id="27">"</segment>
+    <segment id="28">Não vamos tolerar nenhum tipo de mentira</segment>
+    <segment id="29">, desinformação</segment>
+    <segment id="30">, qualquer tipo de discurso de ódio"</segment>
+    <segment id="31">, diz.</segment>
+    <segment id="32">Para isso</segment>
+    <segment id="33">, a empresa conta com dicionários em português e com a colaboração de usuários.  "</segment>
+    <segment id="34">O Twitter é um clube exclusivo em que algumas pessoas</segment>
+    <segment id="35">sese sentem muito importantes.</segment>
+    <segment id="36">Não acreditamos nessa filosofia"</segment>
+    <segment id="37">, diz Bidawatka.    O Twitter e o Koo têm muitas semelhanças.</segment>
+    <segment id="38">Quais são as diferenças?</segment>
+    <segment id="39">A semelhança entre o Koo e o Twitter termina no fato que os dois são microblogs.</segment>
+    <segment id="40">A maior diferença está na filosofia</segment>
+    <segment id="41">, seja</segment>
+    <segment id="42">comocomo fundadores</segment>
+    <segment id="43">, seja</segment>
+    <segment id="44">comocomo empresa.</segment>
+    <segment id="45">Somos uma plataforma muito mais inclusiva.</segment>
+    <segment id="46">O Twitter é um clube exclusivo em que algumas pessoas</segment>
+    <segment id="47">sese sentem muito importantes.</segment>
+    <segment id="48">Não acreditamos nessa filosofia.</segment>
+    <segment id="49">Nós acreditamos que todos são iguais e que todo o mundo deveria ter acesso igualitário.</segment>
+    <segment id="50">Existem coisas melhores do que cobrar US$ 8 [R$ 42] ao mês por uma coisa básica</segment>
+    <segment id="51">comocomo verificação.</segment>
+    <segment id="52">Acho que a internet deveria prover serviços gratuitos para milhões de usuários</segment>
+    <segment id="53">, é para isso que ela serve.  Se você quiser editar seu tuíte</segment>
+    <segment id="54">, você terá de pagar US$ 8 por mês.</segment>
+    <segment id="55">Essa é uma função gratuita do Koo.</segment>
+    <segment id="56">Por que deveria pagar por isso?</segment>
+    <segment id="57">Conheça o Koo e veja quem está na rede social indianaMais    novamente         de   de  de  representando um</segment>
+    <segment id="58">Como funciona o algoritmo do Koo?</segment>
+    <segment id="59">Nossos algoritmos são públicos.</segment>
+    <segment id="60">Em geral</segment>
+    <segment id="61">, eles são criados para ajudar as pessoas a encontrar o conteúdo mais relevante diretamente no feed.</segment>
+    <segment id="62">Usamos um conceito chamado afinidade</segment>
+    <segment id="63">, que calcula a partir de vários sinais a afinidade entre dois usuários com base em interações passadas.</segment>
+    <segment id="64">Com isso</segment>
+    <segment id="65">, encontramos o conteúdo que está em alta no feed de um usuário e esses dois critérios nos ajudam a priorizar alguns conteúdos em detrimento de outros.</segment>
+    <segment id="66">Isso é feito para ajudar os usuários.</segment>
+    <segment id="67">No entanto</segment>
+    <segment id="68">, sese um usuário atualizar seu feed</segment>
+    <segment id="69">, ele receberá um novo em ordem cronológica.</segment>
+    <segment id="70">Entendemos que os usuários também estão interessados nos Koos mais recentes.</segment>
+    <segment id="71">Como fica a questão da publicidade na plataforma?</segment>
+    <segment id="72">Como conseguem manter o aplicativo rentável?</segment>
+    <segment id="73">Estamos muito bem capitalizados no momento.</segment>
+    <segment id="74">Portanto</segment>
+    <segment id="75">, continuamos a nos concentrar no crescimento</segment>
+    <segment id="76">, na consolidação</segment>
+    <segment id="77">, na felicidade e na introdução de novos recursos interessantes.</segment>
+    <segment id="78">Nosso objetivo é criar uma plataforma que possa ajudar usuários e criadores a</segment>
+    <segment id="79">sese beneficiar da troca monetária que ocorre entre o app e os anunciantes.</segment>
+    <segment id="80">Iniciaremos nossos experimentos de monetização em grande escala.</segment>
+    <segment id="81">O que fazem para mitigar discursos de ódio e desinformação no Koo?</segment>
+    <segment id="82">A língua pode ser uma barreira para a moderação de conteúdo?</segment>
+    <segment id="83">Trabalhamos com muitos dicionários.</segment>
+    <segment id="84">Não vamos tolerar nenhum tipo de mentira na plataforma</segment>
+    <segment id="85">, desinformação</segment>
+    <segment id="86">, qualquer tipo de discurso de ódio.</segment>
+    <segment id="87">Assim que identificamos coisas do tipo</segment>
+    <segment id="88">, nós imediatamente retiramos do ar.</segment>
+    <segment id="89">É importante fornecer aos usuários um lugar seguro onde eles possam</segment>
+    <segment id="90">sese expressar.</segment>
+    <segment id="91">Temos diretrizes muito claras sobre</segment>
+    <segment id="92">comocomo moderamos conteúdos.</segment>
+    <segment id="93">Temos dicionários em todas as línguas que atuamos para identificar discurso de ódio e desinformação.</segment>
+    <segment id="94">Também fornecemos muitas ferramentas para a comunidade</segment>
+    <segment id="95">para que</segment>
+    <segment id="96">para que eles possam denunciar.</segment>
+    <segment id="97">Assim como</segment>
+    <segment id="98">como o Twitter</segment>
+    <segment id="99">, Koo tem um passarinho</segment>
+    <segment id="100">comocomo símbolo</segment>
+    <segment id="101">;</segment>
+    <segment id="102">rede rivaliza diretamente com a big tech americana na Índia - ReproduçãoFacebook</segment>
+    <segment id="103">, Instagram e Twitter agora dividem espaço com novas plataformas</segment>
+    <segment id="104">, como</segment>
+    <segment id="105">como TikTok</segment>
+    <segment id="106">, BeReal e Koo</segment>
+    <segment id="107">, e enfrentam uma onda de demissões.</segment>
+    <segment id="108">Como você vê essa movimentação?</segment>
+    <segment id="109">As pessoas vão continuar procurando por plataformas mais relevantes.</segment>
+    <segment id="110">O usuário fará perguntas</segment>
+    <segment id="111">comocomo:</segment>
+    <segment id="112">"</segment>
+    <segment id="113">É relevante para mim nos termos da língua que eu falo?</segment>
+    <segment id="114">Em termos de me conectar com mais pessoas?</segment>
+    <segment id="115">".</segment>
+    <segment id="116">É isto que o Koo está fazendo: aqui está o português</segment>
+    <segment id="117">, aqui estão todas as pessoas que falam português —dentro ou fora do Brasil.</segment>
+    <segment id="118">Por favor</segment>
+    <segment id="119">, fiquem à vontade para conversar</segment>
+    <segment id="120">, seguirem e aprenderem um com o outro.  Estamos indo um passo à frente do que aconteceu até agora.</segment>
+    <segment id="121">E fazendo muito melhor</segment>
+    <segment id="122">, com experiências mais refinadas.</segment>
+    <segment id="123">Dando um teclado em português</segment>
+    <segment id="124">, permitindo que você</segment>
+    <segment id="125">sese expresse em várias línguas.</segment>
+    <segment id="126">Você também pode passar a mesma mensagem em inglês</segment>
+    <segment id="127">, hindi</segment>
+    <segment id="128">, francês</segment>
+    <segment id="129">, alemão</segment>
+    <segment id="130">, italiano</segment>
+    <segment id="131">, vietnamita.</segment>
+    <segment id="132">O Twitter que conhecemos antes de Elon Musk é diferente do de hoje.</segment>
+    <segment id="133">Mayank BidawatkaCofundador do KooO que acha da atuação de Elon Musk à frente do Twitter?</segment>
+    <segment id="134">Eu acho que o Elon Musk é uma personalidade muito conhecida.</segment>
+    <segment id="135">Minha expectativa em relação a figuras mundiais e pessoas que ocupam posições de destaque é que eu possa olhar e aprender com elas.</segment>
+    <segment id="136">Acho que isso não está acontecendo com ele.</segment>
+    <segment id="137">O Twitter que conhecemos antes dele é diferente do de hoje.</segment>
+    <segment id="138">Acredito que não existe transparência.</segment>
+    <segment id="139">Não tenho certeza</segment>
+    <segment id="140">sese existe foco no usuário.</segment>
+    <segment id="141">Eu sei que de fato não há sinal de neutralidade.</segment>
+    <segment id="142">Ele fez um tuíte no qual disse publicamente que</segment>
+    <segment id="143">, sese alguém ainda não tivesse um candidato</segment>
+    <segment id="144">, que votassem nos republicanos.</segment>
+    <segment id="145">Isso não é esperado de uma figura mundial.</segment>
+    <segment id="146">Isso não é esperado do homem mais rico do mundo.</segment>
+    <segment id="147">Não é o esperado de uma pessoa que é dono e que comanda o Twitter</segment>
+    <segment id="148">, que supostamente é uma plataforma neutra.</segment>
+    <segment id="149">Quantos brasileiros entraram na plataforma?O app existe na Índia há dois anos e meio</segment>
+    <segment id="150">, no Brasil são apenas duas semanas [desde o boom de usuários</segment>
+    <segment id="151">, na metade de novembro.</segment>
+    <segment id="152">A entrevista foi feita no início de dezembro].</segment>
+    <segment id="153">Foram 2</segment>
+    <segment id="154">,5 milhões de usuários no app e alguns milhões no site.</segment>
+    <segment id="155">O Brasil tem crescido muito rápido.</segment>
+    <segment id="156">Muita gente pegou tração</segment>
+    <segment id="157">, seguidores e engajamento nos últimos dias.</segment>
+    <segment id="158">Não acha que será passageiro?</segment>
+    <segment id="159">Não existe motivo para deixar o aplicativo.</segment>
+    <segment id="160">Existem muitas pessoas que estão ganhando muito com o app.</segment>
+    <segment id="161">Se você quer seguir qualquer outra pessoa</segment>
+    <segment id="162">, nós não vamos incluir conteúdos no seu feed nos quais você não tenha</segment>
+    <segment id="163">sese inscrito.</segment>
+    <segment id="164">Mas você vai ver que isso acontece no Instagram e no Twitter.</segment>
+    <segment id="165">Até de pessoas que você não segue você começa a ver postagens.</segment>
+    <segment id="166">Nós não fazemos isso.</segment>
+    <segment id="167">RAIO-X  Mayank Bidawatka</segment>
+    <segment id="168">, 41, é cofundador do Koo e do The Media Ant.</segment>
+    <segment id="169">É graduado pelo Instituto Asiático de Administração</segment>
+    <segment id="170">, em Manila</segment>
+    <segment id="171">, Filipinas.</segment>
+    <segment id="172">Foi bancário antes de trabalhar em empresas</segment>
+    <segment id="173">comocomo redBus</segment>
+    <segment id="174">, uma plataforma online de venda de passagens.</segment>
+  </rst>
+</analysis>

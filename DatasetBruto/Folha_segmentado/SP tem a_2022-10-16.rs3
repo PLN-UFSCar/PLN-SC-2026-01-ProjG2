@@ -1,0 +1,96 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um morador de 37 anos de Praia Grande é a segunda pessoa morta por varíola dos macacos no estado de São Paulo —a primeira na Baixada Santista.</segment>
+    <segment id="2">Ele tinha comorbidades</segment>
+    <segment id="3">, de acordo com a secretaria da saúde do município.</segment>
+    <segment id="4">A morte ocorreu na madrugada deste sábado (15)</segment>
+    <segment id="5">, em um hospital particular de Santos.</segment>
+    <segment id="6">Com o caso</segment>
+    <segment id="7">caso, o Brasil totaliza sete mortes por varíola dos macacos.</segment>
+    <segment id="8">Foram registrados dois óbitos em Minas Gerais e três no Rio de Janeiro</segment>
+    <segment id="9">, além dos dois em São Paulo.</segment>
+    <segment id="10">Os pacientes também tinham comorbidades</segment>
+    <segment id="11">, o que aumenta os riscos para complicações pela doença.</segment>
+    <segment id="12">O rapaz havia sido diagnosticado com a doença no início de agosto.</segment>
+    <segment id="13">No mês seguinte</segment>
+    <segment id="14">, foi internado em um hospital particular em Praia Grande (que fica a 70km da capital) devido a infecções secundárias</segment>
+    <segment id="15">, e depois a foi levado para uma unidade outro hospital particular em Santos</segment>
+    <segment id="16">, onde morreu.</segment>
+    <segment id="17">A Secretaria de Saúde de Praia Grande informou que o homem foi acompanhado pela Divisão de Vigilância Epidemiológica em todo o período de internação.</segment>
+    <segment id="18">Mulher segura ampola com vacina utilizada contra a varíola dos macacos - Dado Ruvic - 25.mai.22/ReutersA reportagem</segment>
+    <segment id="19">procurou a Prefeitura de Santos para mais detalhes</segment>
+    <segment id="20">, masmas o órgão disse que as informações devem ser obtidas junto à cidade de Praia Grande.</segment>
+    <segment id="21">Na quarta-feira (12)</segment>
+    <segment id="22">, o estado de São Paulo havia registrado o primeiro óbito por varíola dos macacos.</segment>
+    <segment id="23">O paciente tinha 26 anos e era morador da capital.</segment>
+    <segment id="24">Ele estava internado no Instituto de Infectologia Emílio Ribas desde 1º de agosto</segment>
+    <segment id="25">, possuía comorbidades e passava por tratamento com antivirais para uso emergencial em pacientes graves.</segment>
+    <segment id="26">Leia mais sobre a varíola dos macacosPrimeiro lote de vacina contra varíola dos macacos chega ao BrasilVeja</segment>
+    <segment id="27">comocomo diferenciar lesões de varíola dos macacos das geradas por outras doençasAlém de vacina</segment>
+    <segment id="28">, outras medidas podem ser tomadas para evitar infecção</segment>
+    <segment id="29">; veja quaisComplicações raras podem ser causadas pela doençaSegundo a Secretaria Estadual da Saúde</segment>
+    <segment id="30">, até o dia 13 de outubro</segment>
+    <segment id="31">, o estado tinha 3.901 confirmações de varíola dos macacos e 1.018 suspeitos</segment>
+    <segment id="32">, que permanecem em investigação.</segment>
+    <segment id="33">A Baixada Santista estava com 62 —19 na Praia Grande</segment>
+    <segment id="34">, 18 em Santos</segment>
+    <segment id="35">, 13 em São Vicente</segment>
+    <segment id="36">, 7 no Guarujá</segment>
+    <segment id="37">, 4 em Itanhaém e 1 em Cubatão.</segment>
+    <segment id="38">Segundo o último boletim epidemiológico do Ministério da Saúde</segment>
+    <segment id="39">, atualizado até 14 de outubro</segment>
+    <segment id="40">, o país tinha 8.652 casos confirmados de varíola dos macacos e 4.894 em investigação.</segment>
+    <segment id="41">O principal sintoma da doença é o aparecimento de lesões parecidas com espinhas ou bolhas</segment>
+    <segment id="42">, que podem surgir no rosto</segment>
+    <segment id="43">, dentro da boca</segment>
+    <segment id="44">, nas mãos</segment>
+    <segment id="45">, pés, peito</segment>
+    <segment id="46">, genitais ou ânus.</segment>
+    <segment id="47">Os demais são caroço no pescoço</segment>
+    <segment id="48">, axila e virilha</segment>
+    <segment id="49">, febre</segment>
+    <segment id="50">, dor de cabeça e no corpo</segment>
+    <segment id="51">, calafrios e fraqueza.</segment>
+    <segment id="52">O período de incubação é tipicamente de três a 16 dias</segment>
+    <segment id="53">, masmas pode chegar a 21.</segment>
+    <segment id="54">A vacina é essencial para prevenir a doença.</segment>
+    <segment id="55">O Brasil recebeu no último dia 4 o primeiro lote de vacinas contra a varíola dos macacos.</segment>
+    <segment id="56">São 9.800 doses</segment>
+    <segment id="57">, que serão utilizadas em um estudo.</segment>
+    <segment id="58">Imagens amplificadas do vírus da varíola dos macacosMais    novamente         de   de  de  representando um</segment>
+    <segment id="59">Ao todo</segment>
+    <segment id="60">, o Ministério da Saúde encomendou 50 mil doses por meio da Opas (Organização Pan-Americana para a Saúde)</segment>
+    <segment id="61">, braço da OMS (Organização Mundial da Saúde) nas Américas.</segment>
+    <segment id="62">As demais medidas de prevenção evitar contato íntimo ou sexual com pessoas que tenham lesões na pele ou a confirmação da doença</segment>
+    <segment id="63">; higienizar as mãos com água e sabão e usar álcool em gel</segment>
+    <segment id="64">; não compartilhar roupas de cama</segment>
+    <segment id="65">, toalhas</segment>
+    <segment id="66">, talheres</segment>
+    <segment id="67">, copos</segment>
+    <segment id="68">, objetos pessoais ou brinquedos sexuais</segment>
+    <segment id="69">; usar máscara.</segment>
+    <segment id="70">Pessoas com suspeita ou confirmação da doença devem ser isoladas.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,53 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">PF cumpre mandados em ONG suspeita em Minas Gerais
+BELO HORIZONTE - A Polícia Federal cumpriu nesta quinta-feira mandados de busca e apreensão de documentos no Instituto Cidade</segment>
+    <segment id="2">, ONG de Juiz de Fora suspeita de desviar verbas do Ministério do Esporte.</segment>
+    <segment id="3">A entidade é dirigida por José Augusto da Silva</segment>
+    <segment id="4">, filiado ao PCdoB e que seria ligado a Wadson Ribeiro</segment>
+    <segment id="5">, secretário nacional de Esporte</segment>
+    <segment id="6">, Educação</segment>
+    <segment id="7">, Lazer e Inclusão Social da pasta.</segment>
+    <segment id="8">A PORTAS FECHADAS: Planalto fecha à imprensa seminário com ONGs</segment>
+    <segment id="9">Ribeiro foi secretário-executivo do ex-ministro Orlando Silva.</segment>
+    <segment id="10">Segundo a pasta</segment>
+    <segment id="11">, Ribeiro nega ter relações com o dono da ONG</segment>
+    <segment id="12">, apesar de ele ter militado em sua malsucedida campanha para deputado federal ano passado.</segment>
+    <segment id="13">Os mandados foram cumpridos em dois endereços da organização: a sede e uma fábrica de bolas e artigos esportivos cuja confecção seria um dos objetos do convênio.</segment>
+    <segment id="14">"</segment>
+    <segment id="15">Os levantamentos demonstraram frontal discrepância entre o montante dos repasses financeiros e a precariedade dos núcleos abrangidos pelo programa do Esporte"</segment>
+    <segment id="16">, disse nota da PF.</segment>
+    <segment id="17">Segundo a PF</segment>
+    <segment id="18">, os investigados podem ser denunciados por crime de peculato.</segment>
+    <segment id="19">Na última semana</segment>
+    <segment id="20">, o presidente do PSDB-MG</segment>
+    <segment id="21">, deputado estadual João Leite</segment>
+    <segment id="22">, protocolou no Ministério Público Federal em BH pedido de investigação contra quatro organizações em Minas que receberam verba do Esporte</segment>
+    <segment id="23">, entre elas o Instituto Cidade.</segment>
+    <segment id="24">O responsável pela ONG</segment>
+    <segment id="25">, José Augusto da Silva</segment>
+    <segment id="26">, não quis dar entrevistas.</segment>
+  </rst>
+</analysis>

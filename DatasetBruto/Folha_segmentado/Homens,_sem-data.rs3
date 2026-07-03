@@ -1,0 +1,98 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">As 61.283 mortes violentas ocorridas em 2016 no Brasil encerram algumas assimetrias importantes: a maioria das vítimas são homens (92%)</segment>
+    <segment id="2">, negros (74</segment>
+    <segment id="3">,5%) e jovens (53% entre 15 e 29 anos).Segundo o Atlas da Violência 2017</segment>
+    <segment id="4">, publicado pelo Ipea (Instituto de Pesquisa Econômica Aplicada) e pelo Fórum Brasileiro de Segurança Pública</segment>
+    <segment id="5">, as mortes violentas no país subiram 10</segment>
+    <segment id="6">,2% entre 2005 e 2015.</segment>
+    <segment id="7">Mas, entre pessoas de 15 a 29 anos</segment>
+    <segment id="8">, a alta foi de 17</segment>
+    <segment id="9">,2%.Desde 1980</segment>
+    <segment id="10">, os mortos são jovens cada vez mais jovens.</segment>
+    <segment id="11">O pico da idade média das vítimas diminuiu</segment>
+    <segment id="12">, desde então</segment>
+    <segment id="13">, de 25 anos para 21 anos.</segment>
+    <segment id="14">Um dos fatores que explicam esse declínio é o descompromisso de governos com políticas eficazes e apoiadas em evidências científicas</segment>
+    <segment id="15">, segundo Daniel Cerqueira</segment>
+    <segment id="16">, doutor em economia pela PUC-RJ e especialista em violência.</segment>
+    <segment id="17">Para ele</segment>
+    <segment id="18">, falhas na implementação do Estatuto do Desarmamento e a proliferação das drogas em cidades médias e pequenas nos anos 2000 colaboraram para a queda da idade média das vítimas.</segment>
+    <segment id="19">Na clivagem por cor da pele</segment>
+    <segment id="20">, salta aos olhos o fato de que negros e pardos (53</segment>
+    <segment id="21">,6% da população) correspondam a três de cada quatro pessoas assassinadas em 2016.</segment>
+    <segment id="22">Os que</segment>
+    <segment id="23">sese declaram brancos (45</segment>
+    <segment id="24">,5% dos brasileiros)</segment>
+    <segment id="25">foram vítimas em 25% dos casos.</segment>
+    <segment id="26">Mais pobre e menos escolarizada</segment>
+    <segment id="27">, essa fatia dos brasileiros ainda vive</segment>
+    <segment id="28">, em grande parte</segment>
+    <segment id="29">, marginalizada</segment>
+    <segment id="30">, com poucas oportunidades de ascensão social e exposta ao cotidiano de violência das periferias.</segment>
+    <segment id="31">Especialistas destacam também traços racistas da sociedade.</segment>
+    <segment id="32">&amp;quot;A morte de um negro não tem o mesmo peso que a de um branco</segment>
+    <segment id="33">, que não tem o mesmo peso que a de um branco rico&amp;quot</segment>
+    <segment id="34">;, avalia Cerqueira.</segment>
+    <segment id="35">Traçar o perfil de quem mata no Brasil</segment>
+    <segment id="36">, por outro lado</segment>
+    <segment id="37">, é uma tarefa mais difícil</segment>
+    <segment id="38">, devido à ausência de dados oficiais e à falta de conclusão das investigações sobre a maior parte dos casos.</segment>
+    <segment id="39">Alguns estudos</segment>
+    <segment id="40">, porém</segment>
+    <segment id="41">porém, oferecem pistas.</segment>
+    <segment id="42">Um dos mais reveladores é &amp;quot</segment>
+    <segment id="43">;Mensurando o Tempo do Processo de Homicídio Doloso em Cinco Capitais&amp;quot</segment>
+    <segment id="44">; (2014)</segment>
+    <segment id="45">, da pesquisadora da FGV Ludmila Mendonça Lopes Ribeiro</segment>
+    <segment id="46">, que identifica gargalos na Justiça criminal.</segment>
+    <segment id="47">O trabalho analisa mortes ocorridas em 2013</segment>
+    <segment id="48">, com autoria identificada</segment>
+    <segment id="49">, em Belém</segment>
+    <segment id="50">, Belo Horizonte</segment>
+    <segment id="51">, Goiânia</segment>
+    <segment id="52">, Porto Alegre e Recife.</segment>
+    <segment id="53">Os autores dos crimes tinham as mesmas características da maioria das vítimas: homens</segment>
+    <segment id="54">, negros e jovens.</segment>
+    <segment id="55">E, ao contrário do senso comum</segment>
+    <segment id="56">, parcela significativa dos homicídios não é cometida por bandidos contumazes</segment>
+    <segment id="57">, masmas por pessoas normais que &amp;quot</segment>
+    <segment id="58">;perderam a cabeça&amp;quot</segment>
+    <segment id="59">;.Segundo o estudo &amp;quot</segment>
+    <segment id="60">;As Motivações nos Casos de Letalidade Violenta da Região Metropolitana do Rio de Janeiro&amp;quot</segment>
+    <segment id="61">;, de 2014</segment>
+    <segment id="62">, do sociólogo Renato Dirk e de Lílian de Moura</segment>
+    <segment id="63">, da corregedoria da Polícia Civil fluminense</segment>
+    <segment id="64">, mais de um quinto (23%) das mortes foram derivadas de conflitos interpessoais</segment>
+    <segment id="65">, como</segment>
+    <segment id="66">como brigas de bar ou de trânsito</segment>
+    <segment id="67">, disputas entre vizinhos e crimes passionais.</segment>
+    <segment id="68">Dados sobre os dias em que mais acontecem homicídios</segment>
+    <segment id="69">, levantados por Cerqueira com base nas ocorrências no Rio entre 2006 e 2009</segment>
+    <segment id="70">, corroboram essa visão.</segment>
+    <segment id="71">A maior parte dos homicídios acontece aos sábados e domingos</segment>
+    <segment id="72">, e o período de maior recorrência vai das 18h às 4h.</segment>
+  </rst>
+</analysis>

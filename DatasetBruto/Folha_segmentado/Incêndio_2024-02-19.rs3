@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um incêndio de grandes proporções atinge na madrugada desta segunda-feira (19) um galpão localizado na rua Aguiar Andrade</segment>
+    <segment id="2">, no bairro Paquetá</segment>
+    <segment id="3">, região central de Santos</segment>
+    <segment id="4">, no litoral paulista.</segment>
+    <segment id="5">Dez equipes do Corpo de Bombeiros de Santos e de outras cidades da região estão no local desde o início da madrugada para tentar controlar o fogo Não há informações sobre vítimas.</segment>
+    <segment id="6">Galpão é destruído por incêndio em Santos - Reprodução/Redes sociaisA energia elétrica foi desligada no entorno do imóvel e os bombeiros avaliam</segment>
+    <segment id="7">sese outros prédios foram atingidos ou correm risco de também pegar fogo ou desabar.</segment>
+    <segment id="8">As causas do incêndio serão investigadas.</segment>
+    <segment id="9">A Receita Federal afirmou</segment>
+    <segment id="10">, por meio de nota</segment>
+    <segment id="11">, que ainda não</segment>
+    <segment id="12">sese sabe o que causou o incêndio e que monitora de perto o ocorrido.</segment>
+    <segment id="13">"</segment>
+    <segment id="14">Autoridades da Instituição no estado de São Paulo estão mobilizadas desde cedo acompanhando o</segment>
+    <segment id="15">casocaso"</segment>
+    <segment id="16">, completa a nota.</segment>
+  </rst>
+</analysis>

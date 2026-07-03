@@ -1,0 +1,150 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">​  Os resultados do Enem (Exame Nacional do Ensino Médio) expõem a cada ano um abismo entre as notas das escolas públicas e privadas.</segment>
+    <segment id="2">Unidades particulares têm melhores resultados em geral</segment>
+    <segment id="3">, masmas um levantamento da Folha mostra</segment>
+    <segment id="4">comocomo a situação entre elas também é desigual</segment>
+    <segment id="5">, mesmo quando atendem alunos de mesmo perfil.</segment>
+    <segment id="6">Uma a cada três escolas particulares do país com estudantes de alto nível socioeconômico não atingiu a nota que seria esperada no Enem do ano passado para esses colégios.</segment>
+    <segment id="7">Desempenho nas escolas do EnemMais    novamente         de   de  de  representando um</segment>
+    <segment id="8">Das 1.163 escolas privadas com alunos de nível socioeconômico</segment>
+    <segment id="9">“muito alto”</segment>
+    <segment id="10">, “alto” e “médio alto”</segment>
+    <segment id="11">, 418 (36%) não alcançaram patamares que esses grupos precisariam atingir</segment>
+    <segment id="12">, conforme estimativas estatísticas calculadas pela reportagem.</segment>
+    <segment id="13">Na prática</segment>
+    <segment id="14">, elas teriam condições de obter melhores resultados devido ao perfil de seus estudantes.</segment>
+    <segment id="15">Nas unidades públicas com alunos mais ricos</segment>
+    <segment id="16">, esse índice chega a 51%</segment>
+    <segment id="17">, embora</segment>
+    <segment id="18">embora estas não tenham autonomia para resolver lacunas estruturais</segment>
+    <segment id="19">, como</segment>
+    <segment id="20">como a falta de professores.</segment>
+    <segment id="21">Pesquisas evidenciam a influência do nível socioeconômico dos alunos no sucesso escolar.</segment>
+    <segment id="22">Colégios com estudantes mais pobres têm maior dificuldade de obter melhores resultados —e melhores médias no Enem</segment>
+    <segment id="23">, por exemplo.</segment>
+    <segment id="24">Por outro lado</segment>
+    <segment id="25">, unidades com alunos mais ricos costumam ter um caminho mais fácil.</segment>
+    <segment id="26">A Folha mapeou as médias por escola a partir de dados brutos e oficiais do Enem 2017.</segment>
+    <segment id="27">Só tiveram médias unidades com pelo menos metade dos alunos do 3º ano no Enem (respeitado</segment>
+    <segment id="28">, ainda</segment>
+    <segment id="29">, um mínimo de dez estudantes).</segment>
+    <segment id="30">O método é igual ao adotado em anos anteriores pelo MEC (Ministério da Educação).</segment>
+    <segment id="31">A reportagem fez a estimativa estatística das notas esperadas para cada grupo de escolas conforme os perfis socioeconômicos dos alunos.</segment>
+    <segment id="32">Para isso</segment>
+    <segment id="33">, utilizou também os dados do Enem de 2016.</segment>
+    <segment id="34">A nota esperada para escolas privadas com nível socioeconômico considerado</segment>
+    <segment id="35">“muito alto”</segment>
+    <segment id="36">, por exemplo</segment>
+    <segment id="37">, é de 591</segment>
+    <segment id="38">,24.</segment>
+    <segment id="39">Das 685 escolas com médias calculadas e que têm alunos com esse perfil</segment>
+    <segment id="40">, 32% não conseguem alcançar essa nota.</segment>
+    <segment id="41">Entre escolas particulares com nível</segment>
+    <segment id="42">“alto”</segment>
+    <segment id="43">, 44% das 350 não chegam na nota estimada para esse grupo (de 556</segment>
+    <segment id="44">,32).</segment>
+    <segment id="45">Os níveis socioeconômicos foram calculados para cada escola pelo MEC em 2015.</segment>
+    <segment id="46">Ao todo são sete níveis</segment>
+    <segment id="47">, que vão do “muito baixo” ao “muito alto”</segment>
+    <segment id="48">, considerando todos as escolas do país.</segment>
+    <segment id="49">Eles levam em conta informações</segment>
+    <segment id="50">comocomo renda indireta (</segment>
+    <segment id="51">comocomo posse de bens) e a escolaridade dos pais.</segment>
+    <segment id="52">Para Silvia Collelo</segment>
+    <segment id="53">, da Faculdade de Educação da USP</segment>
+    <segment id="54">, os dados do Enem podem ser bons indicadores para avaliar uma escola</segment>
+    <segment id="55">, masmas com cuidado.</segment>
+    <segment id="56">“</segment>
+    <segment id="57">Para avaliar</segment>
+    <segment id="58">, é necessário considerar a população que entra na escola.</segment>
+    <segment id="59">Indiscutivelmente as classes média e alta têm vantagens por terem acesso a bens culturais que as classes menos privilegiadas não têm”</segment>
+    <segment id="60">, diz.</segment>
+    <segment id="61">“</segment>
+    <segment id="62">Claro que temos escolas particulares boas e ruins</segment>
+    <segment id="63">, e muitas vezes os dados não dão condição de avaliar quanto a unidade faz.</segment>
+    <segment id="64">”</segment>
+    <segment id="65">A Folha ainda estimou a nota esperada para escolas por faixa de mensalidades.</segment>
+    <segment id="66">Os preços são referentes a 2017</segment>
+    <segment id="67">, para escolas da cidade de São Paulo</segment>
+    <segment id="68">, apurados pelo instituto Datafolha.</segment>
+    <segment id="69">A nota esperada para escolas com mensalidades de até R$ 1.000</segment>
+    <segment id="70">, por exemplo</segment>
+    <segment id="71">, é 14% menor que a daquelas que cobram mais de R$ 3.000.</segment>
+    <segment id="72">Como nos outros anos</segment>
+    <segment id="73">, a média das escolas foi calculada com as notas dos alunos nas provas objetivas (linguagens</segment>
+    <segment id="74">, matemática</segment>
+    <segment id="75">, ciências da natureza e ciências humanas</segment>
+    <segment id="76">, sem contar a redação).</segment>
+    <segment id="77">Para comparar os colégios</segment>
+    <segment id="78">, a Folha considerou aqueles com ao menos 61 estudantes no 3º ano.</segment>
+    <segment id="79">Esse grupo</segment>
+    <segment id="80">sese aproxima mais do universo de escolas brasileiras —que</segment>
+    <segment id="81">, na média</segment>
+    <segment id="82">, têm 82 alunos no 3º ano.</segment>
+    <segment id="83">Essa tabulação resultou no total de 6.499 escolas</segment>
+    <segment id="84">, sendo 5.227 públicas e 1.272 privadas.</segment>
+    <segment id="85">Na lista das cem unidades mais bem colocadas</segment>
+    <segment id="86">, 30 são paulistas e 23</segment>
+    <segment id="87">, mineiras.</segment>
+    <segment id="88">O colégio Bernoulli</segment>
+    <segment id="89">, de Belo Horizonte</segment>
+    <segment id="90">, ficou pelo quinto ano seguido em primeiro</segment>
+    <segment id="91">, segundo esses critérios.</segment>
+    <segment id="92">O Vértice</segment>
+    <segment id="93">, da capital paulista</segment>
+    <segment id="94">, lidera no estado de São Paulo.</segment>
+    <segment id="95">Assim como</segment>
+    <segment id="96">como em anos anteriores</segment>
+    <segment id="97">, as escolas públicas ficam em desvantagem.</segment>
+    <segment id="98">Mais de 80% dos alunos de ensino médio estão na rede pública.</segment>
+    <segment id="99">Dos 10% de escolas com as maiores notas</segment>
+    <segment id="100">, só 18% são públicas —e 82%</segment>
+    <segment id="101">, particulares.</segment>
+    <segment id="102">Todas as públicas nesse grupo de elite são federais ou estaduais de ensino técnico</segment>
+    <segment id="103">, que em geral fazem vestibulinho.</segment>
+    <segment id="104">Não por acaso</segment>
+    <segment id="105">, quase todas as unidades deste grupo (das duas redes) têm alunos com elevado nível socioeconômico</segment>
+    <segment id="106">A média geral dos participantes no Enem 2017 foi de 514</segment>
+    <segment id="107">,65.</segment>
+    <segment id="108">Cerca de 70% das escolas públicas com médias calculadas ficam abaixo desse patamar.</segment>
+    <segment id="109">Somente 2% das privadas estão nessas condições.</segment>
+    <segment id="110">No outro extremo</segment>
+    <segment id="111">, das 10% de escolas com menores notas</segment>
+    <segment id="112">, todas são públicas.</segment>
+    <segment id="113">E 83% das unidades têm alunos entre os mais pobres.</segment>
+    <segment id="114">Essas escolas não superaram a média de 473</segment>
+    <segment id="115">,49 pontos na prova.</segment>
+    <segment id="116">O Enem é a porta de entrada para praticamente todas as universidades federais.</segment>
+    <segment id="117">É adotado também por universidades estaduais</segment>
+    <segment id="118">, como</segment>
+    <segment id="119">como a USP</segment>
+    <segment id="120">, que seleciona parte de seus alunos a partir da nota.</segment>
+    <segment id="121">Os resultados por escola expressam ainda outro desafio das escolas públicas: fazer com que os alunos façam a prova do Enem e tentem acesso ao ensino superior público.</segment>
+    <segment id="122">Só 38% das 19.490 escolas públicas de ensino médio do país (incluindo as de pequeno porte) tiveram mais da metade dos alunos no Enem 2017.</segment>
+    <segment id="123">Das 8.271 privadas</segment>
+    <segment id="124">, 75% conseguem atingir esse patamar.</segment>
+  </rst>
+</analysis>

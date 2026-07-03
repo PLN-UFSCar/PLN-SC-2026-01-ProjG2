@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O fundo de aval para micro e pequenas empresas lançado pelo Banrisul com o Sebrae-RS em dezembro concedeu R$ 67</segment>
+    <segment id="2">,3 milhões em crédito nos primeiros seis meses em cerca de 1.700 operações</segment>
+    <segment id="3">, segundo a instituição.</segment>
+    <segment id="4">De acordo com o banco</segment>
+    <segment id="5">, os atendimentos registraram negócios em busca de sobrevivência</segment>
+    <segment id="6">, masmas também empresas com planos de expansão.</segment>
+    <segment id="7">Cédula de R$200</segment>
+    <segment id="8">,00 (duzentos reais) - Gabriel Cabral/FolhapressPelo modelo</segment>
+    <segment id="9">, o fundo funciona</segment>
+    <segment id="10">comocomo avalista e pode assegurar até 80% do valor financiado</segment>
+    <segment id="11">, como</segment>
+    <segment id="12">como garantia complementar às operações de crédito contratadas.</segment>
+    <segment id="13">A linha abrange negócios formalizados</segment>
+    <segment id="14">comocomo microempreendedor individual</segment>
+    <segment id="15">, microempresas e empresas de pequeno porte.</segment>
+    <segment id="16">Joana Cunha com Paulo Ricardo Martins e Gilmara Santos</segment>
+  </rst>
+</analysis>

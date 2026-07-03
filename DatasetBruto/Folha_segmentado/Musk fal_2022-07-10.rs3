@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Elon Musk evitou discutir o fracasso do acordo com o Twitter ao</segment>
+    <segment id="2">sese dirigir a uma plateia de magnatas no sábado em Sun Valley</segment>
+    <segment id="3">, disseram à Reuters duas fontes que participaram da conferência.</segment>
+    <segment id="4">Em uma entrevista de grande alcance</segment>
+    <segment id="5">, Musk passou a maior parte do tempo falando sobre colonizar Marte e exaltando as virtudes de aumentar as taxas de natalidade na Terra</segment>
+    <segment id="6">, disseram as fontes.  Musk</segment>
+    <segment id="7">, presidente executivo da Tesla Inc e da empresa de foguetes Space X</segment>
+    <segment id="8">, há muito defende o estabelecimento de uma civilização no planeta vermelho.</segment>
+    <segment id="9">Musk disse na semana passada que fará o possível para ajudar o que chamou de "crise da subpopulação"</segment>
+    <segment id="10">, após uma reportagem da mídia segundo a qual ele é pai de gêmeos de uma executiva do alto escalão de sua startup de chips Neuralink.</segment>
+    <segment id="11">Ele falou sobre</segment>
+    <segment id="12">comocomo as taxas de natalidade estão diminuindo nos países ricos</segment>
+    <segment id="13">, assunto que ele explorou extensivamente no Twitter.</segment>
+    <segment id="14">O empresário bilionário subiu ao palco na Allen &amp;amp</segment>
+    <segment id="15">;</segment>
+    <segment id="16">Co Sun Valley Conference</segment>
+    <segment id="17">, um encontro anual de executivos de mídia e tecnologia em Idaho</segment>
+    <segment id="18">, menos de 24 horas depois de anunciar que estava encerrando seu acordo de 44 bilhões de dólares para comprar o Twitter Inc.​</segment>
+  </rst>
+</analysis>

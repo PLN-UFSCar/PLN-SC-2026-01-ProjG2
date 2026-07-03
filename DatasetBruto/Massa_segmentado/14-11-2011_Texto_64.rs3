@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Hoje tem ponto facultativo nas centrais</segment>
+    <segment id="2">O atendimento volta a ser feito normalmente na quarta-feira</segment>
+    <segment id="3">Os postos do Serviço Municipal de Intermediação de Mão de Obra (Simm) não funcionam hoje</segment>
+    <segment id="4">, por conta do ponto facultativo</segment>
+    <segment id="5">, decretado pela Prefeitura Municipal de Salvador</segment>
+    <segment id="6">, que antecede o feriado da Proclamação da República de amanhã.</segment>
+    <segment id="7">O atendimento volta a ser feito normalmente na quarta-feira</segment>
+    <segment id="8">, das das 8h às 17h.</segment>
+    <segment id="9">A unidade central do SineBahia</segment>
+    <segment id="10">, na Avenida ACM</segment>
+    <segment id="11">, em Salvador</segment>
+    <segment id="12">, também não vai abrir hoje e as atividades serão normalizadas na quarta-feira</segment>
+    <segment id="13">, após o feriado.</segment>
+    <segment id="14">Já as unidades que ficam dentro dos postos do SAC</segment>
+    <segment id="15">, abrirão normalmente hoje</segment>
+    <segment id="16">, masmas fecharão no dia seguinte</segment>
+  </rst>
+</analysis>

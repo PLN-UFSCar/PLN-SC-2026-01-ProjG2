@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">As concessionárias de serviços públicos</segment>
+    <segment id="2">, como</segment>
+    <segment id="3">como energia</segment>
+    <segment id="4">, água e telefonia</segment>
+    <segment id="5">, já fazem contas da economia que terão a partir do próximo ano</segment>
+    <segment id="6">, quando está prevista a entrada em vigor da nova etapa do Pix.</segment>
+    <segment id="7">A previsão é que</segment>
+    <segment id="8">, em janeiro</segment>
+    <segment id="9">, o Banco Central libere o pagamento de boletos de cobrança diretamente pela plataforma.</segment>
+    <segment id="10">Pix é o pagamento instantâneo brasileiro</segment>
+    <segment id="11">, criado pelo Banco Central - Marcello Casal Jr./Agência BrasilEssa modalidade já é frequente na rede das operadoras.</segment>
+    <segment id="12">Hoje, mais de um terço dos clientes da TIM paga suas contas via pix</segment>
+    <segment id="13">, tanto no pré quanto no pós-pago.</segment>
+    <segment id="14">No entanto</segment>
+    <segment id="15">, as empresas ainda precisam pagar aos bancos pela emissão dos documentos.</segment>
+    <segment id="16">É essa despesa que</segment>
+    <segment id="17">, segundo as concessionárias</segment>
+    <segment id="18">, deixará de existir com a nova modalidade do Pix.</segment>
+    <segment id="19">Com Diego</segment>
+    <segment id="20">Felix</segment>
+  </rst>
+</analysis>

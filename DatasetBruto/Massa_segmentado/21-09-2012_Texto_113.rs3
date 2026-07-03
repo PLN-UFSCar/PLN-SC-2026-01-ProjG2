@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Isis Valverde mostra corpÃ£o em gravaÃ§Ãµes</segment>
+    <segment id="2">Mata o papai!</segment>
+    <segment id="3">A atriz Isis Valverde gravou ontem cenas da novela "Avenida Brasil</segment>
+    <segment id="4">"</segment>
+    <segment id="5">na orla da Barra da Tijuca</segment>
+    <segment id="6">, no Rio de Janeiro</segment>
+    <segment id="7">.</segment>
+    <segment id="8">No papel da safadinha Suellen</segment>
+    <segment id="9">, Isis trocou beijos com o ator Thiago Martins e exibiu todo o seu rebolado na praia.</segment>
+    <segment id="10">Os marmanjos que passavam na hora paravam sÃ³ para dar uma conferida no corpÃ£o da moÃ§a</segment>
+    <segment id="11">, que usava um biquÃ­ni dourado.</segment>
+  </rst>
+</analysis>

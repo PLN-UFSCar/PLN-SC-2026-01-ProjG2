@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Menino de 7 anos é morto em Cajazeiras</segment>
+    <segment id="2">A criança foi atingido durante troca de tiros entre traficantes</segment>
+    <segment id="3">Um menino de 7 anos foi morto na noite desta segunda-feira (2)</segment>
+    <segment id="4">, por volta de 20h40</segment>
+    <segment id="5">, vítima de bala perdida.</segment>
+    <segment id="6">De acordo com agentes da 13ª Delegacia</segment>
+    <segment id="7">, em Cajazeiras</segment>
+    <segment id="8">, F.R.C foi atingido durante troca de tiros entre traficantes na rotatória de Cajazeiras XI.</segment>
+    <segment id="9">O garoto chegou a ser socorrido e levado ao Hospital Jaar Andrade</segment>
+    <segment id="10">, masmas não resistiu.</segment>
+    <segment id="11">Dois adolescentes foram mortos nesta segunda.</segment>
+    <segment id="12">P.S.J.P</segment>
+    <segment id="13">, 14 anos</segment>
+    <segment id="14">, no Alto de Ondina e J.S.N</segment>
+    <segment id="15">, 16 anos</segment>
+    <segment id="16">, na Rua Agda Ferreira</segment>
+    <segment id="17">, em Pau da Lima.</segment>
+    <segment id="18">Não há informações sobre as circunstâncias desses crimes.</segment>
+  </rst>
+</analysis>

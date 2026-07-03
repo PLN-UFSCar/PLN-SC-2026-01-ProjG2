@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Roubo na Capital
+LotÃ©rica em hipermercado</segment>
+    <segment id="2">Ã© roubada na Zona Norte</segment>
+    <segment id="3">Homens armados levaram R$ 1</segment>
+    <segment id="4">,5 mil da agÃªncia lotÃ©rica</segment>
+    <segment id="5">Eduardo Torres
+eduardo.torres@diariogaucho.com.br</segment>
+    <segment id="6">Quatro homens armados assaltaram</segment>
+    <segment id="7">, no comeÃ§o da tarde desta quarta</segment>
+    <segment id="8">, uma agÃªncia lotÃ©rica dentro do Carrefour</segment>
+    <segment id="9">, no Bairro Passo d'Areia.</segment>
+    <segment id="10">Sem qualquer resistÃªncia</segment>
+    <segment id="11">, o grupo levou R$ 1</segment>
+    <segment id="12">,5 mil do estabelecimento.</segment>
+    <segment id="13">A Brigada Militar foi acionada depois que o quarteto deixou o local.</segment>
+    <segment id="14">O caso</segment>
+    <segment id="15">caso Ã© apurado pela 9ÂªDP.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,56 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Aprendizagem é mais fraca no fim do fundamental
+BRASÍLIA - Os altos índices de alunos com fraca aprendizagem no início do ensino fundamental</segment>
+    <segment id="2">, revelados pela Prova ABC</segment>
+    <segment id="3">, são ainda maiores nas séries mais avançadas.</segment>
+    <segment id="4">É o que mostra o Sistema de Avaliação da Educação Básica (Saeb)</segment>
+    <segment id="5">, teste com abrangência nacional realizado a cada dois anos pelo Ministério da Educação (MEC) em escolas públicas e privadas.</segment>
+    <segment id="6">Em sua edição mais recente</segment>
+    <segment id="7">, de 2009</segment>
+    <segment id="8">, o Saeb revelou que 65</segment>
+    <segment id="9">,8% dos alunos do 5 ano do ensino fundamental não tinham aprendido o mínimo adequado.</segment>
+    <segment id="10">Esse índice é 21 pontos percentuais maior do que os 43</segment>
+    <segment id="11">,9% registrados no teste de leitura da Prova ABC - aplicada em alunos do 3 ano do ensino fundamental de todas as capitais</segment>
+    <segment id="12">, em escolas públicas e privadas</segment>
+    <segment id="13">, no início de 2011.</segment>
+    <segment id="14">Embora com defasagem de dois anos</segment>
+    <segment id="15">, as notas do Saeb sugerem que as falhas de aprendizagem continuam e até</segment>
+    <segment id="16">sese agravam à medida em que as crianças avançam para as séries seguintes.</segment>
+    <segment id="17">O mesmo ocorre em matemática</segment>
+    <segment id="18">, disciplina com pior cenário retratado pela Prova ABC.</segment>
+    <segment id="19">Na Prova ABC</segment>
+    <segment id="20">, 57,2% dos estudantes do 3 ano do ensino fundamental não conseguiram fazer contas simples de soma e subtração.</segment>
+    <segment id="21">No Saeb aplicado a alunos do 5 ano</segment>
+    <segment id="22">, proporção ainda maior - 67</segment>
+    <segment id="23">,4% - não atingiu o patamar adequado.</segment>
+    <segment id="24">Há dois dias</segment>
+    <segment id="25">, a secretária de Educação Básica do MEC</segment>
+    <segment id="26">, Maria do Pilar Lacerda</segment>
+    <segment id="27">, disse que os resultados da ABC em matemática acenderam o "sinal laranja".
+
+- Nós precisamos de medidas mais profundas em relação à formação do professor para trabalhar com matemática nos anos iniciais.</segment>
+  </rst>
+</analysis>

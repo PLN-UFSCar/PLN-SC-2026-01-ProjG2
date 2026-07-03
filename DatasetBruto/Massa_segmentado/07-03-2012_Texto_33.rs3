@@ -1,0 +1,47 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Garoto é encontrado enforcado e queimado</segment>
+    <segment id="2">O corpo estava com uma corda amarrada no pescoço e dentro de um saco
+Desaparecido desde o último domingo</segment>
+    <segment id="3">, o garoto Fabrício Alves da Cruz</segment>
+    <segment id="4">, que tinha 11 anos</segment>
+    <segment id="5">, foi encontrado morto em Portelinha</segment>
+    <segment id="6">, no bairro Jussara</segment>
+    <segment id="7">, em Feira de Santana (a 109 km de Salvador).</segment>
+    <segment id="8">O corpo estava com uma corda amarrada no pescoço e dentro de um saco</segment>
+    <segment id="9">, além de apresentar várias queimaduras.</segment>
+    <segment id="10">A mãe do menino</segment>
+    <segment id="11">, Solange Alves</segment>
+    <segment id="12">, informou que o filho trabalhava com ela coletando material reciclável.</segment>
+    <segment id="13">Segundo familiares</segment>
+    <segment id="14">, Fabrício costumava passar alguns dias fora de casa e</segment>
+    <segment id="15">sese envolvia com delitos</segment>
+    <segment id="16">, como</segment>
+    <segment id="17">como furtos</segment>
+    <segment id="18">, e desconfiavam que o mesmo estava envolvido com drogas.</segment>
+    <segment id="19">O caso</segment>
+    <segment id="20">caso está sendo investigado pela Delegacia de Homicídios de Feira de Santana.</segment>
+  </rst>
+</analysis>

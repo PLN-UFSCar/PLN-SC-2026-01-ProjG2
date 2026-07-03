@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Ela tem um rebolado de tirar o fôlego</segment>
+    <segment id="2">A gata de Mata escura diz que tem tudo para vencer</segment>
+    <segment id="3">A dançarina Vanessa Mara</segment>
+    <segment id="4">, 23 anos</segment>
+    <segment id="5">, representa o bairro de Vila Matos no Concurso Garota do Tempo</segment>
+    <segment id="6">, do MASSA!.</segment>
+    <segment id="7">A gata diz que tem tudo para vencer.</segment>
+    <segment id="8">“Sou bonita e tenho a cara da Bahia.</segment>
+    <segment id="9">Nada melhor do que uma negra para representar o povo baiano”</segment>
+    <segment id="10">, diz a moça</segment>
+    <segment id="11">, que ficou entre as 12 finalistas do concurso Rainha do Carnaval 2011.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,57 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Embate entre BC e bancos já dura três anos</segment>
+    <segment id="2">SÃO PAULO - O embate entre governo e banqueiros sobre as taxas cobradas dos clientes não é recente.</segment>
+    <segment id="3">Desde 2009</segment>
+    <segment id="4">, a Federação Brasileira dos Bancos (Febraban) divulga em seu site um cálculo próprio do spread (diferença entre a remuneração paga pelos bancos e o que cobram nos financiamentos aos clientes)</segment>
+    <segment id="5">, diferente daquele do Banco Central (BC).</segment>
+    <segment id="6">Em março</segment>
+    <segment id="7">, por exemplo</segment>
+    <segment id="8">, o BC informou que os spreads estavam em 34</segment>
+    <segment id="9">,9% ao ano.</segment>
+    <segment id="10">Segundo a Febraban</segment>
+    <segment id="11">, no entanto</segment>
+    <segment id="12">, foram 27</segment>
+    <segment id="13">,7% anuais.</segment>
+    <segment id="14">Já o Itaú divulgou spread de 13</segment>
+    <segment id="15">,5% ao ano no primeiro trimestre</segment>
+    <segment id="16">, e o Santander</segment>
+    <segment id="17">, de 12</segment>
+    <segment id="18">,4%.</segment>
+    <segment id="19">Segundo a Febraban</segment>
+    <segment id="20">, o BC só contempla 52</segment>
+    <segment id="21">,9% dos empréstimos a pessoas físicas e considera aqueles concedidos com os chamados recursos livres (que não têm um destino obrigatório</segment>
+    <segment id="22">, como</segment>
+    <segment id="23">como o rural ou imobiliário)</segment>
+    <segment id="24">, mais sujeitos a oscilações.</segment>
+    <segment id="25">Ontem,</segment>
+    <segment id="26">porémporém</segment>
+    <segment id="27">, a entidade afirmou que não vai mais divulgar seu cálculo de spread</segment>
+    <segment id="28">, interrompendo a série histórica.</segment>
+    <segment id="29">Para Luís Miguel Santacreu</segment>
+    <segment id="30">, analista da Austin Rating</segment>
+    <segment id="31">, a dimensão que o debate está assumindo devido ao contexto político pode ser positiva e encerrar as divergências entre os números de bancos e do BC.</segment>
+  </rst>
+</analysis>

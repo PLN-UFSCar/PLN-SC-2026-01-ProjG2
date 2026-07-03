@@ -1,0 +1,123 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">No Rio</segment>
+    <segment id="2">, promessas de candidatos vÃ£o custar meio bi para educaÃ§Ã£o
+RIO - Para cumprir duas das principais promessas na educaÃ§Ã£o feitas na campanha eleitoral do Rio - horÃ¡rio integral nas escolas da rede e acesso a creches para populaÃ§Ã£o de baixa renda -</segment>
+    <segment id="3">, o prÃ³ximo prefeito terÃ¡ de aplicar</segment>
+    <segment id="4">, pelo menos</segment>
+    <segment id="5">, um valor de R$ 506</segment>
+    <segment id="6">,3 milhÃµes</segment>
+    <segment id="7">, segundo estimativa do GLOBO</segment>
+    <segment id="8">, em conjunto com a Campanha Nacional pelo Direito Ã  EducaÃ§Ã£o.</segment>
+    <segment id="9">SÃ³ o horÃ¡rio integral em toda a rede pode ser estimado em R$ 197</segment>
+    <segment id="10">,6 milhÃµes</segment>
+    <segment id="11">, enquanto o maior acesso a creches daria</segment>
+    <segment id="12">, pelo menos</segment>
+    <segment id="13">, mais R$ 308</segment>
+    <segment id="14">,7 milhÃµes.</segment>
+    <segment id="15">O montante de meio bilhÃ£o Ã© 11</segment>
+    <segment id="16">,4% do orÃ§amento previsto para a Secretaria municipal de EducaÃ§Ã£o em 2012</segment>
+    <segment id="17">, cerca de R$ 4</segment>
+    <segment id="18">,4 bilhÃµes</segment>
+    <segment id="19">; masmas o prÃ³ximo prefeito terÃ¡ de lidar com o fato de que cerca de 60% do orÃ§amento estÃ£o comprometidos com pessoal</segment>
+    <segment id="20">, o que diminui a margem para novos investimentos.</segment>
+    <segment id="21">Outras promessas tambÃ©m carecem de viabilidade</segment>
+    <segment id="22">, segundo anÃ¡lise de profissionais da Ã¡rea a pedido do GLOBO: o coordenador da Campanha Nacional pelo Direito Ã  EducaÃ§Ã£o</segment>
+    <segment id="23">, Daniel Cara</segment>
+    <segment id="24">, que viu as propostas sem saber de quais candidatos eram</segment>
+    <segment id="25">; o consultor Sinoel Batista</segment>
+    <segment id="26">, que participa de projetos do Todos pela EducaÃ§Ã£o</segment>
+    <segment id="27">, e que tambÃ©m viu as propostas sem identificaÃ§Ã£o</segment>
+    <segment id="28">; e a educadora Andrea Ramal</segment>
+    <segment id="29">, que jÃ¡ conhecia os autores das propostas.</segment>
+    <segment id="30">O prefeito Eduardo Paes (PMDB)</segment>
+    <segment id="31">, candidato Ã  reeleiÃ§Ã£o</segment>
+    <segment id="32">, promete turno integral a 240 mil alunos.</segment>
+    <segment id="33">Marcelo Freixo (PSOL) fala em tempo integral primeiro para todos os alunos das Escolas do AmanhÃ£. Rodrigo Maia (DEM)</segment>
+    <segment id="34">propÃµe atividades fora da escola de prÃ¡tica esportiva e cultural.</segment>
+    <segment id="35">E Otavio Leite (PSDB) tambÃ©m defende atividades artÃ­sticas e esportivas em espaÃ§os da sociedade.</segment>
+    <segment id="36">Segundo Daniel Cara</segment>
+    <segment id="37">, o custo a mais</segment>
+    <segment id="38">, por aluno</segment>
+    <segment id="39">, que o horÃ¡rio integral requer</segment>
+    <segment id="40">Ã© de R$ 369 dentro do Mais EducaÃ§Ã£o (programa federal que aumenta a oferta de atividades da escola)</segment>
+    <segment id="41">, e de R$ 2.847 segundo valor ideal da campanha coordenada por Cara.</segment>
+    <segment id="42">Considerando que hÃ¡ 535.686 alunos no ensino fundamental</segment>
+    <segment id="43">, seria preciso</segment>
+    <segment id="44">, no mÃ­nimo - com base no valor de R$ 369 -</segment>
+    <segment id="45">, que a prefeitura aplicasse mais R$ 197</segment>
+    <segment id="46">,6 milhÃµes.</segment>
+    <segment id="47">Se for para 240 mil alunos</segment>
+    <segment id="48">, como</segment>
+    <segment id="49">como propÃµe Paes</segment>
+    <segment id="50">, seriam necessÃ¡rios mais R$ 88</segment>
+    <segment id="51">,5 milhÃµes.</segment>
+    <segment id="52">Para acabar com a fila de espera para creches municipais - estimada em 19 mil crianÃ§as atÃ© 3 anos</segment>
+    <segment id="53">, segundo Andrea Ramal -</segment>
+    <segment id="54">, e considerando que cada creche teria 250 crianÃ§as (limite das creches da prefeitura)</segment>
+    <segment id="55">, seriam necessÃ¡rias mais 76 unidades.</segment>
+    <segment id="56">Se sese levar em conta que todas precisariam ser construÃ­das</segment>
+    <segment id="57">, e como</segment>
+    <segment id="58">como o valor mÃ©dio de construÃ§Ã£o de cada EspaÃ§o de Desenvolvimento Infantil</segment>
+    <segment id="59">, diz a secretaria</segment>
+    <segment id="60">, Ã© de R$ 4 milhÃµes</segment>
+    <segment id="61">, seria preciso um valor</segment>
+    <segment id="62">, a mais</segment>
+    <segment id="63">, de R$ 304 milhÃµes.</segment>
+    <segment id="64">Para manutenÃ§Ã£o</segment>
+    <segment id="65">, como</segment>
+    <segment id="66">como a secretaria calcula que cada EDI custa R$ 62 mil/mÃªs</segment>
+    <segment id="67">, daria mais R$ 4</segment>
+    <segment id="68">,7 milhÃµes.</segment>
+    <segment id="69">Mais tempo de aula poderia ajudar a Escola Municipal Desembargador Oscar TenÃ³rio</segment>
+    <segment id="70">, na GÃ¡vea</segment>
+    <segment id="71">, a melhorar a posiÃ§Ã£o no Ideb: ela piorou a nota em relaÃ§Ã£o a 2009 e chegou no ano passado a 2</segment>
+    <segment id="72">,5, a pior da rede (cuja mÃ©dia</segment>
+    <segment id="73">, nos anos finais</segment>
+    <segment id="74">Ã© 4,4).</segment>
+    <segment id="75">MÃ£e de um aluno da escola</segment>
+    <segment id="76">, Ellen AndrÃ©a defende tambÃ©m o investimento nas creches:
+- A creche da minha neta</segment>
+    <segment id="77">Ã©</segment>
+    <segment id="78">sÃ³ por metade do dia.</segment>
+    <segment id="79">Ao tentar explicar de onde tirariam verba para as propostas</segment>
+    <segment id="80">, os adversÃ¡rios de Paes chamam atenÃ§Ã£o para o mÃ­nimo de 25% dos impostos que o municÃ­pio Ã© obrigado a investir em educaÃ§Ã£o.</segment>
+    <segment id="81">O MinistÃ©rio PÃºblico</segment>
+    <segment id="82">, em aÃ§Ã£o civil pÃºblica de 2004</segment>
+    <segment id="83">, afirma que a prefeitura</segment>
+    <segment id="84">, para chegar aos 25%</segment>
+    <segment id="85">, incluiria valores indevidos</segment>
+    <segment id="86">comocomo despesas com inativos e recursos do Fundeb.</segment>
+    <segment id="87">Em abril</segment>
+    <segment id="88">, a aÃ§Ã£o resultou em condenaÃ§Ã£o pela JustiÃ§a</segment>
+    <segment id="89">, para que</segment>
+    <segment id="90">para que a prefeitura mude o cÃ¡lculo e reponha mais de R$ 2</segment>
+    <segment id="91">,2 bilhÃµes que nÃ£o foram aplicados desde 1999</segment>
+    <segment id="92">; o municÃ­pio ainda pode recorrer.</segment>
+    <segment id="93">Paes disse que</segment>
+    <segment id="94">, pela primeira vez desde que a Lei de Responsabilidade Fiscal entrou em vigor</segment>
+    <segment id="95">, o Rio teve as contas aprovadas no MinistÃ©rio da EducaÃ§Ã£o e no Tribunal de Contas do MunicÃ­pio.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,215 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Meu Leão é massa!</segment>
+    <segment id="2">Quem sabe a morena não ajuda o Vitória a subir para a Série</segment>
+    <segment id="3">A?</segment>
+    <segment id="4">A professora de Educação Física</segment>
+    <segment id="5">, Verena de Santana Paixão Silva Santos</segment>
+    <segment id="6">, 26 anos</segment>
+    <segment id="7">, 1,70 m e 65 kg</segment>
+    <segment id="8">, faz elevar a temperatura de qualquer um.</segment>
+    <segment id="9">Quem sabe a morena não ajuda o Vitória a subir para a Série</segment>
+    <segment id="10">A?</segment>
+    <segment id="11">JOGOS DE IDA
+
+SÁBADO - 19/5 - 16h20</segment>
+    <segment id="12">Arena Barueri</segment>
+    <segment id="13">Barueri x</segment>
+    <segment id="14">Vitória
+
+TERÇA - 05/6 - 21h</segment>
+    <segment id="15">Estádio do Barradão</segment>
+    <segment id="16">Vitória x</segment>
+    <segment id="17">América-RN
+
+TERÇA - 29/5 - 21h50</segment>
+    <segment id="18">Estádio Heriberto Hülse
+Criciúma x Vitória</segment>
+    <segment id="19">SEXTA - 01/6 - 21h
+Estádio do Barradão</segment>
+    <segment id="20">Vitória x Ipatinga</segment>
+    <segment id="21">SEXTA - 08/6 - 21h
+Estádio Dilzon Melo
+Boa x Vitória
+
+TERÇA - 12/6 - 21h
+Estádio do Barradão</segment>
+    <segment id="22">Vitória x Guarani
+
+SÁBADO - 23/6 - 16h20
+Estádio Serra</segment>
+    <segment id="23">Dourada</segment>
+    <segment id="24">Goiás x Vitória
+
+SÁBADO - 30/6 - 16h20</segment>
+    <segment id="25">Estádio do Barradão</segment>
+    <segment id="26">Vitória x Avaí
+
+SÁBADO - 07/7 - 16h20</segment>
+    <segment id="27">Estádio Frasqueirão
+ABC x</segment>
+    <segment id="28">Vitória
+
+TERÇA - 10/7 - 21h</segment>
+    <segment id="29">Estádio do Barradão
+Vitória x Paraná
+
+TERÇA - 17/7 - 19h30</segment>
+    <segment id="30">Estádio Coaracy Fonseca
+ASA x Vitória
+
+SÁBADO - 21/7 - 16h20
+Estádio Durival de Brito
+Atlético-PR x Vitória
+
+SÁBADO - 28/7 - 16h20</segment>
+    <segment id="31">Estádio do Barradão</segment>
+    <segment id="32">Vitória x CRB</segment>
+    <segment id="33">TERÇA - 31/7 - 21h50
+Estádio Anacleto Campanella</segment>
+    <segment id="34">São Caetano x</segment>
+    <segment id="35">Vitória
+
+SEXTA - 03/8 - 21h
+Estádio do Barradão
+Vitória x Bragantino
+
+SÁBADO - 11/8 - 18h30</segment>
+    <segment id="36">Arena do Jacaré
+América-MG x</segment>
+    <segment id="37">Vitória
+
+TERÇA - 14/8 - 19h30</segment>
+    <segment id="38">Estádio do Barradão
+Vitória x Guaratinguetá</segment>
+    <segment id="39">SEXTA - 17/8 - 21h
+Estádio do Barradão</segment>
+    <segment id="40">Vitória x Joinville
+
+SEXTA - 24/8 - 21h</segment>
+    <segment id="41">Estádio</segment>
+    <segment id="42">Presidente</segment>
+    <segment id="43">Vargas</segment>
+    <segment id="44">Ceará x Vitória
+
+ 
+
+
+
+JOGOS DE VOLTA*
+
+TERÇA - 28/8
+Estádio do Barradão
+Vitória x</segment>
+    <segment id="45">Barueri</segment>
+    <segment id="46">SÁBADO - 01/9
+Estádio</segment>
+    <segment id="47">A definir
+América-RN x Vitória
+
+TERÇA - 04/9
+Estádio do Barradão</segment>
+    <segment id="48">Vitória x Criciúma
+
+SÁBADO - 08/9
+Estádio João Lamego
+Ipatinga x</segment>
+    <segment id="49">Vitória
+
+TERÇA - 11/9</segment>
+    <segment id="50">Estádio do Barradão</segment>
+    <segment id="51">Vitória x</segment>
+    <segment id="52">Boa
+
+SÁBADO - 15/9
+Estádio Brinco de Ouro
+Guarani x Vitória
+
+SÁBADO - 22/9
+Estádio do Barradão</segment>
+    <segment id="53">Vitória x</segment>
+    <segment id="54">Goiás
+
+SÁBADO - 29/9</segment>
+    <segment id="55">Estádio da Ressacada
+Avaí x</segment>
+    <segment id="56">Vitória
+
+SÁBADO - 06/10
+Estádio do Barradão
+Vitória x</segment>
+    <segment id="57">ABC
+
+SÁBADO - 13/10
+Estádio Durival de Britto
+Paraná x</segment>
+    <segment id="58">Vitória
+
+TERÇA - 16/10</segment>
+    <segment id="59">Estádio do Barradão</segment>
+    <segment id="60">Vitória x ASA
+
+SÁBADO - 20/10</segment>
+    <segment id="61">Estádio do Barradão</segment>
+    <segment id="62">Vitória x</segment>
+    <segment id="63">Atlético-PR
+
+TERÇA - 23/10
+Estádio Rei Pelé
+CRB x</segment>
+    <segment id="64">Vitória
+
+SÁBADO - 27/10
+Estádio do Barradão</segment>
+    <segment id="65">Vitória x</segment>
+    <segment id="66">São Caetano</segment>
+    <segment id="67">SÁBADO - 03/11
+Estádio Nabi Abi Schedid
+Bragantino x Vitória
+
+TERÇA - 06/11
+Estádio do Barradão
+Vitória x</segment>
+    <segment id="68">América-MG</segment>
+    <segment id="69">SÁBADO - 10/11
+Estádio Dario Leite
+Guaratinguetá x</segment>
+    <segment id="70">Vitória
+
+SÁBADO - 17/11</segment>
+    <segment id="71">Arena Joinville
+Joinville c Vitória</segment>
+    <segment id="72">SÁBADO - 24/11</segment>
+    <segment id="73">Estádio do Barradão</segment>
+    <segment id="74">Vitória x</segment>
+    <segment id="75">Ceará
+
+ 
+
+*</segment>
+    <segment id="76">*</segment>
+    <segment id="77">Os horários ainda serão definidos de acordo com a grade da transmissão das Tevês</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,115 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A divulgação do PIB do primeiro trimestre e das contas do Tesouro de abril criou otimismo sobre a situação fiscal do país.</segment>
+    <segment id="2">Previsões de dívida bruta</segment>
+    <segment id="3">, para o fim do ano</segment>
+    <segment id="4">, caíram de mais de 90% do PIB para perto de 80%.</segment>
+    <segment id="5">Há quem considere o problema fiscal resolvido.</segment>
+    <segment id="6">O que de fato mudou?</segment>
+    <segment id="7">Na divisão da dívida pelo PIB</segment>
+    <segment id="8">, o denominador (PIB) melhorou e o numerador (dívida) parou de piorar.</segment>
+    <segment id="9">Quais as causas dessas mudanças e quão sustentáveis elas são?</segment>
+    <segment id="10">Como mostrou Cecilia Machado nesta Folha</segment>
+    <segment id="11">, o principal fator de crescimento do PIB foi a melhoria dos termos de troca (relação dos preços das nossas exportações e importações)</segment>
+    <segment id="12">, que voltaram ao pico histórico de 2011.</segment>
+    <segment id="13">Nos beneficiamos da recuperação das economias desenvolvidas.</segment>
+    <segment id="14">O Brasil estará mais rico enquanto essa situação durar</segment>
+    <segment id="15">, o que facilitará o ajuste fiscal: precisaremos de esforço menor para derrubar a relação dívida/PIB.</segment>
+    <segment id="16">Contudo</segment>
+    <segment id="17">, os mercados de commodities são voláteis:</segment>
+    <segment id="18">sese o ciclo for curto</segment>
+    <segment id="19">, a queda dos preços passará a jogar contra.</segment>
+    <segment id="20">Confiar na melhoria dos termos de troca para resolver o problema fiscal é entregar nosso futuro a uma variável que não controlamos.</segment>
+    <segment id="21">Agronegócio em meio a pandemiaMais    novamente         de   de  de  representando um</segment>
+    <segment id="22">Outro fator de crescimento do PIB foi a inflação</segment>
+    <segment id="23">, que comeu parte do valor da dívida: 25% dos papéis não estão indexados à inflação.</segment>
+    <segment id="24">A surpresa inflacionária funciona a curto prazo.</segment>
+    <segment id="25">Mas as expectativas rapidamente</segment>
+    <segment id="26">sese ajustam</segment>
+    <segment id="27">, e os títulos só são renovados</segment>
+    <segment id="28">, no vencimento</segment>
+    <segment id="29">, sese os juros subirem.</segment>
+    <segment id="30">Somente uma inflação crescente é capaz continuar corroendo a dívida</segment>
+    <segment id="31">, o que não parece bom caminho.</segment>
+    <segment id="32">O crescimento real do PIB também ajudou.</segment>
+    <segment id="33">Mas há dúvidas de que vá persistir ao longo do ano.</segment>
+    <segment id="34">Crise hídrica e pandemia são interrogações.</segment>
+    <segment id="35">No numerador da relação dívida/PIB</segment>
+    <segment id="36">, há duas forças atuando em direções opostas.</segment>
+    <segment id="37">Os juros</segment>
+    <segment id="38">, que se</segment>
+    <segment id="39">se mantiveram baixos ao longo de 2020 e evitaram um crescimento mais acelerado da dívida</segment>
+    <segment id="40">, agora estão subindo.</segment>
+    <segment id="41">Em compensação</segment>
+    <segment id="42">, a valorização do real diminuirá o passivo em dólares</segment>
+    <segment id="43">, jogando a dívida para baixo.</segment>
+    <segment id="44">Se não insistirmos em uma política de retorno dos superávits primários</segment>
+    <segment id="45">, tanto câmbio quanto juros passarão a jogar contra.</segment>
+    <segment id="46">Outro fator a frear o crescimento da dívida foi o melhor desempenho das receitas.</segment>
+    <segment id="47">A arrecadação costuma surpreender quando os termos de troca disparam.</segment>
+    <segment id="48">Não podemos ignorar</segment>
+    <segment id="49">, também</segment>
+    <segment id="50">, o pagamento de tributos adiados em 2020 e a recuperação cíclica da economia.</segment>
+    <segment id="51">Ou seja</segment>
+    <segment id="52">, a receita melhora por fatores temporários ou fora do controle da nossa política econômica.</segment>
+    <segment id="53">Há, também</segment>
+    <segment id="54">, fatores negativos</segment>
+    <segment id="55">, como</segment>
+    <segment id="56">como a decisão do STF sobre o PIS/Cofins</segment>
+    <segment id="57">, que resultou em perda de receita de</segment>
+    <segment id="58">, pelo menos</segment>
+    <segment id="59">, 0,5% do PIB de forma permanente.</segment>
+    <segment id="60">Já a trajetória da despesa é mérito da política econômica.</segment>
+    <segment id="61">Reforma da Previdência</segment>
+    <segment id="62">, teto de gastos e contenção na despesa de pessoal seguraram as despesas previdenciárias</segment>
+    <segment id="63">, assistenciais e de pessoal.</segment>
+    <segment id="64">Mantida a tendência observada até 2017</segment>
+    <segment id="65">, hoje elas estariam R$ 63 bilhões mais altas.</segment>
+    <segment id="66">Contudo</segment>
+    <segment id="67">, outras despesas obrigatórias passaram a subir</segment>
+    <segment id="68">, como</segment>
+    <segment id="69">como as sentenças judiciais</segment>
+    <segment id="70">, que já comeram R$ 12 bilhões do espaço criado pelas reformas.</segment>
+    <segment id="71">Fundeb</segment>
+    <segment id="72">, Lei Kandir</segment>
+    <segment id="73">, benefícios aos militares e emendas parlamentares turbinadas vão pesar crescentemente nos próximos anos.</segment>
+    <segment id="74">O regime fiscal ainda não mudou.</segment>
+    <segment id="75">É preciso aproveitar os ventos favoráveis para avançar na sua transformação.</segment>
+    <segment id="76">Porém, temos um presidente corporativista</segment>
+    <segment id="77">, refém do Congresso e que caminha para uma eleição polarizada</segment>
+    <segment id="78">, com aprovação em baixa.</segment>
+    <segment id="79">Isso indica alta chance de que busque surfar a maré positiva</segment>
+    <segment id="80">, relaxando nos gastos e concedendo benesses tributárias.</segment>
+    <segment id="81">Já vivemos essa experiência quando</segment>
+    <segment id="82">, em 2005</segment>
+    <segment id="83">, acossado pelo mensalão</segment>
+    <segment id="84">, o governo Lula abriu os cofres para</segment>
+    <segment id="85">sese manter no poder.</segment>
+    <segment id="86">Tivéssemos aproveitado os ganhos de receita do boom de commodities de 2005-11 para fazer uma consolidação fiscal</segment>
+    <segment id="87">, não teríamos jogado dinheiro fora em políticas inconsistentes.</segment>
+    <segment id="88">A recessão de 2014-16 provavelmente não ocorreria e a pandemia nos encontraria em situação menos vulnerável.</segment>
+    <segment id="89">Será que vamos repetir a imprevidência?</segment>
+  </rst>
+</analysis>

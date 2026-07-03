@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A parceria entre o COB (Comitê Olímpico do Brasil) e a Mauricio de Sousa Produções assinada em 2019 vai ser estendida até os Jogos Olímpicos Paris 2024.</segment>
+    <segment id="2">Pelo acordo</segment>
+    <segment id="3">, os personagens da Turma da Mônica permanecem nas ações de marketing e relacionamento com os atletas e o público.</segment>
+    <segment id="4">Turma da Mônica vai à Olimpíada - Instagram/turmadamonicaSegundo o COB</segment>
+    <segment id="5">, a parceria visa estimular o público jovem e infantil a acompanhar os esportes olímpicos e a buscar a carreira.</segment>
+    <segment id="6">Entre os projetos já desenvolvidos</segment>
+    <segment id="7">, vários atletas foram desenhados com os traços de personagens</segment>
+    <segment id="8">comocomo a Mônica e o Cebolinha.</segment>
+    <segment id="9">Também foram realizadas ações de empoderamento feminino.</segment>
+    <segment id="10">Joana Cunha com Andressa Motter e Paulo Ricardo Martins</segment>
+  </rst>
+</analysis>

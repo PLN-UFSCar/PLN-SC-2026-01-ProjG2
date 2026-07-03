@@ -1,0 +1,98 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Polícia Civil instaurou um inquérito para identificar os frequentadores de uma festa clandestina</segment>
+    <segment id="2">, flagrada pela GCM (Guarda Civil Municipal)</segment>
+    <segment id="3">, na tarde desta quarta-feira (10)</segment>
+    <segment id="4">, em uma chácara em São Bernardo do Campo (ABC).</segment>
+    <segment id="5">Das cerca de 500 pessoas que estavam no local</segment>
+    <segment id="6">, somente 158 foram presas e levadas à delegacia.</segment>
+    <segment id="7">O restante</segment>
+    <segment id="8">, segundo a polícia</segment>
+    <segment id="9">, conseguiu fugir a pé</segment>
+    <segment id="10">, deixando para trás veículos e embarcações.</segment>
+    <segment id="11">Eventos em geral estão proibidos em todo o estado de São Paulo</segment>
+    <segment id="12">, por causa da pandemia do novo coronavírus.</segment>
+    <segment id="13">Desde sábado (6)</segment>
+    <segment id="14">, todos os municípios paulistas entraram na fase vermelha do Plano São Paulo</segment>
+    <segment id="15">, a mais restritiva</segment>
+    <segment id="16">, com o intuito de diminuir infecções e mortes decorrentes da Covid-19</segment>
+    <segment id="17">, além de desafogar Unidades de Tratamento Intensivo</segment>
+    <segment id="18">, que em alguns casos estão com 100% de ocupação.</segment>
+    <segment id="19">As restrições ficarão mais rígidas a partir da semana que vem.</segment>
+    <segment id="20">O delegado Paul Henry Bozon Verduraz</segment>
+    <segment id="21">, titular da Deic (Delegacia Especializada em Investigações Criminais)</segment>
+    <segment id="22">, indiciou as 158 pessoas presas pela guarda por infringir determinação do poder público destinada a impedir introdução ou propagação de doença contagiosa.</segment>
+    <segment id="23">A pena para este tipo de crime oscila entre um mês a um ano de prisão</segment>
+    <segment id="24">, além de multa.</segment>
+    <segment id="25">Participantes de festa clandestina caminham até ônibus que os levou até delegacia</segment>
+    <segment id="26">, onde foram indiciados por descumprir medida sanitária de combate à Covid-19</segment>
+    <segment id="27">, ao serem flagrados participando de uma festa clandestina</segment>
+    <segment id="28">, em uma chácara</segment>
+    <segment id="29">, na tarde desta quarta-feira (10)</segment>
+    <segment id="30">, em São Bernardo do Campo (ABC)- Ricardo Cassin/PMSBCEle acrescentou também já ter instaurado um inquérito policial</segment>
+    <segment id="31">, para identificar os outros participantes do evento clandestino</segment>
+    <segment id="32">, para também os indiciar pela mesma infração.</segment>
+    <segment id="33">“Espero que a Justiça agora faça a sua parte analisando cada um dos envolvidos e aplicando as sanções que merecem</segment>
+    <segment id="34">, como</segment>
+    <segment id="35">como penas alternativas e multas”</segment>
+    <segment id="36">, afirmou o delegado ao Agora</segment>
+    <segment id="37">, na manhã desta quinta-feira (11).</segment>
+    <segment id="38">A Secretaria de Segurança Urbana de São Bernardo do Campo</segment>
+    <segment id="39">, gestão Orlando Morando (PSDB)</segment>
+    <segment id="40">, monitorou em redes sociais a organização do evento clandestino.</segment>
+    <segment id="41">Com base em postagens feitas por organizadores</segment>
+    <segment id="42">, na internet</segment>
+    <segment id="43">, os guardas rumaram</segment>
+    <segment id="44">, inclusive com barcos</segment>
+    <segment id="45">, para uma chácara</segment>
+    <segment id="46">, às margens da represa Billings</segment>
+    <segment id="47">, no bairro Riacho Grande.</segment>
+    <segment id="48">No local</segment>
+    <segment id="49">, a corporação estima que haviam cerca de 500 pessoas</segment>
+    <segment id="50">, por volta das 16h</segment>
+    <segment id="51">, em grande parte jovens e sem máscaras de proteção</segment>
+    <segment id="52">, aglomerados e consumindo bebidas alcoólicas.</segment>
+    <segment id="53">Alguns frequentadores</segment>
+    <segment id="54">, ao avistarem a GCM</segment>
+    <segment id="55">, fugiram da chácara a pé</segment>
+    <segment id="56">, deixando para trás carros e embarcações</segment>
+    <segment id="57">, incluindo motos aquáticas.</segment>
+    <segment id="58">Os 158 frequentadores detidos na festa</segment>
+    <segment id="59">, divulgada</segment>
+    <segment id="60">comocomo “Quarta Loka”</segment>
+    <segment id="61">, precisaram ser colocados em ônibus</segment>
+    <segment id="62">, que os levaram em seguida para a delegacia.</segment>
+    <segment id="63">Ao todo foram apreendidos 77 veículos</segment>
+    <segment id="64">, incluindo alguns de luxo</segment>
+    <segment id="65">, além de dez embarcações.</segment>
+    <segment id="66">Todos os 158 detidos foram liberados após serem fichados pela polícia.</segment>
+    <segment id="67">A Prefeitura de São Bernardo do Campo afirmou que</segment>
+    <segment id="68">, nesta quarta</segment>
+    <segment id="69">, a cidade registrou 92% de ocupação de UTI (Unidades de Tratamento Intensivo) para adultos</segment>
+    <segment id="70">, “um dos maiores índices atingidos desde o início da pandemia”</segment>
+    <segment id="71">, diz trecho de nota.</segment>
+    <segment id="72">Quase 160 são presos ao serem flagrados participando de festa clandestina no ABCMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

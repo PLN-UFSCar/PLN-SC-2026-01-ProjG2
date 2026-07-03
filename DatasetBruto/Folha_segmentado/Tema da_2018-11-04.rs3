@@ -1,0 +1,104 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O tema da redação do Enem 2018 é "</segment>
+    <segment id="2">Manipulação do comportamento do usuário pelo controle de dados na internet</segment>
+    <segment id="3">"</segment>
+    <segment id="4">,</segment>
+    <segment id="5">divulgou o Inep neste domingo (4).</segment>
+    <segment id="6">Os candidatos devem elaborar um texto dissertativo de até 30 linhas sobre o assunto.</segment>
+    <segment id="7">Uma das principais apostas de alunos e professores era uma redação sobre fake news.</segment>
+    <segment id="8">O assunto não caiu longe das previsões</segment>
+    <segment id="9">, embora</segment>
+    <segment id="10">embora não seja o tema central</segment>
+    <segment id="11">, segundo o professor de redação do sistema pH</segment>
+    <segment id="12">, Thiago Braga.</segment>
+    <segment id="13">Para ele</segment>
+    <segment id="14">, o tema é mais fácil do que o do ano passado - sobre formação educacional de surdos no Brasil -</segment>
+    <segment id="15">porque</segment>
+    <segment id="16">porque está presente no cotidiano da maioria dos participantes da prova e pautado pela imprensa em coberturas</segment>
+    <segment id="17">comocomo o vazamento de dados do Facebook</segment>
+    <segment id="18">, no início do ano.</segment>
+    <segment id="19">Porém, pode apresentar armadilhas.</segment>
+    <segment id="20">“Esse é um tema que</segment>
+    <segment id="21">, realmente</segment>
+    <segment id="22">, precisa do recorte de textos.</segment>
+    <segment id="23">Não é como</segment>
+    <segment id="24">como intolerância religiosa que a gente sabe exatamente o que propõe em uma frase.</segment>
+    <segment id="25">Esse é diferente</segment>
+    <segment id="26">porque</segment>
+    <segment id="27">porque existem possibilidades de diferentes recortes feitos pela banca</segment>
+    <segment id="28">, pode ser voltado ao aspecto comportamental</segment>
+    <segment id="29">, com ênfase em consumo</segment>
+    <segment id="30">, pode ser ligado ao aspecto político-ideológico”</segment>
+    <segment id="31">, avalia ele.</segment>
+    <segment id="32">O professor alerta que alunos precisarão prestar atenção para não fugir do tema e cair na pegadinha de escrever apenas sobre notícias falsas e fugir do assunto</segment>
+    <segment id="33">, o que pode afetar a nota final.</segment>
+    <segment id="34">“</segment>
+    <segment id="35">Existe um risco forte de que eles</segment>
+    <segment id="36">, acreditando que o tema seja fake news e fujam da discussão central e a nota seja penalizada.</segment>
+    <segment id="37">Depende muito dos textos base e da preparação”</segment>
+    <segment id="38">, explica.</segment>
+    <segment id="39">Tema ligado à internet não foi uma surpresa para Juliana Oliveira</segment>
+    <segment id="40">, professora de literatura do Sistema de Ensino COC.</segment>
+    <segment id="41">Segundo ela</segment>
+    <segment id="42">, o assunto foi um dos mais trabalhados durante o ano.</segment>
+    <segment id="43">“</segment>
+    <segment id="44">O fator novo para gente é a manipulação.</segment>
+    <segment id="45">Como não tenho acesso aos textos base da prova</segment>
+    <segment id="46">, ele pode ser muito amplo.</segment>
+    <segment id="47">Tem a questão do controle de marketing</segment>
+    <segment id="48">, confiabilidade dos sites onde colocamos os dados</segment>
+    <segment id="49">, a vertente é a questão do manipular.</segment>
+    <segment id="50">O que a internet pode fazer com um dado meu”</segment>
+    <segment id="51">, aposta ela.</segment>
+    <segment id="52">“Acho que o tema internet facilita</segment>
+    <segment id="53">, masmas a proposta que vem junto com os textos base é que vai direcionar</segment>
+    <segment id="54">, dar a parte crítica da redação”.</segment>
+    <segment id="55">TEXTOS</segment>
+    <segment id="56">QUE FIRAM</segment>
+    <segment id="57">OS DIREITOS HUMANOS PODEM SER ZERADOS  Quem escrever redações que firam os direitos humanos podem perder até 200 dos 1.000 pontos possíveis.</segment>
+    <segment id="58">Segundo o manual de redação do Inep (responsável pelo Enem)</segment>
+    <segment id="59">, um dos cinco itens que serão avaliados no texto é a capacidade de “elaborar proposta de intervenção para o problema abordado que respeite os direitos humanos”.</segment>
+    <segment id="60">Neste domingo</segment>
+    <segment id="61">, os candidatos farão provas de linguagens</segment>
+    <segment id="62">, ciências humanas e redação.</segment>
+    <segment id="63">O exame dura 5h30.</segment>
+    <segment id="64">No próximo domingo (11)</segment>
+    <segment id="65">, as provas serão de química</segment>
+    <segment id="66">, física e biologia.</segment>
+    <segment id="67">Ao todo</segment>
+    <segment id="68">, 5,5 milhões de pessoas concorrem a vagas em universidades de todo o país.</segment>
+    <segment id="69">Primeiro dia de provas do EnemMais    novamente         de   de  de  representando um</segment>
+    <segment id="70">Até o exame de 2016</segment>
+    <segment id="71">, quem ferisse os direitos humanos teria a nota zerada.</segment>
+    <segment id="72">No ano passado</segment>
+    <segment id="73">, decisão do Supremo Tribunal Federal excluiu esse item entre os critérios que anulavam a prova.</segment>
+    <segment id="74">No Enem 2017</segment>
+    <segment id="75">, em uma redação sobre a inclusão de surdos na redação</segment>
+    <segment id="76">, um candidato escreveu:</segment>
+    <segment id="77">"a melhor decisão a ser tomada é o sacrifício logo após a descoberta da maldição.</segment>
+    <segment id="78">”</segment>
+  </rst>
+</analysis>

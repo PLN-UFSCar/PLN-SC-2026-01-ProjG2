@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O ator Marco Pigossi está produzindo o documentário "Corpolítica"</segment>
+    <segment id="2">, que tem direção e roteiro assinados por Pedro Henrique França.</segment>
+    <segment id="3">Os dois foram fotografados ao lado da vereadora de São Paulo e pré-candidata a deputada Erika Hilton (PSOL)</segment>
+    <segment id="4">, uma das personagens da obra.</segment>
+    <segment id="5">Marco Pigossi</segment>
+    <segment id="6">, Pedro Henrique França e Erika Hilton posam diante de bandeira criada pelo artista Luiz Wachelke - Liz Dórea/DivulgaçãoO retrato dos três foi feito em frente a uma bandeira criada pelo artista Luiz Wachelke para o cenário de entrevistas do longa.</segment>
+    <segment id="7">A produção</segment>
+    <segment id="8">, que debate o vazio de representatividade LGBTQIA+ na política brasileira</segment>
+    <segment id="9">, acompanhou as candidaturas de Hilton</segment>
+    <segment id="10">, Andréa Bak</segment>
+    <segment id="11">, Monica Benicio e William De Lucca nas eleições de 2020.</segment>
+    <segment id="12">O lançamento do documentário está previsto para este ano.  com BIANKA VIEIRA</segment>
+    <segment id="13">, KARINA MATIAS e MANOELLA SMITH</segment>
+  </rst>
+</analysis>

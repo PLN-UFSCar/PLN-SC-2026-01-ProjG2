@@ -1,0 +1,54 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Sorteio serÃ¡ hoje</segment>
+    <segment id="2">, em Fortaleza</segment>
+    <segment id="3">Hoje, em Fortaleza</segment>
+    <segment id="4">, serÃ¡ feito o sorteio da 10Âª ediÃ§Ã£o do Campeonato do Nordeste</segment>
+    <segment id="5">Hoje, em Fortaleza</segment>
+    <segment id="6">,  serÃ¡</segment>
+    <segment id="7">feito o sorteio da 10Âª ediÃ§Ã£o do Campeonato do Nordeste</segment>
+    <segment id="8">, que  envolve os 16 clubes melhores colocados nos campeonatos estaduais.</segment>
+    <segment id="9">Cada time jogarÃ¡ seis vezes na primeira fase</segment>
+    <segment id="10">, trÃªs em casa e trÃªs fora</segment>
+    <segment id="11">, e os dois melhores de cada grupo avanÃ§am para a fase mata-mata</segment>
+    <segment id="12">, atÃ©</segment>
+    <segment id="13">o campeÃ£o ser conhecido.</segment>
+    <segment id="14">A primeira partida serÃ¡ no dia 20 de janeiro.</segment>
+    <segment id="15">Os 16 clubes sÃ£o:  ABC</segment>
+    <segment id="16">,  AmÃ©ricaâ€“RN</segment>
+    <segment id="17">,  ASA</segment>
+    <segment id="18">, Bahia</segment>
+    <segment id="19">, Campinense</segment>
+    <segment id="20">,  CearÃ¡</segment>
+    <segment id="21">, ConfianÃ§a</segment>
+    <segment id="22">, CRB, Feirense</segment>
+    <segment id="23">, Fortaleza</segment>
+    <segment id="24">, Itabaiana</segment>
+    <segment id="25">,  Salgueiro</segment>
+    <segment id="26">, Santa Cruz</segment>
+    <segment id="27">, Sousa</segment>
+    <segment id="28">,  Sport  e VitÃ³ria.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,143 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">É prudente prestar atenção quando os grandes jornais correm todos para o mesmo lado.</segment>
+    <segment id="2">Ou quando disparam em direções diametralmente opostas</segment>
+    <segment id="3">, fenômeno ainda mais raro</segment>
+    <segment id="4">, daí a relevância do ocorrido nesta última semana.</segment>
+    <segment id="5">Uma breve leitura dos editoriais de Folha</segment>
+    <segment id="6">, O Estado de S.Paulo e O Globo mostra</segment>
+    <segment id="7">comocomo a digestão de uma polêmica decisão do STF sobre o trabalho da imprensa foi diferente em três das principais Redações do país:</segment>
+    <segment id="8">"</segment>
+    <segment id="9">Capitaneados por Alexandre de Moraes</segment>
+    <segment id="10">, os atuais ministros do Supremo Tribunal Federal mostraram-</segment>
+    <segment id="11">sese dispostos</segment>
+    <segment id="12">, na última quarta-feira (29)</segment>
+    <segment id="13">, a inaugurar um capítulo sombrio na história da corte.</segment>
+    <segment id="14">"  "</segment>
+    <segment id="15">A tese do Supremo</segment>
+    <segment id="16">, com todos os seus problemas</segment>
+    <segment id="17">, afinal serve para valorizar o jornalismo que respeita os mais elevados padrões éticos...</segment>
+    <segment id="18">"  "</segment>
+    <segment id="19">Foi positiva a decisão do Supremo Tribunal Federal que fixou uma tese para os casos em que veículos de imprensa publicam em entrevistas declarações com acusações falsas.</segment>
+    <segment id="20">"</segment>
+    <segment id="21">O primeiro e o último período são as aberturas de Folha e O Globo.</segment>
+    <segment id="22">O segundo é a conclusão do Estadão</segment>
+    <segment id="23">, que constrói seu texto em ritmo inverso</segment>
+    <segment id="24">, estratégia argumentativa típica.</segment>
+    <segment id="25">O copo</segment>
+    <segment id="26">, porém</segment>
+    <segment id="27">porém, fica meio cheio ao final</segment>
+    <segment id="28">, como</segment>
+    <segment id="29">como no artigo do diário carioca.</segment>
+    <segment id="30">No da Folha está completamente vazio.</segment>
+    <segment id="31">FolhapressA diferença não é apenas de tom.</segment>
+    <segment id="32">Na tarde de quinta-feira (30)</segment>
+    <segment id="33">, enquanto O Globo dizia que a Associação Nacional de Jornais "elogiou a tese"</segment>
+    <segment id="34">, a Folha destacava da manifestação da entidade termos</segment>
+    <segment id="35">comocomo "insegurança" e "falta de definição".</segment>
+    <segment id="36">A ANJ falou tudo isso</segment>
+    <segment id="37">, em declaração ponderada</segment>
+    <segment id="38">, masmas os jornais aparentemente só leram o trecho que lhes interessava.</segment>
+    <segment id="39">A partir de um</segment>
+    <segment id="40">casocaso muito particular</segment>
+    <segment id="41">, o Supremo decidiu que um veículo de comunicação pode ser responsabilizado na esfera civil pelas declarações de um entrevistado</segment>
+    <segment id="42">;</segment>
+    <segment id="43">sese ele imputar falsamente um crime a terceiro</segment>
+    <segment id="44">;</segment>
+    <segment id="45">sese à época da publicação houver indícios concretos de falsidade da informação</segment>
+    <segment id="46">; sese o veículo não tiver observado o "dever de cuidado"</segment>
+    <segment id="47">, nas palavras do STF</segment>
+    <segment id="48">, de verificar a veracidade dos fatos.</segment>
+    <segment id="49">À leitura da Folha basta apenas a primeira oração: um veículo pode ser responsabilizado pelas declarações de um entrevistado.</segment>
+    <segment id="50">O rol de condicionantes "abre mais brechas do que fecha"</segment>
+    <segment id="51">, escreveu o jornal</segment>
+    <segment id="52">, coerente com a defesa intransigente da liberdade de imprensa.</segment>
+    <segment id="53">Aos concorrentes</segment>
+    <segment id="54">, pelas opiniões proferidas</segment>
+    <segment id="55">, as condicionantes trazem outros significados</segment>
+    <segment id="56">, como</segment>
+    <segment id="57">como o respeito ao "caráter do jornalismo" e à "responsabilidade da imprensa".</segment>
+    <segment id="58">Vem à lembrança o famoso New York Times v. Sullivan</segment>
+    <segment id="59">, em que a Suprema Corte dos EUA decidiu em 1964 que é preciso provar "actual malice"</segment>
+    <segment id="60">, má fé na divulgação de uma informação errada</segment>
+    <segment id="61">, para</segment>
+    <segment id="62">sese processar um veículo de imprensa.</segment>
+    <segment id="63">O Times havia errado</segment>
+    <segment id="64">, masmas foi rápido e incisivo ao</segment>
+    <segment id="65">sese retratar.</segment>
+    <segment id="66">Sem essa substância</segment>
+    <segment id="67">, não haveria a histórica decisão.</segment>
+    <segment id="68">Estamos longe disso.</segment>
+    <segment id="69">Uma coisa é errar</segment>
+    <segment id="70">, outra é estar à mercê de ser processado pela opinião torta de um entrevistado.</segment>
+    <segment id="71">Como escreveu Luís Francisco Carvalho Filho</segment>
+    <segment id="72">, a "Justiça local</segment>
+    <segment id="73">, muitas vezes exercida por magistrados corporativistas e autoritários"</segment>
+    <segment id="74">, é quem vai decidir esse tipo de coisa.</segment>
+    <segment id="75">A não ser que o acórdão do julgamento</segment>
+    <segment id="76">, a cargo do ministro Edson Fachin</segment>
+    <segment id="77">, mostre-</segment>
+    <segment id="78">sese absolutamente engenhoso</segment>
+    <segment id="79">, restaria elástico</segment>
+    <segment id="80">comocomo quase tudo nesta terra o conceito de "negligência grosseira"</segment>
+    <segment id="81">, régua usada pelo presidente do STF</segment>
+    <segment id="82">, Luís Roberto Barroso</segment>
+    <segment id="83">, ao indicar o presumido alvo da decisão.</segment>
+    <segment id="84">Se tudo isso faz sentido para o cálculo realista da Folha</segment>
+    <segment id="85">, é ingênuo imaginar que a equação dos concorrentes</segment>
+    <segment id="86">sese encerra em outra interpretação da sentença.</segment>
+    <segment id="87">Copos se</segment>
+    <segment id="88">se enchem também por outras razões.</segment>
+    <segment id="89">Em reportagem de repercussão do julgamento</segment>
+    <segment id="90">, outra estratégia típica nesses casos</segment>
+    <segment id="91">, a Folha ouviu críticos do STF</segment>
+    <segment id="92">, afetados pelas bolas que a retranca do TSE chutou para o mato durante a campanha eleitoral.</segment>
+    <segment id="93">Gente que aproveita a deixa para espezinhar os jornalistas</segment>
+    <segment id="94">, pois</segment>
+    <segment id="95">pois teriam concorrido para a mudança de governo.</segment>
+    <segment id="96">Contingência ou oportunismo</segment>
+    <segment id="97">, incluindo uma casquinha de Jair Bolsonaro em frase de recreio escolar</segment>
+    <segment id="98">, "estamos agora juntos com a imprensa".</segment>
+    <segment id="99">É forçoso notar que</segment>
+    <segment id="100">, por motivo distinto ao seu</segment>
+    <segment id="101">, a posição da Folha encontra ruidoso respaldo de forças incendiárias</segment>
+    <segment id="102">, como</segment>
+    <segment id="103">como o ex-presidente e aliados</segment>
+    <segment id="104">, que veem na liberdade de expressão e de imprensa salvo-conduto para barbaridades.</segment>
+    <segment id="105">Vozes que agora</segment>
+    <segment id="106">, na pretensão do STF</segment>
+    <segment id="107">, encontrariam mais resistência para serem aceitas sem o devido contraditório.</segment>
+    <segment id="108">Em levantamento oportuno</segment>
+    <segment id="109">, a Folha constatou uma linha de atuação da corte</segment>
+    <segment id="110">, seduzida talvez pela ideia de controle e responsabilização de usuários e redes sociais</segment>
+    <segment id="111">, equiparadas à "mídia tradicional" na legislação eleitoral</segment>
+    <segment id="112">, alteração que no TSE foi transformadora.  É sabido e</segment>
+    <segment id="113">, para muitos</segment>
+    <segment id="114">, justificável a excepcionalidade de 2022</segment>
+    <segment id="115">, com riscos à democracia.</segment>
+    <segment id="116">Agora é preciso afastar o risco da excepcionalidade</segment>
+    <segment id="117">, que é transformá-la em regra.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,63 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Eles querem provar que vovó tem 123 anos</segment>
+    <segment id="2">Maria Isidia tem dificuldades de locomoção e mora com uma das filhas de criação</segment>
+    <segment id="3">Maria Isidia da Conceição pode entrar para a história</segment>
+    <segment id="4">comocomo a mulher mais velha do mundo e</segment>
+    <segment id="5">comocomo a primeira baiana a ter o nome registrado no Livro dos Recordes.</segment>
+    <segment id="6">Ela tem 123 anos.</segment>
+    <segment id="7">Consta no seu RG que ela nasceu no dia 1º de julho de 1887.</segment>
+    <segment id="8">Naquela época</segment>
+    <segment id="9">, não tinha água encanada nem eletricidade</segment>
+    <segment id="10">, masmas ainda havia escravidão - a abolição só veio no ano seguinte.</segment>
+    <segment id="11">Moradora de Sapeaçu</segment>
+    <segment id="12">, no Recôncavo</segment>
+    <segment id="13">, a 169 km de Salvador</segment>
+    <segment id="14">, D.Maria é viúva e não teve filhos</segment>
+    <segment id="15">, masmas adotou quatro irmãs de uma comadre.</segment>
+    <segment id="16">A família quer procurar uma organização americana que pesquisa supercentenários no mundo.</segment>
+    <segment id="17">Quem também entrou na briga foi o pequeno produtor Pedro Coni.</segment>
+    <segment id="18">Ele quer provar que D. Maria nasceu antes da americana Besse Cooper</segment>
+    <segment id="19">, de 115 anos</segment>
+    <segment id="20">, que atualmente detém o título de mulher mais velha.</segment>
+    <segment id="21">Lembranças:</segment>
+    <segment id="22">Momentos de lucidez</segment>
+    <segment id="23">Analfabeta e descendente de escravos</segment>
+    <segment id="24">, D. Maria fumou até 120 anos de idade.</segment>
+    <segment id="25">Ela tem pressão alta e</segment>
+    <segment id="26">, após dois derrames</segment>
+    <segment id="27">, sese locomove em cadeira de rodas.</segment>
+    <segment id="28">Apesar da idade</segment>
+    <segment id="29">, tem momentos de lucidez</segment>
+    <segment id="30">, masmas pouca audição.</segment>
+    <segment id="31">“</segment>
+    <segment id="32">Ajudava meu marido a limpar a roça.</segment>
+    <segment id="33">Cozinhava para um fazendeiro</segment>
+    <segment id="34">, Eliodoro Almeida”</segment>
+    <segment id="35">, lembra D. Maria</segment>
+    <segment id="36">, que nasceu em Conceição do Almeida</segment>
+    <segment id="37">, masmas foi registrada em Santo Antônio.</segment>
+  </rst>
+</analysis>

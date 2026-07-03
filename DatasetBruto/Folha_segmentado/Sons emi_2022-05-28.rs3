@@ -1,0 +1,135 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A combinação de sons emitidos por chimpanzés na natureza parece seguir uma ordem que tem semelhanças com a gramática da nossa espécie</segment>
+    <segment id="2">, afirma um novo estudo publicado por pesquisadores europeus.</segment>
+    <segment id="3">Os cientistas ainda não conseguiram atribuir significados às "frases" dos primatas</segment>
+    <segment id="4">, masmas o trabalho é um primeiro passo importante para entender os elos entre as capacidades de comunicação dos outros grandes símios e a origem da linguagem humana.</segment>
+    <segment id="5">Os dados sobre o tema acabam de sair na revista especializada Communications Biology.</segment>
+    <segment id="6">Coordenado por Cédric Girard-Buttoz</segment>
+    <segment id="7">, do Instituto de Ciências Cognitivas Marc Jeannerod</segment>
+    <segment id="8">, na França</segment>
+    <segment id="9">, o trabalho</segment>
+    <segment id="10">sese baseou na análise de mais de 900 horas de gravações dos sons emitidos por chimpanzés do Parque Nacional Taï</segment>
+    <segment id="11">, na Costa do Marfim.</segment>
+    <segment id="12">Ao todo</segment>
+    <segment id="13">, as "vozes</segment>
+    <segment id="14">" de 46 macacos adultos estão presentes nas gravações</segment>
+    <segment id="15">, sempre feitas em contextos naturais.</segment>
+    <segment id="16">Estudo tenta descobrir o significado dos sons emitidos por chimpanzés do Parque Nacional Taï</segment>
+    <segment id="17">, na Costa do Marfim - Liran Samuni/Taï Chimpanzee ProjectEstudos sobre as capacidades linguísticas dos chimpanzés têm acontecido há várias décadas</segment>
+    <segment id="18">, masmas o mais comum é que eles tenham</segment>
+    <segment id="19">comocomo foco o ensino de rudimentos das línguas de sinais humanas para os bichos.</segment>
+    <segment id="20">Em parte</segment>
+    <segment id="21">, isso tem a ver com o fato de que a conformação da musculatura e dos ossos da garganta dos bichos simplesmente não permite que eles reproduzam sons com a mesma flexibilidade do Homo sapiens.</segment>
+    <segment id="22">Além disso</segment>
+    <segment id="23">, há, é claro</segment>
+    <segment id="24">, a questão cognitiva.</segment>
+    <segment id="25">Com cérebros cujo tamanho equivale</segment>
+    <segment id="26">, em média</segment>
+    <segment id="27">, a um terço do nosso</segment>
+    <segment id="28">, os símios parecem ter limitações fundamentais na hora de compreender</segment>
+    <segment id="29">comocomo a linguagem funciona.</segment>
+    <segment id="30">Com isso</segment>
+    <segment id="31">, os resultados dos estudos com línguas de sinais são relativamente decepcionantes.</segment>
+    <segment id="32">Os chimpanzés e bonobos "voluntários" conseguem aprender algumas centenas de sinais</segment>
+    <segment id="33">, masmas não chegam a combiná-los de um jeito que</segment>
+    <segment id="34">sese pareça com a estrutura de sentido que diferencia</segment>
+    <segment id="35">, por exemplo</segment>
+    <segment id="36">, a frase "</segment>
+    <segment id="37">O menino viu o cachorro" de "</segment>
+    <segment id="38">O cachorro viu o menino"</segment>
+    <segment id="39">, algo que crianças humanas a partir dos dois ou três anos de idade já são capazes de entender.</segment>
+    <segment id="40">No entanto</segment>
+    <segment id="41">, esse tipo de experimento costuma ser feito em contextos muito distantes do comportamento natural dos bichos</segment>
+    <segment id="42">, e é por isso que a análise feita por Girard-Buttoz e seus colegas é valiosa.</segment>
+    <segment id="43">A partir de uma lista dos diferentes tipos de vocalizações emitidos pelos chimpanzés (num total de 12 sons)</segment>
+    <segment id="44">, a equipe europeia passou a peneirar as gravações em busca de algumas características que poderiam indicar formas mais sofisticadas de comunicação.</segment>
+    <segment id="45">Chimpanzés que participaram de estudo sobre</segment>
+    <segment id="46">comocomo os animais</segment>
+    <segment id="47">sese comunicam - Liran Samuni/Taï Chimpanzee ProO traço número um avaliado pelos cientistas é a flexibilidade</segment>
+    <segment id="48">, ou seja</segment>
+    <segment id="49">, a capacidade de combinar a maioria dos sons individuais com quaisquer outros.</segment>
+    <segment id="50">O de número dois é a ordenação</segment>
+    <segment id="51">, que corresponde ao fato de que certas unidades tendem a aparecer em determinadas posições na vocalização.</segment>
+    <segment id="52">No caso</segment>
+    <segment id="53">caso do português</segment>
+    <segment id="54">, por exemplo</segment>
+    <segment id="55">, o normal é dizer "o menino"</segment>
+    <segment id="56">, e não "menino o" (</segment>
+    <segment id="57">embora</segment>
+    <segment id="58">embora outras línguas coloquem o equivalente ao artigo "o" depois</segment>
+    <segment id="59">, e não antes</segment>
+    <segment id="60">, do substantivo).</segment>
+    <segment id="61">O item três</segment>
+    <segment id="62">, a recombinação</segment>
+    <segment id="63">, tem a ver com a capacidade de usar sons individuais já combinados —dois deles</segment>
+    <segment id="64">, por exemplo</segment>
+    <segment id="65">, que os cientistas chamam de "bigramas"— para formar "frases" ainda mais longas</segment>
+    <segment id="66">, com três ou mais elementos.</segment>
+    <segment id="67">Notícias do diaReceba diariamente de manhã no seu email as principais notícias publicadas na Folha</segment>
+    <segment id="68">; aberta para não assinantes.</segment>
+    <segment id="69">Carregando...</segment>
+    <segment id="70">Usando esses critérios</segment>
+    <segment id="71">, os cientistas constataram que 67% das "falas" dos chimpanzés consistem num único tipo de som</segment>
+    <segment id="72">, emitido uma ou várias vezes em sequência.</segment>
+    <segment id="73">No restante dos casos</segment>
+    <segment id="74">, mais de um tipo de chamado era combinado.</segment>
+    <segment id="75">Em geral</segment>
+    <segment id="76">, eram os tais "bigramas"</segment>
+    <segment id="77">, masmas também há registros de até dez sons diferentes emitidos juntos</segment>
+    <segment id="78">, num total de 390 sequências únicas de sons (mais uma vez</segment>
+    <segment id="79">, é possível compará-las a "frases" diferentes).</segment>
+    <segment id="80">Ou seja</segment>
+    <segment id="81">, isso já satisfaz o critério um</segment>
+    <segment id="82">, o da flexibilidade.</segment>
+    <segment id="83">Para testar o critério dois</segment>
+    <segment id="84">, o da ordem preferencial dos sons</segment>
+    <segment id="85">, os autores do estudo analisaram especificamente os "bigramas"</segment>
+    <segment id="86">, a combinação de dois tipos diferentes de vocalização.</segment>
+    <segment id="87">Mais um ponto para os chimpanzés: os pesquisadores verificaram que pelo menos nove das unidades sonoras têm uma tendência clara a aparecer em posições típicas</segment>
+    <segment id="88">, no começo ou no fim das "frases".</segment>
+    <segment id="89">Um exemplo é o som que eles apelidaram de "pant-scream" (algo</segment>
+    <segment id="90">comocomo "grito arfado").</segment>
+    <segment id="91">Ele foi registrado em 67 "bigramas" na segunda posição</segment>
+    <segment id="92">, sendo precedido por um "pant hoot" (ou "pio arfado") em 60 desses casos.</segment>
+    <segment id="93">Só em 7 ocorrências outro som vinha antes dele.</segment>
+    <segment id="94">A cultura dos chimpanzésMais    novamente         de   de  de  representando um  Por fim</segment>
+    <segment id="95">, no que diz respeito ao critério três</segment>
+    <segment id="96">, a equipe de Girard-Buttoz verificou que a maior parte dos "bigramas" também é utilizada pelos animais em vocalizações com três elementos (os "trigramas")</segment>
+    <segment id="97">, e que</segment>
+    <segment id="98">, nesses trios de sons diferentes em sequência</segment>
+    <segment id="99">, também parece haver uma ordem preferencial</segment>
+    <segment id="100">, com certos "bigramas</segment>
+    <segment id="101">" aparecendo com frequência mais alta do que o esperado em certas posições.</segment>
+    <segment id="102">Existem poucos estudos de abrangência semelhante ao da equipe europeia sobre as vocalizações de outros primatas</segment>
+    <segment id="103">, masmas o que</segment>
+    <segment id="104">sese sabe até agora sugere que eles podem ter descoberto algo único.</segment>
+    <segment id="105">"</segment>
+    <segment id="106">Por enquanto</segment>
+    <segment id="107">, apenas os sistemas vocais de seres humanos e chimpanzés parecem abranger as três características estruturais que propomos"</segment>
+    <segment id="108">, escrevem os cientistas.</segment>
+    <segment id="109">Agora deve vir o trabalho mais difícil e lento: mostrar que essas características podem corresponder a uma gama de sentidos que os bichos são capazes de compreender.</segment>
+  </rst>
+</analysis>

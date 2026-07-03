@@ -1,0 +1,31 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Zeca Pagodinho e o carregador de birita</segment>
+    <segment id="2">O cantor mantém um funcionário encarregado de carregar suas cervejasO cantor mantém um funcionário encarregado de carregar suas cervejas</segment>
+    <segment id="3">Segundo o jornal “</segment>
+    <segment id="4">O Globo”</segment>
+    <segment id="5">, o cantor mantém um funcionário encarregado exclusivamente de carregar um cooler cheio de cerveja por onde quer que ele vá.</segment>
+  </rst>
+</analysis>

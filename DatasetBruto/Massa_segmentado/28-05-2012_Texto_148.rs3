@@ -1,0 +1,47 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Mensalão: STF recebeu 37 mil assinaturas para julgar rápido
+RIO - Representantes de movimentos contra a corrupção entregaram ao Supremo Tribunal Federal (STF) nesta quarta-feira</segment>
+    <segment id="2">, um manifesto com 37 mil assinaturas com o objetivo de pedir celeridade ao processo e julgamento do mensalão.</segment>
+    <segment id="3">Assinaturas coletadas na Internet e no papel foram levadas por uma comitiva dos movimentos 31 de Julho</segment>
+    <segment id="4">, Queremos Ética na Política</segment>
+    <segment id="5">, Transparência Brasil e Contas Abertas.</segment>
+    <segment id="6">Em tentativa anterior de entrega do abaixo-assinado diretamente ao ministro Ricardo Lewandowski</segment>
+    <segment id="7">, revisor do processo</segment>
+    <segment id="8">, realizada no dia 25 de abril</segment>
+    <segment id="9">, a iniciativa não obteve êxito</segment>
+    <segment id="10">, porque</segment>
+    <segment id="11">porque os representantes dos movimentos não foram recebidos</segment>
+    <segment id="12">, apesar da confirmação prévia da audiência.</segment>
+    <segment id="13">Desta vez</segment>
+    <segment id="14">, os organizadores do abaixo-assinado decidiram deixar as assinaturas oficialmente no Protocolo do STF.</segment>
+    <segment id="15">A petição entregue dizia:</segment>
+    <segment id="16">"Aos Ministros do STF.</segment>
+    <segment id="17">Fazemos um apelo a V.Exas para não permitirem que os crimes do Mensalão prescrevam antes do julgamento e que pedidos de vistas e adiamentos beneficiem os acusados.</segment>
+    <segment id="18">O processo está em tramitação há muito tempo.</segment>
+    <segment id="19">Deixar que ocorra prescrição e que os acusados continuem a</segment>
+    <segment id="20">sese aproveitar da demora do julgamento significará verdadeira oficialização da impunidade no Brasil".</segment>
+  </rst>
+</analysis>

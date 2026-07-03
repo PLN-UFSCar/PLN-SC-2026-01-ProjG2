@@ -1,0 +1,32 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Troca de tiros em shopping em Bangu fere duas pessoas
+
+RIO - Uma troca de tiros levou pânico aos clientes de um shopping em Bangu</segment>
+    <segment id="2">, na noite deste sábado.</segment>
+    <segment id="3">Pelo menos duas pessoas foram baleadas e levadas para o Hospital Albert Schweitzer.</segment>
+    <segment id="4">Policiais do 14º BPM (Bangu) estão no shopping.</segment>
+  </rst>
+</analysis>

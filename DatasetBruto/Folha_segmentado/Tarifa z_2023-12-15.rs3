@@ -1,0 +1,128 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Os paulistanos terão neste domingo (17) uma nova experiência com ônibus gratuitos na capital.</segment>
+    <segment id="2">A medida</segment>
+    <segment id="3">, anunciada na segunda-feira (11) pelo prefeito Ricardo Nunes (MDB)</segment>
+    <segment id="4">, também valerá no Natal (25)</segment>
+    <segment id="5">, no Ano Novo (1º) e no aniversário da cidade</segment>
+    <segment id="6">, em 25 de janeiro.</segment>
+    <segment id="7">Segundo Nunes</segment>
+    <segment id="8">, a tarifa zero deverá contemplar 1.175 linhas e uma frota de 4.830 ônibus.</segment>
+    <segment id="9">O modelo deve funcionar das 0h às 23h59 dos domingos e a expectativa é de beneficiar 2</segment>
+    <segment id="10">,2 milhões passageiros.</segment>
+    <segment id="11">A prefeitura afirmou que a medida terá um custo anual de R$ 238 milhões —esse é o valor que as tarifas pagas aos domingos atualmente rendem aos cofres públicos.</segment>
+    <segment id="12">Segundo a gestão</segment>
+    <segment id="13">, esse será o único custo novo do projeto</segment>
+    <segment id="14">, já que não será necessário aumentar os subsídios pagos às empresas de ônibus</segment>
+    <segment id="15">, atualmente de R$ 6 bilhões por ano.</segment>
+    <segment id="16">Movimento de passageiros no terminal de Santana</segment>
+    <segment id="17">, na zona norte de São Paulo</segment>
+    <segment id="18">;</segment>
+    <segment id="19">ônibus terão catraca livre neste domingo (17)</segment>
+    <segment id="20">, no primeiro dia da tarifa zero - Rubens Cavallari - 20.set.23/Folhapress"Temos uma frota 60% ociosa aos domingos</segment>
+    <segment id="21">, não será necessário fazer implementação do subsídio.</segment>
+    <segment id="22">Vamos deixar de receber o valor das tarifas</segment>
+    <segment id="23">, masmas vai ter um ganho para toda a cidade</segment>
+    <segment id="24">, inclusive para saúde mental da população"</segment>
+    <segment id="25">, afirmou o prefeito.</segment>
+    <segment id="26">Ele disse que não há previsão que a medida aumente a demanda pelos ônibus.</segment>
+    <segment id="27">Também não</segment>
+    <segment id="28">sese comprometeu com um prazo de duração do novo programa.</segment>
+    <segment id="29">"</segment>
+    <segment id="30">Vamos manter aos domingos</segment>
+    <segment id="31">, masmas toda política pública pode precisar de um ajuste</segment>
+    <segment id="32">, a intenção é manter.</segment>
+    <segment id="33">"</segment>
+    <segment id="34">Por enquanto</segment>
+    <segment id="35">, a medida não será aplicada durante a madrugada dos outros dias</segment>
+    <segment id="36">, como</segment>
+    <segment id="37">como chegou a ser cogitado.</segment>
+    <segment id="38">Mas Nunes disse que isso ainda poderá acontecer no futuro.</segment>
+    <segment id="39">A princípio</segment>
+    <segment id="40">, também não haverá tarifa zero durante os feriados.</segment>
+    <segment id="41">Cidades com tarifa zero no BrasilMais    novamente         de   de  de  representando um  Tire suas dúvidas sobre a tarifa zero aos domingosComo usufruir da gratuidade?A tarifa zero vale em quais dias?Haverá tarifa zero em outros dias?Como fica a integração com metrô e trem?Qual será a frota aos domingos?Quanto vai custar o projeto?</segment>
+    <segment id="42">Como usufruir da gratuidade?</segment>
+    <segment id="43">Para quem já possui o Bilhete Único</segment>
+    <segment id="44">, a SPTrans garante que o usuário poderá passá-lo na catraca</segment>
+    <segment id="45">, porém</segment>
+    <segment id="46">porém, o valor não será debitado do cartão</segment>
+    <segment id="47">comocomo nos demais dias.</segment>
+    <segment id="48">"</segment>
+    <segment id="49">Para o usuário que não tem o Bilhete Único</segment>
+    <segment id="50">, o cobrador tem um bilhete de bordo que vai liberar a catraca.</segment>
+    <segment id="51">Para os casos de ônibus sem cobrador</segment>
+    <segment id="52">, o motorista tem um dispositivo que tem condições de liberar a passagem"</segment>
+    <segment id="53">, explicou o diretor-presidente da SPTrans</segment>
+    <segment id="54">, Levi Oliveira.</segment>
+    <segment id="55">A tarifa zero vale em quais dias?</segment>
+    <segment id="56">A gratuitidade será aplicada apenas aos domingos e nos feriados de Natal deste ano</segment>
+    <segment id="57">, Ano Novo (1º de janeiro de 2024) e no aniversário de São Paulo</segment>
+    <segment id="58">, no dia 25 de janeiro do ano que vem.</segment>
+    <segment id="59">O horário será da 0h às 23h59.</segment>
+    <segment id="60">Nos demais feriados</segment>
+    <segment id="61">, segundo a prefeitura</segment>
+    <segment id="62">, não há previsão de passagem livre.</segment>
+    <segment id="63">Também não há previsão de encerramento do projeto.</segment>
+    <segment id="64">Haverá tarifa zero em outros dias?</segment>
+    <segment id="65">Uma das possibilidades que foram analisadas pela prefeitura era a tarifa zero durante todos os dias de madrugada</segment>
+    <segment id="66">, entre 0h e 4h</segment>
+    <segment id="67">, masmas esta opção está descartada por enquanto.</segment>
+    <segment id="68">Como fica a integração com metrô e trem?</segment>
+    <segment id="69">O prefeito paulistano diz que</segment>
+    <segment id="70">, com a oferta de 1.175 linhas gratuitas</segment>
+    <segment id="71">, a população não precisará utilizar as linhas férreas.</segment>
+    <segment id="72">Metrô e CPTM</segment>
+    <segment id="73">, sob responsabilidade do governo estadual</segment>
+    <segment id="74">, não aderiram ao programa e vão cobrar a passagem normalmente.</segment>
+    <segment id="75">A partir de 1º de janeiro</segment>
+    <segment id="76">, as tarifas das linhas férreas serão reajustadas para R$ 5.</segment>
+    <segment id="77">Pessoas com idade entre 60 e 64 anos voltam a ter gratuidade nos ônibus da capital paulistaMais    novamente         de   de  de  representando</segment>
+    <segment id="78">um  Qual será a frota aos domingos?</segment>
+    <segment id="79">A prefeitura estima que receberá</segment>
+    <segment id="80">, por domingo</segment>
+    <segment id="81">, 2,2 milhões de passageiros.</segment>
+    <segment id="82">Para atendê-los</segment>
+    <segment id="83">, 4.800 ônibus estarão nas ruas em 1.175 linhas.</segment>
+    <segment id="84">A prefeitura não apresentou nenhum dado que sugerisse o aumento da demanda de passageiros.</segment>
+    <segment id="85">Em cidades que adotaram o modelo semelhante</segment>
+    <segment id="86">, a quantidade de usuários praticamente dobrou.</segment>
+    <segment id="87">Quanto vai custar o projeto?</segment>
+    <segment id="88">A prefeitura diz que não há previsão de precisar pagar a mais às empresas pelo passe livre.</segment>
+    <segment id="89">No entanto</segment>
+    <segment id="90">, a gestão municipal deverá renunciar</segment>
+    <segment id="91">, pelo menos</segment>
+    <segment id="92">, uma receita de R$ 240 milhões ao ano.</segment>
+    <segment id="93">Essa cifra equivale ao que a prefeitura deixará de receber com as catracas livres aos domingos.</segment>
+    <segment id="94">Neste ano</segment>
+    <segment id="95">, a administração municipal deverá custear R$ 6 bilhões dos gastos com os ônibus e</segment>
+    <segment id="96">, segundo Nunes</segment>
+    <segment id="97">, há uma ociosidade de 60% da capacidade dos coletivos. "</segment>
+    <segment id="98">Com isso</segment>
+    <segment id="99">, não será necessário fazer implementação do subsídio"</segment>
+    <segment id="100">, afirma Nunes.</segment>
+    <segment id="101">Ao votar o orçamento da cidade para o ano que vem</segment>
+    <segment id="102">, a Câmara dos Vereadores aprovou uma reserva de R$ 500 milhões para o Executivo custear o transporte coletivo gratuito.</segment>
+  </rst>
+</analysis>

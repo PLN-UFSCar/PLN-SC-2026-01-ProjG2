@@ -1,0 +1,155 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">“Eu não sei mais o que fazer”</segment>
+    <segment id="2">, diz a auxiliar de limpeza Sirlene Gomes</segment>
+    <segment id="3">, 39.</segment>
+    <segment id="4">O desabafo é sobre a situação do marido</segment>
+    <segment id="5">, Marco Aurélio Panacho</segment>
+    <segment id="6">, 34, que</segment>
+    <segment id="7">, segundo ela</segment>
+    <segment id="8">, chegou ao Hospital Estadual Vila Alpina (zona leste)</segment>
+    <segment id="9">, masmas não conseguiu a vaga nesta quarta-feira (3).</segment>
+    <segment id="10">O aposentado foi levado ao hospital de ambulância</segment>
+    <segment id="11">, transferido da UPA Ermelino Matarazzo</segment>
+    <segment id="12">, onde estava desde a noite de terça (2).</segment>
+    <segment id="13">Com falta de ar e dor no peito</segment>
+    <segment id="14">, a suspeita era de Covid-19 —o resultado do teste não havia saído</segment>
+    <segment id="15">, masmas a internação foi negada.</segment>
+    <segment id="16">Segundo a Secretaria Municipal da Saúde</segment>
+    <segment id="17">, o o encaminhamento só foi feito</segment>
+    <segment id="18">porque</segment>
+    <segment id="19">porque o hospital aceitou a internação.</segment>
+    <segment id="20">A pasta estadual</segment>
+    <segment id="21">, porém</segment>
+    <segment id="22">porém, disse que avaliação médica não indicou necessidade de</segment>
+    <segment id="23">sese internar.</segment>
+    <segment id="24">“</segment>
+    <segment id="25">O paciente tem histórico de comorbidades e tentou</segment>
+    <segment id="26">, inclusive</segment>
+    <segment id="27">, evadir antes da liberação médica.</segment>
+    <segment id="28">A família foi orientada no momento da alta e todas as orientações para tratamento regular sobre outras patologias também foram prestadas”</segment>
+    <segment id="29">, disse a secretaria estadual sobre o paciente.</segment>
+    <segment id="30">O hospital da Vila Alpina é uma das quatro unidades estaduais da capital que restringiu</segment>
+    <segment id="31">, desde segunda-feira (1º)</segment>
+    <segment id="32">, o atendimento a pacientes graves encaminhados de outras unidades —o modelo “porta fechada”.</segment>
+    <segment id="33">Protesto contra a mudança no atendimento no pronto-socorro do Hospital Geral do Itaim Paulista   novamente         de   de  de  representando um</segment>
+    <segment id="34">A medida tem gerado protestos</segment>
+    <segment id="35">, como</segment>
+    <segment id="36">como no Itaim Paulista</segment>
+    <segment id="37">, também na zona leste.</segment>
+    <segment id="38">Outras unidades estaduais que também passaram a atender somente casos graves desde a última segunda são no Grajaú e na Pedreira</segment>
+    <segment id="39">, ambos na zona sul.</segment>
+    <segment id="40">Mas nem todos os pacientes sabiam.</segment>
+    <segment id="41">Febre, dor de garganta e dor de barriga eram os sintomas da pequena Julia</segment>
+    <segment id="42">, 3.</segment>
+    <segment id="43">A mãe dela</segment>
+    <segment id="44">, Joana Maria Miranda</segment>
+    <segment id="45">, 26, diz que a criança já havia recebido atendimento no Hospital Infantil Cândido Fontoura e que a suspeita era de Covid-19.</segment>
+    <segment id="46">Em nenhuma das unidades</segment>
+    <segment id="47">, contudo</segment>
+    <segment id="48">contudo</segment>
+    <segment id="49">, ela conseguiu fazer o teste.</segment>
+    <segment id="50">“Estou voltando para casa sem saber.</segment>
+    <segment id="51">Aqui [Vila Alpina] disseram que não tinha</segment>
+    <segment id="52">comocomo fazer o teste.</segment>
+    <segment id="53">”</segment>
+    <segment id="54">Com dor de ouvido</segment>
+    <segment id="55">, a estudante Camille Oliveira</segment>
+    <segment id="56">, 17, teve que dar meia-volta da porta do pronto-socorro.</segment>
+    <segment id="57">“Estou morrendo de dor</segment>
+    <segment id="58">, não consigo nem mexer a cabeça”</segment>
+    <segment id="59">, afirmou.</segment>
+    <segment id="60">Ela chegou ao Vila Alpina após ter dito buscar atendimento num posto de saúde</segment>
+    <segment id="61">, que ela não citou o nome.</segment>
+    <segment id="62">“Vamos ter que gastar de novo com a condução para descobrir onde ela poderá ser atendida”</segment>
+    <segment id="63">, afirmou a irmã Jeniffer Oliveira</segment>
+    <segment id="64">, 20.</segment>
+    <segment id="65">Fluxo correto</segment>
+    <segment id="66">A porta de entrada para pacientes com sintomas leves da Covid-19 tem que ser a unidade de atenção primária</segment>
+    <segment id="67">, seja uma AMA ou uma UBS</segment>
+    <segment id="68">, segundo Gonzalo Vecina Neto</segment>
+    <segment id="69">, professor de saúde pública da Faculdade de Medicina da USP (Universidade de São Paulo).</segment>
+    <segment id="70">“Essa cultura [de procurar um hospital com queixas leves] está errada</segment>
+    <segment id="71">, temos que mudar.</segment>
+    <segment id="72">Mas para mudar</segment>
+    <segment id="73">, tem que ter uma rede básica funcionando adequadamente.</segment>
+    <segment id="74">O ruim é o paciente chegar no centro de saúde e ouvir que não vai ser atendido”</segment>
+    <segment id="75">, diz o especialista.</segment>
+    <segment id="76">O correto</segment>
+    <segment id="77">, afirma o professor</segment>
+    <segment id="78">, é que os hospitais de alta complexidade só recebam pacientes encaminhados de outros serviços.</segment>
+    <segment id="79">Segundo ele</segment>
+    <segment id="80">, mesmo com a pandemia e o aumento de atendimentos pela Covid-19</segment>
+    <segment id="81">, o momento é o adequado para a reformulação do fluxo do atendimento.</segment>
+    <segment id="82">“Se deixar para o tempo de bonança</segment>
+    <segment id="83">, não vai fazer.</segment>
+    <segment id="84">Agora os prontos-socorros estão lotados</segment>
+    <segment id="85">, então temos que diminuir a ida aos hospitais”</segment>
+    <segment id="86">, afirma.</segment>
+    <segment id="87">Protestos</segment>
+    <segment id="88">A restrição do atendimento nas unidades estaduais tem gerado insatisfação.</segment>
+    <segment id="89">Na manhã desta quarta-feira (3)</segment>
+    <segment id="90">, houve protesto no Hospital Geral do Itaim Paulista (zona leste)</segment>
+    <segment id="91">, contra a medida.</segment>
+    <segment id="92">Na frente do hospital Vila Alpina</segment>
+    <segment id="93">, uma faixa pedia que a restrição fosse revista.</segment>
+    <segment id="94">Eriosvaldo Lima</segment>
+    <segment id="95">, 58 anos</segment>
+    <segment id="96">, membro do conselho gestor da UBS Vila Itaim</segment>
+    <segment id="97">, afirma que a medida vai ser uma “perda grande” para os moradores da região.</segment>
+    <segment id="98">“</segment>
+    <segment id="99">O único hospital próximo da nossa região é esse [Itaim Paulista].</segment>
+    <segment id="100">Sem ele</segment>
+    <segment id="101">, para onde uma emergência vai?</segment>
+    <segment id="102">”, questiona ele.</segment>
+    <segment id="103">Outra reclamação é que a decisão do fechamento do pronto-socorro não foi acordada com a população.</segment>
+    <segment id="104">“</segment>
+    <segment id="105">Fomos pegos de surpresa.</segment>
+    <segment id="106">”  Numa carta aberta distribuída na manifestação</segment>
+    <segment id="107">, o Movimento Popular de Saúde da Zona Leste afirma que “o fechamento do PS é uma tragédia anunciada.</segment>
+    <segment id="108">”  Na sexta-feira (5)</segment>
+    <segment id="109">, outra manifestação deve acontecer na unidade.</segment>
+    <segment id="110">Resposta</segment>
+    <segment id="111">A Secretaria Estadual da Saúde</segment>
+    <segment id="112">, gestão João Doria (PSDB)</segment>
+    <segment id="113">, diz que a restrição do pronto-socorro “objetiva priorizar o atendimento a casos graves e gravíssimos nestes hospitais.</segment>
+    <segment id="114">”</segment>
+    <segment id="115">A nota afirma que</segment>
+    <segment id="116">, por 90 dias</segment>
+    <segment id="117">, será realizada orientação dos pacientes</segment>
+    <segment id="118">para que</segment>
+    <segment id="119">para que busquem outras unidades</segment>
+    <segment id="120">, masmas que mesmo quadros leves estão sendo atendidos.</segment>
+    <segment id="121">A Secretaria Municipal da Saúde</segment>
+    <segment id="122">, gestão Bruno Covas (PSDB)</segment>
+    <segment id="123">, afirma que as unidades de saúde municipais seguem atendendo “normalmente” e que realiza monitoramento diário para acompanhar o aumento na demanda pela mudança nos hospitais estaduais.</segment>
+    <segment id="124">A pasta estadual diz que Marco Aurélio Panacho passou por avaliação médica no hospital da Vila Alpina e que não havia indicação de internação.</segment>
+    <segment id="125">A secretaria municipal afirma que o paciente foi encaminhado</segment>
+    <segment id="126">porque</segment>
+    <segment id="127">porque o hospital aceitou.</segment>
+    <segment id="128">Sobre o atendimento da menina Julia</segment>
+    <segment id="129">, a secretaria estadual afirma que ela foi avaliada pelo médico e não havia indicação de coleta de exame de Covid-19.</segment>
+  </rst>
+</analysis>

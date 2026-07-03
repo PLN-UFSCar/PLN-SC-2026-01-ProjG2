@@ -1,0 +1,146 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Rio: 51% são retidos no 1º ano do ensino médio
+RIO-</segment>
+    <segment id="2">Os dados divulgados esta semana pelo Instituto Nacional de Estudos e Pesquisas Educacionais (Inep) revelam que</segment>
+    <segment id="3">, sese no Estado do Rio a situação do ensino médio é crítica</segment>
+    <segment id="4">, na capital é pior ainda.</segment>
+    <segment id="5">No 1º ano</segment>
+    <segment id="6">, por exemplo</segment>
+    <segment id="7">, 51% dos estudantes da rede pública repetem ou abandonam a escola.</segment>
+    <segment id="8">O número coloca os cariocas com o terceiro pior desempenho entre todas as 27 capitais do país</segment>
+    <segment id="9">, à frente apenas de Vitória (53</segment>
+    <segment id="10">,3%) e Porto Alegre (52</segment>
+    <segment id="11">,5%).</segment>
+    <segment id="12">Entre os 92 municípios fluminenses</segment>
+    <segment id="13">, a rede pública da cidade do Rio só é melhor do que Búzios no 1º ano do ensino médio.</segment>
+    <segment id="14">O município da Região dos Lagos apresentou taxa de 53</segment>
+    <segment id="15">,6% na soma de abandono e repetência.</segment>
+    <segment id="16">Na outra ponta</segment>
+    <segment id="17">, aparece a pequena Italva</segment>
+    <segment id="18">, com apenas 5</segment>
+    <segment id="19">,8%.</segment>
+    <segment id="20">Os dados são referentes ao ano de 2011.</segment>
+    <segment id="21">Levando-</segment>
+    <segment id="22">sese em conta todos os três anos do ensino médio</segment>
+    <segment id="23">, a capital fluminense tem 39</segment>
+    <segment id="24">,7% dos estudantes retidos</segment>
+    <segment id="25">porque</segment>
+    <segment id="26">porque largaram a escola ou não conseguiram passar para outra série.</segment>
+    <segment id="27">O Rio aparece</segment>
+    <segment id="28">comocomo a quarta pior capital do país.</segment>
+    <segment id="29">A pior foi Salvador</segment>
+    <segment id="30">, com 42</segment>
+    <segment id="31">,9%.</segment>
+    <segment id="32">A melhor</segment>
+    <segment id="33">, Manaus (19</segment>
+    <segment id="34">,3%).</segment>
+    <segment id="35">Dentro do estado</segment>
+    <segment id="36">, os cariocas novamente só conseguem ficar melhor do que Búzios (41</segment>
+    <segment id="37">,6%).</segment>
+    <segment id="38">Para a mestre em educação pela PUC-Rio e superintendente-executiva do Instituto Unibanco</segment>
+    <segment id="39">, Wanda Engel</segment>
+    <segment id="40">, a situação pode ser ainda mais grave do que a mostrada por esses números.
+
+-</segment>
+    <segment id="41">O problema pode ser ainda mais sério</segment>
+    <segment id="42">, já que há pesquisas mostrando que</segment>
+    <segment id="43">, em termos nacionais</segment>
+    <segment id="44">, 20% dos alunos que saem do ensino fundamental sequer</segment>
+    <segment id="45">sese matriculam no ensino médio.</segment>
+    <segment id="46">Para quem ingressa</segment>
+    <segment id="47">, o principal momento de desistência é o 2º bimestre do 1º ano.</segment>
+    <segment id="48">E a grande questão é a falta de condições acadêmicas: o estudante chega sem ter aprendido fração para estudar física e química.</segment>
+    <segment id="49">Tira zero nas provas e acaba achando que não é capaz - avalia ela.</segment>
+    <segment id="50">Quando é feita a comparação entre a rede pública (onde mais de 95% das matrículas estão com o estado e o restante é federal) e a particular na capital</segment>
+    <segment id="51">, o abismo fica evidente.</segment>
+    <segment id="52">Se na primeira o índice de abandono e reprovação no 1º ano do ensino médio é de 51%</segment>
+    <segment id="53">, nas escolas privadas é de somente 16</segment>
+    <segment id="54">,3%.
+
+- Na capital</segment>
+    <segment id="55">, há um ponto crítico na rede pública</segment>
+    <segment id="56">, que é a grande oferta de vagas noturnas no ensino médio.</segment>
+    <segment id="57">E, do jeito que as aulas são aplicadas à noite</segment>
+    <segment id="58">, são um convite para o abandono.</segment>
+    <segment id="59">Esse período deveria ser reservado para os jovens acima de 18 anos que cursam a Educação de Jovens e Adultos (antigo supletivo) - completa Wanda Engel.</segment>
+    <segment id="60">Apesar do fraco desempenho principalmente na capital</segment>
+    <segment id="61">, o secretário estadual de Educação</segment>
+    <segment id="62">, Wilson Risolia</segment>
+    <segment id="63">, comemorou os resultados divulgados esta semana pelo Inep</segment>
+    <segment id="64">, pois</segment>
+    <segment id="65">pois mostram que tem havido uma diminuição significativa de alunos que repetem ou abandonam o ensino médio.
+
+- Quando falamos de todo o estado</segment>
+    <segment id="66">, fomos o terceiro que mais melhorou desde 2009 na quantidade de aprovados</segment>
+    <segment id="67">, tanto no ensino médio quanto somente no 1º ano.</segment>
+    <segment id="68">No total do ensino médio</segment>
+    <segment id="69">, por exemplo</segment>
+    <segment id="70">, a rede diminuiu em 5</segment>
+    <segment id="71">,3% o número de alunos que são reprovados ou abandonam a escola de dois anos para cá.</segment>
+    <segment id="72">Risolia admite</segment>
+    <segment id="73">, no entanto</segment>
+    <segment id="74">, que ainda há muito o que fazer.</segment>
+    <segment id="75">O secretário afirma que parte do problema no ensino médio é decorrência de falhas no ensino fundamental</segment>
+    <segment id="76">, masmas que estão sendo tomadas ações de aceleração escolar</segment>
+    <segment id="77">, para os alunos com defasagem idade-série</segment>
+    <segment id="78">, e de reforço</segment>
+    <segment id="79">, para aqueles que não conseguem acompanhar o ritmo das aulas.
+
+- Em 2010</segment>
+    <segment id="80">, tínhamos 60 mil alunos fazendo reforço.</segment>
+    <segment id="81">Este ano</segment>
+    <segment id="82">, a nossa expectativa é chegar a 240 mil.</segment>
+    <segment id="83">Realmente enfrentamos um problema de falta de vagas diurnas</segment>
+    <segment id="84">, principalmente na Zona Oeste da capital.</segment>
+    <segment id="85">Mas no início deste ano</segment>
+    <segment id="86">, por exemplo</segment>
+    <segment id="87">, abrimos três mil.</segment>
+    <segment id="88">Também estamos preparando mudanças na Educação de Jovens e Adultos para o segundo semestre - adiantou o secretário.</segment>
+    <segment id="89">Responsável por boa parte do ensino fundamental (porta de entrada do ensino médio) na capital</segment>
+    <segment id="90">, a secretária municipal de Educação</segment>
+    <segment id="91">, Claudia Costin</segment>
+    <segment id="92">, também</segment>
+    <segment id="93">sese defende:
+
+- Até 2009</segment>
+    <segment id="94">, havia um problema que era a aprovação automática.</segment>
+    <segment id="95">Quando</segment>
+    <segment id="96">sese implementa esse tipo de progressão sem um processo estruturado de ensino</segment>
+    <segment id="97">, o problema vai sendo empurrado para frente.</segment>
+    <segment id="98">Mas, de lá para cá</segment>
+    <segment id="99">, o quadro já mudou: implementamos medidas</segment>
+    <segment id="100">comocomo um currículo único e um sistema de acompanhamento de desempenho com provas bimestrais.</segment>
+    <segment id="101">O Rio está entre as capitais de melhor desempenho no ensino fundamental.</segment>
+    <segment id="102">Para Zaia Brandão</segment>
+    <segment id="103">, professora do Departamento de Educação da PUC-Rio</segment>
+    <segment id="104">, a crise do ensino médio tem uma de suas principais raízes na formação do professor:
+
+- Enquanto não levarmos a sério as condições de formação e trabalho (materiais</segment>
+    <segment id="105">, culturais e simbólicas) do professor</segment>
+    <segment id="106">, a situação permanecerá caótica.</segment>
+    <segment id="107">A solução não será encontrada com fórmulas mágicas e sim com vontade política e competência técnica.</segment>
+  </rst>
+</analysis>

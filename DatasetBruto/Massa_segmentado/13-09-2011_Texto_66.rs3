@@ -1,0 +1,52 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">CSN e Usiminas têm 15 dias para</segment>
+    <segment id="2">sese explicar à SDE
+BRASÍLIA - A Companhia Siderúrgica Nacional (CSN) e a Usiminas têm 15 dias para dar explicações à Secretaria de Direito Econômico (SDE)</segment>
+    <segment id="3">, do Ministério da Justiça</segment>
+    <segment id="4">, sobre recentes negócios que podem resultar em atos de concentração.</segment>
+    <segment id="5">As empresas foram notificadas pela SDE no início da semana</segment>
+    <segment id="6">, que está preocupada com os impactos para a concorrência.</segment>
+    <segment id="7">CSN e Usiminas tem 70% da produção de aços longos do país.</segment>
+    <segment id="8">Desde o início do ano</segment>
+    <segment id="9">, a CSN vem elevando sua participação na Usiminas e já teria direito a um assento no conselho da rival.</segment>
+    <segment id="10">Segundo a SDE</segment>
+    <segment id="11">, dependendo das explicações</segment>
+    <segment id="12">, as empresas poderão ser obrigadas a formalizar um ato de concentração.</segment>
+    <segment id="13">A CSN terá de informar</segment>
+    <segment id="14">, por exemplo</segment>
+    <segment id="15">, quando vai reivindicar lugar no conselho.</segment>
+    <segment id="16">Elas não estão livres mesmo de multa</segment>
+    <segment id="17">, masmas não</segment>
+    <segment id="18">sese manifestaram ontem alegando não terem sido notificadas.</segment>
+    <segment id="19">As ações ordinárias da Usiminas subiram 4</segment>
+    <segment id="20">,63% na Bolsa ontem</segment>
+    <segment id="21">, a R$ 24</segment>
+    <segment id="22">,40.</segment>
+    <segment id="23">Os papéis da CSN caíram 0</segment>
+    <segment id="24">,65%, a R$ 15</segment>
+    <segment id="25">,31.</segment>
+  </rst>
+</analysis>

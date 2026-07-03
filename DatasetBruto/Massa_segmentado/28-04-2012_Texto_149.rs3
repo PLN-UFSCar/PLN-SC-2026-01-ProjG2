@@ -1,0 +1,53 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Marido joga mulher pelos ares após briga</segment>
+    <segment id="2">Vítima teve sérios ferimentos na cabeça e na perna.</segment>
+    <segment id="3">Casal mora junto há 1 ano
+Moradores da Rua São Lourenço</segment>
+    <segment id="4">, no Largo do Tanque</segment>
+    <segment id="5">, estão chocados com o crime que ocorreu no local</segment>
+    <segment id="6">, na noite de anteontem.</segment>
+    <segment id="7">De acordo com a ocorrência registrada no posto policial do Hospital Geral do Estado</segment>
+    <segment id="8">, Ana Cristina Alves Gomes</segment>
+    <segment id="9">, 32 anos</segment>
+    <segment id="10">, sofreu graves ferimentos na cabeça e em outras partes do corpo após ser empurrada do 1º andar de casa pelo próprio marido</segment>
+    <segment id="11">, Benício Santos</segment>
+    <segment id="12">, conhecido</segment>
+    <segment id="13">comocomo Primo.</segment>
+    <segment id="14">Ainda não</segment>
+    <segment id="15">sese sabe o motivo da agressão.</segment>
+    <segment id="16">Segundo os vizinhos</segment>
+    <segment id="17">, Primo tentou agredir a mulher com uma placa de concreto preenchido com pedaços de ferro.</segment>
+    <segment id="18">“Ela fugiu e acabou sendo empurrada por ele quando tentava descer a escada”</segment>
+    <segment id="19">, diz um vizinho.</segment>
+    <segment id="20">O acusado fugiu após o crime.</segment>
+    <segment id="21">Ana foi levada ao HGE por uma ambulância do Samu.</segment>
+    <segment id="22">Ela já teve alta médica.</segment>
+    <segment id="23">Segundo vizinhos</segment>
+    <segment id="24">, Ana trabalha em uma loja de produtos de beleza.</segment>
+    <segment id="25">Vizinhos afirmam que Primo jogou uma TV pela janela</segment>
+    <segment id="26">, em outubro de 2011.</segment>
+  </rst>
+</analysis>

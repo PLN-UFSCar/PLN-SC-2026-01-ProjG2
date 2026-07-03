@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Susto
+Gerente e funcionÃ¡ria de bancos sÃ£o sequestrados em Porto Alegre
+Depois da intervenÃ§Ã£o da BM e da Delegacia de Roubos</segment>
+    <segment id="2">, a mulher foi liberada em Cachoeirinha e o gerente em Canoas</segment>
+    <segment id="3">A PolÃ­cia confirmou na manhÃ£ de hoje que o gerente de uma agÃªncia do banco ItaÃº e a esposa dele</segment>
+    <segment id="4">, que Ã© funcionÃ¡ria de uma agÃªncia do banco Santander</segment>
+    <segment id="5">, foram sequestrados na Zona Norte de Porto Alegre.</segment>
+    <segment id="6">De acordo com o delegado Joel Wagner</segment>
+    <segment id="7">, do DEIC</segment>
+    <segment id="8">, os dois estavam em um veÃ­culo</segment>
+    <segment id="9">Fox de cor prata quando foram abordados pelos criminosos.</segment>
+    <segment id="10">HÃ¡ informaÃ§Ãµes de que o vigilante da agÃªncia onde trablha o gerente chegou a ser avisado do sequestro e acionou um fiscal de empresa de monitoramento por satÃ</segment>
+    <segment id="11">©lite.</segment>
+    <segment id="12">Depois da intervenÃ§Ã£o da BM e da Delegacia de Roubos</segment>
+    <segment id="13">, a mulher foi liberada em Cachoeirinha e o gerente em Canoas.</segment>
+    <segment id="14">Os dois passam bem</segment>
+    <segment id="15">, estÃ£o em casa e devem prestar depoimento</segment>
+    <segment id="16">Ã  tarde.</segment>
+    <segment id="17">O sequestro relÃ¢mpago Ã© investigado inicialmente pela tentativa de localizaÃ§Ã£o do veÃ­culo utilizado pelos criminosos.</segment>
+  </rst>
+</analysis>

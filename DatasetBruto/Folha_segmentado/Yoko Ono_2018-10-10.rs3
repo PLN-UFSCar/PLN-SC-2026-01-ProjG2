@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">No dia em que John Lennon completaria 78 anos</segment>
+    <segment id="2">, Yoko Ono lançou uma nova versão de “Imagine”.</segment>
+    <segment id="3">A artista Yoko Ono - Lucas Jackson/ReutersNos créditos</segment>
+    <segment id="4">, consta que a composição da música foi dividida por Lennon e Ono.</segment>
+    <segment id="5">Anteriormente</segment>
+    <segment id="6">, a autoria era atribuída somente ao ex-Beatle.</segment>
+    <segment id="7">Em uma entrevista à BBC em 1980</segment>
+    <segment id="8">, John Lennon disse que "['Imagine'] deveria ser creditada</segment>
+    <segment id="9">comocomo uma música de autoria Lennon-Ono</segment>
+    <segment id="10">, pois</segment>
+    <segment id="11">pois grande parte dela —a letra e o conceito— veio de Yoko.</segment>
+    <segment id="12">A versão faz parte do novo disco da artista</segment>
+    <segment id="13">, “Warzone”</segment>
+    <segment id="14">, que será lançado no próximo dia 19.</segment>
+    <segment id="15">Até a data</segment>
+    <segment id="16">, Ono vem divulgando uma música por semana</segment>
+    <segment id="17">, toda terça-feira.</segment>
+    <segment id="18">Yoko</segment>
+    <segment id="19">Ono   novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

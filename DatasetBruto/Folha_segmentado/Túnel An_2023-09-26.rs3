@@ -1,0 +1,50 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Dois acidentes dentro do túnel</segment>
+    <segment id="2">Anhangabaú interditam o trânsito na região central de São Paulo na manhã desta terça-feira (26).</segment>
+    <segment id="3">De acordo com a CET (Companhia de Engenharia de Trafego)</segment>
+    <segment id="4">, o primeiro acidente ocorreu às 7h22 e foi uma colisão entre dois carros e uma motocicleta no meio do túnel.</segment>
+    <segment id="5">O sentido Santana foi totalmente bloqueado para o pouso do helicóptero Águia da Polícia Militar</segment>
+    <segment id="6">, que vai levar um dos feridos para hospital da região.</segment>
+    <segment id="7">Helicóptero Águia enquanto aguardava para remover vítima do acidente - Reprodução/TV GloboO segundo acidente foi registrado às 8h08.</segment>
+    <segment id="8">Um motociclista sofreu uma queda no túnel</segment>
+    <segment id="9">, masmas no sentido aeroporto de Congonhas.</segment>
+    <segment id="10">Duas faixas à direita foram interditadas para socorro ao condutor.</segment>
+    <segment id="11">Além da PM</segment>
+    <segment id="12">, o Corpo de Bombeiros atua no local.</segment>
+    <segment id="13">O tráfego na avenida 23 de Maio e os acessos da região estão interditados para o atendimento das vítimas.</segment>
+    <segment id="14">Alguns motoristas andam na contramão para tentar fugir do congestionamento.</segment>
+    <segment id="15">Motoristas fogem de congestionamento na contramão - Reprodução/TV GloboRodízio suspenso</segment>
+    <segment id="16">O rodízio de veículos foi suspenso nesta manhã</segment>
+    <segment id="17">, segundo a Prefeitura de São Paulo</segment>
+    <segment id="18">, por conta do atraso na liberação da pista expressa da marginal Tietê</segment>
+    <segment id="19">, no sentido rodovia Castello Branco</segment>
+    <segment id="20">, onde ocorrem obras de recapeamento.</segment>
+    <segment id="21">Com isso</segment>
+    <segment id="22">, quem for multado não precisa entrar com processo para recorrer da penalidade.</segment>
+    <segment id="23">Ela será cancelada automaticamente</segment>
+    <segment id="24">, segundo a gestão Ricardo Nunes (MDB).</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,57 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governador de São Paulo</segment>
+    <segment id="2">, Tarcísio de Freitas (Republicanos)</segment>
+    <segment id="3">, lançará nesta quarta-feira (19) uma linha de crédito habitacional direcionada a famílias de baixa renda que não são alcançadas pelo Minha Casa Minha Vida</segment>
+    <segment id="4">, do governo Luiz Inácio Lula da Silva (PT).</segment>
+    <segment id="5">O governador de São Paulo</segment>
+    <segment id="6">, Tarcísio de Freitas</segment>
+    <segment id="7">, em evento no Palácio dos Bandeirantes no mês passado -Fernando Nascimento/Governo do Estado de São PauloSerá anunciado investimento de R$ 258 milhões para a construção de 20 mil unidades habitacionais dentro do programa Casa Paulista</segment>
+    <segment id="8">, uma das principais bandeiras de Tarcísio na área social.</segment>
+    <segment id="9">As famílias beneficiadas têm renda mensal média calculada pelo governo estadual em R$ 2.400.</segment>
+    <segment id="10">Em tese</segment>
+    <segment id="11">, estão enquadradas na faixa 1 do MCMV</segment>
+    <segment id="12">, que atende aos com renda de até R$ 2.640.</segment>
+    <segment id="13">Na prática</segment>
+    <segment id="14">, diz a gestão estadual</segment>
+    <segment id="15">, essas famílias não conseguem ser beneficiadas no estado</segment>
+    <segment id="16">, pelo desinteresse das empreiteiras em atender a essa faixa</segment>
+    <segment id="17">, em razão dos altos custos de construção.</segment>
+    <segment id="18">Na avaliação do governo Tarcísio</segment>
+    <segment id="19">, a liberação dos recursos do orçamento paulista dará condições financeiras às construtoras de fazer as casas.</segment>
+    <segment id="20">Cada família receberá um subsídio de R$ 10 mil a R$ 16 mil</segment>
+    <segment id="21">, dependendo da região do estado.</segment>
+    <segment id="22">No total</segment>
+    <segment id="23">, o investimento privado previsto na construção das 20 mil casas é estimado em mais de R$ 3 bilhões.</segment>
+    <segment id="24">O programa será anunciado por Tarcísio em um evento no Palácio dos Bandeirantes.</segment>
+    <segment id="25">No governo estadual</segment>
+    <segment id="26">, a ideia é apresentá-lo</segment>
+    <segment id="27">comocomo um projeto para beneficiar os "esquecidos" pelo Minha Casa Minha Vida.</segment>
+    <segment id="28">O Casa Paulista tem</segment>
+    <segment id="29">comocomo meta entregar 200 mil unidades habitacionais até o fim do mandato de Tarcísio</segment>
+    <segment id="30">, em 2026.</segment>
+    <segment id="31">O governador é considerado um potencial candidato a presidente contra Lula na próxima eleição.</segment>
+  </rst>
+</analysis>

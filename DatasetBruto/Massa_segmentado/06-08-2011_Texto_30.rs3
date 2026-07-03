@@ -1,0 +1,57 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Multidão</segment>
+    <segment id="2">sese revolta no norte de Londres após jovem ser morto a tiros pela polícia
+LONDON - Uma multidão enfurecida tomou conta de Tottenham</segment>
+    <segment id="3">Ao norte de Londres</segment>
+    <segment id="4">, na noite deste sábado após um jovem ser morto a tiros pela polícia.</segment>
+    <segment id="5">Dois carros de patrulha</segment>
+    <segment id="6">, um edifício e um ônibus de dois andares foram incendiados durante um confronto com oficiais em frente à Estação de Polícia de Tottenham</segment>
+    <segment id="7">, onde muitas pessoas</segment>
+    <segment id="8">sese aglomeraram gritando por "justiça" para a morte de um homem de 29 anos em um aparente tiroteio.
+
+- Isso é horrível - disse David Akinsanya</segment>
+    <segment id="9">, 46 anos</segment>
+    <segment id="10">, morador do local.</segment>
+    <segment id="11">"</segment>
+    <segment id="12">Há dois carros de polícia pegando fogo.</segment>
+    <segment id="13">Estou me sentindo inseguro"</segment>
+    <segment id="14">, acrescentou.</segment>
+    <segment id="15">Sirenes podiam ser ouvidas cruzando a cidade enquanto as autoridades corriam para enviar reforços ao local.</segment>
+    <segment id="16">Vitrines de lojas foram quebradas e houve saques.</segment>
+    <segment id="17">Muita gente saiu empurrando pelas ruas carrinhos cheios de produtos roubados.</segment>
+    <segment id="18">Policiais a cavalo tentavam afastar os manifestantes.</segment>
+    <segment id="19">Segundo Akinsanya</segment>
+    <segment id="20">, entre 400 e 500 pessoas saíram às ruas.</segment>
+    <segment id="21">A quilômetros de distância dos principais pontos turísticos do centro de Londres</segment>
+    <segment id="22">, Tottenham é uma das áreas mais carentes em toda a Inglaterra</segment>
+    <segment id="23">, com aproximadamente metade de suas crianças vivendo na pobreza</segment>
+    <segment id="24">, de acordo ativistas.</segment>
+    <segment id="25">Em 1985</segment>
+    <segment id="26">, Tottenham foi cenário de uma manifestação sangrenta após uma moradora do local ter sofrido um ataque cardíaco quando a polícia invadiu a casa dela.</segment>
+    <segment id="27">Os protestos em Tottenham estão entre os mais violentos da história do país</segment>
+    <segment id="28">, com um policial esfaqueado ao tentar proteger os bombeiros e perto de 60 pessoas hospitalizadas.</segment>
+  </rst>
+</analysis>

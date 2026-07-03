@@ -1,0 +1,93 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Brasil precisa arrecadar R$ 1 trilhão (US$ 200 bilhões) para alcançar seus objetivos de transição climática até 2030</segment>
+    <segment id="2">, segundo estimativa da consultoria Oliver Wyman com base em um relatório do Fórum Econômico Mundial (WEF</segment>
+    <segment id="3">, na sigla em inglês).</segment>
+    <segment id="4">O documento foi apresentado nesta quinta-feira (24)</segment>
+    <segment id="5">, em um evento com líderes empresariais em São Paulo.</segment>
+    <segment id="6">O Brasil</segment>
+    <segment id="7">sese comprometeu a reduzir suas emissões de gases de efeito estufa</segment>
+    <segment id="8">, com base nos níveis de 2005</segment>
+    <segment id="9">, em 37% até 2025 e em 50% até 2030</segment>
+    <segment id="10">, com o objetivo final de alcançar a neutralidade de carbono até 2050.</segment>
+    <segment id="11">Córrego Tiquatira</segment>
+    <segment id="12">, que desemboca no Rio Tietê</segment>
+    <segment id="13">, onde despeja esgoto e lixo - Danilo Verpa - 6.jul.2023/FolhapressSegundo o fórum</segment>
+    <segment id="14">, para alcançar as metas</segment>
+    <segment id="15">, o Brasil precisa</segment>
+    <segment id="16">sese orientar por cinco eixos: 1) acabar imediatamente com o desmatamento ilegal</segment>
+    <segment id="17">; 2) criar estratégias nacionais e setoriais de descarbonização 3) estabelecer instrumentos financeiros para a transição</segment>
+    <segment id="18">; 4) ter apoio político para pautas sustentáveis</segment>
+    <segment id="19">; 5) qualificar a mão de obra.</segment>
+    <segment id="20">Leia tambémTesouro deve emitir títulos sustentáveis em setembroA</segment>
+    <segment id="21">Oliver Wyman aponta que quase dois terços da quantia necessária precisa ser destinado à agropecuária e ao setor energético –este último voltado à criação de parques eólicos e solares</segment>
+    <segment id="22">, tecnologias de armazenamento de energia</segment>
+    <segment id="23">, incentivos para geração e distribuição de energia e medidas de eficiência energética.</segment>
+    <segment id="24">O restante</segment>
+    <segment id="25">sese divide</segment>
+    <segment id="26">, principalmente</segment>
+    <segment id="27">, em investimentos em bioenergia</segment>
+    <segment id="28">, hidrogênio verde e indústria automobilística.</segment>
+    <segment id="29">As estimativas consideram a consolidação das projeções de investimentos relacionados à mitigação climática das principais empresas do país</segment>
+    <segment id="30">, as perspectivas dos setores econômicos e os atuais planos governamentais.</segment>
+    <segment id="31">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="32">; aberta para não assinantes.</segment>
+    <segment id="33">Carregando...</segment>
+    <segment id="34">"Esse dinheiro vai ter que vir do setor privado e público</segment>
+    <segment id="35">, nacional e internacional"</segment>
+    <segment id="36">, diz Guilherme Xavier</segment>
+    <segment id="37">, sócio da Oliver Wyman e líder da área de clima e sustentabilidade da consultoria.</segment>
+    <segment id="38">Ele cobra que o governo crie planos econômicos baseados no Green Deal</segment>
+    <segment id="39">, da União Europeia</segment>
+    <segment id="40">, e na lei de Redução de Inflação</segment>
+    <segment id="41">, nome fantasia do pacote verde da gestão do presidente dos Estados Unidos</segment>
+    <segment id="42">, Joe Biden.</segment>
+    <segment id="43">A ajuda governamental para atingir a meta de investimentos seria essencial</segment>
+    <segment id="44">porque</segment>
+    <segment id="45">porque</segment>
+    <segment id="46">, segundo Xavier</segment>
+    <segment id="47">, injetar dinheiro nas tecnologias necessárias para atingir as metas é muito arriscado.</segment>
+    <segment id="48">Não há</segment>
+    <segment id="49">, porém</segment>
+    <segment id="50">porém, uma estimativa do tamanho da fatia que o poder público precisaria assumir.  "</segment>
+    <segment id="51">Um desafio destacado pelas empresas é que</segment>
+    <segment id="52">, em vários casos</segment>
+    <segment id="53">, instrumentos financeiros sustentáveis são menos atrativos em termos de custo de capital comparado aos produtos tradicionais"</segment>
+    <segment id="54">, aponta o relatório do fórum.</segment>
+    <segment id="55">"</segment>
+    <segment id="56">Nenhuma instituição financeira por si só pode viabilizar a solução</segment>
+    <segment id="57">, e é necessário um ecossistema de financiamento multilateral"</segment>
+    <segment id="58">, acrescenta.</segment>
+    <segment id="59">O fórum defende que os grandes bancos têm um papel fundamental na identificação e mobilização de novas tecnologias e iniciativas.</segment>
+    <segment id="60">Parte do R$ 1 trilhão necessário</segment>
+    <segment id="61">, apontam empresários presentes no evento de apresentação do relatório</segment>
+    <segment id="62">, poderia vir do lucro dos próprios investimentos verdes.</segment>
+    <segment id="63">Ou seja</segment>
+    <segment id="64">, um banco</segment>
+    <segment id="65">, por exemplo</segment>
+    <segment id="66">, poderia utilizar o rendimento de um ativo verde para financiar outros empreendimentos sustentáveis.</segment>
+    <segment id="67">Entenda o que são CbiosMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

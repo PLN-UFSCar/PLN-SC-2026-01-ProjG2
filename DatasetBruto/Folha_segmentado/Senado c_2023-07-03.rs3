@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente do Senado</segment>
+    <segment id="2">, Rodrigo Pacheco (PSD-MG)</segment>
+    <segment id="3">, anunciou nesta segunda-feira (3) a criação de uma comissão de juristas neste semestre para elaborar uma proposta de atualização do Código Civil.</segment>
+    <segment id="4">O anúncio foi feito durante congresso jurídico realizado em Coimbra (Portugal).</segment>
+    <segment id="5">O grupo deve ser presidido ministro Luís Felipe Salomão (Superior Tribunal de Justiça).</segment>
+    <segment id="6">Entre os temas que serão debatidos estão o casamento homoafetivo</segment>
+    <segment id="7">, juros nas dívidas judiciais e contratos pela internet.</segment>
+    <segment id="8">Manifestação na Esplanada dos Ministérios</segment>
+    <segment id="9">, em Brasília</segment>
+    <segment id="10">, a favor do casamento homoafetivo - André Borges/Folhapress</segment>
+  </rst>
+</analysis>

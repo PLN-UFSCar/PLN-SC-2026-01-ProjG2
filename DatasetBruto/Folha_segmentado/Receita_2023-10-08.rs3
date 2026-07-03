@@ -1,0 +1,53 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O clássico peixe grelhado ganha um ar refinado na versão da chef Bel Coelho</segment>
+    <segment id="2">, do Cuia Café e Restaurante.</segment>
+    <segment id="3">A receita é uma prova de que não é necessário muito tempo para fazer um prato elaborado —no</segment>
+    <segment id="4">casocaso</segment>
+    <segment id="5">, são necessários apenas 20 minutos.</segment>
+    <segment id="6">O peixe</segment>
+    <segment id="7">, que pode ser filé de linguado ou pescada-branca</segment>
+    <segment id="8">, é acompanhado de um molho de cogumelos</segment>
+    <segment id="9">, vinho branco seco e ervas picadas (alecrim e tomilho).</segment>
+    <segment id="10">Veja abaixo o passo a passo.</segment>
+    <segment id="11">Peixe com vinho branco da chef Bel Coelho - Lari LopezPEIXE COM VINHO BRANCO E ERVAS</segment>
+    <segment id="12">Rendimento: 2 porções Tempo de preparo: 20 minutos  Ingredientes   500 g de filé de linguado ou pescada-branca 200 g de cogumelo Paris cortado em lâminas finas 2 colheres de sopa (40 g) de manteiga clarificada ou ghee ¼ xícara (60 ml) de vinho branco seco 1 colher de chá de alecrim fresco picado 1 colher de chá de tomilho fresco picado 1 colher de sopa de salsinha picada 1 colher de sopa de cebolinha-francesa (ciboulette) picada 1 ½ colher de manteiga gelada em cubos</segment>
+    <segment id="13">Sal refinado a gosto Pimenta-do-reino moída na hora</segment>
+    <segment id="14">Conheça o Cuia Café e RestauranteMais    novamente         de   de  de  representando um  Preparo</segment>
+    <segment id="15">Comece temperando o peixe com sal e pimenta</segment>
+    <segment id="16">, então</segment>
+    <segment id="17">, em uma frigideira antiaderente bem aquecida</segment>
+    <segment id="18">, grelhe o peixe na manteiga clarificada (que é o mesmo que ghee)</segment>
+    <segment id="19">Após selado dos dois lados retire o peixe da frigideira</segment>
+    <segment id="20">, grelhe poucos filés ao mesmo tempo na frigideira para ela não perder calor e o peixe soltar todo seu líquido Após esse processo</segment>
+    <segment id="21">, adicione os cogumelos laminados e quando dourados acrescente o vinho e todas as ervas</segment>
+    <segment id="22">, tomilho</segment>
+    <segment id="23">, alecrim</segment>
+    <segment id="24">, salsinha e ciboulette picados</segment>
+    <segment id="25">Então acrescente a manteiga gelada e misture bem para a manteiga derreter e emulsionar o molho</segment>
+    <segment id="26">, acerte o sal</segment>
+    <segment id="27">, junte o peixe ao molho e não deixe o molho ferver após emulsioná-lo com a manteiga</segment>
+  </rst>
+</analysis>

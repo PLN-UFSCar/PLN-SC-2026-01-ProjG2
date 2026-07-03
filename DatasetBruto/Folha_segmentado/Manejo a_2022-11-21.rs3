@@ -1,0 +1,95 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Estudo publicado na revista Science of The Total Environment demonstrou que pastagens com gramínea na Amazônia aumentam a capacidade de sequestro de metano quando comparadas a áreas de pastagem com solo descoberto.</segment>
+    <segment id="2">O CH4 (metano) é um dos mais importantes gases de efeito estufa —com até 86 vezes mais capacidade de reter calor na atmosfera que o CO2 (dióxido de carbono).</segment>
+    <segment id="3">Assim, estratégias de manejo de pastos têm o potencial de mitigar o aquecimento climático.</segment>
+    <segment id="4">"</segment>
+    <segment id="5">Estudamos as consequências do desmatamento na Amazônia</segment>
+    <segment id="6">, seguido pelo estabelecimento de pastagens</segment>
+    <segment id="7">, com foco nos fluxos de gás metano entre solo e atmosfera"</segment>
+    <segment id="8">, explica Leandro Fonseca de Souza</segment>
+    <segment id="9">, que atualmente faz seu pós-doutorado nas áreas de ecogenômica e microbiologia ambiental no Departamento de Genética da Esalq-USP (Escola Superior de Agricultura Luiz de Queiroz) da Universidade de São Paulo.</segment>
+    <segment id="10">Pasto nas imediações da Floresta Nacional do Tapajós</segment>
+    <segment id="11">, no Pará</segment>
+    <segment id="12">, com a área de preservação ao fundo - Leandro Fonseca de Souza/Cena-USP"Percebemos que pastagens com gramínea são capazes de sequestrar mais metano— ainda que muito menos que o solo sob floresta— do que solos de pastagem descobertos</segment>
+    <segment id="13">, sem vegetação e em degradação"</segment>
+    <segment id="14">, diz Souza</segment>
+    <segment id="15">, cuja pesquisa de doutorado</segment>
+    <segment id="16">, detalhada no artigo</segment>
+    <segment id="17">, foi apoiada por bolsa da Fapesp e orientada pela professora Tsai Siu Mui</segment>
+    <segment id="18">, no Cena (Centro de Energia Nuclear na Agricultura) da USP.</segment>
+    <segment id="19">Uma das razões que os autores identificaram para esse efeito é que na camada de solo diretamente em contato com as raízes (rizosfera) das gramíneas há menos microrganismos que produzem metano</segment>
+    <segment id="20">, as arqueias metanogênicas.</segment>
+    <segment id="21">Essa redução é da ordem de dez vezes.</segment>
+    <segment id="22">Tanto microrganismos produtores quanto consumidores de metano habitam os solos.</segment>
+    <segment id="23">A mudança de floresta para pastagem afeta os consumidores e aumenta os produtores.</segment>
+    <segment id="24">Em um pasto bem cuidado</segment>
+    <segment id="25">, as raízes das gramíneas reduzem a quantidade de microrganismos que produzem metano.</segment>
+    <segment id="26">"</segment>
+    <segment id="27">Entender esse processo indica que o manejo do solo tem potencial de reduzir os impactos da pecuária nas emissões de CH4"</segment>
+    <segment id="28">, diz Souza.</segment>
+    <segment id="29">A equipe também verificou que o pH tipicamente ácido do solo sob floresta é importante</segment>
+    <segment id="30">para que</segment>
+    <segment id="31">para que exerça o papel de sumidouro de metano.</segment>
+    <segment id="32">"</segment>
+    <segment id="33">Tanto que</segment>
+    <segment id="34">, quando fizemos calagem [técnica empregada no preparo do solo agrícola em que materiais de calcário são adicionados para neutralizar acidez</segment>
+    <segment id="35">, aumentando a produtividade]</segment>
+    <segment id="36">, houve redução de sua capacidade de sequestrar o metano atmosférico —em alguns casos passaram até a emitir metano"</segment>
+    <segment id="37">, afirma Souza.</segment>
+    <segment id="38">Segundo o biólogo</segment>
+    <segment id="39">, pesquisas indicam que de 60% a 80% das áreas desmatadas da Amazônia são utilizadas</segment>
+    <segment id="40">comocomo pasto.</segment>
+    <segment id="41">E entre 40% e 60% delas estão degradadas em algum nível.</segment>
+    <segment id="42">Estudos em estufa e no campo</segment>
+    <segment id="43">No estudo liderado por Souza</segment>
+    <segment id="44">, os fluxos de metano de solos de floresta e pastagem foram avaliados em experimentos em estufa com umidade controlada com ou sem cobertura de gramínea (Urochloa brizantha cv.</segment>
+    <segment id="45">, popularmente chamada capim marandu) e com ou sem calagem.</segment>
+    <segment id="46">Também foram avaliadas as mudanças na estrutura da comunidade microbiana nesses solos</segment>
+    <segment id="47">, com a quantificação da microbiota de ciclagem de metano por seus respectivos genes marcadores relacionados à geração de metano (mcrA) ou oxidação (pmoA).</segment>
+    <segment id="48">Os experimentos usaram solos do leste e oeste da Amazônia e estudo de campo simultâneo demonstrou a mesma tendência.</segment>
+    <segment id="49">A presença de uma cobertura de grama não só aumentou a absorção de metano em até 35% nos solos de pastagem</segment>
+    <segment id="50">, masmas também reduziu a abundância da comunidade metanogênica.</segment>
+    <segment id="51">A calagem do solo para aumentar o pH comprometeu a capacidade dos solos de florestas e pastagens de serem sumidouros de metano e</segment>
+    <segment id="52">, em vez disso</segment>
+    <segment id="53">, converteu em apenas 40 a 80 dias solos florestais anteriormente consumidores de CH4 em fontes do gás de efeito estufa.</segment>
+    <segment id="54">Metano é um potente gás de efeito estufaMais    novamente         de   de  de  representando um</segment>
+    <segment id="55">As taxas de desmatamento na Amazônia variaram muito desde que a medição começou</segment>
+    <segment id="56">, em 1988.</segment>
+    <segment id="57">As maiores ocorreram entre 1995 (29.059 km²/ano) e 2004 (27.777 km²/ano).</segment>
+    <segment id="58">No período entre 2004 e 2012</segment>
+    <segment id="59">, caíram 84%.</segment>
+    <segment id="60">Após atingirem a mínima já registrada</segment>
+    <segment id="61">, em 2012 (4.571 km²)</segment>
+    <segment id="62">, os níveis de desmatamento voltaram a aumentar e ultrapassaram 10 mil km² em 2019.</segment>
+    <segment id="63">Atualmente</segment>
+    <segment id="64">, 70% (37 milhões de hectares) do total de pastagens na Amazônia podem ser atribuídos ao processo de desmatamento ocorrido nos últimos 35 anos.</segment>
+    <segment id="65">O artigo "Maintaining grass coverage increases methane uptake in</segment>
+    <segment id="66">Amazonian pastures</segment>
+    <segment id="67">,</segment>
+    <segment id="68">with a reduction of methanogenic archaea in</segment>
+    <segment id="69">the rhizosphere" pode ser lido aqui.</segment>
+  </rst>
+</analysis>

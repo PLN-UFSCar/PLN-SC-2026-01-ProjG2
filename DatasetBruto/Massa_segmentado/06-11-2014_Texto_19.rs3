@@ -1,0 +1,90 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Organize tudo para o dia da prova</segment>
+    <segment id="2">Saiba o que vocÃª nÃ£o pode esquecer de levar e fique por dentro das proibiÃ§Ãµes</segment>
+    <segment id="3">O Exame Nacional do Ensino MÃ©dio (Enem) serÃ¡ realizado neste final de semana.</segment>
+    <segment id="4">Por isso</segment>
+    <segment id="5">, os candidatos devem ficar atentos aos horÃ¡rios e ao local da prova.</segment>
+    <segment id="6">Como a Bahia nÃ£o aderiu ao HorÃ¡rio de VerÃ£o</segment>
+    <segment id="7">, aqui as provas serÃ£o realizadas a partir das 12h.</segment>
+    <segment id="8">Os portÃµes abrem Ã s 11h.</segment>
+    <segment id="9">A recomendaÃ§Ã£o Ã© que os estudantes cheguem uma hora antes do inÃ­cio das provas.</segment>
+    <segment id="10">Os que ainda nÃ£o receberam a correspondÃªncia informando o local da prova devem acessar o site do Enem (inep.gov.br).</segment>
+    <segment id="11">No dia do exame</segment>
+    <segment id="12">, nÃ£o esqueÃ§a de de levar o documento de identidade oficial com foto (leia ao lado).</segment>
+    <segment id="13">No sÃ¡bado</segment>
+    <segment id="14">, os candidatos terÃ£o 4h30 para responder as questÃµes de CiÃªncias Humanas e CiÃªncias da Natureza.</segment>
+    <segment id="15">JÃ¡ no domingo</segment>
+    <segment id="16">, o tempo serÃ¡ de 5h30 para as provas de Linguagens</segment>
+    <segment id="17">, RedaÃ§Ã£o e MatemÃ¡tica.</segment>
+    <segment id="18">Os candidatos que desejem levar o caderno de questÃµes para casa terÃ£o de esperar os Ãºltimos 30 minutos antes do tÃ©rmino das provas.</segment>
+    <segment id="19">Sobre a orientaÃ§Ã£o</segment>
+    <segment id="20">, Ã© recomendÃ¡vel (optar por) barras de cereais ou castanhas</segment>
+    <segment id="21">porque</segment>
+    <segment id="22">porque sÃ£o alimentos energÃ©ticos.</segment>
+    <segment id="23">Caso o aluno opte em levar chocolate</segment>
+    <segment id="24">, dÃª preferÃªncia o meio amargo</segment>
+    <segment id="25">, mais saudÃ¡vel</segment>
+    <segment id="26">, orienta a nutricionista Luiza Lopo.</segment>
+    <segment id="27">Algumas bebidas</segment>
+    <segment id="28">, segundo ela</segment>
+    <segment id="29">, tambÃ©m podem ajudar.</segment>
+    <segment id="30">Os alunos podem levar Ã¡gua natural ou de coco.</segment>
+    <segment id="31">Documentos
+SÃ£o aceitos cÃ©dulas de identidade (RG)</segment>
+    <segment id="32">, carteira de trabalho (emitida apÃ³s 27 de janeiro de 1997)</segment>
+    <segment id="33">, certificado de dispensa de incorporaÃ§Ã£o e certificado de reservista.</segment>
+    <segment id="34">Em caso</segment>
+    <segment id="35">caso de perda</segment>
+    <segment id="36">, extravio ou roubo de documento</segment>
+    <segment id="37">, o candidato deve levar Boletim de OcorrÃªncia com data de</segment>
+    <segment id="38">, no mÃ¡ximo</segment>
+    <segment id="39">, 90 dias.</segment>
+    <segment id="40">Acesse enem.inep.gov.br e veja mais dicas.</segment>
+    <segment id="41">Mais coisas pra serem levadas
+Caneta:</segment>
+    <segment id="42">Deve</segment>
+    <segment id="43">ser esferogrÃ¡fica de tinta preta</segment>
+    <segment id="44">, fabricada em material transparente.
+CartÃ£o informativo:</segment>
+    <segment id="45">Apesar de nÃ£o ser obrigatÃ³ria a sua apresentaÃ§Ã£o no dia do exame</segment>
+    <segment id="46">, ele auxilia o candidato na busca do endereÃ§o do local de prova e do nÃºmero de sala.</segment>
+    <segment id="47">Lanche:</segment>
+    <segment id="48">O candidato escolhe o que levar.</segment>
+    <segment id="49">Itens que ficam proibidos no dia
+LÃ¡pis e borracha:</segment>
+    <segment id="50">Conforme o edital do exame</segment>
+    <segment id="51">, o candidato nÃ£o poderÃ¡ utilizar esse material.
+BonÃ©:</segment>
+    <segment id="52">NÃ£o serÃ£o permitidos artigos de chapelaria co bonÃ©</segment>
+    <segment id="53">, chapÃ©u ou similares.</segment>
+    <segment id="54">Celular:</segment>
+    <segment id="55">Durante a avaliaÃ§Ã£o</segment>
+    <segment id="56">, todos os equipamentos eletrÃ´nicos devem ser desligados.
+RelÃ³gios:</segment>
+    <segment id="57">SÃ£o proibidos de serem usados durante a prova.</segment>
+    <segment id="58">SerÃ¡ preciso guardÃ¡-los em local indicado.</segment>
+  </rst>
+</analysis>

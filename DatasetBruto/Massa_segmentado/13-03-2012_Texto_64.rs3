@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Thiaguinho fará show na final do BBB
+Anteontem</segment>
+    <segment id="2">, Boninho</segment>
+    <segment id="3">, diretor do programa</segment>
+    <segment id="4">, anunciou o show de Thiaguinho no twitter</segment>
+    <segment id="5">A grande final do BBB 12 será bem animada.</segment>
+    <segment id="6">Anteontem</segment>
+    <segment id="7">, Boninho</segment>
+    <segment id="8">, diretor do programa</segment>
+    <segment id="9">,  anunciou o show de Thiaguinho por meio do Twitter.</segment>
+  </rst>
+</analysis>

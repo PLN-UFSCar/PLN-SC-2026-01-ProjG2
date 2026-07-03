@@ -1,0 +1,52 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo paulista foi condenado pela Justiça paulista a pagar uma indenização de R$ 80 mil a um homem que ficou 172 dias preso por um crime que não cometeu.</segment>
+    <segment id="2">Júlio Assis (o nome é fictício para preservar a sua identidade) foi preso em seu local de trabalho em fevereiro de 2022 na cidade de Guarulhos (SP) sob acusação ter cometido crime de extorsão.</segment>
+    <segment id="3">Ao ser algemado</segment>
+    <segment id="4">, nem mesmo sabia qual era a acusação.</segment>
+    <segment id="5">Seu rosto foi exposto em um programa de televisão no qual o apresentador dizia que ele tinha cara de psicopata.</segment>
+    <segment id="6">Durante a investigação</segment>
+    <segment id="7">, o portão de sua casa foi derrubado por policiais</segment>
+    <segment id="8">, que levaram sua mulher em trajes noturnos para a delegacia sem que ela pudesse mudar de roupa.</segment>
+    <segment id="9">Enquanto estava na prisão</segment>
+    <segment id="10">, perdeu 30 quilos e sua família passou a enfrentar dificuldades financeiras.</segment>
+    <segment id="11">Ilustração com imagem do WhatsApp - Dado Ruvic/Reuters Júlio</segment>
+    <segment id="12">, no entanto</segment>
+    <segment id="13">, não tinha relação nenhuma com o crime.</segment>
+    <segment id="14">O verdadeiro culpado era um antigo colega que havia utilizado seu nome e sua foto em um perfil de WhatsApp para chantagear a empresa de alimentos na qual ele trabalhava.</segment>
+    <segment id="15">O criminoso alegava possuir provas de contaminação em um produto fabricado pela empresa e exigia um pagamento de R$ 5 milhões para não as divulgar.</segment>
+    <segment id="16">Durante o processo criminal</segment>
+    <segment id="17">, ele confessou ter agido sozinho.</segment>
+    <segment id="18">Ao condenar o governo paulista</segment>
+    <segment id="19">, a Justiça destacou que Júlio foi absolvido diante da ausência total de provas e que ele foi preso indevidamente</segment>
+    <segment id="20">, tendo sofrido uma evidente agressão à sua dignidade.</segment>
+    <segment id="21">O governo paulista ainda pode recorrer.</segment>
+    <segment id="22">Na defesa apresentada à Justiça</segment>
+    <segment id="23">, o Estado afirmou que não houve engano na prisão.</segment>
+    <segment id="24">Disse que havia</segment>
+    <segment id="25">, no momento da denúncia</segment>
+    <segment id="26">, elementos suficientes para aferir a participação de Júlio no crime.</segment>
+  </rst>
+</analysis>

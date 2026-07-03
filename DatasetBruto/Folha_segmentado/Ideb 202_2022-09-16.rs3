@@ -1,0 +1,149 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A rede estadual de São Paulo viu recuar o desempenho de seus alunos do ensino médio</segment>
+    <segment id="2">, segundo avaliação federal divulgada nesta sexta-feira (16) pelo MEC (Ministério da Educação).</segment>
+    <segment id="3">Tanto em matemática quanto em língua portuguesa o resultado foi pior em 2021</segment>
+    <segment id="4">, na comparação com 2019</segment>
+    <segment id="5">, período pré-pandemia.</segment>
+    <segment id="6">Na média padronizada entre as duas disciplinas no Saeb (Sistema de Avaliação da Educação Básica)</segment>
+    <segment id="7">, a rede paulista ficou com o 8º melhor resultados entre os estados</segment>
+    <segment id="8">, o que representa uma melhora com relação à edição de 2019</segment>
+    <segment id="9">, quando ficara em 9º.  Estudantes na escola estadual</segment>
+    <segment id="10">Professor Francisco de Paula Conceição Júnior</segment>
+    <segment id="11">, na zona sul de São Paulo - Bruno Santos - 12.ago.2022/FolhapresA taxa de participação média de alunos de ensino médio na prova teve forte recuo</segment>
+    <segment id="12">, o que pode impactar nos resultados e na comparabilidade.</segment>
+    <segment id="13">De acordo com especialistas</segment>
+    <segment id="14">, é provável que alunos mais vulneráveis sejam maioria entre os ausentes.</segment>
+    <segment id="15">Os resultados indicam um persistente cenário de estagnação da etapa.</segment>
+    <segment id="16">O governador Rodrigo Garcia (PSDB) tenta a reeleição —os tucanos governam São Paulo desde 1994.</segment>
+    <segment id="17">Em matemática</segment>
+    <segment id="18">, a nota de São Paulo caiu de 273</segment>
+    <segment id="19">,45, em 2019</segment>
+    <segment id="20">, para 268</segment>
+    <segment id="21">,96 no ano passado.</segment>
+    <segment id="22">Com esse desempenho de 2021</segment>
+    <segment id="23">, os alunos da rede estadual não teriam competência para determinar a probabilidade da ocorrência de um evento simples.</segment>
+    <segment id="24">Em língua portuguesa</segment>
+    <segment id="25">, a média passou de 279</segment>
+    <segment id="26">,12 para 278</segment>
+    <segment id="27">,34.</segment>
+    <segment id="28">O desempenho apresentado pelos alunos paulistas em língua portuguesa significa que os alunos não conseguiram cumprir habilidades</segment>
+    <segment id="29">comocomo a identificação do argumento em contos.</segment>
+    <segment id="30">Leia mais sobre o Ideb 2021Avaliação federal compõe índice de desempenho da educaçãoPandemia reduz aprendizado em toda a educação básica</segment>
+    <segment id="31">, aponta avaliação</segment>
+    <segment id="32">federalAprovação automática na pandemia distorce resultado do Ideb 2021Alfabetização desaba em avaliação e frustra aposta de Bolsonaro no ensino domiciliarDesempenho de alunos de escola particular</segment>
+    <segment id="33">cai mais do que da rede</segment>
+    <segment id="34">públicaEnsino médio de SP recua em português e matemática</segment>
+    <segment id="35">, aponta avaliaçãoO Saeb compõe o principal termômetro da educação brasileira.</segment>
+    <segment id="36">A aplicação é feita a cada dois anos pelo Inep (Instituto Nacional de Estudos e Pesquisas Educacionais)</segment>
+    <segment id="37">, órgão do Ministério da Educação.</segment>
+    <segment id="38">A avaliação</segment>
+    <segment id="39">, que envolve provas de português e matemática</segment>
+    <segment id="40">, forma um indicador chamado Ideb (Índice de Desenvolvimento da Educação Básica)</segment>
+    <segment id="41">, ao combinar resultados de aprovação escolar.</segment>
+    <segment id="42">Como na pandemia as redes de ensino seguiram orientação de não reprovar os alunos</segment>
+    <segment id="43">, os dados do Ideb ficaram prejudicados</segment>
+    <segment id="44">, indicando um comportamento artificial de melhora.</segment>
+    <segment id="45">Outro ponto que chama a atenção é a desigualdade nas notas obtidas pelas redes estadual e privada</segment>
+    <segment id="46">, que aumentou no estado de São Paulo em 2021</segment>
+    <segment id="47">, segundo os dados divulgados.  Mais de 80% dos estudantes de ensino médio estão em escolas estaduais.</segment>
+    <segment id="48">A análise mostra que</segment>
+    <segment id="49">, em matemática</segment>
+    <segment id="50">, São Paulo foi o segundo estado em que houve maior aumento na diferença de desempenho entre alunos das redes estadual e privada</segment>
+    <segment id="51">, atrás apenas do Piauí.</segment>
+    <segment id="52">Era de 62</segment>
+    <segment id="53">,66 pontos e agora é de 67</segment>
+    <segment id="54">,05.</segment>
+    <segment id="55">Em todo Brasil</segment>
+    <segment id="56">, apenas quatro unidades da federação viram aumentar a diferença entre as redes estadual e privada no ensino de matemática.</segment>
+    <segment id="57">Em língua portuguesa</segment>
+    <segment id="58">, a distância entre rede estadual e privada também cresceu em São Paulo.</segment>
+    <segment id="59">Passou de 44</segment>
+    <segment id="60">,43 para 46</segment>
+    <segment id="61">,44 pontos —a quarta unidade da federação em que mais aumentou essa desigualdade.</segment>
+    <segment id="62">No país</segment>
+    <segment id="63">comocomo um todo</segment>
+    <segment id="64">, somente cinco unidades da federação tiveram aumento nas diferenças entre redes estadual e privada no que diz respeito à língua portuguesa.</segment>
+    <segment id="65">Em nota</segment>
+    <segment id="66">, a Secretaria Estadual da Educação viu de maneira positiva os resultados de forma geral</segment>
+    <segment id="67">, ressaltando os resultados do Ideb.</segment>
+    <segment id="68">Segundo a pasta</segment>
+    <segment id="69">, São Paulo voltou a melhorar a avaliação no ensino médio</segment>
+    <segment id="70">, atingindo o Ideb 4</segment>
+    <segment id="71">,4, após registrar o maior crescimento da história das escolas estaduais neste ciclo de ensino em 2019.</segment>
+    <segment id="72">"</segment>
+    <segment id="73">O resultado anterior era de 4</segment>
+    <segment id="74">,3 pontos para os alunos que estavam concluindo o ensino médio"</segment>
+    <segment id="75">, afirmou.</segment>
+    <segment id="76">Pandemia causou prejuízo ao aprendizado em toda a educação básicaMais    novamente         de   de  de  representando um</segment>
+    <segment id="77">No comunicado o governo destacou os números do Ideb —que combina os resultados das provas de português e matemática no Saeb com os números de aprovação.</segment>
+    <segment id="78">O índice completo desta edição</segment>
+    <segment id="79">, porém</segment>
+    <segment id="80">porém, é considerado distorcido por causa da aprovação automática durante a pandemia.</segment>
+    <segment id="81">O governo estadual também afirma que São Paulo alcançou em 2021 o melhor desempenho da história no Ideb para os anos finais do ensino fundamental</segment>
+    <segment id="82">, com pontuação de 5</segment>
+    <segment id="83">,3.</segment>
+    <segment id="84">Um crescimento de 0</segment>
+    <segment id="85">,1 em relação ao resultado registrado em 2019.</segment>
+    <segment id="86">Para a secretaria</segment>
+    <segment id="87">, os números demonstram o impacto positivo que as medidas adotadas pelo governo do estado para garantir o ensino durante a pandemia tiveram na aprendizagem dos estudantes.</segment>
+    <segment id="88">"</segment>
+    <segment id="89">Apesar da variação numérica dos indicadores</segment>
+    <segment id="90">, os níveis de proficiência em língua portuguesa e matemática</segment>
+    <segment id="91">, de acordo com os critérios estabelecidos pelo Ministério da Educação</segment>
+    <segment id="92">, foram mantidos em todos os ciclos de ensino"</segment>
+    <segment id="93">, diz.</segment>
+    <segment id="94">Entenda o Ideb</segment>
+    <segment id="95">O que é?</segment>
+    <segment id="96">O Índice de Desenvolvimento da Educação Básica foi criado pelo Inep em 2007 para medir a qualidade do aprendizado nacional e estabelecer metas para a melhoria do ensino.</segment>
+    <segment id="97">O indicador é calculado para cada escola</segment>
+    <segment id="98">, município e estado.</segment>
+    <segment id="99">Como é calculado?</segment>
+    <segment id="100">O Ideb é formado por dois fatores:   desempenho dos estudantes no Saeb (Sistema de Avaliação da Educação Básica)</segment>
+    <segment id="101">; as provas de matemática e português são aplicadas a cada dois anos taxas de aprovação escolar</segment>
+    <segment id="102">Com esses dois componentes é calculado o índice</segment>
+    <segment id="103">, que varia de 0 a 10.</segment>
+    <segment id="104">O Ideb estabelece alguma meta?</segment>
+    <segment id="105">Sim.</segment>
+    <segment id="106">Quando o indicador foi criado</segment>
+    <segment id="107">, ficou estabelecido que a média 6 seria o objetivo.</segment>
+    <segment id="108">Na ocasião</segment>
+    <segment id="109">, foi considerado que essa média corresponderia ao sistema educacional dos países desenvolvidos.</segment>
+    <segment id="110">Quais são os mecanismos para evitar distorções no índice?</segment>
+    <segment id="111">O Ideb foi criado equilibrando duas dimensões (nota do Saeb e tava de aprovação) para evitar que medidas pudessem alterar artificialmente o indicador.</segment>
+    <segment id="112">Por exemplo:</segment>
+    <segment id="113">sese uma rede de ensino reprovar seus alunos com mais dificuldades para obter maiores resultados na avaliação do Saeb</segment>
+    <segment id="114">, o fator fluxo fica prejudicado.</segment>
+    <segment id="115">Se, ao contrário</segment>
+    <segment id="116">, a rede forçar a aprovação de alunos com baixo desempenho</segment>
+    <segment id="117">, o resultado do indicador também será prejudicado.</segment>
+    <segment id="118">Por que o resultado do índice foi atrapalhado na pandemia?</segment>
+    <segment id="119">Como as redes de ensino seguiram a orientação de não reprovarem alunos durante o fechamento de escolas</segment>
+    <segment id="120">, esse componente do Ideb foi comprometido.</segment>
+    <segment id="121">Com a taxa de aprovação maior</segment>
+    <segment id="122">, o indicador de 2021 cresceu</segment>
+    <segment id="123">, apesar da queda generalizada de aprendizado apontada pelos resultados das provas do Saeb.</segment>
+  </rst>
+</analysis>

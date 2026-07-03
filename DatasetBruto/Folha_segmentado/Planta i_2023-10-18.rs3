@@ -1,0 +1,94 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Uma doença bacteriana conhecida</segment>
+    <segment id="2">comocomo bronzeamento letal vem devastando cerca de 20 espécies de palmeiras no sul dos Estados Unidos nas últimas duas décadas.</segment>
+    <segment id="3">O fitopatógeno já está presente em países do Caribe e</segment>
+    <segment id="4">, em breve</segment>
+    <segment id="5">, poderá chegar ao Brasil.</segment>
+    <segment id="6">Estudo conduzido pela bolsista de pós-doutorado da Fapesp Jordana Alves Ferreira mostrou que as plantas infectadas liberam altas concentrações de compostos voláteis capazes de alertar palmeiras saudáveis ao seu redor sobre uma possível ameaça.</segment>
+    <segment id="7">Esses gases</segment>
+    <segment id="8">, descritos pela primeira vez na revista científica Plants</segment>
+    <segment id="9">, poderão ser usados na fabricação de insumos para tratar a infecção.</segment>
+    <segment id="10">Causado pelo fitoplasma Candidatus Phytoplasma aculeata e espalhado para a planta pelo inseto-vetor Haplaxius crudus durante sua alimentação</segment>
+    <segment id="11">, o bronzeamento letal causa o escurecimento das folhas</segment>
+    <segment id="12">, apodrecimento e morte da palmeira devido ao entupimento do fluxo do floema (tecido pelo qual a seiva é transportada).</segment>
+    <segment id="13">O processo é seguido pela queda da copa da palmeira Sabal palmetto</segment>
+    <segment id="14">, nativa da Flórida.</segment>
+    <segment id="15">Além de ser responsável por perdas econômicas significativas para empresas paisagísticas e de viveiros</segment>
+    <segment id="16">, também reduz a proteção que essas plantas oferecem contra enchentes por meio da evapotranspiração da água das chuvas.</segment>
+    <segment id="17">A doença conhecida</segment>
+    <segment id="18">comocomo bronzeamento letal vem devastando cerca de 20 espécies de palmeiras no sul dos Estados Unidos - Vanilza SilvaNo</segment>
+    <segment id="19">casocaso do Brasil</segment>
+    <segment id="20">, estima-</segment>
+    <segment id="21">sese que os danos seriam significativos: o país possui cerca de 280 mil hectares cultivados com coqueiro e produz 2 bilhões de frutos por ano para alimentação</segment>
+    <segment id="22">, segundo a Empresa Brasileira de Pesquisa Agropecuária (Embrapa).</segment>
+    <segment id="23">A pesquisa desenvolvida por Ferreira na Embrapa Meio Ambiente teve o objetivo de buscar opções de tratamento para as palmeiras infectadas.</segment>
+    <segment id="24">Em trabalho anterior</segment>
+    <segment id="25">, conduzido na Universidade da Flórida</segment>
+    <segment id="26">, em Davie (Estados Unidos)</segment>
+    <segment id="27">, com apoio de Bolsa Estágio de Pesquisa no Exterior (BEPE)</segment>
+    <segment id="28">, a pesquisadora testou a aplicação de tratamentos com bioformulações diretamente dentro das plantas (técnica conhecida</segment>
+    <segment id="29">comocomo endoterapia vegetal) usando um equipamento endoterápico pressurizado específico para palmeiras e desenvolvido no Brasil.</segment>
+    <segment id="30">Testes prévios</segment>
+    <segment id="31">, cujos resultados foram publicados na revista Analytical Methods</segment>
+    <segment id="32">, já haviam mostrado a capacidade da técnica de controlar lagartas de coqueiro</segment>
+    <segment id="33">, que causam prejuízo entre produtores nacionais</segment>
+    <segment id="34">, de forma rápida e com menos produtos.</segment>
+    <segment id="35">No estudo mais recente</segment>
+    <segment id="36">, a bolsista desenvolveu um método de análise que envolve a técnica de cromatografia gasosa acoplada à espectrometria de massas (GC-MS</segment>
+    <segment id="37">, na sigla em inglês) e mostrou que as folhas das palmeiras infectadas liberam altas concentrações de biomarcadores voláteis (os compostos hexanal e E-2-hexenal) que avisam as plantas próximas sobre uma possível ameaça.</segment>
+    <segment id="38">Essas, por sua vez</segment>
+    <segment id="39">, passaram a liberar outros tipos de marcadores (3-hexenal e Z-3-hexen-1-ol)</segment>
+    <segment id="40">, sabidamente emitidos por plantas sob estresse</segment>
+    <segment id="41">, caracterizando uma comunicação entre as plantas pelos voláteis.</segment>
+    <segment id="42">Já as palmeiras não infectadas ou ameaçadas não liberam os biomarcadores.</segment>
+    <segment id="43">"</segment>
+    <segment id="44">A substância produzida pela própria planta na tentativa de</segment>
+    <segment id="45">sese curar</segment>
+    <segment id="46">, defender e de alertar as demais é também um poderoso antibiótico</segment>
+    <segment id="47">, que pode ser utilizado no desenvolvimento de novas bioformulações para tratar as palmeiras usando a endoterapia vegetal"</segment>
+    <segment id="48">, afirma Ferreira</segment>
+    <segment id="49">, que publicou recentemente um artigo de revisão sobre a técnica na revista Agriculture.</segment>
+    <segment id="50">Solução natural e de amplo uso</segment>
+    <segment id="51">Apesar de estudos adicionais ainda serem necessários para detalhar a produção dos compostos voláteis</segment>
+    <segment id="52">, a descoberta abre caminho para uma série de possibilidades de tratamentos para plantas na agricultura.</segment>
+    <segment id="53">Exemplos são a avaliação de compostos que podem ser utilizados no tratamento de infecções</segment>
+    <segment id="54">, criação de estímulos</segment>
+    <segment id="55">para que</segment>
+    <segment id="56">para que as plantas gerem suas próprias defesas</segment>
+    <segment id="57">, desenvolvimento de impedimentos alimentares e atrativos para inimigos naturais de H. crudus.</segment>
+    <segment id="58">Nos Estados Unidos</segment>
+    <segment id="59">, especificamente</segment>
+    <segment id="60">, a grande vantagem seria ter à mão uma substância natural alternativa ao antibiótico sintético tradicionalmente utilizado –a oxitetraciclina</segment>
+    <segment id="61">, não usada no Brasil –</segment>
+    <segment id="62">, capaz de causar problemas ambientais</segment>
+    <segment id="63">comocomo a resistência que gera.</segment>
+    <segment id="64">"</segment>
+    <segment id="65">É importante destacar ainda que tanto os voláteis descobertos quanto a endoterapia podem ser alternativas a serem testadas no tratamento de doença em outras plantas perenes"</segment>
+    <segment id="66">, completa Sônia Cláudia do Nascimento de Queiroz</segment>
+    <segment id="67">, pesquisadora da Embrapa Meio Ambiente e supervisora do estudo.</segment>
+    <segment id="68">O artigo Identification of Green-Leaf Volatiles Released from Cabbage Palms (Sabal palmetto) Infected with the Lethal Bronzing Phytoplasma pode ser lido emwww.mdpi.com/2223-7747/12/11/2164.</segment>
+  </rst>
+</analysis>

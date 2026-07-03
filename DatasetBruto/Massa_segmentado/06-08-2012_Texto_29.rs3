@@ -1,0 +1,35 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Filme conta histÃ³ria do Araketu</segment>
+    <segment id="2">A volta do veterano Tatau Ã  banda inspirou a produÃ§Ã£o de um documentÃ¡rio</segment>
+    <segment id="3">A volta do veterano Tatau Ã  banda inspirou os diretores da TV Pelourinho MÃ¡rcio Santos e Alex Maia a produzir um documentÃ¡rio que irÃ¡ contar a histÃ³ria do surgimento do grupo</segment>
+    <segment id="4">, em 1980</segment>
+    <segment id="5">, em Periperi</segment>
+    <segment id="6">, atÃ© hoje.</segment>
+    <segment id="7">Daniela</segment>
+    <segment id="8">, Jammil</segment>
+    <segment id="9">, MÃ¡rcio Victor e Jau jÃ¡ gravaram depoimentos.</segment>
+  </rst>
+</analysis>

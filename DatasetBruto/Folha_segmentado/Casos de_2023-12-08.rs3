@@ -1,0 +1,182 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Até a semana epidemiológica 48 (2 de dezembro)</segment>
+    <segment id="2">,</segment>
+    <segment id="3">o Brasil registrou 1.601.848 casos de dengue</segment>
+    <segment id="4">, 15,8% a mais que no ano passado</segment>
+    <segment id="5">, quando chegou a 1.382.665 no mesmo período.</segment>
+    <segment id="6">As mortes tiveram alta de 5</segment>
+    <segment id="7">,4%—1.053 foram confirmadas neste ano e 999 no ano anterior.</segment>
+    <segment id="8">Segundo o Ministério da Saúde</segment>
+    <segment id="9">, a variação climática</segment>
+    <segment id="10">, o aumento das chuvas</segment>
+    <segment id="11">, o número de pessoas suscetíveis às doenças e o ressurgimento de novos sorotipos do vírus são fatores que podem ter contribuído para esse crescimento.</segment>
+    <segment id="12">Com a identificação do sorotipo 4 da dengue no Rio de Janeiro —desaparecido na cidade desde 2018—</segment>
+    <segment id="13">, o Brasil tem hoje os quatro tipos de dengue em circulação ao mesmo tempo.</segment>
+    <segment id="14">Agentes de Endemias da prefeitura de São Paulo durante ação casa a casa de combate à dengue no bairro Cidade Jardim</segment>
+    <segment id="15">, zona sul da capital - Jardiel Carvalho - 23.nov.2023/Folhapress"Nós tivemos um inverno atípico para dengue</segment>
+    <segment id="16">, com muitos casos</segment>
+    <segment id="17">, sese comparado com o inverno do passado.</segment>
+    <segment id="18">A nossa expectativa para o verão é uma explosão de dengue</segment>
+    <segment id="19">, principalmente pela influência do El Niño.</segment>
+    <segment id="20">Mais chuva e calor favorecem a replicação do Aedes aegypti"</segment>
+    <segment id="21">, diz Júlio Croda</segment>
+    <segment id="22">, presidente da Sociedade Brasileira de Medicina Tropical.</segment>
+    <segment id="23">Quanto ao cenário epidemiológico de zika vírus</segment>
+    <segment id="24">, até a semana epidemiológica 48</segment>
+    <segment id="25">, o Brasil registrou aumento de 1% nos casos em 2023 (7.275)</segment>
+    <segment id="26">, quando comparado ao mesmo período de 2022 (7.218).</segment>
+    <segment id="27">Não houve mortes no período.</segment>
+    <segment id="28">A chikungunya registrou queda de 45% no país</segment>
+    <segment id="29">, considerando o mesmo intervalo de comparação.</segment>
+    <segment id="30">Em 2023</segment>
+    <segment id="31">, o país somou 145.342 casos da doença contra 264.365 em 2022.</segment>
+    <segment id="32">Em relação aos óbitos</segment>
+    <segment id="33">, é observado crescimento de 7</segment>
+    <segment id="34">,5% —100 mortes neste ano contra 93 em 2022.</segment>
+    <segment id="35">Na contramão</segment>
+    <segment id="36">, com alta de 142</segment>
+    <segment id="37">,6%, está São Paulo.</segment>
+    <segment id="38">Até 1º de dezembro</segment>
+    <segment id="39">, foram registrados 2.167 ocorrências da doença e 12 óbitos.</segment>
+    <segment id="40">No mesmo período do ano passado</segment>
+    <segment id="41">, houve 893 confirmações</segment>
+    <segment id="42">, masmas sem óbitos.</segment>
+    <segment id="43">Os resultados do LIRAa (Levantamento Rápido de Índices para Aedes aegypti) mostram que 74</segment>
+    <segment id="44">,8% dos criadouros do mosquito foram encontrados nas residências — em vasos e pratos de plantas</segment>
+    <segment id="45">, garrafas retornáveis</segment>
+    <segment id="46">, recipientes de degelo em geladeiras</segment>
+    <segment id="47">, bebedouros</segment>
+    <segment id="48">, fontes ornamentais e materiais em depósitos de construção—</segment>
+    <segment id="49">, 22% em armazenamento de águas elevadas</segment>
+    <segment id="50">, como</segment>
+    <segment id="51">como caixas d'água e cisternas</segment>
+    <segment id="52">, e 3,2% estavam em depósitos de pneus e lixo.</segment>
+    <segment id="53">Em 2024</segment>
+    <segment id="54">, segundo projeções</segment>
+    <segment id="55">, no pior cenário</segment>
+    <segment id="56">, o país poderá chegar a 5 milhões de casos de dengue</segment>
+    <segment id="57">, sem considerar as novas tecnologias e ações</segment>
+    <segment id="58">, conforme explica a secretária de Vigilância em Saúde e Ambiente do Ministério da Saúde</segment>
+    <segment id="59">, Ethel Maciel.</segment>
+    <segment id="60">"</segment>
+    <segment id="61">Nossa ideia é que o impacto seja reduzido principalmente em relação à gravidade dos casos</segment>
+    <segment id="62">, que é o nosso foco principal.</segment>
+    <segment id="63">Instituir o diagnóstico precoce</segment>
+    <segment id="64">, iniciar a reidratação rápido e impedir a progressão para a gravidade"</segment>
+    <segment id="65">, afirma Maciel.</segment>
+    <segment id="66">A expectativa é que o Centro-Oeste alcance nível epidêmico</segment>
+    <segment id="67">; Minas Gerais e Espírito Santo</segment>
+    <segment id="68">, potencial epidêmico.</segment>
+    <segment id="69">O Paraná deverá ter um patamar alto de casos e o Nordeste um crescimento abaixo do limiar epidêmico.  "</segment>
+    <segment id="70">Nós falamos muito aqui da rede dos agentes de endemias</segment>
+    <segment id="71">, que aí é mais o controle</segment>
+    <segment id="72">, masmas também os agentes comunitários de saúde.</segment>
+    <segment id="73">Toda a estratégia de saúde da família é fundamental para o diagnóstico precoce.</segment>
+    <segment id="74">Somo a isso a nossa rede do Programa Mais Médicos</segment>
+    <segment id="75">, que nós reconstruímos nesse ano</segment>
+    <segment id="76">, chegando até o final desse ano a previsão de 18 mil médicos em território.</segment>
+    <segment id="77">Nesse aumento de casos de dengue previsto</segment>
+    <segment id="78">, o diagnóstico precoce será fundamental"</segment>
+    <segment id="79">, reforça a ministra da Saúde</segment>
+    <segment id="80">, Nísia Trindade.</segment>
+    <segment id="81">"</segment>
+    <segment id="82">É importante treinar os profissionais de saúde e organizar os serviços de saúde para tratamento adequado das suspeitas de dengue.</segment>
+    <segment id="83">Precisa criar uma infraestrutura e rede</segment>
+    <segment id="84">para que</segment>
+    <segment id="85">para que</segment>
+    <segment id="86">sese tivermos um aumento constante de casos</segment>
+    <segment id="87">, estejamos preparados para receber o paciente</segment>
+    <segment id="88">, diagnosticá-lo e tratá-lo adequadamente"</segment>
+    <segment id="89">, afirma Croda.</segment>
+    <segment id="90">Para facilitar as ações e dar uma resposta coordenada a estados e municípios</segment>
+    <segment id="91">, o Ministério da Saúde implantou a Sala Nacional de Arboviroses.</segment>
+    <segment id="92">De acordo com o ministério</segment>
+    <segment id="93">, cabe ao espaço planejar</segment>
+    <segment id="94">, organizar</segment>
+    <segment id="95">, coordenar e controlar as medidas a serem empregadas durante a resposta</segment>
+    <segment id="96">; articulação com gestores estaduais e municipais do SUS</segment>
+    <segment id="97">;</segment>
+    <segment id="98">divulgação da situação epidemiológica e assistência</segment>
+    <segment id="99">; e o acionamento de equipes.</segment>
+    <segment id="100">Outras medidas para o enfrentamento às arboviroses incluem o envio de R$ 256 milhões a estados e municípios</segment>
+    <segment id="101">; capacitação e formação de profissionais de saúde para o manejo de casos</segment>
+    <segment id="102">; publicação de guias de manejo de dengue e chikungunya</segment>
+    <segment id="103">, e diretrizes de controle vetorial</segment>
+    <segment id="104">;</segment>
+    <segment id="105">abertura do painel de monitoramento das arboviroses</segment>
+    <segment id="106">, com os números de dengue</segment>
+    <segment id="107">, zika e chikungunya atualizados em tempo real</segment>
+    <segment id="108">; aquisição de sais de reidratação oral e equipamentos portáteis para a contagem de hemácias e plaquetas</segment>
+    <segment id="109">; e implementação de novas tecnologias de controle vetorial em 177 municípios grandes</segment>
+    <segment id="110">, e a estados e municípios com aumento da doença.</segment>
+    <segment id="111">É o caso</segment>
+    <segment id="112">caso da wolbachia</segment>
+    <segment id="113">, uma bactéria que infecta o mosquito Aedes aegypti e impede que os vírus da dengue</segment>
+    <segment id="114">, zika</segment>
+    <segment id="115">, chikungunya e febre amarela urbana</segment>
+    <segment id="116">sese desenvolvam dentro dele.</segment>
+    <segment id="117">O método será expandido para seis novos municípios: Natal (RN)</segment>
+    <segment id="118">, Uberlândia (MG)</segment>
+    <segment id="119">, Presidente Prudente (SP)</segment>
+    <segment id="120">, Londrina (PR)</segment>
+    <segment id="121">, Foz do Iguaçu (PR) e Joinville (SC).</segment>
+    <segment id="122">Campo Grande (MS)</segment>
+    <segment id="123">, Petrolina (PE)</segment>
+    <segment id="124">, Belo Horizonte (MG)</segment>
+    <segment id="125">, Niterói (RJ) e Rio de Janeiro já estão incluídos na técnica.</segment>
+    <segment id="126">O Ministério da Saúde também lançou a campanha "</segment>
+    <segment id="127">Para fazer diferente</segment>
+    <segment id="128">, precisamos agir antes"</segment>
+    <segment id="129">, com foco na importância de evitar os criadouros do Aedes aegypti.  "</segment>
+    <segment id="130">A mensagem que eu quero passar é que estaremos trabalhando junto com estados e municípios</segment>
+    <segment id="131">, e também com uma mensagem direta e integrada à sociedade</segment>
+    <segment id="132">para que</segment>
+    <segment id="133">para que esse seja um esforço de todos"</segment>
+    <segment id="134">, afirma Nísia Trindade.</segment>
+    <segment id="135">O que é dengueMais    novamente         de   de  de  representando um  Vacina Qdenga</segment>
+    <segment id="136">A Conitec (Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde) deu parecer favorável à incorporação da vacina —Qdenga da farmacêutica japonesa Takeda Pharma— ao SUS.</segment>
+    <segment id="137">De acordo com o órgão</segment>
+    <segment id="138">, o público e os locais prioritários serão definidos pelo Programa Nacional de Imunizações</segment>
+    <segment id="139">, com base no cenário epidemiológico.</segment>
+    <segment id="140">A restrição de público</segment>
+    <segment id="141">sese deve</segment>
+    <segment id="142">, ainda</segment>
+    <segment id="143">, à capacidade de doses a serem ofertadas pela fabricante.</segment>
+    <segment id="144">A ministra disse que o quantitativo informado pela Takeda</segment>
+    <segment id="145">, de 8</segment>
+    <segment id="146">,5 milhões doses</segment>
+    <segment id="147">, é insuficiente para vacinação em massa.</segment>
+    <segment id="148">O imunizante deverá ser administrado em duas doses</segment>
+    <segment id="149">, com intervalo de 3 meses.</segment>
+    <segment id="150">A recomendação também está condicionada a uma proposta de redução de preço pelo laboratório fabricante.</segment>
+    <segment id="151">Apesar do desconto oferecido</segment>
+    <segment id="152">, de 170 reais</segment>
+    <segment id="153">, o valor por dose ainda é alto.  Nesta quinta-feira (7)</segment>
+    <segment id="154">, o Ministério da Saúde abriu uma consulta pública durante dez dias.</segment>
+    <segment id="155">Segundo a ministra</segment>
+    <segment id="156">, a decisão final sobre a incorporação vacina sairá ainda neste ano.</segment>
+  </rst>
+</analysis>

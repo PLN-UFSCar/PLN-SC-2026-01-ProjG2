@@ -1,0 +1,50 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Soldado Ana Maria leva tiro de colega</segment>
+    <segment id="2">Ao manusear o revólver</segment>
+    <segment id="3">, um colega provocou o disparo e a atingiu na altura da cintura</segment>
+    <segment id="4">O corpo da soldado PM Ana Maria Marques Costa</segment>
+    <segment id="5">, 24, morta por um tiro de revólver calibre 38</segment>
+    <segment id="6">, disparado pelo sargento Luciano Reis Oliveira</segment>
+    <segment id="7">, na última quinta</segment>
+    <segment id="8">, em Poções</segment>
+    <segment id="9">, vai ser enterrado no final da manhã de hoje</segment>
+    <segment id="10">, em Jequié</segment>
+    <segment id="11">, a 359 km de Salvador.</segment>
+    <segment id="12">Segundo testemunhas</segment>
+    <segment id="13">, o sargento estava com a vítima na central de rádio da 79ª Companhia Independente da Polícia Militar (CIPM/Poções)</segment>
+    <segment id="14">, onde ambos são lotados</segment>
+    <segment id="15">, quando teria retirado a arma do coldre da soldado.</segment>
+    <segment id="16">Ao manusear o revólver</segment>
+    <segment id="17">, provocou o disparo e a atingiu na altura da cintura.</segment>
+    <segment id="18">Ela foi submetida a uma cirurgia</segment>
+    <segment id="19">, masmas não resistiu a uma hemorragia e morreu ontem.</segment>
+    <segment id="20">Sargento em estado de choque</segment>
+    <segment id="21">O sargento Luciano Reis entrou em estado de choque e recebeu assistência psicológica.</segment>
+    <segment id="22">Logo após esse procedimento</segment>
+    <segment id="23">, ele foi preso e deverá ser apresentado à Corregedoria da PM para prestar esclarecimentos.</segment>
+    <segment id="24">As primeiras investigações apontam para disparo acidental.</segment>
+  </rst>
+</analysis>

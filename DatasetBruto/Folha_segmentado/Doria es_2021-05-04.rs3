@@ -1,0 +1,49 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governador de São Paulo João Doria escolheu seu secretário particular</segment>
+    <segment id="2">, Wilson Pedroso</segment>
+    <segment id="3">, como</segment>
+    <segment id="4">como coordenador de campanha para as prévias do PSDB</segment>
+    <segment id="5">, marcadas para outubro.</segment>
+    <segment id="6">Pedroso ajudou o tucano a vencer as prévias do partido na eleição para a prefeitura de SP</segment>
+    <segment id="7">, em 2015</segment>
+    <segment id="8">, e para o governo do estado</segment>
+    <segment id="9">, em 2018.</segment>
+    <segment id="10">Recentemente</segment>
+    <segment id="11">, coordenou a campanha pela reeleição de Bruno Covas (PSDB).</segment>
+    <segment id="12">Wilson Pedroso</segment>
+    <segment id="13">, secretário particular do governador João Doria (PSDB)  - Reinaldo Canato-17.set.2016/ UOLVEJA TEMAS</segment>
+    <segment id="14">ABORDADOS PELA COLUNASecretários pedem a Queiroga restrições a viajantes para evitar variante indiana e 3ª onda da pandemia Randolfe quer que Guedes explique na CPI &amp;#039</segment>
+    <segment id="15">;amigo da Inglaterra&amp;#039</segment>
+    <segment id="16">; que forneceria 40 milhões de testes de CovidIndústria farmacêutica divulga manifesto em apoio à Anvisa</segment>
+    <segment id="17">, que vive pressão após barrar Sputnik V Investigação conclui que Filipe Martins</segment>
+    <segment id="18">, assessor de Bolsonaro</segment>
+    <segment id="19">, fez gesto com conotação racista no Senado Comoção com saúde de Covas coloca tucano</segment>
+    <segment id="20">comocomo figura política mais buscada no Google Novo chefe da PF em SP tomará posse nesta quarta com presença do ministro da Justiça e ausência de DoriaDoria escolhe</segment>
+    <segment id="21">secretário particular</segment>
+    <segment id="22">comocomo coordenador de sua campanha nas prévias do PSDB Tiroteio de maio:</segment>
+    <segment id="23">veja quem são os autores dos disparos políticos e os alvos criticados do mês</segment>
+  </rst>
+</analysis>

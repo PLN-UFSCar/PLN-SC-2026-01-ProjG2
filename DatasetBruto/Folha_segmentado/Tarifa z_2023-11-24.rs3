@@ -1,0 +1,50 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governador Tarcísio de Freitas (Republicanos) criticou a proposta do prefeito Ricardo Nunes (MDB) de instituir a tarifa zero no sistema de ônibus da capital paulista aos domingos ou no período noturno a partir do próximo ano.</segment>
+    <segment id="2">"Sou absolutamente contra"</segment>
+    <segment id="3">, disse o governador na tarde desta sexta-feira (24).</segment>
+    <segment id="4">"</segment>
+    <segment id="5">Eu não consigo ver viabilidade em colocar um sistema de 8</segment>
+    <segment id="6">,3 milhões de passageiros com tarifa zero</segment>
+    <segment id="7">, que tem estrutura de custos completamente diferentes"</segment>
+    <segment id="8">, disse.</segment>
+    <segment id="9">Prefeito Ricardo Nunes (MDB) estuda instituir tarifa zero no sistema de ônibus a partir de 2024 - Francisco Lima - 21.nov.23/FolhapressSegundo o governador</segment>
+    <segment id="10">, o orçamento de outras políticas públicas terá que ser sacrificado para sustentar um sistema de transporte sem custo aos passageiros.</segment>
+    <segment id="11">"</segment>
+    <segment id="12">Tarifa zero é algo que não faz sentido</segment>
+    <segment id="13">, não se</segment>
+    <segment id="14">se sustenta e nós não vamos embarcar"</segment>
+    <segment id="15">, disse no Palácio dos Bandeirantes após participar de um evento com representantes do agronegócio paulista.</segment>
+    <segment id="16">O prefeito propôs estudo sobre a tarifa zero a menos de um ano das eleições municipais em que irá tentar a recondução ao cargo.</segment>
+    <segment id="17">Segundo Nunes</segment>
+    <segment id="18">, o benefício irá custar R$ 400 milhões e os primeiros testes serão realizados a partir de dezembro.</segment>
+    <segment id="19">Nesta sexta o governador prometeu elevar o tom contra os servidores estaduais que votaram indicativo de greve para a próxima terça-feira (28).</segment>
+    <segment id="20">"</segment>
+    <segment id="21">A gente não pode ser escravizado por meia dúzia de pessoas de um sindicato que tem uma pauta própria</segment>
+    <segment id="22">, que está olhando para o próprio umbigo.</segment>
+    <segment id="23">Nós não vamos tolerar esse tipo de coisa"</segment>
+    <segment id="24">, disse o governador.</segment>
+  </rst>
+</analysis>

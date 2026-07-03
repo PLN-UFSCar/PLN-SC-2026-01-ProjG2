@@ -1,0 +1,119 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Se quisermos conhecer economicamente o Brasil</segment>
+    <segment id="2">, basta escolher uma capital de alguma unidade da federação.</segment>
+    <segment id="3">Ao abrirmos as portas das cidades brasileiras e caminharmos em seus bairros</segment>
+    <segment id="4">, é possível ver o espelhamento de uma réplica nacional numa escala menor.</segment>
+    <segment id="5">É cristalina a convivência nada harmônica do centro e da periferia em termos de produtividade</segment>
+    <segment id="6">, de atividades econômicas e de oferta e demanda por infraestruturas pública e privada.</segment>
+    <segment id="7">Muitas cidades brasileiras ainda sequer conectaram a estrutura produtiva interna de sua economia.</segment>
+    <segment id="8">Acreditar que estão integradas no mercado nacional ou internacional é um ato de crença imaterial.</segment>
+    <segment id="9">Na ausência de um processo produtivo coeso</segment>
+    <segment id="10">, com transbordamento de conhecimento e encadeamentos entre as atividades produtivas</segment>
+    <segment id="11">, resta aos municípios a necessidade de viver de repasses públicos.</segment>
+    <segment id="12">Como resultado</segment>
+    <segment id="13">, o presente repete o passado: a convivência entre municípios integrados ao capitalismo desenvolvido e aqueles que vivem dos impostos ou de uma produção desconectada do motor de desenvolvimento local e/ou regional.</segment>
+    <segment id="14">Economista e doutor em economia pela FEA/USP</segment>
+    <segment id="15">, pesquisador associado do Núcleo de Economia Regional e Urbana (NEREUS-USP) e fundador e consultor da RBA Consultoria Econômica - DivulgaçãoA curta interligação setorial e o baixo dinamismo das economias regionais refletem na estrutura intraurbana.</segment>
+    <segment id="16">Na capital paulista</segment>
+    <segment id="17">, por exemplo</segment>
+    <segment id="18">, estão presentes empresas com produção manual espacialmente localizadas em suas periferias e</segment>
+    <segment id="19">, no centro expandido</segment>
+    <segment id="20">, estão o mercado financeiro e outros serviços de ponta</segment>
+    <segment id="21">, como</segment>
+    <segment id="22">como saúde.</segment>
+    <segment id="23">Convivem no espaço da cidade residências com preços na casa dos milhões e barracas</segment>
+    <segment id="24">, que sequer podem ser chamadas de imóveis.</segment>
+    <segment id="25">Como o tempo não para</segment>
+    <segment id="26">, vive-</segment>
+    <segment id="27">sese o eterno retorno do futuro repetindo o passado: a elevada migração dos anos 50 do nordeste em direção ao sudeste brasileiro ocorre todas as manhãs na rotina dos trabalhadores de São Paulo.</segment>
+    <segment id="28">Só não chamamos de migração</segment>
+    <segment id="29">, chamamos de deslocamento pendular.</segment>
+    <segment id="30">A estrutura de empregos concentrada gera viagens diárias com gasto médio de até 7 horas do dia do trabalhador que mora fora do centro expandido.</segment>
+    <segment id="31">Não faltam estudos na literatura científica de Economia Urbana apontando para o efeito que o desgaste de deslocamento gera sobre a produtividade do trabalhador e o aprendizado das crianças</segment>
+    <segment id="32">, inclusive.</segment>
+    <segment id="33">Recentemente</segment>
+    <segment id="34">, construí um índice que estou chamando de Índice de Poder de Compra Residencial (IPC-R).</segment>
+    <segment id="35">O objetivo com esse indicador é mostrar que a maioria dos trabalhadores da cidade não conseguem comprar o imóvel médio vendido no distrito em que ela trabalha.</segment>
+    <segment id="36">Não é de surpreender que os profissionais com maior poder de escolha de onde morar ocupam o cargo de diretores (comercial</segment>
+    <segment id="37">, de suprimentos</segment>
+    <segment id="38">, de marketing e financeiro) com salário médio mensal de aproximadamente 40 mil reais mensais</segment>
+    <segment id="39">, segundo dados do Ministério do Trabalho de 2021.</segment>
+    <segment id="40">Para a construção do indicador</segment>
+    <segment id="41">, considero o endereço de trabalho e o preço dos imóveis transacionados na cidade.</segment>
+    <segment id="42">Faço uma hipótese heroica ao assumir que todos conseguem dar de entrada 30% do valor do imóvel médio.</segment>
+    <segment id="43">Em seguida</segment>
+    <segment id="44">, avalio a capacidade de compra pelo trabalhador deste distrito.</segment>
+    <segment id="45">Entre 2019-2021</segment>
+    <segment id="46">, a média do IPC-R foi de 10%.</segment>
+    <segment id="47">Isso significa que apenas 10% dos trabalhadores conseguiriam comprar um imóvel no distrito que trabalha.</segment>
+    <segment id="48">As oportunidades de emprego são espacialmente concentradas.</segment>
+    <segment id="49">Na minha tese de doutorado</segment>
+    <segment id="50">, eu mostro a trajetória do emprego em São Paulo nas últimas décadas.</segment>
+    <segment id="51">O contínuo espraiamento concentrado do emprego no distrito do Itaim Bibi</segment>
+    <segment id="52">, famoso por hospedar o mercado financeiro e outras grandes empresas</segment>
+    <segment id="53">, como</segment>
+    <segment id="54">como o Google</segment>
+    <segment id="55">, pode ser considerado um exemplo de</segment>
+    <segment id="56">comocomo o capital avança concentradamente nas regiões brasileiras.</segment>
+    <segment id="57">Para esse distrito</segment>
+    <segment id="58">, por exemplo</segment>
+    <segment id="59">, o IPC-R local medido em dezembro de 2019 foi de 4</segment>
+    <segment id="60">,7%.</segment>
+    <segment id="61">Para o mesmo mês</segment>
+    <segment id="62">, nos anos de 2020 e 2021</segment>
+    <segment id="63">, os índices observados foram 9</segment>
+    <segment id="64">,1% e 5</segment>
+    <segment id="65">,5%, respectivamente.</segment>
+    <segment id="66">Para essas mesmas datas</segment>
+    <segment id="67">, os indicadores calculados eram 9</segment>
+    <segment id="68">,7%, 11</segment>
+    <segment id="69">,1% e 11</segment>
+    <segment id="70">,3%, respectivamente.</segment>
+    <segment id="71">Os salários pagos no Itaim Bibi</segment>
+    <segment id="72">, portanto</segment>
+    <segment id="73">, não são suficientes para comprar imóveis na região e estão constantemente abaixo da média da cidade.</segment>
+    <segment id="74">Os movimentos do IPC-R observados pré</segment>
+    <segment id="75">, durante e pós pandemia estão relacionados tanto ao mercado de trabalho quanto ao mercado imobiliário.</segment>
+    <segment id="76">As demissões afetam de forma desigual os trabalhadores</segment>
+    <segment id="77">, incidindo com maior força sobre aqueles menos qualificados.</segment>
+    <segment id="78">O que explica parte do aumento do poder de compra na região.</segment>
+    <segment id="79">Outro ponto</segment>
+    <segment id="80">, é a redução do preço médio dos imóveis.  Não</segment>
+    <segment id="81">sese trata de procurar agulha num palheiro</segment>
+    <segment id="82">, masmas é preciso apontar elementos que nos impulsionam a pensar sobre o porquê dos grandes congestionamentos</segment>
+    <segment id="83">, do elevado déficit habitacional</segment>
+    <segment id="84">, da trajetória e concentração do emprego e dos elementos que expulsam aqueles que têm menor renda das áreas com maior oferta de bens públicos e infraestrutura.</segment>
+    <segment id="85">São as cidades que moldam a estrutura econômica regionalmente desigual do Brasil ou elas apenas assentam na disparidade intrínseca que o capitalismo produz?    O editor</segment>
+    <segment id="86">, Michael França</segment>
+    <segment id="87">, pede</segment>
+    <segment id="88">para que</segment>
+    <segment id="89">para que cada participante do espaço "Políticas e Justiça" da Folha sugira uma música aos leitores.</segment>
+    <segment id="90">Neste texto</segment>
+    <segment id="91">, a escolhida por Rodger Campos foi "</segment>
+    <segment id="92">O tempo não para"</segment>
+    <segment id="93">, de Cazuza.</segment>
+  </rst>
+</analysis>

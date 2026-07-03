@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Gol se</segment>
+    <segment id="2">se tornou nesta quarta-feira a primeira companhia aérea do mundo a voar comercialmente com o Boeing 737 MAX desde que a aeronave foi suspensa após duas quedas que mataram centenas de pessoas na Etiópia e na Indonésia há 20 meses.</segment>
+    <segment id="3">O primeiro voo da Gol com o 737 MAX</segment>
+    <segment id="4">, que ocorreu após adaptações de segurança da aeronave exigidas por autoridades aéreas após as quedas</segment>
+    <segment id="5">, foi entre São Paulo e Porto Alegre</segment>
+    <segment id="6">, segundo dados do FlightRadar24</segment>
+    <segment id="7">, site que monitora rotas de aviões.</segment>
+    <segment id="8">Boeing 737</segment>
+    <segment id="9">Max voltou a ser utilizado no Brasil pela Gol Linhas Aéreas</segment>
+    <segment id="10">, nesta quarta-feira (9) - Diego Vara/ ReutersA Agência Nacional de Aviação Civil (Anac) suspendeu a proibição de voos do MAX no final de novembro</segment>
+    <segment id="11">, após uma decisão semelhante da Administração Federal de Aviação (FAA) dos Estados Unidos.</segment>
+    <segment id="12">Os voos são um marco importante para a Boeing</segment>
+    <segment id="13">, que há muito tempo vinha tentando retomar a operação do jato</segment>
+    <segment id="14">, atrasando sua meta inicial no final de 2019.</segment>
+    <segment id="15">A American Airlines deve ser a próxima companhia aérea a retomar os voos com o MAX</segment>
+    <segment id="16">, em 29 de dezembro.</segment>
+    <segment id="17">A Gol, que encomendou mais de 100 aviões MAX da Boeing</segment>
+    <segment id="18">, não fez comentários imediatos.</segment>
+    <segment id="19">Avião Boeing 737 MAX começa testes para retomada de voos   novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

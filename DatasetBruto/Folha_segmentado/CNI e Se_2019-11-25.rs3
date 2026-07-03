@@ -1,0 +1,34 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A CNI (Confederação Nacional da Indústria) e o Sebrae vão investir R$ 21 milhões em um programa de preparação do empresariado brasileiro no processo de internacionalização de seus negócios.</segment>
+    <segment id="2">Fachada do edifício sede da CNI no Setor Bancário Norte em Brasília - Pedro Ladeira/FolhapressFRONTEIRA</segment>
+    <segment id="3">A parceria das duas entidades tem</segment>
+    <segment id="4">comocomo meta atender mil empresas em três anos.</segment>
+    <segment id="5">Entre as iniciativas previstas estão consultorias.</segment>
+    <segment id="6">Leia a coluna completa aqui.</segment>
+    <segment id="7">Negócios promissores para 2019   novamente         de   de  de  representando</segment>
+    <segment id="8">um</segment>
+  </rst>
+</analysis>

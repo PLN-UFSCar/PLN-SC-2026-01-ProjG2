@@ -1,0 +1,132 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A eficácia dos antibióticos é um problema que alarma a comunidade médica e científica</segment>
+    <segment id="2">, não sendo raro encontrar bactérias resistentes a três tipos diferentes de medicamentos (chamadas multidroga resistentes</segment>
+    <segment id="3">, ou MDR)</segment>
+    <segment id="4">, ou até mesmo a todos os tratamentos disponíveis na atualidade (pandroga resistentes</segment>
+    <segment id="5">, PDR).</segment>
+    <segment id="6">Elas estão associadas a infecções perigosas e são listadas pela Organização Mundial da Saúde (OMS)</segment>
+    <segment id="7">comocomo patógenos prioritários para a busca de novos fármacos</segment>
+    <segment id="8">, com a máxima urgência.</segment>
+    <segment id="9">Estudo publicado em edição especial da revista Antibiotics destaca um composto com atividade antibacteriana que apresentou resultados promissores nos testes in vitro</segment>
+    <segment id="10">, dentro da primeira hora de ação.</segment>
+    <segment id="11">A pesquisa</segment>
+    <segment id="12">, financiada pela Fapesp</segment>
+    <segment id="13">, foi liderada por Ilana Camargo e conduzida durante o doutorado de Gabriela Righetto no Laboratório de Epidemiologia e Microbiologia Moleculares (LEMiMo) do Instituto de Física de São Carlos da Universidade de São Paulo (IFSC-USP).</segment>
+    <segment id="14">"Trata-</segment>
+    <segment id="15">sese de um novo peptídeo</segment>
+    <segment id="16">, denominado Pln149-PEP20</segment>
+    <segment id="17">, que possui arcabouço molecular planejado para melhorar a atividade antimicrobiana</segment>
+    <segment id="18">, com baixa toxicidade.</segment>
+    <segment id="19">Os resultados podem ser considerados promissores à medida que foram usadas nos testes bactérias patogênicas associadas a infecções multirresistentes em todo o mundo"</segment>
+    <segment id="20">, explica Adriano Andricopulo</segment>
+    <segment id="21">, um dos cientistas que assinam a publicação.</segment>
+    <segment id="22">A pesquisadora Gabriela Righetto analisa ação de nova molécula para combater bactérias multirresistentes a antibióticos - Divulgação/Acervo dos pesquisadoresA busca por novos fármacos antibacterianos</segment>
+    <segment id="23">, apesar de extremamente necessária</segment>
+    <segment id="24">, tem sido pouco observada pela indústria farmacêutica</segment>
+    <segment id="25">, principalmente por causa das dificuldades de pesquisa</segment>
+    <segment id="26">, com longo período e alto custo para obter um composto ativo viável para ser colocado no mercado.</segment>
+    <segment id="27">O Centro de Pesquisa e Inovação em Biodiversidade e Fármacos (CIBFar) tem entre seus objetivos encontrar moléculas que possam combater essas bactérias multidroga resistentes.</segment>
+    <segment id="28">Camargo e Andricopulo são pesquisadores do CIBFar</segment>
+    <segment id="29">, um Centro de Pesquisa</segment>
+    <segment id="30">, Inovação e Difusão (Cepid) da Fapesp</segment>
+    <segment id="31">, assim</segment>
+    <segment id="32">comocomo outros dois pesquisadores que assinam o trabalho e que</segment>
+    <segment id="33">sese dedicam a estudar compostos bactericidas promissores</segment>
+    <segment id="34">, Leila Beltramini e José Luiz Lopes.</segment>
+    <segment id="35">Há mais de uma década o grupo formado pela colaboração entre Beltramini e Lopes analisa a Plantaricina 149 e seus análogos.</segment>
+    <segment id="36">Um dos primeiros trabalhos da equipe</segment>
+    <segment id="37">, em 2007</segment>
+    <segment id="38">, mostrou que o peptídeo é capaz de inibir bactérias patogênicas</segment>
+    <segment id="39">comocomo Listeria sp.</segment>
+    <segment id="40">e Staphylococcus sp..</segment>
+    <segment id="41">A partir daí</segment>
+    <segment id="42">, passaram a estudar análogos sintéticos [moléculas com pequenas diferenças estruturais] que tivessem atividade bactericida melhor que a do peptídeo original</segment>
+    <segment id="43">, ou seja</segment>
+    <segment id="44">, causando maior dano à membrana dos microrganismos que devem combater.</segment>
+    <segment id="45">Bactérias do gênero</segment>
+    <segment id="46">Lactobacillus plantarum são amplamente distribuídas na natureza e produzem substâncias chamadas plantaricinas</segment>
+    <segment id="47">, que combatem outras bactérias.</segment>
+    <segment id="48">São frequentemente usadas na fermentação de vegetais</segment>
+    <segment id="49">, produtos derivados de carne</segment>
+    <segment id="50">, leite e embutidos.</segment>
+    <segment id="51">No caso</segment>
+    <segment id="52">caso da Plantaricina 149</segment>
+    <segment id="53">, o primeiro relato da ação bactericida foi feito em 1994</segment>
+    <segment id="54">, por pesquisadores japoneses e</segment>
+    <segment id="55">, desde essa época</segment>
+    <segment id="56">, há interesse em obter derivados sintéticos mais eficientes.</segment>
+    <segment id="57">Righetto</segment>
+    <segment id="58">, com apoio de bolsa da Fapesp</segment>
+    <segment id="59">, sintetizou 20 análogos derivados da Plantarina 149 até encontrar a nova substância</segment>
+    <segment id="60">, que mostrou os melhores resultados até o momento e</segment>
+    <segment id="61">, ainda</segment>
+    <segment id="62">, é 50% menor do que o peptídeo original.</segment>
+    <segment id="63">"</segment>
+    <segment id="64">Os principais pontos da pesquisa constituem tanto no desenvolvimento da molécula menor</segment>
+    <segment id="65">, mais ativa e menos tóxica</segment>
+    <segment id="66">, quanto caracterizar sua ação e sua propensão no desenvolvimento de resistência.</segment>
+    <segment id="67">A molécula</segment>
+    <segment id="68">sese mostrou muito promissora in vitro</segment>
+    <segment id="69">, sendo ativa contra bactérias de linhagens multidroga resistentes e extensivamente resistentes"</segment>
+    <segment id="70">, ressalta Camargo</segment>
+    <segment id="71">, orientadora do trabalho.</segment>
+    <segment id="72">O LEMiMo</segment>
+    <segment id="73">, onde os estudos foram feitos</segment>
+    <segment id="74">, é um laboratório com experiência em caracterização de isolados bacterianos envolvidos em surtos em hospitais e</segment>
+    <segment id="75">, por isso</segment>
+    <segment id="76">, conta com uma coleção de bactérias selecionadas para esses testes em busca de novos compostos ativos.</segment>
+    <segment id="77">Esses microrganismos possuem os perfis de resistência mais preocupantes da atualidade</segment>
+    <segment id="78">, foram isolados durante surtos em hospitais e são conhecidos pelo acrônimo "ESKAPE</segment>
+    <segment id="79">" na comunidade científica.</segment>
+    <segment id="80">Agora, novos estudos podem ser feitos tanto para investigar mais a fundo o mecanismo de ação da molécula quanto para buscar formulações e</segment>
+    <segment id="81">sese aproximar de uma possível aplicação.</segment>
+    <segment id="82">"</segment>
+    <segment id="83">Em termos de mecanismo de ação</segment>
+    <segment id="84">, ainda é possível usar a morfologia celular bacteriana para identificar vias celulares afetadas pelo peptídeo.</segment>
+    <segment id="85">Quanto à otimização</segment>
+    <segment id="86">, é possível tanto funcionalizar a molécula</segment>
+    <segment id="87">, ligando-a com macroestruturas</segment>
+    <segment id="88">, quanto modificar novamente a sequência de aminoácidos"</segment>
+    <segment id="89">, diz Righetto.</segment>
+    <segment id="90">Há também a necessidade de investigações sobre a citotoxicidade e determinação do índice de seletividade</segment>
+    <segment id="91">, que indica</segment>
+    <segment id="92">sese uma molécula afeta ou não as células saudáveis.</segment>
+    <segment id="93">"</segment>
+    <segment id="94">Vivemos tempos de grandes ameaças à saúde pública mundial por causa da escassez de antimicrobianos para tratar infecções causadas por bactérias extremamente resistentes.</segment>
+    <segment id="95">Os peptídeos antimicrobianos são alvos de grande interesse para o desenvolvimento de novos candidatos a fármacos.</segment>
+    <segment id="96">Esta nova molécula tem potencial para ser usada</segment>
+    <segment id="97">comocomo uma inovadora terapia antimicrobiana</segment>
+    <segment id="98">, masmas novas modificações e otimizações moleculares ainda precisam ser investigadas"</segment>
+    <segment id="99">, ressalta Andricopulo.</segment>
+    <segment id="100">A investigação também envolveu o Infectious Disease Institute da Harvard Medical School</segment>
+    <segment id="101">, em Boston (Estados Unidos)</segment>
+    <segment id="102">, por meio dos pesquisadores Paulo José Martins Bispo e Camille André.</segment>
+    <segment id="103">O artigo Antimicrobial Activity of an Fmoc-Plantaricin 149 Derivative</segment>
+    <segment id="104">Peptide against</segment>
+    <segment id="105">Multidrug-Resistant</segment>
+    <segment id="106">Bacteria pode ser lido em: www.mdpi.com/2079-6382/12/2/391.</segment>
+  </rst>
+</analysis>

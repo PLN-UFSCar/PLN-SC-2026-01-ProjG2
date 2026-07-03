@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O grupo das empresas de logística que busca apoiar Manaus no enfrentamento da pandemia traçou plano para trazer sete contêineres para transporte de oxigênio líquido da Bélgica no sábado (23).</segment>
+    <segment id="2">Segundo Gustavo Sandri</segment>
+    <segment id="3">, gerente da empresa de logística Cesari</segment>
+    <segment id="4">, responsável por operacionalizar o plano</segment>
+    <segment id="5">, a ideia é fretar uma aeronave russa</segment>
+    <segment id="6">, modelo Antonov An-124.</segment>
+    <segment id="7">Os empresários buscam meios para financiar a operação</segment>
+    <segment id="8">, que estaria na casa dos milhões</segment>
+    <segment id="9">, e fechar o contrato ainda nesta quinta-feira (21).</segment>
+    <segment id="10">Os contêineres seriam entregues em Fortaleza no domingo.</segment>
+    <segment id="11">O abastecimento deles ocorreria no Maranhão</segment>
+    <segment id="12">, em usina de produção de oxigênio.</segment>
+    <segment id="13">  A JBS vai enviar mais 200 cilindros de oxigênio ao Amazonas nesta quinta (21).</segment>
+    <segment id="14">Outros 200 destinados pela empresa chegaram ao estado na terça-feira (19).</segment>
+    <segment id="15">Drama em ManausMais    novamente         de   de  de  representando um       Filipe Oliveira (interino)</segment>
+    <segment id="16">, com Mariana Grazini e Arthur Cagliari</segment>
+  </rst>
+</analysis>

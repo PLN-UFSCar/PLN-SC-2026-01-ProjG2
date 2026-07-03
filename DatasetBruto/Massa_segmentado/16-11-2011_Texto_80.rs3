@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Atrás das grades!</segment>
+    <segment id="2">Polícia prende 12 acusados de assalto a ônibus</segment>
+    <segment id="3">Oito pessoas foram presas e quatro apreendidas durante operações contra assalto a ônibus entre os dias 9 e 15 de novembro.</segment>
+    <segment id="4">O grupo foi apresentado nesta quarta-feira (16) na Delegacia de Repressão a Furtos e Roubos em Coletivos.</segment>
+    <segment id="5">De acordo com a polícia</segment>
+    <segment id="6">, os criminosos foram flagrados assaltando veículos de transporte urbano no Comércio</segment>
+    <segment id="7">, Calçada</segment>
+    <segment id="8">, São Caetano</segment>
+    <segment id="9">, Itapuã e na BR-324.</segment>
+    <segment id="10">Entre os presos estão João Augusto Conceição Caldas</segment>
+    <segment id="11">, 35 anos</segment>
+    <segment id="12">, Danilo Gutemberg Santos</segment>
+    <segment id="13">, 18, Thiago Santos Campos</segment>
+    <segment id="14">, 23, Valfredo dos Santos Filho</segment>
+    <segment id="15">, 28, Alan Ricardo Santos de Jesus</segment>
+    <segment id="16">, 18, Hericles Samuel Santos Silva</segment>
+    <segment id="17">, 22 e Ricardo Oliveira Silva</segment>
+    <segment id="18">, 38.</segment>
+  </rst>
+</analysis>

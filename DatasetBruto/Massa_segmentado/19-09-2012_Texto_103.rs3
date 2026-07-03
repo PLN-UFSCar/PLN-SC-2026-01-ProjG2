@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">PolÃ­cia acaba com alegria de ladrÃµes</segment>
+    <segment id="2">O trio Ã© acusado</segment>
+    <segment id="3">, ainda</segment>
+    <segment id="4">, de roubar um DVD e bebidas</segment>
+    <segment id="5">comocomo garrafas de restaurantes</segment>
+    <segment id="6">Uma operaÃ§Ã£o da PolÃ­cia Civil no municÃ­pio de TaperoÃ¡ (a 298  km de Salvador) culminou com a prisÃ£o de Elenildo Marcos dos Santos e com a apreensÃ£o dos adolescentes R.S.S. e E.M.S.</segment>
+    <segment id="7">Os agentes policiais investigavam arrombamentos a residÃªncias</segment>
+    <segment id="8">, estabelecimentos comerciais e atÃ© a um templo religioso.</segment>
+    <segment id="9">De acordo com a polÃ­cia</segment>
+    <segment id="10">, os trÃªs sÃ£o acusados de furtar cheques de uma distribuidora de gÃ¡s</segment>
+    <segment id="11">, um computador</segment>
+    <segment id="12">, pen drives e dois rÃ¡dios de comunicaÃ§Ã£o de uma loja de informÃ¡tica.</segment>
+    <segment id="13">SÃ£o, ainda</segment>
+    <segment id="14">, apontados</segment>
+    <segment id="15">comocomo os responsÃ¡veis pelo roubo de sete cestas bÃ¡sicas</segment>
+    <segment id="16">, bebidas e diversos pares de sandÃ¡lias da loja CestÃ£o do Vando (Portal Sociedade).</segment>
+  </rst>
+</analysis>

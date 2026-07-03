@@ -1,0 +1,141 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Desembargadores: rendimentos em alta</segment>
+    <segment id="2">, produtividade em baixa
+SÃƒO PAULO - Em junho</segment>
+    <segment id="3">, os desembargadores do paÃ­s receberam</segment>
+    <segment id="4">, em mÃ©dia</segment>
+    <segment id="5">, remuneraÃ§Ãµes superiores ao atual teto constitucional brasileiro</segment>
+    <segment id="6">, o que</segment>
+    <segment id="7">, mesmo assim</segment>
+    <segment id="8">, nÃ£o tem representado alta produtividade no andamento dos processos.</segment>
+    <segment id="9">A conclusÃ£o Ã© de levantamento realizado pelo GLOBO</segment>
+    <segment id="10">, que cruzou a folha de pagamento dos tribunais de JustiÃ§a estaduais com pesquisa realizada pelo Conselho Nacional de JustiÃ§a (CNJ) sobre a taxa de congestionamento das aÃ§Ãµes que correm na segunda instÃ¢ncia do JudiciÃ¡rio.</segment>
+    <segment id="11">O GLOBO pesquisou folhas de pagamento dos 16 tribunais de JustiÃ§a que cumpriram</segment>
+    <segment id="12">, total ou parcialmente</segment>
+    <segment id="13">, a determinaÃ§Ã£o que obrigou a divulgaÃ§Ã£o nominal dos salÃ¡rios de magistrados e servidores.</segment>
+    <segment id="14">O vencimento mÃ©dio dos desembargadores</segment>
+    <segment id="15">, no mÃªs de junho</segment>
+    <segment id="16">, foi de R$ 31</segment>
+    <segment id="17">,8 mil</segment>
+    <segment id="18">, montante acima do teto constitucional</segment>
+    <segment id="19">, de R$ 26</segment>
+    <segment id="20">,7 mil.</segment>
+    <segment id="21">A Ãºltima ediÃ§Ã£o da Pesquisa JustiÃ§a em NÃºmeros</segment>
+    <segment id="22">, do CNJ</segment>
+    <segment id="23">, apontou no Tribunal de JustiÃ§a do Mato Grosso (TJ-MT)</segment>
+    <segment id="24">, no qual o rendimento mÃ©dio dos desembargadores chegou a R$ 49.501</segment>
+    <segment id="25">,97, que a taxa de congestionamento foi de 52</segment>
+    <segment id="26">,6%, acima da mÃ©dia nacional</segment>
+    <segment id="27">, que Ã© de 48</segment>
+    <segment id="28">,2%.</segment>
+    <segment id="29">No perÃ­odo</segment>
+    <segment id="30">, os maiores valores foram pagos aos desembargadores Paulo da Cunha (R$ 64.708</segment>
+    <segment id="31">,54) e Dirceu dos Santos (R$ 57.383</segment>
+    <segment id="32">,31).</segment>
+    <segment id="33">O Ã³rgÃ£o de justiÃ§a alega que o mÃªs foi atÃ­pico</segment>
+    <segment id="34">, uma vez que os magistrados receberam parte da indenizaÃ§Ã£o de fÃ</segment>
+    <segment id="35">©</segment>
+    <segment id="36">rias</segment>
+    <segment id="37">nÃ£o gozadas</segment>
+    <segment id="38">, "apÃ³s o acÃºmulo de dois perÃ­odos".</segment>
+    <segment id="39">Com uma taxa de congestionamento de 35</segment>
+    <segment id="40">,1%, o Tribunal de JustiÃ§a do Rio (TJ-RJ) pagou em junho aos seus desembargadores um valor mÃ©dio de R$ 39.878.</segment>
+    <segment id="41">O maior rendimento foi do desembargador Plinio Pinto Coelho Filho</segment>
+    <segment id="42">, que recebeu</segment>
+    <segment id="43">, no perÃ­odo</segment>
+    <segment id="44">, R$ 119.764</segment>
+    <segment id="45">,07, o maior valor encontrado pelo GLOBO nas folhas de pagamento.</segment>
+    <segment id="46">No Rio</segment>
+    <segment id="47">, 30% dos desembargadores e juÃ­zes receberam acima do teto.</segment>
+    <segment id="48">O menor vencimento foi recebido pela juÃ­za Ana Paula Rodrigues Silvano ( R$ 11.028</segment>
+    <segment id="49">,40).</segment>
+    <segment id="50">No CearÃ¡</segment>
+    <segment id="51">, que possui a maior taxa de congestionamento do paÃ­s</segment>
+    <segment id="52">, 70,5%</segment>
+    <segment id="53">, os desembargadores tiveram um rendimento mÃ©dio</segment>
+    <segment id="54">, em junho</segment>
+    <segment id="55">, de R$ 33.331</segment>
+    <segment id="56">,66.</segment>
+    <segment id="57">Em SÃ£o Paulo</segment>
+    <segment id="58">, o maior TJ do paÃ­s</segment>
+    <segment id="59">, que teve um percentual de 63</segment>
+    <segment id="60">,2% de congestionamento</segment>
+    <segment id="61">, apresentou uma mÃ©dia salarial de R$ 30.404.</segment>
+    <segment id="62">No Amazonas</segment>
+    <segment id="63">, mÃ©dia salarial alcanÃ§ou R$ 55</segment>
+    <segment id="64">,9 mil</segment>
+    <segment id="65">Em meio Ã  discrepÃ¢ncia entre rendimentos e produtividade</segment>
+    <segment id="66">, o levantamento constatou casos de Ã³rgÃ£os que apresentaram rendimentos altos</segment>
+    <segment id="67">, porÃ©m com baixo Ã­ndice de congestionamento.</segment>
+    <segment id="68">O caso</segment>
+    <segment id="69">caso mais emblemÃ¡tico foi no Tribunal de JustiÃ§a do Amazonas (TJ-AM)</segment>
+    <segment id="70">, cujos desembargadores receberam</segment>
+    <segment id="71">, em mÃ©dia</segment>
+    <segment id="72">, no mÃªs de junho</segment>
+    <segment id="73">, R$ 55.985</segment>
+    <segment id="74">,94.</segment>
+    <segment id="75">A taxa de congestionamento foi uma das menores do paÃ­s</segment>
+    <segment id="76">, de 25</segment>
+    <segment id="77">,1%.</segment>
+    <segment id="78">Por lÃ¡</segment>
+    <segment id="79">, o salÃ¡rio mais alto foi o da desembargadora Maria das GraÃ§as Figueiredo</segment>
+    <segment id="80">, que teve um rendimento</segment>
+    <segment id="81">, no perÃ­odo</segment>
+    <segment id="82">, de R$ 79.036.57.</segment>
+    <segment id="83">Um outro episÃ³dio semelhante foi o do Tribunal de JustiÃ§a do AmapÃ¡ (TJ-AP)</segment>
+    <segment id="84">, no qual os desembargadores tiveram uma mÃ©dia salarial de R$ 37.299</segment>
+    <segment id="85">,44.</segment>
+    <segment id="86">O porcentual de congestionamento</segment>
+    <segment id="87">, segundo a Ãºltima ediÃ§Ã£o da JustiÃ§a em NÃºmeros do CNJ</segment>
+    <segment id="88">, foi de 19</segment>
+    <segment id="89">,9%.</segment>
+    <segment id="90">No estado</segment>
+    <segment id="91">, o desembargador MÃ¡rio Gurtyev de Queiroz recebeu</segment>
+    <segment id="92">, no perÃ­odo</segment>
+    <segment id="93">, R$ 71.706</segment>
+    <segment id="94">,89.</segment>
+    <segment id="95">No MaranhÃ£o</segment>
+    <segment id="96">, a taxa de congestionamento foi de 29</segment>
+    <segment id="97">,5%, enquanto a mÃ©dia salarial chegou a R$ 34.185</segment>
+    <segment id="98">,86.</segment>
+    <segment id="99">O GLOBO identificou ainda Ã³rgÃ£os estaduais de JustiÃ§a que tiveram mÃ©dias salarias abaixo do teto constitucional</segment>
+    <segment id="100">, de R$ 26</segment>
+    <segment id="101">,7 mil e apresentaram altas taxas de congestionamento.</segment>
+    <segment id="102">Em Roraima</segment>
+    <segment id="103">, por exemplo</segment>
+    <segment id="104">, os desembargadores tiveram uma mÃ©dia salarial de R$ 23.787</segment>
+    <segment id="105">,76, enquanto a taxa de congestionamento chegou a 63</segment>
+    <segment id="106">,3%.</segment>
+    <segment id="107">O Distrito Federal foi o Ãºnico que apresentou</segment>
+    <segment id="108">, em junho</segment>
+    <segment id="109">, uma baixa taxa de congestionamento e uma mÃ©dia salarial abaixo do teto constitucional.</segment>
+    <segment id="110">O vencimento mÃ©dio pago aos desembargadores</segment>
+    <segment id="111">, no perÃ­odo</segment>
+    <segment id="112">, foi de R$ 19.837.</segment>
+    <segment id="113">O porcentual de processos congestionados foi de 33</segment>
+    <segment id="114">,5%.</segment>
+  </rst>
+</analysis>

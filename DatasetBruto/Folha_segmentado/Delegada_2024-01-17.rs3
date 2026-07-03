@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A delegada Raquel Gallinati é atualmente o nome preferido de lideranças do PL para a vice de Ricardo Nunes (MDB) em sua busca pela reeleição para a Prefeitura de São Paulo.</segment>
+    <segment id="2">Como é o maior partido entre os que apoiam o emedebista</segment>
+    <segment id="3">, o PL deverá ter preferência na escolha.</segment>
+    <segment id="4">Os dirigentes avaliam que ela seria a resposta perfeita para a escolha de Marta Suplicy (retornando ao PT)</segment>
+    <segment id="5">comocomo vice de Guilherme Boulos (PSOL):</segment>
+    <segment id="6">é mulher</segment>
+    <segment id="7">, suplente de deputada estadual</segment>
+    <segment id="8">, diretora da Adepol (associação de delegados de polícia) e ex-presidente do Sindpesp (Sindicato dos Delegados de Polícia do Estado de SP).</segment>
+    <segment id="9">Além disso</segment>
+    <segment id="10">, ela apoiou Jair Bolsonaro (PL) e candidatos ligados a ele na última eleição</segment>
+    <segment id="11">, o que facilitaria a aceitação por parte do grupo político do ex-presidente.</segment>
+    <segment id="12">Na previsão das campanhas</segment>
+    <segment id="13">, a segurança pública deverá ser o principal tema da eleição na capital.</segment>
+    <segment id="14">A deputada Tabata Amaral (PSB)</segment>
+    <segment id="15">, por exemplo</segment>
+    <segment id="16">, filiou o apresentador José Luiz Datena ao seu partido e poderá tê-lo</segment>
+    <segment id="17">comocomo vice.</segment>
+    <segment id="18">Delegada Raquel Gallinati em sua sala no sindicato dos delegados da Polícia Civil</segment>
+    <segment id="19">, na região central de SP  - Joel Silva-6.jul.2017/Folhapress</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,113 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Uma companhia nacional criada há cerca de seis anos anunciou nesta quinta-feira (25) que desenvolveu um processo para reciclagem de plásticos</segment>
+    <segment id="2">comocomo os usados em embalagens de alimentos e que são atualmente de difícil reaproveitamento</segment>
+    <segment id="3">, no que espera ser capaz de fomentar um novo mercado para um material que comumente tem descarte inadequado no país.</segment>
+    <segment id="4">O chamado polipropileno biorientado (BOPP) é um tipo de filme plástico usado em embalagens de produtos</segment>
+    <segment id="5">comocomo salgadinhos e que</segment>
+    <segment id="6">, além das tintas de impressão de rótulo</segment>
+    <segment id="7">, recebe outras camadas</segment>
+    <segment id="8">comocomo alumínio e verniz e adesivos que acabam praticamente inutilizando o material para fins de reaproveitamento.</segment>
+    <segment id="9">"</segment>
+    <segment id="10">O grande problema para o meio-ambiente são plásticos flexíveis</segment>
+    <segment id="11">, que são muito difíceis de serem reciclados.</segment>
+    <segment id="12">A grande maioria vai para aterro"</segment>
+    <segment id="13">, disse Marcelo Mason</segment>
+    <segment id="14">, diretor de sustentabilidade da Deink</segment>
+    <segment id="15">, a empresa criada em 2017 que desenvolveu um processo de reciclagem do material que batizou de 4D.</segment>
+    <segment id="16">A sigla é uma referência às etapas do processo: delaminação</segment>
+    <segment id="17">, desmetalização</segment>
+    <segment id="18">, destintamento e disrupção.</segment>
+    <segment id="19">Segundo a companhia</segment>
+    <segment id="20">, que investiu R$ 85 milhões em uma instalação no interior de São Paulo para reciclar plásticos flexíveis de múltiplas camadas</segment>
+    <segment id="21">, grandes multinacionais de produtos de consumo</segment>
+    <segment id="22">comocomo a Nestlé estão interessadas na tecnologia.</segment>
+    <segment id="23">A Deink Brasil</segment>
+    <segment id="24">, com sua nova tecnologia 4D</segment>
+    <segment id="25">, quer mudar a forma</segment>
+    <segment id="26">comocomo as empresas e as pessoas lidam com os resíduos plásticos - Deink Brasil/ReproduçãoA empresa começou a partir de um processo de retirada da tinta dos plásticos que o empresário Rogério Mani</segment>
+    <segment id="27">, presidente da Abief (Associação Brasileira da Indústria de Embalagens Plásticas Flexíveis)</segment>
+    <segment id="28">, licenciou de pesquisadores da universidade espanhola de Alicante.</segment>
+    <segment id="29">O plano era ter uma fábrica operando já em 2020</segment>
+    <segment id="30">, quando o projeto teve de ser adiado em um ano pela pandemia.</segment>
+    <segment id="31">Mani, fundador da Deink</segment>
+    <segment id="32">, esteve à frente das operações até 2022 e é atualmente presidente do conselho de administração.</segment>
+    <segment id="33">A companhia acabou conseguindo ser acelerada pela Ambev</segment>
+    <segment id="34">, que indicou um de seus fornecedores</segment>
+    <segment id="35">, Valgroup</segment>
+    <segment id="36">, a maior recicladora de plásticos do Brasil</segment>
+    <segment id="37">, para uma parceria estratégica que incluiu investimento em participação na Deink</segment>
+    <segment id="38">, disse Mason</segment>
+    <segment id="39">, sem dar detalhes sobre a fatia.</segment>
+    <segment id="40">A companhia agora quer ter uma primeira linha de reciclagem 4D de plásticos de múltiplas camadas funcionando na fábrica instalada em Itupeva (SP) a partir de junho</segment>
+    <segment id="41">, com planos para uma segunda linha em breve</segment>
+    <segment id="42">, dependendo do nível de demanda.</segment>
+    <segment id="43">No longo prazo</segment>
+    <segment id="44">, 2030</segment>
+    <segment id="45">, a companhia estima ter mais oito linhas com a tecnologia não apenas em São Paulo</segment>
+    <segment id="46">masmas em outras regiões do país</segment>
+    <segment id="47">, disse Mason.</segment>
+    <segment id="48">O executivo afirmou que</segment>
+    <segment id="49">, após ser reciclado</segment>
+    <segment id="50">, o plástico BOPP gera uma resina que pode ser transformada em filme plástico e que também tem uma série de aplicações incluindo em produção de componentes para linha branca.</segment>
+    <segment id="51">Essa versatilidade minimiza a limitação do uso em fins alimentícios</segment>
+    <segment id="52">, por enquanto restrita pela Anvisa (Agência Nacional de Vigilância Sanitária).</segment>
+    <segment id="53">"</segment>
+    <segment id="54">Mas obter grau alimentício é a grande meta"</segment>
+    <segment id="55">, afirmou.  "</segment>
+    <segment id="56">Na Europa</segment>
+    <segment id="57">, já tem obrigação de uso (de plásticos recicláveis nas embalagens de produtos)</segment>
+    <segment id="58">, com isso as marcas têm que inserir o material reciclado"</segment>
+    <segment id="59">, afirmou Mason.</segment>
+    <segment id="60">Segundo ele</segment>
+    <segment id="61">, isso ajuda na demanda diante do custo atualmente maior do filme reciclado versus o virgem.</segment>
+    <segment id="62">O executivo</segment>
+    <segment id="63">, porém</segment>
+    <segment id="64">porém, evitou citar valores.</segment>
+    <segment id="65">A Deink já tem patente brasileira sobre o processo e pretende buscar a partir de junho patentes nos Estados Unidos</segment>
+    <segment id="66">, Europa e Ásia</segment>
+    <segment id="67">, disse Mason.</segment>
+    <segment id="68">O executivo acrescentou que o método 4D é uma abordagem híbrida entre processos químicos e mecânicos de reciclagem</segment>
+    <segment id="69">, com a etapa química sem solventes ocorrendo em ciclo fechado.</segment>
+    <segment id="70">A tecnologia pode colocar a companhia</segment>
+    <segment id="71">comocomo uma rival da indústria de papel</segment>
+    <segment id="72">, que tem surfado na onda "verde" da substituição de embalagens e plásticos de uso único por suas versões de papel.</segment>
+    <segment id="73">"</segment>
+    <segment id="74">A questão do plástico é conseguir fazer com que ele volte para a cadeia e trazer circularidade para estes resíduos"</segment>
+    <segment id="75">, disse Mason.  "</segment>
+    <segment id="76">A reciclagem de plástico nos próximos cinco anos tende a crescer exponencialmente"</segment>
+    <segment id="77">, afirmou.</segment>
+    <segment id="78">Segundo a Deink</segment>
+    <segment id="79">, o Brasil é o quarto maior produtor de resíduo plástico do mundo</segment>
+    <segment id="80">, com mais de 2</segment>
+    <segment id="81">,4 milhões de toneladas de plástico sendo descartadas de forma irregular.</segment>
+    <segment id="82">No caso</segment>
+    <segment id="83">caso do BOPP</segment>
+    <segment id="84">, o mercado nacional demanda por ano cerca de 170 mil toneladas.</segment>
+    <segment id="85">Com a abertura da linha 4D em junho</segment>
+    <segment id="86">, a capacidade de reciclagem da Deink subirá para 25 mil toneladas por ano.</segment>
+    <segment id="87">Startup usa aplicativo e blockchain na reciclagemMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

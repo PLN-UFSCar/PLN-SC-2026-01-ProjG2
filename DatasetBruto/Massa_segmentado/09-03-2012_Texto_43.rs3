@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Hello, Valdirene!</segment>
+    <segment id="2">Foto antiga de Val Marchiori</segment>
+    <segment id="3">, do programa "Mulheres Ricas"</segment>
+    <segment id="4">, vazou na net
+Val Marchiori ainda não era uma das “Mulheres Ricas” em 1990</segment>
+    <segment id="5">, masmas já saía em capa de revista.</segment>
+    <segment id="6">A foto da socialite em uma revista do interior do Paraná caiu na internet e virou piada.</segment>
+    <segment id="7">Na chamada de capa</segment>
+    <segment id="8">, a loira ainda não tinha o atual nome artístico e era apenas Valdirene</segment>
+    <segment id="9">, seu nome verdadeiro.</segment>
+    <segment id="10">Val reagiu com bom humor à divulgação.</segment>
+    <segment id="11">“Achei engraçado</segment>
+    <segment id="12">, não tenho vergonha.</segment>
+    <segment id="13">Eu tinha 15 aninhos</segment>
+    <segment id="14">, era pobrinha.</segment>
+    <segment id="15">Minha vida era difícil</segment>
+    <segment id="16">, nunca escondi nada do meu passado”</segment>
+    <segment id="17">, afirmou.</segment>
+  </rst>
+</analysis>

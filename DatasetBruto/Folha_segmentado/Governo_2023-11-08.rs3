@@ -1,0 +1,114 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo Lula (PT) reconhece o desgaste com as revelações contra o ministro das Comunicações</segment>
+    <segment id="2">, Juscelino Filho (União Brasil-MA)</segment>
+    <segment id="3">, masmas auxiliares do presidente dizem que no momento não está sendo considerada a demissão do integrante do primeiro escalão da Esplanada.</segment>
+    <segment id="4">No Palácio do Planalto</segment>
+    <segment id="5">, pessoas próximas ao chefe do Executivo afirmam que o</segment>
+    <segment id="6">casocaso deve ser acompanhado de perto e que é necessário monitorar os desdobramentos das investigações da Polícia Federal nos próximos dias para avaliar a permanência do ministro.</segment>
+    <segment id="7">Como revelou a Folha</segment>
+    <segment id="8">, a PF afirma que Juscelino estabeleceu uma relação criminosa com o dono de uma empreiteira investigada sob suspeita de desvios em contratos da Codevasf</segment>
+    <segment id="9">, estatal federal entregue ao centrão.</segment>
+    <segment id="10">O ministro das Comunicações</segment>
+    <segment id="11">, Juscelino Filho (União Brasil-MA) - Evaristo Sa - 29.dez.22/ AFP</segment>
+    <segment id="12">Assessores palacianos frisam que as suspeitas que pairam sobre o ministro são da época em que ele era deputado federal</segment>
+    <segment id="13">, antes de ingressar no governo.</segment>
+    <segment id="14">O Planalto trata a situação</segment>
+    <segment id="15">comocomo sensível também do ponto de vista da articulação política.</segment>
+    <segment id="16">Apesar do desgaste</segment>
+    <segment id="17">, o governo não quer criar rusgas com a União Brasil</segment>
+    <segment id="18">, partido que indicou o ministro para o cargo e que tem ajudado o governo em votações importantes no Congresso.</segment>
+    <segment id="19">O tema é ainda mais delicado no momento atual</segment>
+    <segment id="20">, em que o governo tem pressa para aprovar pautas consideradas prioritárias pelo Ministério da Fazenda para elevar a arrecadação federal.</segment>
+    <segment id="21">Nas palavras de um vice-líder do governo na Câmara</segment>
+    <segment id="22">, a União Brasil entregou votos que o Executivo precisava e não há motivos para trocá-lo neste momento.</segment>
+    <segment id="23">O partido tem uma bancada de 59 deputados.</segment>
+    <segment id="24">Na Reforma Tributária</segment>
+    <segment id="25">, 48 votos da sigla foram favoráveis à matéria e 11 contrários</segment>
+    <segment id="26">; no arcabouço fiscal</segment>
+    <segment id="27">, foram 41 votos a favor e apenas 5 contra.</segment>
+    <segment id="28">Por outro lado</segment>
+    <segment id="29">, membros de outros partidos da base governista de Lula avaliam</segment>
+    <segment id="30">, sob reserva</segment>
+    <segment id="31">, que causa constrangimento a situação atual do ministro.</segment>
+    <segment id="32">Eles dizem que o</segment>
+    <segment id="33">casocaso gera prejuízos à imagem do Planalto</segment>
+    <segment id="34">comocomo um todo.</segment>
+    <segment id="35">Integrantes da União Brasil já fizeram chegar ao Planalto que não irão abandonar Juscelino.</segment>
+    <segment id="36">A tese do partido é que ele não pode ser julgado por uma investigação que ainda não foi concluída e tampouco analisada pelo STF (Supremo Tribunal Federal).</segment>
+    <segment id="37">Essa avaliação não é restrita aos membros da União Brasil.</segment>
+    <segment id="38">Deputados ouvidos pela Folha de partidos que vão do PT ao PP</segment>
+    <segment id="39">sese esquivaram de comentar o</segment>
+    <segment id="40">casocaso</segment>
+    <segment id="41">, alegando que é necessário aprofundar as investigações.</segment>
+    <segment id="42">Uma ala de ministros do governo também evita tratar do tema.  leia tambémMensagens mostram relação criminosa entre ministro de Lula e empresário</segment>
+    <segment id="43">, diz PFVamos sentar para falar sobre minhas emendas</segment>
+    <segment id="44">, disse Juscelino a alvo da PF Juscelino indicou contas e nomes para alvo da PF fazer pagamentos</segment>
+    <segment id="45">, mostram mensagens</segment>
+    <segment id="46">Juscelino é um dos principais pontos de desgaste da terceira gestão de Lula na Presidência desde o começo do mandato.</segment>
+    <segment id="47">Primeiro</segment>
+    <segment id="48">, virou alvo de notícias negativas após o jornal</segment>
+    <segment id="49">O Estado de S. Paulo revelar que ele viajou a trabalho com avião da FAB para participar de leilão de cavalos.</segment>
+    <segment id="50">Depois</segment>
+    <segment id="51">, entrou na mira da PF por investigação iniciada após a série de reportagens da Folha que mostrou um esquema com verba de emendas parlamentares na Codesvaf.</segment>
+    <segment id="52">Juscelino</segment>
+    <segment id="53">, no entanto</segment>
+    <segment id="54">, mantém-</segment>
+    <segment id="55">sese no cargo por ser um dos mais influentes deputados da bancada do partido.</segment>
+    <segment id="56">Ele também é próximo do presidente da Câmara</segment>
+    <segment id="57">, Arthur Lira (PP-AL).</segment>
+    <segment id="58">A suspeita da investigação da PF que aponta relação criminosa do ministro com um dono de empreiteira</segment>
+    <segment id="59">sese baseia em conversas obtidas no celular do empresário Eduardo José Barros Costa</segment>
+    <segment id="60">, conhecido</segment>
+    <segment id="61">comocomo Eduardo DP</segment>
+    <segment id="62">, e estão em relatório enviado ao STF.</segment>
+    <segment id="63">Na época</segment>
+    <segment id="64">, Juscelino era deputado federal.</segment>
+    <segment id="65">O empresário é apontado</segment>
+    <segment id="66">comocomo o real proprietário da Construservice</segment>
+    <segment id="67">, que tem contratos milionários com a Codevasf pagos com emendas parlamentares —ele não aparece</segment>
+    <segment id="68">comocomo sócio em registros oficiais.</segment>
+    <segment id="69">Este é Juscelino Filho</segment>
+    <segment id="70">, ministro das Comunicações de LulaMais    novamente         de   de  de  representando um</segment>
+    <segment id="71">As investigações da PF sobre a atuação da Construservice em contratos da Codevasf ganharam fôlego a partir de reportagens da Folha publicadas em maio de 2022.</segment>
+    <segment id="72">Na ocasião</segment>
+    <segment id="73">, o jornal revelou que a empreiteira chegou a aparecer</segment>
+    <segment id="74">comocomo a vice-líder em licitações da Codevasf e utilizou laranjas para participar de concorrências públicas na gestão do ex-presidente Jair Bolsonaro (PL).</segment>
+    <segment id="75">Procurada pela Folha</segment>
+    <segment id="76">, a assessoria do ministro enviou nota assinada por seus advogados.</segment>
+    <segment id="77">Eles dizem que não há nada ilegal nas obras e chamam de "ilação absurda</segment>
+    <segment id="78">" qualquer suspeita de benefício pessoal de Juscelino por meio das emendas.</segment>
+    <segment id="79">"</segment>
+    <segment id="80">Não há qualquer irregularidade nas obras</segment>
+    <segment id="81">, cujas emendas atendem a demandas da população</segment>
+    <segment id="82">, conforme já esclarecido às autoridades.</segment>
+    <segment id="83">Emendas parlamentares são um instrumento legítimo e democrático do Congresso Nacional e todas as ações de Juscelino Filho foram lícitas"</segment>
+    <segment id="84">, afirma a defesa.</segment>
+    <segment id="85">"</segment>
+    <segment id="86">São absurdas ilações de que Juscelino tenha tido qualquer proveito pessoal com sua atividade parlamentar</segment>
+    <segment id="87">, sobretudo construídas a partir de supostas mensagens sem origem e fidedignidade conhecidas"</segment>
+    <segment id="88">, completa a nota assinada pelos advogados Ticiano Figueiredo e Pedro Ivo Velloso.</segment>
+  </rst>
+</analysis>

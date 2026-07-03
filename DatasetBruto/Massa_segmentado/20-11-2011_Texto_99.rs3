@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Governo federal fará novo presídio em Brasília em 2012
+BRASÍLIA - O quinto presídio federal prometido pelo ex-presidente Luiz Inácio Lula da Silva ainda durante seu primeiro mandato sairá do papel em 2012</segment>
+    <segment id="2">Segundo o Ministério da Justiça</segment>
+    <segment id="3">, a unidade será construída no Distrito Federal para abrigar autoridades</segment>
+    <segment id="4">, mulheres</segment>
+    <segment id="5">, presos que colaborarem com a Justiça e detentos em trânsito.</segment>
+    <segment id="6">Foram erguidas pela União até agora quatro penitenciárias</segment>
+    <segment id="7">, em Catanduvas (PR)</segment>
+    <segment id="8">, Campo Grande</segment>
+    <segment id="9">, Porto Velho e Mossoró (RN).</segment>
+    <segment id="10">Segundo técnicos do governo</segment>
+    <segment id="11">, os investimentos foram importantes especialmente para abrigar presos que precisam</segment>
+    <segment id="12">, por exemplo</segment>
+    <segment id="13">, ficar em unidades de segurança máxima.</segment>
+    <segment id="14">O quadro mais crítico está mesmo nos estados e municípios</segment>
+    <segment id="15">, onde as penitenciárias estão superlotadas e com déficit de vagas.</segment>
+    <segment id="16">É para tentar contornar a situação que o Ministério da Justiça lança esta semana o programa nacional de apoio ao sistema prisional</segment>
+    <segment id="17">, com investimentos de R$ 1</segment>
+    <segment id="18">,1 bilhão em obras emergenciais e construção de cadeias públicas.</segment>
+  </rst>
+</analysis>

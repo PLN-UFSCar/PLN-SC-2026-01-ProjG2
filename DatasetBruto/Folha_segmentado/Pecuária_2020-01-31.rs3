@@ -1,0 +1,174 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A pecuária brasileira produziu mais e melhor com a redução do desmatamento.</segment>
+    <segment id="2">Produziu mais carne por hectare e produziu menos gases de efeito estufa por quilo de carne.</segment>
+    <segment id="3">A depender do tipo de criação</segment>
+    <segment id="4">, “manejo”</segment>
+    <segment id="5">, é possível mesmo tirar carbono do ar.</segment>
+    <segment id="6">Essas são algumas das conclusões que saltam dos dados do estudo “Cálculo da Pegada de Carbono e Hídrica na Cadeia da Carne Bovina no Brasil”.</segment>
+    <segment id="7">O trabalho é de Eduardo Pavão (engenheiro agrônomo)</segment>
+    <segment id="8">, Roberto Strumpf (biólogo) e Susian Martins (engenheira agrônoma).</segment>
+    <segment id="9">Faz parte do projeto do Instituto Escolhas “Do Pasto ao Prato: Subsídios e Pegada Ambiental da Carne Bovina”.</segment>
+    <segment id="10">O trabalho levantou a “pegada de carbono” do processo de produção de carne</segment>
+    <segment id="11">, da produção de insumos até o transporte para o mercado.</segment>
+    <segment id="12">A cadeia da pecuária de corte produz dióxido de carbono</segment>
+    <segment id="13">, metano e óxido nitroso.</segment>
+    <segment id="14">Para sintetizar o impacto ambiental</segment>
+    <segment id="15">, o efeito de cada gás é calculado em equivalentes de gás carbono.</segment>
+    <segment id="16">Veja fotos do seminário &amp;#039</segment>
+    <segment id="17">;Do Pasto ao Prato: Subsídios e Pegada Ambiental da Carne Bovina&amp;#039</segment>
+    <segment id="18">;   novamente         de   de  de  representando um  De 2008 a 2017</segment>
+    <segment id="19">, anos sob estudo</segment>
+    <segment id="20">, o rebanho bovino de corte passou de 166</segment>
+    <segment id="21">,7 milhões de cabeças para 183</segment>
+    <segment id="22">,7 milhões de cabeças.</segment>
+    <segment id="23">A massa de carne</segment>
+    <segment id="24">, a quantidade de carcaça processada</segment>
+    <segment id="25">, cresceu de 6</segment>
+    <segment id="26">,6 milhões de toneladas para 7</segment>
+    <segment id="27">,7 milhões de toneladas no mesmo período.</segment>
+    <segment id="28">A área de criação passou de 139 milhões de hectares para 141 milhões de hectares.</segment>
+    <segment id="29">Ou seja</segment>
+    <segment id="30">, para um aumento de cerca de 10% do rebanho e de mais de 16% no processamento de carne</segment>
+    <segment id="31">, foi preciso um aumento de menos de 2% na área de criação.</segment>
+    <segment id="32">Melhor ainda</segment>
+    <segment id="33">, houve uma redução da emissão de gases de efeito estufa por quilo de carne.</segment>
+    <segment id="34">Embora o impacto ambiental dos sistemas de manejo apresente diferenças enormes</segment>
+    <segment id="35">, o aumento notável da eficiência ambiental (em emissão de carbono) deveu-</segment>
+    <segment id="36">sese à diminuição do desmatamento para produzir carne.</segment>
+    <segment id="37">No caso</segment>
+    <segment id="38">caso de criação apenas em pastagem</segment>
+    <segment id="39">, a “pegada de carbono” flutuou em torno da emissão de 30 quilogramas de dióxido de carbono e equivalentes por quilo de carne produzida (CO2eq/kg carne)</segment>
+    <segment id="40">, sem levar em conta o desmatamento.</segment>
+    <segment id="41">Isto é</segment>
+    <segment id="42">, estável.</segment>
+    <segment id="43">Quando</segment>
+    <segment id="44">sese considera o desmatamento</segment>
+    <segment id="45">, a “pegada” diminuiu de 157 kg CO2eq/kg carne para 64 kg CO2eq/kg carne</segment>
+    <segment id="46">, de 2008 a 2017.</segment>
+    <segment id="47">Há diferenças ainda mais brutais quando</segment>
+    <segment id="48">sese pensam nos modos de produção</segment>
+    <segment id="49">, de manejo</segment>
+    <segment id="50">, em pasto degradado (PD)</segment>
+    <segment id="51">, pasto estável (PE)</segment>
+    <segment id="52">, pasto bem manejado (PBM)</segment>
+    <segment id="53">, sistema integrado (SI) e confinamento (CO).</segment>
+    <segment id="54">No caso</segment>
+    <segment id="55">caso dos pastos degradados</segment>
+    <segment id="56">, em que não há correção do solo nem adubo para a pastagem</segment>
+    <segment id="57">, a produção mais ineficiente</segment>
+    <segment id="58">, a pegada de carbono caiu de 1.008 kg CO2eq/kg carne em 2008 para 429 kg CO2eq/kg carne em 2017.</segment>
+    <segment id="59">No caso</segment>
+    <segment id="60">caso de sistemas integrados (que combina floresta</segment>
+    <segment id="61">, agricultura e pecuária)</segment>
+    <segment id="62">, é possível mesmo ter “emissão negativa”</segment>
+    <segment id="63">, fazer um “sumidouro de carbono”</segment>
+    <segment id="64">, quando a atividade econômica passa a contribuir para purificar o ar.</segment>
+    <segment id="65">Nos SI</segment>
+    <segment id="66">, a retirada de carbono ficou em torno de 27 kg CO2eq/kg carne ao longo da década em estudo</segment>
+    <segment id="67">, sem impacto maior de desmatamento</segment>
+    <segment id="68">, com é fácil entender.</segment>
+    <segment id="69">Pastagens degradadas</segment>
+    <segment id="70">, pois</segment>
+    <segment id="71">pois, implicam prejuízos vários para os produtores e para a sociedade em geral.</segment>
+    <segment id="72">Aumentam a pegada de carbono e usam solo de modo ineficiente</segment>
+    <segment id="73">, o que por sua vez induz a abertura de novas áreas para a pastagem e</segment>
+    <segment id="74">, assim</segment>
+    <segment id="75">, para mais emissões.</segment>
+    <segment id="76">Essa espiral de danos degrada também a imagem da agropecuária e da economia brasileira em geral</segment>
+    <segment id="77">, com risco de perda de mercados estrangeiros e aumento de custos financeiros.</segment>
+    <segment id="78">Além do mais</segment>
+    <segment id="79">, destrói serviços ambientais prestados à agricultura pela mera existência da floresta nativa em pé:</segment>
+    <segment id="80">abundância e previsibilidade das chuvas.</segment>
+    <segment id="81">“Isso demonstra a importância da expansão das tecnologias de baixa emissão de carbono para o setor pecuário”</segment>
+    <segment id="82">, escrevem os autores.</segment>
+    <segment id="83">A redução do desmatamento para a atividade pecuária</segment>
+    <segment id="84">, que acompanhou a tendência geral de diminuição da derrubada da mata no período</segment>
+    <segment id="85">, teve impacto significativo nas regiões da Amazônia Legal e no Matopiba (Tocantins e partes do Maranhão</segment>
+    <segment id="86">, Piauí e Bahia).</segment>
+    <segment id="87">Para todos os anos analisados</segment>
+    <segment id="88">, a carne proveniente da Amazônia Legal apresentou as maiores</segment>
+    <segment id="89">“pegadas de carbono”.</segment>
+    <segment id="90">O setor agropecuário foi responsável por 25% das emissões de gases de efeito estufa no mundo em 2018.</segment>
+    <segment id="91">O estudo mostra que as “fontes mais significativas de emissão são aquelas atreladas à fase produtiva da cadeia” (emissões de gases dos animais e o tipo de manejo) e</segment>
+    <segment id="92">, a depender da região do país</segment>
+    <segment id="93">, ao desmatamento.</segment>
+    <segment id="94">“Juntas</segment>
+    <segment id="95">, essas fontes representaram mais de 90% das emissões contabilizadas em todos os sistemas produtivos.</segment>
+    <segment id="96">Portanto</segment>
+    <segment id="97">, as mesmas devem ser prioritárias para qualquer programa visando a diminuição da ‘pegada de carbono da carne’”</segment>
+    <segment id="98">, escrevem os autores.</segment>
+    <segment id="99">A questão ambiental tem relevância para disputas geopolíticas</segment>
+    <segment id="100">, interfere na política de compras de grandes empresas</segment>
+    <segment id="101">, pode levar à criação de barreiras a importação de produtos brasileiros</segment>
+    <segment id="102">, restringir o crédito a produtores rurais e provocar a rejeição de consumidores.</segment>
+    <segment id="103">Estudo estima gasto de água doce na produção</segment>
+    <segment id="104">Além da medida mais tradicional e consolidada da “pegada de carbono”</segment>
+    <segment id="105">, o Instituto Escolhas procurou fazer uma primeira aproximação do cálculo do impacto da produção de carne na água —ainda faltam dados suficientemente detalhados.</segment>
+    <segment id="106">Foi feita uma estimativa da “pegada hídrica”</segment>
+    <segment id="107">, que é a quantidade de água doce empregada por algum consumidor</segment>
+    <segment id="108">, de forma direta ou indireta (embutida em pastagem ou ração</segment>
+    <segment id="109">, por exemplo).</segment>
+    <segment id="110">A “pegada hídrica azul” é o consumo de água superficial e subterrânea</segment>
+    <segment id="111">; a pegada</segment>
+    <segment id="112">“verde” é o consumo da água da chuva.</segment>
+    <segment id="113">A “cinza”</segment>
+    <segment id="114">, o volume de água doce necessário para diluir a carga de poluentes.</segment>
+    <segment id="115">Segundo os autores</segment>
+    <segment id="116">, “ficou evidente que o tipo de manejo da pecuária de corte mais praticada no Brasil é sustentável” no que diz respeito ao uso da água.</segment>
+    <segment id="117">No sistema pastagem</segment>
+    <segment id="118">, a pegada hídrica azul é de apenas 51 l/kg comparada aos 465 l/kg estimado globalmente nas mesmas condições.</segment>
+    <segment id="119">A pecuária menos afeta do que pode ser afetada pelo alto risco de seca em certas regiões</segment>
+    <segment id="120">, que “tende a ser agravado devido aos impactos das mudanças climáticas”.</segment>
+    <segment id="121">Tanto no cálculo da pegada hídrica quanto na de carbono</segment>
+    <segment id="122">, como</segment>
+    <segment id="123">como no cálculo dos subsídios</segment>
+    <segment id="124">, o enfoque do estudo patrocinado pelo Instituto Escolhas vai “do berço ao porto”.</segment>
+    <segment id="125">Isto é</segment>
+    <segment id="126">, foram pesquisadas as principais atividades relacionadas à produção de insumos (</segment>
+    <segment id="127">comocomo fertilizantes)</segment>
+    <segment id="128">, transporte entre fazendas</segment>
+    <segment id="129">, abate e distribuição da carne para consumidores</segment>
+    <segment id="130">, aqui e no exterior</segment>
+    <segment id="131">, uso de energia e tratamento de dejetos.</segment>
+    <segment id="132">Mais importante</segment>
+    <segment id="133">, foram medidos os efeitos do desmatamento</segment>
+    <segment id="134">, das técnicas de conservação e melhoramento da terra e outros métodos de “manejo”.</segment>
+    <segment id="135">O estudo</segment>
+    <segment id="136">, coordenado por Sergio Leitão e Shigueo Watanabe Júnior</segment>
+    <segment id="137">, procurou mapear as diferenças de impacto tanto entre regiões do país (Amazônia</segment>
+    <segment id="138">, Cerrado</segment>
+    <segment id="139">, Matopiba</segment>
+    <segment id="140">, Sul e restante do país)</segment>
+    <segment id="141">comocomo dos diferentes tipos criação.</segment>
+    <segment id="142">O período analisado foi de uma década</segment>
+    <segment id="143">, entre 2008 e 2017.</segment>
+    <segment id="144">Em geral</segment>
+    <segment id="145">, pesquisas desse gênero produzem resultados para áreas muito amplas ou fazem estudos de</segment>
+    <segment id="146">casocaso.</segment>
+    <segment id="147">O trabalho procurou captar diferenças regionais sem</segment>
+    <segment id="148">sese ater demasiadamente em especificidades.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,115 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O custo estimado com acidentes é mais que o dobro do valor investido pela União em rodovias federais em 2021</segment>
+    <segment id="2">, segundo levantamento da CNT (Confederação Nacional do Transporte).</segment>
+    <segment id="3">Os números divulgados nesta terça-feira (8) pela entidade mostram gasto projetado de R$ 12</segment>
+    <segment id="4">,2 bilhões com sinistros ante R$ 5</segment>
+    <segment id="5">,76 bilhões efetivamente investidos em estradas federais.</segment>
+    <segment id="6">Os dados divulgados no Painel CNT de Consultas Dinâmicas dos Acidentes Rodoviários apontam que 5.391 pessoas morreram em mais de 64 mil acidentes nas rodovias federais em 2021 —aumento de 2% em relação a 2020</segment>
+    <segment id="7">, quando foram 5.287 óbitos.</segment>
+    <segment id="8">Em média</segment>
+    <segment id="9">, 15 perderam a vida por dia apenas nas estradas sob responsabilidade da União.</segment>
+    <segment id="10">Diretor-executivo da CNT</segment>
+    <segment id="11">, Bruno Batista afirma que as estimativas de custos decorrentes dos acidentes são baseadas em metodologia do Ipea (Instituto de Pesquisa Econômica Aplicada)</segment>
+    <segment id="12">, que leva em consideração desde os gastos hospitalares até os previdenciários.</segment>
+    <segment id="13">Trânsito na rodovia</segment>
+    <segment id="14">Presidente Dutra</segment>
+    <segment id="15">, em Guarulhos (Grande SP)</segment>
+    <segment id="16">, no início de janeiro</segment>
+    <segment id="17">, após cratera</segment>
+    <segment id="18">sese abrir no asfalto - Rivaldo Gomes/Folhapress"Essa diferença [entre investimento e custo estimado dos acidentes] mostra o quadro dramático em relação à manutenção da segurança nas rodovias.</segment>
+    <segment id="19">Ao não fazer investimentos</segment>
+    <segment id="20">, o governo acaba sobrecarregando outras áreas que são suas</segment>
+    <segment id="21">, como</segment>
+    <segment id="22">como previdência e saúde</segment>
+    <segment id="23">, por exemplo"</segment>
+    <segment id="24">, diz Batista.</segment>
+    <segment id="25">"É uma política pouco inteligente.</segment>
+    <segment id="26">Causa danos sociais graves</segment>
+    <segment id="27">, danos econômicos robustos"</segment>
+    <segment id="28">, completa.</segment>
+    <segment id="29">Seis em cada dez ocorrências (60</segment>
+    <segment id="30">,2%) foram colisões</segment>
+    <segment id="31">, responsáveis também por 61</segment>
+    <segment id="32">,3% dos óbitos.</segment>
+    <segment id="33">Na sequência</segment>
+    <segment id="34">, surgem os atropelamentos</segment>
+    <segment id="35">, que representam 17</segment>
+    <segment id="36">,6% das mortes.</segment>
+    <segment id="37">Os números da CNT mostram também que praticamente a metade dos acidentes ocorreu entre sexta-feira e domingo.</segment>
+    <segment id="38">Registram ainda que 82</segment>
+    <segment id="39">,2% dos mortos são do sexo masculino.</segment>
+    <segment id="40">Na comparação entre as rodovias</segment>
+    <segment id="41">, a BR-101 é a que soma o maior número de ocorrências com vítimas (9.257 casos).</segment>
+    <segment id="42">A BR-116 vem na sequência (7.826)</segment>
+    <segment id="43">, masmas é aquela com o maior número de mortes no total</segment>
+    <segment id="44">, com 690 vidas perdidas em um ano.</segment>
+    <segment id="45">Ambas são as mais extensas do país.</segment>
+    <segment id="46">O levantamento mostra também que automóveis foram os veículos que mais</segment>
+    <segment id="47">sese envolveram em acidentes com mortes (43</segment>
+    <segment id="48">,1%), seguidos pelas motos (30</segment>
+    <segment id="49">,7).</segment>
+    <segment id="50">O painel da CNT mostra que</segment>
+    <segment id="51">, além dos R$ 5</segment>
+    <segment id="52">,76 bilhões destinados especificamente para as rodovias</segment>
+    <segment id="53">, o governo federal investiu R$ 7</segment>
+    <segment id="54">,7 bilhões no setor de transporte</segment>
+    <segment id="55">comocomo um todo</segment>
+    <segment id="56">, valor ainda abaixo da estimativa de custos com os acidentes.</segment>
+    <segment id="57">Segundo Batista</segment>
+    <segment id="58">, é importante ressaltar que os dados do painel correspondem apenas às rodovias federais.</segment>
+    <segment id="59">Caso fosse possível incluir as estaduais e municipais</segment>
+    <segment id="60">, os números seriam ainda maiores.</segment>
+    <segment id="61">"</segment>
+    <segment id="62">Esse problema pode ser multiplicado por três</segment>
+    <segment id="63">, tanto em termos de vítimas quanto de custos"</segment>
+    <segment id="64">, explica.</segment>
+    <segment id="65">Segundo a CNT</segment>
+    <segment id="66">, o Funset (Fundo Nacional de Segurança e Educação de Trânsito)</segment>
+    <segment id="67">, que recebe 5% dos recursos decorrentes da aplicação de multas por cada um dos entes da federação</segment>
+    <segment id="68">, poderia ser mais bem aplicado</segment>
+    <segment id="69">comocomo tentativa de reduzir o problema.</segment>
+    <segment id="70">A confederação afirma que</segment>
+    <segment id="71">, entre 2005 e 2021</segment>
+    <segment id="72">, dos R$ 11</segment>
+    <segment id="73">,68 bilhões autorizados para ações e programas que contam com recursos do fundo</segment>
+    <segment id="74">, apenas R$ 2</segment>
+    <segment id="75">,30 bilhões foram utilizados no período (19</segment>
+    <segment id="76">,7%).</segment>
+    <segment id="77">"É muito pouco"</segment>
+    <segment id="78">, diz Batista.</segment>
+    <segment id="79">Em dezembro</segment>
+    <segment id="80">, levantamento da CNT mostrou também que a situação das rodovias sob gestão pública piorou nos últimos dois anos no Brasil.</segment>
+    <segment id="81">A pesquisa apontou</segment>
+    <segment id="82">, por exemplo</segment>
+    <segment id="83">, que pulou de 67</segment>
+    <segment id="84">,5%, em 2019</segment>
+    <segment id="85">, para 71</segment>
+    <segment id="86">,8%, em 2021</segment>
+    <segment id="87">, o percentual de trechos considerados regulares</segment>
+    <segment id="88">, ruins ou péssimos.</segment>
+    <segment id="89">Engavetamento na via Dutra deixa ao menos seis mortos no interior de SPMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

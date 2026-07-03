@@ -1,0 +1,205 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Os casos de violência de gênero estão em alta no Brasil.</segment>
+    <segment id="2">Dados reunidos pelo Fórum Brasileiro de Segurança Pública atestaram um salto de 14</segment>
+    <segment id="3">,9% nos casos de estupro e 2</segment>
+    <segment id="4">,6% nos feminicídios em 2022</segment>
+    <segment id="5">, na comparação com o ano anterior.</segment>
+    <segment id="6">E a tendência de crescimento segue neste ano.</segment>
+    <segment id="7">Em 13 de novembro</segment>
+    <segment id="8">, o Fórum divulgou o balanço do primeiro semestre de 2023.</segment>
+    <segment id="9">Embora os registros de homicídio em geral registraram queda (-3</segment>
+    <segment id="10">,4%), os feminicídios tiveram alta.</segment>
+    <segment id="11">Foram 2</segment>
+    <segment id="12">,6% a mais neste ano do que nos primeiros seis meses de 2022: 722 assassinatos no total</segment>
+    <segment id="13">, o maior número da série histórica.</segment>
+    <segment id="14">A tendência é crescente desde que a lei nº 13.104/2015 acrescentou ao Código Penal essa qualificadora ao crime de homicídio doloso.</segment>
+    <segment id="15">No entanto</segment>
+    <segment id="16">, o número pode ainda estar subnotificado devido às dificuldades dos tribunais e das polícias de classificar os casos.</segment>
+    <segment id="17">Violência contra a mulher</segment>
+    <segment id="18">;</segment>
+    <segment id="19">&amp;#039;quando olhamos a aplicação das leis nos tribunais</segment>
+    <segment id="20">, ela ainda ocorre de maneira muito discriminatória&amp;#039</segment>
+    <segment id="21">;, diz socióloga da ONU Mulheres - Adobe StockO anuário da violência aponta que</segment>
+    <segment id="22">, em 2022</segment>
+    <segment id="23">, foram as mulheres em idade reprodutiva as principais vítimas desse tipo de crime: 71</segment>
+    <segment id="24">,9% das 1.437 mortes.</segment>
+    <segment id="25">Dessas</segment>
+    <segment id="26">, 61,1% eram mulheres negras.</segment>
+    <segment id="27">Houve aumento no ano passado também dos casos de estupro contra meninas e mulheres.</segment>
+    <segment id="28">Ao todo</segment>
+    <segment id="29">, foram 34 mil casos</segment>
+    <segment id="30">, salto de 14</segment>
+    <segment id="31">,9%.</segment>
+    <segment id="32">Isso corresponde a uma ocorrência de violência sexual a cada 8 minutos</segment>
+    <segment id="33">, a maior proporção desde 2019.</segment>
+    <segment id="34">O relatório aponta que a maioria das vítimas são crianças de até 14 anos</segment>
+    <segment id="35">, e respondem por 74</segment>
+    <segment id="36">,5% dos registros.</segment>
+    <segment id="37">Este sábado (25/11) foi Dia Internacional pela Eliminação da Violência Contra as Mulheres</segment>
+    <segment id="38">, data criada pelas Nações Unidas e que lembra o assassinato</segment>
+    <segment id="39">, em 1960</segment>
+    <segment id="40">, das irmãs Mirabal</segment>
+    <segment id="41">, três mulheres que contestaram a ditadura então instalada na República Dominicana.</segment>
+    <segment id="42">O episódio suscitou uma onda de protestos no país e elas</segment>
+    <segment id="43">sese tornaram mártires femininas.</segment>
+    <segment id="44">Brasil mais distante da meta</segment>
+    <segment id="45">Diante da alta da violência contra mulheres</segment>
+    <segment id="46">, o Brasil</segment>
+    <segment id="47">sese distancia cada vez mais de atingir o 5º objetivo de desenvolvimento sustentável estabelecido pela Agenda 2030 das Nações Unidas: acabar com todas as formas de discriminação contra todas as mulheres e meninas.</segment>
+    <segment id="48">O relatório do Fórum aponta que a escala da violência contra as mulheres é consistente e não é reflexo apenas do aumento das denúncias</segment>
+    <segment id="49">, pois</segment>
+    <segment id="50">pois todos os indicadores de agressões subiram no período.</segment>
+    <segment id="51">Alguns fatores favorecem o cenário de maior insegurança e violência</segment>
+    <segment id="52">, como</segment>
+    <segment id="53">como a queda no financiamento de políticas de proteção às mulheres.</segment>
+    <segment id="54">De 2019 a 2022</segment>
+    <segment id="55">, o Ligue 180</segment>
+    <segment id="56">, canal de denúncias de violência</segment>
+    <segment id="57">, teve uma redução de 41% nos gastos</segment>
+    <segment id="58">, por exemplo.</segment>
+    <segment id="59">A pandemia de Covid</segment>
+    <segment id="60">, que comprometeu os serviços de acolhimento de vítimas</segment>
+    <segment id="61">, e a ascensão de movimentos extremistas também são apontados</segment>
+    <segment id="62">comocomo possíveis causas.</segment>
+    <segment id="63">Em entrevista à DW</segment>
+    <segment id="64">, a socióloga Wânia Pasinato</segment>
+    <segment id="65">, assessora sênior da ONU Mulheres</segment>
+    <segment id="66">, analisa os motivos da alta de feminicídios e o impacto social dessa violência e aponta as políticas públicas de combate a esse cenário que precisam ser fortalecidas.  DW:</segment>
+    <segment id="67">O que justifica a escalada da violência contra as mulheres no Brasil?  Wânia</segment>
+    <segment id="68">Pasinato:</segment>
+    <segment id="69">Deve-se</segment>
+    <segment id="70">se a um processo que nos últimos anos</segment>
+    <segment id="71">sese convencionou chamar de desmonte de políticas públicas para mulheres e voltadas para o enfrentamento à violência contra as mulheres no sentido mais amplo: prevenção</segment>
+    <segment id="72">, proteção</segment>
+    <segment id="73">, promoção de direitos e responsabilização de agressores.</segment>
+    <segment id="74">Foram pelo menos seis anos que passamos de retirada de orçamento público</segment>
+    <segment id="75">, o que contribuiu para fragilizar os serviços que existiam</segment>
+    <segment id="76">, levando ao fechamento de atendimentos.  Somos uma sociedade muito conservadora</segment>
+    <segment id="77">, que tem uma estrutura patriarcal e machista</segment>
+    <segment id="78">, que autoriza os homens a praticar violência contra mulheres quando consideram que elas estão saindo do papel de submissão</segment>
+    <segment id="79">, e que não têm destaque na vida pública e política.</segment>
+    <segment id="80">Essa cultura também autoriza os homens a praticarem essa violência na apropriação dos corpos</segment>
+    <segment id="81">, em relação à sexualidade e direitos reprodutivos</segment>
+    <segment id="82">, por exemplo</segment>
+    <segment id="83">, e isso</segment>
+    <segment id="84">sese reflete no aumento dos estupros.</segment>
+    <segment id="85">É ainda mais preocupante</segment>
+    <segment id="86">porque</segment>
+    <segment id="87">porque meninas estão expostas a essa violência sexual dentro de casa</segment>
+    <segment id="88">, que não é um lugar de proteção.</segment>
+    <segment id="89">Nos últimos anos</segment>
+    <segment id="90">, a legislação para proteção das meninas e mulheres avançou com a Lei Maria da Penha e a qualificação dos feminicídios.</segment>
+    <segment id="91">No entanto</segment>
+    <segment id="92">, os crimes estão em alta.</segment>
+    <segment id="93">Que brechas favorecem esse cenário?</segment>
+    <segment id="94">As leis são uma conquista de grande importância.</segment>
+    <segment id="95">Todas as mudanças que foram feitas no campo legislativo desde a década de 1980 para cá</segment>
+    <segment id="96">, como</segment>
+    <segment id="97">como a Lei Maria da Penha</segment>
+    <segment id="98">, que é um marco</segment>
+    <segment id="99">, inauguram um outro debate.</segment>
+    <segment id="100">A lei do feminicídio mostra a importância de ter instrumentos legais para trabalhar com essa violência.</segment>
+    <segment id="101">Entre 2003 e 2015 houve investimento na implementação de serviços especializados</segment>
+    <segment id="102">, como</segment>
+    <segment id="103">como delegacia da mulher</segment>
+    <segment id="104">, atendimento na Casa Abrigo</segment>
+    <segment id="105">, serviços de saúde e serviços de justiça.</segment>
+    <segment id="106">Houve também um grande investimento na produção de documentos técnicos</segment>
+    <segment id="107">, como</segment>
+    <segment id="108">como protocolos e diretrizes que tinham a função importante de orientar e padronizar esse serviço e as atividades de capacitação de profissionais para atendimento.</segment>
+    <segment id="109">Isso se</segment>
+    <segment id="110">se perdeu com o fim da secretaria de Políticas para as Mulheres</segment>
+    <segment id="111">, que era o principal indutor dessas ações</segment>
+    <segment id="112">, que negociava e impulsionava a criação de serviços</segment>
+    <segment id="113">, inclusive com a transferência de orçamento.</segment>
+    <segment id="114">Essas iniciativas vão</segment>
+    <segment id="115">sese dissolvendo a partir de 2017.</segment>
+    <segment id="116">Sem capacidade de investimento</segment>
+    <segment id="117">, não houve capacitação de profissionais</segment>
+    <segment id="118">, e normas técnicas acabaram defasadas.</segment>
+    <segment id="119">A lei do feminicídio é de 2015</segment>
+    <segment id="120">, e novas formas de violência</segment>
+    <segment id="121">, como</segment>
+    <segment id="122">como a importunação sexual e a perseguição online foram criadas</segment>
+    <segment id="123">, masmas isso não faz parte da orientação dos serviços.</segment>
+    <segment id="124">São incorporadas em iniciativas muito esporádicas por gestores sensíveis ao tema.</segment>
+    <segment id="125">Não sabemos</segment>
+    <segment id="126">comocomo as delegacias estão aplicando a lei</segment>
+    <segment id="127">, ou como</segment>
+    <segment id="128">como funciona.</segment>
+    <segment id="129">A situação</segment>
+    <segment id="130">sese tornou precária nos centros de referência e casas de abrigo.</segment>
+    <segment id="131">Além disso</segment>
+    <segment id="132">, temos obstáculos para implementar as leis e desenvolver as políticas.</segment>
+    <segment id="133">Estamos lidando com instituições que são majoritariamente lideradas por homens que não reconhecem essa violência</segment>
+    <segment id="134">comocomo algo a ser combatido e prevenido.</segment>
+    <segment id="135">Quando olhamos a aplicação das leis nos tribunais</segment>
+    <segment id="136">, ela ainda ocorre de maneira muito discriminatória.</segment>
+    <segment id="137">Há a reprodução de estereótipos no processo que acaba fundamentando absolvições e não condenação de agressores.</segment>
+    <segment id="138">Quais são os impactos sociais desse contexto de violência sobre as meninas e mulheres?</segment>
+    <segment id="139">No nível individual</segment>
+    <segment id="140">, impacta o próprio núcleo familiar</segment>
+    <segment id="141">, pois</segment>
+    <segment id="142">pois os filhos presenciam a violência ou perdem a mãe vítima do feminicídio.</segment>
+    <segment id="143">Pode ser que essa mulher sustentasse financeiramente a família</segment>
+    <segment id="144">, deixa dependentes e os parentes precisam absorver o cuidado com crianças</segment>
+    <segment id="145">, por exemplo.</segment>
+    <segment id="146">Há ainda estudos que investigam o custo social desse contexto.</segment>
+    <segment id="147">Há uma perda econômica para o próprio Estado</segment>
+    <segment id="148">, em termos de perda de força de trabalho</segment>
+    <segment id="149">, e pode impactar no PIB dos países.</segment>
+    <segment id="150">Além disso</segment>
+    <segment id="151">, há os gastos públicos com mulheres que são vítimas de violência e que precisam recorrer aos sistemas de saúde e de segurança.</segment>
+    <segment id="152">Esse gasto do estado poderia ser reduzido</segment>
+    <segment id="153">sese trabalhasse pela prevenção.</segment>
+    <segment id="154">Como denunciar casos de violência contra a mulherMais    novamente         de   de  de  representando um</segment>
+    <segment id="155">Como as políticas públicas poderiam</segment>
+    <segment id="156">sese tornar mais eficientes para conter essa alta de</segment>
+    <segment id="157">casocaso?</segment>
+    <segment id="158">Tem que sair de um olhar restrito sobre a segurança pública e a Justiça.</segment>
+    <segment id="159">A resposta virá da associação com outras políticas de outras áreas e da combinação delas.</segment>
+    <segment id="160">Saúde e educação são prioridades</segment>
+    <segment id="161">porque</segment>
+    <segment id="162">porque por meio da educação é possível dar uma melhor formação para essa população</segment>
+    <segment id="163">, vão ter mais condições de prosseguir na vida escolar e acadêmica</segment>
+    <segment id="164">, ter uma formação profissional e podem fazer outras escolhas na vida.</segment>
+    <segment id="165">A saúde também é fundamental</segment>
+    <segment id="166">, pois</segment>
+    <segment id="167">pois as mulheres morrem ou sofrem sequelas de saúde por não terem acesso adequado ao serviço.</segment>
+    <segment id="168">Mas a solução também perpassa todas as dimensões da política pública</segment>
+    <segment id="169">, que envolve habitação</segment>
+    <segment id="170">, infraestrutura urbana</segment>
+    <segment id="171">, espaços onde essas mulheres habitam</segment>
+    <segment id="172">, sese tem iluminação pública</segment>
+    <segment id="173">, calçamento</segment>
+    <segment id="174">, água encanada.</segment>
+    <segment id="175">Se observar a Agenda 2030 e colocar a lupa de gênero nos 17 objetivos de desenvolvimento sustentável</segment>
+    <segment id="176">, você vai ver que ali tem um grande potencial</segment>
+    <segment id="177">para que</segment>
+    <segment id="178">para que</segment>
+    <segment id="179">sese possa desenvolver políticas mais adequadas para construção da equidade entre homens e mulheres em qualquer campo da política pública.</segment>
+  </rst>
+</analysis>

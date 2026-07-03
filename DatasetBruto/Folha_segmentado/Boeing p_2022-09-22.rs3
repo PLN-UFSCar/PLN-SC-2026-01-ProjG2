@@ -1,0 +1,63 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Boeing concordou nesta quinta-feira (22) em pagar US$ 200 milhões (R$ 1</segment>
+    <segment id="2">,03 bilhão) após ser acusada pela SEC (Securities and Exchange Commission</segment>
+    <segment id="3">, órgão regulador dos EUA) de ter afirmado diversas vezes que seu avião 737 MAX não apresentava riscos</segment>
+    <segment id="4">, após dois acidentes aéreos.</segment>
+    <segment id="5">Dennis Muilenburg</segment>
+    <segment id="6">, ex-CEO da empresa e então responsável pelo envio de mensagens</segment>
+    <segment id="7">, concordou em pagar US$ 1 milhão em multas.</segment>
+    <segment id="8">Trata-</segment>
+    <segment id="9">sese, principalmente</segment>
+    <segment id="10">, de uma falha no software de voo MCAS</segment>
+    <segment id="11">, que provocou a queda de um avião da Lion Air em outubro de 2018 e de um similar da Ethiopian Airlines em março de 2019</segment>
+    <segment id="12">, ambos modelo 737 MAX</segment>
+    <segment id="13">, sem que os pilotos pudessem evitá-lo.</segment>
+    <segment id="14">Mais de 300 pessoas morreram</segment>
+    <segment id="15">, o que obrigou esse modelo de aeronave a ficar em terra por 20 meses.</segment>
+    <segment id="16">Impedidos de serem entregues às companhias aéreas</segment>
+    <segment id="17">, aviões 737</segment>
+    <segment id="18">Max são estocados em pátio da Boeing em Seattle</segment>
+    <segment id="19">, no oeste dos EUA - Gary He/Reuters"Após o primeiro acidente</segment>
+    <segment id="20">, Boeing e Muilenburg sabiam que o MCAS representava um problema de segurança</segment>
+    <segment id="21">, masmas garantiram ao público que o 737 MAX era 'tão seguro quanto qualquer avião que já tenha voado'"</segment>
+    <segment id="22">, lembrou a SEC.</segment>
+    <segment id="23">"</segment>
+    <segment id="24">Mais tarde</segment>
+    <segment id="25">, após o segundo acidente</segment>
+    <segment id="26">, Boeing e Muilenburg afirmaram ao público que não houve erros nem lacunas no processo de certificação do MCAS</segment>
+    <segment id="27">, apesar de relatos no sentido contrário"</segment>
+    <segment id="28">, acrescentou a agência.</segment>
+    <segment id="29">A Boeing reconheceu em janeiro de 2021 que dois de seus funcionários enganaram um grupo da autoridade de aviação americana encarregado de preparar a formação de pilotos para o software MCAS.</segment>
+    <segment id="30">A empresa concordou em pagar mais de US$ 2</segment>
+    <segment id="31">,5 bilhões</segment>
+    <segment id="32">, incluindo uma multa criminal de US$ 243</segment>
+    <segment id="33">,6 milhões e US$ 500 milhões para indenizar parentes das vítimas.</segment>
+    <segment id="34">A SEC descobriu que a Boeing e Muilenburg violaram leis do mercado de ações.</segment>
+    <segment id="35">Embora a Boeing e o ex-executivo tenham concordado em pagar uma multa</segment>
+    <segment id="36">, nenhum dos dois admite ou nega as conclusões da agência</segment>
+    <segment id="37">, segundo o comunicado de imprensa.</segment>
+  </rst>
+</analysis>

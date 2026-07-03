@@ -1,0 +1,35 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Philip Morris anunciou nesta sexta-feira (9) um acordo para comprar a farmacêutica britânica Vectura</segment>
+    <segment id="2">, fabricante de produtos para tratamentos respiratórios</segment>
+    <segment id="3">, por cerca de 1 bilhão de libras.</segment>
+    <segment id="4">Segundo a produtora de tabaco</segment>
+    <segment id="5">, dona do Marlboro</segment>
+    <segment id="6">, a aquisição visa expandir seu portfólio em novas áreas de atuação e vai acelerar o desenvolvimento de operações ligadas a saúde e bem-estar.  Cigarro eletrônicoMais    novamente         de   de  de  representando um</segment>
+    <segment id="7">O negócio supera uma proposta anterior de compra da Vectura</segment>
+    <segment id="8">, feita pelo grupo Carlyle</segment>
+    <segment id="9">, que ofereceu pouco menos de 900 milhões de libras pela farmacêutica.   com Mariana Grazini e Andressa Motter</segment>
+  </rst>
+</analysis>

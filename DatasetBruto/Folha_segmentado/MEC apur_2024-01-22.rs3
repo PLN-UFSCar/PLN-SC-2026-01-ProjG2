@@ -1,0 +1,131 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Uma avaliação preliminar do Ministério da Educação encontrou indícios de desproporcionalidade na quantidade de alunos por professor em cursos de ensino a distância de faculdades particulares.</segment>
+    <segment id="2">Para avaliar</segment>
+    <segment id="3">sese há risco à qualidade do ensino</segment>
+    <segment id="4">, a pasta decidiu apurar 11 instituições.</segment>
+    <segment id="5">O estudo preliminar</segment>
+    <segment id="6">, feito pela Seres (Secretaria de Regulação e Supervisão do Ensino Superior)</segment>
+    <segment id="7">, identificou que essas 11 faculdades apresentam uma proporção de 500 alunos por docente em cursos a distância —média muito superior ao do restante da rede privada nessa modalidade</segment>
+    <segment id="8">, que é de 171 alunos por docente.</segment>
+    <segment id="9">A secretaria da gestão Lula (PT) também destacou que essa desproporcionalidade pode ter impacto significativo no sistema de ensino superior brasileiro</segment>
+    <segment id="10">, já que essas 11 faculdades concentram 65% de todas as matrículas do país em cursos a distância.</segment>
+    <segment id="11">Juntas</segment>
+    <segment id="12">, elas atendem mais de 2</segment>
+    <segment id="13">,8 milhões de alunos apenas nessa modalidade.</segment>
+    <segment id="14">O ministro Camilo Santana anunciou que o MEC fará supervisão mais rigorosa dos cursos a distância    -Pedro Ladeira - 19.jan.23/FolhapressO estudo foi feito após a divulgação dos dados do Censo do Ensino Superior de 2022</segment>
+    <segment id="15">, que já havia apontado para um forte avanço dos cursos a distância no país.</segment>
+    <segment id="16">Na ocasião</segment>
+    <segment id="17">, o ministro Camilo Santana disse que a concentração das matrículas</segment>
+    <segment id="18">, sobretudo na rede privada</segment>
+    <segment id="19">, é "alarmante e desafiadora" e anunciou que o governo Lula iria rever os critérios de regulação e supervisão para garantir a qualidade do ensino.</segment>
+    <segment id="20">É a primeira vez que o MEC cobra instituições particulares a prestarem esclarecimentos sobre a qualidade dos cursos que ofertam.</segment>
+    <segment id="21">Um levantamento feito pela Folha mostrou que</segment>
+    <segment id="22">, com o avanço do ensino a distância</segment>
+    <segment id="23">, as matrículas do ensino superior estão cada vez mais concentradas em um número pequeno de instituições.</segment>
+    <segment id="24">Também identificou que as faculdades com mais alunos são as que possuem maior proporção de estudantes por professor.</segment>
+    <segment id="25">A Universidade Pitágoras Unopar Anhanguera</segment>
+    <segment id="26">, que concentra a maior fatia de matrículas</segment>
+    <segment id="27">, tem 1.325 alunos por professor.</segment>
+    <segment id="28">A instituição mais do que triplicou o número de estudantes em uma década (de 202 mil para 693 mil)</segment>
+    <segment id="29">, ao mesmo tempo em que reduziu o quadro docente (de 708 para 523).</segment>
+    <segment id="30">Já o Centro Universitário Leonardo da Vinci apresenta uma proporção de 2.594 alunos para cada professor.</segment>
+    <segment id="31">Com 669 mil estudantes</segment>
+    <segment id="32">, a instituição conta com 258 docentes.</segment>
+    <segment id="33">Essas duas instituições estão entre as 11 que serão supervisionadas para verificar a desproporcionalidade de docentes.</segment>
+    <segment id="34">A reportagem procurou todas as instituições citadas pelo MEC</segment>
+    <segment id="35">, masmas recebeu resposta de apenas três até a publicação.</segment>
+    <segment id="36">Quais são as 11 instituições que serão supervisionadas</segment>
+    <segment id="37">Universidade Estácio de Sá Universidade Cruzeiro do Sul Universidade Pitágoras Unopar Anhanguera Universidade Cidade de São Paulo (Unicid) Universidade de Franca Universidade Cesumar (Unicesumar)</segment>
+    <segment id="38">Centro Universitário Estácio de Ribeirão Preto Centro Universitário Planalto do Distrito Federal (Uniplan)</segment>
+    <segment id="39">Centro Universitário Leonardo da Vinci (Uniasselvi)</segment>
+    <segment id="40">Centro Universitário Internacional Centro Universitário Estácio de Santa Catarina (Estácio Santa Catarina)</segment>
+    <segment id="41">Segundo o documento da Seres</segment>
+    <segment id="42">, obtido pela Folha</segment>
+    <segment id="43">, o estudo foi feito após observação de "queda absoluta ocorrida nos últimos anos acerca do número de docentes em atuação na educação superior da rede privada".</segment>
+    <segment id="44">Os dados do Censo mostram que as instituições privadas tinham 190 mil professores em 2015.</segment>
+    <segment id="45">O número caiu para 151 mil</segment>
+    <segment id="46">, em 2022</segment>
+    <segment id="47">, uma queda de 20</segment>
+    <segment id="48">,7% em sete anos.</segment>
+    <segment id="49">No mesmo período</segment>
+    <segment id="50">, o número de matrículas saltou de 6 milhões para 7</segment>
+    <segment id="51">,3 milhões.  "</segment>
+    <segment id="52">A razão aluno/docente na rede privada tem</segment>
+    <segment id="53">, portanto</segment>
+    <segment id="54">, crescido nos últimos anos</segment>
+    <segment id="55">, o que pode representar indicativo de deficiência na oferta da educação superior"</segment>
+    <segment id="56">, diz o documento.</segment>
+    <segment id="57">Colégios em prédios vazios de universidadesMais    novamente         de   de  de  representando um  Especialistas consultados pela reportagem afirmam ser importante a apuração do MEC</segment>
+    <segment id="58">, já que</segment>
+    <segment id="59">, nos últimos anos</segment>
+    <segment id="60">, as instituições de ensino conseguiram flexibilizar regras para a ampliação dos cursos a distância sem que fossem estabelecidos critérios para avaliar a qualidade do ensino.  "</segment>
+    <segment id="61">As instituições têm autonomia para oferecer os cursos da forma</segment>
+    <segment id="62">comocomo querem</segment>
+    <segment id="63">, e isso abriu o mercado de forma desordenada.</segment>
+    <segment id="64">O Brasil não tem uma avaliação consistente do ensino superior</segment>
+    <segment id="65">, por isso</segment>
+    <segment id="66">, não consegue coibir a oferta de cursos sem um padrão de qualidade desejada"</segment>
+    <segment id="67">, diz Oscar Hipólito</segment>
+    <segment id="68">, professor da USP e especialista em avaliação do ensino superior.</segment>
+    <segment id="69">Maria Angélica Minhoto</segment>
+    <segment id="70">, professora do departamento de Educação da Unifesp</segment>
+    <segment id="71">, lembra que as instituições de ensino conquistaram uma série de flexibilizações na legislação nos últimos anos que podem ter favorecido a alta proporção de alunos por professores</segment>
+    <segment id="72">, como</segment>
+    <segment id="73">como a que permite a contratação de tutores no lugar de docentes para atuar nos polos.</segment>
+    <segment id="74">"</segment>
+    <segment id="75">Elas preferem contratar tutores</segment>
+    <segment id="76">, por serem obviamente uma mão de obra mais barata.</segment>
+    <segment id="77">Assim, eles contratam poucos professores que apenas gravam as aulas e acabam dando aula para alunos de várias regiões e até mesmo de cursos diferentes"</segment>
+    <segment id="78">, afirma Minhoto</segment>
+    <segment id="79">, que estuda políticas de ensino superior.</segment>
+    <segment id="80">Os especialistas ponderam que apenas o indicador da proporção de alunos por professor não é suficiente para aferir a qualidade dos cursos</segment>
+    <segment id="81">, masmas dizem ser um bom ponto de partida para a supervisão.  "</segment>
+    <segment id="82">O Brasil precisa do ensino a distância</segment>
+    <segment id="83">, é uma modalidade importante para garantir que o ensino superior chegue a todos.</segment>
+    <segment id="84">Mas precisamos que esses cursos tenham qualidade.</segment>
+    <segment id="85">Ter avaliações e supervisões criteriosas desses cursos é fundamental para garantir que os estudantes estão recebendo uma educação de qualidade"</segment>
+    <segment id="86">, diz Hipólito.</segment>
+    <segment id="87">O QUE DIZEM AS FACULDADES  Em nome das faculdades</segment>
+    <segment id="88">Uniasselvi e Unicesumar</segment>
+    <segment id="89">, a Vitru Educação afirma que o procedimento atual é "apenas um pedido de informações feito pelo MEC</segment>
+    <segment id="90">, sem nenhuma consequência imediata para a instituição"</segment>
+    <segment id="91">, e que concorda com a necessidade de avaliações para aprimoramento da qualidade do ensino superior.</segment>
+    <segment id="92">"</segment>
+    <segment id="93">A Vitru (VTRU) prestará todos os esclarecimentos ao órgão e entende estar em conformidade com a legislação</segment>
+    <segment id="94">, uma vez que apresentou o conceito institucional com nota máxima (5)</segment>
+    <segment id="95">, avaliado pelo Inep</segment>
+    <segment id="96">, órgão vinculado ao MEC"</segment>
+    <segment id="97">, declara.</segment>
+    <segment id="98">Também citando o órgão</segment>
+    <segment id="99">, a Cogna Educação</segment>
+    <segment id="100">, detentora da Pitágoras Unopar Anhanguera</segment>
+    <segment id="101">, diz que os cursos da instituição "possuem notas de excelência</segment>
+    <segment id="102">, obtidas por avaliações realizadas pelo Inep".</segment>
+    <segment id="103">Diz ainda que prestará todos os esclarecimentos</segment>
+    <segment id="104">, "com a certeza de que os cursos de educação à distância da instituição de ensino oferecem uma educação de qualidade</segment>
+    <segment id="105">, conforme atestado pelo próprio governo".</segment>
+  </rst>
+</analysis>

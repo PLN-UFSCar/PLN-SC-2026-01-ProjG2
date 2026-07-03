@@ -1,0 +1,93 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Ex-vereador buscou saber responsÃ¡vel por indicaÃ§Ã£o
+BRASÃLIA</segment>
+    <segment id="2">Na conversa com a entÃ£o chefe de gabinete de Marconi Perillo</segment>
+    <segment id="3">, Eliane Pinheiro</segment>
+    <segment id="4">, o ex-vereador Wladmir Garcez</segment>
+    <segment id="5">, suspeito de fazer a ponte entre a organizaÃ§Ã£o criminosa e o governador de GoiÃ¡s</segment>
+    <segment id="6">, procura saber de quem partiu a indicaÃ§Ã£o do promotor de JustiÃ§a para o cargo.</segment>
+    <segment id="7">Eliane diz que Umberto foi indicado pelo "conselheiro Ferrari".</segment>
+    <segment id="8">O presidente do Tribunal de Contas do Estado (TCE) de GoiÃ¡s Ã© o conselheiro Edson JosÃ© Ferrari.</segment>
+    <segment id="9">Eliane sugere que os trÃªs senadores goianos faÃ§am uma indicaÃ§Ã£o conjunta para a Secretaria de Meio Ambiente.</segment>
+    <segment id="10">Na conversa</segment>
+    <segment id="11">, Wladimir e Eliane reclamam da atuaÃ§Ã£o do deputado federal Leonardo Vilela (PSDB-GO)</segment>
+    <segment id="12">, que era secretÃ¡rio de Meio Ambiente e deixou a funÃ§Ã£o para disputar a Prefeitura de GoiÃ¢nia</segment>
+    <segment id="13">-candidatura bancada por Perillo</segment>
+    <segment id="14">, masmas retirada diante da repercussÃ£o do</segment>
+    <segment id="15">casocaso Cachoeira.</segment>
+    <segment id="16">"</segment>
+    <segment id="17">Vou ligar pro Carlinhos</segment>
+    <segment id="18">, vou ver o que ele acha.</segment>
+    <segment id="19">Agora, o Leonardo deu besteira</segment>
+    <segment id="20">, tÃ´ falando com o Leonardo para garantir isso desde que dia</segment>
+    <segment id="21">, vocÃª lembra?</segment>
+    <segment id="22">Desde dezembro tÃ´ falando: "</segment>
+    <segment id="23">Senta e bate o martelo com o Marconi'"</segment>
+    <segment id="24">, diz Wladimir a Eliane.</segment>
+    <segment id="25">A conversa</segment>
+    <segment id="26">Ã© encerrada</segment>
+    <segment id="27">Ã s 12h12.</segment>
+    <segment id="28">Sete segundos depois</segment>
+    <segment id="29">, o ex-vereador liga para Cachoeira.</segment>
+    <segment id="30">"Umberto</segment>
+    <segment id="31">Ã© tiro no pÃ©</segment>
+    <segment id="32">"</segment>
+    <segment id="33">"</segment>
+    <segment id="34">CÃª viu o trem lÃ¡?</segment>
+    <segment id="35">(sic) Ã‰ ruim demais</segment>
+    <segment id="36">, sese for o Umberto</segment>
+    <segment id="37">Ã© tiro no pÃ©"</segment>
+    <segment id="38">, afirma Wladimir</segment>
+    <segment id="39">, que diz ter falado com Leonardo Vilela sobre a questÃ£o.</segment>
+    <segment id="40">Cachoeira responde: "</segment>
+    <segment id="41">Leonardo demorou demais.</segment>
+    <segment id="42">Um trem desse teria de ter visto com o governador lÃ¡</segment>
+    <segment id="43">atrÃ¡s.</segment>
+    <segment id="44">Demorou demais.</segment>
+    <segment id="45">NÃ£o sei</segment>
+    <segment id="46">sese o senador dÃ¡ conta nÃ£o.</segment>
+    <segment id="47">"</segment>
+    <segment id="48">Por meio de sua assessoria de imprensa</segment>
+    <segment id="49">, Perillo sustenta que "nÃ£o existe na equipe de governo nenhuma indicaÃ§Ã£o feita pelo senhor Carlos Cachoeira".</segment>
+    <segment id="50">"</segment>
+    <segment id="51">Eles falam que estavam articulando contra Umberto</segment>
+    <segment id="52">, que terminou nomeado.</segment>
+    <segment id="53">Se Cachoeira tivesse forÃ§a no governo</segment>
+    <segment id="54">, indicaria direto com Marconi.</segment>
+    <segment id="55">"</segment>
+    <segment id="56">A assessoria do deputado Leonardo Vilela tambÃ©m</segment>
+    <segment id="57">"</segment>
+    <segment id="58">refuta veementemente qualquer ilaÃ§Ã£o sobre participaÃ§Ã£o de alguÃ©m na indicaÃ§Ã£o de A ou B na secretaria"</segment>
+    <segment id="59">e diz que as nomeaÃ§Ãµes sÃ£o uma exclusividade do governador.</segment>
+    <segment id="60">Os senadores Cyro Miranda - suplente de Perillo - e LÃºcia VÃ¢nia dizem nÃ£o ter sido procurados por integrantes do grupo de Cachoeira.</segment>
+    <segment id="61">E sustentam nÃ£o ter participado da indicaÃ§Ã£o no Meio Ambiente.</segment>
+    <segment id="62">O presidente do TCE</segment>
+    <segment id="63">, Edson Ferrari</segment>
+    <segment id="64">, afirma que Ã© amigo de Umberto Machado</segment>
+    <segment id="65">, masmas nega ter feito a indicaÃ§Ã£o.</segment>
+    <segment id="66">Wladimir e Eliane nÃ£o retornaram aos contatos da reportagem.</segment>
+  </rst>
+</analysis>

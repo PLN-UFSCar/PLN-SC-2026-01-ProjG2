@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Base do Subúrbio já está em operação</segment>
+    <segment id="2">Com um efetivo de 120 policiais</segment>
+    <segment id="3">, a nova unidade tem uma faixa de atuação de 6 km
+Foi inaugurada</segment>
+    <segment id="4">, na manhã de ontem</segment>
+    <segment id="5">, em Fazenda Coutos</segment>
+    <segment id="6">, Subúrbio Ferroviário</segment>
+    <segment id="7">, a  quinta Base Comunitária de Segurança de Salvador.</segment>
+    <segment id="8">Com um efetivo de 120 policiais</segment>
+    <segment id="9">, a nova unidade tem uma faixa de atuação de 6 km quadrados</segment>
+    <segment id="10">, é a primeira que conta com um sistema de mapeamento digital e que não faz fronteira com bairros considerados nobres.</segment>
+    <segment id="11">Segundo o coronel Zeliomar Almeida</segment>
+    <segment id="12">, os policias da base participaram de um curso de qualificação que engloba mediação de conflitos</segment>
+    <segment id="13">, direitos humanos e prática da polícia comunitária.</segment>
+  </rst>
+</analysis>

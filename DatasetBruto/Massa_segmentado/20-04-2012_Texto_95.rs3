@@ -1,0 +1,53 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Criança nasce cheia de pernas</segment>
+    <segment id="2">Geneticista explica</segment>
+    <segment id="3">comocomo será a vida do bebê</segment>
+    <segment id="4">, que deixou muita gente preocupada</segment>
+    <segment id="5">O bebê que nasceu com seis pernas em Sindh</segment>
+    <segment id="6">, no Paquistão</segment>
+    <segment id="7">, foi operado com sucesso na manhã de ontem.</segment>
+    <segment id="8">A cirurgia para a retirada das pernas excedentes foi feita no Instituto Paquistanês de Saúde Infantil</segment>
+    <segment id="9">, em Karachi.</segment>
+    <segment id="10">A primeira imagem da criança chamou a atenção de milhões de pessoas pelo mundo.</segment>
+    <segment id="11">Autoridades do hospital já haviam explicado que as seis pernas são resultado de uma rara condição genética.</segment>
+    <segment id="12">De acordo com a geneticista Maria Bethânia Torales</segment>
+    <segment id="13">, é bastante comum o nascimento de crianças com alguns dedos a mais nas mãos ou nos pés.</segment>
+    <segment id="14">“</segment>
+    <segment id="15">Em 30 anos de formada eu nunca vi um</segment>
+    <segment id="16">casocaso</segment>
+    <segment id="17">comocomo esse”</segment>
+    <segment id="18">, comentou a geneticista</segment>
+    <segment id="19">, que acredita em uma boa qualidade de vida para o garoto recém-operado.</segment>
+    <segment id="20">“</segment>
+    <segment id="21">Para tirar qualquer conclusão</segment>
+    <segment id="22">, é preciso investigar a saúde</segment>
+    <segment id="23">comocomo um  todo.</segment>
+    <segment id="24">Mas quando</segment>
+    <segment id="25">sese trata de uma anomalia</segment>
+    <segment id="26">, a criança tem grandes chances de ter uma boa qualidade de vida”</segment>
+    <segment id="27">, contou.</segment>
+  </rst>
+</analysis>

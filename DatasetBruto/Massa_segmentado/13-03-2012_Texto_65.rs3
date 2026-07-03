@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um dengo só!</segment>
+    <segment id="2">João Vicente apareceu!</segment>
+    <segment id="3">O pequeno Jovi</segment>
+    <segment id="4">, filho de Taís Araújo e Lázaro Ramos aparece em foto com a mãe</segment>
+    <segment id="5">Olha como</segment>
+    <segment id="6">como João Vicente</segment>
+    <segment id="7">, filho de Taís Araújo e Lázaro Ramos</segment>
+    <segment id="8">, já está crescidinho!</segment>
+    <segment id="9">O bebê de oito meses acompanhou a atriz num almoço na casa da amiga Arlete Salles</segment>
+    <segment id="10">, na tarde de domingo</segment>
+    <segment id="11">, na Gávea</segment>
+    <segment id="12">, rio de Janeiro.</segment>
+    <segment id="13">Jovi, como</segment>
+    <segment id="14">como é chamado entre os íntimos</segment>
+    <segment id="15">,  sese comportou muito bem e na saída</segment>
+    <segment id="16">sese divertiu com os cabelos da mamãe.</segment>
+    <segment id="17">O garotinho curte as últimas semanas em tempo integral com Taís</segment>
+    <segment id="18">, já que a atriz</segment>
+    <segment id="19">, em breve volta às novelas em “Cheias de Charme”</segment>
+    <segment id="20">, que estreia em abril.</segment>
+  </rst>
+</analysis>

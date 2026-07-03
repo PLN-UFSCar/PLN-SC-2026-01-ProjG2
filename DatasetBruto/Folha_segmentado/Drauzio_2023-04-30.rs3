@@ -1,0 +1,147 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O médico Drauzio Varella</segment>
+    <segment id="2">, 79, afirma que "muito provavelmente" o Brasil enfrentará tragédia semelhante a que os Estados Unidos enfrentam hoje com o fentanil</segment>
+    <segment id="3">, um opioide 50 vezes mais potente que a heroína e 100 vezes mais que a morfina</segment>
+    <segment id="4">, caso</segment>
+    <segment id="5">caso o país não adote estratégias preventivas urgentemente.</segment>
+    <segment id="6">"Temos que fazer com o fentanil o que não fizemos com a entrada do crack.</segment>
+    <segment id="7">O crack nos anos 1980 estava lá nos EUA</segment>
+    <segment id="8">, em Nova York</segment>
+    <segment id="9">, em Chicago</segment>
+    <segment id="10">, no meio da população mais pobre</segment>
+    <segment id="11">, entre os negros.</segment>
+    <segment id="12">No Brasil</segment>
+    <segment id="13">, a gente agiu</segment>
+    <segment id="14">comocomo</segment>
+    <segment id="15">sese aquilo não existisse</segment>
+    <segment id="16">, não pudemos educar a população</segment>
+    <segment id="17">, educar as crianças"</segment>
+    <segment id="18">, disse ele</segment>
+    <segment id="19">, em entrevista à Folha.</segment>
+    <segment id="20">Entrevista na íntegra:</segment>
+    <segment id="21">'Não é agora</segment>
+    <segment id="22">, com 80 anos</segment>
+    <segment id="23">, que vou desacelerar'</segment>
+    <segment id="24">, diz Drauzio Varella Drauzio Varella</segment>
+    <segment id="25">, 80: médico lista os livros que mais gosta entre suas 18 obras</segment>
+    <segment id="26">O médico e escritor Drauzio Varella</segment>
+    <segment id="27">, durante entrevista em seu escritório na Bela Vista</segment>
+    <segment id="28">, região central de São Paulo - Bruno Santos/FolhapressSegundo o médico</segment>
+    <segment id="29">, apesar da descrença no potencial de ações preventivas</segment>
+    <segment id="30">, elas funcionam.</segment>
+    <segment id="31">"</segment>
+    <segment id="32">Aí falam:</segment>
+    <segment id="33">‘educação não adianta'.</segment>
+    <segment id="34">É claro que adianta!</segment>
+    <segment id="35">Essa geração atual fuma menos cigarros do que a minha</segment>
+    <segment id="36">porque</segment>
+    <segment id="37">porque foi educada</segment>
+    <segment id="38">, nós não.</segment>
+    <segment id="39">Não podemos fechar os olhos</segment>
+    <segment id="40">, esperar chegar e começar a morrer crianças por causa da depressão respiratória provocada pelo fentanil.</segment>
+    <segment id="41">"</segment>
+    <segment id="42">Na última quinta (27)</segment>
+    <segment id="43">, agentes da Receita Federal apreenderam 60 cápsulas de fentanil no CTCE (Centro de Tratamento de Cartas e Encomendas dos Correios de Manaus (AM).</segment>
+    <segment id="44">Em fevereiro</segment>
+    <segment id="45">, a polícia fez a primeira apreensão do produto no Brasil.</segment>
+    <segment id="46">Foram 31 ampolas</segment>
+    <segment id="47">, no Espírito Santo.</segment>
+    <segment id="48">"É um opioide</segment>
+    <segment id="49">, com margem de segurança muito pequena.</segment>
+    <segment id="50">Dá morte súbita</segment>
+    <segment id="51">, não dá tempo para nada"</segment>
+    <segment id="52">, explica o médico</segment>
+    <segment id="53">, que é colunista da Folha.</segment>
+    <segment id="54">Uma dose de 2 miligramas pode provocar parada respiratória quase imediata.</segment>
+    <segment id="55">Além de efeitos alucinógenos e de euforia</segment>
+    <segment id="56">, a droga é potencialmente letal por afetar a consciência e poder causar paralisia nos pulmões.</segment>
+    <segment id="57">Para compensar a falta de oxigenação</segment>
+    <segment id="58">, o coração aumenta o ritmo cardíaco</segment>
+    <segment id="59">, o que aumenta o risco de uma parada cardíaca.</segment>
+    <segment id="60">Conforme a CDC (Centro de Controle e Prevenção de Doenças)</segment>
+    <segment id="61">, agência que compila dados de saúde pública nos Estados Unidos</segment>
+    <segment id="62">, desde 2019 a substância</segment>
+    <segment id="63">sese tornou a principal causa de morte entre pessoas de 18 a 45 anos no país</segment>
+    <segment id="64">, superando Covid</segment>
+    <segment id="65">, câncer</segment>
+    <segment id="66">, suicídios e acidentes de carro.</segment>
+    <segment id="67">Em 2022 foram registradas 107.375 mortes por overdose nos Estados Unidos —dessas</segment>
+    <segment id="68">, 67% envolveram o fentanil</segment>
+    <segment id="69">, geralmente misturado a outras drogas ilícitas</segment>
+    <segment id="70">, o que dificulta que os usuários saibam o perigo do que estão consumindo.</segment>
+    <segment id="71">"90% do tráfico da substância vêm da China e depois para os cartéis mexicanos que têm as rotas de entrada nos Estado Unidos.</segment>
+    <segment id="72">Aí começaram a misturar o fentanil com outras drogas</segment>
+    <segment id="73">, como</segment>
+    <segment id="74">como morfina e cocaína</segment>
+    <segment id="75">, que ficam muito mais potentes.</segment>
+    <segment id="76">Eles calculam que 70% da cocaína vendida em Nova York tenha fentanil misturado"</segment>
+    <segment id="77">, relata Drauzio.</segment>
+    <segment id="78">Fentanil chega aos EUA pelo correioMais    novamente         de   de  de  representando um  Segundo o médico</segment>
+    <segment id="79">, o consumo começou entre os usuários "barra-pesada".</segment>
+    <segment id="80">"Mas agora já</segment>
+    <segment id="81">sese espalhou entre a garotada.</segment>
+    <segment id="82">As famílias não têm</segment>
+    <segment id="83">comocomo controlar.</segment>
+    <segment id="84">É um comprimidinho que eles colocam no bolso</segment>
+    <segment id="85">, chegam em casa e tomam.</segment>
+    <segment id="86">"</segment>
+    <segment id="87">Na entrevista</segment>
+    <segment id="88">, Drauzio também discorreu sobre os rumos da facção criminosa PCC</segment>
+    <segment id="89">, que neste ano completa 30 anos de existência e que ele viu nascer quando realizava atendimentos no Carandiru.</segment>
+    <segment id="90">Para ele</segment>
+    <segment id="91">, a tese de alguns pesquisadores de que o PCC</segment>
+    <segment id="92">sese transformou num cartel de drogas</segment>
+    <segment id="93">, com grande chance de virar um grupo mafioso</segment>
+    <segment id="94">, já é uma realidade.</segment>
+    <segment id="95">"</segment>
+    <segment id="96">Eles entraram para o ramo das drogas e dominaram.</segment>
+    <segment id="97">O passo seguinte é criar um grupo mafioso</segment>
+    <segment id="98">comocomo na Itália</segment>
+    <segment id="99">, que hoje está presente no mercado imobiliário e em outras áreas.</segment>
+    <segment id="100">Como dominavam o poder político</segment>
+    <segment id="101">, foram criando uma estrutura.</segment>
+    <segment id="102">"</segment>
+    <segment id="103">Na sua opinião</segment>
+    <segment id="104">, o PCC seguirá o mesmo caminho</segment>
+    <segment id="105">, investindo o dinheiro da droga em áreas da economia</segment>
+    <segment id="106">, como</segment>
+    <segment id="107">como transporte coletivo e imóveis.</segment>
+    <segment id="108">Com mais de 30 anos atendendo em centros de detenção</segment>
+    <segment id="109">, Drauzio</segment>
+    <segment id="110">sese recorda o tempo em que o PCC começou "colocando ordem nas cadeias"</segment>
+    <segment id="111">, onde recruta os seus soldados do tráfico.</segment>
+    <segment id="112">"</segment>
+    <segment id="113">Você pega um moleque de 19</segment>
+    <segment id="114">, 20 anos</segment>
+    <segment id="115">, como</segment>
+    <segment id="116">como tantos que eu conheci na cadeia</segment>
+    <segment id="117">, e coloca num xadrez com 30 homens.</segment>
+    <segment id="118">Eles [o PCC] oferecem proteção para o moleque e para a família dele.</segment>
+    <segment id="119">E a sociedade oferece alguma opção?</segment>
+    <segment id="120">Nenhuma.</segment>
+    <segment id="121">"</segment>
+  </rst>
+</analysis>

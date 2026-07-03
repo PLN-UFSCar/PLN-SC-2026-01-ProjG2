@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Investidor pessoa física retira R$ 3</segment>
+    <segment id="2">,7 bi da Bolsa</segment>
+    <segment id="3">Os dados são tão ruins que a BM&amp;FBovespa reviu e vai divulgar em breve um novo prazo para atingir sua meta de atrair cinco milhões de pessoas físicas para a Bolsa</segment>
+    <segment id="4">, número trabalhado com muito simbolismo desde o ano passado.</segment>
+    <segment id="5">O prazo atual para isso ocorrer é 2014.</segment>
+    <segment id="6">Segundo analistas</segment>
+    <segment id="7">, o mau momento do mercado está relacionado principalmente aos problemas da dívida da Grécia.</segment>
+    <segment id="8">Mas lembram que o forte tombo das ações preferenciais (PN</segment>
+    <segment id="9">, sem voto) de Petrobras e Vale</segment>
+    <segment id="10">, xodós dos pequenos investidores</segment>
+    <segment id="11">, tiveram um papel importante nos resultados.</segment>
+    <segment id="12">Os papéis recuam 11</segment>
+    <segment id="13">,33% e 1</segment>
+    <segment id="14">,97% este ano</segment>
+    <segment id="15">, respectivamente.</segment>
+    <segment id="16">Leia a íntegra na edição digital</segment>
+  </rst>
+</analysis>

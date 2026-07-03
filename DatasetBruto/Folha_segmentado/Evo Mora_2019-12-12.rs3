@@ -1,0 +1,121 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O ex-presidente da Bolívia</segment>
+    <segment id="2">, Evo Morales</segment>
+    <segment id="3">, chegou na manhã desta quinta-feira (12) à Argentina e ficará no país na condição de refugiado</segment>
+    <segment id="4">, segundo confirmou o chanceler argentino</segment>
+    <segment id="5">, Felipe Solá.</segment>
+    <segment id="6">Evo viajou num avião venezuelano que havia deixado Cuba na noite anterior —ele estava na ilha caribenha para fazer exames médicos.</segment>
+    <segment id="7">Os trâmites burocráticos em relação à permanência de Evo estão sendo realizados no Ministério do Interior</segment>
+    <segment id="8">, em Buenos Aires.</segment>
+    <segment id="9">A condição</segment>
+    <segment id="10">para que</segment>
+    <segment id="11">para que ele fique no país é</segment>
+    <segment id="12">sese abster de comentários políticos públicos.</segment>
+    <segment id="13">"</segment>
+    <segment id="14">Queremos o compromisso de Evo de não fazer declarações políticas na Argentina"</segment>
+    <segment id="15">, afirmou Solá.</segment>
+    <segment id="16">O ex-presidente da Bolívia</segment>
+    <segment id="17">, Evo Morales</segment>
+    <segment id="18">, durante entrevista à Folha na Cidade do México -Ginnette Riquelme - 28.nov.2019/FolhapressO ex-mandatário boliviano já havia demonstrado intenção de ir à Argentina</segment>
+    <segment id="19">, onde estão também seus dois filhos.</segment>
+    <segment id="20">Ele queria estar fisicamente mais próximo da Bolívia e atuar na liderança de seu partido</segment>
+    <segment id="21">, o MAS (Movimento ao Socialismo)</segment>
+    <segment id="22">, segundo contou em uma entrevista a um programa de TV.</segment>
+    <segment id="23">Naquela ocasião</segment>
+    <segment id="24">, Evo disse que queria estar perto durante o processo eleitoral que deve ocorrer entre março e abril</segment>
+    <segment id="25">, segundo relatou à Folha a chanceler interina da Bolívia</segment>
+    <segment id="26">, Karen Longaric.</segment>
+    <segment id="27">De acordo com o chanceler argentino</segment>
+    <segment id="28">, o governo sabe que Evo fará movimentos políticos e participará de reuniões</segment>
+    <segment id="29">, masmas o combinado é que esses eventos não sejam públicos.</segment>
+    <segment id="30">“A situação da Argentina é complicada e não queremos novos problemas.</segment>
+    <segment id="31">"</segment>
+    <segment id="32">A viagem de Evo foi possível depois da mudança de governo na Argentina</segment>
+    <segment id="33">, com a posse de Alberto Fernández (de centro-esquerda)</segment>
+    <segment id="34">, na terça-feira (10) .</segment>
+    <segment id="35">O ex-presidente chegou de forma discreta à capital argentina</segment>
+    <segment id="36">, acompanhado do ex-vice-presidente</segment>
+    <segment id="37">Álvaro García Linera</segment>
+    <segment id="38">, da ex-ministra Gabriela Montaño e do ex-embaixador da Bolívia na OEA (Organização dos Estados Americanos)</segment>
+    <segment id="39">, José Alberto Gonzales.</segment>
+    <segment id="40">Todos também estavam asilados no México.</segment>
+    <segment id="41">"</segment>
+    <segment id="42">Evo está muito agradecido</segment>
+    <segment id="43">, ele nos disse que</segment>
+    <segment id="44">sese sente melhor aqui do que no México"</segment>
+    <segment id="45">, disse Solá a veículos de comunicação argentinos.</segment>
+    <segment id="46">Em uma rede social</segment>
+    <segment id="47">, o ex-presidente agradeceu aos dois países que o receberam depois de sua renúncia</segment>
+    <segment id="48">, em 10 de novembro.</segment>
+    <segment id="49">"</segment>
+    <segment id="50">Há um mês cheguei ao México</segment>
+    <segment id="51">, país irmão que nos salvou a vida.</segment>
+    <segment id="52">Estava triste e destroçado.</segment>
+    <segment id="53">Agora cheguei à Argentina</segment>
+    <segment id="54">, para seguir lutando pelos mais humildes e para unir a #PátriaGrande</segment>
+    <segment id="55">, estou forte e animado.</segment>
+    <segment id="56">Agradeço ao México e à Argentina por todo seu apoio e solidariedade"</segment>
+    <segment id="57">, postou ele.</segment>
+    <segment id="58">Alberto Fernández e sua vice</segment>
+    <segment id="59">, Cristina Kirchner</segment>
+    <segment id="60">, não reconhecem a legitimidade da presidente interina  da Bolívia</segment>
+    <segment id="61">, Jeanine Añez</segment>
+    <segment id="62">, autoproclamada depois da renúncia de Evo e de sua equipe.</segment>
+    <segment id="63">Ela não foi convidada para a posse do novo governo.</segment>
+    <segment id="64">"</segment>
+    <segment id="65">Para nós</segment>
+    <segment id="66">, na Bolívia há uma ditadura neste momento</segment>
+    <segment id="67">, houve rompimento da institucionalidade"</segment>
+    <segment id="68">, disse Fernández.</segment>
+    <segment id="69">Na Argentina</segment>
+    <segment id="70">, há uma comunidade de mais de 600 mil bolivianos registrados e</segment>
+    <segment id="71">, de maneira informal</segment>
+    <segment id="72">, estima-</segment>
+    <segment id="73">sese que essa população chegue a um milhão.</segment>
+    <segment id="74">As filas na embaixada para votar em dia de eleição boliviana costumam ser bastante grandes.</segment>
+    <segment id="75">Evo Morales</segment>
+    <segment id="76">, ex-presidente da Bolívia</segment>
+    <segment id="77">, em entrevista à Folha   novamente         de   de  de  representando um  No dia 4 de dezembro</segment>
+    <segment id="78">, a OEA divulgou um relatório concluindo que houve “ações deliberadas para manipular os resultados das eleições" de 20 de outubro na Bolívia</segment>
+    <segment id="79">, incluindo alteração e queima de atas de votação e falsificação de assinaturas.</segment>
+    <segment id="80">O texto dos observadores aponta que uma série de “ações e omissões” durante o processo eleitoral “impactaram a certeza</segment>
+    <segment id="81">, a credibilidade e a integridade dos resultados”.</segment>
+    <segment id="82">Após uma auditoria preliminar</segment>
+    <segment id="83">, o secretário-geral da entidade</segment>
+    <segment id="84">, Luis Almagro</segment>
+    <segment id="85">, já havia pedido a anulação do pleito que deu vitória (e o quarto mandato) a Evo Morales.</segment>
+    <segment id="86">Na época</segment>
+    <segment id="87">, ele instou o governo a convocar novas eleições —</segment>
+    <segment id="88">masmas o então presidente renunciou no dia seguinte</segment>
+    <segment id="89">, pressionado pelos militares e pelas manifestações nas ruas.</segment>
+    <segment id="90">Evo foi substituído pela então senadora Jeanine Añez</segment>
+    <segment id="91">, que aproveitou o vácuo de poder e</segment>
+    <segment id="92">sese proclamou presidente</segment>
+    <segment id="93">, masmas sem votação formal no Congresso.</segment>
+    <segment id="94">Desde as eleições</segment>
+    <segment id="95">, o país enfrenta uma onda de protestos que deixaram pelo menos 33 mortos e centenas de feridos.</segment>
+  </rst>
+</analysis>

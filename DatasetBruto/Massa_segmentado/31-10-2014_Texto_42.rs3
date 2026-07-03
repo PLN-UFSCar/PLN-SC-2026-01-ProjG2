@@ -1,0 +1,38 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Presidente da Apple revela que Ã© gay</segment>
+    <segment id="2">O sucessor de Steve Jobs abriu o jogo
+Tim Cook resolveu contar em artigo na revista Bloomberg que Ã© gay.</segment>
+    <segment id="3">A declaraÃ§Ã£o do sucessor de Steves Jobs foi publicada ontem.</segment>
+    <segment id="4">Ele diz que tentou manter a privacidade</segment>
+    <segment id="5">, masmas que ser gay</segment>
+    <segment id="6">Ã© um orgulho.</segment>
+    <segment id="7">Apple jÃ¡</segment>
+    <segment id="8">Ã© uma das companhias mais observadas de perto do mundo</segment>
+    <segment id="9">, e eu gostaria de manter o foco nos produtos.</segment>
+    <segment id="10">"</segment>
+    <segment id="11">Ser gay me deu entendimento do que significa ser minoria e abre uma janela que mostra os desafios que pessoas de outras minorias tÃªm de enfrentar todo dia".</segment>
+  </rst>
+</analysis>

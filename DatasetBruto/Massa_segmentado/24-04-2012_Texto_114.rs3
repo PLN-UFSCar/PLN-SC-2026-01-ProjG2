@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Dupla é presa com armas e drogas</segment>
+    <segment id="2">A dupla foi autuada em flagrante por tráfico de drogas e porte ilegal de arma
+Cleisson dos Santos Reis Souza</segment>
+    <segment id="3">, 20 anos</segment>
+    <segment id="4">, e Felipe Pereira dos Santos</segment>
+    <segment id="5">, 19, foram presos ontem</segment>
+    <segment id="6">, em Jaguaripe</segment>
+    <segment id="7">,  região de Cajazeiras.</segment>
+    <segment id="8">A dupla estava de posse de um  revólver calibre 32</segment>
+    <segment id="9">, municiado</segment>
+    <segment id="10">, cinco pequenas embalagens</segment>
+    <segment id="11">contendo maconha</segment>
+    <segment id="12">, já prontas para venda</segment>
+    <segment id="13">, e R$ 45 reais em espécie.</segment>
+    <segment id="14">A dupla  foi autuada em flagrante por tráfico de drogas e porte ilegal de arma</segment>
+    <segment id="15">, crimes cujas penas variam entre sete e 19 anos de prisão.</segment>
+    <segment id="16">Cleisson e Felipe vinham sendo investigados há um mês</segment>
+    <segment id="17">, por envolvimento com o tráfico.</segment>
+  </rst>
+</analysis>

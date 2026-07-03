@@ -1,0 +1,47 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Exames descartam malária e meningite e Zico tem alta de hospital
+RIO - Depois de dar entrada em um hospital da Zona Oeste do Rio com fortes dores de cabeça</segment>
+    <segment id="2">, febre e náuseas</segment>
+    <segment id="3">, Zico teve alta no começo da noite deste sábado.</segment>
+    <segment id="4">Uma bateria de exames descartou a possibilidade de meningite e malária - que eram as primeiras preocupações dos médicos</segment>
+    <segment id="5">, já que um dos netos do ex-jogador está com meninginte.</segment>
+    <segment id="6">Como o ex-jogador esteve recentemente em Cuiabá</segment>
+    <segment id="7">, também havia o risco de ter contraído malária.</segment>
+    <segment id="8">O médico particular de Zico</segment>
+    <segment id="9">, Pedro Cirillo</segment>
+    <segment id="10">, confirmou apenas uma infecção viral e ele vai poder seguir o acompanhamento médico em casa.
+
+- Recebi mensagens de muita gente</segment>
+    <segment id="11">, até de fora do país.</segment>
+    <segment id="12">Estou bem.</segment>
+    <segment id="13">A precaução foi maior por causa do problema com meu neto e</segment>
+    <segment id="14">porque</segment>
+    <segment id="15">porque estivemos juntos por muito tempo nos EUA</segment>
+    <segment id="16">, masmas está tudo bem.</segment>
+    <segment id="17">Vou seguir sendo acompanhado em casa</segment>
+    <segment id="18">, farei exame de sangue neste domingo e na semana que vem já retomo a minha vida normal - disse Zico em nota publicada em seu site.</segment>
+  </rst>
+</analysis>

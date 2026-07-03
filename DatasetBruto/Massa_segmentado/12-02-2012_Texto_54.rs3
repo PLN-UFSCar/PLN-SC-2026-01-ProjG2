@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Carneiro e veado fêmea vão</segment>
+    <segment id="2">sese casar</segment>
+    <segment id="3">Os animais vão</segment>
+    <segment id="4">sese casar no dia dos namorados em Yunnan</segment>
+    <segment id="5">, na China</segment>
+    <segment id="6">O zoológico de Kumming</segment>
+    <segment id="7">, na província chinesa de Yunnan</segment>
+    <segment id="8">, anunciou que vai “casar” o carneiro Changmao com a fêmea de veado Chunzi hoje</segment>
+    <segment id="9">, dia em que é comemorado o Dia dos Namorados no país.</segment>
+    <segment id="10">Carneiro domina veados
+Changmao e Chunzi resistiram a todas as tentativas de separá-los.</segment>
+    <segment id="11">Segundo o parque</segment>
+    <segment id="12">, Changmao</segment>
+    <segment id="13">sese integrou ao bando de veados e virou o macho dominante.</segment>
+  </rst>
+</analysis>

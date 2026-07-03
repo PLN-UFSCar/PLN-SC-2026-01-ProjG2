@@ -1,0 +1,96 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo Luiz Inácio Lula da Silva (PT) anunciará o reajuste nas bolsas de pós-graduação e pesquisa pagas pelos órgãos de fomento do governo federal.</segment>
+    <segment id="2">O aumento para benefícios de mestrado e doutorado será de 40%.</segment>
+    <segment id="3">A ampliação do valor das bolsas foi uma promessa de campanha do petista.</segment>
+    <segment id="4">Há expectativa de que ele faça o anúncio dos reajustes nesta quinta-feira (16).</segment>
+    <segment id="5">No mestrado</segment>
+    <segment id="6">, a bolsa passará de R$ 1.500 para R$ 2.100 mensais e</segment>
+    <segment id="7">, no doutorado</segment>
+    <segment id="8">, de R$ 2.200 para R$ 3.100.</segment>
+    <segment id="9">Faculdade de Arquitetura e Urbanismo da USP</segment>
+    <segment id="10">, em São Paulo - Carolina Daffara - 5.dez.19/Folhapress</segment>
+    <segment id="11">Os auxílios também vão aumentar para bolsas de pesquisadores no pós-doutorado.</segment>
+    <segment id="12">Subirão de R$ 4.100 para R$ 5.200.</segment>
+    <segment id="13">A Capes (Coordenação de Aperfeiçoamento de Pessoal de Nível Superior) tem ativos</segment>
+    <segment id="14">, no total</segment>
+    <segment id="15">, 99 mil bolsistas na pós-graduação.</segment>
+    <segment id="16">Destes</segment>
+    <segment id="17">, 44 mil são de mestrado</segment>
+    <segment id="18">, outros 51 mil</segment>
+    <segment id="19">, de doutorado e 4.400</segment>
+    <segment id="20">, de pós-doutorado.</segment>
+    <segment id="21">Ligada ao MEC (Ministério da Educação)</segment>
+    <segment id="22">, a Capes é responsável pela regulação e fomento da pós-graduação brasileira.</segment>
+    <segment id="23">Os valores das bolsas não eram reajustados desde 2013.</segment>
+    <segment id="24">Caso fosse aplicada a inflação do período</segment>
+    <segment id="25">, as bolsas de mestrado e doutorado deveriam passar por um reajuste de 72%</segment>
+    <segment id="26">para que</segment>
+    <segment id="27">para que o poder de compra fosse o mesmo de 2013.</segment>
+    <segment id="28">Também serão reajustados os valores das bolsas fornecidas pelo CNPq (Conselho Nacional de Desenvolvimento Científico e Tecnológico)</segment>
+    <segment id="29">, nos mesmos moldes.</segment>
+    <segment id="30">O órgão</segment>
+    <segment id="31">, do Ministério da Ciência</segment>
+    <segment id="32">, Tecnologia e Inovação</segment>
+    <segment id="33">, reúne cerca de 77 mil pesquisadores bolsistas.</segment>
+    <segment id="34">Durante o governo Jair Bolsonaro (PL)</segment>
+    <segment id="35">, houve redução de número de bolsas</segment>
+    <segment id="36">, mudanças em áreas prioritárias e atrasos de pagamentos.</segment>
+    <segment id="37">No fim da gestão</segment>
+    <segment id="38">, no entanto</segment>
+    <segment id="39">, houve recuperação no volume de bolsas concedidas</segment>
+    <segment id="40">, que ficou praticamente estável à realidade de 2018</segment>
+    <segment id="41">, último ano do governo Michel Temer (MDB).</segment>
+    <segment id="42">O atual governo afirma que vai recompor a quantidade de bolsas oferecidas.</segment>
+    <segment id="43">No caso</segment>
+    <segment id="44">caso do mestrado</segment>
+    <segment id="45">, por exemplo</segment>
+    <segment id="46">, em 2015 havia 58</segment>
+    <segment id="47">,6 mil bolsas</segment>
+    <segment id="48">, número que caiu para 48</segment>
+    <segment id="49">,7 mil em 2022</segment>
+    <segment id="50">, redução de quase 17%.</segment>
+    <segment id="51">Agora, a estimativa é de que sejam ofertadas 53</segment>
+    <segment id="52">,6 mil.</segment>
+    <segment id="53">Os alunos de iniciação científica no ensino médio também vão ser contemplados.</segment>
+    <segment id="54">Serão 53 mil bolsas para estimular jovens estudantes a</segment>
+    <segment id="55">sese dedicar à pesquisa e à produção de ciência que vão passar de R$ 100 para R$ 300.</segment>
+    <segment id="56">As bolsas para formação de professores da educação básica terão reajuste entre 40% e 75%.</segment>
+    <segment id="57">Em 2023</segment>
+    <segment id="58">, haverá 125</segment>
+    <segment id="59">,7 mil bolsas para preparar melhor os professores</segment>
+    <segment id="60">, peça central na elevação da qualidade do ensino básico.</segment>
+    <segment id="61">Atualmente</segment>
+    <segment id="62">, os valores dos repasses variam de R$ 400 a R$ 1.500.</segment>
+    <segment id="63">A Bolsa Permanência terá o primeiro reajuste desde que foi criada</segment>
+    <segment id="64">, em 2013.</segment>
+    <segment id="65">O auxílio financeiro é voltado a estudantes quilombolas</segment>
+    <segment id="66">, indígenas e em situação de vulnerabilidade socioeconômica matriculados em instituições federais de ensino superior.</segment>
+    <segment id="67">A intenção é contribuir para a permanência e diplomação dos beneficiários.</segment>
+    <segment id="68">Os percentuais de aumento vão variar de 55% a 75%.</segment>
+    <segment id="69">Atualmente</segment>
+    <segment id="70">, os valores vão de R$ 400 a R$ 900.</segment>
+  </rst>
+</analysis>

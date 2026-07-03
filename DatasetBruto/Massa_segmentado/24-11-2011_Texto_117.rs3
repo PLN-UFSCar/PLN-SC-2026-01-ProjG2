@@ -1,0 +1,48 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Detro apreende 76 ônibus
+RIO - Equipes do Departamento de Transportes Rodoviários (Detro) realizaram nesta quinta-feira</segment>
+    <segment id="2">, entre 6h e 10h</segment>
+    <segment id="3">, uma fiscalização em 12 terminais da Região Metropolitana e do interior do estado.</segment>
+    <segment id="4">A ação teve</segment>
+    <segment id="5">comocomo objetivo verificar as condições dos serviços prestados pelas empresas de ônibus intermunicipais.</segment>
+    <segment id="6">Foram recolhidos 76 coletivos por mau estado de conservação</segment>
+    <segment id="7">, falta de selo de vistoria e alteração de característica (ônibus rodoviário com roleta)</segment>
+    <segment id="8">, nos terminais da Praça Quinze</segment>
+    <segment id="9">; Américo Fontenelle</segment>
+    <segment id="10">; Menezes Côrtes</segment>
+    <segment id="11">; João Goulart</segment>
+    <segment id="12">, em Niterói</segment>
+    <segment id="13">; de Alcântara</segment>
+    <segment id="14">; de Campo Grande</segment>
+    <segment id="15">; de Duque de Caxias</segment>
+    <segment id="16">, na Baixada Fluminense</segment>
+    <segment id="17">; de Petrópolis</segment>
+    <segment id="18">, na Região Serrana</segment>
+    <segment id="19">; de Campos dos Goytacazes</segment>
+    <segment id="20">, no norte do estado</segment>
+    <segment id="21">; e no de Macaé.</segment>
+  </rst>
+</analysis>

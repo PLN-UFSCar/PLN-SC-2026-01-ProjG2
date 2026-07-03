@@ -1,0 +1,219 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo brasileiro vem pressionando os países ricos a darem mais dinheiro para a proteção da floresta amazônica.</segment>
+    <segment id="2">Preservar a mata tropical é crucial para reduzir as mudanças climáticas</segment>
+    <segment id="3">, e há certo consenso na comunidade internacional de que as nações que poluíram mais o planeta têm mais responsabilidade em pagar essa conta.</segment>
+    <segment id="4">A questão é</segment>
+    <segment id="5">comocomo viabilizar isso.</segment>
+    <segment id="6">Iniciativas globais</segment>
+    <segment id="7">, como</segment>
+    <segment id="8">como o Fundo Verde do Clima</segment>
+    <segment id="9">, têm demorado para decolar diante da falta de doações dos países ricos.</segment>
+    <segment id="10">Esse fundo tem em seu escopo 148 países e até agora autorizou a destinação de US$ 12</segment>
+    <segment id="11">,8 bilhões (R$ 62 bilhões)</segment>
+    <segment id="12">, o que dá uma média de R$ 419 milhões por país.</segment>
+    <segment id="13">É pouco.</segment>
+    <segment id="14">O Brasil conta desde 2008 com um fundo próprio para atrair doações destinadas à proteção da floresta: o Fundo Amazônia.</segment>
+    <segment id="15">Seus recursos já alcançaram R$ 5</segment>
+    <segment id="16">,7 bilhões</segment>
+    <segment id="17">, e outros R$ 3</segment>
+    <segment id="18">,4 bilhões já foram prometidos em novas doações</segment>
+    <segment id="19">, totalizando R$ 9</segment>
+    <segment id="20">,1 bilhões.</segment>
+    <segment id="21">Isso equivale a duas vezes e meia o orçamento do Ministério do Meio Ambiente proposto para 2024.</segment>
+    <segment id="22">Áreas de pastagem degradada na floresta amazônica</segment>
+    <segment id="23">, na região da bacia do rio Tapajós</segment>
+    <segment id="24">, no estado do Pará - Pedro Ladeira - 17.fev.2022/FolhapressO Fundo Amazônia foi paralisado em 2019 depois que o governo Jair Bolsonaro tentou alterar a sua estrutura de governança</segment>
+    <segment id="25">, ferindo o estatuto do fundo.</segment>
+    <segment id="26">Neste ano</segment>
+    <segment id="27">, ele foi reativado e é uma das apostas do governo de Luiz Inácio Lula da Silva para financiar a preservação da floresta e o incentivo a atividades produtivas sustentáveis na região.</segment>
+    <segment id="28">A gestão do fundo é realizada pelo BNDES (Banco Nacional de Desenvolvimento Econômico e Social).</segment>
+    <segment id="29">A DW entrevistou Nabil Kadri</segment>
+    <segment id="30">, superintendente a área de meio ambiente do BNDES</segment>
+    <segment id="31">, responsável pela gestão do Fundo Amazônia</segment>
+    <segment id="32">, para detalhar o cenário atual e projeções futuras do instrumento.</segment>
+    <segment id="33">Kadri participou nesta quinta-feira (14) em Berlim de um ciclo de debates sobre a Amazônia organizado pela embaixada brasileira na Alemanha.</segment>
+    <segment id="34">Uma das prioridades do evento foi reforçar a mensagem de que a proteção da floresta depende da geração de atividades econômicas sustentáveis na região.</segment>
+    <segment id="35">De onde vem o dinheiro?</segment>
+    <segment id="36">No final de 2022</segment>
+    <segment id="37">, o Fundo Amazônia alcançou a cifra de R$ 5</segment>
+    <segment id="38">,7 bilhões.</segment>
+    <segment id="39">Nessa soma</segment>
+    <segment id="40">, estão R$ 3</segment>
+    <segment id="41">,3 bilhões de doações e R$ 2</segment>
+    <segment id="42">,4 bilhões de rendimentos da aplicação dos recursos não utilizados.</segment>
+    <segment id="43">Dos R$ 3</segment>
+    <segment id="44">,3 bilhões doados</segment>
+    <segment id="45">, 93,8% vieram do governo da Noruega</segment>
+    <segment id="46">, 5,7% do governo da Alemanha e 0</segment>
+    <segment id="47">,5% da Petrobras.</segment>
+    <segment id="48">As doações são vinculadas à redução do desmatamento no Brasil.</segment>
+    <segment id="49">Até agora</segment>
+    <segment id="50">, o fundo liberou R$ 1</segment>
+    <segment id="51">,5 bilhão para 102 projetos</segment>
+    <segment id="52">, e R$ 200 milhões já foram aprovados e estão em fase de desembolso.</segment>
+    <segment id="53">Portanto</segment>
+    <segment id="54">, há no momento R$ 4 bilhões sem destinação.</segment>
+    <segment id="55">Após a vitória eleitoral de Lula no final de 2022 e a sinalização de que o fundo seria reativado</segment>
+    <segment id="56">, novas doações foram anunciadas: 35 milhões de euros da Alemanha</segment>
+    <segment id="57">, US$ 500 milhões dos Estados Unidos</segment>
+    <segment id="58">, 20 milhões de euros da União Europeia</segment>
+    <segment id="59">, 80 milhões de libras do Reino Unido</segment>
+    <segment id="60">, 5 milhões de francos suíços da Suíça e 150 milhões de coroas dinamarquesas da Dinamarca.</segment>
+    <segment id="61">Essas novas doações anunciadas somam cerca de R$ 3</segment>
+    <segment id="62">,4 bilhões —e ainda não chegaram ao fundo.</segment>
+    <segment id="63">Somado o valor hoje disponível no fundo mais as doações recém-anunciadas</segment>
+    <segment id="64">, seriam R$ 7</segment>
+    <segment id="65">,4 bilhões disponíveis.</segment>
+    <segment id="66">Ibama faz operação contra desmatamento no ParáMais    novamente         de   de  de  representando um  Quais são os planos do governo?</segment>
+    <segment id="67">Os recursos do fundo podem ser destinados a projetos realizados por associações civis ou a ações de governos estaduais e do governo federal.</segment>
+    <segment id="68">Em fevereiro</segment>
+    <segment id="69">, o BNDES retomou a análise de 14 dos projetos que estavam represados</segment>
+    <segment id="70">, no valor de R$ 500 milhões</segment>
+    <segment id="71">, ainda não aprovados.</segment>
+    <segment id="72">Mas a principal aposta do governo Lula para acelerar o uso dos recursos é utilizá-los no plano de ação para a prevenção e controle do desmatamento na Amazônia</segment>
+    <segment id="73">, o PPCDAm</segment>
+    <segment id="74">, lançado em junho.</segment>
+    <segment id="75">"</segment>
+    <segment id="76">Temos uma demanda bastante significativa de apoio ao PPCDAm"</segment>
+    <segment id="77">, disse Kadri.</segment>
+    <segment id="78">Uma das ações do PPCDAm é destinar R$ 600 milhões do fundo a municípios hoje campeões de desmatamento que</segment>
+    <segment id="79">sese comprometerem com a redução da derrubada da floresta.</segment>
+    <segment id="80">Os recursos serão destinados ao longo de 2023</segment>
+    <segment id="81">, 2024 e 2025</segment>
+    <segment id="82">, de acordo com a performance de cada município na redução do desmatamento</segment>
+    <segment id="83">, e deverão ser utilizados em medidas ambientais e de regularização fundiária.</segment>
+    <segment id="84">O PCCDAm também prevê usar recursos do fundo para articular a produção sustentável de alimentos na Amazônia ao fornecimento de merenda para escolas públicas da região</segment>
+    <segment id="85">, entre outras iniciativas.</segment>
+    <segment id="86">Uma proposta controversa para o uso do Fundo Amazônia foi feita no final de agosto pelo ministro dos Transportes</segment>
+    <segment id="87">, Renan Filho: asfaltar um trecho daBR-319</segment>
+    <segment id="88">, que conecta Manaus a Porto Velho —um projeto que a ministra do Meio Ambiente</segment>
+    <segment id="89">, Marina Silva</segment>
+    <segment id="90">, aponta</segment>
+    <segment id="91">comocomo de "altíssimo</segment>
+    <segment id="92">" impacto ambiental.</segment>
+    <segment id="93">Kadri diz que o BNDES ainda não recebeu nenhum projeto nesse sentido e que desconhece o conteúdo da proposta.</segment>
+    <segment id="94">Como o fundo já provoca impacto?</segment>
+    <segment id="95">A DW selecionou em conjunto com o BNDES cinco projetos do Fundo Amazônia que dão exemplos práticos de</segment>
+    <segment id="96">comocomo os recursos podem ser utilizados</segment>
+    <segment id="97">, envolvendo diferentes atores</segment>
+    <segment id="98">, como</segment>
+    <segment id="99">como povos indígenas</segment>
+    <segment id="100">, associações de extrativistas</segment>
+    <segment id="101">, governos estaduais e governo federal.  1)</segment>
+    <segment id="102">Fortalecimento do Ibama para combater incêndios</segment>
+    <segment id="103">A posse do atual presidente do Ibama</segment>
+    <segment id="104">, Rodrigo Agostinho</segment>
+    <segment id="105">, em fevereiro</segment>
+    <segment id="106">, coincidiu com a conclusão de um projeto de nove anos do Fundo Amazônia para a estruturação de um centro do órgão para prevenção e combate a incêndios</segment>
+    <segment id="107">, o Prevfogo.</segment>
+    <segment id="108">No total</segment>
+    <segment id="109">, o fundo destinou R$ 14</segment>
+    <segment id="110">,6 milhões ao projeto</segment>
+    <segment id="111">, o que abrangeu a compra de caminhões adaptados</segment>
+    <segment id="112">, equipamentos de combate a incêndio e sistemas de comunicação e a construção de um prédio de dois andares com área administrativa</segment>
+    <segment id="113">, sala de situação</segment>
+    <segment id="114">, almoxarifado e oficina de veículos</segment>
+    <segment id="115">, entre outros.</segment>
+    <segment id="116">Uma avaliação independente realizada sobre o projeto mostrou</segment>
+    <segment id="117">, segundo Kadri</segment>
+    <segment id="118">, que áreas que tiveram o apoio do fundo registraram redução de focos de incêndio superior à de áreas não cobertas pelo projeto</segment>
+    <segment id="119">, no período de 2013 a 2019.Queimadas na Amazônia cobrem de fumaça cidades no AmazonasMais    novamente         de   de  de  representando um  2)</segment>
+    <segment id="120">Apoio ao povo indígena ashaninka na produção de polpa de frutas</segment>
+    <segment id="121">O povo indígena ashaninka vive na divisa entre o estado do Acre e o Peru.</segment>
+    <segment id="122">No Brasil</segment>
+    <segment id="123">, a maioria deles está na Terra Indígena Kampa do Rio Amônea</segment>
+    <segment id="124">, e tem um histórico de enfrentamento do desmatamento na região.</segment>
+    <segment id="125">O projeto destinou R$ 6</segment>
+    <segment id="126">,6 milhões de 2015 a 2018 para a associação do povo indígena desenvolver sua produção agroflorestal</segment>
+    <segment id="127">, especialmente de frutas típicas da região</segment>
+    <segment id="128">, e proteger o território.</segment>
+    <segment id="129">Os recursos do fundo financiaram a criação de um viveiro e banco de sementes para a produção de mudas</segment>
+    <segment id="130">, a elaboração de um plano de um manejo</segment>
+    <segment id="131">, a construção de instalações para o processamento das sementes e das frutas</segment>
+    <segment id="132">, a compra de uma barcaça refrigerada para transporte das frutas e a capacitação em marketing e comunicação de membros do povo ashaninka.</segment>
+    <segment id="133">"</segment>
+    <segment id="134">Foi o primeiro projeto de uma associação indígena que teve um contrato assinado diretamente com o BNDES"</segment>
+    <segment id="135">, diz Kadri</segment>
+    <segment id="136">, que menciona que a venda de polpa de frutas congeladas é hoje uma das principais fontes de renda dos ashaninkas.  3)</segment>
+    <segment id="137">Melhoria das condições das quebradeiras de coco babaçu</segment>
+    <segment id="138">A coleta e quebra do coco babaçu é uma atividade extrativista historicamente realizada por mulheres</segment>
+    <segment id="139">, organizadas em um movimento interestadual desde a década de 90.</segment>
+    <segment id="140">O babaçu tem grande versatilidade e resulta em até 20 subprodutos —suas amêndoas podem ser transformadas em farinha</segment>
+    <segment id="141">, e sua casca pode virar combustíveis.</segment>
+    <segment id="142">O projeto receberá R$ 9</segment>
+    <segment id="143">,2 milhões</segment>
+    <segment id="144">, dos quais pouco mais da metade já foi desembolsado</segment>
+    <segment id="145">, para atividades em cidades do Maranhão</segment>
+    <segment id="146">, Tocantins e Pará.</segment>
+    <segment id="147">Quebradeiras criam Consórcio Babaçu Livre para alcançar mercado mundialMais    novamente         de   de  de  representando um</segment>
+    <segment id="148">Os recursos criaram um fundo à parte</segment>
+    <segment id="149">, gerido pela associação das quebradeiras</segment>
+    <segment id="150">, que destina verbas a projetos menores</segment>
+    <segment id="151">, apresentados pela comunidade e selecionados por meio de editais.</segment>
+    <segment id="152">Esse formato</segment>
+    <segment id="153">, diz Kadri</segment>
+    <segment id="154">, permite que iniciativas que não teriam estrutura para obter recursos diretamente do BNDES consigam acessar os recursos do Fundo Amazônia.</segment>
+    <segment id="155">O objetivo é melhorar as condições de trabalho e de vida das quebradeiras de coco</segment>
+    <segment id="156">, com miniusinas para beneficiamento de palha ou extração de óleo.  4)</segment>
+    <segment id="157">Produção sustentável na Ponta do Rio Abunã</segment>
+    <segment id="158">A área do projeto é a tríplice divisa entre Acre</segment>
+    <segment id="159">, Amazonas e Rondônia</segment>
+    <segment id="160">, uma região de muitos conflitos agrários e desafios ambientais.</segment>
+    <segment id="161">Quatro associações locais receberam recursos para desenvolver diversas atividades sustentáveis</segment>
+    <segment id="162">, como</segment>
+    <segment id="163">como a produção de cupuaçu</segment>
+    <segment id="164">, açaí</segment>
+    <segment id="165">, pupunha e óleos vegetais</segment>
+    <segment id="166">, entre outros.</segment>
+    <segment id="167">Foram destinados R$ 6</segment>
+    <segment id="168">,4 milhões do fundo</segment>
+    <segment id="169">, de 2015 a 2017</segment>
+    <segment id="170">, para estruturar unidades de processamento de frutas com máquinas apropriadas</segment>
+    <segment id="171">, câmaras frias</segment>
+    <segment id="172">, área de secagem e extração de óleo</segment>
+    <segment id="173">, por exemplo.</segment>
+    <segment id="174">As associações envolvidas desenvolveram uma integração exemplar com cadeias produtivas maiores</segment>
+    <segment id="175">, diz Kadri</segment>
+    <segment id="176">, e hoje vendem seus produtos a grandes empresas de cosméticos e alimentos.</segment>
+    <segment id="177">Projetos dependem da floresta em pé para gerar lucro na AmazôniaMais    novamente         de   de  de  representando um  5)</segment>
+    <segment id="178">Combate ao desmatamento no Acre  Neste</segment>
+    <segment id="179">casocaso</segment>
+    <segment id="180">, o Fundo Amazônia apoiou diretamente o governo do Acre para melhorar sua capacidade de reduzir a derrubada de floresta.</segment>
+    <segment id="181">Foram R$ 53 milhões</segment>
+    <segment id="182">, desembolsados até 2019</segment>
+    <segment id="183">, para a compra de sistemas de monitoramento e controle</segment>
+    <segment id="184">, treinamento de funcionários para análise de imagens de radar e promoção de práticas sustentáveis.</segment>
+    <segment id="185">O projeto também beneficiou o Imac (Instituto do Meio Ambiente do Acre)</segment>
+    <segment id="186">, do governo estadual</segment>
+    <segment id="187">, com reforma de sua sede e aquisição de mobiliário</segment>
+    <segment id="188">, computadores e veículos</segment>
+    <segment id="189">, e envolveu a articulação de diversas secretarias estaduais.</segment>
+    <segment id="190">"</segment>
+    <segment id="191">O combate ao desmatamento necessita da coordenação de esforços</segment>
+    <segment id="192">, e o projeto no Acre demonstrou essa potencialidade"</segment>
+    <segment id="193">, diz Kadri.</segment>
+  </rst>
+</analysis>

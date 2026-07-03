@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">'Madagascar 3' lidera as bilheterias americanas
+RIO - As estreias desta semana não conseguiram deter os animais de "</segment>
+    <segment id="2">Madagascar 3: os procurados".</segment>
+    <segment id="3">A animação mais uma vez liderou a bilheteria americana neste fim de semana</segment>
+    <segment id="4">, ficando na frente das estreias "Rock of Ages" e "</segment>
+    <segment id="5">That´s my boy".</segment>
+    <segment id="6">"</segment>
+    <segment id="7">Madagascar 3" arrecadou US$ 120.5 milhões durante dez dias e deve chegar aos US$ 180 milhões</segment>
+    <segment id="8">, só nos Estados Unidos.</segment>
+    <segment id="9">No resto do mundo</segment>
+    <segment id="10">, o filme somou US$ 278 milhões</segment>
+    <segment id="11">, e provavelmente totalizará cerca de US$ 600 milhões.</segment>
+    <segment id="12">"Prometheus" de Ridley Scott garantiu o segundo posto no ranking pela segunda semana consecutiva.</segment>
+    <segment id="13">A ficção científica da Fox acumulou US$ 88.9 milhões nos últimos 10 dias.</segment>
+    <segment id="14">A terceira posição foi ocupada pela adaptação da peça da Broadway</segment>
+    <segment id="15">, "Rock of Ages"</segment>
+    <segment id="16">, que era favorita ao primeiro lugar.</segment>
+    <segment id="17">A produção arrecadou apenas US$ 15.1 milhões em seu fim de semana de estreia.</segment>
+  </rst>
+</analysis>

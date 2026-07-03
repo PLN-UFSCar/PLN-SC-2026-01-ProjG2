@@ -1,0 +1,52 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">De acordo com o estudo "Desigualdade Racial nas Eleições Brasileiras"</segment>
+    <segment id="2">, candidatos brancos têm pelo menos o dobro de chance de serem eleitos deputado federal ou estadual na comparação com candidatos negros (pretos e pardos).</segment>
+    <segment id="3">Feito pelos economistas</segment>
+    <segment id="4">Sergio Firpo</segment>
+    <segment id="5">, Michael França</segment>
+    <segment id="6">, Alysson Portella e Rafael Tavares</segment>
+    <segment id="7">, pesquisadores do Núcleo de Estudos Raciais do Insper</segment>
+    <segment id="8">,</segment>
+    <segment id="9">o trabalho mostra</segment>
+    <segment id="10">, por exemplo</segment>
+    <segment id="11">, que houve 3.117 candidatos negros disputando uma vaga na Câmara em 2018.</segment>
+    <segment id="12">A Deputada Federal</segment>
+    <segment id="13">, Silvia Cristina</segment>
+    <segment id="14">, PL, no Congresso Nacional - Gabriela Biló/FolhapressNos gráficos abaixo é possível ver que a taxa de sucesso é muito maior entre os brancos tanto na Câmara dos Deputados</segment>
+    <segment id="15">comocomo nas Assembleias Legislativas.</segment>
+    <segment id="16">Ou seja</segment>
+    <segment id="17">, embora</segment>
+    <segment id="18">embora exista algum equilíbrio racial nas candidaturas</segment>
+    <segment id="19">, os negros estão sub-representados entre os eleitos.</segment>
+    <segment id="20">Os dados também mostram que</segment>
+    <segment id="21">, em quase todos os estados</segment>
+    <segment id="22">, o número de deputados federais negros é menor do que seria esperado levando-</segment>
+    <segment id="23">sese em conta a divisão racial.</segment>
+    <segment id="24">  Candidatos  Eleitos</segment>
+    <segment id="25">Alguns dos deputados federais negros eleitos na última legislaturaMais    novamente         de   de  de  representando</segment>
+    <segment id="26">um</segment>
+  </rst>
+</analysis>

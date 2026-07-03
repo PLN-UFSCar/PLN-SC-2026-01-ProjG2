@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Hebe passa por cirurgia</segment>
+    <segment id="2">, masmas está bem</segment>
+    <segment id="3">A apresentadora passou por uma operação de urgência no domingo para retirar um tumor</segment>
+    <segment id="4">A apresentadora passou por uma operação de urgência no domingo para retirar um tumor no intestino.</segment>
+    <segment id="5">Segundo seu filho</segment>
+    <segment id="6">, Marcelo Camargo</segment>
+    <segment id="7">, “não há metástase e ela não vai precisar fazer quimioterapia”.</segment>
+    <segment id="8">Segundo boletim médico do hospital Albert Einstein</segment>
+    <segment id="9">, em São Paulo</segment>
+    <segment id="10">, Hebe Camargo passa bem</segment>
+    <segment id="11">, em condição estável</segment>
+    <segment id="12">, recebe visita apenas dos familiares e já</segment>
+    <segment id="13">sese levantou da cama.</segment>
+  </rst>
+</analysis>

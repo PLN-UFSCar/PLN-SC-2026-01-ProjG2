@@ -1,0 +1,84 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Sabemos hoje que o sentido do número desempenha um importante papel na luta pela sobrevivência.</segment>
+    <segment id="2">A prova disso é que</segment>
+    <segment id="3">, em graus variáveis</segment>
+    <segment id="4">, esse sentido está presente nas mais variadas espécies de animais: mamíferos</segment>
+    <segment id="5">, aves</segment>
+    <segment id="6">, répteis</segment>
+    <segment id="7">, anfíbios</segment>
+    <segment id="8">, peixes</segment>
+    <segment id="9">, insetos</segment>
+    <segment id="10">, e até seres microscópicos.</segment>
+    <segment id="11">Mesmo espécies muito simples conseguem identificar números (pequenos) individuais.</segment>
+    <segment id="12">Num experimento</segment>
+    <segment id="13">, abelhas foram colocadas dentro de um tubo com um compartimento em cada ponta: um contendo água com açúcar</segment>
+    <segment id="14">, o outro vazio.</segment>
+    <segment id="15">Cada compartimento estava marcado com um número diferente</segment>
+    <segment id="16">, entre 2 e 6</segment>
+    <segment id="17">, de formas geométricas.</segment>
+    <segment id="18">As abelhas aprenderam</segment>
+    <segment id="19">, rapidamente</segment>
+    <segment id="20">, a identificar o número de formas do compartimento com água adoçada</segment>
+    <segment id="21">, até um máximo de 4: com 5 ou 6 formas elas já</segment>
+    <segment id="22">sese confundiam.</segment>
+    <segment id="23">Ainda mais surpreendente</segment>
+    <segment id="24">, muitas espécies animais conseguem fazer operações aritméticas</segment>
+    <segment id="25">, como</segment>
+    <segment id="26">como a adição e a subtração</segment>
+    <segment id="27">, e até chegar ao conceito de "zero".</segment>
+    <segment id="28">Um chimpanzé descansa no zoológico nacional da Malásia</segment>
+    <segment id="29">, em Kuala Lumpur - Mohd Rasfan - 23.ago.2023/AFPMacacos selvagens observaram cientistas colocarem pedaços de pão numa caixa fechada e</segment>
+    <segment id="30">, depois</segment>
+    <segment id="31">, em momentos distintos</segment>
+    <segment id="32">, retirarem alguns dos pedaços da caixa.</segment>
+    <segment id="33">Os macacos não podiam ver quantos pedaços ainda restavam dentro.</segment>
+    <segment id="34">Assim mesmo</segment>
+    <segment id="35">, continuaram</segment>
+    <segment id="36">sese aproximando da caixa até que o último pedaço de pão foi retirado e ela ficou vazia.</segment>
+    <segment id="37">A única explicação parece ser que subtraíram as retiradas do quantitativo inicial</segment>
+    <segment id="38">, até a conta chegar em zero!</segment>
+    <segment id="39">Experimentos semelhantes foram feitos com corvos</segment>
+    <segment id="40">, e até com pintinhos de galinha</segment>
+    <segment id="41">, com resultados parecidos.</segment>
+    <segment id="42">Chimpanzés são particularmente dotados para os números.</segment>
+    <segment id="43">Sabemos que podem ser ensinados a identificar grupos de objetos com o respectivo numeral escrito</segment>
+    <segment id="44">comocomo algarismo árabe —três círculos com o algarismo 3</segment>
+    <segment id="45">, cinco quadrados com o algarismo 5</segment>
+    <segment id="46">, etc— e até a colocar esses algarismos em ordem.</segment>
+    <segment id="47">Na Universidade de Quioto</segment>
+    <segment id="48">, no Japão</segment>
+    <segment id="49">, os algarismos de 1 a 9 foram exibidos na tela durante 210 milissegundos (a duração de um piscar de olhos médio)</segment>
+    <segment id="50">, e logo ocultados por quadrados brancos.</segment>
+    <segment id="51">Todos os jovens chimpanzés participando no experimento foram capazes de tocar nesses quadrados sequencialmente</segment>
+    <segment id="52">, na ordem crescente dos algarismos!</segment>
+    <segment id="53">Agora, não vale a pena tentar fazer isso em casa: humanos não conseguem!</segment>
+    <segment id="54">Parece que</segment>
+    <segment id="55">, nos seis milhões de anos desde que o Homo sapiens</segment>
+    <segment id="56">sese separou do chimpanzé</segment>
+    <segment id="57">, os nossos cérebros evoluíram de modos diferentes: perdemos a incrível memória numérica dos nossos primos mais chegados</segment>
+    <segment id="58">, masmas talvez esse tenha sido o preço para descobrirmos o teorema de Pitágoras!</segment>
+  </rst>
+</analysis>

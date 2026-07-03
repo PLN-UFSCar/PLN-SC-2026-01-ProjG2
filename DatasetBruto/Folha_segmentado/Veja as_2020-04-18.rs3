@@ -1,0 +1,181 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Desde o início da pandemia de Covid-19</segment>
+    <segment id="2">, mais de cem testes diferentes de vacinas contra o vírus causador da doença foram anunciados mundo afora —e pelo menos cinco dessas possíveis imunizações já estão sendo avaliadas em pacientes humanos.</segment>
+    <segment id="3">A velocidade do processo em diferentes países supera tudo o que já foi visto até hoje na área de desenvolvimento de vacinas</segment>
+    <segment id="4">, normalmente um processo demorado e trabalhoso que envolve várias rodadas de testes em animais e avaliações de toxicidade antes das três fases obrigatórias de testes clínicos com pessoas.</segment>
+    <segment id="5">Diante da emergência mundial representada pelo vírus Sars-CoV-2</segment>
+    <segment id="6">, esses controles mais estritos foram relaxados.</segment>
+    <segment id="7">Nada disso</segment>
+    <segment id="8">, porém</segment>
+    <segment id="9">porém, é garantia de sucesso</segment>
+    <segment id="10">, já que calibrar os efeitos de uma vacina sobre o sistema imunológico (de defesa do organismo)</segment>
+    <segment id="11">, para que</segment>
+    <segment id="12">para que o fármaco seja capaz de proteger o corpo de forma robusta contra um invasor sem grandes efeitos colaterais</segment>
+    <segment id="13">, é um processo que sempre envolve muita tentativa e erro.</segment>
+    <segment id="14">Também vai ser necessário otimizar os processos industriais indispensáveis à produção e à distribuição de uma vacina em larga escala.</segment>
+    <segment id="15">Tais processos variam muito de acordo com o tipo de vacina e vão afetar a maneira</segment>
+    <segment id="16">comocomo as doses chegarão às pessoas que necessitam delas mundo afora.</segment>
+    <segment id="17">Veja as vacinas que já estão sendo testadas em humanos —as exceções são as brasileiras e a da BCG.</segment>
+    <segment id="18">Vacina de RNA americana</segment>
+    <segment id="19">A primeira vacina contra a Covid-19 a ser testada em humanos foi desenvolvida numa parceria entre o governo americano</segment>
+    <segment id="20">, o Instituto de Pesquisa em Saúde Kaiser Permanente</segment>
+    <segment id="21">, em Seattle (EUA) e a empresa de biotecnologia Moderna.</segment>
+    <segment id="22">A imunização</segment>
+    <segment id="23">sese baseia em trechos de RNA (molécula “prima” do DNA) que compõem o material genético do vírus.</segment>
+    <segment id="24">O RNA viral da vacina contém a receita para a produção da chamada proteína S (de “spike” ou espícula</segment>
+    <segment id="25">, o gancho molecular usado pelo Sars-CoV-2 para</segment>
+    <segment id="26">sese conectar às células humanas).</segment>
+    <segment id="27">Espera-</segment>
+    <segment id="28">sese que</segment>
+    <segment id="29">, uma vez dentro das células</segment>
+    <segment id="30">, esse pedaço de RNA seja usado para iniciar a produção da proteína S</segment>
+    <segment id="31">, a qual</segment>
+    <segment id="32">, por sua vez</segment>
+    <segment id="33">, desencadeará uma reação de defesa do organismo.</segment>
+    <segment id="34">Quando o organismo entrar em contato com o vírus real</segment>
+    <segment id="35">, a esperança é que ele já esteja com anticorpos prontos para combatê-lo.</segment>
+    <segment id="36">Tudo indica que a técnica é relativamente segura</segment>
+    <segment id="37">, masmas resta demonstrar sua eficácia —até hoje</segment>
+    <segment id="38">, nenhuma vacina de RNA foi liberada para uso comercial.</segment>
+    <segment id="39">Os testes começaram em 16 de março</segment>
+    <segment id="40">, na chamada fase 1 (que mede apenas a segurança).</segment>
+    <segment id="41">A fase 2</segment>
+    <segment id="42">, que investiga a eficácia mais diretamente</segment>
+    <segment id="43">, pode começar em poucos meses</segment>
+    <segment id="44">, sese tudo der certo.</segment>
+    <segment id="45">A empresa farmacêutica Pfizer anunciou que também quer testar sua própria vacina de RNA contra o coronavírus em seres humanos a partir de agosto de 2020.</segment>
+    <segment id="46">Vacina chinesa com adenovírus modificado  Criada pela empresa farmacêutica chinesa CanSino</segment>
+    <segment id="47">, a vacina experimental começou a ser testada um pouco depois da americana</segment>
+    <segment id="48">, masmas foi a primeira a alcançar a fase 2 dos testes clínicos</segment>
+    <segment id="49">, começando a recrutar 500 voluntários no dia 15 de abril de 2020.</segment>
+    <segment id="50">Usando uma abordagem similar à que havia empregado no desenvolvimento de uma vacina contra o ebola</segment>
+    <segment id="51">, a CanSino está apostando num patógeno modificado</segment>
+    <segment id="52">, do grupo dos adenovírus</segment>
+    <segment id="53">, como</segment>
+    <segment id="54">como vetor.</segment>
+    <segment id="55">O adenovírus geneticamente modificado carregará o material genético que contém o código para a produção da proteína S</segment>
+    <segment id="56">, mais ou menos</segment>
+    <segment id="57">comocomo no</segment>
+    <segment id="58">casocaso da vacina americana de RNA.</segment>
+    <segment id="59">A diferença é que os vírus conseguem “entregar” ativamente a informação genética da imunização</segment>
+    <segment id="60">, o que</segment>
+    <segment id="61">, em tese</segment>
+    <segment id="62">, pode ser mais eficiente do que o material genético “solto”.</segment>
+    <segment id="63">Por outro lado</segment>
+    <segment id="64">, pode haver mais riscos de efeitos colaterais.</segment>
+    <segment id="65">Há a expectativa de que resultados mais firmes sobre a abordagem apareçam dentro de um ano.</segment>
+    <segment id="66">Uma abordagem muito parecida está sendo adotada por pesquisadores da Universidade de Oxford (Reino Unido).</segment>
+    <segment id="67">No caso</segment>
+    <segment id="68">caso deles</segment>
+    <segment id="69">, os testes começaram em março de 2020 e devem durar cerca de um ano.</segment>
+    <segment id="70">Imunização americana com DNA</segment>
+    <segment id="71">A abordagem da empresa de biotecnologia americana Inovio Pharmaceuticals começou a ser testada na fase 1 em 6 de abril de 2020.</segment>
+    <segment id="72">O método tem muitas semelhanças com a vacina de RNA</segment>
+    <segment id="73">, com a diferença de que o genoma do vírus</segment>
+    <segment id="74">, na parte correspondente ao código da proteína S</segment>
+    <segment id="75">, foi adaptado para uma molécula de DNA.</segment>
+    <segment id="76">Para injetar a vacina na pele ou nos músculos dos voluntários</segment>
+    <segment id="77">, os pesquisadores da empresa usam uma tecnologia que emite um breve pulso elétrico</segment>
+    <segment id="78">, facilitando a entrada do material genético nas células por meio da abertura de pequenos poros.</segment>
+    <segment id="79">Até 40 voluntários</segment>
+    <segment id="80">, recrutados em duas cidades americanas</segment>
+    <segment id="81">, vão receber o fármaco durante a fase 1.</segment>
+    <segment id="82">O objetivo é ter uma vacina para o uso comercial num prazo de 12 meses a 18 meses.</segment>
+    <segment id="83">Vacinas chinesas baseadas em células</segment>
+    <segment id="84">Duas abordagens estão sendo desenvolvidas pelo Instituto Médico Genoimune de Shenzhen</segment>
+    <segment id="85">, na China</segment>
+    <segment id="86">, partindo do princípio que seria possível usar células geneticamente modificadas</segment>
+    <segment id="87">comocomo vacinas.</segment>
+    <segment id="88">Essas células dendríticas</segment>
+    <segment id="89">, como</segment>
+    <segment id="90">como são conhecidas</segment>
+    <segment id="91">, ajudam o sistema imunológico a reconhecer invasores.</segment>
+    <segment id="92">A ideia é incluir no material genético delas uma espécie de biblioteca de vários fragmentos de genes do Sars-CoV-2</segment>
+    <segment id="93">, bem como</segment>
+    <segment id="94">como outros genes com a receita de moléculas que ativam o sistema imune.</segment>
+    <segment id="95">Ao produzir essa biblioteca de substâncias estranhas quando entrarem em contato com o organismo</segment>
+    <segment id="96">, elas desencadeariam uma reação similar a uma infecção real</segment>
+    <segment id="97">, sem os riscos do contato com o vírus.</segment>
+    <segment id="98">A fase 1 do projeto já está em andamento</segment>
+    <segment id="99">, e o grupo de Shenzhen planeja concluir o desenvolvimento da vacina até julho de 2023.Cientistas na corrida contra o coronavírus   novamente         de   de  de  representando um     EM FASE</segment>
+    <segment id="100">PRÉ-CLÍNICA  Vacina brasileira com VLPs</segment>
+    <segment id="101">A proposta de cientistas do Incor (Instituto do Coração</segment>
+    <segment id="102">, ligado à USP) é montar “cascas” de vírus</segment>
+    <segment id="103">, as chamadas VLPs (partículas semelhantes a vírus</segment>
+    <segment id="104">, na sigla inglesa)</segment>
+    <segment id="105">, às quais seriam combinadas antígenos</segment>
+    <segment id="106">, moléculas do coronavírus que possam ser reconhecidas pelo sistema imune.</segment>
+    <segment id="107">Acredita-</segment>
+    <segment id="108">sese que a combinação entre a molécula viral e as VLPs poderia induzir uma resposta imune robusta</segment>
+    <segment id="109">, mais próxima de uma infecção real.</segment>
+    <segment id="110">Os testes em seres humanos ainda devem demorar vários meses para acontecer.</segment>
+    <segment id="111">Vacina mineira a partir do vírus da gripe</segment>
+    <segment id="112">Pesquisadores da Fiocruz (Fundação Oswaldo Cruz) de Minas Gerais estão modificando o vírus influenza</segment>
+    <segment id="113">, causador da gripe</segment>
+    <segment id="114">, para que</segment>
+    <segment id="115">para que ele carregue trechos do material genético do Sars-CoV-2 associados à proteína</segment>
+    <segment id="116">S, da superfície do coronavírus.</segment>
+    <segment id="117">A ideia é produzir um vírus defectivo</segment>
+    <segment id="118">, ou seja</segment>
+    <segment id="119">, que invade as células inicialmente</segment>
+    <segment id="120">, masmas não consegue</segment>
+    <segment id="121">sese propagar para outras células depois.</segment>
+    <segment id="122">O desenvolvimento pré-clínico</segment>
+    <segment id="123">, com modelos animais</segment>
+    <segment id="124">, deve levar de 12 a 18 meses</segment>
+    <segment id="125">, seguido dos testes clínicos</segment>
+    <segment id="126">, sese tudo der certo.</segment>
+    <segment id="127">O possível papel da vacina BCG na proteção</segment>
+    <segment id="128">Um estudo preliminar</segment>
+    <segment id="129">, divulgado só no depositório de estudos medRxiv</segment>
+    <segment id="130">, apontou uma possível correlação entre o uso disseminado da vacina BCG</segment>
+    <segment id="131">, contra a tuberculose</segment>
+    <segment id="132">, e alguma proteção diante do Sars-CoV-2.</segment>
+    <segment id="133">Segundo os autores da pesquisa</segment>
+    <segment id="134">, liderados por Aaron Miller</segment>
+    <segment id="135">, do Instituto de Tecnologia de Nova York</segment>
+    <segment id="136">, países onde a vacinação com a BCG não é obrigatória</segment>
+    <segment id="137">, como</segment>
+    <segment id="138">como os EUA</segment>
+    <segment id="139">, a Itália</segment>
+    <segment id="140">, a França e a Espanha</segment>
+    <segment id="141">, estão sendo afetados pela pandemia de forma mais severa</segment>
+    <segment id="142">sese comparados aos locais onde a vacinação é universal (Japão</segment>
+    <segment id="143">, China e Brasil).</segment>
+    <segment id="144">Há evidências de que a BCG poderia “treinar” o sistema imune para resistir a outras infecções respiratórias.</segment>
+    <segment id="145">TUDO SOBRE</segment>
+    <segment id="146">A COVID-19Quais são os sintomas do novo coronavírus?Saiba</segment>
+    <segment id="147">comocomo</segment>
+    <segment id="148">sese proteger contra o coronavírus e o que fazer em</segment>
+    <segment id="149">casocaso de suspeitaAcompanhe o caminho do coronavírus pelo mundoNão leva o coronavírus a sério?</segment>
+    <segment id="150">Conheça cinco fatos que você precisa saberO que</segment>
+    <segment id="151">sese sabe até agora sobre cloroquina</segment>
+    <segment id="152">, hidroxicloroquina e coronavírus&amp;#039</segment>
+    <segment id="153">;Tempestade inflamatória&amp;#039</segment>
+    <segment id="154">;</segment>
+    <segment id="155">ajuda a explicar mortes pela Covid-19Isolamento domiciliar com vírus tem regra até para usar o banheiro</segment>
+  </rst>
+</analysis>

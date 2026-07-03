@@ -1,0 +1,38 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O PSOL estabeleceu a data de 15 de fevereiro para inscrição de interessados em concorrer à Prefeitura de São Paulo.</segment>
+    <segment id="2">A decisão do candidato será tomada em um congresso da legenda</segment>
+    <segment id="3">, em março.  JANELA</segment>
+    <segment id="4">A maior expectativa na sigla é pela decisão de Guilherme Boulos de disputar a eleição</segment>
+    <segment id="5">, masmas ele tem sinalizado internamente que não aceita a empreitada</segment>
+    <segment id="6">sese o PT lançar Fernando Haddad.</segment>
+    <segment id="7">O problema é que a decisão do ex-prefeito pode sair só no meio do ano.</segment>
+    <segment id="8">Leia a coluna completa aqui.</segment>
+    <segment id="9">O ex-candidato à Presidência pelo PSOL</segment>
+    <segment id="10">, Guilherme Boulos</segment>
+    <segment id="11">, durante debate com candidatos no estúdio da TV Globo</segment>
+    <segment id="12">, no Rio de Janeiro - Eduardo Anizelli - 5.out.2018/Folhapress</segment>
+  </rst>
+</analysis>

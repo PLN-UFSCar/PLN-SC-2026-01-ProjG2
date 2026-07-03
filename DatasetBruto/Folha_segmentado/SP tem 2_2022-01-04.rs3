@@ -1,0 +1,122 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A cidade de São Paulo já registrou 24 casos de coinfecção por Covid-19 e influenza</segment>
+    <segment id="2">, fenômeno que está sendo chamado de "flurona"</segment>
+    <segment id="3">, uma junção do nome das duas doenças.</segment>
+    <segment id="4">Os dados foram confirmados à Folha no início da tarde desta terça-feira (4) pela Secretaria Municipal da Saúde.</segment>
+    <segment id="5">Segundo a pasta</segment>
+    <segment id="6">, desde 2020</segment>
+    <segment id="7">, todos os pacientes com SRAG (Síndrome Respiratórias Agudas</segment>
+    <segment id="8">Grave)</segment>
+    <segment id="9">hospitalizados</segment>
+    <segment id="10">têm coletada amostra para pesquisa dos vírus influenza e Sars-CoV-2.</segment>
+    <segment id="11">Hospital Municipal da Brasilândia</segment>
+    <segment id="12">, na zona norte de São Paulo</segment>
+    <segment id="13">, onde são internados pacientes com síndrome gripal - Rivaldo Gomes - 24.fev.21/Folhapress"Dados do Sistema de Vigilância Epidemiológica da Gripe [Sivep-Gripe] indicaram 24 registros de Srag com coinfecção de influenza e Covid-19</segment>
+    <segment id="14">, considerando a metodologia RT-PCR detectável para ambos os vírus"</segment>
+    <segment id="15">, afirma a secretaria</segment>
+    <segment id="16">, em nota.</segment>
+    <segment id="17">A pasta diz ainda que está monitorando os pacientes com síndrome respiratória hospitalizados</segment>
+    <segment id="18">, realizando um painel viral.</segment>
+    <segment id="19">Casos de coinfecção por Covid-19 e influenza também foram registrados no Ceará e no Rio de Janeiro.</segment>
+    <segment id="20">Na manhã desta terça</segment>
+    <segment id="21">, o Hospital Municipal da Brasilândia</segment>
+    <segment id="22">, voltado atualmente para acolhimento e tratamento dos casos de síndromes gripais</segment>
+    <segment id="23">, tinha 121 pacientes internados em leitos de UTI (Unidade de Terapia Intensiva) e 164 em enfermaria</segment>
+    <segment id="24">, o que representa 70% de ocupação da unidade da zona norte da cidade de São Paulo</segment>
+    <segment id="25">, que também atende pacientes com Covid-19.</segment>
+    <segment id="26">De acordo com o infectologista Leonardo Weissmann</segment>
+    <segment id="27">, ainda não é possível saber</segment>
+    <segment id="28">sese a coinfecção eleva a gravidade do quadro do paciente.</segment>
+    <segment id="29">"</segment>
+    <segment id="30">Tanto a Covid-19 quanto a influenza são doenças respiratórias</segment>
+    <segment id="31">, porém</segment>
+    <segment id="32">porém a chamada flurona é muito nova e não sabemos</segment>
+    <segment id="33">sese a combinação dos dois vírus causa doenças mais graves.</segment>
+    <segment id="34">"</segment>
+    <segment id="35">Weissmann alerta que a tendência de dupla infecção aumente em razão das festas de fim de ano e da proximidade com o Carnaval.</segment>
+    <segment id="36">Testes  Segundo a prefeitura</segment>
+    <segment id="37">, uma em cada quatro pessoas testadas nas 469 UBSs (Unidades Básicas de Saúde) da cidade de São Paulo teve resultado positivo para o vírus influenza.</segment>
+    <segment id="38">De acordo com a secretaria</segment>
+    <segment id="39">, entre a última quinta (30)</segment>
+    <segment id="40">, quando a testagem rápida para o vírus começou</segment>
+    <segment id="41">, e sexta-feira (31)</segment>
+    <segment id="42">, foram feitos 5.321 testes</segment>
+    <segment id="43">, com 26% positivos para o vírus influenza.</segment>
+    <segment id="44">"</segment>
+    <segment id="45">Os dados</segment>
+    <segment id="46">sese referem para o diagnóstico de influenza A e B"</segment>
+    <segment id="47">, diz a secretaria.</segment>
+    <segment id="48">Os casos de síndromes gripais têm lotado as unidades de saúde desde a segunda quinzena do mês passado.</segment>
+    <segment id="49">De acordo com a pasta</segment>
+    <segment id="50">, dos confirmados</segment>
+    <segment id="51">, 97% apontaram para influenza</segment>
+    <segment id="52">A e 3% para o tipo B.</segment>
+    <segment id="53">Os testes são realizados diante de uma disparada nos casos de gripe.</segment>
+    <segment id="54">Em dezembro de 2021</segment>
+    <segment id="55">, foram registrados 286.858 atendimentos a pessoas com quadro respiratório</segment>
+    <segment id="56">, contra 111.949 atendimentos de pacientes com sintomas gripais em novembro</segment>
+    <segment id="57">, uma alta de 156%.</segment>
+    <segment id="58">Os dados de atendimentos na rede municipal de saúde mostram que dispararam os casos suspeitos de Covid-19.</segment>
+    <segment id="59">Em novembro foram 56.220</segment>
+    <segment id="60">, pacientes com sintomas.</segment>
+    <segment id="61">Já no mês passado o número subiu para 133.501 suspeitas do coronavírus</segment>
+    <segment id="62">, uma alta de 137</segment>
+    <segment id="63">,6%.</segment>
+    <segment id="64">​</segment>
+    <segment id="65">Nos três primeiros dias de janeiro</segment>
+    <segment id="66">, até o fim da manhã desta segunda-feira (3) foram foram realizados 20.333 atendimentos a pessoas com sintomas respiratórios</segment>
+    <segment id="67">, sendo 11.585 suspeitos de Covid-19.</segment>
+    <segment id="68">Surto de gripe em SP faz espera por atendimento médico durar até 6 horasMais    novamente         de   de  de  representando um</segment>
+    <segment id="69">Desde o último dia 23 de novembro</segment>
+    <segment id="70">, a prefeitura retomou a vacinação contra o vírus H1N1</segment>
+    <segment id="71">, que tem pouco efeito sobre a epidemia atual</segment>
+    <segment id="72">, provocada pela Darwin</segment>
+    <segment id="73">, variante da influenza H3N2.</segment>
+    <segment id="74">A vacina está sendo aplicada em toda a rede.</segment>
+    <segment id="75">Estão abertos os megapostos</segment>
+    <segment id="76">, drive-thrus e farmácias parceiras</segment>
+    <segment id="77">, das 8h às 17h</segment>
+    <segment id="78">, e as UBSs e Amas/UBSs (Assistências Médicas Ambulatoriais) Integradas</segment>
+    <segment id="79">, das 7h às 19h.</segment>
+    <segment id="80">O médico Renato Kfouri</segment>
+    <segment id="81">, diretor da SBIm (Sociedade Brasileira de Imunizações)</segment>
+    <segment id="82">, diz que não é recomendado que uma pessoa já vacinada tome o mesmo imunizante de novo e é preciso esperar a nova campanha de vacinação</segment>
+    <segment id="83">, prevista para o próximo mês de abril.</segment>
+    <segment id="84">Mas ela alerta que os grupos prioritários</segment>
+    <segment id="85">, como</segment>
+    <segment id="86">como idosos e crianças</segment>
+    <segment id="87">, devem</segment>
+    <segment id="88">sese vacinar.</segment>
+    <segment id="89">A vacina contra a influenza H3N2 só deve estar disponível a partir do mês de março nas clínicas particulares.</segment>
+    <segment id="90">Os postos da capital também estão imunizando contra a Covid-19.</segment>
+    <segment id="91">De acordo com a secretaria</segment>
+    <segment id="92">, é possível tomar as duas vacinas de uma vez.</segment>
+    <segment id="93">FIQUE ATENTO</segment>
+    <segment id="94">Segundo a Secretaria Municipal da Saúde</segment>
+    <segment id="95">, a síndrome gripal é caracterizada pela pessoa com quadro respiratório agudo</segment>
+    <segment id="96">, com pelo menos dois dos seguintes sintomas:   febre calafrios dor de garganta dor de cabeça tosse coriza distúrbios olfativos distúrbios degustativos</segment>
+  </rst>
+</analysis>

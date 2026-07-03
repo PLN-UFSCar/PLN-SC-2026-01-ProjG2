@@ -1,0 +1,47 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Carro de Federal</segment>
+    <segment id="2">Ã</segment>
+    <segment id="3">© achado na Bahia</segment>
+    <segment id="4">O carro foi alugado para uma candidata a vereadora em Tabocas do Brejo Velho
+Agentes da PolÃ­cia Federal ouviram ontem</segment>
+    <segment id="5">, em Barreiras</segment>
+    <segment id="6">, trÃªs homens presos</segment>
+    <segment id="7">, na cidade de Tabocas do Brejo Velho</segment>
+    <segment id="8">,  acusados de comprar o carro Gol (NKQ-3680</segment>
+    <segment id="9">, de Aparecida de GoiÃ¢nia)</segment>
+    <segment id="10">, que foi levado pelos assassinos do policial federal Wilton TapajÃ³s Macedo</segment>
+    <segment id="11">, 54, morto no mÃªs passado perto do tÃºmulo dos pais</segment>
+    <segment id="12">, no Distrito Federal.</segment>
+    <segment id="13">O agente da PF atuou</segment>
+    <segment id="14">comocomo investigador da OperaÃ§Ã£o Monte Carlo</segment>
+    <segment id="15">, que resultou na prisÃ£o do contraventor Carlinhos Cachoeira.</segment>
+    <segment id="16">Alessandro Moretti</segment>
+    <segment id="17">, diretor da PF</segment>
+    <segment id="18">, acredita que a morte de Wilton foi um</segment>
+    <segment id="19">casocaso de roubo seguido de morte (latrocÃ­nio).</segment>
+    <segment id="20">O carro foi alugado para uma candidata a vereadora em Tabocas do Brejo Velho.</segment>
+  </rst>
+</analysis>

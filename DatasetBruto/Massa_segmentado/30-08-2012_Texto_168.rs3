@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Gata tem que provar que bunda</segment>
+    <segment id="2">Ã© natural
+Para Cibelle</segment>
+    <segment id="3">, todas as candidatas do Miss Bumbum deveriam fazer o exame</segment>
+    <segment id="4">A cearense Cibelle Ribeiro</segment>
+    <segment id="5">, candidata a Miss Bumbum 2012</segment>
+    <segment id="6">, nÃ£o vai mais abandonar o concurso diante da exigÃªncia da organizaÃ§Ã£o de que fizesse Raio-X para provar que nÃ£o usa prÃ³tese de silicone.</segment>
+    <segment id="7">â€œSurgiram boatos no dia das fotos</segment>
+    <segment id="8">, nÃ£o sei qual delas (concorrentes) foi falar que eu tinha prÃ³tese e nÃ£o podia participarâ€</segment>
+    <segment id="9">, disse ela ao site F5.</segment>
+    <segment id="10">Num primeiro momento</segment>
+    <segment id="11">, a gata</segment>
+    <segment id="12">sese recusou a fazer o exame</segment>
+    <segment id="13">, masmas mudou de ideia.</segment>
+    <segment id="14">â€œSe eu desistir do concurso dizendo que nÃ£o quero fazer</segment>
+    <segment id="15">, vou estar confirmando a acusaÃ§Ã£oâ€.</segment>
+  </rst>
+</analysis>

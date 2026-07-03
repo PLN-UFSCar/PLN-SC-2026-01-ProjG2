@@ -1,0 +1,141 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">As fortes chuvas que ocorrem no Norte e no Nordeste do país desde a última semana provocaram deslizamentos</segment>
+    <segment id="2">, arrastaram casas e deixaram milhares de pessoas desabrigadas.</segment>
+    <segment id="3">Embora tenham acendido um alerta aos governos locais e autoridades das defesas civis</segment>
+    <segment id="4">, a quantidade de água prevista nas últimas semanas não foge do padrão médio para a época do ano</segment>
+    <segment id="5">, dizem especialistas.</segment>
+    <segment id="6">Área residencial alagada após as fortes chuvas que atingiram Rio Branco (AC) na última sexta (24) - Odair Leal - 24.mar.23/Reuters  Porém</segment>
+    <segment id="7">, a conjunção da precipitação elevada com um aumento do nível dos rios e alterações das marés provocam o fenômeno chamado</segment>
+    <segment id="8">"águas grandes</segment>
+    <segment id="9">" ou "águas de março" que</segment>
+    <segment id="10">, em locais de maior risco</segment>
+    <segment id="11">, com terrenos baixos e próximos às margens dos rios</segment>
+    <segment id="12">, podem provocar enchentes</segment>
+    <segment id="13">, explica o meteorologista Olívio Bahia</segment>
+    <segment id="14">, do Inmet (Instituto Nacional de Meteorologia).</segment>
+    <segment id="15">"</segment>
+    <segment id="16">Março é o período chamado de ‘águas grandes</segment>
+    <segment id="17">’, onde temos os rios com níveis sempre elevados combinado com a grande quantidade de chuva que caiu nas últimas semanas</segment>
+    <segment id="18">, provocando as enchentes.</segment>
+    <segment id="19">Em algumas cidades mais próximas ao litoral</segment>
+    <segment id="20">, como</segment>
+    <segment id="21">como Belém (PA) e São Luís (MA)</segment>
+    <segment id="22">, temos ainda o efeito das marés que também provocam esse aumento da água"</segment>
+    <segment id="23">, diz.</segment>
+    <segment id="24">Leia tambémChuvas causam estragos em estados de Norte e NordesteTradicionalmente</segment>
+    <segment id="25">, os meses do ano que compreendem o verão no Brasil são caracterizados por fortes chuvas.</segment>
+    <segment id="26">Na região Norte</segment>
+    <segment id="27">, ocorre o chamado "inverno amazônico"</segment>
+    <segment id="28">, período com precipitação elevada e com aumento de nebulosidade devido ao clima abafado.</segment>
+    <segment id="29">Com isso</segment>
+    <segment id="30">, o excesso de nuvens provoca uma temperatura mais baixa (por isso é chamado de inverno).</segment>
+    <segment id="31">A concentração da umidade provoca as chuvas</segment>
+    <segment id="32">, que podem chegar a 200 milímetros em algumas localidades.</segment>
+    <segment id="33">"</segment>
+    <segment id="34">Quando a maré sobe e ao mesmo tempo vem a chuva</segment>
+    <segment id="35">, a água não tem para onde escoar e provoca alagamentos</segment>
+    <segment id="36">, o que faz com que algumas das metrópoles próximas às margens dos rios infelizmente sejam dragadas"</segment>
+    <segment id="37">, afirma Bahia.</segment>
+    <segment id="38">Uma das cidades mais atingidas da região Norte</segment>
+    <segment id="39">, Marabá (a 560 quilômetros de Belém)</segment>
+    <segment id="40">, está localizada próximo a um delta entre os rios Tocantins e Itacaiúnas.</segment>
+    <segment id="41">Mesmo sem as chuvas</segment>
+    <segment id="42">, o nível dos rios já sobe aproximadamente 20 centímetros no mês de março</segment>
+    <segment id="43">, de acordo com a Defesa Civil local.</segment>
+    <segment id="44">Atualmente</segment>
+    <segment id="45">, há um alerta para uma precipitação elevada (acima de 100 mm em diversos locais dos estados do Norte e Nordeste e acima de 150 no Acre</segment>
+    <segment id="46">, em Manaus e em Belém do Pará) que pode ocorrer a partir deste domingo (26) até o dia 3 de abril</segment>
+    <segment id="47">, segundo o site WXMaps.</segment>
+    <segment id="48">O rastro de destruição das chuvas que atingiram São Sebastião</segment>
+    <segment id="49">, no litoral de SPMais    novamente         de   de  de  representando um</segment>
+    <segment id="50">O meteorologista do Inmet também disse que o órgão segue monitorando a situação na faixa norte do país</segment>
+    <segment id="51">, compreendendo os estados das regiões Norte e Nordeste</segment>
+    <segment id="52">, para continuidade de chuvas na região.</segment>
+    <segment id="53">"</segment>
+    <segment id="54">A condição meteorológica indica chuva com volumes acumulados que podem atingir 100 mm no Acre</segment>
+    <segment id="55">, Amazonas</segment>
+    <segment id="56">, parte de Roraima</segment>
+    <segment id="57">, Pará</segment>
+    <segment id="58">, Tocantins e uma pontinha do Maranhão também"</segment>
+    <segment id="59">, diz.</segment>
+    <segment id="60">O geólogo e professor do programa de pós-graduação em Ciência Ambiental da USP Pedro Luiz Côrtes afirma que há ainda a possibilidade de um "rescaldo" do fenômeno conhecido</segment>
+    <segment id="61">comocomo La Niña</segment>
+    <segment id="62">, que provoca chuvas fortes no Norte do país e seca no Sul.</segment>
+    <segment id="63">"</segment>
+    <segment id="64">O La Niña</segment>
+    <segment id="65">, que esteve presente no último ano e meio</segment>
+    <segment id="66">, já não está mais presente.</segment>
+    <segment id="67">Ele consiste em um resfriamento das águas do oceano Pacífico equatorial</segment>
+    <segment id="68">, próximo ao litoral da América do Sul"</segment>
+    <segment id="69">, explica o professor.</segment>
+    <segment id="70">Porém, as condições atmosféricas podem levar de algumas semanas até meses para "voltar ao normal"</segment>
+    <segment id="71">, período no qual vivemos uma espécie de "despedida" do La Niña.  "</segment>
+    <segment id="72">Quando a situação oceânica e atmosférica passam a trabalhar seguindo o mesmo padrão</segment>
+    <segment id="73">, ocorre o que chamamos de acoplamento.</segment>
+    <segment id="74">Atualmente</segment>
+    <segment id="75">, embora</segment>
+    <segment id="76">embora o La Niña tenha acabado</segment>
+    <segment id="77">, a atmosfera ainda não registrou essa mudança</segment>
+    <segment id="78">, sese comportando</segment>
+    <segment id="79">comocomo</segment>
+    <segment id="80">sese ainda estivesse presente"</segment>
+    <segment id="81">, explica.</segment>
+    <segment id="82">Previsão para os próximos dias</segment>
+    <segment id="83">No Sul e no Sudeste</segment>
+    <segment id="84">, embora</segment>
+    <segment id="85">embora atualmente a previsão do tempo esteja apontando um clima quente e seco na maior parte dos estados</segment>
+    <segment id="86">, na região oeste de São Paulo e no litoral sul há previsão de fortes chuvas</segment>
+    <segment id="87">, acima de 70 mm</segment>
+    <segment id="88">, a partir deste domingo (26) e na próxima segunda (27).</segment>
+    <segment id="89">Segundo Bahia</segment>
+    <segment id="90">, do Inmet</segment>
+    <segment id="91">, a região é bem delicada devido à proximidade com o litoral</segment>
+    <segment id="92">, com a serra do Mar e por ser bem populosa.</segment>
+    <segment id="93">"</segment>
+    <segment id="94">Colocamos um aviso nessa área de uma frente fria que deve</segment>
+    <segment id="95">sese deslocar entre a noite de hoje e amanhã e que vai juntar umidade.</segment>
+    <segment id="96">"  "</segment>
+    <segment id="97">E são as pessoas mais vulneráveis que acabam morando em áreas de risco ambiental que sofrem com as chuvas fortes e alagamentos"</segment>
+    <segment id="98">, afirma o meteorologista.</segment>
+    <segment id="99">A Defesa Civil do estado afirmou que monitora a chegada da frente fria que deve provocar chuvas no litoral paulista e na região do Vale do Ribeira neste domingo (26)</segment>
+    <segment id="100">, com previsão de até 70 mm acumulados.</segment>
+    <segment id="101">"</segment>
+    <segment id="102">Já emitimos o alerta para chuvas intensas no litoral e Vale do Ribeira</segment>
+    <segment id="103">, para a Defesa Civil desses municípios e em nossas mídias sociais</segment>
+    <segment id="104">, via sistema de mensagem [SMS] aos usuários cadastrados e através do Site SP Alerta"</segment>
+    <segment id="105">, disse</segment>
+    <segment id="106">, em nota</segment>
+    <segment id="107">, o órgão.</segment>
+    <segment id="108">De acordo com a Defesa Civil</segment>
+    <segment id="109">, o Estado mantém a campanha "SP</segment>
+    <segment id="110">Alerta" para as regiões com calor intenso no interior do estado</segment>
+    <segment id="111">, especialmente com orientações sobre</segment>
+    <segment id="112">comocomo agir diante de cenários climatológicos de altas temperaturas.</segment>
+    <segment id="113">Informou</segment>
+    <segment id="114">, ainda</segment>
+    <segment id="115">, que não há previsão de mudança deste cenário.</segment>
+  </rst>
+</analysis>

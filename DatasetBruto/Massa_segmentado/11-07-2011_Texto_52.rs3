@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Toni Sales</segment>
+    <segment id="2">sese revolta em Periperi</segment>
+    <segment id="3">Cantor ficou indignado com o que ele chamou de ‘falta de organização’</segment>
+    <segment id="4">Os fãs que esperaram ver  Toni Sales</segment>
+    <segment id="5">sese apresentando anteontem à noite</segment>
+    <segment id="6">, no Esporte Clube Periperi</segment>
+    <segment id="7">, ficaram a ver navios.</segment>
+    <segment id="8">Isso porque</segment>
+    <segment id="9">porque o cantor do Raghatoni não subiu ao palco para assumir a Noite da Revolta.</segment>
+    <segment id="10">Segundo Toni</segment>
+    <segment id="11">, que tirou a tarde de ontem para desabafar no Twitter</segment>
+    <segment id="12">, ele não cantou</segment>
+    <segment id="13">porque</segment>
+    <segment id="14">porque faltou organização.</segment>
+    <segment id="15">No entanto</segment>
+    <segment id="16">, a reportagem do MASSA! apurou que ele não fez o show</segment>
+    <segment id="17">, que iria marcar a volta dele ao bairro onde nasceu</segment>
+    <segment id="18">,  por falta de grana dos produtores do evento para pagar os músicos.</segment>
+    <segment id="19">E isso foi comunicado a eles quando a banda já estava em Periperi.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,132 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Esta é a edição da newsletter Guerra na Ucrânia.</segment>
+    <segment id="2">Quer recebê-la no seu ​email?</segment>
+    <segment id="3">Inscreva-</segment>
+    <segment id="4">sese abaixo.</segment>
+    <segment id="5">Guerra na UcrâniaO boletim diário para você entender o que acontece na guerra entre Rússia e UcrâniaCarregando...</segment>
+    <segment id="6">As imagens diárias de ataques e a sequência de declarações divulgadas pelas autoridades nas redes sociais escondem a dimensão de outra frente de batalha entre Rússia e Ucrânia</segment>
+    <segment id="7">, em conflito há 22 dias: a guerra da informação.</segment>
+    <segment id="8">Do lado de Moscou</segment>
+    <segment id="9">, há a censura a jornalistas e a veículos de imprensa</segment>
+    <segment id="10">, repressão a protestos</segment>
+    <segment id="11">, bloqueio de redes e monitoramento de vozes críticas.</segment>
+    <segment id="12">No território ucraniano</segment>
+    <segment id="13">, o risco de ataques e a divulgação de rumores.</segment>
+    <segment id="14">O ambiente virtual tem sido habilmente utilizado pelo presidente Volodimir Zelenski.</segment>
+    <segment id="15">Sites de ao menos 15 veículos de comunicação foram bloqueados pela agência reguladora do governo Vladimir Putin</segment>
+    <segment id="16">, segundo um levantamento da AFP</segment>
+    <segment id="17">;</segment>
+    <segment id="18">O Kremlin sancionou uma lei que pune com até 15 anos de prisão jornalistas que divulgarem "informações falsas"</segment>
+    <segment id="19">, o que inclui chamar de "guerra" o que o regime considera</segment>
+    <segment id="20">comocomo "operação militar especial".</segment>
+    <segment id="21">Cartazes com o rosto do presidente russo Vladimir Putin em Simferopol</segment>
+    <segment id="22">, na Crimeia</segment>
+    <segment id="23">,</segment>
+    <segment id="24">na quarta (16) - AFPRapidez: Na terça</segment>
+    <segment id="25">, uma editora do principal telejornal da Rússia foi multada em 30 mil rublos (R$ 1.430) um dia após fazer um protesto ao vivo.</segment>
+    <segment id="26">Ela levantou um cartaz que dizia "aqui todos mentem".</segment>
+    <segment id="27">150ª é a posição da Rússia no ranking de liberdade de imprensa da ONG Repórteres Sem Fronteiras</segment>
+    <segment id="28">, entre 180 países</segment>
+    <segment id="29">; Ucrânia fica em 97º</segment>
+    <segment id="30">;</segment>
+    <segment id="31">14.977 pessoas foram presas no país por</segment>
+    <segment id="32">sese manifestarem publicamente contra a ação russa</segment>
+    <segment id="33">, segundo a ONG OVD-Info.</segment>
+    <segment id="34">Cerco de perto:</segment>
+    <segment id="35">O porta-voz do Kremlin</segment>
+    <segment id="36">, Dmitri Peskov</segment>
+    <segment id="37">, chamou nesta quinta-feira (17) de traidoras pessoas estão saindo de seus empregos e deixando o país.</segment>
+    <segment id="38">E de longe:</segment>
+    <segment id="39">A youtuber russa Olga Kovalenko</segment>
+    <segment id="40">, que vive há três anos no Brasil</segment>
+    <segment id="41">, conta que sua família foi procurada por autoridades russas que perguntaram sobre seus documentos.</segment>
+    <segment id="42">Em vídeos recentes</segment>
+    <segment id="43">, ela havia falado sobre a guerra —não sabe</segment>
+    <segment id="44">, porém</segment>
+    <segment id="45">porém,</segment>
+    <segment id="46">sese essa foi a razão da visita.</segment>
+    <segment id="47">Limite:</segment>
+    <segment id="48">A colunista Lúcia Guimarães aponta que a cortina de ferro imposta sobre a informação</segment>
+    <segment id="49">, usada na TV por Putin para consolidar seu poder</segment>
+    <segment id="50">, pode não ter mais a mesma eficácia agora</segment>
+    <segment id="51">, com os jovens que recorrem ao VPN para driblar os bloqueios.</segment>
+    <segment id="52">Segurança de jornalistas</segment>
+    <segment id="53">Na região de Kiev</segment>
+    <segment id="54">, os profissionais de imprensa são vistos com desconfiança nos postos que controlam a entrada e a saída de pessoas</segment>
+    <segment id="55">, comandados pelo Exército ou por grupos de milicianos.</segment>
+    <segment id="56">O medo e a inexperiência dos fiscais muitas vezes tornam inviável o acesso de jornalistas a algumas áreas.</segment>
+    <segment id="57">E mesmo aqueles com identificação de imprensa podem ser alvos.    4 jornalistas foram mortos durante a cobertura de ataques na Ucrânia desde 24 de fevereiro</segment>
+    <segment id="58">, segundo balanço do Repórteres Sem Fronteiras.</segment>
+    <segment id="59">Com o toque de recolher de 35 horas imposto na capital ucraniana e encerrado nesta manhã</segment>
+    <segment id="60">, mesmo jornalistas credenciados não puderam circular.</segment>
+    <segment id="61">"</segment>
+    <segment id="62">Assim, as afirmações enviadas pelo governo ucraniano</segment>
+    <segment id="63">, de que mais um edifício foi atacado nesta manhã [que quarta</segment>
+    <segment id="64">, 16], não puderam ser confirmadas por jornalistas independentes</segment>
+    <segment id="65">", relata o enviado da Folha André Liohn.</segment>
+    <segment id="66">Zelenski faz videoconferência com Parlamento Alemão no 22º dia da guerra</segment>
+    <segment id="67">; veja fotos do conflitoMais    novamente         de   de  de  representando um  Não</segment>
+    <segment id="68">sese perca</segment>
+    <segment id="69">A campanha de desinformação na guerra não ocorre somente do lado russo.</segment>
+    <segment id="70">Os repórteres João Gabriel e Mayara Paixão mostram exemplos de quando autoridades da Ucrânia divulgaram notícias falsas para tentar comover a opinião pública.</segment>
+    <segment id="71">Veja três deles:</segment>
+    <segment id="72">O fantasma de Kiev    O que foi divulgado: Foto de um caça ucraniano que</segment>
+    <segment id="73">, sozinho</segment>
+    <segment id="74">, derrubava unidades da poderosa Força Aérea de Putin.</segment>
+    <segment id="75">O piloto ganhou status de herói nacional</segment>
+    <segment id="76">O que foi desmentido:</segment>
+    <segment id="77">As imagens são de um jogo de simulação de voo</segment>
+    <segment id="78">, como</segment>
+    <segment id="79">como mostrou o jornal The New York Times    Ataque em corredor humanitário    O que foi divulgado:</segment>
+    <segment id="80">Exército russo atacou um comboio durante o cessar-fogo</segment>
+    <segment id="81">, matando sete civis</segment>
+    <segment id="82">, incluindo uma criança</segment>
+    <segment id="83">O que foi desmentido:</segment>
+    <segment id="84">As vítimas estavam fora dos corredores de paz</segment>
+    <segment id="85">, como</segment>
+    <segment id="86">como o Ministério da Defesa ucraniano corrigiu    Ataque a mesquita    O que foi divulgado:</segment>
+    <segment id="87">Russos atacaram uma mesquita do sultão Soliman em Mariupol com "mais de 80 adultos e crianças"</segment>
+    <segment id="88">O que foi desmentido:</segment>
+    <segment id="89">O líder do templo e um dos envolvidos nas operações negaram</segment>
+    <segment id="90">O que aconteceu nesta quinta    Biden chamou Putin de "ditador assassino" e anunciou conversa com Xi nesta sexta</segment>
+    <segment id="91">;</segment>
+    <segment id="92">Diplomacia dos EUA disse que cidadão americano morreu em ataque</segment>
+    <segment id="93">;   Cruz Vermelha anunciou ter deixado Mariupol após agravamento de crise humanitária</segment>
+    <segment id="94">;</segment>
+    <segment id="95">Ucrânia fez buscas por sobreviventes em teatro destruído que abrigava civis</segment>
+    <segment id="96">;</segment>
+    <segment id="97">Imagem do dia</segment>
+    <segment id="98">Prédio residencial atingido em Kiev por restos de um míssil russo abatido</segment>
+    <segment id="99">; ao menos uma pessoa morreu- Fadel Senna/AFPO que ver e ouvir para</segment>
+    <segment id="100">sese manter informado  Veja</segment>
+    <segment id="101">comocomo foi o debate sobre o conflito no Leste Europeu</segment>
+    <segment id="102">, mediado pela Folha nesta quinta</segment>
+    <segment id="103">, e a despedida de uma família ucraniana de sua casa antes da fuga</segment>
+    <segment id="104">:   Neutralidade do Brasil na guerra da Ucrânia dificulta acolhida de refugiados</segment>
+    <segment id="105">, diz ex-embaixatriz</segment>
+    <segment id="106">Uma última música antes de fugir do país</segment>
+  </rst>
+</analysis>

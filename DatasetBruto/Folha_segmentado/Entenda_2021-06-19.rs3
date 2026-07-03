@@ -1,0 +1,171 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Uma complexa malha de linhas de transmissão que corre o Brasil permite que a geladeira de uma família no interior de São Paulo funcione com energia gerada por uma hidrelétrica no norte do país.</segment>
+    <segment id="2">Por meio de um sistema eletromagnético</segment>
+    <segment id="3">, o movimento de turbinas giradas com a força do fluxo de água</segment>
+    <segment id="4">sese transforma em energia.</segment>
+    <segment id="5">E aí estão os três pilares do sistema energético brasileiro: geração</segment>
+    <segment id="6">, transmissão e distribuição.</segment>
+    <segment id="7">São hidrelétricas distribuídas em 16 bacias hidrográficas</segment>
+    <segment id="8">, usinas térmicas e nucleares e</segment>
+    <segment id="9">, na última década</segment>
+    <segment id="10">, também usinas solares e eólicas.</segment>
+    <segment id="11">Por meio de mais de 150.000 km de linhas de transmissão</segment>
+    <segment id="12">, o ONS (Operador Nacional do Sistema Elétrico) organiza o envio da energia de acordo com as demandas dos centros consumidores.</segment>
+    <segment id="13">Veja abaixo</segment>
+    <segment id="14">comocomo funciona esse sistema.</segment>
+    <segment id="15">Como a usina gera energia?</segment>
+    <segment id="16">A resposta a essa pergunta vai depender do tipo de usina em questão.</segment>
+    <segment id="17">Em uma usina hidrelétrica</segment>
+    <segment id="18">, por exemplo</segment>
+    <segment id="19">, aproveita-</segment>
+    <segment id="20">sese o fluxo de água e o declive de uma bacia hidrográfica para gerar energia cinética.</segment>
+    <segment id="21">Para isso</segment>
+    <segment id="22">, a água é represada (uma energia potencial) e direcionada para turbinas.</segment>
+    <segment id="23">As pás dessas turbinas em movimento pelo fluxo de água são a energia cinética.</segment>
+    <segment id="24">Ligadas a um gerador elétrico</segment>
+    <segment id="25">, provocam variação de corrente elétrica por meio de um sistema eletromagnético.</segment>
+    <segment id="26">A ideia é semelhante em outros tipos de usina.</segment>
+    <segment id="27">O vento gira as pás dos aerogeradores que</segment>
+    <segment id="28">, conectadas a uma turbina</segment>
+    <segment id="29">, também produzem energia elétrica por meio de um gerador.</segment>
+    <segment id="30">São as usinas eólicas.</segment>
+    <segment id="31">Na usina termoelétrica</segment>
+    <segment id="32">, a força que empurra essas turbinas é a do vapor.</segment>
+    <segment id="33">Para gerá-lo</segment>
+    <segment id="34">, por exemplo</segment>
+    <segment id="35">, queima-</segment>
+    <segment id="36">sese óleo combustível</segment>
+    <segment id="37">, gás ou bagaço de cana-de-açúcar —este último em usinas de açúcar e etanol.</segment>
+    <segment id="38">Veja as principais usinas hidrelétricas do paísMais    novamente         de   de  de  representando um</segment>
+    <segment id="39">Como a energia é transmitida e distribuída?</segment>
+    <segment id="40">Para chegar na casa do consumidor</segment>
+    <segment id="41">, a energia pode percorrer milhares de quilômetros por grandes linhas de transmissão que cortam o país.</segment>
+    <segment id="42">Como as estradas</segment>
+    <segment id="43">, essas linhas têm maior capacidade onde os fluxos de eletricidade são maiores.</segment>
+    <segment id="44">As redes que</segment>
+    <segment id="45">sese conectam a grandes usinas</segment>
+    <segment id="46">, como</segment>
+    <segment id="47">como Itaipu ou Belo Monte</segment>
+    <segment id="48">, por exemplo</segment>
+    <segment id="49">, são de 500 kV ou mais.</segment>
+    <segment id="50">Mais próximas do consumo</segment>
+    <segment id="51">, essa tensão vai sendo reduzida</segment>
+    <segment id="52">, primeiro a 13</segment>
+    <segment id="53">,8 kV para entrar nas redes de distribuição e</segment>
+    <segment id="54">, por fim</segment>
+    <segment id="55">, a 127 V ou 220 V para entrar nas residências.</segment>
+    <segment id="56">A alta voltagem no sistema de transmissão tem uma razão.</segment>
+    <segment id="57">"</segment>
+    <segment id="58">A transmissão consegue levar energia a uma longa distância e com pequena perda"</segment>
+    <segment id="59">, afirma José Wanderley Marangon</segment>
+    <segment id="60">, ex-professor da Unifei (Universidade Federal de Itajubá) e consultor da MC&amp;amp</segment>
+    <segment id="61">;E.</segment>
+    <segment id="62">As variações de tensão são feitas em subestações.</segment>
+    <segment id="63">Perto das usinas</segment>
+    <segment id="64">, elas aumentam a tensão dos fios</segment>
+    <segment id="65">, de 13</segment>
+    <segment id="66">,8 kV para 230 kV ou mais.</segment>
+    <segment id="67">Perto das cidades</segment>
+    <segment id="68">, voltam a reduzir a tensão.</segment>
+    <segment id="69">"</segment>
+    <segment id="70">Subestação é um ente que faz uma transformação na tensão</segment>
+    <segment id="71">, como</segment>
+    <segment id="72">como fazemos quando queremos</segment>
+    <segment id="73">, por exemplo</segment>
+    <segment id="74">, usar um equipamento que funciona em 220 V em uma tomada de 127 V"</segment>
+    <segment id="75">, explica Marangon.</segment>
+    <segment id="76">Como os operadores organizam a oferta e a demanda?</segment>
+    <segment id="77">O sistema elétrico foi planejado para aproveitar as peculiaridades de cada região.</segment>
+    <segment id="78">Com grande potencial gerador e pouco consumo</segment>
+    <segment id="79">, o Norte</segment>
+    <segment id="80">, por exemplo</segment>
+    <segment id="81">, é grande exportador de energia para o resto do país.</segment>
+    <segment id="82">O Nordeste</segment>
+    <segment id="83">, por sua vez</segment>
+    <segment id="84">, ajuda as outras regiões no inverno</segment>
+    <segment id="85">, quando os ventos mais fortes alavancam a geração eólica.</segment>
+    <segment id="86">As usinas não operam em sua capacidade máxima durante todo o ano.</segment>
+    <segment id="87">Em época de seca</segment>
+    <segment id="88">, por exemplo</segment>
+    <segment id="89">, os níveis de água dos reservatórios descem</segment>
+    <segment id="90">, e é preciso rearranjar o fluxo de energia e mudar a direção da corrente elétrica nos cabos</segment>
+    <segment id="91">, sese necessário.</segment>
+    <segment id="92">Hoje o Brasil tem mais opções do que há 20 anos</segment>
+    <segment id="93">, como</segment>
+    <segment id="94">como as usinas eólicas no litoral do nordeste e as termoelétricas no interior de São Paulo.</segment>
+    <segment id="95">O Operador Nacional do Sistema Elétrico é o responsável por essa organização no Brasil.</segment>
+    <segment id="96">Ainda que o Estado conceda a construção de uma linha para uma empresa</segment>
+    <segment id="97">, quem a opera é o ONS</segment>
+    <segment id="98">, que tem normas</segment>
+    <segment id="99">, manuais e modelos para isso.</segment>
+    <segment id="100">"</segment>
+    <segment id="101">É como</segment>
+    <segment id="102">como se</segment>
+    <segment id="103">se fosse o cérebro do sistema elétrico</segment>
+    <segment id="104">, é ele que toma as decisões"</segment>
+    <segment id="105">, explica Nivalde de Castro</segment>
+    <segment id="106">, professor da UFRJ e coordenador do Gesel (Grupo de Estudos do Setor Elétrico).</segment>
+    <segment id="107">"</segment>
+    <segment id="108">O pulmão é quem tem as usinas e o coração é quem demanda a energia</segment>
+    <segment id="109">, os consumidores.</segment>
+    <segment id="110">"  Por que a matriz elétrica brasileira é do jeito que vemos hoje?</segment>
+    <segment id="111">No final do século XIX o Brasil começou a construir usinas hidrelétricas.</segment>
+    <segment id="112">"</segment>
+    <segment id="113">O Brasil é um país continental</segment>
+    <segment id="114">, tropical</segment>
+    <segment id="115">, que tem grandes bacias hidrográficas"</segment>
+    <segment id="116">, afirma Castro quando questionado sobre os motivos da escolha por hidrelétricas.</segment>
+    <segment id="117">O apagão de 2001</segment>
+    <segment id="118">, porém</segment>
+    <segment id="119">porém, mostrou ao país que era necessário diversificar a sua matriz elétrica.</segment>
+    <segment id="120">Em 2010</segment>
+    <segment id="121">, as usinas termoelétricas começaram a sofrer uma expansão</segment>
+    <segment id="122">, mesmo ano em que foi construída a primeira usina solar comercial no Brasil</segment>
+    <segment id="123">, no Ceará.</segment>
+    <segment id="124">As eólicas também começam a crescer na mesma época e é a fonte que mais cresceu nos últimos anos.</segment>
+    <segment id="125">Apagão de 2001 teve protestos</segment>
+    <segment id="126">, &amp;#</segment>
+    <segment id="127">039;kit racionamento&amp;#039</segment>
+    <segment id="128">; e futebol mais cedoMais    novamente         de   de  de  representando um</segment>
+    <segment id="129">Como o Estado</segment>
+    <segment id="130">sese planeja para a demanda de energia no Brasil?</segment>
+    <segment id="131">Todos os anos</segment>
+    <segment id="132">, a Empresa de Pesquisa Energética faz projeções para os próximos dez anos em relação ao consumo de energia no Brasil.</segment>
+    <segment id="133">"</segment>
+    <segment id="134">A expansão da demanda é aleatória.</segment>
+    <segment id="135">Então você faz estimativas</segment>
+    <segment id="136">, previsões de</segment>
+    <segment id="137">comocomo ela vai crescer"</segment>
+    <segment id="138">, explica.</segment>
+    <segment id="139">Para isso</segment>
+    <segment id="140">, os pesquisadores entram em contato com distribuidoras</segment>
+    <segment id="141">, associações de empresas de diferentes setores</segment>
+    <segment id="142">, analisa estatísticas do PIB</segment>
+    <segment id="143">, do crescimento populacional e da urbanização.</segment>
+    <segment id="144">É com base nesse planejamento que o governo deve decidir</segment>
+    <segment id="145">sese faz leilões para construir novas usinas e linhas de transmissão.</segment>
+  </rst>
+</analysis>

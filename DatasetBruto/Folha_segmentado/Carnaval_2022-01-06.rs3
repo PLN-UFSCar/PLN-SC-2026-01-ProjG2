@@ -1,0 +1,152 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Prefeitura de São Paulo decidiu cancelar o Carnaval de rua deste ano.</segment>
+    <segment id="2">A medida</segment>
+    <segment id="3">sese deve ao aumento de casos de coronavírus causados pela variante ômicron e à epidemia de influenza.</segment>
+    <segment id="4">A gestão Ricardo Nunes (MDB) também desistiu de fazer o evento no autódromo de Interlagos ou em qualquer lugar fechado</segment>
+    <segment id="5">, como</segment>
+    <segment id="6">como havia sido aventado</segment>
+    <segment id="7">, após recomendação da Vigilância Sanitária em reunião no gabinete do prefeito na manhã desta quinta-feira (6).</segment>
+    <segment id="8">No início de dezembro</segment>
+    <segment id="9">, a vigilância já havia aconselhado Nunes a não realizar a festa de Réveillon na avenida Paulista</segment>
+    <segment id="10">, e o evento acabou cancelado.</segment>
+    <segment id="11">Bloco de Carnaval na região do parque Ibirapuera</segment>
+    <segment id="12">, em São Paulo</segment>
+    <segment id="13">, em 2020 - Eduardo Knapp - 1.mar.20/FolhapressO cancelamento do Carnaval de rua já foi decidido em outras cidades</segment>
+    <segment id="14">comocomo Rio de Janeiro</segment>
+    <segment id="15">, Olinda e Salvador.</segment>
+    <segment id="16">A lista de municípios que tiraram a folia da agenda chega a pelo menos 58 no interior paulista</segment>
+    <segment id="17">, litoral e Grande São Paulo.</segment>
+    <segment id="18">Como no Rio</segment>
+    <segment id="19">, o desfile das escolas de samba está mantido</segment>
+    <segment id="20">, masmas a Secretaria da Saúde recomendou protocolos mais rígidos para os desfiles no Sambódromo do Anhembi.</segment>
+    <segment id="21">Segundo o secretário municipal da Saúde</segment>
+    <segment id="22">, Edson Aparecido</segment>
+    <segment id="23">, a prefeitura vai discutir com a Liga-SP (a liga as escolas de samba) quais serão os novos procedimentos.</segment>
+    <segment id="24">A pasta quer evitar</segment>
+    <segment id="25">, por exemplo</segment>
+    <segment id="26">, aglomeração na concentração antes dos desfiles.</segment>
+    <segment id="27">Haverá novos protocolos</segment>
+    <segment id="28">, inclusive</segment>
+    <segment id="29">, para os ensaios</segment>
+    <segment id="30">, que já são realizados desde setembro do ano passado.</segment>
+    <segment id="31">Ele citou a Corrida de São Silvestre</segment>
+    <segment id="32">, dizendo que todos os corredores usavam máscara na largada e tiveram de apresentar passaporte de vacina com duas doses para participar.</segment>
+    <segment id="33">Eventos relacionados ao Carnaval</segment>
+    <segment id="34">, como</segment>
+    <segment id="35">como bailes</segment>
+    <segment id="36">, terão de exigir comprovante de vacinação</segment>
+    <segment id="37">, independentemente do número de pessoas</segment>
+    <segment id="38">, segundo a secretaria.</segment>
+    <segment id="39">Coordenador da Vigilância Sanitária da capital paulista</segment>
+    <segment id="40">, Luiz Antonio Vieira Caldeira apresentou nesta quinta números que mostram a alta de internações de pessoas com sintomas de síndrome gripal</segment>
+    <segment id="41">, incluindo Covid-19 e Influenza.</segment>
+    <segment id="42">Segundo ele</segment>
+    <segment id="43">, a análise</segment>
+    <segment id="44">, que terminou na noite de quarta-feira</segment>
+    <segment id="45">, ainda tem cerca de 40% de atraso na notificação dos dados</segment>
+    <segment id="46">, principalmente por causa do ataque hacker no site do Ministério da Saúde</segment>
+    <segment id="47">, no mês passado.</segment>
+    <segment id="48">Mesmo assim</segment>
+    <segment id="49">, afirmou</segment>
+    <segment id="50">, a procura de pacientes com sintomas gripais</segment>
+    <segment id="51">, incluindo Covid-19 e influenza</segment>
+    <segment id="52">, na rede municipal de saúde</segment>
+    <segment id="53">, foi semelhante ao pico da Covid</segment>
+    <segment id="54">, em março e abril.</segment>
+    <segment id="55">Caldeira ressaltou</segment>
+    <segment id="56">, entretanto</segment>
+    <segment id="57">, que os casos de Covid são mais leves</segment>
+    <segment id="58">, apesar da velocidade maior de transmissão da variante ômicron do coronavírus</segment>
+    <segment id="59">, e que a vacinação evitou mortes</segment>
+    <segment id="60">, que continuam em queda.  "</segment>
+    <segment id="61">A velocidade de transmissão da ômicron nos preocupa"</segment>
+    <segment id="62">, disse ele</segment>
+    <segment id="63">, lembrando que no meio de dezembro passado a nova cepa já era responsável 50% de prevalência dos casos.</segment>
+    <segment id="64">"</segment>
+    <segment id="65">O mundo não estava esperando o rebote de Covid.</segment>
+    <segment id="66">Ela voltou e com força.</segment>
+    <segment id="67">"</segment>
+    <segment id="68">Charge do ilustrador Ricardo Scarpa sobre o cancela/não cancela o carnaval de 2022 - Ricardo ScarpaNa quarta (5)</segment>
+    <segment id="69">, o secretário da Saúde</segment>
+    <segment id="70">, Edson Aparecido</segment>
+    <segment id="71">, afirmou que os primeiros dados analisados pela Covisa mostraram que o grau de disseminação da variante ômicron do novo coronavírus segue um gráfico que aponta para um rápido crescimento de contágio em um curto espaço de tempo.</segment>
+    <segment id="72">Nos últimos dez dias</segment>
+    <segment id="73">, segundo ele</segment>
+    <segment id="74">, os atendimentos de pacientes suspeitos com Covid-19 cresceram 30% na cidade</segment>
+    <segment id="75">, apesar de ainda não terem impactado nos hospitais da rede municipal.</segment>
+    <segment id="76">Aparecido lembrou que</segment>
+    <segment id="77">, com uma variante com um grau de transmissibilidade muito acentuado</segment>
+    <segment id="78">, como</segment>
+    <segment id="79">como a ômicron</segment>
+    <segment id="80">, a cidade deverá ter meses de janeiro e fevereiro pressionados pelo aumento de Covid-19.</segment>
+    <segment id="81">Segundo a Secretaria Municipal da Saúde</segment>
+    <segment id="82">, somente nos quatro primeiros dias de janeiro foram realizados 32.403 atendimentos a pessoas com sintomas respiratórios</segment>
+    <segment id="83">, sendo 18.267 suspeitos de Covid-19</segment>
+    <segment id="84">, nas unidades de saúde da capital.</segment>
+    <segment id="85">Charge do ilustrador Ricardo Scarpa sobre o Carnaval de 2022 - Ricardo ScarpaO mais recente sequenciamento genético feito pela secretaria em parceria com o Instituto Butantan apontou que a variante representa 50% de prevalência entre os casos pacientes com o novo coronavírus na cidade.</segment>
+    <segment id="86">O percentual de prevalência pode ser ainda maior</segment>
+    <segment id="87">, já que os números</segment>
+    <segment id="88">, divulgados nesta terça-feira (4)</segment>
+    <segment id="89">, são referentes à semana dos dias 12 a 18 de dezembro.</segment>
+    <segment id="90">A pressão para o cancelamento da folia na capital veio também do governo estadual.</segment>
+    <segment id="91">Ainda na quarta-feira</segment>
+    <segment id="92">, o médico João Gabbardo</segment>
+    <segment id="93">, coordenador do comitê científico que aconselha a gestão João Doria (PSDB) nas decisões para o combate à pandemia</segment>
+    <segment id="94">, disse que "é impensável manter o Carnaval de rua sem controle de vacinação".</segment>
+    <segment id="95">No Carnaval de rua</segment>
+    <segment id="96">, lembrou</segment>
+    <segment id="97">, não há</segment>
+    <segment id="98">comocomo fazer o controle e fica liberada a participação de qualquer pessoa.</segment>
+    <segment id="99">"</segment>
+    <segment id="100">Não não tem</segment>
+    <segment id="101">comocomo acompanhar</segment>
+    <segment id="102">sese [o folião] está vacinado.</segment>
+    <segment id="103">A aglomeração é imensa"</segment>
+    <segment id="104">, disse.  "</segment>
+    <segment id="105">A recomendação é evitar que isso [Carnaval] aconteça</segment>
+    <segment id="106">, porém</segment>
+    <segment id="107">porém, a decisão cabe em súmula àqueles que dirigem o comando das prefeituras"</segment>
+    <segment id="108">, afirmou o governador</segment>
+    <segment id="109">, na mesma entrevista coletiva.</segment>
+    <segment id="110">Carnaval de Rua de São Paulo 2020Mais    novamente         de   de  de  representando um</segment>
+    <segment id="111">Também na quarta</segment>
+    <segment id="112">, o Fórum de Blocos de Carnaval de Rua de São Paulo</segment>
+    <segment id="113">, a União Blocos Carnaval do Estado de São Paulo e a Comissão Feminina de Carnaval de São Paulo cancelaram a participação no Carnaval de rua paulistano.</segment>
+    <segment id="114">As entidades também afirmaram que não participariam do evento</segment>
+    <segment id="115">casocaso ele fosse realizado em um local com entrada controlada</segment>
+    <segment id="116">, como</segment>
+    <segment id="117">como o Autódromo de Interlagos.</segment>
+    <segment id="118">Os grupos representam 250 blocos que estavam inscritos para a folia —ao todo</segment>
+    <segment id="119">, a capital recebeu inscrição de cerca de 680 blocos.</segment>
+    <segment id="120">Eles alegam insegurança sanitária para participação do evento</segment>
+    <segment id="121">, falta de consenso entre as três esferas políticas e não inclusão dos blocos e coletivos nas tratativas da organização.</segment>
+    <segment id="122">Pouco antes do Natal</segment>
+    <segment id="123">, grandes blocos</segment>
+    <segment id="124">, como</segment>
+    <segment id="125">como os das cantoras Daniela Mercury e Glória Groove</segment>
+    <segment id="126">, já haviam cancelado os desfiles em São Paulo.</segment>
+  </rst>
+</analysis>

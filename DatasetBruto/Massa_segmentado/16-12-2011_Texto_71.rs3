@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Jéssica Correia
+Princesa da folia mostra toda a sua ginga</segment>
+    <segment id="2">A dançarina Jéssica Correia</segment>
+    <segment id="3">, 20 anos</segment>
+    <segment id="4">, mora no bairro do Garcia e atualmente carrega o título de Princesa do Carnaval 2011.</segment>
+    <segment id="5">“Acredito representar muito bem a mulher negra da minha terra”.</segment>
+    <segment id="6">A gata faz faculdade de Direito</segment>
+    <segment id="7">, pois</segment>
+    <segment id="8">pois quer lutar pelas mulheres e pelos negros no país.</segment>
+    <segment id="9">Neste verão</segment>
+    <segment id="10">, a mulata só quer saber</segment>
+    <segment id="11">sese aproveitar o sol e os ensaios.</segment>
+    <segment id="12">“Quero ir à Barra tomar banho de mar e curtir Harmonia do Samba e Psirico”</segment>
+    <segment id="13">, deseja.</segment>
+  </rst>
+</analysis>

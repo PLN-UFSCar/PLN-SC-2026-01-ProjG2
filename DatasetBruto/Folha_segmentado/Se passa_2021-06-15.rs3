@@ -1,0 +1,114 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente Jair Bolsonaro (sem partido) criticou nesta terça-feira (15) a proposta que cria um passaporte da vacinação contra a Covid e prometeu vetar o texto</segment>
+    <segment id="2">casocaso ele seja aprovado no Congresso.</segment>
+    <segment id="3">"</segment>
+    <segment id="4">O que tu acha do passaporte da Covid?</segment>
+    <segment id="5">Tem uma onda ontem aí</segment>
+    <segment id="6">, estourou nas redes sociais.</segment>
+    <segment id="7">Sem comentários</segment>
+    <segment id="8">, né?</segment>
+    <segment id="9">A vacina vai ser obrigatória no Brasil?</segment>
+    <segment id="10">Não tem cabimento"</segment>
+    <segment id="11">, disse Bolsonaro</segment>
+    <segment id="12">, em conversa com apoiadores em frente ao Palácio da Alvorada.</segment>
+    <segment id="13">A fala foi transmitida por um site bolsonarista.</segment>
+    <segment id="14">"</segment>
+    <segment id="15">Alguns falam [que] para você viajar tem que ter um cartão de vacinação.</segment>
+    <segment id="16">Ora, cada país faça as suas regras.</segment>
+    <segment id="17">Se para ir para tal país tem que ter tomado tal vacina e você não tomar</segment>
+    <segment id="18">, você não entra"</segment>
+    <segment id="19">, disse Bolsonaro.</segment>
+    <segment id="20">Motociata com Bolsonaro em SP   novamente         de   de  de  representando um  "</segment>
+    <segment id="21">Eu não acredito que [o projeto] passe pelo Parlamento.</segment>
+    <segment id="22">Se passar eu veto</segment>
+    <segment id="23">, daí o Parlamento vai analisar o veto.</segment>
+    <segment id="24">Se derrubar</segment>
+    <segment id="25">, daí é lei"</segment>
+    <segment id="26">,</segment>
+    <segment id="27">acrescentou.</segment>
+    <segment id="28">O Senado aprovou na quinta (10) a criação de um passaporte de vacinação que poderá ser cobrado para autorizar a entrada de pessoas em espaços públicos e privados</segment>
+    <segment id="29">, como</segment>
+    <segment id="30">como transporte coletivo</segment>
+    <segment id="31">, hotéis e parques.</segment>
+    <segment id="32">A matéria ainda precisa ser analisada pela Câmara dos Deputados.</segment>
+    <segment id="33">A fala do presidente contraria posicionamentos apresentados em mais de uma ocasião pelo ministro Paulo Guedes (Economia)</segment>
+    <segment id="34">, que apoia o chamado passaporte da imunidade e defende a vacinação em massa para permitir um retorno seguro das pessoas ao trabalho.</segment>
+    <segment id="35">Em entrevista à imprensa no ano passado</segment>
+    <segment id="36">, Guedes disse que gosta da ideia do passaporte e usou</segment>
+    <segment id="37">comocomo exemplo shoppings e empresas</segment>
+    <segment id="38">, que poderiam cobrar comprovação de que a pessoa foi vacinada.</segment>
+    <segment id="39">“Tem que ter vacina pra todo mundo</segment>
+    <segment id="40">, gratuita e de livre escolha de cada um.</segment>
+    <segment id="41">E sese alguém não quiser tomar</segment>
+    <segment id="42">, ele tem o direito de não tomar.</segment>
+    <segment id="43">Agora, ele também não deve ir num cinema.</segment>
+    <segment id="44">Ele não tomou</segment>
+    <segment id="45">, [o vírus] pode estar inoculado</segment>
+    <segment id="46">, passando isso para os outros</segment>
+    <segment id="47">, ele tem que ter a circulação restrita”</segment>
+    <segment id="48">, afirmou o ministro.</segment>
+    <segment id="49">Guedes foi procurado nesta terça</segment>
+    <segment id="50">, masmas não havia</segment>
+    <segment id="51">sese manifestado até a última atualização deste texto.</segment>
+    <segment id="52">Chamado de Certificado de Imunização e Segurança Sanitária (CSS)</segment>
+    <segment id="53">, o documento é inspirado no Certificado Verde Digital</segment>
+    <segment id="54">, criado pela União Europeia.</segment>
+    <segment id="55">Apesar da fala de Bolsonaro</segment>
+    <segment id="56">, o projeto teve apoio do governo e da oposição e segue para análise da Câmara dos Deputados.</segment>
+    <segment id="57">De acordo com as regras</segment>
+    <segment id="58">, o certificado poderá ser impresso ou acessado em plataforma digital e gratuita para comprovar que quem o porta teve resultado negativo para o coronavírus ou já tomou vacina contra a Covid-19 ou outras doenças que possam vir a causar surtos e pandemias no país.</segment>
+    <segment id="59">A proposta determina que a autoridade competente defina quais imunizantes e testes serão aceitos no comprovante.</segment>
+    <segment id="60">Caberá à União</segment>
+    <segment id="61">, aos estados</segment>
+    <segment id="62">, ao Distrito Federal e aos municípios definir onde a apresentação do certificado será obrigatória.</segment>
+    <segment id="63">No caso</segment>
+    <segment id="64">caso de adoção de medidas restritivas</segment>
+    <segment id="65">, o titular do CSS atualizado não poderá ser impedido de entrar em</segment>
+    <segment id="66">, circular por ou utilizar esses locais</segment>
+    <segment id="67">, desde que respeite as medidas sanitárias profiláticas determinadas.</segment>
+    <segment id="68">Os estabelecimentos que exigirem o documento deverão divulgar a seguinte mensagem na entrada:</segment>
+    <segment id="69">“</segment>
+    <segment id="70">O ingresso neste local está condicionado à apresentação do Certificado de Imunização e Segurança Sanitária (CSS)”.</segment>
+    <segment id="71">Pelo projeto</segment>
+    <segment id="72">, os comércios e empresas que cumprirem as medidas não poderão sofrer sanções ou restrições ou serem impedidas de funcionar</segment>
+    <segment id="73">, masmas deverão cumprir as demais regras para evitar a proliferação do vírus definidas pelos governos.</segment>
+    <segment id="74">O texto também prevê que</segment>
+    <segment id="75">, caso</segment>
+    <segment id="76">caso seja estabelecida a necessidade de apresentação do Certificado Internacional de Vacinação e/ou testagem para entrada no Brasil</segment>
+    <segment id="77">, os postos consulares no exterior poderão intermediar a emissão do CSS.</segment>
+    <segment id="78">Se for instituída alguma cobrança para expedir o documento fora do país</segment>
+    <segment id="79">, o projeto determina que os estudantes brasileiros que comprovarem que estudam</segment>
+    <segment id="80">, pesquisam ou participam de atividade de extensão no exterior fiquem isentos do pagamento.</segment>
+    <segment id="81">A plataforma digital do CSS será operada pela União</segment>
+    <segment id="82">, em coordenação com estados</segment>
+    <segment id="83">, Distrito Federal</segment>
+    <segment id="84">, municípios e serviços públicos e privados de saúde credenciados.</segment>
+    <segment id="85">Caberá ao governo federal criar a fonte orçamentária para implantação do passaporte.</segment>
+    <segment id="86">O projeto determina que haverá responsabilização nas esferas civil</segment>
+    <segment id="87">, administrativa e penal para quem produzir</segment>
+    <segment id="88">, utilizar ou comercializar certificado falso.</segment>
+  </rst>
+</analysis>

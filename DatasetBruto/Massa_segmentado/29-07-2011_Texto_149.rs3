@@ -1,0 +1,64 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">E-mails apontam falhas em avião da Noar que caiu em Recife
+RECIFE -</segment>
+    <segment id="2">Problemas técnicos no avião LET-410 prefixo PR-NOB da empresa Noar</segment>
+    <segment id="3">, que caiu mês passado em Pernambuco matando 16 pessoas</segment>
+    <segment id="4">, já eram conhecidos há um ano pela companhia.</segment>
+    <segment id="5">É o que mostra uma troca de e-mails entre o piloto Rivaldo Paurílio Cardoso e o diretor-executivo da empresa</segment>
+    <segment id="6">, Marjony Camelo</segment>
+    <segment id="7">, à qual o GLOBO teve acesso.</segment>
+    <segment id="8">Nas mensagens</segment>
+    <segment id="9">, Rivaldo alerta para a manutenção e chega a sugerir que a Noar suspenda os voos com a aeronave.</segment>
+    <segment id="10">Rivaldo morreu no acidente ao lado do copiloto Roberto Gonçalves</segment>
+    <segment id="11">, que também já havia manifestado a preocupação com as condições da aeronave.</segment>
+    <segment id="12">Segundo ele</segment>
+    <segment id="13">, o avião vinha perdendo força durante as decolagens.</segment>
+    <segment id="14">Conteúdo semelhante ao relatado nos e-mails foi encontrado num caderno de anotações dos pilotos</segment>
+    <segment id="15">, masmas que fazia referência ao LET-410 PR-NOA</segment>
+    <segment id="16">, hoje o único avião da empresa.</segment>
+    <segment id="17">Os registros foram mostrados pela Rede Globo em 18 de julho.</segment>
+    <segment id="18">De acordo com o caderno</segment>
+    <segment id="19">, a aeronave apresenta problemas graves</segment>
+    <segment id="20">, com a possibilidade de uma peça "</segment>
+    <segment id="21">sese soltar no voo".</segment>
+    <segment id="22">Por conta do documento não oficial</segment>
+    <segment id="23">, a Agência Nacional de Aviação Civil proibiu a empresa de operar.</segment>
+    <segment id="24">E-mails e anotações paralelas não são usuais na aviação.</segment>
+    <segment id="25">De acordo com as mensagens de Rivaldo</segment>
+    <segment id="26">, enviados a Marjony com cópias para outros funcionários da Noar</segment>
+    <segment id="27">, os problemas com o avião que caiu eram tão frequentes que o piloto chegou a sugerir "um relatório de alerta"</segment>
+    <segment id="28">, a ser enviado a todos os operadores de LET no Brasil.</segment>
+    <segment id="29">Em e-mail de 28 de julho de 2010</segment>
+    <segment id="30">, Marjony pede ao piloto que relate as falhas do avião:</segment>
+    <segment id="31">"solicito relatório sucinto sobre todas as panes ocorridas com o PR-NOB</segment>
+    <segment id="32">, bem como</segment>
+    <segment id="33">como a fase do voo em que estas panes ocorreram".</segment>
+    <segment id="34">Segundo especialista em aviação ouvido pelo GLOBO</segment>
+    <segment id="35">, não é comum um diretor pedir esse tipo de informação</segment>
+    <segment id="36">, que deveria estar nos registros de manutenção.</segment>
+    <segment id="37">Leia a íntegra desta reportagem no GLOBO Digital (conteúdo exclusivo para assinantes)</segment>
+  </rst>
+</analysis>

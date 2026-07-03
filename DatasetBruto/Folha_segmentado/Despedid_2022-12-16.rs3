@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A despedida de Marcelo Queiroga do Ministério da Saúde na última quarta-feira (14) foi marcada por choro do filho do ministro</segment>
+    <segment id="2">, o estudante de medicina Antônio Cristóvão Neto (PL)</segment>
+    <segment id="3">, que elogiou o presidente Jair Bolsonaro (PL) durante o evento.</segment>
+    <segment id="4">Filho do ministro</segment>
+    <segment id="5">Marcelo Queiroga</segment>
+    <segment id="6">sese emociona na despedida do pai do Ministério da Saúde - Ministério da SaúdeEmocionado</segment>
+    <segment id="7">, segundo presentes</segment>
+    <segment id="8">, Queiroguinha</segment>
+    <segment id="9">, como</segment>
+    <segment id="10">como é conhecido o filho do ministro</segment>
+    <segment id="11">, afirmou que Bolsonaro era o homem mais íntegro que conhecia.</segment>
+    <segment id="12">Queiroguinha foi acusado de usar a estrutura do ministério em prol de sua candidatura a deputado federal nas eleições</segment>
+    <segment id="13">, da qual desistiria.</segment>
+    <segment id="14">Na homenagem desta quarta</segment>
+    <segment id="15">, a esposa do ministro</segment>
+    <segment id="16">, Simone Queiroga</segment>
+    <segment id="17">, recebeu um buquê de flores.</segment>
+    <segment id="18">A foto de Queiroga foi colocada na galeria de ex-ministros da Saúde.</segment>
+  </rst>
+</analysis>

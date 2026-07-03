@@ -1,0 +1,152 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Lembro que depois de alguma travessura minha mãe sempre falava:</segment>
+    <segment id="2">"</segment>
+    <segment id="3">Edgardzinho</segment>
+    <segment id="4">, por favor</segment>
+    <segment id="5">, ponha a mão na consciência!</segment>
+    <segment id="6">".</segment>
+    <segment id="7">Quando meu senso de humor (ou nível de coragem) permitia</segment>
+    <segment id="8">, eu retrucava: "</segment>
+    <segment id="9">Mas onde fica a consciência?</segment>
+    <segment id="10">".</segment>
+    <segment id="11">A pergunta tem cara de provocação</segment>
+    <segment id="12">, é claro.</segment>
+    <segment id="13">Mas o surpreendente é que questões parecidas são formuladas por diversos cientistas</segment>
+    <segment id="14">, em diversas disciplinas.</segment>
+    <segment id="15">A surpresa?</segment>
+    <segment id="16">A consciência também é matemática!</segment>
+    <segment id="17">Uma teoria da consciência é motivada por diversas perguntas.</segment>
+    <segment id="18">Por exemplo</segment>
+    <segment id="19">, por que é mais fácil associar a cor cinza à cor preta do que à amarela?</segment>
+    <segment id="20">Ou por que é que quando vemos um relâmpago esperamos escutar um trovão?</segment>
+    <segment id="21">Ilustração: Julia Jabur - Instituto Serrapilheira  Note que há perguntas acerca da consciência que dizem respeito à maneira</segment>
+    <segment id="22">comocomo o cérebro estabelece relações (relâmpago e trovão) por meio de sentidos diferentes (visão e audição).</segment>
+    <segment id="23">E há outras questões também muito interessantes.</segment>
+    <segment id="24">Uma delas relaciona a consciência ao volume de atividade cerebral.</segment>
+    <segment id="25">Durante a fase REM do sono (REM é a sigla para movimento rápido dos olhos)</segment>
+    <segment id="26">, por exemplo</segment>
+    <segment id="27">, não estamos conscientes</segment>
+    <segment id="28">, embora</segment>
+    <segment id="29">embora ocorra intensa atividade cerebral.</segment>
+    <segment id="30">Outra questão envolve a estrutura necessária</segment>
+    <segment id="31">para que</segment>
+    <segment id="32">para que um organismo desenvolva consciência.</segment>
+    <segment id="33">Um recém-nascido tem consciência?</segment>
+    <segment id="34">Ainda nessa linha</segment>
+    <segment id="35">, é possível que um computador desenvolva consciência?</segment>
+    <segment id="36">Essas duas classes de perguntas têm sido examinadas na literatura por meio de modelos matemáticos rigorosos.</segment>
+    <segment id="37">A teoria associada à primeira classe de perguntas (relâmpago e trovão) concentra-</segment>
+    <segment id="38">sese na estrutura do cérebro.</segment>
+    <segment id="39">Aqui, a consciência é uma fotografia da atividade cerebral em determinado instante.</segment>
+    <segment id="40">E essa fotografia precisa ser interpretada à luz de relações entre regiões distintas do cérebro.</segment>
+    <segment id="41">Vamos comparar dois estados distintos do cérebro.</segment>
+    <segment id="42">Por exemplo</segment>
+    <segment id="43">, quando vejo uma fotografia do Caetano Veloso e ouço dizerem "Armênia" ou "Londres".</segment>
+    <segment id="44">Em ambos os casos</segment>
+    <segment id="45">, meu cérebro tem estados parecidos</segment>
+    <segment id="46">, pois</segment>
+    <segment id="47">pois as áreas responsáveis pela visão e pela audição estão ativas.</segment>
+    <segment id="48">Entretanto</segment>
+    <segment id="49">, minha biblioteca de informações gera relações diferentes entre os dois conjuntos de estímulos e</segment>
+    <segment id="50">, do ponto de vista da consciência</segment>
+    <segment id="51">, eu obtenho resultados diferentes.</segment>
+    <segment id="52">Quando vejo a fotografia e ouço a palavra Armênia penso no disco "Muito"</segment>
+    <segment id="53">, que escutei vezes sem conta a caminhar pela capital</segment>
+    <segment id="54">, Yerevan</segment>
+    <segment id="55">, em 2018.</segment>
+    <segment id="56">Quando ouço a palavra Londres ao ver a mesma foto</segment>
+    <segment id="57">, penso no conceito de exílio.</segment>
+    <segment id="58">Uma explicação para consciências tão díspares é proposta pelo cientista britânico Jonathan Mason.</segment>
+    <segment id="59">O cérebro escolhe</segment>
+    <segment id="60">comocomo relacionar as duas informações – visual e auditiva – sopesando a minimização de um custo!</segment>
+    <segment id="61">Na verdade</segment>
+    <segment id="62">, dado um conjunto de estímulos</segment>
+    <segment id="63">, o cérebro minimiza a quantidade de informação necessária para interpretá-lo à luz das referências disponíveis (erudição</segment>
+    <segment id="64">, experiências ou algo parecido).</segment>
+    <segment id="65">A consciência nada mais é do que o resultado desse processo.</segment>
+    <segment id="66">E esse custo não é uma medida qualquer</segment>
+    <segment id="67">, masmas sim uma medida da desorganização do sistema.</segment>
+    <segment id="68">Em outras palavras</segment>
+    <segment id="69">, uma forma de entropia.</segment>
+    <segment id="70">Parecida com a medida introduzida por Claude Shannon quando da fundação da teoria da informação.</segment>
+    <segment id="71">No caso</segment>
+    <segment id="72">caso que nos interessa</segment>
+    <segment id="73">, vê-se</segment>
+    <segment id="74">se que consciência depende do estoque de experiências do cérebro – o que diz algo sobre a consciência em recém-nascidos</segment>
+    <segment id="75">, por exemplo.</segment>
+    <segment id="76">A teoria baseada em minimização da entropia é indutiva.</segment>
+    <segment id="77">Isto é</segment>
+    <segment id="78">, começa com um objeto concreto (o cérebro e suas estruturas)</segment>
+    <segment id="79">, e propõe um modelo.</segment>
+    <segment id="80">Outra maneira de ver o problema é dedutiva: pensamos em abstrato e imaginamos que a consciência está ligada a alguma estrutura.</segment>
+    <segment id="81">O cérebro humano seria apenas mais uma das estruturas em que ela ocorre.</segment>
+    <segment id="82">E começamos com axiomas e postulados –</segment>
+    <segment id="83">comocomo fez Euclides</segment>
+    <segment id="84">, que nos brindou com o axioma das retas paralelas.</segment>
+    <segment id="85">Usando lógica</segment>
+    <segment id="86">, manipulamos os axiomas e postulados e tiramos conclusões.</segment>
+    <segment id="87">E como</segment>
+    <segment id="88">como a teoria opera sem pressupor o cérebro</segment>
+    <segment id="89">comocomo lugar da consciência</segment>
+    <segment id="90">, esta pode acontecer em qualquer sistema.</segment>
+    <segment id="91">Quem faz este exercício dedutivo é a teoria da informação integrada da consciência (IIT).</segment>
+    <segment id="92">Dentre os axiomas em que</segment>
+    <segment id="93">sese baseia a IIT estão a existência (a consciência existe)</segment>
+    <segment id="94">, a composição (a experiência</segment>
+    <segment id="95">sese compõe de informações diferentes) e a exclusão (em cada instante do tempo</segment>
+    <segment id="96">, ocorre apenas uma experiência).</segment>
+    <segment id="97">Já os postulados são acerca dos mecanismos que viabilizam a experiência</segment>
+    <segment id="98">, como</segment>
+    <segment id="99">como nossos sentidos</segment>
+    <segment id="100">; entre eles</segment>
+    <segment id="101">, figura a existência de mecanismos e a sua composição: mecanismos elementares</segment>
+    <segment id="102">sese combinam em outros mais complexos (</segment>
+    <segment id="103">comocomo o corpo humano).</segment>
+    <segment id="104">Lembre-</segment>
+    <segment id="105">sese de que a IIT não pressupõe o cérebro e opera em um nível mais abstrato.</segment>
+    <segment id="106">Como consequência</segment>
+    <segment id="107">, ela apresenta conclusões mais gerais.</segment>
+    <segment id="108">Uma delas é que sistemas inativos (p.ex.</segment>
+    <segment id="109">um paciente em coma) pode ter consciência.</segment>
+    <segment id="110">Outra consequência interessante é que dois neurônios bastam para produzir consciência.</segment>
+    <segment id="111">Ou melhor</segment>
+    <segment id="112">, um emissor e um receptor de sinal são suficientes para produzir consciência.</segment>
+    <segment id="113">Um possível corolário é a viabilidade da consciência artificial.</segment>
+    <segment id="114">Um risco grave do tratamento teórico do que quer que seja é a simplificação</segment>
+    <segment id="115">, que ao ser exageradamente redutora pode remover a beleza do fenômeno que nos encantou a princípio.</segment>
+    <segment id="116">No caso</segment>
+    <segment id="117">caso de uma teoria matemática que tenta explicar</segment>
+    <segment id="118">comocomo apreendemos o mundo</segment>
+    <segment id="119">, estamos conscientes de que este risco não</segment>
+    <segment id="120">sese põe.  *  Edgard Pimentel é professor do Departamento de Matemática da Universidade de Coimbra e pesquisador do CMUC.</segment>
+    <segment id="121">O blog Ciência Fundamental é editado pelo Serrapilheira</segment>
+    <segment id="122">, um instituto privado</segment>
+    <segment id="123">, sem fins lucrativos</segment>
+    <segment id="124">, que promove a ciência no Brasil.</segment>
+    <segment id="125">Inscreva-</segment>
+    <segment id="126">sese na newsletter do Serrapilheira para acompanhar as novidades do instituto e do blog.</segment>
+  </rst>
+</analysis>

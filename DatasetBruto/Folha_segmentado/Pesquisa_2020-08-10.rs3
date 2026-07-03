@@ -1,0 +1,35 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Termômetro Pesquisas encomendadas pelo PT nos últimos dias sugerem que o partido está na frente na corrida eleitoral nas cidades de Vitória (ES)</segment>
+    <segment id="2">, com o ex-prefeito João Coser</segment>
+    <segment id="3">, e em Recife (PE)</segment>
+    <segment id="4">, com Marilia Arraes.</segment>
+    <segment id="5">Com Mariana Carneiro</segment>
+    <segment id="6">, Guilherme Seto e Nathalia Garcia  VEJA</segment>
+    <segment id="7">OS TEMAS ABORDADOS PELA COLUNA NESTA TERÇA (11)TJ de SP vai dar prêmio de até R$ 100 mil para desembargadores julgarem processos durante a crisePF diz que deputado bolsonarista usou mãe e irmão</segment>
+    <segment id="8">comocomo laranjas em reforma de aeroportoGoverno quer realocar R$ 410 milhões para operação na Amazônia comandada por MourãoEquipe de Guedes recalibra discurso de novo imposto para</segment>
+    <segment id="9">sese afastar de rejeição à CPMFPesquisas encomendadas pelo PT sugerem sigla na frente em Vitória e Recife</segment>
+  </rst>
+</analysis>

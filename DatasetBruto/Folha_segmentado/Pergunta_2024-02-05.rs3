@@ -1,0 +1,97 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Foi-se</segment>
+    <segment id="2">se o tempo em que fazer ciência era ser cientista.</segment>
+    <segment id="3">Hoje em dia</segment>
+    <segment id="4">, as duas coisas são estranhamente dissociáveis</segment>
+    <segment id="5">, o que até tem a sua lógica e o seu lugar.</segment>
+    <segment id="6">Mas a pressão por fazer ciência está matando os cientistas.  TodasDiscussões</segment>
+    <segment id="7">, notícias e reflexões pensadas para mulheresCarregando...</segment>
+    <segment id="8">O "publicar ou morrer" é um mero detalhe na história.</segment>
+    <segment id="9">Se fazer ciência é gerar conhecimento</segment>
+    <segment id="10">, então esse conhecimento gerado precisa ser disseminado</segment>
+    <segment id="11">, e isso acontece através de publicações científicas:</segment>
+    <segment id="12">relatórios preparados de acordo com regras e critérios cuja função é assegurar que o que é publicado será imediatamente útil a outros cientistas.</segment>
+    <segment id="13">Nos dias de hoje</segment>
+    <segment id="14">, infelizmente</segment>
+    <segment id="15">, existe zero garantia de que toda publicação de fato apresenta conhecimento novo</segment>
+    <segment id="16">; portanto</segment>
+    <segment id="17">, o número de publicações não é necessariamente medida da quantidade de conhecimento gerado por um cientista.</segment>
+    <segment id="18">Mas quem não produz conhecimento não terá o que publicar –simples assim.</segment>
+    <segment id="19">A ciência tem máquinas e algoritmos à sua disposição que permitem sequenciar genomas inteiros em dias.</segment>
+    <segment id="20">Mapear todos os genes expressos em todas as células de um embrião em desenvolvimento agora é apenas uma questão de possuir financiamento suficiente para contratar profissionais para operar a maquinaria e organizar os dados –coisa que</segment>
+    <segment id="21">, aliás</segment>
+    <segment id="22">, já é cada vez mais automatizada por inteligência artificial.</segment>
+    <segment id="23">Cultura de bactéria Klebsiella pneumoniae preparada pela biomédica Thais Rezende no Laboratório Especial de Microbiologia Clínica da Unifesp- Léo Ramos Chaves / Revista Pesquisa</segment>
+    <segment id="24">FAPESPCada célula pode ser dissecada em suas moléculas-parte:</segment>
+    <segment id="25">temos transcriptomas</segment>
+    <segment id="26">, proteinomas</segment>
+    <segment id="27">, lipidomas</segment>
+    <segment id="28">, metabolomas</segment>
+    <segment id="29">, esses nomes monstruosos para as listas completas dos conjuntos de RNAs transcritos</segment>
+    <segment id="30">, proteínas</segment>
+    <segment id="31">, lipídios ou metabólitos encontrados em cada célula.</segment>
+    <segment id="32">É uma quantidade tão brutal de informação que as próprias revistas científicas não comportam mais os dados que publicam: eles ficam em repositórios externos</segment>
+    <segment id="33">, impossíveis de serem verificados por pares</segment>
+    <segment id="34">porque</segment>
+    <segment id="35">porque não há tempo para isso.</segment>
+    <segment id="36">Donde minha bronca.</segment>
+    <segment id="37">A Ciência</segment>
+    <segment id="38">, que é o conjunto de pessoas mantendo a economia científica a cada momento</segment>
+    <segment id="39">, sese enamorou da automatização que permite volumes descomunais de dados</segment>
+    <segment id="40">, e quer ainda mais.</segment>
+    <segment id="41">Mesmo com automatização</segment>
+    <segment id="42">, lidar com mais dados requer mais pessoas capacitadas em...</segment>
+    <segment id="43">"fazer" ciência</segment>
+    <segment id="44">, da preparação de amostras à organização dos dados</segment>
+    <segment id="45">para que</segment>
+    <segment id="46">para que eles possam ser interpretados.</segment>
+    <segment id="47">A Ciência sempre precisou dessas pessoas</segment>
+    <segment id="48">, que mantêm os laboratórios funcionando</segment>
+    <segment id="49">, e hoje precisa delas ainda mais.</segment>
+    <segment id="50">Mas, nas duas últimas décadas</segment>
+    <segment id="51">, essas pessoas que fazem ciência têm cada vez menos oportunidades para "pensar" em ciência –para "serem" cientistas</segment>
+    <segment id="52">, além de fazer ciência.</segment>
+    <segment id="53">Cientista é quem leva conhecimento suficiente em sua mente a ponto de poder dar sentido a dados novos e interpretá-los</segment>
+    <segment id="54">, gerando mais conhecimento no processo.</segment>
+    <segment id="55">Cientista costumava ser também a pessoa que produz os dados e conduz o processo todo</segment>
+    <segment id="56">, masmas hoje a maioria das pessoas em ciência "faz" ciência sem "ser" cientista de fato.</segment>
+    <segment id="57">Donde minha pergunta:</segment>
+    <segment id="58">sese estivesse começando hoje</segment>
+    <segment id="59">, eu embarcaria em uma carreira científica?</segment>
+    <segment id="60">Os recursos vão cada vez mais para as mãos de cada vez menos laboratórios</segment>
+    <segment id="61">, que agora produzem dados em escala industrial.</segment>
+    <segment id="62">Eu me juntaria a um megalaboratório onde seria muito provavelmente apenas mais uma engrenagem fazendo ciência</segment>
+    <segment id="63">, em troca de talvez um dia poder ser cientista de fato?</segment>
+    <segment id="64">A pergunta hoje não é mais "</segment>
+    <segment id="65">você quer mesmo ser cientista?</segment>
+    <segment id="66">".</segment>
+    <segment id="67">É bem mais complicada.</segment>
+    <segment id="68">Você quer</segment>
+    <segment id="69">sese meter a "fazer ciência" mesmo que você jamais</segment>
+    <segment id="70">sese torne "cientista" de fato?</segment>
+    <segment id="71">Ah, este complexo mundo novo...</segment>
+  </rst>
+</analysis>

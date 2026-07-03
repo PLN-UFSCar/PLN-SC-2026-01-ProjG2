@@ -1,0 +1,51 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Brown é recebido com festa em Salvador
+Carlinhos recebeu uma imagem de Irmã Dulce no desembarque</segment>
+    <segment id="2">O cantor e compositor Carlinhos Brown chegou de Los Angeles</segment>
+    <segment id="3">, onde esteve para participar da cerimônia de entrega do Oscar</segment>
+    <segment id="4">, na manhã desta terça-feira</segment>
+    <segment id="5">, 28.</segment>
+    <segment id="6">No aeroporto Luis Eduardo Magalhães</segment>
+    <segment id="7">, Brown foi recebido por fãs e timbaleiros</segment>
+    <segment id="8">, que tocaram os sucessos da carreira.</segment>
+    <segment id="9">Feliz com o carinho</segment>
+    <segment id="10">, Brown dedicou a indicação ao Oscar a todos os comprometidos com a cultura e agradeceu a torcida dos brasileiros e dos artistas.</segment>
+    <segment id="11">"</segment>
+    <segment id="12">Nós sempre fomos isso: um conjunto.</segment>
+    <segment id="13">Todos temos um comprometimento com a cultura"</segment>
+    <segment id="14">, afirmou.</segment>
+    <segment id="15">Ainda na sua chegada</segment>
+    <segment id="16">, Carlinhos Brown recebeu uma imagem de Irmã Dulce da presidente das Obras Assistenciais de Irmã Dulce</segment>
+    <segment id="17">, Maria Rita Lopes Pontes.</segment>
+    <segment id="18">Carlinhos Brown concorreu à maior premição do cinema mundial na categoria Melhor Canção Original com "Real in Rio"</segment>
+    <segment id="19">, da animação "Rio".</segment>
+    <segment id="20">Ele foi co-autor da canção com Sérgio Mendes e Siedah Garrett.</segment>
+    <segment id="21">A música "Man or Muppet"</segment>
+    <segment id="22">, do filme "</segment>
+    <segment id="23">Os Muppets"</segment>
+    <segment id="24">, foi quem ficou com a premiação.</segment>
+  </rst>
+</analysis>

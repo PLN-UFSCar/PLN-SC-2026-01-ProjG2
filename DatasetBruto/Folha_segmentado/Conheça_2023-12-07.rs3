@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O norueguês Jon Fosse não era muito conhecido no Brasil antes de receber o Nobel de Literatura</segment>
+    <segment id="2">, em outubro</segment>
+    <segment id="3">, masmas era há tempos uma figurinha carimbada para ganhar o principal prêmio literário do mundo.</segment>
+    <segment id="4">Sintoma desse favoritismo é que ele já tinha dois novos livros engatilhados por aqui antes de vencer</segment>
+    <segment id="5">, entre eles o romance "É a Ales"</segment>
+    <segment id="6">, da Companhia das Letras</segment>
+    <segment id="7">, com tradução de Guilherme da Silva Braga.</segment>
+    <segment id="8">É um livro tão singular quanto seu nome é esquisito</segment>
+    <segment id="9">, sobre uma mulher solitária que perdeu o marido no mar.</segment>
+    <segment id="10">A obra é a indicação da semana do Painel das Letras</segment>
+    <segment id="11">, série de vídeos semanais produzida pela TV Folha e apresentada pelo colunista e editor Walter Porto</segment>
+    <segment id="12">, que recomenda livros de ficção e não ficção que acabaram de sair nas livrarias.</segment>
+    <segment id="13">Os vídeos são publicados todas as quintas-feiras nas redes sociais e no canal da Folha no YouTube.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Estraga-prazeres
+Ex-cantor do Parangolé é preso</segment>
+    <segment id="2">A festa de Santa Luzia</segment>
+    <segment id="3">, que acontece todos os anos no bairro de Engenho Velho de Brotas não poderia ter sido tão profanada no último domingo.</segment>
+    <segment id="4">A festa ia ter Igor Kannário (A Bronkka)</segment>
+    <segment id="5">, Márcio Victor (Psirico) e Bambam (ex-Parangolé)</segment>
+    <segment id="6">, que foi o primeiro a</segment>
+    <segment id="7">sese apresentar.</segment>
+    <segment id="8">Segundo o site Bahia Notícias</segment>
+    <segment id="9">, a polícia informou que Bambam incintou  o público contra os seguranças da festa e</segment>
+    <segment id="10">, por isso</segment>
+    <segment id="11">, foi preso ainda quando estava no palco.</segment>
+    <segment id="12">Ele foi solto com fiança</segment>
+    <segment id="13">, masmas a festa acabou e Kannário e Márcio Victor não</segment>
+    <segment id="14">sese apresentaram.</segment>
+  </rst>
+</analysis>

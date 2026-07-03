@@ -1,0 +1,229 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A proposta de Reforma Tributária aprovada pela Câmara dos Deputados modifica os principais impostos e contribuições sobre o consumo.</segment>
+    <segment id="2">O texto será analisado agora pelo Senado.</segment>
+    <segment id="3">Veja quais as principais mudanças para consumidores</segment>
+    <segment id="4">, empresas e entes públicos.</segment>
+    <segment id="5">Vou pagar mais impostos depois da reforma?</segment>
+    <segment id="6">Não.</segment>
+    <segment id="7">A reforma prevê a manutenção da carga tributária atual sobre o consumo.</segment>
+    <segment id="8">Mas essa tributação será redistribuída: alguns bens e serviços terão redução de carga</segment>
+    <segment id="9">, e outros terão aumento.</segment>
+    <segment id="10">Cálculo do Ipea com base na proposta original mostrava que os 10% mais ricos vão pagar mais tributos.</segment>
+    <segment id="11">Os outros 90% da população terão uma carga tributária menor.</segment>
+    <segment id="12">O preço de remédios</segment>
+    <segment id="13">, alimentos</segment>
+    <segment id="14">, escolas e transporte público vai subir?</segment>
+    <segment id="15">Esses quatro tipos de bens e serviços estão na lista dos que terão tributação 60% menor.</segment>
+    <segment id="16">Também haverá alíquota 60% menor para serviços de saúde</segment>
+    <segment id="17">, atividades artísticas</segment>
+    <segment id="18">, culturais</segment>
+    <segment id="19">, jornalísticas e audiovisuais nacionais</segment>
+    <segment id="20">, dispositivos médicos e de acessibilidade para pessoas com deficiência e medicamentos e produtos de cuidados básicos à saúde menstrual.</segment>
+    <segment id="21">O governo calcula que</segment>
+    <segment id="22">, com isso</segment>
+    <segment id="23">, a carga desses itens fica igual à atual ou pode ser reduzida.</segment>
+    <segment id="24">Catarina PignatoO que vai acontecer com o preço dos produtos da cesta básica?</segment>
+    <segment id="25">O relator da Reforma Tributária no Senado</segment>
+    <segment id="26">, Eduardo Braga (MDB-AM)</segment>
+    <segment id="27">, decidiu criar duas categorias de tributação da cesta básica</segment>
+    <segment id="28">, uma delas totalmente isenta do novo tributo e a outra com uma alíquota reduzida em relação à cobrança integral.</segment>
+    <segment id="29">Segundo Braga</segment>
+    <segment id="30">, a alíquota zero valerá para a chamada cesta básica nacional.</segment>
+    <segment id="31">Já a cobrança reduzida será aplicada sobre a cesta básica estendida</segment>
+    <segment id="32">, que poderá incluir uma lista maior de produtos.</segment>
+    <segment id="33">Como vai funcionar o cashback?</segment>
+    <segment id="34">Quem terá direito à devolução dos créditos?</segment>
+    <segment id="35">A proposta prevê a "hipótese" de devolução de parte dos dois novos tributos sobre o consumo a pessoas físicas</segment>
+    <segment id="36">, o "cashback do povo".</segment>
+    <segment id="37">Os limites e beneficiários são definidos no momento de regulamentação da reforma</segment>
+    <segment id="38">, o que deve acontecer em 2024.</segment>
+    <segment id="39">O Devolve ICMS do Rio Grande do Sul prevê o mínimo de R$ 100 por trimestre a todas as famílias do Bolsa Família</segment>
+    <segment id="40">, mais um complemento que varia de acordo com os gastos no período.</segment>
+    <segment id="41">Isso representa um acréscimo de 17% na renda de 95% dos 618 mil beneficiários.</segment>
+    <segment id="42">Como será a tributação de planos de saúde</segment>
+    <segment id="43">, imóveis</segment>
+    <segment id="44">, turismo</segment>
+    <segment id="45">, restaurantes e aviação?</segment>
+    <segment id="46">Alguns setores e produtos terão regras específicas para recolher os novos tributos</segment>
+    <segment id="47">, com objetivo de manter a tributação atual.</segment>
+    <segment id="48">A forma de cobrança ainda não está definida.</segment>
+    <segment id="49">São eles: combustíveis e lubrificantes</segment>
+    <segment id="50">, serviços financeiros</segment>
+    <segment id="51">, imóveis</segment>
+    <segment id="52">, planos de saúde</segment>
+    <segment id="53">, loterias</segment>
+    <segment id="54">, administração pública</segment>
+    <segment id="55">, cooperativas</segment>
+    <segment id="56">, serviços de hotelaria</segment>
+    <segment id="57">, parques de diversão e parques temáticos</segment>
+    <segment id="58">, restaurantes e aviação regional.</segment>
+    <segment id="59">O preço dos combustíveis vai aumentar?</segment>
+    <segment id="60">Entidades empresariais chegaram a manifestar temor de alta dos combustíveis</segment>
+    <segment id="61">, masmas especialistas dizem que o comportamento dos preços ainda é incerto a partir das possíveis mudanças na legislação.</segment>
+    <segment id="62">O setor terá um sistema próprio de tributação</segment>
+    <segment id="63">, com objetivo de manter a carga atual.</segment>
+    <segment id="64">A tributação será a mesma em todo o território nacional.</segment>
+    <segment id="65">Quais os benefícios fiscais que serão mantidos?</segment>
+    <segment id="66">Estão mantidos o Prouni (bolsas para educação)</segment>
+    <segment id="67">, o Perse (benefícios para o setor de eventos) e a Zona Franca de Manaus.</segment>
+    <segment id="68">Como fica o imposto de energia e telecomunicações?</segment>
+    <segment id="69">Para as empresas</segment>
+    <segment id="70">, esses insumos passam a gerar crédito tributário</segment>
+    <segment id="71">, reduzindo a carga final dos seus produtos e serviços.</segment>
+    <segment id="72">Esses setores também poderão usar crédito para eliminar a tributação em cascata.</segment>
+    <segment id="73">Como fica a tributação dos serviços de streaming?</segment>
+    <segment id="74">O serviço de streaming tem hoje uma tributação menor que TV a cabo</segment>
+    <segment id="75">, energia e internet.</segment>
+    <segment id="76">Agora, será a mesma.</segment>
+    <segment id="77">Qual a redução de imposto para os mais pobres?</segment>
+    <segment id="78">O Ipea estimou que uma alíquota única já diminui a carga dos mais pobres sobre os tributos da reforma.</segment>
+    <segment id="79">Com o cashback (devolução do imposto)</segment>
+    <segment id="80">, é possível reduzi-la pela metade.</segment>
+    <segment id="81">Produtos</segment>
+    <segment id="82">comocomo cerveja e cigarro vão ficar mais caros?</segment>
+    <segment id="83">Eles serão mais tributados que outros itens</segment>
+    <segment id="84">, como</segment>
+    <segment id="85">como já acontece hoje.</segment>
+    <segment id="86">Será criado um imposto seletivo</segment>
+    <segment id="87">, que será aplicado sobre produtos considerados prejudiciais à saúde</segment>
+    <segment id="88">, como</segment>
+    <segment id="89">como cigarros e bebidas alcoólicas</segment>
+    <segment id="90">, além de itens prejudiciais ao meio ambiente.</segment>
+    <segment id="91">A Reforma Tributária vai gerar inflação?</segment>
+    <segment id="92">O Ministério da Fazenda calcula que</segment>
+    <segment id="93">, na média</segment>
+    <segment id="94">, a reforma tem efeito desinflacionário.</segment>
+    <segment id="95">Ao eliminar distorções e possibilitar uma melhor organização da atividade econômica</segment>
+    <segment id="96">, reduzirá custos dos empresários e</segment>
+    <segment id="97">, com isso</segment>
+    <segment id="98">, permitirá a redução de preços ao consumidor final.</segment>
+    <segment id="99">A Reforma Tributária vai acabar com os empregos?</segment>
+    <segment id="100">Segundo o Ministério da Fazenda</segment>
+    <segment id="101">, a reforma vai gerar um crescimento adicional da economia estimado entre 12% e 20%</segment>
+    <segment id="102">, num período de 10 a 15 anos.</segment>
+    <segment id="103">Isso significa em média R$ 470 de renda a mais por mês para cada brasileiro</segment>
+    <segment id="104">, além de 12 milhões de novos empregos.</segment>
+    <segment id="105">A reforma prejudica as empresas do Simples Nacional e os MEI</segment>
+    <segment id="106">, como</segment>
+    <segment id="107">como manicures e cabeleireiros?</segment>
+    <segment id="108">Não.</segment>
+    <segment id="109">O Simples Nacional e o MEI serão mantidos.</segment>
+    <segment id="110">As micro e pequenas empresas podem adotar o novo sistema da reforma apenas para recolhimentos dos novos tributos</segment>
+    <segment id="111">, aproveitando créditos de insumos.</segment>
+    <segment id="112">Essa é uma boa opção para quem tem clientes que também são pessoas jurídicas.</segment>
+    <segment id="113">A outra opção é continuar a recolher tudo dentro do Simples no sistema cumulativo</segment>
+    <segment id="114">, o que pode</segment>
+    <segment id="115">sese aplicar a pequenos comércios e prestadores de serviços.</segment>
+    <segment id="116">Nos dois casos</segment>
+    <segment id="117">, o imposto recolhido na venda para outra empresa vira crédito para esse cliente</segment>
+    <segment id="118">, o que pode reduzir o preço de alguns serviços.</segment>
+    <segment id="119">A Reforma Tributária vai prejudicar o agronegócio?</segment>
+    <segment id="120">Não.</segment>
+    <segment id="121">O setor deve estar entre os mais beneficiados.</segment>
+    <segment id="122">Pequenos produtores rurais</segment>
+    <segment id="123">, que representam quase 99% dos estabelecimentos agropecuários</segment>
+    <segment id="124">, estarão isentos</segment>
+    <segment id="125">, assim</segment>
+    <segment id="126">comocomo as cooperativas.</segment>
+    <segment id="127">O exportador agropecuário terá a devolução do tributo quando o produto for vendido para outro país.</segment>
+    <segment id="128">Hoje, nem todo o dinheiro é devolvido.</segment>
+    <segment id="129">Além disso</segment>
+    <segment id="130">, há resíduos tributários embutidos no preço dos insumos que representam cerca de 12% do preço.</segment>
+    <segment id="131">A Reforma Tributária vai prejudicar o setor de serviços?</segment>
+    <segment id="132">Estima-</segment>
+    <segment id="133">sese que o impacto de aumento da carga fique restrito a cerca de 1% das empresas do setor</segment>
+    <segment id="134">, masmas que os benefícios econômicos da reforma aumentem a demanda por serviços.</segment>
+    <segment id="135">Para os prestadores que fazem parte do Simples (cerca de 90%) a adesão ao novo sistema é opcional e pode até reduzir sua carga.</segment>
+    <segment id="136">Os serviços de meio de cadeia</segment>
+    <segment id="137">, aqueles prestados a empresas</segment>
+    <segment id="138">, terão redução de custo</segment>
+    <segment id="139">, pois</segment>
+    <segment id="140">pois os prestadores desses serviços passarão a</segment>
+    <segment id="141">sese creditar dos impostos pagos por seus fornecedores e transferir integralmente o crédito para os tomadores de seus serviços.</segment>
+    <segment id="142">Serviços</segment>
+    <segment id="143">comocomo saúde</segment>
+    <segment id="144">, educação e transporte público receberam tratamento favorecido.</segment>
+    <segment id="145">A reforma tira a autonomia dos estados e municípios?</segment>
+    <segment id="146">Estados e municípios vão gerir um tributo compartilhado (IBS)</segment>
+    <segment id="147">, que é a fusão do ICMS com o ISS.</segment>
+    <segment id="148">Cada governador e prefeito terá liberdade para reduzir a alíquota geral</segment>
+    <segment id="149">, masmas não poderá discriminar o setor que será beneficiado.</segment>
+    <segment id="150">Estímulos ao desenvolvimento terão de ser feitos agora via orçamento</segment>
+    <segment id="151">, de forma transparente</segment>
+    <segment id="152">, e não com distorções no sistema tributário.</segment>
+    <segment id="153">Produtos que têm uma cadeia de produção mais longa e empresas que compram mais insumos vão pagar menos tributos?</segment>
+    <segment id="154">Não.</segment>
+    <segment id="155">A reforma acaba com a cumulatividade e faz com que a tributação seja a mesma</segment>
+    <segment id="156">, independentemente do tamanho da cadeia e da quantidade de insumo.</segment>
+    <segment id="157">Terá mais crédito tributário a empresa que pagou mais imposto na etapa anterior de produção.</segment>
+    <segment id="158">Há quanto tempo a Reforma Tributária do consumo está em discussão?</segment>
+    <segment id="159">Desde e a Constituinte de 1988 já houve várias tentativas de implantar no Brasil um IVA (Imposto sobre Valor Agregado) nesse formato.</segment>
+    <segment id="160">A proposta atual (PEC 45) foi apresentada em 2019 pela Câmara dos Deputados.</segment>
+    <segment id="161">O texto atual também incorpora parte da proposta do Senado de 2019 e do projeto de governo Jair Bolsonaro de 2020.</segment>
+    <segment id="162">Leia também Partido de Bolsonaro deve</segment>
+    <segment id="163">sese opor à reforma tributária</segment>
+    <segment id="164">sese votação for hoje</segment>
+    <segment id="165">, diz Rogério MarinhSenado vai mexer na reforma tributária</segment>
+    <segment id="166">, não tenho dúvidas</segment>
+    <segment id="167">, afirma LiraTarcísio agora faz &amp;#</segment>
+    <segment id="168">039;propaganda&amp;#039</segment>
+    <segment id="169">; da reforma tributária em vídeo</segment>
+    <segment id="170">; vejaQuando a reforma entra em vigor?</segment>
+    <segment id="171">A transição para o novo sistema tributário deve começar em 2026 e estará completa em 2033.</segment>
+    <segment id="172">Veja a previsão para os próximos passos:   2023: aprovação das mudanças na Constituição 2024: votação das leis que vão regulamentar a reforma 2025: montagem da infraestrutura do novo sistema 2026: cobrança de alíquota teste de 0</segment>
+    <segment id="173">,9% para a CBS (contribuição federal) e de 0</segment>
+    <segment id="174">,1% para o IBS (imposto de estados e municípios)</segment>
+    <segment id="175">, com redução equivalente do PIS/Cofins 2027: substituição do PIS/Cofins pela nova CBS</segment>
+    <segment id="176">;</segment>
+    <segment id="177">extinção do IPI (exceto para produtos que tenham industrialização na Zona Franca de Manaus</segment>
+    <segment id="178">, cigarros e bebidas) 2029 a 2032: redução de 1/10 por ano nas alíquotas do ICMS e ISS</segment>
+    <segment id="179">, com elevação gradual do IBS 2033: extinção do ICMS e do ISS</segment>
+    <segment id="180">; substituição do IPI pelo Imposto Seletivo</segment>
+    <segment id="181">Quais países utilizam esse sistema?</segment>
+    <segment id="182">O modelo de IVA proposto está presente em mais de 170 dos 193 países do mundo.</segment>
+    <segment id="183">Por que todos os países da União Europeia usam o IVA?</segment>
+    <segment id="184">A maioria dos seis países originais da União Europeia usava diferentes formas de tributação indireta</segment>
+    <segment id="185">, com impostos em cascata.</segment>
+    <segment id="186">Isso criava um entrave à ideia de ter um mercado único.</segment>
+    <segment id="187">Quando há impostos em cascata (tributo incidindo sobre tributo) é impossível determinar o valor real do imposto efetivamente incluído no preço final do produto.</segment>
+    <segment id="188">Com isso</segment>
+    <segment id="189">, há o risco de um país subsidiar (deliberada ou acidentalmente) suas exportações</segment>
+    <segment id="190">, superestimando os impostos reembolsáveis.</segment>
+    <segment id="191">Normalmente</segment>
+    <segment id="192">, a venda a outros países é desonerada com a devolução do tributo recolhido na cadeia de produção.</segment>
+    <segment id="193">Para criar um mercado único e eficiente</segment>
+    <segment id="194">, segundo a União Europeia</segment>
+    <segment id="195">, era necessário um sistema tributário transparente</segment>
+    <segment id="196">, que garantisse a neutralidade tributária e permitisse o desconto do valor exato do imposto de exportação.</segment>
+    <segment id="197">Como são as alíquotas na União Europeia?</segment>
+    <segment id="198">A legislação da UE exige que a taxa geral do IVA seja de pelo menos 15%.</segment>
+    <segment id="199">A alíquota reduzida deve ser de pelo menos 5%</segment>
+    <segment id="200">, aplicada a uma lista de bens e serviços (e não de setores) definida pelos países.</segment>
+    <segment id="201">Alguns países mantiveram outras taxas para produtos específicos.</segment>
+    <segment id="202">A Comissão Europeia é responsável por assegurar a correta aplicação das regras.</segment>
+    <segment id="203">Veja 8 pontos da reforma tributária que causam divergênciaMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

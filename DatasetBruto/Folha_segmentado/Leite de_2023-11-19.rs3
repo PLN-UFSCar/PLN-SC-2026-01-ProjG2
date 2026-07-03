@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Presidente nacional do PSDB</segment>
+    <segment id="2">, Eduardo Leite defende que o partido tenha candidatura própria na cidade de São Paulo no ano que vem.</segment>
+    <segment id="3">O governador do Rio Grande do Sul</segment>
+    <segment id="4">, Eduardo Leite</segment>
+    <segment id="5">, em evento do Grupo Voto - Gustavo Rampini"Eu defendo candidatura própria</segment>
+    <segment id="6">, acho estratégico para o futuro do partido.</segment>
+    <segment id="7">São Paulo tem 12 milhões de habitantes</segment>
+    <segment id="8">, tudo que ocorre na cidade</segment>
+    <segment id="9">sese espraia para vários outros locais"</segment>
+    <segment id="10">, afirma Leite</segment>
+    <segment id="11">, que é também governador do Rio Grande do Sul.</segment>
+    <segment id="12">Embora tenha governado a cidade em diversas ocasiões</segment>
+    <segment id="13">, o PSDB vive uma crise na capital paulista</segment>
+    <segment id="14">, berço do partido.</segment>
+    <segment id="15">Um dos nomes cotados para</segment>
+    <segment id="16">sese candidatar é o do ex-vereador Andrea Matarazzo</segment>
+    <segment id="17">, que já foi tucano e precisaria retornar à legenda.</segment>
+    <segment id="18">Ele atualmente está no PSD.</segment>
+  </rst>
+</analysis>

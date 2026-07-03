@@ -1,0 +1,50 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Preso na Restinga
+Acusado de matar policial</segment>
+    <segment id="2">Ã© capturado na Zona Sul da Capital
+Michel dos Santos estava foragido.</segment>
+    <segment id="3">Em 2000</segment>
+    <segment id="4">, ele matou um escrivÃ£o de polÃ­cia durante assalto em ViamÃ£o
+Eduardo Torres
+eduardo.torres@diariogaucho.com.br
+Foi preso na manhÃ£ desta quinta</segment>
+    <segment id="5">, no Bairro Restinga</segment>
+    <segment id="6">, Zona Sul da Capital</segment>
+    <segment id="7">, o foragido Michel dos Santos</segment>
+    <segment id="8">, 34 anos.</segment>
+    <segment id="9">Ele era procurado em ViamÃ£o e estaria escondido nos Ãºltimos dias no bairro.</segment>
+    <segment id="10">Desde entÃ£o</segment>
+    <segment id="11">, os policiais do 21Âº BPM buscavam pistas sobre Michel.</segment>
+    <segment id="12">Ele acabou abordado na Avenida JoÃ£o AntÃ´nio da Silveira</segment>
+    <segment id="13">, a principal da Restinga.</segment>
+    <segment id="14">Michel tem condenaÃ§Ã£o pela morte do escrivÃ£o de polÃ­cia AntÃ´nio Aldonir Rolim</segment>
+    <segment id="15">, ocorrida em dezembro de 2000</segment>
+    <segment id="16">, dentro de um mercado na Vila Planalto</segment>
+    <segment id="17">, em ViamÃ£o.</segment>
+    <segment id="18">O policial foi assassinado com trÃªs tiros durante um assalto.</segment>
+    <segment id="19">Michel foi apresentado na 2Âª DPPA.</segment>
+  </rst>
+</analysis>

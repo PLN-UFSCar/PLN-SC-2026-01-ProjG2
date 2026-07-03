@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Gabriel Kanner</segment>
+    <segment id="2">, líder do Brasil 200</segment>
+    <segment id="3">, o grupo de empresários que defende o imposto sobre movimentação financeira</segment>
+    <segment id="4">, sese reuniu com João Amoêdo</segment>
+    <segment id="5">, presidente do partido Novo</segment>
+    <segment id="6">, na segunda-feira (30).</segment>
+    <segment id="7">Ele nega que tenha ido falar sobre filiação.</segment>
+    <segment id="8">Este é João Amoêdo (Novo)</segment>
+    <segment id="9">Mais    novamente         de   de  de  representando um</segment>
+    <segment id="10">O tema foram as visões discordantes dos dois sobre a reforma tributária</segment>
+    <segment id="11">, segundo Kanner.</segment>
+    <segment id="12">Em 2018</segment>
+    <segment id="13">, ele foi candidato a deputado federal pelo PRB</segment>
+    <segment id="14">, o mesmo partido pelo qual seu tio</segment>
+    <segment id="15">, e empresário Flávio Rocha (Riachuelo) foi pré-candidato a presidente.</segment>
+    <segment id="16">Leia a coluna na íntegra aqui</segment>
+  </rst>
+</analysis>

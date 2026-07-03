@@ -1,0 +1,66 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A linha 3-vermelha do Metrô de São Paulo opera com velocidade reduzida e maior tempo de parada nas plataformas em toda a sua extensão na manhã desta segunda-feira (19).</segment>
+    <segment id="2">O problema foi causado por uma falha de equipamento de via na região da estação República</segment>
+    <segment id="3">, que começou às 9h56.</segment>
+    <segment id="4">Segundo o Metrô</segment>
+    <segment id="5">, a manutenção atuou no local para a normalização da circulação</segment>
+    <segment id="6">, que ocorreu às 11h43.</segment>
+    <segment id="7">Em razão desta ocorrência</segment>
+    <segment id="8">, no trecho entre as estações Santa Cecília e Sé</segment>
+    <segment id="9">, os trens compartilharam uma única via (via singela) para seguir tanto no sentido Corinthians-Itaquera quanto para Palmeiras-Barra Funda.  Estação Bresser-Mooca com movimento muito acima do normal para o horário - Daniele Braga/FolhapressPassageiros reclamaram que após longa espera</segment>
+    <segment id="10">, os trens já chegavam lotados.</segment>
+    <segment id="11">Alguns embarcaram no Carrão e</segment>
+    <segment id="12">, depois de um tempo parados</segment>
+    <segment id="13">, foram orientados a descer na estação Bresser-Mooca</segment>
+    <segment id="14">, masmas todos os vagões chegavam lotados.</segment>
+    <segment id="15">Diversos usuários reclamaram da situação.</segment>
+    <segment id="16">"Linha 3-vermelha do metrô com falha na linha e com maior tempo de parada atrapalhando trabalhadores</segment>
+    <segment id="17">comocomo sempre"</segment>
+    <segment id="18">, reclamou Eduardo Baptista.</segment>
+    <segment id="19">Falha acarretou fechamento de estações pico no início do mês  Falha na comunicação e uma sequência de problemas transformaram em caos a volta para casa de quem usava a linha 3-vermelha</segment>
+    <segment id="20">, na noite do dia 1º de fevereiro</segment>
+    <segment id="21">, em pleno horário de pico.</segment>
+    <segment id="22">Passageiros em pânico desceram para a linha</segment>
+    <segment id="23">, após ficarem quase uma hora em trens lotados</segment>
+    <segment id="24">, com iluminação apagada e ar-condicionado desligado.</segment>
+    <segment id="25">A multidão caminhou por túneis estreitos e com queixas de que não havia funcionários para orientar.</segment>
+    <segment id="26">"</segment>
+    <segment id="27">Não faltou comunicação</segment>
+    <segment id="28">, masmas o alerta [para passageiros não saírem dos trens] não funcionou.</segment>
+    <segment id="29">Normalmente ele funciona</segment>
+    <segment id="30">, masmas ontem [quinta] ele não funcionou</segment>
+    <segment id="31">, precisamos olhar isso com carinho"</segment>
+    <segment id="32">, afirmou à Folha Rodrigo Lopes Soares</segment>
+    <segment id="33">, coordenador do Centro de Controle Operacional</segment>
+    <segment id="34">, defendendo que os protocolos adotados evitaram acidentes com os usuários.</segment>
+    <segment id="35">Segundo a companhia</segment>
+    <segment id="36">, um problema no sistema de portas de uma composição na estação Belém</segment>
+    <segment id="37">, na zona leste</segment>
+    <segment id="38">, foi o responsável</segment>
+    <segment id="39">, às 18h02</segment>
+    <segment id="40">, por dar início a um efeito cascata que paralisou toda a linha por cerca de três horas.</segment>
+  </rst>
+</analysis>

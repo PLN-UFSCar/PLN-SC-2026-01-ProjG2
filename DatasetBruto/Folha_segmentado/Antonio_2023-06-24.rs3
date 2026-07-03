@@ -1,0 +1,118 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Você só queria ir ao cinema.</segment>
+    <segment id="2">Você entra no site pra comprar o ingresso.</segment>
+    <segment id="3">Tem que</segment>
+    <segment id="4">sese cadastrar.</segment>
+    <segment id="5">Você preenche todas aquelas colunas do formulário.</segment>
+    <segment id="6">Nome completo</segment>
+    <segment id="7">, RG, CPF</segment>
+    <segment id="8">, endereço</segment>
+    <segment id="9">, e-mail</segment>
+    <segment id="10">, telefone</segment>
+    <segment id="11">, gênero</segment>
+    <segment id="12">, nome da mãe</segment>
+    <segment id="13">, número do sapato</segment>
+    <segment id="14">, colesterol (HDL e LDL)</segment>
+    <segment id="15">, VO2 máximo</segment>
+    <segment id="16">, posição quanto ao coentro</segment>
+    <segment id="17">, "clique em todas as imagens que contêm pontes"</segment>
+    <segment id="18">, "clique em todas as imagens que contêm escadas"</segment>
+    <segment id="19">, "clique em todas as imagens que contêm hidrantes"</segment>
+    <segment id="20">, "digite o código abaixo: WLAWFLACH328".</segment>
+    <segment id="21">Aí, ao dar enter</segment>
+    <segment id="22">, o site avisa que seu CPF já está registrado.</segment>
+    <segment id="23">Você tenta fazer o login</segment>
+    <segment id="24">, masmas é óbvio que não tem ideia da senha.</segment>
+    <segment id="25">Chuta algumas meio genéricas que você usa em sites pouco importantes</segment>
+    <segment id="26">, nada.</segment>
+    <segment id="27">Clica no "</segment>
+    <segment id="28">Esqueci minha senha".</segment>
+    <segment id="29">O site avisa que mandou um link para o Hotmail —</segment>
+    <segment id="30">masmas você não abre o Hotmail desde 2006.</segment>
+    <segment id="31">Você entra no Hotmail e novamente</segment>
+    <segment id="32">, é claro</segment>
+    <segment id="33">, não se</segment>
+    <segment id="34">se lembra da senha.</segment>
+    <segment id="35">Você clica em "</segment>
+    <segment id="36">Esqueci minha senha" e o Hotmail avisa que mandou um link para patrícia.gomes@munhoz&amp;amp</segment>
+    <segment id="37">;zylberadvogados.com.br.</segment>
+    <segment id="38">Patrícia Gomes era sua namorada em 2004 e você costumava botar os dados dela em back-ups</segment>
+    <segment id="39">, contato de emergência na ponte-aérea</segment>
+    <segment id="40">, esse tipo de coisa.</segment>
+    <segment id="41">Vocês terminaram tretados depois de um Réveillon em Guaicá e nunca mais</segment>
+    <segment id="42">sese falaram.</segment>
+    <segment id="43">Acontece que você quer mesmo ir ao cinema.</segment>
+    <segment id="44">Adams CarvalhoVocê liga pra Patrícia e a chama para um café.</segment>
+    <segment id="45">No café</segment>
+    <segment id="46">, você assume a culpa pelo fim do namoro.</segment>
+    <segment id="47">Pede desculpas por ter sido agressivo numa partida de War e ter feito uma aliança por baixo do pano com o Maurão.</segment>
+    <segment id="48">Claro, você admite</segment>
+    <segment id="49">, era muito mais importante deixá-la à vontade na primeira viagem com a sua turma do que conquistar 24 territórios à sua escolha.</segment>
+    <segment id="50">Claro que você não a deveria ter atacado com seis contra um de Tchita para Vladivostok e a colocado para fora do jogo no primeiro dia de viagem.</segment>
+    <segment id="51">(Mesmo ela tendo te arrancado Dudinka via Omsk</segment>
+    <segment id="52">, cinco contra dois).</segment>
+    <segment id="53">Ela aceita seu pedido de desculpas.</segment>
+    <segment id="54">Você explica a situação com a senha.</segment>
+    <segment id="55">Ela lamenta: saiu da Munhoz &amp;amp</segment>
+    <segment id="56">;</segment>
+    <segment id="57">Zylber advogados há 11 anos e abriu uma franquia de depilação definitiva da "</segment>
+    <segment id="58">Não mais pelos".</segment>
+    <segment id="59">Você sugere:</segment>
+    <segment id="60">e sese ela falasse com o dr. Munhoz ou com a dra.</segment>
+    <segment id="61">Zylber</segment>
+    <segment id="62">, não seria possível recuperar o e-mail?</segment>
+    <segment id="63">Ela diz que está processando o babaca do Munhoz por assédio moral</segment>
+    <segment id="64">, pedindo R$ 50 mil.</segment>
+    <segment id="65">Colunas e BlogsReceba no seu email uma seleção de colunas e blogs da Folha</segment>
+    <segment id="66">; exclusiva para assinantes.</segment>
+    <segment id="67">Carregando...</segment>
+    <segment id="68">Você realmente quer ir ao cinema.</segment>
+    <segment id="69">Vocês vão ao banco.</segment>
+    <segment id="70">A sua gerente diz que saques acima de R$ 5.000 têm que ser agendados previamente.</segment>
+    <segment id="71">Você saca R$ 4.999</segment>
+    <segment id="72">, vai até um caraoquê/bordel no subsolo de um estacionamento na Liberdade e compra um 38.</segment>
+    <segment id="73">Volta ao banco.</segment>
+    <segment id="74">Força a gerente a te dar R$ 50 mil e entrega pra Patrícia.</segment>
+    <segment id="75">A Patrícia liga pro babaca do Munhoz.</segment>
+    <segment id="76">Diz que retira o processo</segment>
+    <segment id="77">casocaso ele dê acesso ao antigo e-mail dela.</segment>
+    <segment id="78">O babaca do Munhoz aceita.</segment>
+    <segment id="79">Ela recupera o seu link do Hotmail.</segment>
+    <segment id="80">Você entra no Hotmail e encontra o link pra mudar a senha no site de ingressos.</segment>
+    <segment id="81">Você refaz a senha no site de ingressos.</segment>
+    <segment id="82">Você consegue fazer o login.</segment>
+    <segment id="83">Você compra o ingresso</segment>
+    <segment id="84">, masmas a gerente chamou a polícia</segment>
+    <segment id="85">, que quebrou seu sigilo digital e descobriu seu paradeiro.</segment>
+    <segment id="86">Você vai preso no meio do trailer da nova "</segment>
+    <segment id="87">A Pequena Sereia".</segment>
+    <segment id="88">Seu colega de cela te vende um celular.</segment>
+    <segment id="89">Você descobre que o filme que queria tanto ver está passando no Star+.</segment>
+    <segment id="90">Você baixa o Star+ no celular.</segment>
+    <segment id="91">O Star+ te pede a senha.</segment>
+    <segment id="92">Você não faz a menor ideia de qual seja.</segment>
+  </rst>
+</analysis>

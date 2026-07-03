@@ -1,0 +1,55 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Código Florestal: 'sem veto total</segment>
+    <segment id="2">, imagem será muito prejudicada'</segment>
+    <segment id="3">SÃO PAULO - Um dos maiores defensores do veto total ao novo código</segment>
+    <segment id="4">, o ex-secretário-executivo do Ministério do Meio Ambiente João Paulo Capobianco avalia que um veto parcial da proposta tornará o governo federal novamente "refém" da Câmara dos Deputados.</segment>
+    <segment id="5">O GLOBO:</segment>
+    <segment id="6">Que consequências terá a sanção do texto final do Código Florestal?</segment>
+    <segment id="7">JOÃO PAULO CAPOBIANCO:</segment>
+    <segment id="8">Vai gerar verdadeira tromba d'água de ações na Justiça</segment>
+    <segment id="9">, sendo questionado em sua constitucionalidade</segment>
+    <segment id="10">, pois</segment>
+    <segment id="11">pois anistia crimes tipificados pela lei de crimes ambientais.</segment>
+    <segment id="12">Ele faz tudo</segment>
+    <segment id="13">, menos trazer segurança jurídica ao campo</segment>
+    <segment id="14">, que, em tese</segment>
+    <segment id="15">, era a proposta original dos que apresentaram a proposta.</segment>
+    <segment id="16">O novo código apresenta algum avanço?</segment>
+    <segment id="17">CAPOBIANCO:</segment>
+    <segment id="18">Nenhum avanço.</segment>
+    <segment id="19">Os poucos avanços que ele trazia em relação à legislação atual foram retirados na Câmara.</segment>
+    <segment id="20">A imagem do Brasil no exterior sairá prejudicada</segment>
+    <segment id="21">casocaso não haja um veto total?
+
+CAPOBIANCO:
+
+Se não houver veto total</segment>
+    <segment id="22">, a imagem será muito prejudicada.</segment>
+    <segment id="23">Se essa lei for sancionada sem os vetos na amplitude necessária</segment>
+    <segment id="24">, sem dúvida vai gerar constrangimento</segment>
+    <segment id="25">, especialmente na Rio+20.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,191 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Pesquisa Datafolha entre jovens brasileiros revela uma perturbadora discrepância</segment>
+    <segment id="2">, capaz de gerar frustração no futuro</segment>
+    <segment id="3">, entre expectativas pessoais muito positivas e elevado pessimismo em relação ao Brasil.</segment>
+    <segment id="4">Embora 67% dos jovens entre 15 e 29 anos esperem que sua situação pessoal esteja muito melhor daqui a dez anos (e 65% achem o mesmo sobre sua situação financeira)</segment>
+    <segment id="5">, só 25% acreditam que o Brasil terá desempenho semelhante no período.</segment>
+    <segment id="6">Yanne Matos</segment>
+    <segment id="7">, 17, estudante do ensino médio que mora em Guarulhos (Grande SP)</segment>
+    <segment id="8">, diz que nem sequer consegue imaginar</segment>
+    <segment id="9">comocomo será sua vida daqui a dez anos - Eduardo Knapp/FolhapressNesse contexto</segment>
+    <segment id="10">, 76% dos jovens dizem ter muita ou alguma vontade de deixar definitivamente o Brasil.</segment>
+    <segment id="11">Quanto mais jovem</segment>
+    <segment id="12">, maior é o desejo.</segment>
+    <segment id="13">Preocupa também o fato de</segment>
+    <segment id="14">, espontaneamente na pesquisa</segment>
+    <segment id="15">, os jovens atribuírem o dobro de importância à estabilidade financeira/ficarem ricos (20% deles) e comprarem um imóvel (16%) em relação a ter boa formação e terminar os estudos (8%).</segment>
+    <segment id="16">Segundo o Banco Mundial</segment>
+    <segment id="17">, cada ano adicional de estudo no Brasil representa até 15% a mais na renda futura</segment>
+    <segment id="18">, acima dos 8% na média global.</segment>
+    <segment id="19">A diferença</segment>
+    <segment id="20">sese dá pelo fato de o Brasil ter menos adultos qualificados</segment>
+    <segment id="21">;</segment>
+    <segment id="22">os que são acabam valendo mais.</segment>
+    <segment id="23">Entre os jovens brasileiros</segment>
+    <segment id="24">, apenas 19% acham que estudar é a única forma de obter mais renda no futuro</segment>
+    <segment id="25">, enquanto 50% dizem que só podem conquistar o que desejam trabalhando.</segment>
+    <segment id="26">Como atenuante</segment>
+    <segment id="27">, 67% concordam que estudar é uma das formas de obter mais renda</segment>
+    <segment id="28">, masmas não a única.</segment>
+    <segment id="29">Além da situação socioeconômica dos jovens</segment>
+    <segment id="30">, o Datafolha levantou uma série de informações sobre essa parcela da população em saúde</segment>
+    <segment id="31">, comportamento</segment>
+    <segment id="32">, tecnologia e cultura</segment>
+    <segment id="33">, além de temas polêmicos</segment>
+    <segment id="34">, como</segment>
+    <segment id="35">como aborto e drogas.</segment>
+    <segment id="36">Os resultados da pesquisa serão publicados nos próximos dias em uma série de reportagens da Folha.</segment>
+    <segment id="37">No levantamento</segment>
+    <segment id="38">, foram ouvidos mil jovens entre 15 e 29 anos em 12 de algumas das maiores capitais do país.</segment>
+    <segment id="39">Feita em 20 e 21 de julho deste ano</segment>
+    <segment id="40">, a pesquisa tem margem de erro de 3 pontos percentuais</segment>
+    <segment id="41">, para mais ou para menos.</segment>
+    <segment id="42">Para especialistas</segment>
+    <segment id="43">, o otimismo dos jovens sobre sua situação pessoal futura não corresponde à realidade atual.</segment>
+    <segment id="44">Seja no mercado de trabalho ou na educação.</segment>
+    <segment id="45">A partir da recessão de 2014-2016</segment>
+    <segment id="46">, os jovens trabalhadores foram os que mais perderam renda (-26</segment>
+    <segment id="47">,5% entre 2014 e 2019) e sofreram com o desemprego.</segment>
+    <segment id="48">A taxa de desocupação daqueles entre 18 e 24 anos era de 19</segment>
+    <segment id="49">,3% ao fim do segundo trimestre</segment>
+    <segment id="50">, mais que o dobro da média geral (9</segment>
+    <segment id="51">,3%).</segment>
+    <segment id="52">Na educação</segment>
+    <segment id="53">, dados do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira) mostram que a taxa de abandono escolar mais que dobrou em 2021</segment>
+    <segment id="54">, de 2</segment>
+    <segment id="55">,3% (2020) para 5</segment>
+    <segment id="56">,6%.</segment>
+    <segment id="57">Com a pandemia</segment>
+    <segment id="58">, o Brasil foi um dos países que por mais tempo manteve as escolas fechadas</segment>
+    <segment id="59">, o que também refletiu negativamente nos dados do Inep para o desempenho dos alunos nas escolas</segment>
+    <segment id="60">, tanto públicas quanto privadas.</segment>
+    <segment id="61">Segundo o Datafolha</segment>
+    <segment id="62">, mais da metade (51%) dos jovens está fora da escola</segment>
+    <segment id="63">, embora</segment>
+    <segment id="64">embora a taxa seja menor entre os de 15 a 19 anos (21%).</segment>
+    <segment id="65">Na faixa de 20 a 24 anos</segment>
+    <segment id="66">, jovens que</segment>
+    <segment id="67">, em tese</segment>
+    <segment id="68">, deveriam estar na faculdade</segment>
+    <segment id="69">, 57% já não estudam mais.</segment>
+    <segment id="70">Para Naercio Menezes Filho</segment>
+    <segment id="71">, diretor do Centro de Pesquisa Aplicada à Primeira Infância do Insper</segment>
+    <segment id="72">, é preocupante que os jovens estejam deixando de acessar cursos superiores.</segment>
+    <segment id="73">Segundo ele</segment>
+    <segment id="74">, entre aqueles com 22 anos</segment>
+    <segment id="75">, só 25% têm ingressado em universidades —e apenas 20% acabam</segment>
+    <segment id="76">sese formando.</segment>
+    <segment id="77">"</segment>
+    <segment id="78">No Brasil</segment>
+    <segment id="79">, o curso superior representa</segment>
+    <segment id="80">, em termos salariais</segment>
+    <segment id="81">, uma multiplicação média de três vezes.</segment>
+    <segment id="82">Os jovens precisam ser informados de que existirão cada vez menos empregos de longo prazo</segment>
+    <segment id="83">; e que uma carreira em qualquer área</segment>
+    <segment id="84">, mesmo mudando de empresa</segment>
+    <segment id="85">, exige cada vez mais educação.</segment>
+    <segment id="86">"</segment>
+    <segment id="87">Segundo Elizabeth Guedes</segment>
+    <segment id="88">, presidente da Anup (Associação Nacional das Universidades Particulares)</segment>
+    <segment id="89">, que reúne 253 faculdades</segment>
+    <segment id="90">, os últimos dez anos registram queda de até 40% no total de alunos.</segment>
+    <segment id="91">Guedes afirma que a estratégia das universidades tem sido modificar</segment>
+    <segment id="92">, criar e oferecer mais cursos voltados às demandas do mercado de trabalho.</segment>
+    <segment id="93">"É o mercado que tem colocado a lanterna na direção que temos de seguir"</segment>
+    <segment id="94">, afirma.</segment>
+    <segment id="95">Sonho com engenharia e medicina acabou em informalidade e baixo rendimentoMais    novamente         de   de  de  representando um</segment>
+    <segment id="96">Em 69 universidades federais</segment>
+    <segment id="97">, dados do Inep mostram que o total de estudantes matriculados caiu de 1</segment>
+    <segment id="98">,3 milhão em 2019 para 1</segment>
+    <segment id="99">,2 milhão em 2020.</segment>
+    <segment id="100">Mesmo entre os jovens que ainda estudam ou estudaram</segment>
+    <segment id="101">, quase a metade (46%) não acredita que a escola os tenha preparado para ser bons profissionais.</segment>
+    <segment id="102">Grande parte dos que só trabalham (47%) ou trabalham e estudam (32%) o fazem em serviços gerais</segment>
+    <segment id="103">, que normalmente exigem menos qualificação e pagam salários menores.  "</segment>
+    <segment id="104">O retorno da educação no Brasil é gigantesco</segment>
+    <segment id="105">, e não há política pública que informe sobre a importância disso na vida futura"</segment>
+    <segment id="106">, afirma Marcelo Neri</segment>
+    <segment id="107">, diretor da FGV Social.</segment>
+    <segment id="108">Segundo ele</segment>
+    <segment id="109">, os jovens brasileiros sempre aparecem em pesquisas internacionais</segment>
+    <segment id="110">comocomo os mais otimistas.</segment>
+    <segment id="111">Em levantamento Gallup em 117 países em 2020</segment>
+    <segment id="112">, brasileiros entre 15 e 29 anos deram nota de 8</segment>
+    <segment id="113">,9 (numa escala de 1 a 10) para suas expectativas cinco anos à frente.</segment>
+    <segment id="114">A média global era 7</segment>
+    <segment id="115">,5%.</segment>
+    <segment id="116">"</segment>
+    <segment id="117">Quando</segment>
+    <segment id="118">sese é muito otimista</segment>
+    <segment id="119">, a possibilidade de frustração é maior"</segment>
+    <segment id="120">, afirma Neri.</segment>
+    <segment id="121">"</segment>
+    <segment id="122">Basicamente</segment>
+    <segment id="123">, existem duas maneiras de subir na vida: estudar para ter um bom emprego e poupar.</segment>
+    <segment id="124">Quando</segment>
+    <segment id="125">sese é muito otimista</segment>
+    <segment id="126">, o risco é não fazer nem uma coisa nem outra.</segment>
+    <segment id="127">"  Para Laura Muller Machado</segment>
+    <segment id="128">, professora do Insper e ex-secretária de Desenvolvimento Social do estado de São Paulo</segment>
+    <segment id="129">, um dos problemas fundamentais do ensino hoje</segment>
+    <segment id="130">, além da queda geral no aprendizado agravada pela pandemia</segment>
+    <segment id="131">, é a inexistência de conexão entre as escolas e o mercado de trabalho.</segment>
+    <segment id="132">Segundo o relatório Education at a Glance</segment>
+    <segment id="133">, da Organização para a Cooperação e Desenvolvimento Econômico</segment>
+    <segment id="134">, só 8% dos jovens brasileiros concluem algum tipo de ensino técnico ou profissionalizante</segment>
+    <segment id="135">, ante 40% na média de 38 países.</segment>
+    <segment id="136">Entre 2011 e 2016</segment>
+    <segment id="137">, no governo Dilma Rousseff</segment>
+    <segment id="138">, o Brasil chegou a investir R$ 38</segment>
+    <segment id="139">,5 bilhões no Pronatec para treinar 9</segment>
+    <segment id="140">,7 milhões de estudantes do ensino médio da rede pública e beneficiários de programas federais de renda.</segment>
+    <segment id="141">Mas, segundo pesquisa de Fernando de Holanda Barbosa Filho</segment>
+    <segment id="142">, do Instituto Brasileiro de Economia da Fundação Getulio Vargas</segment>
+    <segment id="143">, alunos que terminaram o Pronatec numa janela de 6 a 23 meses não apresentaram avanços em termos de renda ou empregabilidade.</segment>
+    <segment id="144">Uma das únicas experiências bem sucedidas</segment>
+    <segment id="145">, que envolveu 300 mil alunos entre 2014 e 2015</segment>
+    <segment id="146">, partiu do mapeamento nas empresas da demanda efetiva por trabalhadores</segment>
+    <segment id="147">, levando-</segment>
+    <segment id="148">sese em conta especialidades e localização geográfica</segment>
+    <segment id="149">, para só depois iniciar o treinamento.</segment>
+    <segment id="150">Em relação ao otimismo dos jovens com seu próprio futuro</segment>
+    <segment id="151">, Laura Machado afirma: "</segment>
+    <segment id="152">Infelizmente</segment>
+    <segment id="153">, não existe nenhuma informação objetiva que possa levar à melhora da situação deles no curto prazo.</segment>
+    <segment id="154">Os estudantes estão saindo de escolas ruins para um mercado de trabalho também ruim</segment>
+    <segment id="155">, que vai penalizá-los.</segment>
+    <segment id="156">"</segment>
+    <segment id="157">Uma das poucas boas notícias vem da demografia</segment>
+    <segment id="158">, que trará redução acentuada no total de jovens nos próximos anos</segment>
+    <segment id="159">, de cerca de 49 milhões atualmente para 38</segment>
+    <segment id="160">,2 milhões em 2049.</segment>
+    <segment id="161">"</segment>
+    <segment id="162">É possível que o jovem do futuro acabe valorizado</segment>
+    <segment id="163">, seja por uma questão de falta de mão de obra ou pelo fato de eles serem bem mais conectados"</segment>
+    <segment id="164">, afirma Neri</segment>
+    <segment id="165">, da FGV Social.</segment>
+  </rst>
+</analysis>

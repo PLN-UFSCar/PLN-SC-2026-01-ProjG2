@@ -1,0 +1,107 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Elite de fundos de aÃ§Ãµes rende mais de 20% atÃ</segment>
+    <segment id="2">©</segment>
+    <segment id="3">o fim de julho
+RIO DE JANEIRO - Uma elite de fundos de aÃ§Ãµes conseguiu rendimentos superiores a 20% do inÃ­cio do ano atÃ©</segment>
+    <segment id="4">o fim de julho</segment>
+    <segment id="5">, mesmo em tempos de volatilidade no Ibovespa</segment>
+    <segment id="6">, principal Ã­ndice da Bolsa de Valores de SÃ£o Paulo (Bovespa).</segment>
+    <segment id="7">No mesmo perÃ­odo</segment>
+    <segment id="8">, o Ibovespa recuou 1</segment>
+    <segment id="9">,16% e na mÃ©dia os fundos de aÃ§Ãµes livres renderam 6</segment>
+    <segment id="10">,83%.</segment>
+    <segment id="11">As tÃ¡ticas para conseguir um desempenho acima da mÃ©dia variaram</segment>
+    <segment id="12">, masmas</segment>
+    <segment id="13">, no geral</segment>
+    <segment id="14">, houve grandes apostas em aÃ§Ãµes de empresas voltadas para o mercado interno</segment>
+    <segment id="15">, embora</segment>
+    <segment id="16">embora algumas exportadoras de commodities (produtos bÃ¡sicos negociados internacionalmente) tambÃ©m tenham contribuÃ­do para o bom desempenho de algumas carteiras.</segment>
+    <segment id="17">Levantamento do site www.comdinheiro.com.br feito a pedido do GLOBO mostra que</segment>
+    <segment id="18">, entre os dez fundos de aÃ§Ãµes com maior rendimento acumulado em 2012</segment>
+    <segment id="19">, aparecem nÃ£o sÃ³ fundos abertos a aplicar em qualquer tipo de aÃ§Ã£o</segment>
+    <segment id="20">, masmas tambÃ©m os focados em small caps (empresa com baixo valor de mercado) e dividendos (lucros distribuÃ­dos pelas empresas aos acionistas).</segment>
+    <segment id="21">SÃ³ foram considerados fundos de investimento que existem desde pelo menos julho de 2010 para possibilitar a comparaÃ§Ã£o com o desempenho dos Ãºltimos dois anos e tambÃ©m sÃ³ foram apresentados fundos com patrimÃ´nio lÃ­quido superior a R$ 50 milhÃµes.</segment>
+    <segment id="22">NÃ£o foram considerados fundos que investem somente em uma empresa</segment>
+    <segment id="23">, que jÃ¡ estavam com captaÃ§Ã£o fechada para novos cotistas ou que sÃ³ eram acessÃ­veis para investidores qualificados (com pelo menos R$ 300 mil em investimentos no mercado).</segment>
+    <segment id="24">O professor da Faculdade de Economia</segment>
+    <segment id="25">, AdministraÃ§Ã£o e Contabilidade da Universidade de SÃ£o Paulo (FEA/USP) e responsÃ¡vel pelo site</segment>
+    <segment id="26">, Rafael Paschoarelli</segment>
+    <segment id="27">, alerta que os investidores nÃ£o devem pesquisar somente a rentabilidade do fundo ao escolher um investimento.</segment>
+    <segment id="28">Ã‰ preciso analisar tambÃ©m o histÃ³rico do desempenho e a qualificaÃ§Ã£o profissional dos gestores</segment>
+    <segment id="29">, diz ele.
+- Olhando o histÃ³rico dos profissionais dÃ¡ para separar o joio do trigo.</segment>
+    <segment id="30">Tem que ver a persistÃªncia da performance do fundo - diz Paschoarelli.</segment>
+    <segment id="31">Arte de antever movimentos</segment>
+    <segment id="32">Com investimento mÃ­nimo de R$ 2 mil</segment>
+    <segment id="33">, o Santander Small Cap AÃ§Ãµes desponta com o maior rendimento no ano</segment>
+    <segment id="34">, de 23</segment>
+    <segment id="35">,47% atÃ© o fim de julho</segment>
+    <segment id="36">, entre os critÃ©rios analisados.</segment>
+    <segment id="37">A construtora Eztec e o grupo universitÃ¡rio Anhanguera Educacional eram as duas principais apostas da carteira no fim de julho e respondiam por cerca de 12% do patrimÃ´nio investido.</segment>
+    <segment id="38">A Anhanguera acumulou alta de 45</segment>
+    <segment id="39">,04% desde o inÃ­cio do ano e a Eztec</segment>
+    <segment id="40">, de 41</segment>
+    <segment id="41">,38% no mesmo perÃ­odo.</segment>
+    <segment id="42">Outro fundo que aparece com rendimento acima de 20% Ã© o Selection</segment>
+    <segment id="43">, da Equitas Investimentos.</segment>
+    <segment id="44">A empresa foi criada em 2003 pelos sÃ³cios LuÃ­s Felipe Amaral e Felipe Zaghen</segment>
+    <segment id="45">comocomo butique de fusÃµes e aquisiÃ§Ãµes</segment>
+    <segment id="46">, masmas desde 2007 Ã© focada na gestÃ£o de fundos.</segment>
+    <segment id="47">Para investir</segment>
+    <segment id="48">, Ã© preciso aportar pelo menos R$ 25 mil no Equitas Selection.</segment>
+    <segment id="49">Em julho</segment>
+    <segment id="50">, o fundo vendeu todas as aÃ§Ãµes da Raia Drogasil</segment>
+    <segment id="51">, que tinham subido nada menos que 81</segment>
+    <segment id="52">,14% desde o inÃ­cio do ano atÃ© o fim do mÃªs passado.</segment>
+    <segment id="53">A principal aposta da carteira agora Ã© a unit da Abril EducaÃ§Ã£o</segment>
+    <segment id="54">, que jÃ¡ valorizou 51</segment>
+    <segment id="55">,66% neste ano.
+- Nosso horizonte</segment>
+    <segment id="56">Ã© investir de trÃªs a cinco anos na aÃ§Ã£o</segment>
+    <segment id="57">, masmas acaba sendo menos do que isso</segment>
+    <segment id="58">porque</segment>
+    <segment id="59">porque o mercado tem antecipado a valorizaÃ§Ã£o.</segment>
+    <segment id="60">Nosso objetivo Ã© comprar boas empresas com perspectiva de crescimento de lucro e por um preÃ§o abaixo do valor justo - diz Amaral.</segment>
+    <segment id="61">Embora tambÃ©m aplique em aÃ§Ãµes de empresas mais dependentes de exportaÃ§Ãµes</segment>
+    <segment id="62">, como</segment>
+    <segment id="63">como o frigorÃ­fico Minerva</segment>
+    <segment id="64">, Amaral explica que Ã© mais eficiente estudar investimentos nas empresas que sÃ£o voltadas ao mercado interno.</segment>
+    <segment id="65">-</segment>
+    <segment id="66">Falamos com a indÃºstria e temos mais condiÃ§Ã£o de monitorar a economia brasileira do que o que</segment>
+    <segment id="67">sese passa na China</segment>
+    <segment id="68">, que influencia mais o preÃ§o das commodities - diz ele.</segment>
+    <segment id="69">Autor da tese de doutorado "</segment>
+    <segment id="70">ConsistÃªncia de desempenho de fundos de aÃ§Ãµes no Brasil"</segment>
+    <segment id="71">, o professor LuÃ­s Filipe Rossi</segment>
+    <segment id="72">, da PUC-Rio</segment>
+    <segment id="73">, faz apenas uma generalizaÃ§Ã£o: "</segment>
+    <segment id="74">NÃ£o ponha dinheiro nos perdedores do passado</segment>
+    <segment id="75">, porque</segment>
+    <segment id="76">porque provavelmente continuarÃ£o perdedores".
+- O que garante consistÃªncia de desempenho</segment>
+    <segment id="77">Ã© o talento do administrador de fundos para fazer a seleÃ§Ã£o de aÃ§Ãµes e antever movimentos de mercado - diz Rossi.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,54 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Crime brutal
+PolÃ­cia prende seis jovens por espancar homem atÃ© a morte na Capital
+Crime aconteceu em setembro de 2013.</segment>
+    <segment id="2">LÃ­der do bando Ã© sobrinho da vÃ­tima
+Carolina Rocha</segment>
+    <segment id="3">, carolina.rocha@diariogaucho.com.br</segment>
+    <segment id="4">Seis homens foram presos na manhÃ£ desta terÃ§a-feira em uma aÃ§Ã£o da 4Âª Delegacia de HomicÃ­dios e ProteÃ§Ã£o Ã  Pessoa (4Âª DHPP) de Porto Alegre.</segment>
+    <segment id="5">O grupo Ã© suspeito de envolvimento no assassinato de um homem de 40 anos</segment>
+    <segment id="6">, ocorrido em setembro deste ano no Bairro Aberta dos Morros</segment>
+    <segment id="7">, na Zona Sul.</segment>
+    <segment id="8">De acordo com o titular da 4Âª DHPP</segment>
+    <segment id="9">, delegado Gabriel Bicca</segment>
+    <segment id="10">, Roberto Campos Fontoura</segment>
+    <segment id="11">, 40 anos</segment>
+    <segment id="12">, foi morto a pauladas na noite de 28 de setembro.</segment>
+    <segment id="13">As investigaÃ§Ãµes revelaram que Roberto seria usuÃ¡rio de drogas e teria sido morto a mando do sobrinho</segment>
+    <segment id="14">, seu fornecedor de drogas. 
+â€</segment>
+    <segment id="15">“</segment>
+    <segment id="16">Ele teria advertido o tio que nÃ£o queria que ele usasse drogas na frente da casa em que vivia.</segment>
+    <segment id="17">Os dois discutiram e o tio teria tentado agredÃ­-lo.</segment>
+    <segment id="18">O rapaz reuniu cnco comparsas e invadiu a casa de Roberto â€</segment>
+    <segment id="19">“ contou o delegado.</segment>
+    <segment id="20">Roberto conseguiu escapar por uma janela nos fundos da residÃªncia</segment>
+    <segment id="21">, masmas acabou cercado pelo bando e espancado atÃ© a morte.</segment>
+    <segment id="22">O sobrinho de Roberto e os outros cinco jovens</segment>
+    <segment id="23">, todos entre 18 e 22 anos</segment>
+    <segment id="24">, sÃ£o mroadores do Bairro Aberta dos Morros e tiveram as prisÃµes preventivas decretadas pela JustiÃ§a.</segment>
+  </rst>
+</analysis>

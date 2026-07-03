@@ -1,0 +1,250 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">No campo da arqueologia</segment>
+    <segment id="2">, São Paulo foi por muito tempo considerado um estado quase sem registros do passado.</segment>
+    <segment id="3">Para desconstruir essa imagem</segment>
+    <segment id="4">, a arqueóloga Marília Perazzo</segment>
+    <segment id="5">, pesquisadora em estágio de pós-doutorado no Laboratório Interdisciplinar de Pesquisas em Evolução</segment>
+    <segment id="6">, Cultura e Meio Ambiente (Levoc)</segment>
+    <segment id="7">, do Museu de Arqueologia e Etnologia da Universidade de São Paulo (MAE-USP)</segment>
+    <segment id="8">, resgatou pesquisas na literatura científica</segment>
+    <segment id="9">, como</segment>
+    <segment id="10">como as realizadas pelo explorador francês Guy Christian Collet (1929-2004)</segment>
+    <segment id="11">, um dos pioneiros na investigação de registros feitos na rocha (rupestres) no estado.</segment>
+    <segment id="12">A partir delas</segment>
+    <segment id="13">, buscou lugares com grafismos e pinturas no território paulista.  "</segment>
+    <segment id="14">Até agora</segment>
+    <segment id="15">, os trabalhos na região tinham sido pontuais</segment>
+    <segment id="16">, sem uma pesquisa sistemática que permitisse a identificação de sítios</segment>
+    <segment id="17">, além da caracterização e análise dos registros rupestres"</segment>
+    <segment id="18">, conta Perazzo. "</segment>
+    <segment id="19">Essa pesquisa vem suprir uma lacuna no âmbito da arqueologia paulista</segment>
+    <segment id="20">, permitindo inserir São Paulo no mapa rupestre do Brasil.</segment>
+    <segment id="21">"  Modelo em 3D do sítio Serrito II</segment>
+    <segment id="22">, em São Manoel:</segment>
+    <segment id="23">apenas grafismos não identificáveis - Marilia Perazzo/USP</segment>
+    <segment id="24">; processamento 3D Camila Duelis Viana/USPNo contexto de projeto coordenado pelo arqueólogo Astolfo Araujo</segment>
+    <segment id="25">, Perazzo e colegas do Levoc vêm fazendo desde 2019 um levantamento dessas áreas e agora criaram um mapa interativo de sítios arqueológicos com registros rupestres no estado de São Paulo.</segment>
+    <segment id="26">Com 21 sítios conhecidos quando começaram</segment>
+    <segment id="27">, em 2023 a equipe do MAE registrou outros 33</segment>
+    <segment id="28">, totalizando 54.</segment>
+    <segment id="29">Contaram para isso com a parceria do engenheiro Marcelo Zuffo e da geóloga Camila Duelis Viana</segment>
+    <segment id="30">, ambos da USP.</segment>
+    <segment id="31">No mapa</segment>
+    <segment id="32">, é possível ver fotografias dos painéis rochosos</segment>
+    <segment id="33">, modelos tridimensionais</segment>
+    <segment id="34">, referências bibliográficas</segment>
+    <segment id="35">, datações e outras informações gerais sobre os sítios.</segment>
+    <segment id="36">O grupo usou técnicas de fotogrametria e escaneamento a laser para criar réplicas digitais das gravuras e pinturas que estão no site.</segment>
+    <segment id="37">"</segment>
+    <segment id="38">Leva por volta de duas horas para fotografar o conjunto que posteriormente dará origem ao modelo 3D"</segment>
+    <segment id="39">, conta Perazzo.</segment>
+    <segment id="40">O site classifica os sítios em três categorias: visitados</segment>
+    <segment id="41">; não visitados pela equipe do Levoc —</segment>
+    <segment id="42">masmas com registros de existência na literatura—</segment>
+    <segment id="43">;</segment>
+    <segment id="44">e sítios destruídos.</segment>
+    <segment id="45">A equipe já processou as imagens em 3D de seis deles.</segment>
+    <segment id="46">Mapa digital registra arte rupestre</segment>
+    <segment id="47">paulistaMais    novamente         de   de  de  representando um</segment>
+    <segment id="48">O mapa paulista</segment>
+    <segment id="49">sese inspirou no projeto Summa Arqueológica</segment>
+    <segment id="50">, da Fundação Museu do Homem Americano (Fumdham)</segment>
+    <segment id="51">, em São Raimundo Nonato</segment>
+    <segment id="52">, no Piauí</segment>
+    <segment id="53">, sede do Instituto Nacional de Arqueologia</segment>
+    <segment id="54">, Paleontologia e Ambiente do Semiárido (Inapas)</segment>
+    <segment id="55">, que se</segment>
+    <segment id="56">se dedica a mapear informações arqueológicas e paleontológicas da região do semiárido do Nordeste do Brasil.</segment>
+    <segment id="57">O centro de pesquisa é um dos Institutos Nacionais de Ciência e Tecnologia (INCT) financiados pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq).</segment>
+    <segment id="58">Em desenvolvimento há dez anos</segment>
+    <segment id="59">, o Summa foi um dos projetos pioneiros no Brasil em termos de organização de dados arqueológicos e mapeamento.</segment>
+    <segment id="60">Há 2.172 sítios registrados na plataforma</segment>
+    <segment id="61">, que está sendo reformulada para ficar mais rápida</segment>
+    <segment id="62">, entre outras melhorias.</segment>
+    <segment id="63">No site do Instituto do Patrimônio Histórico e Artístico Nacional (Iphan)</segment>
+    <segment id="64">, há registros de milhares de sítios espalhados pelo Brasil</segment>
+    <segment id="65">, masmas sem detalhes sobre cada um.</segment>
+    <segment id="66">"Mapear é uma tendência no campo da arqueologia</segment>
+    <segment id="67">, os pesquisadores buscam há muito tempo uma forma interativa de conectar as informações que colhem com a sociedade</segment>
+    <segment id="68">, gerar conteúdo educacional e de divulgação científica"</segment>
+    <segment id="69">, diz o cientista da computação Eduardo Krempser</segment>
+    <segment id="70">, pesquisador do Inapas e um dos responsáveis pelo desenvolvimento da Summa e do mapa de registros rupestres de São Paulo.</segment>
+    <segment id="71">"</segment>
+    <segment id="72">No caso</segment>
+    <segment id="73">caso paulista</segment>
+    <segment id="74">, usamos tecnologias e linguagens de programação robustas</segment>
+    <segment id="75">, tudo com livre acesso"</segment>
+    <segment id="76">, conta.</segment>
+    <segment id="77">Leia mais45 esqueletos e mais de 100 mil peças arqueológicas são encontrados em obra no MaranhãoObjetos foram descobertos em condomínio da construtora MRV para o Minha Casa Minha Vida em São Luís (MA)Múltiplos vestígios atestam que presença de humanos no Pantanal é bastante antiga</segment>
+    <segment id="78">Em novo livro</segment>
+    <segment id="79">, professores</segment>
+    <segment id="80">Maria de Fátima Costa e Pablo Diener abordam história milenar de povos que viveram na regiãoOs misteriosos túneis cavados por preguiças-gigantes no Brasil Estados do Sul e Sudeste têm centenas de paleotocas construídas por animais gigantesA intenção foi deixar o mapa o mais simples possível de usar</segment>
+    <segment id="81">, leve ao carregar e duradouro —uma decisão estratégica</segment>
+    <segment id="82">, comenta Krempser.</segment>
+    <segment id="83">"</segment>
+    <segment id="84">Muitos projetos falham por não pensar no longo prazo</segment>
+    <segment id="85">;</segment>
+    <segment id="86">daí a importância dos softwares livres</segment>
+    <segment id="87">, que são de fácil manutenção e podem ser levados para outros servidores</segment>
+    <segment id="88">, o que torna esse sistema sustentável"</segment>
+    <segment id="89">, completa.</segment>
+    <segment id="90">Preservar a memória é o objetivo principal do projeto</segment>
+    <segment id="91">, e a proposta é que o banco de dados seja aberto</segment>
+    <segment id="92">, de modo a ser acessado por outros pesquisadores e pessoas interessadas.</segment>
+    <segment id="93">Para alimentar o mapa</segment>
+    <segment id="94">, Krempser adotou uma plataforma em que o pesquisador</segment>
+    <segment id="95">, ao retornar de uma viagem de campo</segment>
+    <segment id="96">, insere os dados coletados</segment>
+    <segment id="97">, que ficam disponíveis em tempo real para o usuário do mapa.</segment>
+    <segment id="98">"</segment>
+    <segment id="99">Ela guarda as informações desde a coleta em campo até seu armazenamento em uma instituição de pesquisa ou em um museu"</segment>
+    <segment id="100">, diz.</segment>
+    <segment id="101">"</segment>
+    <segment id="102">Assim, é possível reconstruir todo o processo de trabalho do achado científico.</segment>
+    <segment id="103">"</segment>
+    <segment id="104">Também o sistema adotado para alimentar o mapa do Levoc pode receber registros desde o momento em que o pesquisador inicia seus estudos</segment>
+    <segment id="105">, sendo cruciais as observações das viagens de campo.</segment>
+    <segment id="106">Pessoalmente</segment>
+    <segment id="107">, Perazzo visitou 39 sítios em quatro anos de pesquisa.</segment>
+    <segment id="108">"</segment>
+    <segment id="109">Alguns são muito cansativos para chegar</segment>
+    <segment id="110">, anda-</segment>
+    <segment id="111">sese muito"</segment>
+    <segment id="112">, conta a arqueóloga</segment>
+    <segment id="113">, que não consegue escolher um favorito</segment>
+    <segment id="114">, masmas</segment>
+    <segment id="115">sese encanta a cada viagem de campo.</segment>
+    <segment id="116">"</segment>
+    <segment id="117">Quando chego e olho aquelas figuras é</segment>
+    <segment id="118">comocomo</segment>
+    <segment id="119">sese eu não tivesse andado nada</segment>
+    <segment id="120">, me renovo e fico horas sentada ali.</segment>
+    <segment id="121">"</segment>
+    <segment id="122">A grande maioria dos sítios paulistas</segment>
+    <segment id="123">sese situa em propriedades privadas —apenas um deles fica em um local de visitação aberto ao público</segment>
+    <segment id="124">, o do morro do Nhangussu</segment>
+    <segment id="125">, em Guarulhos</segment>
+    <segment id="126">, na região m etropolitana da capital.</segment>
+    <segment id="127">Para elaborar o banco de dados</segment>
+    <segment id="128">, foi preciso pedir autorização dos proprietários das terras onde estão as gravuras.</segment>
+    <segment id="129">Há registros de sítios visitados pelos pesquisadores do Levoc</segment>
+    <segment id="130">, sítios não visitados</segment>
+    <segment id="131">, masmas conhecidos por arqueólogos</segment>
+    <segment id="132">, e sítios já destruídos.</segment>
+    <segment id="133">Apenas um</segment>
+    <segment id="134">, que fica em Piracicaba</segment>
+    <segment id="135">, sese encaixa no último item.</segment>
+    <segment id="136">Registros sobre ele estão presentes apenas na literatura a partir dos anos 1960</segment>
+    <segment id="137">, segundo as informações bibliográficas presentes no mapa.</segment>
+    <segment id="138">"</segment>
+    <segment id="139">É muito importante que esse trabalho tenha sido feito nesse momento</segment>
+    <segment id="140">, porque</segment>
+    <segment id="141">porque ele registra a existência dos sítios antes de seus desaparecimentos"</segment>
+    <segment id="142">, opina a arqueóloga Daniela Cisneiros</segment>
+    <segment id="143">, coordenadora do Programa de Pós-graduação em Arqueologia da UFPE e pesquisadora da Fumdham</segment>
+    <segment id="144">, que não participa do trabalho da USP.</segment>
+    <segment id="145">"</segment>
+    <segment id="146">Muitos dos sítios de São Paulo estão em estado avançado de deterioração e de grande fragilidade</segment>
+    <segment id="147">, em áreas não protegidas.</segment>
+    <segment id="148">O conhecimento sobre eles pode contribuir para sua proteção.</segment>
+    <segment id="149">"</segment>
+    <segment id="150">Entre os painéis visitados mais impressionantes está o da Pedra do Dioguinho</segment>
+    <segment id="151">, no município de Dourado</segment>
+    <segment id="152">, no centro do estado</segment>
+    <segment id="153">, a 280 quilômetros da capital.</segment>
+    <segment id="154">Com 48 metros de extensão</segment>
+    <segment id="155">, é considerado o maior painel de grafismo rupestre do estado.</segment>
+    <segment id="156">Ali estão tipos gráficos chamados de tridígitos</segment>
+    <segment id="157">, que são desenhos de linhas que lembram pegadas de pássaros</segment>
+    <segment id="158">, além de formatos lineares</segment>
+    <segment id="159">, figuras em círculos simples</segment>
+    <segment id="160">, semicírculos e pontilhadas.</segment>
+    <segment id="161">Ao todo</segment>
+    <segment id="162">, foram identificadas 16 manchas gráficas.</segment>
+    <segment id="163">"É um sítio lindo</segment>
+    <segment id="164">, um dos mais expressivos de São Paulo"</segment>
+    <segment id="165">, afirma Perazzo.</segment>
+    <segment id="166">As análises indicam uma datação de cerca de 4.000 anos atrás –o que não significa que grupos humanos fizeram registros na mesma época</segment>
+    <segment id="167">, alerta a arqueóloga.</segment>
+    <segment id="168">Ela destaca outros dois sítios que a equipe do Levoc conseguiu datar: o Abrigo do Alvo</segment>
+    <segment id="169">, em Analândia</segment>
+    <segment id="170">, e o Abrigo de Itapeva (na cidade de mesmo nome).</segment>
+    <segment id="171">O primeiro é o mais antigo que</segment>
+    <segment id="172">sese conhece no estado</segment>
+    <segment id="173">, com registros rupestres de cerca de 7.500 anos atrás</segment>
+    <segment id="174">;</segment>
+    <segment id="175">o segundo tem idade estimada de 4.700 anos.</segment>
+    <segment id="176">O Abrigo do Alvo foi um dos que Collet explorou nos anos 1980.</segment>
+    <segment id="177">Na época</segment>
+    <segment id="178">, o Exército brasileiro usava a estrutura rochosa</segment>
+    <segment id="179">comocomo alvo em exercícios de artilharia e o pesquisador solicitou aos militares que deixassem de realizar as atividades ali.</segment>
+    <segment id="180">O pedido foi acatado e a equipe do arqueólogo francês aplicou uma resina sobre os grafismos</segment>
+    <segment id="181">, o que manteve o material bastante preservado.</segment>
+    <segment id="182">Assim como</segment>
+    <segment id="183">como na Pedra do Dioguinho</segment>
+    <segment id="184">, o Abrigo do Alvo tinha registros em tridígitos</segment>
+    <segment id="185">, figuras circulares e pontilhadas</segment>
+    <segment id="186">, além de conjuntos de linhas e asteriscos.</segment>
+    <segment id="187">O mesmo padrão é observado nos registros encontrados na serra da Capivara e em outras partes do Nordeste.</segment>
+    <segment id="188">Para os especialistas</segment>
+    <segment id="189">, é difícil precisar o significado das gravuras e pinturas</segment>
+    <segment id="190">, principalmente pela falta de contexto.</segment>
+    <segment id="191">Por isso</segment>
+    <segment id="192">, o trabalho dos pesquisadores da USP é mais voltado à catalogação</segment>
+    <segment id="193">, preservação e tipificação.</segment>
+    <segment id="194">É notável</segment>
+    <segment id="195">, no entanto</segment>
+    <segment id="196">, que possa ter havido algum tipo de intenção por parte de quem desenhou cenas e formas sobre rochas.</segment>
+    <segment id="197">"</segment>
+    <segment id="198">Os registros rupestres</segment>
+    <segment id="199">, seja pintura</segment>
+    <segment id="200">, seja gravura</segment>
+    <segment id="201">, são marcadores da memória dos grupos autores"</segment>
+    <segment id="202">, avalia Cisneiros.</segment>
+    <segment id="203">Em São Paulo</segment>
+    <segment id="204">, as gravuras</segment>
+    <segment id="205">, talhadas diretamente na rocha</segment>
+    <segment id="206">, são mais frequentes do que as pinturas</segment>
+    <segment id="207">, que envolvem pigmentos e predominam no Nordeste.</segment>
+    <segment id="208">"</segment>
+    <segment id="209">No Sudeste</segment>
+    <segment id="210">, há domínio de formas geometrizadas</segment>
+    <segment id="211">, com poucas cenas e mais grafismos isolados: as figuras têm pouco dinamismo</segment>
+    <segment id="212">, são mais estáticas"</segment>
+    <segment id="213">, analisa a arqueóloga da UFPE.</segment>
+    <segment id="214">Boa parte dos registros no Nordeste fica em margens de rios e a céu aberto</segment>
+    <segment id="215">, ao contrário dos paulistas</segment>
+    <segment id="216">, que se</segment>
+    <segment id="217">se localizam sobretudo em abrigos protegidos por rocha.</segment>
+    <segment id="218">Todas as características dos registros rupestres fazem Cisneiros pensar sobre as pessoas que viveram ali há milhares de anos.</segment>
+    <segment id="219">"</segment>
+    <segment id="220">Entrar em contato com essas informações</segment>
+    <segment id="221">, poder ver essas gravuras</segment>
+    <segment id="222">, para mim é um encontro com a ancestralidade</segment>
+    <segment id="223">, vai muito além de uma descoberta científica"</segment>
+    <segment id="224">, reflete a pesquisadora.</segment>
+  </rst>
+</analysis>

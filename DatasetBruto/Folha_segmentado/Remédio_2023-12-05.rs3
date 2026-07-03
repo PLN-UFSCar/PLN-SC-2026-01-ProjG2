@@ -1,0 +1,120 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O uso de anticoagulantes para evitar a formação de trombos que podem levar aos chamados derrames ou AVCs (acidente vascular cerebral) em pacientes com fibrilação atrial</segment>
+    <segment id="2">, o tipo mais comum de arritmia cardíaca</segment>
+    <segment id="3">, já é comprovadamente eficaz.</segment>
+    <segment id="4">No entanto</segment>
+    <segment id="5">, no grupo de pacientes que possuem fibrilação atrial</segment>
+    <segment id="6">, masmas não apresentam os sintomas clínicos (</segment>
+    <segment id="7">comocomo dores no peito)</segment>
+    <segment id="8">, já que estes são controlados por marcapasso</segment>
+    <segment id="9">, a eficácia do tratamento anticoagulante para prevenção de AVC era desconhecida até então.</segment>
+    <segment id="10">Acidente vascular cerebral após formação de dois trombos (coágulos)</segment>
+    <segment id="11">, visível por meio de uma imagem de tomografia da cabeça - Marisa Cauduro - 28.nov.10/FolhapressUm novo estudo</segment>
+    <segment id="12">, publicado em novembro na revista especializada</segment>
+    <segment id="13">Nejm (The New England Journal of Medicine)</segment>
+    <segment id="14">, uma das mais importantes da área médica</segment>
+    <segment id="15">, apontou que a apixabana</segment>
+    <segment id="16">, um anticoagulante oral seguro e eficaz</segment>
+    <segment id="17">, reduziu em 37% o risco de AVC em pacientes com fibrilação atrial controlada por marcapasso (chamada subclínica)</segment>
+    <segment id="18">, comparado ao tratamento com aspirina (usado</segment>
+    <segment id="19">comocomo grupo controle).</segment>
+    <segment id="20">A eficácia foi ainda maior na proteção de AVCs graves (fatais ou incapacitantes)</segment>
+    <segment id="21">, de 49%.</segment>
+    <segment id="22">Embora o anticoagulante tenha provocado um leve aumento na incidência de sangramentos nos pacientes do estudo</segment>
+    <segment id="23">, em comparação à aspirina os sangramentos foram mais leves e em áreas na região intracraniana com menor risco para causar hemorragias cerebrais.</segment>
+    <segment id="24">A pesquisa foi conduzida em mais de 200 centros em 16 países (Estados Unidos</segment>
+    <segment id="25">, Canadá e Europa) e foi liderada pelo cardiologista brasileiro Renato Lopes</segment>
+    <segment id="26">, que é professor da Universidade de Duke e fundador do BCRI (Brazilian Clinical Research Institute).</segment>
+    <segment id="27">Também participaram pesquisadores do Instituto do Coração de Ottawa (Canadá)</segment>
+    <segment id="28">, da Universidade de Montreal e da McMaster University (Ontario)</segment>
+    <segment id="29">, além de outras instituições.</segment>
+    <segment id="30">Cuide-seCiência</segment>
+    <segment id="31">, hábitos e prevenção</segment>
+    <segment id="32">numa newsletter para a sua saúde e bem-estarCarregando..."A eficácia da apixabana para pacientes com fibrilação atrial clínica já era conhecida</segment>
+    <segment id="33">, masmas a grande pergunta era</segment>
+    <segment id="34">sese em pacientes que controlam os batimentos o risco de sangramento por anticoagulante superaria os benefícios.</segment>
+    <segment id="35">E nós vimos que não</segment>
+    <segment id="36">, que o benefício líquido [final] é muito maior</segment>
+    <segment id="37">, na redução inclusive de casos graves de AVC"</segment>
+    <segment id="38">, disse Lopes à Folha.</segment>
+    <segment id="39">Para avaliar a eficácia do anticoagulante para a prevenção de AVC</segment>
+    <segment id="40">, os pesquisadores analisaram 4.012 pacientes com fibrilação atrial subclínica controlada por marcapasso ou implantes e com ou sem histórico de derrames.</segment>
+    <segment id="41">A idade média dos participantes era de 76</segment>
+    <segment id="42">,8 anos e pouco mais de um terço (36</segment>
+    <segment id="43">,1%) eram mulheres.</segment>
+    <segment id="44">Os pacientes foram divididos em grupos para receber 5 miligramas duas vezes ao dia de apixabana ou uma dose diária de 81 mg de aspirina.</segment>
+    <segment id="45">No grupo que recebeu a intervenção (apixabana)</segment>
+    <segment id="46">, foram registrados 55 casos de derrame</segment>
+    <segment id="47">, contra 86 no grupo controle (aspirina).</segment>
+    <segment id="48">A razão de risco ou HR calculada é de 0</segment>
+    <segment id="49">,63 (HR = 0</segment>
+    <segment id="50">,45 a 0</segment>
+    <segment id="51">,88, com intervalo de confiança 95%)</segment>
+    <segment id="52">, isto é</segment>
+    <segment id="53">, a apixabana reduziu em 37% o risco de um AVC.</segment>
+    <segment id="54">Nos pacientes tratados com apixabana</segment>
+    <segment id="55">, 18 dos 55 AVCs registrados foram graves</segment>
+    <segment id="56">, contra 36 dos 84 ocorridos entre os pacientes tratados com aspirina</segment>
+    <segment id="57">, indicando uma redução no risco de um AVC grave de 49% (HR = 0</segment>
+    <segment id="58">,51, com IC 95%).  "</segment>
+    <segment id="59">Um outro achado deste estudo</segment>
+    <segment id="60">, além de mostrar a prevenção de AVC com a apixabana neste grupo de pacientes</segment>
+    <segment id="61">, é que a própria aspirina esteve associada a eventos de sangramento mais graves</segment>
+    <segment id="62">, comprovando achados anteriores de</segment>
+    <segment id="63">comocomo a aspirina pode provocar sangramento</segment>
+    <segment id="64">sese usada diariamente em pacientes com risco cardíaco"</segment>
+    <segment id="65">, avalia.</segment>
+    <segment id="66">Segundo Lopes</segment>
+    <segment id="67">, a pesquisa agora irá servir de base para a produção de uma nova diretriz brasileira de fibrilação atrial</segment>
+    <segment id="68">, que deve levar em consideração o benefício de pacientes com o quadro subclínico iniciarem o tratamento anticoagulante para reduzir o risco cardiovascular.</segment>
+    <segment id="69">Além disso</segment>
+    <segment id="70">, um estudo mais refinado</segment>
+    <segment id="71">, analisando os diferentes desfechos encontrados em cada subgrupo</segment>
+    <segment id="72">, deve ajudar ainda mais a orientar o tratamento adequado para cada paciente.</segment>
+    <segment id="73">Colesterol elevado é risco para infarto e AVCMais    novamente         de   de  de  representando um  Uma das limitações da pesquisa</segment>
+    <segment id="74">, ainda de acordo com o pesquisador</segment>
+    <segment id="75">, é que ela incluiu somente aqueles pacientes cardíacos que já tinham passado por uma intervenção cirúrgica —um grupo com idade mais avançada e comorbidades que podem agravar o risco de derrame.  "</segment>
+    <segment id="76">Existe uma pesquisa em andamento</segment>
+    <segment id="77">, que não temos ainda conhecimento sobre os resultados</segment>
+    <segment id="78">, de avaliação da fibrilação atrial subclínica em pacientes mais jovens</segment>
+    <segment id="79">, sem implante cardíaco</segment>
+    <segment id="80">, e que monitoram seus batimentos por meio de relógios e outros dispositivos de saúde.</segment>
+    <segment id="81">Ela também será interessante para descobrir</segment>
+    <segment id="82">sese a anticoagulação é eficaz ou não na prevenção de AVCs"</segment>
+    <segment id="83">, explica.</segment>
+    <segment id="84">O cardiologista entende que a chamada inércia terapêutica é uma das principais barreiras para o avanço de novas diretrizes e protocolos terapêuticos no país.</segment>
+    <segment id="85">"</segment>
+    <segment id="86">Isso passa por todos</segment>
+    <segment id="87">, desde o paciente</segment>
+    <segment id="88">, familiares</segment>
+    <segment id="89">, até médicos e profissionais de saúde em clínicas e hospitais.</segment>
+    <segment id="90">Por isso</segment>
+    <segment id="91">, nossa melhor ferramenta é a educação</segment>
+    <segment id="92">, através de estudos científicos sólidos</segment>
+    <segment id="93">, que ajudam a orientar na melhor prática"</segment>
+    <segment id="94">, disse.</segment>
+  </rst>
+</analysis>

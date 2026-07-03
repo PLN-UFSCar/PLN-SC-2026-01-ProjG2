@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Giovanna Ewbank colocava meias no sutiã
+"</segment>
+    <segment id="2">Enquanto minhas amigas já tinham peito e bunda</segment>
+    <segment id="3">, eu parecia uma tábua”</segment>
+    <segment id="4">, disse</segment>
+    <segment id="5">A mulher do ator Bruno Gagliasso revelou à revista Caras que</segment>
+    <segment id="6">, durante a adolescência</segment>
+    <segment id="7">, usava essa tática para parecer ter seios maiores.</segment>
+    <segment id="8">“</segment>
+    <segment id="9">Eu fui a que mais demorou a</segment>
+    <segment id="10">sese desenvolver.</segment>
+    <segment id="11">Enquanto minhas amigas já tinham peito e bunda</segment>
+    <segment id="12">, eu parecia uma tábua”</segment>
+    <segment id="13">, revelou a atriz</segment>
+    <segment id="14">, que hoje não precisa mais disso.</segment>
+  </rst>
+</analysis>

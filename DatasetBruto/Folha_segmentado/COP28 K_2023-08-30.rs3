@@ -1,0 +1,112 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O enviado climático dos Estados Unidos</segment>
+    <segment id="2">, John Kerry</segment>
+    <segment id="3">, tem se</segment>
+    <segment id="4">se reunido com líderes globais da indústria de petróleo e gás para pedir que eles apresentem planos concretos para impulsionar as energias renováveis e reduzir as emissões de gases do efeito estufa até 2030 na próxima cúpula climática da ONU.</segment>
+    <segment id="5">Os especialistas e ativistas climáticos estão preocupados que a COP28</segment>
+    <segment id="6">, que será realizada nos Emirados Árabes Unidos dentro de três meses</segment>
+    <segment id="7">, sese torne uma "COP do petróleo"</segment>
+    <segment id="8">, com a indústria tendo um papel desproporcional nas discussões para o enfrentamento das mudanças climáticas.</segment>
+    <segment id="9">Kerry disse ao Financial Times que acredita ser vital que a indústria do petróleo e do gás</segment>
+    <segment id="10">sese envolva nas negociações climáticas da ONU e seja responsabilizada por seu envolvimento no aquecimento global.</segment>
+    <segment id="11">John Kerry</segment>
+    <segment id="12">, enviado especial dos EUA para o clima</segment>
+    <segment id="13">, durante discurso em evento em Edimburgo (Escócia) na última semana - Robert Perry - 24.ago.2023/Pool/AFP"Temos que colocar a indústria de combustíveis fósseis na mesa.</segment>
+    <segment id="14">Temos de trazê-los para este esforço</segment>
+    <segment id="15">, e eles têm de</segment>
+    <segment id="16">sese juntar a nós sendo responsáveis"</segment>
+    <segment id="17">, disse ele numa entrevista</segment>
+    <segment id="18">, acrescentando que as metas da indústria estabelecidas para 2050 não são suficientes e é necessário um compromisso para atingir emissões líquidas zero de carbono.</segment>
+    <segment id="19">Kerry disse que pediu aos executivos do petróleo e do gás que apresentem planos na COP28 para reduzir suas emissões diretas e as emissões derivadas da energia que compram</segment>
+    <segment id="20">, conhecidas</segment>
+    <segment id="21">comocomo emissões de escopos 1 e 2</segment>
+    <segment id="22">, até 2030.</segment>
+    <segment id="23">Ele também pediu que definam compromissos de alocação de capital para energias renováveis até 2030</segment>
+    <segment id="24">, bem como</segment>
+    <segment id="25">como um padrão para tecnologia de captura</segment>
+    <segment id="26">, utilização e armazenamento de carbono</segment>
+    <segment id="27">, que visa capturar as emissões de CO₂. Isto garantiria que "estamos realmente reduzindo as emissões</segment>
+    <segment id="28">, não simplesmente prolongando esse processo"</segment>
+    <segment id="29">, disse ele.</segment>
+    <segment id="30">"</segment>
+    <segment id="31">A questão é: pode-</segment>
+    <segment id="32">sese colocá-lo em escala?</segment>
+    <segment id="33">Podemos fazer com que este processo funcione bem e seja grande o suficiente para permanecermos na curva [do Acordo] de Paris [para um aumento de temperatura de 1</segment>
+    <segment id="34">,5°C]?</segment>
+    <segment id="35">Isso tem que chegar a zero até 2050</segment>
+    <segment id="36">, ou melhor.</segment>
+    <segment id="37">E acho que essa é a principal questão agora.</segment>
+    <segment id="38">"</segment>
+    <segment id="39">A liderança dos Emirados na COP28 está organizando uma aliança comandada por empresas de petróleo e gás que estabeleceria uma meta de atingir zero líquido nas emissões de escopos 1 e 2 até 2050</segment>
+    <segment id="40">, conforme relatado anteriormente pelo FT.</segment>
+    <segment id="41">O ex-secretário de Estado dos EUA também disse que conversou nos últimos dias com o ministro da Energia da Arábia Saudita</segment>
+    <segment id="42">, príncipe</segment>
+    <segment id="43">Abdulaziz bin Salman</segment>
+    <segment id="44">, e que</segment>
+    <segment id="45">sese reunirá em breve com o executivo-chefe da Saudi Aramco.</segment>
+    <segment id="46">Isto surge na sequência de discussões com outros líderes de empresas de petróleo e gás</segment>
+    <segment id="47">, incluindo Bernard Looney</segment>
+    <segment id="48">, da BP</segment>
+    <segment id="49">, sobre os planos para as alterações climáticas</segment>
+    <segment id="50">, à medida que recuam dos planos anteriores de reduzir a quantidade de petróleo e gás produzida até 2030.</segment>
+    <segment id="51">Nas mais recentes reuniões do G20 sobre energia e clima</segment>
+    <segment id="52">, os ministros das maiores economias do mundo não conseguiram chegar a acordo sobre as metas para reduzir as emissões perigosas</segment>
+    <segment id="53">, tendo a Arábia Saudita e a China sido identificadas por negociadores de outros países por obstruírem qualquer progresso.</segment>
+    <segment id="54">A Arábia Saudita é o maior fornecedor de petróleo da China e foi convidada na semana passada a aderir ao bloco expandido de mercados emergentes dos Brics.</segment>
+    <segment id="55">Os Estados Unidos reiniciaram recentemente as discussões sobre o clima com a China</segment>
+    <segment id="56">, masmas o cenário internacional abalado</segment>
+    <segment id="57">, incluindo tensões sobre Taiwan e comércio</segment>
+    <segment id="58">, impediu o progresso.</segment>
+    <segment id="59">Líderes do Brics participam de cúpula na África do SulMais    novamente         de   de  de  representando um</segment>
+    <segment id="60">Embora os EUA continuem a ser o maior produtor mundial de petróleo e gás</segment>
+    <segment id="61">, Kerry enfatizou sua rápida mudança para as energias renováveis por meio de legislação emblemática que oferece US$ 369 bilhões em subsídios para tecnologia e manufatura verdes.</segment>
+    <segment id="62">Ele disse que isso desencadeou uma onda de investimentos nos EUA que não poderá ser desfeita por qualquer futuro governo republicano</segment>
+    <segment id="63">, apesar de a maioria dos pré-candidatos presidenciais do partido não terem reconhecido as mudanças climáticas.  "</segment>
+    <segment id="64">Nenhum político pode desfazer o que está acontecendo agora"</segment>
+    <segment id="65">, disse Kerry.</segment>
+    <segment id="66">"</segment>
+    <segment id="67">Por quê?</segment>
+    <segment id="68">Porque o mercado tomou sua decisão.</segment>
+    <segment id="69">Vocês acham que esses CEOs vão reconstruir fábricas que produzem [o motor de] combustão interna?</segment>
+    <segment id="70">Não.</segment>
+    <segment id="71">"  "</segment>
+    <segment id="72">O setor privado vai fazer isso</segment>
+    <segment id="73">porque</segment>
+    <segment id="74">porque há dinheiro a ser ganho</segment>
+    <segment id="75">, muito dinheiro.</segment>
+    <segment id="76">Essa é a nova revolução industrial"</segment>
+    <segment id="77">, acrescentou.</segment>
+    <segment id="78">Sobre a decisão do Reino Unido de conceder centenas de novas licenças de petróleo e gás no Mar do Norte com uma estratégia declarada do governo Rishi de "maximizar" a produção</segment>
+    <segment id="79">, Kerry disse: "</segment>
+    <segment id="80">Essa não é a nossa política".  "</segment>
+    <segment id="81">Não vamos fazer a ‘última gota’"</segment>
+    <segment id="82">, acrescentou.</segment>
+    <segment id="83">"</segment>
+    <segment id="84">Estamos tentando fazer a transição.</segment>
+    <segment id="85">"</segment>
+    <segment id="86">Tradução de Luiz Roberto M. Gonçalves</segment>
+  </rst>
+</analysis>

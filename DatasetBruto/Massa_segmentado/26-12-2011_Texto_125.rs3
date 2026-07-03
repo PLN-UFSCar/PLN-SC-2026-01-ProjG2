@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Boca aliviado por evitar Flu na estreia
+RIO - Depois de ficar dois anos afastado da Copa Libertadores</segment>
+    <segment id="2">, o Boca Juniors desejava uma reestreia sem grandes complicações.</segment>
+    <segment id="3">Por isto</segment>
+    <segment id="4">, o técnico Julio César Falcioni comemorou a alteração da tabela feita pela Conmebol e o fato de não precisar mais jogar a primeira rodada do Grupo 4 contra o Fluminense</segment>
+    <segment id="5">, no Engenhão.</segment>
+    <segment id="6">A informação foi publicada pelo diário esportivo "Olé"</segment>
+    <segment id="7">, da Argentina.</segment>
+    <segment id="8">Para Falcioni</segment>
+    <segment id="9">, é muito melhor para o seu time não ter que estrear e fechar a fase de grupos pressionado e tendo que evitar perder pontos para um adversário considerado favorito</segment>
+    <segment id="10">, ao lado do próprio Boca</segment>
+    <segment id="11">, a uma das duas vagas na chave.</segment>
+    <segment id="12">Em 2008</segment>
+    <segment id="13">, o Fluminense eliminou o Boca na semifinal.</segment>
+    <segment id="14">O Fluminense estreia na Libertadores contra o Arsenal</segment>
+    <segment id="15">, da Argentina</segment>
+    <segment id="16">, ou Sport Huancayo</segment>
+    <segment id="17">, do Peru</segment>
+    <segment id="18">, no dia 7 de fevereiro.</segment>
+  </rst>
+</analysis>

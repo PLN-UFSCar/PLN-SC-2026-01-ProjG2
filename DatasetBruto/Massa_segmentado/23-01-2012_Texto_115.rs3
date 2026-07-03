@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Léo e Cissa batem boca por Léo Santana</segment>
+    <segment id="2">Léo Kret disse que Cissa pediu ao cantor do Parango que não falasse mais com ela</segment>
+    <segment id="3">O clima começou a pegar fogo no Trio Reality</segment>
+    <segment id="4">, da TV Aratu.</segment>
+    <segment id="5">Isso porque</segment>
+    <segment id="6">porque  Cissa Chaggas e  Léo Kret iniciaram a maior discussão por conta de Léo Santana.</segment>
+    <segment id="7">A vereadora disse que a dançarina teria pedido ao cantor do Parangolé que não falasse com ela na época em que Cissa namorou com Léo.</segment>
+    <segment id="8">A gata</segment>
+    <segment id="9">, no entanto</segment>
+    <segment id="10">, desmentiu:</segment>
+    <segment id="11">“</segment>
+    <segment id="12">Isso nunca aconteceu.</segment>
+    <segment id="13">Se eu tivesse problema com você teria dito”</segment>
+  </rst>
+</analysis>

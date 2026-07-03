@@ -1,0 +1,106 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Spotify ficou fora do ar na manhã desta quarta-feira (19).</segment>
+    <segment id="2">O Downdetector</segment>
+    <segment id="3">, site de monitoramento de serviços online</segment>
+    <segment id="4">, registro um pico de reclamações por volta das 9h relatando problemas no serviço de streaming.</segment>
+    <segment id="5">A empresa confirmou a queda</segment>
+    <segment id="6">, masmas disse que a situação parece estar melhor.</segment>
+    <segment id="7">Conheça alternativas ao Spotify para momentos de instabilidade.</segment>
+    <segment id="8">Spotify fica fora do ar nesta quarta-feira (19) - Christian Hartmann - 18.fev.2014/ReutersApple Music</segment>
+    <segment id="9">O Apple Music é o serviço de streaming de música da Apple.</segment>
+    <segment id="10">O app tem integração com a assistente virtual Siri e outros dispositivos da empresa.</segment>
+    <segment id="11">É compatível com Dolby Atmos e usa um método de compressão de arquivos de áudio chamado Lossless</segment>
+    <segment id="12">, que preserva a qualidade de sonora.</segment>
+    <segment id="13">Recentemente</segment>
+    <segment id="14">, o aplicativo recebeu duas funcionalidades novas.</segment>
+    <segment id="15">O Apple Music Sing</segment>
+    <segment id="16">, um modo karaokê que usa inteligência artificial para abaixar o volume dos vocais</segment>
+    <segment id="17">, e um aplicativo exclusivo para música clássica</segment>
+    <segment id="18">, gratuito para quem já tiver a assinatura do serviço.</segment>
+    <segment id="19">Os preços começam em R$ 21</segment>
+    <segment id="20">,90 por mês para acesso individual e R$ 34</segment>
+    <segment id="21">,90 para a assinatura familiar</segment>
+    <segment id="22">, que comporta até cinco pessoas.</segment>
+    <segment id="23">Há também a assinatura universitária</segment>
+    <segment id="24">, por R$ 11</segment>
+    <segment id="25">,90 por mês.</segment>
+    <segment id="26">Diferente do Spotify</segment>
+    <segment id="27">, o Apple Music não tem uma versão gratuita com anúncios.</segment>
+    <segment id="28">Deezer</segment>
+    <segment id="29">O Deezer oferece acesso a mais de 90 milhões de músicas.</segment>
+    <segment id="30">Assim como</segment>
+    <segment id="31">como o Spotify</segment>
+    <segment id="32">, tem um plano gratuito com anúncios.</segment>
+    <segment id="33">Além disso</segment>
+    <segment id="34">, clientes da TIM</segment>
+    <segment id="35">, Globoplay</segment>
+    <segment id="36">, Mercado Livre ou Itaú têm desconto ou acesso gratuito.</segment>
+    <segment id="37">O aplicativo permite a reprodução de podcasts e tem o recurso SongCatcher</segment>
+    <segment id="38">, um identificador de músicas integrado.</segment>
+    <segment id="39">Os preços começam em R$ 22</segment>
+    <segment id="40">,90 por mês para acesso individual e R$ 39</segment>
+    <segment id="41">,90 para acesso em grupo de até seis pessoas.</segment>
+    <segment id="42">A assinatura para estudantes custa R$ 10</segment>
+    <segment id="43">,90.</segment>
+    <segment id="44">Tidal</segment>
+    <segment id="45">O Tidal</segment>
+    <segment id="46">sese destaca por oferecer transmissão sonora de alta qualidade (HiFi).</segment>
+    <segment id="47">Há dois planos principais</segment>
+    <segment id="48">, o HiFi</segment>
+    <segment id="49">, por R$ 16</segment>
+    <segment id="50">,90 por mês</segment>
+    <segment id="51">, e o HiFi Plus</segment>
+    <segment id="52">, por R$ 33</segment>
+    <segment id="53">,80.</segment>
+    <segment id="54">A diferença é que o segundo oferece recursos para entusiastas de áudio</segment>
+    <segment id="55">, como</segment>
+    <segment id="56">como Master Quality Authenticated (MQA)</segment>
+    <segment id="57">, Dolby Atmos e Sony 360 Reality Audio.</segment>
+    <segment id="58">Há também planos para família</segment>
+    <segment id="59">, com até cinco pessoas</segment>
+    <segment id="60">, e desconto de 50% para estudantes.</segment>
+    <segment id="61">Amazon Music</segment>
+    <segment id="62">O serviço de streaming de música da Amazon tem a vantagem de estar incluso</segment>
+    <segment id="63">, com algumas restrições</segment>
+    <segment id="64">, na assinatura Prime da varejista.</segment>
+    <segment id="65">O plano Unlimited</segment>
+    <segment id="66">, com recursos similares aos dos concorrentes</segment>
+    <segment id="67">, custa a partir de R$ 16</segment>
+    <segment id="68">,90 por mês.</segment>
+    <segment id="69">Não há desconto para estudantes.</segment>
+    <segment id="70">YouTube Music</segment>
+    <segment id="71">O YouTube Music é o serviço de streaming de música do Google.</segment>
+    <segment id="72">É possível assiná-lo individualmente a partir de R$ 16</segment>
+    <segment id="73">,90 por mês</segment>
+    <segment id="74">, masmas a opção mais vantajosa é a assinatura com o YouTube Premium</segment>
+    <segment id="75">, que além de dar acesso ao Music</segment>
+    <segment id="76">, reproduz vídeos na plataforma sem anúncios</segment>
+    <segment id="77">, entre outras funcionalidades.</segment>
+    <segment id="78">O premium custa a partir de R$ 20</segment>
+    <segment id="79">,90 por mês.</segment>
+    <segment id="80">Há também planos familiares e desconto para estudantes.</segment>
+  </rst>
+</analysis>

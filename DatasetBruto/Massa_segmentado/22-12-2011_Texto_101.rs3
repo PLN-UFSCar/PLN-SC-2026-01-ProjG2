@@ -1,0 +1,144 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Verão começa no Rio com muito sol e calor
+RIO - O verão chegou oficialmente ao Rio às 3h30m desta quinta-feira</segment>
+    <segment id="2">, deixando a cidade ensolarada desde o amanhecer.</segment>
+    <segment id="3">A madrugada</segment>
+    <segment id="4">, com poucas nuvens</segment>
+    <segment id="5">, refrescou o ar.</segment>
+    <segment id="6">E, conforme previu o Climatempo</segment>
+    <segment id="7">, o dia seguiu com sol forte e céu praticamente sem nuvens.</segment>
+    <segment id="8">Os níveis de umidade nesta quinta-feira tenderam a ficar abaixo do normal para esta época do ano.</segment>
+    <segment id="9">E o ar mais seco vai inibir o crescimento de nuvens carregadas.</segment>
+    <segment id="10">Apesar do calor intenso esperado para tarde</segment>
+    <segment id="11">, não houve previsão de chuva.</segment>
+    <segment id="12">Mas, dependendo do trecho da orla que escolheram</segment>
+    <segment id="13">, puderam dar um mergulho (</segment>
+    <segment id="14">casocaso de quem estava no Arpoador</segment>
+    <segment id="15">, com mar calmo e cristalino) ou ficaram com medo de enfrentar a água (</segment>
+    <segment id="16">comocomo os banhistas que optaram pelo Leblon).</segment>
+    <segment id="17">Lá, o mar estava viscoso</segment>
+    <segment id="18">, com um tom marrom e cheiro forte.</segment>
+    <segment id="19">Pouca gente teve coragem de</segment>
+    <segment id="20">sese refrescar na água.</segment>
+    <segment id="21">A gerente de Qualidade da Água do Instituto Estadual do Ambiente (Inea)</segment>
+    <segment id="22">, Fátima Soares</segment>
+    <segment id="23">, disse acreditar que o problema tenha sido causado por microalgas.</segment>
+    <segment id="24">Na sexta-feira</segment>
+    <segment id="25">, técnicos irão ao local recolher amostras da água para análise.</segment>
+    <segment id="26">Na quarta-feira</segment>
+    <segment id="27">, o mar de Piratininga</segment>
+    <segment id="28">, em Niterói</segment>
+    <segment id="29">, amanheceu com manchas semelhantes às do Leblon.</segment>
+    <segment id="30">Técnicos do Serviço de Operações de Emergência (Sopea) do Inea estiveram no local e constataram que não havia sinais de óleo na água</segment>
+    <segment id="31">, e sim florações de algas.</segment>
+    <segment id="32">Dia mais quente de dezembro teve máxima de 37</segment>
+    <segment id="33">,5 graus</segment>
+    <segment id="34">A temperatura chegou aos 37</segment>
+    <segment id="35">,5 graus nesta quinta-feira</segment>
+    <segment id="36">, máxima registrada em Realengo</segment>
+    <segment id="37">, transformando o dia no mais quente de dezembro.</segment>
+    <segment id="38">Segundo o Climatempo</segment>
+    <segment id="39">, o calor vai continuar intenso na sexta-feira.</segment>
+    <segment id="40">A temperatura à tarde deve chegar perto dos 40 graus.</segment>
+    <segment id="41">Os cariocas</segment>
+    <segment id="42">, no entanto</segment>
+    <segment id="43">, não vão ter dias bonitos por toda a estação.</segment>
+    <segment id="44">O verão será marcado por temporais</segment>
+    <segment id="45">, céu nublado e mormaço.</segment>
+    <segment id="46">A culpa é do La Niña - que esfria as águas do Pacífico e empurra as frentes frias para o alto-mar - e de outro fenômeno climático</segment>
+    <segment id="47">, as Zonas de Convergência do Atlântico Sul</segment>
+    <segment id="48">, formadas por mudanças na circulação dos ventos na América do Sul</segment>
+    <segment id="49">, que geram uma massa de nuvens.</segment>
+    <segment id="50">Juntos</segment>
+    <segment id="51">, os dois fenômenos vão deixar uma quantidade de nuvens enorme sobre boa parte do país</segment>
+    <segment id="52">, especialmente o Rio.</segment>
+    <segment id="53">Risco de chuva na noite de Natal é alto</segment>
+    <segment id="54">O tempo muda no fim de semana</segment>
+    <segment id="55">, com a chegada de uma nova frente fria.</segment>
+    <segment id="56">Além do aumento da nebulosidade e das condições para chuva</segment>
+    <segment id="57">, o ar frio polar que virá junto com a frente fria vai ajudar a baixar a temperatura.</segment>
+    <segment id="58">O carioca ainda sentirá muito calor e abafamento durante o sábado.</segment>
+    <segment id="59">O risco de pancadas de chuva na noite da véspera do Natal é alto</segment>
+    <segment id="60">, por causa do excesso de calor e da aproximação de uma frente fria.</segment>
+    <segment id="61">É a chegada dessa frente fria</segment>
+    <segment id="62">, durante o domingo</segment>
+    <segment id="63">, que vira completamente o tempo no Rio.</segment>
+    <segment id="64">O domingo de Natal será com muitas nuvens desde cedo e a chuva pode começar já pela manhã.</segment>
+    <segment id="65">O risco de chuva forte é alto à tarde e à noite.</segment>
+    <segment id="66">O aumento da nebulosidade</segment>
+    <segment id="67">, a chuva e o vento frio chegando à cidade vão derrubar a temperatura.</segment>
+    <segment id="68">Para os padrões cariocas</segment>
+    <segment id="69">, o domingo de Natal será com temperatura agradável</segment>
+    <segment id="70">, que não deve passar dos 30 graus.</segment>
+    <segment id="71">No verão</segment>
+    <segment id="72">, mais turistas em 2011 do que em 2010</segment>
+    <segment id="73">A cidade maravilhosa virou destino obrigatório para turistas nacionais e estrangeiros.</segment>
+    <segment id="74">Segundo a Riotur</segment>
+    <segment id="75">, são esperados no Rio principalmente brasileiros e sul-americanos</segment>
+    <segment id="76">, e, apesar da crise econômica no hemisfério norte</segment>
+    <segment id="77">, os europeus e americanos também não deixarão de aproveitar o verão carioca.</segment>
+    <segment id="78">A expectativa da empresa de turismo para a temporada é de que a cidade receba mais turistas do que no período passado no período de dezembro a março.</segment>
+    <segment id="79">São esperados 3.017 milhões de visitantes</segment>
+    <segment id="80">, gerando uma renda de US$ 2.233 bilhões.</segment>
+    <segment id="81">No verão passado</segment>
+    <segment id="82">, a cidade recebeu 2.684 milhões de turistas</segment>
+    <segment id="83">, e a renda foi de US$ 1.976 bilhões.</segment>
+    <segment id="84">De acordo com o secretário municipal de Turismo e presidente da Riotur</segment>
+    <segment id="85">, Antônio Pedro Figueira de Mello</segment>
+    <segment id="86">, a temporada "promete ser muito boa".
+
+"</segment>
+    <segment id="87">Com o agravamento da crise na Europa</segment>
+    <segment id="88">, a tendência é ocorrer uma substituição do turista europeu pelo sul-americano.</segment>
+    <segment id="89">Isso se</segment>
+    <segment id="90">se deve não somente a crise</segment>
+    <segment id="91">, masmas ao fato do turismo na América do Sul ter crescido mais do que no restante do mundo</segment>
+    <segment id="92">, incluindo o Brasil.</segment>
+    <segment id="93">Porque o brasileiro também vem</segment>
+    <segment id="94">sese mostrando muito propenso a viajar.</segment>
+    <segment id="95">O turismo interno é visto</segment>
+    <segment id="96">comocomo uma boa opção e oportunidade para conhecer o nosso país"</segment>
+    <segment id="97">, explica Mello</segment>
+    <segment id="98">, por meio de nota.</segment>
+    <segment id="99">A Riotur estima fechar 2011 com 1.850 milhão de turistas estrangeiros vindo ao Rio</segment>
+    <segment id="100">, de janeiro a dezembro.</segment>
+    <segment id="101">Em 2010</segment>
+    <segment id="102">, foram 1.610 em 2010.</segment>
+    <segment id="103">Segundo a Riotur</segment>
+    <segment id="104">, a marca de turistas nacionais também deve ser superada: 6</segment>
+    <segment id="105">,5 milhões de visitantes brasileiros</segment>
+    <segment id="106">, contra 6 milhões em 2010.</segment>
+    <segment id="107">A taxa de ocupação hoteleira de 2011 deve fechar com média anual de 80%</segment>
+    <segment id="108">, segundo a ABIH-RJ.</segment>
+    <segment id="109">Entre os eventos que mais</segment>
+    <segment id="110">sese destacaram no calendário oficial de eventos da cidade do Rio de Janeiro estão o Rock in Rio</segment>
+    <segment id="111">, UFC Rio</segment>
+    <segment id="112">, show do Paul McCartney</segment>
+    <segment id="113">, Justin Bieber e Pearl Jam</segment>
+    <segment id="114">, Campeonato Mundial e Surf</segment>
+    <segment id="115">, além do Carnaval.</segment>
+  </rst>
+</analysis>

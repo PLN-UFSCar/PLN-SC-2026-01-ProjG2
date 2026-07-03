@@ -1,0 +1,100 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Itaú Unibanco anunciou nesta terça-feira (7) que teve lucro recorrente de R$ 7</segment>
+    <segment id="2">,668 bilhões no quarto trimestre de 2022</segment>
+    <segment id="3">, aumento de 7</segment>
+    <segment id="4">,1% sobre mesma etapa de 2021</segment>
+    <segment id="5">, masmas abaixo da projeção média de analistas consultados pela Refinitiv</segment>
+    <segment id="6">, de R$ 8</segment>
+    <segment id="7">,24 bilhões para o período.</segment>
+    <segment id="8">Um dos fatores que mais pesaram</segment>
+    <segment id="9">para que</segment>
+    <segment id="10">para que o resultado ficasse abaixo do esperado pelo mercado foi o item conhecido</segment>
+    <segment id="11">comocomo PDD</segment>
+    <segment id="12">, a Provisão para Créditos de Liquidação Duvidosa</segment>
+    <segment id="13">, uma despesa que representa um colchão que o banco é obrigado a fazer para proteger seu capital contra possíveis atrasos nos empréstimos que concedeu.</segment>
+    <segment id="14">O Itaú teve um aumento na despesa com essa provisão de R$ 1</segment>
+    <segment id="15">,7 bilhão em três meses</segment>
+    <segment id="16">, passando de R$ 8</segment>
+    <segment id="17">,2 bilhões no terceiro trimestre de 2022 para R$ 9</segment>
+    <segment id="18">,9 bilhões na parte final do ano passado.</segment>
+    <segment id="19">Reflexo de homem em fachada de agência do Itaú Unibanco no Rio de Janeiro - Sergio Moraes - 29.abr.2019/ReutersNo relatório</segment>
+    <segment id="20">, o banco citou ter reconhecido "impactos provenientes de evento subsequente à data do fechamento relacionado a um</segment>
+    <segment id="21">casocaso específico de empresa de grande porte que entrou em recuperação judicial"</segment>
+    <segment id="22">, em referência ao</segment>
+    <segment id="23">casocaso Americanas.</segment>
+    <segment id="24">Por isso</segment>
+    <segment id="25">, fez um reforço na provisão para perdas esperadas com calotes</segment>
+    <segment id="26">"</segment>
+    <segment id="27">para cobrir 100% da exposição</segment>
+    <segment id="28">, gerando um impacto de R$ 719 milhões" no resultado final.</segment>
+    <segment id="29">Esta é uma tendência que já havia sido detectada no balanço do Santander Brasil</segment>
+    <segment id="30">, divulgado na última quinta-feira (2).</segment>
+    <segment id="31">A despesa com provisão aumentou 14% em três meses</segment>
+    <segment id="32">, também com os impactos do</segment>
+    <segment id="33">casocaso Americanas.</segment>
+    <segment id="34">Apesar do lucro bilionário</segment>
+    <segment id="35">, um dos itens que mais devem chamar atenção dos investidores é o de Retorno sobre o Patrimônio Líquido</segment>
+    <segment id="36">, que mostra a rentabilidade relativa dos bancos.</segment>
+    <segment id="37">No caso</segment>
+    <segment id="38">caso do Itaú</segment>
+    <segment id="39">, a rentabilidade caiu quase 2 pontos percentuais em três meses</segment>
+    <segment id="40">, passando de 21% para 19</segment>
+    <segment id="41">,3%, mesmo patamar registrado em 2021.</segment>
+    <segment id="42">A carteira de crédito do Itaú Unibanco fechou 2022 em R$ 1</segment>
+    <segment id="43">,1 trilhão</segment>
+    <segment id="44">, com maior crescimento nas operações para pessoas físicas</segment>
+    <segment id="45">, superior a 20% em 12 meses.</segment>
+    <segment id="46">Chama atenção o aumento da carteira em categorias mais arriscadas</segment>
+    <segment id="47">, como</segment>
+    <segment id="48">como cartão de crédito</segment>
+    <segment id="49">, que subiu 20</segment>
+    <segment id="50">,5% em 12 meses e quase 5% no trimestre</segment>
+    <segment id="51">, e crédito pessoal</segment>
+    <segment id="52">, com avanço de quase 27% em um ano</segment>
+    <segment id="53">, e de 3</segment>
+    <segment id="54">,4% em três meses.</segment>
+    <segment id="55">Previsão de 2023 mais difícil</segment>
+    <segment id="56">O Itaú divulgou também suas projeções para 2023.</segment>
+    <segment id="57">O banco espera que a carteira de crédito cresça entre 6% e 9% no ano</segment>
+    <segment id="58">, ante um avanço superior a 11% em 2022.</segment>
+    <segment id="59">Outra previsão que chama atenção é a de custo do crédito</segment>
+    <segment id="60">, item que é diretamente impactado pela provisão contra inadimplência.</segment>
+    <segment id="61">Neste caso</segment>
+    <segment id="62">caso, o Itaú espera um valor entre R$ 36</segment>
+    <segment id="63">,5 bilhões e R$ 40</segment>
+    <segment id="64">,5 bilhões</segment>
+    <segment id="65">, ante R$ 32</segment>
+    <segment id="66">,3 bilhões no ano passado.</segment>
+    <segment id="67">A margem financeira com clientes</segment>
+    <segment id="68">, que representa o quanto o banco deve ter de retorno com os produtos financeiros</segment>
+    <segment id="69">, deve ficar entre 13</segment>
+    <segment id="70">,5% e 16</segment>
+    <segment id="71">,5%, segundo o Itaú</segment>
+    <segment id="72">, ante 27</segment>
+    <segment id="73">,2% em 2022.</segment>
+    <segment id="74">Com Reuters</segment>
+  </rst>
+</analysis>

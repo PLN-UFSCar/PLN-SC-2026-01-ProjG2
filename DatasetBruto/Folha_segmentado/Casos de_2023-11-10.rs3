@@ -1,0 +1,154 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A cidade de São Paulo registrou</segment>
+    <segment id="2">, até 1º de novembro deste ano</segment>
+    <segment id="3">, 12.663 casos de dengue.</segment>
+    <segment id="4">No mesmo período de 2022</segment>
+    <segment id="5">, foram 11.607 –uma alta de 9%.</segment>
+    <segment id="6">O número de casos em 2023 já é maior do que a soma de janeiro a dezembro do ano passado</segment>
+    <segment id="7">, quando houve 11.920 confirmações da doença.</segment>
+    <segment id="8">Aedes aegypti em laboratório no Japão - Shinji Kasai/AFPOutubro de 2023 foi o que mais somou casos novos (256)</segment>
+    <segment id="9">, sese observado o mesmo mês desde 2015.</segment>
+    <segment id="10">Dos 96 distritos administrativos da cidade de São Paulo</segment>
+    <segment id="11">, 44 apresentam média incidência de dengue.</segment>
+    <segment id="12">No de Vila Guilherme (zona norte)</segment>
+    <segment id="13">, onde o CI (coeficiente de incidência) —critério do Ministério da Saúde para a classificação desse tipo de doença em relação à população-- está em 367</segment>
+    <segment id="14">,1 a situação é epidêmica.</segment>
+    <segment id="15">Tremembé</segment>
+    <segment id="16">, Santana</segment>
+    <segment id="17">, Tucuruvi e Vila Maria</segment>
+    <segment id="18">, na mesma região</segment>
+    <segment id="19">, possuem índices próximos ao de uma epidemia —244</segment>
+    <segment id="20">,5; 281</segment>
+    <segment id="21">,6; 237</segment>
+    <segment id="22">,8 e 294</segment>
+    <segment id="23">,3, respectivamente.</segment>
+    <segment id="24">Em todos</segment>
+    <segment id="25">, exceto Tremembé</segment>
+    <segment id="26">, houve aumento na incidência</segment>
+    <segment id="27">, sese observada a semana anterior.</segment>
+    <segment id="28">Segundo a Secretaria Municipal da Saúde</segment>
+    <segment id="29">, a ocorrência de dengue está vinculada a determinantes que mantém a infestação vetorial e a circulação viral num território</segment>
+    <segment id="30">, como</segment>
+    <segment id="31">como fatores climáticos</segment>
+    <segment id="32">, demográficos</segment>
+    <segment id="33">, socioculturais</segment>
+    <segment id="34">, de infraestrutura urbana</segment>
+    <segment id="35">, de dinâmica populacional e de susceptibilidade aos vírus circulantes.</segment>
+    <segment id="36">Desta forma</segment>
+    <segment id="37">, os bairros da zona norte apresentam um significativo aumento populacional</segment>
+    <segment id="38">, áreas de borda de mata e topografia acidentada</segment>
+    <segment id="39">, além de ser uma região fronteiriça na qual observa-</segment>
+    <segment id="40">sese a introdução de casos de áreas vizinhas.</segment>
+    <segment id="41">A incidência de dengue ainda é baixa em 51 distritos.</segment>
+    <segment id="42">Na capital paulista</segment>
+    <segment id="43">, o coeficiente de incidência é de 105</segment>
+    <segment id="44">,5 –maior em relação à última semana</segment>
+    <segment id="45">, que marcou 104</segment>
+    <segment id="46">,9.</segment>
+    <segment id="47">Há três níveis de incidência: baixa (menos de 100 casos/100 mil hab.)</segment>
+    <segment id="48">, média (de 100 a 300 casos/100 mil hab.) e alta (mais de 300 casos/100 mil hab.).</segment>
+    <segment id="49">Para chegar ao coeficiente de incidência</segment>
+    <segment id="50">, basta multiplicar por 100 mil o número de casos novos e dividir pelo total da população da área em questão.</segment>
+    <segment id="51">O indicador mostra o risco de os moradores ficarem doentes e a probabilidade de novos casos.</segment>
+    <segment id="52">Em 2023</segment>
+    <segment id="53">, dez pessoas perderam a vida em decorrência da dengue.</segment>
+    <segment id="54">No ano passado foram dois mortos</segment>
+    <segment id="55">; em 2020</segment>
+    <segment id="56">, um; em 2019</segment>
+    <segment id="57">, três</segment>
+    <segment id="58">; em 2016</segment>
+    <segment id="59">, a cidade de São Paulo teve oito óbitos.</segment>
+    <segment id="60">No ano epidêmico de 2015</segment>
+    <segment id="61">, também até o início de novembro</segment>
+    <segment id="62">, houve 25 mortes.</segment>
+    <segment id="63">Neste ano</segment>
+    <segment id="64">, foram realizadas cerca de 4</segment>
+    <segment id="65">,7 milhões de ações de prevenção ao Aedes aegypti no município.</segment>
+    <segment id="66">Na região norte</segment>
+    <segment id="67">, de janeiro a outubro de 2023</segment>
+    <segment id="68">, houve mais de 1 milhão de ações de combate à dengue</segment>
+    <segment id="69">; em 2022</segment>
+    <segment id="70">, no mesmo período</segment>
+    <segment id="71">, foram realizadas 778.038 ações.</segment>
+    <segment id="72">Para o infectologista Carlos Magno Fortaleza</segment>
+    <segment id="73">, presidente da Sociedade Paulista de Infectologia</segment>
+    <segment id="74">, cabe ao poder público e à população o controle da doença.</segment>
+    <segment id="75">Os municípios devem atuar com ações para combate ao mosquito —em locais</segment>
+    <segment id="76">comocomo ferro velho</segment>
+    <segment id="77">, borracharia</segment>
+    <segment id="78">, cemitérios</segment>
+    <segment id="79">, lixões e outros—</segment>
+    <segment id="80">, além do trabalho de visita casa a casa e orientação feito pelos agentes de zoonoses.</segment>
+    <segment id="81">"</segment>
+    <segment id="82">Nós precisamos recuperar algo que já estava ruim na pandemia e piorou um pouco mais</segment>
+    <segment id="83">, que é a ação coletiva.</segment>
+    <segment id="84">Quando a gente fala</segment>
+    <segment id="85">, por exemplo</segment>
+    <segment id="86">, de controlar a água parada</segment>
+    <segment id="87">, é importante você controlar na sua casa e o vizinho na dele.</segment>
+    <segment id="88">Então, as pessoas precisam voltar à rede social mais antiga que existe</segment>
+    <segment id="89">, que é a vizinhança.</segment>
+    <segment id="90">E, com isso adotar medidas pessoais para o controle"</segment>
+    <segment id="91">, afirma.</segment>
+    <segment id="92">O médico também aconselha o uso de repelentes.</segment>
+    <segment id="93">Veja medidas para evitar a proliferação do Aedes aegyptiMais    novamente         de   de  de  representando um  De janeiro a 4 de novembro deste ano</segment>
+    <segment id="94">, o estado de São Paulo registrou 309.007 casos de dengue e 276 óbitos.</segment>
+    <segment id="95">No mesmo período de 2022</segment>
+    <segment id="96">, foram 325.238 ocorrências com 284 mortes.</segment>
+    <segment id="97">Durante todo o ano de 2022</segment>
+    <segment id="98">, houve 331.520 casos e 292 mortes.</segment>
+    <segment id="99">A informação é da Secretaria Estadual da Saúde.</segment>
+    <segment id="100">Os municípios paulistas que registraram mais casos da doença Presidente Prudente (36.143)</segment>
+    <segment id="101">, Bauru (14.280)</segment>
+    <segment id="102">, São Paulo (12.663)</segment>
+    <segment id="103">, Ribeirão Preto (11.064) e Campinas (9.922).  O que é dengue?</segment>
+    <segment id="104">A dengue é uma doença febril cuja transmissão ocorre pela picada da fêmea do mosquito Aedes aegypti.</segment>
+    <segment id="105">Os sintomas são febre alta (acima de 38°C)</segment>
+    <segment id="106">; dor no corpo</segment>
+    <segment id="107">, nas articulações</segment>
+    <segment id="108">, atrás dos olhos e de cabeça</segment>
+    <segment id="109">; mal-estar</segment>
+    <segment id="110">, falta de apetite e manchas vermelhas no corpo.</segment>
+    <segment id="111">Ela não</segment>
+    <segment id="112">sese confunde com gripe e Covid</segment>
+    <segment id="113">, porque</segment>
+    <segment id="114">porque não causa sintomas respiratórios e dor de garganta.</segment>
+    <segment id="115">De acordo com Fortaleza</segment>
+    <segment id="116">, os sinais de alerta para a gravidade são queda importante na pressão</segment>
+    <segment id="117">, sonolência</segment>
+    <segment id="118">, alteração no nível de consciência</segment>
+    <segment id="119">, hipotermia</segment>
+    <segment id="120">, dor abdominal intensa</segment>
+    <segment id="121">, vômitos e sangramento.</segment>
+    <segment id="122">A dengue possui quatro sorotipos.</segment>
+    <segment id="123">Quando um indivíduo é infectado por um deles adquire imunidade contra aquele vírus</segment>
+    <segment id="124">, masmas ainda fica suscetível aos demais.</segment>
+    <segment id="125">"</segment>
+    <segment id="126">E quando nós temos dengue mais que uma vez</segment>
+    <segment id="127">, a chance de ser grave é maior"</segment>
+    <segment id="128">, alerta Fortaleza.</segment>
+  </rst>
+</analysis>

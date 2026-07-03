@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O japonês Takashi Kaburagi criou um protótipo do cubo de Rubick</segment>
+    <segment id="2">, o cubo mágico</segment>
+    <segment id="3">, que se</segment>
+    <segment id="4">se resolve sozinho.</segment>
+    <segment id="5">A peça tem mecanismos internos controlados por um programa de computador.</segment>
+    <segment id="6">Criado pelo professor húngaro Ernõ Rubik</segment>
+    <segment id="7">, em 1974</segment>
+    <segment id="8">, o cubo tradicional tem nove quadrados em cada face e mais de 43 quintilhões de combinações possíveis</segment>
+    <segment id="9">, segundo a Rubick</segment>
+    <segment id="10">, fabricante dos cubos mágicos.</segment>
+    <segment id="11">Apesar de ter seu auge nos anos 1980 e 90</segment>
+    <segment id="12">, o frenesi do cubo continua em campeonatos que reúnem crianças e adolescentes em disputas de velocidade</segment>
+    <segment id="13">, chamado de Spped Cube.</segment>
+    <segment id="14">A Rubick tem até uma linha profissional.</segment>
+    <segment id="15">O recorde de tempo para solucionar o cubo é 4</segment>
+    <segment id="16">,22 segundos</segment>
+    <segment id="17">, do australiano Feliks Zemdegs.</segment>
+    <segment id="18">Um robô desenvolvido pelo MIT é capaz de resolvê-lo em 0</segment>
+    <segment id="19">,38 segundo.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,189 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Brasileiros com renda média mensal de R$ 4.000 sofrem a mesma cobrança de IRPF (Imposto de Renda da Pessoa Física) de quem ganha R$ 4</segment>
+    <segment id="2">,1 milhões ao mês</segment>
+    <segment id="3">, segundo um estudo elaborado pela SPE (Secretaria de Política Econômica) do Ministério da Fazenda.</segment>
+    <segment id="4">Enquanto a alíquota efetiva paga pelo primeiro grupo é de 1</segment>
+    <segment id="5">,73%, o imposto incidente sobre os ganhos do segundo —que reúne a fatia 0</segment>
+    <segment id="6">,01% mais rica entre os declarantes— corresponde a 1</segment>
+    <segment id="7">,76%.</segment>
+    <segment id="8">A alíquota efetiva retrata a proporção do valor pago pelo contribuinte sobre o que ele declarou de renda e é menor do que a nominal (de até 27</segment>
+    <segment id="9">,5%) porque</segment>
+    <segment id="10">porque leva em conta isenções e abatimentos previstos em lei.</segment>
+    <segment id="11">Embora os valores nominais recolhidos sejam de ordens de grandeza diferentes</segment>
+    <segment id="12">, a similaridade da alíquota efetiva mostra que</segment>
+    <segment id="13">, para esse seleto grupo de 3.841 contribuintes no topo da pirâmide</segment>
+    <segment id="14">, não se</segment>
+    <segment id="15">se aplica a premissa de cobrar mais de quem ganha mais.</segment>
+    <segment id="16">Ministro Fernando Haddad (Fazenda) em anúncio de novas medidas econômicas - Pedro Ladeira - 28.dez.2023/FolhapressNa visão do governo</segment>
+    <segment id="17">, o quadro é fruto da isenção de rendimentos</segment>
+    <segment id="18">comocomo lucros e dividendos distribuídos por empresas a seus acionistas</segment>
+    <segment id="19">, um exemplo de regra que contribui para acentuar a desigualdade de renda no país.  "</segment>
+    <segment id="20">No 0,01% mais rico</segment>
+    <segment id="21">, quase 70% da renda é isenta"</segment>
+    <segment id="22">, afirma a subsecretária de Política Fiscal da SPE</segment>
+    <segment id="23">, Debora Freire.</segment>
+    <segment id="24">As disparidades foram elencadas no Relatório da Distribuição Pessoal da Renda e da Riqueza da População Brasileira</segment>
+    <segment id="25">, elaborado pelo órgão com base em dados da declaração do IRPF 2023 (ano-calendário 2022).</segment>
+    <segment id="26">A tabela do IRPF prevê atualmente isenção do imposto para ganhos até R$ 2.112 mensais e alíquotas progressivas que vão de 7</segment>
+    <segment id="27">,5% a 27</segment>
+    <segment id="28">,5%, conforme a faixa de renda.</segment>
+    <segment id="29">No entanto</segment>
+    <segment id="30">, Freire ressalta que a aparente progressividade da cobrança é</segment>
+    <segment id="31">, na prática</segment>
+    <segment id="32">, minimizada pelas isenções.</segment>
+    <segment id="33">Se o conjunto de declarantes fosse dividido em uma escada com 100 degraus</segment>
+    <segment id="34">, a cobrança do imposto seria progressiva até o degrau 93</segment>
+    <segment id="35">, segundo a SPE.</segment>
+    <segment id="36">No topo</segment>
+    <segment id="37">, que reúne os 7% mais ricos</segment>
+    <segment id="38">, a lógica</segment>
+    <segment id="39">sese inverte: quanto mais</segment>
+    <segment id="40">sese ganha</segment>
+    <segment id="41">, menos</segment>
+    <segment id="42">sese paga.</segment>
+    <segment id="43">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="44">; aberta para não assinantes.</segment>
+    <segment id="45">Carregando...</segment>
+    <segment id="46">Os dados obtidos nas declarações do IRPF não refletem sozinhos o panorama integral da distribuição de renda no país</segment>
+    <segment id="47">, uma vez que apenas 38</segment>
+    <segment id="48">,4 milhões de brasileiros prestaram contas à Receita Federal.</segment>
+    <segment id="49">Mas as informações são um termômetro relevante da desigualdade.</segment>
+    <segment id="50">A alíquota efetiva do 0</segment>
+    <segment id="51">,01% mais rico é menor até mesmo do que a cobrança sobre quem está no miolo da escada</segment>
+    <segment id="52">, que recolhe algo próximo a 3% dos seus ganhos.</segment>
+    <segment id="53">No degrau 93</segment>
+    <segment id="54">, a alíquota efetiva chega ao pico de 11%.  "</segment>
+    <segment id="55">A alíquota nominal do Imposto de Renda engana bastante.</segment>
+    <segment id="56">Ela é progressiva</segment>
+    <segment id="57">, como</segment>
+    <segment id="58">como deve ser</segment>
+    <segment id="59">, para que</segment>
+    <segment id="60">para que cumpra com o princípio da capacidade contributiva</segment>
+    <segment id="61">, ou seja</segment>
+    <segment id="62">, quem ganha mais e quem tem mais renda deve ser mais tributado.</segment>
+    <segment id="63">Só que</segment>
+    <segment id="64">, quando</segment>
+    <segment id="65">sese calcula a alíquota efetiva</segment>
+    <segment id="66">, a história não é bem essa"</segment>
+    <segment id="67">,</segment>
+    <segment id="68">afirma a subsecretária.</segment>
+    <segment id="69">O diagnóstico é divulgado no momento em que o governo Luiz Inácio Lula da Silva (PT) prepara sua proposta de reforma do Imposto de Renda</segment>
+    <segment id="70">, que precisa ser enviada até 19 de março</segment>
+    <segment id="71">, conforme prazo estipulado na emenda constitucional da reforma tributária.</segment>
+    <segment id="72">Congresso promulga reforma tributária após mais de três décadas de discussãoMais    novamente         de   de  de  representando um</segment>
+    <segment id="73">A retomada da taxação de lucros e dividendos é justamente um dos pontos em discussão.</segment>
+    <segment id="74">Esses rendimentos eram tributados no Brasil até 1995</segment>
+    <segment id="75">, masmas uma lei sancionada pelo então presidente Fernando Henrique Cardoso (PSDB) isentou os valores a partir de 1996.</segment>
+    <segment id="76">Desde então</segment>
+    <segment id="77">, tentativas de retomar a taxação esbarraram nas resistências do andar de cima.</segment>
+    <segment id="78">A subsecretária da SPE evita abordar detalhes da proposta em construção dentro da Fazenda</segment>
+    <segment id="79">, masmas diz que a reavaliação das isenções é um dos "consensos</segment>
+    <segment id="80">" entre acadêmicos e membros da sociedade civil.</segment>
+    <segment id="81">"</segment>
+    <segment id="82">O que se</segment>
+    <segment id="83">se tem de consenso é que</segment>
+    <segment id="84">, de fato</segment>
+    <segment id="85">, há uma distorção em termos da renda isenta no topo da distribuição</segment>
+    <segment id="86">, a partir da isenção de uma série de rendimentos que são característicos do topo</segment>
+    <segment id="87">, e também por causa da tributação exclusiva.</segment>
+    <segment id="88">Duas medidas aprovadas no final do ano passado [tributação periódica de fundos exclusivos e offshores] são importantes para corrigir parte dessas distorções.</segment>
+    <segment id="89">É preciso olhar para os rendimentos isentos"</segment>
+    <segment id="90">, afirma Freire.</segment>
+    <segment id="91">Em 2022</segment>
+    <segment id="92">, foram declarados R$ 607</segment>
+    <segment id="93">,6 bilhões recebidos em lucros e dividendos</segment>
+    <segment id="94">, dos quais R$ 438</segment>
+    <segment id="95">,1 bilhões concentrados nas mãos dos 384 mil contribuintes que formam o grupo de 1% mais rico entre os declarantes.</segment>
+    <segment id="96">O grupo do 0</segment>
+    <segment id="97">,01% mais rico recebeu R$ 111</segment>
+    <segment id="98">,4 bilhões da renda com lucros e dividendos declarada à Receita.</segment>
+    <segment id="99">Além do grande volume de rendimentos isentos</segment>
+    <segment id="100">, o topo também é o maior beneficiado pelas deduções legais —gastos que podem ser descontados da base de cálculo do imposto.</segment>
+    <segment id="101">Elas incluem despesas com assistência médica privada (sem limite de valor)</segment>
+    <segment id="102">, com educação privada (até R$ 3.561</segment>
+    <segment id="103">,50 por dependente) e escrituradas em livro-caixa (trabalhadores não assalariados</segment>
+    <segment id="104">, titulares de cartórios e leiloeiros podem abater gastos com custeio da atividade).</segment>
+    <segment id="105">Considerando o total de contribuintes</segment>
+    <segment id="106">, dois terços das deduções ficaram concentradas em despesas médicas e contribuições ao INSS.</segment>
+    <segment id="107">No 1% mais rico</segment>
+    <segment id="108">, porém</segment>
+    <segment id="109">porém, os principais abatimentos foram realizados por livro-caixa (43</segment>
+    <segment id="110">,4%), despesas médicas (22</segment>
+    <segment id="111">,7%) e contribuições à previdência privada (13</segment>
+    <segment id="112">,3%).  "</segment>
+    <segment id="113">Uma série de estudos mostra que as deduções</segment>
+    <segment id="114">, da forma que estão hoje</segment>
+    <segment id="115">, trazem algumas distorções"</segment>
+    <segment id="116">, diz Freire.</segment>
+    <segment id="117">Deduções permitidas no Imposto de RendaMais    novamente         de   de  de  representando um</segment>
+    <segment id="118">O relatório divulgado pela SPE também faz uma análise da desigualdade de gênero a partir das evidências colhidas nas declarações.</segment>
+    <segment id="119">Os resultados mostram que</segment>
+    <segment id="120">, nos estratos mais elevados de renda</segment>
+    <segment id="121">, a disparidade é maior</segment>
+    <segment id="122">, evidenciando a predominância masculina no topo da pirâmide econômica do país.  Nesta comparação</segment>
+    <segment id="123">, os dados analisados são da declaração do IRPF de 2022 (ano-calendário de 2021).</segment>
+    <segment id="124">Segundo os números</segment>
+    <segment id="125">, quanto maior a faixa de renda</segment>
+    <segment id="126">, menor a participação das mulheres entre os declarantes.</segment>
+    <segment id="127">Enquanto elas representam mais de 40% da renda total declarada em todas as faixas até 15 salários mínimos (até R$ 16.500</segment>
+    <segment id="128">, considerando o piso vigente em 2021)</segment>
+    <segment id="129">, a participação das mulheres cai para 13</segment>
+    <segment id="130">,1% no grupo que recebe por mês mais de 320 salários mínimos (R$ 352 mil).</segment>
+    <segment id="131">A discrepância entre os gêneros é ainda maior na declaração de patrimônio (bens líquidos)</segment>
+    <segment id="132">, em que as mulheres tiveram participação de 29% no total declarado.</segment>
+    <segment id="133">A média individual de bens líquidos declarados naquele ano para mulheres foi de R$ 233</segment>
+    <segment id="134">,9 mil</segment>
+    <segment id="135">, valor 46</segment>
+    <segment id="136">,1% menor do que os R$ 433</segment>
+    <segment id="137">,1 mil para homens.</segment>
+    <segment id="138">O estudo mostra ainda que</segment>
+    <segment id="139">, embora</segment>
+    <segment id="140">embora as mulheres representem uma parcela menor entre os declarantes</segment>
+    <segment id="141">, elas são as mais tributadas.</segment>
+    <segment id="142">Em 2021</segment>
+    <segment id="143">, a renda tributável foi de 59</segment>
+    <segment id="144">,4% para mulheres e de 49</segment>
+    <segment id="145">,5% para homens.</segment>
+    <segment id="146">Esse cenário é explicado em boa medida</segment>
+    <segment id="147">porque</segment>
+    <segment id="148">porque as mulheres possuem menos patrimônio e ativos financeiros e de capital</segment>
+    <segment id="149">, o que resulta em menor renda de tributação exclusiva ou isenta.</segment>
+    <segment id="150">"</segment>
+    <segment id="151">Como a renda do topo é majoritariamente masculina e grande parte é isenta</segment>
+    <segment id="152">, os homens têm uma proporção de isenção de sua renda maior"</segment>
+    <segment id="153">, afirma Freire.</segment>
+    <segment id="154">"</segment>
+    <segment id="155">Isso faz com que as mulheres declarantes enfrentem uma carga de IRPF maior do que os homens.</segment>
+    <segment id="156">"</segment>
+    <segment id="157">Os tipos de vínculos de trabalho também ajudam a explicar o fato de as mulheres terem maior proporção de renda tributável que os homens.</segment>
+    <segment id="158">Elas, por exemplo</segment>
+    <segment id="159">, têm maior participação no serviço público civil e militar —no qual a remuneração média é superior à do setor privado e conta com pouca margem para isenções.  "</segment>
+    <segment id="160">O IRPF acaba atuando</segment>
+    <segment id="161">comocomo um instrumento amplificador da desigualdade de gênero.</segment>
+    <segment id="162">A revisão de isenções fiscais parece ser o caminho para dirimir essa distorção"</segment>
+    <segment id="163">, diz o relatório.</segment>
+  </rst>
+</analysis>

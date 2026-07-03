@@ -1,0 +1,93 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Secretaria fará aulas de reforço para 80 mil alunos
+RIO - Apesar de a situação parecer melhorar ao longo do ensino médio em matemática</segment>
+    <segment id="2">, a própria Secretaria estadual de Educação admite que não é bem assim.</segment>
+    <segment id="3">Enquanto no 1º ano são 71% dos alunos com baixo desempenho</segment>
+    <segment id="4">; no 2º</segment>
+    <segment id="5">, são 66%</segment>
+    <segment id="6">; e no 3º</segment>
+    <segment id="7">, são 52%.</segment>
+    <segment id="8">Mas o motivo para a melhoria é explicado basicamente pela reprovação: os estudantes mais fracos ficam retidos</segment>
+    <segment id="9">, deixam a escola ou vão parar nas salas de aula de Educação de Jovens e Adultos (EJA)</segment>
+    <segment id="10">, o antigo supletivo.</segment>
+    <segment id="11">EDUCAÇÃO</segment>
+    <segment id="12">EM BAIXA: Exame da rede estadual mostra situação crítica em matemática no ensino médio
+- O crescimento da nota decorrente da reprovação é o que chamamos de seleção adversa.</segment>
+    <segment id="13">Temos um problema grave no ensino médio</segment>
+    <segment id="14">porque</segment>
+    <segment id="15">porque o nosso índice de aprovação é o mais baixo entre todos os estados do país: 68%.</segment>
+    <segment id="16">Estamos desenvolvendo uma série de ações para tentar reverter este quadro</segment>
+    <segment id="17">, como</segment>
+    <segment id="18">como o reforço escolar fora do turno de aula</segment>
+    <segment id="19">, que, só este ano</segment>
+    <segment id="20">, já está sendo oferecido para 80 mil alunos - destacou o secretário de Educação</segment>
+    <segment id="21">, Wilson Risolia.</segment>
+    <segment id="22">No Ideb</segment>
+    <segment id="23">, Rio ficou à frente apenas do Piauí</segment>
+    <segment id="24">O desempenho fraco no ensino médio já havia sido constatado no último Índice de Desenvolvimento da Educação Básica (Ideb)</segment>
+    <segment id="25">, relativo ao ano de 2009.</segment>
+    <segment id="26">Nesse segmento</segment>
+    <segment id="27">, o Rio ficou à frente apenas no Piauí entre os 26 estados e o Distrito Federal</segment>
+    <segment id="28">, com nota 2</segment>
+    <segment id="29">,7.</segment>
+    <segment id="30">O desempenho foi puxado para baixo exatamente pelo índice de aprovação baixo</segment>
+    <segment id="31">, de 68%.</segment>
+    <segment id="32">Nas provas de português e matemática</segment>
+    <segment id="33">, outro fator que compõe o Ideb</segment>
+    <segment id="34">, os alunos fluminenses apareceram em 16 lugar.</segment>
+    <segment id="35">Outro recorte feito pela Secretaria de Educação nos exames bimestrais foi a comparação entre o desempenho das escolas do interior e da Região Metropolitana.</segment>
+    <segment id="36">Em todos os segmentos</segment>
+    <segment id="37">, o interior apresentou um rendimento superior.</segment>
+    <segment id="38">No 1 ano do ensino médio</segment>
+    <segment id="39">, na Região Metropolitana</segment>
+    <segment id="40">, 73% ficaram na faixa dos que acertaram até um terço das questões de matemática.</segment>
+    <segment id="41">No restante do estado</segment>
+    <segment id="42">, o índice foi de 67%.</segment>
+    <segment id="43">Em português</segment>
+    <segment id="44">, as porcentagens foram de 27% e 21% respectivamente.</segment>
+    <segment id="45">Profissionais que atingirem metas terão gratificação</segment>
+    <segment id="46">Outro aspecto levantado foi a influência do turno e da quantidade de horas de aula no desempenho dos estudantes.</segment>
+    <segment id="47">No 1º ano do ensino médio</segment>
+    <segment id="48">, por exemplo</segment>
+    <segment id="49">, nada menos do que 79% dos alunos que estudam à noite não conseguiram passar de um terço de acertos na prova de matemática.</segment>
+    <segment id="50">No turno da manhã</segment>
+    <segment id="51">, a porcentagem cai para 68%.</segment>
+    <segment id="52">A diferença entre o ensino regular e o integrado (agregado a disciplinas técnicas) também é grande: o índice de notas abaixo de um terço de acertos foi de 72% e 27% respectivamente.</segment>
+    <segment id="53">Os dados divulgados nesta segunda-feira são os primeiros do exame conhecido</segment>
+    <segment id="54">comocomo Saerjinho</segment>
+    <segment id="55">, que faz parte do diagnóstico da rede que vem sendo feito pela Secretaria de Educação.</segment>
+    <segment id="56">No início do ano</segment>
+    <segment id="57">, foi divulgado pelo órgão um plano de metas para cada unidade.</segment>
+    <segment id="58">Os profissionais das escolas que cumprirem os objetivos terão direito à gratificação.</segment>
+    <segment id="59">Uma série de ações vem sendo desenvolvida pela Secretaria de Educação para tentar reverter o quadro atual.</segment>
+    <segment id="60">Entre as iniciativas</segment>
+    <segment id="61">, estão material pedagógico formação Continuada para os docentes (inicialmente</segment>
+    <segment id="62">, neste ano</segment>
+    <segment id="63">, para quatro mil professores)</segment>
+    <segment id="64">; gestão integrada das escolas</segment>
+    <segment id="65">, com acompanhamento de cada unidade escolar e um projeto de correção de fluxo para oito mil alunos que estão com idade acima da série que deveriam cursar.</segment>
+  </rst>
+</analysis>

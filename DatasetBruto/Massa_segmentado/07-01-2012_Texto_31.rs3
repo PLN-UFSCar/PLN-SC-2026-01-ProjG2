@@ -1,0 +1,35 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Ronaldinho deixa treino do Flamengo com dores nas coxas
+LONDRINA - O meia-atacante</segment>
+    <segment id="2">Ronaldinho Gaúcho deixou o treino da manhã deste sábado reclamando de dores nas coxas depois de participar de toda a atividade com o restante do elenco em Londrina</segment>
+    <segment id="3">, onde o Flamengo realiza pré-temporada.</segment>
+    <segment id="4">Os jogadores realizaram um treinamento com físico</segment>
+    <segment id="5">, masmas também tiveram contato com bola neste sábado.</segment>
+    <segment id="6">O médico Márcio Tanure afirmou que são dores normais nesta época do ano devido ao esforço das atividades na pré-temporada.</segment>
+    <segment id="7">À tarde</segment>
+    <segment id="8">, o jogador participou do treinamento normalmente com o restante do elenco.</segment>
+  </rst>
+</analysis>

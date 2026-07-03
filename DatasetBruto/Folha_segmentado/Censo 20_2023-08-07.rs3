@@ -1,0 +1,248 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Brasil tem quase 1</segment>
+    <segment id="2">,7 milhão de indígenas</segment>
+    <segment id="3">, o equivalente a 0</segment>
+    <segment id="4">,83% da população total (203</segment>
+    <segment id="5">,1 milhões).</segment>
+    <segment id="6">A conclusão é do Censo Demográfico 2022</segment>
+    <segment id="7">, que teve novos dados divulgados nesta segunda-feira (7) pelo IBGE (Instituto Brasileiro de Geografia e Estatística).</segment>
+    <segment id="8">O número de indígenas referente a 2022 é 88</segment>
+    <segment id="9">,8% maior do que o contado no recenseamento anterior (896</segment>
+    <segment id="10">,9 mil)</segment>
+    <segment id="11">, em 2010.</segment>
+    <segment id="12">Os dados</segment>
+    <segment id="13">, porém</segment>
+    <segment id="14">porém, não são totalmente comparáveis.</segment>
+    <segment id="15">Indígenas participam de cerimônia na Terra Indígena Waimiri Atroari</segment>
+    <segment id="16">, em Presidente Figueiredo (AM)</segment>
+    <segment id="17">, para discutir impactos do marco temporal - Lalo de Almeida - 1º.set.2022/FolhapressConforme o IBGE</segment>
+    <segment id="18">, não é possível afirmar que a população indígena quase dobrou em 12 anos apenas em razão de fatores demográficos.</segment>
+    <segment id="19">Parte dessa limitação está associada a uma mudança na metodologia dos questionários.</segment>
+    <segment id="20">Além disso</segment>
+    <segment id="21">, o instituto também reconhece uma possível subenumeração na contagem de 2010</segment>
+    <segment id="22">, o que o órgão tentou evitar em 2022 por meio de um refinamento nas técnicas de abordagem aos indígenas.</segment>
+    <segment id="23">"</segment>
+    <segment id="24">Você não pode atribuir o número a um crescimento exclusivamente demográfico"</segment>
+    <segment id="25">, disse Marta Antunes</segment>
+    <segment id="26">, coordenadora do Censo de Povos e Comunidades Tradicionais do IBGE.</segment>
+    <segment id="27">"</segment>
+    <segment id="28">Não é que nasceu muita gente indígena e morreu pouca.</segment>
+    <segment id="29">É uma variação com limites de comparabilidade"</segment>
+    <segment id="30">, reforçou.</segment>
+    <segment id="31">Segundo ela</segment>
+    <segment id="32">, o comportamento demográfico dos indígenas só poderá ser avaliado com maior precisão após a divulgação de dados complementares do Censo</segment>
+    <segment id="33">, incluindo os de idade</segment>
+    <segment id="34">, nascimentos e óbitos.</segment>
+    <segment id="35">O número exato da população indígena</segment>
+    <segment id="36">, conforme o Censo 2022</segment>
+    <segment id="37">, foi de 1.693.535 pessoas.</segment>
+    <segment id="38">Trata-</segment>
+    <segment id="39">sese de um contingente encontrado pelo IBGE tanto dentro quanto fora das localidades indígenas.</segment>
+    <segment id="40">Brasil tem quase 1</segment>
+    <segment id="41">,7 milhão de indígenas</segment>
+    <segment id="42">, segundo Censo 2022Mais    novamente         de   de  de  representando um</segment>
+    <segment id="43">O levantamento divide as localidades indígenas em três categorias: terras indígenas oficialmente delimitadas</segment>
+    <segment id="44">, agrupamentos indígenas e outras localidades.</segment>
+    <segment id="45">A forma usada no Censo para contar quem é indígena é a autodeclaração.</segment>
+    <segment id="46">Ou seja</segment>
+    <segment id="47">, quem</segment>
+    <segment id="48">sese define dessa maneira dentro ou fora das localidades.</segment>
+    <segment id="49">Indígenas no Censo 2022Leia mais sobre os resultados do IBGEBrasil tem quase 1</segment>
+    <segment id="50">,7 milhão de indígenas</segment>
+    <segment id="51">, aponta Censo 2022Saiba quantos indígenas vivem em sua cidadeEntenda</segment>
+    <segment id="52">comocomo é feita a contagem dos indígenas no CensoMais da metade dos indígenas brasileiros vive na Amazônia Legal</segment>
+    <segment id="53">, segundo CensoManaus é a cidade com maior população de indígenas do Brasil2 de cada 3 indígenas brasileiros vivem fora de terras demarcadasPopulação indígena tem alta de 16% em terras demarcadasTerra Indígena Yanomami é a mais populosa do paísCidade mais indígena do Brasil deu única vitória a Lula em estado pró-BolsonaroNo Censo 2022</segment>
+    <segment id="54">, o IBGE fez a seguinte pergunta em todo o território brasileiro:</segment>
+    <segment id="55">"a sua cor ou raça é?</segment>
+    <segment id="56">".</segment>
+    <segment id="57">As opções de resposta eram branca</segment>
+    <segment id="58">, preta</segment>
+    <segment id="59">, amarela</segment>
+    <segment id="60">, parda ou indígena.</segment>
+    <segment id="61">Se uma pessoa estivesse dentro de uma localidade indígena (terra</segment>
+    <segment id="62">, agrupamento ou outra localidade) e não</segment>
+    <segment id="63">sese declarasse indígena no quesito cor ou raça</segment>
+    <segment id="64">, o recenseador abria uma segunda questão:</segment>
+    <segment id="65">"você se</segment>
+    <segment id="66">se considera indígena?</segment>
+    <segment id="67">".</segment>
+    <segment id="68">Em 2010</segment>
+    <segment id="69">, o IBGE também fez a primeira pergunta sobre cor ou raça em todo o território nacional</segment>
+    <segment id="70">, incluindo as possibilidades de resposta branca</segment>
+    <segment id="71">, preta</segment>
+    <segment id="72">, amarela</segment>
+    <segment id="73">, parda ou indígena.</segment>
+    <segment id="74">A diferença é que</segment>
+    <segment id="75">, em 2010</segment>
+    <segment id="76">, a segunda questão –</segment>
+    <segment id="77">"você se</segment>
+    <segment id="78">se considera indígena?</segment>
+    <segment id="79">"</segment>
+    <segment id="80">– só era aberta para brancos</segment>
+    <segment id="81">, pretos</segment>
+    <segment id="82">, amarelos e pardos</segment>
+    <segment id="83">sese eles estivessem nas terras indígenas oficialmente delimitadas</segment>
+    <segment id="84">, e não em todas as localidades indígenas</segment>
+    <segment id="85">, como</segment>
+    <segment id="86">como é o</segment>
+    <segment id="87">casocaso de 2022.</segment>
+    <segment id="88">Segundo especialistas e representantes de entidades ouvidos pelo IBGE</segment>
+    <segment id="89">, esse fator pode ter gerado uma subenumeração na contagem anterior.</segment>
+    <segment id="90">"</segment>
+    <segment id="91">Quando a gente muda a metodologia</segment>
+    <segment id="92">, e passa a abrir a segunda pergunta fora da terras</segment>
+    <segment id="93">, nas localidades mapeadas</segment>
+    <segment id="94">, a gente dá oportunidade a um número maior de pessoas indígenas de compreender melhor o quesito da autodeclaração.</segment>
+    <segment id="95">É uma das diferenças"</segment>
+    <segment id="96">, disse Antunes.</segment>
+    <segment id="97">Do total de indígenas no Brasil</segment>
+    <segment id="98">, 72,42% declararam cor ou raça indígena em 2022.</segment>
+    <segment id="99">A parcela restante</segment>
+    <segment id="100">, de 27</segment>
+    <segment id="101">,58%, relatou que</segment>
+    <segment id="102">sese considerava indígena.</segment>
+    <segment id="103">Essa segunda porcentagem havia sido menor em 2010 (8</segment>
+    <segment id="104">,8%).</segment>
+    <segment id="105">De acordo com Antunes</segment>
+    <segment id="106">, o IBGE também buscou aprimorar as técnicas de abordagem do Censo 2022 com o objetivo de minimizar as recusas.</segment>
+    <segment id="107">O processo envolveu o apoio de guias comunitários</segment>
+    <segment id="108">, intérpretes e reuniões com lideranças indígenas para sensibilizar as localidades sobre a importância da contagem.</segment>
+    <segment id="109">"</segment>
+    <segment id="110">Outra questão sobre a subenumeração que</segment>
+    <segment id="111">sese colocou para o IBGE tinha a ver com as recusas pelo fato de a abordagem em 2010 não seguir a metodologia de procurar a liderança</segment>
+    <segment id="112">, de ter o apoio de guias</segment>
+    <segment id="113">, de forma padronizada"</segment>
+    <segment id="114">, afirmou Antunes.</segment>
+    <segment id="115">Amazônia Legal reúne mais da metade dos indígenas no Brasil</segment>
+    <segment id="116">O Censo 2022 aponta que mais da metade da população indígena está localizada na Amazônia Legal.</segment>
+    <segment id="117">A região abrigava 867</segment>
+    <segment id="118">,9 mil indígenas</segment>
+    <segment id="119">, o equivalente a 51</segment>
+    <segment id="120">,2% do total no país (quase 1</segment>
+    <segment id="121">,7 milhão).</segment>
+    <segment id="122">A Amazônia Legal é composta por 772 municípios de estados das regiões Norte</segment>
+    <segment id="123">, Nordeste (Maranhão) e Centro-Oeste (Mato Grosso).</segment>
+    <segment id="124">Entre as grandes regiões do país</segment>
+    <segment id="125">, o destaque fica com o Norte.</segment>
+    <segment id="126">A população indígena local é a maior do país:</segment>
+    <segment id="127">quase 753</segment>
+    <segment id="128">,4 mil pessoas.</segment>
+    <segment id="129">Equivale a 44</segment>
+    <segment id="130">,48% do total.</segment>
+    <segment id="131">O Nordeste vem em seguida</segment>
+    <segment id="132">, contabilizando 528</segment>
+    <segment id="133">,8 mil indígenas –ou 31</segment>
+    <segment id="134">,22% do total.</segment>
+    <segment id="135">Centro-Oeste (199</segment>
+    <segment id="136">,9 mil ou 11</segment>
+    <segment id="137">,8%), Sudeste (123</segment>
+    <segment id="138">,4 mil ou 7</segment>
+    <segment id="139">,28%) e Sul (88</segment>
+    <segment id="140">,1 mil ou 5</segment>
+    <segment id="141">,2%) completam a lista.</segment>
+    <segment id="142">Amazonas e Bahia concentram 42</segment>
+    <segment id="143">,5% dos indígenas</segment>
+    <segment id="144">No recorte por estados</segment>
+    <segment id="145">, o Amazonas tem a maior população indígena em termos absolutos: 490</segment>
+    <segment id="146">,9 mil pessoas.</segment>
+    <segment id="147">A Bahia</segment>
+    <segment id="148">, a segunda (229</segment>
+    <segment id="149">,1 mil).</segment>
+    <segment id="150">Os dois estados</segment>
+    <segment id="151">, juntos</segment>
+    <segment id="152">, concentram 42</segment>
+    <segment id="153">,5% da população indígena brasileira.</segment>
+    <segment id="154">Sergipe (4.708) e Distrito Federal (5.813)</segment>
+    <segment id="155">, por outro lado</segment>
+    <segment id="156">, têm os menores contingentes entre as unidades da federação.</segment>
+    <segment id="157">Em termos proporcionais</segment>
+    <segment id="158">, o principal destaque vai para Roraima.</segment>
+    <segment id="159">Segundo o Censo 2022</segment>
+    <segment id="160">, 15,29% da população total do estado era indígena.</segment>
+    <segment id="161">Isso equivale a 97</segment>
+    <segment id="162">,3 mil pessoas em um universo de 636</segment>
+    <segment id="163">,3 mil.</segment>
+    <segment id="164">No ranking proporcional</segment>
+    <segment id="165">, o Amazonas aparece em segundo (12</segment>
+    <segment id="166">,45%).</segment>
+    <segment id="167">O Rio de Janeiro teve o menor percentual de indígenas (0</segment>
+    <segment id="168">,11%), pouco abaixo de São Paulo (0</segment>
+    <segment id="169">,12%).</segment>
+    <segment id="170">Indígenas estão em 4.832 municípios</segment>
+    <segment id="171">O Censo 2022 localizou indígenas em 4.832 municípios brasileiros.</segment>
+    <segment id="172">O grupo aumentou na comparação com 2010</segment>
+    <segment id="173">, quando era de 4.480 cidades.</segment>
+    <segment id="174">Manaus é o município com a maior população indígena em termos absolutos no Brasil.</segment>
+    <segment id="175">Em 2022</segment>
+    <segment id="176">, o recenseamento contabilizou 71</segment>
+    <segment id="177">,7 mil pessoas com essa característica na capital amazonense.</segment>
+    <segment id="178">Outros dois municípios do mesmo estado aparecem na sequência.</segment>
+    <segment id="179">São Gabriel da Cachoeira</segment>
+    <segment id="180">, na fronteira com a Colômbia e a Venezuela</segment>
+    <segment id="181">, mostrou a segunda maior população indígena do Brasil (48</segment>
+    <segment id="182">,3 mil).</segment>
+    <segment id="183">Tabatinga</segment>
+    <segment id="184">, a terceira (34</segment>
+    <segment id="185">,5 mil).</segment>
+    <segment id="186">Indígenas são quase 97% da população em município de RR</segment>
+    <segment id="187">Quando a análise é feita em termos proporcionais</segment>
+    <segment id="188">, há mudanças na lista.</segment>
+    <segment id="189">Uiramutã</segment>
+    <segment id="190">, em Roraima (a 314 km de Boa Vista)</segment>
+    <segment id="191">, tem 96</segment>
+    <segment id="192">,6% de sua população formada por indígenas.</segment>
+    <segment id="193">É o maior percentual entre os municípios brasileiros.</segment>
+    <segment id="194">De um total de 13</segment>
+    <segment id="195">,8 mil pessoas residentes em Uiramutã</segment>
+    <segment id="196">, 13,3 mil</segment>
+    <segment id="197">sese autodeclararam indígenas.</segment>
+    <segment id="198">Santa Isabel do Rio Negro</segment>
+    <segment id="199">, no Amazonas</segment>
+    <segment id="200">, tem o segundo maior percentual: 96</segment>
+    <segment id="201">,17%.</segment>
+    <segment id="202">Outros dois municípios no Brasil</segment>
+    <segment id="203">, ambos amazonenses</segment>
+    <segment id="204">, também registraram proporções acima de 90%.</segment>
+    <segment id="205">São os casos de São Gabriel da Cachoeira</segment>
+    <segment id="206">, com 93</segment>
+    <segment id="207">,17%, e Amaturá</segment>
+    <segment id="208">, com 91</segment>
+    <segment id="209">,95%.</segment>
+    <segment id="210">Terra Indígena Yanomami é a mais populosa</segment>
+    <segment id="211">O Censo contabilizou 573 terras indígenas oficialmente delimitadas no país até 31 de julho de 2022.</segment>
+    <segment id="212">Essa é a data de referência da contagem populacional.</segment>
+    <segment id="213">Segundo o recenseamento</segment>
+    <segment id="214">, menos da metade dos indígenas do país (36</segment>
+    <segment id="215">,73% ou 622</segment>
+    <segment id="216">,1 mil) vivia nas terras com algum tipo de delimitação formal.</segment>
+    <segment id="217">A mais populosa é a Terra Indígena Yanomami</segment>
+    <segment id="218">, nos estados de Amazonas e Roraima.</segment>
+    <segment id="219">O IBGE contabilizou quase 27</segment>
+    <segment id="220">,2 mil indígenas nesse território</segment>
+    <segment id="221">, que amarga uma crise humanitária intensificada nos últimos anos.</segment>
+    <segment id="222">Comunidades indígenas de Roraima criam projetos de agricultura e pisciculturaMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

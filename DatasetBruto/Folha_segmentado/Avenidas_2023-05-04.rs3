@@ -1,0 +1,131 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O trânsito nas principais avenidas de São Paulo voltou neste ano aos níveis de congestionamento anteriores à pandemia de Covid-19.</segment>
+    <segment id="2">A circulação de veículos ainda é menor na cidade</segment>
+    <segment id="3">comocomo um todo</segment>
+    <segment id="4">, masmas as vias expressas e arteriais da capital já têm lentidão igual a 2019 e 2020.</segment>
+    <segment id="5">Embora seja um alerta para a qualidade de vida e para a saúde pública —afinal</segment>
+    <segment id="6">, as emissões veiculares são a principal fonte de poluição do ar na cidade—</segment>
+    <segment id="7">, segundo especialistas ainda há uma janela de oportunidade para aumentar o uso do transporte público e destravar os corredores.</segment>
+    <segment id="8">Congestionamento na avenida 23 de Maio</segment>
+    <segment id="9">; trânsito na capital voltou ao nível pré-pandemia - Karime Xavier/FolhapressOs dados da CET (Companhia de Engenharia de Tráfego) mostram que</segment>
+    <segment id="10">, em janeiro deste ano</segment>
+    <segment id="11">, a média de lentidão nas avenidas ficou ligeiramente acima do nível registrado mesmo mês em 2020 —pouco antes das cidades brasileiras entrarem em isolamento social e a circulação de veículos cair drasticamente.</segment>
+    <segment id="12">Na comparação dos horários de pico</segment>
+    <segment id="13">, a média de trânsito em 2023 alcançou os patamares de congestionamento de 2019 pela primeira vez em últimos quatro anos.</segment>
+    <segment id="14">A capital paulista não é a única onde</segment>
+    <segment id="15">sese observa essa tendência.</segment>
+    <segment id="16">"</segment>
+    <segment id="17">Esse é um movimento que já</segment>
+    <segment id="18">sese observa em outras cidades da América Latina"</segment>
+    <segment id="19">, diz o economista Leonardo Veiga</segment>
+    <segment id="20">, coordenador de Monitoramento e Avaliação do ITDP (Instituto de Políticas de Transporte e Desenvolvimento).</segment>
+    <segment id="21">Trânsito nas avenidas de SP volta ao nível pré-pandemiaMais    novamente         de   de  de  representando um  Ele cita o índice de tráfego da empresa TomTom</segment>
+    <segment id="22">, feito a partir de dados de aplicativos de carona</segment>
+    <segment id="23">, que calcula quanto tempo os motoristas ficam presos no trânsito em 14 cidades da região</segment>
+    <segment id="24">, incluindo oito municípios brasileiros.</segment>
+    <segment id="25">Em todos os países pesquisados (Argentina</segment>
+    <segment id="26">, Brasil</segment>
+    <segment id="27">, Chile</segment>
+    <segment id="28">, Colômbia</segment>
+    <segment id="29">, Peru e Uruguai) houve aumento da média de congestionamentos.</segment>
+    <segment id="30">Nas outras vias da cidade</segment>
+    <segment id="31">, fora das avenidas</segment>
+    <segment id="32">, o patamar de congestionamento ainda está cerca de 20% abaixo da média de 2019.</segment>
+    <segment id="33">Para o engenheiro Sergio Ejzenberg</segment>
+    <segment id="34">, mestre em transportes pela Escola Politécnica da USP</segment>
+    <segment id="35">, essa é uma oportunidade para investir maciçamente em transporte público para mudar a trajetória de crescimento do trânsito.</segment>
+    <segment id="36">"</segment>
+    <segment id="37">É como</segment>
+    <segment id="38">como se</segment>
+    <segment id="39">se alguém tivesse</segment>
+    <segment id="40">, num passe de mágica</segment>
+    <segment id="41">, construído 20% a mais de capacidade viária na cidade"</segment>
+    <segment id="42">, diz Ejzenberg.</segment>
+    <segment id="43">"</segment>
+    <segment id="44">É hora de fazer</segment>
+    <segment id="45">, com inteligência</segment>
+    <segment id="46">, um monte de linhas de metrô e de corredores de ônibus.</segment>
+    <segment id="47">É o oposto do que está acontecendo</segment>
+    <segment id="48">, que é o não investimento da prefeitura nos corredores</segment>
+    <segment id="49">, a diminuição de frota e o aumento do tempo de intervalo nos pontos de ônibus</segment>
+    <segment id="50">, com o resultado do aumento de subsidio.</segment>
+    <segment id="51">"</segment>
+    <segment id="52">Como mostrou a Folha</segment>
+    <segment id="53">, apesar de ter volume recorde de dinheiro em caixa</segment>
+    <segment id="54">, a gestão do prefeito Ricardo Nunes (MDB) desistiu de inaugurar quatro terminais de ônibus e dois corredores BRT.</segment>
+    <segment id="55">As reclamações dos usuários de ônibus na cidade cresceram 42% em relação a 2022</segment>
+    <segment id="56">, e a maior parte das queixas foram por causa do intervalo excessivo entre uma condução e outra.</segment>
+    <segment id="57">Trânsito no mesmo ponto da marginal Tietê em junho de 2019</segment>
+    <segment id="58">, junho de 2022 e maio de 2023- Rivaldo Gomes e Rubens Cavallari/FolhapressEm dezembro</segment>
+    <segment id="59">, a cidade já havia registrado picos de trânsito que chegavam ao patamar pré-pandêmico</segment>
+    <segment id="60">, masmas esse fenômeno foi pontual.</segment>
+    <segment id="61">Agora, é a primeira vez que</segment>
+    <segment id="62">sese observa a volta dos congestionamentos de forma contínua a níveis comparáveis a 2019</segment>
+    <segment id="63">, mesmo que isso esteja restrito aos principais corredores.</segment>
+    <segment id="64">A sensação de um lento retorno a um cenário semelhante ao pré-pandêmico frustra algumas esperanças de que a pandemia naturalmente serviria</segment>
+    <segment id="65">comocomo ponto de virada em direção a cidades mais sustentáveis e saudáveis.</segment>
+    <segment id="66">Há cerca de três anos</segment>
+    <segment id="67">, imagens de metrópoles com o céu livre de poluição</segment>
+    <segment id="68">, de animais silvestres circulando em áreas urbanas e dos canais de Veneza com águas cristalinas trouxeram à tona a ideia de que era necessário manter esses benefícios após a quarentena.</segment>
+    <segment id="69">A cidade de São Paulo chegou a ver melhoras significativas na qualidade do ar</segment>
+    <segment id="70">, segundo dados da Cetesb (Companhia Ambiental do Estado de São Paulo).  "</segment>
+    <segment id="71">A poluição do ar</segment>
+    <segment id="72">, a circulação de veículos e a meteorologia estão diretamente ligadas.</segment>
+    <segment id="73">Temos de pensar no transporte coletivo de qualidade</segment>
+    <segment id="74">para que</segment>
+    <segment id="75">para que diminuir o nível de emissão veiculares</segment>
+    <segment id="76">, que contém o material particulado que é prejudicial à saúde"</segment>
+    <segment id="77">, diz a gerente da divisão de qualidade do ar da Cetesb</segment>
+    <segment id="78">, Maria Lúcia Guardani.</segment>
+    <segment id="79">No entanto</segment>
+    <segment id="80">, resolver problemas complexos</segment>
+    <segment id="81">comocomo o sistema de trânsito de São Paulo leva mais do que dois ou três anos</segment>
+    <segment id="82">, lembram os especialistas.</segment>
+    <segment id="83">A explicação para a volta dos congestionamentos</segment>
+    <segment id="84">, em parte</segment>
+    <segment id="85">, está na falta de acesso ao transporte público de grande parte da população.</segment>
+    <segment id="86">Segundo a plataforma MobiliDados</segment>
+    <segment id="87">, do ITDP</segment>
+    <segment id="88">, apenas 17% da população da região metropolitana de São Paulo tem transportes de média e alta capacidade próximo a sua casa.</segment>
+    <segment id="89">A plataforma usa dados do IBGE para calcular o índice.</segment>
+    <segment id="90">Nesse cenário</segment>
+    <segment id="91">, a maior parte da população vê no carro</segment>
+    <segment id="92">comocomo melhor alternativa para</segment>
+    <segment id="93">sese locomover.</segment>
+    <segment id="94">"</segment>
+    <segment id="95">Não existe solução fácil para problema complexo"</segment>
+    <segment id="96">, diz Veiga</segment>
+    <segment id="97">, do ITDP.</segment>
+    <segment id="98">"</segment>
+    <segment id="99">As soluções são sempre de longo e médio prazo</segment>
+    <segment id="100">, e especialmente numa cidade</segment>
+    <segment id="101">comocomo São Paulo</segment>
+    <segment id="102">, não há sistema que</segment>
+    <segment id="103">sese refaça de uma hora para outra.</segment>
+    <segment id="104">Mas isso não é desculpa para não pensar formas de transito mais sustentáveis.</segment>
+    <segment id="105">"</segment>
+  </rst>
+</analysis>

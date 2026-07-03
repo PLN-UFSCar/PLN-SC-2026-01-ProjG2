@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Garota do tempo MASSA é quente!</segment>
+    <segment id="2">A gata é estudante de Nutrição e seus conhecimentos só ajudam a manter o corpão
+Daiane Oliveira</segment>
+    <segment id="3">, 27 anos</segment>
+    <segment id="4">, mora no Cabula.</segment>
+    <segment id="5">A gata é estudante de Nutrição e seus conhecimentos só ajudam a manter o corpão sempre em forma.</segment>
+    <segment id="6">Mas a dança também ajuda a compor o físico de dar inveja: nas horas de lazer</segment>
+    <segment id="7">, a morena cai no pagode.</segment>
+    <segment id="8">“Sou baiana e não tenho</segment>
+    <segment id="9">comocomo pensar em outro ritmo”</segment>
+    <segment id="10">, admite.</segment>
+    <segment id="11">Ganhadora do concurso</segment>
+    <segment id="12">Garota do tempo do MASSA!</segment>
+    <segment id="13">, a morena comemora a vitória.</segment>
+    <segment id="14">“Estou feliz demais.</segment>
+    <segment id="15">Tenho muito a agradecer aos que votaram”</segment>
+    <segment id="16">, diz.</segment>
+    <segment id="17">Os marmanjos que ajudaram a elegê-la devem</segment>
+    <segment id="18">sese contentar com o agradecimento: o coração da moça já está ocupado!</segment>
+  </rst>
+</analysis>

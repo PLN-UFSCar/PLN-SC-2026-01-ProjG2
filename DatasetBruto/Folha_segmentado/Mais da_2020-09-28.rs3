@@ -1,0 +1,116 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Pesquisa Datafolha mostra que 52% das famílias paulistanas tiveram queda na renda por causa da pandemia do coronavírus.</segment>
+    <segment id="2">Outras 41% afirmam que mantiveram os rendimentos</segment>
+    <segment id="3">, enquanto 7% registraram aumento.</segment>
+    <segment id="4">Nas famílias que ganham até dois salários mínimos</segment>
+    <segment id="5">, 55% tiveram queda na renda.</segment>
+    <segment id="6">Entre aquelas com mais de dez mínimos</segment>
+    <segment id="7">, 33%.</segment>
+    <segment id="8">Entre autônomos</segment>
+    <segment id="9">, 66% tiveram perda.</segment>
+    <segment id="10">Nos assalariados registrados</segment>
+    <segment id="11">, 47%.</segment>
+    <segment id="12">O levantamento mostra também que 38% dos moradores da capital paulista solicitaram o auxílio emergencial de R$ 600.</segment>
+    <segment id="13">Destes</segment>
+    <segment id="14">, 81% receberam pelo menos uma parcela.</segment>
+    <segment id="15">Entre as famílias que ganham até dois salários mínimos</segment>
+    <segment id="16">, 49% solicitaram o auxílio.</segment>
+    <segment id="17">Na faixa de renda acima de dez mínimos</segment>
+    <segment id="18">, 11%.</segment>
+    <segment id="19">O benefício foi solicitado por 69% dos que estão desempregados atualmente</segment>
+    <segment id="20">, 67% dos autônomos</segment>
+    <segment id="21">, 59% dos assalariados sem registro e 46% das donas de casa.</segment>
+    <segment id="22">A pesquisa foi realizada nos dias 21 e 22 de setembro</segment>
+    <segment id="23">, com 1.092 entrevistados.</segment>
+    <segment id="24">A margem de erro é de até três pontos percentuais</segment>
+    <segment id="25">, para mais ou para menos.</segment>
+    <segment id="26">O nível de confiança</segment>
+    <segment id="27">, de 95%.</segment>
+    <segment id="28">O perfil da amostra da pesquisa Datafolha mostra que 13% dos entrevistados na capital paulista</segment>
+    <segment id="29">sese declaram desempregados</segment>
+    <segment id="30">, incluindo aqueles que estão ou não à procura de trabalho.</segment>
+    <segment id="31">Entre os que estão à procura de emprego</segment>
+    <segment id="32">, 69% solicitaram o auxílio.</segment>
+    <segment id="33">Os dados do IBGE (Instituto Brasileiro de Geografia e Estatística) mostram que a volta dos brasileiros às ruas já começa a pressionar a taxa de desemprego</segment>
+    <segment id="34">, que na quarta semana de agosto bateu 14</segment>
+    <segment id="35">,3%, o maior nível desde o início da pandemia.</segment>
+    <segment id="36">São, ao todo</segment>
+    <segment id="37">, 13,7 milhões de desempregados em todo o país.</segment>
+    <segment id="38">Pessoas atravessam rua próxima ao terminal Capão Redondo</segment>
+    <segment id="39">, zona sul de São Paulo - Bruno Santos/Folhapress</segment>
+    <segment id="40">O auxílio emergencial para trabalhadores informais é um dos principais fatores que ajudou a conter a queda na renda do brasileiro desde o início da pandemia.</segment>
+    <segment id="41">Pesquisa da FecomercioSP divulgada na semana passada mostrou que a redução no valor do auxílio e a antecipação do pagamento do 13º dos aposentados para o segundo trimestre de 2020 devem contribuir para um Natal fraco neste final de ano.</segment>
+    <segment id="42">O trabalho da entidade mostra que</segment>
+    <segment id="43">, nos primeiros seis meses deste ano</segment>
+    <segment id="44">, a renda das famílias brasileiras cresceu 3</segment>
+    <segment id="45">,3% em relação ao mesmo período de 2019</segment>
+    <segment id="46">, uma injeção de R$ 63</segment>
+    <segment id="47">,9 bilhões na economia.</segment>
+    <segment id="48">Se o governo federal não tivesse adotado nenhuma medida de complementação e antecipação de renda</segment>
+    <segment id="49">, teria ocorrido uma redução de 0</segment>
+    <segment id="50">,63% na massa de rendimentos.</segment>
+    <segment id="51">O dinheiro extra liberado pelo governo tem sido destinado</segment>
+    <segment id="52">, principalmente</segment>
+    <segment id="53">, ao consumo de bens essenciais.</segment>
+    <segment id="54">Isso tem contribuído para garantir o bom desempenho do comércio</segment>
+    <segment id="55">, especialmente no ramo de supermercados</segment>
+    <segment id="56">, e da indústria de bens não duráveis</segment>
+    <segment id="57">, enquanto outros setores</segment>
+    <segment id="58">, como</segment>
+    <segment id="59">como os serviços</segment>
+    <segment id="60">, sofrem mais com a crise atual.</segment>
+    <segment id="61">Congresso prioriza área social durante pandemia   novamente         de   de  de  representando um    Sondagem especial do Ibre (Instituto Brasileiro de Economia da FGV)</segment>
+    <segment id="62">mostrou que</segment>
+    <segment id="63">, considerando todos os auxílios do governo</segment>
+    <segment id="64">, de cada R$ 100 dessa renda extra</segment>
+    <segment id="65">, R$ 31 foram para compra de bens essenciais</segment>
+    <segment id="66">, R$ 27 para pagamento de dívidas em atraso</segment>
+    <segment id="67">, R$ 20 para poupança e R$ 16 para outros gastos do dia a dia.</segment>
+    <segment id="68">Apenas R$ 2</segment>
+    <segment id="69">,3 foram destinados a bens</segment>
+    <segment id="70">comocomo eletrodomésticos</segment>
+    <segment id="71">, móveis e roupas ou para serviços.</segment>
+    <segment id="72">Segundo o Banco Central</segment>
+    <segment id="73">, o auxílio emergencial representou R$ 37 bilhões por mês de abril a julho</segment>
+    <segment id="74">, o que representa uma transferência de 12% da renda mensal de 2019.</segment>
+    <segment id="75">A instituição também avalia que o fim do benefício pode afetar o consumo no próximo ano.</segment>
+    <segment id="76">“</segment>
+    <segment id="77">A análise sugere que o auxílio emergencial ajudou a sustentar o consumo durante os primeiros meses de impacto da pandemia.</segment>
+    <segment id="78">[...]</segment>
+    <segment id="79">O fim do programa pode contribuir para a desaceleração do consumo das famílias</segment>
+    <segment id="80">, ainda que de forma temporária”</segment>
+    <segment id="81">, diz o BC em seu último Relatório Trimestral de Inflação.</segment>
+    <segment id="82">O governo tem discutido um novo programa de transferências para substituir o Bolsa Família</segment>
+    <segment id="83">, que deve</segment>
+    <segment id="84">sese chamar Renda Brasil.</segment>
+    <segment id="85">A iniciativa</segment>
+    <segment id="86">, no entanto</segment>
+    <segment id="87">, não está prevista no Orçamento de 2021</segment>
+    <segment id="88">, pois</segment>
+    <segment id="89">pois seriam necessários cortes em outras despesas para viabilizar o programa sem desrespeitar a emenda constitucional do teto de gastos.</segment>
+    <segment id="90">A equipe econômica calcula a necessidade de pelo menos R$ 20 bilhões serem destinados para o Renda Brasil.​</segment>
+  </rst>
+</analysis>

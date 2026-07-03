@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Associações de moradores do Jardim Botânico e do Humaitá fazem abaixo-assinado contra barulho e altura de voos</segment>
+    <segment id="2">O barulho e a altura dos voos</segment>
+    <segment id="3">, em especial de helicópteros</segment>
+    <segment id="4">, têm provocado queixas e confusão nos céus do Rio de Janeiro.</segment>
+    <segment id="5">É que, pelas regras que regem o espaço aereo brasileiro</segment>
+    <segment id="6">, a maioria dos helicópteros pode fazer voos classificados</segment>
+    <segment id="7">comocomo "não controlados".</segment>
+    <segment id="8">Ou seja</segment>
+    <segment id="9">, eles trafegam em ambiente parcialmente conhecido e sujeitos às regras do ar</segment>
+    <segment id="10">, embora</segment>
+    <segment id="11">embora estejam dispensados de autorização para voar sobre determinados lugares.</segment>
+    <segment id="12">Insatisfeitos com o barulho constante e com medo de acidentes</segment>
+    <segment id="13">, as associações de moradores do Jardim Botânico e do Humaitá vão promover um abaixo-assinado e pedir ao Ministério Público que ingresse com ação judicial para limitar os voos sobre a região.</segment>
+    <segment id="14">O presidente da Associação de Moradores do Jardim Botânico</segment>
+    <segment id="15">, Alfredo Piragibe</segment>
+    <segment id="16">, defende normas mais rígidas para controlar o tráfego aéreo e fixação de altura mínima de 300 metros para os helicópteros.
+
+- O heliponto da Lagoa está numa área residencial e junto a uma ciclovia - justifica Piragibe.</segment>
+  </rst>
+</analysis>

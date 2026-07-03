@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Em busca de uma parceria
+RIO - A escolha da empresa responsável pelas obras do futuro Parque Olímpico do Rio é cercada de expectativas.</segment>
+    <segment id="2">O maior palco dos Jogos de 2016 será construído numa parceria dos governos com a iniciativa privada no terreno que hoje é ocupado pelo Autódromo Nelson Piquet</segment>
+    <segment id="3">, em Jacarepaguá.</segment>
+    <segment id="4">O projeto de ocupação da área foi selecionado num concurso público realizado pelo Instituto de Arquitetos do Brasil (IAB) e vencido pelo escritório Aecom (o mesmo que fez o Parque Olímpico de Londres)</segment>
+    <segment id="5">, em parceria com o arquiteto brasileiro Daniel Gusmão.</segment>
+    <segment id="6">Originalmente</segment>
+    <segment id="7">, pelo caderno de encargos apresentado pelo Rio em sua candidatura às Olimpíadas</segment>
+    <segment id="8">, a implantação do Parque Olímpico teria que ser arcada integralmente pelo governo federal.</segment>
+    <segment id="9">A prefeitura</segment>
+    <segment id="10">, no entanto</segment>
+    <segment id="11">, fez um acordo com o Ministério do Esporte</segment>
+    <segment id="12">, para reduzir custos e tentar evitar atrasos nas obras.</segment>
+    <segment id="13">O custo estimado para construir as instalações do complexo chega a cerca de R$ 1</segment>
+    <segment id="14">,2 bilhão.</segment>
+    <segment id="15">Fará a obra quem oferecer a maior participação de recursos privados no projeto.</segment>
+  </rst>
+</analysis>

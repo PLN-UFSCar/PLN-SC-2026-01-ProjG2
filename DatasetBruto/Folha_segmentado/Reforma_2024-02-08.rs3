@@ -1,0 +1,109 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O CCiF (Centro de Cidadania Fiscal) publica nesta quinta-feira (8) nota em que apresenta quatro modelos para recolhimento dos tributos criados pela reforma tributária.</segment>
+    <segment id="2">O objetivo do trabalho</segment>
+    <segment id="3">, antecipado pela Folha</segment>
+    <segment id="4">, é contribuir para as discussões que ocorrem neste momento no Ministério da Fazenda e no Congresso Nacional para regulamentar neste semestre a reforma aprovada em 2023.</segment>
+    <segment id="5">A entidade propõe a utilização do modelo atual</segment>
+    <segment id="6">comocomo principal forma de recolhimento dos tributos</segment>
+    <segment id="7">, como</segment>
+    <segment id="8">como manda a Constituição</segment>
+    <segment id="9">, masmas apresenta alternativas que podem ser aplicadas em algumas situações.</segment>
+    <segment id="10">Uma regra diferenciada seria usada</segment>
+    <segment id="11">, por exemplo</segment>
+    <segment id="12">, nas compras feitas pelo consumidor pessoa física por meios eletrônicos.</segment>
+    <segment id="13">Eurico Marcos Diniz de Santi (à esquerda) e Nelson Machado</segment>
+    <segment id="14">, diretores do CCiF (Centro de Cidadania Fiscal) - DivulgaçãoNesse</segment>
+    <segment id="15">casocaso</segment>
+    <segment id="16">, a ideia é aplicar o chamado "split payment": os tributos seriam recolhidos diretamente para os Fiscos pelo banco ou empresa de cartão na hora do pagamento.</segment>
+    <segment id="17">Atualmente</segment>
+    <segment id="18">, o vendedor do produto ou serviço recebe o dinheiro e faz o recolhimento posteriormente.</segment>
+    <segment id="19">O CCiF lista ainda três hipóteses nas quais o recolhimento dos tributos seria uma obrigação do comprador e não do fornecedor</segment>
+    <segment id="20">, no caso</segment>
+    <segment id="21">caso de operações entre empresas.</segment>
+    <segment id="22">Isso seria aplicado às compras feitas por alguns contribuintes que possuem elevado volume de créditos a receber</segment>
+    <segment id="23">, como</segment>
+    <segment id="24">como exportadores</segment>
+    <segment id="25">, e na aquisição de alguns serviços mais sensíveis a fraudes.</segment>
+    <segment id="26">Valeria também para as vendas de empresas do Simples Nacional</segment>
+    <segment id="27">, que não aderirem ao novo sistema</segment>
+    <segment id="28">, para contribuintes do CBS/IBS —livrando essas pequenas empresas dessa obrigação.</segment>
+    <segment id="29">O texto da reforma</segment>
+    <segment id="30">, transformado na Emenda Constitucional 132</segment>
+    <segment id="31">, diz que os novos tributos serão não-cumulativos</segment>
+    <segment id="32">, compensando-</segment>
+    <segment id="33">sese o imposto devido pelo contribuinte com o montante cobrado sobre todas as operações nas quais ele seja adquirente de bens ou serviços.</segment>
+    <segment id="34">Segundo o texto constitucional</segment>
+    <segment id="35">, a empresa compradora tem direito ao crédito</segment>
+    <segment id="36">, mesmo que o tributo não tenha sido recolhido pelo fornecedor</segment>
+    <segment id="37">, o que abre espaço para fraudes.</segment>
+    <segment id="38">A reforma prevê</segment>
+    <segment id="39">, no entanto</segment>
+    <segment id="40">, que uma lei complementar estabeleça hipóteses em que o aproveitamento do crédito ficará condicionado à verificação do efetivo recolhimento do imposto sobre a operação anterior.</segment>
+    <segment id="41">Isso ocorrerá desde que o adquirente possa efetuar o pagamento do tributo das suas aquisições de bens ou serviços ou</segment>
+    <segment id="42">sese esse recolhimento ocorrer na liquidação financeira da operação.</segment>
+    <segment id="43">A exigência do recolhimento reduz o risco de inadimplência</segment>
+    <segment id="44">, masmas enfrenta resistência de empresas que teriam de "fiscalizar seus fornecedores".</segment>
+    <segment id="45">FolhaJusA newsletter sobre o mundo jurídico exclusiva para assinantes da FolhaCarregando...</segment>
+    <segment id="46">O CCiF</segment>
+    <segment id="47">, entidade da qual o atual secretário da Reforma Tributária</segment>
+    <segment id="48">, Bernard Appy</segment>
+    <segment id="49">, fazia parte antes de ir para o governo</segment>
+    <segment id="50">, apresenta quatro modelos de tributação.</segment>
+    <segment id="51">A principal referência seria o atual: o direito ao crédito está vinculado ao destaque do tributo no documento fiscal e o recolhimento é feito pelo vendedor/fornecedor.</segment>
+    <segment id="52">Haveria ainda aplicação de alternativas para hipóteses específicas</segment>
+    <segment id="53">, "com o objetivo de minimizar os riscos de inadimplemento e fraude inerentes ao modelo clássico".</segment>
+    <segment id="54">São os casos de recolhimento pela empresa adquirente de bem ou serviços e do "split payment" para consumidores.</segment>
+    <segment id="55">Por fim</segment>
+    <segment id="56">, a entidade propõe a utilização de modelos de classificação (rankings ou ratings) que permitam identificar o tratamento adequado para cada perfil de contribuinte.  "</segment>
+    <segment id="57">A nossa referência é a regra principal</segment>
+    <segment id="58">, direito ao crédito vinculado ao tributo cobrado</segment>
+    <segment id="59">, destacado no documento fiscal</segment>
+    <segment id="60">, e aplicação da alternativa em hipóteses específicas</segment>
+    <segment id="61">, com objetivo de minimizar riscos de inadimplemento e fraude"</segment>
+    <segment id="62">, afirma Nelson Machado</segment>
+    <segment id="63">, diretor do Centro de Cidadania Fiscal e ex-ministro da Previdência.</segment>
+    <segment id="64">Segundo o diretor do CCiF</segment>
+    <segment id="65">, o recebimento do crédito acumulado dependeria de "quatro cliques" dentro de um sistema informatizado</segment>
+    <segment id="66">, sem a necessidade de preencher um monte de obrigações acessórias.</segment>
+    <segment id="67">São eles: emissão do documento fiscal</segment>
+    <segment id="68">, confirmação da operação pelo adquirente</segment>
+    <segment id="69">, reconhecimento de que</segment>
+    <segment id="70">sese trata de uma operação geradora de crédito e efetivo recolhimento do tributo.</segment>
+    <segment id="71">Embora o Congresso possa ampliar as possibilidades de recolhimento diferenciado</segment>
+    <segment id="72">, o CCiF avaliou que colocar os modelos em que o crédito fica vinculado ao recolhimento</segment>
+    <segment id="73">comocomo principal alternativa pode ser inviável do ponto de vista político.  "</segment>
+    <segment id="74">A gente propôs um mix.</segment>
+    <segment id="75">Você tem a regra principal</segment>
+    <segment id="76">, masmas a possibilidade da alternativa que será maior ou menor em função da discussão no Congresso"</segment>
+    <segment id="77">, afirma Machado.</segment>
+    <segment id="78">Segundo o diretor da entidade</segment>
+    <segment id="79">, a expectativa é que a nota técnica ajude os grupos de trabalho a desenhar o modelo que será apresentado no projeto de lei complementar.</segment>
+    <segment id="80">"</segment>
+    <segment id="81">O ponto principal da nota é discutir a questão da não cumulatividade"</segment>
+    <segment id="82">, afirma.</segment>
+    <segment id="83">Congresso promulga reforma tributária após mais de três décadas de discussãoMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

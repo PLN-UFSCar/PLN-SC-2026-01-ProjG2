@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Record Ã© condenada a pagar multa a Xuxa</segment>
+    <segment id="2">A emissora de Edir Macedo foi condenada por veicular imagem Ã­ntima de Xuxa</segment>
+    <segment id="3">A 16Âª CÃ¢mara CÃ­vel do Tribunal de JustiÃ§a do Rio de Janeiro (TJ-RJ) julgou um processo que a apresentadora da Globo</segment>
+    <segment id="4">, Xuxa Meneghel</segment>
+    <segment id="5">, movia contra a Record.</segment>
+    <segment id="6">Segundo o ConJur</segment>
+    <segment id="7">, o processo foi movido por conta da veiculaÃ§Ã£o de uma foto dela nua na internet e na reportagem "IncrÃ­veis transformaÃ§Ãµes de famosas" durante o extinto dominical "</segment>
+    <segment id="8">Programa do Gugu"</segment>
+    <segment id="9">, comandado por Gugu Liberato</segment>
+    <segment id="10">, em 2012.</segment>
+    <segment id="11">Com isso</segment>
+    <segment id="12">, a emissora terÃ¡ de pagar uma indenizaÃ§Ã£o de R$ 100 mil a Xuxa.</segment>
+    <segment id="13">PorÃ©m</segment>
+    <segment id="14">, a Record ainda pode recorrer da decisÃ£o em segunda instÃ¢ncia.</segment>
+  </rst>
+</analysis>

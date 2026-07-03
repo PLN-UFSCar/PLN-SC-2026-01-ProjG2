@@ -1,0 +1,47 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Mega-Sena acumula e próximo prêmio deve pagar R$ 52 milhões
+RIO - Nenhum apostador acertou as seis dezenas do concurso 1288 da Mega-Sena e o próximo sorteio</segment>
+    <segment id="2">, sábado</segment>
+    <segment id="3">, deverá pagar R$ 52 milhões.</segment>
+    <segment id="4">Os números sorteados foram 17 - 30 - 32 - 40 - 42 - 56.</segment>
+    <segment id="5">A quina teve 69 acertadores e cada um vai receber R$ 54.770</segment>
+    <segment id="6">,01.</segment>
+    <segment id="7">A quadra</segment>
+    <segment id="8">, com 7.350 acertadores</segment>
+    <segment id="9">, vai pagar R$ 734</segment>
+    <segment id="10">,52 a cada um.
+RIO - Nenhum apostador acertou as seis dezenas do concurso 1288 da Mega-Sena e o próximo sorteio</segment>
+    <segment id="11">, sábado</segment>
+    <segment id="12">, deverá pagar R$ 52 milhões.</segment>
+    <segment id="13">Os números sorteados foram 17 - 30 - 32 - 40 - 42 - 56.</segment>
+    <segment id="14">A quina teve 69 acertadores e cada um vai receber R$ 54.770</segment>
+    <segment id="15">,01.</segment>
+    <segment id="16">A quadra</segment>
+    <segment id="17">, com 7.350 acertadores</segment>
+    <segment id="18">, vai pagar R$ 734</segment>
+    <segment id="19">,52 a cada um.</segment>
+  </rst>
+</analysis>

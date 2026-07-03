@@ -1,0 +1,52 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governador de São Paulo</segment>
+    <segment id="2">, Tarcísio de Freitas (Republicanos)</segment>
+    <segment id="3">, citou quatro colegas</segment>
+    <segment id="4">comocomo possíveis candidatos a presidente em 2026</segment>
+    <segment id="5">, em entrevista à CNN Brasil.</segment>
+    <segment id="6">O governador de São Paulo</segment>
+    <segment id="7">, Tarcísio de Freitas</segment>
+    <segment id="8">, em lançamento de plano anticorrupção   -Isadora de Leão Moreira/Governo de SPEle mencionou Romeu Zema (Novo-MG)</segment>
+    <segment id="9">, Raquel Lyra (PSDB-PE)</segment>
+    <segment id="10">, Eduardo Leite (PSDB-RS) e Ratinho Jr. (PSD-PR).</segment>
+    <segment id="11">Também citou Luiz Inácio Lula da Silva (PT)</segment>
+    <segment id="12">, embora</segment>
+    <segment id="13">embora o atual presidente tenha até o momento descartado buscar a reeleição.</segment>
+    <segment id="14">Curiosamente</segment>
+    <segment id="15">, não mencionou o ex-presidente Jair Bolsonaro (PL)</segment>
+    <segment id="16">, seu padrinho político</segment>
+    <segment id="17">, no rol de possíveis candidatos.</segment>
+    <segment id="18">As declarações foram dadas ao programa Caminhos</segment>
+    <segment id="19">, comandado pelo empresário Abílio Diniz</segment>
+    <segment id="20">, que vai ao ar nesta quarta-feira (10) às 22h15.</segment>
+    <segment id="21">Na entrevista</segment>
+    <segment id="22">, Tarcísio descartou ser ele próprio candidato a presidente</segment>
+    <segment id="23">, dizendo que está focado em fazer uma boa gestão no governo de São Paulo.</segment>
+    <segment id="24">PainelReceba no seu email as informações exclusivas da coluna PainelCarregando...</segment>
+    <segment id="25">Ele também fez críticas ao arcabouço fiscal</segment>
+    <segment id="26">, dizendo que é fraco e pode levar a uma explosão do endividamento.</segment>
+  </rst>
+</analysis>

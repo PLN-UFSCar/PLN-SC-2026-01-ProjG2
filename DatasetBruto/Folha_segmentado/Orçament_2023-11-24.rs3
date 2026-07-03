@@ -1,0 +1,163 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Tácito Yuri Dutra Chimato/SoU_CiênciaA chamada "</segment>
+    <segment id="2">Ciência Aberta" ou "</segment>
+    <segment id="3">Open Science"</segment>
+    <segment id="4">traz benefícios para todo o "ecossistema</segment>
+    <segment id="5">" envolvido no processo de produção de ciência.</segment>
+    <segment id="6">Pesquisadores aumentam a visibilidade de seus trabalhos</segment>
+    <segment id="7">, a comunidade científica reduz custos operacionais</segment>
+    <segment id="8">, financiadores acompanham seus investimentos</segment>
+    <segment id="9">, e principalmente</segment>
+    <segment id="10">, a sociedade passa a ter mais acesso à ciência produzida.</segment>
+    <segment id="11">O centro de estudos SoU_Ciência</segment>
+    <segment id="12">, sediado na UNIFESP</segment>
+    <segment id="13">, é um grupo de pesquisa multidisciplinar que adota a política da ciência aberta e pública</segment>
+    <segment id="14">, com transparência de dados em todas as pesquisas realizadas[i].</segment>
+    <segment id="15">A missão do SoU_Ciência</segment>
+    <segment id="16">, como</segment>
+    <segment id="17">como o próprio nome sugere</segment>
+    <segment id="18">, é fortalecer a conexão entre a Sociedade</segment>
+    <segment id="19">, a Universidade e a Ciência em favor do desenvolvimento de um Estado democrático</segment>
+    <segment id="20">, diverso</segment>
+    <segment id="21">, sustentável e solidário[ii].</segment>
+    <segment id="22">Orientados por este propósito</segment>
+    <segment id="23">, sua equipe de pesquisadores relançou o Módulo I do painel de financiamento da Ciência e Tecnologia</segment>
+    <segment id="24">, que apresenta a série histórica com a execução do orçamento liquidado pelas Universidades Federais brasileiras nos últimos 23 anos[iii] (2000 a 2022) a partir de dados oficiais disponibilizados pela Secretaria de Orçamento e Finanças e corrigidos considerando a inflação medida pelo IPCA[iv].</segment>
+    <segment id="25">Nesta quadra histórica</segment>
+    <segment id="26">, em que um deputado federal vinculado à extrema-direita</segment>
+    <segment id="27">, durante audiência da Comissão de Educação da Câmara dos Deputados</segment>
+    <segment id="28">, é capaz de afirmar que instituições federais de ensino superior são criadas para "formar mais imbecis[v]"</segment>
+    <segment id="29">, conhecer a execução orçamentária das Universidades Federais permite</segment>
+    <segment id="30">, em alguma medida</segment>
+    <segment id="31">, avaliar o quanto o Estado Brasileiro valoriza (ou não) esta importante política pública.</segment>
+    <segment id="32">Conforme será apresentado a seguir</segment>
+    <segment id="33">, os dados demonstram o quanto o orçamento das Universidades Federais são vulneráveis às mudanças de governo que</segment>
+    <segment id="34">, embora</segment>
+    <segment id="35">embora típicas da democracia</segment>
+    <segment id="36">, deveriam preservar as políticas de Estado</segment>
+    <segment id="37">, em especial no Brasil</segment>
+    <segment id="38">, onde o Plano Nacional de Educação (PNE 2014/2024)</segment>
+    <segment id="39">, aprovado por força da Lei 13.005/2014</segment>
+    <segment id="40">, estabeleceu que em 10 anos o Brasil deveria atingir:  · 50% de taxa bruta de matrícula em cursos de graduação (em 2022 ainda não havíamos chegado a 39%[vi])</segment>
+    <segment id="41">;  · 40% de participação do segmento público na expansão do ensino superior (em 2021</segment>
+    <segment id="42">, último dado disponível</segment>
+    <segment id="43">, a participação foi de 9</segment>
+    <segment id="44">,3%[vii])</segment>
+    <segment id="45">Antes de apresentarmos alguns dos principais achados</segment>
+    <segment id="46">, é importante salientar que todo o material de pesquisa está disponível a partir do sitio eletrônico do SoU_Ciência</segment>
+    <segment id="47">, deste modo</segment>
+    <segment id="48">, para além de encontrar os dados sobre o orçamento de cada uma das 69 Universidades Federais</segment>
+    <segment id="49">, os usuários terão acesso a todo o background</segment>
+    <segment id="50">, incluindo:</segment>
+    <segment id="51">microdados</segment>
+    <segment id="52">; método de coleta de informações</segment>
+    <segment id="53">;</segment>
+    <segment id="54">metodologia empregada no processo de deflacionamento</segment>
+    <segment id="55">; análises sintéticas de cada informação</segment>
+    <segment id="56">;</segment>
+    <segment id="57">e Boletins analíticos que apresentam outras variáveis relacionadas ao objeto em análise.</segment>
+    <segment id="58">Para facilitar o processo de pesquisa e</segment>
+    <segment id="59">, considerando as diferentes possibilidades de análise</segment>
+    <segment id="60">, o Módulo I "</segment>
+    <segment id="61">Orçamento das Universidades Federais" foi dividido em 04 grandes blocos:  · Investimento em infraestrutura e material permanente:</segment>
+    <segment id="62">São recursos aplicados na ampliação e melhoria da infraestrutura e dos bens à disposição da instituição</segment>
+    <segment id="63">, por exemplo: construção de prédios</segment>
+    <segment id="64">, aquisição de veículos</segment>
+    <segment id="65">, compra de equipamentos de laboratório e outros materiais permanentes</segment>
+    <segment id="66">;  · Despesas de manutenção e funcionamento:</segment>
+    <segment id="67">São recursos utilizados para garantir o funcionamento de rotina.</segment>
+    <segment id="68">Incluem-</segment>
+    <segment id="69">sese desde o pagamento das despesas com água</segment>
+    <segment id="70">, energia elétrica e conexão à internet das unidades acadêmicas</segment>
+    <segment id="71">, passando pelo pagamento dos contratos com empresas de limpeza</segment>
+    <segment id="72">, vigilância e manutenção predial</segment>
+    <segment id="73">;  · Pessoal e Encargos Sociais:</segment>
+    <segment id="74">São recursos destinados ao pagamento dos salários dos servidores ativos (efetivos e temporários)</segment>
+    <segment id="75">, dos aposentados e dos pensionistas</segment>
+    <segment id="76">;  · Assistência ao estudante:</segment>
+    <segment id="77">Recursos destinados prioritariamente a estudantes de baixa renda oriundos da rede pública de educação básica</segment>
+    <segment id="78">, matriculados em cursos de graduação presencial ofertados pelas IFES</segment>
+    <segment id="79">, por meio do fornecimento de alimentação</segment>
+    <segment id="80">, atendimento médico e odontológico</segment>
+    <segment id="81">, alojamento e transporte</segment>
+    <segment id="82">, dentre outras iniciativas típicas de assistência estudantil.</segment>
+    <segment id="83">Investimento em infraestrutura e material permanente</segment>
+    <segment id="84">Nos últimos anos</segment>
+    <segment id="85">, os gestores das Universidades Federais têm sido acusados de permitir o sucateamento das instituições.</segment>
+    <segment id="86">Ainda que possam existir exemplos esporádicos que denotem o uso pouco eficiente do recurso público</segment>
+    <segment id="87">, os dados levantados pela equipe do SoU_Ciência evidenciam que entre 2014 e 2022 houve uma redução de 87</segment>
+    <segment id="88">,9% nos recursos disponíveis para ações de investimento.</segment>
+    <segment id="89">Conforme pode ser observado na Figura 01 a seguir</segment>
+    <segment id="90">, os valores liquidados pelas 69 Universidades Federais em 2022 são inferiores àqueles observados em 2002</segment>
+    <segment id="91">, quando possuíamos apenas 49 Universidades Federais.</segment>
+    <segment id="92">Chama atenção o crescimento dos valores liquidados com ações de investimento entre 2008 e 2011</segment>
+    <segment id="93">, reflexo da instituição do Programa de Apoio aos Planos de Reestruturação e Expansão das Universidades Federais – REUNI</segment>
+    <segment id="94">, implementado por força do Decreto nº 6.096</segment>
+    <segment id="95">, de 24 de abril de 2007.</segment>
+    <segment id="96">No mesmo diapasão</segment>
+    <segment id="97">, entre 2012</segment>
+    <segment id="98">, 2013 e 2014</segment>
+    <segment id="99">, com particular intensidade neste último ano</segment>
+    <segment id="100">, o Governo Federal criou novas instituições e investiu em ações de reestruturação e expansão das Universidades Federais</segment>
+    <segment id="101">, conforme evidenciado na Figura 01.</segment>
+    <segment id="102">Os reflexos positivos desta política são comprovados por meio da ampliação do volume de matrículas das Universidades Federais.</segment>
+    <segment id="103">Figura 01 - Investimento em infraestrutura/patrimônio - Universidades Federais (2000 a 2022) - Fonte: SoU_CiênciaDespesas de manutenção e funcionamento</segment>
+    <segment id="104">Por vincular-</segment>
+    <segment id="105">sese ao pagamento dos gastos relacionados ao funcionamento das instituições</segment>
+    <segment id="106">, este grupo de despesas está fortemente associado ao volume de matrículas ofertadas na modalidade presencial.</segment>
+    <segment id="107">Segundo dados do Censo da Educação Superior produzido pelo INEP/MEC</segment>
+    <segment id="108">, entre 2000 e 2014 houve um aumento de 124</segment>
+    <segment id="109">,5% nas matriculas presenciais ofertadas pelas Universidades Federais[viii]</segment>
+    <segment id="110">, neste período</segment>
+    <segment id="111">, a parte discricionária das despesas de manutenção e funcionamento cresceu 137</segment>
+    <segment id="112">,1%, ou seja</segment>
+    <segment id="113">, à medida que mais estudantes conseguiam acessar o ensino superior ofertado pelas Universidades Federais</segment>
+    <segment id="114">, mais recursos estavam à disposição das instituições para garantir seu funcionamento.</segment>
+    <segment id="115">Entretanto</segment>
+    <segment id="116">, entre 2014 e 2021[ix]</segment>
+    <segment id="117">, as matrículas presenciais registraram crescimento de 26</segment>
+    <segment id="118">,5% e neste mesmo período as despesas de manutenção e funcionamento das Universidades Federais sofreram uma redução de 52</segment>
+    <segment id="119">,02%, o que significa dizer que em 2021</segment>
+    <segment id="120">, apesar da ampliação do número de matrículas</segment>
+    <segment id="121">, as Universidades Federais possuíam menos da metade dos recursos liquidados em 2014.</segment>
+    <segment id="122">Figura 02 - Despesas de manutenção e funcionamento - Universidades Federais (2000 a 2022) - Fonte: SoU_Ciência</segment>
+    <segment id="123">Reafirmamos o compromisso do SoU_Ciência com o rigor metodológico e com a transparência.</segment>
+    <segment id="124">Acreditamos que a única forma de transformar a educação em um direito de todos é fazendo com que a SOCIEDADE enxergue a UNIVERSIDADE PÚBLICA</segment>
+    <segment id="125">comocomo um patrimônio do ESTADO BRASILEIRO</segment>
+    <segment id="126">, e que deve ser defendido por todos.</segment>
+    <segment id="127">Por fim</segment>
+    <segment id="128">, convidamos os leitores a acessarem o Módulo I do painel de financiamento da Ciência e Tecnologia</segment>
+    <segment id="129">, disponível em:</segment>
+    <segment id="130">https://souciencia.unifesp.br/fctesp onde outros dados e análises estão disponíveis.</segment>
+    <segment id="131">*Acompanhe mais informações sobre o Painel aqui no blog.  [i] https://souciencia.unifesp.br/sobre#apresentacao  [ii] https://souciencia.unifesp.br/sobre#missao  [iii]</segment>
+    <segment id="132">A escolha deste horizonte temporal está vinculada à disponibilidade de dados do Painel do Orçamento Federal disponível em: https://www1.siop.planejamento.gov.br/QvAJAXZfc/opendoc.htm?document=IAS%2FExecucao _</segment>
+    <segment id="133">Orcamentaria.qvw&amp;amp</segment>
+    <segment id="134">;host=QVS%40pqlk04&amp;amp</segment>
+    <segment id="135">;anonymous=true&amp;amp</segment>
+    <segment id="136">;sheet=SH06  [iv] https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html  [v] https://revistaforum.com.br/debates/2023/8/24/comisso-de-cincia-tecnologia-rebate-gustavo-gayer-por-chamar-universitarios-de-imbecis-142877.html  [vi] https://app.powerbi.com/view?r=eyJrIjoiNTZjNTY1NTUtODMxMi00OWJhLWE4ZjUtZjVlNjY1NDk3ZmIxIiwidCI6IjI2Zj czODk3LWM4YWMtNGIxZS05NzhmLWVhNGMwNzc0MzRiZiJ9  [vii] https://app.powerbi.com/view?r=eyJrIjoiNTZjNTY1NTUtODMxMi00OWJhLWE4ZjUtZjVlNjY1NDk3ZmIxIiwidCI6IjI2Zj czODk3LWM4YWMtNGIxZS05NzhmLWVhNGMwNzc0MzRiZiJ9  [viii] https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-da-educacao-superior  [ix]</segment>
+    <segment id="137">Último dado disponível do Censup quando da produção desta análise.</segment>
+  </rst>
+</analysis>

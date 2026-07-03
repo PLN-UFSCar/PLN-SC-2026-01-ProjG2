@@ -1,0 +1,127 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Enfrentando um bebê gritando e jogando comida no chão</segment>
+    <segment id="2">, pais estressados podem</segment>
+    <segment id="3">sese surpreender ao ouvir que sua amada criação provavelmente é o aprendiz mais inteligente do universo.</segment>
+    <segment id="4">Mas alguns cientistas da computação reconhecem há muito tempo essa realidade e agora estão tentando imitar os poderes de processamento extraordinários dos bebês para desenvolver modelos de inteligência artificial (IA).</segment>
+    <segment id="5">Em alguns aspectos</segment>
+    <segment id="6">, nossas criações tecnológicas mais recentes parecem quase mágicas em suas capacidades</segment>
+    <segment id="7">, masmas quando</segment>
+    <segment id="8">sese trata de aprendizado autônomo</segment>
+    <segment id="9">, elas são tão burras quanto uma fralda.</segment>
+    <segment id="10">Poderiam essas tecnologias ser treinadas para aprender</segment>
+    <segment id="11">comocomo unidades de processamento de bebês</segment>
+    <segment id="12">, explorando dados parciais</segment>
+    <segment id="13">, confusos e do mundo real?</segment>
+    <segment id="14">O que um bebê vê e ouve pode ajudar a criar robôs mais parecidos com humanos -</segment>
+    <segment id="15">DivulgaçãoUma equipe de pesquisadores da NYU (Universidade de Nova York) tem tentado fazer exatamente isso e neste mês publicou suas descobertas na revista Science.</segment>
+    <segment id="16">O experimento coletou dados de uma câmera leve presa à cabeça de um bebê em Adelaide chamado Sam</segment>
+    <segment id="17">, registrando 61 horas de sua vida dos 6 aos 25 meses.</segment>
+    <segment id="18">O fluxo de vídeo</segment>
+    <segment id="19">, incluindo imagens e sons embaralhados de pais</segment>
+    <segment id="20">, gatos</segment>
+    <segment id="21">, brincadeiras e brinquedos</segment>
+    <segment id="22">, foi então processado em 600 mil quadros de vídeo e 37.500 "enunciados" transcritos e alimentados em uma rede neural.</segment>
+    <segment id="23">O desafio era combinar o que Sam via durante aproximadamente 1% de suas horas acordado com os sons que ele ouvia</segment>
+    <segment id="24">, para criar um modelo de IA multimodal.</segment>
+    <segment id="25">Mas como</segment>
+    <segment id="26">como um bebê entende que a palavra "bola"</segment>
+    <segment id="27">sese relaciona com objetos redondos</segment>
+    <segment id="28">, saltitantes e multicoloridos muito diferentes?</segment>
+    <segment id="29">Os cientistas cognitivos estão divididos sobre a explicação</segment>
+    <segment id="30">, masmas todos concordam que os bebês são aprendizes incrivelmente habilidosos</segment>
+    <segment id="31">, generalizando a partir de entradas limitadas.</segment>
+    <segment id="32">Entre seis e nove meses</segment>
+    <segment id="33">, os bebês começam a conectar palavras a imagens.</segment>
+    <segment id="34">Antes dos dois anos</segment>
+    <segment id="35">, eles já aprenderam em média 300 palavras</segment>
+    <segment id="36">, principalmente substantivos.</segment>
+    <segment id="37">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="38">; aberta para não assinantes.</segment>
+    <segment id="39">Carregando...</segment>
+    <segment id="40">Até agora</segment>
+    <segment id="41">, as tentativas de construir modelos de IA multimodais que possam combinar texto</segment>
+    <segment id="42">, imagens</segment>
+    <segment id="43">, áudio e vídeo têm dependido principalmente da aplicação de enorme poder computacional a vastas quantidades de dados selecionados.</segment>
+    <segment id="44">Mas os pesquisadores da NYU descobriram que seu modelo poderia associar com sucesso imagens e sons com substancialmente menos dados provenientes do vídeo de um bebê.</segment>
+    <segment id="45">Seu modelo teve uma taxa de precisão de 61</segment>
+    <segment id="46">,6% ao classificar 22 "conceitos visuais".</segment>
+    <segment id="47">"</segment>
+    <segment id="48">Ficamos muito surpresos que o modelo pudesse exibir um grau bastante notável de aprendizado dado os dados limitados que ele tinha"</segment>
+    <segment id="49">, disse Wai Keen Vong</segment>
+    <segment id="50">, autor principal do artigo da NYU</segment>
+    <segment id="51">, em uma entrevista em vídeo.</segment>
+    <segment id="52">Essas descobertas são um incentivo encorajador para o desenvolvimento de futuros modelos de IA.</segment>
+    <segment id="53">Mas, como</segment>
+    <segment id="54">como observa Vong</segment>
+    <segment id="55">, elas também destacam as habilidades de aprendizado fenomenais dos próprios bebês</segment>
+    <segment id="56">, que podem responder a sinais visuais e desenvolver suas próprias hipóteses de aprendizado.</segment>
+    <segment id="57">Parte da razão para sua precocidade é que os bebês humanos passam um longo período explorando ativamente o mundo antes de terem que</segment>
+    <segment id="58">sese virar sozinhos.  "</segment>
+    <segment id="59">As crianças são o departamento de P&amp;amp</segment>
+    <segment id="60">;D [pesquisa e desenvolvimento] da espécie humana —os caras do céu azul</segment>
+    <segment id="61">, os criadores de ideias.</segment>
+    <segment id="62">Os adultos são produção e marketing"</segment>
+    <segment id="63">, como</segment>
+    <segment id="64">como Alison Gopnik escreveu de forma memorável em seu livro "</segment>
+    <segment id="65">O Bebê Filosófico".</segment>
+    <segment id="66">De acordo com Gopnik</segment>
+    <segment id="67">, professora de psicologia na Universidade da Califórnia em Berkeley</segment>
+    <segment id="68">, os bebês têm três habilidades principais que os sistemas de IA não têm.</segment>
+    <segment id="69">Primeiro</segment>
+    <segment id="70">, os bebês</segment>
+    <segment id="71">sese destacam na construção imaginativa de modelos</segment>
+    <segment id="72">, criando uma estrutura conceitual para explicar o mundo.</segment>
+    <segment id="73">Eles também são curiosos</segment>
+    <segment id="74">, amantes de aventuras e aprendizes incorporados</segment>
+    <segment id="75">, explorando ativamente novos ambientes</segment>
+    <segment id="76">, em vez de estarem passivamente envolvidos em linhas de código.</segment>
+    <segment id="77">E os bebês são animais sociais</segment>
+    <segment id="78">, aprendendo com todos com quem interagem</segment>
+    <segment id="79">, ajudando a desenvolver empatia</segment>
+    <segment id="80">, altruísmo e uma sensibilidade moral.</segment>
+    <segment id="81">Inteligência artificial é treinada pelos olhos e ouvidos de uma criançaMais    novamente         de   de  de  representando um</segment>
+    <segment id="82">Em um email</segment>
+    <segment id="83">, Gopnik diz que o estudo da NYU é "fascinante e muito inteligente" e mostra que os modelos de IA podem extrair informações linguísticas dos dados com os quais os bebês lidam.</segment>
+    <segment id="84">Mas, como</segment>
+    <segment id="85">como os próprios autores do artigo reconhecem</segment>
+    <segment id="86">, os bebês também usam dados diferentes</segment>
+    <segment id="87">, que obtêm por meio de exploração ativa e interação social.</segment>
+    <segment id="88">"</segment>
+    <segment id="89">O sucesso dos modelos</segment>
+    <segment id="90">, que ainda é muito limitado</segment>
+    <segment id="91">, pode aproveitar as capacidades de exploração e aprendizado social dos bebês</segment>
+    <segment id="92">, masmas isso não significa que eles próprios tenham essas habilidades"</segment>
+    <segment id="93">, escreve Gopnik.</segment>
+    <segment id="94">Será necessário muito mais pesquisa para replicar computacionalmente o que os bebês aprendem naturalmente.</segment>
+    <segment id="95">Em particular</segment>
+    <segment id="96">, como</segment>
+    <segment id="97">como podemos construir máquinas que demonstrem senso comum e raciocínio social?</segment>
+    <segment id="98">Os modelos de IA podem ser capazes de aprender substantivos associados a objetos físicos</segment>
+    <segment id="99">, masmas ainda têm dificuldade com conceitos abstratos e verbos.</segment>
+    <segment id="100">Apesar dos avanços impressionantes em IA</segment>
+    <segment id="101">, ainda temos muito a aprender com o pequeno conjunto de "hardware" biológico que é o cérebro de um bebê.</segment>
+  </rst>
+</analysis>

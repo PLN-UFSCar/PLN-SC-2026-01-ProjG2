@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Moradores</segment>
+    <segment id="2">sese revoltam e fecham avenida
+Parentes e amigos do rapaz negaram qualquer ligaÃ§Ã£o dele com o trÃ¡fico de drogas
+Moradores de PernambuÃ©s fizeram ontem uma manifestaÃ§Ã£o na Avenida Luis Eduardo MagalhÃ£es</segment>
+    <segment id="3">, por volta das 11 horas da manhÃ£.</segment>
+    <segment id="4">A comunidade estava revoltada com a morte de Rodrigo Santos ConceiÃ§Ã£o</segment>
+    <segment id="5">, 15 anos</segment>
+    <segment id="6">, que foi alvejado por um policial militar na tarde de sÃ¡bado.</segment>
+    <segment id="7">â€œOs policiais chegaram atirando e mandaram que ele parasse.</segment>
+    <segment id="8">Quando Rodrigo</segment>
+    <segment id="9">sese rendeu e obedeceu Ã  ordem de tirar a camisa</segment>
+    <segment id="10">, atiraram nas costas deleâ€</segment>
+    <segment id="11">, disse um morador que nÃ£o quis</segment>
+    <segment id="12">sese identificar.</segment>
+    <segment id="13">Parentes e amigos do rapaz negaram qualquer ligaÃ§Ã£o dele com o trÃ¡fico de drogas.</segment>
+    <segment id="14">Enterro</segment>
+    <segment id="15">Rodrigo foi levado ao Hospital Roberto Santos</segment>
+    <segment id="16">, masmas jÃ¡ chegou morto.</segment>
+    <segment id="17">O enterro ocorreu Ã s 15h de ontem</segment>
+    <segment id="18">, na Quinta dos LÃ¡zaros.</segment>
+  </rst>
+</analysis>

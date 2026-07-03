@@ -1,0 +1,65 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O hidrogênio (H2) é considerado uma possível alternativa aos combustíveis fósseis</segment>
+    <segment id="2">, responsáveis por grande parte do aquecimento da atmosfera.</segment>
+    <segment id="3">Contudo</segment>
+    <segment id="4">, ainda é preciso reduzir os custos de produção de H2</segment>
+    <segment id="5">para que</segment>
+    <segment id="6">para que ele</segment>
+    <segment id="7">sese torne de fato viável.</segment>
+    <segment id="8">Em pesquisa divulgada no periódico Electrochimica Acta</segment>
+    <segment id="9">, em janeiro deste ano</segment>
+    <segment id="10">, pesquisadoras ligadas ao Centro de Desenvolvimento de Materiais Funcionais (CDMF) descreveram a síntese de um eletrodo de fosfeto de níquel que demonstrou alta eficiência na eletrocatálise para a reação de evolução do hidrogênio (HER).</segment>
+    <segment id="11">Esse tipo de reação</segment>
+    <segment id="12">, que ainda tem um alto custo</segment>
+    <segment id="13">, promove a quebra da molécula de água (hidrólise)</segment>
+    <segment id="14">, liberando íons de hidrogênio.</segment>
+    <segment id="15">A produção eletroquímica de hidrogênio por eletrólise da água é uma técnica promissora com zero emissão de carbono.</segment>
+    <segment id="16">A eficiência do processo depende da capacidade do eletrocatalisador.</segment>
+    <segment id="17">Ônibus movido a hidrogênio</segment>
+    <segment id="18">, que fazia o transporte dos atletas na Vila Olímpica no Rio de Janeiro - Diego</segment>
+    <segment id="19">Padgurschi - 19.ago.2016/Folhapress</segment>
+    <segment id="20">O estudo foi feito pelas pesquisadoras Lorena Goulart</segment>
+    <segment id="21">, Marina Medina</segment>
+    <segment id="22">, Anelisse Brunca da Silva e Lucia Mascaro.</segment>
+    <segment id="23">E o CDMF</segment>
+    <segment id="24">, ao qual estão ligadas</segment>
+    <segment id="25">, é um Centro de Pesquisa</segment>
+    <segment id="26">, Inovação e Difusão (CEPID) da Fapesp sediado na Universidade Federal de São Carlos (UFSCar).</segment>
+    <segment id="27">No experimento</segment>
+    <segment id="28">, as pesquisadoras analisam a relação entre a taxa molar do níquel (Ni) nos eletrodos amorfos de fosfeto de níquel (Ni-P) eletrodepositados sobre espuma de níquel e utilizados</segment>
+    <segment id="29">comocomo eletrocatalisador para a HER.</segment>
+    <segment id="30">O eletrodo 3-Ni-P apresentou ótimo desempenho</segment>
+    <segment id="31">comocomo catalisador em todas as condições de acidez e os filmes Ni-P demonstraram excelente estabilidade nas diferentes condições estudadas.</segment>
+    <segment id="32">O bom desempenho foi atribuído à estrutura granular do material</segment>
+    <segment id="33">, com grande área de superfície</segment>
+    <segment id="34">, permitindo boa interação com o eletrólito</segment>
+    <segment id="35">, favorecendo a cinética da HER.</segment>
+    <segment id="36">Os resultados são relevantes para a busca de um material catalisador estável</segment>
+    <segment id="37">, de fácil sintetização para viabilizar a obtenção do gás hidrogênio a partir da água.</segment>
+    <segment id="38">Veja o carro movido a hidrogênio que integra projeto da USPMais    novamente         de   de  de  representando</segment>
+    <segment id="39">um</segment>
+  </rst>
+</analysis>

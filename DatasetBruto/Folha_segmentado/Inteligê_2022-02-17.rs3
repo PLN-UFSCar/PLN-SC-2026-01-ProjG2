@@ -1,0 +1,79 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O desmatamento na Amazônia neste ano pode superar o registrado no ano passado e chegar a mais de 15 mil km² de destruição</segment>
+    <segment id="2">, o que seria o maior valor desde 2006</segment>
+    <segment id="3">, quando foi de 14</segment>
+    <segment id="4">,3 mil km².</segment>
+    <segment id="5">Em 2021</segment>
+    <segment id="6">, a área afetada foi de 13</segment>
+    <segment id="7">,2 mil km².</segment>
+    <segment id="8">A estimativa é da plataforma de inteligência artificial PrevisIA</segment>
+    <segment id="9">, desenvolvida pelo Imazon (Instituto do Homem e Meio Ambiente da Amazônia) e pela Microsoft</segment>
+    <segment id="10">, com apoio do Fundo Vale.</segment>
+    <segment id="11">O alerta do PrevisIA leva em conta as áreas em risco de desmatamento.</segment>
+    <segment id="12">Para isso</segment>
+    <segment id="13">, fazem parte do programa informações sobre</segment>
+    <segment id="14">, por exemplo</segment>
+    <segment id="15">, corte raso no passado</segment>
+    <segment id="16">, topografia</segment>
+    <segment id="17">, distância para áreas protegidas</segment>
+    <segment id="18">, dados socioeconômicos</segment>
+    <segment id="19">, distância para rios e distância para estradas oficiais e não oficiais —ponto importante ao</segment>
+    <segment id="20">sese pensar em desmate</segment>
+    <segment id="21">porque</segment>
+    <segment id="22">porque é conhecida a concentração de destruição nas áreas próximas às vias.</segment>
+    <segment id="23">Desmatamento recente no município de Apuí</segment>
+    <segment id="24">, no sul do Amazonas - 11.set.2020 - Lalo de Almeida/FolhapressA inteligência artificial</segment>
+    <segment id="25">, a partir de imagens de satélite</segment>
+    <segment id="26">, detecta e faz o monitoramento de estradas abertas ilegalmente no meio da mata</segment>
+    <segment id="27">, um importante preditor de desmate.</segment>
+    <segment id="28">O Imazon alerta ainda que 2022 é ano eleitoral</segment>
+    <segment id="29">, momento em que</segment>
+    <segment id="30">, historicamente</segment>
+    <segment id="31">, as taxas de desmatamento na Amazônia costumam aumentar.</segment>
+    <segment id="32">E não só lá.</segment>
+    <segment id="33">Um estudo publicado ano passado na revista Conservation Letters apontou que</segment>
+    <segment id="34">, em anos eleitorais</segment>
+    <segment id="35">, a destruição cresce até mesmo na mata atlântica</segment>
+    <segment id="36">, o bioma mais devastado do país.</segment>
+    <segment id="37">Os dados do PrevisIA apontam que o estado do Pará é o que tem maior área em risco de desmate</segment>
+    <segment id="38">, mais de 6.000 km².</segment>
+    <segment id="39">O estado costuma ser o com maiores taxas anuais de desmatamento</segment>
+    <segment id="40">, segundo o Prodes</segment>
+    <segment id="41">, programa do Inpe (Instituto de Pesquisas Espaciais) que mede a destruição na floresta.</segment>
+    <segment id="42">Depois do Pará</segment>
+    <segment id="43">, o PrevisIA indica Amazonas</segment>
+    <segment id="44">, Mato Grosso e Rondônia</segment>
+    <segment id="45">comocomo os estados com maiores riscos de desmate.</segment>
+    <segment id="46">O Amazonas</segment>
+    <segment id="47">, no último dado divulgado do Prodes</segment>
+    <segment id="48">, referente ao período de agosto de 2020 até julho de 2021</segment>
+    <segment id="49">, ocupava a segunda colocação em nível de desmate.</segment>
+    <segment id="50">Em terceiro</segment>
+    <segment id="51">, vinha Mato Grosso</segment>
+    <segment id="52">, que usualmente ocupava o segundo lugar.</segment>
+    <segment id="53">O programa do Imazon e da Microsoft aponta ainda riscos altos ou muito altos em 37% das unidades de conservação e em 24% das terras indígenas do Brasil.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,245 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O preço médio da gasolina no país</segment>
+    <segment id="2">, que segue firme acima de R$ 6 e passa de R$ 7 em algumas localidades</segment>
+    <segment id="3">, deve continuar subindo nas próximas semanas.</segment>
+    <segment id="4">Na sexta-feira (8)</segment>
+    <segment id="5">, a Petrobras anunciou reajuste de 7</segment>
+    <segment id="6">,8% no combustível que sai das refinarias</segment>
+    <segment id="7">, uma semana depois de subir também o preço do diesel</segment>
+    <segment id="8">, e comunicou aumento também do gás de cozinha</segment>
+    <segment id="9">, o GLP.</segment>
+    <segment id="10">Em nota</segment>
+    <segment id="11">, a estatal atribui as altas à "elevação nos patamares internacionais de preços de petróleo</segment>
+    <segment id="12">, impactados pela oferta limitada frente ao crescimento da demanda mundial</segment>
+    <segment id="13">, e da taxa de câmbio".</segment>
+    <segment id="14">E afirma que vinha evitando o "repasse imediato" da volatilidade para os preços internos –segundo a empresa</segment>
+    <segment id="15">, a gasolina estava há 58 dias sem aumento nas refinarias e o gás de cozinha</segment>
+    <segment id="16">, 95 dias.</segment>
+    <segment id="17">Preço médio da gasolina no Brasil segue firme acima de R$ 6 - Andre Coelho/Epa</segment>
+    <segment id="18">Nas últimas semanas</segment>
+    <segment id="19">, o conjunto de fatores que vinha pressionando valor dos combustíveis no mundo ganhou um novo ingrediente: a explosão dos preços de gás natural</segment>
+    <segment id="20">, o GNL</segment>
+    <segment id="21">, em meio a temores de uma crise energética na Europa.</segment>
+    <segment id="22">Entenda esta e outras razões para a disparada nos preços a seguir.  1.</segment>
+    <segment id="23">Aumento da demanda</segment>
+    <segment id="24">A cotação do petróleo vem em uma sequência de alta forte desde o início do ano.</segment>
+    <segment id="25">O preço do barril do tipo Brent</segment>
+    <segment id="26">, referência internacional</segment>
+    <segment id="27">, passou de US$ 80 (cerca de R$ 440) no último dia 28 de setembro pela primeira vez desde outubro de 2018.</segment>
+    <segment id="28">Essa trajetória de alta impacta diretamente nos derivados —gasolina</segment>
+    <segment id="29">, diesel</segment>
+    <segment id="30">, gás natural</segment>
+    <segment id="31">, gás de cozinha —e é explicada por pressões dos dois lados: maior demanda e restrição de oferta.</segment>
+    <segment id="32">Parte do aumento do consumo é explicada pela reabertura dos países que têm conseguido implementar de seus programas de vacinação contra a Covid-19 —e o impacto da retomada tem sido mais forte do que o esperado em algumas regiões.</segment>
+    <segment id="33">Mas essa não é a única razão.</segment>
+    <segment id="34">Como explica a professora da Faculdade de Economia da Universidade Federal Fluminense (UFF) Julia Braga</segment>
+    <segment id="35">, a China vem usando mais gás natural</segment>
+    <segment id="36">comocomo substituto do carvão em suas termelétricas.</segment>
+    <segment id="37">A medida é parte do esforço do país para cumprir as metas para redução da emissão de poluentes e entra na política de médio e longo prazo de transição energética da China.</segment>
+    <segment id="38">"</segment>
+    <segment id="39">Isso também pressiona o preço do barril"</segment>
+    <segment id="40">, ressalta.</segment>
+    <segment id="41">O preço do gás natural disparou nas últimas semanas com o maior consumo também na Europa</segment>
+    <segment id="42">, surpreendida pela redução da geração de energia renovável</segment>
+    <segment id="43">, que vinha tendo papel cada vez mais importante na matriz da região.</segment>
+    <segment id="44">Muitos dos parques eólicos do continente estão produzindo menos do que a capacidade</segment>
+    <segment id="45">porque</segment>
+    <segment id="46">porque tem ventado menos.</segment>
+    <segment id="47">No último dia 29 de setembro</segment>
+    <segment id="48">, a SSE Renewables</segment>
+    <segment id="49">, empresa britânica do setor</segment>
+    <segment id="50">, afirmou em comunicado que sua produção entre abril e setembro ficou 32% abaixo do previsto e apontou</segment>
+    <segment id="51">comocomo uma das razões o fato de o último verão ter sido um dos que menos ventou na Irlanda e Reino Unido.</segment>
+    <segment id="52">Além disso</segment>
+    <segment id="53">, a própria retomada das atividades em ritmo maior que o esperado elevou substancialmente o consumo de gás natural no continente durante o verão</segment>
+    <segment id="54">, sem que a oferta</segment>
+    <segment id="55">sese recuperasse na mesma velocidade.</segment>
+    <segment id="56">O cenário acendeu um alerta entre as autoridades</segment>
+    <segment id="57">, ante a iminência da chegada do inverno</segment>
+    <segment id="58">, quando o consumo de energia sazonalmente já cresce.  2.</segment>
+    <segment id="59">Restrição de oferta  Se a demanda por petróleo e derivados cresceu de um lado</segment>
+    <segment id="60">, a oferta não acompanhou.</segment>
+    <segment id="61">Uma das razões vem da própria dinâmica da Organização dos Países Produtores de Petróleo (Opep)</segment>
+    <segment id="62">, um cartel que reúne 13 países e concentra cerca de 33% da produção global da commodity (por volta de 30 milhões de barris por dia).</segment>
+    <segment id="63">O grupo muitas vezes limita a produção para evitar quedas substanciais nos preços ou mesmo valorizar a cotação do barril.</segment>
+    <segment id="64">Isso aconteceu no ano passado</segment>
+    <segment id="65">, quando a Opep decidiu cortar a produção por conta da pandemia.</segment>
+    <segment id="66">As atividades estão sendo normalizadas gradativamente</segment>
+    <segment id="67">, com a expectativa de que a oferta seja completamente retomada até dezembro de 2022.</segment>
+    <segment id="68">A demanda</segment>
+    <segment id="69">, contudo</segment>
+    <segment id="70">contudo</segment>
+    <segment id="71">, vem crescendo em ritmo mais rápido.</segment>
+    <segment id="72">O salto no preço do barril nos últimos meses tem levado países</segment>
+    <segment id="73">comocomo os Estados Unidos a pressionar a Opep e seus aliados (que formam</segment>
+    <segment id="74">, com a organização</segment>
+    <segment id="75">, a Opep+) a acelerar a retomada.</segment>
+    <segment id="76">Assim como</segment>
+    <segment id="77">como no Brasil</segment>
+    <segment id="78">, o preço da gasolina nos EUA deu um salto em 2021.  3.</segment>
+    <segment id="79">Dólar alto</segment>
+    <segment id="80">A valorização do barril de petróleo tem um duplo efeito para países</segment>
+    <segment id="81">comocomo o Brasil</segment>
+    <segment id="82">, que passam por uma profunda desvalorização cambial.</segment>
+    <segment id="83">O preço sobe não apenas</segment>
+    <segment id="84">porque</segment>
+    <segment id="85">porque a commodity em si custa mais</segment>
+    <segment id="86">, masmas</segment>
+    <segment id="87">porque</segment>
+    <segment id="88">porque o dólar também está mais caro.</segment>
+    <segment id="89">Uma série de fatores explica</segment>
+    <segment id="90">porque</segment>
+    <segment id="91">porque a moeda americana tem</segment>
+    <segment id="92">sese mantido em patamar elevado</segment>
+    <segment id="93">, acima de R$ 5 por dólar.</segment>
+    <segment id="94">Alguns são externos</segment>
+    <segment id="95">, como</segment>
+    <segment id="96">como a expectativa de aumento de juros nos Estados Unidos e de retirada do programa de estímulos monetários</segment>
+    <segment id="97">, outros</segment>
+    <segment id="98">, internos.  "</segment>
+    <segment id="99">Aí entra muito da crise institucional</segment>
+    <segment id="100">, a briga entre os poderes"</segment>
+    <segment id="101">, explica Braga.</segment>
+    <segment id="102">"</segment>
+    <segment id="103">E essa imagem muito ruim que o Brasil passa para o mundo inteiro</segment>
+    <segment id="104">, não apenas na parte política</segment>
+    <segment id="105">, masmas também a visão anti-Ciência [do governo]</segment>
+    <segment id="106">, a política ambiental</segment>
+    <segment id="107">, com aumento das queimadas</segment>
+    <segment id="108">, em um momento em que o mundo está cada vez mais sensível a essas questões.</segment>
+    <segment id="109">Tudo isso acaba afetando a decisão dos investidores internacionais de apostar no Brasil"</segment>
+    <segment id="110">, avalia.</segment>
+    <segment id="111">Gasolina a R$ 7 vira trocadilho com 7 de SetembroMais    novamente         de   de  de  representando um    4.</segment>
+    <segment id="112">Elevação dos preços de biocombustíveis</segment>
+    <segment id="113">Os biocombustíveis que entram na composição da gasolina e do diesel também experimentam forte alta</segment>
+    <segment id="114">, contribuindo para pressionar o preço final dos combustíveis.</segment>
+    <segment id="115">O etanol anidro responde por 27% do litro da gasolina vendida dos postos</segment>
+    <segment id="116">; já o biodiesel hoje equivale a 10% do diesel que sai das bombas.</segment>
+    <segment id="117">O primeiro acumula alta de quase 60% desde o início do ano</segment>
+    <segment id="118">, conforme os dados do Cepea/Esalq.</segment>
+    <segment id="119">O salto é consequência direta dos efeitos climáticos adversos que têm</segment>
+    <segment id="120">sese abatido sobre o país: a falta de chuvas e as geadas de junho e julho reduziram a produção das lavouras de cana-de-açúcar</segment>
+    <segment id="121">, sua matéria-prima.</segment>
+    <segment id="122">A soja usada no biodiesel</segment>
+    <segment id="123">, por sua vez</segment>
+    <segment id="124">, também está mais cara.</segment>
+    <segment id="125">Com maior demanda e a oferta também prejudicada pelas estiagens</segment>
+    <segment id="126">, a cotação da commodity acumula alta de mais de 70%.</segment>
+    <segment id="127">Papel da Petrobras no mercado</segment>
+    <segment id="128">O dólar e a cotação do petróleo vêm tendo mais influência sobre os preços de combustíveis no Brasil desde 2016</segment>
+    <segment id="129">, quando a Petrobras passou a praticar o Preço de Paridade Internacional (PPI)</segment>
+    <segment id="130">, que se</segment>
+    <segment id="131">se orienta pelas flutuações do mercado internacional.</segment>
+    <segment id="132">A mudança de política foi uma resposta ao controle de preços que vigorou na estatal entre 2011 e 2014</segment>
+    <segment id="133">comocomo parte de uma estratégia do governo da então presidente Dilma Rousseff (PT) para segurar a inflação.</segment>
+    <segment id="134">O caixa da companhia foi duramente afetado.</segment>
+    <segment id="135">De um lado</segment>
+    <segment id="136">, arrecadava menos que o potencial</segment>
+    <segment id="137">;</segment>
+    <segment id="138">de outro</segment>
+    <segment id="139">, chegava a subsidiar o preço</segment>
+    <segment id="140">, importando muitas vezes combustível mais caro e vendendo-o mais barato no mercado interno para fazer frente à demanda.</segment>
+    <segment id="141">Os desequilíbrios levaram a empresa a elevar seu nível de endividamento</segment>
+    <segment id="142">, comprometendo a capacidade de investimento.</segment>
+    <segment id="143">Esse também foi um período em que bilhões em recursos foram desviados em grandes esquemas de corrupção.</segment>
+    <segment id="144">Apesar de a estatal não ter monopólio sobre o refino no Brasil</segment>
+    <segment id="145">, a Petrobras ainda é a principal fornecedora de combustíveis no país.</segment>
+    <segment id="146">É dona de 13 das 18 refinarias em território nacional e concentra 98</segment>
+    <segment id="147">,6% da capacidade total de produção</segment>
+    <segment id="148">, conforme os dados da ANP relativos a 2020.</segment>
+    <segment id="149">Assim, os preços praticados pela empresa acabam tendo reflexo sobre toda a cadeia.</segment>
+    <segment id="150">É uma companhia de economia mista e com capital aberto</segment>
+    <segment id="151">, com investidores privados.</segment>
+    <segment id="152">A União</segment>
+    <segment id="153">, contudo</segment>
+    <segment id="154">contudo</segment>
+    <segment id="155">, é acionista majoritária.</segment>
+    <segment id="156">Nos últimos anos</segment>
+    <segment id="157">, a companhia não apenas mudou sua política de preços.</segment>
+    <segment id="158">Ela também mudou seu foco</segment>
+    <segment id="159">, hoje mais concentrado na extração de petróleo do que no refino</segment>
+    <segment id="160">, pontua a professora da UFF Julia Braga.</segment>
+    <segment id="161">O chamado "plano de desinvestimento</segment>
+    <segment id="162">" da estatal prevê a venda de 8 de suas 13 refinarias.  "</segment>
+    <segment id="163">O pré-sal é um sucesso retumbante</segment>
+    <segment id="164">, tem um custo baixíssimo</segment>
+    <segment id="165">, enquanto a parte do refino não tem tanta competitividade.</segment>
+    <segment id="166">Então prevaleceu essa ideia de 'desverticalizar' para preservar sua geração de lucro"</segment>
+    <segment id="167">, afirma a economista.</segment>
+    <segment id="168">Uma capacidade menor de refino</segment>
+    <segment id="169">, diz a economista</segment>
+    <segment id="170">, significa maior dependência das importações</segment>
+    <segment id="171">, o que deixa a empresa com menor margem de manobra para amortecer as flutuações do mercado internacional sobre os preços.</segment>
+    <segment id="172">"</segment>
+    <segment id="173">Agora a gente está vendo que esse outro extremo [em termos de visão para a empresa] 'cobra seu preço'.</segment>
+    <segment id="174">Você perde esse instrumento que poderia ser usado para tentar não repassar de imediato toda a volatilidade que</segment>
+    <segment id="175">sese vê nos preços do petróleo"</segment>
+    <segment id="176">, completa.</segment>
+    <segment id="177">E o ICMS?</segment>
+    <segment id="178">No caso</segment>
+    <segment id="179">caso da gasolina</segment>
+    <segment id="180">, a Petrobras responde por cerca de 34% do preço pago pelos consumidores.</segment>
+    <segment id="181">A estrutura de precificação foi utilizada no fim de setembro pelo presidente da estatal</segment>
+    <segment id="182">, Joaquim Silva e Luna</segment>
+    <segment id="183">, como</segment>
+    <segment id="184">como argumento para defender a atual política de preços.</segment>
+    <segment id="185">Na ocasião</segment>
+    <segment id="186">, ele afirmou que "tudo o que excede R$ 2" não é responsabilidade da companhia.</segment>
+    <segment id="187">Além dos 34% da Petrobras</segment>
+    <segment id="188">, cerca de 16</segment>
+    <segment id="189">,5% representam o custo do etanol anidro</segment>
+    <segment id="190">, 10,7% vão para distribuição e revenda</segment>
+    <segment id="191">, 11,3% correspondem aos tributos federais PIS/Pasep e Cofins e 27</segment>
+    <segment id="192">,7% ao ICMS</segment>
+    <segment id="193">, tributo estadual.</segment>
+    <segment id="194">Há meses o ICMS tem sido objeto de atritos entre o governo federal e os Estados.</segment>
+    <segment id="195">No fim de agosto</segment>
+    <segment id="196">, Bolsonaro chegou a afirmar em entrevista que a alta dos combustíveis</segment>
+    <segment id="197">sese devia à "ganância dos governadores".</segment>
+    <segment id="198">Nesse sentido</segment>
+    <segment id="199">, Braga pondera que as alíquotas de ICMS praticadas pelos Estados não foram alteradas e</segment>
+    <segment id="200">, assim</segment>
+    <segment id="201">, não se</segment>
+    <segment id="202">se pode atribuir o aumento nos preços ao tributo.</segment>
+    <segment id="203">O valor nominal de ICMS pago por litro de combustível cresceu</segment>
+    <segment id="204">porque</segment>
+    <segment id="205">porque seu custo</segment>
+    <segment id="206">, usado</segment>
+    <segment id="207">comocomo base para o cálculo</segment>
+    <segment id="208">, está maior.</segment>
+    <segment id="209">As alíquotas</segment>
+    <segment id="210">, contudo</segment>
+    <segment id="211">contudo</segment>
+    <segment id="212">, são as mesmas praticadas antes da atual crise: tanto em maio do ano passado</segment>
+    <segment id="213">, quando a gasolina custava em média R$ 4</segment>
+    <segment id="214">,00, quanto neste mês de setembro</segment>
+    <segment id="215">, com o preço a R$ 6</segment>
+    <segment id="216">, o percentual cobrado em São Paulo</segment>
+    <segment id="217">, por exemplo</segment>
+    <segment id="218">, é o mesmo</segment>
+    <segment id="219">, 25%</segment>
+  </rst>
+</analysis>

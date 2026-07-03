@@ -1,0 +1,211 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Criado para garantir o acesso de grupos historicamente sub-representados nas universidades</segment>
+    <segment id="2">, o sistema de cotas</segment>
+    <segment id="3">, da forma</segment>
+    <segment id="4">comocomo é implementado</segment>
+    <segment id="5">, pode dificultar o ingresso de alunos que têm direito a elas em 1.551 graduações do país.</segment>
+    <segment id="6">A Folha chegou ao número após uma análise das notas de corte de 6.146 cursos presentes no Sisu (Sistema de Seleção Unificada)</segment>
+    <segment id="7">, do Ministério da Educação</segment>
+    <segment id="8">, do primeiro semestre de 2022.</segment>
+    <segment id="9">Eles são ofertados por universidades públicas e institutos federais de todo o país.</segment>
+    <segment id="10">Neles, a nota mínima no Enem necessária para a aprovação é mais alta para cotistas de determinados grupos do que para candidatos inscritos no sistema de ampla concorrência</segment>
+    <segment id="11">, como</segment>
+    <segment id="12">como estudantes de escola particular.</segment>
+    <segment id="13">Saída dos candidatos ao Enem em 2019</segment>
+    <segment id="14">;</segment>
+    <segment id="15">nota na prova seleciona alunos no Sisu - Rubens Cavallari</segment>
+    <segment id="16">FolhapressA situação ocorre em 25</segment>
+    <segment id="17">,3% do total de graduações do Sisu</segment>
+    <segment id="18">, em uma ou mais "subcotas".</segment>
+    <segment id="19">No total</segment>
+    <segment id="20">, o número de vagas afetadas é de 6.014</segment>
+    <segment id="21">, o que corresponde a uma parcela minoritária (5</segment>
+    <segment id="22">,2%) das reservadas a ações afirmativas.</segment>
+    <segment id="23">Desde 2019</segment>
+    <segment id="24">, ano com dados mais antigos disponibilizados pelo MEC</segment>
+    <segment id="25">, 26.892 vagas de cotistas tiveram essa característica.</segment>
+    <segment id="26">Para fazer a análise</segment>
+    <segment id="27">, a Folha considerou apenas casos em que houve um número de inscritos maior do que a quantidade de vagas.</segment>
+    <segment id="28">Além disso</segment>
+    <segment id="29">, foram descartadas as ocorrências em que não havia candidatos inscritos ou aprovados em ampla concorrência</segment>
+    <segment id="30">, pois</segment>
+    <segment id="31">pois nelas a nota de corte é zerada</segment>
+    <segment id="32">, impossibilitando a comparação.</segment>
+    <segment id="33">Considerou-</segment>
+    <segment id="34">sese uma mesma graduação (direito</segment>
+    <segment id="35">, por exemplo) em turnos diferentes (matutino e noturno</segment>
+    <segment id="36">, por exemplo)</segment>
+    <segment id="37">comocomo dois cursos diferentes.</segment>
+    <segment id="38">A ocorrência de notas de corte mais altas para cotistas vem sendo apontada por acadêmicos</segment>
+    <segment id="39">comocomo uma distorção do princípio que norteou a criação das ações afirmativas nas universidades.</segment>
+    <segment id="40">A situação decorre da forma</segment>
+    <segment id="41">comocomo o Sisu operacionaliza a Lei de Cotas</segment>
+    <segment id="42">, que completa dez anos.</segment>
+    <segment id="43">A norma reserva metade das vagas em instituições federais de ensino a alunos que cursaram o ensino médio exclusivamente em escolas públicas.</segment>
+    <segment id="44">E metade dessas</segment>
+    <segment id="45">, por sua vez</segment>
+    <segment id="46">, é destinada a estudantes com renda familiar per capita de até 1</segment>
+    <segment id="47">,5 salário mínimo.</segment>
+    <segment id="48">A distribuição deve ainda respeitar a proporção de pretos</segment>
+    <segment id="49">, pardos</segment>
+    <segment id="50">, indígenas e pessoas com deficiência de cada estado.</segment>
+    <segment id="51">Para contemplar todas as categorias</segment>
+    <segment id="52">, o Sisu oferece aos candidatos de instituições de ensino federais pelo menos oito tipos de cota</segment>
+    <segment id="53">, resultantes da combinação desses quatro recortes previstos na legislação: tipo de escola de ensino médio</segment>
+    <segment id="54">, renda</segment>
+    <segment id="55">, cor e existência ou não de deficiência.</segment>
+    <segment id="56">Na inscrição</segment>
+    <segment id="57">, o candidato só pode escolher uma dessas modalidades de cota</segment>
+    <segment id="58">, ou "subcotas"</segment>
+    <segment id="59">, mesmo que esteja habilitado para outras.</segment>
+    <segment id="60">Um aluno preto com deficiência</segment>
+    <segment id="61">, renda de até 1</segment>
+    <segment id="62">,5 salário e egresso de escola pública</segment>
+    <segment id="63">, por exemplo</segment>
+    <segment id="64">, está habilitado para as oito categorias</segment>
+    <segment id="65">, já que</segment>
+    <segment id="66">sese enquadra em todos os critérios de ação afirmativa</segment>
+    <segment id="67">, masmas só pode escolher uma.</segment>
+    <segment id="68">Além disso</segment>
+    <segment id="69">, as universidades e institutos também têm autonomia para instituir outras modalidades próprias de ação afirmativa.</segment>
+    <segment id="70">Como o sistema</segment>
+    <segment id="71">, ao longo do período de inscrição</segment>
+    <segment id="72">, atualiza as notas de corte dos candidatos</segment>
+    <segment id="73">, a opção por determinado curso ou modalidade de cota decorre de uma decisão estratégica: o estudante tende a escolher o curso em que considera ter mais chance de entrar.</segment>
+    <segment id="74">Com uma nota de corte mais alta</segment>
+    <segment id="75">, e sem mobilidade entre categorias de concorrência</segment>
+    <segment id="76">, o sistema pode deixar de fora um candidato que</segment>
+    <segment id="77">sese inscreveu</segment>
+    <segment id="78">comocomo cotista e tirou nota maior do que um não cotista</segment>
+    <segment id="79">, aluno de escola particular.</segment>
+    <segment id="80">A análise feita pela Folha mostra que o grupo mais prejudicado por essa distorção é justamente o de alunos de escola pública que não</segment>
+    <segment id="81">sese enquadram em nenhum outro critério de ação afirmativa (cor</segment>
+    <segment id="82">, renda ou deficiência).</segment>
+    <segment id="83">É esse tipo de cota que com mais frequência tem nota de corte mais alta que a ampla concorrência.</segment>
+    <segment id="84">Um exemplo é a UFMG (Universidade Federal de Minas Gerais)</segment>
+    <segment id="85">, que tem 17 cursos com essa situação.</segment>
+    <segment id="86">No de engenharia florestal matutino</segment>
+    <segment id="87">, por exemplo</segment>
+    <segment id="88">, o cotista de escola pública tem nota de corte de 642</segment>
+    <segment id="89">,74, enquanto um aluno que estudou em escola particular precisa tirar 21 pontos a menos (621</segment>
+    <segment id="90">,66) para entrar.</segment>
+    <segment id="91">Em nota</segment>
+    <segment id="92">, a universidade afirma que a situação já havia sido detectada em anos anteriores.</segment>
+    <segment id="93">Em muitos casos</segment>
+    <segment id="94">, diz, esses cotistas com altas notas eram egressos de escolas federais de ensino médio</segment>
+    <segment id="95">, que tradicionalmente têm alto desempenho.</segment>
+    <segment id="96">"</segment>
+    <segment id="97">Ainda que não seja um percentual significativo [de vagas nessa situação]</segment>
+    <segment id="98">, pode ser considerado um elemento para aprimorar o sistema de entrada por meio da reserva de cotas"</segment>
+    <segment id="99">, diz a UFMG.</segment>
+    <segment id="100">A universidade observa ainda que</segment>
+    <segment id="101">, no Brasil</segment>
+    <segment id="102">, 87,7% dos estudantes do ensino médio estão na rede pública de ensino e apenas 50% das vagas são reservadas a eles</segment>
+    <segment id="103">, o que pode impactar a relação de candidatos por vaga</segment>
+    <segment id="104">, tornando as cotas mais disputadas.</segment>
+    <segment id="105">Mas a maior discrepância está na UFJ (Universidade Federal de Jataí)</segment>
+    <segment id="106">, em Goiás.</segment>
+    <segment id="107">No bacharelado noturno de geografia</segment>
+    <segment id="108">, a pontuação para entrada pela cota de escola pública foi de 621</segment>
+    <segment id="109">,56, e a da ampla concorrência</segment>
+    <segment id="110">, de 424</segment>
+    <segment id="111">,22, uma diferença de quase 200 pontos.</segment>
+    <segment id="112">A ocorrência de casos assim já havia sido detectada em estudo de 2014 feito por pesquisadores do Gemaa (Grupo de Estudos Multidisciplinares de Ação Afirmativa) da Uerj (Universidade do Estado do Rio de Janeiro).</segment>
+    <segment id="113">Eles observaram que em 11% dos cursos parte dos candidatos de ações afirmativas ingressava com notas superiores às dos demais.  "</segment>
+    <segment id="114">Nesses casos</segment>
+    <segment id="115">, em vez de funcionar</segment>
+    <segment id="116">comocomo um piso garantidor de uma presença mínima dos cotistas</segment>
+    <segment id="117">, o modelo das cotas atualmente empregado acaba por funcionar</segment>
+    <segment id="118">comocomo um teto para essa presença</segment>
+    <segment id="119">, restringindo a possibilidade de mais estudantes provenientes dos grupos beneficiários de entrar no ensino superior"</segment>
+    <segment id="120">, escreveram Luiz Augusto Campos</segment>
+    <segment id="121">, João Feres Júnior e Verônica Toste Daflon.</segment>
+    <segment id="122">Para Campos</segment>
+    <segment id="123">, a persistência da situação revela uma distorção que já deveria ter sido corrigida pelo Ministério da Educação</segment>
+    <segment id="124">, oito anos depois do trabalho.</segment>
+    <segment id="125">Em sua avaliação</segment>
+    <segment id="126">, para evitar que isso ocorra</segment>
+    <segment id="127">, o cotista com nota maior que o concorrente da ampla concorrência deveria entrar fora das cotas</segment>
+    <segment id="128">, permitindo que a vaga de ação afirmativa fosse destinada a outro estudante.</segment>
+    <segment id="129">Esse desvio foi também observado em outro estudo</segment>
+    <segment id="130">, publicado no ano passado no periódico American Economic Journal: Microeconomics</segment>
+    <segment id="131">, de autoria dos economistas Inácio</segment>
+    <segment id="132">Bó, da Southwestern University of Finance and Economics</segment>
+    <segment id="133">, na China</segment>
+    <segment id="134">, e Orhan Aygün</segment>
+    <segment id="135">, da Universidade Bogazici</segment>
+    <segment id="136">, da Turquia.</segment>
+    <segment id="137">Eles constataram a situação ao analisar dados da edição de 2013 do Sisu</segment>
+    <segment id="138">, um ano após a Lei de Cotas</segment>
+    <segment id="139">, e classificaram a situação</segment>
+    <segment id="140">comocomo injusta.</segment>
+    <segment id="141">"</segment>
+    <segment id="142">Um estudante de baixa renda</segment>
+    <segment id="143">, pertencente a uma minoria e com uma nota alta no exame pode ser rejeitado</segment>
+    <segment id="144">, enquanto um estudante branco</segment>
+    <segment id="145">, de alta renda e com uma nota baixa é aceito"</segment>
+    <segment id="146">, escreveram.</segment>
+    <segment id="147">O que dizem o MEC e as universidades  Procurado pela reportagem</segment>
+    <segment id="148">, o MEC afirmou apenas que o candidato que atenda aos critérios das cotas pode escolher</segment>
+    <segment id="149">sese quer concorrer pela reserva de vagas e dispõe de informações para tomar a decisão.  "</segment>
+    <segment id="150">Um estudante que atenda aos critérios exigidos pela Lei de Cotas verá no sistema informações da nota de corte dos cursos</segment>
+    <segment id="151">, por modalidades de concorrência</segment>
+    <segment id="152">, durante todo o período de inscrição</segment>
+    <segment id="153">, podendo escolher</segment>
+    <segment id="154">sese quer disputar uma vaga pela modalidade de ampla concorrência</segment>
+    <segment id="155">, lei de cotas ou ação afirmativa própria das instituições que ofertem essa última opção"</segment>
+    <segment id="156">, diz a pasta em nota.</segment>
+    <segment id="157">De forma geral</segment>
+    <segment id="158">, as universidades procuradas pela Folha afirmaram que pouco podem fazer</segment>
+    <segment id="159">, uma vez que o Sisu é operado pelo MEC.</segment>
+    <segment id="160">É um fenômeno nacional</segment>
+    <segment id="161">, diz Kátia Cilene</segment>
+    <segment id="162">, pró-reitora de Graduação da Ufersa (federal do Semi-Árido).</segment>
+    <segment id="163">"</segment>
+    <segment id="164">A tendência é que haja uma migração da concorrência por cotas para a ampla concorrência</segment>
+    <segment id="165">, até que os pontos de corte voltem a ficar mais altos e aconteça uma nova migração inversa"</segment>
+    <segment id="166">, avalia.</segment>
+    <segment id="167">Algumas instituições</segment>
+    <segment id="168">, como</segment>
+    <segment id="169">como a UFV (federal de Viçosa)</segment>
+    <segment id="170">, a UFRN (federal do Rio Grande do Norte) e a UFPel (federal de Pelotas) afirmam que</segment>
+    <segment id="171">, na convocação dos candidatos da lista de espera</segment>
+    <segment id="172">, os cotistas são colocados para concorrer também fora das cotas</segment>
+    <segment id="173">, aumentando a chance de admissão nessa etapa subsequente.</segment>
+    <segment id="174">Outras instituições disseram não ver problema no fato de cotistas terem uma nota de corte mais alta.</segment>
+    <segment id="175">"</segment>
+    <segment id="176">A cota é um direito</segment>
+    <segment id="177">, não uma obrigação</segment>
+    <segment id="178">, sendo livre o candidato que a ela tem direito poder</segment>
+    <segment id="179">sese inscrever na ampla concorrência"</segment>
+    <segment id="180">, disse a UFC (federal do Ceará).</segment>
+    <segment id="181">A UFPE (federal de Pernambuco) afirma que a situação é resultado da "excelência da qualidade do ensino público".</segment>
+    <segment id="182">Há ainda questões locais.</segment>
+    <segment id="183">A Unemat (estadual do Mato Grosso) diz que um dos fatores que influencia a nota de corte mais alta entre cotistas é a oferta de cursos de licenciatura no interior do estado</segment>
+    <segment id="184">, tradicionalmente mais procurados por alunos da rede pública.</segment>
+    <segment id="185">A instituição reserva 60% de suas vagas para ação afirmativa.</segment>
+  </rst>
+</analysis>

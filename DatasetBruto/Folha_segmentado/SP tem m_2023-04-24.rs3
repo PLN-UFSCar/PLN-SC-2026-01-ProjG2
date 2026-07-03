@@ -1,0 +1,103 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A cidade de São Paulo registrou no primeiro trimestre do ano o maior número de mortes no trânsito desde 2016.</segment>
+    <segment id="2">Foram 209 vítimas</segment>
+    <segment id="3">, o que representa mais de dois óbitos por dia e alta de 11% na comparação com o mesmo período do ano passado.</segment>
+    <segment id="4">A estatística mostra que a motocicleta é o meio de transporte mais perigoso na cidade.</segment>
+    <segment id="5">Entre janeiro e março</segment>
+    <segment id="6">, foram contabilizadas 83 mortes de motociclistas</segment>
+    <segment id="7">, representando quase 40% das fatalidades.</segment>
+    <segment id="8">Os pedestres vêm em seguida</segment>
+    <segment id="9">, com 70 registros ou 33% dos casos</segment>
+    <segment id="10">, segundo o Infosiga</segment>
+    <segment id="11">, sistema de monitoramento de acidentes de trânsito do governo estadual.</segment>
+    <segment id="12">Considerando somente o mês de março</segment>
+    <segment id="13">, houve estabilidade em relação 2022</segment>
+    <segment id="14">, com o registro de 79 mortes na capital.</segment>
+    <segment id="15">Na semana passada</segment>
+    <segment id="16">, o prefeito de São Paulo Ricardo Nunes (MDB) retirou do Programa de Metas de sua gestão o objetivo de "reduzir o índice de mortes no trânsito para 4</segment>
+    <segment id="17">,5 por 100 mil habitantes".</segment>
+    <segment id="18">No lugar</segment>
+    <segment id="19">, instituiu 18 ações para promover maior segurança viária</segment>
+    <segment id="20">, entre elas a criação de campanhas educativas</segment>
+    <segment id="21">, a realização de intervenções em pontos críticos de acidentes e aumento da fiscalização eletrônica.</segment>
+    <segment id="22">Motociclistas são as principais vítimas do trânsito na capital paulista.</segment>
+    <segment id="23">- Ronny Santos/FolhapressPara o diretor da Abramet (Associação Brasileira de Medicina de Tráfego) Dirceu Rodrigues Alves Júnior</segment>
+    <segment id="24">, outras ações deveriam ser incorporadas à lista de prioridades da prefeitura</segment>
+    <segment id="25">, entre elas o reforço na fiscalização ostensiva por agentes da CET.</segment>
+    <segment id="26">"</segment>
+    <segment id="27">Entre um radar e outro é que o motorista costuma abusar da velocidade"</segment>
+    <segment id="28">, disse o médico</segment>
+    <segment id="29">, acrescentando que nem todas as infrações são detectadas pela fiscalização eletrônica</segment>
+    <segment id="30">, como</segment>
+    <segment id="31">como algumas ultrapassagens indevidas e uso do celular ao volante.</segment>
+    <segment id="32">A opinião é endossada pelo engenheiro de tráfego Horácio Augusto Figueira</segment>
+    <segment id="33">, que defende ainda que os agentes façam a fiscalização de forma aleatória.</segment>
+    <segment id="34">"</segment>
+    <segment id="35">Isso garante que mais pontos da cidade sejam observados.</segment>
+    <segment id="36">Rotas preestabelecidas ou fiscalização em locais fixos não inibem todo tipo de infração"</segment>
+    <segment id="37">, disse o engenheiro.</segment>
+    <segment id="38">Na avaliação dos dois especialistas</segment>
+    <segment id="39">, o aumento dos acidentes com morte nesse início de ano acompanha a retomada da circulação normal de veículos e pedestres nas ruas após restrições motivadas pela pandemia de Covid-19.</segment>
+    <segment id="40">O maior número de motocicletas na capital também pode ter impulsionado as ocorrências.</segment>
+    <segment id="41">Segundo o IBGE</segment>
+    <segment id="42">, a frota de motos na cidade saltou de 895 mil em 2016 para quase 1</segment>
+    <segment id="43">,2 milhão no ano passado</segment>
+    <segment id="44">, incremento de 30%.</segment>
+    <segment id="45">O ano de início da pandemia também marcou uma inversão de tendência na série histórica do Infosiga</segment>
+    <segment id="46">, iniciada em 2015.</segment>
+    <segment id="47">Antes, a principal vítima do trânsito na capital era o pedestre.</segment>
+    <segment id="48">A partir de 2020</segment>
+    <segment id="49">, o motociclista passou a ocupar essa posição.</segment>
+    <segment id="50">"Muitos desses motociclistas são jovens trabalhando para aplicativos de entrega.</segment>
+    <segment id="51">Seria importante criar uma legislação que obrigue as empresas a oferecer formação continuada aos colaboradores</segment>
+    <segment id="52">, pois</segment>
+    <segment id="53">pois é uma atividade de alto risco"</segment>
+    <segment id="54">, disse o diretor da Abramet.</segment>
+    <segment id="55">Ele diz ainda que as plataformas estimulam o excesso de velocidade ao determinar</segment>
+    <segment id="56">, por exemplo</segment>
+    <segment id="57">, o tempo máximo de uma entrega —o que deveria ser proibido por lei na sua avaliação.</segment>
+    <segment id="58">O atual programa de metas da prefeitura prevê a criação de "regulamentação sobre a prestação de serviços de entregas com motocicleta e bicicleta por empresas que operam com aplicativos"</segment>
+    <segment id="59">, masmas não traz detalhes sobre o regramento a ser criado.</segment>
+    <segment id="60">Uma estratégia adotada pela prefeitura para reduzir a mortalidade entre motociclistas é a ampliação das faixas azuis em vias com alto índice de acidentes.</segment>
+    <segment id="61">O corredor para motos já foi implementado nas avenidas 23 de Maio e dos Bandeirantes</segment>
+    <segment id="62">, onde os óbitos caíram para zero.</segment>
+    <segment id="63">A gestão Nunes promete agora outros 200 km de novas faixas até o final de 2024.</segment>
+    <segment id="64">Também está em estudo um projeto para a criação de 'motovias' e pontes exclusivas nas marginais Pinheiros e Tietê.</segment>
+    <segment id="65">Veja fotos de motociclistas na faixa azul da avenida 23 de maioMais    novamente         de   de  de  representando um  Questionada</segment>
+    <segment id="66">, a prefeitura de São Paulo disse que "permanece tendo o objetivo de tornar-</segment>
+    <segment id="67">sese uma das cidades com o trânsito mais seguro do mundo"</segment>
+    <segment id="68">, apesar da alteração no Programa de Metas.</segment>
+    <segment id="69">A gestão municipal acrescentou ainda que pretende reduzir a mortalidade no trânsito com a expansão da malha cicloviária e promovendo melhorias nas calçadas no viário da cidade.</segment>
+    <segment id="70">Procurada</segment>
+    <segment id="71">, a Amobitec (Associação Brasileira de Mobilidade e Tecnologia)</segment>
+    <segment id="72">, que representa empresas de entrega por aplicativo</segment>
+    <segment id="73">, disse que oferece capacitação e incentiva</segment>
+    <segment id="74">, por meio de campanhas e comunicações constantes</segment>
+    <segment id="75">, a importância do respeito às leis de trânsito.</segment>
+    <segment id="76">A associação disse ainda que "não há nenhum tipo de incentivo por longas jornadas ou pela prática de velocidades acima do permitido nas corridas"</segment>
+    <segment id="77">, e que desconhece estudos que relacionam o aumento no número de acidentes às entregas por aplicativo.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,48 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Acidente com dois feridos na San Martins</segment>
+    <segment id="2">As vítimas</segment>
+    <segment id="3">, que tiveram ferimentos leves e foram socorridas pelo SAMU</segment>
+    <segment id="4">Um acidente envolvendo seis veículos deixou duas pessoas feridas na manhã desta quinta-feira</segment>
+    <segment id="5">, 1º, no bairro de San Martin</segment>
+    <segment id="6">, nas imediações do Supermercado G Barbosa</segment>
+    <segment id="7">, em Salvador.</segment>
+    <segment id="8">As vítimas</segment>
+    <segment id="9">, que tiveram ferimentos leves</segment>
+    <segment id="10">, foram socorridas por uma ambulância do Serviço Móvel de Urgência (Samu) e encaminhadas para o Hospital Geral do Estado (HGE).</segment>
+    <segment id="11">Por volta de 12h</segment>
+    <segment id="12">, guinchos da Transalvador realizaram a retirada dos carros da via</segment>
+    <segment id="13">, liberando parte da pista que estava interditada.</segment>
+    <segment id="14">Por conta da batida</segment>
+    <segment id="15">, o tráfego ficou lento no sentido Avenida Luís Eduardo Magalhães.</segment>
+    <segment id="16">Situação que foi controlada no início da tarde</segment>
+    <segment id="17">, segundo a Transalvador.</segment>
+    <segment id="18">Um outro acidente</segment>
+    <segment id="19">, por volta das 08 horas</segment>
+    <segment id="20">, ocorreu na Avenida Otávio Mangabeira</segment>
+    <segment id="21">, onde dois veículos bateram.</segment>
+    <segment id="22">Ninguém ficou ferido.</segment>
+  </rst>
+</analysis>

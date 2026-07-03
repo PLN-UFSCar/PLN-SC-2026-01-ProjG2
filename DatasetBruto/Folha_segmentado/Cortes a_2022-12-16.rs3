@@ -1,0 +1,155 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">As bolsas para financiar projetos de pesquisa multidisciplinares cresceram 166% em 11 anos no país</segment>
+    <segment id="2">, passando de 3.912</segment>
+    <segment id="3">, em 2010</segment>
+    <segment id="4">, para 10.444</segment>
+    <segment id="5">, em 2021.</segment>
+    <segment id="6">Outras áreas que tiveram crescimento expressivo foram as ciências sociais (118%</segment>
+    <segment id="7">, de 4.140 para 9.042 bolsas)</segment>
+    <segment id="8">, ciências da saúde (71%</segment>
+    <segment id="9">, de 8.327 para 14.246) e ciências humanas (66%</segment>
+    <segment id="10">, de 8.281 para 13.763).</segment>
+    <segment id="11">Por outro lado</segment>
+    <segment id="12">, letras é a área com o menor número de bolsas concedidas</segment>
+    <segment id="13">, 4.773.</segment>
+    <segment id="14">Em 2010</segment>
+    <segment id="15">, esse número era de 3.227 bolsas.</segment>
+    <segment id="16">Estudantes durante protesto contra o corte de verbas feito pelo Ministério da Educação nos orçamentos de universidades e institutos federais</segment>
+    <segment id="17">, na UFRJ (Universidade Federal do Rio de Janeiro)</segment>
+    <segment id="18">, no centro do Rio de Janeiro - Eduardo Anizelli - 07.dez.22/FolhapressOs dados</segment>
+    <segment id="19">sese referem às bolsas da Capes (Coordenação de Aperfeiçoamento de Pessoal de Nível Superior)</segment>
+    <segment id="20">, ligada ao Ministério da Educação</segment>
+    <segment id="21">, e CNPq (Conselho Nacional de Desenvolvimento Científico e Tecnológico)</segment>
+    <segment id="22">, ligado ao Ministério da Ciência</segment>
+    <segment id="23">, Tecnologia e Informação</segment>
+    <segment id="24">, levantados pela Folha a partir de informações do Portal da Transparência</segment>
+    <segment id="25">, das plataformas Dados Abertos e da ANPG (Associação Nacional dos Pós-Graduandos).</segment>
+    <segment id="26">Os auxílios da Capes e do CNPq são federais e estão incluídos nos orçamentos desses ministérios.</segment>
+    <segment id="27">Não foram incluídas bolsas de financiamentos estaduais</segment>
+    <segment id="28">, como</segment>
+    <segment id="29">como as Faps (fundações de apoio à pesquisa dos estados).</segment>
+    <segment id="30">Apesar do aumento de financiamento de pesquisas em algumas áreas</segment>
+    <segment id="31">, a quantidade de bolsas concedidas anualmente e o orçamento dos dois órgãos caiu nos últimos oito anos</segment>
+    <segment id="32">, passando de mais de R$ 8</segment>
+    <segment id="33">,3 bilhões</segment>
+    <segment id="34">, em 2014</segment>
+    <segment id="35">, para cerca de R$ 2</segment>
+    <segment id="36">,7 bilhões</segment>
+    <segment id="37">, em 2021 (em valores corrigidos pela inflação).</segment>
+    <segment id="38">A restrição orçamentária ameaça projetos que</segment>
+    <segment id="39">sese relacionam</segment>
+    <segment id="40">, por exemplo</segment>
+    <segment id="41">, à emergência climática ou ao combate a futuras pandemias</segment>
+    <segment id="42">, dois dos principais desafios do século 21</segment>
+    <segment id="43">, explica a economista Monica De Bolle</segment>
+    <segment id="44">, professora da Universidade Johns Hopkins e mestre em Imunologia e Microbiologia pela Universidade Georgetown.</segment>
+    <segment id="45">"</segment>
+    <segment id="46">São temas altamente conectados e multidisciplinares.</segment>
+    <segment id="47">A ciência hoje é entrelaçada</segment>
+    <segment id="48">, e o financiamento à pesquisa não é mais aquele de um único projeto para identificar tal molécula em laboratório</segment>
+    <segment id="49">, são várias linhas de pesquisa que são financiadas concomitantemente"</segment>
+    <segment id="50">, afirma.</segment>
+    <segment id="51">De acordo com ela</segment>
+    <segment id="52">, os cortes orçamentários</segment>
+    <segment id="53">, como</segment>
+    <segment id="54">como o contingenciamento recente de verba no MEC que prejudicou milhares de bolsistas de pós-graduação</segment>
+    <segment id="55">, afetam essas pesquisas em andamento e ameaçam a sua própria continuidade.</segment>
+    <segment id="56">O governo Bolsonaro liberou parte da verba na última semana.</segment>
+    <segment id="57">No entanto</segment>
+    <segment id="58">, a situação gerou extrema ansiedade e angústia nos pesquisadores que viveram um cenário de incerteza.</segment>
+    <segment id="59">"</segment>
+    <segment id="60">Mesmo que o governo tenha voltado atrás</segment>
+    <segment id="61">, isso pode resultar</segment>
+    <segment id="62">, no futuro</segment>
+    <segment id="63">, que mais pesquisadores desistam de suas pesquisas</segment>
+    <segment id="64">, ou por não terem acesso mais ao financiamento ou</segment>
+    <segment id="65">porque</segment>
+    <segment id="66">porque sem o reajuste</segment>
+    <segment id="67">sese tornou extremamente penoso manter a pesquisa com baixa remuneração"</segment>
+    <segment id="68">, diz.</segment>
+    <segment id="69">Os cortes na ciência são um dos principais motivos para a chamada fuga de cérebros nos últimos anos no país</segment>
+    <segment id="70">, quando pesquisadores brasileiros</segment>
+    <segment id="71">, cansados de lutar para fazer ciência no país</segment>
+    <segment id="72">, buscam uma melhor qualidade de vida e valorização do trabalho no exterior.</segment>
+    <segment id="73">De Bolle ainda critica o que é uma aparente falta de compreensão da importância de valorização da ciência</segment>
+    <segment id="74">comocomo política de desenvolvimento no país.</segment>
+    <segment id="75">"</segment>
+    <segment id="76">Não há nenhum esforço para entender</segment>
+    <segment id="77">, por exemplo</segment>
+    <segment id="78">, que se</segment>
+    <segment id="79">se você interromper um projeto de pesquisa</segment>
+    <segment id="80">, dependendo de qual for</segment>
+    <segment id="81">, todos os resultados vão por água abaixo</segment>
+    <segment id="82">, então você não tem só corte orçamentário</segment>
+    <segment id="83">, você tem desperdício daquele dinheiro que já foi investido"</segment>
+    <segment id="84">, alerta.</segment>
+    <segment id="85">Outra contradição do atual governo é que</segment>
+    <segment id="86">, embora</segment>
+    <segment id="87">embora os cortes tenham sido maiores na ciência e no ensino superior em geral nos últimos quatro anos</segment>
+    <segment id="88">, houve uma ação estratégica de incentivo a projetos multidisciplinares.</segment>
+    <segment id="89">Protestos contra cortes na educaçãoMais    novamente         de   de  de  representando um  "</segment>
+    <segment id="90">Foram definidas áreas estratégicas no governo Bolsonaro para o desenvolvimento do país</segment>
+    <segment id="91">, incluindo as ciências sociais e humanas</segment>
+    <segment id="92">, e sabemos que essas áreas são hoje exemplo de</segment>
+    <segment id="93">comocomo um trabalho multidisciplinar ajuda a ter uma resposta mais ágil e direcionada</segment>
+    <segment id="94">, como</segment>
+    <segment id="95">como o que foi visto na pandemia"</segment>
+    <segment id="96">, explica a cientista política e coordenadora da Rede de Pesquisa Solidária em Políticas Públicas e Sociedade</segment>
+    <segment id="97">, Lorena Barberia.</segment>
+    <segment id="98">Porém, ela vê um sinal trocado quando são feitos os cortes no orçamento voltado à pós-graduação no país.</segment>
+    <segment id="99">"</segment>
+    <segment id="100">No Brasil</segment>
+    <segment id="101">, a sociedade entende que é algo menos relevante</segment>
+    <segment id="102">, que podemos viver sem</segment>
+    <segment id="103">, e não existe uma valorização ou um entendimento do papel fundamental dos cientistas na geração de conhecimento"</segment>
+    <segment id="104">, afirma.</segment>
+    <segment id="105">Essa visão afeta o reajuste das bolsas</segment>
+    <segment id="106">, que não ocorre desde 2013</segment>
+    <segment id="107">, nem mesmo dentro do valor corrigido pela inflação.</segment>
+    <segment id="108">"</segment>
+    <segment id="109">Não está tudo bem quando um pesquisador</segment>
+    <segment id="110">, um estudante de pós-graduação</segment>
+    <segment id="111">, que dedica a sua vida exclusivamente para fazer pesquisa de ponta</segment>
+    <segment id="112">, estar vivendo no limite da pobreza</segment>
+    <segment id="113">, sem capacidade de</segment>
+    <segment id="114">sese manter no mês</segment>
+    <segment id="115">, muitas vezes tendo de desistir</segment>
+    <segment id="116">, largar a pesquisa para conseguir um trabalho mais sustentável.</segment>
+    <segment id="117">É muito triste"</segment>
+    <segment id="118">, diz.</segment>
+    <segment id="119">A desigualdade atinge também a própria distribuição de bolsas no país.</segment>
+    <segment id="120">Enquanto estados das regiões Sul e Sudeste concentram as regiões com a maior proporção de bolsas por milhão de habitantes</segment>
+    <segment id="121">, o Norte e Nordeste são os mais afetados pela falta de financiamento.  "</segment>
+    <segment id="122">Em uma sociedade tão desigual</segment>
+    <segment id="123">comocomo a nossa</segment>
+    <segment id="124">, é importante enfatizar que as universidades são espaços democráticos</segment>
+    <segment id="125">, onde todos têm o direito de trabalhar e de estudar.</segment>
+    <segment id="126">Trazer alunos de diferentes rendas e partes do país que trabalham para um bem comum ajuda</segment>
+    <segment id="127">, na prática</segment>
+    <segment id="128">, a resolver muitas questões que ainda não conseguimos solucionar"</segment>
+    <segment id="129">, diz Barberia.</segment>
+  </rst>
+</analysis>

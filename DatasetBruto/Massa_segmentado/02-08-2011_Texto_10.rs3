@@ -1,0 +1,109 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Federais não ganham mais alunos de classes C</segment>
+    <segment id="2">, D e E
+BRASÍLIA - Apesar da adoção de políticas afirmativas e do aumento de vagas</segment>
+    <segment id="3">, a proporção de estudantes das classes C</segment>
+    <segment id="4">, D e E nas universidades federais ficou estagnada</segment>
+    <segment id="5">, nos últimos 15 anos</segment>
+    <segment id="6">É o que revela levantamento divulgado nesta terça-feira pela Andifes (Associação Nacional dos Dirigentes das Instituições Federais de Ensino Superior).</segment>
+    <segment id="7">A pesquisa mostra</segment>
+    <segment id="8">, porém</segment>
+    <segment id="9">porém, que aumentou a parcela de alunos com origem na escola pública</segment>
+    <segment id="10">, assim</segment>
+    <segment id="11">comocomo a de pretos e pardos.</segment>
+    <segment id="12">O levantamento foi realizado ano passado e contou com a participação de 19.691 universitários (3% do total).</segment>
+    <segment id="13">A definição de classe econômica seguiu critérios da Associação Brasileira de Empresas de Pesquisa (Abep).</segment>
+    <segment id="14">Em 1996</segment>
+    <segment id="15">, na primeira pesquisa do gênero</segment>
+    <segment id="16">, 44,3% dos alunos enquadravam-</segment>
+    <segment id="17">sese nas classes C</segment>
+    <segment id="18">, D e E.</segment>
+    <segment id="19">Em 2010</segment>
+    <segment id="20">, o percentual caiu para 43</segment>
+    <segment id="21">,7%, variação que está dentro da margem de erro.</segment>
+    <segment id="22">A renda familiar média desses estudantes é de R$ 1.459 ou menos.</segment>
+    <segment id="23">No ano passado</segment>
+    <segment id="24">, 50,39% dos estudantes das federais tinham feito o ensino médio única ou majoritariamente em estabelecimentos públicos</segment>
+    <segment id="25">, ante 45</segment>
+    <segment id="26">,04% em 1996.</segment>
+    <segment id="27">Já a proporção de pretos e pardos subiu de 34</segment>
+    <segment id="28">,2%, em 2003</segment>
+    <segment id="29">, para 40</segment>
+    <segment id="30">,8%.</segment>
+    <segment id="31">O relatório destaca que esse grupo continuava subrepresentado nas universidades federais</segment>
+    <segment id="32">, pois</segment>
+    <segment id="33">pois equivale a 50</segment>
+    <segment id="34">,7% do conjunto da população brasileira.</segment>
+    <segment id="35">No caso</segment>
+    <segment id="36">caso da escola pública</segment>
+    <segment id="37">, a desproporção é ainda maior</segment>
+    <segment id="38">, já que 88% dos alunos de ensino médio frequentam estabelecimentos públicos.</segment>
+    <segment id="39">O novo presidente da Andifes</segment>
+    <segment id="40">, João Luiz Martins</segment>
+    <segment id="41">, diz que houve avanços na democratização do acesso ao ensino superior</segment>
+    <segment id="42">, masmas reivindica mais investimentos do Ministério da Educação em assistência estudantil e considera baixíssimo o índice de 2</segment>
+    <segment id="43">,52% de graduandos que vivem em moradias oferecidas pelas universidades:
+
+- Há uma dívida enorme.</segment>
+    <segment id="44">As universidades precisam ser mais agressivas nas políticas de inclusão</segment>
+    <segment id="45">, porque</segment>
+    <segment id="46">porque o atendimento é muito baixo em relação à realidade nacional - afirmou Martins</segment>
+    <segment id="47">, reitor da Universidade Federal de Ouro Preto.</segment>
+    <segment id="48">A parcela de universitários oriundos da escola pública - 50</segment>
+    <segment id="49">,39%, em 2010 - considera quem frequentou estabelecimentos públicos em todo o ensino médio (44</segment>
+    <segment id="50">,81%) ou na maior parte dele (5</segment>
+    <segment id="51">,58%).</segment>
+    <segment id="52">O relatório conclui que há uma concentração de estudantes das classes</segment>
+    <segment id="53">A e B, em detrimento das demais.</segment>
+    <segment id="54">No conjunto da população</segment>
+    <segment id="55">, por exemplo</segment>
+    <segment id="56">, a classe</segment>
+    <segment id="57">A corresponde a 4</segment>
+    <segment id="58">,5% do total</segment>
+    <segment id="59">, masmas</segment>
+    <segment id="60">, nas universidades federais</segment>
+    <segment id="61">, fica com 15</segment>
+    <segment id="62">,25% das matrículas.</segment>
+    <segment id="63">Somadas</segment>
+    <segment id="64">, as classes</segment>
+    <segment id="65">A e B representam 32</segment>
+    <segment id="66">,9% dos habitantes</segment>
+    <segment id="67">, masmas ocupam 56</segment>
+    <segment id="68">,32% das vagas.</segment>
+    <segment id="69">O relatório considera</segment>
+    <segment id="70">, no entanto</segment>
+    <segment id="71">, que a pesquisa derruba o mito de que as federais só atenderiam os mais ricos.</segment>
+    <segment id="72">Um dos itens pesquisados revela que 56% dos entrevistados vão para a faculdade de transporte coletivo</segment>
+    <segment id="73">, ante 21</segment>
+    <segment id="74">,62% que usam veículo próprio.</segment>
+    <segment id="75">O presidente da Andifes chama a atenção para outro dado: 67</segment>
+    <segment id="76">,16% dos estudantes vêm de famílias com renda média mensal entre R$ 415 a R$ 2.656.</segment>
+    <segment id="77">Dos entrevistados</segment>
+    <segment id="78">, 12,4% contaram já ter trancado a matrícula e 6% admitiram ser usuários de drogas.</segment>
+    <segment id="79">O percentual dos que disseram ter domínio da língua inglesa foi de 38</segment>
+    <segment id="80">,31%.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,99 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A ata da última reunião do Copom (Comitê de Política Monetária) do BC (Banco Central) mostrou uma postura ainda rígida da autoridade monetária no combate a inflação</segment>
+    <segment id="2">, sem sinalizações de uma queda da taxa de juros.</segment>
+    <segment id="3">A avaliação poderia ter sido feita por analistas de mercado</segment>
+    <segment id="4">, masmas a interpretação da ata</segment>
+    <segment id="5">, nesse</segment>
+    <segment id="6">casocaso</segment>
+    <segment id="7">, foi feita pelo programa de inteligência artificial ChatGPT</segment>
+    <segment id="8">, a partir de uma "provocação" feita pelo Departamento de Pesquisas e Estudos Econômicos do Bradesco.</segment>
+    <segment id="9">"</segment>
+    <segment id="10">O ChatGPT entendeu que a última ata foi um pouco mais Hawk" (hawkish em inglês</segment>
+    <segment id="11">, termo utilizado para definir uma postura pró-aperto monetário)</segment>
+    <segment id="12">, diz relatório do banco publicado nesta quarta-feira (17) assinado por Myriã Bast</segment>
+    <segment id="13">, Marcelo Gazzano e Hoechst Cornélio da Silva.</segment>
+    <segment id="14">Eles lembram que</segment>
+    <segment id="15">, no documento</segment>
+    <segment id="16">, o BC reforçou diversas vezes que não há relação mecânica entre o arcabouço fiscal e a política monetária</segment>
+    <segment id="17">, em uma aparente tentativa de dissociar a apresentação das novas regras fiscais pelo governo de uma consequente queda da taxa Selic.</segment>
+    <segment id="18">Programa de IA faz leitura de comunicados sem o viés inerente ao ser humano- Dado Ruvic - 3.fev.2023/Reuters</segment>
+    <segment id="19">Os especialistas do Bradesco contam terem desenvolvido uma metodologia de rotulagem das comunicações escritas do Banco Central</segment>
+    <segment id="20">, em que usam uma IA generativa para fornecer uma pontuação para cada parágrafo de uma ata.</segment>
+    <segment id="21">A IA fornece valores próximos a -100 para indicar um posicionamento mais duro da autoridade monetária e valores próximos a +100 para indicar um posicionamento menos preocupado com a inflação.</segment>
+    <segment id="22">Posteriormente</segment>
+    <segment id="23">, usam o somatório das pontuações dos parágrafos para indicar a pontuação para a ata.</segment>
+    <segment id="24">Esse processo foi feito em todas as 55 atas e 55 comunicados desde julho de 2016 e</segment>
+    <segment id="25">, com base nele</segment>
+    <segment id="26">, foi construída pelo banco uma série histórica para indicar</segment>
+    <segment id="27">sese o documento trouxe um tom mais hawkish ou dovish (mais favorável a uma redução dos juros).</segment>
+    <segment id="28">Os analistas do Bradesco dizem que a leitura com menos viés da IA em comparação ao ser humano não deve substituir completamente o papel dos profissionais do mercado</segment>
+    <segment id="29">, até porque</segment>
+    <segment id="30">porque ela não dispõe de poder preditivo da evolução do cenário</segment>
+    <segment id="31">, que é parte fundamental para expectativas de juros futuros.</segment>
+    <segment id="32">"</segment>
+    <segment id="33">Ainda assim</segment>
+    <segment id="34">, esse tipo de indicador é um aliado importante na avaliação dos textos</segment>
+    <segment id="35">, seja pela rapidez com que a interpretação pode ser feita</segment>
+    <segment id="36">, seja pela diminuição do viés da leitura.</segment>
+    <segment id="37">"</segment>
+    <segment id="38">Os profissionais do banco dizem ainda que</segment>
+    <segment id="39">, entre os próximos passos</segment>
+    <segment id="40">, querem testar</segment>
+    <segment id="41">sese o indicador desenvolvido com base na IA é capaz de antecipar movimentos de mercado</segment>
+    <segment id="42">, especificamente na precificação de juros de curto prazo imediatamente após a divulgação dos comunicados e</segment>
+    <segment id="43">, eventualmente</segment>
+    <segment id="44">, nas apostas de movimentos das próximas decisões do Copom.</segment>
+    <segment id="45">Gestora quantitativa usa ChatGPT na interpretação de textos e apresentações</segment>
+    <segment id="46">Na Kadima Asset Management</segment>
+    <segment id="47">, gestora de recursos que atua com estratégias quantitativas (que</segment>
+    <segment id="48">sese valem da análise de dados para nortear a alocação de recursos)</segment>
+    <segment id="49">, o ChatGPT tem sido usado para tarefas diversas</segment>
+    <segment id="50">, como</segment>
+    <segment id="51">como interpretação de textos e apresentações.</segment>
+    <segment id="52">Os gestores dizem em relatório que pediram ao programa para interpretar um artigo acadêmico que propõe uma abordagem de alocação alternativa à abordagem tradicional de Markowitz. "</segment>
+    <segment id="53">Neste exemplo</segment>
+    <segment id="54">, o ChatGPT interpretou o artigo corretamente.</segment>
+    <segment id="55">"</segment>
+    <segment id="56">Entre as atividades em que</segment>
+    <segment id="57">sese vale da IA</segment>
+    <segment id="58">, a Kadima também utiliza o programa para melhorar alguns textos usados em apresentações comerciais.</segment>
+    <segment id="59">"</segment>
+    <segment id="60">A ferramenta conseguiu entender o contexto e a ideia que gostaríamos de transmitir</segment>
+    <segment id="61">, elaborando um texto mais claro do que o original que havíamos escrito.</segment>
+    <segment id="62">"</segment>
+    <segment id="63">A criação de conteúdo para postagens em redes sociais</segment>
+    <segment id="64">, com sugestões "criativas e coerentes" do ChatGPT</segment>
+    <segment id="65">, e a revisão de textos para identificar erros gramaticais</segment>
+    <segment id="66">, melhorar a estrutura das frases e sugerir termos mais precisos ou apropriados também são apontadas entre as adoções da ferramenta pelos gestores.</segment>
+    <segment id="67">"</segment>
+    <segment id="68">Em resumo</segment>
+    <segment id="69">, nossa experiência com o ChatGPT na Kadima demonstrou que a ferramenta possui potencial para melhorar a eficiência e a qualidade de várias tarefas em diferentes áreas da empresa"</segment>
+    <segment id="70">, escrevem os gestores da Kadima</segment>
+    <segment id="71">, acrescentando que é essencial que os usuários entendam o assunto e façam uma leitura crítica das respostas obtidas</segment>
+    <segment id="72">, pois</segment>
+    <segment id="73">pois nem sempre o ChatGPT fornece soluções precisas.</segment>
+  </rst>
+</analysis>

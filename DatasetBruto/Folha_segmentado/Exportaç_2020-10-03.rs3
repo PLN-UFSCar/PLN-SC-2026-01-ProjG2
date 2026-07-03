@@ -1,0 +1,225 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Enquanto o fogo</segment>
+    <segment id="2">sese alastra no Brasil</segment>
+    <segment id="3">, deixando um rastro de incerteza em áreas de preservação e a pandemia mina as bases da economia de famílias e do Estado</segment>
+    <segment id="4">, cidades agrícolas do chamado “Nortão” de Mato Grosso vivem numa espécie de bolha imune aos efeitos dessas crises.</segment>
+    <segment id="5">Grandes redes de lojas do varejo e associações comerciais de municípios</segment>
+    <segment id="6">comocomo Sinop</segment>
+    <segment id="7">, Sorriso</segment>
+    <segment id="8">, Nova Mutum e Lucas do Rio Verde</segment>
+    <segment id="9">, para citar os mais dinâmicos da região</segment>
+    <segment id="10">, relatam abertura de centenas de novas empresas</segment>
+    <segment id="11">, demanda por mão de obra e superação nas vendas do comércio durante a pandemia.</segment>
+    <segment id="12">Moradores atribuem a prosperidade local a um combo: alta na exportação de produtos agrícolas</segment>
+    <segment id="13">, medidas frouxas de restrição social</segment>
+    <segment id="14">, acompanhadas da distribuição do chamado “kit Covid”</segment>
+    <segment id="15">, e auxílio emergencial</segment>
+    <segment id="16">, que fez o dinheiro circular fora das lavouras.</segment>
+    <segment id="17">A demanda externa aquecida fez Mato Grosso registrar recorde de venda de soja em momento de disparada do dólar</segment>
+    <segment id="18">, alta no mercado interno e safra também recorde.</segment>
+    <segment id="19">Na média da última semana de setembro</segment>
+    <segment id="20">, a saca da oleaginosa valia R$ 129</segment>
+    <segment id="21">,82 no estado (na mesma semana de 2019</segment>
+    <segment id="22">, o preço era R$ 71</segment>
+    <segment id="23">,95, segundo o Imea</segment>
+    <segment id="24">, Instituto Mato-grossense de Economia Agropecuária).</segment>
+    <segment id="25">As cidades do Nortão ficam às margens da BR-163</segment>
+    <segment id="26">, uma das principais rotas de escoamento de grãos do Brasil.</segment>
+    <segment id="27">A região de grande produção agrícola responde por cerca de 50% das vendas externas do estado</segment>
+    <segment id="28">, de acordo com dados de comércio exterior do Ministério da Economia.</segment>
+    <segment id="29">Apesar de o cenário otimista parecer completamente descolado de regiões metropolitanas castigadas com as medidas de restrições impostas pelo coronavírus</segment>
+    <segment id="30">, ele acompanha o movimento de retomada do comércio —consequência do auxílio emergencial e do abrandamento da quarentena.</segment>
+    <segment id="31">Sinop, a 480 km de Cuiabá</segment>
+    <segment id="32">, é a “capital do Nortão”</segment>
+    <segment id="33">, área cuja base econômica principal reúne soja</segment>
+    <segment id="34">, algodão</segment>
+    <segment id="35">, milho e feijão.</segment>
+    <segment id="36">A cidade tem cerca de 146 mil habitantes</segment>
+    <segment id="37">, segundo estimativa do IBGE para 2020</segment>
+    <segment id="38">, e seus circunvizinhos são menores.</segment>
+    <segment id="39">Numa faixa de 50 mil a 145 mil moradores</segment>
+    <segment id="40">, os quatro municípios considerados mais relevantes à economia regional registraram saldo positivo de emprego no acumulado do ano até agosto.</segment>
+    <segment id="41">No mesmo período</segment>
+    <segment id="42">, mais de 849 mil vagas foram eliminadas no Brasil.</segment>
+    <segment id="43">Área desmatada próxima de Sinop (MT)</segment>
+    <segment id="44">, região impulsionada pelos preços de commodities​  - Florian Plaucheur - 7.ago.2020/AFPNova Mutum</segment>
+    <segment id="45">, por exemplo</segment>
+    <segment id="46">, com 47 mil pessoas</segment>
+    <segment id="47">, teve saldo de 1.018 vagas</segment>
+    <segment id="48">, de acordo com o Caged (Cadastro Geral de Empregados e Desempregados).</segment>
+    <segment id="49">Lucas do Rio Verde</segment>
+    <segment id="50">, com 67 mil</segment>
+    <segment id="51">, 329 vagas.</segment>
+    <segment id="52">O momento positivo não é apenas fruto do campo</segment>
+    <segment id="53">, já que o IDH (Índice de Desenvolvimento Humano) e outros indicadores dessas cidades evoluem desde os anos 1990</segment>
+    <segment id="54">, masmas ele tem protagonismo</segment>
+    <segment id="55">, de acordo com o economista Felipe Serigatti</segment>
+    <segment id="56">, coordenador do mestrado de agronegócio da FGV (Fundação Getulio Vargas).</segment>
+    <segment id="57">“Há tempos essas cidades têm desempenho superior ao de regiões metropolitanas.</segment>
+    <segment id="58">Um conjunto de fatores</segment>
+    <segment id="59">, com destaque para o agro</segment>
+    <segment id="60">, fez com que elas passassem pela turbulência de modo confortável.</segment>
+    <segment id="61">A safra veio boa</segment>
+    <segment id="62">, cheia</segment>
+    <segment id="63">, com muito para vender”</segment>
+    <segment id="64">, afirma.</segment>
+    <segment id="65">Longe de grandes centros</segment>
+    <segment id="66">, a renda do agronegócio acaba circulando dentro dos próprios municípios</segment>
+    <segment id="67">, aquecendo o comércio e os serviços</segment>
+    <segment id="68">, o que ajudou a manter o emprego.</segment>
+    <segment id="69">Não há um recorte oficial de comparação com outras mesorregiões</segment>
+    <segment id="70">, masmas para</segment>
+    <segment id="71">sese ter uma ideia</segment>
+    <segment id="72">, microcosmos com demografia semelhante</segment>
+    <segment id="73">, de até 150 mil habitantes</segment>
+    <segment id="74">, e vocação econômica diferente</segment>
+    <segment id="75">, tiveram desempenho contrário na criação de vagas.</segment>
+    <segment id="76">Um exemplo é o Sul de Minas</segment>
+    <segment id="77">, onde o PIB crescia no pré-pandemia.</segment>
+    <segment id="78">Em municípios não agrários</segment>
+    <segment id="79">comocomo Poços de Caldas</segment>
+    <segment id="80">, Três Corações</segment>
+    <segment id="81">, Lavras e Itajubá</segment>
+    <segment id="82">, o saldo de vagas foi negativo</segment>
+    <segment id="83">, chegando a quase 4.400 em Poços de Caldas.</segment>
+    <segment id="84">“</segment>
+    <segment id="85">O SPC um dia ligou e perguntou o que estávamos fazendo para manter o mesmo índice de consulta [indicativo de que a busca por crédito continua] na pandemia.</segment>
+    <segment id="86">A geração de emprego</segment>
+    <segment id="87">sese mantém e novas empresas abriram neste ano”</segment>
+    <segment id="88">, diz Marcos Antônio Alves</segment>
+    <segment id="89">, presidente da CDL (Câmara de Dirigentes Lojistas) de Sinop.</segment>
+    <segment id="90">As exceções negativas são a gastronomia e o entretenimento</segment>
+    <segment id="91">, afetados pela Covid-19</segment>
+    <segment id="92">comocomo no resto do país.</segment>
+    <segment id="93">Nesses quatro municípios do Nortão</segment>
+    <segment id="94">, 5.058 novas empresas abriram de março</segment>
+    <segment id="95">, início da pandemia</segment>
+    <segment id="96">, a setembro</segment>
+    <segment id="97">, sendo 2.328 em Sinop e 1.307 em Sorriso</segment>
+    <segment id="98">, conforme a Junta Comercial do estado.</segment>
+    <segment id="99">“</segment>
+    <segment id="100">Criamos 900 vagas em Nova Mutum no ano</segment>
+    <segment id="101">, para comércio</segment>
+    <segment id="102">, indústria e agricultura.</segment>
+    <segment id="103">Na construção civil</segment>
+    <segment id="104">, a emissão de alvará cresceu 42% até junho.</segment>
+    <segment id="105">As lojas de shopping de Cuiabá fecharam</segment>
+    <segment id="106">, masmas aqui o agro não parou”</segment>
+    <segment id="107">, afirma Rodrigo Rigoni</segment>
+    <segment id="108">, da CDL mutuense.</segment>
+    <segment id="109">A decisão de não fechar o comércio veio da articulação do setor privado</segment>
+    <segment id="110">, com atuação forte por meio de associações</segment>
+    <segment id="111">, em comitês com a prefeitura e acompanhamento do Ministério Público</segment>
+    <segment id="112">, segundo lojistas.</segment>
+    <segment id="113">Também houve campanhas para estimular o consumo em datas comerciais e nos pontos de venda locais</segment>
+    <segment id="114">, evitando a compra em sites de ecommerce de fora.</segment>
+    <segment id="115">Com portas fechadas por</segment>
+    <segment id="116">, no máximo</segment>
+    <segment id="117">, uma semana desde abril</segment>
+    <segment id="118">, algumas cidades ainda disponibilizaram o que ficou apelidado de “Kit Covid-19”</segment>
+    <segment id="119">, composto por remédios</segment>
+    <segment id="120">comocomo hidroxicloroquina e ivermectina.</segment>
+    <segment id="121">Em Sinop</segment>
+    <segment id="122">, é comum encontrar cidadãos que tenham tomado ivermectina para evitar o contágio de coronavírus.</segment>
+    <segment id="123">Os medicamentos não têm eficácia comprovada por autoridades de saúde para o tratamento de coronavírus.</segment>
+    <segment id="124">Nesses quatro municípios</segment>
+    <segment id="125">, mais de 18 mil casos e 286 mortes foram registrados</segment>
+    <segment id="126">, de acordo com a Secretaria de Saúde do estado.</segment>
+    <segment id="127">Fogo no Pantanal destrói maior refúgio mundial de araras-azuisMais    novamente         de   de  de  representando um  Parte dos comerciantes locais</segment>
+    <segment id="128">considera que houve pânico em grandes centros</segment>
+    <segment id="129">, como</segment>
+    <segment id="130">como São Paulo</segment>
+    <segment id="131">, e que isso também influenciou nos hábitos do consumidor de Mato Grosso em um período inicial.</segment>
+    <segment id="132">Depois</segment>
+    <segment id="133">, ele voltou às ruas mais seguro para gastar.</segment>
+    <segment id="134">“Não entramos na onda de desespero.</segment>
+    <segment id="135">Fechamos uns dois dias em março.</segment>
+    <segment id="136">A crise não chegou na loja e não acho que foi apenas o bom momento do agronegócio</segment>
+    <segment id="137">, masmas a manutenção da vida normal</segment>
+    <segment id="138">, com todos os cuidados”</segment>
+    <segment id="139">, diz José de Jesus Herrera</segment>
+    <segment id="140">, gerente da Martinello</segment>
+    <segment id="141">, rede de móveis e eletrodomésticos em Sorriso com 83 filiais no estado.</segment>
+    <segment id="142">Em geral</segment>
+    <segment id="143">, as grandes empresas do varejo (muitas com matriz no Sul</segment>
+    <segment id="144">, de onde vem boa parte da população do norte mato-grossense) relatam retração do consumo em março e abril</segment>
+    <segment id="145">, retomada em maio e superação em agosto e setembro na comparação com os mesmos meses de 2019.</segment>
+    <segment id="146">A rede paranaense de eletrodomésticos Gazin</segment>
+    <segment id="147">, com mais de cem lojas em Mato Grosso</segment>
+    <segment id="148">, teve vendas 45% maiores em agosto e 53% em setembro na comparação com os mesmos meses do ano passado</segment>
+    <segment id="149">, respectivamente.</segment>
+    <segment id="150">O gerente</segment>
+    <segment id="151">, José Roberto Corsine</segment>
+    <segment id="152">, diz que o ano foi “excepcional”.</segment>
+    <segment id="153">“Colonos [agricultores] estão rindo à toa.</segment>
+    <segment id="154">Isso refletiu na compra do varejo</segment>
+    <segment id="155">, na venda de computador e celular.</segment>
+    <segment id="156">O Paraná sofreu muito mais</segment>
+    <segment id="157">, masmas aqui o ano foi excepcional”</segment>
+    <segment id="158">, afirma Corsine.</segment>
+    <segment id="159">O discurso é semelhante em redes de vestuário e calçado.</segment>
+    <segment id="160">Em uma loja de dois andares e 1.700m² no centro de Sinop</segment>
+    <segment id="161">, onde o varejo fica concentrado em uma avenida</segment>
+    <segment id="162">, não havia espaço para provar sapatos no sábado (19) pela manhã.</segment>
+    <segment id="163">“</segment>
+    <segment id="164">O movimento está normal e quem vem</segment>
+    <segment id="165">, vem para comprar.</segment>
+    <segment id="166">Em relação a outras cidades</segment>
+    <segment id="167">, não sentimos quase nada.</segment>
+    <segment id="168">Mas houve queda de 10% de junho a agosto na relação com o ano passado”</segment>
+    <segment id="169">, diz Miriam Ribeiro</segment>
+    <segment id="170">, do StudioZ</segment>
+    <segment id="171">, também com cem filiais.</segment>
+    <segment id="172">Apesar do sentimento abalado nos meses iniciais da pandemia</segment>
+    <segment id="173">, o empresariado regional mantém em alta a confiança econômica.</segment>
+    <segment id="174">Um levantamento da Unemat (Universidade Estadual de Mato Grosso) em parceria com a CDL de Sinop mostra recuperação de 41% no índice em agosto na relação com julho.</segment>
+    <segment id="175">Na comparação com o mesmo mês de 2019</segment>
+    <segment id="176">, a elevação é de 1</segment>
+    <segment id="177">,80%.</segment>
+    <segment id="178">No geral</segment>
+    <segment id="179">, 74% dos empresários afirmam que a pandemia vai impactar a economia local e 67% dos consumidores disseram que mudaram hábitos de compra.</segment>
+    <segment id="180">“Foi colocado um pavor na população</segment>
+    <segment id="181">, pela mídia</segment>
+    <segment id="182">, que não saía de casa.</segment>
+    <segment id="183">Agora viram que pode sair</segment>
+    <segment id="184">sese cuidando”</segment>
+    <segment id="185">, diz Fernando Barth</segment>
+    <segment id="186">, dono da loja de calçados Marina</segment>
+    <segment id="187">, que fechou só três dias durante a pandemia.</segment>
+    <segment id="188">Ele vestia uma máscara de Bolsonaro no dia em que o presidente foi à região visitar uma usina</segment>
+    <segment id="189">, em 18 de setembro.</segment>
+    <segment id="190">Com uma série de outdoors com a face do presidente estampada</segment>
+    <segment id="191">, a região tem uma base fiel do bolsonarismo.</segment>
+    <segment id="192">Em evento a cerca de 2.000 pessoas em Sorriso também no último dia 18</segment>
+    <segment id="193">, Tarcísio de Freitas</segment>
+    <segment id="194">, ministro da Infraestrutua</segment>
+    <segment id="195">, reconheceu a manutenção do apoio ao governo.</segment>
+    <segment id="196">Após ser ovacionado</segment>
+    <segment id="197">, disse de cima do palco:</segment>
+    <segment id="198">“Temos que vir mais para o Mato Grosso</segment>
+    <segment id="199">, presidente”.​</segment>
+  </rst>
+</analysis>

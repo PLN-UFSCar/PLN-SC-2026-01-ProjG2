@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">BAIXAR PESQUISA COMPLETA</segment>
+    <segment id="2">A aprovação à gestão do governador Rodrigo Garcia (PSDB) cresceu de 27% para 31% desde o início de setembro.</segment>
+    <segment id="3">No mesmo período</segment>
+    <segment id="4">, a reprovação à gestão Garcia oscilou de 14% para 13%</segment>
+    <segment id="5">, e a avaliação regular recuou de 45% para 42%.</segment>
+    <segment id="6">Há ainda 13% que preferiram não opinar sobre o governo do tucano</segment>
+    <segment id="7">, que foi eleito vice-governador na chapa de João Doria (PSDB) em 2018</segment>
+    <segment id="8">, em março deste ano</segment>
+    <segment id="9">, assumiu o cargo de governador e agora disputa a reeleição.</segment>
+    <segment id="10">No final de junho deste ano</segment>
+    <segment id="11">, o governo de Garcia era aprovado por 24% dos eleitores paulistas</segment>
+    <segment id="12">, e 47% consideravam sua gestão regular</segment>
+    <segment id="13">, com 15% de reprovação e 14% sem opinião.</segment>
+    <segment id="14">A gestão de Garcia tem aprovação acima da média entre eleitores mais velhos</segment>
+    <segment id="15">, com 60 anos o mais (39%) e no segmento com escolaridade fundamental (40%).</segment>
+    <segment id="16">No interior do Estado</segment>
+    <segment id="17">, 37% aprovam o governo Garcia</segment>
+    <segment id="18">, ante 25% na Região Metropolitana de São Paulo.</segment>
+  </rst>
+</analysis>

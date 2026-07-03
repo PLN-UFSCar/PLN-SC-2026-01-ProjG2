@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">CÃ£o dorme com o dono morto hÃ¡ seis anos</segment>
+    <segment id="2">A fidelidade Ã© tÃ£o grande que hÃ¡ seis anos o cÃ£o dorme perto do tÃºmulo do amigo</segment>
+    <segment id="3">Um cÃ£o chamado â€˜CapitÃ¡nâ€™</segment>
+    <segment id="4">, nÃ£o abandona o dono falecido</segment>
+    <segment id="5">, chamado Miguel GuzmÃ¡n</segment>
+    <segment id="6">, de forma alguma.</segment>
+    <segment id="7">A fidelidade Ã© tÃ£o grande que hÃ¡ seis anos o cÃ£o vira-lata dorme perto do tÃºmulo do amigo</segment>
+    <segment id="8">, em um cemitÃ©rio de Villa Carlos Paz</segment>
+    <segment id="9">, cidade argentina.</segment>
+    <segment id="10">â€œO cachorro apareceu um dia</segment>
+    <segment id="11">, sem que ninguÃ©m o trouxesse</segment>
+    <segment id="12">, e comeÃ§ou a dar voltas por todos os cantos atÃ© que encontrou o tÃºmulo de seu donoâ€</segment>
+    <segment id="13">, disse o diretor do cemitÃ©rio</segment>
+    <segment id="14">, HÃ©ctor Baccega.</segment>
+  </rst>
+</analysis>

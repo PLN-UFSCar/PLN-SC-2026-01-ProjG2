@@ -1,0 +1,38 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Latino jÃ¡ foi flanelinha</segment>
+    <segment id="2">Cantor jÃ¡ passou por momentos difÃ­ceis na vida
+Quem vÃª Latino fazer tanto sucesso hoje</segment>
+    <segment id="3">, nÃ£o imagina que o cantor jÃ¡ passou por momentos difÃ­ceis na vida.</segment>
+    <segment id="4">Em entrevista ao jornal â€œExtraâ€</segment>
+    <segment id="5">, o cantor revelou que conheceu de perto o trabalho pesado: foi flanelinha</segment>
+    <segment id="6">, ambulante</segment>
+    <segment id="7">, lavou carros e chegou a morar embaixo de um viaduto.</segment>
+    <segment id="8">â€œTomava banho no chafariz da pracinhaâ€</segment>
+    <segment id="9">, admitiu.</segment>
+    <segment id="10">Quem te viu</segment>
+    <segment id="11">, quem te vÃª...</segment>
+  </rst>
+</analysis>

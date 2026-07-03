@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Flamengo conquistou nesta quarta-feira (19) seu quarto título da Copa do Brasil e</segment>
+    <segment id="2">sese tornou o terceiro time com mais troféus do torneio</segment>
+    <segment id="3">, ao lado do Palmeiras.</segment>
+    <segment id="4">Cruzeiro com seis e Grêmio com cinco são os dois maiores vencedores do mata-mata.</segment>
+    <segment id="5">Pedro comemora gol em final contra o Corinthians - Carl de Souza/AFP  Campeão em 1990</segment>
+    <segment id="6">, 2006</segment>
+    <segment id="7">, 2013 e agora</segment>
+    <segment id="8">, o time rubro-negro é a equipe carioca com mais troféus do torneio.</segment>
+    <segment id="9">Fluminense e Vasco tem uma conquista cada um.</segment>
+    <segment id="10">O Rio de Janeiro é o quarto estado com mais títulos</segment>
+    <segment id="11">, agora</segment>
+    <segment id="12">, com seis.</segment>
+    <segment id="13">Os clubes paulistas somam dez taças e lideram o ranking</segment>
+    <segment id="14">, seguidos pelos mineiros (8) e pelos gaúchos (7).</segment>
+    <segment id="15">Final da Copa do Brasil entre Flamengo e CorinthiansMais    novamente         de   de  de  representando um  Veja todos os campeões da Copa do Brasil  1989 - Grêmio 1990 - Flamengo 1991 - Criciúma 1992 - Internacional 1993 - Cruzeiro 1994 - Grêmio 1995 - Corinthians 1996 - Cruzeiro 1997 - Grêmio 1998 - Palmeiras 1999 - Juventude 2000 - Cruzeiro 2001 - Grêmio 2002 - Corinthians 2003 - Cruzeiro 2004 - Santo André 2005 - Paulista 2006 - Flamengo 2007 - Fluminense 2008 - Sport 2009 - Corinthians 2010 - Santos 2011 - Vasco da Gama 2012 - Palmeiras 2013 - Flamengo 2014 - Atlético-MG 2015 - Palmeiras 2016 - Grêmio 2017 - Cruzeiro 2018 - Cruzeiro 2019 - Athletico 2020 - Palmeiras 2021 - Atlético-MG 2022 - Flamengo</segment>
+  </rst>
+</analysis>

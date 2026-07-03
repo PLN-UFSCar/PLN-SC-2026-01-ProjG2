@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Filho de eliana faz 1 aninho</segment>
+    <segment id="2">A loira postou em seu blog fotos do aniversÃ¡rio de seu filho</segment>
+    <segment id="3">A apresentadora postou em seu blog fotos do aniversÃ¡rio de 1 ano de seu filho</segment>
+    <segment id="4">, Arthur</segment>
+    <segment id="5">, com o produtor musical JoÃ£o Marcelo BÃ´scoli.</segment>
+    <segment id="6">O tema da festinha</segment>
+    <segment id="7">, realizada na casa de Eliana</segment>
+    <segment id="8">, em SÃ£o Paulo</segment>
+    <segment id="9">, foi safÃ¡ri.</segment>
+    <segment id="10">â€œFinal de semana inesquecÃ­vel.</segment>
+    <segment id="11">Quem Ã© mÃ£e sabe que</segment>
+    <segment id="12">sese o filho estÃ¡ feliz</segment>
+    <segment id="13">, tudo fica perfeito.</segment>
+    <segment id="14">Muito mais do que eu poderia sonhar!â€</segment>
+    <segment id="15">, disse a loira.</segment>
+  </rst>
+</analysis>

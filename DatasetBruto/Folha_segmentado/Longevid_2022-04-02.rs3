@@ -1,0 +1,186 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A mitocôndria é uma organela vital para o organismo</segment>
+    <segment id="2">, pois</segment>
+    <segment id="3">pois produz</segment>
+    <segment id="4">, a partir dos alimentos</segment>
+    <segment id="5">, a maior parte da energia usada pelas células.</segment>
+    <segment id="6">Embora pareça um contrassenso</segment>
+    <segment id="7">, há evidências de que um leve comprometimento da função mitocondrial esteja associado ao aumento da longevidade.</segment>
+    <segment id="8">Em estudo recentemente publicado no periódico The Embo Journal</segment>
+    <segment id="9">, um grupo internacional de pesquisadores desvendou de que forma isso acontece.</segment>
+    <segment id="10">Segundo os autores</segment>
+    <segment id="11">, o trabalho é o primeiro a mostrar o envolvimento do sistema imune inato (a primeira linha de defesa contra patógenos) nesse processo.</segment>
+    <segment id="12">Foto de um Caenorhabditis elegans - Escola de medicina da Universidade de Washington/AFP"Quando a mitocôndria funciona abaixo do que é considerado ótimo</segment>
+    <segment id="13">, gera um estresse para a célula</segment>
+    <segment id="14">, que desencadeia uma série de respostas que protegem esse organismo contra patógenos</segment>
+    <segment id="15">, fazendo-o viver mais.</segment>
+    <segment id="16">Só que existe um limiar:</segment>
+    <segment id="17">casocaso a redução da função mitocondrial seja muito intensa</segment>
+    <segment id="18">, o sistema pode colapsar"</segment>
+    <segment id="19">, explica Juliane Campos</segment>
+    <segment id="20">, primeira autora do trabalho</segment>
+    <segment id="21">, que atualmente realiza estágio de pós-doutorado na Harvard Medical School (Estados Unidos) com bolsa da Fapesp.  "</segment>
+    <segment id="22">Hoje sabemos que</segment>
+    <segment id="23">, perante um leve estresse mitocondrial [</segment>
+    <segment id="24">comocomo o induzido pelo exercício físico]</segment>
+    <segment id="25">, a célula</segment>
+    <segment id="26">sese reorganiza bioquimicamente para compensar tal desequilíbrio e isso a torna mais preparada para lidar com futuras situações adversas.</segment>
+    <segment id="27">Agora,</segment>
+    <segment id="28">sese o estresse mitocondrial é excessivo e prolongado [</segment>
+    <segment id="29">casocaso das doenças crônico-degenerativas]</segment>
+    <segment id="30">, esses substitutos</segment>
+    <segment id="31">sese tornam insuficientes</segment>
+    <segment id="32">, resultando então no colapso e</segment>
+    <segment id="33">, consequentemente</segment>
+    <segment id="34">, em morte celular"</segment>
+    <segment id="35">, explica Júlio Cesar Batista Ferreira</segment>
+    <segment id="36">, professor associado do instituto de ciências biomédicas e da faculdade de medicina da USP (Universidade de São Paulo) e coautor do trabalho.</segment>
+    <segment id="37">Segundo Campos</segment>
+    <segment id="38">, a disfunção mitocondrial geralmente tem um gatilho.</segment>
+    <segment id="39">"</segment>
+    <segment id="40">Existem mutações em humanos que levam a uma disfunção sustentada</segment>
+    <segment id="41">, geralmente em casos mais graves.</segment>
+    <segment id="42">Existem ainda algumas condições [</segment>
+    <segment id="43">comocomo a restrição calórica] que podem reduzir transientemente a função mitocondrial e isso é diferente de indivíduo para indivíduo.</segment>
+    <segment id="44">A ideia é entender os mecanismos pelos quais essa ligeira perturbação mitocondrial aumenta a longevidade</segment>
+    <segment id="45">porque</segment>
+    <segment id="46">porque</segment>
+    <segment id="47">, então</segment>
+    <segment id="48">, pode-</segment>
+    <segment id="49">sese identificar futuros alvos terapêuticos"</segment>
+    <segment id="50">, resume.</segment>
+    <segment id="51">Modelo experimental  Para entender a conexão entre disfunção mitocondrial leve</segment>
+    <segment id="52">, longevidade e sistema imune inato</segment>
+    <segment id="53">, o grupo utilizou um verme de solo</segment>
+    <segment id="54">, o Caenorhabditis elegans.</segment>
+    <segment id="55">Trata-</segment>
+    <segment id="56">sese de um dos mais conhecidos modelos experimentais para o estudo do envelhecimento</segment>
+    <segment id="57">, pois</segment>
+    <segment id="58">pois oferece algumas vantagens.</segment>
+    <segment id="59">Uma delas é a expectativa média de vida de apenas 17 dias.  "</segment>
+    <segment id="60">O tempo de vida de um roedor é de dois anos e meio</segment>
+    <segment id="61">; de uma drosófila são quatro meses.</segment>
+    <segment id="62">Portanto</segment>
+    <segment id="63">, pensando em termos de tempo de pesquisa</segment>
+    <segment id="64">, essa é uma vantagem.</segment>
+    <segment id="65">Além disso</segment>
+    <segment id="66">, o C. elegans é transparente</segment>
+    <segment id="67">, o que permite visualizar órgãos e acoplar proteínas fluorescentes para identificar algum fenótipo dentro desse organismo.</segment>
+    <segment id="68">E, apesar de estar longe dos humanos na cadeia evolutiva</segment>
+    <segment id="69">, ele tem uma alta homologia com o genoma humano.</segment>
+    <segment id="70">Até 80% de seus genes têm homólogos em humanos.</segment>
+    <segment id="71">Outra vantagem: ele</segment>
+    <segment id="72">sese alimenta de bactéria</segment>
+    <segment id="73">, então é muito fácil manipular um gene específico nesse organismo"</segment>
+    <segment id="74">, explica a pesquisadora.</segment>
+    <segment id="75">Para o experimento</segment>
+    <segment id="76">, os cientistas cultivaram uma bactéria e</segment>
+    <segment id="77">, dentro dela</segment>
+    <segment id="78">, inseriram uma maquinaria capaz de deletar um gene no C. elegans.</segment>
+    <segment id="79">O microrganismo modificado foi ofertado</segment>
+    <segment id="80">comocomo alimento ao verme.</segment>
+    <segment id="81">Ao ingeri-lo</segment>
+    <segment id="82">, essa maquinaria começou a agir e desligou um gene específico.</segment>
+    <segment id="83">Ferreira lembra que na genética há duas formas de entender o papel de um gene.</segment>
+    <segment id="84">"Ou você o retira do sistema e vê o que acontece</segment>
+    <segment id="85">; ou você aumenta sua expressão no sistema e avalia o efeito.</segment>
+    <segment id="86">"</segment>
+    <segment id="87">O grupo queria saber por que o animal vive mais quando a mitocôndria sofre ligeiro estresse metabólico.</segment>
+    <segment id="88">Mas essa tarefa não é fácil.</segment>
+    <segment id="89">"</segment>
+    <segment id="90">São milhares de genes produzindo proteínas</segment>
+    <segment id="91">, que trabalham de maneira coordenada e hierárquica nas células.</segment>
+    <segment id="92">Nesse sentido</segment>
+    <segment id="93">, identificamos os genes críticos envolvidos no aumento da longevidade decorrente da ligeira disfunção mitocondrial.</segment>
+    <segment id="94">Como prova de conceito</segment>
+    <segment id="95">, desligamos individualmente esses genes e vimos que os animais deixavam de viver mais frente à ligeira disfunção mitocondrial"</segment>
+    <segment id="96">, explica Campos.</segment>
+    <segment id="97">A conclusão é que ativar o sistema imune inato é um pré-requisito para a longevidade:</segment>
+    <segment id="98">quando a mitocôndria tem uma ligeira disfunção</segment>
+    <segment id="99">, ele é ativado e isso é necessário para o animal viver mais ou</segment>
+    <segment id="100">sese proteger contra patógenos.</segment>
+    <segment id="101">"</segment>
+    <segment id="102">Em suma</segment>
+    <segment id="103">, a mitocôndria sob estresse manda um sinal de alerta para o sistema imune.</segment>
+    <segment id="104">E esse sinal faz com que o organismo viva mais.</segment>
+    <segment id="105">Quando a gente deleta genes relacionados ao sistema imune inato ou impede que eles sejam ativados nesse animal com leve disfunção mitocondrial</segment>
+    <segment id="106">, toda essa resposta benéfica é abolida.</segment>
+    <segment id="107">"</segment>
+    <segment id="108">Em trabalhos anteriores publicados pela equipe</segment>
+    <segment id="109">, já havia sido estabelecido que dois fatores de transcrição (proteínas que controlam a transcrição dos genes) estavam envolvidos no aumento de longevidade desses animais: DAF-16 (em C. elegans) ou FOXO3 (em humanos) e ATFS-1 (em C. elegans) ou ATF5 (em humanos).</segment>
+    <segment id="110">Mas essas proteínas coordenam diversas vias.</segment>
+    <segment id="111">"</segment>
+    <segment id="112">Sabíamos que uma leve disfunção na mitocôndria aumentava a longevidade e que esses dois fatores de transcrição coordenavam o processo</segment>
+    <segment id="113">, masmas queríamos saber por quais vias eles o faziam.</segment>
+    <segment id="114">Sabendo que esses fatores também controlam o sistema imune inato</segment>
+    <segment id="115">, partimos do pressuposto de que também estariam envolvidos nesse fenótipo.</segment>
+    <segment id="116">Este novo trabalho demonstra que tanto a via de sinalização mediada pela proteína p38 quanto a via de sinalização mediada por proteínas mal enoveladas mitocondriais [que em inglês são conhecidas pela sigla mitoUPR] atuam em conjunto sobre os mesmos genes de imunidade inata para promover resistência a patógenos e longevidade.</segment>
+    <segment id="117">E as mitocôndrias podem prolongar a longevidade sinalizando por meio dessas vias.</segment>
+    <segment id="118">Descobrimos também que o fator de transcrição ATF 5 consegue avisar os genes do sistema imune que eles precisam formar novas proteínas</segment>
+    <segment id="119">, que coordenarão essa cascata de ativação do sistema imune na célula"</segment>
+    <segment id="120">, conta Campos.</segment>
+    <segment id="121">Abordagens terapêuticas</segment>
+    <segment id="122">Segundo Ferreira</segment>
+    <segment id="123">, a maioria das doenças que desenvolvemos está associada ao colapso mitocondrial.</segment>
+    <segment id="124">Nesse sentido</segment>
+    <segment id="125">, o melhor entendimento do funcionamento da mitocôndria em condições de estresse</segment>
+    <segment id="126">, bem como</segment>
+    <segment id="127">como suas conexões com outros compartimentos celulares</segment>
+    <segment id="128">, é essencial para desenvolver estratégias farmacológicas e não farmacológicas capazes de prevenir</segment>
+    <segment id="129">, mitigar ou reverter tal colapso e</segment>
+    <segment id="130">, consequentemente</segment>
+    <segment id="131">, tratar pacientes.</segment>
+    <segment id="132">De acordo com o pesquisador</segment>
+    <segment id="133">, a melhora da expectativa de vida é algo que já observamos há muito tempo</segment>
+    <segment id="134">, masmas aumentar a longevidade é uma meta ambiciosa.</segment>
+    <segment id="135">"</segment>
+    <segment id="136">Não sei</segment>
+    <segment id="137">sese de fato chegaremos lá</segment>
+    <segment id="138">, masmas acredito que certamente conseguiremos fazer o indivíduo viver melhor pelo mesmo período</segment>
+    <segment id="139">, ou seja</segment>
+    <segment id="140">, promover a melhora na qualidade de vida.</segment>
+    <segment id="141">Sabemos que há determinadas doenças associadas ao envelhecimento</segment>
+    <segment id="142">, como</segment>
+    <segment id="143">como Parkinson</segment>
+    <segment id="144">, Alzheimer e distúrbios cardiovasculares.</segment>
+    <segment id="145">Nesse sentido</segment>
+    <segment id="146">, a compreensão das respostas compensatórias e deletérias de mitocôndrias associadas ao envelhecimento servirá de alicerce para o desenvolvimento de terapias que atuem no cerne dessas doenças.</segment>
+    <segment id="147">Com este trabalho colocamos mais uma peça nesse quebra-cabeça.</segment>
+    <segment id="148">"</segment>
+    <segment id="149">O pesquisador ressalta a possibilidade de modulação do sistema imune inato</segment>
+    <segment id="150">, o que poderia contribuir</segment>
+    <segment id="151">para que</segment>
+    <segment id="152">para que o indivíduo tenha um envelhecimento mais saudável.</segment>
+    <segment id="153">"</segment>
+    <segment id="154">O desafio agora é validar isso ao longo da evolução.</segment>
+    <segment id="155">Nosso modelo experimental vive 20 dias e a gente vive 80 anos.</segment>
+    <segment id="156">Então, agora</segment>
+    <segment id="157">, temos de verificar qual é o impacto de nossa descoberta para o ser humano.</segment>
+    <segment id="158">"</segment>
+    <segment id="159">O artigo "Mild mitochondrial impairment enhances innate immunity and longevity through ATFS-1 and p38 signaling</segment>
+    <segment id="160">" pode ser lido online.</segment>
+  </rst>
+</analysis>

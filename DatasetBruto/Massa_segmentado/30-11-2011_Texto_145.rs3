@@ -1,0 +1,101 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O mistério da explosão de raios gama do Natal de 2010
+RIO - No Natal do ano passado</segment>
+    <segment id="2">, o observatório espacial Swift</segment>
+    <segment id="3">, da Nasa</segment>
+    <segment id="4">, detectou um forte explosão de raios gama</segment>
+    <segment id="5">, uma das maiores já registradas</segment>
+    <segment id="6">, em um região aparentemente vazia do espaço</segment>
+    <segment id="7">, na direção da constelação de Andrômeda</segment>
+    <segment id="8">Desde então</segment>
+    <segment id="9">, as causas do poderoso fenômeno permanecem um mistério para os cientistas</segment>
+    <segment id="10">, masmas agora dois grupos de pesquisadores sugerem possíveis explicações em artigos publicados na edição desta semana da revista "Nature".</segment>
+    <segment id="11">As explosões de raios gama (GRB</segment>
+    <segment id="12">, na sigla em inglês) estão entre as mais intensas fontes emissoras de energia conhecidas no Universo.</segment>
+    <segment id="13">Embora cada uma seja considerada um evento único</segment>
+    <segment id="14">, as teorias atuais as dividem em dois tipos básicos: de longa e de curta duração.</segment>
+    <segment id="15">As longas duram algo entre dois segundos e alguns minutos e seriam causadas por hipernovas</segment>
+    <segment id="16">, um tipo incomum de supernova em que uma estrela gigantesca</segment>
+    <segment id="17">, com centenas de vezes a massa do Sol</segment>
+    <segment id="18">, entra em colapso e explode</segment>
+    <segment id="19">, lançando jatos de partículas em direções opostas e deixando para traz um buraco negro.</segment>
+    <segment id="20">Se um destes jatos está direcionado para a Terra</segment>
+    <segment id="21">, ele é detectado</segment>
+    <segment id="22">comocomo uma GRB longa.</segment>
+    <segment id="23">Já as explosões curtas duram menos que dois segundos e seriam provocadas por sistemas binários em que duas estrelas de nêutrons orbitam uma a outra bem próximas.</segment>
+    <segment id="24">Estes sistemas geram ondas gravitacionais e as estrelas eventualmente</segment>
+    <segment id="25">sese fundem e transformam em um buraco negro</segment>
+    <segment id="26">, produzindo jatos de energia detectáveis da Terra.</segment>
+    <segment id="27">Essas duas teorias</segment>
+    <segment id="28">, no entanto</segment>
+    <segment id="29">, não se</segment>
+    <segment id="30">se encaixam na explosão do Natal passado</segment>
+    <segment id="31">, batizada GRB 101225A.</segment>
+    <segment id="32">Nela, a duração excedeu muito os limites conhecidos</segment>
+    <segment id="33">, "brilhando" por pelo menos meia hora</segment>
+    <segment id="34">, e o eco de raios-x que normalmente</segment>
+    <segment id="35">sese segue a essas explosões desapareceu muito mais rápido que o usual.</segment>
+    <segment id="36">Além disso</segment>
+    <segment id="37">, o espectro de energia do eco da GRB 101225A mostrava as características de um plasma no qual os elétrons atingiram um estado de equilíbrio tal que ele pode ser classificado</segment>
+    <segment id="38">comocomo tendo uma "temperatura".</segment>
+    <segment id="39">Em geral</segment>
+    <segment id="40">, os espectros de energia das explosões de raios gama e seus ecos de raios-x seguem leis de potência que descrevem a colisão de materiais em altas velocidades</segment>
+    <segment id="41">, como</segment>
+    <segment id="42">como seu impacto no ambiente circundante.</segment>
+    <segment id="43">Segundo Sergio Campana</segment>
+    <segment id="44">, do Observatório Astronômico de Brera</segment>
+    <segment id="45">, na Itália</segment>
+    <segment id="46">, e colegas</segment>
+    <segment id="47">, a explosão do Natal de 2010 teria sido provocada pelo impacto de um cometa ou um corpo celeste menor em uma estrela de nêutrons.</segment>
+    <segment id="48">Ao sese aproximar da estrela</segment>
+    <segment id="49">, o objeto provoca marés no sistema conjunto e eventualmente é despedaçado</segment>
+    <segment id="50">, gerando uma explosões de raios gama com vários picos tão próximos que parecem ser um único evento.</segment>
+    <segment id="51">Já Christina Thöne</segment>
+    <segment id="52">, do Instituto de Astrofísica da Andaluzia</segment>
+    <segment id="53">, na Espanha</segment>
+    <segment id="54">, e sua equipe acreditam em uma explicação mais prosaica.</segment>
+    <segment id="55">Nela, a explosão teria sido causada por uma supernova muito tênue</segment>
+    <segment id="56">, possivelmente resultante da fusão entre uma estrela de nêutrons e uma supergigante de hélio.</segment>
+    <segment id="57">Este sistema binário</segment>
+    <segment id="58">sese desenvolveria em fases</segment>
+    <segment id="59">, nas quais a estrela de hélio gradualmente transferiria seu material para a companheira</segment>
+    <segment id="60">, expandindo suas camadas externas até cobrir todo o conjunto em um enorme envoltório de gás.</segment>
+    <segment id="61">Então, a estrela de nêutrons e o núcleo da gigante de hélio</segment>
+    <segment id="62">sese fundiriam para formar um buraco negro ou um tipo especial de estrela de nêutrons altamente magnetizado conhecido</segment>
+    <segment id="63">comocomo magnetar.</segment>
+    <segment id="64">Essa fusão geraria a explosão de raios gama que eventualmente escaparia do envelope de gás comum.</segment>
+    <segment id="65">Ambas hipóteses são plausíveis e explicam muitos dos dados observados</segment>
+    <segment id="66">, masmas as duas não têm uma prova que seria considerada definitiva: a determinação da distância exata da Terra da explosão.</segment>
+    <segment id="67">O único objeto oticamente visível na posição onde ela aconteceu no céu é extremamente tênue e aparece nos telescópios</segment>
+    <segment id="68">comocomo um único ponto.</segment>
+    <segment id="69">Assim, até agora as observações subsequentes não foram capazes de indicar a galáxia onde ela aconteceu</segment>
+    <segment id="70">, podendo ser tanto em um braço da Via Láctea chamado Perseu quanto em um galáxia satélite da nossa vizinha Andrômeda.</segment>
+    <segment id="71">Se a explosão aconteceu mesmo em outra galáxia</segment>
+    <segment id="72">, como</segment>
+    <segment id="73">como acreditam Thöne e equipe</segment>
+    <segment id="74">, seria a mais tênue galáxia a hospedar um fenômeno do tipo até agora.</segment>
+  </rst>
+</analysis>

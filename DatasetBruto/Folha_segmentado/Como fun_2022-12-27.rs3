@@ -1,0 +1,121 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Tesouro Nacional lançou nesta terça-feira (27) o RendA+</segment>
+    <segment id="2">, um título público voltado a quem deseja poupar recursos para aposentadoria individual.</segment>
+    <segment id="3">O produto será atrelado à inflação mais uma taxa de juros real e permite a acumulação dos valores ao longo dos anos para recebê-los no futuro</segment>
+    <segment id="4">comocomo um benefício mensal.</segment>
+    <segment id="5">Entenda</segment>
+    <segment id="6">comocomo funciona o Tesouro RendA+ e</segment>
+    <segment id="7">comocomo investir na nova modalidade:</segment>
+    <segment id="8">Tire suas dúvidasO que é o Tesouro RendA+?O que preciso saber para investir?O que é o período de acumulação?O que é o período de conversão?Como faço para investir?Posso aplicar os recursos via</segment>
+    <segment id="9">Pix?Posso resgatar o Tesouro RendA+ antes de concluir o período de acumulação?Investir no Tesouro RendA+ substitui a contribuição ao INSS?Cédulas de real - Gabriel Cabral - 21.ago.2019/FolhapressO que é o Tesouro RendA+?</segment>
+    <segment id="10">É um novo título público lançado pelo Tesouro Nacional</segment>
+    <segment id="11">, com garantia soberana</segment>
+    <segment id="12">, voltado para quem deseja poupar para a aposentadoria.</segment>
+    <segment id="13">A lógica é aplicar os recursos durante certo período e</segment>
+    <segment id="14">, depois</segment>
+    <segment id="15">, receber um valor mensal por 20 anos.</segment>
+    <segment id="16">O que preciso saber para investir?</segment>
+    <segment id="17">O interessado precisará responder basicamente a duas perguntas: quando quer</segment>
+    <segment id="18">sese aposentar e quanto quer receber mensalmente no futuro.</segment>
+    <segment id="19">O simulador do Tesouro indicará quantos títulos precisa comprar para atingir o objetivo e</segment>
+    <segment id="20">, consequentemente</segment>
+    <segment id="21">, quanto será preciso investir ao longo dos anos.</segment>
+    <segment id="22">Em relação ao prazo</segment>
+    <segment id="23">, a oferta inicial prevê oito opções de data de conversão (quando a pessoa começa a receber a renda dos investimentos):</segment>
+    <segment id="24">2030, 2035</segment>
+    <segment id="25">, 2040</segment>
+    <segment id="26">, 2045</segment>
+    <segment id="27">, 2050</segment>
+    <segment id="28">, 2055</segment>
+    <segment id="29">, 2060 e 2065.</segment>
+    <segment id="30">Ou seja</segment>
+    <segment id="31">, é possível investir ao longo de até 40 anos.</segment>
+    <segment id="32">Em relação ao valor</segment>
+    <segment id="33">, a aplicação mínima fica em torno de R$ 30.</segment>
+    <segment id="34">Não há um piso para a renda a ser auferida no futuro.</segment>
+    <segment id="35">O que é o período de acumulação?</segment>
+    <segment id="36">É o período em que o poupador realiza a aplicação dos recursos.</segment>
+    <segment id="37">O título fica disponível para novos aportes até a véspera da data de conversão.</segment>
+    <segment id="38">O que é o período de conversão?</segment>
+    <segment id="39">A partir da data de conversão</segment>
+    <segment id="40">, explicitada na própria denominação do título</segment>
+    <segment id="41">, o poupador passa a receber a renda mensal obtida a partir dos aportes e dos rendimentos.</segment>
+    <segment id="42">Esse valor passa então a ser corrigido mensalmente pela inflação</segment>
+    <segment id="43">, para preservar o poder de compra</segment>
+    <segment id="44">, até o fim dos 20 anos de pagamentos previstos na modalidade.</segment>
+    <segment id="45">Como faço para investir?</segment>
+    <segment id="46">O interessado pode fazer o cadastro simplificado no Portal do Investidor</segment>
+    <segment id="47">, ou buscar diretamente a intermediação de um banco ou corretora.</segment>
+    <segment id="48">Posso aplicar os recursos via</segment>
+    <segment id="49">Pix?</segment>
+    <segment id="50">Sim.</segment>
+    <segment id="51">No entanto</segment>
+    <segment id="52">, essa modalidade no momento está disponível apenas para investidores que realizarem o cadastro simplificado.</segment>
+    <segment id="53">Outras instituições financeiras poderão aderir a esse sistema no futuro.</segment>
+    <segment id="54">Posso resgatar o Tesouro RendA+ antes de concluir o período de acumulação?</segment>
+    <segment id="55">Sim, é possível</segment>
+    <segment id="56">sese desfazer dos títulos antes do prazo previsto</segment>
+    <segment id="57">, desde que respeitada a carência de 60 dias após a compra dos papéis.</segment>
+    <segment id="58">A opção é útil para o</segment>
+    <segment id="59">casocaso de alguma necessidade emergencial</segment>
+    <segment id="60">, ou desinteresse em manter o investimento</segment>
+    <segment id="61">, embora</segment>
+    <segment id="62">embora essas razões não sejam pré-requisito para a venda —depende apenas da vontade do investidor.</segment>
+    <segment id="63">No entanto</segment>
+    <segment id="64">, é preciso atenção</segment>
+    <segment id="65">, pois</segment>
+    <segment id="66">pois os títulos estão sujeitos a marcação de mercado</segment>
+    <segment id="67">, isto é</segment>
+    <segment id="68">, o preço da venda oscila conforme as condições do mercado.</segment>
+    <segment id="69">Por isso</segment>
+    <segment id="70">, pode não ser vantajoso resgatá-lo antes da hora.</segment>
+    <segment id="71">Conheça algumas das principais aplicações da renda fixa</segment>
+    <segment id="72">Mais    novamente         de   de  de  representando um  Investir no Tesouro RendA+ substitui a contribuição ao INSS?</segment>
+    <segment id="73">Não.</segment>
+    <segment id="74">A Previdência pública</segment>
+    <segment id="75">, operacionalizada via INSS</segment>
+    <segment id="76">, possui cobertura mais ampla</segment>
+    <segment id="77">, além de contribuições do empregador (no</segment>
+    <segment id="78">casocaso de trabalhador com carteira assinada) e garantia do governo de que os benefícios serão pagos e corrigidos.</segment>
+    <segment id="79">Por isso</segment>
+    <segment id="80">, uma aposentadoria pelo piso (um salário mínimo) exige contribuições relativamente mais baixas do que seria necessário para obter o mesmo valor com o Tesouro RendA+.</segment>
+    <segment id="81">Além disso</segment>
+    <segment id="82">, a aposentadoria pelo INSS é vitalícia</segment>
+    <segment id="83">, independentemente da longevidade do beneficiário</segment>
+    <segment id="84">, enquanto o novo título do Tesouro prevê o pagamento da renda por um período de 20 anos.</segment>
+    <segment id="85">Por fim</segment>
+    <segment id="86">, a Previdência pública tem um plano de benefícios mais amplo</segment>
+    <segment id="87">, que inclui aposentadoria por idade e benefícios de risco (</segment>
+    <segment id="88">comocomo auxílio por incapacidade temporária</segment>
+    <segment id="89">, pensão por morte</segment>
+    <segment id="90">, salário maternidade</segment>
+    <segment id="91">, entre outros)</segment>
+    <segment id="92">, enquanto o Tesouro RendA+ só garante uma aposentadoria extra.</segment>
+    <segment id="93">Por esses motivos</segment>
+    <segment id="94">, o Tesouro afirma que o novo produto é uma forma de complementar os benefícios futuros</segment>
+    <segment id="95">, não substitui-los.</segment>
+  </rst>
+</analysis>

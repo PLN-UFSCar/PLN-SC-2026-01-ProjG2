@@ -1,0 +1,119 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Depois de alcançar em 2020 o menor patamar em pelo menos 40 anos</segment>
+    <segment id="2">, o percentual de brasileiros vivendo na extrema pobreza voltou a crescer em 2021 e retornou ao patamar pré-pandemia.</segment>
+    <segment id="3">No ano em que houve a decretação da crise sanitária e a implementação do Auxílio Emergencial de R$ 600</segment>
+    <segment id="4">, a parcela de brasileiros vivendo com menos de US$ 2</segment>
+    <segment id="5">,15 por dia caiu para 1</segment>
+    <segment id="6">,95% da população</segment>
+    <segment id="7">, segundo dados do Banco Mundial.</segment>
+    <segment id="8">Esse é o menor percentual já registrado na série histórica da instituição</segment>
+    <segment id="9">, iniciada em 1981.</segment>
+    <segment id="10">A dona de casa Nilma Andrade</segment>
+    <segment id="11">, 61, beneficiária do programa Auxilio Brasil</segment>
+    <segment id="12">, posa para uma foto com seu cartão em sua casa</segment>
+    <segment id="13">, em Porto Alegre (RS) - Diego Vara-25.out.2022/ReutersUm levantamento do CLP (Centro de Liderança Pública) mostra que a melhora</segment>
+    <segment id="14">, no entanto</segment>
+    <segment id="15">, foi revertida no ano seguinte</segment>
+    <segment id="16">, com o fim do pagamento do benefício.</segment>
+    <segment id="17">De acordo com o pesquisador Daniel Duque</segment>
+    <segment id="18">, autor do trabalho</segment>
+    <segment id="19">, as transferências sociais em 2021 não foram suficientes para compensar a queda nos rendimentos do trabalho dos mais vulneráveis.</segment>
+    <segment id="20">Com base nos dados do IBGE (Instituto Brasileiro de Geografia e Estatística)</segment>
+    <segment id="21">, ele calcula que a extrema pobreza estava em 7</segment>
+    <segment id="22">,9% no final de 2019</segment>
+    <segment id="23">, caiu para 4</segment>
+    <segment id="24">,2% no terceiro trimestre de 2020 e subiu para 8</segment>
+    <segment id="25">,6% no final de 2021.</segment>
+    <segment id="26">O dado mais recente representa 18</segment>
+    <segment id="27">,2 milhões de pessoas.</segment>
+    <segment id="28">"</segment>
+    <segment id="29">A pobreza no Brasil</segment>
+    <segment id="30">, apesar de menor em 2020</segment>
+    <segment id="31">, devido ao Auxílio Emergencial</segment>
+    <segment id="32">, registrou reversão no ano seguinte</segment>
+    <segment id="33">, com níveis acima do período anterior à pandemia"</segment>
+    <segment id="34">, afirma o pesquisador.</segment>
+    <segment id="35">A diferença entre os números do pesquisador e os do Banco Mundial para um mesmo período é explicada pela inclusão</segment>
+    <segment id="36">, feita pela instituição multilateral</segment>
+    <segment id="37">, de uma estimativa de aluguel implícito para quem mora em imóvel próprio</segment>
+    <segment id="38">, o que é uma renda não monetária.</segment>
+    <segment id="39">Com isso</segment>
+    <segment id="40">, os números do banco mostram uma situação melhor</segment>
+    <segment id="41">, embora</segment>
+    <segment id="42">embora a tendência seja a mesma.</segment>
+    <segment id="43">Nos dois casos</segment>
+    <segment id="44">, é considerado o mesmo valor para traçar a linha da extrema pobreza</segment>
+    <segment id="45">, de US$ 2</segment>
+    <segment id="46">,15 por dia (cerca de R$ 11 ao câmbio atual).</segment>
+    <segment id="47">Desde setembro</segment>
+    <segment id="48">, o Banco Mundial passou a adotar esse limite para a faixa de extrema pobreza</segment>
+    <segment id="49">, em substituição aos US$ 1</segment>
+    <segment id="50">,90 usados anteriormente.</segment>
+    <segment id="51">Em números totais</segment>
+    <segment id="52">, os dados do Banco Mundial mostram redução de 11</segment>
+    <segment id="53">,37 milhões em 2019 para 4</segment>
+    <segment id="54">,14 milhões de pessoas em 2020 abaixo dessa linha.</segment>
+    <segment id="55">Ou seja: 7</segment>
+    <segment id="56">,23 milhões de pessoas saíram dessa situação no primeiro ano da pandemia.</segment>
+    <segment id="57">O Auxílio Emergencial chegou a contemplar 68 milhões de brasileiros</segment>
+    <segment id="58">, com a distribuição de R$ 355 bilhões</segment>
+    <segment id="59">, de acordo com o Ministério da Cidadania.</segment>
+    <segment id="60">A suspensão dos pagamentos em janeiro de 2021 já impactou a renda dos brasileiros</segment>
+    <segment id="61">, com o indicador de extrema pobreza subindo a 11</segment>
+    <segment id="62">,4% no primeiro trimestre daquele ano.</segment>
+    <segment id="63">O benefício voltou a ser pago até outubro</segment>
+    <segment id="64">, mês em que contemplou 21 milhões de pessoas</segment>
+    <segment id="65">, com valor médio de R$ 250.</segment>
+    <segment id="66">Em novembro do ano passado</segment>
+    <segment id="67">, foi implantado o Auxílio Brasil de R$ 400</segment>
+    <segment id="68">, em substituição ao Bolsa Família.</segment>
+    <segment id="69">Em outubro deste ano</segment>
+    <segment id="70">, esse programa foi elevado a R$ 600</segment>
+    <segment id="71">, recebidos por 21 milhões de pessoas.</segment>
+    <segment id="72">Ainda de acordo com o trabalho do CLP</segment>
+    <segment id="73">, 28% dos brasileiros estão abaixo da linha de pobreza de US$ 5</segment>
+    <segment id="74">,50 (cerca de R$ 30 por dia) e 14</segment>
+    <segment id="75">,5% abaixo da linha intermediária de US$ 3</segment>
+    <segment id="76">,20 (cerca de R$ 16 por dia).</segment>
+    <segment id="77">Combate à pobreza em 2023</segment>
+    <segment id="78">Duque afirma que</segment>
+    <segment id="79">, apesar da melhora recente no mercado de trabalho</segment>
+    <segment id="80">, o cenário para 2023 é de preocupação.</segment>
+    <segment id="81">Ele cita</segment>
+    <segment id="82">, por exemplo</segment>
+    <segment id="83">, a desaceleração na geração de emprego e o formato do Auxílio Brasil</segment>
+    <segment id="84">, que é menos eficiente e eficaz do que o antigo Bolsa Família.</segment>
+    <segment id="85">Uma das diferenças é o pagamento a todos os beneficiários do mesmo valor</segment>
+    <segment id="86">, independentemente do tamanho da família.</segment>
+    <segment id="87">Para ele</segment>
+    <segment id="88">, um melhor desenho inclui um valor menor básico com complementação para superação da extrema pobreza e aplicado ao total de crianças no domicílio.</segment>
+    <segment id="89">Ele também defende um mecanismo de reajuste regular desses valores</segment>
+    <segment id="90">, preferencialmente ligado à variação no preço dos alimentos.</segment>
+    <segment id="91">Atualmente</segment>
+    <segment id="92">, o presidente eleito Luiz Inácio Lula da Silva (PT) tenta encontrar uma solução para garantir a manutenção do auxílio em R$ 600.</segment>
+    <segment id="93">Fome pra valerMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

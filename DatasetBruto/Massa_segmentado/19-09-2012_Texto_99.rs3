@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Que biquinÃ£o Ã© este?</segment>
+    <segment id="2">Mais parece um cinta para modelar o corpo
+Giovanna Antonelli foi ontem Ã  praia da Barra da Tijuca</segment>
+    <segment id="3">, no Rio de Janeiro</segment>
+    <segment id="4">, com as filhas gÃªmeas</segment>
+    <segment id="5">, Sofia e AntÃ´nia.</segment>
+    <segment id="6">A atriz</segment>
+    <segment id="7">, que estÃ¡ pegando pesado nos exercÃ­cios para viver uma delegada na novela "</segment>
+    <segment id="8">Salve Jorge"</segment>
+    <segment id="9">, escolheu um biquÃ­ni muito estranho para</segment>
+    <segment id="10">sese bronzear.</segment>
+    <segment id="11">A parte de baixo era bem grande e ainda tinha cintura alta.</segment>
+    <segment id="12">Mais parecia um cinta para modelar o corpo.</segment>
+  </rst>
+</analysis>

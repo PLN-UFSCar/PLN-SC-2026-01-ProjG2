@@ -1,0 +1,58 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um ônibus invadiu uma casa na zona leste de São Paulo na madrugada desta sexta-feira (20)</segment>
+    <segment id="2">, após o motorista passar mal.</segment>
+    <segment id="3">O acidente ocorreu na rua José Antonio Fontes</segment>
+    <segment id="4">, na Vila Tolstói</segment>
+    <segment id="5">, zona leste.</segment>
+    <segment id="6">Os moradores e vizinhos acordaram assustados com a força do impacto e barulho.</segment>
+    <segment id="7">O coletivo da Transunião</segment>
+    <segment id="8">, faz a linha</segment>
+    <segment id="9">Vl.</segment>
+    <segment id="10">Industrial – Metrô Ana Rosa</segment>
+    <segment id="11">, e estava sentido bairro.</segment>
+    <segment id="12">Ônibus invadiu uma casa na Vila Tolstói</segment>
+    <segment id="13">, zona leste de São Paulo - Reprodução/TV GloboNenhum morador da residência ficou ferido no acidente.</segment>
+    <segment id="14">De acordo com a Polícia Militar</segment>
+    <segment id="15">, o motorista passou mal e invadiu uma residência</segment>
+    <segment id="16">, derrubando parte do muro e arrancando o portão.</segment>
+    <segment id="17">Um carro que estava na garagem também foi atingido.</segment>
+    <segment id="18">Viaturas da PM e do Corpo de Bombeiros foram enviadas ao local para atender a ocorrência.</segment>
+    <segment id="19">O motorista foi socorrido ao PS Sapopemba</segment>
+    <segment id="20">, masmas não resistiu e morreu.</segment>
+    <segment id="21">Nem a identidade nem o nome foram divulgados.</segment>
+    <segment id="22">A SPTrans informou que o Programa de Redução de Acidentes de Transporte está apurando a ocorrência</segment>
+    <segment id="23">, envolvendo o ônibus de prefixo 5 6315</segment>
+    <segment id="24">, da linha 476G/41 Vl.</segment>
+    <segment id="25">Industrial – Metrô Ana Rosa</segment>
+    <segment id="26">, da Transunião</segment>
+    <segment id="27">, na Rua José Antônio Fontes</segment>
+    <segment id="28">, 800, Vila Tolstoi</segment>
+    <segment id="29">, no sentido bairro.</segment>
+    <segment id="30">Um Boletim de Ocorrência foi registrado pela Polícia Militar.</segment>
+    <segment id="31">A casa deve passar por vistoria da Defesa Civil para apontar a extensão dos danos e</segment>
+    <segment id="32">sese alguma parte estrutural foi atingida.</segment>
+  </rst>
+</analysis>

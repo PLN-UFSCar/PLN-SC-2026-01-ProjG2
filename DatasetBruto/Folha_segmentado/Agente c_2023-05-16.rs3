@@ -1,0 +1,131 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Reportagem da BBC News Brasil reproduzida nesta Folha ("</segment>
+    <segment id="2">O que o SUS está ensinando ao serviço de saúde britânico"</segment>
+    <segment id="3">, 10/5) e texto da coluna</segment>
+    <segment id="4">Toda Mídia ("Com britânicos 'mais pobres'</segment>
+    <segment id="5">, NHS agora aprende com o SUS"</segment>
+    <segment id="6">, 9/5) noticiaram que nossos esforços para traduzir o papel do agente comunitário de saúde (ACS) do SUS para o NHS do Reino Unido</segment>
+    <segment id="7">sese deve ao fato de que este último está agora tão pobre que precisa adotar modelos de países pobres —</segment>
+    <segment id="8">comocomo o Brasil.</segment>
+    <segment id="9">Essa realidade</segment>
+    <segment id="10">, porém</segment>
+    <segment id="11">porém, levanta muitas questões.</segment>
+    <segment id="12">A primeira</segment>
+    <segment id="13">, e mais importante</segment>
+    <segment id="14">, é que ela é imprecisa.</segment>
+    <segment id="15">E posso dizer isso com alguma autoridade</segment>
+    <segment id="16">porque</segment>
+    <segment id="17">porque</segment>
+    <segment id="18">, nos últimos 19 anos</segment>
+    <segment id="19">, tenho promovido e defendido a adoção pelo Reino Unido da função de ACS</segment>
+    <segment id="20">comocomo ocorre no Brasil —desde que fui médico de família no sistema brasileiro de 1999 a 2003.</segment>
+    <segment id="21">Procuramos (por muitos anos) aprender com o SUS e</segment>
+    <segment id="22">, especificamente</segment>
+    <segment id="23">, com o sistema de agentes comunitários de saúde em escala.</segment>
+    <segment id="24">Simplesmente</segment>
+    <segment id="25">porque</segment>
+    <segment id="26">porque é uma solução de força de trabalho com bom custo-benefício</segment>
+    <segment id="27">, baseada em evidências para sistemas de atenção primária que buscam atender às necessidades e demandas da população —basicamente em todos os países do mundo.</segment>
+    <segment id="28">Logotipo do sistema de saúde público britânico em hospital de Londres - Neil Hall/Reuters - REUTERSE</segment>
+    <segment id="29">comocomo sabemos que essa é uma solução efetiva e baseada em evidências?</segment>
+    <segment id="30">Bem, a equipe do professor Davide Rasella</segment>
+    <segment id="31">, da Universidade Federal da Bahia</segment>
+    <segment id="32">, publicou um estudo no British Medical Journal em 2014 que mostrou</segment>
+    <segment id="33">, de forma muito convincente</segment>
+    <segment id="34">, que os moradores de municípios que dispunham de uma alta cobertura (acima de 80%) de ACSs tinham 34% menos probabilidade de sofrer mortes por doenças cardiovasculares (DCV) em comparação com as cidades que não contavam com esse tipo de atendimento.</segment>
+    <segment id="35">Se os ACSs fossem uma pílula</segment>
+    <segment id="36">, todos nós estaríamos tomando.</segment>
+    <segment id="37">Esses resultados são melhores do que tomar estatinas!</segment>
+    <segment id="38">E não se</segment>
+    <segment id="39">se trata apenas da mortalidade por DCV.</segment>
+    <segment id="40">James Macinko</segment>
+    <segment id="41">, professor da Universidade da Califórnia e um dos maiores especialistas em políticas de saúde do Brasil</segment>
+    <segment id="42">, publicou vários estudos que mostram o mesmo em relação a hospitalizações</segment>
+    <segment id="43">, atendimentos em departamentos de emergência</segment>
+    <segment id="44">, mortalidade infantil e assim por diante.</segment>
+    <segment id="45">Onde quer que haja uma boa cobertura de ACSs no Brasil</segment>
+    <segment id="46">, os resultados de saúde da população melhoram.</segment>
+    <segment id="47">A segunda questão essencial diz respeito à caracterização de que tanto o Reino Unido quanto o Brasil são "pobres".</segment>
+    <segment id="48">Sim, o Reino Unido</segment>
+    <segment id="49">, assim</segment>
+    <segment id="50">comocomo a maioria dos outros países</segment>
+    <segment id="51">, tem enfrentado alguns choques econômicos e fiscais desafiadores ultimamente.</segment>
+    <segment id="52">O brexit</segment>
+    <segment id="53">, a Covid-19</segment>
+    <segment id="54">, a Guerra na Ucrânia e o aumento da inflação estão contribuindo para um delicado ato de equilíbrio com o erário público.</segment>
+    <segment id="55">Sistema Único de Saúde (SUS)Mais    novamente         de   de  de  representando um  No entanto</segment>
+    <segment id="56">, a necessidade de equilibrar os gastos para obter o máximo dos fundos públicos está sempre presente em todos os países.</segment>
+    <segment id="57">Com o Reino Unido não é diferente.</segment>
+    <segment id="58">Estamos muito longe de sermos "pobres"</segment>
+    <segment id="59">, masmas isso não significa que não possamos ser motivados a adotar modelos de atendimento que vão além e fazem mais e para mais pessoas.</segment>
+    <segment id="60">A ideia de que o Reino Unido está</segment>
+    <segment id="61">sese inspirando no Brasil</segment>
+    <segment id="62">porque</segment>
+    <segment id="63">porque o Brasil é um país pobre também revela uma mentalidade de inferioridade generalizada que</segment>
+    <segment id="64">, francamente</segment>
+    <segment id="65">, é um gol contra espetacular.</segment>
+    <segment id="66">As pessoas gostam de caracterizar e generalizar os países</segment>
+    <segment id="67">comocomo ricos ou pobres</segment>
+    <segment id="68">, masmas essas afirmações simplistas desmentem o fato de que todas as nações têm bolsões de riqueza e de pobreza.</segment>
+    <segment id="69">De qualquer forma</segment>
+    <segment id="70">, algumas das inovações mais importantes</segment>
+    <segment id="71">, de alto valor e acessíveis</segment>
+    <segment id="72">, surgem da necessidade de fazer mais com menos.</segment>
+    <segment id="73">A pobreza é um excelente impulsionador da inovação!</segment>
+    <segment id="74">Portanto</segment>
+    <segment id="75">, nós, no Reino Unido</segment>
+    <segment id="76">, estamos buscando implementar uma função de ACS</segment>
+    <segment id="77">comocomo a que vocês têm no Brasil</segment>
+    <segment id="78">porque</segment>
+    <segment id="79">porque faz sentido para a saúde pública.</segment>
+    <segment id="80">Simples e direto.</segment>
+    <segment id="81">Os ACSs visitam as casas uma vez por mês e conhecem as famílias muito bem.</segment>
+    <segment id="82">Isso significa que eles podem identificar quando alguma situação não está indo bem</segment>
+    <segment id="83">, ajudar na adesão aos medicamentos</segment>
+    <segment id="84">, saber quando alguém está ficando doente ou em risco de contrair uma enfermidade e ajudar a promover estilos de vida saudáveis.</segment>
+    <segment id="85">Com 275 mil agentes comunitários de saúde no Brasil atualmente</segment>
+    <segment id="86">, todos fazendo isso</segment>
+    <segment id="87">, com todas as famílias</segment>
+    <segment id="88">, em todo o país</segment>
+    <segment id="89">, significa que vocês podem identificar melhorias extremamente importantes na saúde da população.</segment>
+    <segment id="90">É algo extraordinário.</segment>
+    <segment id="91">E antes que você</segment>
+    <segment id="92">, leitor</segment>
+    <segment id="93">, pense que os ACSs só seriam úteis para pessoas pobres</segment>
+    <segment id="94">, lembre-</segment>
+    <segment id="95">sese que problemas de saúde</segment>
+    <segment id="96">, de qualquer tipo</segment>
+    <segment id="97">, podem surgir a qualquer momento e para qualquer pessoa.</segment>
+    <segment id="98">Então por que não ter um ACS confiável</segment>
+    <segment id="99">, atencioso e solidário que bata à sua porta e lhe dê a oportunidade de obter ajuda</segment>
+    <segment id="100">casocaso precise?</segment>
+    <segment id="101">Talvez seja hora de o Brasil reconhecer sua fantástica conquista —</segment>
+    <segment id="102">comocomo nós já fizemos.</segment>
+    <segment id="103">Tradução Airton Stein  TENDÊNCIAS / DEBATES</segment>
+    <segment id="104">Os artigos publicados com assinatura não traduzem a opinião do jornal.</segment>
+    <segment id="105">Sua publicação obedece ao propósito de estimular o debate dos problemas brasileiros e mundiais e de refletir as diversas tendências do pensamento contemporâneo.</segment>
+  </rst>
+</analysis>

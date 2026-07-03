@@ -1,0 +1,50 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O rodízio de veículos em São Paulo será suspenso a partir da próxima terça-feira (26).</segment>
+    <segment id="2">A medida fica em vigor até a sexta-feira (5)</segment>
+    <segment id="3">, de acordo com a Secretaria Municipal de Mobilidade e Trânsito.</segment>
+    <segment id="4">Neste período</segment>
+    <segment id="5">, no entanto</segment>
+    <segment id="6">, continua a valer o rodízio de placas para caminhões e as demais restrições para veículos de grande porte: Zona de Máxima Restrição à Circulação de Caminhões e a Zona de Máxima Restrição ao Fretamento.</segment>
+    <segment id="7">O sistema de rodízio voltará a vigorar a partir da segunda-feira (8).</segment>
+    <segment id="8">A restrição vale para circulação de veículos no chamado Anel Viário da cidade nos períodos da manhã</segment>
+    <segment id="9">, das 7h às 10h</segment>
+    <segment id="10">, e da tarde</segment>
+    <segment id="11">, das 17h às 20h</segment>
+    <segment id="12">, que são considerados horários de picos no trânsito.</segment>
+    <segment id="13">Trânsito carregado no viaduto do Glicério em São Paulo - Danilo Verpa - 3.out.2023/FolhapressDurante os horários do rodízio</segment>
+    <segment id="14">, os veículos ficam impedidos de circular no centro expandido</segment>
+    <segment id="15">, incluindo as vias que delimitam o chamado Minianel Viário</segment>
+    <segment id="16">, formado pelas marginais Tietê e Pinheiros</segment>
+    <segment id="17">, avenidas dos Bandeirantes e Afonso D´Escragnole Taunay</segment>
+    <segment id="18">, Complexo Viário Maria Maluf</segment>
+    <segment id="19">, avenidas Tancredo Neves e Juntas Provisórias</segment>
+    <segment id="20">, viaduto Grande São Paulo e avenidas</segment>
+    <segment id="21">Professor Luiz Ignácio de Anhaia Mello e Salim Farah Maluf.</segment>
+    <segment id="22">Quem desrespeita os locais e horários não permitidos pela regulamentação prevista no Código de Trânsito Brasileiro comete infração de trânsito de nível médio</segment>
+    <segment id="23">, resultando em multa no valor de R$ 130</segment>
+    <segment id="24">,16 e acréscimo de quatro pontos no prontuário do motorista.</segment>
+  </rst>
+</analysis>

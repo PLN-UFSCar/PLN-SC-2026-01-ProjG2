@@ -1,0 +1,136 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A América Latina deve manter o ritmo de crescimento baixo nos próximos anos</segment>
+    <segment id="2">, avalia um relatório do Banco Mundial divulgado nesta quinta (7).</segment>
+    <segment id="3">A expectativa da entidade é que a economia da região</segment>
+    <segment id="4">, incluindo o Caribe</segment>
+    <segment id="5">, cresça 2</segment>
+    <segment id="6">,3% em 2022</segment>
+    <segment id="7">, 2,2% em 2023 e 2</segment>
+    <segment id="8">,4% em 2024.</segment>
+    <segment id="9">Para o Brasil</segment>
+    <segment id="10">, o banco prevê altas abaixo da média do continente</segment>
+    <segment id="11">, de 0</segment>
+    <segment id="12">,7% do PIB em 2022</segment>
+    <segment id="13">, 1,3% em 2023 e 2% em 2024.</segment>
+    <segment id="14">O país teve avanço de 4</segment>
+    <segment id="15">,6% em 2021.  "</segment>
+    <segment id="16">O Brasil é um dos países que têm mais dificuldades na recuperação da pandemia</segment>
+    <segment id="17">, talvez em parte</segment>
+    <segment id="18">porque</segment>
+    <segment id="19">porque tenha sido atingido de modo especialmente duro por ela"</segment>
+    <segment id="20">, disse William Maloney</segment>
+    <segment id="21">, economista-chefe do Banco Mundial para a América Latina.</segment>
+    <segment id="22">O país soma 660 mil mortos pela Covid.</segment>
+    <segment id="23">Morro do Cantagalo</segment>
+    <segment id="24">, em Copacabana</segment>
+    <segment id="25">, Rio de Janeiro - William F. Santos/ UnsplashMaloney pontuou que a ameaça de indisponibilidade de fertilizantes</segment>
+    <segment id="26">, trazida pelas sanções à Rússia</segment>
+    <segment id="27">, e problemas nas cadeias de valor globais podem dificultar ainda mais a recuperação do país.</segment>
+    <segment id="28">Outras grandes economias da região também devem ter crescimento modesto</segment>
+    <segment id="29">, como</segment>
+    <segment id="30">como Argentina (3</segment>
+    <segment id="31">,6%), Chile (1</segment>
+    <segment id="32">,9%) e México (2</segment>
+    <segment id="33">,1%).</segment>
+    <segment id="34">A Guiana deve ter o maior desenvolvimento da região</segment>
+    <segment id="35">, com taxa de 47</segment>
+    <segment id="36">,9% em 2022</segment>
+    <segment id="37">, por conta do descobrimento recente de reservas de petróleo.</segment>
+    <segment id="38">O Banco Mundial não fez estimativas para a Venezuela.</segment>
+    <segment id="39">As consequências da guerra na Ucrânia</segment>
+    <segment id="40">, como</segment>
+    <segment id="41">como o aumento do preço de combustíveis</segment>
+    <segment id="42">, levaram o banco a baixar a previsão de crescimento da região em 0</segment>
+    <segment id="43">,4%.</segment>
+    <segment id="44">A Ucrânia é um grande produtor de grãos e as restrições às exportações russas de petróleo e metais provavelmente aumentarão os preços das commodities nos próximos anos.</segment>
+    <segment id="45">Apesar disso</segment>
+    <segment id="46">, os países latino-americanos podem ter dificuldades para aproveitar esse boom.</segment>
+    <segment id="47">"</segment>
+    <segment id="48">Embora os preços das commodities continuem fortes</segment>
+    <segment id="49">, o crescimento da China e das economias avançadas [</segment>
+    <segment id="50">comocomo da Europa] está mais lento do que antes da pandemia –o que diminui a demanda por exportações da região– e as taxas de juros globais estão subindo para níveis de longo prazo"</segment>
+    <segment id="51">, aponta o relatório.</segment>
+    <segment id="52">Assim, o crescimento regional deve seguir aquém do necessário para amenizar a desigualdade social.</segment>
+    <segment id="53">"</segment>
+    <segment id="54">De 2010 até o início de 2020</segment>
+    <segment id="55">, a ALC (América Latina e Caribe) cresceu 2</segment>
+    <segment id="56">,2% ao ano enquanto o mundo crescia ao ritmo de 3</segment>
+    <segment id="57">,1%.</segment>
+    <segment id="58">As previsões para 2022 e 2023 são igualmente desanimadoras e insuficientes para aliviar a pobreza ou dirimir as tensões sociais"</segment>
+    <segment id="59">, compara o relatório.</segment>
+    <segment id="60">O banco avalia que a taxa de pobreza na região (excluindo o Brasil) subiu para 27</segment>
+    <segment id="61">,5% em 2021</segment>
+    <segment id="62">, contra 25</segment>
+    <segment id="63">,6% antes da pandemia.</segment>
+    <segment id="64">E que os efeitos da pandemia podem ser duradouros: a perda de aprendizado dos alunos por causa dos fechamentos de escola pode causar uma perda de renda futura deles de 10% ao longo da vida.</segment>
+    <segment id="65">O relatório aponta que o nível de emprego está perto de voltar ao patamar pré pandemia</segment>
+    <segment id="66">, masmas que há maior presença de trabalhos informais</segment>
+    <segment id="67">, com menor renda e menos proteção social.</segment>
+    <segment id="68">E que a volta ao mercado de trabalho está sendo mais difícil para mulheres</segment>
+    <segment id="69">, jovens e maiores de 54 anos</segment>
+    <segment id="70">, assim</segment>
+    <segment id="71">comocomo para os trabalhadores com menor formação.</segment>
+    <segment id="72">Outros indicadores econômicos geram preocupação</segment>
+    <segment id="73">, como</segment>
+    <segment id="74">como a inflação.</segment>
+    <segment id="75">O Banco Mundial alerta que a elevação de juros para conter a alta de preços traz o risco de frear a recuperação econômica e</segment>
+    <segment id="76">, por isso</segment>
+    <segment id="77">, precisa ser feita de modo preciso.</segment>
+    <segment id="78">Outra trava para a recuperação é o aumento da dívida pública</segment>
+    <segment id="79">, que tem ficado em torno de 73% do PIB.</segment>
+    <segment id="80">Esta alta "continuará freando quaisquer grandes investimentos em capital ou em aumento da produtividade"</segment>
+    <segment id="81">, considera a entidade.</segment>
+    <segment id="82">Como solução</segment>
+    <segment id="83">, o banco recomenda "reformas agressivas</segment>
+    <segment id="84">" em educação</segment>
+    <segment id="85">, infraestrutura e inovação</segment>
+    <segment id="86">, de modo a elevar as taxas de crescimento.</segment>
+    <segment id="87">Também indica que os países limitem seus gastos públicos</segment>
+    <segment id="88">, cortando desperdícios e desvios de verbas</segment>
+    <segment id="89">, que consomem 4</segment>
+    <segment id="90">,4% do PIB local.</segment>
+    <segment id="91">Outro caminho que pode potenciar o crescimento da região é aproveitar as possibilidades de transição energética.</segment>
+    <segment id="92">A região contribui só com 8% dos gases de efeito estufa do planeta e tem vários bons exemplos de uso de energias limpas</segment>
+    <segment id="93">, como</segment>
+    <segment id="94">como a hidrelétrica.  "</segment>
+    <segment id="95">A ALC tem tremendas vantagens verdes</segment>
+    <segment id="96">, que oferecem oportunidades para novas indústrias e exportações.</segment>
+    <segment id="97">Tem um vasto potencial em energias renováveis</segment>
+    <segment id="98">, grandes reservas de lítio e cobre</segment>
+    <segment id="99">, usados em tecnologias verdes</segment>
+    <segment id="100">, e um rico capital natural</segment>
+    <segment id="101">, todos de valor cada vez maior em um mundo onde o aquecimento global e a segurança energética estão</segment>
+    <segment id="102">sese movendo para o centro do palco"</segment>
+    <segment id="103">, disse Maloney.</segment>
+    <segment id="104">No entanto</segment>
+    <segment id="105">, as mudanças climáticas trazem riscos</segment>
+    <segment id="106">sese não houver adaptações.</segment>
+    <segment id="107">O banco estima que entre 2</segment>
+    <segment id="108">,5 milhões e 5 milhões de pessoas poderão ser empurradas para a extrema pobreza por problemas gerados por mudanças climáticas</segment>
+    <segment id="109">, como</segment>
+    <segment id="110">como secas prolongadas.</segment>
+  </rst>
+</analysis>

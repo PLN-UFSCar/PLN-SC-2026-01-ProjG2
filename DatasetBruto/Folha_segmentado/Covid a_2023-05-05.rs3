@@ -1,0 +1,133 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">As vacinas contra Covid tiveram sua segurança e eficácia avaliadas em milhares de pessoas em todo o mundo antes de serem aprovadas para uso em larga escala.</segment>
+    <segment id="2">Mesmo assim</segment>
+    <segment id="3">, alguns efeitos raros relacionados à vacinação só podem ser observados depois de aplicadas em milhões de pessoas.</segment>
+    <segment id="4">Um desses efeitos é a miocardite ou pericardite (inflamação do tecido do coração)</segment>
+    <segment id="5">, que foi observada em um número muito pequeno de casos</segment>
+    <segment id="6">, ainda que de relevância médica</segment>
+    <segment id="7">, em jovens e adolescentes do sexo masculino após a vacinação com a Pfizer.</segment>
+    <segment id="8">Vacina contra Covid é aplicada em adolescente na UBS Veleiros em São Paulo - Danilo Verpa - 30.ago.21/FolhapressO mecanismo por trás deste evento adverso ainda era desconhecido</segment>
+    <segment id="9">, masmas um novo estudo</segment>
+    <segment id="10">, conduzido por pesquisadores da Universidade de Yale e publicado nesta sexta (5) na revista especializada Science Immunology</segment>
+    <segment id="11">, acaba de revelar</segment>
+    <segment id="12">comocomo ele ocorre.</segment>
+    <segment id="13">Segundo a pesquisa</segment>
+    <segment id="14">, não foi encontrada uma associação entre a miocardite e os anticorpos induzidos após a vacinação</segment>
+    <segment id="15">, tampouco a uma doença autoimune dos pacientes ou hipersensibilidade aos componentes da vacina.</segment>
+    <segment id="16">O que os pesquisadores observaram foi uma resposta exagerada do próprio organismo</segment>
+    <segment id="17">comocomo resposta a uma inflamação do tecido</segment>
+    <segment id="18">, produzindo mais danos e ele.</segment>
+    <segment id="19">O estudo analisou 23 amostras de sangue de pacientes (87% eram homens) com idade de 13 a 21 anos que tiveram um quadro de miocardite de um a quatro dias após a segunda dose das vacinas de mRNA.</segment>
+    <segment id="20">Os sintomas dessa inflamação foram em geral dores no peito</segment>
+    <segment id="21">, palpitações</segment>
+    <segment id="22">, febre e perda de fôlego</segment>
+    <segment id="23">, entre outros.</segment>
+    <segment id="24">Indivíduos vacinados com duas doses da vacina monovalente e que não apresentaram miocardite foram incluídos</segment>
+    <segment id="25">comocomo controle.</segment>
+    <segment id="26">Nos pacientes com miocardite</segment>
+    <segment id="27">, foi observada uma quantidade elevada de duas moléculas indutoras da resposta imune exacerbada</segment>
+    <segment id="28">, como</segment>
+    <segment id="29">como citocinas e glóbulos brancos</segment>
+    <segment id="30">, agindo de forma a atacar o próprio organismo.</segment>
+    <segment id="31">Estas células de defesa eram em geral citotóxicas ou matadoras naturais (chamadas de NK ou natural killers</segment>
+    <segment id="32">, em inglês)</segment>
+    <segment id="33">, ambas responsáveis por destruir outras células do organismo que estejam infectadas por vírus ou agindo de maneira errática (por exemplo</segment>
+    <segment id="34">, células tumorais)</segment>
+    <segment id="35">.</segment>
+    <segment id="36">Os autores chamaram esse fenômeno de "citocinopatia"</segment>
+    <segment id="37">, ou uma condição causada pelas citocinas</segment>
+    <segment id="38">, como</segment>
+    <segment id="39">como o que ocorria com a tempestade de citocinas no pulmão em alguns casos de infecção pelo Sars-CoV-2.</segment>
+    <segment id="40">Mortes por Covid deixam marcas em pais e filhos de vítimasMais    novamente         de   de  de  representando um  Para Carrie Lucas</segment>
+    <segment id="41">, professora associada de imunologia na Universidade de Yale e autora correspondente do estudo</segment>
+    <segment id="42">, a importância da pesquisa é que</segment>
+    <segment id="43">, embora</segment>
+    <segment id="44">embora fosse muito raro</segment>
+    <segment id="45">, ao vacinar milhões de crianças e adolescentes foi possível observar esse efeito</segment>
+    <segment id="46">, por isso era fundamental entendê-lo melhor. "</segment>
+    <segment id="47">Uma das implicações desse estudo é que não só ele traz explicação do fenômeno</segment>
+    <segment id="48">, masmas também indica para uma redução do risco de miocardite quanto maior o intervalo entre as doses"</segment>
+    <segment id="49">, afirmou.</segment>
+    <segment id="50">Os casos de miocardite foram registrados em geral após a segunda dose da vacina</segment>
+    <segment id="51">, e a pesquisadora sugere que a aplicação das doses seja espaçada para minimizar os possíveis efeitos adversos raros.</segment>
+    <segment id="52">Akiko Iwasaki</segment>
+    <segment id="53">, imunologista e pesquisadora principal do Laboratório de Imunologia da Universidade de Yale e do Instituto Médico Howard Hughes</segment>
+    <segment id="54">, disse que não foram encontrados nas amostras dos pacientes marcadores indicando uma resposta induzida pela proteína S do Spike (ou espícula</segment>
+    <segment id="55">, usada pelo coronavírus para entrar nas células)</segment>
+    <segment id="56">, o que sugeriria uma reação ao antígeno (parte do vírus contra o qual</segment>
+    <segment id="57">sese deseja produzir resposta imune) no corpo.</segment>
+    <segment id="58">A equipe de Iwasaki é uma das mais proeminentes na área de investigação dos atores envolvidos na resposta imunológica</segment>
+    <segment id="59">, incluindo</segment>
+    <segment id="60">comocomo nosso organismo combate novos vírus e patógenos e a resposta gerada por vacinação ou proteção induzida por infecção natural.</segment>
+    <segment id="61">"</segment>
+    <segment id="62">O que observamos foi que a resposta é induzida por linfócitos [glóbulos brancos]</segment>
+    <segment id="63">, e não a um antígeno específico</segment>
+    <segment id="64">, seja ele produzido pela vacinação [anticorpos anti-Spike] ou infecção do Sars-CoV-2"</segment>
+    <segment id="65">, explicou.  Tratamento e incidência</segment>
+    <segment id="66">Como a miocardite foi tratada na maioria dos casos com recuperação total do indivíduo</segment>
+    <segment id="67">, os pesquisadores sugerem que ao menor sinal de dores no peito e palpitações as crianças e adolescentes sejam levados para acompanhamento médico.</segment>
+    <segment id="68">"</segment>
+    <segment id="69">O tratamento é o mesmo que para qualquer outra inflamação</segment>
+    <segment id="70">, masmas é claro que precisamos pensar no uso de corticosteróides a longo prazo</segment>
+    <segment id="71">, então não recomendamos uso de anti-inflamatórios profiláticos para evitar o risco de miocardite"</segment>
+    <segment id="72">, disse a imunologista.</segment>
+    <segment id="73">As autoras reforçam que há um risco mais elevado de miocardite ou pericardite</segment>
+    <segment id="74">comocomo consequência da infecção pelo coronavírus e sequelas da Covid longa</segment>
+    <segment id="75">, masmas isso não foi avaliado no estudo</segment>
+    <segment id="76">, que analisou apenas casos de miocardite em pacientes que não tiveram um quadro prévio de Covid.</segment>
+    <segment id="77">Segundo dados do CDC (Centro de Controle e Prevenção de Doenças) americano</segment>
+    <segment id="78">, entre 2.507.209 e adolescentes de 12 a 17 anos vacinados no país</segment>
+    <segment id="79">, foram identificados 54 casos de miocardite</segment>
+    <segment id="80">, demonstrando ser um evento muito raro da vacina.</segment>
+    <segment id="81">A incidência acumulada de miocardite na população adolescente masculina foi de 36 casos a cada 100 mil pessoas.</segment>
+    <segment id="82">Em relação à infecção por Sars-CoV-2</segment>
+    <segment id="83">, aincidência foi quase o dobro</segment>
+    <segment id="84">, de 65 casos por 100 mil pessoas.</segment>
+    <segment id="85">A pesquisa pode ajudar agora identificar marcadores para a ocorrência desses efeitos colaterais</segment>
+    <segment id="86">, como</segment>
+    <segment id="87">como por exemplo a alta concentração das interleucinas no sangue</segment>
+    <segment id="88">, masmas não existem atualmente exames disponíveis que possam prever essa reação.</segment>
+    <segment id="89">"</segment>
+    <segment id="90">Também não foi possível prever nenhum precursor de miocardite</segment>
+    <segment id="91">, isto é</segment>
+    <segment id="92">, alguma condição prévia que pudesse aumentar o risco de ter esse efeito.</segment>
+    <segment id="93">Até agora</segment>
+    <segment id="94">, podemos apenas especular que existe um fator genético do indivíduo que responde a essa inflamação de maneira exacerbada</segment>
+    <segment id="95">, masmas ainda não conseguimos determinar o gatilho"</segment>
+    <segment id="96">, afirmou.</segment>
+    <segment id="97">Como os casos são extremamente raros e não foram observados novos eventos com os reforços bivalentes</segment>
+    <segment id="98">, os pesquisadores acreditam que os próximos passos devem</segment>
+    <segment id="99">sese concentrar em buscar meios de produzir testes diagnósticos específicos para captar rapidamente o problema e iniciar o tratamento o quanto antes.</segment>
+    <segment id="100">"</segment>
+    <segment id="101">Felizmente</segment>
+    <segment id="102">, os participantes do nosso estudo</segment>
+    <segment id="103">sese recuperaram</segment>
+    <segment id="104">, por isso não temos</segment>
+    <segment id="105">comocomo avaliar os danos causados após a reação</segment>
+    <segment id="106">, masmas identificar esses marcadores pode ajudar na detecção precoce de novos casos"</segment>
+    <segment id="107">, finalizou.</segment>
+  </rst>
+</analysis>

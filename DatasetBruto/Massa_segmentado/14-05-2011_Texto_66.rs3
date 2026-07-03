@@ -1,0 +1,35 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Diretor-gerente do FMI é preso acusado de abuso sexual</segment>
+    <segment id="2">O diretor-gerente do Fundo Monetário Internacional (FMI)</segment>
+    <segment id="3">, Dominique Strauss-Kahn</segment>
+    <segment id="4">, foi preso neste sábado em Nova York</segment>
+    <segment id="5">, acusado de ter abusado sexualmente uma empregada de um hotel da cidade.</segment>
+    <segment id="6">Segundo informações do jornal New York Times</segment>
+    <segment id="7">, Strauss-Kahn</segment>
+    <segment id="8">, possível candidato socialista às eleições presidenciais na França</segment>
+    <segment id="9">, foi detido minutos antes de embarcar para Paris no Aeroporto Internacional John F. Kennedy.</segment>
+  </rst>
+</analysis>

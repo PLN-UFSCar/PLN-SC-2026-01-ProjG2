@@ -1,0 +1,49 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Crime na Capital
+Homem</segment>
+    <segment id="2">Ã</segment>
+    <segment id="3">© preso apÃ³s violentar adolescente no bairro Restinga</segment>
+    <segment id="4">Armado com um revÃ³lver</segment>
+    <segment id="5">, jovem pulou um muro para invadir a casa e estuprar garota de 15 anos</segment>
+    <segment id="6">Carolina Rocha
+carolina.rocha@diariogaucho.com.br</segment>
+    <segment id="7">Um homem de 20 anos foi preso por volta das 19h desta terÃ§a-feira apÃ³s violentar uma adolescente de 15 anos.</segment>
+    <segment id="8">A menina estava em casa</segment>
+    <segment id="9">, no bairro Restinga</segment>
+    <segment id="10">, quando foi surpreendida pelo rapaz</segment>
+    <segment id="11">, que Ã© seu vizinho.</segment>
+    <segment id="12">Armado com um revÃ³lver</segment>
+    <segment id="13">, ele pulou um muro para invadir a casa e estuprar a adolescente</segment>
+    <segment id="14">, por volta das 15h.</segment>
+    <segment id="15">ApÃ³s o abuso</segment>
+    <segment id="16">, a garota procurou ajuda em uma escola prÃ³xima e contou aos professores o que tinha ocorrido.</segment>
+    <segment id="17">A Brigada Militar foi chamada e identificou o homem</segment>
+    <segment id="18">, que foi preso prÃ³ximo de casa por volta das 19h.</segment>
+    <segment id="19">A arma nÃ£o foi localizada.</segment>
+    <segment id="20">A garota foi socorrida no Hospital Presidente Vargas e depois encaminhada para exame de corpo de delito.</segment>
+    <segment id="21">Preso, o rapaz foi levado para a 2Âª DPPA.</segment>
+  </rst>
+</analysis>

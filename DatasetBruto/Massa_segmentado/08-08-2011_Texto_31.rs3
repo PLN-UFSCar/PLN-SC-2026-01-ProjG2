@@ -1,0 +1,234 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Nevoeiro que atinge o Rio afeta aeroportos e o trânsito na manhã desta segunda-feira
+RIO - Um forte nevoeiro que atingiu a Região Metropolitana do Rio na manhã desta segunda-feira afetou os aeroportos</segment>
+    <segment id="2">, o trânsito e as barcas</segment>
+    <segment id="3">No Santos Dumont</segment>
+    <segment id="4">, houve 193 partidas ou chegadas com atrasos nesta segunda-feira</segment>
+    <segment id="5">, de acordo com informações da Infraero.</segment>
+    <segment id="6">Por causa das más condições de visibilidade</segment>
+    <segment id="7">, o aeroporto</segment>
+    <segment id="8">, no Centro do Rio</segment>
+    <segment id="9">, fechou às 6h20m</segment>
+    <segment id="10">, segundo a Infraero.</segment>
+    <segment id="11">Ele reabriu para pousos às 10h41m.</segment>
+    <segment id="12">As decolagens já haviam sido liberadas às 10h03</segment>
+    <segment id="13">m.</segment>
+    <segment id="14">Já o Aeroporto Internacional Antonio Carlos Jobim</segment>
+    <segment id="15">, o Galeão</segment>
+    <segment id="16">, foi reaberto para pousos às 9h</segment>
+    <segment id="17">, depois de quatro horas fechado por causa da neblina.</segment>
+    <segment id="18">Os passageiros que utilizaram o Santos Dumont</segment>
+    <segment id="19">, no entanto</segment>
+    <segment id="20">, ainda sentiram durante a tarde os transtornos do efeito em cascata provocado pelos atrasos da manhã.</segment>
+    <segment id="21">Segundo informações da Infraero no início da noite desta segunda-feira</segment>
+    <segment id="22">, a situação já está normalizada no aeroporto.</segment>
+    <segment id="23">Do total de 155 partidas programadas</segment>
+    <segment id="24">, houve 52 canceladas e 107 com atrasos.</segment>
+    <segment id="25">Já das 150 chegadas programadas</segment>
+    <segment id="26">, houve 55 voos cancelados e uma soma de 86 atrasos.</segment>
+    <segment id="27">EU-REPÓRTER: Passou por transtornos por conta do nevoeiro?</segment>
+    <segment id="28">Conte para a gente!</segment>
+    <segment id="29">Do total de 155 partidas programadas no Aeroporto Santos Dumont</segment>
+    <segment id="30">, houve 52 canceladas e 107 com atrasos</segment>
+    <segment id="31">, de acordo com a Infraero.</segment>
+    <segment id="32">Já das 150 chegadas programadas</segment>
+    <segment id="33">, houve 55 voos cancelados e uma soma de 86 atrasos.</segment>
+    <segment id="34">Embora o aeroporto tenha reaberto para decolagens às 10h03m</segment>
+    <segment id="35">, apenas às 11h começaram a decolar as primeiras aeronaves.</segment>
+    <segment id="36">Segundo a Infraero</segment>
+    <segment id="37">, com os aviões não podendo nem pousar no Galeão - o que não é comum de acontecer - houve falta de aeronaves.</segment>
+    <segment id="38">Entre 6h e 14h26m</segment>
+    <segment id="39">, das 93 partidas programadas</segment>
+    <segment id="40">, 34 foram canceladas e 67 com atrasos superiores a 30 minutos.</segment>
+    <segment id="41">No mesmo período</segment>
+    <segment id="42">, das 87 chegadas agendadas</segment>
+    <segment id="43">, 30 foram canceladas e 52 estão atrasadas.</segment>
+    <segment id="44">Segundo a jornalista Amelia Gonzalez</segment>
+    <segment id="45">, até por volta do meio-dia</segment>
+    <segment id="46">, nenhum voo das companhias aéreas TAM e GOL tinha partido para São Paulo:
+
+- Eles informam que há uma fila taxiando em Congonhas.</segment>
+    <segment id="47">Mas a Avianca está conseguindo</segment>
+    <segment id="48">, não se</segment>
+    <segment id="49">se sabe</segment>
+    <segment id="50">comocomo.</segment>
+    <segment id="51">E está sendo até aplaudida - disse Amelia</segment>
+    <segment id="52">, acrescentando que já começavam a faltar comida e bebida na única lanchonete da sala de embarque.</segment>
+    <segment id="53">A TAM informou que</segment>
+    <segment id="54">, em função dos fechamentos dos dois aeroportos</segment>
+    <segment id="55">, houve uma reação em cadeia.</segment>
+    <segment id="56">A companhia estimava que os atrasos na ponte aérea do Santos Dumont durassem todo o dia.</segment>
+    <segment id="57">Segundo a companhia</segment>
+    <segment id="58">, em média</segment>
+    <segment id="59">, houve um voo a cada 40 minutos partindo para São Paulo durante a tarde desta segunda-feira.</segment>
+    <segment id="60">A Gol emitiu nota no fim da tarde informando que</segment>
+    <segment id="61">, devido a condições meteorológicas adversas</segment>
+    <segment id="62">, foi necessária a suspensão temporária das operações aéreas dos Aeroportos Santos Dumont e Galeão/Tom Jobim</segment>
+    <segment id="63">, e a consequente realização de ajustes em sua malha.</segment>
+    <segment id="64">A companhia destacou que trabalhou para normalizar seus horários o mais rapidamente possível</segment>
+    <segment id="65">, e que os clientes de voos que tiveram a programação alterada estavan recebendo o atendimento necessário em terra</segment>
+    <segment id="66">, conforme prevê a Resolução 141 da Agência Nacional de Aviação Civil (Anac).</segment>
+    <segment id="67">"</segment>
+    <segment id="68">A prioridade tem sido reacomodá-los nos próximos voos disponíveis"</segment>
+    <segment id="69">, diz a nota.</segment>
+    <segment id="70">No Santos Dumont</segment>
+    <segment id="71">, a visibilidade ficou em 50 metros desde as 7h até quase 10h.</segment>
+    <segment id="72">Às 10h30m</segment>
+    <segment id="73">, já estava em 3.000 metros.</segment>
+    <segment id="74">No Galeão</segment>
+    <segment id="75">, a visibilidade também chegou a 50 metros</segment>
+    <segment id="76">, entre 5h e 6h.</segment>
+    <segment id="77">Por volta de 9h10m</segment>
+    <segment id="78">, já atingia 700 metros.</segment>
+    <segment id="79">Entre 5h e 9h</segment>
+    <segment id="80">, foi preciso deslocar para outros aeroportos 23 voos domésticos</segment>
+    <segment id="81">, que chegariam ao Tom Jobim</segment>
+    <segment id="82">, e nove voos internacionais.</segment>
+    <segment id="83">Já considerando as partidas</segment>
+    <segment id="84">, entre 5h30m e 9h</segment>
+    <segment id="85">, houve 14 cancelamentos de voos para destinos dentro do país e um cancelamento para o exterior.</segment>
+    <segment id="86">Nesse mesmo período</segment>
+    <segment id="87">, sete partidas domésticas sofreram atrasos</segment>
+    <segment id="88">, assim</segment>
+    <segment id="89">comocomo um voo internacional.</segment>
+    <segment id="90">A Infraero destaca que</segment>
+    <segment id="91">, como</segment>
+    <segment id="92">como não estava fechado para decolagens</segment>
+    <segment id="93">, as causas de atraso e cancelamento de partidas precisam ser informadas pelas empresas aéreas.</segment>
+    <segment id="94">Igor Barbosa Alves</segment>
+    <segment id="95">, que seguiria do Santos Dumont para Porto Alegre às 8h10m</segment>
+    <segment id="96">, disse que seu voo foi remarcado para as 10h</segment>
+    <segment id="97">, masmas com a possibilidade de ser cancelado.</segment>
+    <segment id="98">Ele veio acompanhado da família</segment>
+    <segment id="99">porque</segment>
+    <segment id="100">porque passará dez dias na capital gaúcha trabalhando.</segment>
+    <segment id="101">A mãe, Ana Lucia Alves</segment>
+    <segment id="102">, contou que todos saíram de casa</segment>
+    <segment id="103">, em Santa Cruz</segment>
+    <segment id="104">, às 5h.
+
+- Dava para dormir mais um pouquinho</segment>
+    <segment id="105">, ainda mais com crianças - disse</segment>
+    <segment id="106">, mostrando os dois netos</segment>
+    <segment id="107">, menores</segment>
+    <segment id="108">, que vieram</segment>
+    <segment id="109">sese despedir do pai.</segment>
+    <segment id="110">A empresária Cristina Oliveira também lamenta o atraso:
+
+- Meu voo para Brasília estava marcado para 7h</segment>
+    <segment id="111">, e agora nem sei</segment>
+    <segment id="112">sese será cancelado.</segment>
+    <segment id="113">Vou aguardar só mais uns 30 minutos e</segment>
+    <segment id="114">, sese esse nevoeiro não melhorar</segment>
+    <segment id="115">, vou cancelar meu compromisso na capital do país.</segment>
+    <segment id="116">O taxista Alex Mariano de Oliveira contou que o nevoeiro chegou de repente.
+
+- Parecia que tinham aberto a porta de um freezer gigantesco.</segment>
+    <segment id="117">De repente</segment>
+    <segment id="118">, ficou tudo branco e mais frio.</segment>
+    <segment id="119">Não dava nem para enxergar o carro da frente - contou o motorista</segment>
+    <segment id="120">, que passava pelo Trevo das Margaridas quando começou o nevoeiro</segment>
+    <segment id="121">, por volta das 6h.</segment>
+    <segment id="122">Neblina também prejudica o trânsito e as barcas</segment>
+    <segment id="123">A neblina também afetou o trânsito na cidade.</segment>
+    <segment id="124">Os motoristas precisaram ter atenção redobrada por causa da queda na visibilidade em vários pontos da capital.</segment>
+    <segment id="125">Segundo o Centro de Operações da prefeitura</segment>
+    <segment id="126">, o tempo de deslocamento foi maior em várias vias já que os condutores diminuíram a velocidade para trafegar nessas condições.</segment>
+    <segment id="127">O trânsito ficou lento na Ponte Rio-Niterói</segment>
+    <segment id="128">, na altura da Praça do Pedágio e na grande reta</segment>
+    <segment id="129">, sentido Rio.</segment>
+    <segment id="130">A neblina também prejudicou o trânsito nos dois sentidos do Elevado Paulo de Frontin.</segment>
+    <segment id="131">O mesmo aconteceu na Avenida Brasil e nas linhas Vermelha e Amarela.</segment>
+    <segment id="132">Antes das 10h</segment>
+    <segment id="133">, o tráfego já estava normalizado nas principais vias da cidade.</segment>
+    <segment id="134">Na Zona Norte</segment>
+    <segment id="135">, houve problemas na Praça da Bandeira</segment>
+    <segment id="136">, na Avenida Maracanã</segment>
+    <segment id="137">, na Radial Oeste e na Marechal Rondon.</segment>
+    <segment id="138">O tráfego também ficou pesado na Rua São Francisco Xavier</segment>
+    <segment id="139">, em frente a Uerj.</segment>
+    <segment id="140">A Autoestrada Grajaú-Jacarepaguá foi uma das vias mais prejudicadas:</segment>
+    <segment id="141">a via registrou fortes retenções e teve o tempo de percurso bastante aumentado.</segment>
+    <segment id="142">Houve complicações na Armando Lombardi e na Autoestrada Lagoa-Barra até a Borges de Medeiros.</segment>
+    <segment id="143">Por volta de 10h</segment>
+    <segment id="144">, o tempo de travessia da Barra para o Centro via autoestrada e orla Zona Sul era de 43 minutos.</segment>
+    <segment id="145">O Centro de Operações estima que</segment>
+    <segment id="146">, mais cedo</segment>
+    <segment id="147">, esse tempo tenha sido de 30 a 40% maior.</segment>
+    <segment id="148">Em condições normais</segment>
+    <segment id="149">, o trajeto é feito em 19 minutos.</segment>
+    <segment id="150">O Aterro do Flamengo também ficou com trânsito complicado por conta da neblina.</segment>
+    <segment id="151">O tráfego chegou a ser intenso na altura do Morro da Viúva e do Botafogo Praia Shopping.</segment>
+    <segment id="152">O nevoeiro também prejudicou a navegação de barcas e catamarãs e exigiu atenção redobrada dos comandantes até o final da manhã</segment>
+    <segment id="153">, segundo a concessionária Barcas S/A.</segment>
+    <segment id="154">A empresa divulgou uma nota dizendo que as embarcações que saíram do centro de Niterói em direção à Praça XV tiveram que navegar em meia velocidade até as 10h30m</segment>
+    <segment id="155">, quando a operação na linha foi normalizada.</segment>
+    <segment id="156">O nevoeiro também fez com que os comandantes tivessem atenção especial para as manobras de atracação na estação Praça XV</segment>
+    <segment id="157">, o que contribuiu para o aumento do atraso das viagens.</segment>
+    <segment id="158">Na linha de Charitas</segment>
+    <segment id="159">, a operação ficou suspensa das 7h15m até as 8h20</segment>
+    <segment id="160">m.
+
+
+
+Nevoeiro deve voltar a atingir o Rio na sexta</segment>
+    <segment id="161">O nevoeiro que atingiu o Rio</segment>
+    <segment id="162">sese formou em virtude da combinação das baixas temperaturas da madrugada</segment>
+    <segment id="163">, com a umidade que estava sobre a cidade e os ventos fracos</segment>
+    <segment id="164">, segundo o meteorologista Alexandre Nascimento</segment>
+    <segment id="165">, do Instituto Climatempo:
+
+- É uma situação bem normal nesta época do ano.</segment>
+    <segment id="166">No inverno</segment>
+    <segment id="167">, a temperatura cai na madrugada e</segment>
+    <segment id="168">, com a umidade</segment>
+    <segment id="169">, sese formam essas nuvens que ficam muito próximas ao solo.</segment>
+    <segment id="170">Ao longo do dia</segment>
+    <segment id="171">, com o sol forte</segment>
+    <segment id="172">, elas vão</segment>
+    <segment id="173">sese dissipando.</segment>
+    <segment id="174">Entre terça e quinta-feira não há possibilidade de ocorrência de nevoeiro</segment>
+    <segment id="175">, masmas</segment>
+    <segment id="176">, ainda nesta semana</segment>
+    <segment id="177">, as condições estarão propícias para o surgimento de um novo nevoeiro na sexta-feira.</segment>
+    <segment id="178">Na quarta-feira</segment>
+    <segment id="179">, uma frente fria</segment>
+    <segment id="180">sese aproxima.</segment>
+    <segment id="181">Frente fria fecha o tempo no Rio nesta terça-feira</segment>
+    <segment id="182">Segundo o Climatempo</segment>
+    <segment id="183">, uma frente fria provoca aumento das nuvens e chuva na tarde desta terça-feira na Grande Rio</segment>
+    <segment id="184">, Costa Verde</segment>
+    <segment id="185">, no Vale do Paraíba</segment>
+    <segment id="186">, na Região Serrana e Região dos Lagos.</segment>
+    <segment id="187">Na quarta-feira</segment>
+    <segment id="188">, a previsão é de chuva e queda de temperatura.</segment>
+    <segment id="189">O mar fica agitado.</segment>
+    <segment id="190">Na quinta-feira</segment>
+    <segment id="191">, o tempo fica chuvoso no Norte Fluminense.</segment>
+    <segment id="192">Sol e diminuição de nuvens nas demais áreas do Rio</segment>
+    <segment id="193">, ainda com mar agitado.</segment>
+  </rst>
+</analysis>

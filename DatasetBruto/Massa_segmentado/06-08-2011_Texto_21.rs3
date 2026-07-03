@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Prêmio de R$ 32 milhões da Mega-Sena sai para apenas um apostador
+RIO - O prêmio do concurso 1307 da Mega-Sena saiu para apenas um apostador do município mineiro de Guanhães</segment>
+    <segment id="2">, que vai receber R$ 32.075.789</segment>
+    <segment id="3">,45</segment>
+    <segment id="4">Os números sorteados foram 07 - 10 - 32 - 43 - 47 - 54.</segment>
+    <segment id="5">A quina saiu para 153 apostadores e cada um vai receber R$ 18.962</segment>
+    <segment id="6">,37, enquanto que a quadra teve 11.019 acertadores e cada um vai ter direito a R$ 376</segment>
+    <segment id="7">,13.</segment>
+    <segment id="8">A estimativa de prêmio para o próximo concurso</segment>
+    <segment id="9">, quarta-feira</segment>
+    <segment id="10">, é de R$ 2 milhões.</segment>
+  </rst>
+</analysis>

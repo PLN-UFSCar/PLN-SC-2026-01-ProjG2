@@ -1,0 +1,167 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Esta é a edição da newsletter FolhaMercado desta quinta-feira (23).</segment>
+    <segment id="2">Quer recebê-la de segunda a sexta</segment>
+    <segment id="3">, às 7h</segment>
+    <segment id="4">, no seu email?</segment>
+    <segment id="5">Inscreva-</segment>
+    <segment id="6">sese abaixo:</segment>
+    <segment id="7">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="8">; aberta para não assinantes.</segment>
+    <segment id="9">Carregando...</segment>
+    <segment id="10">Altman volta</segment>
+    <segment id="11">, masmas OpenAI não é a mesma</segment>
+    <segment id="12">A OpenAI</segment>
+    <segment id="13">, dona do ChatGPT e empresa que deu largada à atual febre da IA (inteligência artificial) generativa</segment>
+    <segment id="14">, anunciou nesta quarta o retorno de Sam Altman ao cargo de CEO da companhia.</segment>
+    <segment id="15">O anúncio era aguardado pelo mercado após quase a totalidade dos funcionários da empresa ameaçar demissão</segment>
+    <segment id="16">sese ele não acontecesse.</segment>
+    <segment id="17">Os episódios que envolveram a demissão surpreendente do executivo na última sexta (contamos em linha do tempo aqui) e seu retorno ao cargo são relevantes para entendermos por onde deve caminhar a evolução do ChatGPT e da própria IA.</segment>
+    <segment id="18">Fortalecido</segment>
+    <segment id="19">, o CEO retorna para uma OpenAI diferente de quando a deixou.</segment>
+    <segment id="20">Celular com logo da OpenAI</segment>
+    <segment id="21">;</segment>
+    <segment id="22">no fundo</segment>
+    <segment id="23">, Sam Altman - OLIVIER DOULIERY/AFPPor que ele saiu?</segment>
+    <segment id="24">O conselho da empresa disse que havia perdido a confiança em Altman e que ele não estava sendo fiel nas comunicações com o colegiado.</segment>
+    <segment id="25">A apuração da imprensa americana indica que houve uma preocupação da maior parte do conselho de que Altman estava apressando o desenvolvimento das ferramentas de IA sem as devidas medidas de segurança.</segment>
+    <segment id="26">A startup foi criada</segment>
+    <segment id="27">comocomo uma entidade sem fins lucrativos e diz prezar pelo avanço seguro da tecnologia.</segment>
+    <segment id="28">Sob seu controle</segment>
+    <segment id="29">, há uma subsidiária que gera receita com o ChatGPT e admite a participação de investidores</segment>
+    <segment id="30">, como</segment>
+    <segment id="31">como a Microsoft.</segment>
+    <segment id="32">É ela que deve ganhar ainda mais força a partir de agora.</segment>
+    <segment id="33">Por que ele voltou?</segment>
+    <segment id="34">Por pressão de funcionários e investidores.</segment>
+    <segment id="35">A iminência de perder toda a equipe para a Microsoft</segment>
+    <segment id="36">, que havia garantido emprego a Altman e seus empregados</segment>
+    <segment id="37">, acabou forçando a renúncia da maioria do conselho.</segment>
+    <segment id="38">E daqui para frente?</segment>
+    <segment id="39">A mudança imediata é no conselho.</segment>
+    <segment id="40">↳ Quem estava antes:</segment>
+    <segment id="41">Greg Brockman: era o presidente e o principal aliado de Altman no colegiado.</segment>
+    <segment id="42">Ele deixou o cargo na última sexta</segment>
+    <segment id="43">, antes da reunião que demitiria o então CEO</segment>
+    <segment id="44">, e agora retorna à empresa sem posição anunciada.  Ilya Sutskever: um dos cofundadores da companhia e seu cientista-chefe.</segment>
+    <segment id="45">Ele foi apontado</segment>
+    <segment id="46">comocomo pivô da demissão de Altman</segment>
+    <segment id="47">, masmas depois disse estar arrependido da decisão e assinou a carta dos funcionários pedindo a volta do executivo.</segment>
+    <segment id="48">Tasha McCauley: empreendedora de tecnologia e membro do conselho da organização de caridade Effective Ventures.  Helen Toner: diretora do Centro de Segurança e Tecnologia Emergente da Universidade de Georgetown.</segment>
+    <segment id="49">Adam D’Angelo: fundador do site de perguntas e respostas Quora.</segment>
+    <segment id="50">↳ Quem assume agora:</segment>
+    <segment id="51">Bret Taylor: ex-CEO da Salesforce</segment>
+    <segment id="52">, será o presidente do conselho</segment>
+    <segment id="53">, mesmo cargo que ocupou no Twitter antes de Elon Musk comprar a rede social.  Larry Summers: ex-secretário do Tesouro americano.</segment>
+    <segment id="54">A startup deve contar com seu trânsito em Washington em meio ao escrutínio a que a IA deve ser alvo nos próximos anos.</segment>
+    <segment id="55">Adam D’Angelo: ele continua no conselho.</segment>
+    <segment id="56">A manutenção foi negociada com os antigos conselheiros</segment>
+    <segment id="57">, segundo o Financial Times –o que indica que Altman não conseguiu tudo o que queria.</segment>
+    <segment id="58">O que está por trás da disputa: a demissão de Altman havia sido uma vitória da ala de "trust and safety" (confiança e segurança) da empresa</segment>
+    <segment id="59">, como</segment>
+    <segment id="60">como escreveu o colunista Ronaldo Lemos.</segment>
+    <segment id="61">Seu retorno</segment>
+    <segment id="62">, portanto</segment>
+    <segment id="63">, é encarado</segment>
+    <segment id="64">comocomo uma conquista de quem defende um desenvolvimento mais acelerado da IA.</segment>
+    <segment id="65">Esta briga não é nova no Vale do Silício.</segment>
+    <segment id="66">A divisão é ilustrada pelo movimento chamado "effective altruism" (algo</segment>
+    <segment id="67">comocomo altruísmo efetivo)</segment>
+    <segment id="68">, que é representado por uma organização que visa promover doações de alto impacto.</segment>
+    <segment id="69">O que tem a ver com IA?</segment>
+    <segment id="70">Os defensores dessa filosofia</segment>
+    <segment id="71">, entre eles alguns bilionários do setor</segment>
+    <segment id="72">, alertam para os riscos que novas tecnologias podem gerar à humanidade e defendem que reduzi-los é uma prioridade.</segment>
+    <segment id="73">Os antigos membros do conselho da OpenAI eram ligados ao movimento</segment>
+    <segment id="74">, enquanto Sam Altman</segment>
+    <segment id="75">sese manifestou contrário à ideologia.</segment>
+    <segment id="76">Déficit de 2023 piora</segment>
+    <segment id="77">O governo Lula (PT) prevê encerrar o primeiro ano de mandato com um rombo de R$ 177</segment>
+    <segment id="78">,4 bilhões nas contas.</segment>
+    <segment id="79">A nova estimativa</segment>
+    <segment id="80">sese aproxima do limite autorizado pela LDO (Lei de Diretrizes Orçamentárias) e fica ainda mais longe da meta traçada pelo ministro Fernando Haddad (Fazenda).</segment>
+    <segment id="81">Em números:   R$ 213</segment>
+    <segment id="82">,6 bilhões</segment>
+    <segment id="83">, ou 2% do PIB</segment>
+    <segment id="84">, é o rombo autorizado para as contas públicas do governo neste ano.</segment>
+    <segment id="85">No discurso de posse</segment>
+    <segment id="86">, Haddad havia citado que esperava um resultado bem melhor que isso.  1% do PIB foi a meta traçada pelo ministro para o déficit deste ano.</segment>
+    <segment id="87">A conta projetada agora</segment>
+    <segment id="88">, porém</segment>
+    <segment id="89">porém, já está em 1</segment>
+    <segment id="90">,7% do PIB.</segment>
+    <segment id="91">O que explica: é uma combinação de frustração de receitas –royalties</segment>
+    <segment id="92">, dividendos</segment>
+    <segment id="93">, concessões– e alta acima da inflação nas despesas</segment>
+    <segment id="94">, principalmente em benefícios previdenciários.</segment>
+    <segment id="95">Aposta dobrada: mesmo com a piora nas projeções para o resultado de 2023</segment>
+    <segment id="96">, a equipe econômica segue com o discurso de déficit zero no ano que vem.</segment>
+    <segment id="97">O objetivo é desacreditado por 100% dos analistas do mercado ouvidos pela pesquisa Genial/Quaest divulgada nesta quarta.</segment>
+    <segment id="98">Opinião:   Vinicius Torres Freire:</segment>
+    <segment id="99">Com imprudência maior</segment>
+    <segment id="100">, Lula 3 tem déficit maior.</segment>
+    <segment id="101">Marcos Mendes:</segment>
+    <segment id="102">A realidade dos números</segment>
+    <segment id="103">sese impõe.</segment>
+    <segment id="104">'Back to basics' no varejo  Depois de surfar na onda do online na pandemia</segment>
+    <segment id="105">, com investimentos e aquisições impulsionadas pelos juros em mínimas históricas</segment>
+    <segment id="106">, gigantes do varejo brasileiro agora adotam um tom semelhante em seus comunicados:</segment>
+    <segment id="107">o "back to basics".</segment>
+    <segment id="108">Entenda: o termo indica uma mudança de prioridade no discurso das empresas para resgatar a essência do negócio</segment>
+    <segment id="109">, ou seja</segment>
+    <segment id="110">, aquilo que as trouxe até aqui.</segment>
+    <segment id="111">A vontade de "abraçar tudo" dá lugar para estratégias mais pé no chão.</segment>
+    <segment id="112">O foco passa a ser o crescimento sustentável em um ambiente de juros altos e queda no consumo dos brasileiros.</segment>
+    <segment id="113">As empresas:  ↳ Casas Bahia: acumulou resultados negativos e tem um endividamento que assusta o mercado.</segment>
+    <segment id="114">Foi ao mercado tentando levantar R$ 1 bi para</segment>
+    <segment id="115">sese reorganizar</segment>
+    <segment id="116">, masmas conseguiu apenas R$ 623 milhões.</segment>
+    <segment id="117">Como quer voltar ao básico: enterrou o nome "Via" e retomou o slogan "dedicação total a você".</segment>
+    <segment id="118">Nos negócios</segment>
+    <segment id="119">, mira o seu público tradicional e a venda de móveis</segment>
+    <segment id="120">, eletrodomésticos e eletroeletrônicos</segment>
+    <segment id="121">, que deu origem ao grupo.   ↳ Natura: com a série de aquisições de marcas internacionais na década passada</segment>
+    <segment id="122">, a empresa viu sua alavancagem (endividamento) crescer e ficou muita "inchada".</segment>
+    <segment id="123">Como quer voltar ao básico:</segment>
+    <segment id="124">sese desfez de duas marcas que havia comprado (Aesop e The Body Shop).</segment>
+    <segment id="125">Vai focar na Natura e Avon Internacional</segment>
+    <segment id="126">, marcas em que é forte com a venda direta</segment>
+    <segment id="127">, por meio de consultoras.</segment>
+    <segment id="128">↳</segment>
+    <segment id="129">Americanas: o escândalo contábil que a levou à recuperação judicial acabou também afastando clientes</segment>
+    <segment id="130">, fornecedores e "sellers" (vendedores terceiros de sua plataforma).</segment>
+    <segment id="131">Como quer voltar ao básico: o acordo com os credores está próximo.</segment>
+    <segment id="132">A partir dele</segment>
+    <segment id="133">, a empresa quer retomar a prioridade para o que atrai consumidores a suas lojas físicas</segment>
+    <segment id="134">, como</segment>
+    <segment id="135">como guloseimas</segment>
+    <segment id="136">, limpeza e brinquedos.   ↳ Tok&amp;amp</segment>
+    <segment id="137">;Stok: após ter enfrentado um pedido de despejo e fechado unidades</segment>
+    <segment id="138">, a empresa conseguiu um socorro de R$ 100 milhões de seus sócios para reorganizar a casa.</segment>
+    <segment id="139">Como quer voltar ao básico: o primeiro passo foi o retorno da fundadora ao cargo de CEO.</segment>
+    <segment id="140">O foco será menor no online e maior nas lojas físicas</segment>
+    <segment id="141">, com seus cenários prontos e coleções sazonais.</segment>
+  </rst>
+</analysis>

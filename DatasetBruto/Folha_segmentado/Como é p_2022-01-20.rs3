@@ -1,0 +1,116 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O raio da Terra</segment>
+    <segment id="2">, isto é</segment>
+    <segment id="3">, a distância do centro até a superfície</segment>
+    <segment id="4">, é de 6.371 quilômetros</segment>
+    <segment id="5">, com uma margem de erro de dois metros.</segment>
+    <segment id="6">Sim, são apenas dois metros de incerteza</segment>
+    <segment id="7">, sem computar as imperfeições causadas pela topologia terrestre.</segment>
+    <segment id="8">Mas desde quando sabemos disso?</segment>
+    <segment id="9">A medida mais antiga de que</segment>
+    <segment id="10">sese tem notícia foi feita por Eratóstenes de Cirene em 240 a.C.</segment>
+    <segment id="11">, aproximadamente.</segment>
+    <segment id="12">De forma simplificada</segment>
+    <segment id="13">, o matemático grego considerou a Terra uma esfera perfeita</segment>
+    <segment id="14">, e usou conceitos básicos de geometria para calcular suas dimensões.</segment>
+    <segment id="15">Ilustração: Julia Jabur - Instituto SerrapilheiraTomemos uma bola de basquete com uma vareta fixada em sua superfície</segment>
+    <segment id="16">, apontando para o centro da bola.</segment>
+    <segment id="17">Ao acendermos uma lanterna e a apontarmos para a vareta</segment>
+    <segment id="18">, sese o alinhamento entre os dois objetos for perfeito</segment>
+    <segment id="19">, não haverá nenhuma sombra na superfície da bola.</segment>
+    <segment id="20">Se, por outro lado</segment>
+    <segment id="21">, houver um ângulo entre a luz incidente e a vareta</segment>
+    <segment id="22">, poderemos ver uma pequena sombra</segment>
+    <segment id="23">, que será maior quanto maior a inclinação da vareta.</segment>
+    <segment id="24">Imaginemos agora duas varetas</segment>
+    <segment id="25">, uma delas alinhada com a lanterna.</segment>
+    <segment id="26">O ângulo entre as duas — e consequentemente a extensão da sombra causada pela segunda — depende da distância entre ambas e do diâmetro da bola.</segment>
+    <segment id="27">Quanto mais próximas entre si</segment>
+    <segment id="28">, ou quanto maior for a esfera</segment>
+    <segment id="29">, menor será a sombra da segunda vareta.</segment>
+    <segment id="30">Colunas e BlogsReceba no seu email uma seleção de colunas e blogs da Folha</segment>
+    <segment id="31">; exclusiva para assinantes.</segment>
+    <segment id="32">Carregando...</segment>
+    <segment id="33">Eratóstenes utilizou esse mesmo raciocínio em grande escala</segment>
+    <segment id="34">, substituindo a bola pela Terra.</segment>
+    <segment id="35">Segundo essa hipótese</segment>
+    <segment id="36">, no exato momento em que o Sol estivesse diretamente acima de uma cidade (Siena</segment>
+    <segment id="37">, nas histórias contadas)</segment>
+    <segment id="38">, ele mediria a extensão da sombra em Alexandria causada por uma determinada haste.</segment>
+    <segment id="39">Sabendo o tamanho da haste e a distância entre as duas cidades</segment>
+    <segment id="40">, ele podia calcular o tamanho da Terra.</segment>
+    <segment id="41">O desafio era medir a distância entre cidades.</segment>
+    <segment id="42">Eratóstenes teria pedido a colaboração de bematistas</segment>
+    <segment id="43">, especialistas em realizar tais medidas contando passos ou algum tipo de odômetro rudimentar.</segment>
+    <segment id="44">É impressionante que o valor encontrado para a circunferência terrestre tenha sido de 39.425 quilômetros</segment>
+    <segment id="45">, enquanto a medida atual oficial seja de 40.008 quilômetros.</segment>
+    <segment id="46">Hoje nosso conhecimento sobre a Terra é mais avançado</segment>
+    <segment id="47">, claro.</segment>
+    <segment id="48">Ela não é uma esfera perfeita</segment>
+    <segment id="49">, por exemplo</segment>
+    <segment id="50">, masmas uma elipsoide</segment>
+    <segment id="51">, mais achatada nos polos devido ao movimento de rotação terrestre — uma diferença entre os raios de cerca de vinte quilômetros.</segment>
+    <segment id="52">Satélites e lasers viabilizam medidas com precisão menor que um metro</segment>
+    <segment id="53">, em alguns casos.</segment>
+    <segment id="54">Mas o resultado final ainda é bem próximo daquele encontrado há mais de 2 mil anos.</segment>
+    <segment id="55">Excelente exemplo do sucesso do método científico</segment>
+    <segment id="56">, esse experimento ainda é usado</segment>
+    <segment id="57">comocomo forma de pensar a produção do conhecimento científico.</segment>
+    <segment id="58">Eratóstenes formulou uma hipótese e desenvolveu um experimento prático para confirmá-la</segment>
+    <segment id="59">, a partir de dados observacionais.</segment>
+    <segment id="60">Esse é o fundamento da produção de descobertas e novos conhecimentos na ciência moderna.</segment>
+    <segment id="61">O terraplanismo é uma visão absolutamente distorcida desse modelo.</segment>
+    <segment id="62">Baseado em supostas experiências realizadas pelo inventor inglês Samuel Rowbotham no século 19</segment>
+    <segment id="63">, seus defensores afirmam que a Terra seria plana</segment>
+    <segment id="64">, numa tentativa de invalidar o conhecimento já existente desde o século 3 a.C. Discussões com terraplanistas</segment>
+    <segment id="65">sese resumem a falsos debates: a argumentação ocorre com base em hipóteses criadas após as observações</segment>
+    <segment id="66">, apenas para justificar seu próprio modelo.</segment>
+    <segment id="67">É a típica falácia utilizada em teorias conspiratórias</segment>
+    <segment id="68">comocomo a suposta falsificação da chegada dos seres humanos à Lua.</segment>
+    <segment id="69">Negacionistas não propõem experimentos para confirmar ou rejeitar uma hipótese: eles adaptam as observações a suas crenças pessoais.</segment>
+    <segment id="70">Se os dados contradizem a afirmação</segment>
+    <segment id="71">, descartem-</segment>
+    <segment id="72">sese os dados e mantenha-</segment>
+    <segment id="73">sese a hipótese.</segment>
+    <segment id="74">Para que a ciência esteja aberta a novas evidências e mudanças de paradigma</segment>
+    <segment id="75">, é preciso que todos sigam as mesmas regras.</segment>
+    <segment id="76">O conhecimento do tamanho e do formato da Terra nos permite por exemplo prever o local e horário de um eclipse solar daqui a dezenas de anos</segment>
+    <segment id="77">, com precisão de minutos.</segment>
+    <segment id="78">A sombra causada pela Lua sobre a Terra depende da curvatura do planeta</segment>
+    <segment id="79">, e — ao contrário de argumentos terraplanistas — o conhecimento prévio nos permite fazer previsões exatas do comportamento futuro da natureza.</segment>
+    <segment id="80">Modelos alternativos sérios deveriam ser capazes de realizar previsões semelhantes e</segment>
+    <segment id="81">, mais ainda</segment>
+    <segment id="82">, apontar falhas no desempenho preditivo de modelos anteriores.</segment>
+    <segment id="83">Sabemos as dimensões da Terra há mais de 2 mil anos</segment>
+    <segment id="84">, masmas o debate sobre a importância do método científico é mais atual que nunca.</segment>
+    <segment id="85">Em anos de pandemia e discussões sobre vacinas e tratamentos comprovadamente ineficazes</segment>
+    <segment id="86">, é fundamental entender</segment>
+    <segment id="87">comocomo esse conhecimento é produzido no âmbito da pesquisa científica.  *</segment>
+    <segment id="88">Thiago Gonçalves é astrônomo no Observatório do Valongo/ UFRJ e divulgador de ciência.</segment>
+    <segment id="89">Inscreva-</segment>
+    <segment id="90">sese na newsletter do Serrapilheira para acompanhar mais novidades do instituto e do blog Ciência Fundamental.</segment>
+  </rst>
+</analysis>

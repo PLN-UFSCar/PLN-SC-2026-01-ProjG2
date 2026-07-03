@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Big Brother Brasil vai ao ar mais cedo na TV Globo durante os dias de Carnaval.</segment>
+    <segment id="2">A partir desta sexta-feira</segment>
+    <segment id="3">, o programa comandado por Tadeu Schmidt será adiantado para encaixar a transmissão dos desfiles das escolas de samba do Grupo Especial de São Paulo e do Rio de Janeiro.</segment>
+    <segment id="4">Tadeu Schmidt na casa do BBB 24 - Manoella Mello - 5.jan.2023/GlobOs horários variam bastante.</segment>
+    <segment id="5">Nesta sexta</segment>
+    <segment id="6">, por exemplo</segment>
+    <segment id="7">, o programa começa no horário habitual</segment>
+    <segment id="8">, às 22h25.</segment>
+    <segment id="9">No sábado</segment>
+    <segment id="10">, porém</segment>
+    <segment id="11">porém, o reality será transmitido pelo canal às 21h50.</segment>
+    <segment id="12">No domingo</segment>
+    <segment id="13">, o BBB inicia os trabalhos por volta das 21h05.</segment>
+    <segment id="14">O horário será mais ou menos o mesmo na segunda</segment>
+    <segment id="15">, com início programado para 21h10 na Globo.</segment>
+    <segment id="16">Por fim</segment>
+    <segment id="17">, o reality começa na terça às 22h25</segment>
+    <segment id="18">, de volta à programação normal.</segment>
+    <segment id="19">Conheça os participantes do BBB 24Mais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

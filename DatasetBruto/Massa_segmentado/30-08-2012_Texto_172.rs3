@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Programa fortalecerÃ¡ 13 escolas</segment>
+    <segment id="2">Programa fortalecerÃ¡ escolas que tiveram baixo rendimento no Ideb 2011</segment>
+    <segment id="3">A Secretaria Municipal da EducaÃ§Ã£o</segment>
+    <segment id="4">, Cultura</segment>
+    <segment id="5">, Esporte e Lazer lanÃ§ou  ontem o programa</segment>
+    <segment id="6">â€œCaleidoscÃ³pio:</segment>
+    <segment id="7">mÃºltiplos olhares</segment>
+    <segment id="8">, um sÃ³ compromissoâ€</segment>
+    <segment id="9">, destinado a fortalecer o ensino em 13 escolas da rede municipal que tiveram baixo rendimento no Ãndice de Desenvolvimento da EducaÃ§Ã£o BÃ¡sica (Ideb) 2011.</segment>
+    <segment id="10">O projeto irÃ¡ abranger aÃ§Ãµes de curto</segment>
+    <segment id="11">, mÃ©dio e longo prazos nas mais diversas Ã¡reas.</segment>
+    <segment id="12">Dentre as Ã¡reas contempladas estÃ£o o aspecto fÃ­sico</segment>
+    <segment id="13">, as propostas polÃ­tica e pedagÃ³gica das escolas</segment>
+    <segment id="14">, alÃ©m  da qualidade da merenda oferecida pela instituiÃ§Ã£o.</segment>
+  </rst>
+</analysis>

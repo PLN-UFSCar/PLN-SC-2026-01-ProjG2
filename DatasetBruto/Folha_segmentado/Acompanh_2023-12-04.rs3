@@ -1,0 +1,164 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O mercado financeiro iniciou a semana em aversão a risco nesta segunda-feira (4).</segment>
+    <segment id="2">Os juros dos títulos do Tesouro dos Estados Unidos</segment>
+    <segment id="3">, os chamados treasuries</segment>
+    <segment id="4">, voltaram a subir e derrubaram as principais Bolsas globais.</segment>
+    <segment id="5">O Ibovespa terminou a sessão em queda de 1</segment>
+    <segment id="6">,07%, a 126.803 pontos.</segment>
+    <segment id="7">O dólar fechou em alta de 1</segment>
+    <segment id="8">,38%, a R$ 4</segment>
+    <segment id="9">,9478.</segment>
+    <segment id="10">Na sexta (1º)</segment>
+    <segment id="11">, a moeda americana terminou o pregão cotada a R$ 4</segment>
+    <segment id="12">,88.</segment>
+    <segment id="13">Ibovespa opera em queda nesta segunda (4)</segment>
+    <segment id="14">, em linha com os índices dos EUA- Diego Padgurschi/FolhapressEm Wall Street</segment>
+    <segment id="15">, os principais índices acionários também fecharam em queda.</segment>
+    <segment id="16">O S&amp;amp</segment>
+    <segment id="17">;P 500 caiu 0</segment>
+    <segment id="18">,54% e o Dow Jones</segment>
+    <segment id="19">, 0,11%.</segment>
+    <segment id="20">O Nasdaq recuou 0</segment>
+    <segment id="21">,84%.</segment>
+    <segment id="22">O viés negativo no mercado de renda variável global reflete a alta dos rendimentos dos treasuries.</segment>
+    <segment id="23">O rendimento do título de dez anos do governo dos EUA subiu de 4</segment>
+    <segment id="24">,22% no pregão anterior —o menor patamar em três meses— para 4</segment>
+    <segment id="25">,28% nesta segunda.</segment>
+    <segment id="26">O título de dois anos foi de 4</segment>
+    <segment id="27">,56% para 4</segment>
+    <segment id="28">,64%</segment>
+    <segment id="29">Na semana passada</segment>
+    <segment id="30">, o dólar teve sua terceira semana seguida de queda</segment>
+    <segment id="31">, em linha com ao recuo nas taxas de juro americanas</segment>
+    <segment id="32">, uma vez que vêm crescendo as apostas de que o Fed (Banco Central dos EUA) teria encerrado seu ciclo de aperto monetário</segment>
+    <segment id="33">, podendo começar a cortar os juros no primeiro semestre do ano que vem.</segment>
+    <segment id="34">Buscando balizar essas expectativas</segment>
+    <segment id="35">, investidores voltarão suas atenções para o Jolts e o payroll</segment>
+    <segment id="36">, relatórios do mercado de trabalho americano que serão divulgados na terça (5) e na sexta (8)</segment>
+    <segment id="37">, respectivamente.</segment>
+    <segment id="38">Dados fracos tendem a reforçar apostas num Fed mais brando</segment>
+    <segment id="39">, masmas surpresas para cima provavelmente reverteriam o recente otimismo do mercado global</segment>
+    <segment id="40">, podendo elevar a demanda pela segurança do dólar.</segment>
+    <segment id="41">"</segment>
+    <segment id="42">A questão agora é</segment>
+    <segment id="43">sese a queda das taxas e do dólar foram excessivas.</segment>
+    <segment id="44">Informações cruciais sobre o mercado de trabalho dos Estados Unidos nesta semana devem ajudar tanto os mercados quanto o Federal Reserve a responder a essa pergunta"</segment>
+    <segment id="45">, disse Eduardo Moutinho</segment>
+    <segment id="46">, analista de mercado da Ebury.</segment>
+    <segment id="47">Por enquanto</segment>
+    <segment id="48">, a economia americana vai dando sinais de desaceleração.</segment>
+    <segment id="49">As novas encomendas de produtos fabricados nos EUA caíram mais do que o esperado em outubro</segment>
+    <segment id="50">, na maior queda mensal em três anos e meio</segment>
+    <segment id="51">, diante do enfraquecimento da demanda por bens duráveis e equipamentos de transportes.</segment>
+    <segment id="52">Os pedidos caíram 3</segment>
+    <segment id="53">,6% após queda de 2</segment>
+    <segment id="54">,3% em setembro</segment>
+    <segment id="55">, em dado revisado para baixo</segment>
+    <segment id="56">, informou o Departamento de Comércio nesta segunda</segment>
+    <segment id="57">, a maior queda desde abril de 2020.</segment>
+    <segment id="58">Economistas consultados pela Reuters previam que os pedidos diminuiriam 2</segment>
+    <segment id="59">,8%.</segment>
+    <segment id="60">Na comparação com outubro de 2022</segment>
+    <segment id="61">, as encomendas avançaram 0</segment>
+    <segment id="62">,5%.</segment>
+    <segment id="63">Também colaborava para a alta da divisa americana frente ao real nesta sessão a queda nos preços de commodities importantes</segment>
+    <segment id="64">, como</segment>
+    <segment id="65">como petróleo e minério de ferro.</segment>
+    <segment id="66">O barril de petróleo Brent (referência internacional) caiu 1</segment>
+    <segment id="67">,08%, a US$ 78</segment>
+    <segment id="68">,03.</segment>
+    <segment id="69">O minério de ferro</segment>
+    <segment id="70">, por sua vez</segment>
+    <segment id="71">, cedeu 1</segment>
+    <segment id="72">,14%, a 958 iuanes (US$ 135) a tonelada</segment>
+    <segment id="73">, na Bolsa chinesa de Dalian</segment>
+    <segment id="74">, menor valor desde 30 de novembro.</segment>
+    <segment id="75">Petrobras e Vale acompanharam.</segment>
+    <segment id="76">A petroleira 2</segment>
+    <segment id="77">,13%, a R$ 34</segment>
+    <segment id="78">,91 cada ação</segment>
+    <segment id="79">, e a mineradora perdeu 2</segment>
+    <segment id="80">,25%, a R$ 73</segment>
+    <segment id="81">,53.</segment>
+    <segment id="82">Já as ações da Gol tiveram forte queda de 9</segment>
+    <segment id="83">,19%, a R$ 8</segment>
+    <segment id="84">,30 cada uma</segment>
+    <segment id="85">, após o anúncio da empresa na noite de sexta (1º) de que ela contratou a Seabury Capital uma "ampla revisão" de sua estrutura de capital.</segment>
+    <segment id="86">Para analistas do Citi</segment>
+    <segment id="87">, a decisão sugere que a companhia aérea ainda enfrenta desafios financeiros significativos.</segment>
+    <segment id="88">A Azul acompanhou e</segment>
+    <segment id="89">sese desvalorizou 5</segment>
+    <segment id="90">,82%.</segment>
+    <segment id="91">Além disso</segment>
+    <segment id="92">, o mercado reflete a estimativa de uma inflação mais alta em 2023 e em 2024</segment>
+    <segment id="93">, segundo o boletim Focus</segment>
+    <segment id="94">, e a alta no rendimento dos títulos do Tesouro americano.</segment>
+    <segment id="95">Os economistas ouvidos pelo BC (Banco Central) agora esperam que o IPCA (Índice Nacional de Preços ao Consumidor Amplo) deste ano seja 0</segment>
+    <segment id="96">,01 ponto percentual maior em relação à semana anterior</segment>
+    <segment id="97">, a 4,54%.</segment>
+    <segment id="98">Para 2024</segment>
+    <segment id="99">, a estimativa também aumentou 0</segment>
+    <segment id="100">,01 ponto percentual</segment>
+    <segment id="101">, para 3</segment>
+    <segment id="102">,92%.</segment>
+    <segment id="103">Para 2025 e 2026</segment>
+    <segment id="104">, houve manutenção da inflação em 3</segment>
+    <segment id="105">,5%.</segment>
+    <segment id="106">Preços mais altos podem ameaçar o ciclo de corte da Selic</segment>
+    <segment id="107">, que está a 12</segment>
+    <segment id="108">,25% ao ano.</segment>
+    <segment id="109">Atualmente</segment>
+    <segment id="110">, a expectativa é que o juro caia a 9</segment>
+    <segment id="111">,25% ao fim de 2024.</segment>
+    <segment id="112">Os juros futuros brasileiros acompanharam os treasuries e o temor a uma inflação mais alta.</segment>
+    <segment id="113">Após completar na sexta (1º) a quinta sessão consecutiva de baixa</segment>
+    <segment id="114">, as taxas dos DIs voltaram a subir.</segment>
+    <segment id="115">A taxa do DI para janeiro de 2025 foi para 10</segment>
+    <segment id="116">,33%, ante 10</segment>
+    <segment id="117">,28% do ajuste anterior</segment>
+    <segment id="118">, enquanto a taxa do DI para janeiro de 2026 fechou em 10%</segment>
+    <segment id="119">, ante 9</segment>
+    <segment id="120">,91% na sexta.</segment>
+    <segment id="121">A taxa para janeiro de 2027 foi de 10</segment>
+    <segment id="122">,02% para 10</segment>
+    <segment id="123">,14%.</segment>
+    <segment id="124">Entre os contratos mais longos</segment>
+    <segment id="125">, a taxa para janeiro de 2028 foi de 10</segment>
+    <segment id="126">,29% para 10</segment>
+    <segment id="127">,40%.</segment>
+    <segment id="128">O contrato para janeiro de 2031 subiu de 10</segment>
+    <segment id="129">,72% para 10</segment>
+    <segment id="130">,84%.</segment>
+    <segment id="131">Além dos dados americanos</segment>
+    <segment id="132">, outro ponto de atenção para os investidores é o PIB (Produto Interno Bruto) do Brasil no terceiro trimestre</segment>
+    <segment id="133">, que será divulgado na terça (5) e dados fiscais</segment>
+    <segment id="134">, com superávit orçamentário e relação dívida/PIB</segment>
+    <segment id="135">, que serão divulgados na quarta (6).</segment>
+    <segment id="136">Com Reuters</segment>
+    <segment id="137">Principais empresas na Bolsa brasileiraMais    novamente         de   de  de  representando</segment>
+    <segment id="138">um</segment>
+  </rst>
+</analysis>

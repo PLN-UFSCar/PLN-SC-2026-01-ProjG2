@@ -1,0 +1,59 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Nasa lança novo robô que irá investigar</segment>
+    <segment id="2">sese há vida em Marte
+CABO CANAVERAL - O maior robô de exploração extraterrestre já construído pelos cientistas foi lançado neste sábado pela Agência Espacial Americana</segment>
+    <segment id="3">, a Nasa</segment>
+    <segment id="4">, e está indo em direção a Marte.</segment>
+    <segment id="5">Ao custo de US$ 2</segment>
+    <segment id="6">,5 bilhões</segment>
+    <segment id="7">, a missão do "novo brinquedo" dos pesquisadores</segment>
+    <segment id="8">, chamado de Curiosity</segment>
+    <segment id="9">, deve chegar ao planeta em nove meses e irá investigar</segment>
+    <segment id="10">sese há vida no planeta por dois anos.</segment>
+    <segment id="11">A viagem até Marte vai percorrer mais de 570 milhões de quilômetros.</segment>
+    <segment id="12">Com aproximadamente uma tonelada e do tamanho de um jipe tradicional</segment>
+    <segment id="13">, o veículo de seis rodas é uma versão bastante aprimorada dos outros equipamentos já enviados ao planeta vermelho.</segment>
+    <segment id="14">A máquina leva dez sofisticados instrumentos</segment>
+    <segment id="15">, entre eles uma furadeira e um equipamento a laser</segment>
+    <segment id="16">, para descobrir</segment>
+    <segment id="17">sese Marte tem ou já teve alguma forma de vida.</segment>
+    <segment id="18">O robô</segment>
+    <segment id="19">, chamado oficialmente de Laboratório de Ciências de Marte (MSL</segment>
+    <segment id="20">, em inglês)</segment>
+    <segment id="21">, é dotado de uma bateria nuclear de plutônio e</segment>
+    <segment id="22">, os cientistas responsáveis pela missão acreditam</segment>
+    <segment id="23">, tem capacidade para funcionar por mais de dez anos.</segment>
+    <segment id="24">O mais provável é que os equipamentos do veículo</segment>
+    <segment id="25">sese desgastem antes de sua bateria acabar.
+
+- A missão do MSL é incrivelmente importante para a agência</segment>
+    <segment id="26">, tão importante quanto a do Hubble - afirmou o diretor do Programa de Exploração de Marte</segment>
+    <segment id="27">, Doug McCuistion</segment>
+    <segment id="28">, fazendo uma comparação do robô ao telescópio mais potente da agência.</segment>
+    <segment id="29">A Nasa tem enfrentado uma onda de críticas por conta dos atrasos do programa e o aumento do orçamento.</segment>
+    <segment id="30">Mas acredita que tudo isso desaparecerá assim que o novo robô alcançar a superfície de Marte.</segment>
+  </rst>
+</analysis>

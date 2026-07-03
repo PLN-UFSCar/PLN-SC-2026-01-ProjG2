@@ -1,0 +1,64 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Quatro policiais presos por assalto
+Soldados estão entre os sete homens investigados pelo roubo a agência da cidade</segment>
+    <segment id="2">A Secretaria da Seguança Pública baiana anunciou</segment>
+    <segment id="3">, ontem</segment>
+    <segment id="4">, a desarticulação de uma quadrilha de assaltantes de bancos que atuava no Estado</segment>
+    <segment id="5">, com ramificações em São Paulo e Paraná.</segment>
+    <segment id="6">Entre os presos estão quatro soldados da Polícia Militar de Ribeira do Pombal e outros três suspeitos.</segment>
+    <segment id="7">Segundo informações do Departamento de Polícia do Interior</segment>
+    <segment id="8">, o grupo é responsável pelo assalto ao Banco do Brasil de Ribeira do Pombal.</segment>
+    <segment id="9">Foram roubados da agência</segment>
+    <segment id="10">, pelo menos</segment>
+    <segment id="11">, R$ 600 mil.</segment>
+    <segment id="12">Segundo a polícia</segment>
+    <segment id="13">, R$ 200 mil foram recuperados e devolvidos ao banco.</segment>
+    <segment id="14">O dinheiro foi achado enterrado em três locais diferentes na região.</segment>
+    <segment id="15">Rogério Oliveira dos Santos</segment>
+    <segment id="16">, vigilante da agência roubada</segment>
+    <segment id="17">, José Nivaldo Rodrigues Conceição</segment>
+    <segment id="18">, Givanildo Jesus de Santana e os soldados Luciano Railton Oliveira dos Santos</segment>
+    <segment id="19">, Antônio José Coutinho da Silva</segment>
+    <segment id="20">, Elmo Santos Batista e Jairo Santana Costa</segment>
+    <segment id="21">, da Companhia Independente da PM de Ribeira do Pombal</segment>
+    <segment id="22">, que estavam de plantão no dia do roubo</segment>
+    <segment id="23">, foram presos após as investigações.</segment>
+    <segment id="24">Os integrantes do bando que residem em  São Paulo e Paraná</segment>
+    <segment id="25">, cujos nomes foram preservados</segment>
+    <segment id="26">, já têm mandados de prisão decretados pela Justiça.</segment>
+    <segment id="27">Militares são indiciados
+
+José Nivaldo e Givanildo foram indiciados por roubo e formação de quadrilha pelo delegado Equiber dos Santos</segment>
+    <segment id="28">, titular da Delegacia de Ribeira do Pombal.</segment>
+    <segment id="29">Os soldados da PM continuarão custodiados no Batalhão de Choque</segment>
+    <segment id="30">, em Lauro de Freitas</segment>
+    <segment id="31">, até outra determinação judicial.</segment>
+    <segment id="32">O vigilante Rogério que</segment>
+    <segment id="33">, segundo a polícia</segment>
+    <segment id="34">, facilitou o acesso dos comparsas ao banco</segment>
+    <segment id="35">, está preso na 25ª Coordenadoria Regional de Polícia do Interior.</segment>
+  </rst>
+</analysis>

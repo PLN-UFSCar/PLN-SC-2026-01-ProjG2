@@ -1,0 +1,138 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Caminhando pelas arestas de um grafo com vértices em Oxford</segment>
+    <segment id="2">, Madri</segment>
+    <segment id="3">, Querétaro e na serra de Coimbra</segment>
+    <segment id="4">, descobri que a cantora portuguesa Carminho gravou "Wave"</segment>
+    <segment id="5">, de Tom Jobim.</segment>
+    <segment id="6">E foi só nesse contexto que percebi a matemática na letra: "</segment>
+    <segment id="7">O resto é mar/</segment>
+    <segment id="8">É tudo que eu não sei contar".</segment>
+    <segment id="9">Afinal</segment>
+    <segment id="10">, sr. Maestro: o que é contar quando não é narrar?</segment>
+    <segment id="11">A resposta irrefletida é simples:</segment>
+    <segment id="12">contar é reconhecer uma quantidade.</segment>
+    <segment id="13">É dizer que há 12 laranjas num cesto</segment>
+    <segment id="14">, ou que existem 11 números primos menores do que 34.</segment>
+    <segment id="15">Ou até que existem infinitos números racionais entre zero e um.</segment>
+    <segment id="16">Entretanto</segment>
+    <segment id="17">, talvez contar seja mais divertido do que apenas reconhecer quantidades.</segment>
+    <segment id="18">E mais divertido simplesmente</segment>
+    <segment id="19">porque</segment>
+    <segment id="20">porque pode ser mais matemático do que isso.</segment>
+    <segment id="21">Ilustração: Valentina Fraiz - Instituto Serrapilheira</segment>
+    <segment id="22">Um modo matemático de contar utiliza um objeto matemático conhecido por função.</segment>
+    <segment id="23">Esse objeto é uma regra que relaciona dois conjuntos</segment>
+    <segment id="24">, atribuindo a cada elemento do primeiro um</segment>
+    <segment id="25">, e apenas um</segment>
+    <segment id="26">, elemento do segundo.</segment>
+    <segment id="27">Um exemplo de função é associar a cada quadrado (com lados a medir X metros) a sua área.</segment>
+    <segment id="28">Por exemplo</segment>
+    <segment id="29">, a área do quadrado de lado 3 metros é 9 metros quadrados.</segment>
+    <segment id="30">Contar objetos com o uso de uma função é um exercício simples.</segment>
+    <segment id="31">Basta prescrever uma regra que relaciona o conjunto dos objetos que queremos contar ao conjunto dos números naturais (1</segment>
+    <segment id="32">, 2, 3 e assim por diante…).</segment>
+    <segment id="33">Ao primeiro objeto do nosso conjunto de interesse</segment>
+    <segment id="34">, associamos o número 1.</segment>
+    <segment id="35">Ao segundo</segment>
+    <segment id="36">, associamos o número 2</segment>
+    <segment id="37">, ao terceiro associamos o número 3.</segment>
+    <segment id="38">E continuamos assim até exaurir o conjunto.</segment>
+    <segment id="39">Para saber a quantidade de elementos</segment>
+    <segment id="40">, basta olhar para o valor que obtivemos para o último elemento do conjunto.</segment>
+    <segment id="41">Esse exercício é uma forma bastante particular de contar</segment>
+    <segment id="42">, quase uma simplificação de um fato muito mais geral e repleto de beleza.</segment>
+    <segment id="43">Trata-</segment>
+    <segment id="44">sese da relação entre a cardinalidade de dois conjuntos e a existência de uma função entre eles a satisfazer determinadas propriedades.</segment>
+    <segment id="45">De fato</segment>
+    <segment id="46">, considere dois conjuntos</segment>
+    <segment id="47">, A e B. Se existir uma função que associa a cada elemento de A um exclusivo elemento do conjunto B (o que quer dizer que dois elementos distintos em A estão associados a elementos distintos de B)</segment>
+    <segment id="48">, saberemos que o número de elementos de B deve ser maior ou igual ao número de elementos de A.</segment>
+    <segment id="49">Por outro lado</segment>
+    <segment id="50">, sese existir uma função que a cada elemento de A associa um elemento de B de modo que nenhum elemento de B deixe de ser escolhido</segment>
+    <segment id="51">, então o conjunto</segment>
+    <segment id="52">A terá</segment>
+    <segment id="53">, pelo menos</segment>
+    <segment id="54">, tantos elementos quanto o conjunto B.</segment>
+    <segment id="55">Uma função que satisfaz a primeira propriedade é chamada injetora</segment>
+    <segment id="56">;</segment>
+    <segment id="57">sese satisfaz a segunda</segment>
+    <segment id="58">, é sobrejetora.</segment>
+    <segment id="59">Se houver uma função entre A e B que é tanto injetora quanto sobrejetora</segment>
+    <segment id="60">, então o números de elementos de A é igual ao número de elementos de B. Assim</segment>
+    <segment id="61">, contar a quantidade de elementos de um conjunto (um cesto</segment>
+    <segment id="62">, uma gaveta</segment>
+    <segment id="63">, uma sala de espera) reduz-</segment>
+    <segment id="64">sese a encontrar uma tal função com um conjunto cujo número de elementos é conhecido.</segment>
+    <segment id="65">Ficou fácil</segment>
+    <segment id="66">, certo?</segment>
+    <segment id="67">Mas essa estratégia tem um pré-requisito: temos de conhecer o conjunto cujos elementos queremos contar.</segment>
+    <segment id="68">Imagine que</segment>
+    <segment id="69">sese quer saber qual a probabilidade de alguém adivinhar uma senha de 10 caracteres</segment>
+    <segment id="70">, criada com um alfabeto de 23 letras (minúsculas) e 10 algarismos.</segment>
+    <segment id="71">Aqui é preciso contar quantas senhas nessas condições existem.</segment>
+    <segment id="72">E talvez seja mesmo difícil lidar diretamente com este objeto.</segment>
+    <segment id="73">Uma caixa de ferramentas matemáticas verdadeiramente poderosa para o exercício de contar é a combinatória.</segment>
+    <segment id="74">No exemplo concreto das senhas</segment>
+    <segment id="75">, basta notar que um alfabeto de 23 letras e uma lista de 10 algarismos oferecem 33 opções para cada dígito.</segment>
+    <segment id="76">Assim, o número possível de senhas é 3310.</segment>
+    <segment id="77">Ou seja</segment>
+    <segment id="78">, 1 531 579 000 000 000 senhas.</segment>
+    <segment id="79">Já a chance de alguém adivinhar uma tal senha na primeira tentativa é de 1 em 1 531 579 000 000 000.</segment>
+    <segment id="80">Ou 1 dividido por 1 531 579 000 000 000.</segment>
+    <segment id="81">Isto é</segment>
+    <segment id="82">, aproximadamente</segment>
+    <segment id="83">, 0,00000000000006%.</segment>
+    <segment id="84">E a resposta mudaria</segment>
+    <segment id="85">casocaso incluíssemos as letras maiúsculas no processo.</segment>
+    <segment id="86">É que haveria 46 possibilidades de letras e as mesmas 10 possibilidades de números</segment>
+    <segment id="87">, gerando 56 opções para cada caractere da senha.</segment>
+    <segment id="88">Além de frutas em um cesto e senhas com tais e tais características</segment>
+    <segment id="89">, queremos contar mais coisas!</segment>
+    <segment id="90">Por exemplo</segment>
+    <segment id="91">, queremos saber quantas vezes o dia 20 de abril caiu em uma quinta-feira depois da queda do Muro de Berlim.</segment>
+    <segment id="92">Ou quantas sextas-feiras 13 há em um ano em que 13 de janeiro é uma quarta-feira.</segment>
+    <segment id="93">(A resposta à última pergunta é uma única sexta-feira 13!</segment>
+    <segment id="94">Mas como</segment>
+    <segment id="95">como se</segment>
+    <segment id="96">se chega a ela é um tema pra uma outra conversa.)</segment>
+    <segment id="97">Apesar de parecer simples</segment>
+    <segment id="98">, contar pode ser bem complicado.</segment>
+    <segment id="99">E apesar de ser sempre divertido</segment>
+    <segment id="100">, pode envolver fatos novos</segment>
+    <segment id="101">, a princípio não relacionados com a tarefa.</segment>
+    <segment id="102">De qualquer maneira</segment>
+    <segment id="103">, experimentar contar</segment>
+    <segment id="104">, e internalizar o exercício intelectual que isso representa</segment>
+    <segment id="105">, pode ser um grande aliado para naturalizar o pensamento matemático.</segment>
+    <segment id="106">Já sese perdeu a conta de quantas vezes deu certo.  *  Edgard Pimentel é pesquisador do Centro de Matemática da Universidade de Coimbra.</segment>
+    <segment id="107">O blog Ciência Fundamental é editado pelo Serrapilheira</segment>
+    <segment id="108">, um instituto privado</segment>
+    <segment id="109">, sem fins lucrativos</segment>
+    <segment id="110">, que promove a ciência no Brasil.</segment>
+    <segment id="111">Inscreva-</segment>
+    <segment id="112">sese na newsletter do Serrapilheira para acompanhar as novidades do instituto e do blog.</segment>
+  </rst>
+</analysis>

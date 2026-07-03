@@ -1,0 +1,48 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governador do Rio de Janeiro</segment>
+    <segment id="2">, Claudio Castro (PL)</segment>
+    <segment id="3">, sancionou a lei 10.152/23 nesta quarta-feira (25)</segment>
+    <segment id="4">, sancionando a cota de tela nos cinemas de todo o estado.</segment>
+    <segment id="5">A sanção foi feita com vetos e publicada em edição extra do Diário Oficial do Estado.</segment>
+    <segment id="6">O projeto de lei</segment>
+    <segment id="7">, escrito pelo deputado Munir Neto (PSD)</segment>
+    <segment id="8">, estabelece um número mínimo de exibições para filmes brasileiros no circuito estadual.</segment>
+    <segment id="9">O texto foi aprovado pela Alerj em setembro.</segment>
+    <segment id="10">Sala de cinema no Rio de Janeiro - Ricardo Borges/Folhapress</segment>
+    <segment id="11">No texto do projeto</segment>
+    <segment id="12">, Castro vetou o artigo que prescrevia um número de dias obrigatório para a exibição de filmes nacionais</segment>
+    <segment id="13">, baseado no número de salas da rede de exibição.</segment>
+    <segment id="14">Ele também vetou as partes que dizem respeito à quantidade máxima de salas de um complexo exibindo o mesmo título estrangeiro e ao volume mínimo de produções brasileiras que devem passar no ano.</segment>
+    <segment id="15">O governador ainda vetou os artigos que exigiam a implementação gradual da lei em 24 meses e garantiam multa de 5% da receita bruta diária da bilheteria aos cinemas que desrespeitassem a lei.</segment>
+    <segment id="16">Veja os famosos no Festival de Cinema do RioMais    novamente         de   de  de  representando um  Na sanção do projeto de lei</segment>
+    <segment id="17">, a administração do estado afirma que todos esses parâmetros serão estabelecidos a cada ano e pelas vias de decreto.</segment>
+    <segment id="18">Essas metas</segment>
+    <segment id="19">, segundo o governo</segment>
+    <segment id="20">, serão estabelecidas a partir de conversas com entidades que representam os produtores</segment>
+    <segment id="21">, os distribuidores e os exibidores.</segment>
+    <segment id="22">A expectativa é que o projeto de lei passe a valer ainda este ano.</segment>
+  </rst>
+</analysis>

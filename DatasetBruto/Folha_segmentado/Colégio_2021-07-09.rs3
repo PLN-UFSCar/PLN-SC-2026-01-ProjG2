@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Colégio Bandeirantes iniciou a construção de seu novo prédio ao lado da sede</segment>
+    <segment id="2">, na Vila Mariana</segment>
+    <segment id="3">, com capacidade para 1.400 alunos.</segment>
+    <segment id="4">Serão 11 andares</segment>
+    <segment id="5">, mais de 12 mil metros quadrados e 49 salas de aula</segment>
+    <segment id="6">, além de biblioteca</segment>
+    <segment id="7">, refeitório e quadra poliesportiva.</segment>
+    <segment id="8">A obra deve ficar pronta no segundo semestre de 2022.</segment>
+    <segment id="9">Com a ampliação</segment>
+    <segment id="10">, a partir de 2023</segment>
+    <segment id="11">, o Bandeirantes entra em um segmento no qual ainda não atuava</segment>
+    <segment id="12">, o ensino fundamental 1</segment>
+    <segment id="13">, do 1º ao 5º ano.</segment>
+    <segment id="14">Hoje, a escola tem mais de 2.600 alunos</segment>
+    <segment id="15">, em turmas do 6º ao 9º ano</segment>
+    <segment id="16">, além do ensino médio.</segment>
+    <segment id="17">Colégio Bandeirantes</segment>
+    <segment id="18">, em SPMais    novamente         de   de  de  representando um  com Mariana Grazini e Andressa Motter</segment>
+  </rst>
+</analysis>

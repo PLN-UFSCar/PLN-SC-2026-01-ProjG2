@@ -1,0 +1,123 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O prefeito de São Paulo</segment>
+    <segment id="2">, Ricardo Nunes (MDB)</segment>
+    <segment id="3">, disparou críticas contra a Enel e o presidente da empresa</segment>
+    <segment id="4">, Max Xavier Lins</segment>
+    <segment id="5">, durante um evento que precisou</segment>
+    <segment id="6">sese cancelado por falta de luz na manhã desta quarta (10).</segment>
+    <segment id="7">O temporal de terça (9) deixou transtornos na capital</segment>
+    <segment id="8">, com árvores caídas sobre fios e postes</segment>
+    <segment id="9">, falta de energia elétrica e semáforos inoperantes.</segment>
+    <segment id="10">Segundo Nunes</segment>
+    <segment id="11">, é mentirosa a declaração de Lins de que há 800 caminhões da empresa trabalhando em reparos na cidade nesta quarta-feira.</segment>
+    <segment id="12">O prefeito afirmou que vai à Justiça contra a concessionária e que fará uma nova representação à Aneel (Agência Nacional de Energia Elétrica)</segment>
+    <segment id="13">para que</segment>
+    <segment id="14">para que a empresa deixe a cidade.</segment>
+    <segment id="15">"</segment>
+    <segment id="16">A gente está levantando todos os dados</segment>
+    <segment id="17">, possivelmente protocolamos hoje.</segment>
+    <segment id="18">Vamos solicitar que eles apresentem no site deles onde estão esses caminhões.</segment>
+    <segment id="19">O Max me mandou um WhatsApp dizendo que tinha 800 equipes [nas ruas].</segment>
+    <segment id="20">Mentira</segment>
+    <segment id="21">, é mentira.</segment>
+    <segment id="22">Ele é mentiroso"</segment>
+    <segment id="23">, afirmou Nunes.</segment>
+    <segment id="24">Procurada</segment>
+    <segment id="25">, a Enel afirmou que não vai comentar as declarações.</segment>
+    <segment id="26">O prefeito de São Paulo</segment>
+    <segment id="27">, Ricardo Nunes (MDB) - Jardiel Carvalho - 25.set.2023/FolhapressO prefeito quer que a Justiça determine que o site da Enel exiba informações completas sobre os pedidos de restabelecimento de energia</segment>
+    <segment id="28">, como</segment>
+    <segment id="29">como data e horário da solicitação</segment>
+    <segment id="30">, e que a localização dos caminhões da companhia esteja disponível online</segment>
+    <segment id="31">, em aplicativos.</segment>
+    <segment id="32">As tempestades desta segunda (8) e terça deixaram milhares de pessoas sem energia elétrica em São Paulo.</segment>
+    <segment id="33">Nesta quarta (10)</segment>
+    <segment id="34">, a falta de luz provocou o cancelamento da cerimônia de posse dos conselheiros tutelares em uma unidade da Unip da Vila Clementino.</segment>
+    <segment id="35">Nunes chegou a ir ao local</segment>
+    <segment id="36">, onde falou com jornalistas sobre as ações contra a Enel</segment>
+    <segment id="37">, masmas o evento foi cancelado.</segment>
+    <segment id="38">Havia geradores à disposição</segment>
+    <segment id="39">, masmas os equipamentos não aguentaram a demanda do ar-condicionado.</segment>
+    <segment id="40">Cenário de destruição após a chuva em São PauloMais    novamente         de   de  de  representando um  Segundo Nunes</segment>
+    <segment id="41">, a queda de uma árvore causou a interrupção do fornecimento de energia.</segment>
+    <segment id="42">O prefeito criticou a demora da Enel em restabelecer o serviço.</segment>
+    <segment id="43">"</segment>
+    <segment id="44">A gente está com esse sofrimento de uma empresa que fala que tem um plano de contingência</segment>
+    <segment id="45">, porque</segment>
+    <segment id="46">porque quando a gente ganhou a ação</segment>
+    <segment id="47">, a primeira</segment>
+    <segment id="48">, daquilo ocorrido no dia 3 de novembro</segment>
+    <segment id="49">, a Justiça concedeu para a Prefeitura de São Paulo que eles apresentassem o plano de contingência e cumprissem</segment>
+    <segment id="50">, masmas eles não cumpriram"</segment>
+    <segment id="51">, afirmou.</segment>
+    <segment id="52">Em decorrência disso</segment>
+    <segment id="53">, Nunes afirmou que vai registrar uma nova representação na Aneel.</segment>
+    <segment id="54">"</segment>
+    <segment id="55">Vamos fazer uma representação na Aneel</segment>
+    <segment id="56">porque</segment>
+    <segment id="57">porque tem que acabar</segment>
+    <segment id="58">, essa empresa precisa sair daqui.</segment>
+    <segment id="59">Não compete à prefeitura</segment>
+    <segment id="60">, porque</segment>
+    <segment id="61">porque é um órgão federal.</segment>
+    <segment id="62">Nós vamos notificar dizendo o seguinte: já aconteceu lá em novembro</segment>
+    <segment id="63">, aconteceu de novo</segment>
+    <segment id="64">, esse é o terceiro grande episódio onde a Enel não dá resposta"</segment>
+    <segment id="65">, afirmou.</segment>
+    <segment id="66">Nunes também</segment>
+    <segment id="67">sese queixou da Aneel.</segment>
+    <segment id="68">Segundo ele</segment>
+    <segment id="69">, a agência reguladora teria dito que faria uma fiscalização contundente da Enel e que apresentaria a ações a serem tomadas</segment>
+    <segment id="70">, o que não teria ocorrido.</segment>
+    <segment id="71">"</segment>
+    <segment id="72">Isso aconteceu lá em novembro.</segment>
+    <segment id="73">Até agora a agência nacional não apresentou nada</segment>
+    <segment id="74">, e a gente tem previsão de que até o final de março a gente vai ter problema [com chuvas].</segment>
+    <segment id="75">Imagina a gente passar três meses com uma empresa aqui com essa irresponsabilidade.</segment>
+    <segment id="76">A cidade não aguenta mais"</segment>
+    <segment id="77">, concluiu.</segment>
+    <segment id="78">Questionada</segment>
+    <segment id="79">, a Aneel respondeu que "o tema é prioridade" e que segue com seu cronograma de trabalho para apurar as responsabilidades sobre os efeitos do temporal de 3 de novembro.</segment>
+    <segment id="80">"</segment>
+    <segment id="81">Foram instaurados processos de fiscalização nas sete distribuidoras que atendem o estado de SP e nesses processos estão sendo analisadas diversas dimensões do problema"</segment>
+    <segment id="82">, disse a Aneel</segment>
+    <segment id="83">, como</segment>
+    <segment id="84">como a preparação das distribuidoras para eventos críticos</segment>
+    <segment id="85">, o desempenho na prevenção dos seus efeitos</segment>
+    <segment id="86">, a capacidade de restabelecimento de energia</segment>
+    <segment id="87">, por exemplo.  "</segment>
+    <segment id="88">Nesse processo</segment>
+    <segment id="89">, estão sendo apuradas as responsabilidades para aplicação de sanções cabíveis"</segment>
+    <segment id="90">, acrescentou a agência.</segment>
+    <segment id="91">A Aneel disse ainda que</segment>
+    <segment id="92">, "nos últimos cinco anos</segment>
+    <segment id="93">, foram instaurados 17 processos de fiscalização nas concessionárias do estado de São Paulo</segment>
+    <segment id="94">, com penalidades da ordem de R$ 211 milhões"</segment>
+    <segment id="95">, e que "apenas em 2023 as concessionárias do estado de São Paulo ressarciram mais de R$ 160 milhões diretamente aos consumidores afetados por falta de energia".</segment>
+    <segment id="96">Temporal deixa ao menos uma morte</segment>
+    <segment id="97">, alagamentos e bairros sem luz em São PauloMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

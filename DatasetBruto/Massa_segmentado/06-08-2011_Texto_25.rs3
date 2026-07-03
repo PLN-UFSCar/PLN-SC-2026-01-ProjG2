@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Terceira pessoa teria participado de briga em boate</segment>
+    <segment id="2">, diz delegado
+RIO - É possível que uma terceira pessoa também esteja envolvida na briga na boate The Week</segment>
+    <segment id="3">, que culminou na morte do policial civil Marcelo Bittencourt</segment>
+    <segment id="4">, agente da 13ª DP (Ipanema).</segment>
+    <segment id="5">O sargento da PM Marco Oliveira Caetano Ferreira foi baleado no rosto e operado no Hospital da Polícia Militar.</segment>
+    <segment id="6">Ele passa bem</segment>
+    <segment id="7">, masmas não consegue falar.</segment>
+    <segment id="8">A participação de mais uma pessoa foi apontada pelo titular da Delegacia de Homicídios</segment>
+    <segment id="9">, Felipe Ettori</segment>
+    <segment id="10">, no início da noite deste sábado.</segment>
+    <segment id="11">O circuito interno de segurança registrou a confusão</segment>
+    <segment id="12">, masmas devido a um problema técnico as imagens ainda não foram examinadas pela polícia.</segment>
+    <segment id="13">Segundo testemunhas</segment>
+    <segment id="14">, a briga aconteceu perto do balcão de pagamentos.</segment>
+  </rst>
+</analysis>

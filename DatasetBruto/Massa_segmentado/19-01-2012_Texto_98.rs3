@@ -1,0 +1,48 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Usuários do ferry enfrentam longas filas</segment>
+    <segment id="2">Em Salvador</segment>
+    <segment id="3">, a fila sai do Terminal e ultrapassa a Feira de São Joaquim</segment>
+    <segment id="4">Usuários do Sistema Ferryboat enfrentam longas filas para fazer a travessia de carro nesta quinta-feira (19).</segment>
+    <segment id="5">Em Salvador</segment>
+    <segment id="6">, a fila sai do Terminal e ultrapassa a Feira de São Joaquim.</segment>
+    <segment id="7">De acordo com a assessoria da TWB</segment>
+    <segment id="8">, empresa responsável pelo ferry</segment>
+    <segment id="9">, o problema</segment>
+    <segment id="10">, que também acontece em Bom Despacho</segment>
+    <segment id="11">, é provocado pela intensa demanda de passageiros.</segment>
+    <segment id="12">Cinco ferries operam nesta manhã e uma sexta embarcação vai reforçar a travessia nesta tarde</segment>
+    <segment id="13">, informa a TWB.</segment>
+    <segment id="14">Um sétimo ferry passa por manutenção preventiva.</segment>
+    <segment id="15">Além da demora</segment>
+    <segment id="16">, os usuários também reclamaram de dificuldade para comprar o bilhete de hora marcada.</segment>
+    <segment id="17">De acordo com a empresa</segment>
+    <segment id="18">, foi aberto</segment>
+    <segment id="19">, nesta quarta</segment>
+    <segment id="20">, um lote para viagens entre 1º e 18 de fevereiro</segment>
+    <segment id="21">, masmas as passagens já esgotaram.</segment>
+    <segment id="22">Não há previsão de abertura de um novo lote.</segment>
+  </rst>
+</analysis>

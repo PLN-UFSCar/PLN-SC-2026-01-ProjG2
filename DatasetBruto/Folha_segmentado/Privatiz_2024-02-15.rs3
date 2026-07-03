@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O contrato de privatização da Sabesp vai prever indicadores de qualidade do asfalto após obras de manutenção realizadas nas redes de água e esgoto.</segment>
+    <segment id="2">A má qualidade do serviço em ruas e avenidas é uma das principais reclamações de prefeitos de municípios atendidos.</segment>
+    <segment id="3">Obra da Sabesp em Ubatuba</segment>
+    <segment id="4">, litoral norte -Wendell Marques/FolhapressEssa é uma das metas previstas no contrato de concessão da empresa</segment>
+    <segment id="5">, que terá consulta pública aberta nesta quinta-feira (15) pelo governo de São Paulo.</segment>
+    <segment id="6">No novo contrato</segment>
+    <segment id="7">, haverá um indicador para o tempo de reposição do asfalto e outro para a qualidade do asfalto recuperado.</segment>
+    <segment id="8">Caso a Sabesp não cumpra as metas</segment>
+    <segment id="9">, pode ser penalizada com desconto na tarifa ao consumidor.</segment>
+    <segment id="10">A privatização da Sabesp é o principal ponto da agenda econômica do governador Tarcísio de Freitas (Republicanos).</segment>
+    <segment id="11">A venda já foi aprovada pela Assembleia Legislativa no ano passado e deve ser concretizada ainda em 2024.</segment>
+    <segment id="12">A aprovação dos municípios na área de atuação da empresa é considerada crucial para o sucesso da operação.</segment>
+    <segment id="13">A promessa de ter metas para a qualidade do asfalto é um gesto para os gestores locais.</segment>
+  </rst>
+</analysis>

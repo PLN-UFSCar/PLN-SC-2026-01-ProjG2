@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O preferido dos brasileiros</segment>
+    <segment id="2">Silvio Santos é mais admirado que Jesus Cristo</segment>
+    <segment id="3">Uma pesquisa realizada pelo instituto inglês Future Poll para a marca Johnnie Walker revelou que o apresentador Silvio Santos</segment>
+    <segment id="4">, 80 anos</segment>
+    <segment id="5">, é a personalidade mais admirada pelos brasileiros.</segment>
+    <segment id="6">O comandante do SBT aparece à frente até de Jesus Cristo no levantamento.</segment>
+    <segment id="7">Silvio superou ainda o empresário americano Bill Gates (segunda posição)</segment>
+    <segment id="8">, o ex-presidente Lula (terceira) e a atriz Angelina Jolie (quarta).</segment>
+    <segment id="9">Jesus Cristo aparece em quinto lugar</segment>
+    <segment id="10">, seguido pelo bilionário brasileiro Eike Batista</segment>
+    <segment id="11">, o piloto de Fórmula 1 Ayrton Senna</segment>
+    <segment id="12">, o ex-jogador Ronaldo</segment>
+    <segment id="13">, o líder pacifista indiano Gandhi e Pelé.</segment>
+    <segment id="14">Para a pesquisa</segment>
+    <segment id="15">, foram ouvidos mil homens e mulheres entre 25 e 45 anos.</segment>
+    <segment id="16">O estudo também apontou que 68% dos entrevistados não acreditam que ser bem-sucedido na vida está diretamente ligado a acumular fortuna.</segment>
+    <segment id="17">Além disso</segment>
+    <segment id="18">, o Brasil é o que mais valoriza a inteligência entre todos os países pesquisados</segment>
+    <segment id="19">, com uma média de 80% dos entrevistados.</segment>
+  </rst>
+</analysis>

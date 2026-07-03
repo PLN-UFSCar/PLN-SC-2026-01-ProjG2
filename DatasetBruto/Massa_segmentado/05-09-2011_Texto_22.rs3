@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Dani Mangá
+Ela vai representar o Bahia na Globo
+Dani Mangá confirmou seu favoritismo e foi eleita a representante do Bahia no concurso Musa do Brasileirão</segment>
+    <segment id="2">, promovido pelo  Caldeirão do Huck.</segment>
+    <segment id="3">As 20 candidatas dos times da Série</segment>
+    <segment id="4">A foram apresentadas ontem no programa Esporte Espetacular e mostraram que a parada não vai ser fácil para Dani.</segment>
+    <segment id="5">A musa já foi capa do MASSA!</segment>
+    <segment id="6">, ocasião em que</segment>
+    <segment id="7">sese declarou fã do jornal.</segment>
+    <segment id="8">Danielle Oliveira</segment>
+    <segment id="9">, que está atualmente solteira</segment>
+    <segment id="10">, ganhou os noticiários de todo o país após seu envolvimento com Ronaldinho Gaúcho.</segment>
+    <segment id="11">No mês passado</segment>
+    <segment id="12">, a gata  foi eleita a Coelhinha do Ano da revista Playboy.</segment>
+  </rst>
+</analysis>

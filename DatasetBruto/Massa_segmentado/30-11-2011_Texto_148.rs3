@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Lady Gaga e Katy Perry são cortadas de 'Os Muppets'
+RIO - A nova versão de "</segment>
+    <segment id="2">Os Muppets" chega aos cinemas americanos dia 23 de novembro.</segment>
+    <segment id="3">O que nem todo mundo sabe é que Lady Gaga e Katy Perry fariam uma participação especial no filme.</segment>
+    <segment id="4">Lady Gaga apareceria dançando "Vogue"</segment>
+    <segment id="5">, de Madonna.</segment>
+    <segment id="6">Já Katy Perry cantaria uma paródia de "</segment>
+    <segment id="7">I kissed a girl"</segment>
+    <segment id="8">, que se</segment>
+    <segment id="9">se transformaria em "I kissed a squirrel".</segment>
+    <segment id="10">As duas cenas teria a participação de Miss Piggy</segment>
+    <segment id="11">, completando o time de divas</segment>
+    <segment id="12">, segundo o site Pop Crush.</segment>
+    <segment id="13">A explicação dos diretores é que o filme bruto estaria com três horas de duração.</segment>
+    <segment id="14">Para chegar aos 98 minutos previstos houve a necessidade de fazer cortes.</segment>
+    <segment id="15">Mas justamente nestas cenas?</segment>
+  </rst>
+</analysis>

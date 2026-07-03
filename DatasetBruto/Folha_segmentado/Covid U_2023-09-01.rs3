@@ -1,0 +1,95 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Você já recebeu duas doses da vacina contra Covid e uma ou duas doses de reforço (dependendo da sua idade)</segment>
+    <segment id="2">, então</segment>
+    <segment id="3">, seu esquema vacinal está completo e não precisa mais</segment>
+    <segment id="4">sese preocupar com isso.</segment>
+    <segment id="5">Se está pensando isso</segment>
+    <segment id="6">, vale repensar e ir agora mesmo tomar a bivalente.</segment>
+    <segment id="7">Além disso</segment>
+    <segment id="8">, segundo especialistas</segment>
+    <segment id="9">, não é preciso esperar por versões atualizadas do imunizante.</segment>
+    <segment id="10">"</segment>
+    <segment id="11">Ter vacinas disponíveis na mais nova versão do vírus [Sars-Cov-2] é algo praticamente impossível"</segment>
+    <segment id="12">, diz Renato Kfouri</segment>
+    <segment id="13">, presidente do departamento de imunologia da SBP (Sociedade Brasileira de Pediatria).</segment>
+    <segment id="14">"Não vamos esperar a última versão de uma nova vacina</segment>
+    <segment id="15">porque</segment>
+    <segment id="16">porque assim que chegar aqui vai ter outra variante circulando.</segment>
+    <segment id="17">"</segment>
+    <segment id="18">Pessoas esperam aplicação da vacina bivalente em UBS na capital paulista - Rubens Cavallari - 27.fev.2023/Folhapress</segment>
+    <segment id="19">A opinião é compartilhada por Raquel Stucchi</segment>
+    <segment id="20">, infectologista e professora da Unicamp (Universidade Estadual de Campinas).</segment>
+    <segment id="21">"Teremos as vacinas atualizadas para as novas variantes para o ano que vem</segment>
+    <segment id="22">, provavelmente</segment>
+    <segment id="23">, não será para este ano"</segment>
+    <segment id="24">, diz Stucchi.</segment>
+    <segment id="25">"</segment>
+    <segment id="26">Então, com o objetivo de diminuir o risco de termos uma nova onda de internações com pacientes graves</segment>
+    <segment id="27">, é importante que as pessoas atualizem a sua vacinação já.</segment>
+    <segment id="28">"</segment>
+    <segment id="29">Atualmente</segment>
+    <segment id="30">, o reforço com a bivalente está disponível para todo o público acima de 18 anos de idade.</segment>
+    <segment id="31">Quem ainda não tomou uma nova dose pode buscá-la em Unidades Básicas de Saúde.</segment>
+    <segment id="32">As bivalentes são versões atualizadas dos imunizantes contra Covid contendo a cepa original de Wuhan combinada com a ômicron</segment>
+    <segment id="33">, atualmente a predominante em todo o mundo.</segment>
+    <segment id="34">O estado de São Paulo disponibiliza um site no qual é possível encontrar postos de vacinação próximos.</segment>
+    <segment id="35">A Prefeitura de São Paulo mantém o site De Olho na Fila</segment>
+    <segment id="36">, em que é possível verificar os postos em funcionamento na cidade e as vacinas disponíveis em cada um deles.</segment>
+    <segment id="37">Reportagem de junho da Folha mostrou que</segment>
+    <segment id="38">, até aquele mês</segment>
+    <segment id="39">, só 13% do público elegível no Brasil havia tomado a dose bivalente</segment>
+    <segment id="40">, com uma cobertura especialmente baixa entre os mais jovens.</segment>
+    <segment id="41">Segundo Kfouri</segment>
+    <segment id="42">, as cepas encontradas em circulação pelo país atualmente são subvariantes da ômicron.</segment>
+    <segment id="43">Isso leva a uma boa ação do imunizante bivalente da Pfizer disponível no Brasil</segment>
+    <segment id="44">, desenvolvido já com subvariantes da ômicron (mais especificamente a linhagem BA.4/5) em mente.</segment>
+    <segment id="45">Recentemente</segment>
+    <segment id="46">, o Ministério da Saúde anunciou o primeiro</segment>
+    <segment id="47">casocaso no Brasil de detecção da linhagem EG.5</segment>
+    <segment id="48">, que descende da XBB.1.9.2</segment>
+    <segment id="49">, que por sua vez é derivada da XBB.1.5 da ômicron.</segment>
+    <segment id="50">A EG.5 foi reportada pela primeira vez em 17 de fevereiro e é considerada uma subvariante de interesse.</segment>
+    <segment id="51">Kfouri ressalta que ainda não é possível ter uma previsibilidade na Covid semelhante ao que</segment>
+    <segment id="52">sese vê na gripe</segment>
+    <segment id="53">, na qual é possível antever com um grau razoável de segurança qual será a cepa dominante no hemisfério Sul no próximo ano.</segment>
+    <segment id="54">Dessa forma</segment>
+    <segment id="55">, a vacina para o ano seguinte começa a ser preparada no ano anterior.</segment>
+    <segment id="56">"</segment>
+    <segment id="57">Isso faz com que a gente tenha tempo o suficiente para produzir vacinas com pareamento maior do que está na vacina e do que está circulando"</segment>
+    <segment id="58">, diz o especialista.</segment>
+    <segment id="59">O presidente do departamento de imunologia da SBP defende</segment>
+    <segment id="60">, ainda</segment>
+    <segment id="61">, a ideia de ampliação da aplicação da bivalente para maiores de 12 anos.</segment>
+    <segment id="62">"</segment>
+    <segment id="63">O ministério necessita diminuir urgentemente a idade"</segment>
+    <segment id="64">, afirma.</segment>
+    <segment id="65">Entre os dias 20 e 26 de agosto</segment>
+    <segment id="66">, houve 143 mortes por Covid e 13.161 novos casos da doença no país.</segment>
+    <segment id="67">Os números representam um aumento de 23% e 61% respectivamente em relação à semana epidemiológica anterior</segment>
+    <segment id="68">, de 13 a 19 de agosto.</segment>
+    <segment id="69">Os dados são do Ministério da Saúde.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,38 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">New Hit: defesa quer liberdade
+Ainda nÃ£o foi divulgado o laudo do DPT com os exames periciais feitos nas vÃ­timas</segment>
+    <segment id="2">O advogado Cleber Andrade</segment>
+    <segment id="3">, um dos responsÃ¡veis pela defesa dos nove mÃºsicos da banda New Hit â€“ presos acusados de estupro â€“ afirma que a JustiÃ§a poderÃ¡ apreciar hoje o pedido de liberdade provisÃ³ria impetrado por ele a favor dos suspeitos.</segment>
+    <segment id="4">â€œPor enquanto</segment>
+    <segment id="5">, estamos no aguardo.</segment>
+    <segment id="6">SÃ³ poderemos decidir o que fazer daqui pra frente apÃ³s essa decisÃ£oâ€</segment>
+    <segment id="7">, diz o defensor.</segment>
+    <segment id="8">Os mÃºsicos e um PM sÃ£o acusados de estuprar duas garotas de 16 anos</segment>
+    <segment id="9">, num Ã´nibus da banda</segment>
+    <segment id="10">, apÃ³s um show</segment>
+    <segment id="11">, na cidade de Ruy Barbosa.</segment>
+  </rst>
+</analysis>

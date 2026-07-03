@@ -1,0 +1,52 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Athletico acertou a venda do atacante Vitor Roque para o Barcelona-ESP.</segment>
+    <segment id="2">O jogador vai custar 74 milhões de euros (R$ 395 milhões em valores atuais) para o clube catalão</segment>
+    <segment id="3">, que já terá o atleta para o início da próxima temporada europeia</segment>
+    <segment id="4">, em agosto.</segment>
+    <segment id="5">Vitor Roque comemora gol marcado contra o Corinthians pelo Brasileiro deste ano - Rodolfo Buhrer-24.jun.23/Reuters</segment>
+    <segment id="6">Pela divisão do pagamento</segment>
+    <segment id="7">, o Athletico vai receber 40 milhões de euros (R$ 213</segment>
+    <segment id="8">,6 milhões) imediatamente.</segment>
+    <segment id="9">Outros 21 milhões de euros (R$ 112</segment>
+    <segment id="10">,1 milhões) estão condicionados a gols marcados</segment>
+    <segment id="11">, jogos disputados e títulos conquistados.</segment>
+    <segment id="12">O Barcelona ficará encarregado também de pagar 13 milhões de euros (R$ 69</segment>
+    <segment id="13">,4 milhões) de impostos.</segment>
+    <segment id="14">A negociação foi acertada na manhã deste sábado por Alexandre Mattos</segment>
+    <segment id="15">, executivo do Athletico</segment>
+    <segment id="16">, que terá direito a 20% ao lucro que o Barcelona tiver em uma eventual negociação futura da Vitor Roque.</segment>
+    <segment id="17">É a segunda maior venda de um jogador brasileiro</segment>
+    <segment id="18">, atrás apenas aos 88 milhões de euros pagos pelo mesmo Barcelona por Neymar</segment>
+    <segment id="19">, em 2013.</segment>
+    <segment id="20">Mas desse dinheiro</segment>
+    <segment id="21">, o Santos ficou apenas com 17 milhões.</segment>
+    <segment id="22">Uma das principais revelações do futebol nacional</segment>
+    <segment id="23">, Vitor Roque tem 21 gols marcados em 2023</segment>
+    <segment id="24">, somadas as partidas pelo Athletico e pela seleção brasileria sub-20.</segment>
+    <segment id="25">Ele é o vice-artilheiro do Nacional</segment>
+    <segment id="26">, com sete anotados.</segment>
+  </rst>
+</analysis>

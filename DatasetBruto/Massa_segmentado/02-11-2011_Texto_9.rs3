@@ -1,0 +1,57 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Vasco perde do Universitario</segment>
+    <segment id="2">, em Lima</segment>
+    <segment id="3">, pela Sul-Americana</segment>
+    <segment id="4">Vasco perde por 2 a 0
+
+RIO - Com apenas três titulares em campo (Fernando Prass</segment>
+    <segment id="5">, Fágner e Diego Souza)</segment>
+    <segment id="6">, o Vasco perdeu por 2 a 0 para o Universitario</segment>
+    <segment id="7">, do Peru</segment>
+    <segment id="8">, no Estádio Nacional de Lima</segment>
+    <segment id="9">, na partida de ida das oitavas de final da Copa Sul-Americano.</segment>
+    <segment id="10">Na partida da volta</segment>
+    <segment id="11">, quarta-feira que vem</segment>
+    <segment id="12">, em São Januário</segment>
+    <segment id="13">, o time carioca precisará vencer por três gols de diferença para</segment>
+    <segment id="14">sese classificar à fase seguinte.</segment>
+    <segment id="15">Os gols da equipe peruana foram marcados por Ruidíaz</segment>
+    <segment id="16">, em cobrança de pênalti</segment>
+    <segment id="17">, no primeiro tempo</segment>
+    <segment id="18">, e Fano</segment>
+    <segment id="19">, em jogada de contra-ataque na segunda etapa.</segment>
+    <segment id="20">Na terça-feira</segment>
+    <segment id="21">, o Independiente Santa Fé</segment>
+    <segment id="22">, da Colômbia</segment>
+    <segment id="23">, empatou em 1 a 1 com o Vélez Sarsfield</segment>
+    <segment id="24">, da Argentina</segment>
+    <segment id="25">, em Bogotá.</segment>
+    <segment id="26">Os outros jogos da rodada de ida das quartas de final serão nesta quinta-feira: LDU x Libertad</segment>
+    <segment id="27">, no Equador</segment>
+    <segment id="28">, e Arsenal x Universidad de Chile</segment>
+    <segment id="29">, na Argentina.</segment>
+  </rst>
+</analysis>

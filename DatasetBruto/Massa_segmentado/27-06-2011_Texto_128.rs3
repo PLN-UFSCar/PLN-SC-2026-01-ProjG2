@@ -1,0 +1,35 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Dia Internacional contra o Tráfico</segment>
+    <segment id="2">Foi divulgado a quantidade de drogas apreendida nesse ano</segment>
+    <segment id="3">O Departamento de Narcóticos (Denarc) da Bahia divulgou</segment>
+    <segment id="4">, ontem</segment>
+    <segment id="5">, no Dia Internacional contra o Abuso e Tráfico Ilícito de Drogas</segment>
+    <segment id="6">, que em 2012 já foram apreendidos mais de 17 toneladas de maconha</segment>
+    <segment id="7">, 14, 6 quilos de cocaína</segment>
+    <segment id="8">, 16 quilos de crack e 4 mil 468 pedras da mesma droga</segment>
+    <segment id="9">, em todo o Estado.</segment>
+  </rst>
+</analysis>

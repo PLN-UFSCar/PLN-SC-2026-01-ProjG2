@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Tentativa de assalto e saque em Itapuã</segment>
+    <segment id="2">Quatro homens tentaram assaltar a joalheria Anel e Cordão</segment>
+    <segment id="3">Quatro homens tentaram assaltar a joalheria Anel e Cordão</segment>
+    <segment id="4">, ontem</segment>
+    <segment id="5">, na Avenida Dorival Caymmi</segment>
+    <segment id="6">, em Itapuã.</segment>
+    <segment id="7">“</segment>
+    <segment id="8">Um deles saiu armado da loja</segment>
+    <segment id="9">, seguido pelo dono e o segurança</segment>
+    <segment id="10">, também armados.</segment>
+    <segment id="11">Houve troca de tiros e o Exército chegou”</segment>
+    <segment id="12">, diz a ambulante Eliene Barbosa.</segment>
+    <segment id="13">Ninguém foi preso ou prestou queixa</segment>
+    <segment id="14">, até o início da noite.</segment>
+    <segment id="15">Na madrugada</segment>
+    <segment id="16">, a Ricardo Eletro foi saqueada  por homens que invadiram a loja com um carro.</segment>
+  </rst>
+</analysis>

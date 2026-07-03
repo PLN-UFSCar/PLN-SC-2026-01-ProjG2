@@ -1,0 +1,83 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Sete entre cada dez eleitores brasileiros não definiram ainda em quem irão votar para deputado federal e estadual no pleito que ocorre daqui a pouco mais de duas semanas</segment>
+    <segment id="2">, em 2 de outubro.</segment>
+    <segment id="3">Segundo pesquisa do Datafolha</segment>
+    <segment id="4">, 69% não escolheram o nome para a Câmara dos Deputados.</segment>
+    <segment id="5">Neste ano</segment>
+    <segment id="6">, segundo os dados mais recentes e que pode não incluir eventuais desistências ou impugnações</segment>
+    <segment id="7">, há 10.603 candidatos e candidatas em todo país às 513 vagas da Casa.</segment>
+    <segment id="8">Vista do plenário da Câmara dos Deputados</segment>
+    <segment id="9">, no Congresso Nacional em Brasília - Pedro Ladeira - 3.fev.20/</segment>
+    <segment id="10">FolhapressA indecisão é maior entre os mais jovens (estrato de 16 a 24 anos</segment>
+    <segment id="11">, 77%)</segment>
+    <segment id="12">, moradores da região Sul (75%) e menos instruídos (74%).</segment>
+    <segment id="13">Também estão em jogo 27 cadeiras do Senado</segment>
+    <segment id="14">, cuja preferência não foi objeto deste levantamento do instituto.</segment>
+    <segment id="15">No nível estadual</segment>
+    <segment id="16">, há 16.735 postulantes para as 1.035 cadeiras em Assembleias Legislativas</segment>
+    <segment id="17">, além de 610 nomes buscando 1 das 24 vagas da Câmara Legislativa do Distrito Federal.</segment>
+    <segment id="18">O grau de indecisão segue o federal: 70% dizem não ter feito uma escolha.</segment>
+    <segment id="19">A pesquisa mostra um grau ainda incipiente de correlação feita pelo eleitor entre seu voto nos pleitos majoritários e a escolha para o proporcional.</segment>
+    <segment id="20">Entre os 31% que disseram ter nome para federal</segment>
+    <segment id="21">, apenas 14% dizem que vão votar em um candidato do mesmo partido de seu escolhido para a Presidência.</segment>
+    <segment id="22">Nesta mesma pesquisa</segment>
+    <segment id="23">, 78% haviam dito que já definiram seu nome para o Planalto.</segment>
+    <segment id="24">Outros 9% apontaram candidatos de partidos diferentes do da coligação majoritária</segment>
+    <segment id="25">, e 7% não souberam responder.</segment>
+    <segment id="26">A situação reflete a posição dos eleitores dos candidatos mais bem colocados na disputa presidencial</segment>
+    <segment id="27">, Luiz Inácio Lula da Silva (PT</segment>
+    <segment id="28">, 45% de intenções) e Jair Bolsonaro (PL</segment>
+    <segment id="29">, 33%).</segment>
+    <segment id="30">Dos eleitores do petista</segment>
+    <segment id="31">, 17% dizem votar em postulantes à Câmara de sua coligação</segment>
+    <segment id="32">, enquanto 8% escolheram nomes diferentes.</segment>
+    <segment id="33">Os índices são os mesmos entre quem apoia o presidente: 17% e 9%</segment>
+    <segment id="34">, respectivamente.</segment>
+    <segment id="35">Já entre os candidatos empatados no distante terceiro lugar do pleito</segment>
+    <segment id="36">, Ciro Gomes (PDT</segment>
+    <segment id="37">, 8%) e Simone Tebet (MDB</segment>
+    <segment id="38">, 5%), os dados são algo diferentes.</segment>
+    <segment id="39">Votarão em nomes do PDT</segment>
+    <segment id="40">, que não fez coligação</segment>
+    <segment id="41">, 4% dos eleitores do pedetista</segment>
+    <segment id="42">, enquanto 13% querem nomes de outras siglas.</segment>
+    <segment id="43">No caso</segment>
+    <segment id="44">caso da senadora emedebista</segment>
+    <segment id="45">, 5% acompanham sua coligação e 21%</segment>
+    <segment id="46">, outras agremiações.</segment>
+    <segment id="47">Nos estados</segment>
+    <segment id="48">, a situação</segment>
+    <segment id="49">sese repete.</segment>
+    <segment id="50">Votam em candidatos da coligação do seu escolhido para governador 15% dos ouvidos</segment>
+    <segment id="51">, enquanto 8% preferem postulantes de outros partidos e 6%</segment>
+    <segment id="52">, não sabem dizer ainda.</segment>
+    <segment id="53">O Datafolha ouviu 5.296 pessoas em 300 cidades</segment>
+    <segment id="54">, de 13 a 15 de setembro.</segment>
+    <segment id="55">A margem de erro do levantamento é de dois pontos para mais ou menos.</segment>
+    <segment id="56">Ele foi contratado pela Folha e pela TV Globo</segment>
+    <segment id="57">, sendo registrado no TSE sob o número BR-04099/2022.</segment>
+  </rst>
+</analysis>

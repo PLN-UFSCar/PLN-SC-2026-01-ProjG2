@@ -1,0 +1,222 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O contribuinte obrigado a declarar o Imposto de Renda 2023 pode contar com a declaração pré-preenchida</segment>
+    <segment id="2">, que facilita a prestação de contas à Receita Federal.</segment>
+    <segment id="3">O prazo para entregar o documento chega ao final às 23h59 desta quarta-feira (31).</segment>
+    <segment id="4">Quem é obrigado a declarar e atrasa paga multa.</segment>
+    <segment id="5">O valor mínimo é R$ 165</segment>
+    <segment id="6">,74, mas</segment>
+    <segment id="7">mas pode chegar a 20% do imposto devido no ano.</segment>
+    <segment id="8">Neste ano</segment>
+    <segment id="9">, 22% dos contribuintes já enviaram o IR usando o modelo pré-preenchido.</segment>
+    <segment id="10">A reportagem da Folha mostra hoje</segment>
+    <segment id="11">, em sete passos</segment>
+    <segment id="12">, como</segment>
+    <segment id="13">como acessar a declaração pré-preenchida</segment>
+    <segment id="14">, conferir os dados contidos nela e enviar o IR.</segment>
+    <segment id="15">Site do Governo Federal permite que o contribuinte acesse a declaração pré-preenchida do Imposto de Renda 2023 - Gabriel Cabral/FolhapressPasso a passo da declaração pré-preenchidaPasso 1:</segment>
+    <segment id="16">Escolha onde fará a declaração pré-preenchidaPasso 2:</segment>
+    <segment id="17">Saiba começar a declaração pré-preenchidaPasso 3: Confira as informações do contribuintePasso 4: Veja</segment>
+    <segment id="18">sese a empresa informou seus rendimentos tributáveis corretamentePasso 5: Insira</segment>
+    <segment id="19">, edite ou exclua dados na ficha</segment>
+    <segment id="20">Pagamentos EfetuadosPasso 6:</segment>
+    <segment id="21">Informe seus bens</segment>
+    <segment id="22">, contas em banco e investimentosPasso 7: Confira novamente as informações e envie o Imposto de RendaPasso 1: Escolha onde fará a declaração pré-preenchida</segment>
+    <segment id="23">Há três formas de ter acesso à declaração pré-preenchida do IR: pelo programa gerador da declaração</segment>
+    <segment id="24">, que deve ser baixado no computador</segment>
+    <segment id="25">; online</segment>
+    <segment id="26">, no Meu Imposto de Renda</segment>
+    <segment id="27">, por meio do e-CAC ou Portal Gov.br</segment>
+    <segment id="28">; e pelo aplicativo</segment>
+    <segment id="29">Meu Imposto de Renda para celulares e tablets.</segment>
+    <segment id="30">Quem vai acessar a declaração pelo computador deve baixar o programa no site da Receita Federal (clique aqui para ver o passo a passo).</segment>
+    <segment id="31">Já quem optar por fazer o IR online terá de ter senha gov.br para acessar a declaração pelo portal de mesmo nome ou pelo e-CAC.</segment>
+    <segment id="32">(Clique aqui para saber</segment>
+    <segment id="33">comocomo criar sua senha).</segment>
+    <segment id="34">No caso</segment>
+    <segment id="35">caso do app</segment>
+    <segment id="36">, basta baixá-lo na loja de aplicativos do seu celular.</segment>
+    <segment id="37">Para acessar</segment>
+    <segment id="38">, no entanto</segment>
+    <segment id="39">, também é necessária a senha gov.br.</segment>
+    <segment id="40">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="41">; aberta para não assinantes.</segment>
+    <segment id="42">Carregando...</segment>
+    <segment id="43">Passo 2:</segment>
+    <segment id="44">Saiba começar a declaração pré-preenchida</segment>
+    <segment id="45">No programa gerador do IR:</segment>
+    <segment id="46">Abra o IRPF 2023 e clique em "Nova"</segment>
+    <segment id="47">Escolha declaração de ajuste anual</segment>
+    <segment id="48">Vá na opção "</segment>
+    <segment id="49">Iniciar declaração a partir da pré-preenchida"</segment>
+    <segment id="50">Informe tratar-</segment>
+    <segment id="51">sese de declaração própria e clique em OK</segment>
+    <segment id="52">O sistema irá pedir a senha gov.br</segment>
+    <segment id="53">;</segment>
+    <segment id="54">será aberta nova aba Informe CPF e senha Depois</segment>
+    <segment id="55">, você será direcionado para a declaração   Página inicial do programa do Imposto de Renda no computador - ReproduçãoNo e-CAC:</segment>
+    <segment id="56">Acesse o Portal e-CAC Clique em "</segment>
+    <segment id="57">Entrar com gov.br" Informe CPF e senha Depois</segment>
+    <segment id="58">, no menu à esquerda</segment>
+    <segment id="59">, clique em "</segment>
+    <segment id="60">Meu Imposto de Renda"</segment>
+    <segment id="61">Na página seguinte</segment>
+    <segment id="62">, clique em "IRPF 2023"</segment>
+    <segment id="63">Em seguida</segment>
+    <segment id="64">, vá em "</segment>
+    <segment id="65">Preencher declaração"</segment>
+    <segment id="66">No gov.br   Acesse o Portal gov.br</segment>
+    <segment id="67">No quadro onde</segment>
+    <segment id="68">sese lê "Destaques"</segment>
+    <segment id="69">, clique em "Entregar</segment>
+    <segment id="70">Meu Imposto de Renda (DIRPF)"</segment>
+    <segment id="71">Em seguida</segment>
+    <segment id="72">, vá em "Iniciar"</segment>
+    <segment id="73">A página será redirecionada para a tela inicial do "Meu Imposto de Renda"</segment>
+    <segment id="74">Na página seguinte</segment>
+    <segment id="75">, clique em IRPF 2023</segment>
+    <segment id="76">Em seguida</segment>
+    <segment id="77">, vá em "</segment>
+    <segment id="78">Preencher declaração"</segment>
+    <segment id="79">Passo 3: Confira as informações do contribuinte</segment>
+    <segment id="80">Nesta ficha da declaração estão os dados pessoais</segment>
+    <segment id="81">comocomo nome</segment>
+    <segment id="82">, endereço</segment>
+    <segment id="83">, telefone</segment>
+    <segment id="84">, email</segment>
+    <segment id="85">, natureza da ocupação</segment>
+    <segment id="86">, sese tem doença crônica ou</segment>
+    <segment id="87">sese tem alguma deficiência e</segment>
+    <segment id="88">sese possui cônjuge ou companheiro.</segment>
+    <segment id="89">Também deve estar preenchido o número do recibo de entrega da declaração do ano anterior.</segment>
+    <segment id="90">No preenchimento online</segment>
+    <segment id="91">, há ainda o número do NIT</segment>
+    <segment id="92">, NIS ou PIS e uma aba chamada de "Familiares"</segment>
+    <segment id="93">, onde é possível inserir os dependentes.</segment>
+    <segment id="94">Sandro Rodrigues</segment>
+    <segment id="95">, economista contabilista e fundador da Attend Contabilidade</segment>
+    <segment id="96">, alerta de que a declaração pré-preenchida não traz os rendimentos dos dependentes</segment>
+    <segment id="97">, por isso</segment>
+    <segment id="98">, é preciso ter atenção neste ponto.</segment>
+    <segment id="99">Veja quem pode ser dependente no Imposto de RendaMais    novamente         de   de  de  representando um  Passo 4: Veja</segment>
+    <segment id="100">sese a empresa informou seus rendimentos tributáveis corretamente  Nestas fichas</segment>
+    <segment id="101">, estão contidas as informações referentes aos rendimentos dos contribuintes.</segment>
+    <segment id="102">As principais delas são "</segment>
+    <segment id="103">Rendimentos Tributáveis Recebidos de PJ" e "</segment>
+    <segment id="104">Rendimentos Tributáveis Recebidos de PF/Exterior".</segment>
+    <segment id="105">Os rendimentos são separados de acordo com a fonte de pagamento</segment>
+    <segment id="106">, sese tributáveis</segment>
+    <segment id="107">, isentos ou de tributação exclusiva ou definitiva.</segment>
+    <segment id="108">Deve ser informado à Receita Federal todo rendimento recebido no ano</segment>
+    <segment id="109">, entre eles salário</segment>
+    <segment id="110">, aposentadoria e aluguéis.</segment>
+    <segment id="111">É importante verificar</segment>
+    <segment id="112">sese os valores informados correspondem aos holerites</segment>
+    <segment id="113">, informes de renda e notas fiscais.</segment>
+    <segment id="114">Caso algum valor esteja incorreto</segment>
+    <segment id="115">, basta selecioná-lo</segment>
+    <segment id="116">, clicar em editar e fazer as alterações para corrigir de acordo com os informes de rendimentos que recebeu das fontes pagadoras.</segment>
+    <segment id="117">Passo 5: Insira</segment>
+    <segment id="118">, edite ou exclua dados na ficha</segment>
+    <segment id="119">Pagamentos Efetuados</segment>
+    <segment id="120">Na ficha "</segment>
+    <segment id="121">Pagamentos</segment>
+    <segment id="122">Efetuados</segment>
+    <segment id="123">"</segment>
+    <segment id="124">estão valores pagos pelo contribuinte a prestadores de serviços que podem ser deduzidos na declaração.</segment>
+    <segment id="125">O mais importante deles é o plano de saúde</segment>
+    <segment id="126">, masmas também podem constar informações de clínicas médicas ou de dentistas</segment>
+    <segment id="127">, de escolas e plano de previdência privada do tipo PGBL.</segment>
+    <segment id="128">Confira todos os valores</segment>
+    <segment id="129">, especialmente gastos referentes à educação e saúde do contribuinte e seus dependentes.</segment>
+    <segment id="130">Se há alguma despesa que constava no IR de 2022</segment>
+    <segment id="131">, masmas que não foi mais utilizada em 2023</segment>
+    <segment id="132">, exclua.</segment>
+    <segment id="133">Os valores são de responsabilidade do contribuinte.</segment>
+    <segment id="134">Só declare o que realmente tiver documento que comprove a despesa.</segment>
+    <segment id="135">O consultor Daniel Serra Lima</segment>
+    <segment id="136">, advogado tributarista e contador do escritório Maneira Advogados</segment>
+    <segment id="137">, afirma que nem sempre o recibo simples é tido</segment>
+    <segment id="138">comocomo comprovante.</segment>
+    <segment id="139">É preciso ter a comprovação de que pagou pela despesa.</segment>
+    <segment id="140">Deduções permitidas no Imposto de RendaMais    novamente         de   de  de  representando um  Passo 6:</segment>
+    <segment id="141">Informe seus bens</segment>
+    <segment id="142">, contas em banco e investimentos</segment>
+    <segment id="143">Outra ficha que deve trazer informações já preenchidas é a de "Bens e Direitos".</segment>
+    <segment id="144">Nela, ficam dados</segment>
+    <segment id="145">comocomo imóveis que o contribuinte tem</segment>
+    <segment id="146">, automóvel</segment>
+    <segment id="147">, alguns investimentos e contas bancárias.</segment>
+    <segment id="148">Conta-corrente e poupança com saldo bancário a partir de R$ 140 em 31/12/2022 devem ser declaradas.  Rodrigues</segment>
+    <segment id="149">, da Attend</segment>
+    <segment id="150">, explica que</segment>
+    <segment id="151">, no caso</segment>
+    <segment id="152">caso de alguns investimentos feitos em bancos</segment>
+    <segment id="153">, os dados constam de forma detalhada na declaração.</segment>
+    <segment id="154">"Era comum colocar</segment>
+    <segment id="155">, hipoteticamente</segment>
+    <segment id="156">, 'aplicações no banco Itaú' e o valor total.</segment>
+    <segment id="157">Agora, o banco divide aplicação por aplicação</segment>
+    <segment id="158">, entidade por entidade.</segment>
+    <segment id="159">Tem que tomar muito cuidado para excluir o que está errado ou em duplicidade"</segment>
+    <segment id="160">, afirma.</segment>
+    <segment id="161">Na declaração online</segment>
+    <segment id="162">, a ficha de bens e direitos vem junto com a de dívidas.</segment>
+    <segment id="163">Só devem ser informadas dívidas acima de R$ 5.000.</segment>
+    <segment id="164">Valores menores só vão na declaração</segment>
+    <segment id="165">sese o contribuinte julgar necessário.</segment>
+    <segment id="166">Passo 7: Confira novamente as informações e envie o Imposto de Renda  Depois de conferir todas as informações da declaração pré-preenchida</segment>
+    <segment id="167">, o contribuinte deve ir à ficha "</segment>
+    <segment id="168">Resumo da declaração"</segment>
+    <segment id="169">, onde estarão informações de rendimentos e deduções</segment>
+    <segment id="170">, e cálculo do imposto.</segment>
+    <segment id="171">No programa gerador</segment>
+    <segment id="172">, no computador</segment>
+    <segment id="173">, o contribuinte deve escolher</segment>
+    <segment id="174">, à esquerda</segment>
+    <segment id="175">, a forma de tributação</segment>
+    <segment id="176">, sese pelas deduções legais ou pelo desconto simplificado.</segment>
+    <segment id="177">O programa faz o cálculo e o cidadão só precisa optar pelo que for melhor</segment>
+    <segment id="178">, garantindo maior restituição ou menor imposto a pagar.</segment>
+    <segment id="179">Também é possível clicar em "Verificar pendências".</segment>
+    <segment id="180">As pendências em vermelho impedem o envio da declaração e devem ser corrigidas.</segment>
+    <segment id="181">As que estiverem em amarelo não barram o envio.</segment>
+    <segment id="182">Restituição do Imposto de Renda: calendário</segment>
+    <segment id="183">, regras e prioridadesMais    novamente         de   de  de  representando um</segment>
+    <segment id="184">Se tudo estiver correto</segment>
+    <segment id="185">, clique na opção "</segment>
+    <segment id="186">Entregar declaração".</segment>
+    <segment id="187">Após clicar nessa opção</segment>
+    <segment id="188">, o contribuinte será direcionado para uma página onde serão solicitados dados bancários para o recebimento da restituição ou o número do Pix para o pagamento.</segment>
+    <segment id="189">Só é possível receber por Pix quem tem o CPF</segment>
+    <segment id="190">comocomo chave.</segment>
+    <segment id="191">Optar por essa forma de pagamento também traz vantagem na hora de receber a restituição</segment>
+    <segment id="192">, pois</segment>
+    <segment id="193">pois coloca o contribuinte na fila de prioridades.</segment>
+    <segment id="194">Quem for pagar imposto deve emitir o Darf (Documento de Arrecadação de Receitas Federais).</segment>
+    <segment id="195">Ao enviar</segment>
+    <segment id="196">, salve o recibo e uma cópia da declaração em seu computador ou no dispositivo que estiver utilizando.</segment>
+  </rst>
+</analysis>

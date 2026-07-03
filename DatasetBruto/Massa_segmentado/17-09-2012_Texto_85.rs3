@@ -1,0 +1,47 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">MÃ©dica leva saraivada de tecos
+SÃ´nia nÃ£o resistiu aos ferimentos e morreu no local</segment>
+    <segment id="2">A pediatra SÃ´nia Maria Santanna</segment>
+    <segment id="3">, 61, foi assassinada com trÃªs tiros â€</segment>
+    <segment id="4">“ um na cabeÃ§a e dois no peito â€</segment>
+    <segment id="5">“</segment>
+    <segment id="6">ontem de manhÃ£</segment>
+    <segment id="7">, na Penha</segment>
+    <segment id="8">, zona norte do Rio.</segment>
+    <segment id="9">Segundo a Secretaria Estadual de SaÃºde</segment>
+    <segment id="10">, a mÃ©dica era funcionÃ¡ria do estado e saiu do Hospital GetÃºlio Vargas</segment>
+    <segment id="11">Ã s 7h apÃ³s cumprir plantÃ£o.</segment>
+    <segment id="12">De acordo com a PolÃ­cia Militar</segment>
+    <segment id="13">, a mÃ©dica dirigia um pÃ¡lio preto quando foi surpreendida por criminosos em um Meriva branco que teria sido roubado em VigÃ¡rio Geral</segment>
+    <segment id="14">, tambÃ©m na zona norte.</segment>
+    <segment id="15">A polÃ­cia</segment>
+    <segment id="16">, porÃ©m</segment>
+    <segment id="17">, ainda nÃ£o sabe</segment>
+    <segment id="18">sese a pediatra foi vÃ­tima de uma tentativa de assalto.</segment>
+    <segment id="19">Os bombeiros chegaram a ser acionados</segment>
+    <segment id="20">, masmas SÃ´nia nÃ£o resistiu aos ferimentos e morreu no local.</segment>
+  </rst>
+</analysis>

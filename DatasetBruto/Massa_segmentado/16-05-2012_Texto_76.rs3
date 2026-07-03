@@ -1,0 +1,125 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Medo do fim do euro faz gregos correrem aos bancos
+ATENAS</segment>
+    <segment id="2">, FRANKFURT e NOVA YORK -</segment>
+    <segment id="3">Com o temor de que o país deixe a zona do euro</segment>
+    <segment id="4">, os gregos estão sacando seus recursos dos bancos</segment>
+    <segment id="5">, conforme admitiu o presidente da Grécia</segment>
+    <segment id="6">, Karolos Papoulias</segment>
+    <segment id="7">, em reunião do governo cujo teor foi revelado na terça-feira.</segment>
+    <segment id="8">Ele ainda teria alertado para o risco de pânico no sistema financeiro.</segment>
+    <segment id="9">E a situação dos bancos gregos fica ainda mais delicada: o Banco Central Europeu (BCE) confirmou na quarta-feira ter suspendido o financiamento de diversas instituições financeiras da Grécia</segment>
+    <segment id="10">, como</segment>
+    <segment id="11">como fora revelado pela agência Reuters.</segment>
+    <segment id="12">O BCE não revelou os nomes dos bancos.</segment>
+    <segment id="13">Segundo o jornal americano "The New York Times"</segment>
+    <segment id="14">, Papoulias teria dito que os saques chegariam a 700 milhões de euros desde as eleições</segment>
+    <segment id="15">, em 6 de maio.</segment>
+    <segment id="16">Mas o britânico "Financial Times"</segment>
+    <segment id="17">, citando fontes do setor bancário grego</segment>
+    <segment id="18">, afirma que teria sido retirado 1</segment>
+    <segment id="19">,2 bilhão de euro só na segunda e na terça-feira.</segment>
+    <segment id="20">Os saques dos bancos remontam ao início da crise grega.</segment>
+    <segment id="21">Em abril de 2010</segment>
+    <segment id="22">, pouco antes da concessão do primeiro pacote de resgate ao país</segment>
+    <segment id="23">, foram resgatados 8 bilhões de euros.</segment>
+    <segment id="24">Pelos dados do BC</segment>
+    <segment id="25">, empresas e famílias gregas tinham 165 bilhões de euros depositados no fim de março</segment>
+    <segment id="26">, 72 bilhões de euros a menos que em janeiro de 2010.</segment>
+    <segment id="27">Uma fonte do BCE disse à Reuters que a decisão de suspender o crédito</segment>
+    <segment id="28">sese deveu ao fato de os bancos não terem reforçado suas reservas de capital.</segment>
+    <segment id="29">Eles têm</segment>
+    <segment id="30">, agora</segment>
+    <segment id="31">, de recorrer ao BC grego para</segment>
+    <segment id="32">sese financiar</segment>
+    <segment id="33">, por meio de um mecanismo chamado de ajuda emergencial de liquidez.
+
+- Assim que o processo de recapitalização terminar</segment>
+    <segment id="34">, o que deve ocorrer em breve</segment>
+    <segment id="35">, os bancos voltarão a ter acesso às operações normais de refinanciamento do sistema - disse à Reuters uma fonte do BCE</segment>
+    <segment id="36">, que continua a apoiar os bancos gregos.</segment>
+    <segment id="37">Uma fonte do setor financeiro</segment>
+    <segment id="38">, no entanto</segment>
+    <segment id="39">, disse que quatro bancos da Grécia estariam no negativo.</segment>
+    <segment id="40">Pelas regras do BCE</segment>
+    <segment id="41">, que só pode refinanciar bancos solventes</segment>
+    <segment id="42">, eles não poderiam receber qualquer recurso.
+
+'FT': permanência da Grécia no euro depende do BCE
+
+Autoridades da zona do euro disseram ao "Financial Times" que</segment>
+    <segment id="43">, no momento</segment>
+    <segment id="44">, o volume de saques dos bancos é administrável.</segment>
+    <segment id="45">Um banqueiro de Atenas disse que os saques prosseguiam ontem</segment>
+    <segment id="46">, masmas em ritmo menor.</segment>
+    <segment id="47">Um dono de restaurante afirmou</segment>
+    <segment id="48">, porém</segment>
+    <segment id="49">porém, que é preciso avisar com antecedência no</segment>
+    <segment id="50">casocaso de saques acima de mil euros.</segment>
+    <segment id="51">A decisão do BCE fez o euro recuar 0</segment>
+    <segment id="52">,1% em Nova York</segment>
+    <segment id="53">, a US$ 1</segment>
+    <segment id="54">,2716, depois de ter avançado 0</segment>
+    <segment id="55">,2% pela manhã.</segment>
+    <segment id="56">Nas bolsas europeias</segment>
+    <segment id="57">, Londres caiu 0</segment>
+    <segment id="58">,60% e Frankfurt</segment>
+    <segment id="59">, 0,26%.</segment>
+    <segment id="60">Paris, no entanto</segment>
+    <segment id="61">, avançou 0</segment>
+    <segment id="62">,31%.</segment>
+    <segment id="63">Wall Street também refletiu a crise grega.</segment>
+    <segment id="64">O Dow Jones recuou 0</segment>
+    <segment id="65">,04%, e o Nasdaq</segment>
+    <segment id="66">, 0,58%.</segment>
+    <segment id="67">Em editorial</segment>
+    <segment id="68">, o "Financial Times" afirma que a chave para a permanência da Grécia na zona do euro estaria nas mãos do BCE.</segment>
+    <segment id="69">Se este cortar definitivamente suas linhas de crédito para os bancos gregos</segment>
+    <segment id="70">, o sistema financeiro do país entrará em colapso</segment>
+    <segment id="71">, o que poderá arrastar outros bancos da zona do euro.</segment>
+    <segment id="72">O presidente do BCE</segment>
+    <segment id="73">, Mario Draghi</segment>
+    <segment id="74">, disse ontem que prefere que a Grécia continue no euro</segment>
+    <segment id="75">, masmas avisou que os termos do acordo de resgate não serão alterados.</segment>
+    <segment id="76">Já o presidente da Comissão Europeia</segment>
+    <segment id="77">, José Manuel Durão Barroso</segment>
+    <segment id="78">, disse que o povo grego é responsável por seu futuro</segment>
+    <segment id="79">, referindo-</segment>
+    <segment id="80">sese às novas eleições</segment>
+    <segment id="81">, em 17 de junho.</segment>
+    <segment id="82">Teme-se</segment>
+    <segment id="83">se a vitória da esquerda radical</segment>
+    <segment id="84">, que é contra as medidas de austeridade.</segment>
+    <segment id="85">O colunista da agência de notícias Bloomberg Clive Crook afirmou que</segment>
+    <segment id="86">sese a Grécia deixar a zona do euro "</segment>
+    <segment id="87">sua ruína terá sido em vão".</segment>
+    <segment id="88">Ele disse que o colapso do país só serviria</segment>
+    <segment id="89">comocomo exemplo para outras nações endividadas.</segment>
+    <segment id="90">E lembrou que as pessoas vão perguntar</segment>
+    <segment id="91">sese Portugal</segment>
+    <segment id="92">, Espanha e Itália também não poderiam sair do euro também</segment>
+  </rst>
+</analysis>

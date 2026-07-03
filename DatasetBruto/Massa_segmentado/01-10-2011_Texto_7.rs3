@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Choque de Ordem nas Praias multa 50 veículos por estacionamento irregular
+RIO - O dia de sol atraiu uma multidão para as praias cariocas</segment>
+    <segment id="2">, local escolhido também para receber a operação Choque de Ordem
+Agentes da Secretaria Especial da Ordem Pública (Seop)</segment>
+    <segment id="3">multaram</segment>
+    <segment id="4">, neste sábado</segment>
+    <segment id="5">, 50 veículos e rebocaram outros três por estacionamento irregular no trecho da orla do Leme ao Recreio dos Bandeirantes.</segment>
+    <segment id="6">A fiscalização realizou também um trabalho de orientação aos banhistas próximo ao espelho d'água</segment>
+    <segment id="7">, evitando a prática de 118 jogos (altinho e frescobol) e a presença de 18 cães na areia no trecho da praia do Flamengo ao Leblon.</segment>
+    <segment id="8">Guardas municipais ajudaram duas crianças perdidas a encontrarem os responsáveis na praia de Copacabana.</segment>
+    <segment id="9">Agentes de Controle Urbano da Seop apreenderam com ambulantes não autorizados</segment>
+    <segment id="10">, na praia de Ipanema</segment>
+    <segment id="11">, 61 espetinhos de queijo coalho e 22 de camarão.</segment>
+  </rst>
+</analysis>

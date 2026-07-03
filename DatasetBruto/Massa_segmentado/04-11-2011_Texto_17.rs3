@@ -1,0 +1,48 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Justiça aceita denúncia contra seis militares acusados de maus-tratos
+RIO - O Superior Tribunal Militar (STM) aceitou denúncia</segment>
+    <segment id="2">, no último dia 27</segment>
+    <segment id="3">, contra seis militares do Exército</segment>
+    <segment id="4">, sendo cinco oficiais</segment>
+    <segment id="5">, pelos crimes de maus-tratos e violência contra um superior.</segment>
+    <segment id="6">São três majores</segment>
+    <segment id="7">, dois capitães e um primeiro-sargento.</segment>
+    <segment id="8">Segundo a denúncia</segment>
+    <segment id="9">, os militares teriam</segment>
+    <segment id="10">sese excedido ou</segment>
+    <segment id="11">sese omitido durante uma instrução de lutas no curso que prepara homens para a tropa de elite do Exército</segment>
+    <segment id="12">, as Forças Especiais.</segment>
+    <segment id="13">Apresentada pelo Ministério Público Militar</segment>
+    <segment id="14">, a denúncia tinha sido rejeitada em primeira instância pelo juiz-auditor da 4 Auditoria do Rio.</segment>
+    <segment id="15">Os três majores e os dois capitães vão responder por maus-tratos e omissão.</segment>
+    <segment id="16">Já o primeiro-sargento é acusado de violência contra um superior.</segment>
+    <segment id="17">Chutes na barriga e espancamentos causaram politraumatismo num tenente</segment>
+    <segment id="18">, durante o teste de lutas do curso de ações de comandos</segment>
+    <segment id="19">, ministrado no Centro de Instruções de Operações Especiais do Exército</segment>
+    <segment id="20">, no Rio</segment>
+    <segment id="21">, em 2009.</segment>
+  </rst>
+</analysis>

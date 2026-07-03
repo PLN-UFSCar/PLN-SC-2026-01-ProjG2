@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Escondido no sofá da mamãe</segment>
+    <segment id="2">O lavrador Antonio Carlos de Jesus Silva</segment>
+    <segment id="3">, 23, foi preso pela polícia</segment>
+    <segment id="4">O lavrador Antonio Carlos de Jesus Silva</segment>
+    <segment id="5">, 23, conhecido</segment>
+    <segment id="6">comocomo Neném</segment>
+    <segment id="7">, acusado de matar a facadas um motorista</segment>
+    <segment id="8">, em maio de 2011</segment>
+    <segment id="9">, foi preso pela polícia após ser encontrado escondido no sofá da casa da mãe</segment>
+    <segment id="10">, no povoado de Vila Cardoso</segment>
+    <segment id="11">, cidade de Caldeirão Grande.</segment>
+  </rst>
+</analysis>

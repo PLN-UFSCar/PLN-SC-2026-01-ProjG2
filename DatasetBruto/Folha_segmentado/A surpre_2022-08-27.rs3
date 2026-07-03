@@ -1,0 +1,110 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A melhora do mercado de trabalho brasileiro surpreende.</segment>
+    <segment id="2">No segundo trimestre de 2022</segment>
+    <segment id="3">, a população ocupada cresceu 2% ante o primeiro trimestre</segment>
+    <segment id="4">, e 11% ante o segundo trimestre de 2021.</segment>
+    <segment id="5">A expansão foi de 6% ante o quarto trimestre de 2019</segment>
+    <segment id="6">, último trimestre antes da epidemia.</segment>
+    <segment id="7">Para efeito de comparação</segment>
+    <segment id="8">, na economia americana</segment>
+    <segment id="9">, que tem</segment>
+    <segment id="10">sese caracterizado por forte recuperação do mercado de trabalho</segment>
+    <segment id="11">, a população ocupada encontra-</segment>
+    <segment id="12">sese 1% acima do nível anterior à epidemia.</segment>
+    <segment id="13">A massa salarial no Brasil também tem crescido.</segment>
+    <segment id="14">Aumentou 4</segment>
+    <segment id="15">,4% ante o primeiro trimestre de 2022 e 4</segment>
+    <segment id="16">,8% ante o segundo trimestre de 2021.</segment>
+    <segment id="17">Como o salário médio ainda está 8% abaixo do nível anterior à epidemia</segment>
+    <segment id="18">, a massa salarial no segundo trimestre ainda estava 2% abaixo do quarto trimestre de 2019.</segment>
+    <segment id="19">Trabalhadores fazem fila para disputar vagas em hotéis e restaurantes em São Paulo - Zanone Fraissat - 13 jul.2022/FolhapressMas os salários têm reagido.</segment>
+    <segment id="20">No primeiro semestre os salários subiram 2% acima da inflação</segment>
+    <segment id="21">, em relação ao quarto trimestre de 2021.</segment>
+    <segment id="22">Ainda há muito o que melhorar</segment>
+    <segment id="23">, pois</segment>
+    <segment id="24">pois o salário permanece bem abaixo do nível anterior à epidemia</segment>
+    <segment id="25">, como</segment>
+    <segment id="26">como vimos no parágrafo anterior.</segment>
+    <segment id="27">De qualquer forma</segment>
+    <segment id="28">, o crescimento da massa salarial deve sustentar uma expansão da economia brasileira em 2022 maior do que eu imaginava em dezembro.</segment>
+    <segment id="29">Semana próxima o IBGE divulgará o desempenho do PIB no segundo trimestre de 2022.</segment>
+    <segment id="30">Segundo a estimativa do Ibre</segment>
+    <segment id="31">, crescemos 1% ante o primeiro trimestre e 2</segment>
+    <segment id="32">,9% ante o segundo trimestre de 2022.</segment>
+    <segment id="33">A economia deve fechar 2022 a 2%.</segment>
+    <segment id="34">A taxa de desemprego encontra-</segment>
+    <segment id="35">sese em 9</segment>
+    <segment id="36">,1%.</segment>
+    <segment id="37">É possível que a melhora do mercado de trabalho</segment>
+    <segment id="38">, que tem surpreendido todos</segment>
+    <segment id="39">, já seja um sinal de maturação da reforma trabalhista.</segment>
+    <segment id="40">  O professor do Instituto de Economia da UFRJ Eduardo Costa Pinto criticou no texto "</segment>
+    <segment id="41">Por que é tão difícil acertar nas contas quando falam dos investimentos no refino da Petrobras?</segment>
+    <segment id="42">, no site Brasil 247</segment>
+    <segment id="43">, a coluna da semana passada sobre os elevados custos da construção de refinarias pela Petrobras.</segment>
+    <segment id="44">Eduardo argumenta que não está certo atribuir todos os US$ 100 bilhões de investimento em refino</segment>
+    <segment id="45">, como</segment>
+    <segment id="46">como eu fiz.</segment>
+    <segment id="47">Que parte desse investimento teve outros destinos: US$ 13</segment>
+    <segment id="48">,6 bilhões em transporte</segment>
+    <segment id="49">;</segment>
+    <segment id="50">US$ 27</segment>
+    <segment id="51">,4 bilhões em melhora da qualidade</segment>
+    <segment id="52">; US$ 35 bilhões em modernização</segment>
+    <segment id="53">; e, portanto</segment>
+    <segment id="54">, somente US$ 24 bilhões em expansão da capacidade.</segment>
+    <segment id="55">Assim,</segment>
+    <segment id="56">comocomo a expansão da capacidade no período foi de 400 mil barris por dia</segment>
+    <segment id="57">, o custo foi de US$ 60 mil por barril por dia de capacidade de refino</segment>
+    <segment id="58">, muito menor do que o número que eu reportei na coluna</segment>
+    <segment id="59">, masmas</segment>
+    <segment id="60">, ainda sim</segment>
+    <segment id="61">, o dobro do custo das melhores refinarias.</segment>
+    <segment id="62">Segundo Eduardo</segment>
+    <segment id="63">, os custos foram maiores devido a três fatores: 1) o ciclo de investimento dos anos 2000 coincidiu com um boom de investimento do setor</segment>
+    <segment id="64">; 2) aprendizado da Petrobras após décadas sem expandir a capacidade</segment>
+    <segment id="65">; 3) os problemas advindos da operação Lava Jato.</segment>
+    <segment id="66">Entendo a crítica e agradeço ao professor a gentileza do comentário e das correções.</segment>
+    <segment id="67">No entanto</segment>
+    <segment id="68">, me parece que um fato continua valendo.</segment>
+    <segment id="69">Entre 1954 e 2002</segment>
+    <segment id="70">, a empresa investiu nessas áreas</segment>
+    <segment id="71">, das quais o refino representa um item</segment>
+    <segment id="72">, US$ 27 bilhões a preços de 2012</segment>
+    <segment id="73">, e de 2003 a 2015</segment>
+    <segment id="74">, investiu US$ 100 bilhões</segment>
+    <segment id="75">, também a preços de 2012.</segment>
+    <segment id="76">Em ambos os períodos houve investimento para expandir a capacidade</segment>
+    <segment id="77">, em transportes e em modernização e melhora da qualidade.</segment>
+    <segment id="78">No primeiro período</segment>
+    <segment id="79">, a capacidade de refino cresceu de zero para 2 milhões de barris por dia</segment>
+    <segment id="80">, e, no segundo</segment>
+    <segment id="81">, de 2 milhões para 2</segment>
+    <segment id="82">,4 milhões.</segment>
+    <segment id="83">A menos que a composição do investimento no período atual tenha sido muito diferente daquela dos 48 anos anteriores</segment>
+    <segment id="84">, algo de muito errado ocorreu no ciclo de investimentos dos anos 2000.</segment>
+  </rst>
+</analysis>

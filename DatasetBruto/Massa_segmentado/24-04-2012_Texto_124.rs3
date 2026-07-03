@@ -1,0 +1,57 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Corpos de estudantes são enterrados
+Foram enterrados ontem os cinco jovens que morreram num acidente de carro na BR-101
+Foram enterrados ontem em São Mateus e Colatina</segment>
+    <segment id="2">, cidades  do Espírito Santo</segment>
+    <segment id="3">, os cinco jovens que morreram num acidente de carro na BR-101.</segment>
+    <segment id="4">Os corpos de Amanda Oliveira</segment>
+    <segment id="5">, 22, Izadora Ribeiro</segment>
+    <segment id="6">, 21, Marllonn Amaral</segment>
+    <segment id="7">, 21, e Rosaflor Oliveira</segment>
+    <segment id="8">, 24, foram enterrados em São Mateus e o de André Galão</segment>
+    <segment id="9">, 28, em Colatina.</segment>
+    <segment id="10">A turma de amigos tinha saído de São Mateus na última sexta-feira</segment>
+    <segment id="11">, 20, com destino a Prado</segment>
+    <segment id="12">, no extremo sul baiano</segment>
+    <segment id="13">, onde comemorariam o aniversário da mãe da baiana Izadora</segment>
+    <segment id="14">, Doralice Ribeiro.</segment>
+    <segment id="15">Eles viajavam num Punto bege</segment>
+    <segment id="16">, placa ODC 6985.</segment>
+    <segment id="17">Segundo a Polícia Rodoviária Federal</segment>
+    <segment id="18">, o condutor  André Galão</segment>
+    <segment id="19">, que tinha seis meses de habilitado</segment>
+    <segment id="20">, perdeu o controle do carro numa curva e passou direto</segment>
+    <segment id="21">, caindo num precipício de 20 metros de altura onde há uma área alagada do Rio Mucuri.</segment>
+    <segment id="22">Na noite de anteontem</segment>
+    <segment id="23">, enquanto a polícia</segment>
+    <segment id="24">sese deslocava para o local</segment>
+    <segment id="25">, ocorria outra tragédia na BR-101</segment>
+    <segment id="26">, a cerca de 5 km de onde os cinco jovens morreram.</segment>
+    <segment id="27">Quatro rapazes</segment>
+    <segment id="28">, três deles irmãos</segment>
+    <segment id="29">, morreram em uma colisão.</segment>
+  </rst>
+</analysis>

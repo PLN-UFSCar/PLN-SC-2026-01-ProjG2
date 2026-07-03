@@ -1,0 +1,154 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Brasil chegou</segment>
+    <segment id="2">, no ano passado</segment>
+    <segment id="3">, a 9,14% da sua população com mais de 18 anos vivendo com diabetes.</segment>
+    <segment id="4">Em 2020</segment>
+    <segment id="5">, esse índice era de 8</segment>
+    <segment id="6">,2%, ou seja</segment>
+    <segment id="7">, houve um aumento de 11</segment>
+    <segment id="8">,47%.</segment>
+    <segment id="9">Assim, o país já conta com cerca de 15 milhões de adultos convivendo com a doença</segment>
+    <segment id="10">, que anualmente causa 6</segment>
+    <segment id="11">,7 milhões de mortes em todo o mundo.</segment>
+    <segment id="12">Os dados são do Vigitel (Vigilância de Fatores de Risco e Proteção para Doenças Crônicas por inquérito Telefônico) 2021</segment>
+    <segment id="13">, pesquisa realizada pelo Ministério da Saúde para colher informações sobre fatores de risco de saúde da população.</segment>
+    <segment id="14">Após um atraso na divulgação dos dados de 2020 durante a pandemia</segment>
+    <segment id="15">, os resultados da edição de 2021 foram publicados na última quinta-feira (7)</segment>
+    <segment id="16">, na Plataforma Integrada de Vigilância em Saúde (Ivis).</segment>
+    <segment id="17">Pessoa faz teste de glicose para saber</segment>
+    <segment id="18">sese tem diabetes - Tesa Robbins/PixabayForam ouvidas 27.093 pessoas com 18 anos ou mais em todas as capitais brasileiras e no Distrito Federal entre setembro de 2021 e fevereiro de 2022.</segment>
+    <segment id="19">Em 2019</segment>
+    <segment id="20">, antes da pandemia</segment>
+    <segment id="21">, a taxa de adultos com diabetes era ainda menor</segment>
+    <segment id="22">, de 7</segment>
+    <segment id="23">,45%.</segment>
+    <segment id="24">Como o Vigitel 2020 foi afetado pela pandemia</segment>
+    <segment id="25">, com um número bem menor de entrevistas realizadas no período pré-pandêmico</segment>
+    <segment id="26">, a comparação mais equitativa é com os dados de 2019.</segment>
+    <segment id="27">Sendo assim</segment>
+    <segment id="28">, o aumento comparativo em dois anos foi de quase 23%.</segment>
+    <segment id="29">Apesar de ser um número significativo</segment>
+    <segment id="30">, especialistas afirmam que ele pode ainda ser subnotificado</segment>
+    <segment id="31">, pois</segment>
+    <segment id="32">pois muitos casos de diabetes não são devidamente diagnosticados.</segment>
+    <segment id="33">"</segment>
+    <segment id="34">É importante ressaltar que os indicadores de saúde na pesquisa são autorreferidos</segment>
+    <segment id="35">, isto é</segment>
+    <segment id="36">, não há medição de índice de glicose ou de pressão arterial</segment>
+    <segment id="37">, então esses números com certeza são subdiagnosticados"</segment>
+    <segment id="38">, explica Deborah Malta</segment>
+    <segment id="39">, pesquisadora e professora da Escola de Enfermagem da UFMG e ex-coordenadora do Vigitel (2006 a 2015).</segment>
+    <segment id="40">Nos últimos anos</segment>
+    <segment id="41">, a proporção de mulheres (9</segment>
+    <segment id="42">,61%, em 2021) convivendo com diabetes é maior do que a de homens (8</segment>
+    <segment id="43">,58%, no mesmo ano)</segment>
+    <segment id="44">, masmas isso</segment>
+    <segment id="45">sese deve principalmente ao fato de mulheres cuidarem mais da saúde e procurarem atendimento médico mais cedo.</segment>
+    <segment id="46">Essa preocupação aparece também nos brasileiros que vivem com hipertensão.</segment>
+    <segment id="47">Durante a pandemia</segment>
+    <segment id="48">, aumentaram os casos de infarto em mulheres jovens</segment>
+    <segment id="49">, e a pesquisa Vigitel também encontrou uma maior proporção de mulheres com pressão alta</segment>
+    <segment id="50">, de 27</segment>
+    <segment id="51">,13%, contra 25</segment>
+    <segment id="52">,41% dos homens</segment>
+    <segment id="53">, em 2021.</segment>
+    <segment id="54">Apesar disso</segment>
+    <segment id="55">, o aumento relativo foi maior entre os homens</segment>
+    <segment id="56">, que passaram de 21</segment>
+    <segment id="57">,21%, em 2019</segment>
+    <segment id="58">, para 25</segment>
+    <segment id="59">,41% em 2021</segment>
+    <segment id="60">, um aumento de quase 20%.</segment>
+    <segment id="61">Ao todo</segment>
+    <segment id="62">, mais de um quarto (26</segment>
+    <segment id="63">,34%) da população adulta tinha hipertensão arterial em 2021</segment>
+    <segment id="64">, um aumento de quase 7</segment>
+    <segment id="65">,5% em relação ao período pré-pandemia (24</segment>
+    <segment id="66">,52%).</segment>
+    <segment id="67">Os brasileiros também ganharam peso nos dois últimos anos de pandemia.</segment>
+    <segment id="68">Em 2019</segment>
+    <segment id="69">, o índice de pessoas com excesso de peso (índice de massa corpórea</segment>
+    <segment id="70">, medido pelo peso dividido pela altura ao quadrado</segment>
+    <segment id="71">, igual ou maior a 25) era de 55</segment>
+    <segment id="72">,37%, passando para 57</segment>
+    <segment id="73">,47%, em 2020</segment>
+    <segment id="74">, e 57</segment>
+    <segment id="75">,25%, em 2021.</segment>
+    <segment id="76">Em relação à obesidade</segment>
+    <segment id="77">, a taxa de adultos obesos (IMC igual ou maior a 30) em 2019 era de 20</segment>
+    <segment id="78">,27%, passando para 22</segment>
+    <segment id="79">,35% em 2021.</segment>
+    <segment id="80">Em 2020</segment>
+    <segment id="81">, era de 21</segment>
+    <segment id="82">,55%.</segment>
+    <segment id="83">O quadro preocupa mais em relação aos homens.</segment>
+    <segment id="84">Neles, o crescimento de 2019 para 2021 foi de quase 13%: de 19</segment>
+    <segment id="85">,5% para 22</segment>
+    <segment id="86">,02%.  "</segment>
+    <segment id="87">Vimos uma piora geral dos indicadores de saúde nos homens.</segment>
+    <segment id="88">Aumentou o peso</segment>
+    <segment id="89">, aumentou hipertensão arterial</segment>
+    <segment id="90">, piorou a prática de atividade física.</segment>
+    <segment id="91">Já nas mulheres o que me preocupa foi a queda no número de mulheres que fez mamografia ou citologia oncológica [papanicolau] nos dois anos de pandemia"</segment>
+    <segment id="92">, diz Malta.</segment>
+    <segment id="93">Brasileiros praticam menos atividade física</segment>
+    <segment id="94">Desde 2016</segment>
+    <segment id="95">, a quantidade de brasileiros com sobrepeso vem crescendo anualmente.</segment>
+    <segment id="96">Paralelamente</segment>
+    <segment id="97">, a parcela de adultos que gasta no mínimo 150 horas semanais para prática de atividades físicas no tempo livre caiu.</segment>
+    <segment id="98">A população fisicamente inativa</segment>
+    <segment id="99">, que era 13</segment>
+    <segment id="100">,91% em 2019</segment>
+    <segment id="101">, foi para quase 16% em 2021</segment>
+    <segment id="102">, enquanto a prática insuficiente de atividade física</segment>
+    <segment id="103">, um indicador que é utilizado pela Organização Mundial da Saúde para avaliar fatores de risco para doenças crônicas não transmissíveis (DNCs)</segment>
+    <segment id="104">, aumentou de 44% para 48%.</segment>
+    <segment id="105">Atividade física na pandemiaMais    novamente         de   de  de  representando um  "</segment>
+    <segment id="106">Quase metade da população brasileira hoje não pratica atividade física suficiente.</segment>
+    <segment id="107">E isso vem em um momento de aumento de desemprego</segment>
+    <segment id="108">, de sedentarismo</segment>
+    <segment id="109">, aumentou o tempo gasto com televisão ou telas de computador</segment>
+    <segment id="110">, de 62% para 66%...</segment>
+    <segment id="111">Ou seja</segment>
+    <segment id="112">, tudo piorou"</segment>
+    <segment id="113">, afirma a pesquisadora.</segment>
+    <segment id="114">Para Malta</segment>
+    <segment id="115">, é imprescindível que o debate sobre prevenção e promoção de saúde retorne após o período mais agudo da pandemia.</segment>
+    <segment id="116">Segundo ela</segment>
+    <segment id="117">, sese durante a pandemia o foco foi tratamento e prevenção de Covid</segment>
+    <segment id="118">, agora é necessário</segment>
+    <segment id="119">sese concentrar novamente nas DNCs.</segment>
+    <segment id="120">"</segment>
+    <segment id="121">É preciso preparar o serviço de saúde</segment>
+    <segment id="122">, procurar capacitar melhor os profissionais de saúde e campanhas voltadas para a comunidade mostrando os riscos da má alimentação</segment>
+    <segment id="123">, falta de atividade física.</segment>
+    <segment id="124">Diversos estudos já falam de uma quarta onda da pandemia</segment>
+    <segment id="125">, que é o aumento de doenças crônicas</segment>
+    <segment id="126">, e uma quinta</segment>
+    <segment id="127">, que seriam as sequelas e os efeitos na saúde mental"</segment>
+    <segment id="128">, completa.</segment>
+  </rst>
+</analysis>

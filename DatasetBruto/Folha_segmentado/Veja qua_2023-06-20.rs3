@@ -1,0 +1,160 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A tarifa sobre Pix de pessoa jurídica já é praticada por grandes bancos</segment>
+    <segment id="2">, como</segment>
+    <segment id="3">como o Itaú</segment>
+    <segment id="4">, o Bradesco e o estatal Banco do Brasil.</segment>
+    <segment id="5">Segundo o Banco Central</segment>
+    <segment id="6">, as regras para a tarifação do Pix são as mesmas desde seu lançamento</segment>
+    <segment id="7">, em 2020</segment>
+    <segment id="8">, e a possibilidade de tarifar PJs sempre existiu.</segment>
+    <segment id="9">Nesta terça-feira (20)</segment>
+    <segment id="10">, o Palácio do Planalto obrigou a Caixa Econômica Federal a rever a decisão de começar a cobrar uma tarifa pelas transferências por meio do Pix feitas por empresas.</segment>
+    <segment id="11">Em nota à imprensa</segment>
+    <segment id="12">, a Caixa disse que suspendeu a cobrança do Pix para pessoa jurídica.  "</segment>
+    <segment id="13">A medida visa ampliar o prazo</segment>
+    <segment id="14">para que</segment>
+    <segment id="15">para que os clientes possam</segment>
+    <segment id="16">sese adequar e receber amplo esclarecimento do banco sobre o assunto</segment>
+    <segment id="17">, dada a proliferação de conteúdos inverídicos que geraram especulação.</segment>
+    <segment id="18">A decisão da Caixa de cobrar pelo serviço estava definida desde o ano passado e não foi executada devido à necessidade de adequação dos sistemas internos"</segment>
+    <segment id="19">, afirmou o banco público.</segment>
+    <segment id="20">Procurada pela Folha</segment>
+    <segment id="21">, a Febraban (Federação Brasileira de Bancos) afirma que cabe a cada instituição financeira</segment>
+    <segment id="22">, no âmbito de sua política de negócios</segment>
+    <segment id="23">, cobrar ou não o Pix para pessoa jurídica.</segment>
+    <segment id="24">Bancos digitais</segment>
+    <segment id="25">comocomo o Neon e o C6 Bank afirmam que não cobram tarifa para pessoa jurídica.  PIX - Gabriel Cabral/Folhapress Veja</segment>
+    <segment id="26">comocomo os principais bancos cobram a tarifa sobre o Pix de pessoa jurídica:  Itaú   Pix de transferência: 1</segment>
+    <segment id="27">,45% do valor da transação</segment>
+    <segment id="28">, com mínimo de R$ 1</segment>
+    <segment id="29">,75 e máximo de R$ 9</segment>
+    <segment id="30">,60;</segment>
+    <segment id="31">custo incide sobre as transações que excedem os planos contratados</segment>
+    <segment id="32">, que incluem de 10 a 22 transações gratuitas</segment>
+    <segment id="33">Pix para recebimentos:1</segment>
+    <segment id="34">,3% do valor da transação</segment>
+    <segment id="35">, sem piso e com máximo de R$ 150</segment>
+    <segment id="36">,00 para transações nas maquininhas ou QR code estático</segment>
+    <segment id="37">; para QR code dinâmico</segment>
+    <segment id="38">, há um piso mínimo de R$ 1</segment>
+    <segment id="39">,00 Pix no boleto: tarifa única de até R$ 5</segment>
+    <segment id="40">,50 por boleto</segment>
+    <segment id="41">Segundo o Itaú</segment>
+    <segment id="42">, as transações via</segment>
+    <segment id="43">Pix são isentas para MEIs (microempreendedores individuais) e EIs (empreendedores individuais).</segment>
+    <segment id="44">O banco diz também que há uma quantidade de transferências gratuitas nos pacotes de serviços Itaú Empresas</segment>
+    <segment id="45">, com redução de tarifa progressiva e automática no uso adicional.</segment>
+    <segment id="46">Banco do Brasil   Pix de transferência: tarifa de 0</segment>
+    <segment id="47">,99% do valor enviado</segment>
+    <segment id="48">, com mínimo de R$ 1</segment>
+    <segment id="49">,00 e máximo de R$ 10</segment>
+    <segment id="50">,00</segment>
+    <segment id="51">Pix para recebimentos via QR</segment>
+    <segment id="52">Code: tarifa de 0</segment>
+    <segment id="53">,99% do valor recebido</segment>
+    <segment id="54">, limitado a R$ 140</segment>
+    <segment id="55">,00</segment>
+    <segment id="56">O Banco do Brasil afirma que as taxas não são cobradas para MEIs (microempreendedores individuais) e EIs (empreendedores individuais).</segment>
+    <segment id="57">Bradesco   Pix para recebimentos via QR</segment>
+    <segment id="58">Code*: 1</segment>
+    <segment id="59">,40% do valor</segment>
+    <segment id="60">, com mínimo de R$ 0</segment>
+    <segment id="61">,90 e máximo de R$ 145</segment>
+    <segment id="62">,00 Pix de transferência*: 1</segment>
+    <segment id="63">,40% do valor</segment>
+    <segment id="64">, com mínimo de R$ 1</segment>
+    <segment id="65">,65 e máximo de R$ 9</segment>
+    <segment id="66">,00 Pix Saque: Tarifa de R$ 2</segment>
+    <segment id="67">,50 a cada pix</segment>
+    <segment id="68">Pix Troco: Tarifa de R$ 2</segment>
+    <segment id="69">,50 a cada pix   * Tarifa aplicável para EIs e MEIs  Santander</segment>
+    <segment id="70">Pix de transferência: 1</segment>
+    <segment id="71">,4% do valor</segment>
+    <segment id="72">, com mínimo de R$ 1</segment>
+    <segment id="73">,75 e máximo de R$</segment>
+    <segment id="74">9,60 Recebimento de Pix via QR</segment>
+    <segment id="75">Code estático ou dinâmico: tarifa de R$ 6</segment>
+    <segment id="76">,54 Recebimento de Pix via Checkout ou GetNet:</segment>
+    <segment id="77">1,4% do valor</segment>
+    <segment id="78">, com mínimo de R$ 0</segment>
+    <segment id="79">,95</segment>
+    <segment id="80">De acordo com o Santander</segment>
+    <segment id="81">, MEI e EI são isentos de tarifas para envio e recebimento de Pix por meio de QR</segment>
+    <segment id="82">Code estáticos.</segment>
+    <segment id="83">Para as demais pessoas jurídicas</segment>
+    <segment id="84">, a cobrança varia de acordo com o caráter da transferência e tipo da operação</segment>
+    <segment id="85">, diz o banco.</segment>
+    <segment id="86">Banrisul   Envio de Pix para outras instituições: 0</segment>
+    <segment id="87">,90% do valor transferido</segment>
+    <segment id="88">, com mínimo de R$ 0</segment>
+    <segment id="89">,50 e máximo de R$ 9</segment>
+    <segment id="90">,90 Pix Compra: tarifa de 0</segment>
+    <segment id="91">,90% sobre valor recebido</segment>
+    <segment id="92">, com mínimo de R$ 0</segment>
+    <segment id="93">,50 e máximo de R$ 99</segment>
+    <segment id="94">,00</segment>
+    <segment id="95">Segundo o Banrisul</segment>
+    <segment id="96">, são isentas as tarifas de transferências via PIX para os clientes pessoas jurídicas que possuem pacote de tarifas cadastrados</segment>
+    <segment id="97">, assim</segment>
+    <segment id="98">comocomo as transações realizadas por pessoas físicas</segment>
+    <segment id="99">, empreendedores individuais e MEIs.</segment>
+    <segment id="100">Também são isentas as transações por PIX entre contas do Banrisul</segment>
+    <segment id="101">, independente do segmento</segment>
+    <segment id="102">, de acordo com o banco.</segment>
+    <segment id="103">Rei do Pix: perfis</segment>
+    <segment id="104">sese vendem</segment>
+    <segment id="105">comocomo oportunidade de investimento e de burlar o sistemaMais    novamente         de   de  de  representando um  Tire suas dúvidas sobre o pixO que é o pixOs bancos podem cobrar pelo Pix de pessoa física?Os bancos podem cobrar pelo Pix de pessoa jurídica?Desde quando a cobrança do Pix para quem tem empresa começou a ser feita?O que é o Pix?</segment>
+    <segment id="106">Criado pelo Banco Central em 2020</segment>
+    <segment id="107">, o Pix é utilizado para pagamentos ou transferências instantâneos.</segment>
+    <segment id="108">Por meio da ferramenta é possível realizar operações</segment>
+    <segment id="109">comocomo pagar contas com data de vencimento e agendar transações.</segment>
+    <segment id="110">Os bancos podem cobrar pelo Pix de pessoa física?  Para pessoa física</segment>
+    <segment id="111">, o Banco Central permite que haja cobrança de tarifas para fazer ou receber Pix quando o cliente</segment>
+    <segment id="112">, ao realizar o envio</segment>
+    <segment id="113">, utiliza canais presenciais ou por telefone</segment>
+    <segment id="114">, mesmo com outros disponíveis.</segment>
+    <segment id="115">Também podem ser tarifados os clientes que estiverem recebendo dinheiro com fins comerciais por meio do Pix</segment>
+    <segment id="116">, que ultrapassarem 30 Pix por mês ou aqueles que receberem com QR</segment>
+    <segment id="117">Code dinâmico ou QR</segment>
+    <segment id="118">Code de um pagador pessoa jurídica.</segment>
+    <segment id="119">Os bancos podem cobrar pelo Pix de pessoa jurídica?</segment>
+    <segment id="120">Para pessoa jurídica</segment>
+    <segment id="121">, o cliente pode ser tarifado no envio do Pix</segment>
+    <segment id="122">sese o recebedor for pessoa física e usar o Pix com as informações de dados da conta</segment>
+    <segment id="123">, chave ou iniciação de transação de pagamento e</segment>
+    <segment id="124">sese o recebedor for pessoa jurídica e usar Pix com as informações de dados da conta ou chave.</segment>
+    <segment id="125">No recebimento do Pix</segment>
+    <segment id="126">, a pessoa jurídica pode ser tarifada</segment>
+    <segment id="127">sese o pagador for pessoa física ou</segment>
+    <segment id="128">sese o pagador for pessoa jurídica e usar Pix por QR</segment>
+    <segment id="129">Code ou serviço de iniciação.</segment>
+    <segment id="130">Desde quando a cobrança do Pix para quem tem empresa começou a ser feita?</segment>
+    <segment id="131">Segundo o Banco Central</segment>
+    <segment id="132">, a possibilidade de aplicar taxas sobre o Pix de pessoas jurídicas sempre existiu e as regras em relação à tarifação do Pix são as mesmas desde seu lançamento</segment>
+    <segment id="133">, em 2020.</segment>
+    <segment id="134">Fonte: Banco Central</segment>
+  </rst>
+</analysis>

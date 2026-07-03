@@ -1,0 +1,48 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Após explosão em prédio</segment>
+    <segment id="2">, trecho da Praça Tiradentes permanece fechado ao tráfego
+RIO - O trecho entre a Rua Silva Jardim (continuação da Avenida Passos) e da Rua do Lavradio</segment>
+    <segment id="3">, área mais atingida pela explosão do restaurante Filé Carioca</segment>
+    <segment id="4">, na manhã de quinta-feira na Praça Tiradentes</segment>
+    <segment id="5">, ficará interditado pelo menos até o meio-dia desta sexta-feira</segment>
+    <segment id="6">, segundo técnicos da prefeitura.</segment>
+    <segment id="7">De acordo com Giordano Bruno</segment>
+    <segment id="8">, da Construtura Fábio Bruno</segment>
+    <segment id="9">, contratada pelo dono do restaurante</segment>
+    <segment id="10">, depois do meio-dia apenas uma das pistas do trecho da Praça Tiradentes precisará ficar interditada para o trabalho da perícia privada.</segment>
+    <segment id="11">Como o acidente ocorreu perto do rush da manhã</segment>
+    <segment id="12">, foram registrados engarrafamentos em quase todo o Centro</segment>
+    <segment id="13">, com reflexos até nas pistas do Aterro do Flamengo.</segment>
+    <segment id="14">Ainda de manhã</segment>
+    <segment id="15">, cerca de 40 agentes de trânsito foram deslocados para o local para orientar os motoristas nos trechos com bloqueio e dar orientações de rotas alternativas.</segment>
+    <segment id="16">Além disso</segment>
+    <segment id="17">, cinco painéis luminosos também foram instalados na região da Praça Tiradentes com informações sobre o acesso ao local.</segment>
+    <segment id="18">Já durante a tarde</segment>
+    <segment id="19">, a orientação de guardas municipais e agentes da CET-Rio fizeram com que o trânsito na Rua da Carioca e na Avenida Passos</segment>
+    <segment id="20">, dois importantes corredores do Centro</segment>
+    <segment id="21">, fluíssem sem retenções.</segment>
+  </rst>
+</analysis>

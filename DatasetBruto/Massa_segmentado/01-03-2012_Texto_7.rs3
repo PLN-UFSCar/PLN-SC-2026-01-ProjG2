@@ -1,0 +1,32 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Em águas</segment>
+    <segment id="2">, ator vai à clínica</segment>
+    <segment id="3">sese cuidar
+Matheus Nachtergaele apresentava sinais de embriaguez e uma costela quebrada</segment>
+    <segment id="4">De acordo com o colunista Leo Dias do jornal “O Dia”</segment>
+    <segment id="5">,  Matheus Nachtergaele apresentava sinais de embriaguez e disse que caiu em uma escada.</segment>
+  </rst>
+</analysis>

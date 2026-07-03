@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">EUA criticam o Brasil sobre tráfico de pessoas</segment>
+    <segment id="2">SÃO PAULO - O coordenador das atividades do governo americano para combater o tráfico de seres humanos</segment>
+    <segment id="3">, embaixador Luis CdeBaca</segment>
+    <segment id="4">, disse nesta segunda-feira que espera que o Brasil invista mais em cuidados com as vítimas.</segment>
+    <segment id="5">O embaixador esteve em Brasília e em São Paulo para conversar com autoridades brasileiras de proteção aos direitos humanos e acompanhar a criação do Segundo Plano Nacional de Enfrentamento ao Tráfico de Pessoas.</segment>
+    <segment id="6">O plano está sendo finalizado por uma comissão interministerial e deve ser entregue para a análise da presidente Dilma Rousseff até a semana que vem.</segment>
+    <segment id="7">Segundo CdeBaca</segment>
+    <segment id="8">, o governo americano gasta cerca de US$ 120 milhões por ano em ações de combate ao tráfico de pessoas:
+
+- Gostaríamos de ver o governo brasileiro apoiando esforços em abrigos</segment>
+    <segment id="9">, casas</segment>
+    <segment id="10">, reabilitação e cuidados com vítimas de tráfico humano.</segment>
+    <segment id="11">CdeBaca foi informado por senadores brasileiros que o orçamento para 2012 prevê verba de cerca de US$ 1 milhão para o combate ao tráfico de pessoas</segment>
+    <segment id="12">, valor que</segment>
+    <segment id="13">, na opinião dele</segment>
+    <segment id="14">, "não é muito".</segment>
+    <segment id="15">O Ministério da Justiça contestou e informou que apenas para o órgão que coordena as ações de combate o orçamento é de R$ 1 milhão</segment>
+    <segment id="16">, masmas que outros órgãos e ministérios terão verba para as ações.</segment>
+  </rst>
+</analysis>

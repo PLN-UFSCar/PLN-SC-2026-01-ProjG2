@@ -1,0 +1,123 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">É comum pessoas que criticam a política monetária do Banco Central argumentarem que a inflação na economia mundial</segment>
+    <segment id="2">, hoje</segment>
+    <segment id="3">, é fruto de uma série de choques de oferta e que não</segment>
+    <segment id="4">sese combate esse tipo de inflação com elevação da taxa de juros.</segment>
+    <segment id="5">A argumentação tem dois erros.</segment>
+    <segment id="6">O primeiro factual: a inflação atual não deriva de choques de oferta.</segment>
+    <segment id="7">Ela está sendo causada por excesso da demanda sobre a oferta.</segment>
+    <segment id="8">O ministro da Fazenda</segment>
+    <segment id="9">, Fernando Haddad (D)</segment>
+    <segment id="10">, e o presidente do Banco Central</segment>
+    <segment id="11">, Roberto Campos Neto (E)</segment>
+    <segment id="12">, participam de debate temático sobre juros</segment>
+    <segment id="13">, no Senado Federal</segment>
+    <segment id="14">, sob a presidência do senador Rodrigo Pacheco.</segment>
+    <segment id="15">A ministra do Planejamento</segment>
+    <segment id="16">, SImone Tebet</segment>
+    <segment id="17">, também participa do debate.</segment>
+    <segment id="18">- Pedro Ladeira/FolhapressÉ fato que o início do processo inflacionário</segment>
+    <segment id="19">, há dois anos</segment>
+    <segment id="20">, deveu-</segment>
+    <segment id="21">sese a uma sequência incrível de choques de oferta.</segment>
+    <segment id="22">Tivemos: gripe suína africana que dizimou o rebanho suíno chinês no segundo semestre de 2019</segment>
+    <segment id="23">; recuperação em ‘V’ da economia mundial a partir do segundo semestre de 2020</segment>
+    <segment id="24">, que criou gargalos em todas as cadeias globais de valor</segment>
+    <segment id="25">; choques climáticos no Brasil em 2021 e na Argentina em 2022</segment>
+    <segment id="26">, afetando profundamente as safras 2021/2022 e 2022/2023</segment>
+    <segment id="27">; e guerra na Ucrânia em 2022</segment>
+    <segment id="28">, que encareceu os alimentos.</segment>
+    <segment id="29">Mas os choques de oferta estão ficando para trás.</segment>
+    <segment id="30">A inflação de bens industriais no Brasil</segment>
+    <segment id="31">, segundo a prévia da inflação de abril</segment>
+    <segment id="32">, o IPCA-15 de abril</segment>
+    <segment id="33">, rodou nos primeiros quatro meses do ano em 1</segment>
+    <segment id="34">,8%.</segment>
+    <segment id="35">No mesmo período do ano passado</segment>
+    <segment id="36">, a inflação para bens industriais foi de 4</segment>
+    <segment id="37">,8%.</segment>
+    <segment id="38">Para alimentos</segment>
+    <segment id="39">, tivemos 0</segment>
+    <segment id="40">,9% para os primeiros quatro meses de 2023</segment>
+    <segment id="41">, ante 8</segment>
+    <segment id="42">,3% para o mesmo período de 2022.</segment>
+    <segment id="43">Há claríssima reversão dos choques de oferta.</segment>
+    <segment id="44">E é essa reversão que explica a queda da inflação em 12 meses do zênite de 12</segment>
+    <segment id="45">,2% em maio de 2022 para 4</segment>
+    <segment id="46">,2% de abril.</segment>
+    <segment id="47">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="48">; aberta para não assinantes.</segment>
+    <segment id="49">Carregando...</segment>
+    <segment id="50">O problema é que a queda da inflação cheia foi acompanhada por elevação da inflação de serviços.</segment>
+    <segment id="51">Em abril</segment>
+    <segment id="52">, a inflação de serviços em 12 meses rodou a 7</segment>
+    <segment id="53">,6%.</segment>
+    <segment id="54">Para o mesmo período do ano passado</segment>
+    <segment id="55">, serviços fecharam a 6</segment>
+    <segment id="56">,7%, quase 1 ponto percentual abaixo!</segment>
+    <segment id="57">Ou seja</segment>
+    <segment id="58">, a inflação de serviços tem</segment>
+    <segment id="59">sese elevado.</segment>
+    <segment id="60">No FGV Ibre (Instituto Brasileiro de Economia da Fundação Getúlio Vargas)</segment>
+    <segment id="61">, acompanhamos um núcleo de serviços que retira passagens aéreas</segment>
+    <segment id="62">, por serem muito voláteis</segment>
+    <segment id="63">; alimentação fora do domicílio</segment>
+    <segment id="64">, por acompanhar a inflação de alimentos de perto</segment>
+    <segment id="65">;</segment>
+    <segment id="66">e itens de serviços</segment>
+    <segment id="67">, cuja formação do preço é muito ligada à política de salário mínimo.</segment>
+    <segment id="68">Este núcleo dos serviços fechou abril</segment>
+    <segment id="69">, no acumulado de 12 meses</segment>
+    <segment id="70">, em 6</segment>
+    <segment id="71">,8%, uma leve queda ante os 7</segment>
+    <segment id="72">,2% observados para o mesmo período do ano passado.</segment>
+    <segment id="73">Para os primeiros quatro meses do ano</segment>
+    <segment id="74">, esse item fechou em 3</segment>
+    <segment id="75">,3%, também apresentando leve queda frente aos 3</segment>
+    <segment id="76">,9% apresentados nos primeiros quatro meses de 2022.</segment>
+    <segment id="77">A inflação é de demanda.</segment>
+    <segment id="78">O segundo erro no enunciado do primeiro parágrafo desta coluna é a ideia de que não</segment>
+    <segment id="79">sese combate inflação causada por choque de oferta com elevação da taxa de juros.</segment>
+    <segment id="80">Se o choque de oferta elevar a inflação e as expectativas de inflação</segment>
+    <segment id="81">, o juro nominal precisa subir</segment>
+    <segment id="82">para que</segment>
+    <segment id="83">para que o juro real fique constante.</segment>
+    <segment id="84">Adicionalmente</segment>
+    <segment id="85">, sese o choque for muito persistente e</segment>
+    <segment id="86">sese a situação anterior era de equilíbrio entre oferta e demanda a pleno emprego</segment>
+    <segment id="87">, será necessário reduzir a demanda.</segment>
+    <segment id="88">O instrumento é a taxa de juros.</segment>
+    <segment id="89">Pela última PNADC</segment>
+    <segment id="90">, a massa salarial real de março de 2023 subiu acima de 10%.</segment>
+    <segment id="91">A taxa de desemprego no primeiro trimestre de 2023 fechou a 8</segment>
+    <segment id="92">,1% (já considerando o ajuste pela sazonalidade da série)</segment>
+    <segment id="93">, menor do que a taxa natural de desemprego.</segment>
+    <segment id="94">O início de um ciclo de corte de juros requererá sinais de que a dinâmica da inflação dos serviços virou.    Semana passada</segment>
+    <segment id="95">tratei de algumas inconsistências do novo arcabouço fiscal que podem ser tratadas pelo Congresso Nacional.</segment>
+    <segment id="96">A carta do Ibre de março elabora em mais detalhes esses temas.  Entenda</segment>
+    <segment id="97">comocomo funciona o Conselho Monetário Nacional (CMN)Mais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

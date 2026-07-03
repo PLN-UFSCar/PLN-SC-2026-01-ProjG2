@@ -1,0 +1,96 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Cientistas revelaram um vínculo entre o genoma dos primeiros Homo sapiens que chegaram à Europa há 45 mil anos</segment>
+    <segment id="2">, dos quais</segment>
+    <segment id="3">sese pensava não haver herança genética</segment>
+    <segment id="4">, e o das populações muito mais tardias de um período do Paleolítico</segment>
+    <segment id="5">, conhecido por suas estatuetas de Vênus.</segment>
+    <segment id="6">A descoberta foi feita com base em fragmentos de crânios do sítio arqueológico de Buran Kaya 3</segment>
+    <segment id="7">, na península da Crimeia</segment>
+    <segment id="8">, ao norte do Mar Negro</segment>
+    <segment id="9">, escavados há mais de dez anos.</segment>
+    <segment id="10">São ossos de dois indivíduos de entre 36 mil e 37 mil anos atrás</segment>
+    <segment id="11">, cujo genoma foi extraído recentemente</segment>
+    <segment id="12">, graças a novas técnicas</segment>
+    <segment id="13">, explica estudo publicado esta semana na revista Nature Ecology &amp;amp</segment>
+    <segment id="14">; Evolution.</segment>
+    <segment id="15">Réplica de crânio</segment>
+    <segment id="16">de Homo sapiens - Jardiel Carvalho - 5.dez.2022/Folhapress</segment>
+    <segment id="17">Uma equipe internacional de pesquisadores comparou seus genomas com bases de dados de DNA e com o genoma do ser humano moderno mais antigo da Europa</segment>
+    <segment id="18">, sequenciado a partir do crânio de uma mulher de cerca de 45 mil anos atrás</segment>
+    <segment id="19">, encontrado no território da República Tcheca.</segment>
+    <segment id="20">Nesse período</segment>
+    <segment id="21">, os primeiros Homo sapiens</segment>
+    <segment id="22">, procedentes da África</segment>
+    <segment id="23">, desembarcaram no continente euro-asiático</segment>
+    <segment id="24">, cuja população</segment>
+    <segment id="25">sese formou em ondas sucessivas.</segment>
+    <segment id="26">Uma parte desta população pioneira</segment>
+    <segment id="27">sese estabeleceu na Ásia</segment>
+    <segment id="28">, deixando um legado genético mesmo entre as populações atuais.</segment>
+    <segment id="29">A história foi mais caótica para o ramo europeu</segment>
+    <segment id="30">, do qual até agora não</segment>
+    <segment id="31">sese encontrou uma impressão genética.</segment>
+    <segment id="32">Isso levou à suposição de que tal impressão tinha desaparecido</segment>
+    <segment id="33">, até ser totalmente substituída</segment>
+    <segment id="34">, vários milhares de anos depois</segment>
+    <segment id="35">, por uma nova onda de migração</segment>
+    <segment id="36">, da qual fazem parte os humanos de Buran Kaya 3</segment>
+    <segment id="37">, geneticamente próximos do atual</segment>
+    <segment id="38">Homo sapiens</segment>
+    <segment id="39">, explicou à AFP a diretora de pesquisa do órgão científico francês CNRS e coautora do estudo</segment>
+    <segment id="40">, Eva María Geigl.</segment>
+    <segment id="41">Fragmento de crânio encontrado em Buran Kaya 3</segment>
+    <segment id="42">, na Crimeia</segment>
+    <segment id="43">, pertencente a um indivíduo de aproximadamente 37 mil anos atrás - Eva-Maria Geigl/IJM/CNRSCrise climática</segment>
+    <segment id="44">O declínio</segment>
+    <segment id="45">sese deu pelo esfriamento do clima e pela aridificação ocorridos entre 40 mil e 45 mil anos atrás</segment>
+    <segment id="46">, agravados por uma gigantesca erupção do vulcão Campos Fedenos (Itália) que cobriu parte da Europa com uma nuvem de cinzas.</segment>
+    <segment id="47">Essa crise ecológica foi "suficientemente grave para causar o desaparecimento destes primeiros 'sapiens' e talvez também dos Neandertais"</segment>
+    <segment id="48">, outra espécie humana extinta no mesmo período</segment>
+    <segment id="49">, continua a geneticista.  Mas a descoberta de seu vestígio no genoma dos humanos do sítio da Crimeia sugere que uma parte deste assentamento pioneiro sobreviveu à catástrofe</segment>
+    <segment id="50">, "já que deixaram parte de seus genes"</segment>
+    <segment id="51">, afirma o diretor de pesquisa do CNRS e coautor do estudo</segment>
+    <segment id="52">, Thierry Grange.</segment>
+    <segment id="53">Seus descendentes "</segment>
+    <segment id="54">sese misturaram com os recém-chegados depois que o clima esquentou e ficou mais úmido"</segment>
+    <segment id="55">, acrescenta Geigl.</segment>
+    <segment id="56">Os dois humanos do sítio da Crimeia</segment>
+    <segment id="57">, que também foram comparados com genomas mais recentes</segment>
+    <segment id="58">, estão geneticamente ligados a populações da Europa Ocidental associadas à cultura Gravettien</segment>
+    <segment id="59">, localizada entre 31 mil e 23 mil anos atrás.</segment>
+    <segment id="60">Essa cultura é conhecida pela produção de estatuetas femininas chamadas Vênus</segment>
+    <segment id="61">, ou Dama de Brassempuy (figura de marfim representando uma cabeça humana).</segment>
+    <segment id="62">As escavações de Buran Kaya 3 permitiram descobrir objetos bastante semelhantes (ferramentas de pedra e marfim de mamute)</segment>
+    <segment id="63">, masmas o vínculo com essa cultura no Ocidente era debatida entre os arqueólogos.</segment>
+    <segment id="64">Ambas "estavam muito distantes geograficamente e havia mais de 5.000 anos de diferença"</segment>
+    <segment id="65">, enfatiza Grange.</segment>
+    <segment id="66">Seus trabalhos fornecem a prova genética que nos permitem afirmar que a cultura gravetiana teve muitas origens no Leste.</segment>
+    <segment id="67">E, do mesmo modo</segment>
+    <segment id="68">, mostra que os antepassados da Europa Oriental migraram para o Oeste</segment>
+    <segment id="69">, "contribuindo para os genomas dos europeus atuais</segment>
+    <segment id="70">", conclui Geigl.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,49 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Assaltados Turistas conhecem a â€˜verdadei</segment>
+    <segment id="2">Os criminosos levaram os pertences dos turistas: joias</segment>
+    <segment id="3">, relÃ³gios e as carteiras</segment>
+    <segment id="4">Dois turistas mineiros foram assaltados no Rio Vermelho</segment>
+    <segment id="5">, perto da Casa de IemanjÃ¡</segment>
+    <segment id="6">, Ã s 7h50 de ontem</segment>
+    <segment id="7">, por dois jovens armados.</segment>
+    <segment id="8">Os criminosos levaram os pertences dos turistas</segment>
+    <segment id="9">, entre eles joias</segment>
+    <segment id="10">, relÃ³gios e as carteiras dos caras.</segment>
+    <segment id="11">As duas vÃ­timas</segment>
+    <segment id="12">, o engenheiro Eduardo AbrÃ£o</segment>
+    <segment id="13">, 26, e o mÃ©dico Cefas GonÃ§alves</segment>
+    <segment id="14">, 28, ficaram na bronca.</segment>
+    <segment id="15">â€œAssaltos acontecem em qualquer lugar do mundo</segment>
+    <segment id="16">, masmas acho um descaso com o turista a polÃ­cia demorar tanto a vir.</segment>
+    <segment id="17">Uma cidade turÃ­stica</segment>
+    <segment id="18">, que propaga o convite ao turista</segment>
+    <segment id="19">, deveria ter uma polÃ­cia que agisse mais rÃ¡pidoâ€</segment>
+    <segment id="20">, reclamou Eduardo.</segment>
+    <segment id="21">PolÃ­cia teria demorado
+Ele dizem que telefonaram para a polÃ­cia</segment>
+    <segment id="22">, masmas sÃ³ conseguiram ajuda de uma viatura mais de 50 minutos depois.</segment>
+  </rst>
+</analysis>

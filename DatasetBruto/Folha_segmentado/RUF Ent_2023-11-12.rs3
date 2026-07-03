@@ -1,0 +1,102 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O RUF (Ranking Universitário Folha) é uma avaliação anual do ensino superior do Brasil feita pela Folha desde 2012.</segment>
+    <segment id="2">No RUF há dois produtos principais: o ranking de universidades e os rankings de cursos.</segment>
+    <segment id="3">No ranking de universidades estão classificadas as 203 universidades brasileiras</segment>
+    <segment id="4">, públicas e privadas</segment>
+    <segment id="5">, a partir de cinco indicadores: pesquisa</segment>
+    <segment id="6">, internacionalização</segment>
+    <segment id="7">, inovação</segment>
+    <segment id="8">, ensino e mercado.</segment>
+    <segment id="9">Foto da PUC-SP</segment>
+    <segment id="10">; faculdades confessionais lideram entre as privadas - Jardiel Carvalho/FolhapressNo ranking de cursos é possível encontrar a avaliação de cada um dos 40 cursos de graduação com mais ingressantes no Brasil.</segment>
+    <segment id="11">Em cada classificação são considerados os cursos oferecidos por universidades</segment>
+    <segment id="12">, por centros universitários e por faculdades.</segment>
+    <segment id="13">O curso de direito</segment>
+    <segment id="14">, especificamente</segment>
+    <segment id="15">, tem uma avaliação específica que leva em conta também aprovação na OAB.</segment>
+    <segment id="16">Os dados que compõem os indicadores de avaliação do RUF são coletados por uma equipe da Folha em bases nacionais e internacionais de periódicos científicos</segment>
+    <segment id="17">, de patentes</segment>
+    <segment id="18">, em bases do Inep-MEC (Censo da Educação Superior e Enade)</segment>
+    <segment id="19">, em agências estaduais e federais de fomento à ciência e em pesquisas nacionais de opinião feitas pelo Datafolha.</segment>
+    <segment id="20">A equipe do RUF pode esclarecer dúvidas metodológicas sobre os diferentes rankings</segment>
+    <segment id="21">, masmas não fornece informações sobre processos seletivos</segment>
+    <segment id="22">, matrículas</segment>
+    <segment id="23">, calendário escolar e valor de mensalidades das instituições de ensino superior do país.</segment>
+    <segment id="24">Perguntas frequentes sobre o RUF  Por que meu curso (biotecnologia e outros) não foi avaliado?</segment>
+    <segment id="25">O RUF avalia as 40 carreiras com mais ingressantes no país</segment>
+    <segment id="26">, como</segment>
+    <segment id="27">como administração</segment>
+    <segment id="28">, direito e medicina</segment>
+    <segment id="29">, de acordo com os dados do último Censo da Educação Superior.</segment>
+    <segment id="30">A demanda para essas carreiras pode variar de ano para ano.</segment>
+    <segment id="31">Meu curso não recebeu pontuação no indicador</segment>
+    <segment id="32">"</segment>
+    <segment id="33">avaliação de mercado".</segment>
+    <segment id="34">Por que isso acontece?</segment>
+    <segment id="35">O indicador de mercado de trabalho entrevista profissionais de RH (de empresas</segment>
+    <segment id="36">, hospitais</segment>
+    <segment id="37">, consultórios</segment>
+    <segment id="38">, escolas e afins) consultados pelo Datafolha.</segment>
+    <segment id="39">Esses profissionais são ouvidos sobre as três melhores instituições nas áreas em que contratam.</segment>
+    <segment id="40">Os cursos sem pontuação nesse indicador não foram mencionados nas entrevistas com os empregadores nas últimas três pesquisas realizadas pelo Datafolha.</segment>
+    <segment id="41">Leia mais sobre a metodologia do RUFMetodologia do RUF considera 18 componentes para chegar à nota das universidadesComo é feito o Ranking Universitário FolhaComo é feito o ranking de cursos do RUFQuais cursos são avaliados no Ranking Universitário FolhaComo o Enade entra no Ranking Universitário FolhaQuem faz o Ranking Universitário FolhaPor que a minha faculdade não foi avaliada no ranking de universidades?</segment>
+    <segment id="42">O ranking de universidades do RUF avalia e classifica as instituições de ensino superior credenciadas</segment>
+    <segment id="43">comocomo "universidades" no MEC.</segment>
+    <segment id="44">Já os 40 rankings de cursos consideram as carreiras oferecidas por universidades</segment>
+    <segment id="45">, faculdades</segment>
+    <segment id="46">, centros universitários e institutos federais.</segment>
+    <segment id="47">Cursos tecnólogos e a distância não fazem parte das avaliações.</segment>
+    <segment id="48">O Enade vale até 5 pontos</segment>
+    <segment id="49">, masmas</segment>
+    <segment id="50">, no ranking de universidades do RUF</segment>
+    <segment id="51">, ele vale 4 pontos.</segment>
+    <segment id="52">Como isso é possível?</segment>
+    <segment id="53">No ranking de universidades</segment>
+    <segment id="54">, calculamos a nota da instituição no Enade (até cinco pontos) proporcionalmente no valor do indicador do RUF (até quatro pontos).</segment>
+    <segment id="55">Minha instituição de ensino não forneceu dados diretamente ao RUF.</segment>
+    <segment id="56">Como fomos avaliados?</segment>
+    <segment id="57">Todos os dados do RUF são coletados em bases de dados públicas.</segment>
+    <segment id="58">Também são realizadas duas pesquisas de opinião nacionais exclusivas</segment>
+    <segment id="59">, conduzidas pelo Datafolha</segment>
+    <segment id="60">, com empregadores e com docentes de todo o país.</segment>
+    <segment id="61">Visitas às instituições de ensino e coleta de dados diretamente nas instituições não fazem parte da metodologia.</segment>
+    <segment id="62">Minha instituição tem dois cursos de "administração"</segment>
+    <segment id="63">, em dois campi diferentes.</segment>
+    <segment id="64">Dá para saber qual é a nota de cada um dos cursos?</segment>
+    <segment id="65">Não.</segment>
+    <segment id="66">O único componente da fórmula do RUF capaz de ser diferenciado por campi é a nota do Enade.</segment>
+    <segment id="67">No caso</segment>
+    <segment id="68">caso de instituições com o mesmo curso oferecido em mais de um campus ou unidade</segment>
+    <segment id="69">, a nota daquela carreira será calculada com base em uma média das notas do curso oferecido em cada um dos campi.</segment>
+    <segment id="70">Meu curso</segment>
+    <segment id="71">sese chama "ciências jurídicas".</segment>
+    <segment id="72">Quero saber</segment>
+    <segment id="73">sese foi avaliado na carreira "direito".</segment>
+    <segment id="74">Sim.</segment>
+    <segment id="75">As 40 carreiras avaliadas no RUF consideram uma série de cursos com diferentes nomenclaturas.</segment>
+    <segment id="76">Conheça as universidades públicas e privadas que lideram o RUF 2023Mais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

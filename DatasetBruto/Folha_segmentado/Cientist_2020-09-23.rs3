@@ -1,0 +1,136 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Trinta e três cientistas de países</segment>
+    <segment id="2">comocomo EUA</segment>
+    <segment id="3">, Canadá</segment>
+    <segment id="4">, Austrália</segment>
+    <segment id="5">, Reino Unido</segment>
+    <segment id="6">, México</segment>
+    <segment id="7">, Chile e África do Sul assinam uma carta endereçada à ministra da Agricultura</segment>
+    <segment id="8">, Tereza Cristina</segment>
+    <segment id="9">, para rechaçar uma nota técnica do ministério que teve</segment>
+    <segment id="10">comocomo objetivo alterar do Guia Alimentar para a População Brasileira</segment>
+    <segment id="11">, de modo a melhorar a imagem dos chamados alimentos ultraprocessados.</segment>
+    <segment id="12">A missiva</segment>
+    <segment id="13">, à qual a Folha teve acesso</segment>
+    <segment id="14">, será enviada nesta quarta (23).</segment>
+    <segment id="15">O documento do Mapa (Ministério da Agricultura</segment>
+    <segment id="16">, Pecuária e Abastecimento)</segment>
+    <segment id="17">, que veio a público na última semana</segment>
+    <segment id="18">, afirmava que “o guia brasileiro é considerado um dos piores [e] a recomendação mais forte nesse momento é a imediata retirada das menções a classificação Nova no atual guia alimentar.</segment>
+    <segment id="19">”  A classificação Nova</segment>
+    <segment id="20">, criada por pesquisadores brasileiros</segment>
+    <segment id="21">, agrupa alimentos de acordo com o nível de processamento: in natura</segment>
+    <segment id="22">, minimamente processados</segment>
+    <segment id="23">, ingredientes culinários</segment>
+    <segment id="24">, processados e ultraprocessados</segment>
+    <segment id="25">, sendo os últimos aqueles mais associados a riscos na saúde</segment>
+    <segment id="26">, de acordo com dezenas de publicações científicas.</segment>
+    <segment id="27">Alimentação baseada em ultraprocessados e não processados   novamente         de   de  de  representando um</segment>
+    <segment id="28">Entre os ultraprocessados estão refrigerantes</segment>
+    <segment id="29">, biscoitos doces e salgados</segment>
+    <segment id="30">, salgadinhos de pacote</segment>
+    <segment id="31">, cereais matinais com açúcar</segment>
+    <segment id="32">, produtos com carne restituída</segment>
+    <segment id="33">, pratos prontos para comer que só precisam ser aquecidos.</segment>
+    <segment id="34">Na carta</segment>
+    <segment id="35">, organizada por Barry Popkin</segment>
+    <segment id="36">, professor de nutrição da Universidade da Carolina do Norte em Chapel HIll (EUA)</segment>
+    <segment id="37">, ele e os demais acadêmicos dizem que a argumentação da nota técnica denota falta de conhecimento científico de quem a redigiu e que as críticas ao guia são injustificadas.</segment>
+    <segment id="38">“</segment>
+    <segment id="39">Quanto menos [ultraprocessados] forem consumidos</segment>
+    <segment id="40">, melhor.</segment>
+    <segment id="41">É difícil entender por que a nota não menciona o rápido crescimento do consumo de alimentos ultraprocessados em todo o Brasil e na maior parte dos países ou o impacto negativo deles na saúde”</segment>
+    <segment id="42">, escrevem.</segment>
+    <segment id="43">Em entrevista por email</segment>
+    <segment id="44">, Popkin afirma que uma motivação para organizar essa resposta é o programa de alimentação escolar brasileiro.</segment>
+    <segment id="45">“</segment>
+    <segment id="46">Ao tentar desqualificar as diretrizes</segment>
+    <segment id="47">, [o Mapa] está tentando desfazer uma mudança brilhante na alimentação escolar.</segment>
+    <segment id="48">Seria criminoso e antiético usar falsa ciência e mentiras para tentar desacreditar essas importantíssimas diretrizes</segment>
+    <segment id="49">, o que ameaçaria a saúde de crianças brasileiras em idade escolar e seu futuro.</segment>
+    <segment id="50">”</segment>
+    <segment id="51">“</segment>
+    <segment id="52">Esse foi o primeiro guia a lidar diretamente com a importante questão dos alimentos ultraprocessados.</segment>
+    <segment id="53">Temos pesquisas volumosas</segment>
+    <segment id="54">, desde um brilhante ensaio clínico controlado do NIH até 30 estudos de coortes muito bem feitos em todo o mundo que mostram que alimentos ultraprocessados têm um impacto muito grande no ganho de peso excessivo e aumento do risco de diabetes</segment>
+    <segment id="55">, hipertensão e doenças do coração”</segment>
+    <segment id="56">, conta Popkin.</segment>
+    <segment id="57">Os signatários relembram que países</segment>
+    <segment id="58">comocomo França</segment>
+    <segment id="59">, Israel</segment>
+    <segment id="60">, Canadá</segment>
+    <segment id="61">, México</segment>
+    <segment id="62">, Chile e Uruguai adotam a classificação Nova</segment>
+    <segment id="63">comocomo ferramenta para educar a população a fazer boas escolhas e para políticas públicas de saúde.</segment>
+    <segment id="64">“</segment>
+    <segment id="65">A associação entre o consumo de alimentos ultraprocessados e sobrepeso e obesidade</segment>
+    <segment id="66">, diabetes</segment>
+    <segment id="67">, hipertensão</segment>
+    <segment id="68">, dislipidemias [colesterol alto]</segment>
+    <segment id="69">, doenças cardiovasculares</segment>
+    <segment id="70">, AVCs</segment>
+    <segment id="71">, câncer de mama</segment>
+    <segment id="72">, depressão</segment>
+    <segment id="73">, fragilidade em idosos e mortalidade em geral foi demonstrada em estudos longitudinais cuidadosos conduzidos em grandes amostras de indivíduos em diferentes países</segment>
+    <segment id="74">, incluindo EUA</segment>
+    <segment id="75">, Reino Unido</segment>
+    <segment id="76">, Espanha e França</segment>
+    <segment id="77">, além do Brasil”</segment>
+    <segment id="78">, escrevem os cientistas</segment>
+    <segment id="79">, que também enfatizam que agências da ONU referendam o guia brasileiro.</segment>
+    <segment id="80">Para a indústria de alimentos</segment>
+    <segment id="81">, que seria a maior beneficiada por uma eventual alteração nos termos solicitados</segment>
+    <segment id="82">, "[a classificação Nova] é mal definida</segment>
+    <segment id="83">, utiliza suposições e termos amplos que trazem inconsistência</segment>
+    <segment id="84">, confusão e incerteza aos consumidores e sem nenhuma consideração objetiva do perfil nutricional".</segment>
+    <segment id="85">Segundo a associação</segment>
+    <segment id="86">, o guia não considera o valor nutricional absoluto de alimentos e bebidas</segment>
+    <segment id="87">, nem a densidade de nutrientes neles presentes.  "</segment>
+    <segment id="88">Com isso</segment>
+    <segment id="89">, destoa substancialmente do foco empregado por órgãos competentes internacionais em relação às diretrizes alimentares para reduzir o risco de doenças crônicas não transmissíveis.</segment>
+    <segment id="90">"  “Descobri</segment>
+    <segment id="91">, após décadas de trabalho com vários paíse e com a indústria que não é possível trabalhar junto com ela [com a meta de construir diretrizes].</segment>
+    <segment id="92">Ela faz promessas de</segment>
+    <segment id="93">sese autorregular</segment>
+    <segment id="94">, masmas</segment>
+    <segment id="95">, nas centenas de vezes que essas promessas foram avaliadas</segment>
+    <segment id="96">, elas nunca funcionaram.</segment>
+    <segment id="97">E eles lutam contra as regulamentações</segment>
+    <segment id="98">, mesmo quando isso não os prejudica em termos de venda ou empregos</segment>
+    <segment id="99">, já que poderiam fabricar e vender produtos mais saudáveis”</segment>
+    <segment id="100">, afirma Barry Popkin.</segment>
+    <segment id="101">A Folha questionou o Mapa sobre o assunto.</segment>
+    <segment id="102">O ministério afirmou que o tema "está sendo debatido internamente</segment>
+    <segment id="103">, em Câmaras Setoriais do Mapa" e que não houve solicitação</segment>
+    <segment id="104">para que</segment>
+    <segment id="105">para que o Ministério da Saúde faça alterações no guia.</segment>
+    <segment id="106">A pasta da Saúde</segment>
+    <segment id="107">, porém</segment>
+    <segment id="108">porém, afirmou que recebeu o documento proveniente do Mapa e que agora analisa as considerações do outro ministério.</segment>
+    <segment id="109">A Saúde não respondeu</segment>
+    <segment id="110">sese considera que o papel do guia vem sendo adequadamente cumprido.</segment>
+  </rst>
+</analysis>

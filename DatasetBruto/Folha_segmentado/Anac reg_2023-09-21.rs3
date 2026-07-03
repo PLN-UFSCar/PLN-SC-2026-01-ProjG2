@@ -1,0 +1,51 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A aviação doméstica brasileira registrou o melhor mês de agosto em movimentação de passageiros e demanda por quilômetro desde o início da série histórica do setor</segment>
+    <segment id="2">, em 2000.</segment>
+    <segment id="3">De acordo com dados divulgados pela Anac (Agência Nacional de Aviação Civil) nesta quinta (21)</segment>
+    <segment id="4">, foram transportados 8</segment>
+    <segment id="5">,2 milhões de passageiros —alta de 4</segment>
+    <segment id="6">,3% na comparação com agosto de 2019</segment>
+    <segment id="7">, período pré-pandemia.</segment>
+    <segment id="8">A demanda por voos subiu 6</segment>
+    <segment id="9">,4% e a oferta de assentos cresceu 5</segment>
+    <segment id="10">,3%.</segment>
+    <segment id="11">Pista principal do aeroporto de Congonhas</segment>
+    <segment id="12">, em São Paulo - Bruno Santos - 17.ago.2023/Folhapress</segment>
+    <segment id="13">A Latam ficou na liderança do mercado interno</segment>
+    <segment id="14">, com 38</segment>
+    <segment id="15">,3% dos voos</segment>
+    <segment id="16">, seguida por Gol (32</segment>
+    <segment id="17">,6%) e Azul (28</segment>
+    <segment id="18">,6%).</segment>
+    <segment id="19">No mercado internacional</segment>
+    <segment id="20">, por outro lado</segment>
+    <segment id="21">, a Anac registrou queda de 7</segment>
+    <segment id="22">,2% na demanda por voos e de 8</segment>
+    <segment id="23">,6% na oferta de assentos.</segment>
+    <segment id="24">Com Diego</segment>
+    <segment id="25">Felix</segment>
+  </rst>
+</analysis>

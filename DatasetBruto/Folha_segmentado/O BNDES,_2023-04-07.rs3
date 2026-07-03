@@ -1,0 +1,107 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Economistas do BNDES publicaram</segment>
+    <segment id="2">, nesta Folha</segment>
+    <segment id="3">, uma réplica à minha coluna de quinze dias atrás sobre o risco de o BNDES repetir erros que nos custarão caro.</segment>
+    <segment id="4">Argumentaram que considerei "apenas os custos [partindo] do pressuposto de que toda e qualquer atuação do banco teve impacto zero sobre a economia</segment>
+    <segment id="5">, [pois</segment>
+    <segment id="6">pois] (...) a literatura sobre o impacto do BNDES na economia também inclui resultados positivos sobre o PIB</segment>
+    <segment id="7">, emprego e arrecadação tributária".</segment>
+    <segment id="8">Não considerei só os custos.</segment>
+    <segment id="9">Citei várias estudos que avaliaram os custos e benefícios da política de expansão do crédito do BNDES a partir de empréstimos feitos pelo Tesouro ao banco.</segment>
+    <segment id="10">Vale repetir as conclusões</segment>
+    <segment id="11">, que inequivocamente mostram baixos benefícios e efeitos negativos que vão além dos custos fiscais (as referências bibliográficas estão na versão online da coluna de 24 de março):</segment>
+    <segment id="12">Entenda a discussãoMarcos Mendes: BNDES sinaliza que repetirá erros que nos custaram caroRéplica:</segment>
+    <segment id="13">O BNDES e o Plano MarshallSede do BNDES</segment>
+    <segment id="14">, no Rio de Janeiro - Lucas Tavares - 18.jul.2017/Folhapressa) os empréstimos do BNDES geraram pouco investimento adicional na economia: as empresas substituíram empréstimos mais caros</segment>
+    <segment id="15">, que já tomariam</segment>
+    <segment id="16">, pelos recursos mais baratos ofertados pelo BNDES (a chamada "bolsa empresário")</segment>
+    <segment id="17">;  b) passada a recessão de 2009</segment>
+    <segment id="18">, a capacidade de alavancar investimentos caiu fortemente</segment>
+    <segment id="19">, deteriorando a relação custo benefício da política</segment>
+    <segment id="20">;  c) os financiamentos</segment>
+    <segment id="21">sese concentraram em empresas grandes</segment>
+    <segment id="22">, consolidadas e pouco inovadoras</segment>
+    <segment id="23">;  d) projetos insustentáveis</segment>
+    <segment id="24">, como</segment>
+    <segment id="25">como a terceira tentativa de reerguimento da indústria naval ou a fracassada empresa de chips Unitec</segment>
+    <segment id="26">, destruíram capital e/ou o alocaram de forma ineficiente</segment>
+    <segment id="27">;  e) não há evidência de que os empréstimos aumentaram a produtividade da economia</segment>
+    <segment id="28">;  f) impacto negativo sobre o crescimento do mercado de capitais privado</segment>
+    <segment id="29">;  g) enfraquecimento da política monetária</segment>
+    <segment id="30">, seja por reduzir a sensibilidade do mercado à taxa Selic</segment>
+    <segment id="31">, seja pelo impulso parafiscal dado à demanda.</segment>
+    <segment id="32">É claro que</segment>
+    <segment id="33">sese pode encontrar algum impacto positivo das operações do BNDES sobre emprego e atividade econômica de curto prazo.</segment>
+    <segment id="34">Afinal</segment>
+    <segment id="35">, quando</segment>
+    <segment id="36">sese despeja na economia mais de 4% do PIB em desembolsos de crédito</segment>
+    <segment id="37">, como</segment>
+    <segment id="38">como em 2010</segment>
+    <segment id="39">, algum impacto ocorre</segment>
+    <segment id="40">, a menos que haja total desperdício do dinheiro.</segment>
+    <segment id="41">Mas isso não é suficiente para concluir que valeu a pena.</segment>
+    <segment id="42">Afinal</segment>
+    <segment id="43">, há custos.</segment>
+    <segment id="44">Os autores também contestam os meus números relativos aos custos fiscais.</segment>
+    <segment id="45">Mas os números não são meus.</segment>
+    <segment id="46">São dados oficiais</segment>
+    <segment id="47">, publicados pelo Tesouro Nacional</segment>
+    <segment id="48">, que mostram que</segment>
+    <segment id="49">, em valores de dezembro de 2022</segment>
+    <segment id="50">, o custo das operações do Tesouro com o BNDES somou R$ 325 bilhões.</segment>
+    <segment id="51">Os cálculos são feitos pela diferença entre a taxa que o Tesouro paga ao tomar crédito no mercado e quanto ele cobrou de juros do BNDES.</segment>
+    <segment id="52">Esse é o chamado "subsídio implícito".</segment>
+    <segment id="53">Há, também</segment>
+    <segment id="54">, o subsídio explícito</segment>
+    <segment id="55">, que consiste em pagamento direto do Tesouro ao BNDES para compensá-lo por crédito subsidiado concedido pelo Banco em determinadas linhas de crédito.</segment>
+    <segment id="56">Se os economistas do BNDES não concordam com essa metodologia</segment>
+    <segment id="57">, que é amplamente aceita</segment>
+    <segment id="58">, devem abrir uma discussão com os técnicos do Tesouro para mudá-la.</segment>
+    <segment id="59">Mas precisam levar dados mais convincentes do que os apresentados em sua réplica.</segment>
+    <segment id="60">No texto sugerem que teria sido um bom negócio para o Tesouro obter uma taxa interna de retorno nominal de 6</segment>
+    <segment id="61">,7% ao ano no seu relacionamento financeiro com o BNDES no período 2008-2022.</segment>
+    <segment id="62">Como assim?</segment>
+    <segment id="63">Certamente teria sido melhor para o contribuinte não ter acumulado dívida perto de 10% do PIB</segment>
+    <segment id="64">, a um custo médio nominal de 11</segment>
+    <segment id="65">,1% no período 2008-20222 (dados oficiais do Tesouro) para entregar dinheiro barato às empresas escolhidas pelo governo.</segment>
+    <segment id="66">O que faz o BNDES?Mais    novamente         de   de  de  representando um</segment>
+    <segment id="67">Na coluna fiz uma comparação dos desembolsos do Plano Marshall com os valores repassados pelo Tesouro ao BNDES:</segment>
+    <segment id="68">sese os grandes volumes de financiamento do BNDES tivessem impacto positivo</segment>
+    <segment id="69">, veríamos forte resposta permanente</segment>
+    <segment id="70">, sob a forma de crescimento e na renda.</segment>
+    <segment id="71">O que não ocorreu</segment>
+    <segment id="72">, ao contrário da experiência positiva do Plano Marshall.</segment>
+    <segment id="73">Os autores pegaram essa questão lateral</segment>
+    <segment id="74">comocomo mote central da réplica e</segment>
+    <segment id="75">sese puseram a fazer contas pouco claras para dizer que o crédito ao BNDES foi menor que o Plano Marshall.</segment>
+    <segment id="76">Com isso</segment>
+    <segment id="77">, evitaram encarar o fundamental: a política foi cara</segment>
+    <segment id="78">, ineficaz e com efeitos colaterais negativos.</segment>
+    <segment id="79">É preocupante que economistas do BNDES chamem de "sofismas ideológicos do passado</segment>
+    <segment id="80">" evidências robustas de fracasso de uma política pública.</segment>
+    <segment id="81">Não reconhecer o que deu errado e querer fazer de novo não parece um bom caminho.</segment>
+  </rst>
+</analysis>

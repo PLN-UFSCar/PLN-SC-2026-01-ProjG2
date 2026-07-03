@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Marlos leva carreira de BÃºfalo</segment>
+    <segment id="2">O peÃ£o chegou a</segment>
+    <segment id="3">sese machucar</segment>
+    <segment id="4">O peÃ£o passou por um susto na manhÃ£ de ontem em "</segment>
+    <segment id="5">A Fazenda 7</segment>
+    <segment id="6">".</segment>
+    <segment id="7">Marlos cuidava do bÃºfalo quando o animal disparou em sua direÃ§Ã£o.</segment>
+    <segment id="8">O modelo correu.</segment>
+    <segment id="9">JÃ¡ em seguranÃ§a</segment>
+    <segment id="10">, disse que distendeu a virilha e jurou nÃ£o cuidar mais do bicho.</segment>
+    <segment id="11">Heloisa Faissol concordou e ainda deu um pito da emissora:</segment>
+    <segment id="12">â€œA Record nÃ£o pode colocar a gente pra arriscar a vida por causa de um bichoâ€. Pode</segment>
+    <segment id="13">, produÃ§Ã£o?</segment>
+  </rst>
+</analysis>

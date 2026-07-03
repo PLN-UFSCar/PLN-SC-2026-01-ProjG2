@@ -1,0 +1,193 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um grupo de pesquisadores da Unicamp (Universidade Estadual de Campinas) desenvolveu um algoritmo capaz de projetar o futuro da vegetação amazônica</segment>
+    <segment id="2">, apresentando cenários com transformações da floresta provocadas pelas mudanças climáticas.</segment>
+    <segment id="3">Um dos resultados mostra que um clima mais seco na região</segment>
+    <segment id="4">, com redução de 50% na precipitação</segment>
+    <segment id="5">, poderia aumentar a diversidade</segment>
+    <segment id="6">, porém</segment>
+    <segment id="7">porém com menores índices de estocagem de carbono.</segment>
+    <segment id="8">Isso porque</segment>
+    <segment id="9">porque haveria um aumento de armazenagem de dióxido de carbono (CO2) nas raízes da vegetação em detrimento da absorção por meio de folhas e troncos</segment>
+    <segment id="10">, que têm maior capacidade de acúmulo.</segment>
+    <segment id="11">Levando em consideração diferentes situações</segment>
+    <segment id="12">, os cientistas calcularam que a absorção poderia ser entre 57</segment>
+    <segment id="13">,48% e 57</segment>
+    <segment id="14">,75% menor em comparação a condições climáticas regulares.</segment>
+    <segment id="15">As pesquisadoras Bárbara Cardelli e Bianca Fazio Rius analisando dados do Caetê em laboratório do Centro de Pesquisas Meteorológicas e Climáticas Aplicadas à Agricultura da Unicamp - DivulgaçãoPrimeiro algoritmo desse tipo exclusivamente brasileiro</segment>
+    <segment id="16">, foi apelidado de Caetê</segment>
+    <segment id="17">, que na língua tupi-guarani significa</segment>
+    <segment id="18">"mata virgem".</segment>
+    <segment id="19">O nome vem da sigla CArbon and Ecosystem functional-Trait</segment>
+    <segment id="20">Evaluation model (em tradução livre: modelo para avaliação de características funcionais de carbono e de ecossistema).</segment>
+    <segment id="21">Seus primeiros resultados estão descritos em artigo publicado na revista científica Ecological Modelling.</segment>
+    <segment id="22">O Caetê simula fenômenos da natureza usando equações matemáticas alimentadas por dados de condições ambientais</segment>
+    <segment id="23">, como</segment>
+    <segment id="24">como chuva</segment>
+    <segment id="25">, incidência solar e níveis de CO2.</segment>
+    <segment id="26">Com essas informações</segment>
+    <segment id="27">, o algoritmo responde qual pode ser a taxa de fotossíntese em determinadas condições ou em qual parte a planta estocará mais carbono (raízes</segment>
+    <segment id="28">, folhas ou troncos).</segment>
+    <segment id="29">Por meio dessa informação</segment>
+    <segment id="30">, é possível chegar à quantidade de carbono que a floresta pode armazenar e em qual ponto a vegetação nativa não</segment>
+    <segment id="31">sese recupera mais.  "</segment>
+    <segment id="32">O principal resultado da pesquisa foi mostrar que a inclusão da diversidade em modelos de vegetação melhora a capacidade de projeção frente às mudanças climáticas</segment>
+    <segment id="33">, aumentando a credibilidade.</segment>
+    <segment id="34">E o segundo ponto</segment>
+    <segment id="35">, um resultado inesperado</segment>
+    <segment id="36">, mostra que</segment>
+    <segment id="37">, após aplicar uma redução de 50% na precipitação</segment>
+    <segment id="38">, houve um aumento na diversidade de estratégias das plantas</segment>
+    <segment id="39">, masmas com menor retirada de carbono da atmosfera.</segment>
+    <segment id="40">Isso pode ter um resultado diferente sobre a mitigação das mudanças climáticas.</segment>
+    <segment id="41">Neste caso</segment>
+    <segment id="42">caso, aumentar a diversidade necessariamente pode não indicar um saldo positivo"</segment>
+    <segment id="43">, afirma Bianca Fazio Rius</segment>
+    <segment id="44">, primeira autora do artigo e doutoranda do Instituto de Biologia (IB) da Unicamp.</segment>
+    <segment id="45">Rius recebe apoio da Fapesp</segment>
+    <segment id="46">, que também financiou o estudo por meio de bolsa a João Paulo Darela Filho e do AmazonFACE</segment>
+    <segment id="47">, um programa de pesquisa que estuda</segment>
+    <segment id="48">, por meio de experimento de campo</segment>
+    <segment id="49">, como</segment>
+    <segment id="50">como o aumento de CO2 atmosférico afeta a floresta amazônica</segment>
+    <segment id="51">, sua biodiversidade e os serviços ecossistêmicos (conheça aqui).</segment>
+    <segment id="52">Acampamento 41</segment>
+    <segment id="53">, na Amazônia</segment>
+    <segment id="54">, estuda efeitos da crise climática na florestaMais    novamente         de   de  de  representando um</segment>
+    <segment id="55">A pesquisadora integra a equipe do Laboratório de Ciência do Sistema Terrestre</segment>
+    <segment id="56">, coordenado pelo professor David Montenegro Lapola</segment>
+    <segment id="57">, que orientou o estudo.  "</segment>
+    <segment id="58">Com o Caetê</segment>
+    <segment id="59">, ao mesmo tempo em que</segment>
+    <segment id="60">sese busca melhorar a representação da enorme diversidade biológica da maior floresta tropical do mundo</segment>
+    <segment id="61">, também cria-</segment>
+    <segment id="62">sese um estímulo à coleta de dados em campo que ainda são necessários para esse tipo de modelo"</segment>
+    <segment id="63">, explica Lapola à Agência Fapesp.</segment>
+    <segment id="64">O professor foi um dos brasileiros que</segment>
+    <segment id="65">, juntamente com outros 34 cientistas de instituições nacionais e internacionais</segment>
+    <segment id="66">, assinaram artigo destacado na capa da revista Science</segment>
+    <segment id="67">, no início deste ano</segment>
+    <segment id="68">, mostrando que cerca de 38% da atual área da Amazônia sofre com algum tipo de degradação causada por quatro fatores —fogo</segment>
+    <segment id="69">, extração seletiva de madeira (em sua maioria ilegal)</segment>
+    <segment id="70">, efeitos de borda (que são mudanças em regiões de floresta ao lado de zonas desmatadas) e secas extremas.</segment>
+    <segment id="71">O resultado é que as emissões de carbono derivadas da perda gradual de vegetação são equivalentes ou até maiores do que as registradas por desmatamento (leia mais aqui).</segment>
+    <segment id="72">Vantagens e desvantagens</segment>
+    <segment id="73">Modelos de vegetação têm sido amplamente utilizados para explorar o destino do balanço de carbono da floresta amazônica sob condições climáticas projetadas para o futuro.</segment>
+    <segment id="74">Estudos anteriores já mostraram que nos últimos 40 anos a Amazônia ficou 1°C mais quente e chegou a ter uma redução de até 36% no nível de chuvas em algumas áreas.</segment>
+    <segment id="75">Como reflexo do desmatamento</segment>
+    <segment id="76">, da degradação vegetal e do aquecimento global</segment>
+    <segment id="77">, a floresta também tem perdido sua capacidade de absorver CO2.</segment>
+    <segment id="78">Além disso</segment>
+    <segment id="79">, relatório divulgado em 17 de maio pela Organização Meteorológica Mundial alerta que a temperatura global deve atingir níveis recordes nos próximos cinco anos por causa dos gases que causam o efeito estufa e do fenômeno El Niño</segment>
+    <segment id="80">, com previsão de redução no regime de chuvas para a Amazônia.</segment>
+    <segment id="81">Exploração de madeira nas proximidades da comunidade de Cachoeira do Aruã (PA)Mais    novamente         de   de  de  representando um  No entanto</segment>
+    <segment id="82">, os algoritmos atuais usam</segment>
+    <segment id="83">comocomo base um pequeno conjunto dos chamados tipos funcionais da planta (PFT</segment>
+    <segment id="84">, na sigla em inglês)</segment>
+    <segment id="85">, com sub-representação da diversidade.</segment>
+    <segment id="86">Com isso</segment>
+    <segment id="87">, a combinação de características encontradas nos ecossistemas-modelo é simplificada diante da complexidade da maior floresta tropical do mundo</segment>
+    <segment id="88">, gerando cenários limitados ou que superestimam os impactos das mudanças ambientais.</segment>
+    <segment id="89">Entre os tipos existentes atualmente estão os modelos dinâmicos de vegetação global (DGVMs) — softwares que fazem simulações e projeções da dinâmica vegetacional de uma região</segment>
+    <segment id="90">, entre eles o Jena Diversity (JeDi).</segment>
+    <segment id="91">Por outro lado</segment>
+    <segment id="92">, entre as vantagens das simulações</segment>
+    <segment id="93">, está o fato de elas não dependerem de logística e de grandes investimentos</segment>
+    <segment id="94">, necessários para a realização de um experimento de campo em larga escala.</segment>
+    <segment id="95">Ponto de inflexão</segment>
+    <segment id="96">Rius explica que o estudo não foca em espécies.</segment>
+    <segment id="97">"</segment>
+    <segment id="98">Usamos a ideia de que cada indivíduo</segment>
+    <segment id="99">, mesmo indivíduos dentro de uma espécie</segment>
+    <segment id="100">, pode ser considerado um tipo de estratégia para lidar com o ambiente.</segment>
+    <segment id="101">Não necessariamente as estratégias criadas computacionalmente pertencem a uma determinada espécie"</segment>
+    <segment id="102">, diz.</segment>
+    <segment id="103">A pesquisadora explica que as estratégias representam um conjunto de características de plantas ou de qualquer ser vivo que vão dizer</segment>
+    <segment id="104">comocomo ele responde ou afeta o ambiente.</segment>
+    <segment id="105">Ou seja</segment>
+    <segment id="106">, uma planta que adapta a profundidade da raiz para poder acessar água dependendo da altura do lençol freático.</segment>
+    <segment id="107">Isso pode determinar a sobrevivência e a reprodução desses indivíduos</segment>
+    <segment id="108">, estando ligado aos serviços ecossistêmicos</segment>
+    <segment id="109">, como</segment>
+    <segment id="110">como a capacidade de absorção de carbono ou a geração de umidade para o ciclo de chuvas.</segment>
+    <segment id="111">"</segment>
+    <segment id="112">O que vimos com o clima ficando mais seco foi uma mudança na ocorrência de tipos de estratégia de vida na Amazônia.</segment>
+    <segment id="113">Observamos um aumento na ocorrência de estratégias semelhantes às do Cerrado.</segment>
+    <segment id="114">É como</segment>
+    <segment id="115">como se</segment>
+    <segment id="116">se houvesse um adentramento do cerrado na floresta</segment>
+    <segment id="117">, desfecho que outros trabalhos já trouxeram"</segment>
+    <segment id="118">, completa Rius.</segment>
+    <segment id="119">Notícias do diaReceba diariamente de manhã no seu email as principais notícias publicadas na Folha</segment>
+    <segment id="120">; aberta para não assinantes.</segment>
+    <segment id="121">Carregando...</segment>
+    <segment id="122">Os cientistas destacam que a pesquisa com o Caetê trouxe mais evidências de que a inclusão da variabilidade e de diversidade pode ter implicações para a modelagem do chamado "ponto de inflexão" da Amazônia</segment>
+    <segment id="123">, quando a vegetação natural não consegue mais</segment>
+    <segment id="124">sese recuperar.</segment>
+    <segment id="125">Um dos primeiros artigos a tratar do tema foi assinado pelos pesquisadores Thomas Lovejoy (1941-2021)</segment>
+    <segment id="126">, biólogo que cunhou o termo "diversidade biológica"</segment>
+    <segment id="127">, e Carlos Nobre</segment>
+    <segment id="128">, copresidente do Painel Científico para a Amazônia</segment>
+    <segment id="129">, destacando a importância do ciclo hidrológico da floresta tropical não só para o Brasil</segment>
+    <segment id="130">comocomo a América do Sul e outras regiões.</segment>
+    <segment id="131">Por meio da evapotranspiração</segment>
+    <segment id="132">, a floresta garante ao longo de todo o ano a umidade que contribui</segment>
+    <segment id="133">, por exemplo</segment>
+    <segment id="134">, para chuvas em partes da bacia do rio Prata</segment>
+    <segment id="135">, especialmente no sul do Paraguai</segment>
+    <segment id="136">, do Brasil</segment>
+    <segment id="137">, Uruguai e centro-leste da Argentina.</segment>
+    <segment id="138">Histórico</segment>
+    <segment id="139">O Caetê começou a ser criado em 2015 com base no modelo ecossistêmico CPTEC-PVM2</segment>
+    <segment id="140">, que teve Lapola</segment>
+    <segment id="141">comocomo um dos envolvidos no desenvolvimento inicial.  "</segment>
+    <segment id="142">A maioria dos modelos de vegetação representa a Amazônia com dois ou três tipos de estratégias.</segment>
+    <segment id="143">A proposta foi incluir maior diversidade.</segment>
+    <segment id="144">Vamos continuar a desenvolvê-lo</segment>
+    <segment id="145">, porque</segment>
+    <segment id="146">porque um modelo nunca está pronto"</segment>
+    <segment id="147">, afirma Rius.</segment>
+    <segment id="148">Nessa linha</segment>
+    <segment id="149">, a doutoranda do IB da Unicamp Bárbara Cardeli</segment>
+    <segment id="150">sese juntou ao grupo e está trabalhando no modelo para incluir um módulo visando quantificar os serviços ecossistêmicos.</segment>
+    <segment id="151">"</segment>
+    <segment id="152">A ideia é que</segment>
+    <segment id="153">, de uma maneira simples</segment>
+    <segment id="154">, seja possível ver por meio de alguns processos</segment>
+    <segment id="155">, por exemplo</segment>
+    <segment id="156">, como</segment>
+    <segment id="157">como as estratégias da vegetação alocam carbono</segment>
+    <segment id="158">, quais serviços ecossistêmicos estão assegurados ou não.</segment>
+    <segment id="159">Queremos incluir dados numéricos</segment>
+    <segment id="160">, valores</segment>
+    <segment id="161">, de como</segment>
+    <segment id="162">como está o oferecimento desses serviços"</segment>
+    <segment id="163">, conta Cardeli.</segment>
+    <segment id="164">Na visão dos pesquisadores</segment>
+    <segment id="165">, o Caetê pode vir a ser uma ferramenta que forneça dados para tomada de decisões e construção de políticas públicas voltadas ao mercado de carbono.</segment>
+    <segment id="166">O Brasil assumiu durante a Conferência das Nações Unidas sobre Mudanças Climáticas (COP26) o compromisso de reduzir em 50% as emissões de carbono do país até 2030 em relação aos dados de 2005 e neutralizá-las até 2050.</segment>
+    <segment id="167">O artigo "Higher functional diversity improves modeling of Amazon forest carbon storage" ("Maior diversidade funcional melhora a modelagem do armazenamento de carbono da floresta amazônica") pode ser lido aqui.</segment>
+  </rst>
+</analysis>

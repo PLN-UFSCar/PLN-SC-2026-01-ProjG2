@@ -1,0 +1,57 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O cuscuz é um dos pratos favoritos da culinária nordestina</segment>
+    <segment id="2">, além de funcionar</segment>
+    <segment id="3">comocomo um coringa para diferentes receitas</segment>
+    <segment id="4">, entre eles a tapioca</segment>
+    <segment id="5">comocomo opção para o café da manhã</segment>
+    <segment id="6">, ou um jantar encorpado</segment>
+    <segment id="7">, ou mesmo uma opção para o café da tarde.</segment>
+    <segment id="8">Foto do bolo de cuscuz do criador de conteúdo Delismar Cardoso</segment>
+    <segment id="9">, do Kwai - Delismar CardosoNeste</segment>
+    <segment id="10">casocaso</segment>
+    <segment id="11">, o cuscuz pode servir</segment>
+    <segment id="12">comocomo base para um bolo delicioso que fica pronto em menos de uma hora e rende até 10 porções.</segment>
+    <segment id="13">O passo a passo é do criador de conteúdo Delismar Cardoso</segment>
+    <segment id="14">, que tem mais de 1</segment>
+    <segment id="15">,9 milhão de seguidores na plataforma Kwai</segment>
+    <segment id="16">, onde ensina receitas simples e fáceis para o dia a dia.</segment>
+    <segment id="17">Ingredientes:   1 xícara de flocão de milho</segment>
+    <segment id="18">; 1 xícara de leite</segment>
+    <segment id="19">; 3 ovos</segment>
+    <segment id="20">; 1 xícara de açúcar</segment>
+    <segment id="21">; ½ xícara de óleo</segment>
+    <segment id="22">; 1 xícara de queijo ralado</segment>
+    <segment id="23">; 1 colher de sopa de fermento em pó.</segment>
+    <segment id="24">Modo de preparo:</segment>
+    <segment id="25">Hidrate o cuscuz com o leite e deixe descansando por 20 minutos.</segment>
+    <segment id="26">Em um liquidificador acrescente os ovos</segment>
+    <segment id="27">, o açúcar</segment>
+    <segment id="28">, o óleo e o queijo ralado e junte o cuscuz hidratado.</segment>
+    <segment id="29">Inclua o fermento e bata bem até todos os ingredientes incorporarem.</segment>
+    <segment id="30">Adicione o fermento e bata por mais alguns minutos.</segment>
+    <segment id="31">Transfira a massa a uma forma untada e leve ao forno pré-aquecido a 180 graus por aproximadamente 45 minutos até ficar bem douradinho.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">PrisÃ£o</segment>
+    <segment id="2">TrÃªs homens sÃ£o presos apÃ³s assalto em Canoas
+Foram encontradas armas e um cofre roubado de uma empresa</segment>
+    <segment id="3">TrÃªs homens foram presos nesta manhÃ£ com cinco armas entre revÃ³lveres e pistolas</segment>
+    <segment id="4">, alÃ©m de um cofre ainda fechado</segment>
+    <segment id="5">, que haviam sido roubados de uma empresa de vigilÃ¢ncia na Rua Berto CÃ­rio</segment>
+    <segment id="6">, Bairro SÃ£o Luiz</segment>
+    <segment id="7">, em Canoas.</segment>
+    <segment id="8">Dado o alerta</segment>
+    <segment id="9">, a PolÃ­cia RodoviÃ¡ria Federal (PRF) e a Brigada Militar perseguiram o trio na BR-386</segment>
+    <segment id="10">, onde os criminosos perderam o controle do Marea usado no roubo e tentaram</segment>
+    <segment id="11">sese refugiar em um matagal.</segment>
+    <segment id="12">A polÃ­cia ainda nÃ£o confirma as identificaÃ§Ãµes dos presos</segment>
+    <segment id="13">, que estÃ£o sendo conduzidos Ã  DPPA de Canoas.</segment>
+  </rst>
+</analysis>

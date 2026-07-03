@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo Lula está confiante de que o aniversário de 60 anos do golpe militar de 1964</segment>
+    <segment id="2">, no próximo dia 31 de março</segment>
+    <segment id="3">, ocorrerá da mesma forma</segment>
+    <segment id="4">comocomo o ano passado nos quartéis: em completo silêncio.</segment>
+    <segment id="5">Mobilização de tanques no Rio de Janeiro em abril de 1964 - Arquivo Nacional/Correio da ManhãPelo fato de a efeméride neste ano ser um número redondo</segment>
+    <segment id="6">, o tema tende a ser lembrado com mais entusiasmo pelos saudosistas do golpe</segment>
+    <segment id="7">, que são numerosos entre militares afinados ao bolsonarismo.</segment>
+    <segment id="8">No governo</segment>
+    <segment id="9">, no entanto</segment>
+    <segment id="10">, a avaliação é que a determinação dada pelo ministro da Defesa</segment>
+    <segment id="11">, José Múcio</segment>
+    <segment id="12">, no ano passado</segment>
+    <segment id="13">, de não haver nenhum evento em instalações militares é suficiente</segment>
+    <segment id="14">para que</segment>
+    <segment id="15">para que o mesmo aconteça em 2024.</segment>
+    <segment id="16">Um dado sempre lembrado por auxiliares de Múcio é que eventos marcando o 31 de março nunca foram uma tradição na caserna</segment>
+    <segment id="17">, ao menos no período democrático.</segment>
+    <segment id="18">Quem instituiu essa praxe foi o ex-presidente Jair Bolsonaro (PL).</segment>
+    <segment id="19">Ou seja</segment>
+    <segment id="20">, a orientação atual é apenas um retorno à normalidade.</segment>
+  </rst>
+</analysis>

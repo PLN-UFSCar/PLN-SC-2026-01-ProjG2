@@ -1,0 +1,119 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Cientistas estão testando um sistema de inteligência artificial que acreditam ser capaz de diagnosticar demência após uma única tomografia cerebral.</segment>
+    <segment id="2">Também poderia prever</segment>
+    <segment id="3">sese a condição permanecerá estável por muitos anos</segment>
+    <segment id="4">, sese deteriorará lentamente ou</segment>
+    <segment id="5">sese o paciente precisará de tratamento imediato.</segment>
+    <segment id="6">Atualmente</segment>
+    <segment id="7">, são necessários vários exames e tomografias para diagnosticar demência.</segment>
+    <segment id="8">IA pode identificar padrões em tomografias cerebrais que mesmo os neurologistas mais experientes não conseguem ver - Universidade de Cambridge/BBC NewsOs pesquisadores envolvidos no estudo dizem que diagnósticos precoces com o sistema que desenvolveram podem melhorar muito os prognósticos dos pacientes.</segment>
+    <segment id="9">Identificando padrões  "</segment>
+    <segment id="10">Se intervirmos mais cedo</segment>
+    <segment id="11">, os tratamentos podem agir precocemente e retardar a progressão da doença e</segment>
+    <segment id="12">, ao mesmo tempo</segment>
+    <segment id="13">, evitar mais danos"</segment>
+    <segment id="14">, diz a professora Zoe Kourtzi</segment>
+    <segment id="15">, do Departamento de Psicologia da Universidade de Cambridge (Reino Unido) e bolsista do Centro Nacional de Inteligência Artificial e Ciência de Dados do Instituto Alan Turing.</segment>
+    <segment id="16">Sistema prevê</segment>
+    <segment id="17">sese demência está estável</segment>
+    <segment id="18">, progredindo lentamente ou requer hospitalização imediata -Instituto Alan Turing/BBC News"E é provável que os sintomas ocorram muito mais tarde na vida ou nunca ocorram"</segment>
+    <segment id="19">, acrescenta.</segment>
+    <segment id="20">O sistema da professora Kourtzi compara as tomografias cerebrais de pessoas que acreditam ter demência com as de milhares de pacientes com a condição e seus registros médicos relevantes.​   Neste sentido</segment>
+    <segment id="21">, o algoritmo pode identificar padrões nesses exames que talvez passem despercebidos por neurologistas e combiná-los com os resultados dos pacientes em seu banco de dados.</segment>
+    <segment id="22">​Clínicas de memória</segment>
+    <segment id="23">Em testes pré-clínicos</segment>
+    <segment id="24">, ele conseguiu diagnosticar demência anos antes de os sintomas</segment>
+    <segment id="25">sese desenvolverem</segment>
+    <segment id="26">, mesmo quando não há sinais óbvios de dano cerebral na tomografia.</segment>
+    <segment id="27">O experimento</segment>
+    <segment id="28">, realizado no Hospital Addenbrooke e em outras clínicas de memória em todo o Reino Unido</segment>
+    <segment id="29">, vai testar</segment>
+    <segment id="30">sese o sistema funciona em um ambiente clínico</segment>
+    <segment id="31">, ao lado de métodos convencionais de diagnóstico de demência.</segment>
+    <segment id="32">No primeiro ano</segment>
+    <segment id="33">, espera-</segment>
+    <segment id="34">sese a participação de cerca de 500 pacientes.</segment>
+    <segment id="35">Os resultados vão ser encaminhados para os médicos deles</segment>
+    <segment id="36">, que poderão</segment>
+    <segment id="37">, sese necessário</segment>
+    <segment id="38">, aconselhá-los sobre o curso do tratamento.</segment>
+    <segment id="39">O neurologista Tim Rittman</segment>
+    <segment id="40">, que está liderando o estudo</segment>
+    <segment id="41">, chamou o sistema de inteligência artificial de um "feito fantástico".</segment>
+    <segment id="42">Ele conta com a colaboração de neurocientistas da Universidade de Cambridge.</segment>
+    <segment id="43">"</segment>
+    <segment id="44">Esse conjunto de doenças é realmente devastador para as pessoas.</segment>
+    <segment id="45">Então, quando tenho que passar essas informações a um paciente</segment>
+    <segment id="46">, qualquer coisa que puder fazer para ter mais confiança sobre o diagnóstico</segment>
+    <segment id="47">, para dar-lhes mais detalhes sobre a provável progressão da doença e assim ajudá-los a planejar melhor suas vidas...</segment>
+    <segment id="48">é algo que considero muito útil.</segment>
+    <segment id="49">"</segment>
+    <segment id="50">São necessários normalmente várias tomografias do cérebro para diagnosticar demência - BBC NewsApreensão  Um dos voluntários é o britânico Denis Clark</segment>
+    <segment id="51">, de 75 anos.</segment>
+    <segment id="52">Ex-executivo de uma empresa de carnes</segment>
+    <segment id="53">, ele se</segment>
+    <segment id="54">se aposentou há cinco anos.</segment>
+    <segment id="55">No ano passado</segment>
+    <segment id="56">, sua esposa</segment>
+    <segment id="57">, Penelope</segment>
+    <segment id="58">, percebeu que Denis apresentava ocasionalmente problemas de memória.</segment>
+    <segment id="59">E agora o casal está preocupado que ele esteja desenvolvendo demência.</segment>
+    <segment id="60">Denis tenta descrever seus sintomas</segment>
+    <segment id="61">, masmas Penelope intervém para dizer que acha difícil explicar o que está acontecendo.</segment>
+    <segment id="62">Outra preocupação que aflige o casal é que eles tenham que vender sua casa para financiar os cuidados médicos de Denis.</segment>
+    <segment id="63">Portanto</segment>
+    <segment id="64">, Penelope</segment>
+    <segment id="65">sese diz aliviada por não ter que esperar muito por um diagnóstico e uma indicação de</segment>
+    <segment id="66">comocomo qualquer demência pode progredir.</segment>
+    <segment id="67">"</segment>
+    <segment id="68">Poderíamos</segment>
+    <segment id="69">, então</segment>
+    <segment id="70">, nos planejar financeiramente"</segment>
+    <segment id="71">, diz ela.</segment>
+    <segment id="72">"</segment>
+    <segment id="73">Gostaríamos de saber</segment>
+    <segment id="74">sese, como</segment>
+    <segment id="75">como casal</segment>
+    <segment id="76">, poderíamos tirar algumas férias antes que as coisas piorem a tal ponto que não possamos mais viajar por causa do estado de saúde de Denis.</segment>
+    <segment id="77">"</segment>
+    <segment id="78">Problemas mentais</segment>
+    <segment id="79">Outro paciente de Rittman</segment>
+    <segment id="80">, Mark Thompson</segment>
+    <segment id="81">, de 57 anos</segment>
+    <segment id="82">, diz que um sistema de diagnóstico precoce teria feito uma "grande diferença" em sua vida</segment>
+    <segment id="83">sese estivesse disponível quando ele começou a apresentar lapsos de memória</segment>
+    <segment id="84">, há dez meses.</segment>
+    <segment id="85">"</segment>
+    <segment id="86">Fiz teste após teste e pelo menos quatro exames antes de ser diagnosticado (com demência)"</segment>
+    <segment id="87">, lembra ele.  "</segment>
+    <segment id="88">A equipe médica foi maravilhosa e fez de tudo para descobrir o que havia de errado comigo".  "</segment>
+    <segment id="89">Mas a incerteza estava me causando mais problemas mentais do que qualquer um causado pela condição".</segment>
+    <segment id="90">"Era um tumor?</segment>
+    <segment id="91">Precisaria passar por cirurgia para removê-lo?</segment>
+    <segment id="92">Fiquei muito estressado por não saber o que havia de errado comigo.</segment>
+    <segment id="93">"</segment>
+  </rst>
+</analysis>

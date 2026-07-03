@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Sudeste tem 85% dos colégios mais bem posicionados na prova do Enem 2017.</segment>
+    <segment id="2">A lista abaixo considera todas as escolas do país com ao menos 50% do total de alunos do 3º ano do ensino médio na prova (respeitado</segment>
+    <segment id="3">, ainda</segment>
+    <segment id="4">, o mínimo de dez estudantes).</segment>
+    <segment id="5">A relação traz escolas de todos os portes.</segment>
+    <segment id="6">Dessa forma</segment>
+    <segment id="7">, nem todas as escolas do país aparecem na lista.</segment>
+    <segment id="8">São ao todo 14.124 escolas públicas e privadas.</segment>
+    <segment id="9">A média foi calculada pela Folha com as quatro áreas da prova objetiva (linguagens</segment>
+    <segment id="10">, matemática</segment>
+    <segment id="11">, ciências da natureza e ciências humanas).</segment>
+    <segment id="12">A ordem das escolas é organizada a partir desta nota</segment>
+    <segment id="13">, masmas as notas da redação também constam no levantamento.</segment>
+    <segment id="14">Neste cálculo por escola</segment>
+    <segment id="15">, foram consideradas as notas de alunos de ensino médio regular e técnico de nível médio</segment>
+    <segment id="16">, e excluídos alunos de educação especial e de EJA (Educação de Jovens e Adultos).</segment>
+    <segment id="17">Consulte o desempenho das escolas no Enem 2017:</segment>
+    <segment id="18">Desempenho nas escolas do EnemMais    novamente         de   de  de  representando</segment>
+    <segment id="19">um</segment>
+  </rst>
+</analysis>

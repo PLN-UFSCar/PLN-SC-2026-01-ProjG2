@@ -1,0 +1,110 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Correios têm um chefe para cada dois servidores e 9 mil estão em licença-médica</segment>
+    <segment id="2">Um racha entre os funcionários de elite dos Correios e a direção da estatal está abrindo uma verdadeira caixa-preta.</segment>
+    <segment id="3">Os principais motivos dessa briga são a mudança</segment>
+    <segment id="4">, pela diretoria</segment>
+    <segment id="5">, do antigo estatuto para contratação de pessoal e reforma da instituição.</segment>
+    <segment id="6">Dados obtidos com exclusividade pelo GLOBO mostram</segment>
+    <segment id="7">, por exemplo</segment>
+    <segment id="8">, que há um funcionário comissionado (em cargo de chefia) para cada dois servidores.</segment>
+    <segment id="9">Em meio a divergências internas</segment>
+    <segment id="10">, os Correios farão concurso público para contratar 9 mil funcionários</segment>
+    <segment id="11">, masmas têm exatamente a mesma quantidade em licença-médica</segment>
+    <segment id="12">, além de 4</segment>
+    <segment id="13">,5 mil aposentados por invalidez.</segment>
+    <segment id="14">Há 47 ações na Justiça do Trabalho contra a empresa</segment>
+    <segment id="15">, sendo a maioria por descumprimento da legislação</segment>
+    <segment id="16">, conta a repórter Geralda Doca.</segment>
+    <segment id="17">Os carteiros são obrigados a caminhar até 15 quilômetros por dia</segment>
+    <segment id="18">, carregando sacolas com 11kg nas costas - um sistema da década de 70.</segment>
+    <segment id="19">Um grupo pequeno usa motos</segment>
+    <segment id="20">, masmas a estatal não paga seguro nem da frota nem individual</segment>
+    <segment id="21">, o que obriga o trabalhador a arcar com as despesas do próprio bolso</segment>
+    <segment id="22">sese for comprovada sua culpa em um acidente.</segment>
+    <segment id="23">Só em São Paulo</segment>
+    <segment id="24">, 628 funcionários têm um passivo a pagar de quase R$ 1 milhão.</segment>
+    <segment id="25">Com salário bruto de R$ 850</segment>
+    <segment id="26">, os trabalhadores da chamada área fim (70% do quadro) recebem quase o mesmo (R$ 741) com o auxílio-alimentação</segment>
+    <segment id="27">, benefício que não conta para aposentadoria nem FGTS.</segment>
+    <segment id="28">Sem estímulos</segment>
+    <segment id="29">, a estatal perde funcionários para outros órgãos.</segment>
+    <segment id="30">É o caso</segment>
+    <segment id="31">caso do carteiro Maxwell Santos</segment>
+    <segment id="32">, que está há dois anos nos Correios</segment>
+    <segment id="33">, masmas já tem um pé fora da empresa.</segment>
+    <segment id="34">Formado em Química</segment>
+    <segment id="35">, ele passou no concurso da Secretaria de Educação do Distrito Federal e espera ser chamado.
+-</segment>
+    <segment id="36">O salário aqui é baixo pelo serviço que a gente faz.</segment>
+    <segment id="37">Quero investir na minha carreira - disse ele.</segment>
+    <segment id="38">Sistema polêmico gerou gastos de R$ 54 milhões</segment>
+    <segment id="39">A estatal quase não tem mulheres (menos de 25% do quadro) e nenhuma ocupa cargo de direção.</segment>
+    <segment id="40">O próprio concurso público acaba funcionando</segment>
+    <segment id="41">comocomo uma barreira à entrada delas</segment>
+    <segment id="42">, devido ao rigor no teste físico.</segment>
+    <segment id="43">Não existe qualquer critério para criação das chamadas funções (cargos</segment>
+    <segment id="44">, chefia e assessoramento)</segment>
+    <segment id="45">, nem definição clara de competências.</segment>
+    <segment id="46">Com isso</segment>
+    <segment id="47">, os Correios têm hoje quase um "chefe" para cada dois trabalhadores: dos 107</segment>
+    <segment id="48">,8 mil funcionários do quadro</segment>
+    <segment id="49">, 51,9 mil têm funções - uma distorção em comparação à quantidade de servidores do Executivo</segment>
+    <segment id="50">, no qual exercem cargos de confiança 21</segment>
+    <segment id="51">,8 mil de um total de 567</segment>
+    <segment id="52">,8 mil.</segment>
+    <segment id="53">Ou seja</segment>
+    <segment id="54">, um chefe para cada 27 subordinados.</segment>
+    <segment id="55">O sistema</segment>
+    <segment id="56">, criado em 2005</segment>
+    <segment id="57">, vigorou até janeiro de 2011 - um gasto estimado em R$ 54</segment>
+    <segment id="58">,2 milhões ao ano e que beneficiou 19.251 empregados.</segment>
+    <segment id="59">Diagnóstico concluído pela atual direção da empresa</segment>
+    <segment id="60">, em parceria com órgãos de controle (Controlaria Geral da União-CGU e Tribunal de Contas da União-TCU)</segment>
+    <segment id="61">, concluiu que o modelo de remuneração de grandes diferenças salariais faz com que os Correios sejam foco de corrupção.</segment>
+    <segment id="62">Há uma enorme distância entre o salário-base e os vencimentos de quem tem cargo de chefia</segment>
+    <segment id="63">, que ficam entre R$ 11.750 e R$ 16.462 (comparando aos DAS 4 e 6)</segment>
+    <segment id="64">, que, até recentemente</segment>
+    <segment id="65">, poderiam virar salário definitivo.</segment>
+    <segment id="66">Há, ao todo</segment>
+    <segment id="67">, 2.800 processos internos de suspeitas de irregularidade nos Correios</segment>
+    <segment id="68">, com suposto envolvimento de 1.500 funcionários.</segment>
+    <segment id="69">A nova direção tem carta branca da presidente Dilma Rousseff para moralizar a Casa e está disposta a enfrentar resistências internas.</segment>
+    <segment id="70">Assim que for aprovado o novo estatuto no Congresso</segment>
+    <segment id="71">, a ideia é criar um regimento interno</segment>
+    <segment id="72">, revogar todos os manuais e começar do zero no início do próximo ano.</segment>
+    <segment id="73">Toda estrutura de cargos e salários será revista</segment>
+    <segment id="74">, bem como</segment>
+    <segment id="75">como critérios para cargos de chefia.</segment>
+    <segment id="76">Está sendo feito um levantamento e quem recebeu incorporação ilegal poderá ter a obrigação de devolvê-la.</segment>
+    <segment id="77">Para o presidente da Associação dos Profissionais de Nível Superior</segment>
+    <segment id="78">, Técnico e Médio da ECT (Adcap)</segment>
+    <segment id="79">, Luiz Alberto Barreto</segment>
+    <segment id="80">, a mudança no estatuto abre brecha para o aparelhamento da empresa ao permitir a entrada de pessoas de fora do quadro.</segment>
+    <segment id="81">Ele disse que pretende atuar no Congresso</segment>
+    <segment id="82">para que</segment>
+    <segment id="83">para que a direção explique em audiência o novo estatuto.</segment>
+  </rst>
+</analysis>

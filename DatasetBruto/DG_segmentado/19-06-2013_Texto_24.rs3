@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Alerta
+OperaÃ§Ã£o investiga quadrilha ligada ao trÃ¡fico de drogas em ViamÃ£o
+Investigados tambÃ©m</segment>
+    <segment id="2">estariam envolvidos em homicÃ­dios na regiÃ£o
+Eduardo Torres
+eduardo.torres@diariogaucho.com.br</segment>
+    <segment id="3">A polÃ­cia desencadeou na manhÃ£ desta quarta a OperaÃ§Ã£o Alerta 2</segment>
+    <segment id="4">, entre ViamÃ£o e Cachoeirinha.</segment>
+    <segment id="5">O alvo</segment>
+    <segment id="6">, de acordo com o delegado Carlos Wendt</segment>
+    <segment id="7">, que comanda a aÃ§Ã£o pela 2Âª DP de ViamÃ£o</segment>
+    <segment id="8">, sÃ£o criminosos ligados ao trÃ¡fico de drogas</segment>
+    <segment id="9">, que estariam envolvidos tambÃ©m com homicÃ­dios sobretudo na regiÃ£o da Vila Augusta</segment>
+    <segment id="10">, em ViamÃ£o.</segment>
+    <segment id="11">AtÃ© o momento</segment>
+    <segment id="12">, um homem foi preso em flagrante com uma quantidade de cocaÃ­na e outro foi preso preventivamente na Vila Augusta.</segment>
+    <segment id="13">Ele tinha um mandado de prisÃ£o contra si por uma tentativa de homicÃ­dio ocorrida em 2011.</segment>
+    <segment id="14">TambÃ©m foi apreendida uma pistola .380</segment>
+    <segment id="15">, em Cachoeirinha.</segment>
+    <segment id="16">Participam da operaÃ§Ã£o 40 policiais civis para o cumprimento de 10 mandados de busca e apreensÃ£o e quatro de prisÃ£o preventiva.</segment>
+  </rst>
+</analysis>

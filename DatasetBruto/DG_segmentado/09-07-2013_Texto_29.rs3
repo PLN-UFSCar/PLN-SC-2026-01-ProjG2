@@ -1,0 +1,65 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">&lt;body&gt;
+&lt;subtÃ­tulo&gt;InformÃ¡tica FÃ¡cil&lt;/subtÃ­tulo&gt;
+&lt;tÃ­tulo&gt;</segment>
+    <segment id="2">Proteja seus documentos&lt;/tÃ­tulo&gt;</segment>
+    <segment id="3">Numa Ã©poca em que governos espionam cidadÃ£os comuns</segment>
+    <segment id="4">, manter arquivos e pastas longe do olhar de curiosos que estÃ£o ao seu lado</segment>
+    <segment id="5">Ã© tarefa urgente e necessÃ¡ria
+Se a medida nÃ£o impede o acesso dos poderosos serviÃ§os de inteligÃªncia ao seu histÃ³rico na web</segment>
+    <segment id="6">, pelo menos vocÃª fecharÃ¡ a porta para bisbilhoteiros que costumam usar o seu computador no dia a dia.</segment>
+    <segment id="7">Para evitar que documentos importantes sejam vistos indevidamente por outras pessoas</segment>
+    <segment id="8">, uma saÃ­da Ã© protegÃª-los com senha.</segment>
+    <segment id="9">Na internet</segment>
+    <segment id="10">, vÃ¡rios programas gratuitos garantem a seguranÃ§a dos seus dados.</segment>
+    <segment id="11">Ferramentas</segment>
+    <segment id="12">comocomo o EncryptOnClick</segment>
+    <segment id="13">, o SafeHouse Explorer e o Kruptos bloqueiam o acesso a pastas e arquivos</segment>
+    <segment id="14">, para desespero dos enxeridos de plantÃ£o.</segment>
+    <segment id="15">Para baixar o primeiro programa</segment>
+    <segment id="16">, vÃ¡ em http://encryptonclick.softonic.com.br.</segment>
+    <segment id="17">Depois</segment>
+    <segment id="18">, siga as dicas ao lado.
+&lt;subtÃ­tulo&gt;Passo a passo&lt;/subtÃ­tulo&gt;
+1 - ApÃ³s instalar e inicializar o programa</segment>
+    <segment id="19">, vocÃª deverÃ¡ escolher</segment>
+    <segment id="20">sese deseja encriptar (criar um cÃ³digo) apenas um arquivo ou uma pasta toda.
+2 - Se optar por proteger uma pasta</segment>
+    <segment id="21">, clique em folder e em seguida selecione a pasta a ser protegida.
+3 - Agora</segment>
+    <segment id="22">, o programa pedirÃ¡ que vocÃª cadastre uma senha que pode ser diferente para cada pasta.</segment>
+    <segment id="23">AtenÃ§Ã£o: nÃ£o use a mesma senha que vocÃª deu para proteger a inicializaÃ§Ã£o do Windows.
+4 - Quando tentar acessar a pasta ou o arquivo</segment>
+    <segment id="24">, o programa pedirÃ¡ a senha.</segment>
+    <segment id="25">VocÃª pode digitÃ¡-la diretamente na caixa de diÃ¡logo ou iniciar o programa novamente e clicar na coluna da direita</segment>
+    <segment id="26">, que abre os arquivos mediante informaÃ§Ã£o de senha.
+&lt;subtÃ­tulo&gt;</segment>
+    <segment id="27">Outros programas&lt;/subtÃ­tulo&gt;
+www.baixaki.com.br/download/safehouse-explorer-usb-disk-encryption.htm
+www.baixaki.com.br/download/kruptos-2.htm
+www.baixaki.com.br/download/proxpn.htm</segment>
+  </rst>
+</analysis>

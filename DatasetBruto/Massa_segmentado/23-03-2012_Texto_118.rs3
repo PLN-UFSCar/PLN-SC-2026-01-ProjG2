@@ -1,0 +1,48 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Fabiana é a última a sair e vence prova</segment>
+    <segment id="2">Fael desiste e Fabiana vence prova do líder Fiat Grand Siena</segment>
+    <segment id="3">Após 9h de prova</segment>
+    <segment id="4">, Fael desiste e Fabiana é a nova líder da casa do BBB.</segment>
+    <segment id="5">A prova de resistência consistiu em os brothers ficarem dentro de um carro que estava em um simulador de capotagem.</segment>
+    <segment id="6">Em um determinado momento</segment>
+    <segment id="7">, os brothers discutiram</segment>
+    <segment id="8">porque</segment>
+    <segment id="9">porque Fabiana acusou os colegas de terem durmido durante a prova.</segment>
+    <segment id="10">Quando Fael desistiu a sister quis saber:</segment>
+    <segment id="11">"</segment>
+    <segment id="12">Você vai sair</segment>
+    <segment id="13">, caubói?</segment>
+    <segment id="14">Tem certeza?</segment>
+    <segment id="15">Por que você vai sair?</segment>
+    <segment id="16">”, pergunta Fabiana.</segment>
+    <segment id="17">Curto e grosso</segment>
+    <segment id="18">, ele respondeu:</segment>
+    <segment id="19">"</segment>
+    <segment id="20">Porque eu quero".</segment>
+    <segment id="21">Chorando e sem comemorar</segment>
+    <segment id="22">, Fabiana sai do carro.</segment>
+  </rst>
+</analysis>

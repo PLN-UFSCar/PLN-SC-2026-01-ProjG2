@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Em pleno outubro</segment>
+    <segment id="2">, nevasca surpreende e deixa milhares sem luz no nordeste dos EUA</segment>
+    <segment id="3">Uma rara nevasca atingiu neste sábado</segment>
+    <segment id="4">, quase dois meses antes do início do inverno</segment>
+    <segment id="5">, o nordeste dos Estados Unidos.</segment>
+    <segment id="6">A tempestade deixou centenas de milhares de pessoas sem luz em estados</segment>
+    <segment id="7">comocomo Connecticut</segment>
+    <segment id="8">, Nova York e Nova Jersey.</segment>
+    <segment id="9">Em Nova Jersey</segment>
+    <segment id="10">, onde foi declarado estado de emergência</segment>
+    <segment id="11">, os ventos oscilavam entre 30 e 50 km/h</segment>
+    <segment id="12">, e o estado teve pontos com até 25 cm de neve.</segment>
+    <segment id="13">Em Nova York</segment>
+    <segment id="14">, mais de 600 árvores caíram.</segment>
+    <segment id="15">Nevascas são incomuns nos EUA em outubro.</segment>
+    <segment id="16">Na cidade de Nova York</segment>
+    <segment id="17">, por exemplo</segment>
+    <segment id="18">, só foram registrados três dias de neve durante o mês ao longo dos últimos 135 anos.</segment>
+  </rst>
+</analysis>

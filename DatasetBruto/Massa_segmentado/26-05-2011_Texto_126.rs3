@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">EUA vão reduzir presença de militares no Paquistão
+
+RIO - Os Estados Unidos vão reduzir a presença de seus efetivos militares no Paquistão após um pedido do governo de Islamabad</segment>
+    <segment id="2">, informou Dave Lapan</segment>
+    <segment id="3">, porta-voz do Pentágono.</segment>
+    <segment id="4">Mais de 200 membros das tropas americanas estão no país para treinar paquistaneses e ajudá-los a usar equipamentos militares.
+- Fomos notificados por escrito há duas semanas que o governo do Paquistão desejava que os EUA reduzissem suas tropas no Paquistão.</segment>
+    <segment id="5">Assim, nós começamos as reduções - explicou Lapan.</segment>
+    <segment id="6">As relações dos dois países estão abaladas desde a operação militar americana em Abbottabad que matou o líder da al-Qaeda</segment>
+    <segment id="7">, Osama bin Laden.</segment>
+    <segment id="8">Islamabad condenou a ação</segment>
+    <segment id="9">, afirmando que violou a soberania do país.</segment>
+    <segment id="10">Autoridades paquistaneses afirmaram que a decisão de diminuir as tropas dos EUA no país aconteceu três dias após a morte de Bin Laden.
+- Não precisamos de um pessoal desnecessário aqui.</segment>
+    <segment id="11">Eles causam problemas para nós em vez de ajudarem - disse oficial</segment>
+    <segment id="12">, acrescentando que a retirada dos militares deve começar em junho.</segment>
+  </rst>
+</analysis>

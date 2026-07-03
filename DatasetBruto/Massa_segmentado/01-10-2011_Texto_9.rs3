@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Prefeitura vistoria 750 imóveis em Sampaio e trata 300 possíveis criadouros de Aedes aegypti
+RIO - Agentes da Secretaria Municipal de Saúde e Defesa Civil vistoriaram</segment>
+    <segment id="2">, neste sábado</segment>
+    <segment id="3">, residências no Sampaio</segment>
+    <segment id="4">, na Zona Norte da cidade.</segment>
+    <segment id="5">A atividade</segment>
+    <segment id="6">, que faz parte da "</segment>
+    <segment id="7">Ação nos Bairros contra a Dengue"</segment>
+    <segment id="8">, aconteceu na comunidade do Queto</segment>
+    <segment id="9">, onde 750 imóveis foram visitados e mais de 300 possíveis criadouros do mosquito Aedes aegypti dengue foram tratados.</segment>
+    <segment id="10">Neste ano</segment>
+    <segment id="11">, a Prefeitura do Rio já realizou 24 mutirões dentro do "Ações nos Bairros" e mais de 70 ações específicas de prevenção</segment>
+    <segment id="12">, como</segment>
+    <segment id="13">como entrada em locais abandonados.</segment>
+    <segment id="14">Durante as atividades</segment>
+    <segment id="15">, foram inspecionados mais de 91 mil imóveis</segment>
+    <segment id="16">, com o recolhimento de 349 toneladas de lixo e material inservível.</segment>
+    <segment id="17">Ao longo deste ano</segment>
+    <segment id="18">, mais de 2</segment>
+    <segment id="19">,8 milhões de visitas de inspeção de rotina foram feitas pelos agentes de saúde em imóveis de toda a cidade.</segment>
+  </rst>
+</analysis>

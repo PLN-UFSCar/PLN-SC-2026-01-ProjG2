@@ -1,0 +1,53 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um surto seguido de morte</segment>
+    <segment id="2">VÃ­tima teria usado remÃ©dio com Ã¡lcool e agredido clientes de bar.</segment>
+    <segment id="3">Um deles revidou</segment>
+    <segment id="4">Rafael Bitencourt Silva</segment>
+    <segment id="5">, 27 anos</segment>
+    <segment id="6">, foi morto durante uma briga em um bar no bairro de Periperi.</segment>
+    <segment id="7">O jovem bebia no local quando foi atingido na perna direita</segment>
+    <segment id="8">, cabeÃ§a e abdÃ´men.</segment>
+    <segment id="9">O crime ocorreu na noite sÃ¡bado</segment>
+    <segment id="10">, 10.</segment>
+    <segment id="11">Segundo a Stelecom</segment>
+    <segment id="12">, a vÃ­tima</segment>
+    <segment id="13">sese desentendeu com outros clientes do estabelecimento</segment>
+    <segment id="14">, partindo para cima das pessoas com uma garrafa.</segment>
+    <segment id="15">Durante a confusÃ£o</segment>
+    <segment id="16">, um homem que seria alvo de Rafael sacou a arma e disparou contra o agressor.</segment>
+    <segment id="17">Testemunhas disseram tratar-</segment>
+    <segment id="18">sese de um policial militar</segment>
+    <segment id="19">, masmas a informaÃ§Ã£o ainda estÃ¡ sendo investigada.</segment>
+    <segment id="20">A vÃ­tima foi socorrida por uma viatura da PM e levada ao Hospital do SubÃºrbio</segment>
+    <segment id="21">, masmas jÃ¡ chegou sem vida.</segment>
+    <segment id="22">Segundo um tio de Rafael que pediu anonimato</segment>
+    <segment id="23">, o jovem usava remÃ©dios controlados e</segment>
+    <segment id="24">, ao misturÃ¡-lo com bebida alcoÃ³lica</segment>
+    <segment id="25">, costumava ficar agressivo.</segment>
+    <segment id="26">Imagens das cÃ¢meras de seguranÃ§a do bar foram recolhidas pela polÃ­cia</segment>
+    <segment id="27">, que encontrou no local cÃ¡psulas de pistola 380.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,54 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A virada do ano em São Paulo e no Rio de Janeiro será de clima ameno com tempo nublado e chuva fraca.</segment>
+    <segment id="2">A temperatura máxima não irá passar de 25°C nas duas capitais</segment>
+    <segment id="3">, condição que</segment>
+    <segment id="4">sese estende pela próxima semana.</segment>
+    <segment id="5">Após dias seguidos de calor no Sudeste</segment>
+    <segment id="6">, a chegada de uma frente fria neste sábado (30) derrubou as temperaturas e contribuiu para as baixas da temperatura no feriado de Ano Novo.</segment>
+    <segment id="7">Virada do ano terá chuva fraca no Rio e em SP- Zanone Fraissat - 23.nov.23/FolhapressNo feriado do dia 1º</segment>
+    <segment id="8">, a previsão também é de tempo fechado e chuva fraca a qualquer hora</segment>
+    <segment id="9">, segundo o CGE (Centro de Gerenciamento de Emergências) da prefeitura paulistana.</segment>
+    <segment id="10">Mesma previsão vale para o Rio de Janeiro.</segment>
+    <segment id="11">O Inmet (Instituto Nacional de Meteorologia) emitiu neste sábado alerta de vendaval para o litoral fluminense</segment>
+    <segment id="12">, sul do Espírito Santo e parte da costa norte de São Paulo</segment>
+    <segment id="13">, a partir de Caraguatatuba.</segment>
+    <segment id="14">Há previsão de rajadas de vento de até 100 km/h e risco de queda de árvores.</segment>
+    <segment id="15">Nas demais partes do país a previsão é de calor na noite da virada do ano.</segment>
+    <segment id="16">De acordo com a Climatempo</segment>
+    <segment id="17">, a previsão é de chuva e calor nas capitais da região Norte do país</segment>
+    <segment id="18">, com máximas entre 29°C e 37°C nos dias 31 e 1º.</segment>
+    <segment id="19">Entre as capitais</segment>
+    <segment id="20">, Boa Vista é a que deve ter o primeiro dia do ano mais quente do país</segment>
+    <segment id="21">, com máxima de 37°C.</segment>
+    <segment id="22">No Nordeste</segment>
+    <segment id="23">, as máximas ficam entre 29°C e 32°</segment>
+    <segment id="24">C nos dois dias.</segment>
+    <segment id="25">Em Salvador</segment>
+    <segment id="26">, não chove no dia da virada</segment>
+    <segment id="27">, com máxima de 31°C.</segment>
+    <segment id="28">O dia 1° é de sol com algumas nuvens e chuvas rápidas ao longo do dia.</segment>
+  </rst>
+</analysis>

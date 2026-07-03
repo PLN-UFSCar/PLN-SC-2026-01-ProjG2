@@ -1,0 +1,51 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Benite marca 21 pontos na vitória do Brasil no basquete</segment>
+    <segment id="2">O Brasil acaba de derrotar o Uruguai pela segunda fase do Pré-Olímpico de Basquete</segment>
+    <segment id="3">, no Ginásio Islas Malvinas</segment>
+    <segment id="4">, em Mar del Plata</segment>
+    <segment id="5">, na Argentina.</segment>
+    <segment id="6">Em sua melhor atuação no torneio até o momento</segment>
+    <segment id="7">, marcou 93 a 66</segment>
+    <segment id="8">, mantendo as esperanças de classificação para Londres-2012.</segment>
+    <segment id="9">Vitor Benite foi o cestinha da partida</segment>
+    <segment id="10">, com 21 pontos</segment>
+    <segment id="11">, incluindo 5 bolas de 3 pontos.</segment>
+    <segment id="12">Nesta terça-feira</segment>
+    <segment id="13">, a equipe brasileira voltará à quadra às 20h30m</segment>
+    <segment id="14">, desta vez para enfrentar a seleção do Panamá.</segment>
+    <segment id="15">O torneio</segment>
+    <segment id="16">, que classificará duas seleções para Londres</segment>
+    <segment id="17">, também terá nesta terça-feira</segment>
+    <segment id="18">, com Porto Rico x Canadá (às 11h30m)</segment>
+    <segment id="19">;</segment>
+    <segment id="20">Uruguai x República Dominicana (14h)</segment>
+    <segment id="21">;</segment>
+    <segment id="22">Argentina x Venezuela (18h).</segment>
+    <segment id="23">Desde Atlanta-1996</segment>
+    <segment id="24">, o Brasil não vai aos Jogos Olímpicos</segment>
+    <segment id="25">, no masculino.</segment>
+  </rst>
+</analysis>

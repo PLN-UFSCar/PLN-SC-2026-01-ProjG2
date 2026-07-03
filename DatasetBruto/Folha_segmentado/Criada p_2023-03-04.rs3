@@ -1,0 +1,130 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Observe a imagem abaixo: ela ilustra a variedade de cores presentes no espectro da luz visível</segment>
+    <segment id="2">, que nossos olhos conseguem perceber.</segment>
+    <segment id="3">Talvez você não tenha notado</segment>
+    <segment id="4">, masmas há uma em particular que não aparece: o magenta.</segment>
+    <segment id="5">No espectro de luz visível estão todas as cores que conseguimos perceber... com exceção de uma - BBCEle não está lá e nem no espectro da luz visível na natureza.</segment>
+    <segment id="6">Por que</segment>
+    <segment id="7">, então</segment>
+    <segment id="8">, nós o vemos?</segment>
+    <segment id="9">Nossos cérebros são processadores de informação esponjosos que convertem os bilhões de eventos que acontecem ao nosso redor em sinais que podemos entender.</segment>
+    <segment id="10">São sons</segment>
+    <segment id="11">, aromas</segment>
+    <segment id="12">, sabores</segment>
+    <segment id="13">, sensações…</segment>
+    <segment id="14">um desses elementos que estão ao nosso redor são os campos eletromagnéticos</segment>
+    <segment id="15">, formados por ondas que</segment>
+    <segment id="16">, a depender da frequência</segment>
+    <segment id="17">, podem produzir uma série de efeitos.</segment>
+    <segment id="18">O espectro de luz visível é uma porção pequena do espectro eletromagnético - BBCAlgumas servem</segment>
+    <segment id="19">, por exemplo</segment>
+    <segment id="20">, para aquecer os alimentos no micro-ondas</segment>
+    <segment id="21">, outras nos mostram os ossos do corpo nos exames de raios-x</segment>
+    <segment id="22">, e há aquelas que fazem com que os programas de rádio viagem das estações de transmissão aos aparelhos dos ouvintes.</segment>
+    <segment id="23">O corpo humano é capaz de perceber com os sentidos apenas uma pequena fração desses comprimentos de onda - grande parte através dos olhos</segment>
+    <segment id="24">, por meio do que</segment>
+    <segment id="25">sese chama de luz visível.</segment>
+    <segment id="26">Por que detectamos apenas uma faixa restrita do espectro de ondas eletromagnéticas</segment>
+    <segment id="27">é algo ainda em estudo.</segment>
+    <segment id="28">Mas sabemos</segment>
+    <segment id="29">, por exemplo</segment>
+    <segment id="30">, é que as ondas com comprimento entre 400 e 700 nanômetros</segment>
+    <segment id="31">, ou o espectro de luz visível</segment>
+    <segment id="32">, são os únicos comprimentos de onda que viajam facilmente pela água.</segment>
+    <segment id="33">Esse intervalo é também a porção do espectro de ondas eletromagnéticas que o Sol mais emite.</segment>
+    <segment id="34">Como nossos primeiros ancestrais viveram no mar e estavam expostos ao Sol</segment>
+    <segment id="35">, faz sentido termos evoluído para detectar os comprimentos de onda mais comuns e úteis no espectro.</segment>
+    <segment id="36">Das ondas às cores</segment>
+    <segment id="37">Nossos olhos detectam cores por meio de cones</segment>
+    <segment id="38">, células especializadas que</segment>
+    <segment id="39">sese concentram na mácula</segment>
+    <segment id="40">, o centro da retina.</segment>
+    <segment id="41">Existem três tipos de cones no olho humano:  - Tipo L: sensível a comprimentos de onda longos  - Tipo M: sensível a comprimentos de onda médios  - Tipo S: sensível a comprimentos de onda curtos</segment>
+    <segment id="42">Os cones S detectam os azuis</segment>
+    <segment id="43">; os M</segment>
+    <segment id="44">, os verdes</segment>
+    <segment id="45">; os Ls</segment>
+    <segment id="46">, os vermelhos.</segment>
+    <segment id="47">Mas vemos mais do que apenas vermelho</segment>
+    <segment id="48">, verde e azul.</segment>
+    <segment id="49">Isso porque</segment>
+    <segment id="50">porque as células cone dos olhos</segment>
+    <segment id="51">sese sobrepõem nos comprimentos de onda que detectam</segment>
+    <segment id="52">, como</segment>
+    <segment id="53">como ilustra o gráfico seguinte:</segment>
+    <segment id="54">Imagem exemplifica quando um raio de luz entra no olho - BBCObservando a imagem</segment>
+    <segment id="55">, é possível perceber que</segment>
+    <segment id="56">, quando um raio de luz com um comprimento de onda de 570 nanômetros entra no olho</segment>
+    <segment id="57">, ele estimula os cones L e M.</segment>
+    <segment id="58">As respostas são combinadas e transformadas em uma mensagem elétrica que é enviada ao longo do nervo óptico para o cérebro</segment>
+    <segment id="59">comocomo um único sinal.</segment>
+    <segment id="60">E é esse sinal que interpretamos</segment>
+    <segment id="61">comocomo luz amarela.</segment>
+    <segment id="62">Uma peculiaridade estranha desse sistema é que</segment>
+    <segment id="63">, quando dois feixes de luz cujos comprimentos de onda somam a mesma coisa - neste</segment>
+    <segment id="64">casocaso</segment>
+    <segment id="65">, 570 nanômetros - entram no olho ao mesmo tempo</segment>
+    <segment id="66">, o sinal que é enviado ao cérebro é o mesmo.</segment>
+    <segment id="67">Esses dois raios de luz combinados também nos fazem ver o amarelo.</segment>
+    <segment id="68">A tela do aparelho pelo qual você está vendo as imagens também funciona de acordo com a maneira</segment>
+    <segment id="69">comocomo nosso cérebro percebe as cores.</segment>
+    <segment id="70">Se você olhar de perto</segment>
+    <segment id="71">, verá que as telas são compostas de pequenos grupos de luzes vermelhas</segment>
+    <segment id="72">, verdes e azuis -</segment>
+    <segment id="73">masmas podem reproduzir todo o espectro.</segment>
+    <segment id="74">Cada cor que percebemos pode ser gerada por meio desse caminho duplo: um único comprimento de onda de luz ou uma combinação de comprimentos de onda que estimulam nossos cones da mesma maneira.</segment>
+    <segment id="75">Exceto uma.</segment>
+    <segment id="76">O magenta tem uma paleta variada - BBCO magenta</segment>
+    <segment id="77">Oficialmente</segment>
+    <segment id="78">, o magenta não existe.</segment>
+    <segment id="79">Não há comprimento de onda de luz para o magenta</segment>
+    <segment id="80">, o que significa que é o cérebro humano que cria essa cor.</segment>
+    <segment id="81">Mas como</segment>
+    <segment id="82">como?</segment>
+    <segment id="83">Nós o percebemos apenas quando os cones</segment>
+    <segment id="84">S e</segment>
+    <segment id="85">L captam um sinal de luz vermelho e azul puro.</segment>
+    <segment id="86">Não sabemos ainda</segment>
+    <segment id="87">porque</segment>
+    <segment id="88">porque o cérebro o cria.</segment>
+    <segment id="89">O mecanismo pode ter sido</segment>
+    <segment id="90">, contudo</segment>
+    <segment id="91">contudo</segment>
+    <segment id="92">, muito útil a nossos ancestrais primatas que viviam em florestas verdes.</segment>
+    <segment id="93">Frutas e flores da cor magenta teriam maior contraste contra um fundo verde</segment>
+    <segment id="94">, e vê-las tornou mais fácil para nossos ancestrais encontrar alimentos.</segment>
+    <segment id="95">Nosso cérebro faz todos esses tipos de saltos cognitivos estranhos o tempo todo.</segment>
+    <segment id="96">Você pode</segment>
+    <segment id="97">sese surpreender com o quanto do mundo ao seu redor não é exatamente o que parece ser.</segment>
+    <segment id="98">Texto originalmente publicado aqui.</segment>
+    <segment id="99">*</segment>
+    <segment id="100">Este texto foi adaptado do vídeo da BBC Reel "Magenta:</segment>
+    <segment id="101">A cor que não existe".</segment>
+    <segment id="102">Se quiser ver o conteúdo original</segment>
+    <segment id="103">, em inglês</segment>
+    <segment id="104">, aqui.</segment>
+  </rst>
+</analysis>

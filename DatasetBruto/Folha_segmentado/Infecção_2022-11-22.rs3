@@ -1,0 +1,143 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Experimentos conduzidos na Unicamp (Universidade Estadual de Campinas) e na USP (Universidade de São Paulo) indicam que a gordura visceral —aquela que envolve os órgãos vitais e é considerada um fator de risco para doenças cardiovasculares</segment>
+    <segment id="2">, diabetes e hipertensão— contribui mais para o agravamento da Covid-19 do que a gordura existente abaixo da pele</segment>
+    <segment id="3">, que dá forma aos infames "pneuzinhos".</segment>
+    <segment id="4">Para chegar a essa conclusão</segment>
+    <segment id="5">, o professor do Instituto de Biologia da Unicamp Marcelo Mori</segment>
+    <segment id="6">, um dos líderes da pesquisa</segment>
+    <segment id="7">, infectou em laboratório dois tipos de adipócitos: um obtido a partir de células-tronco humanas isoladas do tecido adiposo subcutâneo e outro diferenciado a partir de células-tronco do tecido adiposo visceral.</segment>
+    <segment id="8">Cultura de adipócitos diferenciados:</segment>
+    <segment id="9">em vermelho os lipídeos</segment>
+    <segment id="10">; em verde a proteína ACE-2</segment>
+    <segment id="11">, que serve de receptor para o SARS-CoV-2</segment>
+    <segment id="12">;</segment>
+    <segment id="13">em azul o núcleo celular-</segment>
+    <segment id="14">Divulgação/Amanda Passos e Flávio Protasio Veras/</segment>
+    <segment id="15">Agência Fapesp"Foi possível observar que o adipócito visceral é mais suscetível à infecção pelo SARS-CoV-2</segment>
+    <segment id="16">, pois</segment>
+    <segment id="17">pois a carga viral aumenta bem mais nesse tipo de célula de gordura do que no adipócito subcutâneo.</segment>
+    <segment id="18">Acreditamos que isso</segment>
+    <segment id="19">sese deve</segment>
+    <segment id="20">, principalmente</segment>
+    <segment id="21">, à maior presença da proteína ACE-2 [à qual o vírus</segment>
+    <segment id="22">sese conecta para invadir a célula] na superfície celular"</segment>
+    <segment id="23">, conta Mori à Agência Fapesp.</segment>
+    <segment id="24">Além disso</segment>
+    <segment id="25">, os pesquisadores notaram que</segment>
+    <segment id="26">, ao ser infectado</segment>
+    <segment id="27">, o adipócito visceral produz uma quantidade maior de citocinas pró-inflamatórias —moléculas que sinalizam para o sistema imune a existência de uma ameaça a ser combatida.</segment>
+    <segment id="28">A pesquisa</segment>
+    <segment id="29">, divulgada na revista Nature Communications</segment>
+    <segment id="30">, contou com a participação de diversos grupos de pesquisa da Unicamp</segment>
+    <segment id="31">, além de colaboradores da USP</segment>
+    <segment id="32">, do LNBio-CNPEM (Laboratório Nacional de Biociências)</segment>
+    <segment id="33">, do Inca (Instituto Nacional de Câncer) e do Idor (Instituto D'Or de Pesquisa e Ensino).</segment>
+    <segment id="34">Entre os coordenadores estão os professores</segment>
+    <segment id="35">Luiz O. Leiria (USP)</segment>
+    <segment id="36">, Mariana Osako (USP) e Daniel Martins de Souza (Unicamp).</segment>
+    <segment id="37">A investigação recebeu financiamento da Fapesp por meio de 20 projetos.</segment>
+    <segment id="38">Reservatório viral</segment>
+    <segment id="39">A equipe de Mori na Unicamp foi a primeira do mundo a mostrar —em julho de 2020— que o SARS-CoV-2 era capaz de infectar células de gordura humanas e a sugerir que o tecido adiposo serviria de reservatório para o vírus (leia mais aqui).  "</segment>
+    <segment id="40">Depois disso</segment>
+    <segment id="41">, outros trabalhos confirmaram que o adipócito de fato pode ser infectado.</segment>
+    <segment id="42">E, ao analisarmos amostras de pacientes que morreram de Covid</segment>
+    <segment id="43">, vimos que a presença do vírus no tecido adiposo é relativamente frequente</segment>
+    <segment id="44">, cerca de 50% dos casos"</segment>
+    <segment id="45">, conta o pesquisador.</segment>
+    <segment id="46">O grupo então decidiu investigar</segment>
+    <segment id="47">sese havia diferença na forma</segment>
+    <segment id="48">comocomo as células adiposas viscerais e subcutâneas respondiam à infecção.</segment>
+    <segment id="49">No que diz respeito às doenças metabólicas</segment>
+    <segment id="50">, as evidências da literatura científica mostram que a gordura visceral é a principal vilã</segment>
+    <segment id="51">, enquanto a gordura subcutânea tende a ser neutra ou até mesmo benéfica.</segment>
+    <segment id="52">"</segment>
+    <segment id="53">Queríamos avaliar</segment>
+    <segment id="54">sese no contexto da Covid-19 havia uma relação semelhante"</segment>
+    <segment id="55">, conta Mori.</segment>
+    <segment id="56">"</segment>
+    <segment id="57">E de fato nosso modelo sugere que</segment>
+    <segment id="58">, quanto mais abundante é o tecido adiposo visceral no indivíduo com obesidade</segment>
+    <segment id="59">, mais chances o vírus tem de</segment>
+    <segment id="60">sese replicar e isso acaba amplificando o processo inflamatório.</segment>
+    <segment id="61">"</segment>
+    <segment id="62">No adipócito subcutâneo</segment>
+    <segment id="63">, por outro lado</segment>
+    <segment id="64">, o grupo observou que a infecção leva a uma diminuição da lipólise</segment>
+    <segment id="65">, como</segment>
+    <segment id="66">como é conhecido o processo de quebra dos lipídeos em moléculas de ácidos graxos que podem ser usadas</segment>
+    <segment id="67">comocomo fonte de energia durante atividade física ou períodos de jejum.</segment>
+    <segment id="68">"</segment>
+    <segment id="69">Nossa hipótese é que isso representa uma resposta celular antiviral.</segment>
+    <segment id="70">Há estudos mostrando que a inibição da lipólise diminui a capacidade replicativa do SARS-CoV-2</segment>
+    <segment id="71">, o que pode ser explicado pelo fato de o vírus precisar de lipídeos para produzir seu envelope e</segment>
+    <segment id="72">, além disso</segment>
+    <segment id="73">, demandar energia da célula para fazer cópias de seu material genético"</segment>
+    <segment id="74">, explica Mori.</segment>
+    <segment id="75">Segundo o pesquisador</segment>
+    <segment id="76">, portanto</segment>
+    <segment id="77">, a diminuição da lipólise no tecido adiposo subcutâneo pode ser algo positivo para nós humanos e uma má notícia para o vírus.</segment>
+    <segment id="78">Respostas antagônicas</segment>
+    <segment id="79">Os adipócitos viscerais foram expostos a duas linhagens diferentes do SARS-CoV-2: a ancestral</segment>
+    <segment id="80">, oriunda de Wuhan</segment>
+    <segment id="81">, na China</segment>
+    <segment id="82">, e isolada de um dos primeiros brasileiros diagnosticados com Covid-19</segment>
+    <segment id="83">; e a gama (P.1.)</segment>
+    <segment id="84">, que emergiu no fim de 2020 em Manaus.</segment>
+    <segment id="85">A diferença de suscetibilidade em relação aos adipócitos subcutâneos foi vista apenas com a cepa ancestral.</segment>
+    <segment id="86">"</segment>
+    <segment id="87">Vimos que a variante de Manaus tem uma capacidade menor de infectar as células viscerais em comparação à cepa ancestral.</segment>
+    <segment id="88">E, por meio de proteômica [análise do conjunto de proteínas produzidas pela célula]</segment>
+    <segment id="89">, observamos que</segment>
+    <segment id="90">, enquanto a linhagem de Wuhan leva a uma diminuição de diversas proteínas relacionadas à resposta de interferon na célula [mecanismo do sistema imune para combater vírus]</segment>
+    <segment id="91">, a gama leva a um aumento.</segment>
+    <segment id="92">Ou seja</segment>
+    <segment id="93">, com a cepa de Manaus o adipócito produz mais proteínas que promovem uma resposta antiviral"</segment>
+    <segment id="94">, conta Mori.</segment>
+    <segment id="95">Segundo o pesquisador</segment>
+    <segment id="96">, estudos recentes apontam que</segment>
+    <segment id="97">, com as novas variantes virais</segment>
+    <segment id="98">, há uma queda nos casos graves de Covid-19 entre pessoas com obesidade.</segment>
+    <segment id="99">"</segment>
+    <segment id="100">Mas esse fenômeno pode ter influência de outros fatores</segment>
+    <segment id="101">, como</segment>
+    <segment id="102">como vacinação ou infecção prévia.</segment>
+    <segment id="103">Ou talvez esses indivíduos estejam</segment>
+    <segment id="104">sese cuidado mais por saberem que pertencem a um grupo de risco"</segment>
+    <segment id="105">, diz.</segment>
+    <segment id="106">Paulistanos voltam aos postos para tomar vacina contra a Covid-19Mais    novamente         de   de  de  representando um  Para tentar avançar na compreensão do tema</segment>
+    <segment id="107">, o grupo pretende fazer novos experimentos em culturas de adipócitos com as linhagens delta e ômicron.</segment>
+    <segment id="108">Outro objetivo futuro é investigar possíveis impactos metabólicos da infecção pelo SARS-CoV-2 em médio e longo prazo.</segment>
+    <segment id="109">"</segment>
+    <segment id="110">Queremos descobrir</segment>
+    <segment id="111">sese a infecção muda o risco de o indivíduo desenvolver diabetes ou doenças cardiovasculares</segment>
+    <segment id="112">, por exemplo.</segment>
+    <segment id="113">Para isso uma possibilidade é estudar amostras de pacientes que tiveram Covid-19 e depois foram submetidos a cirurgia bariátrica e verificar</segment>
+    <segment id="114">sese com a infecção ocorrem alterações morfológicas e funcionais no tecido adiposo visceral"</segment>
+    <segment id="115">, conta.</segment>
+    <segment id="116">O artigo SARS-CoV-2 infects</segment>
+    <segment id="117">adipose tissue in a fat depot- and viral lineage-dependent manner pode ser lido aqui.</segment>
+  </rst>
+</analysis>

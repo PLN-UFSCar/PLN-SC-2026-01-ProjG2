@@ -1,0 +1,239 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">"</segment>
+    <segment id="2">O Brasil já foi o pior exemplo de federalismo fiscal.</segment>
+    <segment id="3">Hoje é o melhor"</segment>
+    <segment id="4">, diz economista europeu
+PARIS - O economista Mark Hallerberg</segment>
+    <segment id="5">, da Hertie School of Governance</segment>
+    <segment id="6">, em Berlim</segment>
+    <segment id="7">, já tem o modelo fiscal que a Europa deve seguir: Brasil.</segment>
+    <segment id="8">Ele defende que a União Europeia (UE) adote um sistema nos moldes da Lei da Responsabilidade Fiscal do Brasil: o europeu que não cumprir o que prometeu perde a transferência de fundos de Bruxelas</segment>
+    <segment id="9">, sede do bloco.</segment>
+    <segment id="10">Hallerberg</segment>
+    <segment id="11">, que foi consultor de instituições</segment>
+    <segment id="12">, como</segment>
+    <segment id="13">como o Banco Central Europeu (BCE)</segment>
+    <segment id="14">, diz que os problemas da Europa não param na questão fiscal.</segment>
+    <segment id="15">Para ele</segment>
+    <segment id="16">, os alemães estão certos:</segment>
+    <segment id="17">é preciso reformas.</segment>
+    <segment id="18">"</segment>
+    <segment id="19">Os alemães vão pagar uma única vez.</segment>
+    <segment id="20">Se pagarem</segment>
+    <segment id="21">, vão querer garantias de que haverá reformas"</segment>
+    <segment id="22">, diz.</segment>
+    <segment id="23">O GLOBO: Fala-</segment>
+    <segment id="24">sese num novo tratado da UE no final de março.</segment>
+    <segment id="25">Há tempo ou vontade política para fazer o que for preciso para salvar a zona do euro?</segment>
+    <segment id="26">MARK</segment>
+    <segment id="27">HALLERBERG:</segment>
+    <segment id="28">Não acho que haverá um novo tratado em março.</segment>
+    <segment id="29">Haverá mudanças menores</segment>
+    <segment id="30">, em relação às regras fiscais.</segment>
+    <segment id="31">Um tratado completo vai levar muito mais tempo e envolver muito mais atores.</segment>
+    <segment id="32">Para salvar a zona do euro</segment>
+    <segment id="33">, este é apenas o começo.</segment>
+    <segment id="34">Será preciso mais ênfase em competitividade.</segment>
+    <segment id="35">As economias da Grécia e de Portugal precisam ser mais competitivas</segment>
+    <segment id="36">, sese quisermos uma solução de longo prazo.</segment>
+    <segment id="37">O GLOBO: Isso vai levar anos</segment>
+    <segment id="38">, não?</segment>
+    <segment id="39">HALLERBERG: Agora é hora de estabilizar a situação.</segment>
+    <segment id="40">Quando alguém está doente</segment>
+    <segment id="41">, é preciso tratar primeiro o sintoma que pode matar o paciente.</segment>
+    <segment id="42">Depois</segment>
+    <segment id="43">, trata-</segment>
+    <segment id="44">sese a doença</segment>
+    <segment id="45">, na esperança de curá-la.</segment>
+    <segment id="46">É o que está acontecendo no momento com o euro.</segment>
+    <segment id="47">O GLOBO: Que tipo de acordo o senhor espera esta semana?
+
+HALLERBERG: Espero um acordo sobre monitoramento fiscal e um freio para a dívida dos países-membros.</segment>
+    <segment id="48">Não acho que vai sair nada de muito grande</segment>
+    <segment id="49">, que ataque o problema dos desequilíbrios.</segment>
+    <segment id="50">Esta é uma preocupação.</segment>
+    <segment id="51">Lidar só com o problema fiscal não vai necessariamente resolver a crise.</segment>
+    <segment id="52">O GLOBO:</segment>
+    <segment id="53">Que reformas são necessárias?</segment>
+    <segment id="54">HALLERBERG:</segment>
+    <segment id="55">É preciso haver reformas que incluam</segment>
+    <segment id="56">, por exemplo</segment>
+    <segment id="57">, o mercado de trabalho</segment>
+    <segment id="58">, a forma</segment>
+    <segment id="59">comocomo salários são pagos</segment>
+    <segment id="60">, de forma a permitir a concorrência.</segment>
+    <segment id="61">Estamos falando de permitir concorrência com o mundo</segment>
+    <segment id="62">, e não apenas dentro da zona do euro.</segment>
+    <segment id="63">O GLOBO:</segment>
+    <segment id="64">Qual o problema com os salários?</segment>
+    <segment id="65">HALLERBERG:</segment>
+    <segment id="66">O estado precisa</segment>
+    <segment id="67">sese envolver menos com salários.</segment>
+    <segment id="68">Um salário-mínimo é possível</segment>
+    <segment id="69">, masmas</segment>
+    <segment id="70">sese for aplicado em todos os países.</segment>
+    <segment id="71">Mas é preciso tornar mais fácil a contratação de pessoas (na UE)</segment>
+    <segment id="72">, de forma a permitir que</segment>
+    <segment id="73">sese passe de indústrias menos competitivas para indústrias mais competitivas.</segment>
+    <segment id="74">O que quero dizer é que os salários não são tão baixos quanto deveriam ser num país</segment>
+    <segment id="75">comocomo Grécia</segment>
+    <segment id="76">, e é por isso que eles precisam de reforma.</segment>
+    <segment id="77">O GLOBO:</segment>
+    <segment id="78">O senhor diz que o Brasil é um modelo para a UE</segment>
+    <segment id="79">, por que?</segment>
+    <segment id="80">HALLERBERG:</segment>
+    <segment id="81">O Brasil enfrentou problemas similares no final dos anos 90: uma crise bancária</segment>
+    <segment id="82">, estados que gastaram e eram cobertos por Brasília.</segment>
+    <segment id="83">A solução foi a Lei da Responsabilidade Fiscal.</segment>
+    <segment id="84">Para o governo não ter que cobrir os déficits dos estados</segment>
+    <segment id="85">, teve-</segment>
+    <segment id="86">sese que criar regras restritivas e rigorosas no nível estadual.</segment>
+    <segment id="87">Vejo isso</segment>
+    <segment id="88">comocomo um modelo.</segment>
+    <segment id="89">No Brasil</segment>
+    <segment id="90">, o governo federal tem poder para segurar dinheiro dos estados</segment>
+    <segment id="91">sese eles não cumprirem as regras.</segment>
+    <segment id="92">Na Europa</segment>
+    <segment id="93">, pode-</segment>
+    <segment id="94">sese fazer isso até um certo ponto.</segment>
+    <segment id="95">Meu argumento é que temos duas escolhas:</segment>
+    <segment id="96">um modelo americano (onde tudo é o mercado) ou o brasileiro.</segment>
+    <segment id="97">Hoje, estamos presos no meio termo.</segment>
+    <segment id="98">Isso é ruim.</segment>
+    <segment id="99">O GLOBO:</segment>
+    <segment id="100">A Europa</segment>
+    <segment id="101">, então</segment>
+    <segment id="102">, precisa de uma Lei da Responsabilidade Fiscal</segment>
+    <segment id="103">, como</segment>
+    <segment id="104">como no Brasil?</segment>
+    <segment id="105">HALLERBERG:</segment>
+    <segment id="106">Sim.</segment>
+    <segment id="107">O GLOBO:</segment>
+    <segment id="108">Teria que ser adaptado a uma realidade europeia</segment>
+    <segment id="109">, não?</segment>
+    <segment id="110">HALLERBERG:</segment>
+    <segment id="111">Tem sempre que adaptar a uma realidade europeia.</segment>
+    <segment id="112">Mas é um modelo melhor do que o que temos hoje.</segment>
+    <segment id="113">O Brasil já foi o pior exemplo de federalismo fiscal.</segment>
+    <segment id="114">Hoje é o melhor.</segment>
+    <segment id="115">O Brasil está indo maravilhosamente bem.</segment>
+    <segment id="116">Neste debate</segment>
+    <segment id="117">, eu sempre digo: olhem para o Brasil.</segment>
+    <segment id="118">O GLOBO:</segment>
+    <segment id="119">Os europeus que gastarem mais do que o previsto</segment>
+    <segment id="120">, deverão ter</segment>
+    <segment id="121">, então</segment>
+    <segment id="122">, transferência de fundos de Bruxelas cortadas</segment>
+    <segment id="123">, é isso?
+
+HALLERBERG:</segment>
+    <segment id="124">Sim, e devem ter também um sistema de monitoramento</segment>
+    <segment id="125">comocomo no Brasil.</segment>
+    <segment id="126">Algo que não sei</segment>
+    <segment id="127">sese a UE vai fazer.</segment>
+    <segment id="128">Uma das coisas boas do que o Brasil fez foi fechar bancos (estaduais).</segment>
+    <segment id="129">A Europa não fechou um único.</segment>
+    <segment id="130">Acho que um dos problemas (da UE) é o setor bancário.</segment>
+    <segment id="131">Se vamos insistir em reforma</segment>
+    <segment id="132">, então</segment>
+    <segment id="133">, alguns têm (que fechar).</segment>
+    <segment id="134">Mas é difícil para países fazerem isso.</segment>
+    <segment id="135">Acho que seria preciso uma agência europeia para decidir.</segment>
+    <segment id="136">O GLOBO:</segment>
+    <segment id="137">O senhor também argumenta que</segment>
+    <segment id="138">, para isso dar certo</segment>
+    <segment id="139">, é preciso mais integração política na UE.</segment>
+    <segment id="140">De que tipo?</segment>
+    <segment id="141">HALLERBERG:</segment>
+    <segment id="142">É preciso ter um órgão central</segment>
+    <segment id="143">comocomo no Brasil (para monitorar)</segment>
+    <segment id="144">, o que não existe hoje.</segment>
+    <segment id="145">O GLOBO:</segment>
+    <segment id="146">Por que o senhor diz que o papel dos mercados</segment>
+    <segment id="147">comocomo meio de disciplinar (governos) não deve ser abandonado?</segment>
+    <segment id="148">HALLERBERG:</segment>
+    <segment id="149">Porque eles têm informações específicas sobre países.</segment>
+    <segment id="150">Fico nervoso quando as pessoas criticam o mercado.</segment>
+    <segment id="151">O mercado põe dinheiro onde o dinheiro está.</segment>
+    <segment id="152">Os mercados podem estar reagindo além da conta.</segment>
+    <segment id="153">Mas há uma razão para isso.</segment>
+    <segment id="154">Não estão reagindo numa bolha.</segment>
+    <segment id="155">Não estou dizendo que o sistema sempre funciona</segment>
+    <segment id="156">, masmas críticos de hoje dizem coisas do tipo: a razão pela qual as agências vão baixar a notação dos europeus é</segment>
+    <segment id="157">porque</segment>
+    <segment id="158">porque são agências americanas!</segment>
+    <segment id="159">Ora, tem também uma razão para o rebaixamento</segment>
+    <segment id="160">, não?</segment>
+    <segment id="161">De que os países não estão conseguindo pagar suas dívidas.</segment>
+    <segment id="162">O GLOBO: Alemanha e França estão prontas para uma transformação radical da zona do euro?</segment>
+    <segment id="163">HALLERBERG: Eu diria que há uma boa chance de que eles façam algo.</segment>
+    <segment id="164">A questão que resta é: os outros vão seguir?</segment>
+    <segment id="165">Espero que os 27 países-membros da UE ratifiquem (as mudanças)</segment>
+    <segment id="166">, porque</segment>
+    <segment id="167">porque é melhor para a integração Europa.</segment>
+    <segment id="168">Se só os 17</segment>
+    <segment id="169">sese moverem</segment>
+    <segment id="170">, os outros vão ficar para trás.</segment>
+    <segment id="171">A ideia da integração europeia é o sucesso econômico de países</segment>
+    <segment id="172">comocomo Alemanha e França.</segment>
+    <segment id="173">Se você for deixar os romenos</segment>
+    <segment id="174">, búlgaros ou croatas para trás</segment>
+    <segment id="175">, vai ser uma real perda.</segment>
+    <segment id="176">O GLOBO:</segment>
+    <segment id="177">E sese a população da UE não quiser que Bruxelas (sede do bloco) assuma um papel maior ?</segment>
+    <segment id="178">HALLERBERG:</segment>
+    <segment id="179">É uma decisão que terão que tomar.</segment>
+    <segment id="180">Se não querem que Bruxelas assuma um papel maior</segment>
+    <segment id="181">, que alternativa?</segment>
+    <segment id="182">Querem voltar às suas conchas?</segment>
+    <segment id="183">O desemprego seria menor</segment>
+    <segment id="184">sese não existisse a União Européia (UE)?</segment>
+    <segment id="185">Eu suspeito que seria maior.</segment>
+    <segment id="186">A integração econômia tem beneficiada a todos.</segment>
+    <segment id="187">Dizem sempre que a Alemanha é a grande vencedora.</segment>
+    <segment id="188">Mas a Alemanha só virou um sucesso há dois anos.</segment>
+    <segment id="189">O GLOBO: Alguns dizem que a crise é a oportunidade para moldar a UE no modelo da Alemanha.</segment>
+    <segment id="190">Mas outros dizem que a abordagem alemã do tipo "pouco e tarde" pode causar o colapso do euro.</segment>
+    <segment id="191">E o senhor?
+
+HALLERBERG: Para ser honesto</segment>
+    <segment id="192">, estou preocupado.</segment>
+    <segment id="193">É preciso fazer algo em relação aos desequilíbrios (dentro da UE)</segment>
+    <segment id="194">, e não apenas olhar o problema fiscal.</segment>
+    <segment id="195">A Alemanha é um país superavitário</segment>
+    <segment id="196">, que tende a ver esta questão sob o prisma da dívida.</segment>
+    <segment id="197">Mas há outras razões pelas quais países têm déficits: Irlanda e Espanha fizeram mais em relação às suas dívidas do que a Alemanha fez nos últimos dez anos.</segment>
+    <segment id="198">O GLOBO: Alemanha e França querem monitoramento dos orçamentos nacionais e sanções automáticas contra países que violarem as regras ou limites de déficit.</segment>
+    <segment id="199">Como isso deve ser feito ?
+
+HALLERBERG:</segment>
+    <segment id="200">Se os alemães vão pagar por tudo isso</segment>
+    <segment id="201">, vão querer garantias de que haverá reformas e que não vão ter que pagar pelo resto da vida.</segment>
+    <segment id="202">Acho que os alemães vão pagar uma única vez.</segment>
+    <segment id="203">Isso faz sentido.</segment>
+    <segment id="204">Mas isso é parte da solução.</segment>
+  </rst>
+</analysis>

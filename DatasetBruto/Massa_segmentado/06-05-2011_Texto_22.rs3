@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Tamara Gorro
+Reserva do Real e titular com a gata</segment>
+    <segment id="2">Qual o jogador que atua na Espanha é mais invejado: Messi</segment>
+    <segment id="3">, Cristiano Ronaldo</segment>
+    <segment id="4">, Casillas?</segment>
+    <segment id="5">Nada disso.</segment>
+    <segment id="6">O argentino  Ezequiel Garay</segment>
+    <segment id="7">,  quarta opção entre os zagueiros do Real Madrid</segment>
+    <segment id="8">, é o cara.</segment>
+    <segment id="9">Não pelo desempenho em campo</segment>
+    <segment id="10">, claro.</segment>
+    <segment id="11">Ele é o protagonista de um dos namoros mais comentados do país</segment>
+    <segment id="12">, com  Tamara Gorro.</segment>
+    <segment id="13">A moça surgiu para o público em um programa de TV para quem busca namoro</segment>
+    <segment id="14">, participou de outras atrações e acabou com o  reserva do Real.</segment>
+    <segment id="15">Agora, o casal é sempre notícia na Espanha</segment>
+    <segment id="16">, com algumas suspeitas de traição e muita fofoca.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Ficou pra depois</segment>
+    <segment id="2">, Deputada</segment>
+    <segment id="3">A votação da Lei Antibaixaria</segment>
+    <segment id="4">, que aconteceria ontem</segment>
+    <segment id="5">, foi adiada
+Quem esperava uma definição sobre o projeto de Lei Antibaixaria vai ter de esperar até a próxima terça-feira.</segment>
+    <segment id="6">A votação</segment>
+    <segment id="7">, que aconteceria ontem</segment>
+    <segment id="8">, foi adiada</segment>
+    <segment id="9">porque</segment>
+    <segment id="10">porque o texto original foi modificado.</segment>
+    <segment id="11">Nesse caso</segment>
+    <segment id="12">caso, qualquer deputado pode pedir mais tempo para estudar melhor o que está sendo proposto.</segment>
+    <segment id="13">Foi o que aconteceu.</segment>
+    <segment id="14">O deputado Carlos Geilson pediu mais tempo para analisar o conteúdo.</segment>
+    <segment id="15">Quem não gostou foi a deputada Luiza Maia</segment>
+    <segment id="16">, autora do projeto.</segment>
+    <segment id="17">“Isto é uma covardia.</segment>
+    <segment id="18">Mas já sabíamos que a oposição iria obstruir a votação”</segment>
+    <segment id="19">, lamentou.</segment>
+  </rst>
+</analysis>

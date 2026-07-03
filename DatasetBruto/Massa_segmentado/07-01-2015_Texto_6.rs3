@@ -1,0 +1,105 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Ferry-boat terÃ¡ hora marcada</segment>
+    <segment id="2">O serviÃ§o estarÃ£o disponÃ­veis atÃ© o fim do mÃªs
+AtÃ© o final deste mÃªs</segment>
+    <segment id="3">, os usuÃ¡rios do sistema ferryboat voltarÃ£o a contar com o serviÃ§o de hora marcada</segment>
+    <segment id="4">, suspenso desde setembro de 2012.</segment>
+    <segment id="5">Segundo a Internacional Travessias Salvador</segment>
+    <segment id="6">, empresa que administra o sistema</segment>
+    <segment id="7">, o planejamento prevÃª que</segment>
+    <segment id="8">, neste mesmo prazo</segment>
+    <segment id="9">, seja implantado tambÃ©m o sistema de bilhetagem eletrÃ´nica.</segment>
+    <segment id="10">Por meio dele</segment>
+    <segment id="11">, pedestres e condutores que farÃ£o a travessia poderÃ£o comprar uma determinada quantidade de passagens sem necessidade de filas.</segment>
+    <segment id="12">As medidas visam reduzir os transtornos enfrentados por passageiros com as longas filas</segment>
+    <segment id="13">, como</segment>
+    <segment id="14">como ocorreu durante o perÃ­odo do RÃ©veillon.</segment>
+    <segment id="15">No Ãºltimo dia 31 de dezembro</segment>
+    <segment id="16">, a fila de veÃ­culos para embarcar chegou ao Bonfim</segment>
+    <segment id="17">, com cerca de 5 km de extensÃ£o e atÃ© seis horas de espera para os condutores.</segment>
+    <segment id="18">Quem quiser comprar a passagem antecipada poderÃ¡ fazÃª-lo pela internet ou nos prÃ³prios terminais.</segment>
+    <segment id="19">De acordo com a Internacional Travessias</segment>
+    <segment id="20">, os Ãºltimos ajustes estÃ£o sendo feitos</segment>
+    <segment id="21">para que</segment>
+    <segment id="22">para que os dois serviÃ§os sejam implantados.</segment>
+    <segment id="23">AlÃ©m disso</segment>
+    <segment id="24">, a empresa informou que uma reforma serÃ¡ realizada nos terminais de SÃ£o Joaquim e Bom Despacho.</segment>
+    <segment id="25">A Internacional Travessias</segment>
+    <segment id="26">, no entanto</segment>
+    <segment id="27">, nÃ£o divulgou quais melhorias serÃ£o feitas e prazos para inÃ­cio e fim das intervenÃ§Ãµes.</segment>
+    <segment id="28">A empresa ressaltou que nÃ£o hÃ¡ detalhes</segment>
+    <segment id="29">, pois</segment>
+    <segment id="30">pois estÃ¡ na fase dos estudos para a realizaÃ§Ã£o da requalificaÃ§Ã£o.</segment>
+    <segment id="31">Erros no sistema</segment>
+    <segment id="32">Para o engenheiro naval Henrique JosÃ© CaribÃ©</segment>
+    <segment id="33">, membro do Conselho Regional de Engenharia da Bahia (Crea-BA)</segment>
+    <segment id="34">, uma boa operaÃ§Ã£o do ferryboat depende do funcionamento harmÃ´nico entre dois sistemas majoritÃ¡rios: embarcaÃ§Ã£o e logÃ­stica.</segment>
+    <segment id="35">Segundo ele</segment>
+    <segment id="36">, no ferryboat da Bahia</segment>
+    <segment id="37">, estes dois sistemas â€œnÃ£o dialogam bemâ€.</segment>
+    <segment id="38">Em relaÃ§Ã£o Ã  logÃ­stica</segment>
+    <segment id="39">, ressalta ele</segment>
+    <segment id="40">, falta planejamento para atender a alta demanda</segment>
+    <segment id="41">, principalmente nos perÃ­odos de festas</segment>
+    <segment id="42">, como</segment>
+    <segment id="43">como o RÃ©veillon.</segment>
+    <segment id="44">JÃ¡ em relaÃ§Ã£o</segment>
+    <segment id="45">Ã  embarcaÃ§Ã£o</segment>
+    <segment id="46">, ele ressalta que Ã© preciso realizar manutenÃ§Ã£o periÃ³dica e preventiva nos trÃªs sistemas dos ferries: casco</segment>
+    <segment id="47">, motor e propulsor.</segment>
+    <segment id="48">â€œSÃ£o bem complexo e precisam de manutenÃ§Ã£o periÃ³dica</segment>
+    <segment id="49">, em que</segment>
+    <segment id="50">sese avalie todos os aspectos</segment>
+    <segment id="51">, como</segment>
+    <segment id="52">como a velocidadeâ€</segment>
+    <segment id="53">, conta.</segment>
+    <segment id="54">Se o casco estÃ¡ com mossas</segment>
+    <segment id="55">, afeta o funcionamento do motor</segment>
+    <segment id="56">, que precisa de mais forÃ§a para fazer a embarcaÃ§Ã£o navegar.</segment>
+    <segment id="57">JÃ¡ o motor</segment>
+    <segment id="58">, sese nÃ£o for feita manutenÃ§Ã£o correta</segment>
+    <segment id="59">, tambÃ©m prejudica a operaÃ§Ã£o.</segment>
+    <segment id="60">ManutenÃ§Ã£o
+â€œO (ferry) Ana Nery e o Ivete Sangalo</segment>
+    <segment id="61">, quando chegaram</segment>
+    <segment id="62">, faziam a travessia em 35 minutos</segment>
+    <segment id="63">, masmas agora fazem em uma hora.</segment>
+    <segment id="64">A mÃ¡quina precisa da manutenÃ§Ã£o para nÃ£o perder a potÃªnciaâ€</segment>
+    <segment id="65">, diz o engenheiro Henrique CaribÃ©.</segment>
+    <segment id="66">O propulsor</segment>
+    <segment id="67">, seja hÃ©lice ou hidrojato</segment>
+    <segment id="68">, tem que ser compatÃ­vel.</segment>
+    <segment id="69">â€œÃ€s vezes</segment>
+    <segment id="70">, o propulsor atua bem numa embarcaÃ§Ã£o nÃ£o vai comunicar bem com outra</segment>
+    <segment id="71">, vai gastar combustÃ­vel.</segment>
+    <segment id="72">Ã‰ preciso que isso seja observadoâ€.</segment>
+    <segment id="73">VocÃª sabia?</segment>
+    <segment id="74">O serviÃ§o de hora marcada foi suspenso quando o Governo do Estado interveio no sistema ferryboat</segment>
+    <segment id="75">, em setembro de 2012</segment>
+    <segment id="76">, retirando da gestÃ£o a concessionÃ¡ria TWB</segment>
+    <segment id="77">, que era responsÃ¡vel pela operaÃ§Ã£o.</segment>
+  </rst>
+</analysis>

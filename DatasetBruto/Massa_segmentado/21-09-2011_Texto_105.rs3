@@ -1,0 +1,53 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Maior parte dos professores não adere à paralisação contra Saerjinho</segment>
+    <segment id="2">Ao contrário do que esperava o Sindicato Estadual de Profissionais de Educação (Sepe)</segment>
+    <segment id="3">, a maioria dos professores da rede do estado não aderiu à paralisação de 24 horas prevista para quarta-feira contra o 3º Saerjinho</segment>
+    <segment id="4">, exame de avaliação bimestral iniciado em abril deste ano.</segment>
+    <segment id="5">As provas</segment>
+    <segment id="6">, com questões de português e matemática</segment>
+    <segment id="7">, foram realizadas por alunos dos ensinos fundamental e médio.</segment>
+    <segment id="8">Segundo a Secretaria de estadual de Educação</segment>
+    <segment id="9">, do total de 1</segment>
+    <segment id="10">,1 milhão de alunos da rede</segment>
+    <segment id="11">, cerca de 700 mil participaram do 3º Saerjinho</segment>
+    <segment id="12">, ou seja</segment>
+    <segment id="13">, mais de 90% do total.</segment>
+    <segment id="14">Para a coordenadora do Sepe</segment>
+    <segment id="15">, Vera Nepomuceno</segment>
+    <segment id="16">, os professores foram pressionados pelas diretorias a comparecerem às escolas.</segment>
+    <segment id="17">Na quarta-feira</segment>
+    <segment id="18">, em seis escolas da cidade visitadas</segment>
+    <segment id="19">, apenas na Herbert Farias</segment>
+    <segment id="20">, em São Cristóvão</segment>
+    <segment id="21">, não houve a avaliação pela manhã.</segment>
+    <segment id="22">O diretor da unidade</segment>
+    <segment id="23">, Paulo Ferrari</segment>
+    <segment id="24">, remarcou para esta quinta-feira a prova.</segment>
+    <segment id="25">O Saerjinho tem entre seus objetivos preparar o aluno para o Saerj</segment>
+    <segment id="26">, exame criado em 2008 para monitorar o padrão de qualidade do ensino.</segment>
+    <segment id="27">O último resultado do Saerjinho foi negativo: mais da metade dos estudantes do 9 ano conseguiram menos de 33% em matemática.</segment>
+  </rst>
+</analysis>

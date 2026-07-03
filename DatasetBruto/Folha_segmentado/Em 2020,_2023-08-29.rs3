@@ -1,0 +1,149 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Os incêndios de alta intensidade que atingiram o Pantanal em 2020 queimaram uma área de 44.998 quilômetros quadrados (km2)</segment>
+    <segment id="2">, o que corresponde a pouco mais de 30% do território do bioma na porção brasileira (com cerca de 150 mil km2</segment>
+    <segment id="3">, no total).</segment>
+    <segment id="4">O cálculo é de uma nova pesquisa publicada na revista científica Fire.</segment>
+    <segment id="5">O trabalho mostra uma região devastada bem maior do que as estimadas em levantamentos anteriores</segment>
+    <segment id="6">, que variaram de 14.307 km2 a 36.017 km2.</segment>
+    <segment id="7">Liderado por cientistas do Inpe (Instituto Nacional de Pesquisas Espaciais)</segment>
+    <segment id="8">, o estudo demonstra que o modelo construído com base em imagens de satélite da missão Sentinel-2 apresentou vantagens em relação a produtos operacionais disponíveis para o Pantanal</segment>
+    <segment id="9">, sendo capaz de refinar as estimativas de áreas queimadas em escala regional.</segment>
+    <segment id="10">De acordo com o trabalho</segment>
+    <segment id="11">, a metodologia com o Sentinel-2 alcançou uma precisão em torno de 96%</segment>
+    <segment id="12">, podendo ajudar a melhorar a estimativa de gases e aerossóis associados à queima de biomassa.</segment>
+    <segment id="13">A crise do fogo no Pantanal em 2020 foi ocasionada por um evento de seca extrema</segment>
+    <segment id="14">, que tende a ser cada vez mais frequente não só na região</segment>
+    <segment id="15">, masmas em outras partes do Brasil - Mayke Toscano/Secom-MTA conclusão reforça a necessidade de desenvolver abordagens para melhorar os dados sobre os impactos do fogo em regiões criticamente sensíveis às mudanças climáticas</segment>
+    <segment id="16">, como</segment>
+    <segment id="17">como o bioma em questão</segment>
+    <segment id="18">, permitindo avaliar a influência desses incêndios nos ecossistemas e na biodiversidade.</segment>
+    <segment id="19">A importância aumenta em meio aos alertas derivados da previsão de um forte fenômeno El Niño neste ano</segment>
+    <segment id="20">, que pode levar a parte norte do Pantanal e seu entorno na bacia do Alto do Paraguai a ficar mais seca e suscetível ao fogo.</segment>
+    <segment id="21">"</segment>
+    <segment id="22">Os resultados da pesquisa não indicam que um modelo ou produto é pior ou melhor do que o outro.</segment>
+    <segment id="23">Temos variações metodológicas e</segment>
+    <segment id="24">, por isso</segment>
+    <segment id="25">, há divergências de estimativas.</segment>
+    <segment id="26">Mas as imagens provenientes do sensor MSI a bordo dos satélites Sentinel-2 apresentam dois pontos positivos: as resoluções espacial —com uma imagem de dez metros</segment>
+    <segment id="27">, trazendo um detalhamento muito maior das áreas queimadas— e temporal</segment>
+    <segment id="28">, que é muito importante para esse tipo de estudo.</segment>
+    <segment id="29">Isso porque</segment>
+    <segment id="30">porque</segment>
+    <segment id="31">, enquanto alguns sensores</segment>
+    <segment id="32">, como</segment>
+    <segment id="33">como os da série Landsat</segment>
+    <segment id="34">, levam até 16 dias para registrar uma área</segment>
+    <segment id="35">, ele reduz esse tempo para cinco dias"</segment>
+    <segment id="36">, afirma a engenheira florestal Andeise Cerqueira Dutra</segment>
+    <segment id="37">, doutoranda na Divisão de Observação da Terra e Geoinformática (DIOTG-Inpe) sob a orientação do pesquisador Yosio Edemir Shimabukuro.</segment>
+    <segment id="38">Uma das autoras do estudo juntamente com Shimabukuro</segment>
+    <segment id="39">, Dutra recebe apoio da FAPESP por meio de dois projetos.</segment>
+    <segment id="40">Incêndio em rodovia turística de Mato Grosso</segment>
+    <segment id="41">, no Pantanal</segment>
+    <segment id="42">, em 2021Mais    novamente         de   de  de  representando um  Para o pesquisador da DIOTG-Inpe Guilherme Augusto Verola Mataveli</segment>
+    <segment id="43">, que também assina o artigo</segment>
+    <segment id="44">, é importante aprimorar esse tipo de análise e obter estimativas em escala regional não só para refinar a quantificação de áreas devastadas</segment>
+    <segment id="45">comocomo também para calcular emissões de gases de efeito estufa</segment>
+    <segment id="46">, com impacto direto nas mudanças climáticas.  "</segment>
+    <segment id="47">A crise do fogo no Pantanal em 2020 foi ocasionada por um evento de seca extrema</segment>
+    <segment id="48">, que tende a ser cada vez mais frequente não só na região</segment>
+    <segment id="49">, masmas em outras partes do Brasil.</segment>
+    <segment id="50">Ter mais conhecimento sobre o impacto dessas crises climáticas no bioma e sua biodiversidade será cada vez mais importante para tomar decisões ligadas a planos de manejo e programas de mitigação dos efeitos do fogo"</segment>
+    <segment id="51">, explica Mataveli</segment>
+    <segment id="52">, que desenvolve estudos apoiados pela Fapesp</segment>
+    <segment id="53">, parte no âmbito do Programa Fapespde Pesquisa em Mudanças Climáticas Globais (PFPMCG).</segment>
+    <segment id="54">"</segment>
+    <segment id="55">Buscar meios para aprimorar esses produtos e gerar dados mais acurados tem grande importância para a sociedade.</segment>
+    <segment id="56">Um exemplo é o projeto-piloto lançado este ano</segment>
+    <segment id="57">, no Pantanal</segment>
+    <segment id="58">, que também utiliza dados de sensoriamento remoto para identificar áreas afetadas pelo fogo e estimar o acúmulo de material combustível</segment>
+    <segment id="59">, por exemplo.</segment>
+    <segment id="60">Além disso</segment>
+    <segment id="61">, os gestores de órgãos de meio ambiente e os brigadistas podem usar esses resultados para manejo integrado do fogo</segment>
+    <segment id="62">, definindo locais prioritários e ações de combate e controle de incêndios"</segment>
+    <segment id="63">, complementa Dutra.</segment>
+    <segment id="64">Consequências  Maior área úmida tropical do mundo</segment>
+    <segment id="65">, o Pantanal fica sazonalmente inundado</segment>
+    <segment id="66">, com a estação seca geralmente variando de julho a outubro (setembro é o mês considerado</segment>
+    <segment id="67">comocomo o pico de incêndios na região).</segment>
+    <segment id="68">Hotspot de biodiversidade</segment>
+    <segment id="69">, o bioma registrou em 2019 uma mudança nos padrões de chuva —modulados pela monção de verão da América do Sul—</segment>
+    <segment id="70">, sofrendo com uma seca prolongada em 2020</segment>
+    <segment id="71">, ano em que a precipitação na porção brasileira foi a menor desde a década de 1980.</segment>
+    <segment id="72">Ficou 26% abaixo da média de 1982-2020.</segment>
+    <segment id="73">Entre as consequências dessa seca significativa houve o registro de uma superfície alagada 34% menor do que a média.</segment>
+    <segment id="74">Brigadas Pantaneiras combatem fogo no PantanalMais    novamente         de   de  de  representando um  Além disso</segment>
+    <segment id="75">, do total de áreas queimadas</segment>
+    <segment id="76">, 35% foram atingidas pela primeira vez.</segment>
+    <segment id="77">Pesquisas realizadas depois da crise constataram que o fogo matou cerca de 16 milhões de animais de pequeno porte (com menos de dois quilos) e outros 944 mil de maior porte.</segment>
+    <segment id="78">Já as onças-pintadas (Panthera onca)</segment>
+    <segment id="79">, o maior felino das Américas</segment>
+    <segment id="80">, foram muito afetadas —os focos de incêndio consumiram o correspondente a 80% da área de vida desses animais</segment>
+    <segment id="81">, atingindo 45% deles (cerca de 740 indivíduos) no bioma</segment>
+    <segment id="82">, que abriga a segunda maior população da espécie no mundo.</segment>
+    <segment id="83">Outra consequência foi o aumento de casos de problemas respiratórios na população dos estados de Mato Grosso e Mato Grosso do Sul</segment>
+    <segment id="84">, com mais internações</segment>
+    <segment id="85">, como</segment>
+    <segment id="86">como mostrou levantamento da Fiocruz.</segment>
+    <segment id="87">No pós-incêndio</segment>
+    <segment id="88">, o custo estimado da restauração chegou a cerca de US$ 123 milhões.</segment>
+    <segment id="89">Método</segment>
+    <segment id="90">Os pesquisadores utilizaram imagens do Sentinel-2 para fazer as estimativas de áreas queimadas na porção brasileira do Pantanal em 2020 e compararam com as derivadas dos produtos baseados no sensor MODIS (Moderate Resolution Imaging Spectroradiometer</segment>
+    <segment id="91">, na sigla em inglês) e nos sensores a bordo dos satélites da série Landsat.</segment>
+    <segment id="92">Os resultados baseados no MODIS (MCD64A1 e Fire_cci) estimaram a área atingida em 35.837 km2 e 36.017 km2</segment>
+    <segment id="93">, respectivamente.</segment>
+    <segment id="94">Já os baseados em Landsat (MapBiomas Fogo e GABAM) ficaram em 23.372 km2 e 14.307 km2.</segment>
+    <segment id="95">Visualmente</segment>
+    <segment id="96">, os mapas apresentam padrão de distribuição espacial semelhante</segment>
+    <segment id="97">, masmas a estimativa derivada do Sentinel foi capaz de detectar um número maior de incêndios menores do que as outras</segment>
+    <segment id="98">, especialmente no leste do Pantanal.</segment>
+    <segment id="99">"</segment>
+    <segment id="100">O modelo que desenvolvemos está disponível para quem tiver interesse</segment>
+    <segment id="101">, assim</segment>
+    <segment id="102">comocomo os dados coletados na validação.</segment>
+    <segment id="103">Acreditamos que eles podem ajudar em outros projetos</segment>
+    <segment id="104">, em trabalhos futuros"</segment>
+    <segment id="105">, diz Mataveli.</segment>
+    <segment id="106">E Dutra complementa: "</segment>
+    <segment id="107">Com a previsão de secas cada vez mais frequentes</segment>
+    <segment id="108">, há uma tendência de termos mais episódios de incêndios.</segment>
+    <segment id="109">Por isso</segment>
+    <segment id="110">, acreditamos que mais colaborações vão existir</segment>
+    <segment id="111">, mais dados estarão disponíveis.</segment>
+    <segment id="112">Esperamos também que mais dados de campo estejam acessíveis</segment>
+    <segment id="113">, principalmente para cientistas que trabalham com sensoriamento remoto para gerar produtos mais acurados".</segment>
+    <segment id="114">Entre janeiro e 23 de agosto deste ano</segment>
+    <segment id="115">, o Pantanal registrou 381 focos de fogo</segment>
+    <segment id="116">, segundo dados do Inpe — no mesmo período de 2020 haviam sido 8.127 focos</segment>
+    <segment id="117">, o maior número desde 1998 para o bioma.</segment>
+    <segment id="118">Neste ano</segment>
+    <segment id="119">, incêndios florestais têm</segment>
+    <segment id="120">sese intensificado em meio às ondas de calor</segment>
+    <segment id="121">, deixando mortos e destruindo vilas na Europa e nos Estados Unidos.</segment>
+    <segment id="122">O artigo Assessment of Burned Areas during the Pantanal Fire Crisis in 2020</segment>
+    <segment id="123">Using Sentinel-2 Images pode ser lido aqui (em inglês).</segment>
+  </rst>
+</analysis>

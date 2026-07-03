@@ -1,0 +1,111 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Banco Central introduziu recentemente o open banking</segment>
+    <segment id="2">, um sistema aberto pelo qual correntistas podem compartilhar suas informações com diferentes instituições financeiras.</segment>
+    <segment id="3">À luz dessa experiência</segment>
+    <segment id="4">, o ministro da Saúde</segment>
+    <segment id="5">, Marcelo Queiroga</segment>
+    <segment id="6">, tem defendido a criação de um "open health" na saúde</segment>
+    <segment id="7">, com dois pilares: um repositório de dados assistenciais e de saúde de todos os brasileiros</segment>
+    <segment id="8">, coletados a partir de um prontuário eletrônico</segment>
+    <segment id="9">; e um "cadastro positivo da saúde"</segment>
+    <segment id="10">, com dados financeiros sobre os beneficiários de planos.</segment>
+    <segment id="11">Em tese</segment>
+    <segment id="12">, este segundo pilar permitiria mais competição entre seguradoras e melhores condições contratuais para beneficiários.</segment>
+    <segment id="13">Não é bem assim.</segment>
+    <segment id="14">A criação de um prontuário eletrônico único</segment>
+    <segment id="15">, centralizando todas as informações de saúde</segment>
+    <segment id="16">, e de todos os brasileiros</segment>
+    <segment id="17">, pode de fato revolucionar esse setor no Brasil.</segment>
+    <segment id="18">Seguramente haveria ganhos de eficiência para o sistema de saúde e de bem-estar social.</segment>
+    <segment id="19">No entanto</segment>
+    <segment id="20">, essas informações são extremamente sensíveis e não podem cair em mãos não autorizadas —bancos</segment>
+    <segment id="21">, operadoras de saúde e recrutadores de recursos humanos.</segment>
+    <segment id="22">Causa preocupação</segment>
+    <segment id="23">, portanto</segment>
+    <segment id="24">, o fato de o ministro da Saúde ter sugerido</segment>
+    <segment id="25">, na primeira versão de sua proposta</segment>
+    <segment id="26">, divulgada em janeiro</segment>
+    <segment id="27">, que poderia haver compartilhamento de dados dos pacientes</segment>
+    <segment id="28">, inclusive assistenciais</segment>
+    <segment id="29">, com as operadoras de saúde.</segment>
+    <segment id="30">Isso não é admissível.</segment>
+    <segment id="31">Essa modulação do discurso revela uma percepção inicial equivocada e abala a reputação da proposta logo na largada.</segment>
+    <segment id="32">Ministério da Saúde com Marcelo QueirogaMais    novamente         de   de  de  representando um</segment>
+    <segment id="33">O segundo pilar também é problemático.</segment>
+    <segment id="34">Em primeiro lugar</segment>
+    <segment id="35">, diferentemente de uma carteira de produtos financeiros</segment>
+    <segment id="36">, com sua imensa variedade e cujas condições oscilam diariamente ao sabor da conjuntura e dos humores do mercado</segment>
+    <segment id="37">, espera-</segment>
+    <segment id="38">sese que contratos de planos de saúde sejam bem menos fragmentados e mais estáveis.</segment>
+    <segment id="39">Essa estabilidade resulta em regras mais claras para o beneficiário e</segment>
+    <segment id="40">, muito provavelmente</segment>
+    <segment id="41">, continuidade do cuidado na mesma rede de profissionais e estabelecimentos de saúde.</segment>
+    <segment id="42">Além disso</segment>
+    <segment id="43">, já existe uma política de portabilidade.</segment>
+    <segment id="44">Em segundo lugar</segment>
+    <segment id="45">, ficar doente é uma situação bem diferente de não pagar um empréstimo.</segment>
+    <segment id="46">Como vimos na pandemia</segment>
+    <segment id="47">, quando falta saúde pode faltar também dinheiro no bolso.</segment>
+    <segment id="48">Muitas vezes pode faltar saúde não por causa de uma decisão errada e consciente</segment>
+    <segment id="49">, masmas por fatores fora de controle —</segment>
+    <segment id="50">comocomo a maioria das doenças e dos acidentes.</segment>
+    <segment id="51">Perde-</segment>
+    <segment id="52">sese saúde também ao envelhecer.</segment>
+    <segment id="53">Um cadastro positivo que revelasse bons pagadores de planos de saúde seria</segment>
+    <segment id="54">, portanto</segment>
+    <segment id="55">, bastante perverso.</segment>
+    <segment id="56">Além disso</segment>
+    <segment id="57">, a inadimplência dos planos tem</segment>
+    <segment id="58">sese mantido relativamente estável e baixa.</segment>
+    <segment id="59">Portanto</segment>
+    <segment id="60">, esse tampouco parece ser um problema estrutural do setor.</segment>
+    <segment id="61">Mulheres</segment>
+    <segment id="62">sese acorrentam para defender que planos de saúde arquem com mais despesasMais    novamente         de   de  de  representando um</segment>
+    <segment id="63">Em terceiro lugar</segment>
+    <segment id="64">, a regulação da saúde suplementar cabe à ANS (Agência Nacional de Saúde Suplementar)</segment>
+    <segment id="65">, que é independente e deve zelar pela concorrência e pela qualidade no mercado de planos.</segment>
+    <segment id="66">Assim como</segment>
+    <segment id="67">como no</segment>
+    <segment id="68">casocaso da independência de bancos centrais</segment>
+    <segment id="69">, da Anvisa (Agência Nacional de Vigilância Sanitária) e de outras agências reguladoras</segment>
+    <segment id="70">, isso induz que decisões sejam tomadas de forma técnica.</segment>
+    <segment id="71">Não existem estudos por trás do "open health" e não parece claro</segment>
+    <segment id="72">sese haverá benefícios que justifiquem o custo da intervenção.</segment>
+    <segment id="73">O setor da saúde é complexo e envolve interesses privados em um mercado que deve ser muito bem regulado</segment>
+    <segment id="74">, independentemente do ciclo político.</segment>
+    <segment id="75">Mudanças em planos de saúdeMais    novamente         de   de  de  representando um</segment>
+    <segment id="76">Com a proposta do "open health"</segment>
+    <segment id="77">, testemunhamos uma sequência de equívocos: sugere-</segment>
+    <segment id="78">sese algo conceitualmente problemático e sem lastro em reflexão e solidez teórica</segment>
+    <segment id="79">, que tem</segment>
+    <segment id="80">comocomo foco algo que não é um problema estrutural e que está longe de ser prioridade em saúde —e cuja atribuição foge a quem o propõe.</segment>
+    <segment id="81">O SUS enfrenta inúmeras dificuldades.</segment>
+    <segment id="82">O Ministro da Saúde faria bem em dedicar a ele a sua atenção.</segment>
+    <segment id="83">TENDÊNCIAS / DEBATES</segment>
+    <segment id="84">Os artigos publicados com assinatura não traduzem a opinião do jornal.</segment>
+    <segment id="85">Sua publicação obedece ao propósito de estimular o debate dos problemas brasileiros e mundiais e de refletir as diversas tendências do pensamento contemporâneo.​</segment>
+  </rst>
+</analysis>

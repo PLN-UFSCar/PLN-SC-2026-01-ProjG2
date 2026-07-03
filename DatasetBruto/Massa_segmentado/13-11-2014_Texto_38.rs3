@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Lady Francisco revela que estÃ¡ sem sexo</segment>
+    <segment id="2">A atriz contou que lida bem com a abstinÃªncia
+Aos 79 anos a atriz Lady Francisco pensa em deixar o Brasil</segment>
+    <segment id="3">, pois</segment>
+    <segment id="4">pois hÃ¡ anos</segment>
+    <segment id="5">sÃ³ faz pequenas pontas na TV.</segment>
+    <segment id="6">Ela tambÃ©m revelou que estÃ¡ sem sexo hÃ¡ 28 anos e garantiu que nÃ£o</segment>
+    <segment id="7">sese incomoda.</segment>
+    <segment id="8">â€œÃ‰ opÃ§Ã£oâ€</segment>
+    <segment id="9">, assegurou.</segment>
+  </rst>
+</analysis>

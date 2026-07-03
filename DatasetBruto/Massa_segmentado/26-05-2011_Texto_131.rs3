@@ -1,0 +1,69 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Polícia prende três por exercício ilegal da profissão</segment>
+    <segment id="2">Uma falsa dentista e um falso protético foram presos</segment>
+    <segment id="3">, nesta quinta-feira</segment>
+    <segment id="4">, pela Corregedoria Interna da Policia Civil</segment>
+    <segment id="5">, num consultório em Paciência.</segment>
+    <segment id="6">Uma mulher</segment>
+    <segment id="7">, que chegou ao local após o flagrante da polícia e</segment>
+    <segment id="8">sese apresentou</segment>
+    <segment id="9">comocomo advogada</segment>
+    <segment id="10">, também foi detida ao admitir que não tinha registro na OAB.</segment>
+    <segment id="11">Os agentes chegaram aos acusados após uma investigação</segment>
+    <segment id="12">, realizada em maio</segment>
+    <segment id="13">, que levou à prisão de policiais da 36ª DP (Santa Cruz) e de dois advogados suspeitos de extorsão.</segment>
+    <segment id="14">O nome da falsa dentista foi encontrado em diligência na época.</segment>
+    <segment id="15">Segundo o site G1</segment>
+    <segment id="16">, a delegada Tatiana Loche afirmou que a falsa dentista usava um número de registro pertencente a outro profissional.</segment>
+    <segment id="17">Enquanto os policiais estavam no consultório</segment>
+    <segment id="18">, uma mulher chegou e</segment>
+    <segment id="19">sese apresentou</segment>
+    <segment id="20">comocomo advogada</segment>
+    <segment id="21">, dizendo ser parente dos falsos profissionais.</segment>
+    <segment id="22">No entanto</segment>
+    <segment id="23">, ao ser questionada pelos agentes</segment>
+    <segment id="24">, ela disse que não estava com a carteira da OAB e que não lembrava o número do registro.</segment>
+    <segment id="25">Mais tarde</segment>
+    <segment id="26">, a mulher confessou que não chegou a fazer os exames da Ordem.
+- Ela</segment>
+    <segment id="27">sese identificou</segment>
+    <segment id="28">comocomo advogada</segment>
+    <segment id="29">, masmas quando solicitamos a carteira da OAB</segment>
+    <segment id="30">, disse que não</segment>
+    <segment id="31">sese lembrava do número</segment>
+    <segment id="32">, então solicitamos qualquer identificação</segment>
+    <segment id="33">, foi quando ela disse que não passou no concurso.</segment>
+    <segment id="34">Logo, não poderia exercer advocacia sem habilitação</segment>
+    <segment id="35">, seja em qualquer situação - disse a delegada ao G1.</segment>
+    <segment id="36">Este é o segundo</segment>
+    <segment id="37">casocaso de falsos profissionais de saúde em um mês.</segment>
+    <segment id="38">No dia 27 de abril</segment>
+    <segment id="39">, Beatriz da Silva Cunha</segment>
+    <segment id="40">, de 32 anos</segment>
+    <segment id="41">, foi presa</segment>
+    <segment id="42">, acusada de exercer ilegalmente a profissão de psicóloga.</segment>
+  </rst>
+</analysis>

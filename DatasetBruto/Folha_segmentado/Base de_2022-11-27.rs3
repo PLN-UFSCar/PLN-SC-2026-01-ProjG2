@@ -1,0 +1,273 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O partido do presidente Jair Bolsonaro</segment>
+    <segment id="2">, o PL</segment>
+    <segment id="3">, usou uma diferença entre os arquivos de urnas mais antigas e as mais novas</segment>
+    <segment id="4">comocomo seu principal argumento para pedir a invalidação de parte dos votos do segundo turno</segment>
+    <segment id="5">, em ação apresentada na última terça-feira (22) ao TSE (Tribunal Superior Eleitoral).</segment>
+    <segment id="6">A tese de que apenas o modelo mais recente seria confiável começou a ser propagada dias após o segundo turno e teve</segment>
+    <segment id="7">comocomo principal porta-voz o consultor político argentino Fernando Cerimedo.</segment>
+    <segment id="8">Antes disso</segment>
+    <segment id="9">, uma infinidade de outras teorias conspiratórias sobre as urnas</segment>
+    <segment id="10">, junto a materiais com supostas comprovações de fraude</segment>
+    <segment id="11">, já circulavam.</segment>
+    <segment id="12">Além do questionamento baseado no modelo da urna</segment>
+    <segment id="13">, há diferentes pontos de conexão entre o conteúdo da peça protocolada pelo PL no TSE e as afirmações do argentino em diferentes transmissões e postagens.</segment>
+    <segment id="14">Não há comprovação de que Cerimedo e a equipe contratada pelo partido tenham tido alguma ligação ou contato.</segment>
+    <segment id="15">O presidente do PL</segment>
+    <segment id="16">, Valdemar Costa Neto</segment>
+    <segment id="17">, em entrevista para anunciar pedido de verificação de resultado das eleições - Pedro Ladeira/FolhapressPoucos dias antes da primeira live de Cerimedo</segment>
+    <segment id="18">, o relatório usado por ele já circulava sem autoria identificada em grupos de conversa.</segment>
+    <segment id="19">Inicialmente</segment>
+    <segment id="20">, a investida contra as urnas mais antigas era baseada em análises estatísticas.</segment>
+    <segment id="21">Nas semanas seguintes</segment>
+    <segment id="22">, outros elementos foram surgindo.</segment>
+    <segment id="23">Em 14 de novembro</segment>
+    <segment id="24">, por exemplo</segment>
+    <segment id="25">, Cerimedo afirmou que havia diferença entre os logs das urnas antigas e as urnas novas.</segment>
+    <segment id="26">O vídeo dizia que "logs falsos foram encontrados nas urnas anteriores a 2020" e que</segment>
+    <segment id="27">, por outro lado</segment>
+    <segment id="28">, "nas urnas de 2020 não foram observados os logs piratas".</segment>
+    <segment id="29">Falava ainda em um "código pirata".</segment>
+    <segment id="30">O log da urna é uma espécie de "diário de bordo" de tudo que aconteceu nela</segment>
+    <segment id="31">, enquanto o código é o programa que dá os comandos para ela funcionar.</segment>
+    <segment id="32">Uma diferença entre os logs gerados pelas urnas mais novas –o modelo 2020– e os demais modelos foi justamente o argumento utilizado pelo partido de Bolsonaro para pedir a invalidação dos votos de parte das urnas</segment>
+    <segment id="33">, masmas apenas no segundo turno.</segment>
+    <segment id="34">A ação foi baseada em um relatório do Instituto Voto Legal (IVL)</segment>
+    <segment id="35">, contratado pelo PL.</segment>
+    <segment id="36">O presidente do TSE</segment>
+    <segment id="37">, Alexandre de Moraes</segment>
+    <segment id="38">, rejeitou na última quarta-feira (23) a ação do PL por litigância de má-fé (exercício de maneira abusiva do direito de recorrer à Justiça).</segment>
+    <segment id="39">Apesar de a situação relatada pelo PL ter ocorrido nos logs de ambos os turnos</segment>
+    <segment id="40">, o PL pediu a invalidação apenas de votos do segundo turno.</segment>
+    <segment id="41">Além disso</segment>
+    <segment id="42">, como</segment>
+    <segment id="43">como mostrou a Folha</segment>
+    <segment id="44">, diferentemente do apontado no relatório do PL</segment>
+    <segment id="45">, a limitação relatada para questionar as urnas antigas não impede a identificação e a fiscalização delas</segment>
+    <segment id="46">, conforme apontam especialistas em computação.</segment>
+    <segment id="47">Em vídeo no dia 14 de novembro</segment>
+    <segment id="48">, Cerimedo diz que as urnas antigas têm &amp;quot</segment>
+    <segment id="49">;logs falsos&amp;quot</segment>
+    <segment id="50">; e que as urnas mais novas não têm &amp;quot</segment>
+    <segment id="51">;logs piratas&amp;quot</segment>
+    <segment id="52">; - ReproduçãoUm outro ponto disseminado por Cerimedo apareceu com alterações no relatório do PL.</segment>
+    <segment id="53">O argentino divulgou que teria conseguido identificar</segment>
+    <segment id="54">, a partir dos logs das urnas</segment>
+    <segment id="55">, em quem cada eleitor teria votado.</segment>
+    <segment id="56">Diferentemente do que alegou o argentino</segment>
+    <segment id="57">, o que aparece nos logs</segment>
+    <segment id="58">, conforme apontou a Justiça Eleitoral</segment>
+    <segment id="59">, é o registro do nome de alguns eleitores</segment>
+    <segment id="60">, sem que haja nenhuma informação sobre o voto dado.</segment>
+    <segment id="61">Isso pode acontecer</segment>
+    <segment id="62">, por exemplo</segment>
+    <segment id="63">, quando a urna trava e precisa ser religada.</segment>
+    <segment id="64">A redação usada pelo PL toca no tema falando em violação do "sigilo do ato de votar"</segment>
+    <segment id="65">, o que foi suficiente para manter a narrativa nos grupos bolsonaristas.</segment>
+    <segment id="66">A primeira live de Cerimedo era focada em análises estatísticas da votação por estado</segment>
+    <segment id="67">, restringindo a municípios com até 100 mil ou 50 mil habitantes.</segment>
+    <segment id="68">O cientista de dados Tiago Barbin Batalhão aponta diferentes problemas no relatório que deu base para a live.</segment>
+    <segment id="69">Doutor em física pela Universidade Federal do ABC (UFABC)</segment>
+    <segment id="70">, ele é um dos autores de documento que desmonta afirmações falsas da transmissão</segment>
+    <segment id="71">, feito em conjunto com professores da Universidade Federal de São Carlos e da Universidade de São Paulo.</segment>
+    <segment id="72">Uma das lacunas</segment>
+    <segment id="73">, afirma ele</segment>
+    <segment id="74">, é não haver uma análise de que os diferentes modelos de urna não foram distribuídos de modo aleatório.  "</segment>
+    <segment id="75">Quando eu investiguei mais a fundo</segment>
+    <segment id="76">, por exemplo</segment>
+    <segment id="77">, vi que</segment>
+    <segment id="78">, no estado de Pernambuco</segment>
+    <segment id="79">, todas as urnas novas ficaram no litoral e as antigas no interior"</segment>
+    <segment id="80">, diz.</segment>
+    <segment id="81">"É muito mais fácil de acreditar que pessoas do litoral e pessoas do interior votam diferente do que acreditar numa fraude na urna.</segment>
+    <segment id="82">"</segment>
+    <segment id="83">Outro problema é utilizar um recorte máximo de habitantes.</segment>
+    <segment id="84">Ele explica que a análise parte da premissa incorreta de que</segment>
+    <segment id="85">, ao comparar</segment>
+    <segment id="86">, por exemplo</segment>
+    <segment id="87">, duas cidades pequenas no estado de São Paulo</segment>
+    <segment id="88">, elas deveriam apresentar padrões iguais</segment>
+    <segment id="89">, ignorando outros fatores socioeconômicos e culturais.</segment>
+    <segment id="90">Também nesse ponto</segment>
+    <segment id="91">, o relatório do IVL apresentado à Justiça Eleitoral tem pontos em comum com o relatório divulgado por Cerimedo.</segment>
+    <segment id="92">O IVL escreve que buscou validar "estudos estatísticos que foram apresentados ao IVL" e diz que "há estudos que mostram indícios fortes de interferência nos percentuais de votação dos dois candidatos"</segment>
+    <segment id="93">, escreve o IVL</segment>
+    <segment id="94">, frisando os estados do Nordeste.</segment>
+    <segment id="95">Além disso</segment>
+    <segment id="96">, o instituto também replica o filtro de até 100 mil habitantes</segment>
+    <segment id="97">, sem que haja uma explicação sobre a escolha.</segment>
+    <segment id="98">O documento técnico afirma ainda que o resultado da votação em cada município ou estado "deveria independer do modelo de fabricação da urna"</segment>
+    <segment id="99">, também ignorando a distribuição não aleatória dos modelos dentro de estado.</segment>
+    <segment id="100">Na peça jurídica</segment>
+    <segment id="101">, o PL não abraça a discussão estatística</segment>
+    <segment id="102">, masmas afirma que as urnas de modelo 2020 teriam sido distribuídas pela Justiça Eleitoral "em aparente quantidade proporcional e equitativa" por todos os estados.</segment>
+    <segment id="103">O documento também ignora a distribuição pelos municípios.</segment>
+    <segment id="104">O partido pede na ação que apenas os votos dessas urnas sejam considerados no segundo turno</segment>
+    <segment id="105">, dando 51</segment>
+    <segment id="106">,05%, para Bolsonaro.</segment>
+    <segment id="107">De acordo com o PL</segment>
+    <segment id="108">, esses seriam "os votos válidos e auditáveis do segundo turno"</segment>
+    <segment id="109">, devido ao erro nos logs.</segment>
+    <segment id="110">A impressão do professor de computação da UFSCar Paulo Matias é a de que o relatório apresentado pelo PL complementa a teoria fomentada anteriormente pelo argentino ao tentar vender uma base técnica de que esses modelos não seriam auditáveis.  "</segment>
+    <segment id="111">O uso do termo 'auditáveis' não encontrava ao menos uma definição no relatório apócrifo.</segment>
+    <segment id="112">Essa lacuna foi preenchida pelo relatório PL/IVL</segment>
+    <segment id="113">, que inventou uma definição para ‘urna auditável’"</segment>
+    <segment id="114">, afirma.</segment>
+    <segment id="115">VEJA REPORTAGENS</segment>
+    <segment id="116">SOBRE A SEGURANÇA DA URNAEntenda as etapas de fiscalização e auditoria das urnas eletrônicasEntenda o teste de integridade das urnas</segment>
+    <segment id="117">, que ocorre no dia da eleiçãoAo longo de novembro</segment>
+    <segment id="118">, Cerimedo</segment>
+    <segment id="119">, dono do canal "La Derecha Diário" e conhecido da família</segment>
+    <segment id="120">Bolsonaro</segment>
+    <segment id="121">,</segment>
+    <segment id="122">tornou-</segment>
+    <segment id="123">sese praticamente um herói para os bolsonaristas insatisfeitos com a derrota</segment>
+    <segment id="124">, atuando diariamente a favor das manifestações.</segment>
+    <segment id="125">Em entrevista por telefone à Folha</segment>
+    <segment id="126">, Cerimedo conta que começou a</segment>
+    <segment id="127">sese interessar pela eleição brasileira</segment>
+    <segment id="128">porque</segment>
+    <segment id="129">porque as conversas sobre fraude começaram a chamar atenção.</segment>
+    <segment id="130">Ele diz que "queria entender o comportamento eleitoral" e que</segment>
+    <segment id="131">, então</segment>
+    <segment id="132">, contratou uma empresa privada pequena para fazer uma auditoria.</segment>
+    <segment id="133">O relatório usado por Cerimedo na live já circulava em português em grupos de Telegram bolsonaristas dias antes.</segment>
+    <segment id="134">Segundo o argentino</segment>
+    <segment id="135">, foi ele quem passou o PDF a várias pessoas do Brasil</segment>
+    <segment id="136">, inclusive em outras línguas.</segment>
+    <segment id="137">Questionado sobre o nome da empresa que teria contratado</segment>
+    <segment id="138">, disse que não podia informar.</segment>
+    <segment id="139">"</segment>
+    <segment id="140">Não posso revelar o nome</segment>
+    <segment id="141">porque</segment>
+    <segment id="142">porque não foi um contrato</segment>
+    <segment id="143">, foi um favor.</segment>
+    <segment id="144">São amigos.</segment>
+    <segment id="145">"</segment>
+    <segment id="146">Segundo ele</segment>
+    <segment id="147">, seriam poucos rapazes que lidam com ciência de dados.  Fernando Cerimedo</segment>
+    <segment id="148">, responsável pelo canal &amp;quot</segment>
+    <segment id="149">;La Derecha Diário&amp;quot</segment>
+    <segment id="150">;, do YouTube - Reprodução YouTubeA equipe de fiscalização do PL é composta por membros do Instituto Voto Legal</segment>
+    <segment id="151">, que tem</segment>
+    <segment id="152">comocomo presidente Carlos Rocha.</segment>
+    <segment id="153">Em entrevista coletiva na última quarta-feira (23)</segment>
+    <segment id="154">, o presidente da sigla</segment>
+    <segment id="155">, Valdemar Costa Neto</segment>
+    <segment id="156">, disse que a equipe contratada pelo partido trouxe "um gênio lá de Uberlândia" para ajudar depois do segundo turno e que ele teria descoberto "esse problema que o nosso pessoal não tinha descoberto".</segment>
+    <segment id="157">Em seu relatório técnico</segment>
+    <segment id="158">, o IVL cita nove vezes uma empresa chamada Gaio.io</segment>
+    <segment id="159">, dizendo que utilizou uma "plataforma de análise inteligente de dados" da empresa.</segment>
+    <segment id="160">Não há menção no texto de qualquer representante da empresa</segment>
+    <segment id="161">, tampouco de que ela teria participado da fiscalização em si.</segment>
+    <segment id="162">Na representação jurídica</segment>
+    <segment id="163">, a Gaio não é mencionada.</segment>
+    <segment id="164">O endereço da empresa registrado no CNPJ é de Uberlândia e consta</segment>
+    <segment id="165">comocomo sócio-administrador o nome de Eder Lindsay Magalhaes Balbino.</segment>
+    <segment id="166">Em algumas das capturas de telas anexadas pelo IVL</segment>
+    <segment id="167">comocomo provas técnicas aparece a mensagem:</segment>
+    <segment id="168">"</segment>
+    <segment id="169">Você está visualizando a tela de Eder Balbino".</segment>
+    <segment id="170">A Folha enviou questionamentos ao IVL e a Gaio sobre</segment>
+    <segment id="171">comocomo</segment>
+    <segment id="172">sese deu a participação da empresa na fiscalização e</segment>
+    <segment id="173">sese houve uma parceria formal entre as duas e desde quando</segment>
+    <segment id="174">, masmas não obteve resposta.</segment>
+    <segment id="175">Os nomes do IVL foram indicados em junho ao TSE</segment>
+    <segment id="176">, depois de o PL desistir de credenciar o instituto diretamente.</segment>
+    <segment id="177">Para tanto</segment>
+    <segment id="178">, seria preciso comprovar que</segment>
+    <segment id="179">sese tratava de entidade privada sem fins lucrativos e "com notória atuação em fiscalização e transparência da gestão pública".</segment>
+    <segment id="180">O cadastro de abertura do IVL é de novembro do ano passado.</segment>
+    <segment id="181">O que Bolsonaro já disse sobre urnas e ameaças às eleições e ao TSEMais    novamente         de   de  de  representando um    Veja alguns pontos em comum entre argumentos usados pelo PL e conteúdos divulgados pelo consultor argentino.</segment>
+    <segment id="182">Urnas novas x urnas antigas</segment>
+    <segment id="183">Relatório sem autoria (2.nov)</segment>
+    <segment id="184">Um relatório de autoria desconhecida sobre as eleições lança a tese de que as urnas anteriores a 2020 não seriam auditadas.</segment>
+    <segment id="185">Ele diz que há vários indícios que tornariam</segment>
+    <segment id="186">"</segment>
+    <segment id="187">improvável a completa lisura do processo eleitoral de 2022" e que um dos principais deles seria a diferença de votação</segment>
+    <segment id="188">, de acordo com o modelo de urna</segment>
+    <segment id="189">, "em uma mesma região e população".</segment>
+    <segment id="190">No arquivo</segment>
+    <segment id="191">, aparecem análises estatísticas comparando a votação em urnas de modelos mais novos</segment>
+    <segment id="192">, as UE2020</segment>
+    <segment id="193">, e de modelos mais antigos</segment>
+    <segment id="194">, restringindo a municípios com até 100 mil ou 50 mil habitantes.</segment>
+    <segment id="195">Primeira live do argentino Fernando Cerimedo (4.nov)</segment>
+    <segment id="196">Transmissão ao vivo pelo consultor Fernando Cerimedo</segment>
+    <segment id="197">, no YouTube</segment>
+    <segment id="198">, impulsionou o questionamento baseado nos modelos de urnas.</segment>
+    <segment id="199">Feita com base no mesmo relatório que já vinha sendo divulgado há pelo menos dois dias</segment>
+    <segment id="200">, foi com ela que a nova teoria conspiratória deslanchou.</segment>
+    <segment id="201">Replicada em diversos outros vídeos e intensamente distribuída nos grupos</segment>
+    <segment id="202">, a live chegou a reunir mais de meio mihão de pessoas.</segment>
+    <segment id="203">Vídeo de Cerimedo (14.nov)</segment>
+    <segment id="204">Um dia antes do feriado da Proclamação da República</segment>
+    <segment id="205">, quando apoiadores de Bolsonaro organizavam atos em frente aos quartéis pelo país</segment>
+    <segment id="206">, Cerimedo divulgou um vídeo prometendo que faria uma live no dia seguinte em que mostraria "os logs das máquinas e as anomalias"</segment>
+    <segment id="207">, adiantando que haveria um "código pirata" e diferença entre os logs a depender do modelo das urnas.</segment>
+    <segment id="208">No vídeo constava que: "logs falsos foram encontrados nas urnas anteriores a 2020" e que</segment>
+    <segment id="209">, por outro lado</segment>
+    <segment id="210">, "nas urnas de 2020 não foram observados os logs piratas".</segment>
+    <segment id="211">Ação do PL (22.</segment>
+    <segment id="212">nov)</segment>
+    <segment id="213">O relatório técnico feito pelo Instituto Voto Legal (IVL)</segment>
+    <segment id="214">, anexado na ação do partido</segment>
+    <segment id="215">, diz que que sua análise "comprovou que são inválidos"</segment>
+    <segment id="216">os arquivos log de todos os modelos de urnas "diferentes do modelo UE2020</segment>
+    <segment id="217">, ou seja</segment>
+    <segment id="218">, de modelos antigos</segment>
+    <segment id="219">UE2009</segment>
+    <segment id="220">, UE2010</segment>
+    <segment id="221">, UE2011</segment>
+    <segment id="222">, UE2013 e 2015".</segment>
+    <segment id="223">Na ação</segment>
+    <segment id="224">, o PL pede a invalidação de votos depositados em urnas de modelos anteriores a 2020.</segment>
+    <segment id="225">O partido alega que eles seriam os únicos votos "válidos e auditáveis do segundo turno"</segment>
+    <segment id="226">, e dariam percentual de 51</segment>
+    <segment id="227">,05% dos votos a Bolsonaro.</segment>
+    <segment id="228">Sigilo do voto  Cerimedo (14.nov)</segment>
+    <segment id="229">Na mesma data em que falou do "código-pirata"</segment>
+    <segment id="230">, Cerimedo também disse que os logs das máquinas permitiram identificar "o nome de cada um e de todos os votantes e a atividade que fizeram".</segment>
+    <segment id="231">No Twitter</segment>
+    <segment id="232">, ele postou a reprodução de parte de uma planilha com o nome de alguns eleitores</segment>
+    <segment id="233">, na qual não constava qualquer dado sobre o voto em si.</segment>
+    <segment id="234">Em resposta a um usuário no Twitter que perguntou</segment>
+    <segment id="235">sese havia realmente os dados dos votos das pessoas</segment>
+    <segment id="236">, Cerimedo escreveu que não iria expor os eleitores</segment>
+    <segment id="237">, masmas que "da mesma forma que registra o nome</segment>
+    <segment id="238">, registra por qual número".</segment>
+    <segment id="239">Ação do PL (22.nov)</segment>
+    <segment id="240">Ação e relatório do PL relatam a questão fazendo referência</segment>
+    <segment id="241">comocomo sendo uma "violação do sigilo quanto ao ato de votar".</segment>
+    <segment id="242">"</segment>
+    <segment id="243">Tais dados</segment>
+    <segment id="244">, associados ao registro da hora exata em que o erro foi anotado no LOG da urna</segment>
+    <segment id="245">, certamente têm o condão de vulnerar a cláusula pétrea que garante a todo cidadão brasileiro o sigilo do voto</segment>
+    <segment id="246">, dada a potencialidade de identificação do eleitor"</segment>
+    <segment id="247">, diz a ação do partido.</segment>
+  </rst>
+</analysis>

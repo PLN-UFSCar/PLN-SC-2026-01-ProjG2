@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Cacau janta coladinha</segment>
+    <segment id="2">O encontro (quase romântico) foi com o cantor Luan Santanta 
+
+Parece que Eliéser</segment>
+    <segment id="3">, o ex-namorado da ex-BBB Cacau</segment>
+    <segment id="4">, estava certo ao insinuar no Twitter que a moça estava tendo um romance com o cantor Luan Santana.</segment>
+    <segment id="5">Apesar de Cacau negar o namoro com o jovem sertanejo</segment>
+    <segment id="6">, os dois foram vistos juntinhos depois do show no Viradão Carioca</segment>
+    <segment id="7">, no último domingo</segment>
+    <segment id="8">, no Rio.</segment>
+    <segment id="9">O cantor e a ex-BBB foram jantar em um restaurante japonês.</segment>
+  </rst>
+</analysis>

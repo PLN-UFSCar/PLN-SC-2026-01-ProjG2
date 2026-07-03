@@ -1,0 +1,58 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Microsoft deve embolsar quase um quarto dos fundos de socorro da Covid destinados à cibersegurança dos EUA</segment>
+    <segment id="2">, disseram fontes à Reuters</segment>
+    <segment id="3">, irritando alguns parlamentares que não querem aumentar o financiamento a uma empresa cujo software foi recentemente alvo de dois grandes ataques.</segment>
+    <segment id="4">O Congresso alocou os recursos no projeto de lei de medidas de alívio aos impactos da Covid-19 assinado na quinta-feira</segment>
+    <segment id="5">, depois que dois ataques cibernéticos aproveitaram pontos fracos de produtos da Microsoft para atingir redes de computadores em agências federais e locais</segment>
+    <segment id="6">, além de dezenas de milhares de empresas.</segment>
+    <segment id="7">Dois ataques cibernéticos aproveitaram pontos fracos de produtos da Microsoft para atingir redes de computadores em agências federais nos Estados Unidos - Dado Ruvic/Reuters  "</segment>
+    <segment id="8">Se a única solução para uma grande violação em que os hackers exploram uma falha de design há muito ignorada pela Microsoft é dar mais dinheiro à Microsoft</segment>
+    <segment id="9">, o governo precisa reavaliar sua dependência da Microsoft"</segment>
+    <segment id="10">, disse o senador do Oregon Ron Wyden.  "</segment>
+    <segment id="11">O governo não deveria recompensar uma empresa que vendeu software inseguro com contratos governamentais ainda maiores.</segment>
+    <segment id="12">"</segment>
+    <segment id="13">Um plano de gastos da Agência de Infraestrutura de Cibersegurança aloca mais de US$ 150 milhões de seu novo orçamento de US$ 650 milhões para uma "plataforma de nuvem segura"</segment>
+    <segment id="14">, de acordo com documentos vistos pela Reuters e pessoas familiarizadas com o assunto.</segment>
+    <segment id="15">Mais precisamente</segment>
+    <segment id="16">, o dinheiro foi alocado para a Microsoft</segment>
+    <segment id="17">, de acordo com quatro pessoas informadas sobre a escolha</segment>
+    <segment id="18">, em grande parte para ajudar outras agências federais a atualizar seus acordos existentes com a empresa para melhorar a segurança de seus sistemas.</segment>
+    <segment id="19">Um porta-voz da agência não comentou o assunto.</segment>
+    <segment id="20">Um serviço importante que a Microsoft oferece</segment>
+    <segment id="21">, conhecido</segment>
+    <segment id="22">comocomo 'logging' de atividades</segment>
+    <segment id="23">, permite que seus clientes monitorem o tráfego de dados em sua parte da nuvem e identifiquem inconsistências que podem revelar hackers.</segment>
+    <segment id="24">Dicas de segurança e privacidade em redes sociaisMais    novamente         de   de  de  representando um  Autoridades buscaram acesso ao recurso premium de rastreamento da Microsoft depois de descobrir que a falta de 'logs' tornou muito mais difícil investigar ataques recentes.</segment>
+    <segment id="25">A Microsoft disse no domingo que</segment>
+    <segment id="26">, embora</segment>
+    <segment id="27">embora todos os seus produtos em nuvem tenham recursos de segurança</segment>
+    <segment id="28">, "organizações maiores podem exigir recursos mais avançados</segment>
+    <segment id="29">, como</segment>
+    <segment id="30">como uma maior profundidade de 'logs' de segurança e a capacidade de investigar esses 'logs' e tomar medidas".</segment>
+    <segment id="31">Embora algumas autoridades cibernéticas dos EUA sintam que não têm escolha a não ser pagar</segment>
+    <segment id="32">, Wyden e três outros parlamentares relataram publicamente suas preocupações.</segment>
+  </rst>
+</analysis>

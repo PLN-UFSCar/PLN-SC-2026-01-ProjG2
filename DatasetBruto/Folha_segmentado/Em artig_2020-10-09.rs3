@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A ministra Tereza Cristina (Agricultura) enviou um artigo a investidores da Inglaterra com argumentos para rebater acusações sobre a destruição da Amazônia para a produção de alimentos.</segment>
+    <segment id="2">O documento está sendo distribuído pela embaixada brasileira.</segment>
+    <segment id="3">Na última segunda (5)</segment>
+    <segment id="4">, 20 companhias</segment>
+    <segment id="5">, entre as quais a Nestlé e o McDonald’s</segment>
+    <segment id="6">, enviaram uma carta ao governo britânico pedindo que sejam barradas importações de produtos associados ao desmatamento.</segment>
+    <segment id="7">A ministra afirma que a produção de alimentos não é feita na Amazônia</segment>
+    <segment id="8">, masmas no Centro-Oeste e no Sudeste.</segment>
+    <segment id="9">“</segment>
+    <segment id="10">A extração ilegal de madeira e os incêndios florestais são problemas muito sérios</segment>
+    <segment id="11">, masmas não causam o aquecimento global.</segment>
+    <segment id="12">Narrativas enganosas dessa realidade não contribuem para resolver o problema</segment>
+    <segment id="13">, masmas sim para agravar a polarização e prejudicar a cooperação entre os países”</segment>
+    <segment id="14">, diz o artigo.</segment>
+    <segment id="15">VEJA TEMAS ABORDADOS PELA COLUNAEfeito eleitoral de ajuste fiscal de Doria assusta Covas e afasta bolsonaristas de RussomannoJustiça suspende propaganda de Boulos com Wagner Moura por infração eleitoralEm artigo a europeus</segment>
+    <segment id="16">, Tereza Cristina diz que narrativas enganosas não ajudam a combater incêndiosParlamentares planejam ir a Fux por julgamento de delação da JBSMinistros do STF vão em almoço com Doria e indicação de Kassio Nunes vira assunto</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,128 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">As pessoas estão mais estressadas</segment>
+    <segment id="2">, tristes e preocupadas</segment>
+    <segment id="3">, de acordo com uma pesquisa global.</segment>
+    <segment id="4">Comparado com o fim da última década (2009)</segment>
+    <segment id="5">, o sentimento de sofrimento global passou de 25% para 31% em 2021 em todo o mundo.</segment>
+    <segment id="6">Somente em 2020</segment>
+    <segment id="7">, no primeiro ano da pandemia</segment>
+    <segment id="8">, o aumento foi de 2</segment>
+    <segment id="9">,5 pontos percentuais</segment>
+    <segment id="10">, embora</segment>
+    <segment id="11">embora depois tenha sido registrada uma queda em 2021</segment>
+    <segment id="12">, ainda acima do nível pré-pandêmico.</segment>
+    <segment id="13">Os dados foram publicados em um artigo nesta segunda (27) na revista científica PNAS (Proceedings of the National Academy of Sciences)</segment>
+    <segment id="14">, ligada à Academia Nacional de Ciências americana.</segment>
+    <segment id="15">Centro de Atenção Psicossocial do Oiapoque</segment>
+    <segment id="16">, no Amapá   - Adriano Vizoni - 8.jun.22/FolhapressO estudo</segment>
+    <segment id="17">, conduzido por Michael Daly</segment>
+    <segment id="18">, da Universidade de Maynooth (Irlanda)</segment>
+    <segment id="19">, e Lucía Macchia</segment>
+    <segment id="20">, da Universidade Cidade de Londres (Reino Unido)</segment>
+    <segment id="21">, buscou identificar as tendências globais de sentimentos de aflição e estresse</segment>
+    <segment id="22">, que podem estar ligados a uma piora na saúde mental.</segment>
+    <segment id="23">De acordo com os pesquisadores</segment>
+    <segment id="24">, dados regionais de aumento dos sentimentos de tristeza e estresse nos Estados Unidos e Reino Unido já eram conhecidos desde a década de 1990</segment>
+    <segment id="25">, masmas pouco</segment>
+    <segment id="26">sese sabia sobre a tendência global.</segment>
+    <segment id="27">Os cientistas então utilizaram os dados de uma plataforma chamada Gallup (Bases de Dados Globais para Uso Público</segment>
+    <segment id="28">, em inglês) com informações de mais de 1</segment>
+    <segment id="29">,53 milhão de adultos de 113 países</segment>
+    <segment id="30">, incluindo o Brasil</segment>
+    <segment id="31">, de 2009 a 2021.</segment>
+    <segment id="32">O questionário continha dados sociodemográficos</segment>
+    <segment id="33">, como</segment>
+    <segment id="34">como idade</segment>
+    <segment id="35">, sexo</segment>
+    <segment id="36">, renda mensal e escolaridade</segment>
+    <segment id="37">, e perguntas sobre sentimentos de estresse e tristeza —"</segment>
+    <segment id="38">Você experimentou os seguintes sentimentos por uma parcela significativa no dia anterior?</segment>
+    <segment id="39">"— com respostas sim e não.</segment>
+    <segment id="40">Cada resposta era codificada (zero para não e um para sim) e</segment>
+    <segment id="41">, com base nos dados</segment>
+    <segment id="42">, foram quantificadas em porcentagens para analisar o aumento da sensação de sofrimento.</segment>
+    <segment id="43">A análise de sensação de sofrimento levou em consideração as sensações pessoais e</segment>
+    <segment id="44">, assim</segment>
+    <segment id="45">, não pode ser utilizada para avaliar a prevalência populacional de ansiedade e depressão</segment>
+    <segment id="46">, afirmam os autores.</segment>
+    <segment id="47">No entanto</segment>
+    <segment id="48">, é possível que esse quadro tenha piorado após a pandemia</segment>
+    <segment id="49">, especialmente nos mais jovens.</segment>
+    <segment id="50">Segundo o estudo</segment>
+    <segment id="51">, globalmente os sentimentos de tristeza e estresse aumentaram em todas as categorias e grupos etários</segment>
+    <segment id="52">, masmas ele foi maior em pessoas com até o ensino fundamental completo (aumento de 9</segment>
+    <segment id="53">,53%) e com a menor renda familiar (aumento de 7</segment>
+    <segment id="54">,27%).</segment>
+    <segment id="55">As mulheres (6</segment>
+    <segment id="56">,75%) e pessoas mais jovens</segment>
+    <segment id="57">, com 35 anos ou menos (6</segment>
+    <segment id="58">,87%), também tiveram o maior aumento de sensação de estresse e tristeza na última década.</segment>
+    <segment id="59">Quando considerados os três sentimentos independentes</segment>
+    <segment id="60">, os de estresse (9</segment>
+    <segment id="61">,97%), tristeza (6</segment>
+    <segment id="62">,31%) e preocupação (6</segment>
+    <segment id="63">,22%) registraram aumento significativo de 2009 a 2021</segment>
+    <segment id="64">, enquanto ódio não teve uma subida estatisticamente significativa no mesmo período.</segment>
+    <segment id="65">Já considerando o aumento de 2020 para 2021</segment>
+    <segment id="66">, a pandemia piorou os sentimentos de tristeza e estresse em todos os grupos exceto nos adultos com 55 anos ou mais e naqueles indivíduos com a escolaridade e renda mensal mais baixas.</segment>
+    <segment id="67">Embora seja um aumento significativo</segment>
+    <segment id="68">, os pesquisadores afirmam que esse aumento a curto prazo ainda precisa de maior monitoramento para confirmar</segment>
+    <segment id="69">sese será superior ao observado em anos pré-pandêmicos.</segment>
+    <segment id="70">Para Michael Daly</segment>
+    <segment id="71">, professor associado do Departamento de Psicologia da Universidade de Maynooth</segment>
+    <segment id="72">, o aumento da sensação de tristeza e estresse nos jovens com 35 anos ou menos demonstra uma série de fatores aos quais eles são expostos diariamente</segment>
+    <segment id="73">, a começar pelas pressões frente ao mundo pós-crise.</segment>
+    <segment id="74">"</segment>
+    <segment id="75">Algumas explicações possíveis no período analisado incluem o período após a crise econômica global de 2008</segment>
+    <segment id="76">, em que as incertezas econômicas relacionadas à segurança no trabalho e às dívidas contraídas foram vivenciadas por muitas pessoas</segment>
+    <segment id="77">, masmas tiveram um impacto particular nos adultos e grupos menos poderosos.</segment>
+    <segment id="78">"</segment>
+    <segment id="79">O que é depressãoMais    novamente         de   de  de  representando um  Neste sentido</segment>
+    <segment id="80">, a pandemia da Covid também teve um efeito maior na saúde mental dos jovens</segment>
+    <segment id="81">, como</segment>
+    <segment id="82">como também foi evidenciado em estudos feitos no Brasil.</segment>
+    <segment id="83">De acordo com a OMS (Organização Mundial da Saúde)</segment>
+    <segment id="84">, houve um aumento de 25% da prevalência global de ansiedade e depressão no primeiro ano da pandemia</segment>
+    <segment id="85">, e os dados da última pesquisa Vigitel (Vigilância de Fatores de Risco e Proteção para Doenças Crônicas por inquérito Telefônico) de 2021 apontam que 13</segment>
+    <segment id="86">,5% da população brasileira teve diagnóstico de depressão.</segment>
+    <segment id="87">São os jovens e as mulheres que mais sofrem com exaustão e preocupação constante no trabalho</segment>
+    <segment id="88">, segundo um estudo desenvolvido pela UFRJ.</segment>
+    <segment id="89">"</segment>
+    <segment id="90">A disrupção social foi maior para adultos jovens</segment>
+    <segment id="91">, que tendem a desenvolver relações sociais maiores e mais diferenciadas em vez de manter um mesmo grupo com quem</segment>
+    <segment id="92">sese relaciona com frequência.</segment>
+    <segment id="93">As experiências podem</segment>
+    <segment id="94">, inclusive</segment>
+    <segment id="95">, sese sobrepor a sentimentos de depressão e ansiedade (e também de tristeza e preocupação) e geram uma preocupação de aumento desses sintomas</segment>
+    <segment id="96">, levando a aumento de diagnósticos"</segment>
+    <segment id="97">, afirma o pesquisador.</segment>
+    <segment id="98">"</segment>
+    <segment id="99">Também há a possibilidade de que uma maior conscientização e aceitação dos problemas mentais e emocionais possam explicar o aumento [do sofrimento] nos mais jovens</segment>
+    <segment id="100">, embora</segment>
+    <segment id="101">embora isso não explicaria a subida também nos grupos menos escolarizados"</segment>
+    <segment id="102">, diz Daly.</segment>
+  </rst>
+</analysis>

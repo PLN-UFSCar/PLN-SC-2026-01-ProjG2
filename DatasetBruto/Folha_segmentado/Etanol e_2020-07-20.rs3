@@ -1,0 +1,101 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O elefante é o animal terrestre mais pesado do nosso planeta.</segment>
+    <segment id="2">Pesa, em média</segment>
+    <segment id="3">, cinco toneladas.</segment>
+    <segment id="4">Imagine agora 100 milhões deles</segment>
+    <segment id="5">, acomodados em uma gigantesca balança</segment>
+    <segment id="6">, cujo prato teria um tamanho equivalente a toda a área do município de São Paulo.</segment>
+    <segment id="7">O resultado dessa hipotética pesagem seria ainda menor do que o a quantidade de CO2 (dióxido de carbono) que o uso do etanol nos automóveis no Brasil evitou nos últimos 17 anos.</segment>
+    <segment id="8">De fato</segment>
+    <segment id="9">, cerca de 515 milhões de toneladas de gases de efeito estufa deixaram de ser despejadas na atmosfera desde o início dos carros flex no Brasil em 2003</segment>
+    <segment id="10">, por conta do nosso etanol.</segment>
+    <segment id="11">Esse biocombustível</segment>
+    <segment id="12">, produzido a partir da cana-de-açúcar</segment>
+    <segment id="13">, é capaz de reduzir as emissões em até 90% quando comparado com a gasolina</segment>
+    <segment id="14">, além de zerar a dispersão poluentes nocivos à saúde.</segment>
+    <segment id="15">Fila de carros na marginal Tietê</segment>
+    <segment id="16">, em São Paulo</segment>
+    <segment id="17">; com etanol</segment>
+    <segment id="18">, cerca de 515 milhões de toneladas de gases de efeito estufa deixaram de ser despejadas na atmosfera -Adriano Vizoni/Folhapress  Temos uma rica história na área de mobilidade sustentável.</segment>
+    <segment id="19">O Brasil</segment>
+    <segment id="20">, desde meados dos anos 1970</segment>
+    <segment id="21">, adotou a mistura do etanol na gasolina e já naquele período lançou o carro 100% movido a álcool</segment>
+    <segment id="22">, como</segment>
+    <segment id="23">como resposta à crise do petróleo.</segment>
+    <segment id="24">Tornamos</segment>
+    <segment id="25">, assim</segment>
+    <segment id="26">, sustentáveis os carros com motores a combustão.</segment>
+    <segment id="27">No início deste século</segment>
+    <segment id="28">, fomos novamente pioneiros na produção e uso dos automóveis com motores flex em larga escala e</segment>
+    <segment id="29">, em menos de 20 anos</segment>
+    <segment id="30">, essa tecnologia já está presente em 80% da frota.</segment>
+    <segment id="31">No ano passado</segment>
+    <segment id="32">, o Brasil saiu novamente na frente</segment>
+    <segment id="33">, com o lançamento mundial do primeiro carro híbrido-flex e já estão no forno novas tecnologias a exemplo da motorização via célula de combustível que retira do etanol o hidrogênio para alimentar suas baterias.</segment>
+    <segment id="34">O etanol faz também uma diferença fundamental para a nossa saúde.</segment>
+    <segment id="35">A combustão limpa desse biocombustível evita a dispersão de diversas substâncias prejudiciais à saúde emitidas por combustíveis fósseis</segment>
+    <segment id="36">, como</segment>
+    <segment id="37">como o MP 2.5 (material particulado fino).</segment>
+    <segment id="38">Esse poluente é capaz de penetrar em pontos mais profundos dos pulmões e o uso do etanol tem evitado milhares de mortes e internações por doenças respiratórias e cardiovasculares no Brasil.</segment>
+    <segment id="39">Cabe ainda destacar estudo recente de Harvard que concluiu que o aumento de apenas 1% na concentração desses materiais particulados no ar resulta em um incremento de 8% das mortes pela Covid-19.</segment>
+    <segment id="40">Por conta do nosso biocombustível</segment>
+    <segment id="41">, sese compararmos São Paulo com outras megalópoles globais do mesmo porte</segment>
+    <segment id="42">, a diferença é abismal.</segment>
+    <segment id="43">Em Nova Déli</segment>
+    <segment id="44">, na Índia</segment>
+    <segment id="45">, por exemplo</segment>
+    <segment id="46">, a média do MP 2.5 em 2019 foi de 99 µg/m³</segment>
+    <segment id="47">, segundo o iQAir.</segment>
+    <segment id="48">Na Região Metropolitana de São Paulo</segment>
+    <segment id="49">, por sua vez</segment>
+    <segment id="50">, a média naquele ano foi cinco vezes inferior (17 µg/m³) e dentro dos limites recomendados pela Organização Mundial de Saúde</segment>
+    <segment id="51">, de 20 µg/m³ de MP 2.5.</segment>
+    <segment id="52">A partir desse ano</segment>
+    <segment id="53">, o Brasil cristaliza os benefícios ambientais e socioeconômicos dessa indústria verde ao lançar uma moderna política pública</segment>
+    <segment id="54">, reconhecida</segment>
+    <segment id="55">comocomo exemplo até pela IEA (Agência Internacional de Energia).</segment>
+    <segment id="56">Trata-</segment>
+    <segment id="57">sese do RenovaBio</segment>
+    <segment id="58">, o maior programa de descarbonização da matriz de transportes do mundo</segment>
+    <segment id="59">, que entrou em operação este ano e estabelece metas anuais de redução da intensidade de carbono</segment>
+    <segment id="60">, seja por meio da maior participação de biocombustíveis ou pela compensação das CBIOs (emissões com créditos de carbono).</segment>
+    <segment id="61">Uma resposta efetiva ao Acordo de Paris</segment>
+    <segment id="62">, na Conferência do Clima.</segment>
+    <segment id="63">Gestão Trump retira EUA de acordos internacionais   novamente         de   de  de  representando um</segment>
+    <segment id="64">É preciso avançar.</segment>
+    <segment id="65">No horizonte de uma década</segment>
+    <segment id="66">, o RenovaBio tem</segment>
+    <segment id="67">comocomo objetivo</segment>
+    <segment id="68">, por meio dos CBIOs</segment>
+    <segment id="69">, retirar quase 700 milhões de toneladas de dióxido de carbono da atmosfera</segment>
+    <segment id="70">, possibilitando que o país cumpra seus compromissos ambientais</segment>
+    <segment id="71">, um peso equivalente a 150 milhões de elefantes.</segment>
+    <segment id="72">E sese a antiga cantiga infantil já nos dizia que “um elefante incomoda muita gente”</segment>
+    <segment id="73">, imaginem centenas de milhões desses paquidermes</segment>
+    <segment id="74">, sob a forma de gases de efeito estufa</segment>
+    <segment id="75">, despejados em nossa atmosfera.</segment>
+  </rst>
+</analysis>

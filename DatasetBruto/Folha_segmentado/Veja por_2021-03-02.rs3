@@ -1,0 +1,151 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Diante da alta de casos e mortes de Covid-19 no Brasil</segment>
+    <segment id="2">, dúvidas sobre sintomas e testes para a doença podem surgir (ou ressurgir).</segment>
+    <segment id="3">Veja quais são os sinais mais comuns e</segment>
+    <segment id="4">comocomo agir.</segment>
+    <segment id="5">Sintomas  Tosse seca</segment>
+    <segment id="6">, fadiga</segment>
+    <segment id="7">, dor de cabeça</segment>
+    <segment id="8">, febre ou perda do olfato são os sintomas mais comuns da Covid-19.</segment>
+    <segment id="9">Em alguns casos</segment>
+    <segment id="10">, menos comuns</segment>
+    <segment id="11">, há também efeitos no intestino.</segment>
+    <segment id="12">É importante</segment>
+    <segment id="13">sese isolar assim que os sintomas começarem</segment>
+    <segment id="14">, mesmo sem a confirmação</segment>
+    <segment id="15">, para evitar que outras pessoas sejam infectadas.</segment>
+    <segment id="16">A transmissão</segment>
+    <segment id="17">, porém</segment>
+    <segment id="18">porém, pode começar pouco mais de dois dias antes do início dos sintomas</segment>
+    <segment id="19">, por isso</segment>
+    <segment id="20">, é importante também avisar pessoas com quem houve contato para quebrar o ciclo de disseminação da doença.</segment>
+    <segment id="21">Qual teste fazer?</segment>
+    <segment id="22">A indicação da SBI (Sociedade Brasileira de Infectologia) é fazer o teste PCR</segment>
+    <segment id="23">, que coleta material da região da nasofaringe com o auxílio de um swab (um tipo de cotonete comprido).</segment>
+    <segment id="24">O teste é considerado padrão ouro para o diagnóstico da infecção aguda</segment>
+    <segment id="25">, ou seja</segment>
+    <segment id="26">, para saber</segment>
+    <segment id="27">sese a pessoa está ou não infectada naquele momento.</segment>
+    <segment id="28">O exame</segment>
+    <segment id="29">, porém</segment>
+    <segment id="30">porém, não exclui a possibilidade de falsos-negativos (ou seja</segment>
+    <segment id="31">, de a pessoa estar com o vírus</segment>
+    <segment id="32">masmas o resultado dar negativo).</segment>
+    <segment id="33">Por isso</segment>
+    <segment id="34">, sese o teste der negativo</segment>
+    <segment id="35">masmas houver forte suspeita clínica</segment>
+    <segment id="36">, com sintomas compatíveis</segment>
+    <segment id="37">, a pessoa deve permanecer em isolamento mesmo assim por</segment>
+    <segment id="38">, pelo menos</segment>
+    <segment id="39">, dez dias.</segment>
+    <segment id="40">O teste de antígenos é mais barato e mais rápido que o PCR e também é uma possibilidade</segment>
+    <segment id="41">, segundo a SBI.</segment>
+    <segment id="42">Mas a sensibilidade dele é inferior à encontrada no PCR.</segment>
+    <segment id="43">Novamente</segment>
+    <segment id="44">, um resultado negativo não necessariamente descarta a infecção pelo Sars-CoV-2.</segment>
+    <segment id="45">Já os teste sorológicos (exames de sangue)</segment>
+    <segment id="46">, que podem ser encontrados em farmácias</segment>
+    <segment id="47">, por exemplo</segment>
+    <segment id="48">, não são indicados para detectar</segment>
+    <segment id="49">sese a pessoa está com o vírus.</segment>
+    <segment id="50">Eles buscam os anticorpos contra o Sars-CoV-2 no sangue e</segment>
+    <segment id="51">, por isso</segment>
+    <segment id="52">, servem somente para apontar uma infecção anterior.</segment>
+    <segment id="53">Quando fazer o teste?</segment>
+    <segment id="54">Para diminuir a chance de erro</segment>
+    <segment id="55">, a recomendação é que o PCR seja feito na primeira semana de sintomas</segment>
+    <segment id="56">, entre o terceiro e o sétimo dia após o início dos sintomas.</segment>
+    <segment id="57">Fazer o teste no mesmo dia em que os sintomas aparecerem pode não trazer resultados fidedignos.</segment>
+    <segment id="58">O mesmo vale para o teste de antígenos</segment>
+    <segment id="59">, que deve ser feito na primeira semana.</segment>
+    <segment id="60">Drive-thru de testes de Covid-19 no Shopping SP</segment>
+    <segment id="61">Market   novamente         de   de  de  representando um  O que os resultados significam?</segment>
+    <segment id="62">Um teste de coronavírus pode produzir um de três resultados: positivo (vírus detectado)</segment>
+    <segment id="63">, negativo (vírus não detectado) ou inconclusivo.</segment>
+    <segment id="64">Positivo:</segment>
+    <segment id="65">Quer dizer que você deve continuar em casa</segment>
+    <segment id="66">, isolado e deve alertar as pessoas com quem esteve nos últimos dias.</segment>
+    <segment id="67">Também vale a pena entrar em contato (via teleconsulta</segment>
+    <segment id="68">, por exemplo</segment>
+    <segment id="69">, evitando assim deslocamento e a chance de contaminar outras pessoas) com um médico para receber orientações.</segment>
+    <segment id="70">Isso se</segment>
+    <segment id="71">se torna ainda mais importante</segment>
+    <segment id="72">casocaso você</segment>
+    <segment id="73">sese sinta mal.</segment>
+    <segment id="74">Negativo:</segment>
+    <segment id="75">Por mais tranquilizador que seja de início</segment>
+    <segment id="76">, não se</segment>
+    <segment id="77">se trata de passe livre</segment>
+    <segment id="78">, especialmente</segment>
+    <segment id="79">sese você estiver com sintomas compatíveis.</segment>
+    <segment id="80">Todos os cuidados permanecem iguais</segment>
+    <segment id="81">, principalmente pela possibilidade de falso-negativo —o vírus pode apenas ainda não ter alcançado um nível detectável.</segment>
+    <segment id="82">Inconclusivo:</segment>
+    <segment id="83">Isso pode acontecer</segment>
+    <segment id="84">porque</segment>
+    <segment id="85">porque a amostra está inadequada ou contaminada ou ainda</segment>
+    <segment id="86">porque</segment>
+    <segment id="87">porque ela</segment>
+    <segment id="88">sese perdeu.</segment>
+    <segment id="89">Pode-se</segment>
+    <segment id="90">se fazer um novo teste</segment>
+    <segment id="91">, masmas</segment>
+    <segment id="92">, dependendo de quanto tempo levará o resultado</segment>
+    <segment id="93">, talvez seja mais fácil simplesmente completar o tempo de isolamento.</segment>
+    <segment id="94">Quando procurar ajuda?</segment>
+    <segment id="95">Os sintomas</segment>
+    <segment id="96">, em geral</segment>
+    <segment id="97">, melhoram depois de alguns dias</segment>
+    <segment id="98">, masmas é importante ficar atento para o</segment>
+    <segment id="99">casocaso de eles não passarem ou piorarem.</segment>
+    <segment id="100">Em casos de falta de ar</segment>
+    <segment id="101">, desconforto respiratório e coloração azul da pele na boca e em outras extremidades do corpo</segment>
+    <segment id="102">, deve-</segment>
+    <segment id="103">sese procurar um pronto-atendimento imediatamente.</segment>
+    <segment id="104">Um oxímetro (aparelho mede o nível de oxigênio no sangue) é um bom companheiro para quem está em isolamento em casa com Covid.</segment>
+    <segment id="105">Ele é importante principalmente para evitar a hipóxia silenciosa</segment>
+    <segment id="106">, quando a pessoa não está com saturação adequada de oxigênio no sangue</segment>
+    <segment id="107">, masmas não tem sintomas condizentes com isso (</segment>
+    <segment id="108">comocomo falta de ar).</segment>
+    <segment id="109">Oxigenação inferior a 95% requer a busca por atendimento médico.</segment>
+    <segment id="110">Quando interromper o isolamento?</segment>
+    <segment id="111">Segundo dados atualizados em fevereiro de 2021 pelo CDC (Centro de Controle de Doenças dos EUA)</segment>
+    <segment id="112">, pessoas que tiveram Covid leve ou moderada podem interromper o isolamento depois de dez dias</segment>
+    <segment id="113">, contados a partir do 1º dia de sintomas e com a melhora dos demais sintomas.</segment>
+    <segment id="114">O mesmo tempo de isolamento</segment>
+    <segment id="115">sese aplica para pessoas que não tiveram sintomas.</segment>
+    <segment id="116">Nesse caso</segment>
+    <segment id="117">caso, deve-</segment>
+    <segment id="118">sese contar os dez dias a partir do resultado positivo do PCR.</segment>
+    <segment id="119">Para os que tiveram Covid grave</segment>
+    <segment id="120">, o isolamento pode durar até 20 dias</segment>
+    <segment id="121">, pela possibilidade de ainda haver replicação de vírus e</segment>
+    <segment id="122">, consequentemente</segment>
+    <segment id="123">, a chance de infectar outras pessoas.</segment>
+    <segment id="124">Para pessoas com problemas de imunidade</segment>
+    <segment id="125">, a duração do isolamento pode ser superior aos 20 dias.</segment>
+  </rst>
+</analysis>

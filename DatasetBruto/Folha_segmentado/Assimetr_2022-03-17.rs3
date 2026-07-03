@@ -1,0 +1,213 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Novos resultados vindos de um dos experimentos instalados no LHC</segment>
+    <segment id="2">, o maior acelerador de partículas do mundo</segment>
+    <segment id="3">, podem trazer pistas do que estaria faltando em nossa compreensão da física de partículas e</segment>
+    <segment id="4">, de quebra</segment>
+    <segment id="5">, ajudar a explicar por que o Universo é feito de matéria</segment>
+    <segment id="6">, e não de antimatéria.</segment>
+    <segment id="7">O trabalho</segment>
+    <segment id="8">, que tem forte participação brasileira (centrada no Centro Brasileiro de Pesquisas Físicas</segment>
+    <segment id="9">, no Rio de Janeiro)</segment>
+    <segment id="10">, foi apresentado durante um seminário do Cern (Centro Europeu de Física de Partículas</segment>
+    <segment id="11">, localizado em Genebra</segment>
+    <segment id="12">, na Suíça) na última terça (15)</segment>
+    <segment id="13">, masmas ainda não rendeu um artigo científico publicado em periódico com revisão por pares —isso está sendo retardado em razão da invasão russa na Ucrânia.</segment>
+    <segment id="14">O LHC (sigla inglesa para Grande Colisor de Hádrons) é um enorme circuito fechado de 27 km em que supercondutores</segment>
+    <segment id="15">, por meio de campos magnéticos</segment>
+    <segment id="16">,</segment>
+    <segment id="17">aceleram prótons a altíssimas velocidades</segment>
+    <segment id="18">, para depois fazê-los colidir de frente um com o outro.</segment>
+    <segment id="19">O detector do experimento LHCb</segment>
+    <segment id="20">, no maior acelerador de partículas do mundo</segment>
+    <segment id="21">, aberto para início da atualização do sistema após a segunda tomada de dados</segment>
+    <segment id="22">, em 2018 - Cern/DivulgaçãoPara quê?</segment>
+    <segment id="23">Quando esses prótons colidem</segment>
+    <segment id="24">, sua massa e toda a energia de movimento acumulada (conforme eles são acelerados a velocidades próximas à da luz) são convertidas em uma torrente de partículas de todo tipo</segment>
+    <segment id="25">, que então são analisadas por detectores instalados em vários pontos ao redor do anel.</segment>
+    <segment id="26">Cada um desses pontos tem um experimento específico</segment>
+    <segment id="27">, e dessa vez estamos falando do LHCb</segment>
+    <segment id="28">, um dos quatro mais importantes instalados no acelerador.</segment>
+    <segment id="29">Outros dois</segment>
+    <segment id="30">, CMS e Atlas</segment>
+    <segment id="31">, ficaram famosos em 2012</segment>
+    <segment id="32">, quando foi anunciada a descoberta do bóson de Higgs</segment>
+    <segment id="33">, celebrado</segment>
+    <segment id="34">comocomo a figurinha que faltava para completar o álbum do chamado modelo padrão da física de partículas.</segment>
+    <segment id="35">Esse é o nome que</segment>
+    <segment id="36">sese dá ao amplo arcabouço teórico que reúne todas as partículas conhecidas e suas interações.</segment>
+    <segment id="37">É um resumão de tudo que entendemos sobre os componentes do universo</segment>
+    <segment id="38">, escorado na mecânica quântica (excluída apenas a força da gravidade</segment>
+    <segment id="39">, por motivos que até hoje os físicos coçam a cabeça para entender).</segment>
+    <segment id="40">Todo mundo festejou a descoberta do Higgs</segment>
+    <segment id="41">, rendeu Prêmio Nobel e tal</segment>
+    <segment id="42">, masmas depois da alegria restou a angústia: há muitos motivos para acreditar que o modelo padrão está incompleto.</segment>
+    <segment id="43">A matéria escura</segment>
+    <segment id="44">, por exemplo</segment>
+    <segment id="45">, sabemos que existe (</segment>
+    <segment id="46">porque</segment>
+    <segment id="47">porque tem efeitos gravitacionais astrofísicos notáveis)</segment>
+    <segment id="48">, masmas não tem correspondência com nada no modelo padrão.</segment>
+    <segment id="49">E, claro</segment>
+    <segment id="50">, há questões fundamentais ainda a serem respondidas</segment>
+    <segment id="51">, como</segment>
+    <segment id="52">como a composição da matéria do cosmos</segment>
+    <segment id="53">, que não encontram resposta no modelo.</segment>
+    <segment id="54">Entra em cena o LHCb</segment>
+    <segment id="55">, com um resultado que pode começar a ajudar a superar o que os físicos</segment>
+    <segment id="56">comocomo Rogério Rosenfeld</segment>
+    <segment id="57">, da Unesp (e não envolvido com o atual trabalho)</segment>
+    <segment id="58">, chamam de pHd: "post-Higgs depression"</segment>
+    <segment id="59">, ou depressão pós-Higgs.</segment>
+    <segment id="60">Seu foco é estudar o processo de decaimento de partículas instáveis conhecidas</segment>
+    <segment id="61">comocomo mésons</segment>
+    <segment id="62">B. Elas são compostas por um quark e um antiquark</segment>
+    <segment id="63">, sendo que esse antiquark é do tipo b (de bottom</segment>
+    <segment id="64">, ou beauty).</segment>
+    <segment id="65">Se você nunca ouviu falar nos quarks</segment>
+    <segment id="66">, não se</segment>
+    <segment id="67">se sinta mal.</segment>
+    <segment id="68">Eles não existem avulsos no universo</segment>
+    <segment id="69">, exceto em situações extremas.</segment>
+    <segment id="70">Sua combinação mais estável e típica é em trios</segment>
+    <segment id="71">, onde eles formam os conhecidíssimos prótons e nêutrons.</segment>
+    <segment id="72">Mas os mésons B surgem dos estilhaços das colisões de prótons do LHC e</segment>
+    <segment id="73">, quando sofrem decaimento (o que ocorre muito rápido)</segment>
+    <segment id="74">, o que resta deles pode ser analisado pelos detectores do LHCb.</segment>
+    <segment id="75">LHCMais    novamente         de   de  de  representando um  Observando esse processo toneladas de vezes</segment>
+    <segment id="76">, a equipe da colaboração LHCb vai notando quais são os produtos desse decaimento.</segment>
+    <segment id="77">E aqui entra a revelação crucial: a quantidade de mésons B de carga positiva que</segment>
+    <segment id="78">sese desintegram em um produto específico é diferente da quantidade de mésons B de carga negativa que</segment>
+    <segment id="79">sese desintegram nesse mesmo produto.</segment>
+    <segment id="80">"Ou seja</segment>
+    <segment id="81">, a partícula</segment>
+    <segment id="82">sese desintegra com mais frequência do que a sua antipartícula (ou vice versa)"</segment>
+    <segment id="83">, explica Laís Soares Lavra</segment>
+    <segment id="84">, pesquisadora brasileira no Cern e membro da colaboração LHCb.</segment>
+    <segment id="85">"</segment>
+    <segment id="86">O que observamos foi excesso de 75% de mésons B em relação a antimésons B."</segment>
+    <segment id="87">O processo é conhecido entre os físicos</segment>
+    <segment id="88">comocomo uma violação de CP (carga-paridade) e é empolgante neste</segment>
+    <segment id="89">casocaso por dois motivos.</segment>
+    <segment id="90">Primeiro</segment>
+    <segment id="91">, porque</segment>
+    <segment id="92">porque violações desse tipo são algo esperado para explicar por que o Universo é feito de matéria</segment>
+    <segment id="93">, e não de antimatéria.</segment>
+    <segment id="94">Sabemos que o Big Bang (que pode ser visto</segment>
+    <segment id="95">comocomo o LHC definitivo</segment>
+    <segment id="96">, realizando o mais energético experimento de colisão de partículas possível</segment>
+    <segment id="97">, quando todo o conteúdo do Universo estava espremido num espaço menor que a cabeça de um alfinete) deve ter produzido</segment>
+    <segment id="98">, em princípio</segment>
+    <segment id="99">, quantidades iguais de matéria e de antimatéria.</segment>
+    <segment id="100">Ou seja</segment>
+    <segment id="101">, para cada próton</segment>
+    <segment id="102">, com sua carga positiva</segment>
+    <segment id="103">, viria um antipróton</segment>
+    <segment id="104">, com carga negativa.</segment>
+    <segment id="105">Para cada elétron</segment>
+    <segment id="106">, com carga negativa</segment>
+    <segment id="107">, um pósitron</segment>
+    <segment id="108">, com carga positiva.</segment>
+    <segment id="109">E assim por diante.</segment>
+    <segment id="110">Só que isso enseja um problema.</segment>
+    <segment id="111">Partículas e antipartículas</segment>
+    <segment id="112">, ao se</segment>
+    <segment id="113">se encontrarem</segment>
+    <segment id="114">, sese aniquilam</segment>
+    <segment id="115">, gerando</segment>
+    <segment id="116">comocomo subproduto radiação.</segment>
+    <segment id="117">No começo do Universo</segment>
+    <segment id="118">, 13,8 bilhões de anos atrás</segment>
+    <segment id="119">, com tudo espremido do jeito que estava</segment>
+    <segment id="120">, não faltaram ocasiões para essas colisões</segment>
+    <segment id="121">, de modo que poderíamos esperar um cosmos de radiação pura</segment>
+    <segment id="122">, sem matéria —e sem graça.</segment>
+    <segment id="123">Colunas e BlogsReceba no seu email uma seleção de colunas e blogs da Folha</segment>
+    <segment id="124">; exclusiva para assinantes.</segment>
+    <segment id="125">Carregando...</segment>
+    <segment id="126">E, no entanto</segment>
+    <segment id="127">, não é o que temos.</segment>
+    <segment id="128">Acabamos</segment>
+    <segment id="129">, felizmente para nós</segment>
+    <segment id="130">, com um universo que é todo feito de matéria.</segment>
+    <segment id="131">O que significa que</segment>
+    <segment id="132">, de algum modo</segment>
+    <segment id="133">, houve uma sobra de partículas sobre antipartículas quando as colisões terminaram —e um caminho para explicar isso é encontrar assimetrias de CP.</segment>
+    <segment id="134">De algum modo</segment>
+    <segment id="135">, as leis da física devem favorecer matéria sobre antimatéria.</segment>
+    <segment id="136">O novo resultado resolve essa questão?</segment>
+    <segment id="137">"</segment>
+    <segment id="138">Não resolve"</segment>
+    <segment id="139">, diz Lavra.</segment>
+    <segment id="140">"</segment>
+    <segment id="141">Medimos essa assimetria</segment>
+    <segment id="142">, masmas existem alguns modelos que preveem a observação dessa assimetria —</segment>
+    <segment id="143">porémporém na ordem de 10%.</segment>
+    <segment id="144">"  E aí é que o resultado fica realmente promissor.</segment>
+    <segment id="145">Se fossem os 10%</segment>
+    <segment id="146">, tudo estaria "em casa" com nossa compreensão atual da física.</segment>
+    <segment id="147">Como deu muito mais – 75% –</segment>
+    <segment id="148">, serão necessárias ideias novas para explicar a enorme disparidade.</segment>
+    <segment id="149">"É a maior assimetria já observada até o momento"</segment>
+    <segment id="150">, completa a pesquisadora.</segment>
+    <segment id="151">Física de partículas experimental</segment>
+    <segment id="152">, contudo</segment>
+    <segment id="153">contudo</segment>
+    <segment id="154">, é um negócio traiçoeiro.</segment>
+    <segment id="155">Quando você estilhaça prótons com alta energia e converte tudo em mais partículas</segment>
+    <segment id="156">, muito do que acontece tem um componente de aleatoriedade introduzido pela mecânica quântica</segment>
+    <segment id="157">, de forma que só</segment>
+    <segment id="158">sese pode confirmar uma descoberta específica depois que o mesmo fenômeno é observado com enorme frequência.</segment>
+    <segment id="159">Vista aérea da região na fronteira da Suíça com a França</segment>
+    <segment id="160">, ondelocaliza-</segment>
+    <segment id="161">sese o Cern (Centro Europeu de Física de Partículas)</segment>
+    <segment id="162">, onde foi construído o LHC (Grande Colisor de Hádrons)</segment>
+    <segment id="163">, um túnel circular de 27 km de extensão a 100 m de profundidade - CernO bóson de Higgs</segment>
+    <segment id="164">, por exemplo</segment>
+    <segment id="165">, só teve a descoberta anunciada depois que a detecção sistemática da partícula atingiu uma confiança de 5-sigmas</segment>
+    <segment id="166">, cientifiquês para "probabilidade inferior a 1 em 3</segment>
+    <segment id="167">,5 milhões de um resultado espúrio".</segment>
+    <segment id="168">Por isso</segment>
+    <segment id="169">, o pessoal do LHCb segue cauteloso.</segment>
+    <segment id="170">"Ainda é cedo para falar de nova física"</segment>
+    <segment id="171">, diz Lavra.</segment>
+    <segment id="172">"</segment>
+    <segment id="173">Um dos modelos prevê 10%</segment>
+    <segment id="174">, portanto os outros 65% poderiam vir de outros mecanismos desconhecidos</segment>
+    <segment id="175">, que podem ou não ser acomodados no modelo padrão.</segment>
+    <segment id="176">Poderia ser um sinal de nova física ou não</segment>
+    <segment id="177">, ainda não sabemos.</segment>
+    <segment id="178">"  Como aprofundar a investigação?</segment>
+    <segment id="179">Mais resultados.</segment>
+    <segment id="180">O LHC vai retomar os experimentos</segment>
+    <segment id="181">, na terceira tomada de dados</segment>
+    <segment id="182">, no próximo dia 24.</segment>
+    <segment id="183">"</segment>
+    <segment id="184">Em particular</segment>
+    <segment id="185">, o experimento LHCb terá um novo detector</segment>
+    <segment id="186">, capaz de fornecer até dez vezes mais estatística que atualmente.</segment>
+    <segment id="187">Isso possibilitará o estudo mais detalhado desses processos.</segment>
+  </rst>
+</analysis>

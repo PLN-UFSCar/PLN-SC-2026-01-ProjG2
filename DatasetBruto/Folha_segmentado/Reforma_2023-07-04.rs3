@@ -1,0 +1,99 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A reforma tributária propõe que o Brasil adote novos tributos sobre o consumo que sigam o modelo IVA (Imposto sobre Valor Adicionado)</segment>
+    <segment id="2">, utilizado atualmente em mais de 170 países</segment>
+    <segment id="3">, seguindo os melhores exemplos internacionais.  Nesse sistema</segment>
+    <segment id="4">, cada empresa recolhe efetivamente apenas o imposto referente ao valor que adicionou ao produto ou serviço.</segment>
+    <segment id="5">Todo o tributo pago na aquisição de insumos ao vendedor</segment>
+    <segment id="6">, incluindo gastos com energia</segment>
+    <segment id="7">, telefonia</segment>
+    <segment id="8">, marketing e transporte</segment>
+    <segment id="9">, vira crédito.</segment>
+    <segment id="10">No exemplo abaixo</segment>
+    <segment id="11">, cada uma das três empresas —produtor rural</segment>
+    <segment id="12">, indústria e comércio— fatura R$ 100 com a operação e recolhe efetivamente R$ 10</segment>
+    <segment id="13">, para uma alíquota hipotética de 10%.</segment>
+    <segment id="14">Ao final</segment>
+    <segment id="15">, o produto é vendido por R$ 300 mais R$ 30 de impostos recolhidos para o fisco.</segment>
+    <segment id="16">Em um sistema cumulativo (sem crédito)</segment>
+    <segment id="17">, a carga superaria R$ 60</segment>
+    <segment id="18">, também suportada pelo consumidor.</segment>
+    <segment id="19">Como é a devolução do crédito</segment>
+    <segment id="20">O crédito pode ser devolvido posteriormente ou em tempo real —</segment>
+    <segment id="21">comocomo no exemplo acima—</segment>
+    <segment id="22">, a depender do sistema tributário.</segment>
+    <segment id="23">A reforma prevê um prazo máximo de 60 dias para devolução posterior</segment>
+    <segment id="24">, masmas também deixa aberta a possibilidade de fazer a compensação em tempo real</segment>
+    <segment id="25">, o chamado "split payment"</segment>
+    <segment id="26">, serviço que divide recebíveis de maneira automática entre os envolvidos em uma transação.</segment>
+    <segment id="27">Como funcionam as exportações</segment>
+    <segment id="28">No caso</segment>
+    <segment id="29">caso de uma exportação</segment>
+    <segment id="30">, não há tributação na etapa final (venda ao exterior)</segment>
+    <segment id="31">, e a empresa tem direito ao crédito de tudo o que foi recolhido ao longo da cadeia.  IVA para o Simples Nacional</segment>
+    <segment id="32">No Brasil</segment>
+    <segment id="33">, a adesão ao IVA será opcional para empresas do Simples Nacional.</segment>
+    <segment id="34">Elas podem escolher recolher os novos tributos separadamente</segment>
+    <segment id="35">, aproveitando o crédito dos insumos</segment>
+    <segment id="36">, ou manter o sistema atual para todos os tributos.</segment>
+    <segment id="37">Nos dois casos</segment>
+    <segment id="38">, o tributo pago na aquisição do produto ou serviço da empresa de menor porte vira crédito para seu cliente pessoa jurídica.</segment>
+    <segment id="39">Montagem feita com boneco em cima de um recibo de compra na França</segment>
+    <segment id="40">, indicando a taxa de 7% do Imposto sobre Valor Agregado (IVA ou TVA em francês)  - Philippe Huguen-242.set.2012/AFPO Brasil já tem IVA?</segment>
+    <segment id="41">O Brasil já possui tributos no formato IVA</segment>
+    <segment id="42">, como</segment>
+    <segment id="43">como o ICMS e o PIS/Cofins</segment>
+    <segment id="44">, que serão extintos com a reforma</segment>
+    <segment id="45">, masmas nem tudo o que é tributado dá direito a crédito atualmente</segment>
+    <segment id="46">, o que gera cumulatividade.</segment>
+    <segment id="47">Também há uma profusão de legislação e regras diferentes entre setores e regiões.</segment>
+    <segment id="48">Além disso</segment>
+    <segment id="49">, o tributo não é calculado "por fora"</segment>
+    <segment id="50">, o que pode transformar uma alíquota de 25% em mais de 30%.</segment>
+    <segment id="51">Os novos IVAs da reforma</segment>
+    <segment id="52">A reforma cria dois IVAs: uma contribuição federal (CBS) e um imposto estadual/municipal (IBS) sobre bens e serviços.</segment>
+    <segment id="53">A soma das alíquotas dos dois é estimada em 25%</segment>
+    <segment id="54">, sendo que alguns produtos e serviços terão redução de 50% (12</segment>
+    <segment id="55">,5%, nesse</segment>
+    <segment id="56">casocaso) e outros serão isentos.</segment>
+    <segment id="57">Reforma tributáriaNão vou entrar em briga de Bolsonaro com Lula</segment>
+    <segment id="58">, diz relator da reforma tributária Economistas assinam manifesto em defesa da reforma tributária da Câmara Entenda o que muda com a nova proposta de reforma tributáriaReforma tributária:</segment>
+    <segment id="59">O que é o Conselho Federativo e por que ele é criticado por governadores</segment>
+    <segment id="60">Congresso tenta aprovar reforma tributária após décadas de fracassosPL de Bolsonaro critica reforma tributária e diz que vai orientar voto contra propostaLira mede apoio das bancadas à reforma tributária em meio a maior pressão de governadoresReforma tributária pode aumentar oneração da cesta básica em 60%</segment>
+    <segment id="61">, diz associaçãoComo funciona na Europa e nos EUA</segment>
+    <segment id="62">Na Europa</segment>
+    <segment id="63">, a adoção do IVA foi necessária para permitir a integração econômica do continente.</segment>
+    <segment id="64">O imposto também está presente na maior parte da América Latina.</segment>
+    <segment id="65">Índia, Canadá</segment>
+    <segment id="66">, Austrália e Nova Zelândia são outros exemplos.</segment>
+    <segment id="67">Os Estados Unidos são a única grande economia que não tem esse tipo de imposto.</segment>
+    <segment id="68">O país possui um "sale tax" cobrado pelos governos regionais somente na última etapa da cadeia</segment>
+    <segment id="69">, a venda ao consumidor.</segment>
+    <segment id="70">Na prática</segment>
+    <segment id="71">, o efeito é o mesmo do IVA em termos de não-cumulatividade</segment>
+    <segment id="72">, masmas o risco de sonegação é maior.</segment>
+    <segment id="73">Reforma tributária sobre consumo: perguntas e respostasMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,49 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Polícia prende 7 suspeitos de integrar milícia que atuava na Favela Águia de Ouro</segment>
+    <segment id="2">, em Inhaúma
+RIO - Policiais militares do 3º BPM (Méier) prenderam neste domingo (03)</segment>
+    <segment id="3">sete homens suspeitos de integrar uma milícia que agia na Favela Águia de Ouro</segment>
+    <segment id="4">, em Inhaúma</segment>
+    <segment id="5">, que fica às margens da Linha Amarela e próxima ao Estádio Olímpico João Havelange</segment>
+    <segment id="6">, o Engenhão.</segment>
+    <segment id="7">Com os presos foram encontradas uma submetralhadora 9 milímetros</segment>
+    <segment id="8">, um bastão de madeira com a inscrição "Direitos Humanos"</segment>
+    <segment id="9">, um fuzil</segment>
+    <segment id="10">, dois revólveres calibre 38</segment>
+    <segment id="11">, seis granadas</segment>
+    <segment id="12">, seis facas</segment>
+    <segment id="13">, uma pistola</segment>
+    <segment id="14">, quatro celulares e cinco rádios.</segment>
+    <segment id="15">No local havia munição de .30</segment>
+    <segment id="16">, de 38 e de escopeta 12</segment>
+    <segment id="17">, além de uma farda do Exército e uma capa de colete à prova de balas.</segment>
+    <segment id="18">A prisão ocorreu depois de um intenso tiroteio na Águia de Ouro.</segment>
+    <segment id="19">Segundo o comandante do 3º BPM</segment>
+    <segment id="20">, tenente-coronel Ruy França</segment>
+    <segment id="21">, os bandidos começaram a ser investigados há três semanas após denúncias de que cobravam taxa de segurança dos moradores</segment>
+    <segment id="22">, exploravam serviço de TV a cabo e gás.</segment>
+  </rst>
+</analysis>

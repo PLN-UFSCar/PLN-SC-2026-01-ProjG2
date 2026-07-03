@@ -1,0 +1,101 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Boeing tentará nesta quinta-feira (19) pela segunda vez levar sua cápsula Starliner à Estação Espacial Internacional (ISS).</segment>
+    <segment id="2">O lançamento acontece às 19h54 (pelo horário de Brasília)</segment>
+    <segment id="3">, caso</segment>
+    <segment id="4">caso não haja impedimentos técnicos ou meteorológicos.</segment>
+    <segment id="5">A cápsula será impulsionada por um foguete Atlas 5</segment>
+    <segment id="6">, da empresa ULA (United Launch Alliance)</segment>
+    <segment id="7">, e a previsão do tempo dá 70% de probabilidade de boas condições para a decolagem</segment>
+    <segment id="8">, que deve acontecer da plataforma 41</segment>
+    <segment id="9">, em Cabo Canaveral</segment>
+    <segment id="10">, na Flórida (EUA).</segment>
+    <segment id="11">A primeira tentativa aconteceu em dezembro de 2019</segment>
+    <segment id="12">, num voo marcado por problemas técnicos.</segment>
+    <segment id="13">Falhas de software embarcado no computador de bordo levaram a cápsula a disparar inadvertidamente seus propulsores ao atingir a órbita</segment>
+    <segment id="14">, o que tornou impossível um encontro posterior com a ISS.</segment>
+    <segment id="15">Por pouco</segment>
+    <segment id="16">, a cápsula não fez uma reentrada intempestiva na atmosfera</segment>
+    <segment id="17">, o que seria um evento crítico</segment>
+    <segment id="18">casocaso ela estivesse tripulada.</segment>
+    <segment id="19">Cápsula CST-100 Starliner</segment>
+    <segment id="20">, da Boeing</segment>
+    <segment id="21">, no topo do foguete Atlas V</segment>
+    <segment id="22">, pronta para voar</segment>
+    <segment id="23">; decolagem deve acontecer na quinta-feira (19).</segment>
+    <segment id="24">- AFP/Nasa/Joel KowskyCom os problemas</segment>
+    <segment id="25">, a companhia decidiu bancar do próprio bolso um segundo voo de demonstração não tripulado</segment>
+    <segment id="26">, antes que</segment>
+    <segment id="27">sese dissesse pronta para transportar astronautas a serviço da Nasa.</segment>
+    <segment id="28">Essa nova missão de teste quase aconteceu no ano passado</segment>
+    <segment id="29">, masmas de novo foi afetada por problemas técnicos: na manhã do lançamento</segment>
+    <segment id="30">, em agosto de 2021</segment>
+    <segment id="31">, testes revelaram que 13 válvulas do sistema de propulsão da nave</segment>
+    <segment id="32">sese mostraram travadas.</segment>
+    <segment id="33">Uma investigação</segment>
+    <segment id="34">sese seguiu e até hoje há conflito entre a empresa que forneceu o sistema de propulsão</segment>
+    <segment id="35">, a Aerojet Rocketdyne</segment>
+    <segment id="36">, e a Boeing.</segment>
+    <segment id="37">Segundo o relatório final</segment>
+    <segment id="38">, o problema ocorreu em uma interação não prevista entre a umidade da Flórida</segment>
+    <segment id="39">, o propelente tetróxido de nitrogênio e as partes de alumínio das válvulas.</segment>
+    <segment id="40">A Aerojet Rocketdyne nega que seja isso e atribui o problema ao uso equivocado de um produto de limpeza nas válvulas.</segment>
+    <segment id="41">Fato é que elas não puderam ser consertadas</segment>
+    <segment id="42">, e a Boeing decidiu usar um novo módulo de serviço para o voo de demonstração.</segment>
+    <segment id="43">Ainda há discussão</segment>
+    <segment id="44">sese, para o futuro</segment>
+    <segment id="45">, será preciso redesenhar algo no sistema de propulsão.</segment>
+    <segment id="46">Por ora</segment>
+    <segment id="47">, tudo que a Boeing quer é realizar um voo bem-sucedido até a estação e de volta</segment>
+    <segment id="48">, qualificando-</segment>
+    <segment id="49">sese para transportar astronautas na próxima missão e cumprindo o contrato originalmente fechado com a Nasa em 2014.</segment>
+    <segment id="50">Na ocasião</segment>
+    <segment id="51">, Boeing e SpaceX foram as duas ganhadoras da disputa</segment>
+    <segment id="52">, oferecendo o desenvolvimento de sistemas próprios de transporte de tripulação (as cápsulas Starliner e Crew Dragon)</segment>
+    <segment id="53">, bem como</segment>
+    <segment id="54">como ao menos dois voos de demonstração</segment>
+    <segment id="55">, um sem e outro com humanos a bordo</segment>
+    <segment id="56">, por US$ 4</segment>
+    <segment id="57">,2 bilhões e US$ 2</segment>
+    <segment id="58">,8 bilhões</segment>
+    <segment id="59">, respectivamente.</segment>
+    <segment id="60">A Boeing ainda chegou a ter um aditivo que expandiu seu valor por US$ 5 bilhões</segment>
+    <segment id="61">, masmas ainda não concluiu a entrega.</segment>
+    <segment id="62">Já a SpaceX</segment>
+    <segment id="63">, apesar de ter recebido bem menos da agência espacial americana</segment>
+    <segment id="64">, conquistou uma confortável dianteira: realizou seu voo de demonstração não tripulado em março de 2019 e o primeiro voo com astronautas em maio de 2020.</segment>
+    <segment id="65">Desde então</segment>
+    <segment id="66">, já fez outros quatro voos regulares para a ISS a serviço da Nasa</segment>
+    <segment id="67">, além de duas missões privadas ao espaço.</segment>
+    <segment id="68">A Boeing espera começar a recuperar seu prestígio</segment>
+    <segment id="69">, assim</segment>
+    <segment id="70">comocomo entrar efetivamente na lista das fornecedoras de voos tripulados para a Nasa e outros potenciais clientes</segment>
+    <segment id="71">, em breve.</segment>
+    <segment id="72">E a caminhada começa com um voo bem-sucedido a partir desta quinta-feira (19).</segment>
+    <segment id="73">Siga o Mensageiro Sideral no Facebook</segment>
+    <segment id="74">, Twitter</segment>
+    <segment id="75">, Instagram e YouTube</segment>
+  </rst>
+</analysis>

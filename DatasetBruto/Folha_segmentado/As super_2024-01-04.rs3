@@ -1,0 +1,125 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Esta é a edição da newsletter Cuide-</segment>
+    <segment id="2">sese desta quarta-feira (3).</segment>
+    <segment id="3">Quer recebê-la no seu email?</segment>
+    <segment id="4">Inscreva-</segment>
+    <segment id="5">sese abaixo:  Cuide-seCiência</segment>
+    <segment id="6">, hábitos e prevenção numa newsletter para a sua saúde e bem-estarCarregando...(A edição desta semana vem com um leve atraso devido ao recesso de final de ano.</segment>
+    <segment id="7">Aproveito para desejar um feliz 2024 e agradecer pela companhia nesses últimos meses.)</segment>
+    <segment id="8">As bactérias resistentes a antibióticos são um dos maiores problemas de saúde no mundo.</segment>
+    <segment id="9">São milhares de pacientes que acabam sucumbindo por infecções que não podem ser tratadas com os antibióticos disponíveis.</segment>
+    <segment id="10">Na edição de hoje</segment>
+    <segment id="11">, falo sobre</segment>
+    <segment id="12">comocomo esse problema surgiu e as medidas para combatê-lo.</segment>
+    <segment id="13">Infecções causadas por cepas resistentes a medicamentos levam a milhares de mortes por ano - Catarina PignatoSuperbactérias</segment>
+    <segment id="14">As superbactérias</segment>
+    <segment id="15">, ou microrganismos resistentes a medicamentos</segment>
+    <segment id="16">, são um problema de saúde global crescente.</segment>
+    <segment id="17">Em números:</segment>
+    <segment id="18">Segundo um estudo publicado na The Lancet</segment>
+    <segment id="19">, a resistência antimicrobiana causou quase 600 mil mortes associadas a infecções por bactérias em 2019</segment>
+    <segment id="20">, com 141 mil diretamente ligadas a elas na região das Américas.</segment>
+    <segment id="21">Já um levantamento do IHME (Instituto de Métricas e Estatísticas em Saúde</segment>
+    <segment id="22">, na sigla em inglês)</segment>
+    <segment id="23">, ligado à Universidade de Washington (EUA)</segment>
+    <segment id="24">, estima que esses organismos estão por trás de 1 em cada 5 mortes em crianças de até cinco anos.</segment>
+    <segment id="25">Por que importa:</segment>
+    <segment id="26">apesar de ser fruto de um processo de seleção natural</segment>
+    <segment id="27">, sua disseminação em todo o mundo coloca em risco o uso de medicamentos indicados para tratar diversos tipos de enfermidades</segment>
+    <segment id="28">, como</segment>
+    <segment id="29">como sífilis –que tem</segment>
+    <segment id="30">comocomo tratamento primário a penicilina.</segment>
+    <segment id="31">Uso indiscriminado x internações hospitalares</segment>
+    <segment id="32">Há, ainda</segment>
+    <segment id="33">, duas formas de surgirem cepas resistentes: em pacientes hospitalizados</segment>
+    <segment id="34">–e aí o risco de "escape" para outros pacientes preocupa– ou em comunidades</segment>
+    <segment id="35">, com a possibilidade de ocorrerem surtos de doenças conhecidas.</segment>
+    <segment id="36">Segundo especialistas</segment>
+    <segment id="37">, o uso indiscriminado de antibióticos –</segment>
+    <segment id="38">masmas não só– é o que pode levar a essa condição.</segment>
+    <segment id="39">A OMS (Organização Mundial da Saúde) acendeu um alerta recentemente sobre o risco</segment>
+    <segment id="40">, masmas muitos médicos e pesquisadores criticam a demora em reconhecer o problema</segment>
+    <segment id="41">comocomo uma emergência em saúde global.</segment>
+    <segment id="42">O uso de antibióticos na pecuária também é alarmante</segment>
+    <segment id="43">, pois</segment>
+    <segment id="44">pois muitas das infecções que acometem as criações de animais também podem adoecer seres humanos.</segment>
+    <segment id="45">Em especial</segment>
+    <segment id="46">, crianças e idosos representam os grupos de maior risco –nos últimos três anos</segment>
+    <segment id="47">, subiram as internações por sepse e bactérias resistentes no Brasil</segment>
+    <segment id="48">, o que pode também ter sido afetado pela pandemia da Covid.</segment>
+    <segment id="49">Como combater o cenário</segment>
+    <segment id="50">Em 2010</segment>
+    <segment id="51">, a Anvisa (Agência Nacional de Vigilância Sanitária) passou a exigir a retenção de receita para venda de antibióticos</segment>
+    <segment id="52">, o que pode reduzir o aparecimento de cepas resistentes.</segment>
+    <segment id="53">Há outras medidas importantes</segment>
+    <segment id="54">, como</segment>
+    <segment id="55">como vigilância de microrganismos</segment>
+    <segment id="56">, controle de tratamentos em animais de criação e ampliar a busca e desenvolvimento de novas drogas por parte da indústria farmacêutica.</segment>
+    <segment id="57">Mas falta investimento nessa área</segment>
+    <segment id="58">, já que os antibióticos não dão lucro para as produtoras</segment>
+    <segment id="59">, explica Monica De Bolle</segment>
+    <segment id="60">, professora de economia na Universidade Johns Hopkins e mestre em Imunologia e Microbiologia pela Universidade de Georgetown.</segment>
+    <segment id="61">Além disso</segment>
+    <segment id="62">, a descoberta de novas drogas a partir de substâncias existentes na natureza é um processo árduo.</segment>
+    <segment id="63">Mas há esperança.</segment>
+    <segment id="64">Dois novos estudos que acabam de sair na revista Nature desta quarta-feira (3) desvenderam uma classe de antibióticos capaz de matar bactérias multirresistentes –</segment>
+    <segment id="65">embora</segment>
+    <segment id="66">embora ainda estejam em fase inicial de ensaios clínicos e podem demorar até chegar ao público geral.</segment>
+    <segment id="67">Leia também:</segment>
+    <segment id="68">Menos da metade dos antibióticos usados em crianças são eficazes</segment>
+    <segment id="69">, diz estudo.     CIÊNCIA PARA VIVER MELHOR  Novidades e estudos sobre saúde e ciência</segment>
+    <segment id="70">Organoide ajuda no desenvolvimento de tratamento para câncer de pâncreas.</segment>
+    <segment id="71">Cientistas testaram mais de 6.000 compostos em um modelo de organoide (um conjunto de células em laboratório que imita a estrutura dos órgãos em miniaturas) com células tumorais pancreáticas.</segment>
+    <segment id="72">Eles identificaram um composto</segment>
+    <segment id="73">, conhecido</segment>
+    <segment id="74">comocomo maleato de perexilina</segment>
+    <segment id="75">, capaz de suprimir o crescimento dos organoides.</segment>
+    <segment id="76">A expectativa agora é testar a droga em modelos animais para avaliar a segurança e eficácia</segment>
+    <segment id="77">, embora</segment>
+    <segment id="78">embora ele já seja usado para doença cardíaca.</segment>
+    <segment id="79">O artigo foi publicado na revista Cell</segment>
+    <segment id="80">Stem Cell.</segment>
+    <segment id="81">Sintomas pós-Covid no cérebro nem sempre são detectados em exames de rotina.</segment>
+    <segment id="82">Uma pesquisa feita da Universidade de Liverpool publicada na revista Nature Communications analisou mais de 800 pacientes hospitalizados com Covid</segment>
+    <segment id="83">, metade apresentando algum sintoma neurológico</segment>
+    <segment id="84">, e constatou que é possível continuar colhendo no sangue marcadores que indicam inflamação cerebral meses após a recuperação.</segment>
+    <segment id="85">O estudo pode ajudar na identificação de sintomas pós-Covid neurológicos.</segment>
+    <segment id="86">Detectado gene protetor da doença de Parkinson.</segment>
+    <segment id="87">Cientistas da Universidade do Sudeste da Califórnia identificaram que uma variante do gene conhecido</segment>
+    <segment id="88">comocomo SHLP2 tem ação protetiva contra o Parkinson.</segment>
+    <segment id="89">O estudo relata</segment>
+    <segment id="90">comocomo o gene</segment>
+    <segment id="91">, descrito em 2016 e responsável por codificar a cadeia de produção de microproteínas pela mitocôndria (a "usina" celular)</segment>
+    <segment id="92">, tem um "ganho de função" ao sofrer uma mutação</segment>
+    <segment id="93">, podendo reduzir em até 50% o risco de Parkinson.</segment>
+    <segment id="94">Os resultados foram publicados na última edição da revista Molecular Psychiatry.</segment>
+    <segment id="95">O que ler sobre hábitos e prevençãoO que fazer</segment>
+    <segment id="96">sese as redes sociais prejudicarem a autoestima de seus filhosSP registra cinco casos de bactéria que causou surto de pneumonia na ChinaVacina evita internação de bebês de até 1 ano por vírus respiratório em 83% dos casosVacina contra a Covid entra para o calendário infantil do Ministério da SaúdeExagerou nas comemorações?</segment>
+    <segment id="97">Saiba como</segment>
+    <segment id="98">como desintoxicar o organismo7 dicas para ser mais saudável em 2024Saiba quais são os tipos de olheiras e</segment>
+    <segment id="99">comocomo combatê-las</segment>
+  </rst>
+</analysis>

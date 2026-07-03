@@ -1,0 +1,131 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Google lança nesta quarta-feira (6) uma nova versão do Bard</segment>
+    <segment id="2">, equipada com inteligência artificial que supera o ChatGPT gratuito em testes.</segment>
+    <segment id="3">A melhoria funciona</segment>
+    <segment id="4">, por enquanto</segment>
+    <segment id="5">, apenas para a versão em inglês do chatbot e está disponível em 170 países</segment>
+    <segment id="6">, incluindo o Brasil.</segment>
+    <segment id="7">Em comunicado</segment>
+    <segment id="8">, o Google afirma que a tecnologia deve chegar a mais países e idiomas no "futuro próximo."</segment>
+    <segment id="9">As melhorias no Bard ficam disponíveis sem cobranças para os usuários.</segment>
+    <segment id="10">A concorrente do Google no campo da inteligência artificial generativa</segment>
+    <segment id="11">, OpenAI</segment>
+    <segment id="12">, prioriza os assinantes do plano ChatGPT Plus</segment>
+    <segment id="13">, vendido por US$ 20 (cerca de R$ 99)</segment>
+    <segment id="14">, na hora de oferecer melhorias no serviço.</segment>
+    <segment id="15">Não houve grandes mudanças na versão gratuita do chatbot desde o lançamento em 30 de novembro de 2022.</segment>
+    <segment id="16">O novo modelo de linguagem</segment>
+    <segment id="17">, chamado de Gemini</segment>
+    <segment id="18">, foi treinado para interagir via texto</segment>
+    <segment id="19">, áudio e imagens de forma simultânea</segment>
+    <segment id="20">, segundo anúncio em coletiva promovida pelo Google.</segment>
+    <segment id="21">Como a tecnologia promete ler</segment>
+    <segment id="22">, escrever</segment>
+    <segment id="23">, ouvir</segment>
+    <segment id="24">, falar e enxergar</segment>
+    <segment id="25">, isso garantiria melhores resultados nas experiências que vão além do texto.</segment>
+    <segment id="26">No caso</segment>
+    <segment id="27">caso da versão paga do ChatGPT</segment>
+    <segment id="28">, a OpenAI integra um modelo gerador de texto a partir de textos e imagens (GPT-4)</segment>
+    <segment id="29">, um capaz de converter áudio em texto (Whisper) e um capaz de gerar imagens (Dall-E 2).</segment>
+    <segment id="30">O Google desenvolveu três versões do Gemini: Ultra</segment>
+    <segment id="31">, o maior modelo</segment>
+    <segment id="32">; Nano</segment>
+    <segment id="33">, menor e com foco em smartphones</segment>
+    <segment id="34">;</segment>
+    <segment id="35">Pro, no meio do caminho.</segment>
+    <segment id="36">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="37">; aberta para não assinantes.</segment>
+    <segment id="38">Carregando...</segment>
+    <segment id="39">Fica disponível no Bard</segment>
+    <segment id="40">, a partir desta quarta</segment>
+    <segment id="41">, apenas o Gemini Pro</segment>
+    <segment id="42">, que, segundo o Google</segment>
+    <segment id="43">, sese sai melhor do que a versão gratuita do ChatGPT em desafios de raciocínio</segment>
+    <segment id="44">, linguagem</segment>
+    <segment id="45">, matemática</segment>
+    <segment id="46">, programação e conhecimentos em geral.</segment>
+    <segment id="47">O Bard</segment>
+    <segment id="48">, entretanto</segment>
+    <segment id="49">, não é capaz de recuperar interações anteriores no diálogo mantido com o usuário</segment>
+    <segment id="50">, por um ajuste de privacidade.</segment>
+    <segment id="51">Isso diminui a capacidade da plataforma de IA de entender contextos.</segment>
+    <segment id="52">Por outro lado</segment>
+    <segment id="53">, o chatbot do Google entrega referências para seus textos</segment>
+    <segment id="54">, o que o ChatGPT não faz.</segment>
+    <segment id="55">A princípio</segment>
+    <segment id="56">, a interação com o Bard continua restrita ao texto.</segment>
+    <segment id="57">No anúncio</segment>
+    <segment id="58">, porém</segment>
+    <segment id="59">porém, o Google apresentou</segment>
+    <segment id="60">, em vídeo</segment>
+    <segment id="61">, possibilidades de interação via áudio e imagens com o chatbot</segment>
+    <segment id="62">, que devem ficar disponíveis no futuro.</segment>
+    <segment id="63">O Google é uma das principais empresas do setor de inteligência artificial e tenta retomar destaque</segment>
+    <segment id="64">, após sucesso da OpenAI</segment>
+    <segment id="65">, criadora do ChatGPT.</segment>
+    <segment id="66">O gigante das buscas lançou a própria IA geradora de texto</segment>
+    <segment id="67">, Bard.</segment>
+    <segment id="68">- Getty Images</segment>
+    <segment id="69">O modelo de inteligência artificial mais avançado do gigante das buscas</segment>
+    <segment id="70">, Gemini Ultra</segment>
+    <segment id="71">, deve chegar aos primeiros usuários no início de 2024 em um novo serviço: o Bard Advanced.</segment>
+    <segment id="72">O Google não informa</segment>
+    <segment id="73">sese o serviço será pago</segment>
+    <segment id="74">comocomo o ChatGPT Plus</segment>
+    <segment id="75">, apenas diz que abrirá inscrições para testadores "em breve.</segment>
+    <segment id="76">"</segment>
+    <segment id="77">A big tech afirma que o Gemini Ultra supera o modelo mais potente da OpenAI</segment>
+    <segment id="78">, GPT-4</segment>
+    <segment id="79">, em 30 de 32 testes realizados.</segment>
+    <segment id="80">Em coletiva</segment>
+    <segment id="81">, porta-vozes do Google afirmaram que o modelo de IA passa por testes e ajustes finais de segurança e confiabilidade antes de chegar ao público.</segment>
+    <segment id="82">O Gemini Nano também chega aos usuários de Android nesta quarta</segment>
+    <segment id="83">, masmas</segment>
+    <segment id="84">, a princípio</segment>
+    <segment id="85">, fica disponível aos donos de celulares Pixel Pro 8 —smartphone do Google não vendido no Brasil.</segment>
+    <segment id="86">O Google diz que outras fabricantes de celular que adotam o sistema Android também poderão usar a tecnologia.</segment>
+    <segment id="87">A inclusão de inteligência artificial generativa vai permitir novas funções de edição de imagens e vídeos</segment>
+    <segment id="88">, como</segment>
+    <segment id="89">como gravar no escuro</segment>
+    <segment id="90">, recuperar fotos tremidas e consertar defeitos em fotos.</segment>
+    <segment id="91">Em entrevista à newsletter Platformer</segment>
+    <segment id="92">, do podcaster do New York Times Casey Newton</segment>
+    <segment id="93">, o chefe-executivo do Google</segment>
+    <segment id="94">, Sundai Pichar</segment>
+    <segment id="95">, apresentou planos da empresa de usar as capacidades do Gemini no buscador mais popular da internet.</segment>
+    <segment id="96">"</segment>
+    <segment id="97">Eu considero o Gemini um modelo primordial —funcionará na base de todos os nossos produtos.</segment>
+    <segment id="98">A busca não é diferente.</segment>
+    <segment id="99">"</segment>
+    <segment id="100">O Google lançou no Brasil em novembro a experiência de busca generativa</segment>
+    <segment id="101">, em que usa IA generativa para entregar respostas geradas automaticamente aos usuários.</segment>
+    <segment id="102">Especialistas ouvidos pela Folha demonstraram preocupação com o risco da nova tecnologia diminuir o tráfego de portais de notícias e</segment>
+    <segment id="103">, em decorrência disso</segment>
+    <segment id="104">, dificultar o financiamento do jornalismo profissional.</segment>
+    <segment id="105">Veja 8 ferramentas de inteligência artificial para ir além do ChatGPTMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Preta Gil estÃ¡ com inveja da irmÃ£ na TV</segment>
+    <segment id="2">A cantora estÃ¡ incomodada com o sucesso de Flora Gil no canal pago GNT</segment>
+    <segment id="3">De acordo com o blog da de FabÃ­ola Reipert</segment>
+    <segment id="4">, do â€˜R7â€™</segment>
+    <segment id="5">, a cantora Preta Gil estÃ¡ sendo ofuscada pelo sucesso de sua irmÃ£</segment>
+    <segment id="6">, Bela Gil</segment>
+    <segment id="7">, que agora virou queridinha da imprensa.</segment>
+    <segment id="8">A nutricionista e apresentadora do canal pago GNT anda chamando mais a atenÃ§Ã£o dos fotÃ³grafos do que a cantora.</segment>
+    <segment id="9">Preta, que sempre foi a filha mais aparecida de Gilberto Gil</segment>
+    <segment id="10">, nÃ£o estÃ¡ nada contente com o sucesso da irmÃ£.</segment>
+  </rst>
+</analysis>

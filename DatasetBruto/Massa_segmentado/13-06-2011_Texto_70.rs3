@@ -1,0 +1,68 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Aumento do consumo faz preço do álcool ter alta nos postos.</segment>
+    <segment id="2">De novo
+RIO - Os preços do álcool hidratado (combustível) continuam elevados</segment>
+    <segment id="3">, mesmo em plena safra da cana-de-açúcar.</segment>
+    <segment id="4">Na semana passada as usinas aumentaram em R$ 0</segment>
+    <segment id="5">,07 o preço do litro do álcool hidratado</segment>
+    <segment id="6">, uma alta de 7</segment>
+    <segment id="7">,15%, passando a vender o produto</segment>
+    <segment id="8">, sem impostos</segment>
+    <segment id="9">, a R$ 1</segment>
+    <segment id="10">,0844 o litro</segment>
+    <segment id="11">, contra R$ 1</segment>
+    <segment id="12">,0120 na semana anterior</segment>
+    <segment id="13">, mostra reportagem publicada nesta terça-feira pelo jornal</segment>
+    <segment id="14">O GLOBO.</segment>
+    <segment id="15">O diretor-técnico da União da Indústria de Cana-de-Açúcar (Unica)</segment>
+    <segment id="16">, Antonio de Pádua Rodrigues</segment>
+    <segment id="17">, explicou que os preços subiram devido ao grande aumento do consumo do álcool hidratado.</segment>
+    <segment id="18">De acordo com o executivo</segment>
+    <segment id="19">, após a forte queda no consumo do produto no início do ano devido aos preços altos</segment>
+    <segment id="20">, agora</segment>
+    <segment id="21">, com o aumento da oferta no período da safra</segment>
+    <segment id="22">, a procura disparou.</segment>
+    <segment id="23">As vendas de álcool hidratado pularam de 500 milhões de litros em abril para 1 bilhão de litros em maio.
+-</segment>
+    <segment id="24">A demanda do hidratado cresceu muito rapidamente</segment>
+    <segment id="25">, e a safra ainda está começando</segment>
+    <segment id="26">, o que provocou uma reação nos preços - explicou Pádua Rodrigues.</segment>
+    <segment id="27">O presidente do Sindicato Nacional das Empresas Distribuidoras de Combustíveis (Sindicom)</segment>
+    <segment id="28">, Alísio Vaz</segment>
+    <segment id="29">, disse que os preços do hidratado nas usinas deverão continuar elevados para forçar uma redução no consumo e</segment>
+    <segment id="30">, com isso</segment>
+    <segment id="31">, haver mais álcool disponível para a produção do anidro</segment>
+    <segment id="32">, misturado em 25% na gasolina.</segment>
+    <segment id="33">A medida é necessária</segment>
+    <segment id="34">porque</segment>
+    <segment id="35">porque o volume da safra de álcool será igual ao do ano passado e</segment>
+    <segment id="36">, ao mesmo tempo</segment>
+    <segment id="37">, haverá um aumento no consumo do anidro</segment>
+    <segment id="38">, por causa da demanda da gasolina.
+- Como a safra neste ano praticamente será a mesma do ano passado</segment>
+    <segment id="39">, com o aumento do consumo da gasolina vão precisar reduzir o hidratado para aumentar a oferta de anidro - destacou Vaz.</segment>
+  </rst>
+</analysis>

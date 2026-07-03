@@ -1,0 +1,91 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O estado e a prefeitura de São Paulo decidiram manter os adolescentes de 12 a 17 anos sem comorbidade na lista das pessoas que serão vacinadas contra a Covid-19</segment>
+    <segment id="2">, contrariando a nova orientação divulgada pelo Ministério da Saúde na quarta-feira (15).</segment>
+    <segment id="3">O governo de São Paulo criticou a decisão do Ministério da Saúde</segment>
+    <segment id="4">, e a prefeitura da capital especulou que a restrição</segment>
+    <segment id="5">sese explica por razões logísticas</segment>
+    <segment id="6">, já que há relatos sobre falta de doses em algumas capitais.</segment>
+    <segment id="7">Em nota da Secretaria Extraordinária de Enfrentamento à Covid-1</segment>
+    <segment id="8">, vinculada ao Ministério da Saúde</segment>
+    <segment id="9">, a pasta diz ter revisado a recomendação para imunização de adolescentes sem comorbidade.</segment>
+    <segment id="10">O órgão federal restringiu o esquema vacinal ao público de 12 a 17 anos com comorbidade ou deficiência e aos privados de liberdade.</segment>
+    <segment id="11">Início da vacinação de jovens de 12 a 14 anosno drive-thru instalado no Memorial da América Latina</segment>
+    <segment id="12">, na zona oeste da capital paulista.</segment>
+    <segment id="13">Marco Cazes</segment>
+    <segment id="14">, 12 anos</segment>
+    <segment id="15">, recebe a vacina da Pfizer - Rivaldo Gomes - 06.set.2021/FolhapressA decisão pegou estados e municípios de surpresa.</segment>
+    <segment id="16">O governo de São Paulo disse lamentar a decisão do Ministério da Saúde e afirmou que ela vai na contramão de autoridades sanitárias de vários países.  "</segment>
+    <segment id="17">A medida cria insegurança e causa apreensão em milhões de adolescentes e famílias que esperam ver os seus filhos imunizados</segment>
+    <segment id="18">, além de professores que convivem com eles"</segment>
+    <segment id="19">, diz trecho de nota enviada pela gestão de João Doria (PSDB).</segment>
+    <segment id="20">"</segment>
+    <segment id="21">Coibir a vacinação integral dos jovens de 12 a 17 anos é menosprezar o impacto da pandemia na vida deste público"</segment>
+    <segment id="22">, diz a nota.</segment>
+    <segment id="23">De acordo com o governo de São Paulo</segment>
+    <segment id="24">, 3 a cada 10 adolescentes que morreram com Covid no estado não tinham comorbidades.</segment>
+    <segment id="25">"</segment>
+    <segment id="26">Infelizmente</segment>
+    <segment id="27">, e mais uma vez</segment>
+    <segment id="28">, as diretrizes do Programa Nacional de Imunização do Ministério da Saúde chegaram com atraso e descompassadas com a realidade dos estados</segment>
+    <segment id="29">, que em sua maioria já estão com a vacinação em curso"</segment>
+    <segment id="30">, afirma a gestão Doria.</segment>
+    <segment id="31">Saiba mais sobre vacinação de adolescentesEntenda o que já</segment>
+    <segment id="32">sese sabe sobre vacinação de crianças e adolescentes contra a CovidReino Unido decide vacinar contra Covid crianças de 12 a 15 anosEUA devem liberar vacina da Covid para menores de 12 anos até dezembroNo estado</segment>
+    <segment id="33">, cerca de 2</segment>
+    <segment id="34">,4 milhões de pessoas entre 12 e 17 anos já receberam a primeira dose da vacina contra a Covid —72% deste público.</segment>
+    <segment id="35">Fico surpreso e indignado</segment>
+    <segment id="36">, como</segment>
+    <segment id="37">como pai que sou de adolescentes</segment>
+    <segment id="38">, desta orientação do Ministério da Saúde descabida e ao mesmo tempo que traz intranquilidade para milhões de pais em todo o Brasil.</segment>
+    <segment id="39">Não há nenhuma razão concreta que a ciência determine e ampare para suspender a vacinação de jovens de 12 a 17 anos.</segment>
+    <segment id="40">Portanto</segment>
+    <segment id="41">, São Paulo vai seguir vacinando todos os jovens de 12 a 17 anos"</segment>
+    <segment id="42">, diz o governador João Doria em vídeo publicado nas redes sociais.</segment>
+    <segment id="43">Na capital paulista</segment>
+    <segment id="44">, até 15 de setembro</segment>
+    <segment id="45">, foram aplicadas 712.499 primeiras doses em adolescentes de 12 a 17 anos de idade</segment>
+    <segment id="46">, representando 84</segment>
+    <segment id="47">,4% de cobertura vacinal do público</segment>
+    <segment id="48">, estimado em 844.073 pessoas.</segment>
+    <segment id="49">A gestão de Ricardo Nunes (MDB) afirmou em nota que</segment>
+    <segment id="50">, por esse motivo</segment>
+    <segment id="51">, não interromperá a vacianção dessa faixa etária.</segment>
+    <segment id="52">A Secretaria Municipal de Saúde de São Paulo afirma ainda que "a Organização Mundial da Saúde recomenda a vacinação dos adolescentes acima de 12 anos com o imunizante da Pfizer</segment>
+    <segment id="53">, com indicação e aprovação da Agência Nacional de Vigilância Sanitária".</segment>
+    <segment id="54">A secretaria também diz que "a restrição imposta pelo governo federal [</segment>
+    <segment id="55">sese deve a] questão logística"</segment>
+    <segment id="56">, já que</segment>
+    <segment id="57">sese trata "de um imunizante eficaz e seguro previamente autorizado".</segment>
+    <segment id="58">Como a Folha tem noticiado</segment>
+    <segment id="59">, diversos estados enfrentam problemas com falta de doses para seguir com o calendário de vacinação.</segment>
+    <segment id="60">O Conass (Conselho Nacional de Secretários de Saúde) e o Conasems (Conselho Nacional de Secretarias Municipais de Saúde) pediram nesta quinta-feira (16) posicionamento da Anvisa (Agência Nacional de Vigilância Sanitária) sobre a vacinação de adolescentes sem comorbidade após o Ministério da Saúde rever orientação para imunização desse grupo.</segment>
+    <segment id="61">Terceira dose contra a Covid-19 em idosos e vacinação em adolescentesMais    novamente         de   de  de  representando um  Secretários disseram à Folha que não foram consultados e que a mudança não passou pela Câmara Técnica do PNI (Programa Nacional de Imunizações).</segment>
+    <segment id="62">O texto do ministério afirma que a Secretaria Extraordinária de Enfrentamento à Covid- 19 “revisou a recomendação” para imunização do grupo e diz que a OMS não orienta a imunização de criança e adolescente</segment>
+    <segment id="63">, que a maioria dos jovens dessa idade sem comorbidade com Covid apresenta “evolução benigna” da doença</segment>
+    <segment id="64">, entre outros pontos.</segment>
+    <segment id="65">O ministério também afirma que não estão claramente definidos os benefícios de vacinar adolescentes sem comorbidade</segment>
+  </rst>
+</analysis>

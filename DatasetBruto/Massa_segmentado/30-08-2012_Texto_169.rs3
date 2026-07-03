@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Atriz renova o armÃ¡rio
+AtÃ© o cachorro da atriz ganhou roupa
+ClÃ¡udia</segment>
+    <segment id="2">Rodrigues comprou 15 calÃ§as jeans e oito pares de tÃªnis para comemorar o resultado da ressonÃ¢ncia magnÃ©tica que fez em um hospital</segment>
+    <segment id="3">, em SÃ£o Paulo.</segment>
+    <segment id="4">AtÃ© o cachorro da atriz ganhou roupa.</segment>
+    <segment id="5">ClÃ¡udia sofre de esclerose mÃºltipla</segment>
+    <segment id="6">, uma doenÃ§a degenerativa</segment>
+    <segment id="7">, que afeta as fibras nervosas do cÃ©rebro.</segment>
+    <segment id="8">O exame constatou que a doenÃ§a nÃ£o danificou as vÃ¡lvulas cerebrais.</segment>
+  </rst>
+</analysis>

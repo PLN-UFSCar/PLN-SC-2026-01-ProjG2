@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Confaz (Conselho Nacional de Política Fazendária) publicou nesta segunda-feira (20) ato declaratório no qual declara a rejeição ao Convênio ICMS 174/23</segment>
+    <segment id="2">, sobre a remessa interestadual de bens e mercadorias entre estabelecimentos de mesma titularidade.</segment>
+    <segment id="3">Segundo o conselho</segment>
+    <segment id="4">, a revogação considera a manifestação do Rio de Janeiro publicada no último dia 16 (decreto 48.799).</segment>
+    <segment id="5">O estado decidiu não ratificar o convênio assinado no final de outubro por 24 estados e o Distrito Federal.</segment>
+    <segment id="6">Amazonas e Goiás ficaram de fora.</segment>
+    <segment id="7">Douglas Mota</segment>
+    <segment id="8">, sócio da área tributária do Demarest</segment>
+    <segment id="9">, afirma que a questão volta agora à estaca zero.</segment>
+    <segment id="10">O convênio atendia a uma determinação do STF (Supremo Tribunal Federal) na Ação Declaratória de Constitucionalidade 49.</segment>
+    <segment id="11">O Tribunal afastou a cobrança de ICMS nessas operações interestaduais</segment>
+    <segment id="12">, com modulação de efeitos a partir de 2024.</segment>
+    <segment id="13">O convênio estabelecia que a transferência dos créditos seria obrigatória nas movimentações interestaduais de mercadorias entre estabelecimentos do mesmo contribuinte.</segment>
+    <segment id="14">Essa transferência seria materializada por meio de informação nas notas fiscais</segment>
+    <segment id="15">, no campo de destaque de imposto.</segment>
+    <segment id="16">Cédulas do real - Gabriel Cabral/Folhapress</segment>
+  </rst>
+</analysis>

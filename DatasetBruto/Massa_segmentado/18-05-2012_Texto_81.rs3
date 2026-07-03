@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Professores inaptos</segment>
+    <segment id="2">O governo reconheceu que as escolas não estão preparadas para enfrentar a homofobia</segment>
+    <segment id="3">O governo federal reconheceu</segment>
+    <segment id="4">, mesmo que tardiamente</segment>
+    <segment id="5">, que as escolas não estão preparadas para enfrentar a violência sofrida pelos estudantes homossexuais</segment>
+    <segment id="6">, seja no ambiente escolar ou fora dele.</segment>
+    <segment id="7">Espera-</segment>
+    <segment id="8">sese agora que essa constatação feita por Nadine Borges</segment>
+    <segment id="9">, da Secretaria de Direitos Humanos da Presidência da República</segment>
+    <segment id="10">, traga consigo medidas eficazes para capacitar o corpo docente das escolas a lidar e compreender os dilemas que levam muitos alunos a deixar os estudos</segment>
+    <segment id="11">, uma vez que não conseguem suportar a homofobia oriunda de colegas e dos próprios professores.</segment>
+    <segment id="12">Acredito que um passo foi dado</segment>
+    <segment id="13">, falta termos resultados práticos que vão além da simples verbalização da ineficiência dos professores para lidar com a sexualidade destes jovens.</segment>
+  </rst>
+</analysis>

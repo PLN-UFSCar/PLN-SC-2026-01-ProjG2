@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Menina desaforada
+Dedo para o alto é o gesto predileto de Rihanna.</segment>
+    <segment id="2">Especialmente quando irritada</segment>
+    <segment id="3">Vida de artista é isso aí.</segment>
+    <segment id="4">Que dirá de pop stars</segment>
+    <segment id="5">, como</segment>
+    <segment id="6">como Rihanna.</segment>
+    <segment id="7">A cantora foi clicada saindo de um restaurante em Santa Mônica</segment>
+    <segment id="8">, nos Estados Unidos.</segment>
+    <segment id="9">Não gostou do assédio dos fotógrafos e deu dedo para todos.</segment>
+    <segment id="10">O gesto</segment>
+    <segment id="11">, aliás</segment>
+    <segment id="12">, é frequente nos modos da moça</segment>
+    <segment id="13">, que recentemente postou no Twitter uma foto em que aparece de ‘gueixa’</segment>
+    <segment id="14">, também com o dedo para o alto.</segment>
+  </rst>
+</analysis>

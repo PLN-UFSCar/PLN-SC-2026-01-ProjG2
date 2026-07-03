@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Cursos de inglês e francês da Uneb
+Matrícula</segment>
+    <segment id="2">sese encerra nesta sex-feira</segment>
+    <segment id="3">, aproveite!</segment>
+    <segment id="4">Encerra nesta sexta-feira (10)</segment>
+    <segment id="5">, o período de inscrição para os cursos de inglês e francês da Universidade do Estado da Bahia (Uneb)</segment>
+    <segment id="6">, em Salvador.</segment>
+    <segment id="7">Estão sendo disponibilizadas 150 vagas distribuídas entre vários níveis.</segment>
+    <segment id="8">Os interessados devem procurar o Núcleo de Estudos Canadenses (NEC) do Campus I da instituição</segment>
+    <segment id="9">, no Cabula</segment>
+    <segment id="10">, das 9h às 12h.</segment>
+    <segment id="11">O investimento varia de R$ 280 a R$ 310</segment>
+    <segment id="12">, conforme a turma escolhida.</segment>
+    <segment id="13">Mais informações pelo telefone (71) 3117-2303.</segment>
+  </rst>
+</analysis>

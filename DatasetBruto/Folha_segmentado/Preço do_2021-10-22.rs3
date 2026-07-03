@@ -1,0 +1,99 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O preço médio do óleo diesel teve leve alta esta semana e</segment>
+    <segment id="2">sese aproxima de romper pela primeira vez a barreira dos R$ 5 por litro</segment>
+    <segment id="3">, segundo a pesquisa semanal de preços da ANP (Agência Nacional do Petróleo</segment>
+    <segment id="4">, Gás e Biocombustíveis).</segment>
+    <segment id="5">De acordo com a agência</segment>
+    <segment id="6">, o produto foi vendido esta semana</segment>
+    <segment id="7">, em média</segment>
+    <segment id="8">, a R$ 4</segment>
+    <segment id="9">,983 por litro</segment>
+    <segment id="10">, valor 0</segment>
+    <segment id="11">,1% superior ao praticado na semana passada.</segment>
+    <segment id="12">Na região Norte</segment>
+    <segment id="13">, o produto já pode ser encontrado a mais de R$ 6</segment>
+    <segment id="14">,40 —o maior preço</segment>
+    <segment id="15">, R$ 6</segment>
+    <segment id="16">,420 foi detectado pela ANP em Cruzeiro do Sul (AC).</segment>
+    <segment id="17">Obrigatório em grandes centros urbanos</segment>
+    <segment id="18">, o diesel S-10</segment>
+    <segment id="19">, que tem menor teor de enxofre</segment>
+    <segment id="20">, está sendo vendido</segment>
+    <segment id="21">, em média</segment>
+    <segment id="22">, a R$ 5</segment>
+    <segment id="23">,048 por litro.</segment>
+    <segment id="24">Posto de combustível em Santo André</segment>
+    <segment id="25">, São Paulo - Rivaldo Gomes - 23.fev.2021/Folhapress</segment>
+    <segment id="26">A escalada do preço do diesel gerou esta semana paralisação de empresas transportadoras de combustíveis de Minas Gerais e do Rio de Janeiro</segment>
+    <segment id="27">, com reflexos sobre a renovação de estoques de postos de gasolina nos dois estados.</segment>
+    <segment id="28">Tem sido combustível também para a insatisfação de caminhoneiros</segment>
+    <segment id="29">, que prometem paralisação no dia 1º de novembro para cobrar ação do governo</segment>
+    <segment id="30">, que anunciou nesta quinta-feira (21) um auxílio de R$ 400 para a categoria em tentativa de esfriar os ânimos.</segment>
+    <segment id="31">Segundo a ANP</segment>
+    <segment id="32">, o preço médio da gasolina subiu mais 0</segment>
+    <segment id="33">,6% esta semana</segment>
+    <segment id="34">, com repasses do reajuste de 7</segment>
+    <segment id="35">,2% promovido pela Petrobras no último dia 9.</segment>
+    <segment id="36">O preço médio nos postos brasileiros ficou em R$ 6</segment>
+    <segment id="37">,361 por litro.</segment>
+    <segment id="38">Reajustado no mesmo dia</segment>
+    <segment id="39">, e também em 7</segment>
+    <segment id="40">,2%, o preço do botijão de gás também permaneceu em alta nas revendas</segment>
+    <segment id="41">, subindo 1</segment>
+    <segment id="42">,5%, para R$ 101</segment>
+    <segment id="43">,96.</segment>
+    <segment id="44">O preço do etanol hidratado subiu 1</segment>
+    <segment id="45">,1%, para uma média de R$ 4</segment>
+    <segment id="46">,875 por litro.</segment>
+    <segment id="47">A escalada dos preços dos combustíveis é um dos principais fatores de pressão sobre a inflação brasileira</segment>
+    <segment id="48">, que em setembro acelerou para 1</segment>
+    <segment id="49">,16%, a maior alta para o mês desde o início do Plano Real</segment>
+    <segment id="50">, quebrando a barreira simbólica dos dois dígitos no acumulado de 12 meses.</segment>
+    <segment id="51">Dicas para economizar combustível Mais    novamente         de   de  de  representando um</segment>
+    <segment id="52">O mercado vê ainda grande pressão sobre os preços internos</segment>
+    <segment id="53">, diante da recuperação das cotações internacionais do petróleo e da desvalorização do real</segment>
+    <segment id="54">, que nos últimos dois dias sofreu forte impacto da proposta de estouro do teto de gastos para financiar programa eleitoral do governo.</segment>
+    <segment id="55">Segundo a Abicom (Associação Brasileira das Importadoras de Combustível)</segment>
+    <segment id="56">, o litro da gasolina nas refinarias brasileiras é hoje R$ 0</segment>
+    <segment id="57">,50 menor do que a cotação internacional.</segment>
+    <segment id="58">No caso</segment>
+    <segment id="59">caso do diesel</segment>
+    <segment id="60">, a diferença é de R$ 0</segment>
+    <segment id="61">,68 por litro.</segment>
+    <segment id="62">Nesta quinta (21)</segment>
+    <segment id="63">, o presidente Jair Bolsonaro (sem partido) admitiu a possibilidade de novos reajustes ao anunciar programa de ajuda aos caminhoneiros.</segment>
+    <segment id="64">"Vão ter novos reajustes dos combustíveis?</segment>
+    <segment id="65">Certamente teremos.</segment>
+    <segment id="66">Por que vou negar isso daí?</segment>
+    <segment id="67">Estamos buscando solução"</segment>
+    <segment id="68">, afirmou o presidente.</segment>
+    <segment id="69">A Petrobras tem repetido que mantém a política de alinhamento de preços ao mercado internacional</segment>
+    <segment id="70">, masmas sem repassar ao consumidor volatilidades do mercado internacional.</segment>
+    <segment id="71">A política vem gerando alertas do setor sobre riscos de desabastecimento do mercado.</segment>
+    <segment id="72">Distribuidoras alegam que a estatal está repassando ao setor privado a responsabilidade por realizar as importações necessárias para suprir o mercado</segment>
+    <segment id="73">, masmas a diferença com os preços internacionais eleva o risco desse tipo de operação.</segment>
+  </rst>
+</analysis>

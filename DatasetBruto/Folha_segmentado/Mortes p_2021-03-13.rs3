@@ -1,0 +1,238 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Esta segunda fase da pandemia da Covid que o Brasil vive é mais letal que a primeira em 40% das grandes cidades do Brasil.</segment>
+    <segment id="2">Em 50 desses maiores municípios (15% do total)</segment>
+    <segment id="3">, houve uma explosão de óbitos: o pico de agora é pelo menos 80% maior que o do ano passado.</segment>
+    <segment id="4">A Folha comparou a semana com mais mortes nos municípios em dois momentos: março a outubro de 2020 (primeira fase) e o período entre novembro e esta última semana (segunda fase).</segment>
+    <segment id="5">Os recordes negativos começaram a ser batidos em dezembro e</segment>
+    <segment id="6">sese estendem até agora.</segment>
+    <segment id="7">Jaú (SP)</segment>
+    <segment id="8">, Chapecó (SC) e Santa Cruz do Sul (RS) foram os locais com as pioras mais graves</segment>
+    <segment id="9">, em que o pico atual de mortes foi até 11 vezes maior que o do ano passado.</segment>
+    <segment id="10">Média diária de enterros na capital paulista aumenta 15</segment>
+    <segment id="11">,4% no primeiro bimestre   novamente         de   de  de  representando um  Foram consideradas na análise as cidades com mais de cem mil habitantes</segment>
+    <segment id="12">, onde os dados tendem a ser mais confiáveis.</segment>
+    <segment id="13">A situação não parece dar mostras de que arrefecerá tão cedo.</segment>
+    <segment id="14">O monitor da Folha de aceleração da doença indica que 68% dessas grandes cidades estão em estágio acelerado (crescimento rápido de novos casos) ou estável (estabilização do crescimento</segment>
+    <segment id="15">, masmas num patamar alto).</segment>
+    <segment id="16">Considerando apenas os 190 municípios em que esta segunda fase está pior do que a primeira</segment>
+    <segment id="17">, 74% estão em aceleração ou estável.</segment>
+    <segment id="18">Embora não haja consenso entre especialistas sobre</segment>
+    <segment id="19">sese o país vive de fato uma segunda onda ou apenas um repique da primeira</segment>
+    <segment id="20">, entre setembro e outubro do ano passado houve queda no número de casos e mortes por Covid</segment>
+    <segment id="21">, com alta a partir de novembro.</segment>
+    <segment id="22">O impacto do recrudescimento foi maior no Sul</segment>
+    <segment id="23">, que tem hospitais lotados e sistema de saúde em colapso.</segment>
+    <segment id="24">Nove em cada 10 municípios grandes da região bateram recorde no número de óbitos em uma única semana</segment>
+    <segment id="25">, e em 26% deles esse valor é pelo menos o dobro do maior registrado até o ano passado.</segment>
+    <segment id="26">Em Chapecó</segment>
+    <segment id="27">, no oeste de Santa Catarina</segment>
+    <segment id="28">, o recorde da média móvel na primeira fase havia sido em setembro</segment>
+    <segment id="29">, com um óbito por dia.</segment>
+    <segment id="30">Na última semana de fevereiro</segment>
+    <segment id="31">, porém</segment>
+    <segment id="32">porém, a cidade chegou a uma média diária de 13 mortos.</segment>
+    <segment id="33">Houve dois casos confirmados da nova variante de Manaus no município</segment>
+    <segment id="34">, que, mesmo assim</segment>
+    <segment id="35">, reabriu o comércio na última segunda (8) após duas semanas com restrições.</segment>
+    <segment id="36">Considerando os estados</segment>
+    <segment id="37">, o mais afetado nesta segunda fase foi o Amazonas</segment>
+    <segment id="38">, que em janeiro foi palco da pior crise no sistema de saúde já vista na pandemia.</segment>
+    <segment id="39">Com escassez de UTIs</segment>
+    <segment id="40">, profissionais de saúde e oxigênio para os doentes</segment>
+    <segment id="41">, o estado passa de 6.000 mortos nestes três meses de 2021</segment>
+    <segment id="42">, mais que durante todo o ano passado.</segment>
+    <segment id="43">Em Manaus</segment>
+    <segment id="44">, onde estão concentrados todos os leitos de terapia intensiva do Amazonas</segment>
+    <segment id="45">, a maior média móvel registrada em 2020 havia sido de 43 óbitos</segment>
+    <segment id="46">, contra 143 no mês passado.</segment>
+    <segment id="47">Outras três capitais também passam por explosão de mortos nesta segunda fase:</segment>
+    <segment id="48">Florianópolis</segment>
+    <segment id="49">, Curitiba e Porto Velho.</segment>
+    <segment id="50">No Rio Grande do Sul</segment>
+    <segment id="51">, em Santa Catarina e em Rondônia</segment>
+    <segment id="52">, o pico de mortes em uma semana é de duas a três vezes maior nesta segunda fase.</segment>
+    <segment id="53">Já São Paulo</segment>
+    <segment id="54">, que nesta sexta-feira (12) bateu recorde na média móvel de óbitos (331)</segment>
+    <segment id="55">, tem 41% das cidades em situação pior agora.</segment>
+    <segment id="56">A que teve maior aumento de óbitos foi</segment>
+    <segment id="57">Jaú —saiu de 1 em outubro para 14 em fevereiro</segment>
+    <segment id="58">, maior crescimento entre os grandes municípios do país.</segment>
+    <segment id="59">Na capital paulista</segment>
+    <segment id="60">, apesar do aumento no número de casos e mortes desde novembro</segment>
+    <segment id="61">, a situação ainda está distante da vivenciada na primeira fase.</segment>
+    <segment id="62">Na pior semana da pandemia</segment>
+    <segment id="63">, em junho</segment>
+    <segment id="64">, a cidade registrou média diária de 111 mortes.</segment>
+    <segment id="65">O recorde da segunda fase</segment>
+    <segment id="66">, até o momento</segment>
+    <segment id="67">, é de 69.</segment>
+    <segment id="68">Segundo especialistas ouvidos</segment>
+    <segment id="69">, o impacto da nova fase é parte de uma cadeia complexa de eventos</segment>
+    <segment id="70">, muitos dos quais provenientes ainda da primeira parte da pandemia no país.</segment>
+    <segment id="71">Um dos pontos citados e impossível de ser ignorado a essa altura são as variantes do Sars-CoV-2</segment>
+    <segment id="72">, como</segment>
+    <segment id="73">como a brasileira P.1 e a britânica B.1.1.7</segment>
+    <segment id="74">, ambas consideradas com maior potencial de disseminação</segment>
+    <segment id="75">, o que por si só pode acelerar o alcance da doença.</segment>
+    <segment id="76">As variantes também preocupam por causa de um possível potencial de fuga vacinal.</segment>
+    <segment id="77">A variante B.1.1.7 preocupou e atingiu de tal forma o Reino Unido que o país teve que</segment>
+    <segment id="78">, mais uma vez</segment>
+    <segment id="79">, decretar rígidas medidas restritivas</segment>
+    <segment id="80">, inclusive um lockdown</segment>
+    <segment id="81">, para reduzir a situação da cepa.</segment>
+    <segment id="82">Portugal</segment>
+    <segment id="83">, considerado um</segment>
+    <segment id="84">casocaso de sucesso durante a primeira onda</segment>
+    <segment id="85">, foi atingido por essa variante</segment>
+    <segment id="86">, o que também pode ter sido um dos motivos do descontrole no país</segment>
+    <segment id="87">, teve que decretar um lockdown e já vê na queda de casos o efeito da medida.</segment>
+    <segment id="88">No Brasil</segment>
+    <segment id="89">, as variantes do Sars-CoV-2</segment>
+    <segment id="90">, inclusive a sul-africana B.1.351</segment>
+    <segment id="91">, já são dominantes em seis estados</segment>
+    <segment id="92">, além do Amazonas (local de origem da P.1)</segment>
+    <segment id="93">, segundo estudo da Fiocruz.</segment>
+    <segment id="94">Coronavírus em Portugal   novamente         de   de  de  representando</segment>
+    <segment id="95">um  Mas é incorreto jogar a culpa nas variantes</segment>
+    <segment id="96">, dizem os especialistas.</segment>
+    <segment id="97">O relaxamento das pessoas quanto às medidas de proteção também deve ser levado em conta —inclusive</segment>
+    <segment id="98">porque</segment>
+    <segment id="99">porque as variantes têm mais chance de surgir diante da alta circulação do vírus e do descontrole da pandemia.</segment>
+    <segment id="100">A fadiga da pandemia e do alongamento das estratégias de distanciamento entram na equação desse relaxamento.</segment>
+    <segment id="101">“Não é uma corrida de 100 metros</segment>
+    <segment id="102">, é uma maratona”</segment>
+    <segment id="103">, afirma Max Igor Banks Ferreira Lopes</segment>
+    <segment id="104">, infectologista do Hospital Sirio-Libanês</segment>
+    <segment id="105">, sobre a extensão de tempo das medidas aplicadas no país (sem necessariamente um controle efetivo da doença) e sobre a complexidade de</segment>
+    <segment id="106">comocomo relaxar adequadamente as medidas aplicadas.</segment>
+    <segment id="107">Vale lembrar que o Brasil permaneceu em um platô de</segment>
+    <segment id="108">, aproximadamente</segment>
+    <segment id="109">, 400 a 600 mortes por dia nos quatro últimos meses de 2020</segment>
+    <segment id="110">, segundo os dados de média móvel do consórcio de veículos de imprensa.</segment>
+    <segment id="111">Há mais de 50 dias essa métrica ultrapassa os mil óbitos.</segment>
+    <segment id="112">“</segment>
+    <segment id="113">Não temos uma maturidade política e técnica para discutir isso”</segment>
+    <segment id="114">, diz o infectologista</segment>
+    <segment id="115">, sobre medidas restritivas para conter a pandemia.</segment>
+    <segment id="116">E aí entra a falta de políticas públicas para controle da pandemia.</segment>
+    <segment id="117">O Brasil não implementou políticas de testagem em massa e posterior tentativa de rastreamento de contatos</segment>
+    <segment id="118">, o que permite um olhar mais localizado e pode facilitar medidas de isolamento.</segment>
+    <segment id="119">Até hoje</segment>
+    <segment id="120">, para conseguir testes PCR (considerado o padrão-ouro para detecção) são necessários alguns dias</segment>
+    <segment id="121">, mesmo para quem tem convênio</segment>
+    <segment id="122">, diz Ferreira Lopes.</segment>
+    <segment id="123">Centenas de pessoas fazem fila em shopping por teste gratuito de Covid-19   novamente         de   de  de  representando um</segment>
+    <segment id="124">O monitoramento por mortes e casos é falho</segment>
+    <segment id="125">, segundo o infectologista</segment>
+    <segment id="126">, porque</segment>
+    <segment id="127">porque está sempre olhando no retrovisor</segment>
+    <segment id="128">, para o que aconteceu há semanas.</segment>
+    <segment id="129">Ou seja</segment>
+    <segment id="130">, é limitado o conhecimento imediato sobre o que é necessário naquele momento.</segment>
+    <segment id="131">Segundo a epidemiologista Ethel Maciel</segment>
+    <segment id="132">, professora da Ufes (Universidade Federal do Espírito Santo)</segment>
+    <segment id="133">, os governantes em diversas esferas</segment>
+    <segment id="134">sese limitaram à preocupação com vagas de UTI e</segment>
+    <segment id="135">, com isso</segment>
+    <segment id="136">, “investiram na doença”.</segment>
+    <segment id="137">“</segment>
+    <segment id="138">Estamos esperando as pessoas adoecerem para dar a elas [com UTI] uma forma mais digna de morrer.</segment>
+    <segment id="139">Se tivéssemos um medicamento maravilhoso contra Covid seria uma coisa</segment>
+    <segment id="140">, masmas não temos”</segment>
+    <segment id="141">, diz Maciel.</segment>
+    <segment id="142">“</segment>
+    <segment id="143">A angústia é saber que muitas coisas poderiam ser feitas</segment>
+    <segment id="144">, e o Brasil não está fazendo nada.</segment>
+    <segment id="145">Não é só o governo federal</segment>
+    <segment id="146">, é todo mundo.</segment>
+    <segment id="147">”  Para o epidemiologista e professor da USP Paulo Lotufo</segment>
+    <segment id="148">, as variantes foram usadas politicamente.</segment>
+    <segment id="149">“</segment>
+    <segment id="150">Elas serviram para governos colocarem a culpa do descontrole atual no vírus”</segment>
+    <segment id="151">, diz.</segment>
+    <segment id="152">Na primeira onda</segment>
+    <segment id="153">, grandes metrópoles de forma geral</segment>
+    <segment id="154">, como</segment>
+    <segment id="155">como São Paulo e Rio de Janeiro</segment>
+    <segment id="156">, concentraram casos e mortes e</segment>
+    <segment id="157">, com suas medidas de restrição</segment>
+    <segment id="158">, conseguiram pelo menos diminuir um pouco a marcha do Sars-CoV-2 território adentro.</segment>
+    <segment id="159">Agora, o vírus</segment>
+    <segment id="160">sese encontra muito mais alastrado.</segment>
+    <segment id="161">Em meio às mortes da pandemia e à falta de políticas públicas</segment>
+    <segment id="162">, houve ainda a minimização da situação.</segment>
+    <segment id="163">“</segment>
+    <segment id="164">Você tem um presidente que usou máscara poucas vezes.</segment>
+    <segment id="165">Você tem uma narrativa política de que ‘não tem problema</segment>
+    <segment id="166">, que as pessoas têm que sair</segment>
+    <segment id="167">, que é mimimi’”</segment>
+    <segment id="168">, afirma Maciel.</segment>
+    <segment id="169">Aliado a tudo isso</segment>
+    <segment id="170">, vieram feriados do segundo semestre</segment>
+    <segment id="171">, eleições</segment>
+    <segment id="172">, festas de final de ano e Carnaval.</segment>
+    <segment id="173">A união dessas variáveis —e outras tantas— desembocou em grande pressão no sistema de saúde do país todo ao mesmo tempo e nos profissionais já cansados.</segment>
+    <segment id="174">E, finalmente</segment>
+    <segment id="175">, na explosão de Covid à qual o Brasil assiste</segment>
+    <segment id="176">, sem ação.</segment>
+    <segment id="177">“</segment>
+    <segment id="178">Não dá para fingir normalidade.</segment>
+    <segment id="179">Não está dando”</segment>
+    <segment id="180">, afirma Ferreira Lopes</segment>
+    <segment id="181">, com barulhos de UTI ao fundo.</segment>
+    <segment id="182">Cidades onde as mortes explodiram na segunda fase da pandemia   Angra Dos Reis (RJ)</segment>
+    <segment id="183">Apucarana (PR) Araraquara (SP)</segment>
+    <segment id="184">Ariquemes (RO)</segment>
+    <segment id="185">Assis (SP)</segment>
+    <segment id="186">Bagé (RS) Barbacena (MG)</segment>
+    <segment id="187">Barra Do Piraí (RJ)</segment>
+    <segment id="188">Cabo Frio (RJ)</segment>
+    <segment id="189">Camaçari (BA)</segment>
+    <segment id="190">Caraguatatuba (SP)</segment>
+    <segment id="191">Cascavel (PR)</segment>
+    <segment id="192">Catalão (GO)]</segment>
+    <segment id="193">Caxias Do Sul (RS) Chapecó (SC)</segment>
+    <segment id="194">Criciúma (SC)</segment>
+    <segment id="195">Curitiba (PR) Divinópolis (MG)</segment>
+    <segment id="196">Erechim (RS)</segment>
+    <segment id="197">Florianópolis (SC)</segment>
+    <segment id="198">Gravataí (RS) Guarapuava (PR) Guaratinguetá (SP)</segment>
+    <segment id="199">Itacoatiara (AM)</segment>
+    <segment id="200">Jaú (SP) Ji-Paraná (RO) Juiz De Fora (MG) Londrina (PR) Manaus (AM) Marília (SP)</segment>
+    <segment id="201">Maringá (PR) Mauá (SP)</segment>
+    <segment id="202">Niterói (RJ)</segment>
+    <segment id="203">Ourinhos (SP)</segment>
+    <segment id="204">Passos (MG) Petrolina (PE) Petrópolis (RJ)</segment>
+    <segment id="205">Poços</segment>
+    <segment id="206">De Caldas (MG)</segment>
+    <segment id="207">Ponta Grossa (PR) Porto Velho (RO)</segment>
+    <segment id="208">Santa Cruz Do Sul (RS) Santarém (PA) Santo André (SP)</segment>
+    <segment id="209">São Carlos (SP) Sapucaia Do Sul (RS)</segment>
+    <segment id="210">Teresópolis (RJ)</segment>
+    <segment id="211">Umuarama (PR) Uruguaiana (RS)</segment>
+    <segment id="212">Varginha (MG)</segment>
+  </rst>
+</analysis>

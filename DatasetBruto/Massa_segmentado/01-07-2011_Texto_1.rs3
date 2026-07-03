@@ -1,0 +1,54 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Rio terá tempo instável e mar agitado no fim de semana
+RIO - O tempo instável</segment>
+    <segment id="2">, a chegada de uma frente fria na região e a passagem de um ciclone extratropical pelo sul do Oceano Atlântico nos próximos dias deve tornar o mar agitado no Rio de Janeiro.</segment>
+    <segment id="3">Segundo as previsões</segment>
+    <segment id="4">, ele avançará a partir da região Sul do Brasil durante o fim de semana até</segment>
+    <segment id="5">sese dissipar na próxima terça</segment>
+    <segment id="6">, dia 5 de julho.</segment>
+    <segment id="7">A movimentação vai formar fortes ventos e grandes ondulações no litoral brasileiro.</segment>
+    <segment id="8">A agitação mais intensa e o risco de ressaca são esperados a partir da segunda-feira</segment>
+    <segment id="9">, 4 de julho.</segment>
+    <segment id="10">No sábado</segment>
+    <segment id="11">, a previsão é de mar baixo</segment>
+    <segment id="12">, com ondas de até 50 cm</segment>
+    <segment id="13">, sem rajadas.</segment>
+    <segment id="14">O sol aparece entre muitas nuvens e ocorrem pancadas de chuva à tarde e à noite.</segment>
+    <segment id="15">Em todas as demais áreas</segment>
+    <segment id="16">, o sol brilha forte</segment>
+    <segment id="17">,com calor e tempo mais seco à tarde.</segment>
+    <segment id="18">Já no domingo</segment>
+    <segment id="19">, poderá ser notada uma elevação</segment>
+    <segment id="20">, com ondas de até 1 metro e rajadas de vento de 40 a 70 km/h.</segment>
+    <segment id="21">O tempo fica fechado com chuva a qualquer hora em quase todo o Rio de Janeiro.</segment>
+    <segment id="22">Na segunda-feira</segment>
+    <segment id="23">, o mar carioca fica agitado e com ondas que variam de 2 a 3 metros</segment>
+    <segment id="24">, e ventos de 40 a 80 km/h.</segment>
+    <segment id="25">E na terça-feira o mar continua com ressaca pela madrugada e de manhã.</segment>
+    <segment id="26">As ondas podem chegar a três metros de altura</segment>
+    <segment id="27">, diminuindo de tamanho durante o dia.</segment>
+  </rst>
+</analysis>

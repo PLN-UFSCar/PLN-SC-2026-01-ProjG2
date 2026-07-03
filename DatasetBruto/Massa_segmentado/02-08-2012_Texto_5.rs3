@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Ju paes pega um bronze na laje</segment>
+    <segment id="2">A atriz estÃ¡ no ar</segment>
+    <segment id="3">comocomo a Gabriela de Jorge Amado</segment>
+    <segment id="4">, contou o segredo de seu bronzeado
+Juliana Paes Ã© a capa da ediÃ§Ã£o de agosto da revista "Estilo".</segment>
+    <segment id="5">A atriz</segment>
+    <segment id="6">, que estÃ¡ no ar</segment>
+    <segment id="7">comocomo a Gabriela de Jorge Amado</segment>
+    <segment id="8">, contou o segredo de seu bronzeado: â€œPara nÃ£o ficar com marca de biquÃ­ni</segment>
+    <segment id="9">, me bronzeio sem roupa em um canto escondido na laje da minha casaâ€. AlÃ©m disso</segment>
+    <segment id="10">, ela faz sessÃµes de jet bronze e aplicaÃ§Ãµes diÃ¡rias de um produto.</segment>
+  </rst>
+</analysis>

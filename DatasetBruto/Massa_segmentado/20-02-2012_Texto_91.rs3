@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Familiares de PMs protestam no Centro
+Mães</segment>
+    <segment id="2">, esposas</segment>
+    <segment id="3">, viúvas e filhos de PMs pedem a anistia dos grevistas</segment>
+    <segment id="4">Cerca de 150 familiares de Policiais Militares (PMs) protestam nesta terça-feira (28) na Praça do Campo Grande.</segment>
+    <segment id="5">Mães, esposas</segment>
+    <segment id="6">, viúvas e filhos de PMs e Bombeiros pedem a anistia dos militares e ex-policiais presos durante a greve da categoria</segment>
+    <segment id="7">, que durou onze dias.</segment>
+    <segment id="8">Entre os detidos está o presidente da Associação de Policiais e Bombeiros e de seus Familiares (Aspra)</segment>
+    <segment id="9">, Marco Prisco</segment>
+    <segment id="10">, que se</segment>
+    <segment id="11">se entregou no penúltimo dia do movimento</segment>
+    <segment id="12">, quando os PMs deixaram a ocupação na Assembleia Legislativa da Bahia.</segment>
+  </rst>
+</analysis>

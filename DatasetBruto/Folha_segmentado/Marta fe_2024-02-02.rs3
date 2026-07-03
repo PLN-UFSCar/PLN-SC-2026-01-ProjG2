@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A ex-prefeita Marta Suplicy fez um ensaio particular na tarde desta sexta-feira (2)</segment>
+    <segment id="2">, algumas horas antes de seu discurso no ato em que voltou ao PT</segment>
+    <segment id="3">, em uma casa de shows de SP.</segment>
+    <segment id="4">Presidente Lula (PT) durante a filiação de Marta Suplicy ao PT</segment>
+    <segment id="5">, com a presença de Guilherme Boulos - Bruno Santos/ FolhapressCercada por apenas alguns assessores e militantes</segment>
+    <segment id="6">, subiu ao palco e testou som</segment>
+    <segment id="7">, posicionamento e entonação.</segment>
+    <segment id="8">Para treinar a fala</segment>
+    <segment id="9">, leu um poema</segment>
+    <segment id="10">, e não permitiu fotos ou imagens das testemunhas.</segment>
+    <segment id="11">Na hora do ato</segment>
+    <segment id="12">, Marta leu o discurso em um teleprompter.</segment>
+    <segment id="13">A ex-prefeita será vice de de Guilherme Boulos (PSOL) na corrida pela Prefeitura de São Paulo.</segment>
+  </rst>
+</analysis>

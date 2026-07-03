@@ -1,0 +1,98 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O calor</segment>
+    <segment id="2">, que ficou próximo dos 34ºC no meio da tarde desta sexta-feira (15) na cidade de São Paulo</segment>
+    <segment id="3">, e a promessa de um fim de semana quente e ensolarado em todo o litoral paulista</segment>
+    <segment id="4">, são convites para</segment>
+    <segment id="5">sese aproveitar o sábado e domingo na praia.</segment>
+    <segment id="6">E o paulistano não perdeu tempo.</segment>
+    <segment id="7">A rodovia dos Imigrantes</segment>
+    <segment id="8">, principal ligação para a Baixada Santista</segment>
+    <segment id="9">, chegou a registrar 21 km de congestionamento por volta das 18h30 desta sexta</segment>
+    <segment id="10">, com trânsito lento entre o km 26 e o km 47.</segment>
+    <segment id="11">O motivo</segment>
+    <segment id="12">, segundo a concessionária Ecovias</segment>
+    <segment id="13">, que administra a estrada</segment>
+    <segment id="14">, era o alto fluxo de veículos.</segment>
+    <segment id="15">Congestionamento na rodovia dos Imigrantes</segment>
+    <segment id="16">, ligação entre São Paulo e a Baixada Santista - Reprodução - 25.set.23/TV GloboNa Anchieta</segment>
+    <segment id="17">, que também é caminho para a Baixada</segment>
+    <segment id="18">, o congestionamento chegou a 13 km no mesmo horário</segment>
+    <segment id="19">, entre o km 31 e o km 44.</segment>
+    <segment id="20">Pouco depois das 21h</segment>
+    <segment id="21">, a situação já havia melhorado e o engarrafamento estava em 4 km na Imigrantes.</segment>
+    <segment id="22">O trânsito fez com que a concessionária implantasse a Operação Descida</segment>
+    <segment id="23">, usada nos feriados</segment>
+    <segment id="24">, com mais pistas sentido ao litoral.</segment>
+    <segment id="25">A pista norte da Anchieta precisou ser bloqueada</segment>
+    <segment id="26">, também por volta das 18h30</segment>
+    <segment id="27">, para inversão da mão de direção.</segment>
+    <segment id="28">São esperados entre 155 e 240 mil veículos em direção ao litoral pelo sistema Anchita-Imigrantes entre esta sexta e domingo (17).</segment>
+    <segment id="29">O Inmet (Instituto Nacional de Meteorologia) registrou às 15h desta sexta 33</segment>
+    <segment id="30">,9°C na estação meteorológica automática do mirante de Santana</segment>
+    <segment id="31">, na zona norte da capital.</segment>
+    <segment id="32">O dado pode ser atualizado.</segment>
+    <segment id="33">A previsão é que os termômetros possam chegar a 35ºC</segment>
+    <segment id="34">, sem expectativa de chuva</segment>
+    <segment id="35">, neste sábado (16) e domingo</segment>
+    <segment id="36">, por causa de uma onda de calor.</segment>
+    <segment id="37">Na Baixada Santista</segment>
+    <segment id="38">, o Inmet prevê temperatura de até 32ºC neste sábado</segment>
+    <segment id="39">, também sem expectativa de chuva.</segment>
+    <segment id="40">No domingo</segment>
+    <segment id="41">, pode subir para até 33ºC.</segment>
+    <segment id="42">Depois de 35ºC de máxima nesta sexta</segment>
+    <segment id="43">, São Sebastião</segment>
+    <segment id="44">, no litoral norte</segment>
+    <segment id="45">, tem previsão de um fim de semana quente</segment>
+    <segment id="46">, com até 32ºC de temperatura.</segment>
+    <segment id="47">INTERIOR</segment>
+    <segment id="48">O motorista também enfrentou lentidão rumo ao interior do estado.</segment>
+    <segment id="49">Na rodovia dos Bandeirantes</segment>
+    <segment id="50">, às 19h havia congestionamento do km 47 ao km 50</segment>
+    <segment id="51">, em Jundiaí (no sentido da capital</segment>
+    <segment id="52">, o engarrafamento era do km 50 ao km 53</segment>
+    <segment id="53">, na mesma região).</segment>
+    <segment id="54">Na rodovia Anhanguera</segment>
+    <segment id="55">, a lentidão era em Jundiaí e em Sumaré.</segment>
+    <segment id="56">Na rodovia Presidente Dutra</segment>
+    <segment id="57">, o trânsito estava devagar entre o km 224 e o km 219</segment>
+    <segment id="58">, na pista marginal</segment>
+    <segment id="59">, em Guarulhos</segment>
+    <segment id="60">, na região metropolitana.</segment>
+    <segment id="61">O congestionamento era influenciado por obras.</segment>
+    <segment id="62">E não é só de carro que o paulistano está pegando a estrada neste último fim de semana antes do Natal.</segment>
+    <segment id="63">São esperadas 227 mil pessoas nos três terminais de ônibus da capital —Tietê</segment>
+    <segment id="64">, Barra Funda e Jabaquara— nesta sexta e sábado.</segment>
+    <segment id="65">O número é</segment>
+    <segment id="66">, em média</segment>
+    <segment id="67">, 9% maior do que um final de semana comum.</segment>
+    <segment id="68">Segundo a concessionária Socicam</segment>
+    <segment id="69">, que administra as três rodoviárias</segment>
+    <segment id="70">, sese forem considerados os embarques e desembarques esperados de sexta a segunda-feira (18)</segment>
+    <segment id="71">, a previsão é que 456 mil pessoas viagem utilizando o transporte rodoviário regular</segment>
+    <segment id="72">, mantendo a estimativa de 9% a mais de movimento.</segment>
+  </rst>
+</analysis>

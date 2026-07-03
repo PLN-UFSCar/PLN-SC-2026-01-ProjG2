@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Homem morre em madrugada macabra</segment>
+    <segment id="2">Segundo a polícia</segment>
+    <segment id="3">, Ricardo foi morto por volta das 0h30 em Pasto de Fora</segment>
+    <segment id="4">, Candeias
+Ricardo Crispim dos Santos</segment>
+    <segment id="5">, 39 anos</segment>
+    <segment id="6">, foi assassinado na madrugada de ontem</segment>
+    <segment id="7">, em Pasto de Fora</segment>
+    <segment id="8">, no município de Candeias.</segment>
+    <segment id="9">Segundo a polícia</segment>
+    <segment id="10">, Ricardo foi morto por volta das 0h30.</segment>
+    <segment id="11">Não há informações sobre autoria e motivação do crime.</segment>
+    <segment id="12">Informações do site Camaçari Notícias.</segment>
+  </rst>
+</analysis>

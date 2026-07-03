@@ -1,0 +1,88 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo cortou pela metade a previsão oficial de crescimento do PIB (Produto Interno Bruto) para 2019</segment>
+    <segment id="2">, de 1</segment>
+    <segment id="3">,6% para 0</segment>
+    <segment id="4">,81%.</segment>
+    <segment id="5">A medida reduz a projeção de arrecadação</segment>
+    <segment id="6">, dificulta o cumprimento da meta fiscal do ano e pode forçar a equipe econômica a fazer novo bloqueio no Orçamento.</segment>
+    <segment id="7">Essa é a terceira reavaliação para baixo feita pelo governo para calcular a execução das contas federais.</segment>
+    <segment id="8">O orçamento de 2019 foi elaborado no meio de 2018 e trazia</segment>
+    <segment id="9">, inicialmente</segment>
+    <segment id="10">, uma previsão de crescimento de 2</segment>
+    <segment id="11">,5%.</segment>
+    <segment id="12">O que aconteceu com a economia brasileira no 1º tri de 2019?Mais    novamente         de   de  de  representando um  Em março</segment>
+    <segment id="13">, o Executivo cortou a projeção para 2</segment>
+    <segment id="14">,2%.</segment>
+    <segment id="15">Depois</segment>
+    <segment id="16">, fez novo corte em maio</segment>
+    <segment id="17">, para 1</segment>
+    <segment id="18">,6%.</segment>
+    <segment id="19">O novo corte foi antecipado pela Folha.</segment>
+    <segment id="20">Normalmente</segment>
+    <segment id="21">, as projeções do governo para o PIB são tornadas públicas a cada dois meses nos relatórios bimestrais de avaliação de receitas e despesas.</segment>
+    <segment id="22">Agora, o governo mudou a forma de divulgação e apresentou os parâmetros semanas antes da apresentação do relatório para deixar o número mais próximo do que é calculado por analistas de mercado.</segment>
+    <segment id="23">De acordo com o boletim Focus</segment>
+    <segment id="24">, divulgado pelo Banco Central na segunda-feira (8)</segment>
+    <segment id="25">, a expectativa do mercado é de um crescimento do PIB de 0</segment>
+    <segment id="26">,82% neste ano.</segment>
+    <segment id="27">A reavaliação feita pelo governo aponta para a necessidade de um novo contingenciamento de recursos neste ano.</segment>
+    <segment id="28">A decisão final será divulgada no dia 22 deste mês</segment>
+    <segment id="29">, quando o relatório bimestral será divulgado.</segment>
+    <segment id="30">Em março</segment>
+    <segment id="31">, o governo teve de anunciar um bloqueio de aproximadamente R$ 30 bilhões na verba dos ministérios.</segment>
+    <segment id="32">Após uma onda de protestos contra cortes em universidades</segment>
+    <segment id="33">, a equipe econômica anunciou um desbloqueio de R$ 2</segment>
+    <segment id="34">,1 bilhões na Educação.</segment>
+    <segment id="35">Na reavaliação apresentada nesta sexta-feira</segment>
+    <segment id="36">, o governo também cortou a previsão de crescimento da economia em 2020</segment>
+    <segment id="37">, de 2</segment>
+    <segment id="38">,6% para 2</segment>
+    <segment id="39">,2%.  ​Também foi revista a projeção de inflação para este ano.</segment>
+    <segment id="40">Em 2019</segment>
+    <segment id="41">, o governo espera uma alta de 3</segment>
+    <segment id="42">,8%, e não mais de 4</segment>
+    <segment id="43">,1%.</segment>
+    <segment id="44">No cenário de aperto das contas públicas</segment>
+    <segment id="45">, o secretário da Política Econômica do ministério da Economia</segment>
+    <segment id="46">, Adolfo Sachsida afirmou que o governo estuda medidas para dar eficiência aos gastos públicos.</segment>
+    <segment id="47">Uma delas</segment>
+    <segment id="48">, segundo o secretário</segment>
+    <segment id="49">, é a criação de gatilhos para correção de rumos antes que o governo descumpra a chamada "regra de ouro" --norma que proíbe a tomada de empréstimos para quitar despesas do dia a dia.</segment>
+    <segment id="50">Hoje, não há essa correção prévia e</segment>
+    <segment id="51">, para não descumprir a regra</segment>
+    <segment id="52">, o governo é obrigado a pedir autorização do Congresso para gastar mais do que o limite permitido.</segment>
+    <segment id="53">O secretário negou que o governo esteja avaliando retirar os investimentos públicos das contas de regras fiscais.</segment>
+    <segment id="54">Isso porque</segment>
+    <segment id="55">porque já passou pelo radar da equipe econômica retirar essa rubrica da regra do teto de gastos</segment>
+    <segment id="56">, que impede o crescimento das despesas do governo acima da inflação.</segment>
+    <segment id="57">​"Não existe absolutamente nada referente a retirar investimento de gasto do governo.</segment>
+    <segment id="58">Investimento faz parte das despesas do governo e está dentro da conta</segment>
+    <segment id="59">, está no teto</segment>
+    <segment id="60">, está no resultado primário</segment>
+    <segment id="61">, está na regra de ouro"</segment>
+    <segment id="62">, disse.</segment>
+  </rst>
+</analysis>

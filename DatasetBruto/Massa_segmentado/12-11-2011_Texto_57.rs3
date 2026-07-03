@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Explosão atinge base militar do Irã
+TEERÃ - Segundo informações locais</segment>
+    <segment id="2">, uma forte explosão atingiu um armazém de armas de uma base militar do Irã
+Deixando</segment>
+    <segment id="3">um número ainda indeterminado de mortos na manhã deste sábado (horário de Brasília).</segment>
+    <segment id="4">O local do incidente ficava próximo à capital Teerã.</segment>
+    <segment id="5">Alireza Janeh</segment>
+    <segment id="6">, chefe da segurança do governo da capital</segment>
+    <segment id="7">, teria confirmado à agência ISNA que o som da explosão foi ouvido nos arredores da capital.</segment>
+    <segment id="8">Outra agência disse que o ataque aconteceu numa base das Guardas Revolucionárias</segment>
+    <segment id="9">, na cidade de Binganeh.</segment>
+  </rst>
+</analysis>

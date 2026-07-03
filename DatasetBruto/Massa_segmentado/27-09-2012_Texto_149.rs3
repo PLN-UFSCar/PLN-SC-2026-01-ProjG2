@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Editora usa Ã¡lbum para enganar crianÃ§as</segment>
+    <segment id="2">O Ã¡lbum foi lanÃ§ado com a promessa de distribuir mais de um milhÃ£o de prÃªmios</segment>
+    <segment id="3">A justiÃ§a de SÃ£o Paulo proferiu sentenÃ§a no processo cÃ­vel em que a Editora Abril pediu a anulaÃ§Ã£o da multa determinada pelo Procon em 2010 pela realizaÃ§Ã£o da campanha publicitÃ¡ria do Ã¡lbum Disney Stars PrÃªmios.</segment>
+    <segment id="4">A justiÃ§a considerou que â€œhouve inequÃ­voca prÃ¡tica ilegal e abusivaâ€ por parte da editora</segment>
+    <segment id="5">, e, portanto</segment>
+    <segment id="6">, manteve a multa de R$ 322.936</segment>
+    <segment id="7">,06.</segment>
+    <segment id="8">O Ã¡lbum foi lanÃ§ado com a promessa de distribuir mais de um milhÃ£o de prÃªmios aos consumidores  que encontrassem vale-produtos em envelopes.</segment>
+    <segment id="9">Entre o milhÃ£o de figurinhas premiadas nos envelopes de figurinhas</segment>
+    <segment id="10">, apenas pouco menos de 16 mil eram dos produtos anunciados.</segment>
+  </rst>
+</analysis>

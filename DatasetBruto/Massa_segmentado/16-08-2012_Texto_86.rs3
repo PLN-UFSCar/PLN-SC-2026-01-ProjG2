@@ -1,0 +1,48 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Nasce o segundo filho de Claudinha</segment>
+    <segment id="2">A cantora fez questÃ£o de enviar um bilhetinho aos fÃ£s que esperavam vÃª-la no hospital</segment>
+    <segment id="3">Claudia Leitte deu Ã  luz na madrugada de ontem</segment>
+    <segment id="4">, no Hospital AlianÃ§a</segment>
+    <segment id="5">, em Salvador.</segment>
+    <segment id="6">Rafael veio ao mundo por meio de cesariana</segment>
+    <segment id="7">, com 3.305 kg e 49 cm.</segment>
+    <segment id="8">Claudinha escreveu  no Twitter:</segment>
+    <segment id="9">â€œEstou muito feliz</segment>
+    <segment id="10">, amamentando meu Rafael</segment>
+    <segment id="11">, que nasceu Ã  0h11</segment>
+    <segment id="12">, lindo</segment>
+    <segment id="13">, gostoso e cheiroso!</segment>
+    <segment id="14">Que Deus te abenÃ§oe</segment>
+    <segment id="15">, filho!â€</segment>
+    <segment id="16">A cantora enviou um bilhete aos fÃ£s que estavam no hospital.</segment>
+    <segment id="17">â€œMeus pitottucos</segment>
+    <segment id="18">, vocÃªs nÃ£o imaginam o tamanho da minha alegria.</segment>
+    <segment id="19">Obrigada por estarem aqui tambÃ©</segment>
+    <segment id="20">m.</segment>
+    <segment id="21">Eu te amosss!â€</segment>
+    <segment id="22">, escreveu.</segment>
+  </rst>
+</analysis>

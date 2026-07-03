@@ -1,0 +1,174 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Em pacientes com Covid-19</segment>
+    <segment id="2">, a obesidade é o fator que mais</segment>
+    <segment id="3">sese associa ao desenvolvimento de disfunção endotelial —condição em que os vasos sanguíneos perdem a capacidade de</segment>
+    <segment id="4">sese contrair e relaxar adequadamente</segment>
+    <segment id="5">, aumentando o risco de eventos</segment>
+    <segment id="6">comocomo infarto</segment>
+    <segment id="7">, trombose e AVC (Acidente Vascular Cerebral).</segment>
+    <segment id="8">A constatação foi feita por um grupo de pesquisadores apoiado (17/25648-4 e 15/26501-1) pela Fapesp com base em dados de 109 pacientes internados com quadros moderados da doença.</segment>
+    <segment id="9">Os resultados foram divulgados na revista Obesity.</segment>
+    <segment id="10">Médico atende paciente que sofre de Covid-19 no City Clinical Hospital em Kherson</segment>
+    <segment id="11">, Ucrânia  -Anastasia Vlasova/Reuters"Fizemos a caracterização geral desses pacientes e tentamos identificar quais fatores poderiam modular ou acentuar o dano endotelial.</segment>
+    <segment id="12">Os resultados indicam que o item mais preponderante foi o IMC [índice de massa corporal].</segment>
+    <segment id="13">Em segundo lugar</segment>
+    <segment id="14">, com bem menos relevância</segment>
+    <segment id="15">, encontramos o nível de creatinina no sangue</segment>
+    <segment id="16">, que é um marcador relacionado à função renal"</segment>
+    <segment id="17">, conta Alessandro Domingues Heubel</segment>
+    <segment id="18">, doutorando no Programa de Pós-Graduação em Fisioterapia da UFSCar (Universidade Federal de São Carlos) e primeiro autor do artigo.</segment>
+    <segment id="19">Heubel explica que o IMC é uma das principais ferramentas usadas por profissionais de saúde para mensurar o grau de sobrepeso e obesidade.</segment>
+    <segment id="20">O índice é calculado dividindo-</segment>
+    <segment id="21">sese o peso (em quilos) pela altura (em metros) ao quadrado.</segment>
+    <segment id="22">Indivíduos com resultado igual ou superior a 30 kg/m2 são considerados obesos.</segment>
+    <segment id="23">Foram incluídos na pesquisa pacientes de ambos os sexos</segment>
+    <segment id="24">, com idade média de 51 anos</segment>
+    <segment id="25">, internados no Hospital Estadual de Bauru e na Santa Casa de São Carlos.</segment>
+    <segment id="26">A obesidade foi a comorbidade mais prevalente (62%) nessa população</segment>
+    <segment id="27">, seguida por hipertensão (47%) e diabetes (17%).</segment>
+    <segment id="28">Amostras de sangue foram coletadas logo após a admissão hospitalar e a função endotelial foi avaliada 72 horas depois</segment>
+    <segment id="29">, por meio de um parâmetro conhecido</segment>
+    <segment id="30">comocomo dilatação mediada pelo fluxo (FMD</segment>
+    <segment id="31">, na sigla em inglês).</segment>
+    <segment id="32">O método não invasivo consiste em medir o diâmetro da artéria braquial (no braço)</segment>
+    <segment id="33">, por meio de um exame de ultrassom vascular</segment>
+    <segment id="34">, antes e depois de uma manobra que obstrui o fluxo sanguíneo do antebraço durante alguns minutos.</segment>
+    <segment id="35">"</segment>
+    <segment id="36">Imediatamente após a desobstrução</segment>
+    <segment id="37">, há um aumento do fluxo de sangue na artéria e isso constitui um estímulo mecânico para as células endoteliais [que formam o revestimento interno dos vasos sanguíneos] produzirem óxido nítrico</segment>
+    <segment id="38">, uma substância vasodilatadora.</segment>
+    <segment id="39">Quanto mais a artéria</segment>
+    <segment id="40">sese dilata</segment>
+    <segment id="41">, melhor a função endotelial.</segment>
+    <segment id="42">E vimos que os pacientes obesos</segment>
+    <segment id="43">, no período de infecção ativa pela Covid-19</segment>
+    <segment id="44">, tinham dilatação mediada pelo fluxo muito pequena"</segment>
+    <segment id="45">, conta o doutorando.</segment>
+    <segment id="46">Além da FMD e do IMC</segment>
+    <segment id="47">, foi mensurada a força de preensão manual (medida com um dinamômetro e aplicada para avaliar a capacidade física) e analisados os níveis sanguíneos de hemoglobina</segment>
+    <segment id="48">, leucócitos</segment>
+    <segment id="49">, linfócitos</segment>
+    <segment id="50">, plaquetas</segment>
+    <segment id="51">, proteína C-reativa (marcador de inflamação)</segment>
+    <segment id="52">, ferritina</segment>
+    <segment id="53">, D-dímero (marcador de trombose) e creatinina.</segment>
+    <segment id="54">Considerou-</segment>
+    <segment id="55">sese ainda</segment>
+    <segment id="56">, na análise</segment>
+    <segment id="57">, a idade</segment>
+    <segment id="58">, a presença de comorbidades</segment>
+    <segment id="59">, a prática de atividade física</segment>
+    <segment id="60">, tabagismo e medicamentos usados.</segment>
+    <segment id="61">No momento em que foram avaliados</segment>
+    <segment id="62">, nenhum participante estava internado em UTI</segment>
+    <segment id="63">, masmas 72% faziam uso de suplementação de oxigênio.</segment>
+    <segment id="64">Para encontrar os determinantes da disfunção endotelial na amostra avaliada</segment>
+    <segment id="65">, foi feita uma análise de regressão univariada (técnica estatística que permite considerar cada fator de risco isoladamente) e também uma análise de regressão múltipla (que analisa os fatores em conjunto).</segment>
+    <segment id="66">Somente o IMC elevado e o nível de creatinina tiveram relação direta com a redução da FMD.</segment>
+    <segment id="67">Segundo a professora da UFSCar Renata Gonçalves Mendes</segment>
+    <segment id="68">, orientadora de Heubel</segment>
+    <segment id="69">, cada unidade a mais no IMC representou uma redução de 0</segment>
+    <segment id="70">,19% da FMD.</segment>
+    <segment id="71">"</segment>
+    <segment id="72">Quando dois pacientes com Covid-19 são comparados</segment>
+    <segment id="73">, um com peso normal [IMC de 20 kg/m2] e o outro com obesidade [IMC de 30 kg/m2]</segment>
+    <segment id="74">, este último tende a ter um valor de FMD 1</segment>
+    <segment id="75">,9% menor.</segment>
+    <segment id="76">Com base em conhecimento prévio</segment>
+    <segment id="77">, isso sugere um risco cardiovascular aumentado em aproximadamente 17%"</segment>
+    <segment id="78">, afirmam os pesquisadores no artigo.  "</segment>
+    <segment id="79">Na prática clínica</segment>
+    <segment id="80">, vemos que os obesos têm mais eventos cardiovasculares durante a internação.</segment>
+    <segment id="81">Nosso estudo pode ajudar a entender um dos mecanismos pelos quais isso acontece e por que a obesidade aumenta o risco de agravamento da Covid-19"</segment>
+    <segment id="82">, diz Mendes à Agência Fapesp.</segment>
+    <segment id="83">Remédios já aprovados no Brasil contra a Covid-19Mais    novamente         de   de  de  representando um    EVIDÊNCIAS ANTERIORES</segment>
+    <segment id="84">Desde o início da pandemia causada pelo SARS-CoV-2</segment>
+    <segment id="85">, diversos estudos aventaram a hipótese de que o vírus poderia infectar e lesionar diretamente as células endoteliais</segment>
+    <segment id="86">, o que foi comprovado em análises feitas com amostras de autópsias feitas em pacientes que morreram de Covid-19.</segment>
+    <segment id="87">Especula-</segment>
+    <segment id="88">sese ainda que a lesão do endotélio pelo vírus esteja associada a distúrbios de coagulação sanguínea (formação de microtrombos) e ao desenvolvimento de disfunção endotelial intensa e sistêmica</segment>
+    <segment id="89">, dois fatores que levariam ao agravamento do quadro.</segment>
+    <segment id="90">"</segment>
+    <segment id="91">Ainda não sabemos ao certo em que medida a disfunção endotelial é decorrente da lesão direta causada pelo vírus ou uma consequência da tempestade de citocinas [liberação de moléculas inflamatórias pelo sistema imune] típica da Covid-19"</segment>
+    <segment id="92">, pondera Heubel.</segment>
+    <segment id="93">Estudos anteriores já haviam demonstrado que a obesidade eleva o risco de agravamento da Covid-19 independentemente da idade</segment>
+    <segment id="94">, do sexo</segment>
+    <segment id="95">, da etnia e da existência de comorbidades</segment>
+    <segment id="96">comocomo diabetes</segment>
+    <segment id="97">, hipertensão</segment>
+    <segment id="98">, doença cardíaca ou pulmonar (leia mais em: agencia.fapesp.br/34049).</segment>
+    <segment id="99">Entre os motivos estão as alterações mecânicas no sistema respiratório causadas pelo aumento do conteúdo abdominal</segment>
+    <segment id="100">, que comprime o diafragma e o pulmão.</segment>
+    <segment id="101">Além disso</segment>
+    <segment id="102">, os obesos frequentemente apresentam disfunções no sistema imune.</segment>
+    <segment id="103">Há evidências de que o Sars-CoV-2 é capaz de infectar as células do tecido adiposo</segment>
+    <segment id="104">, que acabam servindo de reservatório para o patógeno.</segment>
+    <segment id="105">Isso contribui</segment>
+    <segment id="106">para que</segment>
+    <segment id="107">para que</segment>
+    <segment id="108">, de modo geral</segment>
+    <segment id="109">, a carga viral do obeso seja mais alta que a de indivíduos sem sobrepeso (leia mais em: agencia.fapesp.br/33612).  "</segment>
+    <segment id="110">Uma possível explicação para nossos achados é que a maior carga viral dos obesos aumenta o risco de infecção direta das células endoteliais.</segment>
+    <segment id="111">Também é possível que a inflamação</segment>
+    <segment id="112">, que costuma ser mais exacerbada em indivíduos acima do peso</segment>
+    <segment id="113">, tenha influência no processo.</segment>
+    <segment id="114">Mas por limitações associadas ao desenho do estudo não foi possível observar uma correlação direta entre os marcadores inflamatórios e a FMD"</segment>
+    <segment id="115">, conta o doutorando.</segment>
+    <segment id="116">Para os pesquisadores</segment>
+    <segment id="117">, os profissionais de saúde devem ficar mais atentos a complicações vasculares ao tratar de pacientes obesos com Covid-19.</segment>
+    <segment id="118">"</segment>
+    <segment id="119">Por serem mais suscetíveis a eventos cardiovasculares</segment>
+    <segment id="120">, precisam ser mais assistidos.</segment>
+    <segment id="121">E temos várias estratégias para evitar que as complicações</segment>
+    <segment id="122">sese desenvolvam"</segment>
+    <segment id="123">, diz Heubel.</segment>
+    <segment id="124">Profissionais de saúde contam em exposição</segment>
+    <segment id="125">comocomo sobrevieram à contaminação por Covid-19Mais    novamente         de   de  de  representando um    Mendes considera que os achados abrem caminho para a busca de novas abordagens terapêuticas focadas no endotélio.</segment>
+    <segment id="126">"Seria interessante buscar um composto capaz de barrar o processo que leva à disfunção endotelial</segment>
+    <segment id="127">, visto que é um fator que eleva o risco de complicações graves.</segment>
+    <segment id="128">"</segment>
+    <segment id="129">Emmanuel Gomes Ciolac</segment>
+    <segment id="130">, professor da (Unesp) Universidade Estadual Paulistaem Bauru e coautor do artigo</segment>
+    <segment id="131">, conta que muitos participantes do estudo evoluíram para casos críticos durante a internação e precisaram ser internados em UTI.</segment>
+    <segment id="132">"</segment>
+    <segment id="133">Este é um projeto grande</segment>
+    <segment id="134">, no qual os pacientes estão sendo avaliados em três etapas: hospitalar</segment>
+    <segment id="135">, entre 30 e 45 dias após a alta e</segment>
+    <segment id="136">, novamente</segment>
+    <segment id="137">, quatro meses após a alta hospitalar.</segment>
+    <segment id="138">Mais resultados devem ser divulgados em breve"</segment>
+    <segment id="139">, conta.</segment>
+    <segment id="140">Para Ciolac</segment>
+    <segment id="141">, os dados obtidos até o momento reforçam a necessidade de a sociedade olhar para a obesidade</segment>
+    <segment id="142">comocomo problema sério.</segment>
+    <segment id="143">"</segment>
+    <segment id="144">São urgentes estratégias de saúde pública amplas e eficientes para o combate a essa doença</segment>
+    <segment id="145">, que está associada à maior gravidade da COVID-19 e de inúmeras outras enfermidades.</segment>
+    <segment id="146">"</segment>
+    <segment id="147">O artigo "Determinants of endothelial dysfunction in non-critically ill hospitalized COVID-19 patients: a cross-sectional study" pode ser lido em:</segment>
+    <segment id="148">https://onlinelibrary.wiley.com/doi/10.1002/oby.23311</segment>
+  </rst>
+</analysis>

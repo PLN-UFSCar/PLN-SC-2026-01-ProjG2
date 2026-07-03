@@ -1,0 +1,58 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Diretores de empresa dos bondes de Santa Teresa serão exonerados
+RIO - Eduardo Macedo</segment>
+    <segment id="2">, novo presidente da Central</segment>
+    <segment id="3">, empresa responsável pelos bondes de Santa Teresa</segment>
+    <segment id="4">, anunciou que vai exonerar diretores e técnicos que estiverem ligados diretamente com a manutenção do sistema dos veículos.</segment>
+    <segment id="5">Ele tomou a decisão depois da divulgação do resultado da perícia do bonde envolvido com o acidente de 27 de agosto</segment>
+    <segment id="6">, na sexta-feira.</segment>
+    <segment id="7">O primeiro a ser afastado será Fábio Tepedino</segment>
+    <segment id="8">, diretor de operações da empresa.
+
+- Eu não recebi oficialmente o laudo técnico do Carlos Éboli</segment>
+    <segment id="9">, masmas</segment>
+    <segment id="10">, diante do que já foi publicado pela imprensa</segment>
+    <segment id="11">, tomei a decisão de afastar aqueles que tenham responsabilidade direta com o funcionamento do sistema de bondes - afirmou o presidente da Central.</segment>
+    <segment id="12">Macedo afirmou ter encontrado dificuldades para formar uma equipe de confiança.</segment>
+    <segment id="13">Apesar disso</segment>
+    <segment id="14">, ele disse que já montou um Plano de Ações e Investimentos que será encaminhado a Secretaria da Casa Civil para apreciação.</segment>
+    <segment id="15">O plano teve</segment>
+    <segment id="16">comocomo base as ações indicadas pela Comissão Interventora</segment>
+    <segment id="17">, presidida por Rogério Onofre.
+
+- A Central tem engenheiros capacitados</segment>
+    <segment id="18">, masmas o bondinho envolve cifras menores e foi deixado de lado - disse Macedo.</segment>
+    <segment id="19">Onofre disse que decidiu antecipar a segunda parcela de R$ 10 milhões para recuperação dos bondes.</segment>
+    <segment id="20">Convocado pelo governador Sérgio Cabral para intervir na Central</segment>
+    <segment id="21">, ele já concluiu o trabalho de diagnóstico dos problemas do sistema.</segment>
+    <segment id="22">O acidente</segment>
+    <segment id="23">, que deixou seis mortos e 57 feridos</segment>
+    <segment id="24">, aconteceu na Rua Joaquim Murtinho</segment>
+    <segment id="25">, em 27 de agosto.</segment>
+    <segment id="26">O laudo do ICCE detectou 23 falhas no bonde</segment>
+    <segment id="27">, que não apresentava condições de circulação.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,38 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Usuários enfrentam fila no Ferry</segment>
+    <segment id="2">A previsão de espera até o embarque</segment>
+    <segment id="3">, de acordo com a TWB</segment>
+    <segment id="4">, é de 1h30</segment>
+    <segment id="5">Os usuários que utilizam o sistema ferry boat nesta quinta-feira (16) enfrentam fila de veículos.</segment>
+    <segment id="6">A previsão de espera até o embarque</segment>
+    <segment id="7">, de acordo com a TWB</segment>
+    <segment id="8">, é de 1h30.</segment>
+    <segment id="9">Os pedestres não aguardam em fila.</segment>
+    <segment id="10">Seis embarcações operam nesta manhã em esquema de bate-e-volta.</segment>
+    <segment id="11">A estimativa é que 145 mil pedestres e 30 mil veículos façam a travessia entre hoje e o dia 22 de fevereiro.</segment>
+    <segment id="12">Não há bilhetes com hora marcada.</segment>
+  </rst>
+</analysis>

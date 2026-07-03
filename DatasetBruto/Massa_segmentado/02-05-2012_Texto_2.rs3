@@ -1,0 +1,54 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">ONU amplia sanções a empresas da Coreia do Norte
+NAÇÕES UNIDAS - Mais três empresas norte-coreanas receberam novas sanções econômicas das Nações Unidas nesta quarta-feira</segment>
+    <segment id="2">, após o lançamento frustrado de um foguete no mês passado por parte de Pyongyang</segment>
+    <segment id="3">, na Coreia do Norte.</segment>
+    <segment id="4">As três companhias - um banco e duas empresas - são responsáveis pelo financiamento</segment>
+    <segment id="5">, exportação e venda de armas</segment>
+    <segment id="6">, segundo a ONU.</segment>
+    <segment id="7">Para a embaixadora americana na entidade</segment>
+    <segment id="8">, Susan Rice</segment>
+    <segment id="9">, as companhias estão fortemente envolvidas no programa nuclear de Pyongyang.</segment>
+    <segment id="10">As três últimas empresas só foram incluídas no bloqueio após obtido o consentimento da China</segment>
+    <segment id="11">, forte aliada da Coreia do Norte</segment>
+    <segment id="12">, na última terça-feira.</segment>
+    <segment id="13">O lançamento de um foguete</segment>
+    <segment id="14">, no dia 13 de abril</segment>
+    <segment id="15">, foi considerado pelos Estados Unidos e por seus aliados</segment>
+    <segment id="16">comocomo um um teste de míssil de longo alcance.</segment>
+    <segment id="17">A Coreia do Norte</segment>
+    <segment id="18">, por sua vez</segment>
+    <segment id="19">, classificou o lançamento</segment>
+    <segment id="20">comocomo uma tentativa frustrada de colocar um satélite em órbita.</segment>
+    <segment id="21">O foguete caiu poucos minutos após o lançamento.</segment>
+    <segment id="22">Ainda segundo a ONU</segment>
+    <segment id="23">, a empresa Green Pine é responsável por quase metade das armas exportadas pela Coreia do Norte.</segment>
+    <segment id="24">A segunda empresa que sofreu o boicote</segment>
+    <segment id="25">, Korea Heungjin</segment>
+    <segment id="26">, vem sendo usada para obter um controlador digital avançado utilizado para o desenho de mísseis.</segment>
+    <segment id="27">Já o banco Amroggang Development Banking Corporation pertence à corporação responsável pelo principal financiamento norte-coreano de armas convencionais e balística.</segment>
+  </rst>
+</analysis>

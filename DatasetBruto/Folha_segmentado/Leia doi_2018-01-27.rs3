@@ -1,0 +1,209 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">SOBRE O TEXTO</segment>
+    <segment id="2">Os textos nesta página integram &amp;quot</segment>
+    <segment id="3">;Blumfeld</segment>
+    <segment id="4">, um Solteirão de Mais Idade e Outras Histórias&amp;quot</segment>
+    <segment id="5">;, coletânea de contos do autor que a Civilização Brasileira lança no início de fevereiro.</segment>
+    <segment id="6">O volume é organizado por Marcelo Backes</segment>
+    <segment id="7">, que também assina tradução e posfácio e escreveu</segment>
+    <segment id="8">, para a &amp;quot</segment>
+    <segment id="9">;Ilustríssima&amp;quot</segment>
+    <segment id="10">;, um ensaio sobre os personagens do autor tcheco.</segment>
+    <segment id="11">Crédito: Alexandre TelesIlustração de Alexandre TelesO GRANDE NADADOR&amp;quot</segment>
+    <segment id="12">;O grande nadador!</segment>
+    <segment id="13">O grande nadador!&amp;quot</segment>
+    <segment id="14">;, exclamavam as pessoas.</segment>
+    <segment id="15">Eu vinha das olimpíadas em X</segment>
+    <segment id="16">, onde havia conquistado um recorde mundial em natação.</segment>
+    <segment id="17">Estava nas escadarias abertas da estação ferroviária de minha cidade natal &amp;mdash</segment>
+    <segment id="18">;onde é mesmo que ela fica?&amp;mdash</segment>
+    <segment id="19">; e lançava os olhos para a multidão indistinta à luz do crepúsculo.</segment>
+    <segment id="20">Uma moça</segment>
+    <segment id="21">, cuja face acariciei fugidiamente</segment>
+    <segment id="22">, pendurou com agilidade um cachecol em torno de mim</segment>
+    <segment id="23">, no qual estava escrito em língua estrangeira:</segment>
+    <segment id="24">&amp;quot;O campeão olímpico.&amp;quot</segment>
+    <segment id="25">;</segment>
+    <segment id="26">Um automóvel apareceu</segment>
+    <segment id="27">, alguns senhores me empurraram para dentro</segment>
+    <segment id="28">, dois deles também entraram</segment>
+    <segment id="29">, o prefeito e mais alguém.</segment>
+    <segment id="30">Logo estávamos no salão de festas</segment>
+    <segment id="31">, nas galerias ao alto um coro cantava e</segment>
+    <segment id="32">, quando entrei</segment>
+    <segment id="33">, todos os convidados</segment>
+    <segment id="34">, eram centenas</segment>
+    <segment id="35">, levantaram-</segment>
+    <segment id="36">sese e gritaram no mesmo ritmo uma sentença que não consegui compreender ao certo.</segment>
+    <segment id="37">À minha esquerda</segment>
+    <segment id="38">, estava sentado um ministro</segment>
+    <segment id="39">, e não sei</segment>
+    <segment id="40">porque</segment>
+    <segment id="41">porque a palavra me assustou tanto no momento da apresentação</segment>
+    <segment id="42">, eu o medi selvagemente com meus olhares</segment>
+    <segment id="43">, masmas logo me contive</segment>
+    <segment id="44">, à direita</segment>
+    <segment id="45">, estava a mulher do prefeito</segment>
+    <segment id="46">, uma senhora opulenta</segment>
+    <segment id="47">, tudo nela</segment>
+    <segment id="48">, sobretudo à altura dos seios</segment>
+    <segment id="49">, parecia-me cheio de rosas e penas de pavão.</segment>
+    <segment id="50">À minha frente</segment>
+    <segment id="51">, estava sentado um homem gordo de rosto chamativamente branco</segment>
+    <segment id="52">, não consegui ouvir seu nome na apresentação</segment>
+    <segment id="53">, ele tinha os cotovelos fincados sobre a mesa &amp;mdash</segment>
+    <segment id="54">;haviam arranjado um lugar especialmente amplo para ele&amp;mdash</segment>
+    <segment id="55">;, estava de cabeça baixa e em silêncio</segment>
+    <segment id="56">, à direita e à esquerda dele</segment>
+    <segment id="57">sese encontravam duas belas meninas louras</segment>
+    <segment id="58">, bem divertidas</segment>
+    <segment id="59">, que não cessavam de ter algo a contar e eu olhava de uma para a outra.</segment>
+    <segment id="60">Mais adiante</segment>
+    <segment id="61">, apesar da generosa iluminação</segment>
+    <segment id="62">, eu não conseguia reconhecer os convidados com nitidez</segment>
+    <segment id="63">, talvez</segment>
+    <segment id="64">porque</segment>
+    <segment id="65">porque tudo estivesse em movimento</segment>
+    <segment id="66">, os criados corriam por aí</segment>
+    <segment id="67">, as comidas eram servidas</segment>
+    <segment id="68">, os copos</segment>
+    <segment id="69">, levantados</segment>
+    <segment id="70">, talvez tudo</segment>
+    <segment id="71">, inclusive</segment>
+    <segment id="72">, estivesse iluminado demais.</segment>
+    <segment id="73">Também havia uma certa desordem &amp;mdash</segment>
+    <segment id="74">;a única</segment>
+    <segment id="75">, aliás&amp;mdash</segment>
+    <segment id="76">; que consistia no fato de alguns convidados</segment>
+    <segment id="77">, sobretudo senhoras</segment>
+    <segment id="78">, estarem sentados de costas para a mesa e de tal modo que não o encosto da cadeira</segment>
+    <segment id="79">sese postasse entre eles</segment>
+    <segment id="80">, masmas as costas quase tocassem a mesa.</segment>
+    <segment id="81">Eu chamei a atenção das meninas à minha frente para o fato</segment>
+    <segment id="82">, masmas</segment>
+    <segment id="83">comocomo elas</segment>
+    <segment id="84">sese mantinham tão dispostas a conversar</segment>
+    <segment id="85">, dessa vez nada disseram</segment>
+    <segment id="86">, e sim apenas sorriram para mim com longos olhares.</segment>
+    <segment id="87">A um sinal de sineta &amp;mdash</segment>
+    <segment id="88">;os criados ficaram imóveis entre as fileiras de assentos&amp;mdash</segment>
+    <segment id="89">;, o gordo à minha frente</segment>
+    <segment id="90">sese levantou e fez um discurso.</segment>
+    <segment id="91">Por que será que o homem estava tão triste?!</segment>
+    <segment id="92">Durante o discurso</segment>
+    <segment id="93">, ele tocava o rosto de leve com o lenço</segment>
+    <segment id="94">, isso até seria tolerável e</segment>
+    <segment id="95">, inclusive</segment>
+    <segment id="96">, compreensível</segment>
+    <segment id="97">, tendo em vista sua gordura</segment>
+    <segment id="98">, o calor no salão</segment>
+    <segment id="99">, o esforço do discurso</segment>
+    <segment id="100">, masmas eu percebi com nitidez que tudo aquilo era apenas astúcia disposta a esconder o fato de ele estar secando as lágrimas de seus olhos.</segment>
+    <segment id="101">Depois de ele ter concluído</segment>
+    <segment id="102">, naturalmente me levantei e também fiz um discurso.</segment>
+    <segment id="103">Senti, por assim dizer</segment>
+    <segment id="104">, a necessidade de falar</segment>
+    <segment id="105">, pois</segment>
+    <segment id="106">pois algumas coisas me pareceram exigir</segment>
+    <segment id="107">, aqui e provavelmente também alhures</segment>
+    <segment id="108">, uma explicação pública e aberta</segment>
+    <segment id="109">, por isso principiei:&amp;quot</segment>
+    <segment id="110">;Prezados convidados!</segment>
+    <segment id="111">Sou dono</segment>
+    <segment id="112">, há que</segment>
+    <segment id="113">sese admitir</segment>
+    <segment id="114">, de um recorde mundial</segment>
+    <segment id="115">, masmas</segment>
+    <segment id="116">sese os senhores me perguntassem</segment>
+    <segment id="117">comocomo foi que o alcancei eu não saberia responder de modo satisfatório.</segment>
+    <segment id="118">Na verdade</segment>
+    <segment id="119">, nem sequer sei nadar.</segment>
+    <segment id="120">Desde sempre quis aprender</segment>
+    <segment id="121">, masmas não consegui encontrar oportunidade para tanto.</segment>
+    <segment id="122">Mas como</segment>
+    <segment id="123">como foi então que fui mandado por minha pátria às olimpíadas?</segment>
+    <segment id="124">Esta é justamente a questão que também me ocupa.</segment>
+    <segment id="125">Primeiramente</segment>
+    <segment id="126">, sou obrigado a constatar que não estou</segment>
+    <segment id="127">, aqui</segment>
+    <segment id="128">, em minha pátria</segment>
+    <segment id="129">, e, apesar de fazer muito esforço</segment>
+    <segment id="130">, não consigo compreender uma só palavra daquilo que está sendo dito.</segment>
+    <segment id="131">A coisa mais óbvia seria acreditar em um engano</segment>
+    <segment id="132">, masmas não há engano</segment>
+    <segment id="133">, eu bati o recorde</segment>
+    <segment id="134">, voltei a meu país</segment>
+    <segment id="135">, meu nome é aquele que os senhores chamam</segment>
+    <segment id="136">, até este ponto está tudo certo</segment>
+    <segment id="137">, masmas daí em diante nada mais está certo</segment>
+    <segment id="138">, eu não estou em meu país</segment>
+    <segment id="139">, não conheço e não compreendo os senhores.</segment>
+    <segment id="140">Mas, agora</segment>
+    <segment id="141">, ainda uma coisa que</segment>
+    <segment id="142">sese contrapõe</segment>
+    <segment id="143">, mesmo que não de modo exato</segment>
+    <segment id="144">, à possibilidade de um engano: não me incomoda muito o fato de eu não compreender os senhores e aos senhores também parece não incomodar muito o fato de não me compreenderem.</segment>
+    <segment id="145">Do discurso do prezado senhor que me antecedeu</segment>
+    <segment id="146">, acredito saber apenas que foi inconsolavelmente triste</segment>
+    <segment id="147">, masmas esse saber não apenas me basta</segment>
+    <segment id="148">, como</segment>
+    <segment id="149">como já me é demasiado</segment>
+    <segment id="150">, inclusive.</segment>
+    <segment id="151">E o mesmo sucede com todas as conversas que tive desde que cheguei aqui.</segment>
+    <segment id="152">Mas voltemos para o meu recorde mundial...</segment>
+    <segment id="153">&amp;quot;.DESEJO DE SER ÍNDIOCaso</segment>
+    <segment id="154">sese fosse índio</segment>
+    <segment id="155">, apesar de tudo</segment>
+    <segment id="156">, logo pronto e sobre o cavalo em disparada</segment>
+    <segment id="157">, inclinado no ar</segment>
+    <segment id="158">, sempre estremecendo brevemente sobre o chão a estremecer</segment>
+    <segment id="159">, até deixar de lado as esporas</segment>
+    <segment id="160">, pois</segment>
+    <segment id="161">pois não existiam esporas</segment>
+    <segment id="162">, até jogar fora as rédeas</segment>
+    <segment id="163">, pois</segment>
+    <segment id="164">pois não existiam rédeas</segment>
+    <segment id="165">, e, mal</segment>
+    <segment id="166">sese visse a terra à sua frente</segment>
+    <segment id="167">comocomo charneca cortada rente</segment>
+    <segment id="168">, já sem pescoço de cavalo e cabeça de cavalo.</segment>
+    <segment id="169">FRANZ KAFKA (1883-1924)</segment>
+    <segment id="170">, um dos autores mais influentes do século 20</segment>
+    <segment id="171">, escreveu &amp;quot</segment>
+    <segment id="172">;O Processo&amp;quot</segment>
+    <segment id="173">; e &amp;quot</segment>
+    <segment id="174">;A Metamorfose&amp;quot</segment>
+    <segment id="175">;.MARCELO BACKES</segment>
+    <segment id="176">, 44, doutor em germanística e romanística pela Universidade de Freiburg (Alemanha)</segment>
+    <segment id="177">, é autor dos romances &amp;quot</segment>
+    <segment id="178">;A Casa Cai&amp;quot</segment>
+    <segment id="179">; e &amp;quot</segment>
+    <segment id="180">;O</segment>
+    <segment id="181">Último Minuto&amp;quot</segment>
+    <segment id="182">; (Companhia das Letras).ALEXANDRE TELES</segment>
+    <segment id="183">, 38, é artista plástico.</segment>
+  </rst>
+</analysis>

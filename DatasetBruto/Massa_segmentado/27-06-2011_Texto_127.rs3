@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Mulher Múmia está mais viva do que nunca
+Depois de ensaio sensual</segment>
+    <segment id="2">, a loira quer ser apresentadora</segment>
+    <segment id="3">A gaúcha Laura Keller estrelou ensaio ousado na “Sexy” deste mês.</segment>
+    <segment id="4">A loira pretende ingressar na carreira de apresentadora.</segment>
+    <segment id="5">“Não tenho planos para nada de teatro ou novela.</segment>
+    <segment id="6">Apresentaria algo na TV ou até na Internet</segment>
+    <segment id="7">, seria uma realização”</segment>
+    <segment id="8">, revelou.</segment>
+    <segment id="9">Há quem prefira que ela mostre outros talentos.</segment>
+    <segment id="10">Que o digam os leitores da revista!</segment>
+  </rst>
+</analysis>

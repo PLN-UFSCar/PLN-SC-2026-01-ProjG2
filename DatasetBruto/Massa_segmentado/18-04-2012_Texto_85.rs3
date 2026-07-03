@@ -1,0 +1,60 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">11 indiciados por morte no parque</segment>
+    <segment id="2">O delegado Álvaro Santucci Noventa Júnior indiciou ontem 11 pessoas pela morte de Gabriela Yukari Nichimura</segment>
+    <segment id="3">, 14 anos</segment>
+    <segment id="4">, no dia 24 fevereiro – ela caiu do brinquedo “La Tour Eiffel”</segment>
+    <segment id="5">, no parque de diversões</segment>
+    <segment id="6">Hopi Hari</segment>
+    <segment id="7">, em Vinhedo</segment>
+    <segment id="8">, São Paulo.</segment>
+    <segment id="9">Os indiciados responderão por homicídio culposo (sem intenção de matar).</segment>
+    <segment id="10">A lista tem nomes</segment>
+    <segment id="11">comocomo o do presidente do parque</segment>
+    <segment id="12">, Armando Pereira Filho</segment>
+    <segment id="13">, o do vice</segment>
+    <segment id="14">, Claudio Luis Pinheiro Guimarães</segment>
+    <segment id="15">, e o do gerente geral de manutenção e projetos</segment>
+    <segment id="16">, Stefan Banholzer.</segment>
+    <segment id="17">Os atendentes de operação Vitor Spinocci de Oliveira</segment>
+    <segment id="18">,  Edson da Silva e Marcos Antonio Leal</segment>
+    <segment id="19">; o supervisor de operações Lucas Figueiredo</segment>
+    <segment id="20">, o técnico em eletrônica e em eletrotécnica Rodolfo Rocha de Aguiar</segment>
+    <segment id="21">, o técnico de manutenção Juliano Ambrósio</segment>
+    <segment id="22">, o técnico de manutenção mecânica</segment>
+    <segment id="23">Adriano de Souza e o sênior mecânico Luiz de Souza  completam a lista.</segment>
+    <segment id="24">Agora, o delegado espera colher as assinaturas dos suspeitos até o dia 28 para formalizar o</segment>
+    <segment id="25">casocaso à Justiça.</segment>
+    <segment id="26">Depois</segment>
+    <segment id="27">, cabe ao juiz repassar o documento ao Ministério Público</segment>
+    <segment id="28">, que ainda poderá acrescentar ou retirar nomes da lista.</segment>
+    <segment id="29">Acidente por falha humana</segment>
+    <segment id="30">O laudo do Instituto de Criminalística de Campinas apontou falha humana no acidente que matou Gabriela.</segment>
+    <segment id="31">A perícia concluiu que a cadeira inoperante onde ela</segment>
+    <segment id="32">sese sentou foi alterada um dia antes da tragédia.</segment>
+    <segment id="33">Na manutenção</segment>
+    <segment id="34">, os técnicos modificaram a chave que mantinha o assento interditado.</segment>
+  </rst>
+</analysis>

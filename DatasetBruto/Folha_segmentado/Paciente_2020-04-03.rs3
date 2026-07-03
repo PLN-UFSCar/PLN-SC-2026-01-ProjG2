@@ -1,0 +1,137 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um estudo chinês divulgado em março deste ano mostra que pessoas com Covid-19 desenvolveram problemas neurológicos</segment>
+    <segment id="2">comocomo sintomas da doença.</segment>
+    <segment id="3">A investigação foi realizada entre os dias 16 de janeiro e 19 de fevereiro de 2020 em 214 pacientes com Covid-19 —graves ou não— internados em três hospitais de Wuhan (China)</segment>
+    <segment id="4">, onde começou a pandemia.</segment>
+    <segment id="5">Destes</segment>
+    <segment id="6">, 78 apresentaram alguma manifestação neurológica.</segment>
+    <segment id="7">Entre os sintomas</segment>
+    <segment id="8">, os mais comuns foram a tontura</segment>
+    <segment id="9">, mencionada por 36 pacientes (16</segment>
+    <segment id="10">,8%), e dor de cabeça</segment>
+    <segment id="11">, citada por 28 (13</segment>
+    <segment id="12">,1%).</segment>
+    <segment id="13">Em seguida aparecem confusão mental</segment>
+    <segment id="14">, AVC ou isquemia cerebral</segment>
+    <segment id="15">, convulsão</segment>
+    <segment id="16">, perda da coordenação muscular e sonolência.</segment>
+    <segment id="17">Novo coronavírus saiu da China e</segment>
+    <segment id="18">sese espalhou pelo mundo   novamente         de   de  de  representando um</segment>
+    <segment id="19">De acordo com o neurologista do Hospital Israelita Albert Einstein</segment>
+    <segment id="20">, Saulo Nardy Nader</segment>
+    <segment id="21">, trata-</segment>
+    <segment id="22">sese do primeiro estudo bem feito sobre o acometimento neurológico por coronavírus.</segment>
+    <segment id="23">Para ele</segment>
+    <segment id="24">, a conclusão serve de alerta.</segment>
+    <segment id="25">“Pessoas com quadro gripal e que apresentarem pela primeira vez algum tipo de tontura forte e persistente</segment>
+    <segment id="26">, principalmente vertigem</segment>
+    <segment id="27">, podem estar infectadas pelo coronavírus”</segment>
+    <segment id="28">, afirma.</segment>
+    <segment id="29">Nader diz que a pesquisa também traz uma queixa que está</segment>
+    <segment id="30">sese tornando comum nos consultórios e até nas redes sociais: a perda de olfato (hiposmia) e paladar (hipogeusia).</segment>
+    <segment id="31">Cerca de 5% dos que apresentaram sintomas neurológicos mencionaram esse tipo de alteração.</segment>
+    <segment id="32">O coronavírus pode chegar ao sistema nervoso central de duas formas.</segment>
+    <segment id="33">“</segment>
+    <segment id="34">A primeira hipótese é pelo sangue e a segunda diretamente pelo nariz</segment>
+    <segment id="35">, pegando carona com o nervo olfativo.</segment>
+    <segment id="36">A pessoa teria contato com o vírus pela narina e</segment>
+    <segment id="37">, através do nervo que leva informação do nariz para o cérebro</segment>
+    <segment id="38">, conseguiria causar a infecção.</segment>
+    <segment id="39">A falta de ar</segment>
+    <segment id="40">, por exemplo</segment>
+    <segment id="41">, pode ocorrer por agressão neurológica do vírus na região do cérebro responsável por controlar os centros da respiração”</segment>
+    <segment id="42">, explica Nader.</segment>
+    <segment id="43">Os sintomas elencados no estudo feito em Wuhan não são novidades nos consultórios de especialistas brasileiros ouvidos pela Folha.</segment>
+    <segment id="44">Além dos neurológicos</segment>
+    <segment id="45">, há outros incomuns.</segment>
+    <segment id="46">João Prats</segment>
+    <segment id="47">, infectologista da BP (Beneficência Portuguesa de São Paulo) explica que</segment>
+    <segment id="48">, apesar de não ser comum</segment>
+    <segment id="49">, o primeiro sinal de infecção por coronavírus pode aparecer sob a forma de problema digestivo.</segment>
+    <segment id="50">Ele cita</segment>
+    <segment id="51">comocomo exemplo o</segment>
+    <segment id="52">casocaso de uma paciente que</segment>
+    <segment id="53">, após cinco dias com diarreia</segment>
+    <segment id="54">, teve dificuldade respiratória.</segment>
+    <segment id="55">Quando o coronavírus circula no sangue e inflama os gânglios linfáticos abdominais</segment>
+    <segment id="56">, também pode ocorrer dor forte semelhante à provocada por apendicite ou cólica renal.</segment>
+    <segment id="57">“Ainda não há estatística dos atendimentos</segment>
+    <segment id="58">, masmas é a minoria.</segment>
+    <segment id="59">O sintoma que sugere gravidade é o respiratório</segment>
+    <segment id="60">, a falta de ar.</segment>
+    <segment id="61">Mesmo que a primeira manifestação for atípica</segment>
+    <segment id="62">, os médicos devem investigar mais”</segment>
+    <segment id="63">, afirma Prats.</segment>
+    <segment id="64">Após examinar uma pessoa com sintomas de covid-19</segment>
+    <segment id="65">, o infectologista da Unifesp (Universidade Federal de São Paulo)</segment>
+    <segment id="66">Paulo Olzon sentiu-</segment>
+    <segment id="67">sese mal.</segment>
+    <segment id="68">Primeiro</segment>
+    <segment id="69">, veio o cansaço excessivo</segment>
+    <segment id="70">;</segment>
+    <segment id="71">cerca de quatro dias depois</segment>
+    <segment id="72">, as tonturas</segment>
+    <segment id="73">, com mais frequência no período noturno.</segment>
+    <segment id="74">“</segment>
+    <segment id="75">Para mim</segment>
+    <segment id="76">, a tontura foi novidade</segment>
+    <segment id="77">, masmas é importante alertar que ela é sintoma de outras doenças</segment>
+    <segment id="78">, como</segment>
+    <segment id="79">como a própria labirintite</segment>
+    <segment id="80">, os tumores cerebrais e problemas de pressão arterial</segment>
+    <segment id="81">, entre outras.</segment>
+    <segment id="82">Para o diagnóstico</segment>
+    <segment id="83">, é importante levar em conta o histórico do paciente e a intensidade dos sintomas”</segment>
+    <segment id="84">, explica Olzon</segment>
+    <segment id="85">, que está em isolamento.</segment>
+    <segment id="86">Além de tontura</segment>
+    <segment id="87">, ele também teve alteração do paladar e do olfato.</segment>
+    <segment id="88">Para José Vidal</segment>
+    <segment id="89">, infectologista do Hospital das Clínicas de SP e do Instituto de Infectologia Emílio Ribas e membro da Sociedade Brasileira de Infectologia</segment>
+    <segment id="90">, a teoria mais provável é que o novo coronavírus infecte os nervos periféricos olfatórios causando as alterações de olfato que já vêm sendo relatadas por alguns pacientes.</segment>
+    <segment id="91">“</segment>
+    <segment id="92">Essas alterações podem alertar para a presença do coronavírus</segment>
+    <segment id="93">, visando instaurar as medidas necessárias</segment>
+    <segment id="94">, em termos individuais e de saúde pública</segment>
+    <segment id="95">, como</segment>
+    <segment id="96">como o isolamento.</segment>
+    <segment id="97">É necessário estudar melhor as consequências a longo prazo.</segment>
+    <segment id="98">A rota da infecção precisa ser melhor elucidada.</segment>
+    <segment id="99">O vírus também pode causar problemas cardíacos</segment>
+    <segment id="100">, intestinais e outras manifestações neurológicas graves</segment>
+    <segment id="101">, como</segment>
+    <segment id="102">como paralisa flácida aguda</segment>
+    <segment id="103">, síndrome de Guillain-Barré e encefalomielite disseminada aguda</segment>
+    <segment id="104">, todas já descritas com outros coronavírus humanos”</segment>
+    <segment id="105">, explica Vidal.</segment>
+    <segment id="106">Segundo dados do Ministério da Saúde</segment>
+    <segment id="107">, o Brasil tem 241 mortes por coronavírus e 6.836 casos da doença.</segment>
+    <segment id="108">O estado de São Paulo tem o maior número de confirmações</segment>
+    <segment id="109">, com 2.981 registros.</segment>
+    <segment id="110">Até o momento</segment>
+    <segment id="111">, morreram 164 pessoas.</segment>
+  </rst>
+</analysis>

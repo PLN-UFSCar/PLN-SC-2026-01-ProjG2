@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Gravidez esquenta sexo</segment>
+    <segment id="2">, admite Claudinha</segment>
+    <segment id="3">A cantora foi entrevistada por Claudinho Delícia</segment>
+    <segment id="4">, maquiador do “Caldeirão do Huck”</segment>
+    <segment id="5">Grávida do segundo filho</segment>
+    <segment id="6">, a cantora foi entrevistada por Claudinho Delícia</segment>
+    <segment id="7">, maquiador do “Caldeirão do Huck”.</segment>
+    <segment id="8">Curioso</segment>
+    <segment id="9">, ele perguntou sobre a relação da musa com o marido durante a gestação.</segment>
+    <segment id="10">A loira não</segment>
+    <segment id="11">sese fez de rogada e respondeu sem constrangimento.</segment>
+    <segment id="12">“Se estiver tudo bem</segment>
+    <segment id="13">, fica ótimo.</segment>
+    <segment id="14">Se não estiver</segment>
+    <segment id="15">, a gente dorme.</segment>
+    <segment id="16">Mas o negócio é intenso em alguns momentos"</segment>
+    <segment id="17">, revelou.</segment>
+  </rst>
+</analysis>

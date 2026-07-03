@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Companheira morre por chegar tarde</segment>
+    <segment id="2">O covarde atirou e fugiu de moto.</segment>
+    <segment id="3">A mulher foi morta com um tiro no ouvido
+Daiane Santana Silva</segment>
+    <segment id="4">, 21 anos</segment>
+    <segment id="5">, foi morta com um tiro no ouvido em sua residência</segment>
+    <segment id="6">, na Rua Paris-França</segment>
+    <segment id="7">, deflagrado pelo companheiro identificado</segment>
+    <segment id="8">comocomo Ataíde Silva de Jesus</segment>
+    <segment id="9">, que está foragido.</segment>
+    <segment id="10">De acordo com o pai do acusado</segment>
+    <segment id="11">, Euvaldo Silva de Jesus</segment>
+    <segment id="12">, seu filho e a nora moravam com ele</segment>
+    <segment id="13">, e ontem ela teria chegado do trabalho tarde</segment>
+    <segment id="14">, o que irritou o companheiro que iniciou uma discussão.</segment>
+    <segment id="15">“</segment>
+    <segment id="16">Eles entraram no quarto</segment>
+    <segment id="17">, logo depois ouvimos o disparo e quando fomos olhar ela estava ensanguentada na cama”</segment>
+    <segment id="18">, contou.</segment>
+  </rst>
+</analysis>

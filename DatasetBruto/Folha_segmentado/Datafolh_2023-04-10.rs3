@@ -1,0 +1,126 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente Luiz Inácio Lula da Silva (PT) tem avaliação positiva no estado de São Paulo inferior à média nacional</segment>
+    <segment id="2">, indica nova pesquisa Datafolha.</segment>
+    <segment id="3">Seu governo é aprovado por 33% e reprovado por 30% dos paulistas</segment>
+    <segment id="4">, percentuais que</segment>
+    <segment id="5">, no conjunto do Brasil</segment>
+    <segment id="6">, são de 38% e de 29%</segment>
+    <segment id="7">, respectivamente.</segment>
+    <segment id="8">A gestão do petista é considerada regular por 34% dos entrevistados em São Paulo</segment>
+    <segment id="9">, contra 30% do índice nacional.</segment>
+    <segment id="10">Não souberam opinar</segment>
+    <segment id="11">, em ambos os levantamentos</segment>
+    <segment id="12">, 3%.</segment>
+    <segment id="13">O presidente Luiz Inácio Lula da Silva (PT) durante evento no Palácio do Planalto</segment>
+    <segment id="14">, em Brasília - Ueslei Marcelino - 6.abr.23/ReutersO quadro evidencia obstáculos para o mandatário no maior colégio eleitoral do país</segment>
+    <segment id="15">, que irradia decisões de impacto político e econômico e onde o antipetismo tem historicamente força significativa.</segment>
+    <segment id="16">Considerando somente a votação no estado no segundo turno em 2022</segment>
+    <segment id="17">, Lula ficou atrás de Jair Bolsonaro (PL)</segment>
+    <segment id="18">, por 55% a 45%.</segment>
+    <segment id="19">Para concluir que em São Paulo</segment>
+    <segment id="20">, proporcionalmente</segment>
+    <segment id="21">, menos pessoas respondem que o governo federal é ótimo ou bom</segment>
+    <segment id="22">, o Datafolha ouviu pessoalmente no estado 1.806 pessoas</segment>
+    <segment id="23">, com 16 anos ou mais</segment>
+    <segment id="24">, em 65 municípios.</segment>
+    <segment id="25">A mais abrangente fez 2.028 entrevistas em 126 cidades espalhadas por todo o Brasil.</segment>
+    <segment id="26">A margem de erro das duas pesquisas é de 2 pontos percentuais para mais ou para menos.</segment>
+    <segment id="27">Sob a ótica política</segment>
+    <segment id="28">, o recorte estadual não difere muito do retrato geral: a divisão de opiniões permanece</segment>
+    <segment id="29">comocomo reflexo de um processo eleitoral polarizado</segment>
+    <segment id="30">, do qual Lula saiu vencedor com a margem de votos mais apertada desde a redemocratização</segment>
+    <segment id="31">, apenas 1</segment>
+    <segment id="32">,8 ponto percentual à frente do rival.</segment>
+    <segment id="33">Resistem também tendências vistas nas urnas</segment>
+    <segment id="34">, como</segment>
+    <segment id="35">como o maior apoio ao líder do PT na região metropolitana da capital e a predileção do interior por Bolsonaro —mesma divisão geográfica ocorrida na votação e na aprovação do governador Tarcísio de Freitas (Republicanos)</segment>
+    <segment id="36">, aliado do ex-presidente.</segment>
+    <segment id="37">A área metropolitana</segment>
+    <segment id="38">, que deu mais votos a Lula do que a Bolsonaro no segundo turno</segment>
+    <segment id="39">, hoje abriga 37% de opiniões ótimo/bom</segment>
+    <segment id="40">, 33% de regular e 26% de ruim/péssimo</segment>
+    <segment id="41">, percentuais que no conjunto dos demais municípios são de 29%</segment>
+    <segment id="42">, 35% e 32%</segment>
+    <segment id="43">, respectivamente.</segment>
+    <segment id="44">Entre os paulistas que votaram no petista para presidente</segment>
+    <segment id="45">, a avaliação é mais positiva não só do que a média do estado</segment>
+    <segment id="46">, masmas também do que a média nacional aferida pelo Datafolha.</segment>
+    <segment id="47">O governo é visto</segment>
+    <segment id="48">comocomo ótimo/bom por 68%</segment>
+    <segment id="49">, regular por 27% e ruim/péssimo por 3% da parcela que teclou 13 na urna.</segment>
+    <segment id="50">Já entre eleitores de São Paulo que optaram por Bolsonaro</segment>
+    <segment id="51">, as taxas são de 8%</segment>
+    <segment id="52">, 33% e 56%</segment>
+    <segment id="53">, respectivamente.</segment>
+    <segment id="54">No conjunto do estado</segment>
+    <segment id="55">, 56% afirmam que Lula fez pelo país menos do que esperavam (a taxa nacional é de 51%)</segment>
+    <segment id="56">, ao passo que 11% dizem que ele realizou mais do que era previsto (no país</segment>
+    <segment id="57">, são 18%).</segment>
+    <segment id="58">Para 28%</segment>
+    <segment id="59">, ele ficou dentro das expectativas (25% nacionalmente).</segment>
+    <segment id="60">Em seu terceiro mandato</segment>
+    <segment id="61">, o petista priorizou nos cem primeiros dias à frente do Planalto o retorno de programas sociais</segment>
+    <segment id="62">comocomo o Bolsa Família e o Minha Casa</segment>
+    <segment id="63">, Minha Vida</segment>
+    <segment id="64">, masmas patinou na esfera econômica</segment>
+    <segment id="65">, com a população ainda sentindo os efeitos da inflação e o mercado relatando um cenário instável.</segment>
+    <segment id="66">Lula se</segment>
+    <segment id="67">se fez presente no estado com seu envolvimento no socorro às vítimas do temporal que deixou 65 mortos no litoral norte</segment>
+    <segment id="68">, em fevereiro.</segment>
+    <segment id="69">Ele atuou em conjunto com Tarcísio e apregoou a colaboração republicana entre governantes mesmo que tenham ideologias e partidos diferentes.</segment>
+    <segment id="70">Apesar dos discursos em prol da colaboração —o governador já disse que os dois são sócios e que o estado depende do país para ir bem</segment>
+    <segment id="71">, e vice-versa—</segment>
+    <segment id="72">, seus eleitores mantêm desconfianças mútuas.</segment>
+    <segment id="73">Entre os que votaram em Tarcísio no segundo turno</segment>
+    <segment id="74">, quase metade (48%) avalia o governo Lula</segment>
+    <segment id="75">comocomo ruim/péssimo.</segment>
+    <segment id="76">Outros 33% o veem</segment>
+    <segment id="77">comocomo regular.</segment>
+    <segment id="78">E 15% consideram o mandato ótimo/bom</segment>
+    <segment id="79">, opinião que é expressa por expressivos 65% dos que escolheram Fernando Haddad (PT) no pleito local.</segment>
+    <segment id="80">Outro capítulo da pesquisa reforça o ceticismo ampliado dos paulistas com o presidente.</segment>
+    <segment id="81">Para 54%</segment>
+    <segment id="82">, ele cumprirá parte das promessas de campanha</segment>
+    <segment id="83">, masmas não a maioria (nacionalmente</segment>
+    <segment id="84">, 50% pensam assim).</segment>
+    <segment id="85">Outros 23% dizem que o petista honrará a maior parte dos compromissos assumidos (no país</segment>
+    <segment id="86">, são 28%).</segment>
+    <segment id="87">A taxa dos que acham que ele não cumprirá nada é de 22% em São Paulo e de 21% na média do Brasil.</segment>
+    <segment id="88">Também é inferior ao patamar nacional o percentual de moradores do estado que acreditam que daqui para a frente Lula fará um governo ótimo ou bom.</segment>
+    <segment id="89">O grupo de otimistas em São Paulo corresponde a 42%</segment>
+    <segment id="90">, abaixo dos 50% do quadro geral.</segment>
+    <segment id="91">Os que acham que o governo será regular são 31% (SP) e 27% (Brasil).</segment>
+    <segment id="92">Já o prognóstico de que a gestão do petista será ruim ou péssima é feito por 26% no estado</segment>
+    <segment id="93">, enquanto na média brasileira a resposta foi dada por 21%.</segment>
+    <segment id="94">O Datafolha também pesquisou a opinião dos paulistas sobre a avaliação do governador Tarcísio de Freitas após três meses: sua gestão foi considerada ótima ou boa por 44%</segment>
+    <segment id="95">, regular por 39% e ruim ou péssima por 11%.</segment>
+    <segment id="96">Para 45%</segment>
+    <segment id="97">, Tarcísio fez pelo estado de São Paulo menos do que eles esperavam.</segment>
+    <segment id="98">Outros 37% acham que ele realizou exatamente o que era previsto e 12%</segment>
+    <segment id="99">, que fez mais do que o esperado.</segment>
+    <segment id="100">Lula faz comícios em São Paulo na campanha de 2022Mais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

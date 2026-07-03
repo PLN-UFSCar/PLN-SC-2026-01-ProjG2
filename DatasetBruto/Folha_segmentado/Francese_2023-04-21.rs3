@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A empresa francesa Zephalto quer oferecer um voo comercial de balão ao espaço pela primeira vez em 2024.</segment>
+    <segment id="2">Os voos exclusivos terão capacidade para até seis viajantes e subirão a uma altitude de 25 quilômetros</segment>
+    <segment id="3">, prometendo uma vista única da Terra.</segment>
+    <segment id="4">Uma viagem com o Céleste</segment>
+    <segment id="5">, como</segment>
+    <segment id="6">como é chamado o módulo pendurado sob o balão</segment>
+    <segment id="7">, custa 120 mil euros por pessoa.</segment>
+    <segment id="8">De acordo com Zephalto</segment>
+    <segment id="9">, todos podem participar</segment>
+    <segment id="10">, dos mais novos aos mais velhos.</segment>
+    <segment id="11">O passeio terá duração de seis horas</segment>
+    <segment id="12">, sendo que metade do tempo será gasto apenas na subida e na descida da aeronave.</segment>
+    <segment id="13">Os viajantes serão acomodados numa cabine pressurizada</segment>
+    <segment id="14">, e refeições serão servidas no local.</segment>
+    <segment id="15">Foto do balão projetado pela Zephalto - DivulgaçãoA principal motivação para embarcar deve ser a vista.</segment>
+    <segment id="16">A curvatura da Terra e o céu estrelado poderão ser vistos através das grandes janelas</segment>
+    <segment id="17">, segundo a empresa.</segment>
+    <segment id="18">Detalhes sobre o layout da cabine ainda não foram divulgados.</segment>
+    <segment id="19">A Zephalto vai iniciar as viagens na França</segment>
+    <segment id="20">, masmas planeja expandir as decolagens para a Ásia.</segment>
+  </rst>
+</analysis>

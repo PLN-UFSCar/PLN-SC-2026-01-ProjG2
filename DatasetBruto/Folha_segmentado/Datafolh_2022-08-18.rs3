@@ -1,0 +1,135 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O ex-prefeito Fernando Haddad (PT) está à frente na eleição para o Governo de São Paulo com 38% das intenções de votos</segment>
+    <segment id="2">, segundo o Datafolha.</segment>
+    <segment id="3">Em seguida</segment>
+    <segment id="4">, aparecem o ex-ministro Tarcísio de Freitas (Republicanos)</segment>
+    <segment id="5">, com 16%</segment>
+    <segment id="6">, e o atual governador</segment>
+    <segment id="7">, Rodrigo Garcia (PSDB)</segment>
+    <segment id="8">, com 11%.</segment>
+    <segment id="9">Candidatos ao Governo de São Paulo</segment>
+    <segment id="10">, Fernando Haddad (PT)</segment>
+    <segment id="11">, Tarcísio de Freitas (Republicanos) e Rodrigo Garcia (PSDB) - DivulgaçãoAtrás deles estão Carol Vigliar (UP</segment>
+    <segment id="12">, 2%), Gabriel Colombo (PCB</segment>
+    <segment id="13">, 2%), Elvis Cezar (PDT</segment>
+    <segment id="14">, 1%), Vinicius Poit (Novo</segment>
+    <segment id="15">, 1%), Altino (PSTU</segment>
+    <segment id="16">, 1%) e Edson Dorta (PCO</segment>
+    <segment id="17">, 1%).</segment>
+    <segment id="18">Antonio Jorge (DC) não foi incluído na pesquisa por ter registrado sua candidatura após o registro da pesquisa.</segment>
+    <segment id="19">Brancos e nulos somam 17% e os indecisos</segment>
+    <segment id="20">, 11%.</segment>
+    <segment id="21">A pesquisa Datafolha</segment>
+    <segment id="22">, contratada pela Folha e pela TV Globo</segment>
+    <segment id="23">, ouviu 1.812 pessoas em 72 cidades do estado de terça (16) a quinta-feira (18).</segment>
+    <segment id="24">A margem de erro é de dois pontos para mais ou para menos.</segment>
+    <segment id="25">O levantamento foi registrado no TSE (Tribunal Superior Eleitoral) com o número SP-02170/2022.</segment>
+    <segment id="26">Em 30 de junho</segment>
+    <segment id="27">, no levantamento anterior</segment>
+    <segment id="28">, Haddad tinha 34% e Tarcísio e Rodrigo estavam empatados</segment>
+    <segment id="29">, ambos com 13%.</segment>
+    <segment id="30">Os brancos e nulos eram 20%</segment>
+    <segment id="31">, e outros 9% declararam não saber em quem votar.</segment>
+    <segment id="32">Mas o cenário era diferente</segment>
+    <segment id="33">, com outros pré-candidatos</segment>
+    <segment id="34">, e as pesquisas não são diretamente comparáveis.</segment>
+    <segment id="35">Na pesquisa espontânea</segment>
+    <segment id="36">, Haddad marca 13%</segment>
+    <segment id="37">, Tarcísio chega a 8% e Rodrigo tem 3%.</segment>
+    <segment id="38">O contingente de eleitores que declara não saber em quem votar na pesquisa espontânea é de 57% —eram 72% na última pesquisa</segment>
+    <segment id="39">, no fim de junho.</segment>
+    <segment id="40">Os números mostram que o cenário de segundo turno está indefinido</segment>
+    <segment id="41">, o que tem levado Tarcísio e Rodrigo a uma disputa paralela por uma vaga na segunda etapa da votação.</segment>
+    <segment id="42">Haddad tem o ex-presidente Lula (PT)</segment>
+    <segment id="43">comocomo padrinho</segment>
+    <segment id="44">, enquanto Tarcísio é o candidato de Jair Bolsonaro (PL) em São Paulo.</segment>
+    <segment id="45">Ambos tentam replicar no estado a polarização nacional –o Datafolha mostra que</segment>
+    <segment id="46">, entre os paulistas</segment>
+    <segment id="47">, o petista lidera com 44% contra 31% do presidente.</segment>
+    <segment id="48">Já Rodrigo</segment>
+    <segment id="49">, que esconde o padrinho João Doria (PSDB) e tem</segment>
+    <segment id="50">sese apoiado sobretudo no legado de Mário Covas (PSDB)</segment>
+    <segment id="51">, busca evitar a nacionalização da campanha paulista e afirma ser contra a briga ideológica.</segment>
+    <segment id="52">Num eventual segundo turno entre Haddad e Tarcísio</segment>
+    <segment id="53">, o petista vence o bolsonarista por 53% a 31%.</segment>
+    <segment id="54">Haddad marca 51% e Rodrigo 32% num eventual segundo turno entre o petista e o tucano.</segment>
+    <segment id="55">O candidato mais rejeitado em São Paulo é Haddad —30% dizem que não votariam no petista.</segment>
+    <segment id="56">Em seguida aparecem Tarcísio (22%)</segment>
+    <segment id="57">, Altino (21%)</segment>
+    <segment id="58">, Gabriel (20%)</segment>
+    <segment id="59">, Rodrigo (20%)</segment>
+    <segment id="60">, Edson (19%)</segment>
+    <segment id="61">, Elvis (19%)</segment>
+    <segment id="62">, Poit (17%) e Carol (17%).</segment>
+    <segment id="63">Os que rejeitam todos são 8%</segment>
+    <segment id="64">, enquanto 5% não rejeitam nenhum e 13% não sabem.</segment>
+    <segment id="65">Haddad</segment>
+    <segment id="66">, que é o candidato mais rejeitado</segment>
+    <segment id="67">, também é o mais conhecido —o único que é conhecido por mais da metade da população.</segment>
+    <segment id="68">As taxas de conhecimento e de rejeição costumam ter relação.</segment>
+    <segment id="69">A pesquisa mostra que o nível de conhecimento dos candidatos pelo eleitor paulista é de 89% para Haddad</segment>
+    <segment id="70">, 35% para Tarcísio e Rodrigo</segment>
+    <segment id="71">, 10% para Poit e Gabriel</segment>
+    <segment id="72">, 8% para Edson e Altino</segment>
+    <segment id="73">, 6% para Elvis e Carol.</segment>
+    <segment id="74">O Datafolha mediu ainda a avaliação do governo Rodrigo Garcia</segment>
+    <segment id="75">, que assumiu o Palácio dos Bandeirantes em abril</segment>
+    <segment id="76">, após a renúncia de Doria.</segment>
+    <segment id="77">A gestão é aprovada por 22%</segment>
+    <segment id="78">, reprovada por 17% e considerada regular por 45%.</segment>
+    <segment id="79">Outros 15% não sabem.</segment>
+    <segment id="80">No fim de junho</segment>
+    <segment id="81">, 24% consideravam o governo ótimo ou bom</segment>
+    <segment id="82">, 15% opinavam ser ruim ou péssimo</segment>
+    <segment id="83">, 47% declaravam regular e 14% não sabiam.</segment>
+    <segment id="84">Como candidato</segment>
+    <segment id="85">, Rodrigo tem tentado conquistar o eleitor bolsonarista</segment>
+    <segment id="86">, fazendo acenos à direita com um discurso duro em relação à segurança pública.</segment>
+    <segment id="87">Na condição de governador</segment>
+    <segment id="88">, intensificou operações policiais e entregou novas pistolas à tropa.</segment>
+    <segment id="89">O tucano também anunciou uma série de medidas populares às vésperas da eleição.</segment>
+    <segment id="90">Entre o final de maio e o início de julho</segment>
+    <segment id="91">, ele reajustou o benefício do vale-gás</segment>
+    <segment id="92">, reduziu a alíquota do ICMS sobre a gasolina e o gás de cozinha e congelou o aumento de preços do pedágio —até então previsto para o dia 1º de julho.</segment>
+    <segment id="93">A desistência de Doria de concorrer à Presidência da República</segment>
+    <segment id="94">, anunciada em 23 de maio</segment>
+    <segment id="95">, facilitou a vida de Rodrigo</segment>
+    <segment id="96">, que busca</segment>
+    <segment id="97">sese descolar do antecessor</segment>
+    <segment id="98">, de quem foi vice</segment>
+    <segment id="99">, para não</segment>
+    <segment id="100">sese contaminar com a rejeição do ex-governador.</segment>
+    <segment id="101">O Datafolha fez uma pesquisa para o Senado em São Paulo</segment>
+    <segment id="102">, masmas</segment>
+    <segment id="103">, devido à inclusão de Paulo Skaf (Republicanos)</segment>
+    <segment id="104">, que não será mais candidato</segment>
+    <segment id="105">, os resultados não foram aproveitados.</segment>
+    <segment id="106">Datafolha nos estadosHaddad lidera em SP com 38%</segment>
+    <segment id="107">, seguido por Tarcísio (16%) e Rodrigo (11%) 30% não votariam em Haddad de jeito nenhum ao Governo de SP Castro (26%) e Freixo (23%) lideram disputa no Rio Zema lidera em Minas com 47%</segment>
+    <segment id="108">, seguido por Kalil</segment>
+    <segment id="109">, com 23% Eleição para governador de São Paulo em 2022Mais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

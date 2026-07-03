@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Angelina Jolie pensa em ser polÃ­tica</segment>
+    <segment id="2">A atriz norte americana revelou desejo de entrar para o mundo da polÃ­tica
+Angelina Jolie pensa em seguir carreira polÃ­tica.</segment>
+    <segment id="3">Ela jÃ¡</segment>
+    <segment id="4">Ã© atriz</segment>
+    <segment id="5">, diretora</segment>
+    <segment id="6">, mÃ£e</segment>
+    <segment id="7">, ativista</segment>
+    <segment id="8">, missionÃ¡ria da ONU.</segment>
+    <segment id="9">Em entrevista Ã  revista Vanity Fair ela insinuou que estÃ¡ pronta para entrar no universo polÃ­tico.</segment>
+  </rst>
+</analysis>

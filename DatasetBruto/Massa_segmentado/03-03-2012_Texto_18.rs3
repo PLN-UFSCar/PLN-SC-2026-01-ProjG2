@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Ladrões de madames vão para o xilindró
+Starlon dos Santos</segment>
+    <segment id="2">, 21 anos</segment>
+    <segment id="3">, e Raoni dos Santos Pereira</segment>
+    <segment id="4">, 18, foram presos
+Starlon dos Santos</segment>
+    <segment id="5">, 21 anos</segment>
+    <segment id="6">, e Raoni dos Santos Pereira</segment>
+    <segment id="7">, 18, foram presos na noite da última quinta acusados de roubo.</segment>
+    <segment id="8">Segundo a polícia</segment>
+    <segment id="9">, os assaltantes agiam nas proximidades da Feira Livre</segment>
+    <segment id="10">, Rodoviária de Camaçari e na Praça Abrantes.</segment>
+    <segment id="11">Suas principais vítimas eram mulheres.</segment>
+  </rst>
+</analysis>

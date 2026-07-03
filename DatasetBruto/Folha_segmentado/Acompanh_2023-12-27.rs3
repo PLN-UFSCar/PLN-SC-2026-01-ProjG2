@@ -1,0 +1,136 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Ibovespa fechou em alta de 0</segment>
+    <segment id="2">,50% nesta quarta-feira (27)</segment>
+    <segment id="3">, renovando máximas históricas</segment>
+    <segment id="4">, em pregão marcado por baixa liquidez e recuo nos Treasuries de dez anos.</segment>
+    <segment id="5">O índice Bovespa ultrapassou os 134 mil pontos e estabelecendo um novo recorde nominal em um dia com menos indicadores e menor volume de negociações.</segment>
+    <segment id="6">Vale e Itaú Unibanco foram as maiores contribuições positivas</segment>
+    <segment id="7">, com alta de 0</segment>
+    <segment id="8">,97% e 0</segment>
+    <segment id="9">,68% respectivamente.</segment>
+    <segment id="10">Na sexta-feira (22)</segment>
+    <segment id="11">, o principal índice da Bolsa já havia renovado a máxima histórica.</segment>
+    <segment id="12">Em termos reais</segment>
+    <segment id="13">, porém</segment>
+    <segment id="14">porém, o recorde está longe.</segment>
+    <segment id="15">Se for considerada a inflação</segment>
+    <segment id="16">, o pico do Ibovespa seria de 177.098 pontos</segment>
+    <segment id="17">, quando corrigido pelo IPCA atual</segment>
+    <segment id="18">, e de 212.305 pontos</segment>
+    <segment id="19">, quando corrigido pelo IGP-M</segment>
+    <segment id="20">, ambos atingidos em maio de 2008</segment>
+    <segment id="21">, antes da crise financeira.</segment>
+    <segment id="22">Os cálculos são da Economatica.</segment>
+    <segment id="23">Os principais índices em Wall Street também fecharam a quarta-feira no azul.</segment>
+    <segment id="24">Mercado aguarda anúncio de novas medidas econômicas do governo - Dado Ruvic/ReutersO dólar interrompeu nesta quarta-feira uma sequência de três sessões de baixas e encerrou o dia em leve alta ante o real</segment>
+    <segment id="25">, com investidores à espera de novas medidas econômicas do governo Lula</segment>
+    <segment id="26">, em um dia em que a moeda norte-americana</segment>
+    <segment id="27">sese manteve em queda ante a maior parte das demais divisas no exterior.</segment>
+    <segment id="28">O dólar à vista fechou cotado a R$ 4</segment>
+    <segment id="29">,83 na venda</segment>
+    <segment id="30">, em alta de 0</segment>
+    <segment id="31">,21%.</segment>
+    <segment id="32">Em dezembro</segment>
+    <segment id="33">, a moeda norte-americana acumula queda de 1</segment>
+    <segment id="34">,68%.</segment>
+    <segment id="35">No início da sessão</segment>
+    <segment id="36">, o dólar registrou novamente perdas ante o real</segment>
+    <segment id="37">, na esteira do recuo da moeda norte-americana também no exterior.</segment>
+    <segment id="38">Às 9h06</segment>
+    <segment id="39">, marcou a mínima</segment>
+    <segment id="40">, sendo vendido à vista por R$ 4</segment>
+    <segment id="41">,80 (-0</segment>
+    <segment id="42">,42%),</segment>
+    <segment id="43">masmas depois recuperou o fôlego ainda na primeira hora de negócios e virou para o positivo.</segment>
+    <segment id="44">O dólar ganhou força em meio à expectativa dos investidores pelo anúncio do governo Lula de mais medidas na área fiscal.</segment>
+    <segment id="45">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="46">; aberta para não assinantes.</segment>
+    <segment id="47">Carregando...</segment>
+    <segment id="48">Na terça-feira (26)</segment>
+    <segment id="49">, o ministro da Fazenda</segment>
+    <segment id="50">, Fernando Haddad</segment>
+    <segment id="51">, afirmou que o governo vai lançar um programa de depreciação acelerada e uma alternativa à desoneração da folha de pagamentos das empresas.</segment>
+    <segment id="52">Na tarde desta quarta</segment>
+    <segment id="53">, o ministério informou que ajustes finais sobre os atos a serem assinados estão sendo conduzidos pela Casa Civil.</segment>
+    <segment id="54">Novas informações devem ser divulgadas nesta quinta-feira (28).</segment>
+    <segment id="55">O anúncio de Haddad veio após a Petrobras anunciar redução de 7</segment>
+    <segment id="56">,9% no preço médio de venda de diesel para as distribuidoras</segment>
+    <segment id="57">, que passa a ser de R$ 3</segment>
+    <segment id="58">,48 por litro nas refinarias a partir de hoje .  "</segment>
+    <segment id="59">O impacto da reoneração é de pouco mais de R$ 0</segment>
+    <segment id="60">,30, e o impacto pela redução já anunciado pela Petrobras no mês de dezembro é mais de 50%.</segment>
+    <segment id="61">Se você comparar o preço do diesel com 1º de dezembro de 2023</segment>
+    <segment id="62">, você tem uma queda do preço da Petrobras mesmo com a reoneração.</segment>
+    <segment id="63">Não tem razões para [o posto de combustível] aumentar.</segment>
+    <segment id="64">Tem para diminuir"</segment>
+    <segment id="65">, disse o ministro.</segment>
+    <segment id="66">Uma queda no preço dos combustíveis tende a aliviar a inflação e abrir espaço para cortes na taxa básica de juros.</segment>
+    <segment id="67">No início da tarde</segment>
+    <segment id="68">, o dólar também recuperou parte do fôlego no exterior em relação às divisas fortes</segment>
+    <segment id="69">, o que fez a moeda renovar altas no Brasil.</segment>
+    <segment id="70">Após oscilar em patamares mais baixos no meio da tarde</segment>
+    <segment id="71">, o dólar marcou novamente uma máxima após a divulgação dos dados do governo central em novembro.</segment>
+    <segment id="72">O Tesouro informou déficit primário de R$ 39</segment>
+    <segment id="73">,4 bilhões no mês passado</segment>
+    <segment id="74">, um resultado pior que o saldo negativo de R$ 35</segment>
+    <segment id="75">,5 bilhões projetado por analistas em pesquisa da Reuters.</segment>
+    <segment id="76">Às 16h04</segment>
+    <segment id="77">, o dólar à vista marcou a máxima de R$ 4</segment>
+    <segment id="78">,8411 (+0</segment>
+    <segment id="79">,39%).</segment>
+    <segment id="80">Depois</segment>
+    <segment id="81">, a moeda passou a oscilar em patamares mais baixos.</segment>
+    <segment id="82">Leia tambémMercado projeta Ibovespa acima dos 140 mil pontos em 2024No que investir?</segment>
+    <segment id="83">Veja as apostas de analistas para 2024A quinta-feira promete ter uma agenda carregada.</segment>
+    <segment id="84">Além do anúncio de medidas do governo</segment>
+    <segment id="85">, serão divulgados o IGP-M de dezembro</segment>
+    <segment id="86">, pela FGV (Fundação Getulio Vargas)</segment>
+    <segment id="87">, e o IPCA-15 do mesmo mês</segment>
+    <segment id="88">, pelo IBGE (Instituto Brasileiro de Geografia e Estatística).</segment>
+    <segment id="89">A percepção entre os agentes é de que o dólar ainda tem espaço para continuar a ceder ante o real na virada de 2023 para 2024.</segment>
+    <segment id="90">"</segment>
+    <segment id="91">Há um fluxo comercial enorme chegando no Brasil</segment>
+    <segment id="92">, mais de US$ 20 bilhões no curto prazo</segment>
+    <segment id="93">, ainda que o Banco Central nem esteja fazendo os leilões de linha tradicionais de final do ano"</segment>
+    <segment id="94">, pontuou Paulo Gala</segment>
+    <segment id="95">, economista-chefe do Banco Master</segment>
+    <segment id="96">, em análise enviada a clientes.</segment>
+    <segment id="97">Os leilões de linha são as operações em que o Banco Central vende dólares ao mercado</segment>
+    <segment id="98">, com compromisso de recompra no futuro.</segment>
+    <segment id="99">Tradicionalmente</segment>
+    <segment id="100">, a instituição realiza leilões de linha em dezembro</segment>
+    <segment id="101">, para dar conta da demanda por moeda por parte de fundos e multinacionais</segment>
+    <segment id="102">, que precisam remeter recursos ao exterior.</segment>
+    <segment id="103">"</segment>
+    <segment id="104">Mas, neste ano</segment>
+    <segment id="105">, o fluxo está tão forte que o BC não está colocando estes leilões e ainda assim a moeda [real] está</segment>
+    <segment id="106">sese valorizando"</segment>
+    <segment id="107">, acrescentou Gala</segment>
+    <segment id="108">, que vê o dólar em R$ 4</segment>
+    <segment id="109">,50 nos próximos meses.</segment>
+    <segment id="110">Com informações da Reuters</segment>
+  </rst>
+</analysis>

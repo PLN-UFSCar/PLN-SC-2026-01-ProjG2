@@ -1,0 +1,57 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O décimo herdeiro</segment>
+    <segment id="2">Compadre Washington tem um filho chamado Alexandre da Costa Santos</segment>
+    <segment id="3">A coluna descobriu que o cantor e compositor do É O Tchan</segment>
+    <segment id="4">, Compadre Washington</segment>
+    <segment id="5">, tem um filho chamado Alexandre da Costa Santos</segment>
+    <segment id="6">, de 1 ano e seis meses.</segment>
+    <segment id="7">O pequeno é o décimo herdeiro do artista</segment>
+    <segment id="8">, fruto da relação com a morena Débora Costa</segment>
+    <segment id="9">, 27 anos</segment>
+    <segment id="10">, moradora de Cajazeiras.
+
+"</segment>
+    <segment id="11">Nós não namoramos.</segment>
+    <segment id="12">Em 5 anos</segment>
+    <segment id="13">, tínhamos encontros esporádicos</segment>
+    <segment id="14">, masmas aconteceu a gravidez e foi muito bem-vinda.</segment>
+    <segment id="15">É bom deixar claro para não dizerem que estou me aproveitando da fama dele"</segment>
+    <segment id="16">, disse Débora.</segment>
+    <segment id="17">Segundo o filho de Compadre</segment>
+    <segment id="18">, Washington Júnior</segment>
+    <segment id="19">, 23, o “Compadinho”</segment>
+    <segment id="20">,  a chegada do novo irmãozinho não causou ciúmes na família.</segment>
+    <segment id="21">“Mais um irmão é sempre bem-vindo.</segment>
+    <segment id="22">E apesar de ficar um  pouco distante</segment>
+    <segment id="23">, tenho por ele o mesmo carinho que tenho pelos outros irmãos”</segment>
+    <segment id="24">, declarou.</segment>
+    <segment id="25">Compadinho revelou que o pai é um cara presente na vida de todos os dez filhos.</segment>
+    <segment id="26">“Sobre meu mais novo irmão</segment>
+    <segment id="27">, ele ficou muito feliz.</segment>
+    <segment id="28">Ele ama todos nós igualmente”</segment>
+    <segment id="29">, disse.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,156 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O bacharel em direito aprende muita coisa na faculdade.</segment>
+    <segment id="2">Entre elas</segment>
+    <segment id="3">, escrever mal</segment>
+    <segment id="4">, especialmente mal.</segment>
+    <segment id="5">Passa a confundir elegância com mau gosto</segment>
+    <segment id="6">, clareza com cafonice</segment>
+    <segment id="7">, termo técnico com termo bizantino.</segment>
+    <segment id="8">Na sua estante importam os dicionários</segment>
+    <segment id="9">, enciclopédias e almanaques.</segment>
+    <segment id="10">Quando entra na profissão</segment>
+    <segment id="11">, o bacharel conclui esse "regime debilitante" e</segment>
+    <segment id="12">sese torna um "medalhão completo"</segment>
+    <segment id="13">, na ironia de Machado de Assis.</segment>
+    <segment id="14">O estilista do juridiquês costuma ser um inseguro linguístico.</segment>
+    <segment id="15">Sérgio Rodrigues</segment>
+    <segment id="16">, na Folha</segment>
+    <segment id="17">, explicou:</segment>
+    <segment id="18">"</segment>
+    <segment id="19">Por insegurança linguística</segment>
+    <segment id="20">, medo de errar</segment>
+    <segment id="21">, é comum a gente enfeitar a prosa</segment>
+    <segment id="22">, trocando</segment>
+    <segment id="23">, por exemplo</segment>
+    <segment id="24">, ter por possuir</segment>
+    <segment id="25">, estar por encontrar-</segment>
+    <segment id="26">sese".</segment>
+    <segment id="27">É aquele que "enche suas redações de 'outrossim' e outros entulhos juridiquentos".</segment>
+    <segment id="28">Sede do CNJ (Conselho Nacional de Justiça)</segment>
+    <segment id="29">, em Brasília</segment>
+    <segment id="30">, onde foi lançado o Pacto Nacional do Judiciário pela Linguagem Simples - Gil Ferreira - 10.ago.23/</segment>
+    <segment id="31">Agência CNJO bacharel não fala "entrar"</segment>
+    <segment id="32">sese pode soltar um "adentrar"</segment>
+    <segment id="33">, não escreve "dessa maneira"</segment>
+    <segment id="34">sese pode esbanjar um "destarte".</segment>
+    <segment id="35">Se tem à mão um "vocábulo assaz côngruo para a exordial"</segment>
+    <segment id="36">, por que</segment>
+    <segment id="37">sese rebaixar a um "</segment>
+    <segment id="38">termo apropriado para a petição inicial"?</segment>
+    <segment id="39">Em estágio avançado</segment>
+    <segment id="40">, não aceita dizer "semana passada".</segment>
+    <segment id="41">Vai lá e dispara um "hebdômada pretérita".</segment>
+    <segment id="42">A iniciação no juridiquês</segment>
+    <segment id="43">sese dá pelo garimpo de palavras.</segment>
+    <segment id="44">Quer multiplicar o glossário de sinônimos raros</segment>
+    <segment id="45">, esquisitos</segment>
+    <segment id="46">, bem-soantes.</segment>
+    <segment id="47">Não se</segment>
+    <segment id="48">se deve repetir "</segment>
+    <segment id="49">Constituição"</segment>
+    <segment id="50">sese há todo um leque de opções: carta magna</segment>
+    <segment id="51">, lei maior</segment>
+    <segment id="52">, lei suprema</segment>
+    <segment id="53">, lei das leis.</segment>
+    <segment id="54">Há "Codex Obreiro" no lugar de CLT</segment>
+    <segment id="55">, "Pergaminho Adjetivo" no lugar de Código de Processo.</segment>
+    <segment id="56">Na lição seguinte</segment>
+    <segment id="57">, o juridiquês te faz não só usar expressões latinas convencionais</segment>
+    <segment id="58">, masmas memorizar aquelas sinalizadoras de sua distinção</segment>
+    <segment id="59">, ou falta de noção.</segment>
+    <segment id="60">O "data venia" já</segment>
+    <segment id="61">sese tornou ordinário</segment>
+    <segment id="62">, masmas não o "tantum devolutum quantum appellatum".</segment>
+    <segment id="63">Para além do latim</segment>
+    <segment id="64">, o estrangeirismo soma um ar cosmopolita.</segment>
+    <segment id="65">Como Gilmar Mendes</segment>
+    <segment id="66">, que jamais</segment>
+    <segment id="67">sese referiu à Corte Constitucional alemã sem nos ensinar que o certo é "Bundesverfassungsgericht".</segment>
+    <segment id="68">Em licenças poéticas exaltadas</segment>
+    <segment id="69">, mira a câmera para gritar "eine grosse Konfusion".</segment>
+    <segment id="70">Ou ainda</segment>
+    <segment id="71">comocomo Luiz Fux</segment>
+    <segment id="72">, que deixou de dizer "atores" e adotou "players"</segment>
+    <segment id="73">, abandonou o "senso comum" para abraçar o "common place".</segment>
+    <segment id="74">Há também o repertório da adulação</segment>
+    <segment id="75">, formas excêntricas de tratamento.</segment>
+    <segment id="76">Em vez de reduzir o Supremo Tribunal Federal a esse nome insosso</segment>
+    <segment id="77">, chame-o de "Augusto Sodalício"</segment>
+    <segment id="78">, "Pretório Excelso"</segment>
+    <segment id="79">, "Egrégio Areópago".</segment>
+    <segment id="80">Dirija-</segment>
+    <segment id="81">sese ao Tribunal de Justiça</segment>
+    <segment id="82">comocomo "sédulos desembargadores dessa perleúda corte".</segment>
+    <segment id="83">O bacharel avançado vai além das palavras exóticas.</segment>
+    <segment id="84">Ele se</segment>
+    <segment id="85">se esmera na construção de estruturas sintáticas labirínticas.</segment>
+    <segment id="86">Devoto do cânone dos almanaques</segment>
+    <segment id="87">, tem um modo peculiar de</segment>
+    <segment id="88">sese relacionar com o mundo das ideias e da cultura.</segment>
+    <segment id="89">Mistura pílulas de Aristóteles com versos de Drummond.</segment>
+    <segment id="90">Às vezes escorrega e atribui a Drummond o verso de internet</segment>
+    <segment id="91">"o que importa é que sempre é possível recomeçar"</segment>
+    <segment id="92">, citado em discurso por Fux.</segment>
+    <segment id="93">Colunas e BlogsReceba no seu email uma seleção de colunas e blogs da FolhaCarregando...</segment>
+    <segment id="94">Mas o juridiquês não é só um jeito ridículo de</segment>
+    <segment id="95">sese expressar e um manancial para a chacota.</segment>
+    <segment id="96">Além do estético</segment>
+    <segment id="97">, o juridiquês opera um efeito político e moral.</segment>
+    <segment id="98">O ornamento</segment>
+    <segment id="99">sese torna meio para exercer autoridade</segment>
+    <segment id="100">, a carteirada estilística opera a exclusão</segment>
+    <segment id="101">, a exibição de credenciais sabichonas impõe hierarquia e desigualdade.</segment>
+    <segment id="102">O detentor de prerrogativas te olha de cima.</segment>
+    <segment id="103">Antonio Candido ("</segment>
+    <segment id="104">A vida ao rés-do-chão")</segment>
+    <segment id="105">, ao refletir sobre as virtudes da crônica</segment>
+    <segment id="106">, nota que esse gênero literário</segment>
+    <segment id="107">, "na sua despretensão</segment>
+    <segment id="108">, humaniza</segment>
+    <segment id="109">; e esta humanização lhe permite recuperar com a outra mão certa profundidade de significado".</segment>
+    <segment id="110">Não atua</segment>
+    <segment id="111">comocomo "disfarce da realidade e mesmo da verdade"</segment>
+    <segment id="112">; sua "perspectiva não é a dos que escrevem do alto da montanha</segment>
+    <segment id="113">, masmas do simples rés-do-chão".</segment>
+    <segment id="114">O estilista do juridiquês é um inimigo da crônica.</segment>
+    <segment id="115">Ser entendido ou</segment>
+    <segment id="116">sese fazer de entendido</segment>
+    <segment id="117">, eis a questão para o jurista bacharelesco.</segment>
+    <segment id="118">Entre o entendimento e o ofuscamento</segment>
+    <segment id="119">, opta pelo obscuro e esotérico.</segment>
+    <segment id="120">Para combater o pacto magistocrático do juridiquês</segment>
+    <segment id="121">, Luís Roberto Barroso</segment>
+    <segment id="122">, autor da mais límpida e humanizadora frase judicial de todos os tempos</segment>
+    <segment id="123">, dita ao rés-do-chão a um colega —"</segment>
+    <segment id="124">Você é uma pessoa horrível</segment>
+    <segment id="125">, uma mistura do mal com atraso e pitadas de psicopatia"— acaba de anunciar o Pacto Nacional do Judiciário pela Linguagem Simples.</segment>
+    <segment id="126">Iniciativas assim são mais fundamentais do que parecem.</segment>
+    <segment id="127">Poderão ter efetividade</segment>
+    <segment id="128">sese monitoradas pelo jornalismo e pela sociedade em geral.</segment>
+    <segment id="129">Porque senso do ridículo não é uma virtude magistocrática.</segment>
+    <segment id="130">Entenda o que faz o CNJMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,48 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Vale Ventures</segment>
+    <segment id="2">, divisão de investimentos da Vale em startups</segment>
+    <segment id="3">, anuncia nesta quarta (12) a compra de uma participação minoritária na Allonnia</segment>
+    <segment id="4">, empresa de biologia sediada em Boston (EUA).</segment>
+    <segment id="5">A Allonnia desenvolve uma tecnologia que pode alterar a forma</segment>
+    <segment id="6">comocomo os processos da mineração são desenvolvidos</segment>
+    <segment id="7">, melhorando sua qualidade (por meio da retirada de impurezas) e reduzindo o impacto ambiental.</segment>
+    <segment id="8">Prédio da Vale no Rio de Janeiro - Pilar Olivares - 20.ago.2014/ReutersA Vale é acionista da Samarco</segment>
+    <segment id="9">, mineradora responsável pelo maior desastre ambiental na região de Mariana (MG) provocado pelo rompimento de uma barragem.</segment>
+    <segment id="10">Nesta rodada de investimentos</segment>
+    <segment id="11">, a Allonnia captou US$ 30 milhões (R$ 146 milhões).</segment>
+    <segment id="12">A Vale entrou com US$ 3 milhões.</segment>
+    <segment id="13">A Vale afirma que a tecnologia da startup pode ser utilizada ainda na biomineralização de gás carbônico</segment>
+    <segment id="14">, processo em que o CO2 é capturado e transformado em mineral.</segment>
+    <segment id="15">Para as próximas captações</segment>
+    <segment id="16">, a Vale Ventures afirma que está focada em startups de tecnologia que trabalhem com ferramentas que levem à diminuição das emissões de carbono</segment>
+    <segment id="17">, redução do desperdício e do impacto ambiental no processo de mineração</segment>
+    <segment id="18">, transição energética e novas tecnologias que mudem a forma de administração do setor.</segment>
+    <segment id="19">Ao todo</segment>
+    <segment id="20">, o fundo deve totalizar US$ 100 milhões em investimentos nos próximos anos.</segment>
+    <segment id="21">Com Diego</segment>
+    <segment id="22">Felix</segment>
+  </rst>
+</analysis>

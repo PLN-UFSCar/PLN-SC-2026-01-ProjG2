@@ -1,0 +1,180 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Que evangélicos estão em franca ascensão no Brasil ninguém discute.</segment>
+    <segment id="2">Mas como</segment>
+    <segment id="3">como traduzir isso em números?</segment>
+    <segment id="4">Um estudo do Ipea (Instituto de Pesquisa Econômica Aplicada) chegou a uma fórmula que ajuda a dimensionar essa dilatação religiosa.</segment>
+    <segment id="5">Em 2021</segment>
+    <segment id="6">, as 87</segment>
+    <segment id="7">,5 mil igrejas evangélicas com CNPJ representavam sete em cada dez estabelecimentos religiosos formalizados no país</segment>
+    <segment id="8">, enquanto católicas eram 11% do total.</segment>
+    <segment id="9">O restante</segment>
+    <segment id="10">sese dividia entre outras religiões e espaços sem classificação precisa</segment>
+    <segment id="11">, em grande parte composto por associações comunitárias</segment>
+    <segment id="12">, beneficentes ou educacionais.</segment>
+    <segment id="13">Um salto e tanto em relação a 1998</segment>
+    <segment id="14">, primeiro ano contemplado na pesquisa.</segment>
+    <segment id="15">Os locais de culto evangélicos somavam então 26</segment>
+    <segment id="16">,6 mil</segment>
+    <segment id="17">, ou 54</segment>
+    <segment id="18">,5% do todo.</segment>
+    <segment id="19">Fiéis carregam cartaz durante a edição deste ano da Marcha para Jesus</segment>
+    <segment id="20">, em São Paulo- Eduardo Knapp - 8.jun.23/FolhapressO pentecostalismo e sua variante neopentecostal dominam o bolo religioso.</segment>
+    <segment id="21">São as pequenas igrejas</segment>
+    <segment id="22">, "aquelas de bairro"</segment>
+    <segment id="23">, que puxam o crescimento</segment>
+    <segment id="24">, aponta a economista Fernanda De Negri</segment>
+    <segment id="25">, coautora do trabalho e diretora de Estudos e Políticas Setoriais</segment>
+    <segment id="26">, de Inovação</segment>
+    <segment id="27">, Regulação e Infraestrutura do Ipea.</segment>
+    <segment id="28">Tratam-</segment>
+    <segment id="29">sese de células independentes</segment>
+    <segment id="30">, com um ou poucos templos</segment>
+    <segment id="31">, de nomes</segment>
+    <segment id="32">comocomo Ministério Jesus Te Ama e Igreja Pentecostal Rocha Inabalável Deus É Fiel.</segment>
+    <segment id="33">As grandes marcas do segmento são fortes</segment>
+    <segment id="34">, claro.</segment>
+    <segment id="35">Só a Universal do Reino de Deus</segment>
+    <segment id="36">, que De Negri define</segment>
+    <segment id="37">comocomo "uma empresa com diversas filiais"</segment>
+    <segment id="38">, tem 6.800 estabelecimentos vinculados a um único CNPJ.</segment>
+    <segment id="39">A Quadrangular</segment>
+    <segment id="40">, outra gigante</segment>
+    <segment id="41">, possui quase 5.000.</segment>
+    <segment id="42">Mensurar o agigantamento evangélico tem lá seus desafios.</segment>
+    <segment id="43">Comecemos pelo Censo</segment>
+    <segment id="44">, de onde vêm dados mais precisos sobre essa população.</segment>
+    <segment id="45">As informações mais recentes sobre a base religiosa nacional são do levantamento de 2010 —o IBGE ainda não divulgou esse recorte a partir do Censo 2022.</segment>
+    <segment id="46">O que o Ipea fez foi usar dados da Rais (Relação Anual de Informações Sociais)</segment>
+    <segment id="47">, do Ministério do Trabalho e Emprego.</segment>
+    <segment id="48">Levou-</segment>
+    <segment id="49">sese em conta</segment>
+    <segment id="50">, portanto</segment>
+    <segment id="51">, pessoas jurídicas inscritas na categoria "atividades de organizações religiosas".</segment>
+    <segment id="52">Como a Rais joga tudo no mesmo pacote</segment>
+    <segment id="53">, sem especificar a qual religião cada CNPJ corresponde</segment>
+    <segment id="54">, foi preciso apelar a um algoritmo que filtrasse os nomes dos estabelecimentos.</segment>
+    <segment id="55">Exemplo: para identificar igrejas evangélicas tradicionais</segment>
+    <segment id="56">, peneirou-</segment>
+    <segment id="57">sese termos</segment>
+    <segment id="58">comocomo "metodista" e "anglicana"</segment>
+    <segment id="59">, e para pentecostais</segment>
+    <segment id="60">, combinações</segment>
+    <segment id="61">comocomo "</segment>
+    <segment id="62">Assembleia de Deus" (o maior galho evangélico do país) e o próprio título "pentecostal".</segment>
+    <segment id="63">Igrejas evangélicas possuem maioria de fiéis negros e pobresMais    novamente         de   de  de  representando um  De Negri reconhece alguns buracos metodológicos a</segment>
+    <segment id="64">sese considerar aqui</segment>
+    <segment id="65">, já que muitas igrejas nanicas espalhadas pelo país operam sem qualquer adesão formal.</segment>
+    <segment id="66">Coloca-</segment>
+    <segment id="67">sese algumas cadeiras numa garagem mesmo</segment>
+    <segment id="68">, improvisa-</segment>
+    <segment id="69">sese um púlpito na frente</segment>
+    <segment id="70">, e pronto.</segment>
+    <segment id="71">Algo por aí.</segment>
+    <segment id="72">Outra imprecisão metodológica ilustra bem as dificuldades crônicas em radiografar o corpo evangélico brasileiro.</segment>
+    <segment id="73">Formas antigas para categorizar as igrejas tradicionais</segment>
+    <segment id="74">, ligadas ao protestantismo clássico</segment>
+    <segment id="75">, não funcionam tão bem para o quadro contemporâneo.</segment>
+    <segment id="76">Exemplo: batistas a princípio fariam parte desse grupo histórico.</segment>
+    <segment id="77">O que dizer</segment>
+    <segment id="78">, no entanto</segment>
+    <segment id="79">, de igrejas</segment>
+    <segment id="80">comocomo a Batista Lagoinha (da família Valadão) ou Atitude (com Michelle Bolsonaro entre os fiéis)</segment>
+    <segment id="81">, que esfumaçam as fronteiras com o pentecostalismo?</segment>
+    <segment id="82">Desafio parecido é separar o que é pentecostal e o que é neopentecostal.</segment>
+    <segment id="83">Basta pensar nos templos sob guarda do pastor Silas Malafaia</segment>
+    <segment id="84">, comumente visto</segment>
+    <segment id="85">comocomo líder do segundo bloco por quem é de fora do meio.</segment>
+    <segment id="86">A Assembleia de Deus Vitória em Cristo</segment>
+    <segment id="87">, todavia</segment>
+    <segment id="88">, entraria tradicionalmente na clivagem assembleiana</segment>
+    <segment id="89">, de DNA pentecostal.</segment>
+    <segment id="90">O que dá para cravar com segurança é que os católicos foram os que menos cresceram de 1998 para cá.</segment>
+    <segment id="91">O número de locais subordinados ao Vaticano saltou 63% no período</segment>
+    <segment id="92">, enquanto a fração evangélica galopou 228</segment>
+    <segment id="93">,5%.</segment>
+    <segment id="94">Na falta de dados frescos do Censo</segment>
+    <segment id="95">, projeções indicam que católicos são hoje metade do povo</segment>
+    <segment id="96">, e seus pares cristãos</segment>
+    <segment id="97">, próximos de um terço —eram menos de 10% até os anos 1990.</segment>
+    <segment id="98">Uma série de motivos explica a vantagem nessa corrida religiosa</segment>
+    <segment id="99">, inclusive abordagens teológicas diversificadas que fazem mais sentido para o brasileiro médio do que aquelas da Igreja Católica</segment>
+    <segment id="100">, mais enrijecida pela hierarquia da Santa Sé.</segment>
+    <segment id="101">Para a economista e colunista da Folha Deborah Bizarria</segment>
+    <segment id="102">, isso inclui "uma maior facilidade de abertura de igrejas em comparação com as católicas".</segment>
+    <segment id="103">A dianteira</segment>
+    <segment id="104">sese beneficiaria de "uma flexibilidade significativa para identificar áreas com crescimento populacional e maior potencial para atrair membros".</segment>
+    <segment id="105">Conheça filmes e séries que dão protagonismo aos evangélicosMais    novamente         de   de  de  representando um  Não estamos falando apenas de geografia. "</segment>
+    <segment id="106">As igrejas evangélicas desfrutam de uma liberdade mais ampla para definir crenças e práticas</segment>
+    <segment id="107">, alinhando-</segment>
+    <segment id="108">sese com a interpretação da Bíblia e a orientação de seus líderes"</segment>
+    <segment id="109">, diz Bizarria.</segment>
+    <segment id="110">"</segment>
+    <segment id="111">O que não significa um ‘vale tudo'</segment>
+    <segment id="112">, masmas há grande espaço para discordâncias em questões</segment>
+    <segment id="113">comocomo batismo</segment>
+    <segment id="114">, santa ceia e questões comportamentais</segment>
+    <segment id="115">comocomo consumo de bebida alcoólica.</segment>
+    <segment id="116">"</segment>
+    <segment id="117">Em compensação</segment>
+    <segment id="118">, afirma</segment>
+    <segment id="119">, as lideranças católicas "seguem uma doutrina mais uniforme</segment>
+    <segment id="120">, fundamentada na autoridade do papa e nos concílios ecumênicos".</segment>
+    <segment id="121">Ela frequenta em São Paulo a presbiteriana Comunidade da Vila</segment>
+    <segment id="122">, em Pinheiros (zona oeste paulistana).</segment>
+    <segment id="123">O pastor Victor Fontana</segment>
+    <segment id="124">, diretor de ensino teológico ali</segment>
+    <segment id="125">, concorda que ampliar o segmento é "bem mais fácil que formar paróquia".</segment>
+    <segment id="126">Até um antigo bar ou oficina mecânica abrigam uma nova casa de oração.</segment>
+    <segment id="127">Fontana faz um adendo: contabilizar templos não é o único medidor para a popularidade desse filão religioso.</segment>
+    <segment id="128">Um giro por São Paulo ajuda a observar o aumento de pontos comerciais "que carregam uma linguagem que o identifica</segment>
+    <segment id="129">comocomo evangélico"</segment>
+    <segment id="130">, diz.</segment>
+    <segment id="131">São nomes</segment>
+    <segment id="132">comocomo El Shaddai (algo</segment>
+    <segment id="133">comocomo Deus Todo Poderoso</segment>
+    <segment id="134">, em hebraico)</segment>
+    <segment id="135">, que batiza de livraria cristã a salão de beleza.</segment>
+    <segment id="136">Ele repara ainda que</segment>
+    <segment id="137">, embora</segment>
+    <segment id="138">embora o fenômeno seja mais paulatino longe das regiões centrais</segment>
+    <segment id="139">, o alargamento da via evangélica também vem atingindo bairros mais nobres.</segment>
+    <segment id="140">"</segment>
+    <segment id="141">Onde antes tinha uma cantina na Bela Vista ou um mercadinho em Perdizes</segment>
+    <segment id="142">, agora tem uma ‘church’ cheia de gente jovem.</segment>
+    <segment id="143">"  Aqui cabe ressaltar uma transição social importante.</segment>
+    <segment id="144">Muitos filhos de famílias pioneiras no evangelicalismo "passaram a ter acesso a estudo universitário</segment>
+    <segment id="145">, seja por causa das cotas</segment>
+    <segment id="146">, seja por causa dos programas de assistência [</segment>
+    <segment id="147">comocomo o Fies]"</segment>
+    <segment id="148">, e conquistam rendas mais polpudas</segment>
+    <segment id="149">, diz.  "</segment>
+    <segment id="150">A expressão de fé que faz sentido para eles já não está mais tanto nas periferias.</segment>
+    <segment id="151">"</segment>
+    <segment id="152">Crescei e multiplicai-vos</segment>
+    <segment id="153">, portanto</segment>
+    <segment id="154">, para todas as classes sociais.</segment>
+  </rst>
+</analysis>

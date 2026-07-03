@@ -1,0 +1,86 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A missão IM-1</segment>
+    <segment id="2">, que tenta realizar nesta semana o primeiro pouso de uma empresa privada na Lua</segment>
+    <segment id="3">, divulgou suas primeiras imagens.</segment>
+    <segment id="4">Transmitidos na sexta-feira (16)</segment>
+    <segment id="5">, dia seguinte ao lançamento</segment>
+    <segment id="6">, os registros foram feitos logo após o módulo Odysseus</segment>
+    <segment id="7">sese separar do segundo estágio do Falcon 9</segment>
+    <segment id="8">, da SpaceX.  Nas imagens</segment>
+    <segment id="9">, é possível ver a Terra ao fundo e parte do módulo modelo Nova-C.  Desde que o veículo deixou o Centro Espacial Kennedy</segment>
+    <segment id="10">, na Flórida (Estados Unidos)</segment>
+    <segment id="11">, a Intuitive Machines forneceu atualizações sobre a IM-1</segment>
+    <segment id="12">, seu voo de estreia.</segment>
+    <segment id="13">De forma geral</segment>
+    <segment id="14">, a missão ocorre dentro do cronograma e a expectativa é de que a alunissagem possa ser feita nesta semana.</segment>
+    <segment id="15">Uma das primeiras imagens dilvulgadas da IM-1</segment>
+    <segment id="16">, que busca realizar o primeiro pouso de uma empresa privada na Lua -Intuitive MachinesA empresa fez a ressalva</segment>
+    <segment id="17">, entretanto</segment>
+    <segment id="18">, que atrasos e interrupções na comunicação são esperados em missões lunares.</segment>
+    <segment id="19">Após deixar para trás o seu lançador</segment>
+    <segment id="20">, o módulo ativou de forma autônoma todos os sensores e rádio.</segment>
+    <segment id="21">Inicialmente</segment>
+    <segment id="22">, segundo a empresa</segment>
+    <segment id="23">, o módulo apresentou uma baixa taxa de rotação</segment>
+    <segment id="24">, fazendo com que seus painéis solares e antenas girassem fora da atitude desejada.</segment>
+    <segment id="25">A equipe em Terra conseguiu efetuar uma manobra para corrigir o problema</segment>
+    <segment id="26">, deixando Odysseus com suas baterias totalmente carregadas.</segment>
+    <segment id="27">Intuitive Machines divulga primeiras imagens de missão lunarMais    novamente         de   de  de  representando um  Houve também a necessidade de adiar em um dia a queima de combustível devido à transmissão intermitente de dados para a equipe que está em Terra</segment>
+    <segment id="28">, impactando a coleta de informações para apoiar a primeira ignição no espaço do motor de metano e oxigênio líquidos.</segment>
+    <segment id="29">Esse acionamento do motor mais tarde foi feito</segment>
+    <segment id="30">, masmas os controladores de voo ainda precisam analisar os dados</segment>
+    <segment id="31">, coletados a mais de 270 mil quilômetros da Terra.</segment>
+    <segment id="32">Espera-</segment>
+    <segment id="33">sese que a IM-1 chegue à cratera Malapert</segment>
+    <segment id="34">A na próxima quinta (22).</segment>
+    <segment id="35">Essa região</segment>
+    <segment id="36">, do polo sul lunar</segment>
+    <segment id="37">, é uma das candidatas a receber a Artemis 3</segment>
+    <segment id="38">, prevista para setembro de 2026 e com a qual a agência americana espera ver humanos novamente caminhando no satélite.</segment>
+    <segment id="39">Caso tudo corra bem</segment>
+    <segment id="40">, a IM-1 será a primeira missão privada a realizar um pouso suave na Lua e</segment>
+    <segment id="41">, também</segment>
+    <segment id="42">, a primeira alunissagem dos EUA desde a última missão Apollo</segment>
+    <segment id="43">, há meio século.  'CARRETO' DA INTUITIVE MACHINES</segment>
+    <segment id="44">O módulo Odysseus tem 675 quilos e transporta seis cargas úteis da Nasa</segment>
+    <segment id="45">, como</segment>
+    <segment id="46">como parte de um programa da agência para fomentar missões comerciais de carretos lunares.</segment>
+    <segment id="47">Pelo transporte de seus instrumentos à superfície lunar</segment>
+    <segment id="48">, ela pagou à Intuitive Machines US$ 118 milhões.</segment>
+    <segment id="49">Intuitive Machines tenta</segment>
+    <segment id="50">sese tornar a 1ª empresa privada a pousar na LuaMais    novamente         de   de  de  representando</segment>
+    <segment id="51">um  Eles estão ao lado de outras cargas despachadas por entes privados</segment>
+    <segment id="52">, que vão de coberturas térmicas a esculturas</segment>
+    <segment id="53">, passando por uma câmera para ser ejetada e fotografar o pouso em perspectiva.</segment>
+    <segment id="54">Os instrumentos da Nasa são formados por um sistema de rádio que vai medir fontes astronômicas e o ambiente de plasma na exosfera lunar (a ultratênue</segment>
+    <segment id="55">, praticamente nula</segment>
+    <segment id="56">, atmosfera do satélite)</segment>
+    <segment id="57">, um retrorrefletor (instrumento passivo para medição de distância à Lua com laser)</segment>
+    <segment id="58">, um dispositivo para medir velocidade e distância do solo</segment>
+    <segment id="59">, uma câmera estéreo para observar efeitos da pluma do propulsor sobre o solo na alunissagem</segment>
+    <segment id="60">, um retransmissor de rádio para localização e um medidor de combustível disponível.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,49 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A onda de calor que atinge diversas regiões do Brasil fez com que as redes sociais</segment>
+    <segment id="2">sese tornassem rota de escape para as reclamações sobre as elevadas temperaturas.</segment>
+    <segment id="3">A alta de até 5°C nos termômetros é resultado da interação entre bloqueio de pressão atmosférica</segment>
+    <segment id="4">, El Niño e mudanças climáticas.</segment>
+    <segment id="5">O termo "QUENTE"</segment>
+    <segment id="6">, em caixa alta</segment>
+    <segment id="7">, foi parar nos assuntos mais comentados do X</segment>
+    <segment id="8">, ex-Twitter</segment>
+    <segment id="9">, na manhã desta terça-feira (14)</segment>
+    <segment id="10">, com mais de 45 mil menções.</segment>
+    <segment id="11">Calor de 30°C à noite.</segment>
+    <segment id="12">Algumas pessoas aproveitaram para compartilhar seus termômetros.</segment>
+    <segment id="13">Rio 40 graus é fichinha.  "</segment>
+    <segment id="14">Meu suor tá suando".</segment>
+    <segment id="15">Solidariedade às mulheres de baixa pressão.</segment>
+    <segment id="16">Urgente.</segment>
+    <segment id="17">E como</segment>
+    <segment id="18">como isso afeta o Palmeiras?</segment>
+    <segment id="19">As ações publicitárias estão indo longe demais.</segment>
+    <segment id="20">A sensação térmica é de ser uma batata palito dentro de uma airfryer.</segment>
+    <segment id="21">Vamos beber bastante líquido para não virar o Bob Esponja desidratado.</segment>
+    <segment id="22">Que calor !</segment>
+    <segment id="23">Mais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

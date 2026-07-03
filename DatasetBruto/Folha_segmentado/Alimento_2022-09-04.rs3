@@ -1,0 +1,170 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O brasileiro está comendo mais ultraprocessados.</segment>
+    <segment id="2">Mas a boa notícia é que</segment>
+    <segment id="3">, pelo menos por enquanto</segment>
+    <segment id="4">, ainda predomina no país o costume de "comida de verdade"</segment>
+    <segment id="5">, preparações culinárias com alimentos naturais ou minimamente processados</segment>
+    <segment id="6">, como</segment>
+    <segment id="7">como leite</segment>
+    <segment id="8">, farinhas e arroz.</segment>
+    <segment id="9">O cenário de expansão de ultraprocessados</segment>
+    <segment id="10">, contudo</segment>
+    <segment id="11">contudo</segment>
+    <segment id="12">, é preocupante</segment>
+    <segment id="13">, segundo especialistas.</segment>
+    <segment id="14">Essa é a conclusão de um estudo de pesquisadores Nupens (Núcleo de Pesquisas Epidemiológicas em Nutrição e Saúde/USP) e da UFMG (Universidade Federal de Minas Gerais) recentemente publicada na Revista de Saúde Pública.</segment>
+    <segment id="15">Picadinho de carne com ovo frito</segment>
+    <segment id="16">, arroz</segment>
+    <segment id="17">, feijão com linguiça e farofa - Gabriel Cabral - 30.abr.21/FolhapressPara o estudo</segment>
+    <segment id="18">, os cientistas usaram dados das Pesquisas de Orçamentos Familiares</segment>
+    <segment id="19">, do IBGE (Instituto Brasileiro de Geografia e Estatística)</segment>
+    <segment id="20">, que correspondem ao período de 1987 até 2018.</segment>
+    <segment id="21">Eles observaram os produtos que foram adquiridos pelas famílias</segment>
+    <segment id="22">, e não o consumo em si dos alimentos</segment>
+    <segment id="23">, apesar de</segment>
+    <segment id="24">, logicamente</segment>
+    <segment id="25">, as duas ações terem correlações.</segment>
+    <segment id="26">Com isso</segment>
+    <segment id="27">, puderam agrupar os itens possivelmente consumidos a partir da classificação Nova</segment>
+    <segment id="28">, desenvolvida no próprio Nupens —e utilizada e reconhecida internacionalmente— e que divide os alimentos em quatro grupos: in natura ou minimamente processados</segment>
+    <segment id="29">; ingredientes processados (</segment>
+    <segment id="30">comocomo azeite</segment>
+    <segment id="31">, manteiga e açúcar)</segment>
+    <segment id="32">;</segment>
+    <segment id="33">alimentos processados (</segment>
+    <segment id="34">comocomo conservas de legumes</segment>
+    <segment id="35">, queijos e pães artesanais)</segment>
+    <segment id="36">; e alimentos e bebidas ultraprocessados.</segment>
+    <segment id="37">Comer qualquer coisa excessivamente é prejudicial.</segment>
+    <segment id="38">Mas, em linhas gerais</segment>
+    <segment id="39">, é no último grupo</segment>
+    <segment id="40">, o dos ultraprocessados</segment>
+    <segment id="41">, com seus aditivos</segment>
+    <segment id="42">, que mora o maior problema.</segment>
+    <segment id="43">Nessa classe estão refrigerantes</segment>
+    <segment id="44">, bebidas lácteas</segment>
+    <segment id="45">, margarinas</segment>
+    <segment id="46">, salgadinhos de pacote</segment>
+    <segment id="47">, doces</segment>
+    <segment id="48">, sorvetes</segment>
+    <segment id="49">, pães embalados e uma lista sem fim de produtos.</segment>
+    <segment id="50">Já há uma considerável e ainda crescente literatura científica que aponta os riscos envolvidos no consumo em maior volume de ultraprocessados</segment>
+    <segment id="51">, como</segment>
+    <segment id="52">como cânceres</segment>
+    <segment id="53">, diabetes e outras doenças crônicas.</segment>
+    <segment id="54">Na pesquisa de orçamento do IBGE feita no período 2017-2018</segment>
+    <segment id="55">, a mais recente disponível</segment>
+    <segment id="56">, quase 49% das calorias disponíveis nos lares de todo o Brasil eram provenientes de alimentos in natura ou minimamente processados.</segment>
+    <segment id="57">Outros 32% eram derivados de ingredientes e alimentos processados.</segment>
+    <segment id="58">Por fim</segment>
+    <segment id="59">, cerca de 19% vinham de ultraprocessados.  "</segment>
+    <segment id="60">O Brasil tem uma cultura alimentar muito enraizada e isso favorece que a gente mantenha uma alimentação baseada em preparações culinárias"</segment>
+    <segment id="61">, afirma Renata Levy</segment>
+    <segment id="62">, uma das autoras do estudo e pesquisadora do Nupens.</segment>
+    <segment id="63">"</segment>
+    <segment id="64">Há situações</segment>
+    <segment id="65">comocomo a do Reino Unido e Estados Unidos onde 60% da alimentação vem de alimentos ultraprocessados.</segment>
+    <segment id="66">"  Alimentação baseada em ultraprocessados e não processadosMais    novamente         de   de  de  representando um</segment>
+    <segment id="67">Apesar da ainda predominante cultura brasileira de comida caseira</segment>
+    <segment id="68">, a situação tem mudado com o passar das décadas.</segment>
+    <segment id="69">Os ultraprocessados têm comido o seu espaço na vida dos brasileiros</segment>
+    <segment id="70">, ao mesmo tempo em que diminui o consumo de alimentos in natura/minimamente processados (conhecidos</segment>
+    <segment id="71">comocomo grupo 1 da classificação Nova).</segment>
+    <segment id="72">Segundo a pesquisa do Nupens</segment>
+    <segment id="73">, considerando só as regiões metropolitanas no país</segment>
+    <segment id="74">, em 30 anos</segment>
+    <segment id="75">, os ultraprocessados (grupo 4 da classificação Nova) saíram de 10% e saltaram para quase 24% de participação na dieta das pessoas.</segment>
+    <segment id="76">Considerando todo o país</segment>
+    <segment id="77">, os números passaram de 14</segment>
+    <segment id="78">,3%, em 2002-2003 (primeira pesquisa para o Brasil inteiro)</segment>
+    <segment id="79">, para cerca de 19%</segment>
+    <segment id="80">, em 2017-2018  O aumento da presença do grupo 4 também é visto na zona rural brasileira</segment>
+    <segment id="81">, saindo de 7</segment>
+    <segment id="82">,4%, em 2002-2003</segment>
+    <segment id="83">, para 11</segment>
+    <segment id="84">,5%, em 2017-2018.</segment>
+    <segment id="85">Nos últimos anos da pesquisa</segment>
+    <segment id="86">, porém</segment>
+    <segment id="87">porém, a expansão dos ultraprocessados perdeu velocidade.</segment>
+    <segment id="88">A pesquisa com base nos dados do IBGE mostra que no Sul</segment>
+    <segment id="89">, Sudeste</segment>
+    <segment id="90">, áreas metropolitanas</segment>
+    <segment id="91">, no meio urbano e em famílias com maior renda</segment>
+    <segment id="92">, os ultraprocessados já compõem cerca de 20% do que é comprado</segment>
+    <segment id="93">comocomo alimento para a casa.</segment>
+    <segment id="94">Uma maior presença de ultraprocessados na vida das pessoas é uma tendência —preocupante— mundial.</segment>
+    <segment id="95">"</segment>
+    <segment id="96">Eles trazem uma força muito grande de venda</segment>
+    <segment id="97">, de mercado</segment>
+    <segment id="98">, de marketing de multinacionais.</segment>
+    <segment id="99">São alimentos que têm apelo.</segment>
+    <segment id="100">Eles estão em todos os lugares</segment>
+    <segment id="101">, você consegue consumir fazendo diversas coisas ao mesmo tempo</segment>
+    <segment id="102">, qualquer lugar que você olha você vê.</segment>
+    <segment id="103">Eles têm essa praticidade que é atrativa"</segment>
+    <segment id="104">, afirma a pesquisadora do Nupens.</segment>
+    <segment id="105">O estudo observou que</segment>
+    <segment id="106">, conforme aumenta a renda</segment>
+    <segment id="107">, diminui a fatia dos alimentos in natura/minimamente processados e de ingredientes processados na despensa das casas.</segment>
+    <segment id="108">Nas últimas pesquisas de orçamento</segment>
+    <segment id="109">, porém</segment>
+    <segment id="110">porém, houve uma estabilização na aquisição de ultraprocessados nas famílias com a maior faixa de renda.</segment>
+    <segment id="111">Levy diz que isso pode significar uma conscientização em relação aos riscos de uma alimentação prejudicial à saúde.</segment>
+    <segment id="112">Mas, ao mesmo tempo</segment>
+    <segment id="113">, famílias com rendas menores permanecem em uma situação de aumento constante de consumo de ultraprocessados —apesar de</segment>
+    <segment id="114">, em números totais</segment>
+    <segment id="115">, ainda consumirem menos produtos do grupo 4</segment>
+    <segment id="116">, quando comparado à fatia mais abastada.</segment>
+    <segment id="117">Os pesquisadores afirmam que isso</segment>
+    <segment id="118">sese relaciona aos preços ainda mais elevados dos ultraprocessados.</segment>
+    <segment id="119">O problema é que a situação está mudando.</segment>
+    <segment id="120">Existe uma tendência que alimentos saudáveis</segment>
+    <segment id="121">, ou seja</segment>
+    <segment id="122">, especialmente os in natura/minimamente processados</segment>
+    <segment id="123">, fiquem mais caros em comparação aos não saudáveis —ultraprocessados.</segment>
+    <segment id="124">Pesquisadores esperavam que essa mudança ocorresse só no meio da década</segment>
+    <segment id="125">, masmas a pandemia de Covid e fenômenos climáticos —que devem crescer com a crise climática— aceleraram o passo.</segment>
+    <segment id="126">"</segment>
+    <segment id="127">A nossa estimativa indica que essa transição estaria acontecendo nesse exato momento"</segment>
+    <segment id="128">, afirma Rafael Claro</segment>
+    <segment id="129">, pesquisador da UFMG e um dos autores do estudo.</segment>
+    <segment id="130">A situação será de difícil reversão</segment>
+    <segment id="131">, diz Claro.</segment>
+    <segment id="132">E por que ocorre essa diferença de preços entre industrializados e produtos saudáveis?</segment>
+    <segment id="133">A situação pode ser explicada pela margem de manobra</segment>
+    <segment id="134">, ou seja</segment>
+    <segment id="135">, grandes empresas conseguem amortecer melhor impactos econômicos.  "</segment>
+    <segment id="136">O Seu João</segment>
+    <segment id="137">, que vende pimentão</segment>
+    <segment id="138">, não tem o que fazer.</segment>
+    <segment id="139">Ele tem três insumos: sementes</segment>
+    <segment id="140">, fertilizante e água</segment>
+    <segment id="141">, além da cadeia de transporte.</segment>
+    <segment id="142">Quando algo der errado</segment>
+    <segment id="143">, ele não tem outro mecanismo que não seja transferir isso para o preço"</segment>
+    <segment id="144">, diz Claro.</segment>
+  </rst>
+</analysis>

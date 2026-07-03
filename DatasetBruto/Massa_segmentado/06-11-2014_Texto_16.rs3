@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Globo deve milhÃµes a Silvio Santos</segment>
+    <segment id="2">O processo</segment>
+    <segment id="3">sese arrasta desde 1996</segment>
+    <segment id="4">ApÃ³s receber cerca de R$ 70 milhÃµes da Globo</segment>
+    <segment id="5">, Silvio espera faturar mais R$ 10 milhÃµes em uma novela judicial que</segment>
+    <segment id="6">sese arrasta desde 1996.</segment>
+    <segment id="7">A Globo assumiu as multas contratuais dos autores Benedito Ruy Barbosa</segment>
+    <segment id="8">, GlÃ³ria Perez e Walther NegrÃ£o</segment>
+    <segment id="9">, que saÃ­ram do SBT</segment>
+    <segment id="10">, masmas o apresentador disse em seu programa do Ãºltimo domingo que parte da dÃ­vida ainda nÃ£o foi quitada.</segment>
+  </rst>
+</analysis>

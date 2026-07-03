@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Uma versão musical do livro “</segment>
+    <segment id="2">O Diabo</segment>
+    <segment id="3">Veste Prada”</segment>
+    <segment id="4">, de Lauren Weisberger</segment>
+    <segment id="5">, está programada para estrear em Chicago em julho de 2020</segment>
+    <segment id="6">, antes de chegar à Broadway.</segment>
+    <segment id="7">Com músicas originais de Elton John</segment>
+    <segment id="8">, o espetáculo também será inspirado no filme homônimo de 2006</segment>
+    <segment id="9">, sobre uma jornalista que começa a trabalhar em uma revista de moda.</segment>
+    <segment id="10">Cena de &amp;#039</segment>
+    <segment id="11">;O Diabo</segment>
+    <segment id="12">Veste Prada&amp;#039</segment>
+    <segment id="13">; - Divulgação</segment>
+  </rst>
+</analysis>

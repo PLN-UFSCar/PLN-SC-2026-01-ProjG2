@@ -1,0 +1,100 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente Luiz Inácio Lula da Silva (PT) anunciou nesta sexta-feira (9) o ex-governador do Maranhão Flávio Dino (PSB)</segment>
+    <segment id="2">comocomo ministro da Justiça.</segment>
+    <segment id="3">Ao ser questionado</segment>
+    <segment id="4">sese iria desmembrar a pasta para criar o ministério da Segurança Pública</segment>
+    <segment id="5">, Lula disse que Dino consertaria primeiro a Justiça.</segment>
+    <segment id="6">Lula prometeu criar uma pasta própria para tratar de temas ligados à segurança pública e ter sob o guarda-chuva as polícias.</segment>
+    <segment id="7">Dino e outros aliados de Lula defenderam que tudo ficasse num ministério só.</segment>
+    <segment id="8">Lula ao anunciar nomes dos futuros ministros</segment>
+    <segment id="9">, em Brasília- Pedro Ladeira/Folhapress"Nós temos o interesse de criar o Ministério de Segurança Pública</segment>
+    <segment id="10">, masmas a gente também não pode fazer a coisa de forma atabalhoada.</segment>
+    <segment id="11">O companheiro Flávio Dino tem a missão de primeiro consertar o Ministério da Justiça e consertar o funcionamento da Polícia Federal</segment>
+    <segment id="12">, queremos que carreira de estado seja carreira de estado"</segment>
+    <segment id="13">, disse Lula.</segment>
+    <segment id="14">Entretanto</segment>
+    <segment id="15">, Dino afirmou na saída do CCBB</segment>
+    <segment id="16">, onde funciona o governo de transição</segment>
+    <segment id="17">, que a pasta ficaria junta e não haveria o ministério da Segurança Pública separado.</segment>
+    <segment id="18">Ele, inclusive</segment>
+    <segment id="19">, chegou a falar da área ao lado de Lula.</segment>
+    <segment id="20">"</segment>
+    <segment id="21">Registrar que uma das determinações</segment>
+    <segment id="22">, orientações que ele fixou [Lula] é de total ênfase a área de segurança pública e</segment>
+    <segment id="23">, portanto</segment>
+    <segment id="24">, quero consignar os policias</segment>
+    <segment id="25">, suas famílias</segment>
+    <segment id="26">, todos os profissionais de segurança pública que o presidente Lula determinou na transição e também no exercício do governo que nós estejamos muito próximo dos policiais.</segment>
+    <segment id="27">Não há nenhuma razão para não haver amplo diálogo com todos os profissionais de segurança pública e isso vai ocorrer por determinação do presidente Lula"</segment>
+    <segment id="28">, disse Dino.</segment>
+    <segment id="29">Lula prometeu trabalhar o tema da segurança pública com seriedade e cuidado.  "</segment>
+    <segment id="30">A questão da segurança é uma das coisas que a gente vai tratar com muito cuidado</segment>
+    <segment id="31">porque</segment>
+    <segment id="32">porque a gente não pode errar</segment>
+    <segment id="33">, a gente não pode fazer uma pirotecnia</segment>
+    <segment id="34">, a gente está cansado de ver dezenas de pessoas serem vítimas de ação policial sem nenhuma explicação.</segment>
+    <segment id="35">"</segment>
+    <segment id="36">Na transição houve a sinalização de que o ministério poderia ficar em uma única pasta com a criação de um grupo de trabalho único da Justiça e Segurança Pública.</segment>
+    <segment id="37">A decisão também teve participação de Flávio Dino.</segment>
+    <segment id="38">O anúncio do bloco na transição gerou mal-estar em grupos de WhatsApp compostos por especialistas na área.</segment>
+    <segment id="39">Eles questionaram a falta de um espaço exclusivo para a discussão técnica sobre segurança pública.</segment>
+    <segment id="40">Manter o ministério junto não era um consenso entre aliados de Lula.</segment>
+    <segment id="41">Havia pessoas próximas do presidente eleito que defendiam a separação.</segment>
+    <segment id="42">O ex-governador do Piauí e senador eleito Wellington Dias (PT) defendeu</segment>
+    <segment id="43">, durante participação em um evento nesta semana</segment>
+    <segment id="44">, a separação da pasta.</segment>
+    <segment id="45">O parlamentar argumentou que seria importante discutir a segurança pública sem deixar o assunto totalmente por conta dos estados.</segment>
+    <segment id="46">Flávio Dino</segment>
+    <segment id="47">, na sede do governo de transição</segment>
+    <segment id="48">, em Brasília - Pedro Ladeira/Folhapress  Dentro do grupo de transição também havia essa divergência.</segment>
+    <segment id="49">O advogado Marco Aurélio de Carvalho</segment>
+    <segment id="50">, por exemplo</segment>
+    <segment id="51">, defendia a composição do Ministério da Segurança Pública</segment>
+    <segment id="52">, masmas Dino conseguiu ir convencendo os colegas de trabalho.</segment>
+    <segment id="53">A intenção de Dino era assumir uma pasta com mais poderes e que tivesse dentro</segment>
+    <segment id="54">, por exemplo</segment>
+    <segment id="55">, a Polícia Federal.</segment>
+    <segment id="56">Dino anunciou nesta sexta-feira o delegado Andrei Passos Rodrigues</segment>
+    <segment id="57">comocomo diretor-geral da Polícia Federal do governo do presidente Lula (PT).</segment>
+    <segment id="58">Dino já mencionou que um dos pontos principais de trabalho da pasta será o controle de armas e munição.</segment>
+    <segment id="59">A ideia é que haja um "revogaço" das portarias armamentistas editadas no governo do presidente Jair Bolsonaro (PL).</segment>
+    <segment id="60">O novo ministro afirmou que armas de grosso calibre</segment>
+    <segment id="61">, liberadas pelos decretos de Bolsonaro</segment>
+    <segment id="62">, poderão ser recolhidas e que a posse permitida pelas normas em vigor não representa um direito adquirido.</segment>
+    <segment id="63">Outros pontos prioritários da nova gestão são o fortalecimento da atuação na floresta Amazônica e o combate ao crime cibernético.</segment>
+    <segment id="64">Dino já disse à Folha que pretende fazer um redesenho da força de segurança.</segment>
+    <segment id="65">A intenção é revogar</segment>
+    <segment id="66">, por exemplo</segment>
+    <segment id="67">, a portaria que ampliou os poderes da PRF (Polícia Rodoviária Federal).</segment>
+    <segment id="68">"</segment>
+    <segment id="69">Vamos debater um novo texto em que a PRF possa participar de operações integradas</segment>
+    <segment id="70">, no limite de suas competências"</segment>
+    <segment id="71">, disse</segment>
+    <segment id="72">, na ocasião.</segment>
+    <segment id="73">Este é Flávio Dino</segment>
+    <segment id="74">, novo ministro da Justiça de LulaMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

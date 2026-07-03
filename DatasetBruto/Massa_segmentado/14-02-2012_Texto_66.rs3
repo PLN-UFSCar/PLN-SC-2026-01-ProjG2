@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Michel Teló já chegou para a folia</segment>
+    <segment id="2">“</segment>
+    <segment id="3">O Carnaval baiano é um dos mais deliciosos do Brasil”</segment>
+    <segment id="4">, elogiou o astro sertanejo</segment>
+    <segment id="5">O cantor Michel Teló chegou ontem a Salvador e garante  que já está em ritmo de festa.</segment>
+    <segment id="6">“</segment>
+    <segment id="7">O Carnaval baiano é um dos mais deliciosos do Brasil”</segment>
+    <segment id="8">, elogiou o astro sertanejo.</segment>
+    <segment id="9">Solteiro há menos de um mês</segment>
+    <segment id="10">, Teló pediu ontem</segment>
+    <segment id="11">, um dia antes da abertura oficial do Carnaval de Salvador</segment>
+    <segment id="12">, para os foliões beijarem muito na boca durante a folia.</segment>
+    <segment id="13">"</segment>
+    <segment id="14">Vim conferir a boca das meninas"</segment>
+    <segment id="15">, brincou.</segment>
+    <segment id="16">Segundo Michel Teló</segment>
+    <segment id="17">, sua missão na folia baiana é “botar a turma para brincar de dentista e beijar muito na boca”.</segment>
+    <segment id="18">Ai, se</segment>
+    <segment id="19">se ele te pega</segment>
+    <segment id="20">, hein?</segment>
+  </rst>
+</analysis>

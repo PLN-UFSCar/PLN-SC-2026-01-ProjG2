@@ -1,0 +1,52 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A equipe de Gilberto Gil publicou</segment>
+    <segment id="2">, no Facebook do cantor</segment>
+    <segment id="3">, uma mensagem a Paul McCartney.</segment>
+    <segment id="4">Na foto que acompanha o texto</segment>
+    <segment id="5">, o brasileiro aparece colocando seu nome na parede da fama que registra os músicos que</segment>
+    <segment id="6">sese apresentaram no Cavern Club</segment>
+    <segment id="7">, porão de tijolos em Liverpool</segment>
+    <segment id="8">, na Inglaterra</segment>
+    <segment id="9">, onde os Beatles também performaram.</segment>
+    <segment id="10">Foto de Gilberto colocando seu nome na parede da fama do Cavern Club</segment>
+    <segment id="11">, em Liverpool - Gilberto Gil no Facebook"Foi ouvindo Beatles que Gil teve o insight que veio a dar origem à Tropicália.</segment>
+    <segment id="12">E agora ele tem um tijolinho com seu nome na mesma parede que o aniversariante do dia</segment>
+    <segment id="13">, lá em Liverpool"</segment>
+    <segment id="14">, diz o texto.</segment>
+    <segment id="15">"</segment>
+    <segment id="16">Aquele abraço</segment>
+    <segment id="17">, Paul McCartney.</segment>
+    <segment id="18">"  Imagens do cantor Paul McCartneyMais</segment>
+    <segment id="19">novamente         de   de  de  representando um</segment>
+    <segment id="20">A mensagem foi compartilhada neste domingo (18)</segment>
+    <segment id="21">, em homenagem ao aniversário de Paul McCartney</segment>
+    <segment id="22">, que completou 81 anos na data.</segment>
+    <segment id="23">Além de Gil e McCartney</segment>
+    <segment id="24">, músicos</segment>
+    <segment id="25">comocomo Eric Clapton e Elton John e bandas</segment>
+    <segment id="26">comocomo Oasis e Queen marcam as paredes do clube.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Ex-LevaNoiz</segment>
+    <segment id="2">, AndrÃ© lanÃ§a novo projeto</segment>
+    <segment id="3">O cantor acaba de lanÃ§ar a banda Ramon Brazil</segment>
+    <segment id="4">O eterno Superman do pagode baiano acaba de lanÃ§ar seu novo projeto: a banda Ramon Brazil</segment>
+    <segment id="5">, com Z mesmo!</segment>
+    <segment id="6">O CD de estreia</segment>
+    <segment id="7">, intitulado #Modeon</segment>
+    <segment id="8">, tem 22 faixas (oito inÃ©ditas e 14 regravaÃ§Ãµes).</segment>
+    <segment id="9">Tem atÃ© dueto com Xande de Pilares.</segment>
+    <segment id="10">Sucesso!</segment>
+  </rst>
+</analysis>

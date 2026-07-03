@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A atriz Claudia Raia destratou um jornalista durante um evento da joalheria Vivara nesta segunda-feira</segment>
+    <segment id="2">, quando ele perguntou qual seria o nome de seu filho no tapete vermelho.</segment>
+    <segment id="3">A atriz Claudia Raia no evento de comemoração dos 60 anos da Vivara na Pinacoteca de São Paulo - Rubens Cavallari/Folhapress  "</segment>
+    <segment id="4">Você está atrasadíssimo!</segment>
+    <segment id="5">Você está péssima.</segment>
+    <segment id="6">Falei na Ana Maria Braga.</segment>
+    <segment id="7">Luca!</segment>
+    <segment id="8">Só você que não sabe.</segment>
+    <segment id="9">Luca é o novo Enzo</segment>
+    <segment id="10">, você não ouviu falar disso?</segment>
+    <segment id="11">"</segment>
+    <segment id="12">O jornalista reagiu constrangido e a atriz seguiu em frente para a entrada do evento</segment>
+    <segment id="13">, que marcava o aniversário de 60 anos da rede de joias na Pinacoteca de São Paulo.</segment>
+    <segment id="14">A atriz chamou atenção ao anunciar uma gravidez aos 55 anos com o marido</segment>
+    <segment id="15">, Jarbas Homem de Mello</segment>
+    <segment id="16">, sem deixar claro a princípio</segment>
+    <segment id="17">sese usara métodos artificiais para engravidar</segment>
+    <segment id="18">, o que causou polêmica.</segment>
+    <segment id="19">Veja fotos de Cláudia RaiaMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Os atos golpistas realizados no dia 8 de janeiro espalharam atos de vandalismo em Brasília.</segment>
+    <segment id="2">Os manifestantes invadiram e destruíram áreas do Congresso Nacional</segment>
+    <segment id="3">, Palácio do Planalto e STF (Supremo Tribunal Federal).</segment>
+    <segment id="4">Eles saíram do QG do Exército</segment>
+    <segment id="5">, a cerca de 8 km da praça dos Três Poderes</segment>
+    <segment id="6">, e partiram em direção à Esplanada dos Ministérios.</segment>
+    <segment id="7">O primeiro alvo foi o Congresso.</segment>
+    <segment id="8">Em seguida</segment>
+    <segment id="9">, o Palácio do Planalto e o STF.</segment>
+    <segment id="10">A Folha reconstitui os momentos decisivos da construção dos ataques às instituições e da reação do governo Lula.</segment>
+    <segment id="11">Bolsonaristas invadem Esplanada dos MinistériosMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

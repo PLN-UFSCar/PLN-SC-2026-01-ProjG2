@@ -1,0 +1,149 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O GLOBO lanÃ§a neste domingo a coleÃ§Ã£o 'Rio de outros tempos'
+RIO - Cenas e aspectos da vida carioca</segment>
+    <segment id="2">, mostrados a partir de mais de 200 fotos do acervo do jornal</segment>
+    <segment id="3">, estÃ£o na coleÃ§Ã£o "</segment>
+    <segment id="4">Rio de outros tempos"</segment>
+    <segment id="5">, que O GLOBO lanÃ§a neste domingo.</segment>
+    <segment id="6">Quem comprar</segment>
+    <segment id="7">, nas bancas</segment>
+    <segment id="8">, os exemplares de domingo e de outros trÃªs dias desta semana poderÃ¡ adquirir o primeiro volume</segment>
+    <segment id="9">, de um total de oito.</segment>
+    <segment id="10">A promoÃ§Ã£o tambÃ©m</segment>
+    <segment id="11">sese estende aos assinantes.</segment>
+    <segment id="12">A coleÃ§Ã£o retrata flagrantes que ajudam a entender</segment>
+    <segment id="13">comocomo a cidade</segment>
+    <segment id="14">sese formou</segment>
+    <segment id="15">, desde sua ocupaÃ§Ã£o atÃ© o comportamento de seu povo</segment>
+    <segment id="16">, passando por festas</segment>
+    <segment id="17">, grandes eventos esportivos e etapas transformadoras de sua construÃ§Ã£o.</segment>
+    <segment id="18">O primeiro volume trata da evoluÃ§Ã£o do Centro</segment>
+    <segment id="19">, ponto de partida da construÃ§Ã£o da cidade</segment>
+    <segment id="20">comocomo a conhecemos neste domingo.</segment>
+    <segment id="21">Podem ser vistas nesse livro fotos de estreitas ruas histÃ³ricas</segment>
+    <segment id="22">, da abertura da Avenida Central (atual Avenida Rio Branco)</segment>
+    <segment id="23">, da demoliÃ§Ã£o de morros</segment>
+    <segment id="24">, dos pontos do bonde</segment>
+    <segment id="25">, da vida de terno e gravata e de encontros a pÃ© na regiÃ£o que</segment>
+    <segment id="26">, historicamente</segment>
+    <segment id="27">, concentra o centro financeiro carioca.</segment>
+    <segment id="28">Cada livro tem 32 pÃ¡ginas
+Quem comprar os exemplares nas bancas precisa recortar e colar os selos na cartela</segment>
+    <segment id="29">, que serÃ¡ publicada todos os domingos</segment>
+    <segment id="30">, a partir deste domingo.</segment>
+    <segment id="31">Os livros</segment>
+    <segment id="32">, de capa dura e 32 pÃ¡ginas</segment>
+    <segment id="33">, sempre com um tema diferente</segment>
+    <segment id="34">, sÃ£o acompanhados de um pÃ´ster de 23x23cm.</segment>
+    <segment id="35">A segunda peÃ§a da coleÃ§Ã£o reÃºne cenas preciosas de alguns bairros.</segment>
+    <segment id="36">Exibe a vida em lugares</segment>
+    <segment id="37">comocomo Copacabana</segment>
+    <segment id="38">, MÃ©ier</segment>
+    <segment id="39">, Botafogo e Barra da Tijuca</segment>
+    <segment id="40">, que integram um conjunto ao mesmo tempo harmÃ´nico e caÃ³tico.</segment>
+    <segment id="41">O terceiro volume da sÃ©rie apresenta a evoluÃ§Ã£o de um hÃ¡bito carioca: o ato de ir Ã  praia.</segment>
+    <segment id="42">EstÃ£o lÃ¡ os modismos e atitudes da vida na orla</segment>
+    <segment id="43">;</segment>
+    <segment id="44">a evoluÃ§Ã£o estÃ©tica</segment>
+    <segment id="45">; os muitos trechos do litoral da cidade</segment>
+    <segment id="46">; e o comportamento ditado pela vida Ã  beira-mar.</segment>
+    <segment id="47">O quarto capÃ­tulo fala da evoluÃ§Ã£o do cotidiano da cidade.</segment>
+    <segment id="48">Ã‰ o caso</segment>
+    <segment id="49">caso das ondas de calor que atormentam os moradores do Rio e definem seu jeito de ser.</segment>
+    <segment id="50">E ainda da conversa no botequim</segment>
+    <segment id="51">; dos passeios por recantos variados</segment>
+    <segment id="52">; das escolas mais tradicionais</segment>
+    <segment id="53">; do vaivÃ©m em praÃ§as e parques</segment>
+    <segment id="54">; e da vida noturna da cidade.</segment>
+    <segment id="55">Esporte e obras: mais temas</segment>
+    <segment id="56">O quinto livro exibe um conjunto de fotos sÃ³ de esporte.</segment>
+    <segment id="57">SÃ£o gols do Flamengo e da seleÃ§Ã£o</segment>
+    <segment id="58">; o campeonato de "baratinhas" pelo Leblon</segment>
+    <segment id="59">; o vÃ´lei de praia</segment>
+    <segment id="60">; as corridas de cavalo</segment>
+    <segment id="61">; e os Ã­dolos olÃ­mpicos de pistas e quadras cariocas.
+Principal vocaÃ§Ã£o do Rio</segment>
+    <segment id="62">, o lazer Ã© o tema do volume nÃºmero seis.</segment>
+    <segment id="63">Nele sÃ£o mostrados a chegada de Papai Noel</segment>
+    <segment id="64">, de helicÃ³ptero</segment>
+    <segment id="65">, na Quinta da Boa Vista</segment>
+    <segment id="66">; os carrinhos de brinquedo no Campo de Santana</segment>
+    <segment id="67">; o passeio na Lagoa</segment>
+    <segment id="68">; os shows que lotavam auditÃ³rios no auge da Era do RÃ¡dio</segment>
+    <segment id="69">; e as noites a rigor de balÃ© e Ã³pera no Teatro Municipal.</segment>
+    <segment id="70">O sÃ©timo livro</segment>
+    <segment id="71">Ã© dedicado ao carnaval</segment>
+    <segment id="72">.</segment>
+    <segment id="73">E exibe imagens dos desfiles do Salgueiro</segment>
+    <segment id="74">, da Portela</segment>
+    <segment id="75">, do Bafo da OnÃ§a</segment>
+    <segment id="76">, de homens vestidos de mulher e do famoso baile do Municipal.</segment>
+    <segment id="77">O oitavo e Ãºltimo volume conta a histÃ³ria de obras que marcaram o crescimento da Cidade Maravilhosa: a abertura de avenidas</segment>
+    <segment id="78">comocomo a Radial Oeste e a Sernambetiba (atual LÃºcio Costa)</segment>
+    <segment id="79">;</segment>
+    <segment id="80">o desaparecimento de morros do Centro</segment>
+    <segment id="81">;</segment>
+    <segment id="82">a construÃ§Ã£o do estÃ¡dio do MaracanÃ£</segment>
+    <segment id="83">; a remoÃ§Ã£o de favelas</segment>
+    <segment id="84">; e a polÃªmica demoliÃ§Ã£o do PalÃ¡cio Monroe.</segment>
+    <segment id="85">ServiÃ§o:
+Nas bancas
+Selos: compre</segment>
+    <segment id="86">O GLOBO de domingo e de mais 3 dias da semana</segment>
+    <segment id="87">, recorte os selos e cole-os na cartela que serÃ¡ publicada todo domingo na Editoria Rio.</segment>
+    <segment id="88">Exemplares atrasados poderÃ£o ser comprados</segment>
+    <segment id="89">, pelo mesmo preÃ§o de capa</segment>
+    <segment id="90">, na loja sede</segment>
+    <segment id="91">, na Rua MarquÃªs de Pombal 75</segment>
+    <segment id="92">, na Cidade Nova</segment>
+    <segment id="93">, enquanto durarem os estoques.</segment>
+    <segment id="94">O horÃ¡rio de atendimento</segment>
+    <segment id="95">Ã©</segment>
+    <segment id="96">de 8h Ã s 15h.
+Troca: com a cartela + R$ 9</segment>
+    <segment id="97">,90, vÃ¡ a um dos postos de troca e receba o livro e o pÃ´ster da semana.</segment>
+    <segment id="98">Mais informaÃ§Ãµes: para ler o regulamento e a lista dos postos</segment>
+    <segment id="99">, acesse www.riodeoutrostempos.com.br ou ligue (21)</segment>
+    <segment id="100">2461-2082.</segment>
+    <segment id="101">Assinantes</segment>
+    <segment id="102">A coleÃ§Ã£o serÃ¡ vendida em dois kits com quatro livros</segment>
+    <segment id="103">, por R$ 39</segment>
+    <segment id="104">,90 cada kit.</segment>
+    <segment id="105">Para adquirir</segment>
+    <segment id="106">, acesse a loja virtual www.lojaoglobo.com.br ou ligue para a Central do Assinante: 4002-5300.</segment>
+    <segment id="107">O primeiro kit (vol.</segment>
+    <segment id="108">1 a 4) jÃ¡ estÃ¡ disponÃ­vel</segment>
+    <segment id="109">;</segment>
+    <segment id="110">o segundo (vol.</segment>
+    <segment id="111">5 a 8)</segment>
+    <segment id="112">, estarÃ¡ a partir de 17/9.</segment>
+    <segment id="113">O prazo de entrega Ã© de atÃ© 15 dias apÃ³s a liberaÃ§Ã£o do estoque e a confirmaÃ§Ã£o do pagamento.</segment>
+    <segment id="114">Mais informaÃ§Ãµes:</segment>
+    <segment id="115">acesse o site www.riodeoutrostempos.com.br</segment>
+    <segment id="116">, escreva para duvidascolecaorio@oglobo.com.br ou ligue (21)</segment>
+    <segment id="117">4002-5300.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,146 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Para se</segment>
+    <segment id="2">se destacar profissionalmente</segment>
+    <segment id="3">, nem sempre basta talento</segment>
+    <segment id="4">, boas ideias ou ser esforçado.</segment>
+    <segment id="5">Em muitos casos</segment>
+    <segment id="6">, ter acesso a boas redes de contato é determinante para o sucesso profissional.</segment>
+    <segment id="7">No entanto</segment>
+    <segment id="8">, as pessoas têm acesso a diferentes redes de contatos.</segment>
+    <segment id="9">Isso pode ocorrer por diversos motivos</segment>
+    <segment id="10">, masmas uma causa plausível é discriminação:</segment>
+    <segment id="11">será que pessoas pertencentes a certos grupos —negros</segment>
+    <segment id="12">, mulheres</segment>
+    <segment id="13">, formandos em faculdades de menor prestígio — têm menos acesso a redes por sofrerem discriminação com base nessas características?</segment>
+    <segment id="14">Pedro C. Sant&amp;#039</segment>
+    <segment id="15">;Anna, mestre em economia pela Escola de Economia de São Paulo da Fundação Getúlio Vargas (EESP-FGV)</segment>
+    <segment id="16">;</segment>
+    <segment id="17">membro da REPP (Rede de Economistas Pretas e Pretos) - DivulgaçãoPara testar essa hipótese</segment>
+    <segment id="18">, eu e os pesquisadores</segment>
+    <segment id="19">Nicolás Ajzenman (McGill University e FGV-EESP) e Bruno Ferman (FGV-EESP) conduzimos um experimento aleatorizado no Twitter</segment>
+    <segment id="20">, rede social bastante utilizada para estabelecer contatos profissionais no meio acadêmico.</segment>
+    <segment id="21">Nós criamos contas fictícias que</segment>
+    <segment id="22">sese pareciam com pessoas reais e diziam ser alunos de PhD (doutorado) em faculdades americanas.</segment>
+    <segment id="23">As contas eram idênticas entre si a não ser por três características: gênero (masculino ou feminino)</segment>
+    <segment id="24">, identidade racial (branca ou negra) e a faculdade em que diziam estudar (uma das 10 faculdades de mais prestígio nos EUA ou faculdades relativamente menos prestigiosas).</segment>
+    <segment id="25">A figura a seguir ajuda a ilustrar o experimento.</segment>
+    <segment id="26">Exemplos de contas utilizadas no experimento.</segment>
+    <segment id="27">Na descrição em inglês</segment>
+    <segment id="28">, lê-se</segment>
+    <segment id="29">se: &amp;quot</segment>
+    <segment id="30">;aluno de PhD em [Faculdade].</segment>
+    <segment id="31">Interessado(a) em desenvolvimento econômico&amp;quot</segment>
+    <segment id="32">; - ReproduçãoAs contas experimentais seguiram de forma aleatória perfis de diversos economistas de todo o mundo no Twitter.</segment>
+    <segment id="33">Após alguns dias</segment>
+    <segment id="34">, medimos a proporção de economistas que</segment>
+    <segment id="35">, de maneira recíproca</segment>
+    <segment id="36">, as "seguiam de volta".</segment>
+    <segment id="37">Ao comparar a proporção de "seguidas de volta" para cada tipo de conta</segment>
+    <segment id="38">, podemos identificar a existência (ou não) de discriminação neste comportamento</segment>
+    <segment id="39">, uma vez que</segment>
+    <segment id="40">, com exceção das características que manipulamos</segment>
+    <segment id="41">, nossas contas eram idênticas.</segment>
+    <segment id="42">O número de seguidores é fundamental para</segment>
+    <segment id="43">sese beneficiar da presença no Twitter</segment>
+    <segment id="44">, pois</segment>
+    <segment id="45">pois são eles que verão aquilo que compartilhamos.</segment>
+    <segment id="46">Quanto mais seguidores</segment>
+    <segment id="47">, maior o alcance e impacto potencial de uma conta nesta rede social.</segment>
+    <segment id="48">Por esse motivo escolhemos essa métrica para estudar a formação de redes profissionais.</segment>
+    <segment id="49">Nossa escolha por focar na comunidade de economistas acadêmicos no Twitter também não foi por acaso.</segment>
+    <segment id="50">Primeiro</segment>
+    <segment id="51">, redes de contato são particularmente determinantes no meio acadêmico.</segment>
+    <segment id="52">Segundo</segment>
+    <segment id="53">, a profissão de economia</segment>
+    <segment id="54">, tanto internacionalmente quanto no Brasil</segment>
+    <segment id="55">, vem ampliando o debate quanto a sua falta de diversidade (</segment>
+    <segment id="56">comocomo discutido</segment>
+    <segment id="57">, por exemplo</segment>
+    <segment id="58">, nos depoimentos desses inspiradores economistas negros brasileiros).</segment>
+    <segment id="59">A falta de diversidade tem efeitos negativos não apenas para os grupos marginalizados</segment>
+    <segment id="60">, masmas também para a profissão</segment>
+    <segment id="61">comocomo um todo: quando a maioria dos pesquisadores possui vivências homogêneas</segment>
+    <segment id="62">, há potencialmente menos inovação e temas importantes deixam de ser estudados.</segment>
+    <segment id="63">Terceiro</segment>
+    <segment id="64">, a comunidade de economistas é bastante ativa no Twitter</segment>
+    <segment id="65">, ideal para nosso experimento.</segment>
+    <segment id="66">No experimento</segment>
+    <segment id="67">, criamos 80 contas fictícias e seguimos cerca de 8.000 economistas nessa rede social.</segment>
+    <segment id="68">O que descobrimos é que</segment>
+    <segment id="69">, de fato</segment>
+    <segment id="70">, o número de conexões recebidas varia significativamente a depender das características do estudante.</segment>
+    <segment id="71">Comparando os casos mais extremos</segment>
+    <segment id="72">, vimos que mulheres brancas que estudam em universidades de alto prestígio foram "seguidas de volta" em 23</segment>
+    <segment id="73">,9% dos casos</segment>
+    <segment id="74">, enquanto homens negros de faculdades relativamente menos prestigiosas</segment>
+    <segment id="75">, em apenas 14</segment>
+    <segment id="76">,4%; uma diferença de mais de 65%.</segment>
+    <segment id="77">Os principais resultados estão representados no gráfico a seguir.</segment>
+    <segment id="78">Alunos negros tiveram 10% menos chance de receberem "seguidas de volta" do que brancos</segment>
+    <segment id="79">, enquanto alunos que diziam estudar em faculdades do "top 10" americano</segment>
+    <segment id="80">receberam quase 22% mais "seguidas".</segment>
+    <segment id="81">Além disso</segment>
+    <segment id="82">, as mulheres tiveram 25% mais "seguidas" do que os homens.</segment>
+    <segment id="83">As barras verticais representam intervalos de 95% de confiança para as estimativas</segment>
+    <segment id="84">; em todos os casos</segment>
+    <segment id="85">, é possível afirmar que a diferença nas médias dos dois grupos representados em cada figura é estatisticamente significante ao nível de 5% - ReproduçãoAs diferenças encontradas são substanciais e demonstram quantitativamente que há disparidades no acesso às redes acadêmicas entre membros desses diferentes grupos</segment>
+    <segment id="86">, o que pode contribuir para a falta de diversidade na profissão.</segment>
+    <segment id="87">Os resultados referentes à raça e afiliação universitária são consistentes com as percepções de economistas e com as evidências de disparidades nestas dimensões.</segment>
+    <segment id="88">Porém, o resultado para gênero é surpreendente por ir de encontro às inúmeras evidências de discriminação contra mulheres no meio acadêmico.</segment>
+    <segment id="89">Diferentes mecanismos podem explicar este resultado</segment>
+    <segment id="90">, com consequências potencialmente diversas.</segment>
+    <segment id="91">Por exemplo</segment>
+    <segment id="92">, alguns usuários do Twitter podem estar ativamente buscando</segment>
+    <segment id="93">sese engajar mais com mulheres para tentar reduzir barreiras de gênero na profissão.</segment>
+    <segment id="94">Entretanto</segment>
+    <segment id="95">, também é possível que alguns estejam usando a plataforma com o objetivo de estabelecer relações de natureza social (e não profissional).</segment>
+    <segment id="96">O fato de que encontramos evidência sugestiva de que usuários homens priorizam seguir as contas experimentais femininas em uma proporção maior do que usuárias mulheres pode indicar qual dos tipos de mecanismo é dominante</segment>
+    <segment id="97">, embora</segment>
+    <segment id="98">embora o experimento não seja capaz de elicitar a motivação por trás de cada "seguida".</segment>
+    <segment id="99">Em nosso trabalho</segment>
+    <segment id="100">, discutimos outros resultados e detalhes da implementação.</segment>
+    <segment id="101">De forma geral</segment>
+    <segment id="102">, o experimento que realizamos é relevante por ser o primeiro a quantificar a existência de discriminação na formação de redes profissionais.</segment>
+    <segment id="103">Essas evidências podem contribuir para subsidiar políticas e programas que busquem reduzir disparidades e barreiras contra grupos marginalizados.</segment>
+    <segment id="104">Entretanto</segment>
+    <segment id="105">, muita pesquisa no tema ainda</segment>
+    <segment id="106">sese faz necessária para entender</segment>
+    <segment id="107">, por exemplo a motivação por trás de cada "seguida" e para investigar de que forma discriminações sofridas em diferentes etapas da carreira</segment>
+    <segment id="108">sese somam e interagem.</segment>
+    <segment id="109">Ainda assim</segment>
+    <segment id="110">, um experimento</segment>
+    <segment id="111">comocomo o nosso é um primeiro passo ao mostrar que</segment>
+    <segment id="112">, mesmo em um ambiente online — potencialmente mais democrático —</segment>
+    <segment id="113">, diferentes grupos enfrentam diferentes barreiras para serem ouvidos e desenvolverem contatos profissionais.    O editor</segment>
+    <segment id="114">, Michael França</segment>
+    <segment id="115">, pede</segment>
+    <segment id="116">para que</segment>
+    <segment id="117">para que cada participante do espaço "Políticas e Justiça" da Folha sugira uma música aos leitores.</segment>
+    <segment id="118">Nesse texto</segment>
+    <segment id="119">, a escolhida por Pedro C. Sant’Anna foi "Pela Internet 2"</segment>
+    <segment id="120">, de Gilberto Gil.</segment>
+  </rst>
+</analysis>

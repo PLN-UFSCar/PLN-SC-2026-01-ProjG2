@@ -1,0 +1,90 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A AGU (Advocacia-Geral da União) caminha para concluir nos próximos dias um parecer a respeito da exploração de petróleo na Foz do Amazonas</segment>
+    <segment id="2">, que deve rebater um dos argumento do Ibama (Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis) para ter barrado a perfuração da bacia.</segment>
+    <segment id="3">O parecer da AGU deve usar</segment>
+    <segment id="4">comocomo base uma decisão recente do Supremo Tribunal Federal que considerou não ser necessária a realização de estudos de caráter estratégico</segment>
+    <segment id="5">, a chamada Avaliação Ambiental de Área Sedimentar na bacia da Foz do Amazonas.</segment>
+    <segment id="6">A ausência desse estudo foi um dos pontos apontados pelo Ibama para negar o pedido da Petrobras para prospectar e explorar petróleo na região.</segment>
+    <segment id="7">Lula e a ministra Marina Silva durante cerimônia no Palácio do Planalto - Pedro Ladeira - 5 jun.</segment>
+    <segment id="8">2023/Folhapress</segment>
+    <segment id="9">A informação sobre a conclusão do parecer da AGU foi dada inicialmente pelo jornal</segment>
+    <segment id="10">O Globo e confirmada pela Folha.</segment>
+    <segment id="11">A exploração de petróleo na Foz do Amazonas tornou-</segment>
+    <segment id="12">sese um ponto de polêmica e disputa dentro do governo de Luiz Inácio Lula da Silva (PT).</segment>
+    <segment id="13">A questão coloca de um lado a ministra do Meio Ambiente</segment>
+    <segment id="14">, Marina Silva</segment>
+    <segment id="15">, e de outro</segment>
+    <segment id="16">, o ministro das Minas e Energia</segment>
+    <segment id="17">, Alexandre Silveira</segment>
+    <segment id="18">, e o núcleo político.</segment>
+    <segment id="19">O próprio Lula tem indicado uma posição favorável à realização de estudos para detectar</segment>
+    <segment id="20">sese há petróleo na região</segment>
+    <segment id="21">, embora</segment>
+    <segment id="22">embora garante que tudo será feito com segurança para evitar qualquer problema ambiental.</segment>
+    <segment id="23">Na semana passada</segment>
+    <segment id="24">, durante entrevista a rádios da região da Amazônia</segment>
+    <segment id="25">, Lula afirmou que quer "continuar sonhando" com a exploração de petróleo na região.</segment>
+    <segment id="26">"</segment>
+    <segment id="27">Nós tínhamos a Petrobras com uma plataforma preparada para fazer pesquisa nessa região.</segment>
+    <segment id="28">Houve um estudo do Ibama que dizia que não era possível</segment>
+    <segment id="29">, masmas esse estudo do Ibama não é definitivo</segment>
+    <segment id="30">, porque</segment>
+    <segment id="31">porque eles apontam falhas técnicas que a Petrobras tem o direito de corrigir.</segment>
+    <segment id="32">Estamos discutindo isso"</segment>
+    <segment id="33">, afirmou o presidente na entrevista.</segment>
+    <segment id="34">Em maio deste ano</segment>
+    <segment id="35">, o presidente do Ibama</segment>
+    <segment id="36">, Rodrigo Agostinho</segment>
+    <segment id="37">, acompanhou parecer técnico do órgão e negou pedido feito pela Petrobras para perfurar a bacia da foz do rio Amazonas com objetivo de explorar petróleo na região.</segment>
+    <segment id="38">A decisão foi tomada após o Ibama demonstrar preocupação com as atividades da petroleira em uma região de vulnerabilidade socioambiental.</segment>
+    <segment id="39">Ao indeferir a licença</segment>
+    <segment id="40">, o Ibama apontou eventuais impactos sobre comunidades indígenas</segment>
+    <segment id="41">, devido ao sobrevoo de aeronaves entre o Aeródromo de Oiapoque (AP) e a localização do bloco FZA-M-59</segment>
+    <segment id="42">, além do tempo de resposta e atendimento a fauna que seria atingida por óleo</segment>
+    <segment id="43">, em caso</segment>
+    <segment id="44">caso de vazamento.</segment>
+    <segment id="45">O ponto central</segment>
+    <segment id="46">, no entanto</segment>
+    <segment id="47">, foi a necessidade de realização de estudos de caráter estratégico</segment>
+    <segment id="48">, a Avaliação Ambiental de Área Sedimentar.</segment>
+    <segment id="49">O Ministério das Minas e Energia então encaminhou ofício à AGU um pedido de análise jurídica relativa ao</segment>
+    <segment id="50">casocaso da exploração de petróleo na chamada margem equatorial.</segment>
+    <segment id="51">A pasta argumenta que foi respeitado todo o processo legal durante o processo licitatório dos campos de exploração</segment>
+    <segment id="52">, em 2013.</segment>
+    <segment id="53">Interlocutores na AGU apontam que o parecer deve</segment>
+    <segment id="54">sese amparar em uma decisão proferida pelo STF que julgou</segment>
+    <segment id="55">, em um</segment>
+    <segment id="56">casocaso diferente</segment>
+    <segment id="57">, que não seria necessário estudo de impacto regional para áreas que já foram leiloadas.</segment>
+    <segment id="58">A decisão final caberá exclusivamente ao Ibama</segment>
+    <segment id="59">, que já analisa um novo pedido da Petrobras.</segment>
+    <segment id="60">O parecer da AGU</segment>
+    <segment id="61">, no entanto</segment>
+    <segment id="62">, deve aumentar a pressão sobre o órgão e também sobre a área ambiental.</segment>
+    <segment id="63">Além disso</segment>
+    <segment id="64">, pode ceder novos argumentos para o próprio Lula decidir a posição do governo sobre a questão.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,60 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo do presidente Luiz Inácio Lula da Silva (PT) lançou</segment>
+    <segment id="2">, nesta sexta-feira (17)</segment>
+    <segment id="3">, o novo programa Brasil Mais Produtivo</segment>
+    <segment id="4">, para a transformação digital de micro</segment>
+    <segment id="5">, pequenas e médias indústrias.</segment>
+    <segment id="6">Ele já existe desde 2016</segment>
+    <segment id="7">, masmas agora foi remodelado pelo ministério de Indústria</segment>
+    <segment id="8">, Comércio e Serviços</segment>
+    <segment id="9">, de Geraldo Alckmin</segment>
+    <segment id="10">, e sua recriação foi instituída no Diário Oficial da União desta sexta.</segment>
+    <segment id="11">Agora, também participarão da iniciativa o BNDES (Banco Nacional de Desenvolvimento Econômico e Social)</segment>
+    <segment id="12">, a Finep (Financiadora de Estudos e Projetos) e a Embrapii (Empresa Brasileira de Pesquisa e Inovação Industrial).</segment>
+    <segment id="13">O vice-presidente Geraldo Alckmin com o presidente Lula</segment>
+    <segment id="14">, no Palácio do Planalto.</segment>
+    <segment id="15">- Evaristo Sá-27.09.2023/AFPDe acordo com o próprio decreto de criação</segment>
+    <segment id="16">, o objetivo do programa é "elevar os níveis de produtividade</segment>
+    <segment id="17">, de eficiência e de maturidade digital nas empresas brasileiras</segment>
+    <segment id="18">, por meio de ações de extensionismo técnico e tecnológico e consultoria técnica especializada</segment>
+    <segment id="19">, de difusão de tecnologias voltadas para transformação digital e de concessão de crédito para apoio à digitalização e à inovação".</segment>
+    <segment id="20">O decreto também institui o Comitê de Orientação Estratégica</segment>
+    <segment id="21">, que vai acompanhar</segment>
+    <segment id="22">, validar</segment>
+    <segment id="23">, auxiliar e avaliar os resultados e a execução das medidas do programa.</segment>
+    <segment id="24">Segundo o ministério</segment>
+    <segment id="25">, o Brasil Mais Produtivo terá R$ 2</segment>
+    <segment id="26">,037 bilhões para trabalhar com 200 mil empresas</segment>
+    <segment id="27">, até 2026.</segment>
+    <segment id="28">A ideia é que</segment>
+    <segment id="29">, ao terminar o processo de participação no programa</segment>
+    <segment id="30">, ao menos 8.200 devem ter instalação de sensores digitais na linha de produção</segment>
+    <segment id="31">, interligação de sistemas por computação em nuvens</segment>
+    <segment id="32">, utilização de Big Datas</segment>
+    <segment id="33">, internet das coisas</segment>
+    <segment id="34">, impressão 3D e inteligência artificial.</segment>
+  </rst>
+</analysis>

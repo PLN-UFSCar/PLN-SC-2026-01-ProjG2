@@ -1,0 +1,108 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo paulista oficializou a Marcha para Jesus</segment>
+    <segment id="2">comocomo patrimônio imaterial</segment>
+    <segment id="3">, a Frente Evangélica articula-</segment>
+    <segment id="4">sese no Congresso para ampliar benefícios fiscais.</segment>
+    <segment id="5">Ou seja</segment>
+    <segment id="6">, a ultradireita</segment>
+    <segment id="7">sese reforça.</segment>
+    <segment id="8">Mas há inquietações no campo teocrático.</segment>
+    <segment id="9">Fala-se</segment>
+    <segment id="10">se de queda na sacrossanta arrecadação.</segment>
+    <segment id="11">Depois</segment>
+    <segment id="12">, "Brasil Partido"</segment>
+    <segment id="13">, um podcast da BBC Brasil</segment>
+    <segment id="14">, foca um racha</segment>
+    <segment id="15">, pós-vitória de Lula.</segment>
+    <segment id="16">Uma ala vestiu a fantasia golpista de retorno do inominável.</segment>
+    <segment id="17">São igrejas pequenas</segment>
+    <segment id="18">, masmas com grandes números nas redes.</segment>
+    <segment id="19">Como suas contrapartes islâmicas</segment>
+    <segment id="20">, pregam jihad ou guerra santa.</segment>
+    <segment id="21">Em histórias de vida transparece a formação de muitos desses guias.</segment>
+    <segment id="22">Numa, de observação próxima</segment>
+    <segment id="23">, um advogado</segment>
+    <segment id="24">, com experiência sindical e frequentador de academia esportiva</segment>
+    <segment id="25">, aparece um dia com "</segment>
+    <segment id="26">Jesus salva" na camiseta.</segment>
+    <segment id="27">Sem passado evangélico</segment>
+    <segment id="28">, falava emocionado sobre recente "encontro com Jesus"</segment>
+    <segment id="29">, empreendia nova franquia templária e dispunha do local: ele seria o pastor</segment>
+    <segment id="30">, assessorado por um contador.</segment>
+    <segment id="31">As últimas notícias lhe dão</segment>
+    <segment id="32">comocomo abençoado proprietário em Miami.</segment>
+    <segment id="33">Bandeiras à venda durante a 24ª marcha para Jesus de Osasco</segment>
+    <segment id="34">, na Grande São Paulo -Bruno Santos - 13.ago.22/FolhapressNada de ilegal na historinha</segment>
+    <segment id="35">, que pode até ser estudada</segment>
+    <segment id="36">comocomo case do "falconato</segment>
+    <segment id="37">" empreendedor.</segment>
+    <segment id="38">Mas algo destoa da sinceridade no relato.</segment>
+    <segment id="39">Sartre</segment>
+    <segment id="40">, na teoria das emoções</segment>
+    <segment id="41">, diz haver emoções falsas</segment>
+    <segment id="42">, que não passam de comportamentos interessados.</segment>
+    <segment id="43">A falsidade não seria apenas "característica lógica de certas proposições</segment>
+    <segment id="44">, masmas uma qualidade existencial".</segment>
+    <segment id="45">Existem medos falsos</segment>
+    <segment id="46">, tristezas falsas.</segment>
+    <segment id="47">Uma crença</segment>
+    <segment id="48">, por outro lado</segment>
+    <segment id="49">, não é jamais posta à prova</segment>
+    <segment id="50">, e sim a conduta que atribui magicamente qualidades a objetos verdadeiros.</segment>
+    <segment id="51">Assim, o desejo de obter algo (emprego</segment>
+    <segment id="52">, saúde) é real</segment>
+    <segment id="53">, masmas pode</segment>
+    <segment id="54">sese tornar imaginário por marketing religioso.</segment>
+    <segment id="55">O inverso acontece: um perigo imaginário (comunismo "venezuelano") é vendido</segment>
+    <segment id="56">comocomo real.</segment>
+    <segment id="57">A fraqueza do falseamento transmuda-</segment>
+    <segment id="58">sese compensatoriamente em violência.</segment>
+    <segment id="59">É a natureza das "revelações"</segment>
+    <segment id="60">, em que</segment>
+    <segment id="61">sese diz transmitir a palavra de Deus.</segment>
+    <segment id="62">A exemplo do Alá violento para com infiéis</segment>
+    <segment id="63">, a jihad tabajara garante que o Senhor cristão vai agir contra o governo eleito</segment>
+    <segment id="64">, que teria pactuado com demônios.</segment>
+    <segment id="65">Além do empreendedorismo pastoral e do almejado fortalecimento da ultradireita</segment>
+    <segment id="66">, cabem perguntas sobre o caráter desse avanço teocrático no espaço público.</segment>
+    <segment id="67">Hipótese de água-morna: guardar a pureza da fé contra a celeridade externa dos costumes.</segment>
+    <segment id="68">Diz o Evangelho</segment>
+    <segment id="69">, porém</segment>
+    <segment id="70">porém: "</segment>
+    <segment id="71">Nada que vem de fora de uma pessoa pode torná-la impura.</segment>
+    <segment id="72">O que sai de dentro de uma pessoa é que a torna impura" (Marcos</segment>
+    <segment id="73">, 7,15).</segment>
+    <segment id="74">Isso sugere uma mística pública da purificação ou da limpeza</segment>
+    <segment id="75">, logo</segment>
+    <segment id="76">, radicalmente contrária à economia de pilhagem (dízimo</segment>
+    <segment id="77">, ouro</segment>
+    <segment id="78">, joias) e à teologia do conto-do-vigário</segment>
+    <segment id="79">, cujo único sagrado identificável é a isenção fiscal: "in</segment>
+    <segment id="80">Gold</segment>
+    <segment id="81">we trust".</segment>
+    <segment id="82">Ato na Sé reúne religiosos críticos à Marcha para Jesus e a BolsonaroMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

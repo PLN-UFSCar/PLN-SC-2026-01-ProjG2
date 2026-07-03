@@ -1,0 +1,33 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Sai hoje a 1Âª parcela do 13Âº salÃ¡rio</segment>
+    <segment id="2">O calendÃ¡rio de pagamentos segue atÃ© o dia 10 de setembro</segment>
+    <segment id="3">O INSS comeÃ§a pagar hoje a primeira parcela do 13Âº salÃ¡rio aos segurados que recebem mais de um salÃ¡rio mÃ­nimo (R$ 622).</segment>
+    <segment id="4">O calendÃ¡rio de pagamentos segue atÃ© o dia 10 de setembro.</segment>
+    <segment id="5">O Imposto de Renda serÃ¡ descontado na segunda parcela</segment>
+    <segment id="6">, em novembro.</segment>
+    <segment id="7">A antecipaÃ§Ã£o do 13Âº beneficiarÃ¡ mais de 25 milhÃµes de segurados no PaÃ­s.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,58 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Bancos pÃºblicos mantÃªm greve</segment>
+    <segment id="2">Para avaliar o 10Âº dia de greve nos bancos oficiais</segment>
+    <segment id="3">, os bancÃ¡rios farÃ£o assembleia</segment>
+    <segment id="4">Em assembleia realizada  ontem Ã  noite no GinÃ¡sio de Esportes da Ladeira dos Aflitos</segment>
+    <segment id="5">, os bancÃ¡rios decidiram pelo fim da greve nas unidades privadas.</segment>
+    <segment id="6">A decisÃ£o saiu depois de 9 dias de paralisaÃ§Ãµes na Bahia.</segment>
+    <segment id="7">Na mesma convocaÃ§Ã£o</segment>
+    <segment id="8">, foi definida a continuidade do movimento nas unidade pÃºblicas</segment>
+    <segment id="9">, Banco do Brasil</segment>
+    <segment id="10">, Caixa EconÃ´mica Federal e Banco do Nordeste.</segment>
+    <segment id="11">â€œIsto devido as grandes perdas ao longo dos anosâ€</segment>
+    <segment id="12">, analisa o presidente do Sindicato dos BancÃ¡rios</segment>
+    <segment id="13">, Euclides Fagundes.</segment>
+    <segment id="14">Durante convocaÃ§Ã£o</segment>
+    <segment id="15">, o sindicato</segment>
+    <segment id="16">sese manifestou favorÃ¡vel ao fim da greve.</segment>
+    <segment id="17">â€œDecidimos por acompanhar o movimento nacional.</segment>
+    <segment id="18">NÃ£o faz sentido continuarmos</segment>
+    <segment id="19">sozinhosâ€</segment>
+    <segment id="20">, diz Euclides.</segment>
+    <segment id="21">Nova assembleia acontece hoje</segment>
+    <segment id="22">, no GinÃ¡sio de Esporte</segment>
+    <segment id="23">, Ã s 6h30 da tarde.</segment>
+    <segment id="24">Proposta</segment>
+    <segment id="25">A FederaÃ§Ã£o Nacional de Bancos (Fenaban) elevou a 7</segment>
+    <segment id="26">,5% a proposta de reajuste dos salÃ¡rios dos trabalhadores</segment>
+    <segment id="27">, um aumento real de 2</segment>
+    <segment id="28">,02%.</segment>
+    <segment id="29">O piso da categoria que era R$ 1.405 passa a ser R$ 1.519.</segment>
+    <segment id="30">A oferta tambÃ©m prevÃª aumento de 8</segment>
+    <segment id="31">,5% no valor dos auxÃ­lios-refeiÃ§Ã£o e alimentaÃ§Ã£o (que passa a ser 472</segment>
+    <segment id="32">,15); alÃ©m de contabilizar uma alta de 10% na parcela fixa da ParticipaÃ§Ã£o nos Lucros e Resultados (PLR).</segment>
+  </rst>
+</analysis>

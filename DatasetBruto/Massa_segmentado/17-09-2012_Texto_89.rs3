@@ -1,0 +1,31 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Receita Federal paga</segment>
+    <segment id="2">4Âº lote</segment>
+    <segment id="3">A Receita Federal deposita hoje o dinheiro da restituiÃ§Ã£o do 4Âº lote</segment>
+    <segment id="4">A Receita Federal deposita hoje o dinheiro da restituiÃ§Ã£o do 4Âº lote do Imposto de Renda da Pessoa FÃ­sica do exercÃ­cio de 2012.</segment>
+    <segment id="5">A grana vai estar disponÃ­vel na conta bancÃ¡ria informada pelo contribuinte no momento de fazer a declaraÃ§Ã£o.</segment>
+  </rst>
+</analysis>

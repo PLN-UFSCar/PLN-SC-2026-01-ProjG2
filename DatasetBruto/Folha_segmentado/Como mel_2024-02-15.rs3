@@ -1,0 +1,57 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">As páginas iniciais –conhecidas</segment>
+    <segment id="2">comocomo home – são a porta de entrada para os jornais digitais.</segment>
+    <segment id="3">Seja no aplicativo</segment>
+    <segment id="4">, seja no site</segment>
+    <segment id="5">, é nessa primeira página digital que vemos quais são os acontecimentos mais importantes do momento e acompanhamos a produção de um veículo ao longo do dia.</segment>
+    <segment id="6">A home é um organismo vivo</segment>
+    <segment id="7">, que se</segment>
+    <segment id="8">se atualiza constantemente.</segment>
+    <segment id="9">À semelhança de sua irmã analógica</segment>
+    <segment id="10">, a capa do jornal impresso</segment>
+    <segment id="11">, produzir a home envolve uma série de escolhas</segment>
+    <segment id="12">, que vão desde a curadoria minuciosa das notícias à posição e ao espaço que ocupam na página.</segment>
+    <segment id="13">Mas, no digital</segment>
+    <segment id="14">, isso ocorre 24 horas por dia.</segment>
+    <segment id="15">É um processo contínuo e um trabalho intenso</segment>
+    <segment id="16">, muito dinâmico</segment>
+    <segment id="17">, de seleção de conteúdo</segment>
+    <segment id="18">, escolha de títulos</segment>
+    <segment id="19">, subtítulos</segment>
+    <segment id="20">, imagens</segment>
+    <segment id="21">, entre outros elementos.  Catarina</segment>
+    <segment id="22">PignatoPor isso</segment>
+    <segment id="23">, a Folha quer saber:</segment>
+    <segment id="24">comocomo podemos melhorar a nossa home?</segment>
+    <segment id="25">Há algum assunto do qual você sente falta?</segment>
+    <segment id="26">O que você mais gosta de ler?</segment>
+    <segment id="27">E o que menos gosta?</segment>
+    <segment id="28">Considera a página inicial fácil de entender?</segment>
+    <segment id="29">Você consegue localizar facilmente o conteúdo que mais te interessa?</segment>
+    <segment id="30">O que podemos fazer para melhorar?</segment>
+    <segment id="31">Envie suas críticas e sugestões para a Folha neste formulário.</segment>
+  </rst>
+</analysis>

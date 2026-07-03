@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Moradores dos bairros Santa Cecília</segment>
+    <segment id="2">, Higienópolis</segment>
+    <segment id="3">, Vila Buarque e República</segment>
+    <segment id="4">, todos na região central de São Paulo</segment>
+    <segment id="5">, ficaram sem energia elétrica durante cerca de oito horas entre a noite de terça-feira (8) e a madrugada desta quarta-feira (9).</segment>
+    <segment id="6">A queda ocorreu por volta das 19h</segment>
+    <segment id="7">, segundo relatos</segment>
+    <segment id="8">, e a energia voltou quando faltavam poucos minutos para as 4h.</segment>
+    <segment id="9">Em nota</segment>
+    <segment id="10">, a Enel disse durante o apagão que “há uma ocorrência afetando o fornecimento de energia em alguns locais da região central da cidade.</segment>
+    <segment id="11">Equipes estão trabalhando para normalizar o serviço o mais rápido possível”.</segment>
+    <segment id="12">"</segment>
+    <segment id="13">Todos os prédios em volta e os apartamentos do meu prédio ficaram 100% sem energia e não tivemos nenhuma resposta da Enel"</segment>
+    <segment id="14">, disse o publicitário Afonso Henrique</segment>
+    <segment id="15">, morador de Santa Cecília</segment>
+    <segment id="16">, durante a madrugada.</segment>
+    <segment id="17">No dia 16 junho deste ano os moradores da região já haviam ficado sem luz por causa de um desarme da linha de transmissão da distribuidora.</segment>
+    <segment id="18">Luz de automóvel ilumina a esquina das ruas Canuto do Val e Martim Francisco</segment>
+    <segment id="19">, na região da Santa Cecília</segment>
+    <segment id="20">, durante apagão no centro de SP ocorrido em junho - Otavio Valle - 26.jun.20/Folhapress</segment>
+  </rst>
+</analysis>

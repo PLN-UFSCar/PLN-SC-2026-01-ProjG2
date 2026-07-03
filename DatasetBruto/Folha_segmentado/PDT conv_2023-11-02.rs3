@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O deputado federal Guilherme Boulos (PSOL-SP) encontrou-</segment>
+    <segment id="2">sese nesta quarta-feira (1º) com Antonio Neto</segment>
+    <segment id="3">, presidente municipal do PDT de São Paulo.</segment>
+    <segment id="4">Segundo dirigentes do PDT</segment>
+    <segment id="5">, as tratativas para lançar o apresentador de TV José Luiz Datena</segment>
+    <segment id="6">comocomo candidato à Prefeitura de São Paulo pelo partido no ano que vem esfriaram</segment>
+    <segment id="7">, e com isso tem ganhado força a possibilidade de apoiar o psolista</segment>
+    <segment id="8">, que já tem garantido o apoio do PT.</segment>
+    <segment id="9">Boulos e Neto conversaram sobre a capital</segment>
+    <segment id="10">, a pauta dos trabalhadores na Câmara dos Deputados e projetos para a qualificação para a inserção de jovens e mulheres do Sindicato dos Trabalhadores em Tecnologia da Informação de São Paulo (Sindpd)</segment>
+    <segment id="11">, do qual o pedetista é presidente.</segment>
+    <segment id="12">Deputado federal Guilherme Boulos (PSOL) e Antonio Neto</segment>
+    <segment id="13">, presidente do PDT-SP - Divulgação</segment>
+  </rst>
+</analysis>

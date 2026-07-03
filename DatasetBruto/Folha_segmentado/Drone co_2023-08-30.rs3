@@ -1,0 +1,103 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um drone autônomo</segment>
+    <segment id="2">, pilotado por Inteligência Artificial</segment>
+    <segment id="3">, superou pela primeira vez campeões de corridas</segment>
+    <segment id="4">, segundo um estudo publicado na revista Nature nesta quarta-feira (30).</segment>
+    <segment id="5">O feito abre caminho para uma otimização dos sistemas utilizados nos veículos autônomos</segment>
+    <segment id="6">, ou robôs industriais.</segment>
+    <segment id="7">A corrida foi disputada em um circuito de 75 metros composto por sete portais que devem ser atravessadas em uma ordem pré-determinada</segment>
+    <segment id="8">, com máquinas que alcançam facilmente os 100 km/h e acelerações que deixariam um F1 para trás.</segment>
+    <segment id="9">Exemplo de drone no céu do sul da China - Ted ALJIBE/AFPTrês campeões da modalidade foram recrutados pelo Grupo de Robótica e Percepção da Universidade de Zurique para enfrentar o drone.</segment>
+    <segment id="10">Equipados com capacetes que transmitiam imagens do drone que pilotavam</segment>
+    <segment id="11">, os três homens</segment>
+    <segment id="12">, entre eles</segment>
+    <segment id="13">, um ex-campeão mundial da liga de corrida de drones</segment>
+    <segment id="14">, tiveram uma semana para</segment>
+    <segment id="15">sese preparar.</segment>
+    <segment id="16">O drone autônomo ganhou a maioria das corridas contra cada um deles e completou a volta mais rápida do circuito.</segment>
+    <segment id="17">Esta é a primeira vez que "um robô autônomo móvel alcançou um rendimento de nível de campeão mundial em um esporte competitivo no mundo real"</segment>
+    <segment id="18">, segundo o estudo.</segment>
+    <segment id="19">Alguns drones teriam alcançado um nível "especialista"</segment>
+    <segment id="20">, masmas com a ajuda de um sistema externo de captura de movimento para otimizar sua trajetória.</segment>
+    <segment id="21">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="22">; aberta para não assinantes.</segment>
+    <segment id="23">Carregando...</segment>
+    <segment id="24">Esta era uma vantagem "injusta" para a equipe de Zurique que apresenta o Swift</segment>
+    <segment id="25">, um sistema completamente autônomo que leva a bordo do drone unicamente seus sensores e sua potência de cálculo.  "Swift corrige seu rumo em tempo real</segment>
+    <segment id="26">, enviando 100 novas ordens por segundo para o drone"</segment>
+    <segment id="27">, explica à AFP o doutorando Elia Kaufmann</segment>
+    <segment id="28">, principal autor do estudo.</segment>
+    <segment id="29">O segredo do Swift</segment>
+    <segment id="30">sese baseia em uma técnica chamada de aprendizagem de reforço profundo ("deep reinforcement learning")</segment>
+    <segment id="31">, que combina o processamento de uma grande quantidade de dados com a observação de regras que recompensam os progressos da máquina.</segment>
+    <segment id="32">Evitar acidentes</segment>
+    <segment id="33">O sistema testou milhões de trajetórias</segment>
+    <segment id="34">, combinando a percepção de seu entorno e sua progressão até o portal seguinte.</segment>
+    <segment id="35">"</segment>
+    <segment id="36">Swift treinou o equivalente a um mês de tempo real</segment>
+    <segment id="37">, masmas em aceleração</segment>
+    <segment id="38">, ou seja</segment>
+    <segment id="39">, em uma hora em um computador"</segment>
+    <segment id="40">, acrescentou Kaufmann.</segment>
+    <segment id="41">A máquina tem algumas vantagens inerentes</segment>
+    <segment id="42">, como</segment>
+    <segment id="43">como uma central que lhe proporciona informações</segment>
+    <segment id="44">, como</segment>
+    <segment id="45">como a aceleração</segment>
+    <segment id="46">, que o piloto humano não pode sentir sem embarcar em um drone.</segment>
+    <segment id="47">Outra vantagem é o tempo de reação a uma ordem: cinco vezes mais rápido que a resposta do cérebro humano.</segment>
+    <segment id="48">Já os humanos têm uma vantagem em um entorno degradado</segment>
+    <segment id="49">, por exemplo</segment>
+    <segment id="50">, quando há mudanças de luz</segment>
+    <segment id="51">, algo que o Swift teria dificuldades em administrar.</segment>
+    <segment id="52">Os humanos também têm a vantagem de reduzir a velocidade e evitar acidentes.</segment>
+    <segment id="53">A máquina</segment>
+    <segment id="54">, ao contrário</segment>
+    <segment id="55">, sempre vai ao máximo</segment>
+    <segment id="56">, "correndo muitos riscos"</segment>
+    <segment id="57">, afirma o estudo.</segment>
+    <segment id="58">Inteligência de Robôs</segment>
+    <segment id="59">Ainda não Pode ser Comparada a de HumanosMais    novamente         de   de  de  representando um</segment>
+    <segment id="60">O impacto destes trabalhos</segment>
+    <segment id="61">sese estende além das corridas de drones</segment>
+    <segment id="62">, afirma Guido de Croon</segment>
+    <segment id="63">, especialista no tema e professor da Universidade Tecnológica de Delft</segment>
+    <segment id="64">, Holanda</segment>
+    <segment id="65">, em um comentário que acompanha o estudo na Nature.</segment>
+    <segment id="66">Segundo ele</segment>
+    <segment id="67">, os avanços neste âmbito são de grande interesse para os militares</segment>
+    <segment id="68">, masmas "há uma gama muito mais ampla de aplicações".</segment>
+    <segment id="69">Para Elia Kaufmann</segment>
+    <segment id="70">, que hoje trabalha</segment>
+    <segment id="71">comocomo engenheiro em uma empresa de drones destinados à industria</segment>
+    <segment id="72">, o desafio é responder a "uma debilidade inerente aos drones autônomos: uma autonomia de voo muito limitada".</segment>
+    <segment id="73">O foco adotado com Swift</segment>
+    <segment id="74">, "que permite replanejar as ações em tempo real sem necessidade de recalcular uma trajetória"</segment>
+    <segment id="75">, permitiria assim uma navegação mais eficiente e</segment>
+    <segment id="76">, portanto</segment>
+    <segment id="77">, econômica em energia.</segment>
+  </rst>
+</analysis>

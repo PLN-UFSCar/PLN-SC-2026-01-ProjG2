@@ -1,0 +1,268 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Jorge Furtado é gaúcho</segment>
+    <segment id="2">, tem 63 anos e uma carreira</segment>
+    <segment id="3">comocomo roteirista e diretor cheia de sucessos</segment>
+    <segment id="4">, entre eles a série "</segment>
+    <segment id="5">Agosto" e os filmes "</segment>
+    <segment id="6">O Homem Que Copiava" e "Saneamento Básico".</segment>
+    <segment id="7">Guel Arraes é pernambucano</segment>
+    <segment id="8">, tem 68 anos</segment>
+    <segment id="9">, e foi um dos criadores dos clássicos de humor "Armação Ilimitada" e "TV Pirata"</segment>
+    <segment id="10">, ambos da TV Globo.</segment>
+    <segment id="11"></segment>
+    <segment id="12">Os dois já trabalharam juntos diversas vezes.</segment>
+    <segment id="13">Por exemplo nas séries "</segment>
+    <segment id="14">A Comédia da Vida Privada" e "Decamerão</segment>
+    <segment id="15">, a Comédia do Sexo"</segment>
+    <segment id="16">, e nos filmes "</segment>
+    <segment id="17">O Coronel e o Lobisomem" e "Lisbela e o Prisioneiro".</segment>
+    <segment id="18">No ano passado</segment>
+    <segment id="19">, já com um ano de pandemia</segment>
+    <segment id="20">, dois de governo Jair Bolsonaro e muita aflição acumulada</segment>
+    <segment id="21">, decidiram escrever uma peça de teatro</segment>
+    <segment id="22">, coisa que nunca tinham feito em parceria.</segment>
+    <segment id="23">Os diretores Jorge Furtado</segment>
+    <segment id="24">, em Porto Alegre</segment>
+    <segment id="25">, e Guel Arraes</segment>
+    <segment id="26">, no Rio de Janeiro</segment>
+    <segment id="27">, posam para foto via</segment>
+    <segment id="28">Zoom - Gabriel Cabral/Folhapress  Assim nasceu "</segment>
+    <segment id="29">O Debate"</segment>
+    <segment id="30">, lançado</segment>
+    <segment id="31">comocomo livro e que tem logo na primeira página um aviso de Jorge Furtado: "</segment>
+    <segment id="32">Essa peça foi escrita na urgência dos acontecimentos políticos do Brasil do ano de 2021.</segment>
+    <segment id="33">Será filmada ou encenada assim que for possível e reescrita assim que for necessário".</segment>
+    <segment id="34"></segment>
+    <segment id="35">A filmagem finalmente foi possível no mês passado</segment>
+    <segment id="36">, e "</segment>
+    <segment id="37">O Debate" entra em cartaz nos cinemas na próxima quinta-feira (25).</segment>
+    <segment id="38">Dirigido por Caio Blat</segment>
+    <segment id="39">, o longa é protagonizado por Débora Bloch e Paulo Betti.</segment>
+    <segment id="40">Os dois formam um casal de jornalistas de TV —ele é o editor do programa</segment>
+    <segment id="41">, e ela</segment>
+    <segment id="42">, a apresentadora.</segment>
+    <segment id="43">Eles se</segment>
+    <segment id="44">se separam depois de 17 anos juntos</segment>
+    <segment id="45">, masmas continuam confidentes e colegas de trabalho.</segment>
+    <segment id="46">É nos bastidores do jornal que ela apresenta e ele edita que</segment>
+    <segment id="47">sese passa a história –e justamente quando o programa está cobrindo o último debate presidencial entre dois candidatos sem nome</segment>
+    <segment id="48">, apresentados apenas</segment>
+    <segment id="49">comocomo "o presidente" e "o ex-presidente".    Ela</segment>
+    <segment id="50">, idealista e impulsiva</segment>
+    <segment id="51">, defende que o jornal divulgue uma pesquisa de última hora</segment>
+    <segment id="52">, ainda não registrada no Tribunal Superior Eleitoral (TSE)</segment>
+    <segment id="53">, masmas que pode mudar o rumo da votação.</segment>
+    <segment id="54">Ele, racional e comprometido com as regras</segment>
+    <segment id="55">, não aceita interferir na cobertura.</segment>
+    <segment id="56">E é entre os dois que acontece de verdade um debate de ideias</segment>
+    <segment id="57">, ideais</segment>
+    <segment id="58">, pontos de vista</segment>
+    <segment id="59">, jornalismo</segment>
+    <segment id="60">, política</segment>
+    <segment id="61">, traições</segment>
+    <segment id="62">, filhos</segment>
+    <segment id="63">, amor</segment>
+    <segment id="64">, futuro.  </segment>
+    <segment id="65">Os dois roteiristas falaram à Folha via Zoom de onde moram –Jorge Furtado</segment>
+    <segment id="66">, em Porto Alegre</segment>
+    <segment id="67">, e Guel Arraes</segment>
+    <segment id="68">, no Rio de Janeiro.</segment>
+    <segment id="69">A entrevista foi focada em jornalismo e política</segment>
+    <segment id="70">, os temas centrais do filme:    Jorge:</segment>
+    <segment id="71">Esta trama nasceu da nossa ansiedade.</segment>
+    <segment id="72">A gente</segment>
+    <segment id="73">sese falava todos os dias desde o início da pandemia pra saber o número de infectados</segment>
+    <segment id="74">, como</segment>
+    <segment id="75">como tinha que</segment>
+    <segment id="76">sese proteger</segment>
+    <segment id="77">, sese ia ter vacina.</segment>
+    <segment id="78">Uma hora decidimos que tínhamos que botar isso no nosso trabalho</segment>
+    <segment id="79">, então começamos a escrever a peça.</segment>
+    <segment id="80">Guel:</segment>
+    <segment id="81">Nem que fosse só para dizer para os nossos netos que a gente fez alguma coisa no período em que dois raios caíram simultaneamente no Brasil</segment>
+    <segment id="82">, a pandemia e o Bolsonaro.</segment>
+    <segment id="83">E o que dava para fazer naquele momento era um texto de teatro.</segment>
+    <segment id="84">Imagens do filme &amp;#</segment>
+    <segment id="85">039;O Debate&amp;#039</segment>
+    <segment id="86">;Mais    novamente         de   de  de  representando um    Jorge:</segment>
+    <segment id="87">A gente só sabia das coisas pelos jornais</segment>
+    <segment id="88">, o governo não falava nada.</segment>
+    <segment id="89">O jornalismo foi uma ilha de salvação nesses dois anos.</segment>
+    <segment id="90">Mas não foi sempre assim.</segment>
+    <segment id="91">O jornalismo brasileiro cometeu muitos erros sérios recentes e foi em grande parte responsável pela ascensão da extrema direita no Brasil</segment>
+    <segment id="92">, por ter comprado a Lava Jato fácil demais</segment>
+    <segment id="93">, por não ter investigado a fundo os interesses de todos.</segment>
+    <segment id="94">Guel:</segment>
+    <segment id="95">A corrupção é uma pauta muito popular</segment>
+    <segment id="96">, porque</segment>
+    <segment id="97">porque o povo acha que corrupção é roubar dinheiro.</segment>
+    <segment id="98">Então vira uma maneira muito fácil de explicar a pobreza.</segment>
+    <segment id="99">Se você pegar tudo que foi roubado pela corrupção e multiplicar pelo número de brasileiros</segment>
+    <segment id="100">, não vai dar nem três reais para cada um.</segment>
+    <segment id="101">Mas vira uma explicação mágica</segment>
+    <segment id="102">, e o jornalismo trata essa questão de forma muito sensacionalista.</segment>
+    <segment id="103">Jorge: Mas</segment>
+    <segment id="104">, nesse momento</segment>
+    <segment id="105">, e pelos próximos meses</segment>
+    <segment id="106">, o jornalismo é a nossa salvação.</segment>
+    <segment id="107">Teve um ex-presidente americano que disse uma vez que</segment>
+    <segment id="108">, sese tivesse que escolher entre ter governo e ter jornalismo</segment>
+    <segment id="109">, escolheria ter jornalismo.</segment>
+    <segment id="110">Guel:</segment>
+    <segment id="111">O jornalismo brasileiro não é santo nem demônio</segment>
+    <segment id="112">, masmas quer ibope.</segment>
+    <segment id="113">É como</segment>
+    <segment id="114">como quando a gente faz ficção na televisão.</segment>
+    <segment id="115">A gente procura histórias que inquietem o público</segment>
+    <segment id="116">, masmas que sejam populares.</segment>
+    <segment id="117">E sese o Ibope começa a cair</segment>
+    <segment id="118">, você faz a história ficar mais popular ainda.</segment>
+    <segment id="119">O jornalismo</segment>
+    <segment id="120">sese parece um pouco com a nossa profissão.</segment>
+    <segment id="121">Então, na história da anticorrupção</segment>
+    <segment id="122">, acho que aquela cobertura estava dando tão certo</segment>
+    <segment id="123">, aquilo</segment>
+    <segment id="124">sese tornou tão popular que pegou um embalo.</segment>
+    <segment id="125">E o campo progressista deu mole</segment>
+    <segment id="126">, perdeu a bola na questão da corrupção.</segment>
+    <segment id="127">Jorge:</segment>
+    <segment id="128">E faltou apuração jornalística</segment>
+    <segment id="129">, principalmente na cobertura da Lava jato.</segment>
+    <segment id="130">Aquilo desde o início não era uma questão de justiça</segment>
+    <segment id="131">, era uma atividade política.</segment>
+    <segment id="132">E o jornalismo brasileiro mergulhou na história de cabeça</segment>
+    <segment id="133">, comprou o discurso da direita de que a corrupção era responsável pela pobreza.</segment>
+    <segment id="134">Guel: Era um momento de democracia que a gente viu o país só melhorando</segment>
+    <segment id="135">, ficando cada vez mais democrático.</segment>
+    <segment id="136">Aí veio 2013</segment>
+    <segment id="137">, as pessoas na rua pedindo o impeachment da Dilma e a prisão do Lula</segment>
+    <segment id="138">, o jogo foi virando e quase que</segment>
+    <segment id="139">sese jogou a água do banho com o bebê junto.</segment>
+    <segment id="140">E aí não tinha ninguém do PSDB</segment>
+    <segment id="141">, não tinha social democracia</segment>
+    <segment id="142">, o que tinha era uma extrema direita associada a coisas muito reacionárias</segment>
+    <segment id="143">, milícias</segment>
+    <segment id="144">, armamento</segment>
+    <segment id="145">, ideias muito antigas.</segment>
+    <segment id="146">O diretor e roteirista Jorge Furtado -Gabriel Cabral/FolhapressJorge: Acho que o jornalismo brasileiro agora</segment>
+    <segment id="147">sese deu conta de que as coisas passaram do ponto.</segment>
+    <segment id="148">A história da vacina foi a gota d’água.</segment>
+    <segment id="149">Porque o debate tem que existir e a gente tem que aprender a respeitar a opinião dos outros.</segment>
+    <segment id="150">Talvez tu consigas me convencer de que mais armas na mão das pessoas possa diminuir a violência.</segment>
+    <segment id="151">Talvez possa me convencer que tirar as cadeirinhas dos carros vai diminuir o número de crianças gravemente feridas nas estradas.</segment>
+    <segment id="152">Posso ouvir sua opinião em relação ao aborto</segment>
+    <segment id="153">, posso ouvir qualquer opinião.</segment>
+    <segment id="154">Mas contra a vacina não tem conversa.</segment>
+    <segment id="155">A humanidade não estaria aqui sem vacinas.</segment>
+    <segment id="156">Esse é um avanço da medicina e da ciência absolutamente inquestionável.  Guel:</segment>
+    <segment id="157">Mas escolhemos dois jornalistas para serem os protagonistas deste filme</segment>
+    <segment id="158">porque</segment>
+    <segment id="159">porque passei a ter bastante admiração pela profissão nos últimos três anos.</segment>
+    <segment id="160">Os jornalistas viraram o SUS da política.</segment>
+    <segment id="161">Assim como</segment>
+    <segment id="162">como os trabalhadores do SUS estão para a saúde</segment>
+    <segment id="163">, os jornalistas estão para a política.</segment>
+    <segment id="164">Na linha de frente.</segment>
+    <segment id="165">A gente não podia fazer filme</segment>
+    <segment id="166">, série de TV</segment>
+    <segment id="167">, não podia produzir nada</segment>
+    <segment id="168">, não podia trabalhar.</segment>
+    <segment id="169">Então, nesse momento</segment>
+    <segment id="170">, eu queria ser que nem os jornalistas.</segment>
+    <segment id="171">Então fizemos a história de dois jornalistas.</segment>
+    <segment id="172">Jorge: Jornalismo é uma profissão de alto risco.</segment>
+    <segment id="173">Botamos essa frase no texto e concordo com ela.</segment>
+    <segment id="174">Tem um diálogo também em que o personagem do Paulo Betti diz que é neutro</segment>
+    <segment id="175">, e o da Débora Bloch responde que ser neutro é uma coisa bem próxima de não fazer nada.</segment>
+    <segment id="176">E ele responde:</segment>
+    <segment id="177">"Eu estou fazendo jornalismo".</segment>
+    <segment id="178">Guel: E</segment>
+    <segment id="179">, apesar de não estar explícito na trama</segment>
+    <segment id="180">, está lá o homem mais velho</segment>
+    <segment id="181">, em posição de poder</segment>
+    <segment id="182">, casado com uma mulher jovem</segment>
+    <segment id="183">, que ganha menos que ele.</segment>
+    <segment id="184">Mas a personagem feminina neste filme é o motor da história</segment>
+    <segment id="185">, ela é a protagonista.</segment>
+    <segment id="186">A gente quis inverter um pouco esse padrão.</segment>
+    <segment id="187">Ela é combativa</segment>
+    <segment id="188">, defende o que acredita e é quem propõe a separação deles</segment>
+    <segment id="189">, uma separação diferente.</segment>
+    <segment id="190">Eles se</segment>
+    <segment id="191">se separam para continuar juntos.</segment>
+    <segment id="192">É um novo modelo amoroso.</segment>
+    <segment id="193">Jorge: Tudo é muito atual nesse roteiro</segment>
+    <segment id="194">, a gente chama de ‘cinema ao vivo’.</segment>
+    <segment id="195">Tem documentários feitos assim</segment>
+    <segment id="196">, a quente</segment>
+    <segment id="197">, em cima dos fatos.</segment>
+    <segment id="198">Mas fiquei pensando</segment>
+    <segment id="199">sese esse não era um</segment>
+    <segment id="200">casocaso único de ficção tão grudada na realidade.</segment>
+    <segment id="201">Não é.</segment>
+    <segment id="202">Tem pelo menos um outro</segment>
+    <segment id="203">casocaso</segment>
+    <segment id="204">, que me faz pensar que melhor do que ser original é ter um antecedente tão ilustre</segment>
+    <segment id="205">, que é "</segment>
+    <segment id="206">O Grande Ditador"</segment>
+    <segment id="207">, do Chaplin.</segment>
+    <segment id="208">Ele fez no meio da Segunda Guerra satirizando o Hitler</segment>
+    <segment id="209">, sem dizer o nome dele</segment>
+    <segment id="210">, masmas todo mundo sabe que é dele que</segment>
+    <segment id="211">sese está falando.</segment>
+    <segment id="212">Guel:</segment>
+    <segment id="213">Esse filme é muito diferente de tudo o que eu já fiz.</segment>
+    <segment id="214">Tem uma motivação diferente</segment>
+    <segment id="215">, uma ambição mesmo</segment>
+    <segment id="216">, de causar uma mínima interferência na realidade.</segment>
+    <segment id="217">Até formalmente ele é diferente de tudo o que eu e o Jorge já fizemos</segment>
+    <segment id="218">, porque</segment>
+    <segment id="219">porque ele é muito falado</segment>
+    <segment id="220">, tem diálogo o tempo todo.</segment>
+    <segment id="221">Como se</segment>
+    <segment id="222">se a gente estivesse mesmo desabafando.</segment>
+    <segment id="223">Jorge: Chamamos o Caio Blat para dirigir</segment>
+    <segment id="224">, e ele foi absolutamente surpreendente.</segment>
+    <segment id="225">Tinha domínio absoluto do set</segment>
+    <segment id="226">, sabia o roteiro de cor</segment>
+    <segment id="227">, fazia as marcações das cenas antes das filmagens.</segment>
+    <segment id="228">E acho muito curioso</segment>
+    <segment id="229">comocomo três filmes políticos recentes foram dirigidos por atores.</segment>
+    <segment id="230">Além do Caio</segment>
+    <segment id="231">, neste filme</segment>
+    <segment id="232">, tem o Wagner Moura com "Marighella" e o Lázaro Ramos com "Medida provisória".</segment>
+    <segment id="233">Guel:</segment>
+    <segment id="234">O Caio que escalou o elenco.</segment>
+    <segment id="235">É uma relação muito íntima essa do diretor com o ator</segment>
+    <segment id="236">, um é muito responsável pelo resultado do trabalho do outro [Paulo Betti e Caio Blat são ambos ex-maridos e pais dos dois filhos da atriz Maria Ribeiro</segment>
+    <segment id="237">, e essa é a primeira vez que trabalham juntos].</segment>
+    <segment id="238">Jorge: Como diz um amigo meu</segment>
+    <segment id="239">, o Rio de Janeiro é que nem um baralho.</segment>
+    <segment id="240">Você mistura as cartas</segment>
+    <segment id="241">, depois bota tudo junto no monte e começa de novo.</segment>
+    <segment id="242">O diretor e roteirista Guel Arraes -Gabriel Cabral/Folhapress</segment>
+  </rst>
+</analysis>

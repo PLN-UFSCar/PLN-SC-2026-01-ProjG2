@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente do Banco Mundial</segment>
+    <segment id="2">, David Malpass</segment>
+    <segment id="3">, alertou nesta segunda-feira (14) pessoas e empresas contra o estoque de alimentos e gasolina</segment>
+    <segment id="4">, apesar do aumento nos preços provocado pela invasão da Ucrânia pela Rússia e pelas sanções maciças impostas a Moscou.</segment>
+    <segment id="5">Malpass disse em evento virtual organizado pelo jornal Washington Post que as sanções teriam um impacto maior na produção econômica global do que a própria guerra.</segment>
+    <segment id="6">Presidente do Banco Mundial</segment>
+    <segment id="7">, David Malpass</segment>
+    <segment id="8">, participa de entrevista coletiva à imprensa - Mike Theiler/ReutersEle disse esperar uma resposta robusta dos produtores de todo o mundo para aumentar os suprimentos conforme necessário e não ver necessidade de as pessoas fazerem estoques extras em suas cozinhas ou restaurantes.</segment>
+    <segment id="9">Também nesta segunda</segment>
+    <segment id="10">, o Banco Mundial disse que iria disponibilizar quase US$ 200 milhões em financiamento adicional e reprogramado para reforçar os serviços sociais da Ucrânia para pessoas em situação de vulnerabilidade.</segment>
+    <segment id="11">O valor</segment>
+    <segment id="12">sese soma aos US$ 723 milhões aprovados na semana passada.</segment>
+    <segment id="13">O financiamento faz parte de um pacote de apoio à Ucrânia no montante de US$ 3 bilhões que o organismo havia dito anteriormente estar preparando para os próximos meses.</segment>
+    <segment id="14">Bombardeios russos atingem Kiev no 19º dia da guerra na Ucrânia</segment>
+    <segment id="15">; veja fotos do conflitoMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

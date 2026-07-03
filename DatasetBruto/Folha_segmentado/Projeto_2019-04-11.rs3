@@ -1,0 +1,99 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O projeto de lei do governo Jair Bolsonaro (PSL) sobre ensino domiciliar prevê cadastro de alunos e avaliações anuais realizados pelo MEC (Ministério da Educação).</segment>
+    <segment id="2">Caso o aluno seja reprovado por dois anos consecutivos</segment>
+    <segment id="3">, perderá o direito de estudar nesse modelo.</segment>
+    <segment id="4">O governo desistiu de encaminhar ao Congresso uma medida provisória</segment>
+    <segment id="5">, conforma a Folha adiantou em março.</segment>
+    <segment id="6">O motivo foi o cenário instável na relação com o Legislativo</segment>
+    <segment id="7">, que poderia barrar a MP (o instrumento tem força de lei a partir da publicação</segment>
+    <segment id="8">, masmas precisa ser votado em 90 dias).</segment>
+    <segment id="9">O tema foi alçado</segment>
+    <segment id="10">comocomo prioridade para os cem primeiros dias da gestão.</segment>
+    <segment id="11">A ideia da lei é regulamentar o chamado homeschooling depois que o STF (Supremo Tribunal Federal) barrou a prática por não haver legislação a respeito.</segment>
+    <segment id="12">O PL esteve entre os atos oficializados nesta quinta-feira (11) pelo presidente no evento que marcou os primeiros cem dias do governo.  Base curricular infantilMais    novamente         de   de  de  representando um</segment>
+    <segment id="13">Pelo menos desde 2001</segment>
+    <segment id="14">, a Câmara já arquivou oito proposições similares</segment>
+    <segment id="15">, além de uma proposta de emenda constitucional</segment>
+    <segment id="16">, segundo levantamento do Movimento Todos Pela Educação.</segment>
+    <segment id="17">Mas a decisão do STF facilita o caminho para aprovação.</segment>
+    <segment id="18">Segundo o projeto de lei</segment>
+    <segment id="19">, a opção pela educação domiciliar será efetuada por meio de plataforma virtual do MEC.</segment>
+    <segment id="20">As famílias terão que apresentar documentos</segment>
+    <segment id="21">comocomo antecedentes criminais</segment>
+    <segment id="22">, caderneta de vacinação atualizada e um plano pedagógico individual</segment>
+    <segment id="23">, proposto pelos pais ou pelos responsáveis legais.</segment>
+    <segment id="24">O homeschooling é uma histórica agenda de grupos religiosos.</segment>
+    <segment id="25">O texto ressalta que "é dever dos pais ou dos responsáveis legais que optarem pela educação domiciliar assegurar a convivência familiar e comunitária".</segment>
+    <segment id="26">Educadores criticam a medida</segment>
+    <segment id="27">, sob o argumento de que essa autorização reduz o direito das crianças à educação plena para atender convicções dos pais.</segment>
+    <segment id="28">"</segment>
+    <segment id="29">Esse isolamento da educação domiciliar é muito prejudicial para a formação integral das crianças e jovens em um mundo que cada vez mais exige capacidade de colaboração e convívio com a diversidade"</segment>
+    <segment id="30">, diz Cesar Callegari</segment>
+    <segment id="31">, ex-integrante do Conselho Nacional de Educação.</segment>
+    <segment id="32">"</segment>
+    <segment id="33">A maior parte das famílias não tem condições de elaborar projetos pedagógicos</segment>
+    <segment id="34">, que vão acabar sendo distribuídos para famílias por instituições religiosas e políticas sectárias.</segment>
+    <segment id="35">"</segment>
+    <segment id="36">Após a aprovação da lei</segment>
+    <segment id="37">, o MEC terá cinco meses para criação da plataforma.</segment>
+    <segment id="38">O cadastro vai gerar uma espécie de matrícula</segment>
+    <segment id="39">, que daria o direito aos alunos de participarem de avaliações federais e outros eventos</segment>
+    <segment id="40">, como</segment>
+    <segment id="41">como competições estudantis que exijam comprovação de escolaridade.</segment>
+    <segment id="42">A iniciativa foi liderada pelo Ministério da Mulher</segment>
+    <segment id="43">, Família e Direitos Humanos</segment>
+    <segment id="44">, com apoio do MEC</segment>
+    <segment id="45">, pasta responsável pela política educacional.</segment>
+    <segment id="46">A ministra Damares Alves defende que sua pasta ficou com a responsabilidade do projeto</segment>
+    <segment id="47">porque</segment>
+    <segment id="48">porque essa seria uma demanda da família.</segment>
+    <segment id="49">“</segment>
+    <segment id="50">Claro, em parceria e anuência com o Ministério da Educação</segment>
+    <segment id="51">, masmas a iniciativa deste ministério é legítima”</segment>
+    <segment id="52">,</segment>
+    <segment id="53">disse ela</segment>
+    <segment id="54">, segundo divulgação oficial do ministério.</segment>
+    <segment id="55">Apesar disso</segment>
+    <segment id="56">, toda a operacionalização e custos para implementação estarão a cargo do MEC.</segment>
+    <segment id="57">O governo citou na mensagem ao Congresso</segment>
+    <segment id="58">, em fevereiro</segment>
+    <segment id="59">, que a medida afetaria 31 mil famílias —nota anterior do governo falava em cerca de 5.000 famílias.</segment>
+    <segment id="60">O Brasil tem mais de 48 milhões de estudantes.</segment>
+    <segment id="61">A prova anual do MEC de certificação da aprendizagem terá</segment>
+    <segment id="62">comocomo base os conteúdos referentes ao ano escolar correspondente à idade do estudante</segment>
+    <segment id="63">, de acordo com o previsto na Base Nacional Comum Curricular (documento que define o que os alunos devem aprender).</segment>
+    <segment id="64">Essas avaliações serão aplicadas a partir do 2º ano do ensino fundamental</segment>
+    <segment id="65">, preferencialmente no mês de outubro.</segment>
+    <segment id="66">O MEC deve regular a cobrança de taxa para fins de custeio das avaliações e "estabelecerá as hipóteses de isenção de pagamento".</segment>
+    <segment id="67">Caso o desempenho do estudante na avaliação seja considerado insatisfatório</segment>
+    <segment id="68">, o MEC deverá oferecer prova de recuperação.</segment>
+    <segment id="69">Além de excluir do modelo alunos reprovados por duas vezes consecutivas</segment>
+    <segment id="70">, o projeto de lei prevê a exclusão no</segment>
+    <segment id="71">casocaso de três reprovações não consecutivas.</segment>
+    <segment id="72">O projeto abre a possibilidade de instituições privadas oferecerem ao estudante em educação domiciliar avaliações formativas ao longo do ano letivo.</segment>
+    <segment id="73">Cabe às famílias manter registro periódico das atividades pedagógicas do estudante.</segment>
+  </rst>
+</analysis>

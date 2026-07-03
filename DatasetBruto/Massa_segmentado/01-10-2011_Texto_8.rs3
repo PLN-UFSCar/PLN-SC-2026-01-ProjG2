@@ -1,0 +1,33 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Mega-Sena acumula</segment>
+    <segment id="2">, e próximo prêmio deve pagar R$ 26 milhões
+RIO - Foram sorteadas neste sábado as seis dezenas do concurso 1324 da Mega-Sena.</segment>
+    <segment id="3">Não houve acertador</segment>
+    <segment id="4">, e o próximo prêmio deve pagar R$ 26 milhões.
+
+18 - 29 - 31 - 44 - 51 - 57</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Cruzada São Sebastião ganha uma pequena UPP
+RIO - A Cruzada São Sebastião</segment>
+    <segment id="2">, no Leblon</segment>
+    <segment id="3">, ganhou na quinta-feira um posto de policiamento comunitário 24 horas que lembra uma pequena Unidade de Polícia Pacificadora (UPP).</segment>
+    <segment id="4">Cerca de 80 policiais militares do 23º BPM (Leblon) chegaram ao conjunto durante a tarde e apreenderam 41 trouxinhas de maconha.</segment>
+    <segment id="5">Não houve prisões.</segment>
+    <segment id="6">Trinta policiais do 23º BPM receberam treinamento para o patrulhamento comunitário.</segment>
+    <segment id="7">Cerca de cinco PMs ficarão na Cruzada em cada turno.</segment>
+    <segment id="8">A corporação explica ainda que uma cabine será instalada na entrada principal da Cruzada São Sebastião</segment>
+    <segment id="9">, em frente ao Jardim de Alah.</segment>
+    <segment id="10">Um trailer foi instalado na esquina com a Avenida Afrânio de Melo Franco.</segment>
+    <segment id="11">Apesar de não ser considerada oficialmente uma UPP</segment>
+    <segment id="12">, a justificativa oficial da corporação é que o novo policiamento irá permitir a chegada de ações sociais e do setor de serviços</segment>
+    <segment id="13">, assim</segment>
+    <segment id="14">comocomo ocorre nas favelas com unidades pacificadoras.</segment>
+  </rst>
+</analysis>

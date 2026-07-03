@@ -1,0 +1,127 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Pouco diagnosticado e sem tratamento durante séculos</segment>
+    <segment id="2">, o câncer passou por uma revolução terapêutica nas últimas décadas.</segment>
+    <segment id="3">As inovações</segment>
+    <segment id="4">sese multiplicam</segment>
+    <segment id="5">, ainda que isso não signifique substituir as terapias tradicionais.</segment>
+    <segment id="6">Veja abaixo quais são os tratamentos</segment>
+    <segment id="7">, antigos e novos</segment>
+    <segment id="8">, disponíveis contra a doença.</segment>
+    <segment id="9">Cirurgia</segment>
+    <segment id="10">O câncer tem sido diagnosticado desde o Egito antigo.</segment>
+    <segment id="11">Mais tarde</segment>
+    <segment id="12">, o médico grego</segment>
+    <segment id="13">Hipócrates lhe atribuiu um nome: "karkinos"</segment>
+    <segment id="14">, que significa caranguejo em grego.</segment>
+    <segment id="15">Os primeiros tratamentos para a doença</segment>
+    <segment id="16">, no final do século 19</segment>
+    <segment id="17">, concentravam-</segment>
+    <segment id="18">sese na cirurgia para a retirada do tumor.</segment>
+    <segment id="19">Equipamento para radioterapia no Hospital Sírio-Líbanes</segment>
+    <segment id="20">, na região central de São Paulo - Eduardo Knapp - 22.ago.19/Folhapress</segment>
+    <segment id="21">Atualmente</segment>
+    <segment id="22">, essas intervenções seguem</segment>
+    <segment id="23">comocomo "uma arma terapêutica" importante</segment>
+    <segment id="24">, segundo o professor Steven Le Gouill</segment>
+    <segment id="25">, oncohematólogo responsável pelo ambulatório do Instituto Curie</segment>
+    <segment id="26">, em Paris.</segment>
+    <segment id="27">"Câncer de mama</segment>
+    <segment id="28">, de cólon</segment>
+    <segment id="29">, sarcoma...</segment>
+    <segment id="30">muitos tumores são deixados nas mãos dos cirurgiões"</segment>
+    <segment id="31">, diz Le Gouill.</segment>
+    <segment id="32">Mas a cirurgia também é "uma porta de entrada em muitos tipos de câncer</segment>
+    <segment id="33">, e é graças a ela que temos acesso ao tecido tumoral que permite o diagnóstico".  Radioterapia</segment>
+    <segment id="34">A radioterapia surgiu a partir dos avanços do físico alemão Wilhelm Röntgen</segment>
+    <segment id="35">, que descobriu os raios X em 1895.</segment>
+    <segment id="36">Esse método continua executando um papel importante atualmente</segment>
+    <segment id="37">, já que mais de 70% dos tratamentos contra o câncer incluem sessões de radioterapia</segment>
+    <segment id="38">, que consistem em enviar raios (elétrons</segment>
+    <segment id="39">, fótons</segment>
+    <segment id="40">, prótons) que destroem as células cancerígenas.</segment>
+    <segment id="41">Sua desvantagem é danificar os tecidos pelos quais passam até chegar ao tumor.</segment>
+    <segment id="42">Muitas inovações tentam remediar esse problema</segment>
+    <segment id="43">, entre as quais a radiação de alta frequência com doses mais fortes.</segment>
+    <segment id="44">Trata-</segment>
+    <segment id="45">sese de "ser o mais preciso possível e enviar a dose de radiação mais forte possível ao nível do tumor</segment>
+    <segment id="46">, sem tocar no tecido saudável"</segment>
+    <segment id="47">, explica Steven Le Gouill.  Radioterapia Estereotáxica Corporal (SBRT)Mais    novamente         de   de  de  representando um  Quimioterapia  Abrange medicamentos citotóxicos (várias moléculas regularmente utilizadas de forma combinada) que também vão destruir as células cancerígenas.</segment>
+    <segment id="48">Embora frequentemente associada aos seus efeitos colaterais</segment>
+    <segment id="49">, como</segment>
+    <segment id="50">como a queda de cabelo</segment>
+    <segment id="51">, essa terapia continua</segment>
+    <segment id="52">sese mostrando eficaz</segment>
+    <segment id="53">, como</segment>
+    <segment id="54">como para casos de leucemia aguda.</segment>
+    <segment id="55">Vacinas</segment>
+    <segment id="56">Existem vacinas para a prevenção do câncer quando ele está associado a um vírus: as vacinas contra papilomas humanos e a hepatite B (que pode causar câncer de fígado).</segment>
+    <segment id="57">Há anos</segment>
+    <segment id="58">, são feitas investigações para "vacinas terapêuticas".</segment>
+    <segment id="59">Neste caso</segment>
+    <segment id="60">caso, trata-</segment>
+    <segment id="61">sese de produzir antígenos tumorais (por meio do RNA mensageiro ou do próprio vírus)</segment>
+    <segment id="62">, que permitem que o sistema imunológico ative e produza uma resposta apropriada em pacientes com câncer.</segment>
+    <segment id="63">Terapia-alvo  Há algumas décadas</segment>
+    <segment id="64">, a terapia-alvo tem mudado a vida de muitos pacientes.</segment>
+    <segment id="65">Trata-</segment>
+    <segment id="66">sese de moléculas químicas concebidas especificamente para bloquear ou interromper um mecanismo molecular essencial para o avanço</segment>
+    <segment id="67">, proliferação ou sobrevivência das células tumorais.</segment>
+    <segment id="68">Imunoterapia  É a grande revolução dos últimos anos.</segment>
+    <segment id="69">Consiste em reforçar o sistema imunológico do paciente para ajudá-lo a detectar e matar as células cancerígenas.</segment>
+    <segment id="70">A imunoterapia é baseada em anticorpos sintéticos</segment>
+    <segment id="71">, produzidos em laboratórios</segment>
+    <segment id="72">, e várias modalidades são possíveis.</segment>
+    <segment id="73">Esses anticorpos atacam</segment>
+    <segment id="74">, por exemplo</segment>
+    <segment id="75">, uma proteína na superfície das células cancerígenas.</segment>
+    <segment id="76">Ao sese fixarem na célula atacada</segment>
+    <segment id="77">, os anticorpos provocam uma ação antitumoral de forma indireta ou por estímulo do sistema imunológico.</segment>
+    <segment id="78">Novo tratamento anticâncer é testado no BrasilMais    novamente         de   de  de  representando um</segment>
+    <segment id="79">As células CAR-T  Trata-</segment>
+    <segment id="80">sese de uma terapia celular cujo objetivo é ensinar o sistema imunológico a reconhecer e atacar células cancerígenas.</segment>
+    <segment id="81">As células do sistema imunológico do paciente (muitas vezes linfócitos</segment>
+    <segment id="82">T) são removidas</segment>
+    <segment id="83">, geneticamente modificadas em laboratório e depois reinjetadas na pessoa.</segment>
+    <segment id="84">Sua tarefa será atacar as células cancerígenas.</segment>
+    <segment id="85">Empresas de biotecnologia também apostaram nas chamadas células CAR-T alogênicas.</segment>
+    <segment id="86">Nesse caso</segment>
+    <segment id="87">caso, os cientistas vão modificar geneticamente células que não são do paciente</segment>
+    <segment id="88">, masmas de um portador saudável.</segment>
+    <segment id="89">As CAR-T mostraram eficácia em tipos de câncer no sangue</segment>
+    <segment id="90">, como</segment>
+    <segment id="91">como os linfomas</segment>
+    <segment id="92">, algumas formas de leucemia aguda e o mieloma múltiplo.</segment>
+    <segment id="93">Porém, ainda é um método caro.  "</segment>
+    <segment id="94">O interesse é combinar todas essas abordagens e novas terapias para ter um plano personalizado para o paciente"</segment>
+    <segment id="95">, observa o professor Le Gouill</segment>
+    <segment id="96">, que se</segment>
+    <segment id="97">se mostra otimista.</segment>
+    <segment id="98">"Passamos de uma etapa em nosso entendimento sobre a célula tumoral.</segment>
+    <segment id="99">O câncer continua sendo um desafio</segment>
+    <segment id="100">, masmas os avanços foram feitos de forma exponencial"</segment>
+    <segment id="101">, afirma.</segment>
+  </rst>
+</analysis>

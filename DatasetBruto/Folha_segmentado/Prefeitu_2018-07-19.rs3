@@ -1,0 +1,237 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Todas as principais vacinas do Calendário Nacional de Vacinação tiveram</segment>
+    <segment id="2">, nos últimos dois anos</segment>
+    <segment id="3">, uma queda inédita em sua cobertura</segment>
+    <segment id="4">, mostram dados do governo federal sobre o percentual de população vacinada.</segment>
+    <segment id="5">Houve diminuição até em doenças consideradas já erradicadas no Brasil</segment>
+    <segment id="6">, como</segment>
+    <segment id="7">como o sarampo e a poliomielite.</segment>
+    <segment id="8">O caso</segment>
+    <segment id="9">caso da pólio é o que mais chama a atenção: entre 2013 e 2017</segment>
+    <segment id="10">, o percentual de crianças vacinadas caiu de 100% para 77%.</segment>
+    <segment id="11">Outras vacinas</segment>
+    <segment id="12">comocomo a tríplice viral (contra sarampo</segment>
+    <segment id="13">, caxumba e rubéola) e a pentavalente (difteria</segment>
+    <segment id="14">, tétano</segment>
+    <segment id="15">, coqueluche</segment>
+    <segment id="16">, meningite tipo B e poliomielite) também despencaram a índices abaixo de 80%</segment>
+    <segment id="17">, mesmo após tendo chegado nessa década a coberturas consagradas de 100%.</segment>
+    <segment id="18">Campanhas de vacinação pelo paísMais    novamente         de   de  de  representando um  Por trás destas quedas</segment>
+    <segment id="19">, diante de alertas sobre o risco da volta da poliomielite e de epidemia de sarampo em algumas regiões do país</segment>
+    <segment id="20">, paira uma dúvida: o que de fato é falta de vacinação e o que</segment>
+    <segment id="21">sese explica por problemas no registro dos dados das doses aplicadas.</segment>
+    <segment id="22">Uma troca do sistema nacional de dados sobre vacinação no Ministério da Saúde em 2010</segment>
+    <segment id="23">, masmas que só começou a ser usado pelos municípios de forma ampla em 2016</segment>
+    <segment id="24">, trouxe problemas a muitas cidades e é um dos principais responsáveis pela queda nos registros da cobertura de vacinas registrada no Brasil nesses últimos dois anos.</segment>
+    <segment id="25">Por falta de estrutura ou de treinamento</segment>
+    <segment id="26">, muitas prefeituras ainda não usam corretamente o programa</segment>
+    <segment id="27">, o que gerou um atraso no envio das informações de vacinação.</segment>
+    <segment id="28">É com base nesses dados que o Ministério da Saúde define as políticas e campanhas de vacinação.</segment>
+    <segment id="29">Se a criança não recebe a dose necessária</segment>
+    <segment id="30">, ou essa informação não é enviada no prazo correto</segment>
+    <segment id="31">, é como</segment>
+    <segment id="32">como se</segment>
+    <segment id="33">se houvesse faltado a vacinação e o município entra no sistema com menos gente protegida.</segment>
+    <segment id="34">As prefeituras contestaram os dados (leia mais abaixo).</segment>
+    <segment id="35">Já o Ministério da Saúde reconheceu possíveis erros</segment>
+    <segment id="36">, masmas disse que a responsabilidade pelo envio de informações é dos municípios e estados.</segment>
+    <segment id="37">Mesmo com as falhas</segment>
+    <segment id="38">, dizem ter havido menor procura pelas vacinas.</segment>
+    <segment id="39">O Calendário Nacional de Vacinação do Ministério da Saúde inclui atualmente 19 vacinas gratuitas —todas recomendadas pela OMS (Organização Mundial da Saúde).</segment>
+    <segment id="40">Os especialistas consultados pela reportagem do UOL defendem o sistema público de vacinas e rechaçaram a ideia de que movimentos antivacinação sejam responsáveis pela queda na cobertura.</segment>
+    <segment id="41">Os profissionais também não apontaram que a causa seja a falta de doses em postos —exceto alguns casos pontuais e classificados historicamente</segment>
+    <segment id="42">comocomo normais.</segment>
+    <segment id="43">Segundo apurou o UOL com estados e municípios</segment>
+    <segment id="44">, boa parte dos casos de baixa cobertura</segment>
+    <segment id="45">sese referem</segment>
+    <segment id="46">, na realidade</segment>
+    <segment id="47">, a falhas no preenchimento ou na implantação do novo sistema adotado para contabilidade</segment>
+    <segment id="48">, o Sistema de Informação do Programa Nacional de Imunização (SI-PNI).</segment>
+    <segment id="49">Hoje, em torno de 60% das secretarias municipais de Saúde usam o programa para informar dados ao ministério —a partir deles é feito o mapa da cobertura vacinal no país.</segment>
+    <segment id="50">O novo sistema permite a identificação de nome e moradia do vacinado</segment>
+    <segment id="51">, e não apenas do local onde foi realizada a vacinação.</segment>
+    <segment id="52">Isso gerou necessidade de uma maior informatização nos postos e gerou mais trabalho aos servidores</segment>
+    <segment id="53">, o que atrasou muitos envios de informações.</segment>
+    <segment id="54">No começo do mês</segment>
+    <segment id="55">, a Folha publicou reportagem sobre a baixa cobertura da vacinação infantil</segment>
+    <segment id="56">, em que o presidente do Conasems (conselho de secretários municipais de Saúde)</segment>
+    <segment id="57">, Mauro Junqueira</segment>
+    <segment id="58">, já afirmava que cidades que não aderiram ao sistema tem relatado problemas técnicos ou ausência de internet</segment>
+    <segment id="59">, o que explica a demora no envio de dados sobre a vacinação.</segment>
+    <segment id="60">Na ocasião</segment>
+    <segment id="61">, a coordenadora do Programa Nacional de Imunizações</segment>
+    <segment id="62">, Carla Domingues</segment>
+    <segment id="63">, afirmou que</segment>
+    <segment id="64">, embora</segment>
+    <segment id="65">embora haja impasses no sistema</segment>
+    <segment id="66">, é baixo o número de cidades com esse tipo de dificuldade.</segment>
+    <segment id="67">O problema</segment>
+    <segment id="68">, assim</segment>
+    <segment id="69">, não seria suficiente para explicar a queda nos índices nacionais.</segment>
+    <segment id="70">Ministério apontou 312 municípios com baixa cobertura</segment>
+    <segment id="71">O UOL procurou alguns dos 312 municípios registrados pelo Ministério da Saúde com cobertura vacinal abaixo de 50% de poliomielite e com potencial risco de volta da doença.</segment>
+    <segment id="72">A presença na lista assustou os responsáveis pelos programas nas cidades e todos os municípios procurados pela reportagem questionaram os dados do governo federal.</segment>
+    <segment id="73">Em Itabira (MG)</segment>
+    <segment id="74">, o percentual informado pelo PNI foi de 1</segment>
+    <segment id="75">,87% de crianças vacinadas</segment>
+    <segment id="76">, quando a prefeitura afirma que o número correto é de 83%.</segment>
+    <segment id="77">Segundo o município</segment>
+    <segment id="78">, o problema ocorreu em decorrência de conflito na exportação dos dados do sistema próprio da Secretaria Municipal de Saúde para o programa do ministério.</segment>
+    <segment id="79">"</segment>
+    <segment id="80">Para solucionar o problema</segment>
+    <segment id="81">, a Secretaria de Estado de Saúde de Minas Gerais e a Secretaria Municipal decidiram zerar a base de dados do governo federal</segment>
+    <segment id="82">, o que ocorreu em 21 de junho de 2018"</segment>
+    <segment id="83">, informou.</segment>
+    <segment id="84">Muitos outros casos similares ocorreram em todas as regiões do Brasil.</segment>
+    <segment id="85">Em Gilbues (PI)</segment>
+    <segment id="86">, por exemplo</segment>
+    <segment id="87">, o ministério contabilizou 5</segment>
+    <segment id="88">,38% de crianças vacinadas</segment>
+    <segment id="89">, enquanto o percentual do município ficou em 85</segment>
+    <segment id="90">,87%.</segment>
+    <segment id="91">Osório (RS) aparece na lista do ministério com percentual de 37</segment>
+    <segment id="92">,94% de vacinados</segment>
+    <segment id="93">, masmas a secretaria local listou 94%.</segment>
+    <segment id="94">Já em Franca (SP)</segment>
+    <segment id="95">, o percentual computado em âmbito federal foi de 24</segment>
+    <segment id="96">,1%, quando o município afirma ser de 66% o percentual correto.</segment>
+    <segment id="97">"</segment>
+    <segment id="98">A Vigilância Epidemiológica continua levantando as planilhas dos últimos anos e repassando novamente à secretaria estadual e ao Ministério da Saúde os informes atualizados e reais"</segment>
+    <segment id="99">, disse a prefeitura.</segment>
+    <segment id="100">Em Riachinho (TO)</segment>
+    <segment id="101">, a Secretaria de Saúde informou que a cobertura está acima dos 70%</segment>
+    <segment id="102">, masmas o ministério aponta o percentual em 7</segment>
+    <segment id="103">,58%.</segment>
+    <segment id="104">O problema</segment>
+    <segment id="105">, disse o município</segment>
+    <segment id="106">, ocorreu na instalação do novo sistema do ministério</segment>
+    <segment id="107">, que resultou em atraso do envio dos dados.​  Vacinação contra gripe H1N1Mais    novamente         de   de  de  representando um    ​O que diz o governo?</segment>
+    <segment id="108">Segundo Denise Castro</segment>
+    <segment id="109">, assessora do Programa Nacional de Imunização em Alagoas —onde 50% dos municípios usam o novo sistema—</segment>
+    <segment id="110">, o novo método é "maravilhoso"</segment>
+    <segment id="111">, masmas o período de adaptação gerou problemas no cadastro percebidos em municípios do estado.</segment>
+    <segment id="112">"</segment>
+    <segment id="113">Agora nós sabemos quem é vacinado</segment>
+    <segment id="114">, antes</segment>
+    <segment id="115">sese fazia um xis em um mapa apenas com a idade.</segment>
+    <segment id="116">Apesar de bom</segment>
+    <segment id="117">, isso dificultou [a rotina]</segment>
+    <segment id="118">, porque</segment>
+    <segment id="119">porque leva mais tempo</segment>
+    <segment id="120">, precisa de um computador na sala"</segment>
+    <segment id="121">, explica.</segment>
+    <segment id="122">"</segment>
+    <segment id="123">Visitamos e vimos casos de municípios que estavam com dados a serem digitados</segment>
+    <segment id="124">, aí tem o</segment>
+    <segment id="125">casocaso do computador quebrar e ter de fazer manual até consertar.</segment>
+    <segment id="126">Tudo isso dificulta.</segment>
+    <segment id="127">"  Procurado</segment>
+    <segment id="128">, o Ministério da Saúde reconheceu possíveis erros nos dados e afirmou que cabe a municípios e estados avisar à pasta "</segment>
+    <segment id="129">casocaso ocorra algum problema de compatibilidade dos sistemas do município com o Ministério da Saúde".</segment>
+    <segment id="130">Para o ministério</segment>
+    <segment id="131">, os dados são cruciais</segment>
+    <segment id="132">"</segment>
+    <segment id="133">para que</segment>
+    <segment id="134">para que a pasta tenha a real situação das coberturas das vacinas ofertadas no Calendário Nacional de Vacinação".</segment>
+    <segment id="135">"</segment>
+    <segment id="136">Para os que têm sistemas próprios de informação online</segment>
+    <segment id="137">, deve ser feita a migração dos dados para o SI-PNI.</segment>
+    <segment id="138">Caso haja divergência nos dados após a migração</segment>
+    <segment id="139">, cabe aos gestores locais informar ao Ministério da Saúde para a correção de possíveis erros"</segment>
+    <segment id="140">, informou.</segment>
+    <segment id="141">Sobre a falta de implantação em algumas cidades</segment>
+    <segment id="142">, a pasta defende que haja a informação detalhada dos pacientes vacinados.</segment>
+    <segment id="143">"</segment>
+    <segment id="144">Aos municípios que ainda não possuem salas de vacinas com SI-PNI implantado</segment>
+    <segment id="145">, o Ministério da Saúde orienta</segment>
+    <segment id="146">para que</segment>
+    <segment id="147">para que atualizem constantemente o sistema de doses aplicadas e</segment>
+    <segment id="148">para que</segment>
+    <segment id="149">para que façam a adesão ao SI-PNI o quanto antes</segment>
+    <segment id="150">, pois</segment>
+    <segment id="151">pois somente com o sistema nominal é possível identificar os locais com bolsões de pessoas suscetíveis a doenças evitáveis por imunização"</segment>
+    <segment id="152">, completou.</segment>
+    <segment id="153">Falta de visibilidade de doenças</segment>
+    <segment id="154">Para a presidente da Sociedade Brasileira de Imunizações</segment>
+    <segment id="155">, Isabella Ballalai</segment>
+    <segment id="156">, apesar de o novo sistema estar em "período de transição e subnotificar dados vacinações"</segment>
+    <segment id="157">, há uma queda na cobertura notada nos últimos anos.</segment>
+    <segment id="158">Ela atribui isso a uma falta de percepção social do risco de doenças já extirpadas do país.</segment>
+    <segment id="159">"</segment>
+    <segment id="160">O que aparentemente é o maior motivo é não vermos mais essas doenças.</segment>
+    <segment id="161">São gerações que não viram sarampo</segment>
+    <segment id="162">, pólio</segment>
+    <segment id="163">, como</segment>
+    <segment id="164">como ocorreu em outros momentos da história</segment>
+    <segment id="165">, e levam isso com despreocupação</segment>
+    <segment id="166">, sem medo</segment>
+    <segment id="167">, e relaxam em relação à vacina"</segment>
+    <segment id="168">, diz.</segment>
+    <segment id="169">A presidente da instituição afirma que o antivacinismo no Brasil está longe de ser um problema significativo</segment>
+    <segment id="170">, como</segment>
+    <segment id="171">como nos EUA e na Europa.</segment>
+    <segment id="172">"</segment>
+    <segment id="173">Lá fora eles têm isso mais estruturado.</segment>
+    <segment id="174">Na França</segment>
+    <segment id="175">, pesquisa mostra que 41% da população não acredita na segurança das vacinas</segment>
+    <segment id="176">, enquanto no Brasil a percentagem é de 4%"</segment>
+    <segment id="177">, diz.</segment>
+    <segment id="178">"</segment>
+    <segment id="179">Aqui, não há medo vacina.</segment>
+    <segment id="180">Quando há um surto</segment>
+    <segment id="181">, todo mundo corre para o posto.</segment>
+    <segment id="182">A gente</segment>
+    <segment id="183">sese previne quando vê o risco</segment>
+    <segment id="184">, é da natureza humana"</segment>
+    <segment id="185">, completa.</segment>
+    <segment id="186">Ballalai defende o o calendário vacinal brasileiro</segment>
+    <segment id="187">comocomo um dos melhores do mundo "</segment>
+    <segment id="188">Aqui tem quase todas as vacinas que são importantes"</segment>
+    <segment id="189">, sinaliza.</segment>
+    <segment id="190">Segundo a assessora do PNI em Alagoas</segment>
+    <segment id="191">, Denise Castro</segment>
+    <segment id="192">, um outro fator que pode explicar a queda é o aumento nas vacinas nos últimos anos.</segment>
+    <segment id="193">"</segment>
+    <segment id="194">A criança tem que fazer 11 vacinas.</segment>
+    <segment id="195">Um bebê de dois meses</segment>
+    <segment id="196">, por exemplo</segment>
+    <segment id="197">, tem de tomar três injetáveis e uma oral</segment>
+    <segment id="198">, e aí o pai pede duas e diz que as outras duas vêm depois.</segment>
+    <segment id="199">Isso vai atrasando o calendário"</segment>
+    <segment id="200">, afirma.</segment>
+    <segment id="201">Na nota enviada ao UOL</segment>
+    <segment id="202">, o Ministério da Saúde também aponta a desinformação sobre doenças</segment>
+    <segment id="203">comocomo fator importante na queda apontada pelo sistema.  "</segment>
+    <segment id="204">O sucesso das ações de imunização --que teve</segment>
+    <segment id="205">comocomo resultado a eliminação da poliomielite</segment>
+    <segment id="206">, do sarampo</segment>
+    <segment id="207">, da rubéola e síndrome da rubéola congênita-- tem causado em parte da população e --até mesmo em alguns profissionais de saúde-- a falsa sensação de que não há mais necessidade de</segment>
+    <segment id="208">sese vacinar.</segment>
+    <segment id="209">No Brasil</segment>
+    <segment id="210">, ainda há um desconhecimento individual sobre a importância e benefícios das vacinas"</segment>
+    <segment id="211">, finaliza o comunicado.</segment>
+  </rst>
+</analysis>

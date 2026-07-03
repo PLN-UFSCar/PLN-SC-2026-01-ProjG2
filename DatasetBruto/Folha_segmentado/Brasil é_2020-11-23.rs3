@@ -1,0 +1,201 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Brasil é o único país do mundo onde continuam a circular com frequência notícias falsas sobre cloroquina</segment>
+    <segment id="2">, ivermectina e azitromicina</segment>
+    <segment id="3">comocomo curas para a Covid-19</segment>
+    <segment id="4">, que já foram desmentidas por diversos estudos científicos.</segment>
+    <segment id="5">E, ao contrário da maioria dos países</segment>
+    <segment id="6">, apenas no Brasil</segment>
+    <segment id="7">, na Índia e nos EUA as disputas políticas internas são o principal motor para a desinformação sobre a pandemia.</segment>
+    <segment id="8">Isso é o que mostra o levantamento “Political (self) isolation”</segment>
+    <segment id="9">(Auto-isolamento político)</segment>
+    <segment id="10">, realizado pelo LAUT</segment>
+    <segment id="11">, INCT.DD e o laboratório de pesquisa forense digital do Atlantic Council.</segment>
+    <segment id="12">“</segment>
+    <segment id="13">Como nenhum desses medicamentos</segment>
+    <segment id="14">sese provou eficaz (contra a Covid-19)</segment>
+    <segment id="15">, a discussão esfriou na maioria dos países.</segment>
+    <segment id="16">No Brasil</segment>
+    <segment id="17">, no entanto</segment>
+    <segment id="18">, esses tópicos persistiram</segment>
+    <segment id="19">, a ponto de tornar o ambiente de discussão diferente do resto do mundo”</segment>
+    <segment id="20">, diz o levantamento.</segment>
+    <segment id="21">Fake news ou boatos sobre hidroxicloroquina e cloroquina apareceram 176 vezes na base de dados (são 176 versões de informações falsas</segment>
+    <segment id="22">, que podem ter sido compartilhadas milhões de vezes).</segment>
+    <segment id="23">O campeão é o Brasil</segment>
+    <segment id="24">, com 75 casos</segment>
+    <segment id="25">, seguido da Índia (29)</segment>
+    <segment id="26">, França (26) e EUA (24).</segment>
+    <segment id="27">Remédios em estudo contra o novo coronavírus   novamente         de   de  de  representando um</segment>
+    <segment id="28">As motivações para a desinformação variam.</segment>
+    <segment id="29">Na França</segment>
+    <segment id="30">, há circulação de informações enganosas sobre cloroquina</segment>
+    <segment id="31">porque</segment>
+    <segment id="32">porque Didier Raoult</segment>
+    <segment id="33">, microbiologista que é um dos maiores defensores do uso da substância contra Covid-19</segment>
+    <segment id="34">, é francês.</segment>
+    <segment id="35">Ele realizou um estudo indicando que a combinação de hidroxicloroquina e azitromicina teria curado alguns pacientes de Covid-19.</segment>
+    <segment id="36">O estudo foi apontado</segment>
+    <segment id="37">comocomo falho do ponto de vista científico e pouco transparente</segment>
+    <segment id="38">, uma vez que os dados brutos não foram compartilhados</segment>
+    <segment id="39">, e não teve os resultados corroborados por outros levantamentos.</segment>
+    <segment id="40">Na Índia</segment>
+    <segment id="41">, há também o motivo comercial</segment>
+    <segment id="42">, pois</segment>
+    <segment id="43">pois o país é um grande produtor e exportador de cloroquina.</segment>
+    <segment id="44">Já no Brasil e nos EUA</segment>
+    <segment id="45">, o motivo é político.</segment>
+    <segment id="46">Os presidentes dos dois países</segment>
+    <segment id="47">, Jair Bolsonaro e Donald Trump</segment>
+    <segment id="48">, além de vários partidários e integrantes dos governos</segment>
+    <segment id="49">, encamparam as drogas e ajudaram a espalhar a desinformação.</segment>
+    <segment id="50">O estudo</segment>
+    <segment id="51">sese baseou nas bases de dados CoronaVirusFacts</segment>
+    <segment id="52">Alliance</segment>
+    <segment id="53">, na Rede Internacional de Checagem de Fatos</segment>
+    <segment id="54">, e do Latam Chequea em português e espanhol</segment>
+    <segment id="55">, que reuniu checagens feitas por 100 agências sobre desinformação relacionada à Covid em 134 países</segment>
+    <segment id="56">, de janeiro a agosto de 2020.</segment>
+    <segment id="57">As checagens de cerca de 8</segment>
+    <segment id="58">,6 mil notícias ou postagens falsas ou rumores foram traduzidas para o inglês e foi realizada uma análise quantitativa e hipergeométrica.</segment>
+    <segment id="59">Bolsonaro em vídeo tomando hidroxicloroquina no mês de julho</segment>
+    <segment id="60">, quando estava em tratamento de Covi-19 - ReproduçãoA partir de maio</segment>
+    <segment id="61">, estudos científicos passaram a contestar a eficácia da cloroquina contra a Covid-19.</segment>
+    <segment id="62">Em 15 de junho</segment>
+    <segment id="63">, a Agência de Medicamentos e Alimentos dos EUA</segment>
+    <segment id="64">, a FDA</segment>
+    <segment id="65">, revogou a autorização para uso de emergência da cloroquina de seu estoque estratégico</segment>
+    <segment id="66">, ao determinar</segment>
+    <segment id="67">, com base em evidências científicas</segment>
+    <segment id="68">, que cloroquina e hidroxicloroquina não eram efetivos no tratamento da doença viral.</segment>
+    <segment id="69">Em 17 de junho</segment>
+    <segment id="70">, foi a vez de a OMS (Organização Mundial de Saúde) anunciar que iria parar com os testes clínicos usando a substância</segment>
+    <segment id="71">, pelo mesmo motivo.</segment>
+    <segment id="72">Após essas declarações de entidades científicas e estudos</segment>
+    <segment id="73">, a disseminação de declarações falsas sobre cloroquina caiu na Índia</segment>
+    <segment id="74">, França e nos EUA</segment>
+    <segment id="75">, masmas não no Brasil.</segment>
+    <segment id="76">Das 60 checagens sobre cloroquina feitas a partir do dia 19 de maio</segment>
+    <segment id="77">, 43 vieram do Brasil.</segment>
+    <segment id="78">Boatos e fake news sobre a ivermectina ser uma cura para Covid-19 também são muito concentrados no Brasil</segment>
+    <segment id="79">, onde ocorreram dois terços das checagens sobre o assunto (23 de 36 vezes).</segment>
+    <segment id="80">Depois</segment>
+    <segment id="81">, veio a Colômbia</segment>
+    <segment id="82">, com 7</segment>
+    <segment id="83">, e o México</segment>
+    <segment id="84">, com 3 checagens –</segment>
+    <segment id="85">masmas só no Brasil o tema continuou circulando até agosto</segment>
+    <segment id="86">, mesmo após inúmeros estudos apontando a ineficácia da substância.</segment>
+    <segment id="87">Para autores do estudo</segment>
+    <segment id="88">, isso mostra que a ciência e a checagem de fatos não estão conseguindo combater com a presença dessas mentiras no debate público.</segment>
+    <segment id="89">“</segment>
+    <segment id="90">O que está influenciando o discurso das pessoas sobre a doença são posições políticas</segment>
+    <segment id="91">; isso dificulta incorporar informações científicas e o Brasil fica isolado”</segment>
+    <segment id="92">, diz uma das autoras do estudo</segment>
+    <segment id="93">, Nina Santos</segment>
+    <segment id="94">, pesquisadora do INCT-DD.</segment>
+    <segment id="95">Esse espaço ocupado por desinformação sobre cloroquina</segment>
+    <segment id="96">, ivermectina e outros poderia estar sendo usado para circular novas descobertas científicas</segment>
+    <segment id="97">, conscientizar o público sobre medidas de prevenção e discutir políticas públicas.</segment>
+    <segment id="98">O tipo de fake news que circula no Brasil e na Índia é muito diferente do resto do mundo.</segment>
+    <segment id="99">Em vários países</segment>
+    <segment id="100">, repetem-</segment>
+    <segment id="101">sese temas</segment>
+    <segment id="102">comocomo chás caseiros</segment>
+    <segment id="103">, métodos artesanais para evitar a Covid-19</segment>
+    <segment id="104">, a não necessidade de isolamento ou uso de máscara</segment>
+    <segment id="105">, origem do vírus e teorias da conspiração envolvendo a China.</segment>
+    <segment id="106">Mas Índia</segment>
+    <segment id="107">, Brasil e EUA são os países onde a desinformação está diretamente ligada à política interna desses países.</segment>
+    <segment id="108">Fake news sobre o novo coronavírus   novamente         de   de  de  representando um</segment>
+    <segment id="109">Na Índia</segment>
+    <segment id="110">, além de falarem de chás</segment>
+    <segment id="111">, mostarda e cloroquina</segment>
+    <segment id="112">, os boatos eram muito ligados a acusações falsas de muçulmanos e migrantes serem disseminadores da doença.</segment>
+    <segment id="113">Nos EUA</segment>
+    <segment id="114">, circulam acusações contra rivais do governo Trump</segment>
+    <segment id="115">comocomo o ex-presidente Barack Obama</segment>
+    <segment id="116">, o presidente-eleito Joe Biden</segment>
+    <segment id="117">, a presidente da Câmara</segment>
+    <segment id="118">, Nancy Pelosi</segment>
+    <segment id="119">, Anthony Fauci</segment>
+    <segment id="120">, autoridade de doenças infecciosas</segment>
+    <segment id="121">, e governadores democratas</segment>
+    <segment id="122">, além de denúncias sobre o vírus supostamente ser arma biológica feita na China.</segment>
+    <segment id="123">Outra “jabuticaba” brasileira</segment>
+    <segment id="124">, que também demonstra a motivação política da desinformação no país</segment>
+    <segment id="125">, é a frequência das notícias falsas referentes a “governador”</segment>
+    <segment id="126">, normalmente o governador de São Paulo</segment>
+    <segment id="127">, João Dória</segment>
+    <segment id="128">, masmas também os governadores da Bahia</segment>
+    <segment id="129">, Rui Costa</segment>
+    <segment id="130">, e do Rio de Janeiro</segment>
+    <segment id="131">, Wilson Witzel.</segment>
+    <segment id="132">“</segment>
+    <segment id="133">A palavra ‘governador’ não aparece nessa frequência em nenhum país</segment>
+    <segment id="134">; no Brasil</segment>
+    <segment id="135">, além de tudo</segment>
+    <segment id="136">, aparece duas vezes mais do que ‘presidente’.</segment>
+    <segment id="137">O Brasil destoa até dos países vizinhos</segment>
+    <segment id="138">, onde predomina desinformação que propagandeia curas caseiras para o vírus –gargarejo com vinagre</segment>
+    <segment id="139">, gengibre</segment>
+    <segment id="140">, chás.</segment>
+    <segment id="141">“</segment>
+    <segment id="142">Em outros países</segment>
+    <segment id="143">, essa desinformação tem</segment>
+    <segment id="144">comocomo lastro ‘autoridades’ tradicionais</segment>
+    <segment id="145">, cultura local</segment>
+    <segment id="146">; no Brasil</segment>
+    <segment id="147">, vem de políticos”</segment>
+    <segment id="148">, diz João Guilherme Santos</segment>
+    <segment id="149">, pesquisador do INCT-DD e do Laboratório de Dados e co-autor do estudo.  Luiza Bandeira</segment>
+    <segment id="150">, pesquisadora do DFRLab</segment>
+    <segment id="151">, explica que existe informação falsa disseminada sem intenção</segment>
+    <segment id="152">, o que</segment>
+    <segment id="153">sese chama em inglês de “misinformation”.</segment>
+    <segment id="154">Segundo ela</segment>
+    <segment id="155">, que é co-autora do estudo</segment>
+    <segment id="156">, os boatos sobre curas caseiras</segment>
+    <segment id="157">sese encaixam nessa categoria.</segment>
+    <segment id="158">“Também é difícil de combater esse tipo de desinformação</segment>
+    <segment id="159">, masmas é diferente do que predomina no Brasil”</segment>
+    <segment id="160">, diz.</segment>
+    <segment id="161">Aqui, há a chamada “disinformation”</segment>
+    <segment id="162">, a informação falsa distribuída com intenção.</segment>
+    <segment id="163">“</segment>
+    <segment id="164">Vemos atores ligados ao bolsonarismo encampando essas notícias sobre medicamentos</segment>
+    <segment id="165">, porque</segment>
+    <segment id="166">porque há interesse político de dizer que existe cura para a Covid-19 e não é preciso tomar outras medidas de saúde pública</segment>
+    <segment id="167">, e disseminar a narrativa</segment>
+    <segment id="168">sese que há um complô contra o presidente e querem arruinar a economia.</segment>
+    <segment id="169">”  Para Caio Vieira Machado</segment>
+    <segment id="170">, co-autor do estudo e pesquisador do LAUT</segment>
+    <segment id="171">, “o mais preocupante é que os dados evidenciam</segment>
+    <segment id="172">comocomo a disputa política</segment>
+    <segment id="173">, por meio da desinformação</segment>
+    <segment id="174">, está capturando as políticas públicas e blindando a entrada de informação científica.</segment>
+    <segment id="175">”</segment>
+  </rst>
+</analysis>

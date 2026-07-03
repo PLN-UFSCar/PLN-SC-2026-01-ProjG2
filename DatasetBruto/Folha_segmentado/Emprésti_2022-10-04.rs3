@@ -1,0 +1,123 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Caixa Econômica Federal anunciou que pretende começar a oferecer o empréstimo consignado para os beneficiários do Auxílio Brasil ainda em outubro</segment>
+    <segment id="2">, ou seja</segment>
+    <segment id="3">, antes do segundo turno das eleições.</segment>
+    <segment id="4">Segundo informou nesta quinta-feira (6) a presidente da Caixa</segment>
+    <segment id="5">, Daniella Marques</segment>
+    <segment id="6">, o empréstimo deve estar disponível entre os dias 10 e 15 de outubro.</segment>
+    <segment id="7">Marques também disse que o banco vai operar com uma taxa de juros abaixo do teto de 3</segment>
+    <segment id="8">,5% ao mês</segment>
+    <segment id="9">, fixado pelo Ministério da Cidadania em portaria divulgada no fim de setembro.  "</segment>
+    <segment id="10">A gente vai operar certamente abaixo desse teto</segment>
+    <segment id="11">, um pouco abaixo</segment>
+    <segment id="12">, ainda a definir pela área de risco do banco"</segment>
+    <segment id="13">, afirmou.</segment>
+    <segment id="14">Segundo o ministro da Cidadania</segment>
+    <segment id="15">, Ronaldo Bento</segment>
+    <segment id="16">, 60 instituições financeiras estão em fase de habilitação após demonstrarem interesse em conceder o empréstimo consignado do Auxílio Brasil.</segment>
+    <segment id="17">Fila na agência da Caixa na avenida Sapopemba</segment>
+    <segment id="18">, na zona leste de São Paulo no dia em que o banco começou a pagar o Auxílio Brasil de R$ 600 - Rivaldo Gomes 9.ago.22/</segment>
+    <segment id="19">FolhapressGrandes bancos privados não vão oferecer  Diversas instituições</segment>
+    <segment id="20">, como</segment>
+    <segment id="21">como Itaú Unibanco</segment>
+    <segment id="22">, C6, BMG</segment>
+    <segment id="23">, Bradesco e Santander</segment>
+    <segment id="24">, além da financeira BV</segment>
+    <segment id="25">, já afirmaram que não oferecerão essa linha de crédito.</segment>
+    <segment id="26">Especialistas consideram arriscada a modalidade de empréstimo para beneficiários do Auxílio Brasil</segment>
+    <segment id="27">, população com renda já comprometida com gastos essenciais.</segment>
+    <segment id="28">O banco Pan informou que está avaliando</segment>
+    <segment id="29">sese oferecerá o crédito e que por enquanto não está recebendo propostas para cadastro.</segment>
+    <segment id="30">Na última terça</segment>
+    <segment id="31">, o Banco do Brasil informou que avalia as novas regras exigidas pelo governo para verificar a viabilidade de operacionalizar a linha.</segment>
+    <segment id="32">A presidente da Caixa diz ter conversado com outros bancos e</segment>
+    <segment id="33">, segundo ela</segment>
+    <segment id="34">, entende que o problema é saber</segment>
+    <segment id="35">comocomo operar com o público de baixíssima renda.</segment>
+    <segment id="36">"</segment>
+    <segment id="37">A Caixa conhece profundamente a baixa renda e está confortável em conceder crédito consignado consciente.</segment>
+    <segment id="38">"  Calendário do Auxílio Brasil de outubro é antecipado</segment>
+    <segment id="39">A Caixa divulgou</segment>
+    <segment id="40">, na segunda (3)</segment>
+    <segment id="41">, a antecipação do calendário de pagamentos do Auxílio Brasil</segment>
+    <segment id="42">, que será concluído um dia antes do segundo turno.</segment>
+    <segment id="43">Os depósitos ocorrem conforme o final do NIS (Número de Identificação Social).</segment>
+    <segment id="44">Primeiro</segment>
+    <segment id="45">, recebem os cidadãos com NIS final 1 e assim sucessivamente</segment>
+    <segment id="46">, até chegar em quem tem cartão com final zero.</segment>
+    <segment id="47">Veja as datas:     Número final do cartão de benefício (NIS)</segment>
+    <segment id="48">Data de liberação do benefício de R$ 600     1 11 de outubro   2 13 de outubro   3 14 de outubro   4 17 de outubro   5 18 de outubro   6 19 de outubro   7 20 de outubro   8 21 de outubro   9 24 de outubro   0 25 de outubro</segment>
+    <segment id="49">Na entrevista concedida a jornalistas pela presidente da Caixa e pelo ministro da Cidadania</segment>
+    <segment id="50">, o governo também divulgou que vai zerar a fila do Auxílio Brasil</segment>
+    <segment id="51">, com a inclusão de cerca de 500 mil famílias</segment>
+    <segment id="52">, que receberão o benefício já em outubro.</segment>
+    <segment id="53">Veja as regras do empréstimo consignado</segment>
+    <segment id="54">O valor do consignado do Auxílio Brasil está limitado a 40% do repasse permanente de R$ 400 do benefício</segment>
+    <segment id="55">, ou seja</segment>
+    <segment id="56">, o desconto máximo será de R$ 160 mensais.</segment>
+    <segment id="57">Segundo simulações da Anefac (Associação Nacional dos Executivos de Finanças</segment>
+    <segment id="58">, Administração e Contabilidade)</segment>
+    <segment id="59">, o valor a ser emprestado está limitado em R$ 2.569</segment>
+    <segment id="60">,34.</segment>
+    <segment id="61">O governo também estabeleceu que o empréstimo poderá ser feito em até dois anos</segment>
+    <segment id="62">, em 24 parcelas mensais e sucessivas</segment>
+    <segment id="63">, e o valor será liberado em dois dias úteis após a aprovação do crédito.</segment>
+    <segment id="64">A taxa de juros do empréstimo do Auxílio Brasil é maior do que a do crédito consignado para aposentados e pensionistas do INSS (Instituto Nacional do Seguro Social)</segment>
+    <segment id="65">, de até 2</segment>
+    <segment id="66">,14% ao mês.</segment>
+    <segment id="67">O consignado é uma modalidade de empréstimo na qual os contratantes têm os seus débitos descontados diretamente na fonte —no</segment>
+    <segment id="68">casocaso</segment>
+    <segment id="69">, no pagamento das parcelas do Auxílio Brasil.</segment>
+    <segment id="70">Especialistas veem risco de endividamento</segment>
+    <segment id="71">Para especialistas</segment>
+    <segment id="72">, esse tipo de empréstimo é prejudicial ao público do Auxílio Brasil</segment>
+    <segment id="73">, que tem no benefício —de R$ 600 até o final do ano— a principal forma de subsistência.</segment>
+    <segment id="74">Marques afirmou que a Caixa não quer estimular o endividamento das famílias e que clientes que têm empréstimos com taxas de juros maiores poderão contratar o consignado e utilizar o valor para quitar essas dívidas.  "</segment>
+    <segment id="75">A gente vai entrar com uma conscientização muito grande</segment>
+    <segment id="76">para que</segment>
+    <segment id="77">para que pessoas troquem uma dívida mais cara por uma mais barata</segment>
+    <segment id="78">, para substituição de dívida e para apoio ao empreendedorismo"</segment>
+    <segment id="79">, disse.</segment>
+    <segment id="80">De acordo com a presidente da Caixa</segment>
+    <segment id="81">, pesquisas internas realizadas pelo banco mostraram que 70% dos beneficiários do Auxílio Brasil são trabalhadores informais ou possuem alguma atividade autônoma</segment>
+    <segment id="82">, de forma que o consignado também seria usado para investimento no próprio negócio.</segment>
+    <segment id="83">As principais regras do empréstimo consignado do Auxílio Brasil</segment>
+    <segment id="84">A taxa de juros não poderá ser superior a 3</segment>
+    <segment id="85">,5% ao mês</segment>
+    <segment id="86">O empréstimo poderá ser feito em até dois anos</segment>
+    <segment id="87">, em 24 parcelas mensais e sucessivas</segment>
+    <segment id="88">O valor é liberado em dois dias úteis após a aprovação do crédito</segment>
+    <segment id="89">Os documentos necessários para a contratação do empréstimo são carteira de identidade (RG) ou CNH (Carteira Nacional de Habilitação) e CPF (Cadastro de Pessoa Física)</segment>
+    <segment id="90">Não poderá haver prazo de carência para o empréstimo começar a ser descontado do benefício Bancos e financeiras não poderão cobrar TAC (Taxa de Abertura de Crédito) e quaisquer outras taxas administrativas</segment>
+    <segment id="91">O responsável familiar cadastrado no Auxílio Brasil precisará autorizar o empréstimo e o desconto no benefício Será preciso autorizar a instituição financeira a ter acesso a informações pessoais e bancárias</segment>
+    <segment id="92">A autorização terá que ser feita por escrito ou meio eletrônico (não será aceita por telefone)</segment>
+    <segment id="93">Bancos e financeiras não poderão ligar para oferecer o consignado (não é permitido qualquer tipo de marketing ativo)</segment>
+    <segment id="94">O governo não poderá ser responsabilizado</segment>
+    <segment id="95">sese o empréstimo não for pago ao banco  Leia tambémCom Auxílio</segment>
+    <segment id="96">, mulheres e mais pobres são 1° alvo de Bolsonaro para reduzir vantagem de LulaBolsonaro promete pagar 13º do Auxílio Brasil para mulheres a partir de 2023Apuração das eleições - 1º turnoMais    novamente         de   de  de  representando um</segment>
+    <segment id="97">Veja exemplos comparando os empréstimos</segment>
+  </rst>
+</analysis>

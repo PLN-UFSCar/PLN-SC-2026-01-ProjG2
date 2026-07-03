@@ -1,0 +1,65 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente Lula (PT) afirmou nesta terça-feira (1) que vai criar um programa para baratear passagens aéreas.</segment>
+    <segment id="2">O mandatário comentou o tema ao falar da posse do novo ministro do Turismo</segment>
+    <segment id="3">, Celso Sabino.</segment>
+    <segment id="4">"</segment>
+    <segment id="5">Eu falei com o ministro (Sabino)</segment>
+    <segment id="6">, ele vai apresentar um programa.</segment>
+    <segment id="7">Ele vai tomar posse ainda oficialmente agora.</segment>
+    <segment id="8">O que eu quero é que a gente apresente um programa para facilitar a viagem dos aposentados</segment>
+    <segment id="9">, dos trabalhadores</segment>
+    <segment id="10">, da empregada doméstica</segment>
+    <segment id="11">, nós temos que baratear para as pessoas poderem viajar"</segment>
+    <segment id="12">, disse.</segment>
+    <segment id="13">O presidente Lula (PT) em evento no Palácio do Planalto- Gabriela Biló-28.jun.23/FolhapressO ministro dos Portos e Aeroportos</segment>
+    <segment id="14">, Márcio França</segment>
+    <segment id="15">, já afirmou que a proposta deve viabilizar as passagens por R$ 200.</segment>
+    <segment id="16">Em entrevista ao programa</segment>
+    <segment id="17">A Voz do Brasil no fim de junho</segment>
+    <segment id="18">, França afirmou que o desconto será dado a quem não realizou voos domésticos nos últimos 12 meses</segment>
+    <segment id="19">, detalhou parte das medidas e falou sobre as negociações com as empresas para a implantação.</segment>
+    <segment id="20">Cada pessoa terá direito a quatro passagens</segment>
+    <segment id="21">, cada uma a R$ 200</segment>
+    <segment id="22">, por ano.</segment>
+    <segment id="23">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="24">; aberta para não assinantes.</segment>
+    <segment id="25">Carregando...</segment>
+    <segment id="26">A ideia</segment>
+    <segment id="27">, segundo ele</segment>
+    <segment id="28">, é ampliar o público a ser atendido pelas aéreas para além dos que já viajam de avião habitualmente.</segment>
+    <segment id="29">"</segment>
+    <segment id="30">Nós vamos criar um mecanismo novo</segment>
+    <segment id="31">, que é um aplicativo</segment>
+    <segment id="32">, que você vai digitar o seu CPF e</segment>
+    <segment id="33">sese você não voou nos últimos 12 meses</segment>
+    <segment id="34">, você escreve lá:</segment>
+    <segment id="35">'eu quero ir de Brasília a Manaus'</segment>
+    <segment id="36">, aí vai te dar todas as opções</segment>
+    <segment id="37">, que é sempre por um único valor de R$ 200</segment>
+    <segment id="38">; R$ 200 de ida e R$ 200 de volta.</segment>
+    <segment id="39">"</segment>
+  </rst>
+</analysis>

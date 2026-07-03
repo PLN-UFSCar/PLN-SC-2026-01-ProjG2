@@ -1,0 +1,32 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Rua São Clemente volta a ser interditada
+RIO - A Rua Sorocaba voltou a ser interditada</segment>
+    <segment id="2">, de acordo com o Centro de Operações Rio.</segment>
+    <segment id="3">A interdição é entre as Ruas São Clemente e Voluntários da Pátria.</segment>
+    <segment id="4">Equipes da CET-Rio</segment>
+    <segment id="5">, Bombeiros e Comlurb estão no local.</segment>
+  </rst>
+</analysis>

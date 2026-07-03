@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O passado de youtuber rende dividendos a Arthur do Val (Patriota)</segment>
+    <segment id="2">, que adotou para si o nome de seu canal</segment>
+    <segment id="3">, Mamãe Falei.</segment>
+    <segment id="4">O deputado estadual Arthur do Val (Patriota)</segment>
+    <segment id="5">, conhecido</segment>
+    <segment id="6">comocomo Mamãe Falei</segment>
+    <segment id="7">, que é candidato a prefeito de São Paulo -Eduardo Knapp/FolhapressDe acordo com o Datafolha</segment>
+    <segment id="8">, ele é conhecido por 27% dos eleitores na faixa entre 16 e 34 anos</segment>
+    <segment id="9">, contra 19% do total da população.</segment>
+    <segment id="10">Membro do MBL (Movimento Brasil Livre)</segment>
+    <segment id="11">, o deputado ganhou projeção com vídeos em que denunciava problemas da cidade e cobrava autoridades em eventos públicos.</segment>
+  </rst>
+</analysis>

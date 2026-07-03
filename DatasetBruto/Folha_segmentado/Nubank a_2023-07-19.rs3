@@ -1,0 +1,105 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Nubank anunciou nesta quarta-feira (19) que vai aderir ao programa Desenrola Brasil</segment>
+    <segment id="2">, voltado para a renegociação de dívidas em atraso.  "</segment>
+    <segment id="3">Após concluir a análise técnica dos requisitos já disponíveis do Desenrola</segment>
+    <segment id="4">, o Nubank confirma que participará do programa.</segment>
+    <segment id="5">A instituição dará baixa na negativação das pessoas com dívidas de até R$ 100 e compartilhará mais detalhes de sua adesão conforme avançar no processo"</segment>
+    <segment id="6">, informou a fintech em comunicado.</segment>
+    <segment id="7">Logo do Nubank na sede da empresa em São Paulo - Paulo Whitaker - 19.jun.2018/Reuters</segment>
+    <segment id="8">Os cinco grandes bancos —Itaú</segment>
+    <segment id="9">, Bradesco</segment>
+    <segment id="10">, Santander</segment>
+    <segment id="11">, Banco do Brasil e Caixa— já haviam anunciado nos últimos dias a adesão ao programa.</segment>
+    <segment id="12">Banrisul</segment>
+    <segment id="13">, Daycoval</segment>
+    <segment id="14">, Inter</segment>
+    <segment id="15">, PagBank</segment>
+    <segment id="16">, Pan e C6 confirmaram que também participarão.</segment>
+    <segment id="17">Os clientes podem entrar em contato com os bancos para quitar dívidas adquiridas entre 2019 e 2022.</segment>
+    <segment id="18">Na segunda-feira (17)</segment>
+    <segment id="19">, o ministro Fernando Haddad (Fazenda) declarou que o número de brasileiros com dívidas de até R$ 100 que pode ficar com o nome limpo pode chegar a 2</segment>
+    <segment id="20">,5 milhões</segment>
+    <segment id="21">sese todos os bancos aderirem ao programa.</segment>
+    <segment id="22">"Tem um banco só que estava em dúvida</segment>
+    <segment id="23">sese aderia ou não</segment>
+    <segment id="24">, porque</segment>
+    <segment id="25">porque viu pouca vantagem no crédito presumido</segment>
+    <segment id="26">, e tem 1 milhão de CPFs negativados"</segment>
+    <segment id="27">, disse o ministro em referência ao Nubank.</segment>
+    <segment id="28">"</segment>
+    <segment id="29">Se aderirem todos os grandes bancos</segment>
+    <segment id="30">, são 2</segment>
+    <segment id="31">,5 milhões de CPFs [desnegativados].</segment>
+    <segment id="32">"</segment>
+    <segment id="33">O cliente que deve até R$ 100 terá o nome retirado da lista de inadimplentes assim que aderir ao Desenrola</segment>
+    <segment id="34">, caso</segment>
+    <segment id="35">caso não tenha dívidas de outras origens</segment>
+    <segment id="36">comocomo luz</segment>
+    <segment id="37">, água e lojas.</segment>
+    <segment id="38">Isso permitirá ao participante obter outras linhas de crédito ou assinar contrato de aluguel</segment>
+    <segment id="39">, por exemplo.</segment>
+    <segment id="40">Porém, a dívida deve ser paga e a pessoa voltará a ter o "nome sujo"</segment>
+    <segment id="41">sese não quitar as parcelas renegociadas em dia.</segment>
+    <segment id="42">O Nubank disse ainda que "informará</segment>
+    <segment id="43">, oportunamente</segment>
+    <segment id="44">, as condições e critérios para renegociações no âmbito do programa</segment>
+    <segment id="45">, assim</segment>
+    <segment id="46">comocomo os canais de atendimento que serão disponibilizados.</segment>
+    <segment id="47">"</segment>
+    <segment id="48">Os bancos que aderiram ao Desenrola Brasil oferecem condições especiais</segment>
+    <segment id="49">para que</segment>
+    <segment id="50">para que seus clientes renegociem suas dívidas.</segment>
+    <segment id="51">As instituições apresentam descontos de até 96%</segment>
+    <segment id="52">, além de prazo de até dez anos para pagar.</segment>
+    <segment id="53">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="54">; aberta para não assinantes.</segment>
+    <segment id="55">Carregando...</segment>
+    <segment id="56">Frente à demanda elevada de clientes em busca de renegociações</segment>
+    <segment id="57">, a Caixa anunciou que abrirá suas agências com uma hora de antecedência na sexta-feira (21).</segment>
+    <segment id="58">Segundo o banco público</segment>
+    <segment id="59">, a procura por negociação de dívidas dobrou em seus canais no período de dois dias.</segment>
+    <segment id="60">A faixa 2 do programa anunciado pelo governo federal começou na segunda.</segment>
+    <segment id="61">Na faixa 2</segment>
+    <segment id="62">, podem aderir quem tem dívida bancária que gerou o "nome sujo" entre 1º de janeiro de 2019 e 31 de dezembro de 2022.</segment>
+    <segment id="63">O participante deve ganhar entre R$ 2.640 (dois salários mínimos) e R$ 20 mil por mês</segment>
+    <segment id="64">, e terá prazo mínimo de 12 meses para pagar.</segment>
+    <segment id="65">A quantidade de parcelas e a taxa de juros serão negociadas com o banco.</segment>
+    <segment id="66">Não há limite da quantia a ser quitada.</segment>
+    <segment id="67">Caso a instituição financeira não participe do programa</segment>
+    <segment id="68">, o correntista pode fazer a portabilidade da dívida para outro banco</segment>
+    <segment id="69">, segundo a Febraban (Federação Brasileira de Bancos).</segment>
+    <segment id="70">Também está previsto</segment>
+    <segment id="71">, para setembro</segment>
+    <segment id="72">, o lançamento da faixa 1</segment>
+    <segment id="73">, que vai englobar dívidas bancárias e não bancárias de até R$ 5.000 de famílias com renda de até dois salários mínimos (R$ 2.640).</segment>
+    <segment id="74">A expectativa do governo é que 30 milhões de pessoas sejam beneficiadas e que R$ 50 bilhões possam ser renegociados.</segment>
+    <segment id="75">Na avaliação de especialistas</segment>
+    <segment id="76">, o Desenrola Brasil deve favorecer um aumento na concessão dos empréstimos pelos bancos</segment>
+    <segment id="77">, e, ao mesmo tempo</segment>
+    <segment id="78">, reduzir o nível de inadimplência nas carteiras.</segment>
+    <segment id="79">Bancos que aderiram ao Desenrola BrasilMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

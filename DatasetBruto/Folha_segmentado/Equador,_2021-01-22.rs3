@@ -1,0 +1,154 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O ex-presidente brasileiro Fernando Henrique Cardoso é creditado</segment>
+    <segment id="2">, em uma reportagem de jornal</segment>
+    <segment id="3">, com a frase que</segment>
+    <segment id="4">, a nível governamental</segment>
+    <segment id="5">, sese pode transferir o poder e o cargo</segment>
+    <segment id="6">, masmas não</segment>
+    <segment id="7">sese pode transferir a autoridade.</segment>
+    <segment id="8">É de imaginar que Cardoso</segment>
+    <segment id="9">sese referia ao fato de que os governos estão legitimados em sua capacidade de comandar</segment>
+    <segment id="10">, de tomar decisões e</segment>
+    <segment id="11">, finalmente</segment>
+    <segment id="12">, à eficácia dessas decisões.</segment>
+    <segment id="13">E parte dessa eficácia tem a ver com o exercício da autoridade e o consenso majoritário sobre esse exercício.</segment>
+    <segment id="14">Bem, nos últimos dois anos vimos governos da região que emergiram de uma transferência de poder e de cargo</segment>
+    <segment id="15">, masmas não de autoridade.</segment>
+    <segment id="16">A pergunta conseguinte é</segment>
+    <segment id="17">sese essa modalidade de governo é eficaz para fornecer respostas políticas e</segment>
+    <segment id="18">sese essa eficácia implica a construção de um consenso social.</segment>
+    <segment id="19">Nas eleições de 2017 no Equador</segment>
+    <segment id="20">, a candidatura do partido governista PAIS foi liderada pelo ex-vice-presidente de Rafael Correa</segment>
+    <segment id="21">, Lenin Moreno.</segment>
+    <segment id="22">Embora o líder indiscutível dessa força política fosse Correa</segment>
+    <segment id="23">, que havia liderado dois governos consecutivos (2007-2017) com múltiplas reformas progressistas</segment>
+    <segment id="24">, a fim de não alterar a estrutura institucional forçando uma reforma constitucional que lhe permitiria concorrer por uma terceira vez</segment>
+    <segment id="25">, ele transferiu sua candidatura para Moreno.</segment>
+    <segment id="26">O presidente do Equador</segment>
+    <segment id="27">, Lenin Moreno</segment>
+    <segment id="28">, durante evento em Quito - Cristina Vega Rhor - 8.dez.2020/AFPMoreno ganhou a Presidência do Equador e tomou posse em 2018.</segment>
+    <segment id="29">As políticas e reformas do período anterior foram salvaguardadas.</segment>
+    <segment id="30">Em 2019</segment>
+    <segment id="31">, na Argentina</segment>
+    <segment id="32">, devido à crise econômica causada por importantes erros cometidos pela gestão do “Cambiemos” na figura presidencial de Mauricio Macri</segment>
+    <segment id="33">, a oposição peronista</segment>
+    <segment id="34">, que se</segment>
+    <segment id="35">se tornou a maioria no kirchnerismo</segment>
+    <segment id="36">, viu uma oportunidade de recuperar o poder.</segment>
+    <segment id="37">Mas em um tabuleiro de xadrez político que os analistas e a mídia tinham sintetizado</segment>
+    <segment id="38">comocomo: "</segment>
+    <segment id="39">Com Cristina não alcança</segment>
+    <segment id="40">, sem Cristina não</segment>
+    <segment id="41">sese pode".</segment>
+    <segment id="42">Ou seja</segment>
+    <segment id="43">, a candidatura direta de Cristina Fernández de Kirchner gerou rejeições importantes no nível eleitoral</segment>
+    <segment id="44">, masmas sem o kirchnerismo era impossível recuperar o poder.</segment>
+    <segment id="45">Em uma atitude hábil</segment>
+    <segment id="46">, a ex-presidente entregou a candidatura presidencial a Alberto Fernández</segment>
+    <segment id="47">, ex-chefe de gabinete na primeira etapa do kirchnerismo</segment>
+    <segment id="48">, logo um forte oponente.</segment>
+    <segment id="49">E Fernández</segment>
+    <segment id="50">, o candidato do “Frente de Todos”</segment>
+    <segment id="51">, venceu as eleições de 2019.</segment>
+    <segment id="52">Em 2015</segment>
+    <segment id="53">, na Bolívia</segment>
+    <segment id="54">, o presidente Evo Morales</segment>
+    <segment id="55">, constitucionalmente inibido de concorrer novamente em 2019</segment>
+    <segment id="56">, forçou um referendo nacional que</segment>
+    <segment id="57">sese opôs a ele por pouco.</segment>
+    <segment id="58">Diante dessa situação</segment>
+    <segment id="59">, ele pressionou o Tribunal Eleitoral</segment>
+    <segment id="60">, que decidiu que inibir uma nova candidatura de Morales constituiria uma violação de seu direito humano de concorrer.</segment>
+    <segment id="61">Essa situação polarizou o país</segment>
+    <segment id="62">, envolvendo fortes protestos nas eleições de outubro de 2019</segment>
+    <segment id="63">, quando o Tribunal Eleitoral certificou a vitória de Morales.</segment>
+    <segment id="64">O corolário desses violentos protestos foi a saída de Morales do país</segment>
+    <segment id="65">, uma presidência transitória liderada pela oposição ao MAS</segment>
+    <segment id="66">, e as eleições de 2020.</segment>
+    <segment id="67">Contra todas as probabilidades</segment>
+    <segment id="68">, o MAS triunfou confortavelmente</segment>
+    <segment id="69">, masmas Morales teve que delegar sua candidatura a seu ex-ministro da economia Luis Arce.</segment>
+    <segment id="70">Evo Morales</segment>
+    <segment id="71">, ex-presidente da Bolívia</segment>
+    <segment id="72">, quando estava em Buenos Aires - Emiliano Lasalvia - 3.nov.2020/AFPDesde o início de 2019</segment>
+    <segment id="73">, Lenin Moreno</segment>
+    <segment id="74">, já aliado ao establishment econômico do Equador e</segment>
+    <segment id="75">, portanto</segment>
+    <segment id="76">, tendo rompido laços com o correismo</segment>
+    <segment id="77">, a ponto de processar o ex-presidente por corrupção</segment>
+    <segment id="78">, entrou em negociações com o FMI.</segment>
+    <segment id="79">Impulsionado pela organização multilateral</segment>
+    <segment id="80">, em outubro daquele ano o presidente anunciou um pacote de reformas econômicas de natureza neoliberal que desencadeou violentos protestos populares em todo o país.</segment>
+    <segment id="81">A possibilidade de sufocar esse protesto residiu em recuar em algumas das medidas do pacote e repensar os acordos com o FMI.</segment>
+    <segment id="82">Uma situação e a outra quebrararam definitivamente a capacidade presidencial</segment>
+    <segment id="83">, tanto para seus novos aliados quanto para as bases correistas.</segment>
+    <segment id="84">A fraqueza do governo de Moreno o impede de ter sua própria agenda</segment>
+    <segment id="85">, o que só o ano pandêmico conseguiu esconder.</segment>
+    <segment id="86">O início do mandato presidencial de Fernández na Argentina (ele tomou posse em dezembro de 2019) foi marcado pelo início da pandemia.</segment>
+    <segment id="87">Mas após metade do ano</segment>
+    <segment id="88">, e em um contexto de crise econômica e social aumentada pela pandemia</segment>
+    <segment id="89">, o país passou por várias situações de decisões políticas do governo que foram imediatamente modificadas.</segment>
+    <segment id="90">Os analistas e a mídia concordam que essas mudanças ocorreram devido aos "vetos" da vice-presidente Cristina.</segment>
+    <segment id="91">Da mesma forma</segment>
+    <segment id="92">, em declarações jornalísticas sobre situações emanadas de governos kirchneristas anteriores</segment>
+    <segment id="93">, o presidente declarou coisas que ele havia condenado anteriormente.</segment>
+    <segment id="94">Até hoje</segment>
+    <segment id="95">, o presidente tem articulado uma oposição que foi derrotada há um ano</segment>
+    <segment id="96">, antagonizando-a com grupos de poder decisivos</segment>
+    <segment id="97">, ao mesmo tempo em que não significa o reconhecimento do kirchnerismo.</segment>
+    <segment id="98">Sua imagem</segment>
+    <segment id="99">comocomo presidente despencou nos últimos três meses.</segment>
+    <segment id="100">Na Bolívia</segment>
+    <segment id="101">, Arce assumiu a presidência no final de 2020.</segment>
+    <segment id="102">Morales</segment>
+    <segment id="103">, exilado na Argentina</segment>
+    <segment id="104">, retornou triunfantemente ao país</segment>
+    <segment id="105">, prometendo não interferir nas decisões do novo governo do MAS.</segment>
+    <segment id="106">Entretanto</segment>
+    <segment id="107">, nos últimos dias e com a iminência das eleições departamentais e municipais</segment>
+    <segment id="108">, a estrutura política do MAS começou a</segment>
+    <segment id="109">sese dividir diante</segment>
+    <segment id="110">, segundo o governo</segment>
+    <segment id="111">, da decisão centralizada e irrecorrível de Morales na preparação das listas do governo.</segment>
+    <segment id="112">O rumo de um governo recentemente assumido</segment>
+    <segment id="113">, assombrado pela oposição muito forte de todos os fatores de poder</segment>
+    <segment id="114">, é incerto.</segment>
+    <segment id="115">O ex-presidente da República Fernando Henrique Cardoso - Bruno Santos - 16.out.2019/FolhapressVoltemos à frase de Cardoso.</segment>
+    <segment id="116">A América Latina</segment>
+    <segment id="117">, uma região sempre em turbulência e onde as mudanças políticas são sempre mobilizadoras</segment>
+    <segment id="118">, perturbadoras do status quo e geralmente conflitantes</segment>
+    <segment id="119">, tem a particularidade de oferecer certos denominadores comuns entre seus países</segment>
+    <segment id="120">, além dos problemas específicos de cada um deles.</segment>
+    <segment id="121">É possível afirmar que essa questão de poder delegado</segment>
+    <segment id="122">, por qualquer razão em cada país</segment>
+    <segment id="123">, não é exclusiva de nenhum país-situação.</segment>
+    <segment id="124">E também pode ser afirmado –a evidência da situação atual está provando– que em uma região onde a liderança forte sempre foi a moeda política mais valiosa</segment>
+    <segment id="125">, a delegação da autoridade presidencial está gerando mais problemas do que esse mesmo ato de delegação quis evitar.</segment>
+    <segment id="126">www.latinoamerica21.com</segment>
+    <segment id="127">, uma mídia pluralista comprometida com a disseminação de informações críticas e verdadeiras sobre a América Latina.</segment>
+    <segment id="128">Tradução de Maria Isabel Santos Lima</segment>
+  </rst>
+</analysis>

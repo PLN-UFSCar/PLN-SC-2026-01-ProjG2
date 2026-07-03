@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Ela é uma belezinha!</segment>
+    <segment id="2">Bruna Marquezine cresceu diante do público e</segment>
+    <segment id="3">sese tornou um mulherão</segment>
+    <segment id="4">Bruna Marquezine cresceu diante do público.</segment>
+    <segment id="5">Aos 16 anos</segment>
+    <segment id="6">, disse à revista “Caras” que é uma menina à moda antiga</segment>
+    <segment id="7">, apesar de parecer um mulherão.</segment>
+    <segment id="8">“</segment>
+    <segment id="9">Não sou muito de baladas</segment>
+    <segment id="10">, de sair à noite para pegar vários.</segment>
+    <segment id="11">Gosto mesmo de namorar.</segment>
+    <segment id="12">Ficar não é para mim".</segment>
+    <segment id="13">A atriz também tem os pés no chão quando o assunto é a vida profissional.</segment>
+    <segment id="14">“Não dá para</segment>
+    <segment id="15">sese deslumbrar.</segment>
+    <segment id="16">Tem que ter emprego</segment>
+    <segment id="17">, salário e não desencanar da escola“</segment>
+    <segment id="18">, afirma a Belezinha de “Aquele Beijo”.</segment>
+  </rst>
+</analysis>

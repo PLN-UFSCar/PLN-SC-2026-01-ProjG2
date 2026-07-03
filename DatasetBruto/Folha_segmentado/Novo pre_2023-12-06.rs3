@@ -1,0 +1,47 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Em jantar com vereadores de São Paulo na segunda-feira (4)</segment>
+    <segment id="2">, o novo presidente do PSDB Marconi Perillo sugeriu realizar as convenções municipal e estadual de São Paulo em janeiro e fevereiro</segment>
+    <segment id="3">, respectivamente.</segment>
+    <segment id="4">No entanto</segment>
+    <segment id="5">, os mandatos dos atuais presidentes</segment>
+    <segment id="6">Orlando Faria (municipal) e Paulo Serra (estadual) estão previstos para acabar em abril</segment>
+    <segment id="7">, segundo definiu o ex-presidente Eduardo Leite (RS)</segment>
+    <segment id="8">, de quem são próximos.  Marconi Perillo</segment>
+    <segment id="9">, presidente do PSDB</segment>
+    <segment id="10">, durante Seminário Folha em Goiânia - Keiny Andrade-12.mar.2018/Folhapress</segment>
+    <segment id="11">O gesto foi visto</segment>
+    <segment id="12">comocomo avanço contra o grupo do governador do Rio Grande do Sul e abertura de espaço para a ascensão do grupo dos que eram próximos de João Doria</segment>
+    <segment id="13">, como</segment>
+    <segment id="14">como Rodrigo Garcia e Marco Vinholi.</segment>
+    <segment id="15">No encontro de segunda-feira</segment>
+    <segment id="16">, por exemplo</segment>
+    <segment id="17">, os vereadores ponderaram que a realização da convenção municipal em janeiro provavelmente levaria à vitória de Fernando Alfredo</segment>
+    <segment id="18">, aliado de Doria que foi afastado do comando da capital por Leite em outubro.</segment>
+    <segment id="19">Perillo diz à coluna que trabalhará para unir o PSDB</segment>
+    <segment id="20">, que não tomará decisões sozinho e consultará a bancada</segment>
+    <segment id="21">, a Executiva da legenda e Leite.</segment>
+  </rst>
+</analysis>

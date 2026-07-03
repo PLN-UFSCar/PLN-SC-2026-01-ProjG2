@@ -1,0 +1,91 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Senado aprovou nesta quarta-feira (29) o projeto de lei sobre a tributação de recursos em fundos exclusivos</segment>
+    <segment id="2">, usados por super-ricos</segment>
+    <segment id="3">, e offshores (com sede no exterior).</segment>
+    <segment id="4">O texto segue para sanção presidencial</segment>
+    <segment id="5">, em uma vitória para o ministro Fernando Haddad (Fazenda).</segment>
+    <segment id="6">A medida é uma das principais do pacote defendido pelo chefe da equipe econômica</segment>
+    <segment id="7">, que busca aumentar a arrecadação em 2024 e tentar zerar o déficit do governo no ano que vem.</segment>
+    <segment id="8">A medida precisava ser aprovada ainda em 2023 para valer no próximo calendário.</segment>
+    <segment id="9">Plenário do Senado Federal durante sessão em março deste ano - Pedro Ladeira-22.mar.2023/FolhapressO governo defende que a proposta aprovada</segment>
+    <segment id="10">, além de elevar as receitas (em R$ 20 bilhões em 2024</segment>
+    <segment id="11">, de acordo com a projeção que continua sendo divulgada pelo Ministério da Fazenda)</segment>
+    <segment id="12">, busca alcançar maior justiça tributária —já que os donos desses recursos acabam não recolhendo Imposto de Renda sobre rendimentos</segment>
+    <segment id="13">, devido às diferentes brechas previstas na própria legislação.</segment>
+    <segment id="14">A argumentação é que a tributação de recursos mantidos por brasileiros no exterior busca colocar em pé de igualdade os contribuintes que detêm investimentos no Brasil e recolhem tributos sobre seus rendimentos e aqueles que usam empresas ou fundos offshore</segment>
+    <segment id="15">, que podem fugir indefinidamente do pagamento de impostos.</segment>
+    <segment id="16">Por tratar de mudanças na legislação do IR</segment>
+    <segment id="17">, o projeto precisa ser sancionado ainda neste ano para valer em 2024 —qualquer alteração na tributação sobre a renda precisa seguir a chamada regra da anterioridade anual</segment>
+    <segment id="18">, que tem</segment>
+    <segment id="19">comocomo objetivo dar previsibilidade aos contribuintes.</segment>
+    <segment id="20">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="21">; aberta para não assinantes.</segment>
+    <segment id="22">Carregando...</segment>
+    <segment id="23">Segundo o texto aprovado</segment>
+    <segment id="24">, os lucros obtidos com recursos offshore serão tributados em 15% sobre os ganhos</segment>
+    <segment id="25">, uma vez por ano</segment>
+    <segment id="26">, independentemente de o indivíduo resgatar ou não esses investimentos e trazê-los ao Brasil.</segment>
+    <segment id="27">Inicialmente</segment>
+    <segment id="28">, a proposta do governo federal indicava uma tributação em até 22</segment>
+    <segment id="29">,5% sobres os ganhos</segment>
+    <segment id="30">, masmas o relator da matéria na Câmara</segment>
+    <segment id="31">, deputado Pedro Paulo (PSD-RJ)</segment>
+    <segment id="32">, reduziu essa alíquota para alinhar com a mesma taxa para os fundos exclusivos.</segment>
+    <segment id="33">Atualmente</segment>
+    <segment id="34">, o tributo é recolhido apenas no resgate das cotas ou na liquidação do fundo</segment>
+    <segment id="35">, sem o chamado "come-cotas" —cobrança semestral sobre os ganhos</segment>
+    <segment id="36">, já aplicada a demais fundos existentes no Brasil.</segment>
+    <segment id="37">Para compensar esse alinhamento das alíquotas sobre os ganhos futuros</segment>
+    <segment id="38">, Pedro Paulo elevou a alíquota de 6% para 8% sobre os ganhos acumulados até agora nesses fundos —os chamados estoques.</segment>
+    <segment id="39">A ideia proposta inicialmente pela Fazenda era de 10%.</segment>
+    <segment id="40">O relator no Senado</segment>
+    <segment id="41">, Alessandro Vieira (MDB-SE)</segment>
+    <segment id="42">, fez apenas mudanças de redação na proposta aprovada pela Câmara dos Deputados em outubro.</segment>
+    <segment id="43">Como Vieira está fora do país</segment>
+    <segment id="44">, o texto foi aprovado pelo plenário sem relator.</segment>
+    <segment id="45">Essa é uma das medidas de receitas extras que o governo incluiu na proposta de Orçamento de 2024.</segment>
+    <segment id="46">Ao todo</segment>
+    <segment id="47">, são R$ 168 bilhões em elevação de arrecadação a partir de iniciativas apresentadas sob a condição de aprovação do Congresso Nacional ou implementação pelo Executivo.</segment>
+    <segment id="48">As iniciativas para elevar a arrecadação foram divididas em três pilares.</segment>
+    <segment id="49">O primeiro é o de recomposição da base fiscal e correção de distorções</segment>
+    <segment id="50">, o que inclui o projeto de lei que muda as regras de julgamentos de conflitos tributários no Carf (Conselho Administrativo de Recursos Fiscais) —já sancionado e à espera de análise final do Congresso.</segment>
+    <segment id="51">O segundo pilar trata de isonomia tributária e enfrentamento a abusos.</segment>
+    <segment id="52">Nesse grupo de medidas está a taxação de fundos exclusivos e de recursos offshore</segment>
+    <segment id="53">, aprovada nesta quarta pelo Senado.</segment>
+    <segment id="54">O terceiro eixo é uma demanda das próprias empresas e consiste no que o governo tem chamado de uma melhora no relacionamento com a administração tributária federal.</segment>
+    <segment id="55">O Executivo vai colocar em prática novas modalidades de transação tributária —uma espécie de renegociação de dívidas de contribuintes sob condições mais atrativas</segment>
+    <segment id="56">, com possibilidade de descontos— ainda não exploradas pelo Executivo.</segment>
+    <segment id="57">Apesar do avanço das medidas</segment>
+    <segment id="58">, economistas ainda têm sido céticos sobre o objetivo de zerar o déficit e defendem que o reequilíbrio fiscal não será alcançado sem revisões e cortes de despesas.</segment>
+    <segment id="59">Nesta semana</segment>
+    <segment id="60">, o boletim Focus</segment>
+    <segment id="61">, compilado pelo Banco Central</segment>
+    <segment id="62">, mostrou que a expectativa mediana do mercado é de um déficit correspondente a 0</segment>
+    <segment id="63">,8% do PIB (Produto Interno Bruto) no ano que vem —levemente pior do que um mês atrás</segment>
+    <segment id="64">, quando o indicador estava em 0</segment>
+    <segment id="65">,78%.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,71 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um homem roubou uma ambulância em Oslo</segment>
+    <segment id="2">, na Noruega e</segment>
+    <segment id="3">, na fuga</segment>
+    <segment id="4">, feriu três pessoas</segment>
+    <segment id="5">, incluindo dois bebês gêmeos</segment>
+    <segment id="6">, segundo a polícia local.</segment>
+    <segment id="7">O roubo ocorreu perto de 12h30 no horário local (9h30 em Brasília)</segment>
+    <segment id="8">, segundo o jornal The Telegraph.</segment>
+    <segment id="9">Uma equipe de resgate atendia a um acidente de trânsito quando teve a ambulância surrupiada.</segment>
+    <segment id="10">Homem é preso após roubar ambulância em Oslo - Cathrine Hellesoy/AFPNa fuga</segment>
+    <segment id="11">, o veículo atropelou uma família</segment>
+    <segment id="12">, que levava dois bebês gêmeos de sete meses em um carrinho.</segment>
+    <segment id="13">Eles foram levados para um hospital e estão em tratamento.</segment>
+    <segment id="14">Um carro</segment>
+    <segment id="15">, que se</segment>
+    <segment id="16">se chocou com a ambulância em fuga</segment>
+    <segment id="17">, capotou.</segment>
+    <segment id="18">Um casal de idosos também foi atingido na rua.</segment>
+    <segment id="19">Outra ambulância saiu em perseguição e conseguiu ajudar a parar o veículo roubado</segment>
+    <segment id="20">, ao se</segment>
+    <segment id="21">se chocar contra ele.</segment>
+    <segment id="22">Em seguida</segment>
+    <segment id="23">, a viatura roubada perdeu o controle e bateu em um prédio.</segment>
+    <segment id="24">Na sequência</segment>
+    <segment id="25">, a polícia veio e atirou contra a ambulância sequestrada.</segment>
+    <segment id="26">O autor do roubo revidou</segment>
+    <segment id="27">, masmas foi preso.</segment>
+    <segment id="28">Ele não foi ferido de modo grave</segment>
+    <segment id="29">, segundo os agentes</segment>
+    <segment id="30">, e tem cerca de 30 anos.</segment>
+    <segment id="31">Ambulância colidiu após perseguição - Stian Lysberg Solum/ReutersA ambulância circulou pela cidade durante 15 minutos</segment>
+    <segment id="32">, na região de Torshov</segment>
+    <segment id="33">, e percorreu 1</segment>
+    <segment id="34">,5 km.</segment>
+    <segment id="35">O hospital rastreou o veículo à distância</segment>
+    <segment id="36">, pelo GPS.</segment>
+    <segment id="37">No entanto</segment>
+    <segment id="38">, a polícia procura uma mulher que teria participado do roubo.</segment>
+    <segment id="39">Ela foi descrita</segment>
+    <segment id="40">comocomo branca</segment>
+    <segment id="41">, de cabelo castanho claro</segment>
+    <segment id="42">, estava usando uma jaqueta preta e parecia sob efeito de entorpecentes.</segment>
+    <segment id="43">A polícia disse que a investigação ainda está em fase inicial</segment>
+    <segment id="44">, masmas descartou que</segment>
+    <segment id="45">sese trate de um ato de terrorismo.</segment>
+  </rst>
+</analysis>

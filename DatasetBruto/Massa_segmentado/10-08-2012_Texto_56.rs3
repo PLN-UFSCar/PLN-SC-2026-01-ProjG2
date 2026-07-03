@@ -1,0 +1,55 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">ChefÃµes ordenam e os caras arregaÃ§am</segment>
+    <segment id="2">Eles dizem nÃ£o saber quem manda.</segment>
+    <segment id="3">Mas, quando a ordem para matar chega</segment>
+    <segment id="4">, obedecem
+Eles dizem nÃ£o saber quem manda.</segment>
+    <segment id="5">Mas, quando a ordem para matar chega</segment>
+    <segment id="6">, simplesmente obedecem.</segment>
+    <segment id="7">Ã‰ dessa forma que agem FabrÃ­cio Silva Sacramento</segment>
+    <segment id="8">, 18, o Veidta</segment>
+    <segment id="9">, Ronald AraÃºjo dos Santos</segment>
+    <segment id="10">, 18, o Angolano</segment>
+    <segment id="11">, e os irmÃ£os Eronaldo</segment>
+    <segment id="12">, 20, e Everton dos Santos Ramos</segment>
+    <segment id="13">, 19.</segment>
+    <segment id="14">Eles foram presos por policiais da Delegacia da Boca do Rio acusados de tentar matar um homem de prenome Emerson</segment>
+    <segment id="15">, da Baixa do Cajueiro</segment>
+    <segment id="16">, na Boca do Rio.</segment>
+    <segment id="17">O atentado ocorreu no ImbuÃ­</segment>
+    <segment id="18">, anteontem.</segment>
+    <segment id="19">Os jovens sÃ£o moradores da Georgina Ramos</segment>
+    <segment id="20">, na Boca do Rio e rivais dos traficantes da Baixa do Cajueiro.</segment>
+    <segment id="21">A ordem para matar</segment>
+    <segment id="22">, segundo a delegada Fernanda PorfÃ­rio</segment>
+    <segment id="23">, veio do IAPI</segment>
+    <segment id="24">, intermediada por um homem de prenome Cleiton</segment>
+    <segment id="25">, que teria participado do atentado e fugiu.</segment>
+    <segment id="26">Emerson tambÃ©m escapou.</segment>
+    <segment id="27">â€œO motivo</segment>
+    <segment id="28">Ã© a briga pelo territÃ³rioâ€ diz a delegada.</segment>
+  </rst>
+</analysis>

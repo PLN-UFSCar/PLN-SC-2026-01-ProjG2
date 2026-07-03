@@ -1,0 +1,225 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Datafolha entrevista</segment>
+    <segment id="2">, anualmente</segment>
+    <segment id="3">, paulistanos para eleger as melhores empresas da cidade de São Paulo.</segment>
+    <segment id="4">Na edição de 2023 de O Melhor de São Paulo</segment>
+    <segment id="5">, o instituto ouviu 1018 pessoas de 16 anos ou mais</segment>
+    <segment id="6">, das classes</segment>
+    <segment id="7">A e B, para descobrir as campeãs em 40 categorias.</segment>
+    <segment id="8">Conheça as campeãs abaixo.</segment>
+    <segment id="9">Conheça as empresas vencedoras do prêmio</segment>
+    <segment id="10">O Melhor de São Paulo 2023Mais    novamente         de   de  de  representando um  CarroMelhor concessionária:</segment>
+    <segment id="11">Chevrolet</segment>
+    <segment id="12">, Honda e VolkswagenRedes investiram em comunicação e inovação das concessionárias e empataram no primeiro lugar.</segment>
+    <segment id="13">Melhor posto de combustível: IpirangaRede acompanha demanda e investe em carregadores para carros elétricos.</segment>
+    <segment id="14">Melhor Seguro: Porto Seguradora investe em infraestrutura para prestar assistência em enchentes e deslizamentos.</segment>
+    <segment id="15">Melhor locadora de veículos:</segment>
+    <segment id="16">LocalizaLocadora amplia digitalização e diversidade de serviços para captar e fidelizar públicoMelhor manutenção:</segment>
+    <segment id="17">Porto Oficinas de adaptaram para atender a manutenção e reparo de carros elétricos.</segment>
+    <segment id="18">Foto da unidade da Localiza</segment>
+    <segment id="19">, vencedora da categoria serviço de locação de carro na pesquisa</segment>
+    <segment id="20">O Melhor de São Paulo2023.- Keiny Andrade/FolhapressCompras Veja as melhores empresas no setor de comprasMelhor atacadista: AssaíA rede Assaí foi considerada pela oitava vez a melhor atacadista de São Paulo.</segment>
+    <segment id="21">Citada por 45% dos entrevistados</segment>
+    <segment id="22">, sese consolida</segment>
+    <segment id="23">comocomo maior vencedora da categoria.</segment>
+    <segment id="24">Melhor loja de conveniência:</segment>
+    <segment id="25">AM/PMA rede AM/PM</segment>
+    <segment id="26">, da rede de postos de gasolina</segment>
+    <segment id="27">Ipiranga foi escolhida por 10% dos entrevistados e considerada a melhor loja de conveniência de São Paulo.</segment>
+    <segment id="28">É a nona vez que a AM/PM fica em primeiro lugar na categoria.</segment>
+    <segment id="29">Melhor loja de departamentos: RennerPela nona vez</segment>
+    <segment id="30">, a Renner figura no primeiro lugar da pesquisa</segment>
+    <segment id="31">O Melhor de São Paulo.</segment>
+    <segment id="32">A empresa foi citada por 12% dos entrevistados e é a primeira vez que fica em primeiro lugar sem empatar com nenhuma das concorrentes.</segment>
+    <segment id="33">Melhor loja de móveis: Casas BahiaDesde a estreia da categoria</segment>
+    <segment id="34">, em 2021</segment>
+    <segment id="35">, as Casas Bahia ficaram em primeiro lugar em todas as edições.</segment>
+    <segment id="36">Em 2023</segment>
+    <segment id="37">, a rede recebeu 19% dos votos.</segment>
+    <segment id="38">Melhor minimercado:</segment>
+    <segment id="39">Mini ExtraNa categoria minimercado</segment>
+    <segment id="40">, o Mini Extra ficou mais uma vez em primeiro lugar.</segment>
+    <segment id="41">Desde o início da categoria</segment>
+    <segment id="42">, em 2018</segment>
+    <segment id="43">, todas as vezes</segment>
+    <segment id="44">a rede</segment>
+    <segment id="45">Extra foi a vencedora.</segment>
+    <segment id="46">Em 2023</segment>
+    <segment id="47">, foi citada por 31% dos entrevistados.</segment>
+    <segment id="48">Melhor papelaria:</segment>
+    <segment id="49">KalungaA rede Kalunga foi eleita pela oitava vez a melhor papelaria na pesquisa</segment>
+    <segment id="50">O Melhor de São Paulo.</segment>
+    <segment id="51">Desde 2018 na pesquisa</segment>
+    <segment id="52">, a empresa venceu todas as edições.</segment>
+    <segment id="53">Em 2023</segment>
+    <segment id="54">, teve 40% dos votos.</segment>
+    <segment id="55">Melhor pet shop: PetzA rede</segment>
+    <segment id="56">Petz foi escolhida por 28% dos entrevistados na pesquisa</segment>
+    <segment id="57">O Melhor de São Paulo</segment>
+    <segment id="58">comocomo o melhor Pet Shop.</segment>
+    <segment id="59">Melhor venda pela internet:</segment>
+    <segment id="60">Mercado LivreMercado Livre ampliou portfólio de beleza e viu vendas crescerem durante realityMelhor entrega de encomenda: Correios e Mercado LivreUm empate técnico colocou Correios e Mercado Livre no primeiro lugar na categoria de entrega de encomendas.</segment>
+    <segment id="61">É a primeira vez da categoria no prêmio.</segment>
+    <segment id="62">Os Correios tiveram 25% dos votos e o Mercado Livre</segment>
+    <segment id="63">, 24%Melhor shopping de decoração:</segment>
+    <segment id="64">Lar CenterShopping revitaliza ambientes e</segment>
+    <segment id="65">sese aproxima de arquitetos para atrair clientes Fotos internas e fachada do Assaí</segment>
+    <segment id="66">, vencedor da categoria atacadista na pesquisa</segment>
+    <segment id="67">O Melhor de São Paulo 2023 - Keiny Andrade/ FolhapressEducação</segment>
+    <segment id="68">Confira as vencedoras no setor</segment>
+    <segment id="69">educacionalMelhor curso de inglês: Cultura Inglesa</segment>
+    <segment id="70">Os paulistanos escolheram a Cultura Inglesa</segment>
+    <segment id="71">comocomo melhor escola de idiomas.</segment>
+    <segment id="72">Eleita com 20% das menções</segment>
+    <segment id="73">, é a nona vez que a escola vence a categoria.</segment>
+    <segment id="74">Melhor faculdade particular:</segment>
+    <segment id="75">MackenzieA Universidade Presbiteriana Mackenzie foi eleita a melhor faculdade particular de São Paulo.</segment>
+    <segment id="76">Citada por 21% dos entrevistados</segment>
+    <segment id="77">,é a terceira vez que a instituiçao fica em primeiro lugar na pesquisa.</segment>
+    <segment id="78">Melhor cursinho pré-vestibular: Objetivo e</segment>
+    <segment id="79">EtapaOs cusos pré-vestibular</segment>
+    <segment id="80">Objetivo e Etapa tiveram um empate técnico no primeiro lugar da categoria na pesquisa</segment>
+    <segment id="81">O Melhor de São Paulo.</segment>
+    <segment id="82">O Objetivo teve 15% das menções</segment>
+    <segment id="83">, enquanto o Etapa foi citado por 13% dos entrevistados.</segment>
+    <segment id="84">As duas empresas também empataram em 2018 e 2021Melhor colégio particular: Colégio ObjetivoO Colégio Objetivo foi escolhido pela quinta vez consecutiva a melhor escola particular pelos paulistanos.</segment>
+    <segment id="85">O colégio foi citado por 10% dos entrevistados.</segment>
+    <segment id="86">Sala de aula da Universidade Presbiteriana Mackenzie - Keiny Andrade/FolhapressFinançasConheça as empresas vencedoras no setor financeiroMelhor atendimento bancário:</segment>
+    <segment id="87">ItaúOs paulistanos elegeram o Itaú</segment>
+    <segment id="88">comocomo o melhor serviço bancário no prêmio</segment>
+    <segment id="89">O Melhor de São Paulo.</segment>
+    <segment id="90">É o segundo ano da categoria e a segunda vez que o banco fica em primeiro lugarMelhor assessoria de investimentos:</segment>
+    <segment id="91">XP</segment>
+    <segment id="92">InvestimentosA XP foi eleita a melhor assessoria de investimentos pela quinta vez.</segment>
+    <segment id="93">Desde a estreia da categoria</segment>
+    <segment id="94">, a empresa ficou em primeiro lugar em todas as edições.</segment>
+    <segment id="95">12% dos entrevistados a citaram em 2023.</segment>
+    <segment id="96">Melhor consórcio: PortoA Porto foi escolhida</segment>
+    <segment id="97">comocomo melhor serviço de consórcio pelos paulistanos entrevistados pelo prêmio</segment>
+    <segment id="98">O Melhor de São Paulo.</segment>
+    <segment id="99">A empresa foi citada por 7% dos entrevistados pelo Instituto Datafolha.</segment>
+    <segment id="100">Melhores previdências privadas: Bradesco e ItaúOs bancos</segment>
+    <segment id="101">Bradesco e Itaú empataram no primeiro lugar e foram considerados os melhores serviços de previdência privada.</segment>
+    <segment id="102">É a quarta vez que as instituições empatam e</segment>
+    <segment id="103">, em 2023</segment>
+    <segment id="104">, tiveram 9% dos votosMelhor crédito imobiliário:</segment>
+    <segment id="105">Caixa Econômica FederalA Caixa Econômica Federal foi eleita com o melhor serviço de crédito imobiliário.</segment>
+    <segment id="106">É a primeira vez da categoria no prêmio</segment>
+    <segment id="107">O Melhor de São Paulo.</segment>
+    <segment id="108">O banco teve 25% dos votos.</segment>
+    <segment id="109">Melhor serviço financeiro:</segment>
+    <segment id="110">ItaúOs paulistanos elegeram o Itaú</segment>
+    <segment id="111">comocomo melhor prestador de serviços financeiros.</segment>
+    <segment id="112">O banco venceu com 19% dos votos a categoria</segment>
+    <segment id="113">, que está pela primeira vez na premiação.</segment>
+    <segment id="114">Melhor Vale-Alimentação:</segment>
+    <segment id="115">VRA VR foi eleita pelos paulistanos</segment>
+    <segment id="116">comocomo o melhor serviço de vale alimentação.</segment>
+    <segment id="117">A empresa ficou em primeiro lugar pela terceira vez</segment>
+    <segment id="118">, com 21% dos votos.</segment>
+    <segment id="119">Investment Center do Itaú</segment>
+    <segment id="120">, vencedor do prêmio</segment>
+    <segment id="121">O Melhor de São Paulo em três categorias.</segment>
+    <segment id="122">- Keiny Andrade/FolhapressImóveisMelhor imobiliária:</segment>
+    <segment id="123">Quinto AndarA</segment>
+    <segment id="124">Quinto</segment>
+    <segment id="125">Andar foi eleita pelos paulistanos a melhor corretora imobiliária.</segment>
+    <segment id="126">A empresa tem atuação exclusivamente digital e é a terceira vez que fica em primeiro lugar.</segment>
+    <segment id="127">Em 2023</segment>
+    <segment id="128">, foi citada por 13% dos entrevistadosMelhor serviço de mudança: GraneroCitada por 13% dos entrevistados</segment>
+    <segment id="129">, a Granero foi eleita a melhor prestadora de serviços de mudança.</segment>
+    <segment id="130">É a terceira vez que a empresa fica em primeiro lugar.</segment>
+    <segment id="131">Caixas da Granero durante mudança feita pela empresa em Perdizes</segment>
+    <segment id="132">, na zona oeste de São Paulo - Olga Lysloff/FolhapressLazerVeja as empresas preferidas dos paulistanos no setor de lazerMelhor cinema:</segment>
+    <segment id="133">CinemarkA Cinemark foi a rede de cinemas mais citada pelos entrevistados na pesquisa</segment>
+    <segment id="134">O Melhor de São Paulo.</segment>
+    <segment id="135">É a oitava vez que a rede ganha na categoria</segment>
+    <segment id="136">, vencendo todas as vezes</segment>
+    <segment id="137">, desde a estreia.</segment>
+    <segment id="138">Melhor museu: IpirangaO Museu do Ipiranga</segment>
+    <segment id="139">, reinaugurado após dois anos em reformas</segment>
+    <segment id="140">, foi eleito o melhor por 45% dos entrevistados.</segment>
+    <segment id="141">É a segunda vez que a categoria está no prêmio</segment>
+    <segment id="142">O Melhor de São Paulo e a segunda vez que o Ipiranga vence.</segment>
+    <segment id="143">Melhor cafeteria:</segment>
+    <segment id="144">StarbucksOs paulistanos escolheram a Starbucks</segment>
+    <segment id="145">comocomo melhor cafeteria no prêmio</segment>
+    <segment id="146">O Melhor de São Paulo.</segment>
+    <segment id="147">Vencedora em todas as outras cinco edições</segment>
+    <segment id="148">, a empresa recebeu 22% dos votos em 2023.Sala prime do Cinemark do shopping Cidade Jardim</segment>
+    <segment id="149">, que tem poltronas grandes e reclináveis - Keiny Andrade/FolhapressSaúdeConfira os melhores hospitais</segment>
+    <segment id="150">, maternidades e outras empresas da saúdeMelhor farmácia:</segment>
+    <segment id="151">Drogaria São PauloA rede de drogarias</segment>
+    <segment id="152">São Paulo foi citada por 35% dos entrevistados na pesquisa</segment>
+    <segment id="153">O Melhor de São Paulo.</segment>
+    <segment id="154">É a nona vez que a rede fica em primeiro na categoria.</segment>
+    <segment id="155">Melhor hospital:</segment>
+    <segment id="156">Albert EinsteinVencedor pela nona vez na categoria</segment>
+    <segment id="157">, o Hospital Albert Einstein foi citado por 24% dos entrevistados pelo instituto Datafolha.</segment>
+    <segment id="158">Desde a estréia da categoria</segment>
+    <segment id="159">, o hospital venceu todas as vezes.</segment>
+    <segment id="160">Melhor maternidade: Santa JoanaMaior campeã</segment>
+    <segment id="161">, a Maternidade Santa Joana figura desde a estreia da categoria no primeiro lugar.</segment>
+    <segment id="162">Em 2023</segment>
+    <segment id="163">, 17% dos entrevistados lembraram da maternidade</segment>
+    <segment id="164">comocomo referência na área.</segment>
+    <segment id="165">Melhor seguro saúde:</segment>
+    <segment id="166">BradescoA Badesco Seguros foi escolhida pelos paulistanos</segment>
+    <segment id="167">comocomo referência no setor de seguros de saúde.</segment>
+    <segment id="168">É a segunda edição da categoria</segment>
+    <segment id="169">, e a segunda vez que a empresa fica em primeiro lugar.</segment>
+    <segment id="170">Em 2023</segment>
+    <segment id="171">, teve 16% dos votos.</segment>
+    <segment id="172">Melhores laboratórios de análises clínicas: Lavoisier e FleuryLavoisier e Fleury empataram na categoria de melhor laboratório.</segment>
+    <segment id="173">É o terceiro ano consecutivo em que os dois laboratórios ficam com empate técnico.</segment>
+    <segment id="174">Em 2023</segment>
+    <segment id="175">, Lavoisier foi citado por 19% dos entrevistados e Fleury</segment>
+    <segment id="176">, por 17%Melhor academia: Smart FitRede amplia serviços buscando clientes que querem cuidar da saúde física e mental Aula no curso de simulação realística do Hospital e Maternidade Santa Joana</segment>
+    <segment id="177">, eleita a melhor maternidade de São Paulo - Keiny Andrade/FolhapressServiço Público Conheça os melhores serviços públicos</segment>
+    <segment id="178">Melhor serviço público: MetrôMetrô e SUS foram considerados os melhroes serviços públicos pelos entrevistados no prêmio</segment>
+    <segment id="179">O Melhor de São Paulo.</segment>
+    <segment id="180">É a terceira vez que os serviços empatam no primeiro lugar desde a estreia da categoria.</segment>
+    <segment id="181">Em 2023</segment>
+    <segment id="182">, ambos tiveram 15% dos votos.</segment>
+    <segment id="183">Melhor serviço público:</segment>
+    <segment id="184">SUSJunto do metrô</segment>
+    <segment id="185">, o SUS também foi considerado melhor serviço público pelos paulistanos.</segment>
+    <segment id="186">Ambos os serviços receberam 15% dos votosMovimento de passageiros na estação Alto do Ipiranga</segment>
+    <segment id="187">, linha verde</segment>
+    <segment id="188">, sentido Vila Prudente.</segment>
+    <segment id="189">- Keiny Andrade/FolhapressOutrosMelhor operadora de internet:</segment>
+    <segment id="190">VivoA Vivo foi considerada a melhor operadora de internet por 51% dos entrevistados pelo prêmio</segment>
+    <segment id="191">O Melhor de São Paulo.</segment>
+    <segment id="192">É a terceira vez que a operadora vence na categoria.</segment>
+    <segment id="193">Melhor segurança privada: Verisure</segment>
+    <segment id="194">, Haganá e ProtegeVerisure</segment>
+    <segment id="195">, Haganá e Protege ficaram tecnicamente empatadas no primeiro lugar da categoria.</segment>
+    <segment id="196">É a segunda vez que as empresas ficam empatadas.</segment>
+    <segment id="197">Em 2023</segment>
+    <segment id="198">, a Verisure teve 4% dos votos e Haganá e Protege ficaram com 3%.Movimento na loja da Vivo no Shopping Ibirapuera.</segment>
+    <segment id="199">- Keiny Andrade/Folhapress</segment>
+  </rst>
+</analysis>

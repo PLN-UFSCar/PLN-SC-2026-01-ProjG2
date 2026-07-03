@@ -1,0 +1,137 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A economia do Brasil deve crescer neste ano abaixo da média global</segment>
+    <segment id="2">, da média da América Latina e da média de países em desenvolvimento</segment>
+    <segment id="3">, aponta relatório do Fundo Monetário Internacional divulgado nesta terça-feira (11).</segment>
+    <segment id="4">Enquanto</segment>
+    <segment id="5">, segundo as projeções do FMI</segment>
+    <segment id="6">, o Brasil deve ver seu PIB (produto interno bruto) crescer 2</segment>
+    <segment id="7">,8% em 2022</segment>
+    <segment id="8">, o mundo deve registrar crescimento médio de 3</segment>
+    <segment id="9">,2%.</segment>
+    <segment id="10">O dado é divulgado em um momento em que o atual presidente</segment>
+    <segment id="11">, Jair Bolsonaro (PL)</segment>
+    <segment id="12">, propagandeia em sua campanha de reeleição que o Brasil foi o país que melhor</segment>
+    <segment id="13">sese recuperou da crise mundial.</segment>
+    <segment id="14">Reportagem da Folha no mês passado mostrou que desde os governos Dilma Rousseff e Michel Temer (2011-2018) o Brasil tem crescimento abaixo da média global</segment>
+    <segment id="15">, e o relatório do FMI mostra que a tendência</segment>
+    <segment id="16">sese repetirá com o atual presidente.</segment>
+    <segment id="17">PIB brasileiro deve crescer 2</segment>
+    <segment id="18">,8% em 2022</segment>
+    <segment id="19">, apontam projeções do FMI - Zanone Fraissat/FolhapressA América Latina também deve ver suas economias</segment>
+    <segment id="20">sese expandirem acima da média do Brasil</segment>
+    <segment id="21">, com crescimento de 3</segment>
+    <segment id="22">,5% ao fim do ano —com aumentos maiores em países</segment>
+    <segment id="23">comocomo Argentina (4%)</segment>
+    <segment id="24">, Colômbia (7</segment>
+    <segment id="25">,6%), Bolívia (3</segment>
+    <segment id="26">,8%) e Uruguai (5</segment>
+    <segment id="27">,3%).</segment>
+    <segment id="28">O Brasil faz parte do grupo de mercados emergentes e economias em desenvolvimento</segment>
+    <segment id="29">, que devem ter também um crescimento médio acima do brasileiro</segment>
+    <segment id="30">, com 3</segment>
+    <segment id="31">,7%.</segment>
+    <segment id="32">A Índia deve registrar crescimento de 6</segment>
+    <segment id="33">,8% no PIB</segment>
+    <segment id="34">, enquanto a China deve ver seu PIB crescer 3</segment>
+    <segment id="35">,2%.</segment>
+    <segment id="36">O índice chinês</segment>
+    <segment id="37">, no entanto</segment>
+    <segment id="38">, é baixo para os padrões do país pré-pandemia</segment>
+    <segment id="39">, e esse é um dos motivos que ajudam a explicar uma média global baixa</segment>
+    <segment id="40">, segundo o FMI.</segment>
+    <segment id="41">Na China</segment>
+    <segment id="42">, tem pesado o enfraquecimento do setor imobiliário</segment>
+    <segment id="43">, que representa um quinto da atividade econômica do país</segment>
+    <segment id="44">, e a continuidade das políticas de lockdown para conter o vírus.</segment>
+    <segment id="45">Para o ano que vem</segment>
+    <segment id="46">, a perspectiva do Brasil é ainda pior</segment>
+    <segment id="47">, com o PIB crescendo apenas 1%</segment>
+    <segment id="48">, enquanto o mundo deve crescer 2</segment>
+    <segment id="49">,7% —o que já é considerado baixo pelos patamares do FMI.</segment>
+    <segment id="50">(Para o Brasil</segment>
+    <segment id="51">, o Banco Central prevê crescimento do PIB de 2</segment>
+    <segment id="52">,5% no ano que vem e 2</segment>
+    <segment id="53">,7% neste ano).</segment>
+    <segment id="54">O relatório foi divulgado em meio às reuniões anuais do Fundo Monetário Internacional e do Banco Mundial</segment>
+    <segment id="55">, que ocorrem durante toda a semana na capital dos Estados Unidos</segment>
+    <segment id="56">, Washington</segment>
+    <segment id="57">, com políticos e economistas de todo o mundo.</segment>
+    <segment id="58">É a primeira vez que as reuniões acontecem de forma completamente presencial desde 2020</segment>
+    <segment id="59">, com eclosão da pandemia da Covid-19.</segment>
+    <segment id="60">Viajaram à cidade o ministro da Economia do Brasil</segment>
+    <segment id="61">, Paulo Guedes</segment>
+    <segment id="62">, e o presidente do Banco Central</segment>
+    <segment id="63">, Roberto Campos Neto.</segment>
+    <segment id="64">Guedes</segment>
+    <segment id="65">sese reuniu com ministros da economia e da agricultura dos países do G20 na manhã desta terça</segment>
+    <segment id="66">, e terá ao longo do dia encontros também com empresários e representantes do BID (Banco Interamericano de Desenvolvimento).</segment>
+    <segment id="67">Paulo Guedes e suas metáforas econômicasMais    novamente         de   de  de  representando um  Chama atenção</segment>
+    <segment id="68">, porém</segment>
+    <segment id="69">porém, o fato de que o Fundo revisou as projeções de crescimento do Brasil para cima —2 pontos a mais do que o previsto em abril deste ano—</segment>
+    <segment id="70">, enquanto a expectativa caiu em outras regiões.</segment>
+    <segment id="71">Os EUA</segment>
+    <segment id="72">, por exemplo</segment>
+    <segment id="73">, devem fechar o ano com crescimento 2</segment>
+    <segment id="74">,1 pontos percentuais abaixo do que o previsto pelo FMI no primeiro semestre.</segment>
+    <segment id="75">O relatório aponta também que o Brasil deve fechar o ano com inflação de 9</segment>
+    <segment id="76">,4%, patamar alto</segment>
+    <segment id="77">, masmas similar ao de outras economias da região</segment>
+    <segment id="78">comocomo Colômbia (9</segment>
+    <segment id="79">,7%).</segment>
+    <segment id="80">Nos Estados Unidos</segment>
+    <segment id="81">, a inflação</segment>
+    <segment id="82">, em patamares históricos</segment>
+    <segment id="83">, deve fechar o ano em 8</segment>
+    <segment id="84">,1%, projeta o fundo.</segment>
+    <segment id="85">Os casos mais graves no continente ocorrem na Venezuela (previsão de 210%) e na Argentina (72</segment>
+    <segment id="86">,4%).</segment>
+    <segment id="87">O fundo prevê</segment>
+    <segment id="88">, porém</segment>
+    <segment id="89">porém, que em 2023 esses dois países mantenham ou até aumentem a hiperinflação</segment>
+    <segment id="90">, enquanto o índice deve baixar no Brasil (para 4</segment>
+    <segment id="91">,7%), Estados Unidos (para 3</segment>
+    <segment id="92">,5%) e em quase todos os países da região.</segment>
+    <segment id="93">A inflação persistente e desenfreada é a maior ameaça à economia global</segment>
+    <segment id="94">, aponta o FMI</segment>
+    <segment id="95">, e uma série de motivos explicam a alta dos preços.</segment>
+    <segment id="96">Na Europa</segment>
+    <segment id="97">, pesa sobretudo a crise energética</segment>
+    <segment id="98">, com redução de oferta de gás após o início da Guerra da Ucrânia.</segment>
+    <segment id="99">O conflito também pressionou o preço dos alimentos no mundo todo</segment>
+    <segment id="100">, com a dificuldade da exportação de grãos</segment>
+    <segment id="101">, afetando mais os países de renda mais baixa.</segment>
+    <segment id="102">Outro fator que influencia nos preços de forma global foi a alta do petróleo —e pode ser mais significativa agora</segment>
+    <segment id="103">, que a Opep+ aprovou um corte na produção de barris por dia.</segment>
+    <segment id="104">Dados divulgados pelo IBGE nesta terça apontam deflação (queda de preços) de 0</segment>
+    <segment id="105">,29% em setembro</segment>
+    <segment id="106">, queda no IPCA pelo terceiro mês consecutivo.</segment>
+    <segment id="107">O FMI defende que os bancos centrais respondam de forma firme à inflação</segment>
+    <segment id="108">, masmas alerta que um aumento de taxas de juro mais alto do que o necessário pode empurrar as economias para uma recessão desnecessariamente severa.</segment>
+    <segment id="109">A taxa básica de juros no Brasil</segment>
+    <segment id="110">, hoje em 13</segment>
+    <segment id="111">,75%, está no patamar mais alto desde dezembro de 2016.</segment>
+  </rst>
+</analysis>

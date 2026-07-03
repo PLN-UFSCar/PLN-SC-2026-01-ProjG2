@@ -1,0 +1,35 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O São Paulo está perto de fechar a venda dos naming rights do Morumbi para a Mondelez.</segment>
+    <segment id="2">O valor do contrato seria de R$ 75 milhões</segment>
+    <segment id="3">, ou seja</segment>
+    <segment id="4">, R$ 25 milhões por ano.</segment>
+    <segment id="5">Clube e empresa já estão adiantados na negociação</segment>
+    <segment id="6">, na fase de "trocar contratos".</segment>
+    <segment id="7">O estádio do Morumbi deverá ser chamado de Morumbis - Carla Carniel - 20.set.23/ReutersA ideia é que o estádio passe a</segment>
+    <segment id="8">sese chamar Morumbis pelos próximos três anos —a empresa é dona da marca de chocolate Bis.</segment>
+    <segment id="9">A informação foi publicada inicialmente pelo ge e confirmada pelo UOL.</segment>
+  </rst>
+</analysis>

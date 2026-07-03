@@ -1,0 +1,59 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Famosos desejam que Ivete</segment>
+    <segment id="2">sese recupere</segment>
+    <segment id="3">A notícia da doença da cantora é uma das mais comentadas no twitter
+Depois de confirmado que a cantora Ivete Sangalo está com meningite</segment>
+    <segment id="4">, vários fãs da cantora fizeram questão de comentar o assunto no microblog twitter.</segment>
+    <segment id="5">Famosos também</segment>
+    <segment id="6">sese manifestaram</segment>
+    <segment id="7">, como</segment>
+    <segment id="8">como a cantora Alinne Rosa.</segment>
+    <segment id="9">A vocalista da banda Cheio de Amor solicitou:</segment>
+    <segment id="10">"Quero pedir a todos os meus fãs e amigos que façam uma corrente de oração por Ivetinha! @ivetesangalo</segment>
+    <segment id="11">Que ela volte cheia de saúde logo!</segment>
+    <segment id="12">".</segment>
+    <segment id="13">Flora Gil</segment>
+    <segment id="14">, esposa do cantor Gilberto Gil</segment>
+    <segment id="15">, também falou sobre o assunto: "</segment>
+    <segment id="16">Falei com minha amiga Cyntia Sangalo.</segment>
+    <segment id="17">@ivetesangalo está bem</segment>
+    <segment id="18">, sendo bem cuidada</segment>
+    <segment id="19">, e logo mais volta pra ativa de novo!</segment>
+    <segment id="20">".</segment>
+    <segment id="21">O mesmo desejo de que Ivete</segment>
+    <segment id="22">sese recupere o quanto antes foi expressado pela banda Jammil.</segment>
+    <segment id="23">"</segment>
+    <segment id="24">Todo nosso carinho hoje vai pra amiga @ivetesangalo.</segment>
+    <segment id="25">Que você fique boa logo pra voltar a fazer o povo inteiro balançar</segment>
+    <segment id="26">, Ivetinha.</segment>
+    <segment id="27">Beijos!</segment>
+    <segment id="28">", escreveu no twitter.</segment>
+    <segment id="29">Por conta da doença</segment>
+    <segment id="30">, parte da agenda da artista foi cancelada.</segment>
+    <segment id="31">Ivete ainda não tem previsão de alta do Hospital Aliança</segment>
+    <segment id="32">, onde está internada.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,169 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O anúncio de novas subvariantes do SARS-CoV-2 reacendeu dúvidas sobre a Covid-19 e mobilizou especialistas e órgãos de Saúde em todo o mundo.</segment>
+    <segment id="2">No último dia 18</segment>
+    <segment id="3">, ao falar na abertura da reunião de ministros da Saúde do G20</segment>
+    <segment id="4">, Tedros Ghebreyesus</segment>
+    <segment id="5">, diretor-geral da OMS (Organização Mundial da Saúde)</segment>
+    <segment id="6">, destacou a necessidade de que "todos os países mantenham a vigilância".</segment>
+    <segment id="7">A agência pediu esforços em sequenciamento e notificação para o melhor acompanhamento da circulação e da evolução do vírus.</segment>
+    <segment id="8">Além do monitoramento</segment>
+    <segment id="9">, especialistas consultados pela Folha reforçaram a importância da vacinação e da testagem</segment>
+    <segment id="10">, e explicaram que</segment>
+    <segment id="11">, até o momento</segment>
+    <segment id="12">, não há evidências que sustentem mudanças nas políticas de saúde em vigor.</segment>
+    <segment id="13">Ministério da Saúde reforça que a melhor forma de</segment>
+    <segment id="14">sese proteger é pela vacinação - Rubens Cavallari - 27.fev.23/Folhapress     TIRE</segment>
+    <segment id="15">SUAS DÚVIDASO</segment>
+    <segment id="16">que são as subvariantes EG.5</segment>
+    <segment id="17">e BA.2.86?É correto chamar a EG.5 de Éris?As subvariantes EG.5 e BA.2.86 foram detectadas em quais países?O</segment>
+    <segment id="18">Brasil corre risco de ter uma nova onda de Covid?Quando devo fazer o teste de Covid?Preciso usar máscara?Qual a melhor forma de me proteger?A vacina protege contra as novas subvariantes?O que são as subvariantes EG.5 e BA.2.86?</segment>
+    <segment id="19">É normal que vírus mudem e evoluam conforme o tempo passa e eles</segment>
+    <segment id="20">sese propagam entre as pessoas.</segment>
+    <segment id="21">Quando essas mudanças tornam o vírus sensivelmente distinto do original</segment>
+    <segment id="22">, ele é considerado uma variante.</segment>
+    <segment id="23">A EG.5 é uma linhagem que descende da XBB.1.9.2</segment>
+    <segment id="24">, que por sua vez vem da XBB.1.5 da ômicron.</segment>
+    <segment id="25">Ela foi reportada pela primeira vez em 17 de fevereiro e é considerada uma subvariante de interesse.</segment>
+    <segment id="26">Segundo a OMS</segment>
+    <segment id="27">, uma variante é considerada "de interesse"</segment>
+    <segment id="28">sese apresenta mutações que</segment>
+    <segment id="29">, presumida ou comprovadamente</segment>
+    <segment id="30">, causam mudanças importantes e têm ampla circulação.</segment>
+    <segment id="31">Ela passa "de interesse" para "preocupante" quando é constatado que</segment>
+    <segment id="32">sese propaga com maior facilidade</segment>
+    <segment id="33">, provoca casos mais graves ou reduz a eficácia de ferramentas de cuidado conhecidas.</segment>
+    <segment id="34">A subvariante BA.2.86</segment>
+    <segment id="35">, por sua vez</segment>
+    <segment id="36">, surgiu de mutações da linhagem BA.2 da ômicron.</segment>
+    <segment id="37">Na última atualização</segment>
+    <segment id="38">, a OMS classificou-a</segment>
+    <segment id="39">comocomo uma subvariante sob monitoramento.</segment>
+    <segment id="40">De acordo a organização</segment>
+    <segment id="41">, há apenas três sequências disponíveis e ela foi adicionada para monitoramento com base no grande número de mutações identificado.</segment>
+    <segment id="42">É correto chamar a EG.5 de Éris?</segment>
+    <segment id="43">Não.</segment>
+    <segment id="44">Infectologista e professor de Medicina na Unesp</segment>
+    <segment id="45">, Alexandre Naime Barbosa explicou que o apelido não tem reconhecimento oficial e pode incentivar o pânico.</segment>
+    <segment id="46">Na mitologia grega</segment>
+    <segment id="47">, Éris é a deusa que personifica a discórdia e o caos.</segment>
+    <segment id="48">Caso essa subvariante ou a BA.2.86 realmente tenha mudanças muito significativas</segment>
+    <segment id="49">, ela será rebatizada</segment>
+    <segment id="50">, o novo nome será divulgado pela OMS e será uma letra do alfabeto grego.</segment>
+    <segment id="51">As subvariantes EG.5 e BA.2.86 foram detectadas em quais países?</segment>
+    <segment id="52">Até 9 de agosto</segment>
+    <segment id="53">, a EG.5 era encontrada em 51 países</segment>
+    <segment id="54">, entre os quais China</segment>
+    <segment id="55">, Estados Unidos</segment>
+    <segment id="56">, Japão</segment>
+    <segment id="57">, Coreia do Sul</segment>
+    <segment id="58">, Canadá</segment>
+    <segment id="59">, Austrália</segment>
+    <segment id="60">, Singapura</segment>
+    <segment id="61">, Reino Unido</segment>
+    <segment id="62">, França</segment>
+    <segment id="63">, Portugal e Espanha.</segment>
+    <segment id="64">No Brasil</segment>
+    <segment id="65">, o primeiro</segment>
+    <segment id="66">casocaso da EG.5 foi notificado ao Ministério da Saúde na noite desta quinta (17).</segment>
+    <segment id="67">A BA.2.86 foi identificada por autoridades sanitárias nos Estados Unidos</segment>
+    <segment id="68">, Reino Unido</segment>
+    <segment id="69">, Israel e Dinamarca.</segment>
+    <segment id="70">O Brasil corre risco de ter uma nova onda de Covid?</segment>
+    <segment id="71">Até o momento</segment>
+    <segment id="72">, não houve variação significativa no número de casos ou óbitos registrados no país</segment>
+    <segment id="73">, conforme os dados do Ministério da Saúde.</segment>
+    <segment id="74">No estado de São Paulo</segment>
+    <segment id="75">, informações da Fundação Seade também não indicam aumento expressivo.</segment>
+    <segment id="76">Quanto à procura por testes</segment>
+    <segment id="77">, o Grupo Fleury</segment>
+    <segment id="78">, por exemplo</segment>
+    <segment id="79">, disse que a taxa de exames para Covid nos laboratórios da rede na capital paulista permanece com a mesma média das últimas semanas</segment>
+    <segment id="80">, 200 por dia.</segment>
+    <segment id="81">A taxa de resultados positivos também não</segment>
+    <segment id="82">sese alterou e segue em 3%</segment>
+    <segment id="83">, de acordo com o infectologista Celso Granato</segment>
+    <segment id="84">, assessor médico da empresa.</segment>
+    <segment id="85">"</segment>
+    <segment id="86">Em alguns momentos da pandemia chegamos a fazer 12 mil testes por dia.</segment>
+    <segment id="87">Já tivemos positividade de 60%"</segment>
+    <segment id="88">, comparou.</segment>
+    <segment id="89">Ele não descartou</segment>
+    <segment id="90">, porém</segment>
+    <segment id="91">porém, a possibilidade de aumento na procura por testes nos próximos dias</segment>
+    <segment id="92">, incentivada pela divulgação da chegada da subvariante EG.5 ao país ou por mudanças no padrão de casos da doença.</segment>
+    <segment id="93">Quando devo fazer o teste de Covid?</segment>
+    <segment id="94">Em nota</segment>
+    <segment id="95">, a SBI recomendou a realização do teste</segment>
+    <segment id="96">casocaso surjam sintomas de síndrome gripal.</segment>
+    <segment id="97">O infectologista Celso Granato também reforçou a importância da medida.</segment>
+    <segment id="98">"</segment>
+    <segment id="99">No começo</segment>
+    <segment id="100">, os sintomas da Covid parecem com o do resfriado comum</segment>
+    <segment id="101">, masmas o prognóstico é diferente e as orientações mudam.</segment>
+    <segment id="102">"</segment>
+    <segment id="103">Além do isolamento</segment>
+    <segment id="104">casocaso o exame dê positivo</segment>
+    <segment id="105">, alguns pacientes</segment>
+    <segment id="106">, como</segment>
+    <segment id="107">como idosos</segment>
+    <segment id="108">, podem precisar de tratamento para evitar a evolução para formas graves da doença.</segment>
+    <segment id="109">De acordo com o Ministério da Saúde</segment>
+    <segment id="110">, o antiviral nirmatrelvir/ritonavir está disponível em toda a rede do SUS para ser utilizado no tratamento da infecção pelo vírus logo que os sintomas aparecerem e houver confirmação de teste positivo.</segment>
+    <segment id="111">Para testes rápidos</segment>
+    <segment id="112">, explicou Granato</segment>
+    <segment id="113">, é necessário aguardar cinco dias do início dos sintomas.</segment>
+    <segment id="114">Já para aqueles realizados em laboratório</segment>
+    <segment id="115">, por serem mais sensíveis</segment>
+    <segment id="116">, é possível apontar o vírus a partir do terceiro dia.</segment>
+    <segment id="117">Preciso usar máscara?</segment>
+    <segment id="118">O uso de máscaras é recomendado para pacientes imunossuprimidos e em extremos de idade durante a permanência em locais fechados</segment>
+    <segment id="119">, com baixa ventilação e aglomeração.</segment>
+    <segment id="120">Pessoas fora dos grupos de risco</segment>
+    <segment id="121">, masmas com sintomas gripais</segment>
+    <segment id="122">, também têm o uso recomendado.</segment>
+    <segment id="123">Vacinação contra Covid no país começou em janeiro de 2021Mais    novamente         de   de  de  representando um  Qual a melhor forma de me proteger?</segment>
+    <segment id="124">Com a vacina.</segment>
+    <segment id="125">É preciso manter o calendário vacinal para Covid atualizado com as doses de reforço recomendadas.</segment>
+    <segment id="126">"</segment>
+    <segment id="127">A vacina é a nossa melhor forma de proteção</segment>
+    <segment id="128">, então neste momento aquelas pessoas que estão há mais de um ano sem receber uma dose de vacina</segment>
+    <segment id="129">, que estão principalmente em grupos prioritários</segment>
+    <segment id="130">, devem procurar a unidade de saúde mais próxima da sua casa e receber essa dose adicional"</segment>
+    <segment id="131">, disse Ethel Maciel</segment>
+    <segment id="132">, secretária de Vigilância em Saúde e Ambiente</segment>
+    <segment id="133">, em pronunciamento divulgado pelo Ministério da Saúde.</segment>
+    <segment id="134">A vacina protege contra as novas subvariantes?  "</segment>
+    <segment id="135">No momento</segment>
+    <segment id="136">, ainda não há evidências de que a EG.5 ou BA.6 [BA.2.86] escapem à imunização ou impactem em casos graves.</segment>
+    <segment id="137">As orientações seguem as mesmas.</segment>
+    <segment id="138">A vacina é ainda a melhor forma de proteção"</segment>
+    <segment id="139">, escreveu a ministra da Saúde</segment>
+    <segment id="140">, Nísia Trindade</segment>
+    <segment id="141">, em seu perfil no Twitter.</segment>
+    <segment id="142">Em nota enviada à Folha</segment>
+    <segment id="143">, a Pfizer afirmou que a vacina ComiRNAty bivalente e demais formulações das vacinas atualmente disponibilizadas permanecem capazes de gerar anticorpos contra as cepas de maior circulação no país.</segment>
+  </rst>
+</analysis>

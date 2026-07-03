@@ -1,0 +1,38 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Vencedor da semana: o novo ministro da Justiça</segment>
+    <segment id="2">, Ricardo Lewandowski</segment>
+    <segment id="3">, que deve</segment>
+    <segment id="4">sese tornar o principal conselheiro jurídico de Lula</segment>
+    <segment id="5">, além de receber</segment>
+    <segment id="6">comocomo missão formular estratégias de combate à criminalidade.</segment>
+    <segment id="7">Perdedor da semana: o ministro da Secretaria-Geral da Presidência</segment>
+    <segment id="8">, Márcio Macêdo</segment>
+    <segment id="9">, na corda bamba após assessores terem viajado com dinheiro público para uma micareta em Aracaju (SE).</segment>
+    <segment id="10">Fique de olho: Dino e Lewandowski iniciam transição na Justiça</segment>
+    <segment id="11">; Pacheco e Haddad tentam acordo por MP da reoneração da folha de pagamentos</segment>
+    <segment id="12">; PT deve definir filiação de Marta.</segment>
+  </rst>
+</analysis>

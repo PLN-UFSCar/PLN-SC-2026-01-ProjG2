@@ -1,0 +1,84 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Há semanas</segment>
+    <segment id="2">, comentei de passagem que já nem me lembrava de quando havia recebido uma carta pela última vez.</segment>
+    <segment id="3">Carta, mesmo</segment>
+    <segment id="4">, daquelas de correio</segment>
+    <segment id="5">, com selo e carimbo</segment>
+    <segment id="6">, de alguém mandando notícias.</segment>
+    <segment id="7">Não era uma queixa</segment>
+    <segment id="8">, masmas uma constatação —a falta renitente de alguma coisa incomoda a princípio</segment>
+    <segment id="9">, masmas aos poucos nos tornamos insensíveis.</segment>
+    <segment id="10">Por isso</segment>
+    <segment id="11">, foi uma surpresa</segment>
+    <segment id="12">, outro dia</segment>
+    <segment id="13">, ao receber um envelope vindo de Belo Horizonte</segment>
+    <segment id="14">, remetido por Flora Augusto Teixeira.</segment>
+    <segment id="15">Em uma folha escrita a mão</segment>
+    <segment id="16">, dizia nas primeiras linhas.</segment>
+    <segment id="17">"Prezado Ruy Castro.</segment>
+    <segment id="18">Havia pensado em lhe escrever há tempos e</segment>
+    <segment id="19">, hoje</segment>
+    <segment id="20">, ao ler sua crônica na Folha e perceber que você não mais recebe cartas</segment>
+    <segment id="21">, resolvi enviar-lhe esta.</segment>
+    <segment id="22">Minha irmã viajava muito e me trazia lindos papéis de carta.</segment>
+    <segment id="23">Do alto de meus 88 anos</segment>
+    <segment id="24">, tenho que usá-los</segment>
+    <segment id="25">, não é mesmo?</segment>
+    <segment id="26">"</segment>
+    <segment id="27">E seguia-</segment>
+    <segment id="28">sese uma breve e invejável descrição de suas andanças em jovem pelo Rio e pelos EUA</segment>
+    <segment id="29">, na plateia dos grandes musicais</segment>
+    <segment id="30">, como</segment>
+    <segment id="31">como o "Orfeu da Conceição"</segment>
+    <segment id="32">, de Tom e Vinicius</segment>
+    <segment id="33">, no Teatro Municipal</segment>
+    <segment id="34">, em 1956.</segment>
+    <segment id="35">Mas bastariam as frases iniciais para me desmontar.</segment>
+    <segment id="36">Outra leitora</segment>
+    <segment id="37">, a professora Vânia Lomônaco Bastos</segment>
+    <segment id="38">, de Brasília</segment>
+    <segment id="39">, de 86 anos</segment>
+    <segment id="40">, enviou-me uma pequena e preciosa coleção da revista Careta</segment>
+    <segment id="41">, de 1922</segment>
+    <segment id="42">, que havia pertencido a seu pai.</segment>
+    <segment id="43">E a escritora Lucia Helena Flavio Castelo Branco</segment>
+    <segment id="44">, de Campinas</segment>
+    <segment id="45">, me presenteou com os livros para jovens que encantaram sua infância e</segment>
+    <segment id="46">, imagino</segment>
+    <segment id="47">, também a de sua mãe.</segment>
+    <segment id="48">A delicadeza e a graça daquelas edições nos dizem muito sobre as crianças no Brasil dos anos 40.</segment>
+    <segment id="49">E há muito que estou para agradecer a incrível gentileza de Maria Claudia Ribeiro</segment>
+    <segment id="50">, de São Paulo</segment>
+    <segment id="51">, que, ao ler uma coluna em que eu falava de minha admiração por Mandrake</segment>
+    <segment id="52">, o Mágico</segment>
+    <segment id="53">, presenteou-me com 44 números da revista em edições dos anos 50</segment>
+    <segment id="54">, alguns dos quais eu conhecia da época e que</segment>
+    <segment id="55">sese perderam no tempo enquanto eu me perdia pela vida.</segment>
+    <segment id="56">Não deviam fazer isso comigo.</segment>
+    <segment id="57">Livros infantis dos anos 1940</segment>
+    <segment id="58">, números originais da revista Mandrake e uma carta de leitora para o colunista - Heloisa Seixas</segment>
+  </rst>
+</analysis>

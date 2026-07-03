@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Uma motorista de van escolar</segment>
+    <segment id="2">, de 49 anos</segment>
+    <segment id="3">, foi assassinada na manhã desta quinta-feira (8) em São Paulo.</segment>
+    <segment id="4">De acordo com as informações da Polícia Militar</segment>
+    <segment id="5">, ela foi atingida com um tiro na cabeça quando saía para trabalhar.</segment>
+    <segment id="6">O crime ocorreu por volta das 5h50</segment>
+    <segment id="7">, na avenida José de Brito de Freitas</segment>
+    <segment id="8">, na Casa Verde</segment>
+    <segment id="9">, zona norte da capital paulista.</segment>
+    <segment id="10">Ninguém foi preso até o momento.</segment>
+    <segment id="11">Local onde a mulher foi assassinada - Reprodução/TV GloboA condutora foi atingida pelo disparo no estacionamento em que guardava a van</segment>
+    <segment id="12">, logo após entrar para pegar o veículo e iniciar o dia de trabalho.</segment>
+    <segment id="13">Segundo a polícia</segment>
+    <segment id="14">, não havia ninguém no local e ela tinha a chave do estabelecimento.</segment>
+    <segment id="15">Um vizinho acordou com o disparo e acionou a PM e o Samu (Serviço de Atendimento Móvel de Urgência).</segment>
+    <segment id="16">O socorro chegou e constatou a morte da condutora ainda no estacionamento.</segment>
+    <segment id="17">Segunda a PM</segment>
+    <segment id="18">, nenhum pertence da vítima foi levado.</segment>
+    <segment id="19">A área está preservada para o trabalho da perícia e a polícia procura por imagens de segurança na região que possam auxiliar no esclarecimento da autoria do crime.</segment>
+    <segment id="20">A SSP (Secretaria da Segurança Pública) afirmou que o registro da ocorrência está em andamento no 13º DP (Casa Verde).</segment>
+  </rst>
+</analysis>

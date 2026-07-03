@@ -1,0 +1,49 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Taxista morre soterrado em Minas Gerais</segment>
+    <segment id="2">SÃO PAULO E BELO HORIZONTE - Sobe para cinco o número de mortes ocorridas devido às chuvas que castigam Minas Gerais.</segment>
+    <segment id="3">O número de municípios mineiros que decretaram situação de emergência aumentou de 46 para 52.</segment>
+    <segment id="4">Na madrugada desta terça-feira</segment>
+    <segment id="5">, um taxista que dormia no interior de seu veículo</segment>
+    <segment id="6">, estacionado próximo à rodoviária de Ouro Preto</segment>
+    <segment id="7">, foi soterrado pela terra de um barranco que desmoronou devido à força da água.</segment>
+    <segment id="8">O corpo já foi resgatado</segment>
+    <segment id="9">, masmas o nome dele não foi divulgado.</segment>
+    <segment id="10">Pessoas que estavam próximas ao local do acidente afirmam que um segundo táxi também foi encoberto pela terra</segment>
+    <segment id="11">, com o motorista dentro.</segment>
+    <segment id="12">Homens do Corpo de Bombeiros estão tentando localizá-lo.</segment>
+    <segment id="13">Os técnicos da Defesa Civil estão inspecionando o terreno e os imóveis próximos</segment>
+    <segment id="14">, verificando o risco de mais deslizamentos e a situação das construções.</segment>
+    <segment id="15">Uma outra idosa segue desaparecida em Santo Antônio do Rio Abaixo.</segment>
+    <segment id="16">Rita Vieira de Souza</segment>
+    <segment id="17">, de 74 anos</segment>
+    <segment id="18">, teria sido arrastada pelas águas do córrego dos Bambus</segment>
+    <segment id="19">, que transbordou no último dia 30.</segment>
+    <segment id="20">Desde o início deste período de chuvas</segment>
+    <segment id="21">, cinco pessoas morreram em todo o estado.</segment>
+    <segment id="22">Segundo balanço da Defesa Civil</segment>
+    <segment id="23">, há 9.365 pessoas desalojadas e 404 desabrigadas.</segment>
+  </rst>
+</analysis>

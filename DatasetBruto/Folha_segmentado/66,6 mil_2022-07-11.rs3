@@ -1,0 +1,100 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Em um cenário de juros e inflação rodando em níveis elevados no país</segment>
+    <segment id="2">, e com uma atividade econômica com dificuldades para engatar</segment>
+    <segment id="3">, as pessoas com as contas em atraso têm alcançado patamares recordes.</segment>
+    <segment id="4">Dados do Indicador Serasa Experian de Inadimplência do Consumidor divulgados nesta segunda-feira (11) mostram que o Brasil bateu o recorde com 66</segment>
+    <segment id="5">,6 milhões de inadimplentes em maio</segment>
+    <segment id="6">, o maior número desde o início da série histórica</segment>
+    <segment id="7">, em 2016.</segment>
+    <segment id="8">Ainda segundo os dados da Serasa</segment>
+    <segment id="9">, na comparação com maio de 2021</segment>
+    <segment id="10">, houve um acréscimo de 4 milhões de nomes negativados.</segment>
+    <segment id="11">Dados da Serasa Experian indicam que país alcançou recorde de 66</segment>
+    <segment id="12">,6 milhões de inadimplentes em maio - Gabriel Cabral - 17.set.2021/FolhapressNo balanço de resultados referente ao primeiro trimestre do ano</segment>
+    <segment id="13">, os grandes bancos já haviam sido unânimes em sinalizar que um aumento da inadimplência dos clientes era esperado para o restante do ano.</segment>
+    <segment id="14">Entre os principais fatores que mais têm contribuído para o quadro</segment>
+    <segment id="15">, está a persistente pressão inflacionária.</segment>
+    <segment id="16">Puxado por preços mais altos da alimentação fora de casa e dos planos de saúde</segment>
+    <segment id="17">, o índice oficial de inflação do país subiu 0</segment>
+    <segment id="18">,67% em junho.</segment>
+    <segment id="19">O resultado mostra uma aceleração do IPCA (Índice Nacional de Preços ao Consumidor Amplo)</segment>
+    <segment id="20">, já que</segment>
+    <segment id="21">, em maio</segment>
+    <segment id="22">, o avanço havia sido menos intenso (0</segment>
+    <segment id="23">,47%).</segment>
+    <segment id="24">A variação de 0</segment>
+    <segment id="25">,67% é a maior para junho desde 2018.</segment>
+    <segment id="26">À época</segment>
+    <segment id="27">, o índice havia subido 1</segment>
+    <segment id="28">,26%, após os impactos econômicos da greve dos caminhoneiros.</segment>
+    <segment id="29">Para combater a alta dos preços</segment>
+    <segment id="30">, o BC (Banco Central) tem promovido desde o início do ano passado uma série de aumentos na taxa básica de juros</segment>
+    <segment id="31">, a Selic</segment>
+    <segment id="32">, que saiu da mínima histórica de 2% ao ano para os atuais 13</segment>
+    <segment id="33">,25%.</segment>
+    <segment id="34">O aumento do custo do dinheiro</segment>
+    <segment id="35">, por sua vez</segment>
+    <segment id="36">, traz uma pressão adicional para a renda das famílias</segment>
+    <segment id="37">, que têm de conviver ainda com uma taxa de desemprego próxima dos dois dígitos.</segment>
+    <segment id="38">Segundo o economista da Serasa Experian</segment>
+    <segment id="39">, Luiz Rabi</segment>
+    <segment id="40">, apesar do aumento da inadimplência ser esperado</segment>
+    <segment id="41">, é possível melhorar a situação.</segment>
+    <segment id="42">"</segment>
+    <segment id="43">Os consumidores precisam continuar</segment>
+    <segment id="44">sese organizando financeiramente e utilizando ferramentas disponíveis</segment>
+    <segment id="45">, como</segment>
+    <segment id="46">como o saque do FGTS</segment>
+    <segment id="47">, para tentar tirar o nome do vermelho.</segment>
+    <segment id="48">"</segment>
+    <segment id="49">Bancos e cartões lideram volume de dívidas negativadas</segment>
+    <segment id="50">A análise setorial da Serasa registrou ainda que o maior volume de dívidas negativadas está no segmento de bancos e cartões</segment>
+    <segment id="51">, com 28</segment>
+    <segment id="52">,2% do total.</segment>
+    <segment id="53">Em seguida estão as contas básicas</segment>
+    <segment id="54">comocomo água</segment>
+    <segment id="55">, luz e gás</segment>
+    <segment id="56">, agrupadas na área de "utilities"</segment>
+    <segment id="57">, com 22</segment>
+    <segment id="58">,7%.</segment>
+    <segment id="59">Em terceiro lugar</segment>
+    <segment id="60">, ficam os setores de varejo e financeiras</segment>
+    <segment id="61">, com 12</segment>
+    <segment id="62">,5% cada um.</segment>
+    <segment id="63">Na quebra regional entre os Estados brasileiros</segment>
+    <segment id="64">, São Paulo concentra o maior número de inadimplentes (15</segment>
+    <segment id="65">,6 milhões)</segment>
+    <segment id="66">, seguido pelo Rio de Janeiro (6</segment>
+    <segment id="67">,7 milhões)</segment>
+    <segment id="68">, Minas Gerais (6</segment>
+    <segment id="69">,3 milhões)</segment>
+    <segment id="70">, Bahia (4</segment>
+    <segment id="71">,1 milhões) e Paraná (3</segment>
+    <segment id="72">,5 milhões).</segment>
+    <segment id="73">Sem capacidade de pagar aluguel</segment>
+    <segment id="74">, famílias perdem teto na pandemiaMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

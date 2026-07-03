@@ -1,0 +1,101 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente Jair Bolsonaro (sem partido) ironizou a suspensão das prévias do PSDB entre os governadores João Doria (SP) e Eduardo Leite (RS)</segment>
+    <segment id="2">, além de Arthur Virgílio</segment>
+    <segment id="3">, ex-prefeito de Manaus (AM)</segment>
+    <segment id="4">, causada por falhas do aplicativo de votação destinado aos filiados e vereadores tucanos.</segment>
+    <segment id="5">"</segment>
+    <segment id="6">Viu a confusão ontem?</segment>
+    <segment id="7">Não vou falar nisso</segment>
+    <segment id="8">porque</segment>
+    <segment id="9">porque não tenho nada a ver com outro partido</segment>
+    <segment id="10">, masmas deu uma confusão em São Paulo ontem.</segment>
+    <segment id="11">É o tal do voto eletrônico</segment>
+    <segment id="12">, aí", disse o presidente a apoiadores nesta segunda-feira (22)</segment>
+    <segment id="13">, em frente ao Palácio da Alvorada.</segment>
+    <segment id="14">O PSDB ainda não determinou quando a votação será retomada —há impasse entre os concorrentes sobre a definição de uma nova data.</segment>
+    <segment id="15">Depois de os três candidatos das prévias afirmarem que desejam concluir nesta semana a votação</segment>
+    <segment id="16">, as empresas de tecnologia envolvidas no processo trabalham para cumprir essa meta.</segment>
+    <segment id="17">A ideia seria abrir um dia de votação para os tucanos com mandato e um ou mais dias para os tucanos filiados.</segment>
+    <segment id="18">A decisão final</segment>
+    <segment id="19">, porém</segment>
+    <segment id="20">porém, deve ser tomada após novas reuniões com representantes dos candidatos.</segment>
+    <segment id="21">Governador do Rio Grande do Sul</segment>
+    <segment id="22">, Eduardo Leite</segment>
+    <segment id="23">, cumprimenta governador de São Paulo</segment>
+    <segment id="24">, João Doria</segment>
+    <segment id="25">, em centro de convenção em Brasília - Reuters/Ueslei MarcelinoBolsonaro não mencionou o PSDB ou o nome dos candidatos ao ironizar a "confusão".</segment>
+    <segment id="26">O presidente estava ao lado do jogador de vôlei Maurício Souza</segment>
+    <segment id="27">, demitido do Minas Tênis Clube após publicar mensagens homofóbicas em seus perfis nas redes sociais.</segment>
+    <segment id="28">A votação do PSDB ocorreria das 7h às 15h de domingo (21)</segment>
+    <segment id="29">, foi ampliada até as 18h e terminou suspensa.</segment>
+    <segment id="30">A avaliação geral é de que as dificuldades no aplicativo prejudicaram a imagem do PSDB —as prévias</segment>
+    <segment id="31">, antes uma iniciativa inovadora</segment>
+    <segment id="32">, sese tornaram um vexame colocado na conta da direção nacional</segment>
+    <segment id="33">, que bancou a ferramenta.</segment>
+    <segment id="34">O aplicativo custou mais de R$ 2 milhões ao PSDB</segment>
+    <segment id="35">, masmas os gastos das prévias são maiores</segment>
+    <segment id="36">, chegando a R$ 9 milhões —incluem a realização de evento em Brasília</segment>
+    <segment id="37">, neste domingo</segment>
+    <segment id="38">, e a verba para cada campanha</segment>
+    <segment id="39">, que foi de mais de R$ 1 milhão.</segment>
+    <segment id="40">Há ainda as passagens e hospedagens</segment>
+    <segment id="41">para que</segment>
+    <segment id="42">para que prefeitos de todo o Brasil fossem à capital federal.</segment>
+    <segment id="43">O presidente Jair Bolsonaro e o jogador de vôlei Maurício Souza nesta segunda em frente ao Palácio da Alvorada   - Reprodução/Foco do Brasil Bolsonaro chegou a promover atos de raiz golpista no feriado de Sete de Setembro para defender</segment>
+    <segment id="44">, entre outras pautas</segment>
+    <segment id="45">, a adoção do voto impresso.</segment>
+    <segment id="46">Mas o presidente modulou o discurso e passou a afirmar aos apoiadores que as eleições de 2022 são confiáveis</segment>
+    <segment id="47">, pois</segment>
+    <segment id="48">pois o TSE (Tribunal Superior Eleitoral) criou um grupo</segment>
+    <segment id="49">, que inclui as Forças Armadas</segment>
+    <segment id="50">, para fiscalizar o processo eleitoral.</segment>
+    <segment id="51">Na mesma fala aos apoiadores</segment>
+    <segment id="52">, Bolsonaro voltou a defender a candidatura do ministro da Infraestrutura</segment>
+    <segment id="53">, Tarcísio de Freitas</segment>
+    <segment id="54">, ao governo de São Paulo em 2022.</segment>
+    <segment id="55">Também elogiou o governador de Minas Gerais</segment>
+    <segment id="56">, Romeu Zema (Novo).</segment>
+    <segment id="57">Bolsonaro ainda criticou a proposta de adoção do semipresidencialismo</segment>
+    <segment id="58">, bandeira do presidente da Câmara</segment>
+    <segment id="59">, Arthur Lira (PP-AL).</segment>
+    <segment id="60">"Tem certas coisas que são tão idiotas que não dá nem para discutir"</segment>
+    <segment id="61">, disse o presidente.</segment>
+    <segment id="62">"</segment>
+    <segment id="63">Se for levar ao pé da letra o semipresidencialimo ou outro regime parecido</segment>
+    <segment id="64">, eu teria poder de dissolver o Congresso"</segment>
+    <segment id="65">, afirmou Bolsonaro.</segment>
+    <segment id="66">Prévias do PSDB à PresidênciaMais    novamente         de   de  de  representando um  URNAS ELETRÔNICAS</segment>
+    <segment id="67">O TSE (Tribunal Superior Eleitoral) iniciou nesta segunda-feira (22) um teste de segurança das urnas eletrônicas a fim de identificar possíveis vulnerabilidades do sistema de votação.</segment>
+    <segment id="68">Até a próxima sexta-feira (26)</segment>
+    <segment id="69">, 26 investigadores irão colocar em prática 29 planos de ataques para avaliar a segurança dos equipamentos.</segment>
+    <segment id="70">O presidente da corte</segment>
+    <segment id="71">, ministro Luís Roberto Barroso</segment>
+    <segment id="72">, classificou os participantes</segment>
+    <segment id="73">comocomo "hackers do bem" e disse que o objetivo é "aprimorar os sistemas mediante ataques de pessoas físicas".</segment>
+    <segment id="74">Urnas passam por teste em Brasília para identificar possíveis vulnerabilidades do sistema de votação- Evaristo</segment>
+    <segment id="75">Sa/AFP</segment>
+  </rst>
+</analysis>

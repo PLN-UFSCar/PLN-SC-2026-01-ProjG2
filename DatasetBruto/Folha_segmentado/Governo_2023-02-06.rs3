@@ -1,0 +1,119 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo do presidente Luiz Inácio Lula da Silva (PT) impôs sigilo sobre a íntegra das imagens dos atos de vandalismo registradas pelo sistema de câmeras do Palácio do Planalto</segment>
+    <segment id="2">, alegando riscos para a segurança das instalações presidenciais.</segment>
+    <segment id="3">No entanto divulgou oficialmente trechos editados dessas imagens que não permitem analisar a atuação e eventual omissão das forças de segurança no dia 8 de janeiro dentro do palácio</segment>
+    <segment id="4">, além de priorizar passagens que ligam a imagem dos ataques mais fortemente ao ex-presidente Jair Bolsonaro (PL).</segment>
+    <segment id="5">Manifestante golpista com a camiseta de Jair Bolsonaro vandaliza relógio trazido por Dom João 6º ao Brasil - ReproduçãoO governo</segment>
+    <segment id="6">Lula também chegou a impor sigilo na lista de convidados para a recepção no Itamaraty após a posse do petista</segment>
+    <segment id="7">, no dia 1º de janeiro.</segment>
+    <segment id="8">A medida</segment>
+    <segment id="9">, no entanto</segment>
+    <segment id="10">, gerou desgaste</segment>
+    <segment id="11">, e a lista</segment>
+    <segment id="12">, foi com mais de 3.500 nomes</segment>
+    <segment id="13">, foi posteriormente divulgada.</segment>
+    <segment id="14">O argumento original para a imposição do sigilo era que o evento tinha "caráter reservado" e que a divulgação poderia "prejudicar ou pôr em risco a condução de negociações ou as relações internacionais" do país.</segment>
+    <segment id="15">A principal razão para o desgaste é que Lula criticou em diferentes ocasiões o ex-presidente Jair Bolsonaro (PL) pela decretação de sigilo em informações do governo federal.</segment>
+    <segment id="16">Bolsonaristas invadem Esplanada dos MinistériosMais    novamente         de   de  de  representando um  A reportagem da Folha pediu via Lei de Acesso à Informação a íntegra das imagens registradas pelas câmeras de segurança internas e externas do sistema do Palácio do Planalto referentes ao domingo em que manifestantes golpistas vandalizaram os prédios dos Três Poderes.</segment>
+    <segment id="17">Além do Planalto</segment>
+    <segment id="18">, os apoiadores do ex-presidente Bolsonaro avançaram sobre as forças de segurança e invadiram o Congresso Nacional e o STF (Supremo Tribunal Federal).</segment>
+    <segment id="19">Ao negar acesso à íntegra das imagens</segment>
+    <segment id="20">, o GSI (Gabinete de Segurança Institucional)</segment>
+    <segment id="21">, comandado pelo general Gonçalves Dias</segment>
+    <segment id="22">, afirma não ser "razoável" por divulgar informações que exponham métodos</segment>
+    <segment id="23">, equipamentos</segment>
+    <segment id="24">, procedimentos operacionais e recursos humanos da segurança presidencial.</segment>
+    <segment id="25">"</segment>
+    <segment id="26">Dessa forma</segment>
+    <segment id="27">, presente pedido de informação não pode ser atendido</segment>
+    <segment id="28">, haja vista que as imagens do sistema de vídeo monitoramento do Palácio do Planalto são de acesso restrito</segment>
+    <segment id="29">, considerando que sua divulgação indiscriminada traz prejuízos e vulnerabilidades para a atividade de segurança das instalações presidenciais"</segment>
+    <segment id="30">, diz a resposta.</segment>
+    <segment id="31">Em outro trecho</segment>
+    <segment id="32">, afirma:</segment>
+    <segment id="33">"</segment>
+    <segment id="34">Caso seja facultado o acesso às informações solicitadas</segment>
+    <segment id="35">, a eficiência</segment>
+    <segment id="36">, como</segment>
+    <segment id="37">como princípio constitucional da administração pública</segment>
+    <segment id="38">, e o interesse público de prevenir ações adversas contra as autoridades protegidas pelo GSI/PR ficam desamparados".</segment>
+    <segment id="39">O gabinete ainda acrescenta que as imagens solicitadas já estão sendo utilizadas no âmbito de processo investigatório para a elucidação dos eventos do dia 8 de janeiro.</segment>
+    <segment id="40">Cópias dos vídeos foram encaminhadas para o Exército e para a PF (Polícia Federal)</segment>
+    <segment id="41">, que apuram o episódio.</segment>
+    <segment id="42">Como mostrou a Folha</segment>
+    <segment id="43">, policiais utilizam uma mistura de inteligência artificial e trabalho manual para identificar os criminosos.</segment>
+    <segment id="44">No Planalto</segment>
+    <segment id="45">, foram coletadas imagens de 22 câmeras do sistema de TV interno.</segment>
+    <segment id="46">Esses terabytes de imagens são analisados pela inteligência artificial para servir na montagem da dinâmica do ocorrido e para identificar os envolvidos.</segment>
+    <segment id="47">O sistema identifica</segment>
+    <segment id="48">, quadro a quadro</segment>
+    <segment id="49">, todas as faces encontradas.</segment>
+    <segment id="50">Para isso</segment>
+    <segment id="51">, a inteligência desenvolvida pela PF demarca 512 pontos em cada uma das faces.</segment>
+    <segment id="52">Esses apontamentos são comparados com os rostos identificados pelo mesmo processo nas fotos dos presos tiradas na hora da detenção</segment>
+    <segment id="53">, em bancos de imagens do governo</segment>
+    <segment id="54">, vídeos extraídos de celulares e outros bancos da corporação.</segment>
+    <segment id="55">Na apuração da PF</segment>
+    <segment id="56">, as cenas de locais onde o estrago foi maior e algumas específicas</segment>
+    <segment id="57">, como</segment>
+    <segment id="58">como a quebra do relógio de dom João e da depredação do quadro de Di Cavalcanti</segment>
+    <segment id="59">, estão sendo priorizadas.</segment>
+    <segment id="60">Os trechos divulgados pelo governo focam especialmente os momentos de vandalismo e contribuíram para a identificação dos golpistas.</segment>
+    <segment id="61">Os recortes das imagens das câmeras de segurança foram inicialmente divulgados no dia 15 de janeiro pelo programa Fantástico</segment>
+    <segment id="62">, da TV Globo.</segment>
+    <segment id="63">Na sequência</segment>
+    <segment id="64">, todos os veículos de imprensa que requisitaram oficialmente os vídeos tiveram acesso ao mesmo conteúdo.</segment>
+    <segment id="65">Em uma das imagens de maior repercussão</segment>
+    <segment id="66">, um manifestante golpista usando uma camiseta com o rosto de Jair Bolsonaro estampado joga no chão o relógio histórico que foi trazido ao Brasil por dom João 6º.  Fontes que tiveram acesso a mais imagens das câmeras de segurança</segment>
+    <segment id="67">, no entanto</segment>
+    <segment id="68">, apontam que esse não foi o único manifestante a vandalizar o relógio.</segment>
+    <segment id="69">O item histórico chegou a ser recolocado no lugar</segment>
+    <segment id="70">, masmas depois uma nova turba o jogou no chão novamente.</segment>
+    <segment id="71">O governo</segment>
+    <segment id="72">, no entanto</segment>
+    <segment id="73">, preferiu divulgar apenas a imagem do homem com a camiseta do ex-presidente.</segment>
+    <segment id="74">Os trechos divulgados também mostram os manifestantes golpistas circulando livremente</segment>
+    <segment id="75">, avançando sobre diversas áreas do Palácio do Planalto</segment>
+    <segment id="76">, sem serem confrontados pelas forças de segurança.</segment>
+    <segment id="77">A maioria deles veste camisetas com as cores verde e amarela —alguns também aparecem nas imagens carregando bandeiras do Brasil.</segment>
+    <segment id="78">Os manifestantes chegam a ter tempo para recarregar os telefones celulares nas tomadas do palácio e fazem ligações e transmissões ao vivo.</segment>
+    <segment id="79">Em apenas um dos trechos divulgados</segment>
+    <segment id="80">, um agente das forças de segurança aparece por poucos segundos</segment>
+    <segment id="81">, do lado de fora do Planalto</segment>
+    <segment id="82">, tentando dialogar com um manifestante pela janela.</segment>
+    <segment id="83">Veja como</segment>
+    <segment id="84">como ficaram prédios do governo em BrasíliaMais    novamente         de   de  de  representando um</segment>
+    <segment id="85">O papel do Gabinete de Segurança Institucional durante a invasão do Planalto tornou-</segment>
+    <segment id="86">sese um ponto de grande discussão dada a facilidade encontrada pelos manifestantes</segment>
+    <segment id="87">, além de o órgão ter virado alvo de críticas internas.</segment>
+    <segment id="88">O GSI não preparou um esquema de segurança para os atos e há dúvidas sobre a atuação de seus agentes para tentar conter a invasão.</segment>
+    <segment id="89">A Folha questionou a Secretaria de Comunicação Social do governo por que apenas trechos editados foram divulgados e quais os critérios para selecionar quais trechos</segment>
+    <segment id="90">sese tornaram públicos.</segment>
+    <segment id="91">Também foi questionado por que apenas o trecho da destruição do relógio pelo manifestante com a camiseta de Bolsonaro foi divulgado</segment>
+    <segment id="92">, sendo que outras pessoas também vandalizaram o item histórico.</segment>
+    <segment id="93">O governo não respondeu os questionamentos específicos e apenas reenviou a resposta dada pelo GSI para negar o pedido via Lei de Acesso à Informação.</segment>
+  </rst>
+</analysis>

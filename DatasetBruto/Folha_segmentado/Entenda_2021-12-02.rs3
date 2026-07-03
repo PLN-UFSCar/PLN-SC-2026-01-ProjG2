@@ -1,0 +1,108 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Apesar de a economia brasileira ter registrado dois trimestres seguidos de retração</segment>
+    <segment id="2">, ainda não é possível ter certeza de que o país está em recessão.</segment>
+    <segment id="3">Entre os economistas</segment>
+    <segment id="4">, a avaliação é que a situação é de estagnação.</segment>
+    <segment id="5">Não há uma definição oficial sobre o que caracteriza uma recessão.</segment>
+    <segment id="6">Embora alguns economistas utilizem a métrica de que esse é o período marcado por dois trimestres seguidos de queda na atividade</segment>
+    <segment id="7">, a maior parte dos institutos considera uma análise mais ampla de dados.</segment>
+    <segment id="8">O termo "recessão técnica"</segment>
+    <segment id="9">, por exemplo</segment>
+    <segment id="10">, é considerado tecnicamente equivocado por muitos economistas</segment>
+    <segment id="11">, e a Folha recomenda</segment>
+    <segment id="12">, em seu manual</segment>
+    <segment id="13">, que não seja utilizado.</segment>
+    <segment id="14">No Brasil</segment>
+    <segment id="15">, destaca-</segment>
+    <segment id="16">sese a análise feita pelo Codace (Comitê de Datação de Ciclos Econômicos)</segment>
+    <segment id="17">, órgão ligado ao Ibre/FGV (Instituto Brasileiro de Economia da Fundação Getulio Vargas) e formado por oito economistas de diversas instituições.</segment>
+    <segment id="18">Para o comitê</segment>
+    <segment id="19">, o declínio na atividade econômica de forma disseminada entre diferentes setores econômicos é denominado recessão.</segment>
+    <segment id="20">Em junho do ano passado</segment>
+    <segment id="21">, o Codace definiu que o Brasil entrou em recessão no primeiro trimestre de 2020</segment>
+    <segment id="22">, encerrando um ciclo de fraco crescimento de três anos (2017-2019).</segment>
+    <segment id="23">Não houve novo comunicado sobre a questão depois disso.</segment>
+    <segment id="24">Saiba quais os principais componentes do PIB e</segment>
+    <segment id="25">comocomo ele é calculadoMais    novamente         de   de  de  representando um  Na opinião do economista Fernando Veloso</segment>
+    <segment id="26">, pesquisador do Ibre/FGV e membro do Codace</segment>
+    <segment id="27">, os dois trimestres consecutivos de PIB negativo e próximo de zero sugerem uma economia estagnada.</segment>
+    <segment id="28">"</segment>
+    <segment id="29">O resultado é</segment>
+    <segment id="30">, sem dúvida</segment>
+    <segment id="31">, bastante negativo.</segment>
+    <segment id="32">O PIB está próximo do patamar do final de 2019.</segment>
+    <segment id="33">É insuficiente diante de tudo que aconteceu depois</segment>
+    <segment id="34">, na pandemia"</segment>
+    <segment id="35">, analisa.</segment>
+    <segment id="36">A coordenadora de Contas Nacionais do IBGE</segment>
+    <segment id="37">, Rebeca Palis</segment>
+    <segment id="38">, afirmou nesta quinta-feira (2) que o instituto evita chamar variações de -0</segment>
+    <segment id="39">,5% a +0</segment>
+    <segment id="40">,5% do PIB de queda ou crescimento.</segment>
+    <segment id="41">"É uma variação pequena [a queda de 0</segment>
+    <segment id="42">,1% do terceiro trimestre] que para a gente é uma estabilidade.</segment>
+    <segment id="43">"  Ela disse que a definição de dois trimestres de queda do PIB</segment>
+    <segment id="44">comocomo recessão não faz muito sentido do ponto de vista estatístico</segment>
+    <segment id="45">, nem é um conceito utilizado em outros países.</segment>
+    <segment id="46">Afirmou ainda que é necessário analisar um conjunto maior de dados para fazer essa avaliação.</segment>
+    <segment id="47">Rafaela Vitoria</segment>
+    <segment id="48">, economista-chefe do Inter</segment>
+    <segment id="49">, afirma que o país vive uma situação de estagnação</segment>
+    <segment id="50">, e não de recessão</segment>
+    <segment id="51">, pois</segment>
+    <segment id="52">pois projeta um quadro de estabilidade no quarto trimestre e um crescimento de 0</segment>
+    <segment id="53">,5% em 2022.</segment>
+    <segment id="54">"</segment>
+    <segment id="55">A gente está estagnado desde 2019.</segment>
+    <segment id="56">Mesmo antes o crescimento era muito baixo"</segment>
+    <segment id="57">, diz a economista</segment>
+    <segment id="58">, sese referindo ao período pós-recessão de 2014-2016.</segment>
+    <segment id="59">O economista do Itaú Unibanco Luka Barbosa diz que prefere esperar uma definição do Codace sobre a questão</segment>
+    <segment id="60">, masmas afirmou que vê um quadro de recessão mais à frente.</segment>
+    <segment id="61">A instituição projeta queda de 0</segment>
+    <segment id="62">,5% do PIB para 2022.</segment>
+    <segment id="63">"</segment>
+    <segment id="64">A economia está crescendo muito pouco na margem</segment>
+    <segment id="65">, próxima de zero.</segment>
+    <segment id="66">A nossa visão</segment>
+    <segment id="67">, olhando mais para o futuro</segment>
+    <segment id="68">, é de uma leve recessão.</segment>
+    <segment id="69">Não acho fácil dizer que já está em recessão agora.</segment>
+    <segment id="70">O Codace é uma das instituições que vão olhar não só o PIB</segment>
+    <segment id="71">, masmas outros indicadores para definir isso.</segment>
+    <segment id="72">"</segment>
+    <segment id="73">O economista-chefe da consultoria MB Associados</segment>
+    <segment id="74">, Sergio Vale</segment>
+    <segment id="75">, também considera que o quadro atual do PIB está mais para estagnação do que para recessão.</segment>
+    <segment id="76">"</segment>
+    <segment id="77">Os números estão muito próximos de zero.</segment>
+    <segment id="78">A estagnação é nesse sentido.</segment>
+    <segment id="79">O que preocupa é o risco de irmos para uma situação ainda mais complicada</segment>
+    <segment id="80">, com um cenário inflacionário persistente</segment>
+    <segment id="81">, juros altos e riscos eleitorais no próximo ano.</segment>
+    <segment id="82">"</segment>
+  </rst>
+</analysis>

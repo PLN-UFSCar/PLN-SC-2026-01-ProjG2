@@ -1,0 +1,123 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O PL, partido do presidente Jair Bolsonaro</segment>
+    <segment id="2">, pagou ao menos R$ 225 mil ao IVL (Instituto Voto Legal)</segment>
+    <segment id="3">, que produziu o relatório divulgado nesta quarta-feira (28) que questiona a segurança das urnas eletrônicas.</segment>
+    <segment id="4">O IVL foi contratado para representar a legenda na análise do pleito.</segment>
+    <segment id="5">Para elaborar o documento —posteriormente chamado de mentiroso pelo TSE (Tribunal Superior Eleitoral)—</segment>
+    <segment id="6">, a entidade inclusive buscou subsídios junto a um órgão ligado à Presidência da República.</segment>
+    <segment id="7">Um relatório resumido com as conclusões do instituto foi divulgado nesta quarta.</segment>
+    <segment id="8">O papel questiona a confiabilidade do sistema eletrônico de votação.</segment>
+    <segment id="9">Logo depois</segment>
+    <segment id="10">, o TSE disse que as afirmações do partido são falsas</segment>
+    <segment id="11">, mentirosas</segment>
+    <segment id="12">, fraudulentas e visam tumultuar as eleições.</segment>
+    <segment id="13">O pagamento à entidade consta no balanço financeiro do PL enviado ao TSE</segment>
+    <segment id="14">, segundo registros de uma conta bancária identificada</segment>
+    <segment id="15">comocomo "outros recursos".</segment>
+    <segment id="16">As informações são ainda parciais e englobam o período entre janeiro e julho deste ano.</segment>
+    <segment id="17">A transferência eletrônica ocorreu no dia 29 de julho.</segment>
+    <segment id="18">Na mesma conta aparecem registradas</segment>
+    <segment id="19">, por exemplo</segment>
+    <segment id="20">, doações de empresários feitas ao partido comandado por Valdemar Costa Neto.</segment>
+    <segment id="21">O corregedor-geral do TSE</segment>
+    <segment id="22">, Benedito Gonçalves</segment>
+    <segment id="23">, deu 24 horas</segment>
+    <segment id="24">, a partir desta quinta (29)</segment>
+    <segment id="25">, para o PL informar</segment>
+    <segment id="26">sese usou recursos públicos</segment>
+    <segment id="27">, como</segment>
+    <segment id="28">como do fundo eleitoral ou partidário</segment>
+    <segment id="29">, na elaboração do documento.</segment>
+    <segment id="30">À Folha o presidente do IVL</segment>
+    <segment id="31">, Carlos Rocha</segment>
+    <segment id="32">, afirmou que não comentaria a relação contratual mantida com o PL.</segment>
+    <segment id="33">"</segment>
+    <segment id="34">Não vou entrar nesse campo"</segment>
+    <segment id="35">, disse o engenheiro.</segment>
+    <segment id="36">O partido informou</segment>
+    <segment id="37">, por meio de sua assessoria de imprensa</segment>
+    <segment id="38">, que também não</segment>
+    <segment id="39">sese manifestaria sobre o assunto.  Jair Bolsonaro</segment>
+    <segment id="40">, candidato à reeleição pelo PL- Gabriela Biló/Folhapres</segment>
+    <segment id="41">No começo de maio</segment>
+    <segment id="42">, Bolsonaro anunciou</segment>
+    <segment id="43">, em tom de ameaça</segment>
+    <segment id="44">, que uma auditoria seria contratada e sugeriu que os resultados da análise poderiam complicar o TSE</segment>
+    <segment id="45">, caso</segment>
+    <segment id="46">caso a empresa constatasse que é "impossível auditar o processo".</segment>
+    <segment id="47">O presidente encabeça uma cruzada contra o TSE e o sistema eletrônico de votação e tem feito repetidas insinuações golpistas sobre as eleições.</segment>
+    <segment id="48">Após ser contratado pelo partido de Bolsonaro</segment>
+    <segment id="49">, representantes do IVL realizaram uma série de reuniões em diferentes órgãos</segment>
+    <segment id="50">, inclusive com técnicos do governo federal.</segment>
+    <segment id="51">Eles se</segment>
+    <segment id="52">se encontraram com diretores do ITI (Instituto Nacional de Tecnologia da Informação)</segment>
+    <segment id="53">, órgão vinculado à Casa Civil e que mantém acordo de cooperação técnica com o TSE.</segment>
+    <segment id="54">Uma reunião ocorreu no dia 4 de agosto</segment>
+    <segment id="55">, segundo a agenda do diretor-presidente do ITI</segment>
+    <segment id="56">, Carlos Fortner.</segment>
+    <segment id="57">FolhaJus+Receba no seu email as notícias sobre o cenário jurídico e conteúdos exclusivos: análise</segment>
+    <segment id="58">, dicas e eventos</segment>
+    <segment id="59">; exclusiva para assinantes.</segment>
+    <segment id="60">Carregando...</segment>
+    <segment id="61">Entre as missões do ITI está a coordenação do funcionamento da ICP-Brasil (uma ferramenta que viabiliza a emissão de certificados digitais para identificação virtual dos cidadãos).</segment>
+    <segment id="62">Um trecho do documento divulgado pelo PL faz menção ao ICP-Brasil.</segment>
+    <segment id="63">Diz o papel: "</segment>
+    <segment id="64">Sem a assinatura eletrônica qualificada</segment>
+    <segment id="65">, com um certificado digital da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil)</segment>
+    <segment id="66">, os documentos gerados pela urna eletrônica</segment>
+    <segment id="67">, incluindo a zerésima</segment>
+    <segment id="68">, o registro do voto e o boletim de urna</segment>
+    <segment id="69">, não têm garantia da presunção legal de que o seu conteúdo é legítimo e verdadeiro</segment>
+    <segment id="70">, definida em lei".</segment>
+    <segment id="71">Veja fotos das urnas eletrônicas</segment>
+    <segment id="72">, seu armazenamento e dispositivos de segurançaMais    novamente         de   de  de  representando um</segment>
+    <segment id="73">Em resposta a um pedido de informação feito pela Folha</segment>
+    <segment id="74">, o ITI informou que o objetivo do encontro ocorrido no início do mês passado com representantes do IVL foi "prestar esclarecimentos" acerca do acordo de cooperação técnica mantido entre o órgão federal e a corte eleitoral.</segment>
+    <segment id="75">O presidente do Instituto Voto Legal</segment>
+    <segment id="76">, por sua vez</segment>
+    <segment id="77">, disse que</segment>
+    <segment id="78">sese reuniu "duas ou três" vezes com representantes do ITI</segment>
+    <segment id="79">, além de encontros com técnicos do Tribunal de Contas da União e do TSE.</segment>
+    <segment id="80">O engenheiro afirmou ainda que o trabalho realizado pela entidade é "técnico e colaborativo com a organização auditada</segment>
+    <segment id="81">, qualquer que seja ela".</segment>
+    <segment id="82">Em nota</segment>
+    <segment id="83">, o TSE afirmou que "as conclusões do documento intitulado ‘resultados da auditoria de conformidade do PL no TSE’ são falsas e mentirosas</segment>
+    <segment id="84">, sem nenhum amparo na realidade</segment>
+    <segment id="85">, reunindo informações fraudulentas e atentatórias ao Estado democrático de Direito e ao Poder Judiciário</segment>
+    <segment id="86">, em especial à Justiça Eleitoral</segment>
+    <segment id="87">, em clara tentativa de embaraçar e tumultuar o curso natural do processo eleitoral".</segment>
+    <segment id="88">O presidente do tribunal</segment>
+    <segment id="89">, ministro Alexandre de Moraes</segment>
+    <segment id="90">, determinou ainda a remessa do documento ao inquérito das fake news</segment>
+    <segment id="91">, que tramita no Supremo Tribunal Federal e sob a relatoria do próprio magistrado</segment>
+    <segment id="92">, "para apuração de responsabilidade criminal de seus idealizadores.</segment>
+    <segment id="93">O caso</segment>
+    <segment id="94">caso também será enviado à Corregedoria-Geral Eleitoral</segment>
+    <segment id="95">, "para instauração de procedimento administrativo e apuração de responsabilidade do PL e seus dirigentes</segment>
+    <segment id="96">, em eventual desvio de finalidade na utilização de recursos do fundo partidário".</segment>
+    <segment id="97">O que Bolsonaro já disse sobre urnas e ameaças às eleições e ao TSEMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

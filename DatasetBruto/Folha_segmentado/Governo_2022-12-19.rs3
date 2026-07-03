@@ -1,0 +1,48 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O nome da economista Esther Dweck ganhou força nos últimos dias para assumir a nova pasta que será criada especificamente para gestão.</segment>
+    <segment id="2">Durante o governo Dilma Rousseff</segment>
+    <segment id="3">, entre 2011 e 2016</segment>
+    <segment id="4">, ela atuou no Ministério do Planejamento</segment>
+    <segment id="5">comocomo secretária de Orçamento Federal.</segment>
+    <segment id="6">Esther Dweck</segment>
+    <segment id="7">, professora do Instituto de Economia da UFRJ - DivulgaçãoO presidente eleito</segment>
+    <segment id="8">, Luiz Inácio Lula da Silva (PT)</segment>
+    <segment id="9">, deve definir nesta semana mais nomes para ministérios.</segment>
+    <segment id="10">O petista aguarda a tramitação da PEC no Congresso e também a finalização do julgamento envolvendo as emendas de relator no Supremo.</segment>
+    <segment id="11">Após pedido de vista</segment>
+    <segment id="12">, o STF (Supremo Tribunal Federal) suspendeu o julgamento</segment>
+    <segment id="13">, com cinco votos pela inconstitucionalidade das emendas de relator e quatro pela manutenção do mecanismo desde que sejam cumpridas uma série de regras.</segment>
+    <segment id="14">Apenas cinco nomes foram anunciados até o momento.</segment>
+    <segment id="15">Lula divulgou que seu governo terá 37 ministérios.</segment>
+    <segment id="16">A lista com o nome das pastas ainda não foi divulgada.</segment>
+    <segment id="17">Um ministério será criado para a pesca.</segment>
+    <segment id="18">Já a Economia ainda será fatiada em Fazenda</segment>
+    <segment id="19">, Indústria e Comércio</segment>
+    <segment id="20">, além de Planejamento e uma pasta específica para gestão.</segment>
+    <segment id="21">Durante as reuniões de transição</segment>
+    <segment id="22">, foi defendida a ideia de separar a gestão orçamentária e de pessoal (as atividades de curto prazo) da elaboração de projetos e políticas públicas com visão de longo prazo.</segment>
+  </rst>
+</analysis>

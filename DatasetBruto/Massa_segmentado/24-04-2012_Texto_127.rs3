@@ -1,0 +1,38 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O que é que é isso?</segment>
+    <segment id="2">?</segment>
+    <segment id="3">A atriz postou no Twitter uma foto na qual aparece irreconhecível
+Reconheceu a moça na foto?</segment>
+    <segment id="4">Não, não é a Chiquinha de “Chaves”</segment>
+    <segment id="5">, masmas sim a bela Giovanna Antonelli.</segment>
+    <segment id="6">A atriz postou no Twitter uma foto na qual aparece usando óculos fundo de garrafa e uma peruca bem estranha.</segment>
+    <segment id="7">A gata</segment>
+    <segment id="8">, que acabou de finalizar um trabalho na novela “</segment>
+    <segment id="9">Aquele beijo” fez suspense em sua página na rede social:</segment>
+    <segment id="10">“Aguardem”</segment>
+    <segment id="11">, escreveu.</segment>
+  </rst>
+</analysis>

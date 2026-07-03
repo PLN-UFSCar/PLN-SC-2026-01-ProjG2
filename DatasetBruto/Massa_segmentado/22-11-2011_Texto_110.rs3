@@ -1,0 +1,48 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Aumento de gastos poderá ser de R$ 7 bilhões com novo mínimo
+BRASÍLIA - A Comissão Mista de Orçamento (CMO) quer mais dados da área econômica sobre a expansão de gastos previdenciários em 2012</segment>
+    <segment id="2">, que aumentaram em cerca de R$ 7 bilhões</segment>
+    <segment id="3">, segundo as contas do governo apresentadas no documento enviado ao Congresso nesta segunda-feira pelo Ministério do Planejamento</segment>
+    <segment id="4">, com a atualização dos parâmetros econômicos para o ano que vem</segment>
+    <segment id="5">Os técnicos de orçamento da comissão fazem estimativas menores</segment>
+    <segment id="6">, indicando um aumento de gastos de R$ 3</segment>
+    <segment id="7">,5 bilhões com a atualização do salário mínimo para um patamar de R$ 622.</segment>
+    <segment id="8">O relator do Orçamento da União para 2012</segment>
+    <segment id="9">, deputado Arlindo Chinaglia (PT-SP)</segment>
+    <segment id="10">, pediu análise mais detalhada dos números.</segment>
+    <segment id="11">A preocupação é que caberá ao relator encontrar recursos para tapar o buraco</segment>
+    <segment id="12">, já que o governo enviou novos parâmetros</segment>
+    <segment id="13">, masmas não indicou a revisão de receitas para 2012.</segment>
+    <segment id="14">Com a atualização do INPC de 2011</segment>
+    <segment id="15">, de 5</segment>
+    <segment id="16">,7% para 6</segment>
+    <segment id="17">,%, o mínimo de R$ 545 terá um reajuste de 14</segment>
+    <segment id="18">,26%, ou R$ 77</segment>
+    <segment id="19">,73.</segment>
+    <segment id="20">O gasto será em torno de R$ 23</segment>
+    <segment id="21">,3 bilhões - cada real a mais representa um impacto de R$ 300 milhões nas contas públicas.</segment>
+  </rst>
+</analysis>

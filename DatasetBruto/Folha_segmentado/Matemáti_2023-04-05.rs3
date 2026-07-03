@@ -1,0 +1,121 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Sempre que mergulhava um cubo de gelo num copo d’água</segment>
+    <segment id="2">, eu notava a mesma coisa: ao derreter</segment>
+    <segment id="3">, não só o cubo mudava de tamanho (diminuía</segment>
+    <segment id="4">, é claro)</segment>
+    <segment id="5">, como</segment>
+    <segment id="6">como ficava mais arredondado.</segment>
+    <segment id="7">Suas arestas e quinas desapareciam.</segment>
+    <segment id="8">E era sempre assim: a fronteira entre o cubo de gelo e a água parecia cada vez mais suave.</segment>
+    <segment id="9">Entender o que</segment>
+    <segment id="10">sese passava em meus copos de água gelada demorou pelo menos 30 anos.</segment>
+    <segment id="11">Mas me dei conta de que uma percepção mais acurada dessas coisas passava por aprender mais (e melhor) matemática.</segment>
+    <segment id="12">Afinal</segment>
+    <segment id="13">, o comportamento que observava no meu copo d’água não acontecia por acaso.</segment>
+    <segment id="14">Na verdade</segment>
+    <segment id="15">, era um importante teorema.</segment>
+    <segment id="16">Para minha sorte</segment>
+    <segment id="17">, essa mesma curiosidade também havia afetado o físico esloveno Jošef Stefan (1835-93).</segment>
+    <segment id="18">Por volta de 1890</segment>
+    <segment id="19">, Stefan</segment>
+    <segment id="20">, o primeiro entre seus pares</segment>
+    <segment id="21">, sese debruçava sobre esse problema que acabou por receber seu nome.</segment>
+    <segment id="22">Sua curiosidade soava menos infantil do que a minha</segment>
+    <segment id="23">, e era motivada pela formação de gelo nas águas marinhas e pelo congelamento de solos.</segment>
+    <segment id="24">Ilustração: Julia Jabur - Instituto SerrapilheiraPodemos descrever essa classe de problemas da seguinte forma.</segment>
+    <segment id="25">Em uma região maior (o copo) temos duas sub-regiões: a água e o cubo de gelo.</segment>
+    <segment id="26">As leis que governam a difusão de temperatura no líquido são diferentes daquelas que regem a temperatura no interior do cubo de gelo.</segment>
+    <segment id="27">Entretanto</segment>
+    <segment id="28">, com o passar do tempo</segment>
+    <segment id="29">, o formato dessas regiões muda.</segment>
+    <segment id="30">E a fronteira que separa o cubo do líquido não é fixa</segment>
+    <segment id="31">, masmas livre.</segment>
+    <segment id="32">Por consequência</segment>
+    <segment id="33">, entender o problema implica não só encontrar um perfil de temperatura para o cubo de gelo e para o líquido</segment>
+    <segment id="34">, masmas também estudar as propriedades da interface entre os dois.</segment>
+    <segment id="35">Ou seja</segment>
+    <segment id="36">, considerar a geometria do cubo de gelo.</segment>
+    <segment id="37">Entender a fronteira livre do problema.</segment>
+    <segment id="38">Vejamos outro exemplo.</segment>
+    <segment id="39">Imagine que alguém cubra o Pão de Açúcar e a Pedra da Urca com um imenso lençol.</segment>
+    <segment id="40">Em algumas áreas</segment>
+    <segment id="41">, o lençol tocará as pedras</segment>
+    <segment id="42">; em outras</segment>
+    <segment id="43">, não.</segment>
+    <segment id="44">A região em que o lençol começa a</segment>
+    <segment id="45">sese separar das pedras é uma interface entre dois mundos: aquele em que ambas as estruturas estão em contato e aquele em que elas estão separadas.</segment>
+    <segment id="46">Assim como</segment>
+    <segment id="47">como no</segment>
+    <segment id="48">casocaso do cubo de gelo</segment>
+    <segment id="49">, a interface que</segment>
+    <segment id="50">sese forma depende dos processos que acontecem em ambas a regiões.</segment>
+    <segment id="51">Também</segment>
+    <segment id="52">sese trata de uma fronteira livre.</segment>
+    <segment id="53">Outro exemplo são os materiais inteligentes – um casaco que "nota" quando</segment>
+    <segment id="54">sese entra no metrô e passa a esquentar menos</segment>
+    <segment id="55">; uma parede que "ouve" barulho numa sala e aumenta sua capacidade de isolamento acústico</segment>
+    <segment id="56">; um calçado que "percebe"</segment>
+    <segment id="57">sese você está andando mais rápido e passa a apertar menos.</segment>
+    <segment id="58">Materiais heterogêneos</segment>
+    <segment id="59">, membranas a</segment>
+    <segment id="60">sese descolar de um obstáculo</segment>
+    <segment id="61">, e até mesmo o momento ótimo para exercer uma opção de compra e venda de um dado ativo financeiro são mais alguns exemplos.</segment>
+    <segment id="62">Em comum</segment>
+    <segment id="63">, esses problemas têm leis de difusão que governam processos distintos em sub-regiões diferentes do problema.</segment>
+    <segment id="64">Essas sub-regiões estão separadas por uma fronteira que é determinada pela difusão.</segment>
+    <segment id="65">É matemática do tipo Tostines: a fronteira depende da difusão</segment>
+    <segment id="66">, masmas a difusão também depende da fronteira.</segment>
+    <segment id="67">Matematicamente</segment>
+    <segment id="68">, esses problemas são bastante desafiadores.</segment>
+    <segment id="69">Além das leis de difusão em cada sub-região (descritas geralmente por equações diferenciais parciais)</segment>
+    <segment id="70">, o problema ainda depende de uma interface que</segment>
+    <segment id="71">sese altera ao longo do processo.</segment>
+    <segment id="72">E esses diversos elementos devem ser estudados conjuntamente</segment>
+    <segment id="73">, o que em geral requer novas técnicas e estratégias.</segment>
+    <segment id="74">Imensos progressos dessa teoria - cujo nome oficial é teoria de problemas de fronteiras livres - ocorreram na segunda metade do século 20.</segment>
+    <segment id="75">E até hoje</segment>
+    <segment id="76">, resultados surpreendentes e novas técnicas aparecem na literatura especializada.</segment>
+    <segment id="77">E muitos problemas permanecem ainda sem uma resposta completa</segment>
+    <segment id="78">, ou sequer satisfatória.</segment>
+    <segment id="79">Em particular</segment>
+    <segment id="80">, um teorema importante da área garante que</segment>
+    <segment id="81">, por mais que as arestas e quinas de um cubo estejam afiadas</segment>
+    <segment id="82">, elas</segment>
+    <segment id="83">sese suavizam instantaneamente ao mergulhar em nossa bebida favorita.</segment>
+    <segment id="84">Aqui, a diversão fica por perceber que há uma interface que separa a curiosidade infantil do conhecimento científico de alto nível.</segment>
+    <segment id="85">Como há uma interface que separa o estoque de conhecimento atual e as técnicas disponíveis daquilo que queremos conhecer.</segment>
+    <segment id="86">Com sorte</segment>
+    <segment id="87">, nota-</segment>
+    <segment id="88">sese que</segment>
+    <segment id="89">sese trata de um fronteira livre.  *  Edgard Pimentel é pesquisador do Centro de Matemática da Universidade de Coimbra e professor da PUC-Rio.</segment>
+    <segment id="90">O blog Ciência Fundamental é editado pelo Serrapilheira</segment>
+    <segment id="91">, um instituto privado</segment>
+    <segment id="92">, sem fins lucrativos</segment>
+    <segment id="93">, de apoio à ciência no Brasil.</segment>
+    <segment id="94">Inscreva-</segment>
+    <segment id="95">sese na newsletter do Serrapilheira para acompanhar as novidades do instituto e do blog.</segment>
+  </rst>
+</analysis>

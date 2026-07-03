@@ -1,0 +1,54 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Pesquisa Datafolha: Serra mantém liderança</segment>
+    <segment id="2">, Haddad cresce</segment>
+    <segment id="3">SÃO PAULO - O pré-candidato do PT à Prefeitura de São Paulo</segment>
+    <segment id="4">, Fernando Haddad</segment>
+    <segment id="5">, aumentou sua participação de 3% para 8% na pesquisa de intenções de voto divulgada neste domingo pelo Datafolha.</segment>
+    <segment id="6">O aumento de cinco pontos percentuais coloca o petista em terceiro lugar na disputa</segment>
+    <segment id="7">, ao lado de Soninha Francine (PPS)</segment>
+    <segment id="8">, que também está com 8%.</segment>
+    <segment id="9">O ex-governador José Serra (PSDB) mantém a liderança com 30% das intenções de voto para a Prefeitura de São Paulo.</segment>
+    <segment id="10">É o mesmo percentual da pesquisa divulgada em março passado pelo Datafolha</segment>
+    <segment id="11">, logo após o tucano anunciar oficialmente sua entrada na disputa.</segment>
+    <segment id="12">Celso Russomano (PRB) permanece em segundo lugar com 21%</segment>
+    <segment id="13">, dois pontos percentuais a mais do que na pesquisa de março.</segment>
+    <segment id="14">Na quarta posição está Netinho de Paula (PCdoB)</segment>
+    <segment id="15">, com 7% das intenções de voto</segment>
+    <segment id="16">, que caiu três pontos percentuais.</segment>
+    <segment id="17">Gabriel Chalita (PMDB) aparece a seguir</segment>
+    <segment id="18">, com 6%</segment>
+    <segment id="19">, um ponto a menos em relação à pesquisa de março passado.</segment>
+    <segment id="20">Na sequência está Paulinho da Força (PDT)</segment>
+    <segment id="21">, com 5%.</segment>
+    <segment id="22">Luiz Flávio D'Urso (PT) e Carlos Giannazi (PSOL) aparecem com 1%.</segment>
+    <segment id="23">Os demais candidatos não pontuaram.</segment>
+    <segment id="24">O Datafolha ouviu 1.077 pessoas entre os dias 13 e 14 de junho.</segment>
+    <segment id="25">Do total de entrevistados</segment>
+    <segment id="26">, 9% disseram que votarão branco ou nulo e 3% afirmaram que ainda não sabem.</segment>
+    <segment id="27">A margem de erro é de três pontos percentuais para mais ou para menos.</segment>
+    <segment id="28">O levantamento está registrado na Justiça Eleitoral com o número SP-00075/2012.</segment>
+  </rst>
+</analysis>

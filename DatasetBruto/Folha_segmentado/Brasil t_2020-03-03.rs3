@@ -1,0 +1,119 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Brasil tem capacidade tecnológica para diagnosticar quase todas as doenças raras</segment>
+    <segment id="2">, masmas o acesso a exames e a informação na rede de saúde é muito desigual</segment>
+    <segment id="3">, afirmaram especialistas no Seminário Doenças Raras</segment>
+    <segment id="4">, realizado pela Folha nesta terça-feira (3) em São Paulo.</segment>
+    <segment id="5">No Brasil</segment>
+    <segment id="6">, considera-</segment>
+    <segment id="7">sese doença rara as enfermidades que afetam até 65 pessoas em cada cem mil indivíduos.</segment>
+    <segment id="8">Não há números exatos</segment>
+    <segment id="9">, masmas estima-</segment>
+    <segment id="10">sese que existam 10 mil doenças raras diferentes e que</segment>
+    <segment id="11">, no total</segment>
+    <segment id="12">, 13 milhões de brasileiros sejam portadores de alguma delas.</segment>
+    <segment id="13">80% delas são decorrentes de fatores genéticos.</segment>
+    <segment id="14">“Estima-</segment>
+    <segment id="15">sese que até 1 em cada 15 pessoas terá ou poderá desenvolver uma doença rara”</segment>
+    <segment id="16">, disse Armando Fonseca</segment>
+    <segment id="17">, diretor médico científico de medicina especializada do Grupo Pardini.</segment>
+    <segment id="18">Armando Fonseca (esq.)</segment>
+    <segment id="19">, diretor médico científico de medicina personalizada do Grupo Pardini</segment>
+    <segment id="20">, Lavínia Schüler-Faccini</segment>
+    <segment id="21">, médica</segment>
+    <segment id="22">, geneticista e professora da UFRGS (Universidade Federal do Rio Grande do Sul)</segment>
+    <segment id="23">, Márcia Waddington Cruz</segment>
+    <segment id="24">, responsável pelo setor de doenças neuromusculares do Hospital Universitário Clementino Fraga Filho (HUCFF-UFRJ)</segment>
+    <segment id="25">, e Cláudia Collucci</segment>
+    <segment id="26">, repórter especial da Folha - Keiny Andrade/Folhapress“A maioria dos testes genéticos para doenças raras pode ser encontrada na saúde suplementar</segment>
+    <segment id="27">, masmas um número importante de exames ainda não está no SUS”</segment>
+    <segment id="28">, disse Lavínia Schüler-Faccini</segment>
+    <segment id="29">, médica</segment>
+    <segment id="30">, geneticista e professora da UFRGS (Universidade Federal do Rio Grande do Sul).</segment>
+    <segment id="31">A triagem neonatal</segment>
+    <segment id="32">, conhecida</segment>
+    <segment id="33">comocomo teste do pezinho</segment>
+    <segment id="34">, feita logo após o nascimento</segment>
+    <segment id="35">, pode diagnosticar cerca de 60 doenças raras.</segment>
+    <segment id="36">“</segment>
+    <segment id="37">Infelizmente</segment>
+    <segment id="38">, esse exame não chega de forma igualitária para todos os recém-nascidos brasileiros.</segment>
+    <segment id="39">Há crianças que têm acesso a versões do exame que detectam 50</segment>
+    <segment id="40">, 60 doenças</segment>
+    <segment id="41">, e outras que não têm acesso a nenhuma delas”</segment>
+    <segment id="42">, afirmou Armando Fonseca.</segment>
+    <segment id="43">É preciso lutar por equidade no acesso aos exames</segment>
+    <segment id="44">, masmas nem sempre os testes conseguem oferecer todos os detalhes de</segment>
+    <segment id="45">comocomo as doenças raras podem</segment>
+    <segment id="46">sese manifestar</segment>
+    <segment id="47">, disseram os médicos.</segment>
+    <segment id="48">“Se o profissional parte apenas de um exame genético para diagnosticar a doença</segment>
+    <segment id="49">, a probabilidade de ele descobrir coisas que ele não sabe interpretar é grande</segment>
+    <segment id="50">, e isso pode gerar angústia para o paciente”</segment>
+    <segment id="51">, afirmou Schüler-Faccini.</segment>
+    <segment id="52">Por isso</segment>
+    <segment id="53">, os debatedores defenderam que exames</segment>
+    <segment id="54">, como</segment>
+    <segment id="55">como os genéticos</segment>
+    <segment id="56">, devem ser feitos junto a um acompanhamento que não só apresente os riscos de desenvolver sintomas</segment>
+    <segment id="57">, masmas também mostre medidas para melhorar a qualidade de vida e informe a chance de familiares desenvolverem a doença.</segment>
+    <segment id="58">Com um diagnóstico adequado</segment>
+    <segment id="59">, o paciente pode receber o tratamento correto e planejar a sua vida.</segment>
+    <segment id="60">Centros de referência podem capacitar médicos da atenção básica e outros profissionais da saúde para suspeitar de sintomas ligados a doenças raras.</segment>
+    <segment id="61">Veja fotos do Seminário Doenças Raras   novamente         de   de  de  representando um  Essa suspeita deve acontecer não só em crianças</segment>
+    <segment id="62">, masmas também em adultos</segment>
+    <segment id="63">, disse Márcia Waddington Cruz</segment>
+    <segment id="64">, responsável pelo setor de doenças musculares do Hospital Universitário Clementino Fraga Filho</segment>
+    <segment id="65">, no Rio de Janeiro.</segment>
+    <segment id="66">“</segment>
+    <segment id="67">Alguns pacientes com a PAF (polineuropatia amiloidótica familiar)</segment>
+    <segment id="68">, por exemplo</segment>
+    <segment id="69">, podem apresentar os primeiros sintomas aos 50 ou até aos 80 anos”</segment>
+    <segment id="70">, disse a médica.</segment>
+    <segment id="71">Outras tecnologias também podem melhorar os diagnósticos.</segment>
+    <segment id="72">“</segment>
+    <segment id="73">Nos Estados Unidos</segment>
+    <segment id="74">, já se</segment>
+    <segment id="75">se usa inteligência artificial.</segment>
+    <segment id="76">Você usa um banco de dados para selecionar o conjunto de sinais</segment>
+    <segment id="77">, e junto com a análise do médico</segment>
+    <segment id="78">, pode detectar uma doença rara”</segment>
+    <segment id="79">, disse Cruz.</segment>
+    <segment id="80">Entretanto</segment>
+    <segment id="81">, esse tipo de tecnologia ainda não é disseminado no Brasil.</segment>
+    <segment id="82">O diagnóstico precoce também gera economia para o país</segment>
+    <segment id="83">, diz Schüler-Faccini</segment>
+    <segment id="84">, da UFRGS.</segment>
+    <segment id="85">“Municípios e cidades tendem a querer esconder seus portadores de doenças raras</segment>
+    <segment id="86">, por acharem que precisarão pagar caro por exames e tratamento</segment>
+    <segment id="87">, masmas isso gera uma falsa sensação de economia.</segment>
+    <segment id="88">”   Para a geneticista</segment>
+    <segment id="89">, sese o paciente não receber o diagnóstico correto</segment>
+    <segment id="90">, fará vários outros exames desnecessários</segment>
+    <segment id="91">, gerando custos adicionais.</segment>
+    <segment id="92">A mediação da mesa foi realizada pela repórter especial da Folha Cláudia Collucci</segment>
+    <segment id="93">, e o evento teve patrocínio do Grupo Pardini e dos laboratórios Sanofi e Pfizer.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,52 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Ex-ministro Sérgio Amaral recebe alta de hospital
+BRASÍLIA - O diplomata e ex-ministro Sérgio Amaral recebeu alta</segment>
+    <segment id="2">, às 10h deste domingo</segment>
+    <segment id="3">, do Hospital de Urgências Médicas de Anápolis</segment>
+    <segment id="4">, a 50 quilômetros de Goiânia.</segment>
+    <segment id="5">Ele sofreu corte profundo na testa e recebeu curativos.</segment>
+    <segment id="6">Amaral</segment>
+    <segment id="7">sese envolveu em um acidente na noite desta sexta-feira.</segment>
+    <segment id="8">O carro que ele dirigia bateu em uma moto</segment>
+    <segment id="9">, que era pilotada por Ari Rodrigues da Silva</segment>
+    <segment id="10">, diretor do presídio de Formosa</segment>
+    <segment id="11">, em Goiás.</segment>
+    <segment id="12">Rodrigues da Silva não resistiu aos ferimentos e morreu no local do acidente</segment>
+    <segment id="13">, na BR-414</segment>
+    <segment id="14">, próximo ao município de Cocalzinho de Goiás.</segment>
+    <segment id="15">O corpo dele foi sepultado</segment>
+    <segment id="16">, no sábado</segment>
+    <segment id="17">, em Corumbá de Goiás.</segment>
+    <segment id="18">Amaral viajava de Brasília para Pirenópolis</segment>
+    <segment id="19">, onde tinha uma casa.</segment>
+    <segment id="20">O diplomata foi ministro do Desenvolvimento</segment>
+    <segment id="21">, Indústria e Comércio Exterior no primeiro governo Fernando Henrique e embaixador do Brasil em Londres e Paris.</segment>
+    <segment id="22">Segundo informações da Polícia Rodoviária Federal divulgadas pelo "Jornal Hoje"</segment>
+    <segment id="23">, o ex-ministro pediu para ser submetido ao teste do bafômetro e não foi constatado consumo de bebida alcoólica.</segment>
+    <segment id="24">Amaral teria dito aos policiais que invadiu a pista contrária exatamente para desviar do motocilista</segment>
+    <segment id="25">, estaria trafegando em ziguezague.</segment>
+  </rst>
+</analysis>

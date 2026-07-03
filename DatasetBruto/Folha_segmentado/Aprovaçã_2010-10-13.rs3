@@ -1,0 +1,38 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A menos de três meses de terminar</segment>
+    <segment id="2">, o governo do presidente Luiz Inácio Lula da Silva é considerado ótimo ou bom por 78% dos eleitores brasileiros.</segment>
+    <segment id="3">Com esse índice</segment>
+    <segment id="4">, a aprovação à gestão de Lula</segment>
+    <segment id="5">sese mantém estável em relação a setembro.</segment>
+    <segment id="6">Também</segment>
+    <segment id="7">sese mantém estável a taxa dos que o avaliam</segment>
+    <segment id="8">comocomo regular (18%</segment>
+    <segment id="9">, oscilação de um ponto sobre a pesquisa passada) e ruim ou péssimo (4%).</segment>
+    <segment id="10">A nota dada pelos eleitores à administração do petista é 8</segment>
+    <segment id="11">, numa escala de 0 a 10.</segment>
+    <segment id="12">Baixe esta pesquisa</segment>
+  </rst>
+</analysis>

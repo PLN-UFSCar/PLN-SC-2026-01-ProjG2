@@ -1,0 +1,209 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A escalada da inflação em 2022 e</segment>
+    <segment id="2">, especialmente</segment>
+    <segment id="3">, no segundo trimestre do ano</segment>
+    <segment id="4">, fez o varejo mexer nas suas margens de lucro.</segment>
+    <segment id="5">Em abril</segment>
+    <segment id="6">, o IPCA (Índice Nacional de Preços ao Consumidor Amplo) atingiu o pico de 12</segment>
+    <segment id="7">,13% em 12 meses</segment>
+    <segment id="8">, para fechar junho em 11</segment>
+    <segment id="9">,89% no acumulado anual.</segment>
+    <segment id="10">De acordo com levantamento feito pela consultoria Economatica para a Folha</segment>
+    <segment id="11">, dos 29 varejistas com ações negociadas na Bovespa</segment>
+    <segment id="12">, 21 reduziram no segundo trimestre a sua margem bruta (diferença entre a receita e o custo da mercadoria vendida)</segment>
+    <segment id="13">, seja em relação ao primeiro trimestre do ano</segment>
+    <segment id="14">, seja em comparação ao segundo trimestre de 2021.</segment>
+    <segment id="15">O levantamento apontou que</segment>
+    <segment id="16">, entre abril e junho deste ano</segment>
+    <segment id="17">, os varejistas aplicaram margens brutas entre 10</segment>
+    <segment id="18">,5% e 67</segment>
+    <segment id="19">,6%.</segment>
+    <segment id="20">No período</segment>
+    <segment id="21">, o indicador apresentou reduções entre 0</segment>
+    <segment id="22">,1 ponto percentual (p.p.) e 7</segment>
+    <segment id="23">,5 p.p.</segment>
+    <segment id="24">Caixa de loja da rede Atacadão</segment>
+    <segment id="25">, bandeira de atacarejo do grupo Carrefour</segment>
+    <segment id="26">, em São Paulo.- Divulgação"As reduções na margem bruta indicam que o varejo procurou segurar em parte o aumento da inflação e não repassá-lo na sua totalidade ao consumidor</segment>
+    <segment id="27">, a fim de não perder vendas"</segment>
+    <segment id="28">, disse Carlos Vieira</segment>
+    <segment id="29">, analista-chefe da TC Economatica.</segment>
+    <segment id="30">De acordo com Vieira</segment>
+    <segment id="31">, a tendência é que agora</segment>
+    <segment id="32">, no segundo semestre do ano</segment>
+    <segment id="33">, com o incremento do pagamento do Auxílio Brasil de R$ 600 na economia</segment>
+    <segment id="34">, as varejistas voltem a recompor suas margens –ou seja</segment>
+    <segment id="35">, repassar todo o custo da inflação.</segment>
+    <segment id="36">"</segment>
+    <segment id="37">Ao mesmo tempo</segment>
+    <segment id="38">, as empresas tendem a absorver a redução do custo do frete</segment>
+    <segment id="39">, proporcionada pela queda no preço dos combustíveis"</segment>
+    <segment id="40">, diz o economista.</segment>
+    <segment id="41">A pesquisa da Economatica</segment>
+    <segment id="42">, uma das maiores provedoras de informações financeiras do país</segment>
+    <segment id="43">, levou em conta a classificação setorial internacional NAICs Nível 1</segment>
+    <segment id="44">, onde</segment>
+    <segment id="45">sese encontram a maior parte das varejistas de capital aberto.</segment>
+    <segment id="46">As empresas Americanas</segment>
+    <segment id="47">, C&amp;amp</segment>
+    <segment id="48">;A, Dimed (dona da rede de farmácias Panvel)</segment>
+    <segment id="49">, Enjoei</segment>
+    <segment id="50">, Magazine Luiza</segment>
+    <segment id="51">, Pague Menos</segment>
+    <segment id="52">, RaiaDrogasil e Via (Casas Bahia e Ponto) não reduziram suas margens no segundo trimestre.</segment>
+    <segment id="53">Dessas 8</segment>
+    <segment id="54">, porém</segment>
+    <segment id="55">porém, 3 apresentaram queda na receita líquida (Via</segment>
+    <segment id="56">, Magazine Luiza e Americanas) e 3 registraram prejuízo no período (Magazine Luiza</segment>
+    <segment id="57">, Americanas e Enjoei).</segment>
+    <segment id="58">Na opinião do consultor em varejo Alberto Serrentino</segment>
+    <segment id="59">, sócio da Varese Retail</segment>
+    <segment id="60">, o principal movimento do segundo trimestre foi o aperto na margem líquida (percentual do lucro líquido em relação à receita total).</segment>
+    <segment id="61">"</segment>
+    <segment id="62">Grande parte das empresas de varejo têm algum nível de despesa financeira associada a crédito aos clientes ou ao financiamento da operação"</segment>
+    <segment id="63">, diz Serrentino.</segment>
+    <segment id="64">"</segment>
+    <segment id="65">Com a disparada dos juros</segment>
+    <segment id="66">, essa despesa financeira ficou muito maior e comprime a margem líquida.</segment>
+    <segment id="67">"</segment>
+    <segment id="68">No caso</segment>
+    <segment id="69">caso de grandes varejistas</segment>
+    <segment id="70">comocomo o Carrefour</segment>
+    <segment id="71">, que viu a margem bruta diminuir no segundo trimestre do ano</segment>
+    <segment id="72">, Serrentino acredita que foi uma medida estratégica.</segment>
+    <segment id="73">"</segment>
+    <segment id="74">Segurar os preços foi claramente uma iniciativa para não perder participação de mercado"</segment>
+    <segment id="75">, afirmou.</segment>
+    <segment id="76">Procurado</segment>
+    <segment id="77">, o Carrefour não atendeu ao pedido de entrevista.</segment>
+    <segment id="78">Também não atenderam a reportagem as empresas Grupo Pão de Açúcar</segment>
+    <segment id="79">, Assaí</segment>
+    <segment id="80">, Renner</segment>
+    <segment id="81">, Marisa</segment>
+    <segment id="82">, SBF/Centauro</segment>
+    <segment id="83">, IMC, Track &amp;amp</segment>
+    <segment id="84">; Field e Grupo Mateus.</segment>
+    <segment id="85">5</segment>
+    <segment id="86">G e Copa</segment>
+    <segment id="87">devem movimentar venda de eletrônicos</segment>
+    <segment id="88">, aposta Allied</segment>
+    <segment id="89">A varejista eletrônicos Allied confirma que o maior problema tem sido o custo do dinheiro.</segment>
+    <segment id="90">"</segment>
+    <segment id="91">O custo do crédito foi o principal fator para comprimirmos as margens no primeiro e no segundo trimestres"</segment>
+    <segment id="92">, afirma Silvio Stagni</segment>
+    <segment id="93">, presidente da Allied.</segment>
+    <segment id="94">Segundo ele</segment>
+    <segment id="95">, a inflação dos eletrônicos é lastreada em dólar e</segment>
+    <segment id="96">, apesar de alguns picos de alta da moeda este ano</segment>
+    <segment id="97">, não houve uma grande variação em relação ao ano passado.</segment>
+    <segment id="98">Ao mesmo tempo</segment>
+    <segment id="99">, o mercado de eletrônicos apresentou um desempenho excepcional nos anos de 2020 e 2021</segment>
+    <segment id="100">, lembra</segment>
+    <segment id="101">, por conta do aumento das atividades online.</segment>
+    <segment id="102">"</segment>
+    <segment id="103">Agora voltamos ao patamar de 2019</segment>
+    <segment id="104">, com a diferença de enfrentarmos uma taxa de juros bem maior.</segment>
+    <segment id="105">"</segment>
+    <segment id="106">A empresa tem um ecommerce próprio (Mobcom)</segment>
+    <segment id="107">, é revendedora autorizada das marcas Apple</segment>
+    <segment id="108">, Google</segment>
+    <segment id="109">, HyperX e Xiaomi em grandes marketplaces</segment>
+    <segment id="110">, e opera 160 pontos de venda da Samsung no país.</segment>
+    <segment id="111">Silvio Stagni</segment>
+    <segment id="112">, 61, presidente da Allied Tecnologia - DivulgaçãoO executivo</segment>
+    <segment id="113">, porém</segment>
+    <segment id="114">porém, está otimista com o segundo semestre.</segment>
+    <segment id="115">"</segment>
+    <segment id="116">A chegada do 5</segment>
+    <segment id="117">G movimenta o mercado de smartphones</segment>
+    <segment id="118">, aumentando o tíquete médio da categoria"</segment>
+    <segment id="119">, afirma.</segment>
+    <segment id="120">Como exemplo</segment>
+    <segment id="121">, ele cita o levantamento da consultoria GfK</segment>
+    <segment id="122">, que apontou preço médio de R$ 1.350 para um smartphone 4G</segment>
+    <segment id="123">, enquanto um aparelho 5</segment>
+    <segment id="124">G</segment>
+    <segment id="125">custa R$ 3.055.</segment>
+    <segment id="126">Stagni lembra que em novembro ocorre o tradicional melhor momento para as vendas de TVs</segment>
+    <segment id="127">, a Copa do Mundo</segment>
+    <segment id="128">, que neste ano será realizada no Catar.</segment>
+    <segment id="129">"</segment>
+    <segment id="130">Infelizmente</segment>
+    <segment id="131">, a data coincide com outro momento de peso para os eletrônicos</segment>
+    <segment id="132">, a Black Friday"</segment>
+    <segment id="133">, afirma.</segment>
+    <segment id="134">"</segment>
+    <segment id="135">A gente acaba perdendo uma data</segment>
+    <segment id="136">, masmas</segment>
+    <segment id="137">, de qualquer forma</segment>
+    <segment id="138">, as margens devem começar a melhorar.</segment>
+    <segment id="139">"</segment>
+    <segment id="140">Para o consultor em varejo Eugênio Foganholo</segment>
+    <segment id="141">, da Mixxer Desenvolvimento Empresarial</segment>
+    <segment id="142">, neste terceiro trimestre o consumo ainda está andando de lado.  "</segment>
+    <segment id="143">Mas os últimos meses do ano devem</segment>
+    <segment id="144">sese mostrar bem aquecidos"</segment>
+    <segment id="145">, diz Foganholo.</segment>
+    <segment id="146">"</segment>
+    <segment id="147">Depois das eleições</segment>
+    <segment id="148">, com a definição de um novo mandato presidencial</segment>
+    <segment id="149">, independentemente de quem assume</segment>
+    <segment id="150">, o consumidor vai ficar com a confiança renovada"</segment>
+    <segment id="151">, afirma o consultor.</segment>
+    <segment id="152">Na visão de Foganholo</segment>
+    <segment id="153">, segmentos que demandam financiamento</segment>
+    <segment id="154">, como</segment>
+    <segment id="155">como eletrônicos e material de construção</segment>
+    <segment id="156">, devem ser mais favorecidos.</segment>
+    <segment id="157">"</segment>
+    <segment id="158">Ainda que</segment>
+    <segment id="159">, objetivamente</segment>
+    <segment id="160">, não haja muito dinheiro disponível"</segment>
+    <segment id="161">, diz.  Carlos Vieira</segment>
+    <segment id="162">, da Economatica</segment>
+    <segment id="163">, concorda que as festas de fim de ano e o aumento da geração de emprego devem impulsionar o varejo no último trimestre</segment>
+    <segment id="164">, com destaque para os segmentos de vestuário e cosméticos.</segment>
+    <segment id="165">"Mesmo que estes empregos não venham acompanhados de aumento da renda.</segment>
+    <segment id="166">"</segment>
+    <segment id="167">Já Alberto Serrentino acredita que a perspectiva do segundo semestre depende do cenário de juros para o próximo ano.</segment>
+    <segment id="168">"</segment>
+    <segment id="169">A inflação já está cedendo</segment>
+    <segment id="170">, embora</segment>
+    <segment id="171">embora com base em medidas temporárias e considerando a variável combustíveis"</segment>
+    <segment id="172">, diz.</segment>
+    <segment id="173">"</segment>
+    <segment id="174">Mas se</segment>
+    <segment id="175">se o preço do combustível seguir um movimento de acomodação e queda no mercado internacional</segment>
+    <segment id="176">, e caso</segment>
+    <segment id="177">caso não haja qualquer outra turbulência global que provoque novos surtos inflacionários</segment>
+    <segment id="178">, a inflação brasileira pode observar uma tendência de queda</segment>
+    <segment id="179">, com recuo nos juros"</segment>
+    <segment id="180">, afirma. "</segment>
+    <segment id="181">O que melhoraria imediatamente o cenário para o varejo</segment>
+    <segment id="182">, com um alívio nas despesas financeiras.</segment>
+    <segment id="183">"</segment>
+  </rst>
+</analysis>

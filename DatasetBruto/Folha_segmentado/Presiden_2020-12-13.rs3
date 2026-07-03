@@ -1,0 +1,55 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente da Bolívia</segment>
+    <segment id="2">, Luis Arce</segment>
+    <segment id="3">, partiu neste domingo (13) para o Brasil para fazer um check-up médico de rotina devido a um câncer renal diagnosticado em 2017.</segment>
+    <segment id="4">Esta foi a primeira saída do país do líder de 57 anos desde que assumiu o cargo</segment>
+    <segment id="5">, em novembro.</segment>
+    <segment id="6">"</segment>
+    <segment id="7">É um exame de rotina.</segment>
+    <segment id="8">Todo ano estou fazendo e espero que tudo</segment>
+    <segment id="9">, como</segment>
+    <segment id="10">como antes</segment>
+    <segment id="11">, corra bem.</segment>
+    <segment id="12">Estou bem</segment>
+    <segment id="13">, masmas a prevenção é sempre o melhor remédio"</segment>
+    <segment id="14">, disse o presidente à agência de notícias estatal ABI</segment>
+    <segment id="15">, antes de embarcar no voo comercial que o transferiu para o país vizinho.</segment>
+    <segment id="16">Luis Arce em entrevista coletiva em Buenos Aires - Ronaldo Schemidt -20.jan.2020/AFP</segment>
+    <segment id="17">O retorno do chefe de Estado boliviano está programado para a tarde da segunda-feira (14)</segment>
+    <segment id="18">, informou o porta-voz presidencial</segment>
+    <segment id="19">, Jorge Richter.</segment>
+    <segment id="20">Durante a ausência de Arce</segment>
+    <segment id="21">, o vice-presidente David Choquehuanca assumirá a Presidência do país andino.</segment>
+    <segment id="22">“</segment>
+    <segment id="23">A avaliação médica é feita no Brasil onde está seu prontuário e onde foi tratado desde o início”</segment>
+    <segment id="24">, explicou Richter em resposta à oposição</segment>
+    <segment id="25">, que criticou o presidente por não ter usado o sistema de saúde boliviano.</segment>
+    <segment id="26">O porta-voz pediu que os adversários não façam política com a saúde do presidente e mantenham a saúde na esfera privada.</segment>
+    <segment id="27">Arce era ministro da Economia do ex-presidente de esquerda Evo Morales e renunciou ao cargo em 2017 depois de receber o diagnóstico de câncer renal.</segment>
+    <segment id="28">Após concluir o tratamento médico no Brasil</segment>
+    <segment id="29">, ele retomou a pasta em janeiro de 2019.</segment>
+  </rst>
+</analysis>

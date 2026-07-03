@@ -1,0 +1,51 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Você decide o final desta peça</segment>
+    <segment id="2">Um beijo entre dois homens está causando reações entusiasmadas do público no Gamboa</segment>
+    <segment id="3">Um beijo entre dois homens está causando reações entusiasmadas do público que lota o Teatro Gamboa</segment>
+    <segment id="4">, em Aflitos</segment>
+    <segment id="5">, para assistir à peça “</segment>
+    <segment id="6">Entre Nós –</segment>
+    <segment id="7">Uma Comédia Sobre Diversidade”</segment>
+    <segment id="8">.</segment>
+    <segment id="9">Mas a demonstração de amor acontece só no final do espetáculo</segment>
+    <segment id="10">, pois</segment>
+    <segment id="11">pois, antes</segment>
+    <segment id="12">, vários dilemas envolvendo o universo gay são discutidos com a plateia</segment>
+    <segment id="13">, que interage com os atores Igor Epifânio e Anderson Dy Souza.</segment>
+    <segment id="14">A cena do beijo precisa da aprovação do público para acontecer.</segment>
+    <segment id="15">Para João Sanches</segment>
+    <segment id="16">, que assina o texto e a direção</segment>
+    <segment id="17">, a intenção é mostrar “uma história de amor recheada de conflitos</segment>
+    <segment id="18">para que</segment>
+    <segment id="19">para que o público</segment>
+    <segment id="20">sese identifique e torça pelo final feliz”.</segment>
+    <segment id="21">As últimas apresentações acontecem hoje</segment>
+    <segment id="22">, amanhã e domingo.</segment>
+    <segment id="23">Depois</segment>
+    <segment id="24">, a peça será apresentada em escolas públicas de Salvador.</segment>
+    <segment id="25">A escola que tiver interesse pode ligar para 8813-7623</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,50 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">ob investigação</segment>
+    <segment id="2">,</segment>
+    <segment id="3">Agnelo Queiroz não enfrenta oposição no governo do DF
+BRASÍLIA - Apesar de estar sendo investigado por denúncias de desvio de dinheiro do Ministério do Esporte</segment>
+    <segment id="4">, pasta que comandou de 2003 a 2006</segment>
+    <segment id="5">, o governador do Distrito Federal</segment>
+    <segment id="6">, Agnelo Queiroz (PT)</segment>
+    <segment id="7">, não enfrenta qualquer dificuldade política para</segment>
+    <segment id="8">sese manter no cargo.</segment>
+    <segment id="9">Ele sofre pouca oposição na Câmara Legislativa e vive dias tranquilos em seu reduto eleitoral.</segment>
+    <segment id="10">Dos 24 deputados distritais</segment>
+    <segment id="11">, apenas dois integram ativamente a oposição.</segment>
+    <segment id="12">Uma delas</segment>
+    <segment id="13">, Liliane Roriz (PRTB)</segment>
+    <segment id="14">, é filha do ex-governador Joaquim Roriz e irmã da deputada federal Jacqueline Roriz (PMN-DF)</segment>
+    <segment id="15">, flagrada em vídeo recebendo propina e depois absolvida pela Câmara dos Deputados da acusação de quebra de decoro parlamentar.</segment>
+    <segment id="16">A outra opositora é Celina Leão (PSD).</segment>
+    <segment id="17">Gravações mostram Agnelo Queiroz prometendo ajuda a PM que acusou Orlando Silva
+
+Agnelo é um dos alvos do inquérito que tramita no Superior Tribunal de Justiça (STJ) para investigar desvios de dinheiro federal do programa</segment>
+    <segment id="18">Segundo Tempo</segment>
+    <segment id="19">, do Ministério do Esporte - escândalo que provocou a demissão do ex-ministro Orlando Silva.</segment>
+    <segment id="20">Há também um inquérito na primeira instância da Justiça Federal em que Agnelo aparece</segment>
+    <segment id="21">comocomo suspeito de fraudar notas fiscais para justificar os desvios de dinheiro.</segment>
+  </rst>
+</analysis>

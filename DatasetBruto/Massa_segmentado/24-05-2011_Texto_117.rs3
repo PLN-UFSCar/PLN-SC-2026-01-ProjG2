@@ -1,0 +1,47 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Mãe é presa por exploração sexual de menor de idade</segment>
+    <segment id="2">RIO - Policiais da 89º DP (Resende) prenderam</segment>
+    <segment id="3">, na manhã nesta terça-feira</segment>
+    <segment id="4">, Rosa Maria Fausto da Silva</segment>
+    <segment id="5">, 39 anos</segment>
+    <segment id="6">, acusada de favorecer a prostituição de sua filha menor de idade.</segment>
+    <segment id="7">A mãe foi presa próxima ao hotel em que a filha estava</segment>
+    <segment id="8">, no centro de Resende.</segment>
+    <segment id="9">O gerente do estabelecimento</segment>
+    <segment id="10">, Cristiano Marques da Silva Fonseca</segment>
+    <segment id="11">, de 36 anos</segment>
+    <segment id="12">, e o cliente</segment>
+    <segment id="13">, Edmilson Braz</segment>
+    <segment id="14">, de 33 anos</segment>
+    <segment id="15">, também foram presos em flagrante.</segment>
+    <segment id="16">Segundo os agentes</segment>
+    <segment id="17">, uma denúncia anônima os levou ao local.</segment>
+    <segment id="18">A adolescente</segment>
+    <segment id="19">, que está grávida de seis meses</segment>
+    <segment id="20">, vai ficar sob a responsabilidade do Conselho Tutelar</segment>
+    <segment id="21">, enquanto aguarda a decisão do promotor de Justiça.</segment>
+  </rst>
+</analysis>

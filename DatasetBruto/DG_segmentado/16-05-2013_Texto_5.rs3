@@ -1,0 +1,61 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">TragÃ©dia na Capital</segment>
+    <segment id="2">TrÃªs irmÃ£os morrem em incÃªndio no Bairro BelÃ©m Novo</segment>
+    <segment id="3">, na Zona Sul</segment>
+    <segment id="4">Duas crianÃ§as</segment>
+    <segment id="5">, de trÃªs e quatro anos</segment>
+    <segment id="6">, e um jovem de 21 anos foram encontrados sem vida em casa na Vila JÃºlia
+Aline CustÃ³dio
+aline.custodio@diariogaucho.com.br</segment>
+    <segment id="7">TrÃªs irmÃ£os morreram em um incÃªndio que atingiu uma casa na Vila JÃºlia</segment>
+    <segment id="8">, no Bairro BelÃ©m Novo</segment>
+    <segment id="9">, na Zona Sul da Capital</segment>
+    <segment id="10">, na tarde desta quinta-feira.</segment>
+    <segment id="11">De acordo com a PolÃ­cia Civil</segment>
+    <segment id="12">, Clai Jesus Silva de Oliveira</segment>
+    <segment id="13">, 21 anos</segment>
+    <segment id="14">, foi encontrado na parte dos fundos da casa</segment>
+    <segment id="15">, entre a cozinha e a Ã¡rea de serviÃ§o.</segment>
+    <segment id="16">Os corpos das crianÃ§as</segment>
+    <segment id="17">, Renan</segment>
+    <segment id="18">, de 4 anos</segment>
+    <segment id="19">, e Rafaela</segment>
+    <segment id="20">, de 3 anos</segment>
+    <segment id="21">, estavam na parte da frente da residÃªncia</segment>
+    <segment id="22">, completamente carbonizados.</segment>
+    <segment id="23">Segundo o capitÃ£o Marcelo Nogueira da Silva</segment>
+    <segment id="24">, comandante da 2Âª</segment>
+    <segment id="25">Cia do 21Âº BPM</segment>
+    <segment id="26">, a casa localizada no Beco TrÃªs</segment>
+    <segment id="27">, com acesso pela Avenida do Lami</segment>
+    <segment id="28">, possuÃ­a trÃªs</segment>
+    <segment id="29">peÃ§as</segment>
+    <segment id="30">, uma de alvenaria e duas de madeira</segment>
+    <segment id="31">.</segment>
+    <segment id="32">O fogo teria iniciado por volta das 16h30min.</segment>
+    <segment id="33">A perÃ­cia estÃ¡ no local para investigar as causas do incÃªndio.</segment>
+  </rst>
+</analysis>

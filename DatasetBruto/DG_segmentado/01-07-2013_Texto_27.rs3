@@ -1,0 +1,50 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Bairro Santa Tereza</segment>
+    <segment id="2">Jovem de 18 anos</segment>
+    <segment id="3">Ã© assassinado em TerritÃ³rio da Paz na Capital</segment>
+    <segment id="4">Segundo a polÃ­cia</segment>
+    <segment id="5">, crime teria relaÃ§Ã£o com uma disputa por namorada
+Renato Gava
+renato.gava@diariogaucho.com.br</segment>
+    <segment id="6">Um jovem de 18 anos foi assassinado no TerritÃ³rio da Paz da Capital no que a polÃ­cia acredita ter sido uma disputa por namorada.</segment>
+    <segment id="7">O crime ocorreu na noite desta segunda-feira na esquina das ruas Correia Lima e Caixa EconÃ´mica</segment>
+    <segment id="8">, no Bairro Santa Tereza.</segment>
+    <segment id="9">FabrÃ­cio ConceiÃ§Ã£o</segment>
+    <segment id="10">, o PÃª</segment>
+    <segment id="11">, levou pelo menos cinco tiros de revÃ³lver calibre 38 e morreu no local.</segment>
+    <segment id="12">O atirador fugiu antes da chegada da polÃ­cia.
+- Uma linha de investigaÃ§Ã£o Ã© a situaÃ§Ã£o de disputa por mulher</segment>
+    <segment id="13">, masmas nÃ£o descartamos outras possibilidades - disse o titular da 4Âª DHPP</segment>
+    <segment id="14">, delegado Gabriel Bicca.</segment>
+    <segment id="15">Morador da Vila Buraco Quente</segment>
+    <segment id="16">, hÃ¡ pelo menos 4km dali</segment>
+    <segment id="17">, o rapaz teria</segment>
+    <segment id="18">sese envolvido com uma menina que mora perto de onde foi morto.</segment>
+    <segment id="19">Conforme depoimento da famÃ­lia dele Ã  polÃ­cia</segment>
+    <segment id="20">, PÃª teve envolvimento com o crime quando menor de idade.</segment>
+    <segment id="21">Ele frequentava um projeto da regiÃ£o para a recuperaÃ§Ã£o de jovens envolvidos com o trÃ¡fico.</segment>
+  </rst>
+</analysis>

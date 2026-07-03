@@ -1,0 +1,140 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Outubro é um mês divertido para a ciência.</segment>
+    <segment id="2">O anúncio dos ganhadores e ganhadoras dos diversos prêmios</segment>
+    <segment id="3">Nobel movimenta a comunidade e causa uma mistura de admiração e orgulho.</segment>
+    <segment id="4">Permita-me então fazer uma pergunta</segment>
+    <segment id="5">, caro leitor: o que você faria</segment>
+    <segment id="6">sese estivesse dando aula e recebesse a notícia de que havia ganho o prêmio Nobel?</segment>
+    <segment id="7">Colunas e BlogsReceba no seu email uma seleção de colunas e blogs da FolhaCarregando...</segment>
+    <segment id="8">A física franco-sueca Anne L’Huillier</segment>
+    <segment id="9">, depois de ter sido avisada que fora laureada com o prêmio em física de 2023 (juntamente com Pierre Agostini e Ferenc Krausz)</segment>
+    <segment id="10">, continuou a dar a aula que estava dando!</segment>
+    <segment id="11">Não fez outra coisa.</segment>
+    <segment id="12">Não perturbou sua rotina.</segment>
+    <segment id="13">E deveria?</segment>
+    <segment id="14">Pergunto de outra maneira: pra que serve um prêmio Nobel?</segment>
+    <segment id="15">Pra que serve qualquer distinção científica?</segment>
+    <segment id="16">Ilustração: Valentina Fraiz - Instituto SerrapilheiraPara discutir a finalidade de um prêmio</segment>
+    <segment id="17">comocomo o Nobel</segment>
+    <segment id="18">, vamos fazer uma visita ao pensamento de outro físico: o americano Thomas Samuel Kuhn (1922-96).</segment>
+    <segment id="19">Autor de "</segment>
+    <segment id="20">A estrutura das revoluções científicas"</segment>
+    <segment id="21">, Kuhn defendia que a ciência</segment>
+    <segment id="22">sese estrutura em torno de paradigmas.</segment>
+    <segment id="23">E que a substituição de um paradigma corrente por outro</segment>
+    <segment id="24">sese deve às revoluções científicas.</segment>
+    <segment id="25">O exemplo canônico é a chamada revolução copernicana</segment>
+    <segment id="26">, que substituiu a visão geocêntrica do mundo pela heliocêntrica.</segment>
+    <segment id="27">A instalação de um novo paradigma seria motivada por descobertas revolucionárias</segment>
+    <segment id="28">, que levariam a comunidade cientificamente relevante a pensar de forma diferente.</segment>
+    <segment id="29">Ora: o que significa "comunidade cientificamente relevante"?</segment>
+    <segment id="30">Basicamente</segment>
+    <segment id="31">, estamos nos referindo ao conjunto de pessoas de uma determinada disciplina que aponta as direções da pesquisa: os editores e pareceristas dos principais periódicos</segment>
+    <segment id="32">, os membros dos painéis que avaliam e promovem a ciência</segment>
+    <segment id="33">, as pessoas que fazem modestas sugestões de composição desses painéis</segment>
+    <segment id="34">, e… o comitê que seleciona os vencedores dos diversos prêmios.</segment>
+    <segment id="35">Inclusive do Nobel.</segment>
+    <segment id="36">Nesse sentido</segment>
+    <segment id="37">, o Nobel não serviria apenas para valorizar o trabalho de um indivíduo</segment>
+    <segment id="38">, masmas também marcaria a importância do paradigma ao qual o referido cientista está associado.</segment>
+    <segment id="39">A distinção é um reconhecimento de suas descobertas e das respostas que ele formulou.</segment>
+    <segment id="40">Mas ela também legitima as perguntas feitas por sua escola (ou seu grupo de pesquisa).</segment>
+    <segment id="41">E sinaliza que aquele conjunto de perguntas é a aposta da comunidade científica.</segment>
+    <segment id="42">No caso</segment>
+    <segment id="43">caso da matemática</segment>
+    <segment id="44">, essa situação é bastante evidente.</segment>
+    <segment id="45">Um dos prêmios de referência da profissão é a Medalha Fields.</segment>
+    <segment id="46">Entregue a cada quatro anos</segment>
+    <segment id="47">, por ocasião do Congresso Internacional de Matemáticos</segment>
+    <segment id="48">, a condecoração reconhece profissionais com idade inferior a 40 anos.</segment>
+    <segment id="49">A razão é explicada pelo matemático canadense John Charles Fields</segment>
+    <segment id="50">, que dá nome à distinção: em parte</segment>
+    <segment id="51">, a medalha reconhece o trabalho já realizado</segment>
+    <segment id="52">, masmas também serve</segment>
+    <segment id="53">comocomo motivação para o trabalho futuro.</segment>
+    <segment id="54">As ganhadoras do Nobel 2023Mais    novamente         de   de  de  representando um  Não</segment>
+    <segment id="55">sese trata apenas de reconhecer o mérito daquilo que já foi feito</segment>
+    <segment id="56">, masmas sobretudo sinalizar para a comunidade matemática que aquela direção de trabalho deve ser encorajada e perseguida.</segment>
+    <segment id="57">Aquela forma de pensar a matemática deve ser entendida</segment>
+    <segment id="58">comocomo canônica.</segment>
+    <segment id="59">Há quem sugira que</segment>
+    <segment id="60">, em anos recentes</segment>
+    <segment id="61">, esse caráter da Medalha Fields é mais proeminente.</segment>
+    <segment id="62">Isso porque</segment>
+    <segment id="63">porque</segment>
+    <segment id="64">, mais do que premiar o indivíduo que a recebe</segment>
+    <segment id="65">, ela acaba por coroar sua escola de formação</segment>
+    <segment id="66">comocomo um pilar da boa matemática.</segment>
+    <segment id="67">Se o incentivo a determinado paradigma está presente no</segment>
+    <segment id="68">casocaso de uma distinção de meio de carreira</segment>
+    <segment id="69">, como</segment>
+    <segment id="70">como a Fields</segment>
+    <segment id="71">, ele é muito mais explícito no contexto do Prêmio Abel.</segment>
+    <segment id="72">Instituído em 2002 e distribuído anualmente desde 2003</segment>
+    <segment id="73">, esse prêmio não tem limite etário e tem sido atribuído a matemáticos em estágios mais avançados da carreira.</segment>
+    <segment id="74">Consequentemente</segment>
+    <segment id="75">, e talvez sem querer</segment>
+    <segment id="76">, muito mais do que contribuições puramente científicas</segment>
+    <segment id="77">, ele distingue a formação de uma comunidade em torno de uma forma de fazer matemática.</segment>
+    <segment id="78">Curiosamente (ou nem tanto)</segment>
+    <segment id="79">, há intersecção considerável entre os ganhadores da Medalha Fields e do Prêmio Abel.</segment>
+    <segment id="80">E sese esse fenômeno</segment>
+    <segment id="81">sese dá em nível global</segment>
+    <segment id="82">, é claro que também ocorre num um país com matemática internacionalmente competitiva</segment>
+    <segment id="83">comocomo o Brasil.</segment>
+    <segment id="84">No nosso</segment>
+    <segment id="85">casocaso</segment>
+    <segment id="86">, o prêmio de referência foi instituído pela Sociedade Brasileira de Matemática (SBM) e vem sendo distribuído a cada dois anos</segment>
+    <segment id="87">, desde 2013.</segment>
+    <segment id="88">Trata-</segment>
+    <segment id="89">sese do Prêmio SBM</segment>
+    <segment id="90">, e distingue artigos de pesquisa publicados por pesquisadores baseados no Brasil.</segment>
+    <segment id="91">Entre os agraciados com essa distinção está o matemático Artur Ávila</segment>
+    <segment id="92">, que recebeu a Medalha Fields em 2014.</segment>
+    <segment id="93">Alguns meses atrás</segment>
+    <segment id="94">, quando recebi a notícia de que o vencedor da edição de 2023 do Prêmio SBM era o meu amigo Damião Araújo</segment>
+    <segment id="95">, minha reação foi inequívoca: a comunidade matemática nacional produzia consenso em torno de uma escola</segment>
+    <segment id="96">, em torno de uma maneira de pensar a belíssima área das Equações Diferenciais Parciais.</segment>
+    <segment id="97">O prêmio reflete mérito individual</segment>
+    <segment id="98">, masmas também aponta a direção.</segment>
+    <segment id="99">Mas se</segment>
+    <segment id="100">se é assim</segment>
+    <segment id="101">, e se</segment>
+    <segment id="102">se a distinção que nos é atribuída por nossos pares é um incentivo a formas de fazer ciência</segment>
+    <segment id="103">, não há escolha a não ser voltar para a sala de aula e continuar a lecionar.</segment>
+    <segment id="104">Afinal</segment>
+    <segment id="105">, é ao atrair quem está nos bancos da escola que a ciência</segment>
+    <segment id="106">sese desenvolve e as sociedades avançam.</segment>
+    <segment id="107">Anne L’Huillier já percebeu isso.</segment>
+    <segment id="108">Tomara que mais gente também o perceba.  *  Edgard Pimentel é professor do Departamento de Matemática da Universidade de Coimbra e pesquisador do CMUC.</segment>
+    <segment id="109">O blog Ciência Fundamental é editado pelo Serrapilheira</segment>
+    <segment id="110">, um instituto privado</segment>
+    <segment id="111">, sem fins lucrativos</segment>
+    <segment id="112">, que promove a ciência no Brasil.</segment>
+    <segment id="113">Inscreva-</segment>
+    <segment id="114">sese na newsletter do Serrapilheira para acompanhar as novidades do instituto e do blog.</segment>
+  </rst>
+</analysis>

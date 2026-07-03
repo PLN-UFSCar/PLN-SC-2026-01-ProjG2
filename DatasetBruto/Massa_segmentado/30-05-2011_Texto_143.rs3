@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Gata da dança</segment>
+    <segment id="2">Tailane quer mostrar todo o rebolado de Nova Brasília
+
+Tailane Viana Silva</segment>
+    <segment id="3">, 22 anos</segment>
+    <segment id="4">, mora no bairro de  Nova Brasília</segment>
+    <segment id="5">, é dançarina de pagode e está à procura de uma banda para poder mostrar toda a sua graça.</segment>
+    <segment id="6">“Eu sempre tive o sonho de dançar no É o Tchan</segment>
+    <segment id="7">, masmas hoje luto para me estabelecer na área da dança”.
+Muito vaidosa</segment>
+    <segment id="8">, ela não sai de casa sem uma boa maquiagem e garante que muitos vão votar nela para ser a nova Garota do Tempo do Massa!</segment>
+    <segment id="9">“</segment>
+    <segment id="10">Com o prêmio</segment>
+    <segment id="11">, quero abrir um negócio próprio e poder ajudar minha família”</segment>
+    <segment id="12">, conta a moça.</segment>
+    <segment id="13">Quer aparecer</segment>
+    <segment id="14">A dançarina está batalhando ganhar um lugar ao sol no mercado do pagode.</segment>
+    <segment id="15">Para isso</segment>
+    <segment id="16">, ela treina muito!</segment>
+  </rst>
+</analysis>

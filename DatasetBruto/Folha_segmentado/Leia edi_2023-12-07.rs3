@@ -1,0 +1,164 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Esta é a edição da newsletter FolhaMercado desta quinta-feira (7).</segment>
+    <segment id="2">Quer recebê-la de segunda a sexta</segment>
+    <segment id="3">, às 7h</segment>
+    <segment id="4">, no seu email?</segment>
+    <segment id="5">Inscreva-</segment>
+    <segment id="6">sese abaixo:</segment>
+    <segment id="7">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="8">; aberta para não assinantes.</segment>
+    <segment id="9">Carregando...</segment>
+    <segment id="10">Bard turbinado</segment>
+    <segment id="11">O Google lançou nesta quarta uma nova versão do "motor" que abastece sua IA (inteligência artificial).</segment>
+    <segment id="12">O Gemini já está integrado ao Bard</segment>
+    <segment id="13">, o chatbot da big tech</segment>
+    <segment id="14">, em 170 países –o Brasil está entre eles–</segment>
+    <segment id="15">, masmas por enquanto só funciona na versão em inglês.</segment>
+    <segment id="16">O que terá de novo: o Gemini foi treinado para ler</segment>
+    <segment id="17">, escrever</segment>
+    <segment id="18">, ouvir</segment>
+    <segment id="19">, falar e enxergar de forma simultânea.</segment>
+    <segment id="20">Essas funcionalidades devem ser inseridas ao Bard no futuro e poderão ser usadas na versão gratuita do chatbot</segment>
+    <segment id="21">, segundo a big tech.</segment>
+    <segment id="22">A principal concorrente do Google nessa área</segment>
+    <segment id="23">, a OpenAI</segment>
+    <segment id="24">, também oferece a possibilidade de interagir com o robô via áudio</segment>
+    <segment id="25">, texto e imagem</segment>
+    <segment id="26">, masmas apenas na versão de assinatura do ChatGPT</segment>
+    <segment id="27">, que custa US$ 20 (cerca de R$ 99) ao mês.</segment>
+    <segment id="28">Veja profissões que vão bombar com inteligência artificialMais    novamente         de   de  de  representando um    Bard x ChatGPT: segundo o Google</segment>
+    <segment id="29">, seu chatbot abastecido com o Gemini supera a versão gratuita do robô da OpenAI em desafios de raciocínio</segment>
+    <segment id="30">, linguagem</segment>
+    <segment id="31">, matemática</segment>
+    <segment id="32">, programação e conhecimentos em geral.</segment>
+    <segment id="33">O modelo pago do ChatGPT usa o GPT-4</segment>
+    <segment id="34">, um motor superior ao da versão gratuita</segment>
+    <segment id="35">, o GPT-3.5</segment>
+    <segment id="36">;</segment>
+    <segment id="37">O Bard não consegue recuperar interações anteriores dos usuários com o robô</segment>
+    <segment id="38">, algo que existe no ChatGPT e o ajuda a entender contextos.</segment>
+    <segment id="39">Três versões do Gemini serão liberadas pelo Google:  ↳ Ultra:</segment>
+    <segment id="40">é o maior modelo e deve chegar aos primeiros usuários no início de 2024 no Bard Advanced</segment>
+    <segment id="41">, um novo serviço que será lançado pela big tech</segment>
+    <segment id="42">, que não esclareceu</segment>
+    <segment id="43">sese será pago ou não.  ↳ Nano: menor e com foco em smartphones</segment>
+    <segment id="44">, chegou ontem aos donos de celulares Pixel Pro 8 —smartphone não vendido no Brasil.</segment>
+    <segment id="45">O Google diz que outras fabricantes de celular Android também poderão usar a tecnologia.  ↳ Pro: é o que fica no meio do caminho entre as versões.</segment>
+    <segment id="46">É essa a que está disponível para o Bard em inglês desde ontem.</segment>
+    <segment id="47">Google Ads é usado para promover golpes  Para aplicar golpes na internet</segment>
+    <segment id="48">, criminosos têm invadido contas do Google e as têm usado para comprar anúncios no buscador.</segment>
+    <segment id="49">O objetivo é promover sites falsos que prometem produtos a preços baixos</segment>
+    <segment id="50">, masmas que na verdade nunca são entregues</segment>
+    <segment id="51">, mostra o repórter Pedro S. Teixeira.</segment>
+    <segment id="52">Como acontece: os golpistas entram em uma conta verdadeira do Google Ads</segment>
+    <segment id="53">, sese adicionam</segment>
+    <segment id="54">comocomo administradores do perfil e removem o proprietário original.</segment>
+    <segment id="55">Eles então usam essa conta para promover os sites que oferecem promoções falsas.</segment>
+    <segment id="56">Em um caso</segment>
+    <segment id="57">caso a que a Folha teve acesso</segment>
+    <segment id="58">, os criminosos gastaram R$ 72 mil para impulsionar a página estoquedobrasil.com</segment>
+    <segment id="59">, denunciado por ofertas fraudulentas durante a Black Friday.</segment>
+    <segment id="60">O empresário dono da conta original do Google Ads diz ter entrado em contato com a big tech assim que percebeu a invasão a seu perfil</segment>
+    <segment id="61">, masmas a empresa deixou as publicidades no ar por 13 dias após ser notificada.</segment>
+    <segment id="62">O que diz o Google: que age imediatamente quando identifica comportamentos suspeitos.</segment>
+    <segment id="63">"</segment>
+    <segment id="64">A segurança dos usuários de nossas plataformas é nossa prioridade e tomamos diversas medidas para preservá-la.</segment>
+    <segment id="65">"</segment>
+    <segment id="66">Em relatório anual</segment>
+    <segment id="67">, a empresa afirmou ter removido 5</segment>
+    <segment id="68">,2 bilhões de propagandas abusivas e restringido 4</segment>
+    <segment id="69">,2 bilhões de anúncios em 2022.</segment>
+    <segment id="70">Nesse processo</segment>
+    <segment id="71">, 6,7 milhões de contas foram suspensas.</segment>
+    <segment id="72">Privatização da Sabesp avança em meio a tumulto</segment>
+    <segment id="73">A Assembleia Legislativa do Estado de São Paulo aprovou nesta quarta a privatização da Sabesp.</segment>
+    <segment id="74">O placar</segment>
+    <segment id="75">, de 62 votos a favor</segment>
+    <segment id="76">, foi considerado uma vitória ao governador Tarcísio de Freitas (Republicanos)</segment>
+    <segment id="77">, que esperava cerca de 50 votos –eram necessários 48 para aprovação.</segment>
+    <segment id="78">Houve apenas 1 voto não</segment>
+    <segment id="79">, já que a oposição não participou da votação e deixou o plenário em protesto após confronto entre manifestantes e a Polícia Militar (aqui em vídeo).</segment>
+    <segment id="80">Como será a privatização: o governo vai fazer uma oferta subsequente de ações (follow-on) em que o Estado terá sua participação diluída dos atuais 50</segment>
+    <segment id="81">,3% para "algo entre 15% e 30%".</segment>
+    <segment id="82">A fatia que ficará com o Estado ainda será definida</segment>
+    <segment id="83">, assim</segment>
+    <segment id="84">comocomo o potencial de arrecadação com a privatização</segment>
+    <segment id="85">;</segment>
+    <segment id="86">O governo buscará alguns acionistas de referência –que terão maior participação na companhia – e terá uma "golden share"</segment>
+    <segment id="87">, ação preferencial que dá poder de veto em decisões específicas.</segment>
+    <segment id="88">Confusão durante a votação da privatização da SabespMais    novamente         de   de  de  representando um</segment>
+    <segment id="89">As promessas de quem apoia a privatização:  ↳ Redução na tarifa via dois instrumentos: aporte na companhia dos recursos gerados na venda das ações e uso de dividendos da empresa para manter o preço baixo</segment>
+    <segment id="90">;  ↳ Antecipação da universalização do acesso a água e esgoto de 2033 para 2029 e R$ 10 bilhões a mais no plano de investimento da Sabesp</segment>
+    <segment id="91">, que hoje prevê R$ 56 bilhões até 2033.</segment>
+    <segment id="92">As críticas de quem é contra:  ↳</segment>
+    <segment id="93">Um estudo que embasou a privatização não conclui que a privatização vai baixar a tarifa.</segment>
+    <segment id="94">O documento</segment>
+    <segment id="95">, na verdade</segment>
+    <segment id="96">, sinalizaria a possibilidade de o governo subsidiar o barateamento.</segment>
+    <segment id="97">↳</segment>
+    <segment id="98">Os opositores à privatização dizem que a Sabesp já previa reduzir o prazo de universalização do acesso a água e esgoto de 2033 para 2030.</segment>
+    <segment id="99">E agora?</segment>
+    <segment id="100">Terminado o processo na assembleia</segment>
+    <segment id="101">, o governador tem de sancionar o projeto.</segment>
+    <segment id="102">A gestão estadual então vai</segment>
+    <segment id="103">sese reunir com os 375 municípios atendidos pela Sabesp e com conselhos que irão representar cada região.</segment>
+    <segment id="104">Eles serão responsáveis por aprovar o regimento interno e a prorrogação de todos contratos da Sabesp até 2060.</segment>
+    <segment id="105">O processo de privatização em si (a venda de ações) só começa após essa etapa.</segment>
+    <segment id="106">A previsão é de que</segment>
+    <segment id="107">sese inicie em meados de 2024</segment>
+    <segment id="108">, num cronograma que pode</segment>
+    <segment id="109">sese estender por mais seis meses.   22</segment>
+    <segment id="110">,3% dos jovens não estudam nem trabalham</segment>
+    <segment id="111">Do total de brasileiros entre 15 a 29 anos</segment>
+    <segment id="112">, 22,3% (10</segment>
+    <segment id="113">,9 milhões) não trabalhavam nem estudavam em 2022</segment>
+    <segment id="114">, de acordo com o IBGE.</segment>
+    <segment id="115">O menor número da série histórica pode ser explicado pela retomada do mercado de trabalho</segment>
+    <segment id="116">, que faz o percentual de jovens ocupados crescer.</segment>
+    <segment id="117">Sim, mas</segment>
+    <segment id="118">mas…</segment>
+    <segment id="119">A desigualdade é expressiva entre os "nem-nem".</segment>
+    <segment id="120">A falta de estudo e trabalho afeta sobretudo as mulheres pretas ou pardas de 15 a 29 anos</segment>
+    <segment id="121">, que representavam 43</segment>
+    <segment id="122">,3% do total de jovens nessa condição.</segment>
+    <segment id="123">Outros dados divulgados nesta quarta pelo instituto apontam que a desigualdade da renda do trabalho vem caindo pouco ao longo dos anos e que a pobreza recuou consideravelmente no ano passado.</segment>
+    <segment id="124">Números do IBGE que mostram…</segment>
+    <segment id="125">…</segment>
+    <segment id="126">A desigualdade na renda do trabalho: os brancos receberam em média R$ 20 por hora de trabalho no Brasil em 2022</segment>
+    <segment id="127">, quantia 61</segment>
+    <segment id="128">,4% maior do que a de pretos ou pardos (R$ 12</segment>
+    <segment id="129">,4).</segment>
+    <segment id="130">A maior diferença ocorre entre aqueles com ensino superior completo: a renda por hora dos brancos (R$ 35</segment>
+    <segment id="131">,3) superou em 37</segment>
+    <segment id="132">,6% a dos pretos ou pardos (R$ 25</segment>
+    <segment id="133">,7).</segment>
+    <segment id="134">…</segment>
+    <segment id="135">A queda na pobreza: a taxa recuou do patamar recorde de 36</segment>
+    <segment id="136">,7% em 2021 para 31</segment>
+    <segment id="137">,6% em 2022.</segment>
+    <segment id="138">A baixa foi graças à retomada do mercado de trabalho e à ampliação do Auxílio Brasil.</segment>
+  </rst>
+</analysis>

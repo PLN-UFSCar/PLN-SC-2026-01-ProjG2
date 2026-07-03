@@ -1,0 +1,114 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A identificação rápida de pacientes contaminados por um tipo de "superbactéria"</segment>
+    <segment id="2">– as enterobactérias resistentes aos carbapenêmicos (CRE</segment>
+    <segment id="3">, na sigla em inglês) –</segment>
+    <segment id="4">e o isolamento precoce desses indivíduos reduzem a transmissão em áreas de internação de pronto-socorro (PS).</segment>
+    <segment id="5">No entanto</segment>
+    <segment id="6">, mantê-los por mais de dois dias na emergência compromete os esforços de contenção</segment>
+    <segment id="7">porque</segment>
+    <segment id="8">porque aumenta o risco de contaminação</segment>
+    <segment id="9">, a chamada colonização.</segment>
+    <segment id="10">Esses são os principais achados de uma pesquisa feita por um grupo da Faculdade de Medicina da Universidade de São Paulo (FM-USP).</segment>
+    <segment id="11">Os resultados foram divulgados na revista Clinical Infectious Diseases.</segment>
+    <segment id="12">A bactéria mais comum no estudo foi a Klebsiella pneumoniae</segment>
+    <segment id="13">, que pode levar à pneumonia e à infecção de corrente sanguínea - NIAD/Wikimedia CommonsAs enterobactérias são um tipo de bactéria (gram-negativas) que geralmente causam infecções em ambientes de saúde – hospitais e pronto-socorros – e incluem cepas</segment>
+    <segment id="14">comocomo a Escherichia coli</segment>
+    <segment id="15">, responsável por infecções urinárias e colite hemorrágica</segment>
+    <segment id="16">, e a Klebsiella pneumoniae</segment>
+    <segment id="17">, que pode levar à pneumonia e à infecção de corrente sanguínea.</segment>
+    <segment id="18">As CRE são consideradas ameaça à saúde pública pela dificuldade de tratamento.</segment>
+    <segment id="19">Os antibióticos carbapenêmicos geralmente são a última linha de defesa contra infecções provocadas por esses microrganismos.</segment>
+    <segment id="20">"</segment>
+    <segment id="21">Fizemos uma intervenção em um pronto-socorro superlotado</segment>
+    <segment id="22">, ou seja</segment>
+    <segment id="23">, um hotspot para transmissão de bactérias resistentes.</segment>
+    <segment id="24">Vimos que essa intervenção teve um impacto na redução de bactérias multirresistentes dentro do PS e também no próprio hospital"</segment>
+    <segment id="25">, diz à Agência Fapesp o médico infectologista Matias Chiarastelli Salomão</segment>
+    <segment id="26">, primeiro autor do artigo e integrante da Subcomissão de Controle de Infecção Hospitalar do Instituto Central do Hospital das Clínicas (HC) da FM-USP.</segment>
+    <segment id="27">Estudos anteriores realizados no Departamento de Emergência já haviam demonstrado que 6</segment>
+    <segment id="28">,8% dos pacientes admitidos são colonizados por CRE</segment>
+    <segment id="29">, com uma taxa de contaminação de 18% durante a internação no local.</segment>
+    <segment id="30">Relatório da Organização Mundial da Saúde (OMS)</segment>
+    <segment id="31">, publicado em 2022</segment>
+    <segment id="32">, apontou que a cada 100 pacientes internados em hospitais para cuidados intensivos</segment>
+    <segment id="33">, sete – em países de alta renda – e 15 – em países de baixa e média renda – adquirem ao menos uma infecção associada à atenção à saúde durante a internação.</segment>
+    <segment id="34">Em média</segment>
+    <segment id="35">, um a cada dez pacientes afetados morrerá por este motivo.</segment>
+    <segment id="36">De acordo com Salomão</segment>
+    <segment id="37">, um dos focos do trabalho foi tentar entender e buscar alternativas para impedir que infecções no pronto-socorro</segment>
+    <segment id="38">sese espalhassem para outras alas do hospital.  "</segment>
+    <segment id="39">A intervenção que usamos é pragmática e pode ser aplicada em outros locais.</segment>
+    <segment id="40">Sobre o resultado relacionado à internação na emergência por mais de dois dias comprometer os esforços de contenção</segment>
+    <segment id="41">, acreditamos que seja uma questão de estrutura do PS</segment>
+    <segment id="42">, que não é adaptada para ter pacientes de longo prazo.</segment>
+    <segment id="43">Ou seja</segment>
+    <segment id="44">, tem macas mais próximas</segment>
+    <segment id="45">, pontos de higiene de mãos mais distantes</segment>
+    <segment id="46">, entre outros"</segment>
+    <segment id="47">, complementa.</segment>
+    <segment id="48">Passo a passo</segment>
+    <segment id="49">A pesquisa foi conduzida no pronto-socorro do Hospital das Clínicas da USP</segment>
+    <segment id="50">, que tem 800 leitos.</segment>
+    <segment id="51">Muitas vezes</segment>
+    <segment id="52">, porém</segment>
+    <segment id="53">porém, o local está superlotado</segment>
+    <segment id="54">, abrigando o dobro de pacientes internados</segment>
+    <segment id="55">, com alguns permanecendo por mais de 11 dias.</segment>
+    <segment id="56">A Fapesp apoiou o estudo por meio de um Auxílio à Pesquisa concedido ao médico Icaro Boszczowski</segment>
+    <segment id="57">, coautor do artigo.</segment>
+    <segment id="58">O trabalho foi dividido em duas fases – uma realizada de 3 a 28 de fevereiro de 2020 (período de linha de base)</segment>
+    <segment id="59">, antes de o primeiro</segment>
+    <segment id="60">casocaso de Covid-19 chegar ao HC</segment>
+    <segment id="61">, e a outra entre 14 de setembro e 1º de outubro do mesmo ano (período de intervenção).</segment>
+    <segment id="62">O hospital ficou totalmente dedicado a casos de Covid entre 1º de abril e 31 de agosto de 2020</segment>
+    <segment id="63">, tendo sido reaberto gradualmente a outros tipos de internação depois desta data.</segment>
+    <segment id="64">A fase 1 consistiu em um período inicial para determinar a prevalência e a incidência de pacientes colonizados por CRE admitidos no pronto-socorro.</segment>
+    <segment id="65">Não houve intervenção nessa etapa e os pacientes internados por mais de 24 horas ficaram em macas e camas distribuídas próximas umas das outras</segment>
+    <segment id="66">, enquanto aguardavam transferência.</segment>
+    <segment id="67">Na fase 2 (período de intervenção)</segment>
+    <segment id="68">, indivíduos internados no PS passaram por triagem para CRE nas primeiras 24 horas.</segment>
+    <segment id="69">Os positivos para superbactérias eram colocados em isolamento até a alta – 90% dos isolados estavam infectados por Klebsiella pneumoniae.</segment>
+    <segment id="70">Em ambas as fases</segment>
+    <segment id="71">, os procedimentos de limpeza e desinfecção foram semelhantes e houve monitoramento de antimicrobianos.</segment>
+    <segment id="72">Bactéria gigante é encontrada em manguezal de GuadalupeMais    novamente         de   de  de  representando um    Resultado: a colonização na admissão foi de 3</segment>
+    <segment id="73">,4% por cultura e teste molecular.</segment>
+    <segment id="74">Já as taxas de contaminação por superbactéria durante a permanência no PS caíram de 4</segment>
+    <segment id="75">,6% para 1% durante a intervenção.</segment>
+    <segment id="76">O tempo de permanência maior do que dois dias foi o fator de risco para aquisição de CRE.</segment>
+    <segment id="77">"</segment>
+    <segment id="78">A ideia da pesquisa começou no próprio hospital</segment>
+    <segment id="79">, onde desde 2014 vem sendo realizado um protocolo de rastreio tanto semanal</segment>
+    <segment id="80">comocomo admissional nas Unidades de Terapia Intensiva [UTIs].</segment>
+    <segment id="81">Isso fez com que as taxas de colonização secundária caíssem de maneira importante.</segment>
+    <segment id="82">Mas um outro trabalho detectou que continuava havendo uma entrada de superbactérias por meio do pronto-socorro"</segment>
+    <segment id="83">, conta Salomão</segment>
+    <segment id="84">, que começou a estudar o tema em seu doutorado.</segment>
+    <segment id="85">Desse período</segment>
+    <segment id="86">, resultaram outros dois artigos</segment>
+    <segment id="87">, sendo o último publicado em 2020 na revista Emerging Infectious Disease.</segment>
+    <segment id="88">O artigo Transmission of Carbapenem-Resistant Enterobacterales in an Overcrowded Emergency Department: Controlling the Spread to the Hospital pode ser lido aqui.</segment>
+  </rst>
+</analysis>

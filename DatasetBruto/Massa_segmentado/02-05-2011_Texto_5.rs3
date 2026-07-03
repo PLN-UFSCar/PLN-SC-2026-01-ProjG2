@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Enem terá só uma edição este ano
+
+BRASÍLIA - O MEC bateu o martelo: este ano</segment>
+    <segment id="2">, só será realizada uma edição do Exame Nacional do Ensino Médio (Enem)</segment>
+    <segment id="3">, provavelmente em outubro.</segment>
+    <segment id="4">Nos próximos dias</segment>
+    <segment id="5">, o Inep divulgará edital com as regras das próximas edições.</segment>
+    <segment id="6">Existe a possibilidade de que o Enem venha a ser aplicado duas vezes ao ano a partir de 2012.</segment>
+    <segment id="7">Criado em 2009 para substituir o vestibular nas universidades públicas e até mesmo privadas</segment>
+    <segment id="8">, o novo Enem virou uma pedra no sapato do ministro Fernando Haddad.</segment>
+    <segment id="9">Em 2009</segment>
+    <segment id="10">, o vazamento das provas levou ao adiamento do exame.</segment>
+    <segment id="11">Em 2010</segment>
+    <segment id="12">, erros de impressão provocaram confusão no dia do teste e levaram a Justiça Federal a suspender o exame - decisão que acabou mudada em segunda instância.</segment>
+    <segment id="13">Haddad sempre declarou que um dos caminhos para superar os problemas do Enem seria promover mais edições do exame a cada ano.</segment>
+    <segment id="14">No MEC</segment>
+    <segment id="15">, avalia-</segment>
+    <segment id="16">sese que o governo e as empresas contratadas para executar o exame não teriam condições de fazer duas provas gerais este ano.</segment>
+    <segment id="17">O Inep estuda medidas para aprimorar o teste.</segment>
+  </rst>
+</analysis>

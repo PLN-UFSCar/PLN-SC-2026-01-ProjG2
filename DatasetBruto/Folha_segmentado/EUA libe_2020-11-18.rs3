@@ -1,0 +1,145 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Boeing 737 MAX foi liberado para voar pelas autoridades regulatórias dos Estados Unidos</segment>
+    <segment id="2">, 20 meses após ter sua operação suspensa em todo o mundo devido a um problema de software que causou dois acidentes fatais.</segment>
+    <segment id="3">A notícia</segment>
+    <segment id="4">, a primeira boa para a fabricante norte-americana na maior crise de seus 104 anos de história</segment>
+    <segment id="5">, fez sua ação subir até 5% na abertura da Bolsa de Nova York nesta quarta (18).</segment>
+    <segment id="6">Empresas de aviação e de turismo devem ser favorecidas também.</segment>
+    <segment id="7">Aviões Boeing 737</segment>
+    <segment id="8">MAX estacionados no aeroporto</segment>
+    <segment id="9">Grant County</segment>
+    <segment id="10">, em Moses Lake</segment>
+    <segment id="11">, Washington (EUA)  - Lindsay Wasson/ReutersA FAA (Administração Federal de Aviação)</segment>
+    <segment id="12">sese disse satisfeita com as diversas correções de projeto e de procedimentos de treinamento que a Boeing aplicou ao modelo</segment>
+    <segment id="13">, o mais vendido em termos de encomendas de sua história.</segment>
+    <segment id="14">"</segment>
+    <segment id="15">Eu estou 100% confortável com minha família voando nele"</segment>
+    <segment id="16">, disse o chefe da FAA</segment>
+    <segment id="17">, Stephen Dickson</segment>
+    <segment id="18">, que citou o "caminho longo e extenuante" que a revisão do 737 MAX exigiu.</segment>
+    <segment id="19">O avião teve sua produção suspensa em janeiro.</segment>
+    <segment id="20">Apesar da liberação</segment>
+    <segment id="21">, há ainda alguns passos pela frente.</segment>
+    <segment id="22">"</segment>
+    <segment id="23">A FAA deve aprovar a revisão do programa de treinamento de pilotos para cada empresa americana operando o MAX"</segment>
+    <segment id="24">, afirmou a agência em comunicado.</segment>
+    <segment id="25">A crise do MAX</segment>
+    <segment id="26">, que vai custar ao fim estimados US$ 18 bilhões (R$ 95 bilhões no câmbio desta quarta) à Boeing</segment>
+    <segment id="27">, acabou ampliada pela pandemia do novo coronavírus.</segment>
+    <segment id="28">Com a devastação do mercado aéreo</segment>
+    <segment id="29">, as empresas passaram a cancelar compras de aviões e a revisar pedidos futuros.</segment>
+    <segment id="30">No Brasil</segment>
+    <segment id="31">, a única empresa que opera o MAX</segment>
+    <segment id="32">, a Gol</segment>
+    <segment id="33">, teve 7 aeronaves paradas em solo e reduziu sua carteira de pedidos de 129 para 95.</segment>
+    <segment id="34">O avião era o maior best-seller da Boeing</segment>
+    <segment id="35">, com 5.000 encomendas</segment>
+    <segment id="36">, quando começou sua saga trágica.</segment>
+    <segment id="37">Em outubro de 2018</segment>
+    <segment id="38">, um modelo da Lion Air caiu no mar da Indonésia sem causa aparente</segment>
+    <segment id="39">, logo após a decolagem.</segment>
+    <segment id="40">Meses depois</segment>
+    <segment id="41">, em março de 2019</segment>
+    <segment id="42">, o mesmo ocorreu com um avião da Ethiopian Airlines</segment>
+    <segment id="43">, na Etiópia.</segment>
+    <segment id="44">Os sinais de alerta</segment>
+    <segment id="45">sese acendera e a frota foi paralisada no mundo todo para investigar o motivo das tragédias</segment>
+    <segment id="46">, que mataram ao todo 346 pessoas.</segment>
+    <segment id="47">Avião Boeing 737 MAX começa testes para retomada de voos   novamente         de   de  de  representando um  Há 387 modelos MAX entregues no mundo</segment>
+    <segment id="48">, mais 400 parados em pátios da Boeing</segment>
+    <segment id="49">, ainda sob guarda da empresa.</segment>
+    <segment id="50">A apuração revelou uma série de problemas no projeto do avião</segment>
+    <segment id="51">, questões conceituais que levaram à causa específica dos acidentes: uma falha de operação no sistema de software conhecido com MCAS</segment>
+    <segment id="52">, que corrige automaticamente o ângulo do nariz da aeronave.</segment>
+    <segment id="53">Grosso modo</segment>
+    <segment id="54">, o computador entendia incorretamente que o avião precisava baixar o nariz para nivelar e o fazia mergulhar rumo ao solo</segment>
+    <segment id="55">, sem responder a comandos dos pilotos.</segment>
+    <segment id="56">Para piorar</segment>
+    <segment id="57">, descobriu-</segment>
+    <segment id="58">sese que o treinamento de pilotagem era falho para lidar com o sistema.</segment>
+    <segment id="59">As investigações mostraram que</segment>
+    <segment id="60">, mesmo dentro da Boeing</segment>
+    <segment id="61">, as suspeitas sobre a tecnologia adotada eram conhecidas e temidas há tempos</segment>
+    <segment id="62">, e tinham a ver com a pressa em colocar o avião no mercado.</segment>
+    <segment id="63">Regulamentos federais foram alvo de chacota e falhas potenciais</segment>
+    <segment id="64">, escondidas.</segment>
+    <segment id="65">A isso</segment>
+    <segment id="66">sese somou o próprio modo de desenvolvimento da aeronave.</segment>
+    <segment id="67">Como toda a linha do 737</segment>
+    <segment id="68">, o avião mais vendido do mundo com 10.500 unidades produzidas desde 1967</segment>
+    <segment id="69">, o MAX era uma versão aprimorada de sua geração anterior.</segment>
+    <segment id="70">Como suas turbinas eram maiores</segment>
+    <segment id="71">, elas foram colocadas numa posição mais adiantada na asa para caber no modelo sem tocar o solo</segment>
+    <segment id="72">, o que mudou o centro de gravidade do avião.</segment>
+    <segment id="73">O MCAS era um sistema que buscava corrigir eventuais falhas em voo devido a essa mudança.</segment>
+    <segment id="74">Boeing 737 MAX questionado   novamente         de   de  de  representando um  Choques entre tecnologias falhas e treinamento de pilotos não são inéditos.</segment>
+    <segment id="75">A europeia Airbus teve de revisar procedimentos e sistemas de seu popular modelo A330 depois que um deles caiu no Atlântico</segment>
+    <segment id="76">, voando do Rio para Paris</segment>
+    <segment id="77">, matando 228 pessoas em 2009.</segment>
+    <segment id="78">Agora o sistema recebeu aprimoramento e a Boeing fez outras mudanças de engenharia</segment>
+    <segment id="79">, como</segment>
+    <segment id="80">como no cabeamento de sistemas dentro da cabine de comando.</segment>
+    <segment id="81">A decisão da FAA</segment>
+    <segment id="82">, que fez a investigação com a ajuda das agências reguladoras do Canadá</segment>
+    <segment id="83">, da União Europeia e do Brasil</segment>
+    <segment id="84">, a Anac</segment>
+    <segment id="85">, deverá ser seguida em todo o mundo pelos órgãos locais.</segment>
+    <segment id="86">Grandes operadoras do modelo</segment>
+    <segment id="87">, como</segment>
+    <segment id="88">como a americana United</segment>
+    <segment id="89">, estimam que ele de fato volte a operar no começo de 2021</segment>
+    <segment id="90">, a depender da demanda.</segment>
+    <segment id="91">A crise abalou profundamente a Boeing</segment>
+    <segment id="92">, maior fabricante aeroespacial do mundo.</segment>
+    <segment id="93">Devido a ela</segment>
+    <segment id="94">, e à pandemia</segment>
+    <segment id="95">, a empresa cancelou a compra da linha de aviação comercial da brasileira Embraer</segment>
+    <segment id="96">, em abril</segment>
+    <segment id="97">, gerando uma disputa que está num tribunal de arbitragem nos EUA.</segment>
+    <segment id="98">Trinta mil funcionários da empresa perderam o emprego no processo</segment>
+    <segment id="99">, inclusive seu presidente</segment>
+    <segment id="100">, Dennis Muilenburg —não sem antes embolsar uma multa de US$ 62 milhões (R$ 327 milhões hoje)</segment>
+    <segment id="101">, o que foi alvo de crítica de grupos de parentes de vítimas dos acidentes.</segment>
+    <segment id="102">O que a Boeing está fazendo com os 737 Max   novamente         de   de  de  representando um</segment>
+    <segment id="103">O novo chefe da empresa</segment>
+    <segment id="104">, David Calhoun</segment>
+    <segment id="105">, enviou uma carta aos funcionários da Boeing dizendo que irá trabalhar para restabelecer os voos do MAX o mais rapidamente possível e que nunca esqueceria das mortes.</segment>
+    <segment id="106">Enquanto prepara a volta do modelo ao ar</segment>
+    <segment id="107">, a Boeing terá de quebrar a cabeça para reconquistar a confiança dos passageiros.</segment>
+    <segment id="108">No fim do ano passado</segment>
+    <segment id="109">, uma pesquisa da empresa registrou que 40% dos passageiros ouvidos não voariam no avião</segment>
+    <segment id="110">, por exemplo.</segment>
+    <segment id="111">A Boeing já enfrentou problemas de credibilidade com incêndios a bordo do modelo 787 no começo de sua carreira</segment>
+    <segment id="112">, masmas eles foram ultrapassados.</segment>
+    <segment id="113">Mas há casos clássicos de modelos que nunca</segment>
+    <segment id="114">sese recuperaram no mercado após falhas</segment>
+    <segment id="115">, como</segment>
+    <segment id="116">como o primeiro avião comercial a jato do mundo</segment>
+    <segment id="117">, o britânico deHavilland Comet</segment>
+    <segment id="118">, que teve de redesenhar suas janelas após acidentes nos quais a fuselagem</segment>
+    <segment id="119">sese rompia em voo.</segment>
+  </rst>
+</analysis>

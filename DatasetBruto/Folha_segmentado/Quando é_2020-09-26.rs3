@@ -1,0 +1,138 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O pão salta da torradeira.</segment>
+    <segment id="2">Você abre o pote de geleia</segment>
+    <segment id="3">, e dá de cara com ela: uma camada de mofo olhando para você.</segment>
+    <segment id="4">O que você faz?</segment>
+    <segment id="5">A imagem pode causar repulsa</segment>
+    <segment id="6">, masmas talvez não o suficiente para desencorajar algumas pessoas de consumir o alimento.</segment>
+    <segment id="7">Mas será que isso é uma boa ideia?</segment>
+    <segment id="8">É importante prestar atenção no tipo de mofo do pão.</segment>
+    <segment id="9">- Getty ImagesA Food Standard Agency (FSA)</segment>
+    <segment id="10">, agência que regula produtos alimentícios no Reino Unido</segment>
+    <segment id="11">, não recomenda comer alimentos que estejam claramente estragados ou que contenham mofo.</segment>
+    <segment id="12">E afirma que a recomendação é especialmente importante para quem faz parte de grupos considerados vulneráveis</segment>
+    <segment id="13">, como</segment>
+    <segment id="14">como crianças</segment>
+    <segment id="15">, idosos</segment>
+    <segment id="16">, mulheres grávidas e pessoas com sistema imunológico debilitado.</segment>
+    <segment id="17">No entanto</segment>
+    <segment id="18">, o médico e apresentador Michael Mosley</segment>
+    <segment id="19">sese deliciou com geleia e uma variedade de outros produtos estragados</segment>
+    <segment id="20">, sob a orientação do especialista em mofo Patrick Hickey</segment>
+    <segment id="21">, para um documentário da BBC em 2014.</segment>
+    <segment id="22">A geleia com uma fina camada de mofo pode ser salva</segment>
+    <segment id="23">, diz ele.</segment>
+    <segment id="24">Se você retirar todo o mofo</segment>
+    <segment id="25">, além de alguns centímetros abaixo para garantir que vai jogar fora possíveis esporos imperceptíveis a olho nu</segment>
+    <segment id="26">, pode ser considerado seguro comê-la.</segment>
+    <segment id="27">E não é só a geleia que ainda pode ser comestível mesmo com um pouco de bolor</segment>
+    <segment id="28">, de acordo com a pesquisa de Michael Mosley.  FSA</segment>
+    <segment id="29">, agência que regula produtos alimentícios no Reino Unido</segment>
+    <segment id="30">, não recomenda consumir produtos mofados.</segment>
+    <segment id="31">- Getty ImagesQueijos</segment>
+    <segment id="32">Como são queijos secos</segment>
+    <segment id="33">, eles não oferecem a umidade necessária para o bolor prosperar.</segment>
+    <segment id="34">Normalmente</segment>
+    <segment id="35">, o mofo não penetra abaixo da superfície.</segment>
+    <segment id="36">Alguns queijos</segment>
+    <segment id="37">, é claro</segment>
+    <segment id="38">, são deliberadamente infectados com fungos.</segment>
+    <segment id="39">O Penicillium roqueforti é um fungo que dá sabor aos chamados queijos azuis</segment>
+    <segment id="40">, como</segment>
+    <segment id="41">como gorgonzola e roquefort.</segment>
+    <segment id="42">Já os queijos macios são os que mais requerem atenção.</segment>
+    <segment id="43">A presença de mofo sugere contaminação não apenas por fungos indesejáveis</segment>
+    <segment id="44">, masmas também por bactérias nocivas</segment>
+    <segment id="45">, como</segment>
+    <segment id="46">como listeria ou salmonela.</segment>
+    <segment id="47">Se estiverem mofados</segment>
+    <segment id="48">, jogue fora.</segment>
+    <segment id="49">Alguns queijos</segment>
+    <segment id="50">, como</segment>
+    <segment id="51">como gorgonzola e roquefort</segment>
+    <segment id="52">, são deliberadamente infectados com fungos.</segment>
+    <segment id="53">- Getty ImagesPães</segment>
+    <segment id="54">No fundo da embalagem</segment>
+    <segment id="55">, você encontra uma fatia de pão coberta por pequenos fragmentos de mofo branco e azul.</segment>
+    <segment id="56">Corte essas partes</segment>
+    <segment id="57">, coloque na torradeira e vai dar tudo certo</segment>
+    <segment id="58">, diz Hickey.</segment>
+    <segment id="59">Mas é preciso prestar muita atenção no tipo de mofo.</segment>
+    <segment id="60">Se você vir manchas de mofo laranjas</segment>
+    <segment id="61">, amarelas ou pretas</segment>
+    <segment id="62">, Hickey aconselha jogar o pão fora.</segment>
+    <segment id="63">A FSA adverte</segment>
+    <segment id="64">, por sua vez</segment>
+    <segment id="65">, contra comer pão mofado.</segment>
+    <segment id="66">E diz que o pão dormido pode ser usado com segurança em algumas receitas.</segment>
+    <segment id="67">Frutas</segment>
+    <segment id="68">, legumes e verduras</segment>
+    <segment id="69">As frutas normalmente duram mais do que os legumes e verduras</segment>
+    <segment id="70">, porque</segment>
+    <segment id="71">porque a acidez delas mantém longe as bactérias nocivas</segment>
+    <segment id="72">, masmas é preciso ficar de olho nas maçãs.</segment>
+    <segment id="73">Elas duram bastante tempo</segment>
+    <segment id="74">, masmas</segment>
+    <segment id="75">sese houver um furo na casca</segment>
+    <segment id="76">, os fungos podem entrar</segment>
+    <segment id="77">, alerta Hickey.</segment>
+    <segment id="78">"</segment>
+    <segment id="79">Houve surtos graves no passado</segment>
+    <segment id="80">, incidentes de pessoas sendo intoxicadas por tomar suco de maçã estragado</segment>
+    <segment id="81">, que continha uma toxina chamada patulina.</segment>
+    <segment id="82">"  Retirar a parte mofada não garante a remoção de todas as toxinas invisíveis</segment>
+    <segment id="83">, alerta a FSA.</segment>
+    <segment id="84">- Getty ImagesE que tal uma sopa feita com aquela cenoura e abobrinha ligeiramente viscosas esquecidas no fundo da geladeira?</segment>
+    <segment id="85">Melhor não.</segment>
+    <segment id="86">Essa espécie de gosma é causada por colônias de bactérias que crescem na superfície do alimento.</segment>
+    <segment id="87">"</segment>
+    <segment id="88">Você provavelmente teria uma dor de estômago terrível em algumas horas</segment>
+    <segment id="89">, seguida de cólicas estomacais e diarreia"</segment>
+    <segment id="90">, acrescenta Hickey.</segment>
+    <segment id="91">Amendoim</segment>
+    <segment id="92">, castanhas...  Castanhas e amendoins mofados são particularmente perigosos</segment>
+    <segment id="93">, porque</segment>
+    <segment id="94">porque abrigam um fungo chamado Aspergillus flavus.</segment>
+    <segment id="95">"</segment>
+    <segment id="96">Esse fungo produz uma das toxinas mais mortais conhecidas pela humanidade"</segment>
+    <segment id="97">, adverte Hickey.  "</segment>
+    <segment id="98">A toxina</segment>
+    <segment id="99">sese acumula no fígado e pode causar câncer de fígado.</segment>
+    <segment id="100">Se não houver mofo na casca e a parte interna estiver selada e protegida</segment>
+    <segment id="101">, então</segment>
+    <segment id="102">, não tem problema.</segment>
+    <segment id="103">"  E uma questão importante: você pode ser flexível com prazos de validade</segment>
+    <segment id="104">comocomo "consumir de preferência antes de" ou "vender até"</segment>
+    <segment id="105">, masmas não arrisque uma intoxicação alimentar grave ao comer alimentos após a data indicada para "consumir até"</segment>
+    <segment id="106">, acrescenta Hickey.</segment>
+    <segment id="107">O alerta da FSA</segment>
+    <segment id="108">Algumas espécies de mofo podem produzir toxinas conhecidas por terem efeitos adversos em seres humanos e também em animais.</segment>
+    <segment id="109">Embora seja possível que</segment>
+    <segment id="110">, ao retirar o mofo (e uma quantidade significativa do produto ao redor dele)</segment>
+    <segment id="111">, você consiga remover quaisquer toxinas invisíveis que estejam presentes no alimento</segment>
+    <segment id="112">, não há garantia de que isso removeria todas elas.</segment>
+  </rst>
+</analysis>

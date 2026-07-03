@@ -1,0 +1,95 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Anvisa (Agência Nacional de Vigilância Sanitária) informou nesta quarta-feira (9) que prorrogou por quatro meses</segment>
+    <segment id="2">, em caráter excepcional</segment>
+    <segment id="3">, a validade dos testes do Ministério da Saúde para detectar o novo coronavírus</segment>
+    <segment id="4">, que estavam perto de expirar.</segment>
+    <segment id="5">A própria agência reconheceu</segment>
+    <segment id="6">, no entanto</segment>
+    <segment id="7">, que negou pedidos semelhantes da iniciativa privada e promete trabalhar em novas normas</segment>
+    <segment id="8">para que</segment>
+    <segment id="9">para que esses testes também possam ter a validade prorrogada.</segment>
+    <segment id="10">As informações foram dadas pela diretora Cristiane Rose Jourdan Gomes</segment>
+    <segment id="11">, que participou na manhã desta quarta-feira (9) de audiência na comissão da Câmara dos Deputados que acompanha as ações de enfrentamento à pandemia da Covid-19.</segment>
+    <segment id="12">Quais os testes disponíveis para detectar o coronavírus?   novamente         de   de  de  representando um  O governo federal vem sendo criticado por não distribuir à rede pública e manter em um depósito em Guarulhos (Grande SP) milhões de testes para detectar o novo coronavírus</segment>
+    <segment id="13">, que perderiam em breve sua validade.</segment>
+    <segment id="14">Relatório do Ministério da Saúde mostrou que 6</segment>
+    <segment id="15">,86 milhões vencem até janeiro.</segment>
+    <segment id="16">Outros 212.900 testes vencem até fevereiro e mais 70.800</segment>
+    <segment id="17">, em março.</segment>
+    <segment id="18">Os exames são do tipo RT-PCR</segment>
+    <segment id="19">, considerados padrão-ouro para diagnóstico de Covid-19.</segment>
+    <segment id="20">A diretora da Anvisa informou que a data de validade dos lotes dos testes será prorrogada para 12 meses —</segment>
+    <segment id="21">comocomo a validade original era de 8 meses</segment>
+    <segment id="22">, a prorrogação será de quatro meses a partir do prazo inicial.</segment>
+    <segment id="23">Portanto</segment>
+    <segment id="24">, os testes que venceriam em dezembro serão prorrogados até abril.</segment>
+    <segment id="25">Gomes reforçou ainda que a extensão</segment>
+    <segment id="26">sese dá em forma excepcional e não ordinária.</segment>
+    <segment id="27">A diretora argumenta que a autorização é feita por algumas premissas</segment>
+    <segment id="28">, dentre elas o cenário atual de pandemia</segment>
+    <segment id="29">, a importância da testagem para evitar a propagação da doença</segment>
+    <segment id="30">, o aumento da demanda e o apontamento da área técnica da agência de que será possível elaborar uma estratégia para monitorar a qualidade do equipamento.</segment>
+    <segment id="31">Além disso</segment>
+    <segment id="32">, argumenta</segment>
+    <segment id="33">, a empresa fabricante dos testes</segment>
+    <segment id="34">, a Sigenes</segment>
+    <segment id="35">, tem certificado de boas práticas emitido pela Anvisa.</segment>
+    <segment id="36">Segundo a agência</segment>
+    <segment id="37">, as condições apresentadas ao Ministério da Saúde para a prorrogação da validade são análises mensais para avaliar a sensibilidade dos equipamentos</segment>
+    <segment id="38">, o envio de amostras mensais dos lotes para a Anvisa e a obrigatoriedade de elaboração de um plano de gerenciamento de riscos.</segment>
+    <segment id="39">“Gostaria de destacar as principais premissas que nos levaram a decidir de forma excepcional sobre a demanda apresentada pelo Ministério da Saúde.</segment>
+    <segment id="40">Todas essas premissas e a análise criteriosa dos técnicos nos levaram a um parecer favorável à extensão dos prazos para a validade dos kits diagnósticos adquiridos pelo Ministério da Saúde"</segment>
+    <segment id="41">, disse.</segment>
+    <segment id="42">A diretora foi questionada por parlamentares</segment>
+    <segment id="43">sese a mesma extensão de prazo atingiria também testes adquiridos pela iniciativa privada.</segment>
+    <segment id="44">Cristiane Jourdan Gomes afirmou então que os pedidos nesse</segment>
+    <segment id="45">casocaso vem sendo rejeitados pela agência.</segment>
+    <segment id="46">A diretora explica que parte dessa diferença de tratamentos</segment>
+    <segment id="47">sese dá</segment>
+    <segment id="48">porque</segment>
+    <segment id="49">porque os testes do Ministério da Saúde receberão autorização emergencial</segment>
+    <segment id="50">, uma medida excepcional</segment>
+    <segment id="51">Por outro lado</segment>
+    <segment id="52">, os testes da iniciativa privada passaram por um processo mais complexo e obtiveram o registro da agência.</segment>
+    <segment id="53">“</segment>
+    <segment id="54">A partir de setembro</segment>
+    <segment id="55">, outubro</segment>
+    <segment id="56">, a agência passou a receber diversas demandas do setor privado que afirmam haver em estoque um grande volume para diagnósticos in vitro registrados conforme a RDC 348 e prestes a vencer.</segment>
+    <segment id="57">Essa norma impossibilita a aplicação retroativa de novos prazos de validade aprovados pela Anvisa”</segment>
+    <segment id="58">, disse.</segment>
+    <segment id="59">“</segment>
+    <segment id="60">Por essa razão</segment>
+    <segment id="61">, a diretoria colegiada da Anvisa</segment>
+    <segment id="62">, amparada inclusive por manifestação jurídica da procuradoria federal junto à Anvisa</segment>
+    <segment id="63">, não vem autorizando as solicitações que foram recebidas até o momento”</segment>
+    <segment id="64">, afirmou.</segment>
+    <segment id="65">A diretora</segment>
+    <segment id="66">, no entanto</segment>
+    <segment id="67">, disse que os técnicos da agência estão analisando a possibilidade de novas resoluções</segment>
+    <segment id="68">, para que</segment>
+    <segment id="69">para que seja possível prorrogar os testes adquiridos pela iniciativa privada.</segment>
+  </rst>
+</analysis>

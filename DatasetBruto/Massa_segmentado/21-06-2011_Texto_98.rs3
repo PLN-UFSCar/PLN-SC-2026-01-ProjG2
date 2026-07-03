@@ -1,0 +1,49 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">‘Ele já foi tarde’</segment>
+    <segment id="2">, diz pai sobre filho</segment>
+    <segment id="3">Segundo o pai</segment>
+    <segment id="4">, Guguinha seria usuário de drogas</segment>
+    <segment id="5">O adolescente Ronaldo Santos Araújo</segment>
+    <segment id="6">, 17 anos</segment>
+    <segment id="7">, o Guguinha</segment>
+    <segment id="8">, foi assassinado a tiros</segment>
+    <segment id="9">, por volta das 13h de ontem</segment>
+    <segment id="10">, na rua Pitanga</segment>
+    <segment id="11">, bairro Jorge Amado</segment>
+    <segment id="12">, em Itabuna.</segment>
+    <segment id="13">Em entrevista ao site Vermelhinho da Bahia</segment>
+    <segment id="14">, o pai da vítima</segment>
+    <segment id="15">, Reinan Santos Araújo</segment>
+    <segment id="16">, disse que ele estava envolvido no mundo do crime e que o sentimento pela morte do filho era pequena.</segment>
+    <segment id="17">"</segment>
+    <segment id="18">Ele já foi tarde.</segment>
+    <segment id="19">Eu acho que ele roubava também</segment>
+    <segment id="20">, já que sempre aparecia com dinheiro em casa e não trabalhava"</segment>
+    <segment id="21">, declarou.</segment>
+    <segment id="22">Segundo o pai</segment>
+    <segment id="23">, Guguinha seria usuário de drogas.</segment>
+  </rst>
+</analysis>

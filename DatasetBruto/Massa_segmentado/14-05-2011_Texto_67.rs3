@@ -1,0 +1,35 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Mega-Sena acumula e próximo prêmio deverá pagar R$ 9 milhões
+
+Ninguém acertou os números do concurso 1283 da Mega-Sena e a estimativa para o próximo sorteio</segment>
+    <segment id="2">, terça-feira</segment>
+    <segment id="3">, é que o prêmio seja de R$ 9 milhões.</segment>
+    <segment id="4">As dezenas sorteadas foram 08 - 30 - 40 - 44 - 59 - 60.</segment>
+    <segment id="5">A quina teve 57 acertadores e cada um vai receber R$ 31.085</segment>
+    <segment id="6">,32 enquanto a quadra teve 4.333 acertadores e cada um vai receber R$ 584</segment>
+    <segment id="7">,17.</segment>
+  </rst>
+</analysis>

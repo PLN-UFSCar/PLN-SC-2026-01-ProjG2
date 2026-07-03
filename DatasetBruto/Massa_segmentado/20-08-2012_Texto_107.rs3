@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Atriz manda namorado nÃ£o falar de beijo</segment>
+    <segment id="2">Sandro aproveitou a chance para ganhar mais espaÃ§o na TV</segment>
+    <segment id="3">, em programas de fofoca
+Conhecida por seu temperamento forte</segment>
+    <segment id="4">, Suzana Vieira exigiu que o namorado</segment>
+    <segment id="5">, Sandro Pedroso</segment>
+    <segment id="6">, fechasse o bico e parasse de emitir comentÃ¡rios sobre o selinho dado em Christian Pior</segment>
+    <segment id="7">, repÃ³rter do â€œPÃ¢nico na Bandâ€.</segment>
+    <segment id="8">Segundo a colunista do R7</segment>
+    <segment id="9">, FabÃ­ola Reipert</segment>
+    <segment id="10">, a atriz nÃ£o gostou da brincadeira</segment>
+    <segment id="11">, apesar de ter dado o troco beijando Carol</segment>
+    <segment id="12">, outra repÃ³rter do programa.</segment>
+    <segment id="13">Ao contrÃ¡rio da noiva</segment>
+    <segment id="14">, o mÃ¡gico</segment>
+    <segment id="15">, mais bem-humorado</segment>
+    <segment id="16">, deve ter achado que era uma boa chance de aparecer na mÃ­dia</segment>
+    <segment id="17">, jÃ¡ que</segment>
+    <segment id="18">comocomo ator nÃ£o convenceu ninguÃ©m</segment>
+    <segment id="19">...</segment>
+  </rst>
+</analysis>

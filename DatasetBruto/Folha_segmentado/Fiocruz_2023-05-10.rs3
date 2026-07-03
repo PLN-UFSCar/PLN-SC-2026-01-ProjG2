@@ -1,0 +1,95 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um estudo da Fiocruz identificou quatro casos de pessoas infectadas pelo sorotipo 3 do vírus da dengue neste ano no Brasil.</segment>
+    <segment id="2">O país não registra epidemias da doença provocadas por essa cepa há mais de 15 anos.</segment>
+    <segment id="3">Especialistas temem uma nova onda da enfermidade provocada pela circulação desse subtipo.</segment>
+    <segment id="4">"</segment>
+    <segment id="5">É um indicativo de que poderemos voltar a ter</segment>
+    <segment id="6">, talvez não agora</segment>
+    <segment id="7">, masmas nos próximos meses ou anos</segment>
+    <segment id="8">, epidemias causadas por esse sorotipo"</segment>
+    <segment id="9">, diz o virologista Felipe Naveca</segment>
+    <segment id="10">, chefe do Núcleo de Vigilância de Vírus Emergentes</segment>
+    <segment id="11">, Reemergentes e Negligenciados da Fiocruz Amazônia e pesquisador do Laboratório de Arbovírus e Vírus Hemorrágicos do IOC/Fiocruz</segment>
+    <segment id="12">, que atua</segment>
+    <segment id="13">comocomo referência regional para dengue</segment>
+    <segment id="14">, febre amarela</segment>
+    <segment id="15">, chikungunya</segment>
+    <segment id="16">, zika e vírus do Nilo ocidental.</segment>
+    <segment id="17">O mosquito Aedes Aegypti é o transmissor da dengue</segment>
+    <segment id="18">; a vacina da Takeda Pharma apresentou uma eficácia geral de 80</segment>
+    <segment id="19">,2% contra a doença após 12 meses da aplicação da segunda dose - Shinji Kasai - 14.jul.18/AFP</segment>
+    <segment id="20">A dengue tem quatro sorotipos.</segment>
+    <segment id="21">Uma vez infectada por um deles</segment>
+    <segment id="22">, a pessoa tem imunidade temporária apenas para esse subtipo</segment>
+    <segment id="23">, podendo</segment>
+    <segment id="24">sese contaminar por outras cepas.</segment>
+    <segment id="25">Por isso</segment>
+    <segment id="26">, a circulação do sorotipo 3 acende o alerta para a possibilidade de uma nova epidemia</segment>
+    <segment id="27">, já que grande parte da população não tem defesas contra essa linhagem.</segment>
+    <segment id="28">Outra preocupação é pelo fato de casos graves da doença ocorrerem com maior frequência em pacientes que já tiveram dengue e são infectados novamente por outra cepa.</segment>
+    <segment id="29">O estudo foi coordenado pela Fiocruz Amazônia e pelo Instituto Oswaldo Cruz (IOC/Fiocruz).</segment>
+    <segment id="30">Os pesquisadores encontraram o sorotipo 3 em análises genéticas de três pessoas com dengue de Roraima</segment>
+    <segment id="31">, na região norte</segment>
+    <segment id="32">, e uma no Paraná</segment>
+    <segment id="33">, no sul do Brasil.</segment>
+    <segment id="34">Os casos de Roraima são todos autóctones</segment>
+    <segment id="35">, ou seja</segment>
+    <segment id="36">, os pacientes</segment>
+    <segment id="37">sese infectaram no estado</segment>
+    <segment id="38">, uma vez que não apresentavam histórico de viagem.</segment>
+    <segment id="39">Já no Paraná</segment>
+    <segment id="40">, a pessoa diagnosticada com a doença tinha vindo do Suriname.</segment>
+    <segment id="41">Veja medidas para evitar a proliferação do Aedes aegyptiMais    novamente         de   de  de  representando um</segment>
+    <segment id="42">Segundo o virologista Felipe Naveca</segment>
+    <segment id="43">, as análises genéticas indicam que a linhagem detectada agora não é a mesma que provocou epidemias no Brasil no começo dos anos 2000.</segment>
+    <segment id="44">"</segment>
+    <segment id="45">Nossos resultados mostraram que houve uma nova introdução do genótipo 3 do sorotipo 3 do vírus da dengue nas Américas</segment>
+    <segment id="46">, proveniente da Ásia.</segment>
+    <segment id="47">Essa linhagem está circulando na América Central e recentemente também infectou pessoas nos Estados Unidos"</segment>
+    <segment id="48">, explica.</segment>
+    <segment id="49">Os quatro casos foram inicialmente detectados pelos Laboratórios Centrais de Saúde Pública (Lacens) de Roraima e do Paraná</segment>
+    <segment id="50">, que são parceiros no estudo.</segment>
+    <segment id="51">Outras instituições também participam da análise</segment>
+    <segment id="52">, dentre as quais</segment>
+    <segment id="53">, o Instituto Evandro Chagas do Paraná</segment>
+    <segment id="54">, que é referência nacional para arboviroses (doenças causadas por vírus</segment>
+    <segment id="55">, principalmente</segment>
+    <segment id="56">, transmitidos por mosquitos).</segment>
+    <segment id="57">O Centro de Controle e Prevenção de Doenças dos Estados Unidos (CDC) — unidade Porto Rico e o departamento de saúde do estado da Flórida também contribuíram para a pesquisa.</segment>
+    <segment id="58">"</segment>
+    <segment id="59">Foram as equipes do CDC de Porto Rico e do departamento de saúde da Flórida que identificaram os casos de Cuba e dos Estados Unidos.</segment>
+    <segment id="60">Assim, esse é um alerta válido não só para o Brasil</segment>
+    <segment id="61">, masmas para toda a região das Américas.</segment>
+    <segment id="62">Tendo em vista estarmos vivendo um grande número de casos de arboviroses esse ano no Brasil</segment>
+    <segment id="63">, a detecção de um novo sorotipo do vírus da dengue não é uma boa notícia"</segment>
+    <segment id="64">, diz Felipe Naveca.</segment>
+    <segment id="65">Para compartilhar a informação de forma mais ágil</segment>
+    <segment id="66">, os resultados foram publicados em artigo pré-print na plataforma online medRxiv —isso significa que o trabalho não passou ainda pelo processo de revisão por pares.</segment>
+    <segment id="67">O estudo foi submetido também para a publicação em periódico científico</segment>
+    <segment id="68">, que é quando a pesquisa é avaliada e referendada por outros especialistas.  com BIANKA VIEIRA</segment>
+    <segment id="69">, KARINA MATIAS e MANOELLA SMITH</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,47 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Humala tenta</segment>
+    <segment id="2">sese afastar de Chávez e diz que EUA são parceiros estratégicos do Peru
+LIMA - O presidente eleito do Peru</segment>
+    <segment id="3">, Ollanta Humala</segment>
+    <segment id="4">, disse nesta terça-feira que delineará seu próprio caminho de governo e não vai imitar o presidente venezuelano</segment>
+    <segment id="5">, Hugo Chávez</segment>
+    <segment id="6">, apesar de ambos serem expoentes da esquerda regional.</segment>
+    <segment id="7">Militar reformado</segment>
+    <segment id="8">, Humala classificou os Estados Unidos</segment>
+    <segment id="9">comocomo um "parceiro estratégico" e disse que buscará uma cooperação com Washington na luta contra as drogas.
+- Acreditamos que o caminho do Peru é um caminho próprio</segment>
+    <segment id="10">, sem copiar o de outros países.</segment>
+    <segment id="11">Que isso fique bem claro - afirmou Humala em entrevista à agência de notícias Reuters.</segment>
+    <segment id="12">PARCEIROS: Brasil reforça aposta na economia peruana</segment>
+    <segment id="13">Humala disse que conversará com as empresas mineradoras para definir a porcentagem de um imposto planejado sobre lucros excepcionais do importante setor de mineração do Peru</segment>
+    <segment id="14">, grande produtor mundial de metais.</segment>
+    <segment id="15">Sobre a esperada nomeação de seus principais ministros</segment>
+    <segment id="16">, Humala adiantou que "serão personalidades que são honestas</segment>
+    <segment id="17">, que tenham experiência".</segment>
+    <segment id="18">Humala venceu no domingo as eleições mais disputadas da história do Peru contra a conservadora Keiko Fujimori</segment>
+    <segment id="19">, a preferida dos mercados e investidores.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Parquinho de gente grande</segment>
+    <segment id="2">A bailarina caçula do “Domingão do Faustão” tem arrancado suspiros dos cuecas</segment>
+    <segment id="3">A bailarina caçula do “Domingão do Faustão”</segment>
+    <segment id="4">, Dayane Alencar</segment>
+    <segment id="5">, de 20 anos</segment>
+    <segment id="6">, posou em fotos sensuais para o site Paparazzo e tem arrancado suspiros dos cuecas de plantão.</segment>
+    <segment id="7">O cenário foi um parque de diversões no Rio de Janeiro.</segment>
+    <segment id="8">No meio de briquedos</segment>
+    <segment id="9">comocomo carrossel</segment>
+    <segment id="10">, montanha russa e piscina de bolinhas</segment>
+    <segment id="11">, a gata</segment>
+    <segment id="12">sese divertiu no meio da sessão de fotos.</segment>
+    <segment id="13">“</segment>
+    <segment id="14">Tudo aqui é lindo!</segment>
+    <segment id="15">Achei a minha cara”</segment>
+    <segment id="16">, falou a gata</segment>
+    <segment id="17">, que diz ser exibida desde pequena.</segment>
+  </rst>
+</analysis>

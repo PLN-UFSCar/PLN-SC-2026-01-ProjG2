@@ -1,0 +1,250 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Esta é a edição da Combo</segment>
+    <segment id="2">, a newsletter de games da Folha.</segment>
+    <segment id="3">Quer recebê-la todas as terças no seu email?</segment>
+    <segment id="4">Inscreva-</segment>
+    <segment id="5">sese abaixo.</segment>
+    <segment id="6">ComboA newsletter da Folha com o que interessa sobre a indústria de games e com as dicas do que você ainda vai jogar.</segment>
+    <segment id="7">Carregando...</segment>
+    <segment id="8">A startup de inteligência artificial (IA) Inworld e a Xbox anunciaram no último dia 6 uma parceria para desenvolver plataformas de inteligência artificial para "enriquecer elementos de narrativa e criação de personagens no desenvolvimento de games".</segment>
+    <segment id="9">A ideia é que essas ferramentas sejam acessíveis para estúdios parceiros da Microsoft de todos os tamanhos.</segment>
+    <segment id="10">Quem é a Inworld?</segment>
+    <segment id="11">Fundada na Califórnia em 2021</segment>
+    <segment id="12">, a empresa desenvolve tecnologias baseadas em inteligência artificial com o objetivo de criar personagens para ocupar mundos virtuais.</segment>
+    <segment id="13">É comandada pelo CEO Ilya Gelfenbeyn</segment>
+    <segment id="14">, ex-funcionário do Google que deixou a empresa para fundar o novo negócio.</segment>
+    <segment id="15">A empresa vinha participando de diversas rodadas de investimento.</segment>
+    <segment id="16">Na última delas</segment>
+    <segment id="17">, em agosto</segment>
+    <segment id="18">, a Inworld arrecadou US$ 50 milhões (R$ 247 milhões) de fundos e empresas</segment>
+    <segment id="19">comocomo Samsung</segment>
+    <segment id="20">, LG e a própria Microsoft.</segment>
+    <segment id="21">Hoje, a principal vitrine para a sua tecnologia é o game gratuito "Inworld Origins".</segment>
+    <segment id="22">Nele, o jogador assume o papel de um detetive que chega ao local de uma explosão e precisa entrevistar uma série de testemunhas (todos personagens controlados por IA) para resolver o</segment>
+    <segment id="23">casocaso.</segment>
+    <segment id="24">Imagem do jogo &amp;#</segment>
+    <segment id="25">039;Inworld Origins&amp;#039</segment>
+    <segment id="26">;, que conta com personagens com inteligência artificial - DivulgaçãoProjetos a vista</segment>
+    <segment id="27">IA copiloto de design:</segment>
+    <segment id="28">Ferramenta que ajudará desenvolvedores e roteiristas a criar aspectos do universo do game</segment>
+    <segment id="29">, como</segment>
+    <segment id="30">como personagens</segment>
+    <segment id="31">, histórias de fundo e mecânicas.</segment>
+    <segment id="32">A ferramenta ajudaria a transformar ideias em roteiros completos</segment>
+    <segment id="33">, árvores de diálogo e missões.</segment>
+    <segment id="34">Motor de personagem IA: Programa que permite a inclusão de personagens controlados por IA em jogos.</segment>
+    <segment id="35">Esses NPCs (personagens não jogáveis) teriam voz e diálogos totalmente criados por inteligência artificial</segment>
+    <segment id="36">, sem a necessidade de criação de falas e dublagem.</segment>
+    <segment id="37">O que eles dizem</segment>
+    <segment id="38">"</segment>
+    <segment id="39">Queremos ajudar os desenvolvedores a tornar realidade suas visões de forma mais fácil</segment>
+    <segment id="40">, a tentar coisas novas</segment>
+    <segment id="41">, a ampliar os limites dos jogos e a experimentar e melhorar a jogabilidade".</segment>
+    <segment id="42">Haiyan Zhang</segment>
+    <segment id="43">, gerente geral de IA para jogos da Xbox.  "</segment>
+    <segment id="44">A IA permitirá mundos verdadeiramente imersivos e narrativas sofisticadas que colocam os jogadores no centro da fantasia".</segment>
+    <segment id="45">Bing Gordon</segment>
+    <segment id="46">, cofundador da EA e conselheiro da Inworld.</segment>
+    <segment id="47">Outras experiências  Em março</segment>
+    <segment id="48">, a Ubisoft anunciou a criação do Ghostwriter</segment>
+    <segment id="49">, uma ferramenta de IA para ajudar os redatores da empresa a criarem falas curtas para personagens secundários (chamados de "barks").</segment>
+    <segment id="50">O programa</segment>
+    <segment id="51">, porém</segment>
+    <segment id="52">porém, é bem mais simples do que os previstos na parceria da Xbox.</segment>
+    <segment id="53">O modelo da empresa francesa</segment>
+    <segment id="54">, por exemplo</segment>
+    <segment id="55">, exige a aprovação de um humano para todos os conteúdos criados por IA.</segment>
+    <segment id="56">A intriga</segment>
+    <segment id="57">O uso de IA para a criação de conteúdo em jogos é vista com muitas reservas pelos profissionais de áreas criativas</segment>
+    <segment id="58">, como</segment>
+    <segment id="59">como artistas e roteiristas.</segment>
+    <segment id="60">As principais críticas são:    Baixa qualidade:</segment>
+    <segment id="61">Os conteúdos produzidos por IA não têm a mesma qualidade artística daqueles produzidos por humanos.</segment>
+    <segment id="62">Robôs costumam criar conteúdos repetitivos e pouco criativos.</segment>
+    <segment id="63">Cópias sem controle:</segment>
+    <segment id="64">Quando treinadas com bases de dados abertas</segment>
+    <segment id="65">, podem criar conteúdos com influência de propriedades intelectuais de outras pessoas</segment>
+    <segment id="66">, sem respeitar direitos autorais.</segment>
+    <segment id="67">Precarização do trabalho:</segment>
+    <segment id="68">Os artistas temem que a popularização de ferramentas de IA resulte na diminuição do número de trabalhadores em empresas desenvolvedoras de games</segment>
+    <segment id="69">, resultando em desemprego e redução de salários.</segment>
+    <segment id="70">Em setembro</segment>
+    <segment id="71">, o sindicato que representa atores que trabalham na indústria de games aprovou uma indicação de adesão à greve dos atores de Hollywood.</segment>
+    <segment id="72">A paralisação</segment>
+    <segment id="73">, porém</segment>
+    <segment id="74">porém, não</segment>
+    <segment id="75">sese concretizou.</segment>
+    <segment id="76">ChatGPT mudou cenário da inteligência artificialMais    novamente         de   de  de  representando um</segment>
+    <segment id="77">Meu passado me condena</segment>
+    <segment id="78">Em janeiro</segment>
+    <segment id="79">, a Microsoft anunciou a demissão de 10 mil funcionários (cerca de 5% de sua força de trabalho) horas depois de seu CEO da empresa</segment>
+    <segment id="80">, Satya Nadella</segment>
+    <segment id="81">, fazer elogios à tecnologia de inteligência artificial.</segment>
+    <segment id="82">Os cortes atingiram ao menos três grandes estúdios de games da empresa:</segment>
+    <segment id="83">Bethesda responsável pela franquia "</segment>
+    <segment id="84">The Elder Scrolls</segment>
+    <segment id="85">"</segment>
+    <segment id="86">; 343 Industries</segment>
+    <segment id="87">, desenvolvedores dos últimos jogos da série "Halo"</segment>
+    <segment id="88">; e The Coalition</segment>
+    <segment id="89">, time por trás da franquia "Gears".</segment>
+    <segment id="90">Dias depois</segment>
+    <segment id="91">, a empresa anunciou "um investimento multibilionário de vários anos" na OpenIA</segment>
+    <segment id="92">, startup por trás do ChatGPT.</segment>
+    <segment id="93">Play  dica de game</segment>
+    <segment id="94">, novo ou antigo</segment>
+    <segment id="95">, para você testar  Jackbox Party Pack 10  (PC</segment>
+    <segment id="96">, PS 4/5</segment>
+    <segment id="97">, Switch e Xbox One/X/S)</segment>
+    <segment id="98">Em sua décima edição</segment>
+    <segment id="99">, a famosa série de jogos para festas finalmente ganha uma versão em português brasileiro.</segment>
+    <segment id="100">No próximo dia 16 (dia 25 na versão para Switch)</segment>
+    <segment id="101">, uma atualização permitirá que os jogadores optem pela versão nacional</segment>
+    <segment id="102">, que conta com conteúdo com referências à cultura brasileira</segment>
+    <segment id="103">, além de textos e dublagem em português.</segment>
+    <segment id="104">Pude experimentar a nova versão em acesso antecipado e fiquei bem surpreendido com o quão fundo os desenvolvedores mergulharam na cultura pop nacional para enriquecer o conteúdo para o país.</segment>
+    <segment id="105">O título tem cinco mini jogos para</segment>
+    <segment id="106">sese divertir em grupo</segment>
+    <segment id="107">, com a família e amigos</segment>
+    <segment id="108">, e rende boas risadas.</segment>
+    <segment id="109">O jornalista recebeu uma cópia do jogo para teste.</segment>
+    <segment id="110">Imagem do jogo &amp;#</segment>
+    <segment id="111">039;Tee K.O. 2&amp;#039</segment>
+    <segment id="112">;</segment>
+    <segment id="113">, que faz parte do game &amp;#</segment>
+    <segment id="114">039;The Jackbox Party Pack 10&amp;#039</segment>
+    <segment id="115">; - Divulgação   Update  novidades</segment>
+    <segment id="116">, lançamentos</segment>
+    <segment id="117">, negócios e o que mais importa   Foram anunciados nesta segunda os indicados para o The Game Awards</segment>
+    <segment id="118">, principal premiação de games do mundo.</segment>
+    <segment id="119">"</segment>
+    <segment id="120">Alan Wake 2" e "Baldur’s Gate 3" lideram em número de indicações</segment>
+    <segment id="121">, com oito cada um.</segment>
+    <segment id="122">Os dois disputam o prêmio de Jogo do Ano com "</segment>
+    <segment id="123">Marvel</segment>
+    <segment id="124">’s Spider-Man 2"</segment>
+    <segment id="125">, "</segment>
+    <segment id="126">Resident Evil</segment>
+    <segment id="127">4"</segment>
+    <segment id="128">, "</segment>
+    <segment id="129">Super Mario Bros.</segment>
+    <segment id="130">Wonder" e "The Legend of Zelda: Tears of the Kingdom".</segment>
+    <segment id="131">O Brasil está presente na premiação com dois jogos concorrendo na categoria de Melhor Jogo de Luta</segment>
+    <segment id="132">, com "God of Rock"</segment>
+    <segment id="133">, do estúdio brasiliense Modus Studios Brazil</segment>
+    <segment id="134">, e "Pocket Bravery"</segment>
+    <segment id="135">, do carioca Statera.</segment>
+    <segment id="136">Os dois</segment>
+    <segment id="137">, porém</segment>
+    <segment id="138">porém, são azarões na categoria que conta também com "Mortal Kombat 1"</segment>
+    <segment id="139">, "Street Fighter 6" e "</segment>
+    <segment id="140">Nickelodeon All-Star Brawl 2</segment>
+    <segment id="141">".</segment>
+    <segment id="142">A Nintendo está produzindo um filme baseado na série de games "The Legend of Zelda".</segment>
+    <segment id="143">O título em "live-action" (com atores reais) será dirigido por Wes Ball (da trilogia "Maze Runner") e contará com distribuição da Sony Pictures.</segment>
+    <segment id="144">O presidente da Nintendo</segment>
+    <segment id="145">, Shuntaro Furukawa</segment>
+    <segment id="146">, negou que a empresa tenha feito uma apresentação sobre o sucessor do Switch na última Gamescom</segment>
+    <segment id="147">, como</segment>
+    <segment id="148">como noticiado pelo site Eurogamer.</segment>
+    <segment id="149">Em comunicado para acionistas</segment>
+    <segment id="150">, ele afirmou que a empresa continuará a dar suporte ao console e que o produto "não está preso ao conceito tradicional de ciclo de vida das plataformas".</segment>
+    <segment id="151">A Valve lançou no último dia 9 novas versões do Steam Deck</segment>
+    <segment id="152">, seu console portátil para jogos de PC.</segment>
+    <segment id="153">Os novos modelos de 512 GB (US$ 549) e 1 TB (US$ 649) contarão com telas de OLED</segment>
+    <segment id="154">, capacidade de conexão Wi-Fi 6 (mais rápida) e bateria mais potente.</segment>
+    <segment id="155">Não há previsão de lançamento no Brasil.</segment>
+    <segment id="156">O novo "Call of Duty: Modern Warfare III" foi feito de forma apressada</segment>
+    <segment id="157">, submetendo os desenvolvedores da Activision a "crunch" (trabalho extra)</segment>
+    <segment id="158">, afirmou a Bloomberg.</segment>
+    <segment id="159">Segundo a publicação</segment>
+    <segment id="160">, o título foi lançado em apenas 16 meses ao invés de seguir o ciclo usual de cerca de 36 meses de desenvolvimento da série.</segment>
+    <segment id="161">A Netflix anunciou que o clássico jogo de plataforma "</segment>
+    <segment id="162">Braid" e o premiado roguelike de ação "Hades</segment>
+    <segment id="163">"</segment>
+    <segment id="164">chegarão aos dispositivos móveis para seus assinantes em 2024.</segment>
+    <segment id="165">A empresa anunciou ainda que novas séries de animação baseadas nas franquias de games "The Witcher" e "Devil May Cry" também devem chegar ao streaming no ano que vem.</segment>
+    <segment id="166">Sete estúdios brasileiros estão entre as dez empresas latinoamericanos selecionadas pelo Google para receber seu Indie Games Fund. Cada um dos contemplados receberá US$ 200 mil (R$ 981 mil) e apoio técnico para desenvolver um de seus jogos.</segment>
+    <segment id="167">A lista de ganhadores está disponível no site do programa.</segment>
+    <segment id="168">O jogo brasileiro "Wolfstride" está entre os títulos de estreia do Crunchyroll Game Vault</segment>
+    <segment id="169">, serviço de assinatura de jogos lançado pela Crunchyroll</segment>
+    <segment id="170">, serviço de streaming de animes.</segment>
+    <segment id="171">Assinantes das categorias Mega e Ultimate Fan poderão baixar sem custo extra versões mobile dos games incluídos no serviço.</segment>
+    <segment id="172">Como parte do festival MixBrasil</segment>
+    <segment id="173">, será realizada nos dias 18 e 19</segment>
+    <segment id="174">, no MIS</segment>
+    <segment id="175">, a mostra MixGames</segment>
+    <segment id="176">, que contará com quatro jogos brasileiros inéditos com temática Queer para serem testados.</segment>
+    <segment id="177">Os games selecionados para a exposição são "Pivot of Hearts"</segment>
+    <segment id="178">, "My True Self"</segment>
+    <segment id="179">, "Lipsync Killers" e "Hands of Timber".</segment>
+    <segment id="180">Download  games que serão lançados nos próximos dias e promoções que valem a pena  15.nov  "The Last</segment>
+    <segment id="181">Faith</segment>
+    <segment id="182">"</segment>
+    <segment id="183">: R$ 99 (Switch)</segment>
+    <segment id="184">, preço não disponível (PC</segment>
+    <segment id="185">, PS 4/5</segment>
+    <segment id="186">, Xbox One/X/S)  16.nov  "</segment>
+    <segment id="187">Assassin's</segment>
+    <segment id="188">Creed Nexus VR": preço não disponível (Quest)  "Flashback 2": R$ 97</segment>
+    <segment id="189">,19 (PC)</segment>
+    <segment id="190">, R$ 147</segment>
+    <segment id="191">,45 (Xbox One/X/S)</segment>
+    <segment id="192">, preço não disponível (PS 4/5</segment>
+    <segment id="193">, Switch)  17.nov  "</segment>
+    <segment id="194">Naruto X Boruto</segment>
+    <segment id="195">Ultimate Ninja</segment>
+    <segment id="196">Storm</segment>
+    <segment id="197">Connections</segment>
+    <segment id="198">"</segment>
+    <segment id="199">: R$ 229</segment>
+    <segment id="200">,90 (PC)</segment>
+    <segment id="201">, R$ 299</segment>
+    <segment id="202">,90 (PS 4/5</segment>
+    <segment id="203">, Xbox One/X/S</segment>
+    <segment id="204">, Switch)  "Persona 5 Tactica": R$ 299 (PC</segment>
+    <segment id="205">, PS 4/5</segment>
+    <segment id="206">, Xbox One/X/S</segment>
+    <segment id="207">, Switch)  "</segment>
+    <segment id="208">Super Mario RPG": R$ 299 (Switch)  Leituras da semanao que saiu sobre games na FolhaMario e Sonic</segment>
+    <segment id="209">sese reinventam em games 2D e reavivam rivalidade dos anos 1990Mascotes da Nintendo e da Sega reaparecem com nova roupagem em jogos com lançamentos quase simultâneosCrítica:</segment>
+    <segment id="210">&amp;#</segment>
+    <segment id="211">039;Sonic</segment>
+    <segment id="212">Superstars&amp;#039</segment>
+    <segment id="213">;</segment>
+    <segment id="214">é mediano por não saber aproveitar boas ideiasRazoável</segment>
+    <segment id="215">, novo jogo de plataforma do ouriço poderia ser refinado à perfeição</segment>
+    <segment id="216">sese produtora não quisesse inovar demaisCrítica: Desafiador</segment>
+    <segment id="217">, &amp;#039</segment>
+    <segment id="218">;Lies of P&amp;#039</segment>
+    <segment id="219">; resgata experiência de primeiro &amp;#039</segment>
+    <segment id="220">;Dark Souls&amp;#039</segment>
+    <segment id="221">;Jogo da sul-coreana</segment>
+    <segment id="222">Neowiz põe jogador em mundo distópico e inspirado no conto de fadas clássico &amp;#039</segment>
+    <segment id="223">;Pinóquio&amp;#039</segment>
+    <segment id="224">;</segment>
+  </rst>
+</analysis>

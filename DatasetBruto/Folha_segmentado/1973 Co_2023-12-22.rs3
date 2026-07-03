@@ -1,0 +1,33 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo do Japão decretou neste sábado (22) o "estado de emergência econômica" no país para enfrentar a grave crise internacional do petróleo.</segment>
+    <segment id="2">Essa medida dá poderes especiais para as autoridades japonesas controlarem a distribuição das fontes de energia e os custos dos artigos de primeira necessidade.</segment>
+    <segment id="3">O primeiro-ministro Kakuei Tanaka disse que o embargo de petróleo</segment>
+    <segment id="4">, feito por países árabes</segment>
+    <segment id="5">, atinge seriamente a economia do Japão e que não são boas as perspectivas de rápida solução.</segment>
+    <segment id="6">Ele pediu a cooperação do povo e declarou que o seu governo tem a intenção de assegurar o atendimento adequado das necessidades diárias.</segment>
+    <segment id="7">Primeira Página da Folha de 23 de dezembro de 1973 - Reprodução</segment>
+  </rst>
+</analysis>

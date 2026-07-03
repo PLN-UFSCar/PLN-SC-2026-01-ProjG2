@@ -1,0 +1,240 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O uso de inteligência artificial pelo INSS (Instituto Nacional do Seguro Social) na concessão de benefícios previdenciários com a intenção de diminuir a fila de pedidos tem levado a um alto índice de respostas negativas aos segurados</segment>
+    <segment id="2">, segundo informações do SINSSP (Sindicato dos Trabalhadores do Seguro Social e Previdência Social no Estado de São Paulo).</segment>
+    <segment id="3">A medida vem sendo chamada pelos servidores de "indeferimento automático"</segment>
+    <segment id="4">, em alusão à concessão automática de benefícios iniciada pelo instituto em maio de 2018.</segment>
+    <segment id="5">Nela, o segurado faz a solicitação e</segment>
+    <segment id="6">, sese houver o direito após o "robô</segment>
+    <segment id="7">" fazer a varredura da situação previdenciária do trabalhador</segment>
+    <segment id="8">, há a concessão.</segment>
+    <segment id="9">INSS usa inteligência artificial para conceder benefícios e número de negativas aumentam</segment>
+    <segment id="10">, diz sindicato - Gabriel Cabral/FolhapressCaso não seja possível liberar o benefício por falta de documentos</segment>
+    <segment id="11">, um funcionário público é acionado e é aberto um procedimento chamado de cumprimento de exigência</segment>
+    <segment id="12">, no qual o trabalhador precisa enviar a documentação provando o direito.</segment>
+    <segment id="13">Depois desse processo</segment>
+    <segment id="14">, há a liberação ou não da renda previdenciária.</segment>
+    <segment id="15">Segundo Vilma Ramos</segment>
+    <segment id="16">, diretora do sindicato</segment>
+    <segment id="17">, robôs estão sendo utilizados para fazer uma varredura na fila de pedidos e dar uma resposta ao segurado o quanto antes.</segment>
+    <segment id="18">A preocupação</segment>
+    <segment id="19">, no entanto</segment>
+    <segment id="20">, é com o alto índice de indeferimentos</segment>
+    <segment id="21">, de ao menos 300 mil benefícios negados nos últimos três meses</segment>
+    <segment id="22">, conforme estatística do sindicato.</segment>
+    <segment id="23">A Dataprev (empresa de tecnologia do governo federal) afirma que utiliza um sistema de inteligência artificial capaz de deferir ou indeferir benefícios.</segment>
+    <segment id="24">Em 2019</segment>
+    <segment id="25">, o órgão lançou a ferramenta Issac.</segment>
+    <segment id="26">A empresa diz que não são</segment>
+    <segment id="27">sese trata especificamente de robôs</segment>
+    <segment id="28">, masmas de uma ferramenta que</segment>
+    <segment id="29">, acoplada ao Meu INSS</segment>
+    <segment id="30">, faz concessão ou indeferimento de forma automática.</segment>
+    <segment id="31">"</segment>
+    <segment id="32">A partir do número de CPF do cidadão</segment>
+    <segment id="33">, o sistema consulta toda a vida laboral do requerente e submete as informações à análise para concessão do benefício.</segment>
+    <segment id="34">São calculados</segment>
+    <segment id="35">, por exemplo</segment>
+    <segment id="36">, tempo de contribuição e qualidade de segurado.</segment>
+    <segment id="37">"</segment>
+    <segment id="38">Imagem utilizada pela Dataprev em 2019</segment>
+    <segment id="39">, ao lançar a ferramenta Isaac para concessão automática no INSS - ReproduçãoLEIA MAIS SOBRE INSSAposentados por invalidez do INSS conseguem benefício integral na JustiçaINSS paga revisão dos auxílios</segment>
+    <segment id="40">;</segment>
+    <segment id="41">veja se</segment>
+    <segment id="42">se tem direitoINSS muda regras para liberar benefícios</segment>
+    <segment id="43">; confira as alteraçõesBenefícios assistenciais são alvo</segment>
+    <segment id="44">A sindicalista afirma que</segment>
+    <segment id="45">, com o uso de robôs e o aumento das negativas</segment>
+    <segment id="46">, os segurados mais carentes</segment>
+    <segment id="47">, que pedem o BCP/Loas (Benefício de Prestação Continuada</segment>
+    <segment id="48">, da Lei Orgânica de Assistência Social)</segment>
+    <segment id="49">, são os mais prejudicados.</segment>
+    <segment id="50">Isso porque</segment>
+    <segment id="51">porque</segment>
+    <segment id="52">, segundo Vilma</segment>
+    <segment id="53">, são os que estão esperando na fila por mais tempo e acabam sendo o alvo da ação da inteligência artificial.  "</segment>
+    <segment id="54">O gargalo do INSS está nos benefícios assistenciais.</segment>
+    <segment id="55">No caso</segment>
+    <segment id="56">caso desses indeferimentos automáticos</segment>
+    <segment id="57">, os benefícios que estão sendo mais prejudicados são esses</segment>
+    <segment id="58">, das pessoas que mais necessitam.</segment>
+    <segment id="59">Eles vão na fila</segment>
+    <segment id="60">, verificam quais são aqueles benefícios que estão represados há mais tempo e aí acionam o robô.</segment>
+    <segment id="61">"</segment>
+    <segment id="62">Um dos requisitos básicos para ter o BPC é estar no CadÚnico (Cadastro Único) do governo federal.</segment>
+    <segment id="63">"Se não estiver no CadÚnico</segment>
+    <segment id="64">, o robô identifica e já nega</segment>
+    <segment id="65">, sem que seja dada essa orientação ao segurado"</segment>
+    <segment id="66">, diz.</segment>
+    <segment id="67">Vilma considera que a negativa pode ser indevida</segment>
+    <segment id="68">, já que não houve análise de servidor para o</segment>
+    <segment id="69">casocaso.</segment>
+    <segment id="70">Se análise fosse feita por um servidor</segment>
+    <segment id="71">, por exemplo</segment>
+    <segment id="72">, o BPC não seria negado imediatamente</segment>
+    <segment id="73">, caso</segment>
+    <segment id="74">caso o funcionário público identificasse outros indícios de que o cidadão atende às regras de pobreza para ter a renda</segment>
+    <segment id="75">, masmas não tem o nome no CadÚnico.</segment>
+    <segment id="76">Neste caso</segment>
+    <segment id="77">caso, a orientação seria para cumprir a exigência de fazer parte do cadastro e levar documento comprovando essa condição</segment>
+    <segment id="78">, em prazo de até 30 dias.</segment>
+    <segment id="79">Em nota</segment>
+    <segment id="80">, a Dataprev afirma que "o requerimento só é despachado automaticamente quando as informações disponíveis permitem concluir de forma inequívoca pelo deferimento ou indeferimento"</segment>
+    <segment id="81">, dentro das normas legais do INSS</segment>
+    <segment id="82">, e diz ainda que a "inteligência artificial desenvolvida pela Dataprev não substitui a tomada de decisão de analistas do INSS</segment>
+    <segment id="83">; apenas faz a triagem dos casos simples".</segment>
+    <segment id="84">Os últimos dados do INSS mostram que a fila de pedidos de benefícios atingiu 1</segment>
+    <segment id="85">,6 milhão em março</segment>
+    <segment id="86">, 200 mil a menos do que no início do ano.</segment>
+    <segment id="87">No entanto</segment>
+    <segment id="88">, informações da Previdência mostram que</segment>
+    <segment id="89">, em fevereiro</segment>
+    <segment id="90">, apenas na fila da perícia médica havia mais de um milhão de cidadãos à espera de atendimento.</segment>
+    <segment id="91">O sindicato diz ainda que</segment>
+    <segment id="92">, após o início da greve da categoria</segment>
+    <segment id="93">, a fila chega a dois milhões de pedidos.</segment>
+    <segment id="94">Benefícios da Previdência Social</segment>
+    <segment id="95">Mais    novamente         de   de  de  representando um  Inteligência artificial começou a ser usada há cerca de 20 anos</segment>
+    <segment id="96">O uso de inteligência artificial no INSS data da primeira década dos anos 2000</segment>
+    <segment id="97">, quando</segment>
+    <segment id="98">, por volta de 2008</segment>
+    <segment id="99">, o instituto começou a utilizar meios tecnológicos para identificar o direito à aposentadoria por idade.</segment>
+    <segment id="100">Naquela época</segment>
+    <segment id="101">, o segurado que atingia a idade mínima e tinha a carência mínima (15 anos de contribuição) recebia uma carta informando que já podia fazer o pedido de aposentadoria.</segment>
+    <segment id="102">Em 2018</segment>
+    <segment id="103">, foi iniciada a concessão automática dos benefícios.</segment>
+    <segment id="104">Mas, para o sindicato</segment>
+    <segment id="105">, atualmente a estratégia é outra.</segment>
+    <segment id="106">"</segment>
+    <segment id="107">A lógica da concessão automática era reconhecer o direito do segurado.</segment>
+    <segment id="108">Hoje, não.</segment>
+    <segment id="109">Hoje, a meta é acabar com o estoque.</segment>
+    <segment id="110">Faz-se</segment>
+    <segment id="111">se uma varredura no sistema</segment>
+    <segment id="112">, verifica</segment>
+    <segment id="113">sese tem o direito e</segment>
+    <segment id="114">, sese não tiver</segment>
+    <segment id="115">, indefere.</segment>
+    <segment id="116">É o indeferimento automático"</segment>
+    <segment id="117">, afirma Vilma.</segment>
+    <segment id="118">Em mensagem enviada ao Congresso com a medida provisória 1.113</segment>
+    <segment id="119">, que estabelece pente-fino nos benefícios</segment>
+    <segment id="120">, o governo indica a preocupação com a fila e afirma que automatização é uma forma de tentar reduzi-la.</segment>
+    <segment id="121">"</segment>
+    <segment id="122">A redução do represamento do estoque de benefícios previdenciários tem sido perseguida pelo governo federal desde o início de 2019.</segment>
+    <segment id="123">A automatização e a digitalização de requerimentos</segment>
+    <segment id="124">, a modernização de fluxos e rotinas nos processos de trabalho e a contratação por tempo determinado</segment>
+    <segment id="125">, foram medidas que trouxeram resultados positivos"</segment>
+    <segment id="126">, diz o documento.</segment>
+    <segment id="127">Confira as respostas às principais dúvidas dos trabalhadores sobre o INSSMais    novamente         de   de  de  representando</segment>
+    <segment id="128">um  Instrução normativa mudou regra para indeferimentos</segment>
+    <segment id="129">A instrução normativa 128</segment>
+    <segment id="130">, de 29 de março deste ano</segment>
+    <segment id="131">, mudou as regras sobre o indeferimento de benefícios</segment>
+    <segment id="132">, o que pode prejudicar o segurado e atinge diretamente as negativas feitas por meio de inteligência artificial.</segment>
+    <segment id="133">Segundo a IN</segment>
+    <segment id="134">, quando a solicitação do segurado for negada por falta de documentação indispensável à concessão</segment>
+    <segment id="135">, não caberá recurso ao CRPS (Conselho Regional de Previdência Social)</segment>
+    <segment id="136">, que poderia reverter a negativa.</segment>
+    <segment id="137">O pedido</segment>
+    <segment id="138">, neste</segment>
+    <segment id="139">casocaso</segment>
+    <segment id="140">, é arquivado</segment>
+    <segment id="141">, e o segurado terá de entrar com nova solicitação</segment>
+    <segment id="142">, deixando para trás os atrasados a que teria direito.</segment>
+    <segment id="143">A advogada Adriane Bramante</segment>
+    <segment id="144">, presidente do IBDP (Instituto Brasileiro de Direito Previdenciário)</segment>
+    <segment id="145">, afirma que o segurado que tem um pedido indeferido pelo INSS deve ficar atento e tentar reverter a negativa de qualquer forma.</segment>
+    <segment id="146">Ela orienta o trabalhador a entrar com o recurso</segment>
+    <segment id="147">, mesmo que a lei diga que não há o direito.</segment>
+    <segment id="148">LEIA TAMBEMSaiba agendar nova perícia na greve dos peritos do INSSDocumentação trava aposentadoria do INSS com tempo especialRevisão do INSS pode até reduzir aposentadoria</segment>
+    <segment id="149">; veja</segment>
+    <segment id="150">comocomo evitar erros"Você tem o direito de entrar com o recurso.</segment>
+    <segment id="151">Se fez um requerimento e não apresentou nenhum elemento que não permita análise do direito deverá ser convocado para a exigência.</segment>
+    <segment id="152">A lei diz que</segment>
+    <segment id="153">, sese o INSS indeferir por esse motivo</segment>
+    <segment id="154">, não cabe recurso</segment>
+    <segment id="155">, masmas</segment>
+    <segment id="156">, na verdade</segment>
+    <segment id="157">, o INSS não tem competência para dizer</segment>
+    <segment id="158">sese o recurso é cabível ou não</segment>
+    <segment id="159">, uma vez que o indeferimento cabe ao Conselho de Recursos.</segment>
+    <segment id="160">"  Para Roberto de Carvalho Santos</segment>
+    <segment id="161">, do Ieprev (Instituto de Estudos Previdenciários)</segment>
+    <segment id="162">, as negativas de benefícios por meio de "robôs" cerceiam ainda mais o direito dos segurados.</segment>
+    <segment id="163">"</segment>
+    <segment id="164">A inteligência artificial tem sido usada para facilitar</segment>
+    <segment id="165">, um exemplo é no Judiciário.</segment>
+    <segment id="166">Mas a decisão tomada por um robô sem que isso seja destacado e deixado claro para o cidadão é absurdo sob o ponto de vista da dignidade da pessoa humana.</segment>
+    <segment id="167">O robô não vai conseguir fazer aquela análise humana da concessão do benefício mais favorável"</segment>
+    <segment id="168">, diz.</segment>
+    <segment id="169">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="170">; aberta para não assinantes.</segment>
+    <segment id="171">Carregando...</segment>
+    <segment id="172">Investimento em tecnologia ainda é baixo</segment>
+    <segment id="173">, diz IBDP</segment>
+    <segment id="174">Para Adriane</segment>
+    <segment id="175">, as falhas no INSS devem ser sanadas com investimento na contratação de servidores</segment>
+    <segment id="176">, treinamento aos funcionários e ainda mais melhorias na área tecnológica</segment>
+    <segment id="177">, que apresenta falhas e impede o andamento de requerimentos no órgão.</segment>
+    <segment id="178">Segundo o sindicato</segment>
+    <segment id="179">, há hoje 19</segment>
+    <segment id="180">,5 mil servidores no órgão</segment>
+    <segment id="181">, masmas seriam necessários ao menos 30 mil para dar conta da demanda represada de pedidos.</segment>
+    <segment id="182">Vilma aponta ainda que é preciso investir no treinamento de novos contratados</segment>
+    <segment id="183">, masmas diz que não há previsão de concurso.</segment>
+    <segment id="184">Os funcionários administrativos do INSS iniciaram uma greve em 23 de março e ainda estão de braços cruzados.</segment>
+    <segment id="185">Como boa parte segue em home office</segment>
+    <segment id="186">, a paralisação consiste</segment>
+    <segment id="187">, neste</segment>
+    <segment id="188">casocaso</segment>
+    <segment id="189">, em não cumprir as metas estabelecidas.</segment>
+    <segment id="190">Além disso</segment>
+    <segment id="191">, os funcionários reclamam que o sistema do Meu INSS</segment>
+    <segment id="192">, usado nas concessões</segment>
+    <segment id="193">, é falho e provoca ainda mais atrasos.</segment>
+    <segment id="194">Levantamento do IBDP mostra que</segment>
+    <segment id="195">, mesmo com o uso da inteligência artificial</segment>
+    <segment id="196">, o investimento em tecnologia no INSS é menor</segment>
+    <segment id="197">sese comparado a outros órgãos.</segment>
+    <segment id="198">O estudo compara os valores destinados à Receita Federal e ao instituto.</segment>
+    <segment id="199">Mesmo com os cortes de 2022</segment>
+    <segment id="200">, o orçamento destinado ao fisco está previsto em R$ 1</segment>
+    <segment id="201">,3 bilhão e</segment>
+    <segment id="202">, ao INSS</segment>
+    <segment id="203">, em R$ 453 milhões.  "</segment>
+    <segment id="204">A reforma da previdência social</segment>
+    <segment id="205">, aprovada em 2019</segment>
+    <segment id="206">, agravou os problemas.</segment>
+    <segment id="207">Novas regras foram criadas</segment>
+    <segment id="208">, muitas extremamente complexas</segment>
+    <segment id="209">, e a Dataprev parece não estar conseguindo acompanhar todas as mudanças"</segment>
+    <segment id="210">, diz Emerson Lemes</segment>
+    <segment id="211">, diretor do IBDP.</segment>
+    <segment id="212">"</segment>
+    <segment id="213">Esses dados dizem muito sobre os problemas enfrentados tanto pelos servidores quanto pelos segurados"</segment>
+    <segment id="214">, afirma.</segment>
+  </rst>
+</analysis>

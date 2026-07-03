@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Chuva adia interdição na descida da Serra de Petrópolis
+RIO - A chuva intensa provocou adiamento da operação de reversão de pista na descida da Serra de Petrópolis</segment>
+    <segment id="2">, prevista inicialmente para a madrugada desta terça-feira para a passagem de nove carretas de grande porte.</segment>
+    <segment id="3">A nova operação foi programada para a madrugada do dia 5</segment>
+    <segment id="4">, quando as carretas subirão a Serra de Petrópolis pela pista de descida.</segment>
+    <segment id="5">O tráfego ficará temporariamente interditada aos demais usuários entre os kms 80 (Petrópolis) e 104 (Duque de Caxias)</segment>
+    <segment id="6">, a partir de zero hora de quinta-feira.</segment>
+    <segment id="7">Segundo a Concer</segment>
+    <segment id="8">, a operação terá a duração de duas horas e poderá ser adiada</segment>
+    <segment id="9">sese houver mau tempo.</segment>
+    <segment id="10">As carretas farão paradas durante o trajeto para permitir a reabertura do tráfego e evitar eventuais retenções.</segment>
+    <segment id="11">Não haverá interferência na pista de subida durante a operação.</segment>
+    <segment id="12">A partir do km 80</segment>
+    <segment id="13">, as carretas seguirão viagem pela mão normal da rodovia.</segment>
+  </rst>
+</analysis>

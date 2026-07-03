@@ -1,0 +1,116 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Os supermercados brasileiros estão buscando ampliar o número de marcas de produtos e a variedade de preços para tentar driblar os efeitos da inflação</segment>
+    <segment id="2">, indicou nesta quinta-feira (9) o vice-presidente institucional e administrativo da Abras (Associação Brasileira de Supermercados)</segment>
+    <segment id="3">, Marcio Milan.  "</segment>
+    <segment id="4">A gente tem visto um esforço dos supermercados para trazer marcas e preços alternativos.</segment>
+    <segment id="5">O consumidor está pesquisando mais</segment>
+    <segment id="6">, e há promoções"</segment>
+    <segment id="7">, disse.</segment>
+    <segment id="8">Em 12 meses</segment>
+    <segment id="9">, até outubro</segment>
+    <segment id="10">, a inflação oficial do país</segment>
+    <segment id="11">, medida pelo IPCA (Índice Nacional de Preços ao Consumidor Amplo)</segment>
+    <segment id="12">, avançou 10</segment>
+    <segment id="13">,67%.</segment>
+    <segment id="14">No grupo alimentação e bebidas</segment>
+    <segment id="15">, a alta foi maior</segment>
+    <segment id="16">, de 11</segment>
+    <segment id="17">,71%.</segment>
+    <segment id="18">O dirigente citou a estratégia durante apresentação sobre o consumo nos lares de produtos vendidos pelo setor.</segment>
+    <segment id="19">Em outubro</segment>
+    <segment id="20">, o consumo recuou 0</segment>
+    <segment id="21">,24% em volume</segment>
+    <segment id="22">, na comparação com igual mês de 2020</segment>
+    <segment id="23">, segundo a Abras.</segment>
+    <segment id="24">No acumulado do ano</segment>
+    <segment id="25">, até outubro</segment>
+    <segment id="26">, o indicador registra avanço</segment>
+    <segment id="27">, de 3</segment>
+    <segment id="28">,14%.</segment>
+    <segment id="29">A associação avalia que a inflação alta pesa no bolso dos consumidores neste momento</segment>
+    <segment id="30">, já que diminui o poder de compra da população.</segment>
+    <segment id="31">Supermercado vende carnes em Santo André - Rivaldo Gomes - 26.nov.2021/FolhapressSegundo Milan</segment>
+    <segment id="32">, a ampliação de marcas ajudou o consumo a subir 4</segment>
+    <segment id="33">,95% em outubro</segment>
+    <segment id="34">, sese comparado a setembro.</segment>
+    <segment id="35">O dirigente ainda lembrou que outubro teve 31 dias</segment>
+    <segment id="36">, um a mais do que o mês anterior</segment>
+    <segment id="37">, o que também levou o resultado para cima na margem.</segment>
+    <segment id="38">No acumulado do ano</segment>
+    <segment id="39">, até dezembro</segment>
+    <segment id="40">, a Abras segue com a projeção de avanço de 4</segment>
+    <segment id="41">,5% no consumo</segment>
+    <segment id="42">, masmas não descarta uma revisão para baixo</segment>
+    <segment id="43">, segundo Milan.</segment>
+    <segment id="44">A entidade associa o possível crescimento no acumulado a fatores</segment>
+    <segment id="45">comocomo aberturas de lojas —foram 650 ao longo do ano— e menos restrições a atividades.</segment>
+    <segment id="46">"</segment>
+    <segment id="47">Em 2020</segment>
+    <segment id="48">, novembro e dezembro foram meses de restrições.</segment>
+    <segment id="49">E estamos falando de no mínimo 650 lojas novas neste ano.</segment>
+    <segment id="50">O número [acumulado do ano] tende a aumentar</segment>
+    <segment id="51">, masmas talvez não chegue aos 4</segment>
+    <segment id="52">,5%", indicou Milan.</segment>
+    <segment id="53">Natal</segment>
+    <segment id="54">Mesmo com a pressão inflacionária</segment>
+    <segment id="55">, a Abras prevê alta de 14% no consumo de produtos de Natal</segment>
+    <segment id="56">, em termos de volume</segment>
+    <segment id="57">, neste ano.</segment>
+    <segment id="58">Essa lista inclui itens</segment>
+    <segment id="59">comocomo panetones e aves.</segment>
+    <segment id="60">A projeção de avanço</segment>
+    <segment id="61">, disse Milan</segment>
+    <segment id="62">, está associada a fatores</segment>
+    <segment id="63">comocomo o aumento no número de marcas</segment>
+    <segment id="64">, além da derrubada de medidas restritivas para frear a Covid-19.</segment>
+    <segment id="65">A pesquisa da Abras contempla diferentes tipos de lojas</segment>
+    <segment id="66">, de supermercados tradicionais a minimercados</segment>
+    <segment id="67">, hipermercados</segment>
+    <segment id="68">, atacarejos e ecommerce.</segment>
+    <segment id="69">Em outubro</segment>
+    <segment id="70">, o gasto com uma cesta de 35 produtos de largo consumo cresceu 2</segment>
+    <segment id="71">,20% em relação a setembro</segment>
+    <segment id="72">, para R$ 700</segment>
+    <segment id="73">,04, calcula a entidade.</segment>
+    <segment id="74">Na comparação com outubro do ano passado</segment>
+    <segment id="75">, a cesta ficou mais cara em 17</segment>
+    <segment id="76">,27%.</segment>
+    <segment id="77">A Grande Porto Alegre teve o maior valor desses itens em outubro: R$ 795</segment>
+    <segment id="78">,45.</segment>
+    <segment id="79">Cuiabá (MT)</segment>
+    <segment id="80">, por sua vez</segment>
+    <segment id="81">, registrou o mais baixo: R$ 540</segment>
+    <segment id="82">,07.</segment>
+    <segment id="83">As maiores altas de preços em outubro</segment>
+    <segment id="84">, frente a setembro</segment>
+    <segment id="85">, foram de tomate (28</segment>
+    <segment id="86">,8%), batata (24</segment>
+    <segment id="87">,1%), frango congelado (6</segment>
+    <segment id="88">,3%), café torrado e moído (6</segment>
+    <segment id="89">,11%) e açúcar (4</segment>
+    <segment id="90">,8%).</segment>
+  </rst>
+</analysis>

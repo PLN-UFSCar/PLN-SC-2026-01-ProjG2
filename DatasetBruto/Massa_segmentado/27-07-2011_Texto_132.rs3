@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Dani Sperle
+Ela é a peladona da vez na revista Sexy</segment>
+    <segment id="2">A modelo é considerada</segment>
+    <segment id="3">comocomo a nova musa dos gramados brasileiros</segment>
+    <segment id="4">, por ter uma amizade colorida com o jogador Adriano</segment>
+    <segment id="5">, o Imperador.</segment>
+    <segment id="6">Dani Sperle</segment>
+    <segment id="7">, por sinal</segment>
+    <segment id="8">, será a capa da revista masculina 'Sexy' do mês de agosto.</segment>
+    <segment id="9">Algumas fotos para degustação podem ser vistas aqui no seu Jornal MASSA!.</segment>
+    <segment id="10">Confira!</segment>
+  </rst>
+</analysis>

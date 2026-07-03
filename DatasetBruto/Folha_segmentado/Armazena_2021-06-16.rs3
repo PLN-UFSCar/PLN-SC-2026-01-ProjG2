@@ -1,0 +1,154 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O transporte e a armazenagem de 150 milhões de comprovantes impressos de votos traria um enorme risco de fraude na eleição brasileira.</segment>
+    <segment id="2">Esse é o alerta do Tribunal Superior Eleitoral (TSE)</segment>
+    <segment id="3">, em resposta a reportagem publicada pela Folha que mostrou Brasil</segment>
+    <segment id="4">, Bangladesh e Butão</segment>
+    <segment id="5">comocomo os únicos países a adotar a votação por urna eletrônica sem registro em papel em larga escala em eleições nacionais.</segment>
+    <segment id="6">Segundo levantamento da Folha</segment>
+    <segment id="7">, a maioria dos países que usa urnas eletrônicas adota máquinas que imprimem um comprovante em papel (o tal voto impresso)</segment>
+    <segment id="8">, enquanto o Brasil ainda utiliza os aparelhos puramente eletrônicos.</segment>
+    <segment id="9">Os EUA usam voto eletrônico sem registro impresso em menos de 5% das urnas e a Rússia</segment>
+    <segment id="10">, em 2018</segment>
+    <segment id="11">, em 9%.</segment>
+    <segment id="12">Confira as principais notícias falsas sobre fraude nas urnas eletrônicas compartilhadas nas redes   novamente         de   de  de  representando um  No Brasil</segment>
+    <segment id="13">, uma nova discussão sobre a implantação de um comprovante de voto impresso foi puxada pelo presidente Jair Bolsonaro</segment>
+    <segment id="14">, que alega possíveis fraudes nas urnas eletrônicas sem nunca ter apresentado provas ou indícios.</segment>
+    <segment id="15">Nunca houve evidências de fraudes nas urnas eletrônicas</segment>
+    <segment id="16">, em uso desde 1996.</segment>
+    <segment id="17">Atualmente uma proposta de emenda à Constituição sobre isso é discutida no Congresso</segment>
+    <segment id="18">, masmas o TSE já sinalizou que não haverá tempo para sua implementação em 2022</segment>
+    <segment id="19">, mesmo que aprovada na Câmara e no Senado.</segment>
+    <segment id="20">O TSE se</segment>
+    <segment id="21">se opõe ao voto impresso principalmente por causa do histórico de fraudes no Brasil no período em que a votação era feita com cédulas de papel</segment>
+    <segment id="22">, contadas manualmente.</segment>
+    <segment id="23">“</segment>
+    <segment id="24">A impressão de registro do voto após a votação na urna eletrônica iria reintroduzir a intervenção do homem nas fases mais críticas do processo e agregar os riscos inerentes à necessidade de transporte</segment>
+    <segment id="25">, armazenamento e custódia dos votos impressos</segment>
+    <segment id="26">, que nos assombraram antes da implantação da urna eletrônica”</segment>
+    <segment id="27">, disse o tribunal</segment>
+    <segment id="28">, em nota enviada à Folha.</segment>
+    <segment id="29">“Nesse sistema</segment>
+    <segment id="30">, teríamos 150 milhões de votos em papel que</segment>
+    <segment id="31">, após a votação</segment>
+    <segment id="32">, ficariam armazenados em urnas plásticas</segment>
+    <segment id="33">, a serem transportadas</segment>
+    <segment id="34">, armazenadas em local seguro e vigiadas 24 horas por dia durante meses e</segment>
+    <segment id="35">, depois</segment>
+    <segment id="36">, contadas manualmente.</segment>
+    <segment id="37">”</segment>
+    <segment id="38">Urna eletrônica utilizada na Índia</segment>
+    <segment id="39">, com voto impresso</segment>
+    <segment id="40">, semelhante à máquina proposta em legislação que tramita no Congresso.- ReproduçãoOs defensores do voto impresso argumentam que o comprovante em papel seria uma medida de segurança contra fraudes no software das urnas</segment>
+    <segment id="41">, porque</segment>
+    <segment id="42">porque permitiria uma auditoria independente.</segment>
+    <segment id="43">Hoje, a auditagem das urnas eletrônicas no Brasil só</segment>
+    <segment id="44">sese faz em cima dos registros eletrônicos</segment>
+    <segment id="45">, ou seja</segment>
+    <segment id="46">, não há um comprovante que não seja dependente do software.</segment>
+    <segment id="47">No entanto</segment>
+    <segment id="48">, o TSE afirma que o voto impresso</segment>
+    <segment id="49">, na realidade</segment>
+    <segment id="50">, aumentaria a possibilidade de fraudes.</segment>
+    <segment id="51">“</segment>
+    <segment id="52">Na urna eletrônica</segment>
+    <segment id="53">, o conjunto dos votos é assinado digitalmente uma única vez a cada voto adicionado</segment>
+    <segment id="54">, o que garante sua integridade e autenticidade</segment>
+    <segment id="55">, sem permitir que qualquer voto seja adicionado ou removido”</segment>
+    <segment id="56">, diz o TSE.</segment>
+    <segment id="57">“</segment>
+    <segment id="58">No caso</segment>
+    <segment id="59">caso do registro em papel</segment>
+    <segment id="60">, a fraude é mais simples.</segment>
+    <segment id="61">Basta, a qualquer tempo durante o transporte</segment>
+    <segment id="62">, a custódia ou a contagem</segment>
+    <segment id="63">, suprimir ou acrescentar um registro impresso</segment>
+    <segment id="64">, ou subtrair a própria urna plástica.</segment>
+    <segment id="65">Depois</segment>
+    <segment id="66">, solicitar a auditoria dessa mesma urna com votos impressos.</segment>
+    <segment id="67">Isso seria suficiente para colocar toda a integridade das eleições sob suspeita.</segment>
+    <segment id="68">”</segment>
+    <segment id="69">Leia mais sobre urnas eletrônicas e voto impressoVeja o que Bolsonaro já disse sobre urnas eletrônicas e fraude em eleição sem apresentar provasAcusações de Bolsonaro sem provas sobre fraude eleitoral são risco à democracia</segment>
+    <segment id="70">; entenda por quêEntenda debate sobre voto impresso nas eleições de 2022TSE já sinaliza que eleição de 2022 não terá voto impresso mesmo</segment>
+    <segment id="71">sese Congresso aprovar a medidaOutra crítica do TSE à PEC é a possível violação do sigilo do voto.</segment>
+    <segment id="72">Duas propostas do Legislativo prevendo voto impresso</segment>
+    <segment id="73">, em 2009 e 2015</segment>
+    <segment id="74">, foram barradas após decisões do Supremo.</segment>
+    <segment id="75">No entendimento da corte</segment>
+    <segment id="76">, a impressão dos comprovantes poderia ser uma forma de violar o sigilo da votação.</segment>
+    <segment id="77">O TSE afirma que o voto impresso permite verificar a composição do voto</segment>
+    <segment id="78">, ou seja</segment>
+    <segment id="79">, em quem o eleitor votou para presidente</segment>
+    <segment id="80">, senador</segment>
+    <segment id="81">, deputado federal e deputado estadual</segment>
+    <segment id="82">, o que pode ser usado em compra de votos</segment>
+    <segment id="83">, prática que foi muito comum na história do país.</segment>
+    <segment id="84">“Se um candidato tiver comprado</segment>
+    <segment id="85">, naquela seção</segment>
+    <segment id="86">, vamos dizer</segment>
+    <segment id="87">, 50 votos na chapa completa</segment>
+    <segment id="88">, ele pode conferir</segment>
+    <segment id="89">sese foram entregues.</segment>
+    <segment id="90">Ou, para ter certeza de que o voto comprado foi efetivamente depositado</segment>
+    <segment id="91">, ele pode combinar</segment>
+    <segment id="92">, por exemplo</segment>
+    <segment id="93">, que o voto para senador ou para deputado federal seja anulado por indicar um número inexistente”</segment>
+    <segment id="94">, exemplifica.</segment>
+    <segment id="95">Com o Registro Digital de Voto (RDV)</segment>
+    <segment id="96">, que computa o voto para cada cargo separadamente e armazena em ordem aleatória nas urnas</segment>
+    <segment id="97">, não haveria risco de</segment>
+    <segment id="98">sese deduzir a composição do voto e fazer a ligação entre voto e eleitor.</segment>
+    <segment id="99">Apesar de apontar obstáculos</segment>
+    <segment id="100">, o TSE</segment>
+    <segment id="101">sese compromete a” empreender todos os meios para implementar o voto impresso”</segment>
+    <segment id="102">casocaso a PEC seja aprovada</segment>
+    <segment id="103">, inclusive permitindo a membros do Congresso a fiscalização de todo o procedimento licitatório.</segment>
+    <segment id="104">Mas ressalva que “não há garantia de que será possível obter todas as impressoras a tempo para 2022 – sobretudo em um cenário mundial de escassez de componentes eletrônicos.</segment>
+    <segment id="105">”  Na Índia</segment>
+    <segment id="106">, a transição para urnas eletrônicas com impressão de votos levou 8 anos.</segment>
+    <segment id="107">O governo indiano usava uma urna eletrônica semelhante à brasileira e começou a desenvolver um sistema com impressora em 2011.</segment>
+    <segment id="108">Em 2012 e 2013</segment>
+    <segment id="109">, fabricantes fizeram testes com protótipos e</segment>
+    <segment id="110">, em 2014</segment>
+    <segment id="111">, o sistema estreou em um projeto piloto nas eleições</segment>
+    <segment id="112">, em apenas 8 de 543 zonas eleitorais.</segment>
+    <segment id="113">A partir daí</segment>
+    <segment id="114">, o sistema foi implementado gradualmente e só atingiu 100% das seções eleitorais em 2019.</segment>
+    <segment id="115">ALGUNS DISPOSITIVOS DE SEGURANÇA DA URNA</segment>
+    <segment id="116">Uso de criptografia</segment>
+    <segment id="117">Código certifica que o sistema da urna é o gerado pelo TSE e não foi modificado</segment>
+    <segment id="118">Somente o sistema do TSE pode funcionar na urna</segment>
+    <segment id="119">O sistema da urna fica disponível para consulta pública por seis meses</segment>
+    <segment id="120">Em Testes Públicos de Segurança</segment>
+    <segment id="121">, especialistas tentam hackear o equipamento e apresentam as falhas encontradas para o TSE corrigir Urnas selecionadas por sorteio são retiradas do local de votação e participam de uma simulação da votação</segment>
+    <segment id="122">, para fins de validação</segment>
+    <segment id="123">Sistema biométrico ajuda a confirmar identidade do eleitor “Log”</segment>
+    <segment id="124">, espécie de caixa-preta</segment>
+    <segment id="125">, registra tudo o que acontece na urna Impressão da zerésima e boletim de urna</segment>
+    <segment id="126">Processo não é conectado à internet</segment>
+    <segment id="127">Lacres são colocados na urna para impedir que dispositivos externos (</segment>
+    <segment id="128">comocomo um pendrive) sejam inseridos</segment>
+  </rst>
+</analysis>

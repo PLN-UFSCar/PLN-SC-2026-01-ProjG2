@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Proposta para baixar preÃ§o estÃ¡ errada</segment>
+    <segment id="2">O texto nÃ£o informava quais os produtos a serem desonerados</segment>
+    <segment id="3">O secretÃ¡rio executivo adjunto do MinistÃ©rio da Fazenda</segment>
+    <segment id="4">, Dyogo Oliveira</segment>
+    <segment id="5">, explicou ontem que a presidente Dilma Rousseff decidiu vetar a desoneraÃ§Ã£o da cesta bÃ¡sica por questÃµes tÃ©cnicas.</segment>
+    <segment id="6">Oliveira disse que o texto incluÃ­do na MP 563 durante a tramitaÃ§Ã£o no Congresso â€œfoi escrito com erros tÃ©cnicos e jurÃ­dicosâ€.</segment>
+    <segment id="7">O secretÃ¡rio afirmou que as desoneraÃ§Ãµes precisam estar especificadas</segment>
+    <segment id="8">, o que nÃ£o ocorreu.</segment>
+    <segment id="9">O texto nÃ£o informava quais os produtos a serem desonerados.</segment>
+    <segment id="10">Um grupo de trabalho serÃ¡ criado e terÃ¡</segment>
+    <segment id="11">comocomo tarefa apresentar uma nova proposta</segment>
+    <segment id="12">, atÃ© 31 de dezembro</segment>
+    <segment id="13">, para ser enviada ao Congresso</segment>
+    <segment id="14">, com uma lista de produtos que serÃ£o desonerados nÃ£o sÃ³ de tributos federais (IPI</segment>
+    <segment id="15">, PIS e Cofins)</segment>
+    <segment id="16">, masmas tambÃ©m do Imposto sobre CirculaÃ§Ã£o de Mercadorias e ServiÃ§os (ICMS).</segment>
+  </rst>
+</analysis>

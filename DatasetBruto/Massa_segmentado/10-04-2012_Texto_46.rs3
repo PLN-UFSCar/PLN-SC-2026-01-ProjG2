@@ -1,0 +1,101 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Incêndio destrói depósito de móveis</segment>
+    <segment id="2">De acordo com os bombeiros</segment>
+    <segment id="3">, o fogo estaria sendo controlado</segment>
+    <segment id="4">O depósito da loja Insinuante</segment>
+    <segment id="5">, em Lauro de Freitas</segment>
+    <segment id="6">, pega fogo na manhã desta terça-feira (10).</segment>
+    <segment id="7">O incêndio de grandes proporções começou por volta de 6h</segment>
+    <segment id="8">, de acordo com policiais da 52ª Companhia Independente de Polícia Militar.</segment>
+    <segment id="9">Não há informações sobre feridos.</segment>
+    <segment id="10">De acordo com os bombeiros</segment>
+    <segment id="11">, o fogo estaria sendo controlado</segment>
+    <segment id="12">, masmas a corporação enfrenta dificuldades</segment>
+    <segment id="13">porque</segment>
+    <segment id="14">porque falta água.</segment>
+    <segment id="15">Para ajudar</segment>
+    <segment id="16">, dois carros-pipa chegaram ao local para abastecer as sete viaturas</segment>
+    <segment id="17">, além de carros-pipa da Concessionária Bahia Norte e da Defesa Civil de Camaçari.</segment>
+    <segment id="18">O funcionário Romilton Oliveira disse ter visto o incêndio começar a partir de um curto-circuito em uma lâmpada.</segment>
+    <segment id="19">A fagulha teria caído em cima da embalagem de uma geladeira</segment>
+    <segment id="20">, composta por isopor e plástico.</segment>
+    <segment id="21">De acordo com o conferente do depósito</segment>
+    <segment id="22">, Ricardo Pereira</segment>
+    <segment id="23">, 26, havia cerca de 25 pessoas trabalhando no local quando o fogo começou.</segment>
+    <segment id="24">Ele se</segment>
+    <segment id="25">se encontrava no setor de sofás</segment>
+    <segment id="26">, colchões e lavadoras quando percebeu o foco de incêndio e acionou o Corpo de Bombeiros.</segment>
+    <segment id="27">O coordenador da Defesa Civil de Lauro de Freitas</segment>
+    <segment id="28">, Ápio Vinagre</segment>
+    <segment id="29">, que está no local para avaliar a dimensão do sinistro</segment>
+    <segment id="30">, confirmou que o fogo começou no depósito de colchões.</segment>
+    <segment id="31">Ele também confirmou que os bombeiros têm dificuldades de conseguir água para realizar o trabalho.</segment>
+    <segment id="32">As equipes buscam água nas imediações</segment>
+    <segment id="33">, com empresários e hotéis quetenham algum tipo de reservatório.</segment>
+    <segment id="34">O teto do depósito</segment>
+    <segment id="35">, que está repleto de material inflamável</segment>
+    <segment id="36">, cedeu em alguns pontos.</segment>
+    <segment id="37">A intensidade da fumaça</segment>
+    <segment id="38">, que chegou a ser vista da orla de Salvador</segment>
+    <segment id="39">, já começa a diminuir e não compromete pousos e decolagens no Aeroporto Internacional Luís Eduardo Magalhães</segment>
+    <segment id="40">porque</segment>
+    <segment id="41">porque o vento a leva para a direção oposta.</segment>
+    <segment id="42">Cerca de 30 funcionários foram acionados para retirar mercadorias de dentro da área do depósito que não foi atingida e colocar nos 10 caminhões que estão estacionados no local.</segment>
+    <segment id="43">Um deles</segment>
+    <segment id="44">, Velmer Barbosa</segment>
+    <segment id="45">, passou mal e foi atendido pela viatura da Samu.</segment>
+    <segment id="46">Além das sete viaturas do Corpo de Bombeiros que trabalham na área</segment>
+    <segment id="47">, há unidades de combate a incêndio da Infraero e do Polo Petroquimico.</segment>
+    <segment id="48">Uma viatura da PM fecha a entrada do prédio para impedir o trânsito de veículos.</segment>
+    <segment id="49">Insinuante
+
+Eem nota oficial</segment>
+    <segment id="50">, a Insinuante informou que não houve vítimas no incêndio.</segment>
+    <segment id="51">Leia íntegra da nota: "</segment>
+    <segment id="52">A Insinuante informa que no incêndio do Centro de Distribuição da Bahia</segment>
+    <segment id="53">, em Lauro de Freitas</segment>
+    <segment id="54">, não existe nenhuma vítima.</segment>
+    <segment id="55">O fogo teve início às 6 horas de hoje e não havia nenhum funcionário no Galpão no momento.</segment>
+    <segment id="56">O Corpo de Bombeiros já está no local isolando a área e ainda não é possível estimar o prejuízo.</segment>
+    <segment id="57">Todas as medidas de segurança foram tomadas para preservar a integridade física dos colaboradores".</segment>
+    <segment id="58">Embasa</segment>
+    <segment id="59">Também em nota oficial divulgada para a imprensa</segment>
+    <segment id="60">, a Embasa informou o envio de quatro carros-pipa para o depósito da Lojas Insinuante</segment>
+    <segment id="61">, para ajudar o trabalho do Corpo de Bombeiros.</segment>
+    <segment id="62">Além disso</segment>
+    <segment id="63">, para ajudar no combate</segment>
+    <segment id="64">, a empresa está disponibilizando três carros high velocity</segment>
+    <segment id="65">, veículos com jatos d´água utilizados na lavagem de rede de esgoto.</segment>
+    <segment id="66">Ainda de acordo com o comunicado</segment>
+    <segment id="67">, a Embasa informa que</segment>
+    <segment id="68">, na região da Estrada do Coco</segment>
+    <segment id="69">, existem três hidrantes: na Avenida Luis Tarquínio</segment>
+    <segment id="70">, em Vilas do Atlântico e na Base Aérea de Salvador.</segment>
+    <segment id="71">Todos, segundo a empresa</segment>
+    <segment id="72">, estariam com vazão suficiente para abastecer os carros dos Bombeiros.</segment>
+    <segment id="73">A Embasa ressalta que o abastecimento de água no município de Lauro de Freitas está regular.</segment>
+  </rst>
+</analysis>

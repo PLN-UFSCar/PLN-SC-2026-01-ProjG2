@@ -1,0 +1,192 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O patrão não está e eu não tenho autorização para mandar vocês entrarem</segment>
+    <segment id="2">, diz um funcionário.</segment>
+    <segment id="3">"Não se</segment>
+    <segment id="4">se preocupe</segment>
+    <segment id="5">, não.</segment>
+    <segment id="6">Aqui não tem dengue"</segment>
+    <segment id="7">, afirma um morador.</segment>
+    <segment id="8">"</segment>
+    <segment id="9">Não tenho vaso de plantas"</segment>
+    <segment id="10">, alega outro.</segment>
+    <segment id="11">Essas foram algumas das frases que os agentes de combate a endemias da Secretaria Municipal da Saúde de São Paulo ouviram pelos interfones das casas durante ação no bairro Cidade Jardim</segment>
+    <segment id="12">, na zona sul da capital paulista.</segment>
+    <segment id="13">Nas visitas</segment>
+    <segment id="14">, os profissionais fazem orientação e eliminação de água parada em pneus</segment>
+    <segment id="15">, garrafas</segment>
+    <segment id="16">, calhas</segment>
+    <segment id="17">, lajes e demais locais que servem</segment>
+    <segment id="18">comocomo focos do mosquito Aedes aegypti.</segment>
+    <segment id="19">Agentes de combate a endemias da prefeitura de São Paulo durante ação casa a casano bairro Cidade Jardim</segment>
+    <segment id="20">, zona sul da capital - Jardiel Carvalho/FolhapressNa última quinta-feira (23)</segment>
+    <segment id="21">, a Folha acompanhou parte do trabalho de uma equipe de agentes em Cidade Jardim</segment>
+    <segment id="22">, local em que o índice de recusa está em torno de 30%.</segment>
+    <segment id="23">A estimativa</segment>
+    <segment id="24">, extraoficial</segment>
+    <segment id="25">, foi feita pela Covisa (Coordenadoria de Vigilância em Saúde).</segment>
+    <segment id="26">Durante a ação que a reportagem acompanhou</segment>
+    <segment id="27">, dos 15 imóveis abordados</segment>
+    <segment id="28">, em seis deles moradores ou funcionários recusaram atendimento.</segment>
+    <segment id="29">Em outros três</segment>
+    <segment id="30">, quem atendeu concordou com a vistoria.</segment>
+    <segment id="31">Nos demais</segment>
+    <segment id="32">, não havia ninguém em casa no momento ou o imóvel estava fechado.</segment>
+    <segment id="33">"</segment>
+    <segment id="34">Esse trabalho é ótimo e deveria ser feito sempre.</segment>
+    <segment id="35">Principalmente nós</segment>
+    <segment id="36">, dessa região que é muito arborizada e tem muitas piscinas</segment>
+    <segment id="37">, deveríamos permitir que os agentes entrem e orientem.</segment>
+    <segment id="38">Orientação é o principal"</segment>
+    <segment id="39">,</segment>
+    <segment id="40">afirma o economista José Luiz</segment>
+    <segment id="41">, 71, um dos moradores que aceitaram a orientação.</segment>
+    <segment id="42">Na opinião do infectologista David Uip</segment>
+    <segment id="43">, reitor do Centro Universitário Faculdade de Medicina do ABC</segment>
+    <segment id="44">, a população precisa entender a importância do trabalho do agente e atendê-lo bem.  "</segment>
+    <segment id="45">O trabalho de campo é fundamental.</segment>
+    <segment id="46">Mas, antes dele</segment>
+    <segment id="47">, é preciso conscientizar a população.</segment>
+    <segment id="48">Ela tem que saber que será visitada por agentes sanitários que vão em busca de prevenção</segment>
+    <segment id="49">, e não de culpados"</segment>
+    <segment id="50">, afirma Uip.</segment>
+    <segment id="51">O que é dengueMais    novamente         de   de  de  representando um  "</segment>
+    <segment id="52">Em paralelo a isso</segment>
+    <segment id="53">, há a insegurança da população.</segment>
+    <segment id="54">As pessoas não querem abrir as portas quando não sabem</segment>
+    <segment id="55">sese é um agente ou</segment>
+    <segment id="56">sese há outro indivíduo ali"</segment>
+    <segment id="57">, completa.</segment>
+    <segment id="58">Outro fator que Uip coloca é o descrédito da população em relação à possibilidade de a dengue ser grave.</segment>
+    <segment id="59">Especialistas já alertam para a presença do sorotipo 3 da dengue no país após cerca de 15 anos desaparecido.</segment>
+    <segment id="60">Quem contraiu os tipos 1 e 2</segment>
+    <segment id="61">, poderá ter a forma grave da doença</segment>
+    <segment id="62">sese pegar o 3.  "</segment>
+    <segment id="63">A dengue está mais incidente</segment>
+    <segment id="64">, mais prevalente</segment>
+    <segment id="65">, mais grave</segment>
+    <segment id="66">, com formas clínicas que nós não víamos antes.</segment>
+    <segment id="67">Antigamente</segment>
+    <segment id="68">, a forma grave era a hemorrágica.</segment>
+    <segment id="69">Hoje você tem a miocardite</segment>
+    <segment id="70">, um processo inflamatório do coração importante</segment>
+    <segment id="71">, e a encefalite por dengue.</segment>
+    <segment id="72">As pessoas morrem de dengue.</segment>
+    <segment id="73">Quando tem dengue</segment>
+    <segment id="74">, o que o médico faz?</segment>
+    <segment id="75">Tenta sustentar a vida.</segment>
+    <segment id="76">Você não tem o medicamento que vai lá e mata o vírus.</segment>
+    <segment id="77">O doente grave tem que ser internado na UTI e tratado"</segment>
+    <segment id="78">, diz Uip</segment>
+    <segment id="79">, que foi secretário estadual de Saúde de São Paulo e também de Ciência</segment>
+    <segment id="80">, Pesquisa e Desenvolvimento em Saúde.</segment>
+    <segment id="81">Nas residências onde foi possível entrar</segment>
+    <segment id="82">, os agentes encontraram vaso sanitário em desuso que estava com água parada e pratos usados sob vasos que tinham água acumulada.</segment>
+    <segment id="83">O ideal é não deixar nenhum recipiente sob as plantas</segment>
+    <segment id="84">, masmas</segment>
+    <segment id="85">sese tiver que colocar</segment>
+    <segment id="86">, é necessário preencher com areia até a borda.</segment>
+    <segment id="87">Na região de Cidade Jardim é comum os agentes encontrarem situações inadequadas</segment>
+    <segment id="88">, em especial com bromélias —que também acumulam água— e piscinas.</segment>
+    <segment id="89">Veja medidas para evitar a proliferação do Aedes aegyptiMais    novamente         de   de  de  representando um</segment>
+    <segment id="90">Os agentes de endemias</segment>
+    <segment id="91">, Luciana Pacheco Lima</segment>
+    <segment id="92">, 44, e Rafael Carvalhais Régis</segment>
+    <segment id="93">, 40, atuam em Capela do Socorro</segment>
+    <segment id="94">, também na zona sul da capital.</segment>
+    <segment id="95">Na função há muitos anos</segment>
+    <segment id="96">, os dois relatam que a quantidade de recusas é a maior atualmente.</segment>
+    <segment id="97">E a culpa é da insegurança da população.  "</segment>
+    <segment id="98">A primeira barreira que precisamos quebrar é a da confiança do funcionário da casa que precisamos entrar para fazer a ação.</segment>
+    <segment id="99">Quando o dono está dificilmente deixa entrar.</segment>
+    <segment id="100">A população está receosa e nós precisamos que a mídia nos ajude"</segment>
+    <segment id="101">, afirma Lima.  "</segment>
+    <segment id="102">Uma vez</segment>
+    <segment id="103">, fui a uma casa e a proprietária não permitiu a entrada.</segment>
+    <segment id="104">Uma semana depois</segment>
+    <segment id="105">, o filho dela ficou doente</segment>
+    <segment id="106">, positivo para dengue.</segment>
+    <segment id="107">A senhora chorava muito</segment>
+    <segment id="108">, desesperada</segment>
+    <segment id="109">, porque</segment>
+    <segment id="110">porque havia proibido a nossa entrada uma semana antes.</segment>
+    <segment id="111">Hoje ela é uma colaboradora e abre a porta para os agentes entrarem"</segment>
+    <segment id="112">, conta Lima.  Luiz Arthur Caldeira</segment>
+    <segment id="113">, coordenador de Vigilância em Saúde do município</segment>
+    <segment id="114">, afirma que as recusas estão ligadas aos problemas de segurança</segment>
+    <segment id="115">, masmas têm</segment>
+    <segment id="116">comocomo motivo principal a baixa percepção de risco frente à dengue.</segment>
+    <segment id="117">"</segment>
+    <segment id="118">Nós passamos por esse drama da Covid</segment>
+    <segment id="119">, uma doença grave</segment>
+    <segment id="120">, que acabou rebaixando na consciência e na percepção das pessoas o nível de gravidade de quase todas as outras doenças"</segment>
+    <segment id="121">, afirma Caldeira.  Cuide-seCiência</segment>
+    <segment id="122">, hábitos e prevenção numa newsletter para a sua saúde e bem-estarCarregando...</segment>
+    <segment id="123">O profissional afirma que o aceite varia de acordo com a época.</segment>
+    <segment id="124">Em momentos de alta transmissão</segment>
+    <segment id="125">, os agentes de saúde enfrentam menos resistência para entrar nas casas.</segment>
+    <segment id="126">"</segment>
+    <segment id="127">A percepção de risco muda quando você está em contato com a doença ou em épocas que não são de transmissão e a dengue não está perto de você.</segment>
+    <segment id="128">Então essa baixa percepção de risco</segment>
+    <segment id="129">, de prevenção</segment>
+    <segment id="130">, deixa as pessoas numa espécie de zona de conforto para não deixar os agentes entrarem nas casas"</segment>
+    <segment id="131">, completa.</segment>
+    <segment id="132">Até 16 de novembro</segment>
+    <segment id="133">, a cidade de São Paulo registrou 12.814 casos de dengue</segment>
+    <segment id="134">, 9,9% maior do que o mesmo período de 2022 (11.658).</segment>
+    <segment id="135">Dez pessoas morreram em 2023 e duas no ano passado.</segment>
+    <segment id="136">No distrito administrativo do Morumbi</segment>
+    <segment id="137">, onde está localizado o bairro de Cidade Jardim</segment>
+    <segment id="138">, a taxa de incidência é de 90</segment>
+    <segment id="139">,7.</segment>
+    <segment id="140">Em 2022</segment>
+    <segment id="141">, estava em 102</segment>
+    <segment id="142">,5 e em 2021</segment>
+    <segment id="143">, de 37</segment>
+    <segment id="144">,5.</segment>
+    <segment id="145">O índice na capital paulista é de 106</segment>
+    <segment id="146">,7 por 100 mil habitantes</segment>
+    <segment id="147">, número usado para fazer o cálculo.</segment>
+    <segment id="148">Há três níveis de incidência: baixa (menos de 100 casos)</segment>
+    <segment id="149">, média (de 100 a 300 casos) e alta (mais de 300 casos).</segment>
+    <segment id="150">Como identificar uma equipe de agentes de combate a endemias</segment>
+    <segment id="151">Em toda a cidade</segment>
+    <segment id="152">, são cerca de 2.200 agentes em atuação.</segment>
+    <segment id="153">Eles chegam em grupo</segment>
+    <segment id="154">, embarcados em carros oficiais da Prefeitura de São Paulo –minivans brancas adesivadas com logos da Secretaria da Saúde e do SUS (Sistema Único de Saúde).</segment>
+    <segment id="155">Usam sempre crachá de identificação e uniforme azul.</segment>
+    <segment id="156">Na calça e no colete está escrito Vigilância em Saúde.</segment>
+    <segment id="157">Se houver dúvida</segment>
+    <segment id="158">, basta ligar 156 ou verificar no site da secretaria o telefone da unidade de vigilância em saúde mais próxima</segment>
+    <segment id="159">, ligar e confirmar</segment>
+    <segment id="160">sese é a equipe que realiza a ação no local naquele momento.</segment>
+    <segment id="161">Como eliminar focos de dengueTampe a caixa d’água e outros reservatórios de águaRetire folhas ou sujeiras que podem gerar acúmulo de água nas calhasGuarde pneus em locais cobertosGuarde baldes e garrafas com a boca virada para baixoRealize limpeza periódica em ralos</segment>
+    <segment id="162">, canaletas e outros tipos de escoamentos de águaLimpe e retire acúmulo de água de bandejas de ar-condicionado e geladeirasLave as bordas dos recipientes que acumulam água com sabão e buchaJogue as larvas na terra ou no chão</segment>
+    <segment id="163">secoPara grandes depósitos de água e outros reservatórios de água para consumo humano é necessária a presença de agente de saúde para aplicação do larvicida</segment>
+    <segment id="164">;</segment>
+    <segment id="165">Utilize areia nos pratos de vasos de plantasRetire água de plantas</segment>
+    <segment id="166">comocomo bambu e broméliasLimpe as piscinasGuarde ou jogue no lixo os objetos que podem acumular água</segment>
+  </rst>
+</analysis>

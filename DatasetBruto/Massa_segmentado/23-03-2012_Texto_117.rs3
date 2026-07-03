@@ -1,0 +1,38 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Laisa anda sentindo</segment>
+    <segment id="2">enjoo
+Ontem</segment>
+    <segment id="3">, a ex-BBB foi ao hospital sentindo enjoo e vomitando
+Ontem</segment>
+    <segment id="4">, a ex-BBB  parou no hospital sentindo enjoo e vomitando.</segment>
+    <segment id="5">Para o seu produtor</segment>
+    <segment id="6">, Yaho Warren</segment>
+    <segment id="7">, o motivo foi a alimentação no BB espanhol.</segment>
+    <segment id="8">Enquanto não sai o diagnóstico correto</segment>
+    <segment id="9">, fica a dúvida no ar:</segment>
+    <segment id="10">será que Laisa Portela está grávida do lutador Yuri?</segment>
+  </rst>
+</analysis>

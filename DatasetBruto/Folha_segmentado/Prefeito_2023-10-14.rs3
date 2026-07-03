@@ -1,0 +1,51 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Em ano pré-eleitoral</segment>
+    <segment id="2">, o prefeito do Recife</segment>
+    <segment id="3">, João Campos (PSB)</segment>
+    <segment id="4">, já usou três créditos suplementares para reforçar a comunicação.</segment>
+    <segment id="5">Ao todo</segment>
+    <segment id="6">, R$ 27</segment>
+    <segment id="7">,5 milhões foram destinados para a área desde junho.</segment>
+    <segment id="8">O orçamento inicial era de R$ 55 milhões.</segment>
+    <segment id="9">Prefeito do Recife</segment>
+    <segment id="10">, João Campos (PSB) durante entrevista à Folha na sede da prefeitura - Prefeitura do RecifeO reforço mais recente</segment>
+    <segment id="11">, de R$ 7</segment>
+    <segment id="12">,5 milhões</segment>
+    <segment id="13">, ocorreu em 4 de outubro</segment>
+    <segment id="14">, dentro de um crédito suplementar total de R$ 12</segment>
+    <segment id="15">,6 milhões.</segment>
+    <segment id="16">Os recursos vieram de um cancelamento de previsão orçamentária para pagamento de juros de dívidas não executadas.</segment>
+    <segment id="17">O prefeito do Recife</segment>
+    <segment id="18">, que deve disputar a reeleição no ano que vem</segment>
+    <segment id="19">, já havia feito mais duas suplementações para a área</segment>
+    <segment id="20">, de R$ 15 milhões em junho e R$ 5 milhões em agosto.</segment>
+    <segment id="21">Em nota</segment>
+    <segment id="22">, a prefeitura afirmou que a realocação de recursos do orçamento é "um procedimento comum</segment>
+    <segment id="23">, uma vez que o orçamento é muito dinâmico e sua gestão passa por esse tipo de movimentação para otimizar a alocação de acordo com a necessidade".</segment>
+    <segment id="24">A gestão municipal acrescentou que essas mexidas não afetam o orçamento da Prefeitura do Recife</segment>
+    <segment id="25">, nem infringem o limite legal previsto para a comunicação.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,50 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A onda de calor levou mais empresas de comércio e serviços a negociarem a compra de energia diretamente com distribuidoras no mercado livre</segment>
+    <segment id="2">, levando a uma alta recorde do consumo no ano passado.</segment>
+    <segment id="3">É o que mostra um levantamento da CCEE (Câmara de Comercialização de Energia Elétrica) junto aos 15 ramos de atividade econômica que contrataram energia no mercado livre.</segment>
+    <segment id="4">Calor extremo e retomada econômica impulsionaram consumo de energia no setor produtivo - Agência BrasilNo ano passado</segment>
+    <segment id="5">, o comércio consumiu 16</segment>
+    <segment id="6">,8% a mais de energia ante 2022 e o setor de serviços</segment>
+    <segment id="7">, 14,5%.</segment>
+    <segment id="8">Além do aumento do consumo por empresas que já contratavam das distribuidoras</segment>
+    <segment id="9">, houve um ingresso de novas companhias nesse grupo —forma de garantir fornecimento "diferenciado" e por preço mais vantajoso.</segment>
+    <segment id="10">Segundo a CCEE</segment>
+    <segment id="11">, foram 2.352 novas empresas no ramo do comércio e 1.870 no de serviços.</segment>
+    <segment id="12">No comércio</segment>
+    <segment id="13">, o crescimento do consumo foi impulsionado por subsetores</segment>
+    <segment id="14">comocomo o atacadista de mercadorias em geral (alta de 20</segment>
+    <segment id="15">,2%), atacadista de produtos alimentícios (19</segment>
+    <segment id="16">,3%) e supermercados e hipermercados (16</segment>
+    <segment id="17">,7%).</segment>
+    <segment id="18">Em serviços</segment>
+    <segment id="19">, os segmentos com as maiores taxas de uso de energia em comparação com 2022 foram o setor de atendimento hospitalar (21</segment>
+    <segment id="20">,7%), atividades administrativas e predial (11</segment>
+    <segment id="21">,6%) e transporte e armazenamento (11</segment>
+    <segment id="22">,5%).</segment>
+    <segment id="23">Com Diego</segment>
+    <segment id="24">Felix</segment>
+  </rst>
+</analysis>

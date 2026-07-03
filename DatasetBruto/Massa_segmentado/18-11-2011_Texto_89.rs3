@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Policiais apreendem 256 camisas da PM</segment>
+    <segment id="2">, do Bope e das Forças Especiais</segment>
+    <segment id="3">Policiais da 33ª DP (Realengo) apreenderam</segment>
+    <segment id="4">, nesta sexta-feira</segment>
+    <segment id="5">, 256 camisas com símbolos do Batalhão de Operações Especiais (Bope)</segment>
+    <segment id="6">, das Forças Especiais e da própria Polícia Militar</segment>
+    <segment id="7">As camisas foram apreendidas em Realengo</segment>
+    <segment id="8">, Zona Oeste do Rio.</segment>
+    <segment id="9">Os policiais suspeitaram de um motociclista que trafegava na Rua Bernardo Vasconcelos e o abordaram</segment>
+    <segment id="10">, encontrando as camisas.</segment>
+    <segment id="11">O homem foi conduzido à unidade policial</segment>
+    <segment id="12">, onde prestou depoimento e em seguida foi liberado.</segment>
+    <segment id="13">De acordo com a assessoria de imprensa da Polícia Civil</segment>
+    <segment id="14">, uma investigação foi iniciada para descobrir onde o material foi produzido.</segment>
+    <segment id="15">Caso seja confirmada a fabricação clandestina</segment>
+    <segment id="16">, os responsáveis responderão por falsificação do selo ou sinal público</segment>
+    <segment id="17">, que prevê pena de até seis anos de reclusão.</segment>
+  </rst>
+</analysis>

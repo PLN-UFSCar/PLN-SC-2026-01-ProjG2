@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Senadores anteveem resistência natural da oposição ao nome de Flávio Dino ao STF (Supremo Tribunal Federal)</segment>
+    <segment id="2">, masmas avaliam que há baixo risco de rejeição à indicação do presidente Lula (PT) à vaga aberta na corte com a aposentadoria da ministra Rosa Weber.</segment>
+    <segment id="3">Presidente Lula e ministro Flávio Dino (Justiça e Segurança Pública)</segment>
+    <segment id="4">, indicado ao STF - Ueslei Marcelino/ReutersLula oficializou a indicação de Dino na tarde desta segunda-feira (27).</segment>
+    <segment id="5">Sob reserva</segment>
+    <segment id="6">, senadores da base governista e de partidos da oposição consultados pelo Painel minimizaram a possibilidade de uma nova derrota no plenário</segment>
+    <segment id="7">, a exemplo do que ocorreu com o nome de Igor Roque à DPU (Defensoria Pública da União).</segment>
+    <segment id="8">Mesmo na oposição a avaliação é de que a resistência não impedirá a aprovação de Dino na CCJ (Comissão de Constituição e Justiça) e no plenário —</segment>
+    <segment id="9">embora</segment>
+    <segment id="10">embora afirmem que o ministro vai ter que</segment>
+    <segment id="11">sese esforçar no tradicional beija-mão para tentar conquistar votos nesse campo.</segment>
+    <segment id="12">Líderes da base</segment>
+    <segment id="13">, por sua vez</segment>
+    <segment id="14">, veem uma votação parecida com a de Cristiano Zanin</segment>
+    <segment id="15">, advogado de Lula nos processos da Operação Lava Jato —ele foi aprovado no plenário com 58 votos a 18.</segment>
+    <segment id="16">Para alguns</segment>
+    <segment id="17">, o fato de Dino ser senador licenciado ajuda a angariar apoio na Casa.</segment>
+  </rst>
+</analysis>

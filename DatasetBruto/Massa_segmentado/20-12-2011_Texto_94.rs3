@@ -1,0 +1,61 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Senado aprova projeto que permite burlar LRF
+BRASÍLIA - Sem discussão e em votação simbólica</segment>
+    <segment id="2">, o plenário do Senado aprovou na noite desta terça-feira projeto de resolução do senador Casildo Maldaner (PMDB-SC)</segment>
+    <segment id="3">, que abre brechas para possíveis burlas à Lei de Responsabilidade Fiscal.</segment>
+    <segment id="4">O projeto permite que estados e municípios inadimplentes contratem operações de crédito junto às próprias instituições credoras para regularizar os débitos pendentes.</segment>
+    <segment id="5">A proposta altera o artigo 16 de outra resolução do Senado que proíbe o refinanciamento de dívidas de estados e municípios inadimplentes.</segment>
+    <segment id="6">O projeto de Casildo beneficia especificamente os municipios de Brusque (SC) e Petrolina (PE)</segment>
+    <segment id="7">, além de quatro outros municípios não identificados</segment>
+    <segment id="8">, que fizeram empréstimos no BNDES</segment>
+    <segment id="9">, não pagaram e o presidente do Banco</segment>
+    <segment id="10">, Luciano Coutinho</segment>
+    <segment id="11">, teria permitido o refinanciamento das dívidas sem consultar o Ministério da Fazenda e Senado.
+
+- Esse projeto atinge frontalmente a Lei Fiscal.</segment>
+    <segment id="12">Esses municípios contrataram empréstimos acima do montante permitido no BNDES</segment>
+    <segment id="13">, foram direto no banco pedindo o refinanciamento e conseguiram sem autorização do Tesouro ou do Senado - protestou o líder do DEM no Senado</segment>
+    <segment id="14">, Demóstenes Torres (GO).</segment>
+    <segment id="15">- Ele afronta o artigo 359-A do Código Penal</segment>
+    <segment id="16">, que diz que é crime refinanciar débitos descumprindo a resolução do Senado.</segment>
+    <segment id="17">Mas, com a aprovação desse projeto de resoluçao</segment>
+    <segment id="18">, eles convalidaram a operação do BNDES para esses municípios.</segment>
+    <segment id="19">Para Demóstenes</segment>
+    <segment id="20">, a aprovação do projeto vai acabar abrindo uma brecha</segment>
+    <segment id="21">para que</segment>
+    <segment id="22">para que outros estados e municípios corram aos bancos para refinanciar suas dividas</segment>
+    <segment id="23">, alegando isonomia de tratamento</segment>
+    <segment id="24">, com a jurisprudência criada.</segment>
+    <segment id="25">Nesta terça-feira mesmo</segment>
+    <segment id="26">Demóstenes representou junto ao Ministério Público contra Luciano Coutinho</segment>
+    <segment id="27">, por crime de responsabilidade e improbidade administrativa:
+
+- A regularização da operação pelo Senado acaba com o crime de responsabilidade</segment>
+    <segment id="28">, masmas não com o de improbidade administrativa.</segment>
+    <segment id="29">Se essas operações foram regularizadas</segment>
+    <segment id="30">, outros municipios e estados também vão querer.</segment>
+  </rst>
+</analysis>

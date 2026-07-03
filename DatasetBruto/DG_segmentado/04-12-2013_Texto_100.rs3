@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Utilidade pÃºblica</segment>
+    <segment id="2">Reparo deixarÃ¡ mais de 7</segment>
+    <segment id="3">,5 mil moradores de Novo Hamburgo sem Ã¡gua</segment>
+    <segment id="4">Conserto em adutora acontecerÃ¡ entre a noite de quarta-feira e a madrugada de quinta-feira</segment>
+    <segment id="5">Entre a noite de quarta-feira</segment>
+    <segment id="6">, dia 4 de dezembro</segment>
+    <segment id="7">, e a madrugada de quinta</segment>
+    <segment id="8">, dia 5</segment>
+    <segment id="9">, a Companhia de ServiÃ§os de Ãgua e Esgoto de Novo Hamburgo (Comusa) farÃ¡ manutenÃ§Ã£o</segment>
+    <segment id="10">na adutora de Ã¡gua tratada que abastece o Bairro Canudos</segment>
+    <segment id="11">.</segment>
+    <segment id="12">Com isso</segment>
+    <segment id="13">, durante o perÃ­odo</segment>
+    <segment id="14">, 7,5 mil economias desta regiÃ£o da cidade ficarÃ£o com abastecimento suspenso.</segment>
+    <segment id="15">A medida Ã© uma correÃ§Ã£o em decorrÃªncia de uma avaria causada na tubulaÃ§Ã£o que conduz a Ã¡gua para Canudos.</segment>
+    <segment id="16">O abastecimento deverÃ¡ estar normalizado no decorrer da manhÃ£ de quinta-feira.</segment>
+  </rst>
+</analysis>

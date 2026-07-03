@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Mega-Sena acumula e próximo sorteio pode pagar R$ 10 milhões
+RIO - Nenhum apostador acertou as seis dezenas do concurso 1392 da Mega-Sena e o próximo sorteio</segment>
+    <segment id="2">, na quarta-feira</segment>
+    <segment id="3">, pode pagar R$ 10 milhões.</segment>
+    <segment id="4">Os números sorteados foram 02 - 08 - 12 - 28 - 33 - 43.</segment>
+    <segment id="5">A quina teve 116 acertadores e cada um vai receber R$ 14.023</segment>
+    <segment id="6">,20.</segment>
+    <segment id="7">Já a quadra</segment>
+    <segment id="8">, com 8.651 acertadores</segment>
+    <segment id="9">, vai pagar R$ 268</segment>
+    <segment id="10">,62 a cada um.</segment>
+  </rst>
+</analysis>

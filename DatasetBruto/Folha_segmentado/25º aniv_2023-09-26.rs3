@@ -1,0 +1,252 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Google comemora nesta quarta-feira (27) seus 25 anos.</segment>
+    <segment id="2">Tudo começou na Universidade de Stanford</segment>
+    <segment id="3">, na Califórnia</segment>
+    <segment id="4">, Estados Unidos</segment>
+    <segment id="5">, onde dois estudantes de doutorado criaram o que seria não somente o maior motor de buscas da internet</segment>
+    <segment id="6">masmas também a tecnologia que alavancaria um império da publicidade digital e da economia da atenção —a disputa pelo tempo escasso das pessoas.</segment>
+    <segment id="7">A mesma plataforma entrega respostas a 8</segment>
+    <segment id="8">,5 bilhões de buscas diárias</segment>
+    <segment id="9">, serviço de publicidade a 89 milhões de sites e recebe dados de fontes diversas</segment>
+    <segment id="10">, como</segment>
+    <segment id="11">como o navegador Google Chrome</segment>
+    <segment id="12">, o sistema operacional Android</segment>
+    <segment id="13">, o serviço de email Gmail e a nuvem Google Drive.</segment>
+    <segment id="14">Esse ecossistema de marketing digital</segment>
+    <segment id="15">, serviços e vigilância faz a Alphabet ser avaliada em US$ 1</segment>
+    <segment id="16">,66 trilhões (R$ 8</segment>
+    <segment id="17">,21 trilhões) nesta segunda-feira (25).</segment>
+    <segment id="18">O buscador não esclarece por que escolheu 27 de setembro de 1998</segment>
+    <segment id="19">comocomo sua data de criação</segment>
+    <segment id="20">, já que foi em 4 de setembro daquele ano que a empresa Google foi registrada.</segment>
+    <segment id="21">Nesta quarta</segment>
+    <segment id="22">, a festa fica por conta de uma arte animada que mostra a evolução dos logos da empresa.</segment>
+    <segment id="23">Quem busca "feliz aniversário" ou "parabéns" ainda ganha confetes.</segment>
+    <segment id="24">O logotipo da Google</segment>
+    <segment id="25">, que faz 25 anos em setembro</segment>
+    <segment id="26">, refletido em um prédio na Califórnia</segment>
+    <segment id="27">, nos Estados Unidos - Mike Blake - 7.ago.23/</segment>
+    <segment id="28">ReutersDAS BUSCAS</segment>
+    <segment id="29">À LIDERANÇA NA PUBLICIDADE</segment>
+    <segment id="30">Os fundadores Larry Page e Sergey Brin iniciaram esse império da tecnologia ainda antes</segment>
+    <segment id="31">, com um investimento inicial de US$ 100 mil (R$ 487 mil) e a invenção</segment>
+    <segment id="32">, em 1995</segment>
+    <segment id="33">, do PageRank —um índice de relevância para cada página da web.</segment>
+    <segment id="34">A medida proposta era o número e a qualidade dos links que</segment>
+    <segment id="35">, em outros endereços da web</segment>
+    <segment id="36">, indicavam a página em questão.</segment>
+    <segment id="37">A suposição dos criadores do Google</segment>
+    <segment id="38">, que à época</segment>
+    <segment id="39">sese chamava BackRub —massagem nas costas em inglês— foi a de que os sites mais importantes receberiam mais direcionamento dos outros endereços da web.</segment>
+    <segment id="40">O nome Google é uma adaptação de googol</segment>
+    <segment id="41">, número equivalente a 10 elevado à centésima potência (dez duotrigintilhões)</segment>
+    <segment id="42">, em referência exagerada ao número de páginas indexadas na plataforma.</segment>
+    <segment id="43">O sistema de ranqueamento permitiu a criação de um buscador mais eficiente do que o da concorrência à época</segment>
+    <segment id="44">, representada sobretudo pelo Yahoo.</segment>
+    <segment id="45">Os mecanismos de pesquisa existentes consideravam quantas vezes o termo buscado aparecia em cada uma das páginas da internet para classificá-las.</segment>
+    <segment id="46">Uma busca a palavra "internet</segment>
+    <segment id="47">"</segment>
+    <segment id="48">, por exemplo</segment>
+    <segment id="49">, retornava em primeiro lugar uma página escrita em ideogramas chineses em que o vocábulo era repetido várias vezes sem contexto.</segment>
+    <segment id="50">O sistema também serviu para tornar a ferramenta Google AdWords (2000)</segment>
+    <segment id="51">, que vende anúncios no próprio buscador</segment>
+    <segment id="52">, mais eficiente em atrair compradores do que a concorrência.</segment>
+    <segment id="53">Esse modelo de marketing digital ultrapassou fronteiras em 2003</segment>
+    <segment id="54">, com o lançamento do AdSense</segment>
+    <segment id="55">, que faz o meio campo entre anunciantes e sites usuários do serviço.</segment>
+    <segment id="56">Em 2018</segment>
+    <segment id="57">, o AdWords passou por uma reformulação completa</segment>
+    <segment id="58">, passou a também vender anúncios para terceiros e</segment>
+    <segment id="59">, desde então</segment>
+    <segment id="60">, sese chama Google Ads.</segment>
+    <segment id="61">No fim de 2022</segment>
+    <segment id="62">, o Google recebia 28</segment>
+    <segment id="63">,8% do total de receitas ligadas a marketing digital</segment>
+    <segment id="64">, de acordo com a consultoria Insider Intelligence.</segment>
+    <segment id="65">O teórico de mídia Jeff Jarvis</segment>
+    <segment id="66">, autor do livro "</segment>
+    <segment id="67">O que a Google Faria" (2009)</segment>
+    <segment id="68">, avalia que o buscador dominou a internet com um modelo de negócios antigo —o da mídia de massas.</segment>
+    <segment id="69">O executivo Eric Schmidt liderou o Google entre 2001 e 2011 nessa virada em direção à publicidade.</segment>
+    <segment id="70">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="71">; aberta para não assinantes.</segment>
+    <segment id="72">Carregando..."O que o Google fez foi criar um novo mercado de anunciantes que não podia pagar os preços cobrados por jornais</segment>
+    <segment id="73">, revistas</segment>
+    <segment id="74">, rádios e televisão.</segment>
+    <segment id="75">Assim, esses empreendedores puderam fazer marketing de maneira eficiente na escala adequada"</segment>
+    <segment id="76">, diz Jarvis.</segment>
+    <segment id="77">Entre 2010 e 2011</segment>
+    <segment id="78">, o valor de mercado do Google já oscilava entre US$ 300 bilhões (R$ 1</segment>
+    <segment id="79">,5 trilhão) e US$ 400 bilhões (R$ 2 trilhões) em valores corrigidos pela inflação.</segment>
+    <segment id="80">ECOSSISTEMA DE SERVIÇOS</segment>
+    <segment id="81">A inovação técnica nesse serviço veio a reboque de análise de grandes quantidades de dados</segment>
+    <segment id="82">, modelos preditivos e inteligência artificial para entregar o anúncio adequado para o cliente mais provável</segment>
+    <segment id="83">, sem a necessidade de grandes departamentos de marketing.</segment>
+    <segment id="84">O primeiro dado coletado foi o que os usuários buscavam</segment>
+    <segment id="85">, masmas isso não bastava para abastecer a gigante com as informações necessárias.</segment>
+    <segment id="86">À medida que a máquina publicitária crescia</segment>
+    <segment id="87">, o Google montou um ecossistema de serviços de qualidade capaz de atrair milhões de usuários.</segment>
+    <segment id="88">Na primeira leva</segment>
+    <segment id="89">, vieram produtos corporativos</segment>
+    <segment id="90">, como</segment>
+    <segment id="91">como a pesquisa especializada para o ambiente empresarial</segment>
+    <segment id="92">, em 2002.</segment>
+    <segment id="93">Dois anos depois</segment>
+    <segment id="94">, veio o Gmail</segment>
+    <segment id="95">, primeiramente para testadores e lançado para todos em 2007.</segment>
+    <segment id="96">No ano seguinte</segment>
+    <segment id="97">, nasceu o Chrome</segment>
+    <segment id="98">, um dos principais navegadores da internet.</segment>
+    <segment id="99">Os aplicativos de produtividade hoje imbuídos em todo o sistema Google</segment>
+    <segment id="100">, como</segment>
+    <segment id="101">como a agenda digital</segment>
+    <segment id="102">, o editor de documentos</segment>
+    <segment id="103">, planilhas e apresentações</segment>
+    <segment id="104">, vieram em 2009.</segment>
+    <segment id="105">Em 2006</segment>
+    <segment id="106">, a empresa comprou o YouTube</segment>
+    <segment id="107">, plataforma de compartilhamento de vídeos utilizada em todo o mundo e que hoje também funciona</segment>
+    <segment id="108">comocomo serviço de streaming de músicas</segment>
+    <segment id="109">, filmes pagos e outros serviços de conteúdo audiovisual.</segment>
+    <segment id="110">No entanto</segment>
+    <segment id="111">, a maior aquisição do Google nesse período foi a empresa de publicidade digital DoubleClick</segment>
+    <segment id="112">, principal concorrente do AdSense.</segment>
+    <segment id="113">A União Europeia avaliou à época que a compra não prejudicaria o mercado de atuação das empresas.</segment>
+    <segment id="114">O DoubleClick</segment>
+    <segment id="115">sese tornou líder deste mercado no início deste milênio ao colecionar informações de usuários procedentes de diversos sites</segment>
+    <segment id="116">, por meio dos chamados cookies (biscoito em inglês) —arquivo padrão que armazena dados durante a visita a um endereço virtual.</segment>
+    <segment id="117">O DoubleClick usava isso para direcionar anúncios de acordo com o comportamento da pessoa-alvo.</segment>
+    <segment id="118">Essa tecnologia possibilitou que o Google ampliasse seu modelo de coleta de dados e afinasse o direcionamento de conteúdo.</segment>
+    <segment id="119">O último movimento certeiro na consolidação do império em 2008 foi a liderança no desenvolvimento do sistema operacional Android —presente em celulares de marcas</segment>
+    <segment id="120">comocomo Samsung</segment>
+    <segment id="121">, Motorola e Xiaomi</segment>
+    <segment id="122">, é o principal concorrente do iOS</segment>
+    <segment id="123">, sistema dos iPhones</segment>
+    <segment id="124">, da Apple.</segment>
+    <segment id="125">Em 2014</segment>
+    <segment id="126">, os dispositivos móveis ultrapassaram os computadores pessoais</segment>
+    <segment id="127">comocomo principal meio de acesso à internet no mundo</segment>
+    <segment id="128">, de acordo com a consultoria ComScore.</segment>
+    <segment id="129">Hoje, o Android responde por 71% do mercado de sistemas operacionais de celulares.</segment>
+    <segment id="130">Nos smartphones</segment>
+    <segment id="131">, o Google coleta</segment>
+    <segment id="132">, além de dados de identificação do usuário</segment>
+    <segment id="133">, informações sobre uso de cada aplicativo ou serviço usado no dispositivo.</segment>
+    <segment id="134">"</segment>
+    <segment id="135">Antes da coleta</segment>
+    <segment id="136">, o sistema operacional notifica e pede consentimento"</segment>
+    <segment id="137">, diz a empresa.</segment>
+    <segment id="138">É possível consultar os dados que o Google coleta neste link.</segment>
+    <segment id="139">Como resposta ao modelo de economia da atenção</segment>
+    <segment id="140">, governos e a sociedade passaram a reivindicar mais transparência e privacidade.</segment>
+    <segment id="141">Nesse movimento</segment>
+    <segment id="142">, os sites comeram a publicar</segment>
+    <segment id="143">sese usam cookies e também políticas de privacidade.</segment>
+    <segment id="144">O próprio Google anunciou</segment>
+    <segment id="145">, em 2022</segment>
+    <segment id="146">, que deixaria de usar cookies de terceiros no próximo ano e testa</segment>
+    <segment id="147">, desde então</segment>
+    <segment id="148">, alternativas para seu sistema de publicidade.  "</segment>
+    <segment id="149">O Google</segment>
+    <segment id="150">, hoje</segment>
+    <segment id="151">, tem dados o suficiente para direcionar seus anúncios para sobreviver depois de legisladores acabarem com os cookies.</segment>
+    <segment id="152">A velha mídia é a que está menos preparada"</segment>
+    <segment id="153">, diz o escritor Jeff Jarvis.  GOOGLE NA POLÍTICA</segment>
+    <segment id="154">Esse domínio sobre o mercado da atenção e os dados na internet também direcionou a relação do Google com governos.</segment>
+    <segment id="155">Em 2020</segment>
+    <segment id="156">, a gigante de buscas</segment>
+    <segment id="157">, com outras big techs</segment>
+    <segment id="158">comocomo Apple</segment>
+    <segment id="159">, Microsoft</segment>
+    <segment id="160">, Twitter</segment>
+    <segment id="161">, Amazon e Facebook precisou comparecer a sessões do Congresso americano para esclarecer suspeitas de estratégias anticompetitivas e amplo poder de monopólio</segment>
+    <segment id="162">, afetando ainda a dimensão política do país.</segment>
+    <segment id="163">O produto destas oitivas foi um relatório de 449 páginas criado pela Câmara dos Representantes</segment>
+    <segment id="164">, afirmando que todas as companhias abusaram de seu poder de mercado</segment>
+    <segment id="165">, e recomendando uma total reformulação do modelo de negócios destas empresas.</segment>
+    <segment id="166">A plataforma de vídeos preocupou o TSE (Tribunal Superior Eleitoral) pela falta de transparência na moderação e pelos incentivos financeiros para produtores de conteúdo extremista —desinformação dá audiência.</segment>
+    <segment id="167">Conheça por dentro a sede do GoogleMais    novamente         de   de  de  representando um  Entram na conta ainda as ameaças da empresa à retirada de serviços por todo o mundo em resposta à regulamentação da divulgação de conteúdo online.</segment>
+    <segment id="168">Na Austrália</segment>
+    <segment id="169">, por exemplo</segment>
+    <segment id="170">, a gigante de buscas ameaçou deixar o país</segment>
+    <segment id="171">casocaso o projeto de lei obrigando as plataformas a remunerarem os meios de comunicação pelo uso de conteúdo noticioso avançasse.</segment>
+    <segment id="172">No Canadá</segment>
+    <segment id="173">, a empresa removeu os links para notícias dos resultados de pesquisa e de outros produtos quando uma lei obrigando as big techs a pagarem por conteúdo jornalístico entrou em vigor.</segment>
+    <segment id="174">Também tentou burlar a lei de proteção de dados da União Europeia.</segment>
+    <segment id="175">Nesses casos</segment>
+    <segment id="176">, o Google enviou alertas aos usuários de que as legislações colocavam em risco os "serviços gratuitos" oferecidos pela plataforma nesses países.</segment>
+    <segment id="177">No Brasil</segment>
+    <segment id="178">, por sua vez</segment>
+    <segment id="179">, o Google lançou uma ofensiva contra o PL 2630</segment>
+    <segment id="180">, conhecido</segment>
+    <segment id="181">comocomo PL das Fake News</segment>
+    <segment id="182">, mostraram emails</segment>
+    <segment id="183">, capturas de tela e relatos obtidos pela Folha</segment>
+    <segment id="184">, e sugeriu um levantamento do NetLab.</segment>
+    <segment id="185">Quem usava o buscador</segment>
+    <segment id="186">sese deparava com um link bem embaixo da caixa de busca</segment>
+    <segment id="187">, com os dizeres: "</segment>
+    <segment id="188">O PL das Fake News pode piorar sua internet".</segment>
+    <segment id="189">O link direcionava para um post do blog do Google com inúmeras críticas ao projeto</segment>
+    <segment id="190">, que não foi votado após a campanha</segment>
+    <segment id="191">, e não possui data para retornar à pauta.</segment>
+    <segment id="192">À época</segment>
+    <segment id="193">, o Google afirmou à Folha que não privilegiava nenhum link na internet</segment>
+    <segment id="194">, o que incluiria os links da própria empresa.</segment>
+    <segment id="195">"</segment>
+    <segment id="196">Nossos sistemas de ranqueamento</segment>
+    <segment id="197">sese aplicam de forma consistente para todas as páginas da web</segment>
+    <segment id="198">, incluindo aquelas administradas pelo Google.</segment>
+    <segment id="199">"  Neste mês de setembro</segment>
+    <segment id="200">, a empresa passou a responder ao maior julgamento antitruste da história sobre acordos bilionários com operadoras de telefonia móvel e outros que ajudaram a tornar o Google o mecanismo de busca padrão da maioria dos celulares do mundo.</segment>
+    <segment id="201">A professora de tecnologia</segment>
+    <segment id="202">, mídia e comunicações da Universidade de Columbia (em Nova York)</segment>
+    <segment id="203">, Anya Schiffrin</segment>
+    <segment id="204">, afirma que a relação com o governo e a sociedade sempre foram pilar dos negócios do Google.</segment>
+    <segment id="205">"</segment>
+    <segment id="206">Tanto é que o primeiro chefe-executivo do Google</segment>
+    <segment id="207">, Eric Schmidt</segment>
+    <segment id="208">, é um lobista experiente".</segment>
+    <segment id="209">Schmidt liderou o Google durante a escalada nos negócios entre 2001 e 2011.</segment>
+    <segment id="210">Depois</segment>
+    <segment id="211">, continuou na presidência do conselho da Alphabet</segment>
+    <segment id="212">, holding que controla o Google</segment>
+    <segment id="213">, até 2019.</segment>
+    <segment id="214">Ele deixou a empresa de forma definitiva em 2020 para</segment>
+    <segment id="215">sese dedicar a projetos militares dos EUA envolvendo tecnologia.</segment>
+    <segment id="216">Agora, comanda o Google Sundar Pichai</segment>
+    <segment id="217">, chefe-executivo da Alphabet desde 2015.</segment>
+    <segment id="218">Em 2017</segment>
+    <segment id="219">, a empresa redirecionou o foco dos smartphones para a inteligência artificial.</segment>
+    <segment id="220">Embora quase todos os produtos Google contem com IA</segment>
+    <segment id="221">, a principal esperança da gigante da tecnologia até agora é o Bard</segment>
+    <segment id="222">, um modelo similar ao ChatGPT.</segment>
+    <segment id="223">Os resultados dessa aposta</segment>
+    <segment id="224">, entretanto</segment>
+    <segment id="225">, ainda estão por vir.</segment>
+    <segment id="226">Entenda debate sobre a regulação das redes sociais no BrasilMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

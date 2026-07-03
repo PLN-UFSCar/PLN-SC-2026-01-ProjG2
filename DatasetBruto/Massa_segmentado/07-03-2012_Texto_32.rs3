@@ -1,0 +1,38 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Italiana valente</segment>
+    <segment id="2">No ensaio</segment>
+    <segment id="3">, ela incorpora a personagem Valentina
+Valentina Francavilla</segment>
+    <segment id="4">, a divertida assistente de palco Italianinha do “Programa do Ratinho”</segment>
+    <segment id="5">, é a capa da edição de março da “Playboy”.</segment>
+    <segment id="6">Desde o ano passado</segment>
+    <segment id="7">, a beldade é a mais pedida pelos leitores da publicação.</segment>
+    <segment id="8">No ensaio</segment>
+    <segment id="9">, ela incorpora a personagem Valentina</segment>
+    <segment id="10">, uma fotógrafa pra lá de sexy de histórias em quadrinhos criadas nos anos 60.</segment>
+    <segment id="11">Agora, aparece em versão atualizadíssima!</segment>
+  </rst>
+</analysis>

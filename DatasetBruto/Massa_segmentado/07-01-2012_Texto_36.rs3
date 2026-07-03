@@ -1,0 +1,304 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O ritmo acelerado do poeta Geraldo Carneiro
+RIO - 2011 foi um ano movimentado para o poeta Geraldo Carneiro.</segment>
+    <segment id="2">Ele traduziu o que define</segment>
+    <segment id="3">comocomo uma versão redux de Romeu e Julieta</segment>
+    <segment id="4">, chamada "RJ de Shakespeare"</segment>
+    <segment id="5">, que estreia esta semana em São Paulo depois de uma vitoriosa carreira carioca</segment>
+    <segment id="6">; escreveu para a Globo</segment>
+    <segment id="7">, com Alcides Nogueira</segment>
+    <segment id="8">, a novela "</segment>
+    <segment id="9">O astro"</segment>
+    <segment id="10">, baseada na obra de Janete Clair</segment>
+    <segment id="11">; a pedido de Daniel Filho</segment>
+    <segment id="12">, fez as introduções para os 16 episódios de "</segment>
+    <segment id="13">As brasileiras"</segment>
+    <segment id="14">; apresentou-</segment>
+    <segment id="15">sese com a atriz Mariana Ximenes pelo Brasil afora</segment>
+    <segment id="16">, numa série de palestras que vão virar DVD</segment>
+    <segment id="17">; adaptou "Gota d'água"</segment>
+    <segment id="18">, a peça de Paulo Pontes e Chico Buarque</segment>
+    <segment id="19">, para o cinema</segment>
+    <segment id="20">, a pedido de Roberto Talma</segment>
+    <segment id="21">; lançou seu segundo CD</segment>
+    <segment id="22">, "Gozos d'alma"</segment>
+    <segment id="23">, pela Biscoito Fino</segment>
+    <segment id="24">;</segment>
+    <segment id="25">e começou alguns projetos que serão terminados em 2012</segment>
+    <segment id="26">, entre eles o roteiro cinematográfico de "</segment>
+    <segment id="27">A casa dos budas ditosos"</segment>
+    <segment id="28">, a quatro mãos com o autor e grande amigo João Ubaldo Ribeiro</segment>
+    <segment id="29">, e "Discurso do amor rasgado"</segment>
+    <segment id="30">, livro em que celebra seus trinta anos de convívio com Shakespeare</segment>
+    <segment id="31">, e que será publicado pela Nova Fronteira.</segment>
+    <segment id="32">Tudo isso fora o varejo de canções e poemas</segment>
+    <segment id="33">, que brotam naturalmente</segment>
+    <segment id="34">, sem esperar ocasião.</segment>
+    <segment id="35">É muita coisa para um poeta só</segment>
+    <segment id="36">, masmas o tempo e o trabalho fazem bem a Geraldo Carneiro</segment>
+    <segment id="37">, casado desde 2008 com sua linda musa Ana Paula Pedro.</segment>
+    <segment id="38">Ele reclama em tom de troça da decrepitude física e metafísica</segment>
+    <segment id="39">, masmas mudou espantosamente pouco desde que começou a aparecer</segment>
+    <segment id="40">, ainda adolescente</segment>
+    <segment id="41">, no cenário da música brasileira.</segment>
+    <segment id="42">Ano intenso também em casa</segment>
+    <segment id="43">No front doméstico</segment>
+    <segment id="44">, o ano não foi menos intenso.</segment>
+    <segment id="45">Em fevereiro</segment>
+    <segment id="46">, nasceu o primeiro neto</segment>
+    <segment id="47">, Santiago</segment>
+    <segment id="48">, filho do filho mais velho</segment>
+    <segment id="49">, Joaquim (30 anos)</segment>
+    <segment id="50">; e, quatro meses depois</segment>
+    <segment id="51">, veio ao mundo Vinícius</segment>
+    <segment id="52">, o filho mais novo. (Antonio</segment>
+    <segment id="53">, o do meio</segment>
+    <segment id="54">, tem 14 anos).</segment>
+    <segment id="55">Como costuma acontecer com bebês</segment>
+    <segment id="56">, ainda mais quando são dados a risonhos</segment>
+    <segment id="57">, Vinícius é o rei da casa.
+
+- O Vinícius é um carnavalesco</segment>
+    <segment id="58">, vai no colo de todo mundo</segment>
+    <segment id="59">, acha a maior graça</segment>
+    <segment id="60">, gosta de tudo.</segment>
+    <segment id="61">Parece o velho Vinicius.</segment>
+    <segment id="62">Quando nós escolhemos esse nome para ele</segment>
+    <segment id="63">, fiquei rindo durante um mês</segment>
+    <segment id="64">, porque</segment>
+    <segment id="65">porque nunca imaginei que um ser tão pequenininho pudesse ter o mesmo nome daquele outro Vinicius</segment>
+    <segment id="66">, que foi tão importante na minha vida.</segment>
+    <segment id="67">Ele gravou uma música minha quando eu ainda era menino</segment>
+    <segment id="68">, acabei escrevendo a primeira biografia dele e fomos muito amigos</segment>
+    <segment id="69">, ainda que no começo eu o olhasse com um certo cuidado</segment>
+    <segment id="70">, porque</segment>
+    <segment id="71">porque o achava licencioso</segment>
+    <segment id="72">, libertário demais.</segment>
+    <segment id="73">Eu me sentia meio careta ao lado dele</segment>
+    <segment id="74">, e olha que para eu me sentir meio careta nos anos 70 era complicado...</segment>
+    <segment id="75">Ele era muito doido.</segment>
+    <segment id="76">O Vinicius me inspirava sentimentos paradoxais: amor</segment>
+    <segment id="77">, admiração</segment>
+    <segment id="78">, inveja.</segment>
+    <segment id="79">Era de um carinho extraordinário</segment>
+    <segment id="80">, me ensinou a fazer coisas impublicáveis!</segment>
+    <segment id="81">Lamento ter tido em relação a ele aquela tendência parricida que as gerações mais novas têm em relação às gerações anteriores.</segment>
+    <segment id="82">Lamento não ter convivido com ele da forma amorosa que ele propunha.</segment>
+    <segment id="83">Eu mantinha um olhar crítico</segment>
+    <segment id="84">, ia à casa dele</segment>
+    <segment id="85">, ficamos amigos</segment>
+    <segment id="86">, masmas nunca chegamos a ser realmente íntimos.</segment>
+    <segment id="87">O convívio entre Geraldo e o Vinícius pequeno foi afetado pelo trabalho na novela</segment>
+    <segment id="88">, masmas de forma positiva:</segment>
+    <segment id="89">comocomo atravessa as madrugadas escrevendo</segment>
+    <segment id="90">, ele pode observar a evolução do filho num horário em que poucos pais estão acordados.</segment>
+    <segment id="91">Entre uma cena e outra de "</segment>
+    <segment id="92">O astro"</segment>
+    <segment id="93">, acompanhava as mamadas e resmungos noturnos do seu bebezinho.</segment>
+    <segment id="94">No momento</segment>
+    <segment id="95">, as madrugadas estão menos longas</segment>
+    <segment id="96">, masmas não menos produtivas.</segment>
+    <segment id="97">Vinicius dorme</segment>
+    <segment id="98">, enquanto o pai trabalha em novos roteiros e escreve sobre os 60 anos que fará em junho.</segment>
+    <segment id="99">Idade que</segment>
+    <segment id="100">, como</segment>
+    <segment id="101">como sabem todos que chegaram lá</segment>
+    <segment id="102">, parece muito distante até o momento em que bate à porta.
+
+--</segment>
+    <segment id="103">Todo mundo conta que</segment>
+    <segment id="104">, quando vai para a fila especial</segment>
+    <segment id="105">, acha que os outros vão ficar indignados.</segment>
+    <segment id="106">Mas que nada.</segment>
+    <segment id="107">Todos acham perfeitamente natural aquele cara lá...</segment>
+    <segment id="108">(risos) Estou me enchendo de trabalho para afastar o espectro que ronda os sexagenários.</segment>
+    <segment id="109">Aliás, que palavra horrível</segment>
+    <segment id="110">, implica uma série de trocadilhos...</segment>
+    <segment id="111">Mas não posso me queixar.</segment>
+    <segment id="112">Estou num momento apaziguado e feliz.</segment>
+    <segment id="113">Há guerras dentro de mim</segment>
+    <segment id="114">, masmas são guerras de aperfeiçoamento</segment>
+    <segment id="115">, não guerras de destruição.</segment>
+    <segment id="116">E tenho me cansado tanto de trabalhar</segment>
+    <segment id="117">, que tenho sonhado muito com aquelas coisas de um ser humano padrão</segment>
+    <segment id="118">, aquele ser humano que quer</segment>
+    <segment id="119">sese alimentar e dormir</segment>
+    <segment id="120">, em suma</segment>
+    <segment id="121">, certos prazeres da existência aos quais eu nunca tinha prestado atenção</segment>
+    <segment id="122">, e que</segment>
+    <segment id="123">, por força das circunstâncias</segment>
+    <segment id="124">, estão me parecendo espetaculares.</segment>
+    <segment id="125">Jantar</segment>
+    <segment id="126">, dormir</segment>
+    <segment id="127">, uma vida pacífica...</segment>
+    <segment id="128">quem diria!</segment>
+    <segment id="129">Geraldo Carneiro nasceu em Belo Horizonte</segment>
+    <segment id="130">, masmas mudou-</segment>
+    <segment id="131">sese para o Rio aos 3 anos</segment>
+    <segment id="132">, quando o pai</segment>
+    <segment id="133">, secretário de Juscelino Kubistchek</segment>
+    <segment id="134">, veio para a então capital.</segment>
+    <segment id="135">Pelo apartamento da família</segment>
+    <segment id="136">, em Copacabana</segment>
+    <segment id="137">, políticos</segment>
+    <segment id="138">, músicos e escritores circulavam com a mesma desenvoltura</segment>
+    <segment id="139">, o que acabou marcando a sua infância e a dos irmãos</segment>
+    <segment id="140">, o músico Nando e a historiadora Elizabeth.</segment>
+    <segment id="141">A música</segment>
+    <segment id="142">, quase uma segunda natureza</segment>
+    <segment id="143">, começou cedo.</segment>
+    <segment id="144">Seu primeiro parceiro</segment>
+    <segment id="145">, ainda na adolescência</segment>
+    <segment id="146">, foi Eduardo Souto Neto.</segment>
+    <segment id="147">Os dois compuseram juntos "</segment>
+    <segment id="148">Choro de nada</segment>
+    <segment id="149">";</segment>
+    <segment id="150">Vinicius de Moraes gostou</segment>
+    <segment id="151">, decidiu gravar</segment>
+    <segment id="152">, masmas achava que precisava mudar um verso.</segment>
+    <segment id="153">O final original era "</segment>
+    <segment id="154">Retomo o rumo de casa /</segment>
+    <segment id="155">Com um sorriso nos olhos / Você não sabe de tudo / Você não sabe de nada".</segment>
+    <segment id="156">Vinicius queria "</segment>
+    <segment id="157">Retomo o rumo de casa /</segment>
+    <segment id="158">Com a alma reconfortada / Você não sabe de tudo / Você não sabe de nada".</segment>
+    <segment id="159">Com a arrogância dos 18 anos</segment>
+    <segment id="160">, Geraldo não permitiu.</segment>
+    <segment id="161">E foi embora</segment>
+    <segment id="162">embora para Roma</segment>
+    <segment id="163">, trabalhar com Astor Piazzola num musical sobre Evita Peron que acabou não saindo.</segment>
+    <segment id="164">Enquanto estava por lá</segment>
+    <segment id="165">, recebeu uma cartinha gentil de Eduardo</segment>
+    <segment id="166">, que contava que a canção havia sido gravada - sem entrar em detalhes.</segment>
+    <segment id="167">Na volta ao Rio</segment>
+    <segment id="168">, meses depois</segment>
+    <segment id="169">, é que descobriu que a mudança de verso havia</segment>
+    <segment id="170">, afinal</segment>
+    <segment id="171">, sido feita.</segment>
+    <segment id="172">Mas a história dessa música</segment>
+    <segment id="173">, até hoje uma das suas letras mais conhecidas</segment>
+    <segment id="174">, não acaba aí.</segment>
+    <segment id="175">Passaram-</segment>
+    <segment id="176">sese três ou quatro anos</segment>
+    <segment id="177">, e Tom Jobim também quis gravá-la</segment>
+    <segment id="178">, junto com Miúcha...</segment>
+    <segment id="179">mais uma vez trocando o verso da discórdia!</segment>
+    <segment id="180">Dessa vez ficou "</segment>
+    <segment id="181">Retomo o rumo de casa /</segment>
+    <segment id="182">Na noite desconsolada / Você não sabe de tudo / Você não sabe de nada".</segment>
+    <segment id="183">"</segment>
+    <segment id="184">Choro de nada" só foi gravada com a letra original no ano passado</segment>
+    <segment id="185">, por Danilo Caymmi</segment>
+    <segment id="186">, para o CD "Gozos d'alma".</segment>
+    <segment id="187">De "Choro de nada</segment>
+    <segment id="188">"</segment>
+    <segment id="189">até hoje foram mais de 200 canções</segment>
+    <segment id="190">, em parcerias com o irmão Nando</segment>
+    <segment id="191">, com Egberto Gismonti</segment>
+    <segment id="192">, com Astor Piazzolla</segment>
+    <segment id="193">, com John Neschling</segment>
+    <segment id="194">, com Francis Hime</segment>
+    <segment id="195">, com Wagner Tiso.</segment>
+    <segment id="196">E, desde então</segment>
+    <segment id="197">, os seus versos foram deixados em paz.</segment>
+    <segment id="198">Vendo o mundo da sua infância e juventude pelos olhos de hoje</segment>
+    <segment id="199">, Geraldo Carneiro não alimenta falsas ilusões.</segment>
+    <segment id="200">O planeta era mais instável e</segment>
+    <segment id="201">, com certeza</segment>
+    <segment id="202">, bem mais explosivo:
+
+- Você</segment>
+    <segment id="203">sese dá conta de que</segment>
+    <segment id="204">, quando nós éramos crianças</segment>
+    <segment id="205">, o mundo podia ter acabado?</segment>
+    <segment id="206">A crise dos mísseis</segment>
+    <segment id="207">, em 62</segment>
+    <segment id="208">, foi o preâmbulo do apocalipse.</segment>
+    <segment id="209">Depois</segment>
+    <segment id="210">, em 64</segment>
+    <segment id="211">, veio a ditadura militar</segment>
+    <segment id="212">, vivemos momentos muito difíceis.</segment>
+    <segment id="213">Agora,</segment>
+    <segment id="214">embora</segment>
+    <segment id="215">embora as pessoas não</segment>
+    <segment id="216">sese dêem conta</segment>
+    <segment id="217">, estamos vivendo um momento particularmente feliz.</segment>
+    <segment id="218">Há uma distensão social</segment>
+    <segment id="219">, uma tolerância</segment>
+    <segment id="220">, uma aceitação da alteridade...</segment>
+    <segment id="221">Há conquistas do Século XX que entraram com força pelo Século XXI.</segment>
+    <segment id="222">Veja a Primavera Árabe</segment>
+    <segment id="223">, que coisa maravilhosa</segment>
+    <segment id="224">, quem teria imaginado isso?</segment>
+    <segment id="225">Claro que tudo é muito precário e pode acabar da noite para o dia</segment>
+    <segment id="226">, e os dinossauros vão para as cucuias.</segment>
+    <segment id="227">Nós, os novos dinossauros</segment>
+    <segment id="228">, podemos ter o mesmo destino.</segment>
+    <segment id="229">Mas é bom não perder de vista as coisas boas quando estão acontecendo.</segment>
+    <segment id="230">O mundo é cheio de descontinuidades</segment>
+    <segment id="231">, masmas tomara que haja uma continuidade nesses processos.
+
+- Isso</segment>
+    <segment id="232">, claro</segment>
+    <segment id="233">, sese a profecia dos maias não</segment>
+    <segment id="234">sese concretizar e o mundo não acabar em 2012...
+
+-- Ah</segment>
+    <segment id="235">, os maias não têm muito prestígio profético aqui no Rio não.</segment>
+    <segment id="236">Cesar Maia</segment>
+    <segment id="237">, Rodrigo Maia...</segment>
+    <segment id="238">o Dem está por baixo.</segment>
+    <segment id="239">(risos)</segment>
+    <segment id="240">Mineiro com jeito de carioca</segment>
+    <segment id="241">Geraldo Carneiro não espera um mundo muito diferente para o bebê Vinícius.</segment>
+    <segment id="242">O maior temor atual</segment>
+    <segment id="243">, o de um apocalipse ecológico</segment>
+    <segment id="244">, não o assusta: ele</segment>
+    <segment id="245">sese agarra a uma "teoria ridícula" que</segment>
+    <segment id="246">, dada a devida licença poética</segment>
+    <segment id="247">, é até engraçada:
+
+- Wall Street fica ao nível do mar.</segment>
+    <segment id="248">Quando o mar subir dez centímetros e molhar o sapatinho daqueles executivos - aqueles sapatos caros</segment>
+    <segment id="249">, que eles compram em Londres - eles param instantaneamente de mexer com as empresas poluidoras.</segment>
+    <segment id="250">Então, você tem um controle quase imediato da situação</segment>
+    <segment id="251">, graças aos sapatos londrinos de Wall Street.</segment>
+    <segment id="252">Não é uma boa teoria?</segment>
+    <segment id="253">Do ponto de vista científico</segment>
+    <segment id="254">, certamente não</segment>
+    <segment id="255">, masmas</segment>
+    <segment id="256">comocomo pouca gente</segment>
+    <segment id="257">sese entende mesmo sobre as causas e consequências do aquecimento global</segment>
+    <segment id="258">, ela é</segment>
+    <segment id="259">, provavelmente</segment>
+    <segment id="260">, uma teoria tão boa quanto outra qualquer.</segment>
+    <segment id="261">De qualquer forma</segment>
+    <segment id="262">, ela mostra uma das facetas mais divertidas do poeta: seu talento extraordinário para a conversa fiada</segment>
+    <segment id="263">, para o bate-papo sem compromisso que</segment>
+    <segment id="264">, viva ele!</segment>
+    <segment id="265">, sempre foi a marca registrada dos bons cariocas.</segment>
+  </rst>
+</analysis>

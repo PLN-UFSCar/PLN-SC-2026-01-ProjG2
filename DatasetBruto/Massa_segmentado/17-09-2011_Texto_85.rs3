@@ -1,0 +1,53 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Caso Juan: Governo do estado propõe indenização de R$ 200 mil para a família do menino
+RIO - O governo do Estado do Rio quer indenizar em R$ 200 mil a família do menino Juan Moraes</segment>
+    <segment id="2">, de 11 anos</segment>
+    <segment id="3">, morto em junho</segment>
+    <segment id="4">, na comunidade Danon</segment>
+    <segment id="5">, em Nova Iguaçu</segment>
+    <segment id="6">, na Baixada Fluminense.</segment>
+    <segment id="7">A informação foi confirmada pela assessoria do governo</segment>
+    <segment id="8">, neste sábado.</segment>
+    <segment id="9">De acordo com a assessoria</segment>
+    <segment id="10">, antes de a Justiça definir os responsáveis pelo crime</segment>
+    <segment id="11">, o governador Sérgio Cabral autorizou o secretário de Assistência Social e Direitos Humanos</segment>
+    <segment id="12">, Rodrigo Neves</segment>
+    <segment id="13">, a dar andamento no processo.</segment>
+    <segment id="14">No entanto</segment>
+    <segment id="15">, a assessoria não tem informações de quando o valor será liberado.</segment>
+    <segment id="16">A prisão dos quatro policiais militares envolvidos na morte de Juan foi decretada na tarde da última sexta-feira.</segment>
+    <segment id="17">Os mandados de prisão preventiva estão sendo preparados na 4ª Vara Criminal de Nova Iguaçu.</segment>
+    <segment id="18">O Ministério Público do Rio denunciou os PMs Isaias Souza do Carmo</segment>
+    <segment id="19">, Edilberto Barros do Nascimento</segment>
+    <segment id="20">, Ubirani Soares e Rubens da Silva por dois homicídios duplamente qualificados e duas tentativas de homicídio duplamente qualificado.</segment>
+    <segment id="21">Eles são acusados de matar a tiros</segment>
+    <segment id="22">Igor de Souza Afonso e o menino Juan</segment>
+    <segment id="23">, além de ferir outros dois jovens</segment>
+    <segment id="24">, em junho deste ano</segment>
+    <segment id="25">, em Nova Iguaçu.</segment>
+    <segment id="26">Os crimes foram agravados pelo fato de uma das vítimas ser menor de idade e por causa do abuso de poder por parte dos agentes públicos.</segment>
+  </rst>
+</analysis>

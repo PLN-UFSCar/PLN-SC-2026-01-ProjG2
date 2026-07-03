@@ -1,0 +1,101 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">No próximo Dia das Crianças</segment>
+    <segment id="2">, 65% dos brasileiros pretendem comprar presente</segment>
+    <segment id="3">, com investimento médio de R$ 213.</segment>
+    <segment id="4">Esses dados foram revelados pelo Instituto Datafolha</segment>
+    <segment id="5">, em uma pesquisa realizada a pedido da Abecs</segment>
+    <segment id="6">, associação que representa o setor de meios eletrônicos de pagamento.</segment>
+    <segment id="7">A estimativa é que a data deve movimentar aproximadamente R$ 16</segment>
+    <segment id="8">,1 bilhões em compras nos setores de comércio e serviços.</segment>
+    <segment id="9">O estudo diz ainda que</segment>
+    <segment id="10">, para 33% dos entrevistados</segment>
+    <segment id="11">, o valor gasto neste ano deve ser maior do que no ano passado.</segment>
+    <segment id="12">Para 34%</segment>
+    <segment id="13">, o valor deve permanecer igual</segment>
+    <segment id="14">, e, para 30%</segment>
+    <segment id="15">, abaixo do que o gasto anterior.</segment>
+    <segment id="16">Ainda sobre o recorte de desembolso médio</segment>
+    <segment id="17">, os homens pretendem gastar mais (R$ 252) do que as mulheres (R$ 174).</segment>
+    <segment id="18">Funcionário de loja de brinquedos em Guaianazes</segment>
+    <segment id="19">, zona leste de São Paulo (SP) - Lalo de Almeida/FolhapressGasto médio por região:</segment>
+    <segment id="20">Entre todas as regiões</segment>
+    <segment id="21">, o Centro-Oeste registra o maior valor médio</segment>
+    <segment id="22">, de R$ 236</segment>
+    <segment id="23">, ficando acima da média nacional</segment>
+    <segment id="24">, assim</segment>
+    <segment id="25">comocomo o Sudeste</segment>
+    <segment id="26">, com R$ 233</segment>
+    <segment id="27">, e a região Sul</segment>
+    <segment id="28">, com R$ 219.</segment>
+    <segment id="29">Norte e Nordeste apontam gasto médio de R$ 197 e R$ 178</segment>
+    <segment id="30">, respectivamente.</segment>
+    <segment id="31">Em relação à intenção de compra</segment>
+    <segment id="32">, o Centro-Oeste também lidera com 71%</segment>
+    <segment id="33">, seguido pelo Nordeste com 69%</segment>
+    <segment id="34">, Norte com 67%</segment>
+    <segment id="35">, Sudeste com 62% e da região Sul</segment>
+    <segment id="36">, com 60%.</segment>
+    <segment id="37">Loja física é a opção:</segment>
+    <segment id="38">Quando perguntados sobre o local de compra de preferência</segment>
+    <segment id="39">, 74% dos entrevistados</segment>
+    <segment id="40">, sete entre cada dez dos consumidores ouvidos</segment>
+    <segment id="41">, afirmam que pretendem ir até as lojas físicas.</segment>
+    <segment id="42">O formato de compra presencial é preferência também entre mulheres (76%)</segment>
+    <segment id="43">, assim</segment>
+    <segment id="44">comocomo na região metropolitana</segment>
+    <segment id="45">, com 74%</segment>
+    <segment id="46">, e no interior</segment>
+    <segment id="47">, que teve 73% de respostas positivas.</segment>
+    <segment id="48">O canal online possui maior aderência entre os homens</segment>
+    <segment id="49">, 24%, e entre as faixas etárias de 18 a 24 anos e 35 a 44 anos</segment>
+    <segment id="50">, ambas com 29% de menções.</segment>
+    <segment id="51">Cartões têm preferência:</segment>
+    <segment id="52">Entre os consumidores entrevistados</segment>
+    <segment id="53">, 40% afirmam ter intenção de utilizar o cartão</segment>
+    <segment id="54">comocomo meio de pagamento</segment>
+    <segment id="55">, sendo 25% cartão de crédito</segment>
+    <segment id="56">, 14% cartão de débito e 1% cartão de loja.</segment>
+    <segment id="57">O segundo meio de pagamento mais mencionado é o dinheiro</segment>
+    <segment id="58">, com 37%.</segment>
+    <segment id="59">O Pix aparece em 21% das respostas e o boleto bancário</segment>
+    <segment id="60">, em 2%.</segment>
+    <segment id="61">Daqueles que pretendem pagar o presente de Dia das Crianças com cartão de crédito</segment>
+    <segment id="62">, 71% têm a intenção de parcelar a compra.</segment>
+    <segment id="63">O Sudeste é a região onde o uso do cartão é mais predominante</segment>
+    <segment id="64">, opção de quase metade dos entrevistados</segment>
+    <segment id="65">, com 47%.</segment>
+    <segment id="66">Os cartões também lideram as menções entre os consumidores na faixa etária de 35 a 44</segment>
+    <segment id="67">, com 43%.</segment>
+    <segment id="68">Esse também é o meio de pagamento mais citado entre as mulheres</segment>
+    <segment id="69">, com 41% das menções</segment>
+    <segment id="70">, entre pessoas com nível superior</segment>
+    <segment id="71">, com 58%</segment>
+    <segment id="72">, e entre a classe</segment>
+    <segment id="73">A/B, sendo 60% das respostas positivas.</segment>
+    <segment id="74">Texto de autoria de Panorama ABECS.</segment>
+    <segment id="75">Disponível no link.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Thammy estÃ¡</segment>
+    <segment id="2">â€˜caÃ­daâ€™ por colega de novela</segment>
+    <segment id="3">A colega estÃ¡ na mira da atriz e pode</segment>
+    <segment id="4">sese render ao charme dela
+Thammy Miranda</segment>
+    <segment id="5">, filha da cantora Gretchen</segment>
+    <segment id="6">, estÃ¡ encantada por uma colega da Globo.</segment>
+    <segment id="7">De acordo com o jornal Extra</segment>
+    <segment id="8">, o bafafÃ¡ invadiu os bastidores de â€˜Salve Jorgeâ€™</segment>
+    <segment id="9">, prÃ³xima novela de Gloria Perez</segment>
+    <segment id="10">, que trarÃ¡</segment>
+    <segment id="11">Thammy no papel de uma policial.</segment>
+    <segment id="12">A colega estÃ¡ na mira da atriz e pode</segment>
+    <segment id="13">sese render ao charme dela</segment>
+    <segment id="14">, jÃ¡ que tambÃ©m gosta de meninas e namorava uma cantora.</segment>
+  </rst>
+</analysis>

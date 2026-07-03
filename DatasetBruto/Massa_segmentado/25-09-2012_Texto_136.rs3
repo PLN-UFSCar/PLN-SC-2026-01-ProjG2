@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Latino pode pagar pensÃ£o de R$ 180 mil</segment>
+    <segment id="2">Atualmente o cantor namora a miss Rayanne Morais
+Glaucia Deneno</segment>
+    <segment id="3">, que trabalha numa clÃ­nica estÃ©tica em SÃ£o Paulo</segment>
+    <segment id="4">, afirma estar grÃ¡vida do cantor Latino e quer R$ 180 mil de pensÃ£o.</segment>
+    <segment id="5">A moÃ§a</segment>
+    <segment id="6">, que espalha a histÃ³ria para amigos</segment>
+    <segment id="7">, diz estar esperando uma menina.</segment>
+    <segment id="8">Latino nega a existÃªncia de qualquer relacionamento afetivo com a moÃ§a e muito menos que seja o pai da filha dela.</segment>
+    <segment id="9">Atualmente o cantor namora a miss Rayanne Morais.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">RÃ¡pida</segment>
+    <segment id="2">comocomo um raio!
+Terezinha Guilhermina cruzou a linha de chegada em 24s82</segment>
+    <segment id="3">Absoluta desde os primeiros dos 200m da classe T11</segment>
+    <segment id="4">, Terezinha Guilhermina cruzou a linha de chegada em 24s82</segment>
+    <segment id="5">, novo recorde paralÃ­mpico</segment>
+    <segment id="6">, e conquistou sua primeira medalha de ouro nos Jogos de Londres.</segment>
+    <segment id="7">No pÃ³dio</segment>
+    <segment id="8">, ela teve a companhia de duas compatriotas:</segment>
+    <segment id="9">Jerusa Geber</segment>
+    <segment id="10">, segunda</segment>
+    <segment id="11">, e Jhulia Santos</segment>
+    <segment id="12">, terceira.</segment>
+  </rst>
+</analysis>

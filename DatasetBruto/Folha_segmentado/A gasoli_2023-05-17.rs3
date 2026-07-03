@@ -1,0 +1,226 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O preço dos combustíveis deve variar menos com a nova política de preços da Petrobras</segment>
+    <segment id="2">, masmas isso não significa que ele vai ficar mais barato necessariamente</segment>
+    <segment id="3">, avaliam analistas ouvidos pela BBC News Brasil.</segment>
+    <segment id="4">A estatal anunciou nesta terça-feira (16) a mudança nas regras</segment>
+    <segment id="5">, que desde 2016 seguiam de perto as oscilações do valor do petróleo no mercado internacional.</segment>
+    <segment id="6">Isso, na média</segment>
+    <segment id="7">, levou ao encarecimento de produtos</segment>
+    <segment id="8">comocomo gasolina</segment>
+    <segment id="9">, diesel e gás de cozinha no Brasil.</segment>
+    <segment id="10">A nova política passará a levar em conta alguns fatores domésticos</segment>
+    <segment id="11">, masmas continuarão seguindo parâmetros internacionais.</segment>
+    <segment id="12">Petrobras anunciou corte nos preços de gasolina</segment>
+    <segment id="13">, diesel e gás de cozinha - Danilo Verpa/FolhapressA mudança foi uma promessa de campanha do presidente Luiz Inácio Lula da Silva (PT) de "abrasileirar" os preços da estatal.  "</segment>
+    <segment id="14">Nós não estamos afastando o efeito da referência internacional</segment>
+    <segment id="15">, masmas estamos sim colocando um filtro</segment>
+    <segment id="16">, uma possibilidade de a empresa Petrobras conseguir fazer</segment>
+    <segment id="17">, com sua capacidade de refino</segment>
+    <segment id="18">, com custos brasileiros</segment>
+    <segment id="19">, pelo menos em grande parte</segment>
+    <segment id="20">, para amortecer esses efeitos"</segment>
+    <segment id="21">, disse o presidente da estatal</segment>
+    <segment id="22">, Jean Paul Prates.</segment>
+    <segment id="23">O mercado reagiu bem à mudança</segment>
+    <segment id="24">, e as ações da Petrobras fecharam com alta superior a 2%</segment>
+    <segment id="25">, na contramão do Ibovespa</segment>
+    <segment id="26">, principal índice da Bolsa de Valores</segment>
+    <segment id="27">, que caiu 0</segment>
+    <segment id="28">,77%.</segment>
+    <segment id="29">Junto com a nova política de precificação</segment>
+    <segment id="30">, foi anunciada também uma redução no valor que a estatal cobra na venda da gasolina</segment>
+    <segment id="31">, do óleo diesel e do gás de cozinha para distribuidoras</segment>
+    <segment id="32">, a partir de quarta-feira (17).</segment>
+    <segment id="33">Essa diminuição poderia ter sido adotada mesmo na política de preços anterior</segment>
+    <segment id="34">, vigente desde 2016</segment>
+    <segment id="35">, já que reflete o recente barateamento internacional do petróleo.</segment>
+    <segment id="36">O corte para as distribuidoras tende a chegar no bolso do brasileiro nos próximos dias</segment>
+    <segment id="37">, masmas a intensidade do repasse para o consumidor final pode variar em diferentes regiões do país.</segment>
+    <segment id="38">Entenda em cinco pontos as mudanças anunciadas e seus impactos.</segment>
+    <segment id="39">Presidente da Petrobras</segment>
+    <segment id="40">, Prates disse que a nova política não afasta o &amp;#039</segment>
+    <segment id="41">;efeito da referência internacional&amp;#039</segment>
+    <segment id="42">;, mas</segment>
+    <segment id="43">mas amortece seu impacto - Mauro Pimentel - 2.mar.2023/AFP1)</segment>
+    <segment id="44">Qual será a redução do preço?</segment>
+    <segment id="45">Num primeiro momento</segment>
+    <segment id="46">, a Petrobras anunciou redução de R$ 0</segment>
+    <segment id="47">,40 por litro de gasolina (-12</segment>
+    <segment id="48">,6%), de R$ 0</segment>
+    <segment id="49">,44 por litro de diesel (-12</segment>
+    <segment id="50">,8%) e de R$ 8</segment>
+    <segment id="51">,97 por botijão de 13 quilos de gás (-21</segment>
+    <segment id="52">,3%).</segment>
+    <segment id="53">Essa queda reflete a desvalorização do petróleo internacionalmente e a valorização do real nas últimas semanas.</segment>
+    <segment id="54">O presidente da Petrobras estimou o impacto para o consumidor final na hipótese de outros fatores que influenciam os preços permanecerem constantes</segment>
+    <segment id="55">, como</segment>
+    <segment id="56">como o custo de distribuição e a margem de lucro.</segment>
+    <segment id="57">"</segment>
+    <segment id="58">Estamos tentando colocar um impacto possível na bomba para o consumidor final.</segment>
+    <segment id="59">Caso todas as outras parcelas</segment>
+    <segment id="60">sese mantenham fixas</segment>
+    <segment id="61">, esperamos que o preço da gasolina C (comum) passe de R$ 5</segment>
+    <segment id="62">,49 o litro</segment>
+    <segment id="63">, em média</segment>
+    <segment id="64">, para R$ 5</segment>
+    <segment id="65">,20.</segment>
+    <segment id="66">O diesel S10</segment>
+    <segment id="67">, de R$ 5</segment>
+    <segment id="68">,87 para R$ 5</segment>
+    <segment id="69">,18", disse Prates a jornalistas.</segment>
+    <segment id="70">O presidente também estimou que o botijão de gás ficará abaixo de R$ 100 pela primeira vez desde outubro de 2021</segment>
+    <segment id="71">, com preço médio de R$ 99</segment>
+    <segment id="72">,87.  2)</segment>
+    <segment id="73">Como posso checar a redução dos preços?</segment>
+    <segment id="74">O repasse dos cortes ao consumidor</segment>
+    <segment id="75">, porém</segment>
+    <segment id="76">porém, não é obrigatório</segment>
+    <segment id="77">, segundo a Agência Nacional de Petróleo (ANP).</segment>
+    <segment id="78">"</segment>
+    <segment id="79">Os preços dos combustíveis e do GLP (gás de cozinha) são livres no Brasil</segment>
+    <segment id="80">, por lei</segment>
+    <segment id="81">, desde 2002.</segment>
+    <segment id="82">São fixados pelo mercado.</segment>
+    <segment id="83">Não há preços máximos</segment>
+    <segment id="84">, mínimos</segment>
+    <segment id="85">, tabelamento</segment>
+    <segment id="86">, nem necessidade de autorização da ANP</segment>
+    <segment id="87">, nem de nenhum órgão público</segment>
+    <segment id="88">para que</segment>
+    <segment id="89">para que os preços sejam reajustados ao consumidor"</segment>
+    <segment id="90">, explicou a agência à reportagem.</segment>
+    <segment id="91">Os preços também podem variar em cada região do país</segment>
+    <segment id="92">, de acordo com características locais</segment>
+    <segment id="93">, como</segment>
+    <segment id="94">como os custos de distribuição e o quão competitivo é o mercado de combustíveis na região.</segment>
+    <segment id="95">Na caso</segment>
+    <segment id="96">caso da gasolina tipo C (comum)</segment>
+    <segment id="97">, cuja composição leva uma pouco de etanol</segment>
+    <segment id="98">, seu preço final também leva em conta a variação desse produto.</segment>
+    <segment id="99">O consumidor que quiser ter um parâmetro dos valores praticados em seu Estado pode acompanhar o monitoramento da ANP.</segment>
+    <segment id="100">O órgão divulga semanalmente os preços médios praticados no país para gasolina</segment>
+    <segment id="101">, diesel</segment>
+    <segment id="102">, gás de cozinha e GNV.  3)</segment>
+    <segment id="103">Por que a política de preços da Petrobras é alvo de disputa?</segment>
+    <segment id="104">A Petrobras adotou</segment>
+    <segment id="105">, no governo Michel Temer</segment>
+    <segment id="106">, a política de preços de paridade de importação (PPI):</segment>
+    <segment id="107">os valores cobrados das distribuidoras pela Petrobras eram fortemente influenciados pelos custos de importação</segment>
+    <segment id="108">, que refletiam a cotação internacional do petróleo e taxa de câmbio brasileira.</segment>
+    <segment id="109">Como na média</segment>
+    <segment id="110">, desde 2016</segment>
+    <segment id="111">, o real</segment>
+    <segment id="112">sese desvalorizou e o petróleo ficou mais caro globalmente</segment>
+    <segment id="113">, os preços praticados pela Petrobras acabaram subindo com intensidade nos últimos anos</segment>
+    <segment id="114">, levando</segment>
+    <segment id="115">, inclusive</segment>
+    <segment id="116">, a uma greve de caminhoneiros em 2018 que paralisou rodovias e provocou retração econômica.</segment>
+    <segment id="117">Embora seja grande produtora e exportadora de petróleo bruto</segment>
+    <segment id="118">, a Petrobras importa boa parte dos combustíveis que revende no país.</segment>
+    <segment id="119">Os defensores do alinhamento dos preços da estatal com as cotações internacionais dizem que isso maximiza os lucros de empresa</segment>
+    <segment id="120">, favorecendo mais investimentos e o retorno de recursos para os cofres públicos por meio de tributos e dividendos pagos pela estatal.</segment>
+    <segment id="121">Alegam também que o controle de preços praticado nos governos petistas</segment>
+    <segment id="122">, somado a desvios por corrupção e decisões equivocadas (</segment>
+    <segment id="123">comocomo investimentos mal gerenciados em refinarias)</segment>
+    <segment id="124">, teriam "quebrado</segment>
+    <segment id="125">" a Petrobras.</segment>
+    <segment id="126">Outro problema de vender combustíveis a preços menores que os de importação</segment>
+    <segment id="127">, ressaltam os críticos</segment>
+    <segment id="128">, é que isso cria uma concorrência desleal com outras distribuidoras que importam combustível</segment>
+    <segment id="129">, podendo levar ao desabastecimento no país.</segment>
+    <segment id="130">Já os críticos do alinhamento dos preços ao mercado externo afirmam que ele atende a interesses do mercado financeiro (acionistas minoritários da empresa) em detrimento do bolso da maioria dos brasileiros.</segment>
+    <segment id="131">Argumentam ainda que os valores cobrados da Petrobras devem estar alinhados aos custos domésticos de produção da estatal</segment>
+    <segment id="132">, que são mais baixos que o valor internacional do petróleo.</segment>
+    <segment id="133">Custos de produção também entram no cálculo os preços da Petrobras - Ricardo Moraes/Reuters4)</segment>
+    <segment id="134">O que mudou na política de preços?</segment>
+    <segment id="135">A estatal anunciou que a nova política de preços para diesel e gasolina levará em conta dois fatores: o custo alternativo do cliente e o valor marginal para a Petrobras.</segment>
+    <segment id="136">Segundo o comunicado da empresa</segment>
+    <segment id="137">, "o custo alternativo do cliente contempla as principais alternativas de suprimento</segment>
+    <segment id="138">, sejam fornecedores dos mesmos produtos ou de produtos substitutos".</segment>
+    <segment id="139">Ou seja</segment>
+    <segment id="140">, ao definir seu preço</segment>
+    <segment id="141">, a estatal levará em conta o valor praticado no mercado por concorrentes</segment>
+    <segment id="142">, seja da gasolina e do diesel</segment>
+    <segment id="143">, seja de combustíveis alternativos</segment>
+    <segment id="144">, como</segment>
+    <segment id="145">como etanol.</segment>
+    <segment id="146">"</segment>
+    <segment id="147">Já o valor marginal para a Petrobras é baseado no custo de oportunidade dadas as diversas alternativas para a companhia dentre elas</segment>
+    <segment id="148">, produção</segment>
+    <segment id="149">, importação e exportação do referido produto e/ou dos petróleos utilizados no refino"</segment>
+    <segment id="150">, diz ainda o comunicado.</segment>
+    <segment id="151">O texto indica que a empresa vai avaliar as alternativas de mercado que tem para definir seus preços - ou seja</segment>
+    <segment id="152">, qual o valor de importação que faz sentido para a empresa</segment>
+    <segment id="153">, tendo em vista os custos e preços praticados em outras áreas da estatal</segment>
+    <segment id="154">, como</segment>
+    <segment id="155">como produção e exportação.</segment>
+    <segment id="156">A Petrobras disse</segment>
+    <segment id="157">, porém</segment>
+    <segment id="158">porém, que continuará seguindo parâmetros internacionais.  "</segment>
+    <segment id="159">A estratégia comercial tem</segment>
+    <segment id="160">comocomo premissa preços competitivos por polo de venda</segment>
+    <segment id="161">, em equilíbrio com os mercados nacional e internacional</segment>
+    <segment id="162">, levando em consideração a melhor alternativa acessível aos clientes"</segment>
+    <segment id="163">, acrescenta o comunicado.</segment>
+    <segment id="164">"</segment>
+    <segment id="165">Os reajustes continuarão sendo feitos sem periodicidade definida</segment>
+    <segment id="166">, evitando o repasse para os preços internos da volatilidade conjuntural das cotações internacionais e da taxa de câmbio"</segment>
+    <segment id="167">, informou também.  5)</segment>
+    <segment id="168">Qual será o impacto da nova política para os preços?</segment>
+    <segment id="169">Para um ex-diretor da ANP ouvido pela reportagem</segment>
+    <segment id="170">,</segment>
+    <segment id="171">os critérios anunciados "são vagos" e</segment>
+    <segment id="172">, na prática</segment>
+    <segment id="173">, não deixam claro qual será a tendência para os preços</segment>
+    <segment id="174">, após os cortes anunciados agora.</segment>
+    <segment id="175">Embora o discurso do presidente Lula indique um desejo de manter os preços mais baixos</segment>
+    <segment id="176">, esse ex-diretor nota que há um limite de quanto o governo pode segurar um eventual repasse da alta dos custos no mercado externo</segment>
+    <segment id="177">, sob risco de desabastecimento doméstico.</segment>
+    <segment id="178">A corretora XP investimentos</segment>
+    <segment id="179">, por sua vez</segment>
+    <segment id="180">, avaliou em um relatório que "</segment>
+    <segment id="181">embora</segment>
+    <segment id="182">embora as informações fornecidas pela Petrobras tenham sido um pouco opacas</segment>
+    <segment id="183">, vemos que</segment>
+    <segment id="184">, de fato</segment>
+    <segment id="185">, pouco mudará (na política de preços)".</segment>
+    <segment id="186">Para os analistas da corretora</segment>
+    <segment id="187">, isso está sinalizado em algumas decisões destacadas no comunicado da estatal</segment>
+    <segment id="188">, como</segment>
+    <segment id="189">como a estratégia de precificação comercial baseada no "valor marginal para a Petrobras" e o compromisso de que a essa estratégia seguirá "a Diretriz de Formação de Preços no Mercado Interno (Diretriz) aprovada pelo Conselho de Administração em 27 de julho de 2022".</segment>
+    <segment id="190">Essa diretriz prevê que "a Diretoria Executiva deverá preservar e priorizar o resultado da Companhia</segment>
+    <segment id="191">, buscando maximizar sua geração de valor" - ou seja</segment>
+    <segment id="192">, que a empresa deve tomar decisões visando o lucro.  "</segment>
+    <segment id="193">No final</segment>
+    <segment id="194">, achamos que o preço da refinaria da Petrobras pode cair alguns centavos em alguns pontos de entrega</segment>
+    <segment id="195">, masmas não mudará de maneira material"</segment>
+    <segment id="196">, diz o relatório da XP</segment>
+    <segment id="197">, assinado por Andre Vidal (chefe da área de Óleo</segment>
+    <segment id="198">, Gás e Petroquímicos) e Helena Kelm (analista de Óleo</segment>
+    <segment id="199">, Gás e Materiais Básicos).</segment>
+    <segment id="200">Este texto foi publicado originalmente aqui.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,208 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Brasil terminou o primeiro trimestre de 2020</segment>
+    <segment id="2">, mesmo período em que o coronavírus chegou ao país</segment>
+    <segment id="3">, com 1</segment>
+    <segment id="4">,218 milhão de pessoas a mais na fila do desemprego.</segment>
+    <segment id="5">Com o avanço no número de desempregados</segment>
+    <segment id="6">, a taxa de desocupação avançou para 12</segment>
+    <segment id="7">,2%, segundo dados do IBGE (Instituto Brasileiro de Geografia e Estatística) divulgados nesta quinta-feira (30).</segment>
+    <segment id="8">O primeiro</segment>
+    <segment id="9">casocaso conhecido de Covid-19 ocorreu em 25 de fevereiro.</segment>
+    <segment id="10">No mês seguinte</segment>
+    <segment id="11">, março</segment>
+    <segment id="12">, o país começou a sentir os efeitos econômicos do novo coronavírus</segment>
+    <segment id="13">, com fechamento de bares</segment>
+    <segment id="14">, restaurantes e comércio</segment>
+    <segment id="15">comocomo forma de evitar avanço da pandemia.</segment>
+    <segment id="16">A população desocupada foi de 11</segment>
+    <segment id="17">,632 milhões</segment>
+    <segment id="18">, no último trimestre de 2019</segment>
+    <segment id="19">, para 12</segment>
+    <segment id="20">,850 milhões nos três meses de 2020</segment>
+    <segment id="21">, segundo a Pnad (Pesquisa Nacional por Amostra de Domicílios)</segment>
+    <segment id="22">, do IBGE.</segment>
+    <segment id="23">A alta no período foi de 10</segment>
+    <segment id="24">,5%.</segment>
+    <segment id="25">Trabalhadores</segment>
+    <segment id="26">sese aglomeram para entregar currículos em empresa na região central de São Paulo  - Danilo Verpa-19.set.19/FolhapressA analista da pesquisa</segment>
+    <segment id="27">, Adriana Beringuy</segment>
+    <segment id="28">, apontou que o crescimento no número de desempregados já era esperado.</segment>
+    <segment id="29">“</segment>
+    <segment id="30">O primeiro trimestre de um ano não costuma sustentar as contratações feitas no último trimestre do ano anterior.</segment>
+    <segment id="31">Essa alta na taxa</segment>
+    <segment id="32">, porém</segment>
+    <segment id="33">porém, não foi das mais elevadas"</segment>
+    <segment id="34">, disse.</segment>
+    <segment id="35">De acordo com o coordenador do IBGE Cimar Azeredo</segment>
+    <segment id="36">, porém</segment>
+    <segment id="37">porém, os resultados da pesquisa já retratam os efeitos do novo coronavírus sobre o mercado de trabalho no Brasil.</segment>
+    <segment id="38">"</segment>
+    <segment id="39">Tivemos influência expressiva da Covid-19.</segment>
+    <segment id="40">Não temos</segment>
+    <segment id="41">comocomo separar sazonalidade e efeitos da pandemia e do distanciamento social</segment>
+    <segment id="42">, masmas de claro temos efeitos"</segment>
+    <segment id="43">, apontou.</segment>
+    <segment id="44">Dos novos desempregados</segment>
+    <segment id="45">, 800 mil —dois terços— estavam no mercado informal</segment>
+    <segment id="46">, sem carteira assinada.</segment>
+    <segment id="47">Outros 400 mil eram trabalhadores formais.</segment>
+    <segment id="48">​Com a intensificação da quarentena</segment>
+    <segment id="49">, muitas atividades típicas da informalidade</segment>
+    <segment id="50">, como</segment>
+    <segment id="51">como venda de comida na rua</segment>
+    <segment id="52">, deixaram de ser feitas por falta de consumidores circulando pelas cidades.</segment>
+    <segment id="53">"[O setor de]</segment>
+    <segment id="54">Alimentação não costuma ter queda nessa época</segment>
+    <segment id="55">, masmas ela ocorreu"</segment>
+    <segment id="56">, disse a analista Beringuy.</segment>
+    <segment id="57">A Pnad do IBGE mostrou perdas em todos os setores de atividades no primeiro trimestre</segment>
+    <segment id="58">, como</segment>
+    <segment id="59">como indústria (queda de 2</segment>
+    <segment id="60">,6%), construção (-6</segment>
+    <segment id="61">,5%), comércio</segment>
+    <segment id="62">, reparação de veículos automotores e motocicletas (-3</segment>
+    <segment id="63">,5%), alojamento e alimentação (-5</segment>
+    <segment id="64">,4%), outros serviços (-4</segment>
+    <segment id="65">,1%) e serviços domésticos (recuo de 5</segment>
+    <segment id="66">,9%).</segment>
+    <segment id="67">As quedas em comércio</segment>
+    <segment id="68">, alojamento e alimentação e outros serviços</segment>
+    <segment id="69">, como</segment>
+    <segment id="70">como cabeleireiros e outros prestados às famílias​</segment>
+    <segment id="71">, foram as maiores da série histórica desde 2012.</segment>
+    <segment id="72">Segundo o IBGE</segment>
+    <segment id="73">, a queda no serviço doméstico (-5</segment>
+    <segment id="74">,9%) também foi um recorde</segment>
+    <segment id="75">, assim</segment>
+    <segment id="76">comocomo o recuo de 7% no emprego sem carteira assinada do setor privado.</segment>
+    <segment id="77">Também caíram o emprego com carteira (recuo de 1</segment>
+    <segment id="78">,7%) e o por conta própria sem CNPJ (-3</segment>
+    <segment id="79">,8).</segment>
+    <segment id="80">Recuo na população ocupada</segment>
+    <segment id="81">O IBGE considera desocupados aqueles trabalhadores que não estavam empregados durante a realização da pesquisa</segment>
+    <segment id="82">, masmas que procuravam uma ocupação.</segment>
+    <segment id="83">Considerando aqueles que não estavam trabalhando e tampouco procuravam emprego</segment>
+    <segment id="84">, o contingente da população ocupadada perdeu 2</segment>
+    <segment id="85">,3 milhões de pessoas</segment>
+    <segment id="86">, para 92</segment>
+    <segment id="87">,2 milhões</segment>
+    <segment id="88">, uma queda de 2</segment>
+    <segment id="89">,5% —a maior recuo da série.</segment>
+    <segment id="90">Desses</segment>
+    <segment id="91">, 1,9 milhão atuavam na informalidade.</segment>
+    <segment id="92">“</segment>
+    <segment id="93">A população fora da força de trabalho já vinha crescendo</segment>
+    <segment id="94">, e é importante lembrar que no primeiro trimestre de cada ano</segment>
+    <segment id="95">, essa população costuma aumentar</segment>
+    <segment id="96">, porque</segment>
+    <segment id="97">porque é um período de férias e muita gente interrompe a procura por trabalho”</segment>
+    <segment id="98">, disse Beringuy</segment>
+    <segment id="99">, do IBGE.</segment>
+    <segment id="100">Em março especificamente</segment>
+    <segment id="101">, porém</segment>
+    <segment id="102">porém, houve o agravamento da pandemia.</segment>
+    <segment id="103">Com estabelecimentos comerciais</segment>
+    <segment id="104">, de serviços e indústrias fechados</segment>
+    <segment id="105">, há pouco estímulo para quem não está empregado procurar uma vaga.</segment>
+    <segment id="106">O professor Marcelo Cambria</segment>
+    <segment id="107">, da Fipecafi</segment>
+    <segment id="108">, afirma que os dados ainda não mostram o reflexo da pandemia no mercado de trabalho.</segment>
+    <segment id="109">Ele avalia que o desemprego pode chegar a 15% ou 17%</segment>
+    <segment id="110">, a depender de quanto durarem os períodos de isolamento social e quarentena nos estados e cidades do país.</segment>
+    <segment id="111">"Depende de quanto tempo demorarmos para chegar ao limite da pandemia e depois ao retorno à normalidade"</segment>
+    <segment id="112">, disse o professor.</segment>
+    <segment id="113">O economista do Itaú Unibanco Luka Barbosa​ analisa que abril deve seguir a linha de aumento na taxa de desocupação</segment>
+    <segment id="114">, que teria uma melhora em maio</segment>
+    <segment id="115">, desde que a quarentena acabe.</segment>
+    <segment id="116">"</segment>
+    <segment id="117">Vai depender de quanto tempo dura a quarentena e a propagação do vírus"</segment>
+    <segment id="118">, disse o economista.​</segment>
+    <segment id="119">O secretário especial de Desestatização</segment>
+    <segment id="120">, Desinvestimento e Mercados do Ministério da Economia</segment>
+    <segment id="121">, Salim Mattar</segment>
+    <segment id="122">, estimou nesta quinta que a taxa de desemprego no país pode até dobrar por conta dos impactos da crise do coronavírus na economia.</segment>
+    <segment id="123">"</segment>
+    <segment id="124">No Brasil a gente já estava com taxa de desemprego elevado.</segment>
+    <segment id="125">Presume-</segment>
+    <segment id="126">sese que esse desemprego anterior possa aumentar entre 50% a 100% do que era a taxa anterior"</segment>
+    <segment id="127">, afirmou ele</segment>
+    <segment id="128">, em live promovida pelo banco Credit Suisse.</segment>
+    <segment id="129">"</segment>
+    <segment id="130">Nós só vamos saber disso nos meses de julho</segment>
+    <segment id="131">, agosto</segment>
+    <segment id="132">, para verificar qual o tamanho do estrago do coronavírus no Brasil"</segment>
+    <segment id="133">, completou.</segment>
+    <segment id="134">Veja o que o governo propôs e o que já está em prática para aliviar criseTrabalhador registradoTrabalhadores informais e desempregadosAutônomosAposentadosEmpresasFamíliasMercado financeiroÁrea socialÁrea da saúdeContas públicasTelefone  Também reflexo da pandemia</segment>
+    <segment id="135">, o IBGE realizou a pesquisa pela primeira vez por telefone</segment>
+    <segment id="136">, com objetivo de proteger os trabalhadores.</segment>
+    <segment id="137">Estava</segment>
+    <segment id="138">, porém</segment>
+    <segment id="139">porém, com dificuldades de ouvir os brasileiros.</segment>
+    <segment id="140">O coordenador da pesquisa</segment>
+    <segment id="141">, Cimar Azeredo</segment>
+    <segment id="142">, disse que a taxa de resposta dos entrevistados foi de 61</segment>
+    <segment id="143">,6%, bem menor do que os cerca de 88% do mês de dezembro.  "</segment>
+    <segment id="144">A pesquisa não foi desenhada para ser coletada por telefone.</segment>
+    <segment id="145">Ela tem um tamanho grande e o que fizemos foi para não ficar sem nenhuma informação sobre o mercado de trabalho"</segment>
+    <segment id="146">, disse Azeredo.</segment>
+    <segment id="147">Segundo ele</segment>
+    <segment id="148">, ainda não</segment>
+    <segment id="149">sese pode dizer até que ponto a pandemia muda o resultado final da pesquisa.</segment>
+    <segment id="150">Para Étore Sanchez</segment>
+    <segment id="151">, economista-chefe da Ativa Investimentos</segment>
+    <segment id="152">, porém</segment>
+    <segment id="153">porém, a realização da pesquisa por telefone prejudica a Pnad.</segment>
+    <segment id="154">"</segment>
+    <segment id="155">É claro que o IBGE não faria uma estatística mediana</segment>
+    <segment id="156">, controlariam isso muito bem.</segment>
+    <segment id="157">Estou falando apenas sobre o número de resposta</segment>
+    <segment id="158">, e questões sobre a representatividade e precisão que essa pesquisa vai ter relacionada aos segmentos dela"</segment>
+    <segment id="159">, disse Étore.</segment>
+    <segment id="160">Barbosa</segment>
+    <segment id="161">, do Itaú Unibanco</segment>
+    <segment id="162">, diz que a estatística do desemprego pode ter ficado distorcida em um momento de isolamento social no país.</segment>
+    <segment id="163">"Quem está em quarentena provavelmente não está procurando emprego ou não está disponível para trabalhar na semana de referência"</segment>
+    <segment id="164">, analisou.</segment>
+    <segment id="165">O país vive uma espécie de apagão estatístico de emprego: os dados do Caged (sobre pessoas com carteira assinada) ainda não foram divulgados neste ano</segment>
+    <segment id="166">, o detalhamento do seguro-desemprego é irregular e o IBGE mudou a coleta de dados para telefone.</segment>
+    <segment id="167">Além disso</segment>
+    <segment id="168">, o governo afirmou que mais de 4 milhões de trabalhadores formais já tiveram contrato de trabalho reduzido ou suspenso</segment>
+    <segment id="169">, com empregadores recorrendo à medida provisória do governo para tentar evitar demissões em meio à aguda crise.</segment>
+    <segment id="170">O aumento do número de desocupados vem acompanhando a escalada da Covid-19 no Brasil e das medidas de fechamento de serviços não essenciais adotadas para conter a disseminação da doença.</segment>
+    <segment id="171">O primeiro</segment>
+    <segment id="172">casocaso no país foi identificado em 26 de fevereiro</segment>
+    <segment id="173">, masmas as primeiras medidas de isolamento social só começaram a ser tomadas na segunda quinzena de março.</segment>
+    <segment id="174">Até a manhã desta quinta</segment>
+    <segment id="175">, o país somava 5.466 mortos e 78.162 infectados no Brasil pelo novo coronavírus.</segment>
+    <segment id="176">Apenas nesta quarta (29)</segment>
+    <segment id="177">, em um único dia o país confirmou 449 novas mortes e 6.276 novos casos do novo coronavírus</segment>
+    <segment id="178">, mais do que no mês inteiro de março somado.</segment>
+    <segment id="179">Um dos mortos desta quarta foi David Wu Tai</segment>
+    <segment id="180">, 71, diretor de informática do IBGE.</segment>
+    <segment id="181">Ele estava internado desde 17 de abril na UTI da Unimed da Barra da Tijuca e trabalhou por mais de 40 anos no instituto.</segment>
+    <segment id="182">Saque presencial do auxílio emergencial de R$ 600 tem filas em agências da CaixaMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

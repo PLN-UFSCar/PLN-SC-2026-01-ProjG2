@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">ApreensÃ£o de drogas</segment>
+    <segment id="2">BM flagra entrega de cocaÃ­na na Zona Leste de Porto Alegre
+Foram apreendidos pelo menos 4kg de cocaÃ­na no Bairro Jardim Carvalho
+Eduardo Torres
+eduardo.torres@diariogaucho.com.br</segment>
+    <segment id="3">Um homem de 23 anos foi preso no comeÃ§o da tarde dessa sexta quando entregava uma quantidade de cocaÃ­na no Bairro Jardim Carvalho</segment>
+    <segment id="4">, na Zona Leste de Porto Alegre.</segment>
+    <segment id="5">No Uno</segment>
+    <segment id="6">, prata</segment>
+    <segment id="7">, em que o suspeito foi flagrado</segment>
+    <segment id="8">, os policiais militares da Patrulhas Especiais</segment>
+    <segment id="9">, do BOE</segment>
+    <segment id="10">, encontraram pelo menos 4kg de cocaÃ­na e uma pequena quantidade de crack.</segment>
+    <segment id="11">A droga ainda serÃ¡ pesada.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,129 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A onda de calor levou o país ao segundo dia consecutivo de recorde no consumo de eletricidade durante o horário de pico da tarde.</segment>
+    <segment id="2">O cenário voltou a provocar alta do preço da energia no mercado atacadista e é visto</segment>
+    <segment id="3">comocomo um sinal de alerta dos impactos da crise climática no setor.</segment>
+    <segment id="4">Segundo o ONS (Operador Nacional do Sistema Elétrico)</segment>
+    <segment id="5">, a demanda bateu 101.437 MW (megawatts) às 14h24 desta terça-feira (14).</segment>
+    <segment id="6">O valor é pouco superior aos 100.955 MW atingidos na segunda (13)</segment>
+    <segment id="7">, que havia superado marca anterior</segment>
+    <segment id="8">, de 97.659 MW</segment>
+    <segment id="9">, medida em 26 de setembro deste ano.</segment>
+    <segment id="10">Mulher</segment>
+    <segment id="11">sese refresca na Liberdade</segment>
+    <segment id="12">, em São Paulo.</segment>
+    <segment id="13">- FolhapressA elevação da demanda era esperada pelo ONS</segment>
+    <segment id="14">, diante da previsão de elevadas temperaturas</segment>
+    <segment id="15">, que ampliam o uso de eletrodomésticos</segment>
+    <segment id="16">comocomo aparelhos de ar condicionado</segment>
+    <segment id="17">, ventiladores e o consumo energético de refrigeradores</segment>
+    <segment id="18">, por exemplo.</segment>
+    <segment id="19">Em nota</segment>
+    <segment id="20">, o operador do sistema disse não ver riscos ao abastecimento com a elevação repentina do consumo</segment>
+    <segment id="21">, que já provocou falhas no fornecimento em São Paulo nesta segunda</segment>
+    <segment id="22">, afetando regiões</segment>
+    <segment id="23">comocomo o centro e zona oeste ao longo do dia.  "</segment>
+    <segment id="24">O ONS reforça que o SIN [sistema interligado nacional] é robusto</segment>
+    <segment id="25">, seguro</segment>
+    <segment id="26">, possui uma ampla diversidade de fontes e está preparado para atender às demandas de carga e potência da sociedade brasileira"</segment>
+    <segment id="27">, afirmou.</segment>
+    <segment id="28">De fato</segment>
+    <segment id="29">, não há problemas de oferta.</segment>
+    <segment id="30">Os reservatórios das hidrelétricas permanecem em níveis confortáveis para esta época do ano e a geração de energia eólica e solar vem dando boa contribuição</segment>
+    <segment id="31">, garantindo cerca de 20% da demanda.</segment>
+    <segment id="32">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="33">; aberta para não assinantes.</segment>
+    <segment id="34">Carregando...</segment>
+    <segment id="35">Em outubro</segment>
+    <segment id="36">, os reservatórios das regiões Sudeste e Centro-Oeste</segment>
+    <segment id="37">, principal caixa d'água do setor elétrico brasileiro</segment>
+    <segment id="38">, estavam com 68% de sua capacidade de armazenamento de energia</segment>
+    <segment id="39">, melhor resultado para o mês em ao menos 20 anos e quase 20 pontos percentuais acima do registrado um ano antes.</segment>
+    <segment id="40">A ligação entre o problema de São Paulo e o calor foi feita pela empresa de transmissão ISA CTEEP.</segment>
+    <segment id="41">Responsável por mais de 90% da transmissão de energia no estado</segment>
+    <segment id="42">, a companhia afirmou que atendeu a uma solicitação para operar no limite superior de fornecimento à rede.</segment>
+    <segment id="43">O professor Nivalde de Castro</segment>
+    <segment id="44">, do Grupo de Estudos em Energia da UFRJ</segment>
+    <segment id="45">, avalia que problemas pontuais de suprimento podem</segment>
+    <segment id="46">sese repetir em dias de calor extremo e demanda elevada</segment>
+    <segment id="47">, diante do estresse sobre as redes de transmissão e distribuição.</segment>
+    <segment id="48">Na segunda</segment>
+    <segment id="49">, além do recorde de demanda instantânea</segment>
+    <segment id="50">, o sistema registrou a maior demanda diária média da história</segment>
+    <segment id="51">, de 89.020 MW médios</segment>
+    <segment id="52">, ultrapassando os 86.577 MW médios registrados no dia 26 de setembro.</segment>
+    <segment id="53">É consenso no setor</segment>
+    <segment id="54">, porém</segment>
+    <segment id="55">porém, que os novos perfis de consumo e geração do país representam um desafio adicional diante da possibilidade de eventos climáticos cada vez mais intensos.</segment>
+    <segment id="56">O atendimento dos horários de pico à noite</segment>
+    <segment id="57">, quando solares e eólicas geram menos</segment>
+    <segment id="58">, é um dos desafios.</segment>
+    <segment id="59">A consultoria PSR</segment>
+    <segment id="60">Energy alerta ainda para uma tendência de redução das vazões dos rios das regiões</segment>
+    <segment id="61">Norte e Nordeste em decorrência do El Niño</segment>
+    <segment id="62">,</segment>
+    <segment id="63">o que pode demandar o acionamento de fontes de energia mais cara</segment>
+    <segment id="64">, como</segment>
+    <segment id="65">como as térmicas.</segment>
+    <segment id="66">"</segment>
+    <segment id="67">As mudanças climáticas estão aí para ficar e seus adversos preocupam muito"</segment>
+    <segment id="68">, escreveu</segment>
+    <segment id="69">, em, relatório no mês passado.</segment>
+    <segment id="70">"Já estamos vivendo no 'novo anormal'</segment>
+    <segment id="71">, cuja consequência pratica é aportar mais variabilidade nos fenômenos climáticos com extremos mais acentuados.</segment>
+    <segment id="72">"</segment>
+    <segment id="73">São Paulo tem mais de 60 piscinas públicas com acesso gratuitoMais    novamente         de   de  de  representando um  "</segment>
+    <segment id="74">Vivemos um novo paradigma climático"</segment>
+    <segment id="75">, reforça Castro</segment>
+    <segment id="76">, citando a ventania que deixou milhões em São Paulo sem luz na semana passada ou alagamentos no sul durante o ano.</segment>
+    <segment id="77">Atualmente</segment>
+    <segment id="78">, o ONS já vem despachando mais térmicas para garantir o atendimento dos picos</segment>
+    <segment id="79">, principalmente o noturno.</segment>
+    <segment id="80">Na segunda</segment>
+    <segment id="81">, as usinas termelétricas contribuíram com 10.000 MW para complementar a oferta.</segment>
+    <segment id="82">Maior uso de térmicas e picos mais extremos de consumo com o uso de ar-condicionado têm efeitos na formação do preço da energia no mercado atacadista</segment>
+    <segment id="83">, que é um indicador do comportamento dos preços em geral.</segment>
+    <segment id="84">Nesta terça</segment>
+    <segment id="85">, por exemplo</segment>
+    <segment id="86">, o preço horário</segment>
+    <segment id="87">sese aproximou de R$ 400 por MWh para atendimento do pico da noite.</segment>
+    <segment id="88">Na média diária</segment>
+    <segment id="89">, o chamado PLD (preço de liquidação de diferenças) ficou em R$ 177 por MWh nesta terça</segment>
+    <segment id="90">, bem superior ao piso de R$ 69 por MWh no qual os preços</segment>
+    <segment id="91">sese situaram durante a maior parte do ano.</segment>
+    <segment id="92">O que fazer para mitigar o calorMais    novamente         de   de  de  representando um</segment>
+    <segment id="93">Os recordes no consumo de energia registrados nesta segunda-feira foram puxados por estados das regiões</segment>
+    <segment id="94">Sudeste e Centro-Oeste</segment>
+    <segment id="95">, justamente aqueles em que</segment>
+    <segment id="96">sese concentram os alertas de onda de calor com grande perigo do Inmet (Instituto Nacional de Metrologia).</segment>
+    <segment id="97">Segundo o boletim diário da operação do ONS</segment>
+    <segment id="98">, o subsistema elétrico Sudeste/Centro-Oeste registrou recordes de consumo tanto na média diária quanto em demanda instantânea nesta segunda.</segment>
+    <segment id="99">Na média diária</segment>
+    <segment id="100">, o consumo dessas regiões chegou a 52.562 MW (megawatts) médios</segment>
+    <segment id="101">, superando o recorde de 50.896 MW médios registrados em 27 de setembro deste ano.</segment>
+    <segment id="102">A demanda instantânea bateu 60.502 MW às 14h35 de segunda</segment>
+    <segment id="103">, acima dos 57.792 MW registrados em 26 de setembro.</segment>
+  </rst>
+</analysis>

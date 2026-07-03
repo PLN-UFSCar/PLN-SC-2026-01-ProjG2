@@ -1,0 +1,123 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo Lula (PT) promete fazer uma força-tarefa para acelerar as nomeações que estão travadas em ministérios e diz que irá monitorar</segment>
+    <segment id="2">, semanalmente</segment>
+    <segment id="3">, os parlamentares que são recebidos nas pastas na tentativa de reverter insatisfações do Congresso Nacional com a articulação política do Executivo.</segment>
+    <segment id="4">O ministro Alexandre Padilha (Secretaria de Relações Institucionais) afirmou nesta sexta-feira (16) que as medidas foram tomadas um dia antes durante a reunião ministerial e que foram um pedido do presidente.</segment>
+    <segment id="5">Segundo ele</segment>
+    <segment id="6">, será realizada uma "força-tarefa permanente"</segment>
+    <segment id="7">, coordenada pela pasta que chefia</segment>
+    <segment id="8">, para acelerar a análise técnica dos nomes junto aos ministérios.</segment>
+    <segment id="9">Ele afirmou que há 403 nomeações paradas.</segment>
+    <segment id="10">O ministro Alexandre Padilha</segment>
+    <segment id="11">, de Relações Institucionais</segment>
+    <segment id="12">, durante cerimônia - Gabriela Biló-2.abr.23/Folhapress  "</segment>
+    <segment id="13">Cerca de 403 currículos apresentados por parlamentares</segment>
+    <segment id="14">, segmentos sociais que estão em análise nos ministérios</segment>
+    <segment id="15">, alguns há 30 dias</segment>
+    <segment id="16">, outros há 60 dias</segment>
+    <segment id="17">, outros em períodos mais curtos.</segment>
+    <segment id="18">Já vínhamos cobrando e acompanhando isso quase que diariamente.</segment>
+    <segment id="19">E [tomamos] uma decisão da reunião de ontem [de] constituir uma força-tarefa permanente</segment>
+    <segment id="20">para que</segment>
+    <segment id="21">para que</segment>
+    <segment id="22">sese acelere o mais rápido possível pelos ministérios essa composição"</segment>
+    <segment id="23">, disse ele.</segment>
+    <segment id="24">Padilha ressaltou que também a partir da próxima semana será feito um levantamento</segment>
+    <segment id="25">, semanal</segment>
+    <segment id="26">, dos parlamentares que foram atendidos em cada ministério.</segment>
+    <segment id="27">A ideia</segment>
+    <segment id="28">, segundo ele</segment>
+    <segment id="29">, é que isso seja repassado aos líderes do governo na Câmara</segment>
+    <segment id="30">, no Senado e no Congresso</segment>
+    <segment id="31">, para que</segment>
+    <segment id="32">para que eles entreguem aos líderes partidários.</segment>
+    <segment id="33">"</segment>
+    <segment id="34">Esse é um governo que está aberto a interlocução com o Congresso</segment>
+    <segment id="35">, com os atores políticos</segment>
+    <segment id="36">, prefeitos e governadores.</segment>
+    <segment id="37">Esse é o esforço diário do presidente Lula.</segment>
+    <segment id="38">Nós desligamos uma máquina que existia no Palácio do Planalto de criação de conflitos com o Congresso Nacional</segment>
+    <segment id="39">, Judiciário</segment>
+    <segment id="40">, governadores e prefeitos"</segment>
+    <segment id="41">, prosseguiu Padilha.</segment>
+    <segment id="42">O ministro afirmou ainda que uma eventual troca do comando da pasta do Turismo é algo natural</segment>
+    <segment id="43">, uma vez que a União Brasil fez um pedido de reformulação de seus representantes na Esplanada.</segment>
+    <segment id="44">Daniela Carneiro (União Brasil-RJ) deverá perder o seu cargo nos próximos dias —o mais cotado para assumir o posto é o deputado Celso Sabino (União Brasil-PA).</segment>
+    <segment id="45">Padilha disse que não está em discussão o trabalho desenvolvido por Daniela à frente da pasta</segment>
+    <segment id="46">, que Lula "tem apreço pelo trabalho que está sendo feito pela ministra"</segment>
+    <segment id="47">, masmas que o partido colocou em debate um "pedido de reformulação dos seus ministros".</segment>
+    <segment id="48">Segundo a Folha apurou</segment>
+    <segment id="49">, esse encontro deverá ocorrer na próxima segunda-feira (19)</segment>
+    <segment id="50">, portanto antes de viagem internacional do presidente Lula</segment>
+    <segment id="51">, prevista para a próxima semana.</segment>
+    <segment id="52">A ideia é que eventualmente o próprio presidente participe da reunião com o líder da União Brasil na Câmara</segment>
+    <segment id="53">, Elmar Nascimento (BA)</segment>
+    <segment id="54">, o senador Davi Alcolumbre (AP) e o presidente da legenda</segment>
+    <segment id="55">, deputado Luciano Bivar (PE).</segment>
+    <segment id="56">O petista irá participar de agenda no Pará neste sábado (17) e deverá</segment>
+    <segment id="57">sese reunir com Sabino.</segment>
+    <segment id="58">Interlocutores do Palácio do Planalto já procuraram o cotado para o Turismo com o objetivo de alinhar o encontro.</segment>
+    <segment id="59">Segundo relatos</segment>
+    <segment id="60">, Lula também convidou o Alcolumbre para a viagem</segment>
+    <segment id="61">, masmas o parlamentar não poderá comparecer.</segment>
+    <segment id="62">Nesta sexta</segment>
+    <segment id="63">, Padilha também afirmou que essa discussão de reformulação ministerial não cabe a pastas</segment>
+    <segment id="64">comocomo a da Saúde</segment>
+    <segment id="65">, chefiada por Nísia Trindade</segment>
+    <segment id="66">, por se</segment>
+    <segment id="67">se tratar de uma indicação técnica.</segment>
+    <segment id="68">O ministério vem sendo cobiçado pelo PP</segment>
+    <segment id="69">, do presidente da Câmara</segment>
+    <segment id="70">, Arthur Lira (AL).</segment>
+    <segment id="71">"Não está em discussão em relação ao Ministério da Saúde a composição partidária.</segment>
+    <segment id="72">Tem outros ministérios que foram discutidos com a composição partidária</segment>
+    <segment id="73">, que é parte da democracia</segment>
+    <segment id="74">, sese faz na democracia.</segment>
+    <segment id="75">O ministério do Turismo é um exemplo disso.</segment>
+    <segment id="76">"  Ministros do governo LulaMais    novamente         de   de  de  representando um    Para tentar avançar nas negociações com o governo</segment>
+    <segment id="77">, aliados de Lira avaliam propor que o PP possa apadrinhar um ministro da Saúde que seja do setor</segment>
+    <segment id="78">, em vez de indicar diretamente um parlamentar para o comando da pasta.</segment>
+    <segment id="79">O centrão quer que o Executivo abra espaço na Esplanada para acomodar integrantes de legendas</segment>
+    <segment id="80">comocomo PP</segment>
+    <segment id="81">, União Brasil e</segment>
+    <segment id="82">, ainda que incerto</segment>
+    <segment id="83">, o Republicanos.</segment>
+    <segment id="84">Essa força-tarefa do governo federal</segment>
+    <segment id="85">sese soma às iniciativas recentes do Planalto de reparar a relação com parlamentares</segment>
+    <segment id="86">, que criticam</segment>
+    <segment id="87">, principalmente</segment>
+    <segment id="88">, a demora para liberação de emendas e da nomeação de cargos regionais.</segment>
+    <segment id="89">Como a Folha mostrou</segment>
+    <segment id="90">, o ministro da Casa Civil</segment>
+    <segment id="91">, Rui Costa</segment>
+    <segment id="92">, procurou lideranças da cúpula da Câmara na tentativa de reestabelecer um diálogo com os parlamentares e reforçar a articulação política junto ao Congresso.</segment>
+    <segment id="93">Nesta semana ele</segment>
+    <segment id="94">sese reuniu com o líder da União Brasil na Câmara</segment>
+    <segment id="95">, Elmar Nascimento (BA)</segment>
+    <segment id="96">, e com Lira.</segment>
+    <segment id="97">A ideia é que ele assuma um papel de estrategista político do governo daqui para frente —e não seja apenas um executor de obras.</segment>
+  </rst>
+</analysis>

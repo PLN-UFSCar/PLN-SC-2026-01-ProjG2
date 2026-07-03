@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Bolsonaro ataca Dilma Rousseff</segment>
+    <segment id="2">; PT reage e pede cassação
+BRASÍLIA - O líder do PT na Câmara</segment>
+    <segment id="3">, Paulo Teixeira (SP)</segment>
+    <segment id="4">, decidiu enviar representação ao Conselho de Ética da Câmara para pedir a cassação do mandato do deputado Jair Bolsonaro (PP-RJ).</segment>
+    <segment id="5">O PT acusa o parlamentar de falta de decoro por causa de declarações que ele fez nesta quinta-feira contra a presidente Dilma Rousseff</segment>
+    <segment id="6">, mais uma vez explorando o que ele chama de "kit gay".
+
+- É um</segment>
+    <segment id="7">casocaso grave e merece a análise da Casa até para a cassação do mandato.</segment>
+    <segment id="8">Ele é reincidente - disse Paulo Teixeira.
+
+Vice-presidente do Senado</segment>
+    <segment id="9">, Marta Suplicy (PT-SP) pediu que o presidente Marco Maia (PT-RS) tome providências enérgicas:
+
+- Até onde vai a falta de decoro parlamentar desse deputado?</segment>
+  </rst>
+</analysis>

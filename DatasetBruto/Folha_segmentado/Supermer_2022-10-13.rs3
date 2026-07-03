@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Abras (associação brasileira de supermercados) vai criar uma nova data anual no calendário do varejo para oferecer descontos</segment>
+    <segment id="2">, uma espécie de Black Friday dos supermercados.</segment>
+    <segment id="3">Chamado de Dia do Supermercado</segment>
+    <segment id="4">, o evento vai acontecer pela primeira vez no dia 12 de novembro.</segment>
+    <segment id="5">Vista interna de um supermercado em São Paulo - Rubens Cavallari - 27.abr.2022/FolhapressA ideia</segment>
+    <segment id="6">, segundo a Abras</segment>
+    <segment id="7">, é estimular a demanda e aquecer o consumo nos lares.</segment>
+    <segment id="8">A associação afirma que indústria e varejo já começaram a negociar promoções para a data.</segment>
+    <segment id="9">Joana Cunha com Paulo Ricardo Martins e Diego</segment>
+    <segment id="10">Felix</segment>
+  </rst>
+</analysis>

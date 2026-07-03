@@ -1,0 +1,111 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O uso de transação tributária para parcelamento de dívidas fiscais de empresas em recuperação judicial tem colocado a União em pé de igualdade com demais credores</segment>
+    <segment id="2">, segundo estudo inédito elaborado pelo Núcleo de Tributação do Insper.</segment>
+    <segment id="3">O trabalho mostra também que o sucesso dessas negociações contribuiu para mudar a jurisprudência sobre a necessidade de regularização fiscal para aprovação do plano de recuperação dessas empresas.</segment>
+    <segment id="4">Ilustração com cédulas de real - Gabriel Cabral/FolhapressAs conclusões fazem parte do 5º Relatório de Pesquisa do Observatório de Transações Tributárias</segment>
+    <segment id="5">, elaborado pelos pesquisadores do Insper Carla Novo</segment>
+    <segment id="6">, Daniel Zugman</segment>
+    <segment id="7">, Frederico Bastos</segment>
+    <segment id="8">, Larissa Longo e Leonardo Alvim.</segment>
+    <segment id="9">Eles analisaram os acordos com a PGFN (Procuradoria-Geral da Fazenda Nacional) dos 36 contribuintes em recuperação judicial que firmaram transações individuais</segment>
+    <segment id="10">, considerando empresas com processos em meio eletrônico no Judiciário.</segment>
+    <segment id="11">Prazos de pagamento e desconto foram comparados com aqueles obtidos pelos demais credores nas ações de recuperação judicial.</segment>
+    <segment id="12">Os dados mostram</segment>
+    <segment id="13">, em primeiro lugar</segment>
+    <segment id="14">, que a União está entre os principais credores.</segment>
+    <segment id="15">De uma dívida total (débitos tributários e não tributários) de R$ 13</segment>
+    <segment id="16">,8 bilhões</segment>
+    <segment id="17">, 42% são dívida fiscal.</segment>
+    <segment id="18">Em relação aos prazos</segment>
+    <segment id="19">, nas transações com a PGFN</segment>
+    <segment id="20">, a mediana da quantidade de parcelas pactuadas foi de 120 meses</segment>
+    <segment id="21">, ou seja</segment>
+    <segment id="22">, 10 anos.</segment>
+    <segment id="23">O prazo é inferior ao verificado para o recebimento de dívidas com garantia real</segment>
+    <segment id="24">, de 12</segment>
+    <segment id="25">,5 anos</segment>
+    <segment id="26">, e quirografárias (sem garantias)</segment>
+    <segment id="27">, de 13</segment>
+    <segment id="28">,1 anos</segment>
+    <segment id="29">, superando o parcelamento de débitos com pequenas empresas (7</segment>
+    <segment id="30">,6 anos) e trabalhistas (cerca de um ano).</segment>
+    <segment id="31">O valor total da dívida fiscal é de R$ 5</segment>
+    <segment id="32">,7 bilhões</segment>
+    <segment id="33">, sobre o qual</segment>
+    <segment id="34">sese aplicou a mediana de desconto de 68% nas transações com a PGFN</segment>
+    <segment id="35">, percentual também inferior aos das dívidas com garantia real (70%) e quirografárias (73%)</segment>
+    <segment id="36">, masmas superior ao das micro empresas e empresas de pequeno porte (58%).</segment>
+    <segment id="37">Não foi possível fazer a comparação com as dívidas trabalhistas.</segment>
+    <segment id="38">Lei de 2020 autoriza descontos de até 70% e pagamento em até 145 meses nas transações com a PGFN.</segment>
+    <segment id="39">O pesquisador do Insper Daniel Zugman afirma que as informações mostram uma coerência entre os dados da transação tributária e a ordem de pagamentos aplicável na recuperação</segment>
+    <segment id="40">, privilegiando dívidas trabalhistas</segment>
+    <segment id="41">, seguidas por aquelas com garantia real e</segment>
+    <segment id="42">, depois</segment>
+    <segment id="43">, as fiscais.</segment>
+    <segment id="44">"</segment>
+    <segment id="45">Havia um receio de que talvez a transação estaria sendo mais generosa do que deveria.</segment>
+    <segment id="46">Ou o contrário também</segment>
+    <segment id="47">, que deveria ser mais flexível.</segment>
+    <segment id="48">Mas pelo que a gente conseguiu mapear</segment>
+    <segment id="49">, ela está coerente"</segment>
+    <segment id="50">, afirma Zugman.</segment>
+    <segment id="51">A pesquisadora do Insper Carla Novo avalia que as principais diretrizes da lei da transação estão sendo atendidas.  "</segment>
+    <segment id="52">Um dos grandes nortes é a possibilidade de recuperar para os cofres públicos valores que não seriam recebidos de nenhuma forma e possibilitar que essas empresas</segment>
+    <segment id="53">sese regularizem e recuperem sua saúde financeira.</segment>
+    <segment id="54">A gente conseguiu ver que a diretriz da transação tributária</segment>
+    <segment id="55">, nesse sentido</segment>
+    <segment id="56">, está sendo atendida"</segment>
+    <segment id="57">, afirma a tributarista.</segment>
+    <segment id="58">Para ampliar a amostra</segment>
+    <segment id="59">, os pesquisadores do Insper também compararam os dados das transações desses 36 contribuintes com prazos e descontos em milhares de processos de recuperação judicial no estado de São Paulo</segment>
+    <segment id="60">, levantados pela ABJ (Associação Brasileira de Jurimetria).  Nesses casos</segment>
+    <segment id="61">, as dívidas com garantias reais sofreram um deságio médio de 47</segment>
+    <segment id="62">,2%.</segment>
+    <segment id="63">As quirografárias</segment>
+    <segment id="64">, de 70</segment>
+    <segment id="65">,8%.</segment>
+    <segment id="66">Ambas foram liquidadas em um prazo médio de 9 anos.</segment>
+    <segment id="67">FolhaJusA newsletter sobre o mundo jurídico exclusiva para assinantes da FolhaCarregando...</segment>
+    <segment id="68">Virada na jurisprudência</segment>
+    <segment id="69">Zugman afirma que</segment>
+    <segment id="70">, ao longo de anos</segment>
+    <segment id="71">, o STJ (Superior Tribunal de Justiça) estabeleceu jurisprudência relativizando a necessidade de certidão de regularidade fiscal para o processamento de recuperações judiciais.</segment>
+    <segment id="72">A nova legislação sobre a transação</segment>
+    <segment id="73">, que permitiu a essas empresas regularizar sua situação junto à Fazenda</segment>
+    <segment id="74">, mudou o cenário.</segment>
+    <segment id="75">Ele cita recente decisão unânime da 3ª Turma corroborando a exigência de certidão.</segment>
+    <segment id="76">No Tribunal de Justiça de São Paulo</segment>
+    <segment id="77">, as Câmaras Reservadas de Direito Empresarial também proferiram diversos acórdãos chancelando a obrigatoriedade.  "</segment>
+    <segment id="78">A jurisprudência começou a mudar para dizer que você precisa sim apresentar a certidão.</segment>
+    <segment id="79">Porque antes não existia</segment>
+    <segment id="80">, masmas agora você tem o caminho da transação.</segment>
+    <segment id="81">E aí a gente vê muitas decisões recentes do TJ de São Paulo e algumas do próprio STJ fazendo essa virada de entendimento"</segment>
+    <segment id="82">, diz Zugman.</segment>
+    <segment id="83">O trabalho destaca também um descasamento entre a redução no número de pedidos de recuperação judicial de 2016 até 2022 e o aumento no número de transações tributárias com empresas nessa situação.</segment>
+    <segment id="84">A hipótese é que isso esteja ligado a uma demanda reprimida para solução desse passivo fiscal.</segment>
+    <segment id="85">Companhias aéreas que entraram em recuperação judicial nos últimos anosMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

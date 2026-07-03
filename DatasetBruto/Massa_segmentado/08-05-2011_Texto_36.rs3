@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">NBB: Franca vence Flamengo e está a uma vitória da final
+
+RIO - Apesar dos 40 pontos de Marcelinho</segment>
+    <segment id="2">, o Flamengo deixou a vitória escapar no último quarto da partida contra o Franca</segment>
+    <segment id="3">, nesse domingo</segment>
+    <segment id="4">, no ginásio Pedrocão</segment>
+    <segment id="5">, em Franca.</segment>
+    <segment id="6">Os donos da casa venceram por 94 x 86 e abriram 2 a 0 na série</segment>
+    <segment id="7">, decidida em cinco jogos</segment>
+    <segment id="8">, que classifica uma equipe à final da NBB.</segment>
+    <segment id="9">Em caso</segment>
+    <segment id="10">caso de nova vitória do Franca</segment>
+    <segment id="11">, o Flamengo estará desclassificado.</segment>
+    <segment id="12">O próximo jogo será nesta terça</segment>
+    <segment id="13">, às 21h</segment>
+    <segment id="14">, em Franca.</segment>
+  </rst>
+</analysis>

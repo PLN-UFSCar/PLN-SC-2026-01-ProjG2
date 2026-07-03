@@ -1,0 +1,172 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Todos estão piores</segment>
+    <segment id="2">, diz a manchete de um noticiário.</segment>
+    <segment id="3">"</segment>
+    <segment id="4">Comprar sorvete</segment>
+    <segment id="5">, um luxo"</segment>
+    <segment id="6">, diz outro canal.</segment>
+    <segment id="7">Os argentinos vivem dias de "terror" devido à disparada dos preços</segment>
+    <segment id="8">, enquanto o Congresso discute dois gigantescos pacotes de reformas que os deixam</segment>
+    <segment id="9">"atordoados".</segment>
+    <segment id="10">Javier Formoso</segment>
+    <segment id="11">, de 45 anos</segment>
+    <segment id="12">, é um deles.</segment>
+    <segment id="13">"</segment>
+    <segment id="14">Esperança?</segment>
+    <segment id="15">Nenhuma.</segment>
+    <segment id="16">Pelo que começamos a ver</segment>
+    <segment id="17">, agora começa o terror"</segment>
+    <segment id="18">, disse</segment>
+    <segment id="19">, ao caminhar por uma feira de bairro em Buenos Aires.</segment>
+    <segment id="20">As medidas discutidas no Congresso?</segment>
+    <segment id="21">"</segment>
+    <segment id="22">Já não entendo mais nada"</segment>
+    <segment id="23">, respondeu Formoso</segment>
+    <segment id="24">, dando de ombros.</segment>
+    <segment id="25">"</segment>
+    <segment id="26">É um ‘salve-</segment>
+    <segment id="27">sese quem puder’.</segment>
+    <segment id="28">"Homem chupa um sorvete em rua de Buenos Aires - Agustin Marcarian/ReutersO presidente argentino</segment>
+    <segment id="29">, o ultraliberal Javier Milei</segment>
+    <segment id="30">, assumiu o governo há mais de um mês esperando enfrentar a inflação com base em dois grandes projetos: um megadecreto com mais de 300 mudanças em diversas áreas e a chamada "Lei Ônibus"</segment>
+    <segment id="31">, com reformas em vários setores</segment>
+    <segment id="32">, incluindo uma reforma política.</segment>
+    <segment id="33">Os dois pacotes</segment>
+    <segment id="34">, juntos</segment>
+    <segment id="35">, somam mais de mil medidas que buscam revolucionar o sistema econômico argentino levando a ideia do livre mercado a praticamente todos os âmbitos.</segment>
+    <segment id="36">As normas regulam temas muito variados</segment>
+    <segment id="37">, como</segment>
+    <segment id="38">como o lítio</segment>
+    <segment id="39">, o divórcio</segment>
+    <segment id="40">, a revenda de entradas para grandes espetáculos e as togas dos juízes.</segment>
+    <segment id="41">A multiplicidade de regulações gerou também uma infinidade de memes e brincadeiras</segment>
+    <segment id="42">, como</segment>
+    <segment id="43">como a de um rádio que recentemente "promulgava" a revogação do despertador das 7h da manhã.</segment>
+    <segment id="44">Veja as medidas anunciadas por MileiMilei desvaloriza peso</segment>
+    <segment id="45">, suspende obras públicas e corta subsídios na ArgentinaMilei anuncia &amp;#039</segment>
+    <segment id="46">;megadecreto&amp;#039</segment>
+    <segment id="47">; com mais de 300 medidas para desregular economiaMegadecreto de Milei gera avalanche de dúvidas e racha argentinosMilei corta 5.000 funcionários públicos e quer acabar com trabalhadores &amp;#039</segment>
+    <segment id="48">;nhoques&amp;#039</segment>
+    <segment id="49">;Milei envia ao Congresso projeto de lei de reforma do Estado que elimina eleições primáriasBanco central da Argentina fixa taxa básica de juros em 100%</segment>
+    <segment id="50">, ante 133% anteriormenteMilei muda decreto de Macri sobre nepotismo e nomeia irmã caçula na ArgentinaMilei suspende propaganda oficial e corta 34% dos cargos públicosMilei usará forças federais contra quem bloquear ruas para protestar na ArgentinaGoverno Milei anuncia corte de benefício social de quem bloquear ruas na Argentina&amp;#039</segment>
+    <segment id="51">;Lei ônibus&amp;#039</segment>
+    <segment id="52">;, &amp;#039</segment>
+    <segment id="53">;motosserra&amp;#039</segment>
+    <segment id="54">;, &amp;#039</segment>
+    <segment id="55">;casta&amp;#039</segment>
+    <segment id="56">;:</segment>
+    <segment id="57">conheça o vocabulário da era Milei na ArgentinaO megadecreto está em vigor enquanto não é rejeitado por uma das câmaras do Congresso</segment>
+    <segment id="58">, e é também alvo de diversos recursos que o acusam de ser inconstitucional.</segment>
+    <segment id="59">O projeto da "Lei Ônibus"</segment>
+    <segment id="60">, por sua vez</segment>
+    <segment id="61">, está sendo discutido a nível das comissões parlamentares e pode ser votado na Câmara de Deputados na próxima semana.</segment>
+    <segment id="62">O debate de ambas as iniciativas gera "uma cascata de informações"</segment>
+    <segment id="63">, afirmou Belén Amadeo</segment>
+    <segment id="64">, cientista política da Universidade de Buenos Aires.</segment>
+    <segment id="65">E, como</segment>
+    <segment id="66">como, resultado</segment>
+    <segment id="67">, "há um enorme ruído</segment>
+    <segment id="68">, um enorme atordoamento ao redor dessas questões</segment>
+    <segment id="69">, que não está colaborando</segment>
+    <segment id="70">para que</segment>
+    <segment id="71">para que o cidadão médio entenda realmente o que está acontecendo".</segment>
+    <segment id="72">O Congresso e a rua</segment>
+    <segment id="73">O constitucionalista Félix Lonigro criticou a extensão do DNU (Decreto de Necessidade e Urgência)</segment>
+    <segment id="74">, apesar de concordar com ele</segment>
+    <segment id="75">, em parte</segment>
+    <segment id="76">, porque</segment>
+    <segment id="77">porque considera muitas de suas medidas banais.</segment>
+    <segment id="78">"</segment>
+    <segment id="79">Chama minha atenção</segment>
+    <segment id="80">comocomo Milei acredita que algumas coisas possam ser tão urgentes</segment>
+    <segment id="81">, como</segment>
+    <segment id="82">como a reforma dos clubes de futebol.</segment>
+    <segment id="83">Acredito que tenha a ver com o personagem</segment>
+    <segment id="84">, com sua intemperança</segment>
+    <segment id="85">, sua ansiedade</segment>
+    <segment id="86">, que se</segment>
+    <segment id="87">se traduz na gestão do governo"</segment>
+    <segment id="88">, comentou.</segment>
+    <segment id="89">O mesmo pode-</segment>
+    <segment id="90">sese dizer da "Lei Ônibus"</segment>
+    <segment id="91">, cujo trâmite supostamente urgente pode levar semanas ou meses.</segment>
+    <segment id="92">E enquanto tudo isso é discutido entre as paredes do Congresso</segment>
+    <segment id="93">, os noticiários dedicam grande parte de seu espaço a relatar a perda do poder aquisitivo dos argentinos.</segment>
+    <segment id="94">Consumo despenca na Argentina no início do governo MileiMais    novamente         de   de  de  representando um  Exibem cenas de supermercados</segment>
+    <segment id="95">, açougues e farmácias</segment>
+    <segment id="96">, com zooms nos preços dos produtos</segment>
+    <segment id="97">, e informam as diferenças nos preços das bolas de praias e dos alfajores.  "</segment>
+    <segment id="98">A única coisa que as pessoas entendem é que os preços estão subindo</segment>
+    <segment id="99">; todos os demais debates não são entendidos.</segment>
+    <segment id="100">Querem saber em quanto a alface vai subir</segment>
+    <segment id="101">, quanto vão pagar de aluguel</segment>
+    <segment id="102">, quando vai subir o gás</segment>
+    <segment id="103">, o telefone</segment>
+    <segment id="104">, a luz"</segment>
+    <segment id="105">, disse Amadeo.  "</segment>
+    <segment id="106">A necessidade econômica é muito grande e a instabilidade social e sobretudo a instabilidade emocional é grande"</segment>
+    <segment id="107">, acrescentou a especialista.</segment>
+    <segment id="108">"</segment>
+    <segment id="109">Temos que resistir"</segment>
+    <segment id="110">O próprio Milei contribuiu para essa desilusão ao dizer que os frutos de seu ajuste "serão vistos em 15 anos".</segment>
+    <segment id="111">Para começar</segment>
+    <segment id="112">, desvalorizou a taxa de câmbio oficial em mais de 50%.</segment>
+    <segment id="113">A inflação de dezembro é histórica: 25</segment>
+    <segment id="114">,5%, com um acumulado interanual de 211</segment>
+    <segment id="115">,4%, o mais alto desde junho de 1991 (200</segment>
+    <segment id="116">,7%), confirmou o órgão oficial de estatísticas Indec à AFP.</segment>
+    <segment id="117">A inflação gerada desde dezembro provocou uma queda de 20</segment>
+    <segment id="118">,3% nos salários</segment>
+    <segment id="119">, segundo um relatório da Central de Trabalhadores da Argentina.</segment>
+    <segment id="120">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="121">; aberta para não assinantes.</segment>
+    <segment id="122">Carregando...</segment>
+    <segment id="123">Isso significa que</segment>
+    <segment id="124">, por exemplo</segment>
+    <segment id="125">, "duas em cada dez pessoas não estão comprando seus medicamentos" devido aos aumentos</segment>
+    <segment id="126">, afirmou o ministro da Saúde da província de Buenos Aires</segment>
+    <segment id="127">, Nicolás Kreplak</segment>
+    <segment id="128">, nessa quinta-feira (18).</segment>
+    <segment id="129">Porém, isso não representa automaticamente uma queda na popularidade de Milei.</segment>
+    <segment id="130">De acordo com a consultoria Analogías</segment>
+    <segment id="131">, 49,4% dos argentinos têm uma imagem positiva do presidente</segment>
+    <segment id="132">, contra 44</segment>
+    <segment id="133">,8% de imagem negativa</segment>
+    <segment id="134">, na pesquisa com 2.542 entrevistados em janeiro.</segment>
+    <segment id="135">Na mesma feira onde Formoso lamentava</segment>
+    <segment id="136">, a aposentada Lucrecia Rossi</segment>
+    <segment id="137">, de 73 anos</segment>
+    <segment id="138">, preferia ter paciência.</segment>
+    <segment id="139">"Temos que resistir.</segment>
+    <segment id="140">Porque é um desconhecido que assumiu"</segment>
+    <segment id="141">, disse à AFP referindo-</segment>
+    <segment id="142">sese a Milei.</segment>
+    <segment id="143">"</segment>
+    <segment id="144">Parece que ele tem boa vontade</segment>
+    <segment id="145">, vamos ver.</segment>
+    <segment id="146">"</segment>
+  </rst>
+</analysis>

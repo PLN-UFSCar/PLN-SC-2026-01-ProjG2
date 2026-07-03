@@ -1,0 +1,78 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Em SP, dados on-line</segment>
+    <segment id="2">fazem diferença no gerenciamento de vagas de urgência em hospitais públicos</segment>
+    <segment id="3">SÃO PAULO - As dificuldades do Rio no gerenciamento de vagas de urgência em hospitais públicos também eram</segment>
+    <segment id="4">, até há alguns meses</segment>
+    <segment id="5">, a realidade de São Paulo.</segment>
+    <segment id="6">Desde o início de julho</segment>
+    <segment id="7">, porém</segment>
+    <segment id="8">porém, o governo paulista tem a Central de Regulação de Oferta de Serviços de Saúde (Cross).</segment>
+    <segment id="9">Sua função é atender a pedidos de transferência feitos por hospitais para pacientes em situação de urgência.</segment>
+    <segment id="10">Informatizada</segment>
+    <segment id="11">, a Cross pôs fim aos pedidos por fax e à falta de informações sobre a rede hospitalar</segment>
+    <segment id="12">, reduzindo o tempo de espera do paciente por internações</segment>
+    <segment id="13">, cirurgias e exames.</segment>
+    <segment id="14">Hoje, a maioria das solicitações de transferência - cerca de 60% - chega à central via internet</segment>
+    <segment id="15">, diz o coordenador da central</segment>
+    <segment id="16">, Domingos Guilherme Napoli.</segment>
+    <segment id="17">Os hospitais mais próximos do paciente e os recursos disponíveis em cada um deles foram mapeados e incluídos no portal Cross</segment>
+    <segment id="18">, para agilizar a busca por vagas em 2.268 hospitais de todo o estado.</segment>
+    <segment id="19">Localizada no centro da capital paulista</segment>
+    <segment id="20">, a central funciona com 12 médicos e 12 auxiliares em plantões de 12 horas.</segment>
+    <segment id="21">Ao todo</segment>
+    <segment id="22">, 90 médicos - a meta é chegar a 110 - trabalham no local.</segment>
+    <segment id="23">Nenhum deles é funcionário público</segment>
+    <segment id="24">, e a central é administrada por uma organização social.</segment>
+    <segment id="25">São atendidos</segment>
+    <segment id="26">, em média</segment>
+    <segment id="27">, 300 pedidos por dia.</segment>
+    <segment id="28">Segundo Napoli</segment>
+    <segment id="29">, os casos não resolvidos somam apenas 10%</segment>
+    <segment id="30">, e a maioria dos atendimentos é concluída em três horas</segment>
+    <segment id="31">; alguns até em minutos.
+
+- Muitos casos levavam um dia para serem resolvidos.</segment>
+    <segment id="32">Não há dúvida de que o sistema on-line trouxe mais agilidade - diz Napoli.</segment>
+    <segment id="33">Todas as etapas da solicitação ficam registradas no sistema</segment>
+    <segment id="34">, e os dados servem de subsídio para o governo identificar as carências de leitos e equipamentos de cada região.</segment>
+    <segment id="35">Mas nem sempre foi assim.</segment>
+    <segment id="36">A transição entre o sistema precário de regulação de leitos</segment>
+    <segment id="37">, como</segment>
+    <segment id="38">como o do Rio</segment>
+    <segment id="39">, e a central on-line durou dois anos.</segment>
+    <segment id="40">O modelo já despertou o interesse do Ministério da Saúde.</segment>
+    <segment id="41">Apesar dos avanços</segment>
+    <segment id="42">, a Cross esbarra na estrutura sobrecarregada do SUS.</segment>
+    <segment id="43">O pedido de vaga em UTI para um idoso</segment>
+    <segment id="44">, recebida no início da madrugada de uma quinta-feira de julho</segment>
+    <segment id="45">, não havia sido atendido até as 14h</segment>
+    <segment id="46">, por falta de leito disponível.
+
+- Essas centrais são apenas intermediárias de pedidos.</segment>
+    <segment id="47">Não têm poder de mudar a situação - observa o presidente do Sindicato dos Médicos de São Paulo</segment>
+    <segment id="48">, Cid Carvalhaes.</segment>
+  </rst>
+</analysis>

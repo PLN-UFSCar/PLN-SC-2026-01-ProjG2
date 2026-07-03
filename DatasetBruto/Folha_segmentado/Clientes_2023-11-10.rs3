@@ -1,0 +1,165 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Moradores de São Paulo reclamam que continuam sem energia elétrica em casa uma semana após a tempestade que atingiu o estado</segment>
+    <segment id="2">, na última sexta-feira (3)</segment>
+    <segment id="3">, e deixou 4</segment>
+    <segment id="4">,1 milhões sem luz.</segment>
+    <segment id="5">As reclamações ocorrem mesmo depois de a Enel afirmar na quinta (9) que todas as ocorrências derivadas da forte chuva terem sido solucionadas e o fornecimento ter sido restabelecido para todos os clientes.</segment>
+    <segment id="6">Uma das reclamações é do advogado Rennan Nascimento</segment>
+    <segment id="7">, 31, que mora na rua Luís Delfino</segment>
+    <segment id="8">, na Vila Mariana.</segment>
+    <segment id="9">Ele conta que a casa está sem energia desde a tempestade.</segment>
+    <segment id="10">Parte de fiação danificada na Praça Nossa Senhora das Vitórias</segment>
+    <segment id="11">, na Vila Formosa</segment>
+    <segment id="12">, zona leste - Leitor"A casa tem duas ou três fases.</segment>
+    <segment id="13">A luz da sala</segment>
+    <segment id="14">, por exemplo</segment>
+    <segment id="15">, acende</segment>
+    <segment id="16">, masmas as dos quartos não.</segment>
+    <segment id="17">Então, chuveiro</segment>
+    <segment id="18">, ar-condicionado</segment>
+    <segment id="19">, todos esses que são 220v não funcionam"</segment>
+    <segment id="20">, conta.</segment>
+    <segment id="21">Os pais do advogado têm 70 anos e estão há uma semana tomando banho de água fria.</segment>
+    <segment id="22">"</segment>
+    <segment id="23">Eles já são idosos</segment>
+    <segment id="24">, meu pai é cabeleireiro e</segment>
+    <segment id="25">, claro</segment>
+    <segment id="26">, quando chega do trabalho precisa tomar banho.</segment>
+    <segment id="27">Estava até resfriado no começo da semana.</segment>
+    <segment id="28">É um absurdo esse descaso"</segment>
+    <segment id="29">, reclama.</segment>
+    <segment id="30">A família tem três carros</segment>
+    <segment id="31">, que estão há sete dias sem rodar.  "</segment>
+    <segment id="32">O portão eletrônico não funciona</segment>
+    <segment id="33">, então a gente não consegue tirar os carros.</segment>
+    <segment id="34">Faz uma semana que estão presos lá.</segment>
+    <segment id="35">Meus pais estão andando de metrô.</segment>
+    <segment id="36">Eu e meu irmão estamos gastando com Uber.</segment>
+    <segment id="37">Tem dia que fico até tarde</segment>
+    <segment id="38">, de madrugada no escritório</segment>
+    <segment id="39">, não tem</segment>
+    <segment id="40">comocomo voltar de metrô.</segment>
+    <segment id="41">É um transtorno sem tamanho durante essa semana"</segment>
+    <segment id="42">, reclama.  "Escuro</segment>
+    <segment id="43">, banho frio</segment>
+    <segment id="44">, sem televisão</segment>
+    <segment id="45">, sem internet e sem atendimento"</segment>
+    <segment id="46">, completa Nascimento.</segment>
+    <segment id="47">Ele diz que já fizeram mais de 50 ligações para a Enel e não recebe nenhuma previsão de solução.  "</segment>
+    <segment id="48">O atendimento da Enel é tenebroso.</segment>
+    <segment id="49">No telefone de contato</segment>
+    <segment id="50">, passam estimativas que nunca</segment>
+    <segment id="51">sese cumprem – até o momento</segment>
+    <segment id="52">, nenhuma equipe jamais foi até meu endereço – e os atendentes</segment>
+    <segment id="53">, ao verificar que já possuem diversas chamadas</segment>
+    <segment id="54">, desligam a ligação enquanto cobramos uma posição"</segment>
+    <segment id="55">, reclama.</segment>
+    <segment id="56">A família contratou um eletricista para avaliar a parte interna da casa.</segment>
+    <segment id="57">"</segment>
+    <segment id="58">Ele disse que dentro de casa está tudo certo</segment>
+    <segment id="59">, que o problema é do lado de fora</segment>
+    <segment id="60">, talvez no transformador.</segment>
+    <segment id="61">Caíram árvores nas ruas próximas</segment>
+    <segment id="62">, masmas</segment>
+    <segment id="63">, aqui não.</segment>
+    <segment id="64">Acho importante destacar isso</segment>
+    <segment id="65">, pois</segment>
+    <segment id="66">pois não é verdade que não há mais casas sem energia em São Paulo"</segment>
+    <segment id="67">, ressalta o advogado.</segment>
+    <segment id="68">Outro exemplo é o empresário Victor Cadena</segment>
+    <segment id="69">, 31, que mora na Praça Nossa Senhora das Vitórias</segment>
+    <segment id="70">, na Vila Formosa</segment>
+    <segment id="71">, zona leste.</segment>
+    <segment id="72">"Estamos sem energia desde sexta.</segment>
+    <segment id="73">A gente já abriu vários protocolos</segment>
+    <segment id="74">, fui numa agência da Enel e nada.</segment>
+    <segment id="75">Nunca cumprem os prazos prometidos.</segment>
+    <segment id="76">São três imóveis nessa rua com o mesmo problema"</segment>
+    <segment id="77">, relatou</segment>
+    <segment id="78">, na manhã desta sexta.</segment>
+    <segment id="79">A falta de eletricidade tem alterado a rotina do empresário.</segment>
+    <segment id="80">"</segment>
+    <segment id="81">Eu tenho uma clínica de estética com a minha esposa e também uma agência de marketing.</segment>
+    <segment id="82">Eu trabalho home office</segment>
+    <segment id="83">, masmas tenho que me virar na rua com notebook</segment>
+    <segment id="84">, carregar celular no carro</segment>
+    <segment id="85">, ou ir trabalhar na clínica"</segment>
+    <segment id="86">, conta Cadena.</segment>
+    <segment id="87">Carros da família de Rennan Nascimento presos na garagem</segment>
+    <segment id="88">porque</segment>
+    <segment id="89">porque o portão eletrônico não abre - LeitorSegundo empresário</segment>
+    <segment id="90">, um galho caiu na fiação em frente à sua residência</segment>
+    <segment id="91">, que deixou o fio baixo</segment>
+    <segment id="92">, depois passou um veículo e arrancou o fio.</segment>
+    <segment id="93">Enquanto falava com a reportagem</segment>
+    <segment id="94">, uma equipe da Enel chegou para fazer a manutenção e o fornecimento foi restaurado por volta do meio-dia.</segment>
+    <segment id="95">Questionada</segment>
+    <segment id="96">, a Enel não respondeu sobre os casos específicos relatados à reportagem.</segment>
+    <segment id="97">Em nota</segment>
+    <segment id="98">, afirmou que restabeleceu o fornecimento de energia para todos os clientes impactados na última sexta e que segue trabalhando em ocorrências específicas que surgiram nos dias seguintes à tempestade.</segment>
+    <segment id="99">"</segment>
+    <segment id="100">Pedimos nossas sinceras desculpas a todos os clientes que demoraram a ter a energia restabelecida em suas casas.</segment>
+    <segment id="101">A energia é um bem essencial à sociedade e temos consciência dos transtornos que um evento dessa magnitude causa às pessoas.</segment>
+    <segment id="102">Nos solidarizamos com todos que foram impactados pela falta de luz"</segment>
+    <segment id="103">, afirma Max Xavier Lins</segment>
+    <segment id="104">, presidente da Enel Distribuição</segment>
+    <segment id="105">São Paulo</segment>
+    <segment id="106">, no comunicado enviado à imprensa.</segment>
+    <segment id="107">"</segment>
+    <segment id="108">Desde as primeiras horas do evento</segment>
+    <segment id="109">, a companhia mobilizou toda a sua força de trabalho</segment>
+    <segment id="110">, inclusive de outros estados.</segment>
+    <segment id="111">Eletricistas em campo</segment>
+    <segment id="112">, técnicos no centro de operações</segment>
+    <segment id="113">, atendentes no call center e nas lojas de atendimento</segment>
+    <segment id="114">, além de fornecedores e parceiros</segment>
+    <segment id="115">, atuaram e seguem trabalhando incansavelmente.</segment>
+    <segment id="116">"  Nesta quinta (9)</segment>
+    <segment id="117">, a Prefeitura de São Paulo entrou no Tribunal de Justiça com pedido de medida de tutela antecedente (urgência) contra a Enel com uma série de pedidos relacionados ao apagão.</segment>
+    <segment id="118">Cenário de destruição em São Paulo após tempestadeMais    novamente         de   de  de  representando um  Na ação judicial</segment>
+    <segment id="119">, apresentada pela Procuradoria-Geral do Município</segment>
+    <segment id="120">, a prefeitura exige o religamento imediato da rede elétrica em endereços que ainda estariam sem luz</segment>
+    <segment id="121">, multa de R$ 1 mil por hora de atraso para cada unidade consumidora</segment>
+    <segment id="122">, prazo de 24 horas para remoção das árvores que continuam caídas e interferem na fiação elétrica em vários pontos da cidade.</segment>
+    <segment id="123">Há ainda pedido</segment>
+    <segment id="124">para que</segment>
+    <segment id="125">para que a concessionária apresente</segment>
+    <segment id="126">, em cinco dias</segment>
+    <segment id="127">, um plano de contingência para São Paulo e</segment>
+    <segment id="128">, no prazo de dez dias</segment>
+    <segment id="129">, projetos e cronogramas de trabalho preventivo para o período de chuvas.</segment>
+    <segment id="130">Outro pedido feito à Justiça é prazo de 72 horas</segment>
+    <segment id="131">para que</segment>
+    <segment id="132">para que a Enel informe o número de equipes e funcionários que atuam no controle das árvores</segment>
+    <segment id="133">, o número de árvores podadas este ano e a quantidade de equipes e funcionários contratados emergencialmente e que ficam de sobreaviso no período de chuvas intensas.</segment>
+    <segment id="134">Em nota na quarta (8)</segment>
+    <segment id="135">, após a notícia da intenção da prefeitura de processar a empresa</segment>
+    <segment id="136">, a Enel afirmou que prestará todas as informações necessárias para as autoridades.</segment>
+    <segment id="137">"</segment>
+    <segment id="138">A companhia acrescenta que mantém uma relação de transparência com seus clientes e todos os seus públicos e está fortemente comprometida em oferecer um serviço cada vez melhor à população.</segment>
+    <segment id="139">"</segment>
+  </rst>
+</analysis>

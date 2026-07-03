@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Presos ladrões de postos de combustíveis
+Quadrilha foi desarticulada pela Polícia Rodoviária Federal em Jequié</segment>
+    <segment id="2">Uma quadrilha acusada de assaltar postos de combustíveis foi desarticulada pela Polícia Rodoviária Federal (PRF)</segment>
+    <segment id="3">, no km 677 da BR-116</segment>
+    <segment id="4">, perto da cidade de Jequié.</segment>
+    <segment id="5">De acordo com a assessoria de comunicação da PRF</segment>
+    <segment id="6">, os criminosos foram encontrados após o órgão ter recebido denúncias de que três homens em um caminhão haviam acabado de abordar os funcionários do Posto Serra do Mutum.</segment>
+    <segment id="7">Com os acusados</segment>
+    <segment id="8">, os policiais rodoviários federais encontraram cinco aparelhos de celular</segment>
+    <segment id="9">, duas tocas pretas</segment>
+    <segment id="10">, duas mangueiras de secar tanques</segment>
+    <segment id="11">, três macacos de suspensão</segment>
+    <segment id="12">, além de  R$ 3 mil e 12 dólares</segment>
+    <segment id="13">, em dinheiro.</segment>
+  </rst>
+</analysis>

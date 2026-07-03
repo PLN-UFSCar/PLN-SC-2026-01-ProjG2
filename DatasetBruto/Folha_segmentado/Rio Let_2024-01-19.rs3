@@ -1,0 +1,185 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Rio de Janeiro atingiu em 2023 o menor número de ocorrências de letalidade violenta desde o início da série histórica do ISP (Instituto de Segurança Pública)</segment>
+    <segment id="2">, que começou em 1991</segment>
+    <segment id="3">, conforme dados divulgados nesta sexta-feira (19).</segment>
+    <segment id="4">O indicador</segment>
+    <segment id="5">, que engloba homicídios dolosos</segment>
+    <segment id="6">, lesão corporal seguida de morte</segment>
+    <segment id="7">, latrocínio e morte por intervenção policial</segment>
+    <segment id="8">, registrou 4.257 casos entre janeiro e dezembro do ano passado —uma redução de 5</segment>
+    <segment id="9">,1% em comparação com o ano anterior e a menor em 32 anos.</segment>
+    <segment id="10">Apesar da queda no indicador geral</segment>
+    <segment id="11">, no entanto</segment>
+    <segment id="12">, os homicídios dolosos aumentaram 7</segment>
+    <segment id="13">,3%:</segment>
+    <segment id="14">foram 3.283 no ano passado</segment>
+    <segment id="15">, ante 3.059 em 2022.</segment>
+    <segment id="16">O número equivale a quase nove mortos por dia.</segment>
+    <segment id="17">Mulher segura projéteis encontrados no conjunto habitacional do Minha Casa</segment>
+    <segment id="18">, Minha Vida onde uma criança foi baleada e morta durante ação policial na cidade de Maricá</segment>
+    <segment id="19">, na região metropolitana do Rio de Janeiro - Eduardo Anizelli-12.jul.2023/</segment>
+    <segment id="20">FolhapressOs homicídios no estado</segment>
+    <segment id="21">sese concentraram principalmente na zona oeste da capital</segment>
+    <segment id="22">, onde há a predominância da milícia.</segment>
+    <segment id="23">Foram 726 assassinatos na região</segment>
+    <segment id="24">, um aumento de 43</segment>
+    <segment id="25">,2% em comparação ao ano passado.</segment>
+    <segment id="26">A área com mais ocorrência de homicídios em números absolutos é a Baixada Fluminense</segment>
+    <segment id="27">, onde há também forte presença de grupos paramilitares e do tráfico.</segment>
+    <segment id="28">Lá, 902 pessoas foram assassinadas no último ano.</segment>
+    <segment id="29">Apesar do número alto</segment>
+    <segment id="30">, houve uma queda de 1</segment>
+    <segment id="31">,4% comparado ao ano anterior.</segment>
+    <segment id="32">Houve aumento de assassinatos no restante da região metropolitana.</segment>
+    <segment id="33">Na RISP (Região Integrada de Segurança Pública) 1</segment>
+    <segment id="34">, onde fica o centro do Rio</segment>
+    <segment id="35">, a zona sul e a zona norte</segment>
+    <segment id="36">, a alta foi de 10</segment>
+    <segment id="37">,6%, com 286 homicídios registrados.</segment>
+    <segment id="38">Já em Niterói</segment>
+    <segment id="39">, São Gonçalo e arredores</segment>
+    <segment id="40">, o aumento foi de 5</segment>
+    <segment id="41">,7%, com 521 mortes intencionais.</segment>
+    <segment id="42">Notícias do diaReceba diariamente de manhã no seu email as principais notícias publicadas na Folha</segment>
+    <segment id="43">; aberta para não assinantes.</segment>
+    <segment id="44">Carregando...</segment>
+    <segment id="45">Com os homicídios em alta</segment>
+    <segment id="46">, o que puxa a queda no indicador de letalidade violenta é o número de mortes por intervenção de agentes do Estado.</segment>
+    <segment id="47">Em 2023</segment>
+    <segment id="48">, foram 869 casos —uma redução de 34</segment>
+    <segment id="49">,7% em comparação ao ano anterior</segment>
+    <segment id="50">, quando 1.330 pessoas morreram dessa forma.</segment>
+    <segment id="51">A zona oeste</segment>
+    <segment id="52">, porém</segment>
+    <segment id="53">porém, também registrou um aumento nesse índice</segment>
+    <segment id="54">, de 13</segment>
+    <segment id="55">,7%, chegando ao patamar de 257 mortos em interposição à polícia.</segment>
+    <segment id="56">Já as demais áreas da região metropolitana registraram queda nesses números: 51</segment>
+    <segment id="57">,8% em Niterói e São Gonçalo</segment>
+    <segment id="58">, com 136 casos</segment>
+    <segment id="59">; 46,3% no centro</segment>
+    <segment id="60">, zona sul e zona norte da capital</segment>
+    <segment id="61">, com 117</segment>
+    <segment id="62">, e 44</segment>
+    <segment id="63">,5% na Baixada Fluminense</segment>
+    <segment id="64">, com 264.</segment>
+    <segment id="65">"</segment>
+    <segment id="66">Há uma concentração de aumento dos homicídios nas áreas que a gente identificou conflitos entre os grupos armados e entre as forças policiais"</segment>
+    <segment id="67">, afirma sociólogo Daniel Hirata</segment>
+    <segment id="68">, coordenador do Geni/UFF (Grupo de Estudos de Novos Ilegalismos da Universidade Federal Fluminense).</segment>
+    <segment id="69">Ele completa:  "</segment>
+    <segment id="70">E apesar da queda da letalidade violenta</segment>
+    <segment id="71">, sese observamos os dados por região</segment>
+    <segment id="72">, ela também cresceu onde mais houve esses conflitos".</segment>
+    <segment id="73">Em nota</segment>
+    <segment id="74">, o governador do Rio</segment>
+    <segment id="75">, Cláudio Castro (PL)</segment>
+    <segment id="76">, comemorou a redução no indicador de letalidade violenta.</segment>
+    <segment id="77">Ele atribuiu a queda aos investimentos na área de segurança pública e a recriação de uma secretaria específica para a área.</segment>
+    <segment id="78">"</segment>
+    <segment id="79">A segurança pública do Rio de Janeiro vem alcançando nos últimos anos reduções históricas na Letalidade Violenta e isso precisa sempre ser destacado</segment>
+    <segment id="80">, pois</segment>
+    <segment id="81">pois não é um fato trivial.</segment>
+    <segment id="82">Já investimos mais de R$ 2</segment>
+    <segment id="83">,5 bilhões em tecnologia</segment>
+    <segment id="84">, reformas de batalhões e delegacias e equipamentos de proteção para os policiais.</segment>
+    <segment id="85">Além disso</segment>
+    <segment id="86">, criamos uma nova secretaria de Segurança Pública</segment>
+    <segment id="87">, enxuta</segment>
+    <segment id="88">, para promover uma integração maior entre as polícias Civil e Militar"</segment>
+    <segment id="89">, disse.</segment>
+    <segment id="90">As operações policiais no Rio na gestão Cláudio CastroMais    novamente         de   de  de  representando um</segment>
+    <segment id="91">Apesar da recriação da pasta de Segurança Pública</segment>
+    <segment id="92">, que estava extinta desde 2019</segment>
+    <segment id="93">, as polícias continuam com status e autonomia de secretaria.</segment>
+    <segment id="94">Por fim</segment>
+    <segment id="95">, o ISP também indicou um aumento de 27</segment>
+    <segment id="96">,5% no número de fuzis apreendidos em 2023.</segment>
+    <segment id="97">Ao todo</segment>
+    <segment id="98">, foram 610.</segment>
+    <segment id="99">Já o total de apreensão de armas caiu 27</segment>
+    <segment id="100">,6% em comparação ao ano anterior: enquanto em 2022 foram 6.795 armas apreendidas</segment>
+    <segment id="101">, agora esse número foi de 6.281.</segment>
+    <segment id="102">Além disso</segment>
+    <segment id="103">, o instituto também apontou que as polícias Civil e Militar realizaram 36.952 prisões em flagrante no ano e recuperaram 14.675 veículos roubados.</segment>
+    <segment id="104">Práticas de grupos criminosos</segment>
+    <segment id="105">O ISP também indicou um aumento no número de desaparecidos e de extorsão.</segment>
+    <segment id="106">No primeiro</segment>
+    <segment id="107">, o índice subiu 10</segment>
+    <segment id="108">,7% em 2023</segment>
+    <segment id="109">, com 5.815 casos</segment>
+    <segment id="110">, enquanto o segundo teve um crescimento de 41</segment>
+    <segment id="111">,7%, com 3.264.</segment>
+    <segment id="112">Embora esses dois índices não</segment>
+    <segment id="113">sese restrinjam à prática de grupos criminosos</segment>
+    <segment id="114">, já que podem ocorrer por outros motivos e serem cometidos por diversos autores</segment>
+    <segment id="115">, eles mostram o retrato de</segment>
+    <segment id="116">comocomo as facções e paramilitares atuam ao analisar os números por região.</segment>
+    <segment id="117">O instituto não diferencia os tipos de desaparecimento</segment>
+    <segment id="118">, por isso não há um dado específico para aqueles que são desaparecidos forçados.</segment>
+    <segment id="119">Essa prática é comum à milícia</segment>
+    <segment id="120">, que a tem usado para aumentar seu domínio territorial.</segment>
+    <segment id="121">A Baixada e a zona oeste concentram o maior número total de desaparecidos.</segment>
+    <segment id="122">No primeiro</segment>
+    <segment id="123">, foram 1.625</segment>
+    <segment id="124">, com uma alta de 7</segment>
+    <segment id="125">,5% em comparação ao ano anterior.</segment>
+    <segment id="126">No segundo</segment>
+    <segment id="127">, o número foi de 1.385</segment>
+    <segment id="128">, sendo um crescimento de 18%.</segment>
+    <segment id="129">O maior aumento de desaparecidos</segment>
+    <segment id="130">, porém</segment>
+    <segment id="131">porém,</segment>
+    <segment id="132">sese deu na região de Niterói e São Gonçalo</segment>
+    <segment id="133">, onde há predominância do tráfico.</segment>
+    <segment id="134">Em 2023</segment>
+    <segment id="135">, o número de pessoas que sumiram subiu 24</segment>
+    <segment id="136">,3%, registrando 792 casos.</segment>
+    <segment id="137">Houve também aumento no centro</segment>
+    <segment id="138">, zona sul e zona norte da capital:</segment>
+    <segment id="139">22,4%, o que equivale a 1.171 desaparecidos no ano.</segment>
+    <segment id="140">A evolução da milícia no Rio de JaneiroMais    novamente         de   de  de  representando um  Já a extorsão também passou a ser praticada por traficantes.</segment>
+    <segment id="141">Para garantir o domínio sob uma comunidade ou um bairro</segment>
+    <segment id="142">, facções e grupos paramilitares costumam extorquir moradores e comerciantes</segment>
+    <segment id="143">, além de obrigá-los a utilizar somente os serviços oferecidos por eles.</segment>
+    <segment id="144">As extorsões aumentaram em toda a região metropolitana: 56</segment>
+    <segment id="145">,9% na Baixada Fluminense</segment>
+    <segment id="146">, com 590 casos</segment>
+    <segment id="147">; 56,6% em Niterói e São Gonçalo</segment>
+    <segment id="148">, com 534</segment>
+    <segment id="149">; 33,3% na zona oeste da capital</segment>
+    <segment id="150">, 861, e 28</segment>
+    <segment id="151">,3% no Centro</segment>
+    <segment id="152">, zona sul e zona norte</segment>
+    <segment id="153">, com 793.  "</segment>
+    <segment id="154">São práticas bastante típicas da milícia e que agora passaram a ser do tráfico também.</segment>
+    <segment id="155">Mesmo que nem todos os desaparecimentos sejam forçados</segment>
+    <segment id="156">, pesquisas passadas já nos indicaram que cerca de 24% dos casos</segment>
+    <segment id="157">sese enquadram nesse perfil de desaparecidos forçados.</segment>
+    <segment id="158">É necessário uma atenção das autoridades e da pesquisa social para termos uma ideia melhor desse universo"</segment>
+    <segment id="159">, afirma Hirata.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,55 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Polícia apreende 13 máquinas caça-níqueis e prende 3 homens
+RIO - Três pessoas foram presas e 13 máquinas caça-níqueis e três aves silvestres apreendidas</segment>
+    <segment id="2">, nesta sexta-feira</segment>
+    <segment id="3">, por policiais da Delegacia de Proteção ao Meio Ambiente.</segment>
+    <segment id="4">A ação foi em Jardim América</segment>
+    <segment id="5">, Bangu e Duque de Caxias.</segment>
+    <segment id="6">Os agentes foram à Rua Marechal Antônio de Souza</segment>
+    <segment id="7">, em Jardim América</segment>
+    <segment id="8">, checar informações recebidas pelo Disque-Denúncia e descobriram um minicassino</segment>
+    <segment id="9">, onde eram feitas apostas do jogo do bicho</segment>
+    <segment id="10">, com seis máquinas caça-níqueis.</segment>
+    <segment id="11">No local</segment>
+    <segment id="12">, também foram encontrados três pássaros silvestres.</segment>
+    <segment id="13">Antônio Paz Belles</segment>
+    <segment id="14">, de 70 anos</segment>
+    <segment id="15">, responsável pelo estabelecimento</segment>
+    <segment id="16">, foi preso pelos crimes de jogos de azar e contra o meio ambiente.</segment>
+    <segment id="17">Ainda durante a ação</segment>
+    <segment id="18">, Pedro Rodrigues Guimarães</segment>
+    <segment id="19">, de 69 anos</segment>
+    <segment id="20">, e Luis Mariano dos Santos</segment>
+    <segment id="21">, de 60</segment>
+    <segment id="22">, foram presos e autuados por contrabando.</segment>
+    <segment id="23">Pedro foi capturado na Rua Caminho da Caixinha</segment>
+    <segment id="24">, em Bangu</segment>
+    <segment id="25">, e Luis Mariano na Rua Cambuci</segment>
+    <segment id="26">, em Duque de Caxias.</segment>
+    <segment id="27">Nos estabelecimentos comerciais deles</segment>
+    <segment id="28">, foram encontradas sete máquinas caça-níqueis.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um dos temas previstos para o debate nas reuniões do Comitê de Concorrência da OCDE agendadas para essa semana</segment>
+    <segment id="2">, em Paris</segment>
+    <segment id="3">, é sobre</segment>
+    <segment id="4">comocomo desembaraçar fusões já consumadas.</segment>
+    <segment id="5">Na pauta dos brasileiros</segment>
+    <segment id="6">, o exemplo que será levado para a conversa é o</segment>
+    <segment id="7">casocaso da compra da Garoto pela Nestlé</segment>
+    <segment id="8">, que está amarrada há duas décadas</segment>
+    <segment id="9">, masmas não teve um desfecho ainda.</segment>
+    <segment id="10">Na época</segment>
+    <segment id="11">, o Cade (Conselho Administrativo de Defesa Econômica) reprovou a transação com o argumento de que a fusão prejudicaria a concorrência no mercado de chocolates por envolver duas das maiores empresas do setor</segment>
+    <segment id="12">, masmas o</segment>
+    <segment id="13">casocaso foi parar na Justiça e virou um grande processo que</segment>
+    <segment id="14">sese encontra hoje no TRF-1 (Tribunal Regional Federal da 1ª Região).</segment>
+    <segment id="15">Nas últimas semanas</segment>
+    <segment id="16">, o órgão de defesa da concorrência fez contato com a Nestlé para pedir informações de mercado</segment>
+    <segment id="17">, gesto que poderia sinalizar uma abertura de diálogo para um acordo no antigo imbróglio</segment>
+    <segment id="18">, masmas a gigante dos alimentos disse que é melhor aguardar a conclusão nas instâncias judiciais.</segment>
+    <segment id="19">Produção de chocolates- Bruno Santos/ Folhapress</segment>
+  </rst>
+</analysis>

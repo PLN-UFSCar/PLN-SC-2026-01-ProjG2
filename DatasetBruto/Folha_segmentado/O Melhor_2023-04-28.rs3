@@ -1,0 +1,130 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O fechamento de agências bancárias tem</segment>
+    <segment id="2">sese tornado cada vez mais frequente e</segment>
+    <segment id="3">, desde as restrições sanitárias em função da pandemia</segment>
+    <segment id="4">, muitos clientes não pisaram mais em um banco.</segment>
+    <segment id="5">Segundo dados da Febraban (Federação Brasileira de Bancos)</segment>
+    <segment id="6">, 7 em cada 10 transações bancárias são feitas pelos canais digitais.</segment>
+    <segment id="7">Só 3% delas são realizadas em agências.</segment>
+    <segment id="8">Os outros 27%</segment>
+    <segment id="9">sese dividem em serviços</segment>
+    <segment id="10">comocomo pontos de venda e autoatendimento.</segment>
+    <segment id="11">Em setembro de 2017</segment>
+    <segment id="12">, os cinco bancos com maior cobertura nacional tinham</segment>
+    <segment id="13">, somados</segment>
+    <segment id="14">, 19.358 agências.</segment>
+    <segment id="15">Em setembro do ano passado</segment>
+    <segment id="16">, o número era 15.569</segment>
+    <segment id="17">, cerca de 20% a menos.</segment>
+    <segment id="18">Os dados são da base IF.data</segment>
+    <segment id="19">, do Banco Central</segment>
+    <segment id="20">, e compreendem Banco do Brasil</segment>
+    <segment id="21">, Bradesco</segment>
+    <segment id="22">, Caixa</segment>
+    <segment id="23">, Itaú e Santander.</segment>
+    <segment id="24">Funcionários trabalham no centro de investimentos do Itaú</segment>
+    <segment id="25">, na avenida Brigadeiro Faria Lima</segment>
+    <segment id="26">, zona oeste de São Paulo</segment>
+    <segment id="27">; segundo o diretor do banco</segment>
+    <segment id="28">,mais de 80% de seus clientes usam mensalmente os canais digitais para realizar desde transações cotidianas - Keiny Andrade/FolhapressPara Leandro Vilain</segment>
+    <segment id="29">, diretor-executivo de inovação</segment>
+    <segment id="30">, produtos e serviços bancários da Febraban</segment>
+    <segment id="31">, o momento reflete o novo perfil do consumidor</segment>
+    <segment id="32">, que busca conveniência</segment>
+    <segment id="33">, comodidade e rapidez.</segment>
+    <segment id="34">"</segment>
+    <segment id="35">Isso é resultado de investimentos consistentes de mais de R$ 30 bilhões a cada ano em tecnologia bancária para ofertar produtos e serviços eficientes</segment>
+    <segment id="36">, rápidos e seguros</segment>
+    <segment id="37">, que possibilitam o atendimento por meio digital</segment>
+    <segment id="38">, sem que o cliente precise sair de casa.</segment>
+    <segment id="39">"</segment>
+    <segment id="40">Em sua opinião</segment>
+    <segment id="41">, a pandemia acelerou a digitalização que já</segment>
+    <segment id="42">sese mostrava crescente.</segment>
+    <segment id="43">"</segment>
+    <segment id="44">Não há atualmente um banco que não atue fortemente na arena digital.</segment>
+    <segment id="45">O que existem são bancos que também ofertam atendimento presencial</segment>
+    <segment id="46">, que será cada vez mais consultivo e menos tradicional"</segment>
+    <segment id="47">, diz.</segment>
+    <segment id="48">Embora traga praticidade e rapidez</segment>
+    <segment id="49">, a digitalização do atendimento bancário tem riscos.</segment>
+    <segment id="50">Para Vilain</segment>
+    <segment id="51">, o aspecto negativo desse movimento são as fraudes</segment>
+    <segment id="52">, em que criminosos</segment>
+    <segment id="53">sese aproveitam do aumento das transações digitais para aplicar golpes financeiros</segment>
+    <segment id="54">, muitos envolvendo o Pix.</segment>
+    <segment id="55">"</segment>
+    <segment id="56">São, na verdade</segment>
+    <segment id="57">, ataques de phishing</segment>
+    <segment id="58">, que usam técnicas de engenharia social para enganar as pessoas [e convencê-las a] fornecer informações confidenciais</segment>
+    <segment id="59">, como</segment>
+    <segment id="60">como senhas e números de cartões"</segment>
+    <segment id="61">, explica.</segment>
+    <segment id="62">Ele afirma que o problema não tem origem em brechas no sistema.</segment>
+    <segment id="63">"</segment>
+    <segment id="64">Os aplicativos dos bancos contam com o máximo de segurança em todas as suas etapas</segment>
+    <segment id="65">, desde o seu desenvolvimento até a sua utilização.</segment>
+    <segment id="66">Não há registro de violação da segurança desses aplicativos.</segment>
+    <segment id="67">"  Citado por 34% dos moradores de São Paulo</segment>
+    <segment id="68">, o Itaú venceu a categoria de atendimento bancário da pesquisa Datafolha pela segunda vez seguida.</segment>
+    <segment id="69">De acordo com Carlos Vanzo</segment>
+    <segment id="70">, diretor do Itaú Unibanco</segment>
+    <segment id="71">, mais de 80% de seus clientes usam mensalmente os canais digitais da instituição para realizar desde transações cotidianas até a contratação de soluções financeiras.  "</segment>
+    <segment id="72">Oferecemos um banco totalmente digital com a conveniência do atendimento das agências físicas</segment>
+    <segment id="73">, disponibilizando o melhor dos dois mundos</segment>
+    <segment id="74">, à escolha do cliente.</segment>
+    <segment id="75">Essa é a nova forma de atendimento</segment>
+    <segment id="76">, que temos chamado de figital [mistura dos termos físico e digital]"</segment>
+    <segment id="77">, afirma.</segment>
+    <segment id="78">Para ele</segment>
+    <segment id="79">, aos poucos</segment>
+    <segment id="80">, o atendimento presencial deixa de ser um ponto transacional e vira local de relacionamento</segment>
+    <segment id="81">, planejamento financeiro</segment>
+    <segment id="82">, acolhimento e consultoria.  "</segment>
+    <segment id="83">Nosso plano é termos 100% do parque de agências atualizado até 2025</segment>
+    <segment id="84">, numa configuração mais moderna</segment>
+    <segment id="85">, acolhedora e com novas soluções que simplificam o dia a dia dos nossos clientes"</segment>
+    <segment id="86">, conta.</segment>
+    <segment id="87">Para ele</segment>
+    <segment id="88">, o reconhecimento do banco</segment>
+    <segment id="89">sese deve ao atendimento humanizado aliado aos grandes investimentos em tecnologia e ao lançamento de produtos e serviços adaptados às necessidades dos clientes.</segment>
+    <segment id="90">"Temos evoluído na criação de uma proposta de valor que vai além dos produtos e serviços tradicionais"</segment>
+    <segment id="91">, afirma</segment>
+    <segment id="92">, em menção a serviços</segment>
+    <segment id="93">comocomo marketplaces e cartão-presente.</segment>
+    <segment id="94">Conheça as empresas vencedoras do prêmio</segment>
+    <segment id="95">O Melhor de São Paulo 2023Mais    novamente         de   de  de  representando um   ITAÚ  34% das menções</segment>
+    <segment id="96">Fundação 1924  Unidades 3</segment>
+    <segment id="97">,8 mil</segment>
+    <segment id="98">Funcionários 101 mil no Brasil e no exterior</segment>
+    <segment id="99">Lucro líquido R$ 30</segment>
+    <segment id="100">,8 bilhões  Crescimento (2022) 14</segment>
+    <segment id="101">,5% maior que em 2021  Temos oferecido um banco totalmente digital com a conveniência do atendimento das agências físicas</segment>
+    <segment id="102">, disponibilizando o melhor dos dois mundos à escolha do cliente.</segment>
+    <segment id="103">Essa é a nova forma de atendimento que temos chamado de ‘figital’.</segment>
+    <segment id="104">Carlos Vanzodiretor do Itaú Unibanco</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,53 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O comércio popular da rua 25 de março</segment>
+    <segment id="2">, em São Paulo</segment>
+    <segment id="3">, teve um Dia da Criança fraco neste ano.</segment>
+    <segment id="4">Segundo Cláudia Urias</segment>
+    <segment id="5">, diretora da Univinco (que reúne os lojistas da região)</segment>
+    <segment id="6">, somente 40% das lojas ficaram abertas.</segment>
+    <segment id="7">A maior parte dos vendedores decidiu pular a data e apostar no Natal</segment>
+    <segment id="8">, segundo ela.  "</segment>
+    <segment id="9">As pessoas estão preocupadas em gastar</segment>
+    <segment id="10">, porque</segment>
+    <segment id="11">porque o custo de vida está muito alto.</segment>
+    <segment id="12">A pessoa faz um esforço para comprar um presente</segment>
+    <segment id="13">, masmas antigamente ela comprava para a família inteira"</segment>
+    <segment id="14">, diz Urias.</segment>
+    <segment id="15">Lojas da região da 25 de Março</segment>
+    <segment id="16">sese preparam para a Copa do Mundo - Rivaldo Gomes - 1.set.22/FolhapressO número de visitantes na região nesta época do ano caiu de aproximadamente 1 milhão de pessoas por dia para menos de 500 mil consumidores</segment>
+    <segment id="17">, de acordo com a Univinco.</segment>
+    <segment id="18">"</segment>
+    <segment id="19">O nosso maior movimento é o atacado.</segment>
+    <segment id="20">É a pessoa que vem de fora para comprar aqui.</segment>
+    <segment id="21">Quem gastava R$ 200 mil ou R$ 300 mil para revender</segment>
+    <segment id="22">, hoje gasta R$ 60 mil.</segment>
+    <segment id="23">Se ele não vende</segment>
+    <segment id="24">, ele não compra"</segment>
+    <segment id="25">, afirma.</segment>
+    <segment id="26">Joana Cunha com Paulo Ricardo Martins e Diego</segment>
+    <segment id="27">Felix</segment>
+  </rst>
+</analysis>

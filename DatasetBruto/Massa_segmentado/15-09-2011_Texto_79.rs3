@@ -1,0 +1,58 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Setenta mil trabalhadores do ABC iniciam estado de greve</segment>
+    <segment id="2">SÃO PAULO - Cerca de 70 mil metalúrgicos do ABC paulista estão em estado de greve desde essa quinta-feira.</segment>
+    <segment id="3">Após rejeitarem proposta de reajuste salarial apresentada pelas empresas da região.</segment>
+    <segment id="4">São trabalhadores de autopeças</segment>
+    <segment id="5">, fundição e estamparia de Diadema</segment>
+    <segment id="6">, que negociam em grupo com seis sindicatos patronais.</segment>
+    <segment id="7">Representados pelo Sindicato dos Metalúrgicos do ABC</segment>
+    <segment id="8">, ligado à CUT</segment>
+    <segment id="9">, eles reivindicam as mesmas condições acertadas por seus colegas das montadoras - 10% de reajuste (sendo 2</segment>
+    <segment id="10">,55% de aumento real)</segment>
+    <segment id="11">, abono e outros benefícios.</segment>
+    <segment id="12">Os seis grupos patronais ofereceram reajustes de 8% a 9%.</segment>
+    <segment id="13">Se não houver novas propostas das empresas até a terça-feira</segment>
+    <segment id="14">, os trabalhadores vão a assembleia votar a deflagração de greve.</segment>
+    <segment id="15">Em Campinas</segment>
+    <segment id="16">, os empregados das fábricas da Honda e da Mercedes-Benz entraram em greve na terça-feira</segment>
+    <segment id="17">, depois de rejeitarem oferta das empresas.</segment>
+    <segment id="18">Os 3.100 empregados da Honda voltaram atrás e na quarta-feira fecharam com a montadora</segment>
+    <segment id="19">, levando um aumento de 11% nos salários.</segment>
+    <segment id="20">Como a Mercedes estabeleceu um teto de 10% de reajuste</segment>
+    <segment id="21">, a greve continua.</segment>
+    <segment id="22">Na quarta-feira</segment>
+    <segment id="23">, também foi a vez dos 3</segment>
+    <segment id="24">,5 mil funcionários da Samsung cruzarem os braços.</segment>
+    <segment id="25">Eles pedem 11% de reajuste.</segment>
+    <segment id="26">Thiago Curado</segment>
+    <segment id="27">, analista da consultoria Tendências</segment>
+    <segment id="28">, diz que os elevados reajustes que os sindicatos vêm conseguindo</segment>
+    <segment id="29">, junto com o aumento de 14% no salário mínimo a partir de janeiro</segment>
+    <segment id="30">, são elementos de forte pressão sobre a inflação em 2012</segment>
+    <segment id="31">, para quando já</segment>
+    <segment id="32">sese prevê alta acima de 5% no IPCA.</segment>
+  </rst>
+</analysis>

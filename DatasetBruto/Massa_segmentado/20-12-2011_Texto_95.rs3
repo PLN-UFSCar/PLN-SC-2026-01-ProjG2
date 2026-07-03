@@ -1,0 +1,51 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Flu perde a final do Brasileiro sub-20 para o América-MG
+RIO - O América-MG conquistou o título do Campeonato Brasileiro sub-20 na noite desta terça-feira</segment>
+    <segment id="2">, em Porto Alegre</segment>
+    <segment id="3">, com uma vitória por 2 a 1</segment>
+    <segment id="4">, de virada</segment>
+    <segment id="5">, sobre o Fluminense.</segment>
+    <segment id="6">O jogo</segment>
+    <segment id="7">, disputado no estádio Passo d'Areia</segment>
+    <segment id="8">, teve final emocionante: o gol decisivo saiu já nos acréscimos</segment>
+    <segment id="9">, quando parecia que a decisão seria nos pênaltis.</segment>
+    <segment id="10">O Fluminense abriu o placar logo aos oito minutos de partida.</segment>
+    <segment id="11">Michael recebeu lançamento livre na área</segment>
+    <segment id="12">, dominou bem e bateu de voleio para marcar um golaço.</segment>
+    <segment id="13">A vantagem</segment>
+    <segment id="14">, porém</segment>
+    <segment id="15">porém, não durou muito.</segment>
+    <segment id="16">Aos 20</segment>
+    <segment id="17">, Wellington fez pênalti em Flávio.</segment>
+    <segment id="18">China bateu bem para igular para os mineiros.</segment>
+    <segment id="19">Depois de um segundo tempo arrastado</segment>
+    <segment id="20">, com poucas conclusões</segment>
+    <segment id="21">, a decisão parecia que iria os pênaltis.</segment>
+    <segment id="22">Mas aos 46 minutos saiu o gol do título dos mineiros.</segment>
+    <segment id="23">Após cobrança de escanteio da direita</segment>
+    <segment id="24">, Lula ganhou pelo alto e desviou para fazer 2 a 1.</segment>
+  </rst>
+</analysis>

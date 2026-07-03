@@ -1,0 +1,103 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Faixa exclusiva para ônibus começa a funcionar na Avenida Rio Branco
+RIO - Começa às 6h desta quinta-feira</segment>
+    <segment id="2">, em pleno rush de fim de ano - que já deixou os acessos ao Rio congestionados na quarta-feira - o sistema Bus Rapid Service (BRS) da Avenida Rio Branco</segment>
+    <segment id="3">, no Centro.</segment>
+    <segment id="4">Os itinerários de 61 linhas intermunicipais sofrerão alterações.</segment>
+    <segment id="5">Essas linhas</segment>
+    <segment id="6">, que transportam 3</segment>
+    <segment id="7">,6 milhões de passageiros por mês e têm frota de 772 veículos</segment>
+    <segment id="8">, não poderão mais parar ao longo da Rio Branco.</segment>
+    <segment id="9">Esses coletivos só vão ser autorizados a desembarcar e pegar passageiros na Avenida Presidente Vargas</segment>
+    <segment id="10">, na Rua Araújo Porto Alegre e nos seus terminais.</segment>
+    <segment id="11">A mão da Rua Senador Dantas e de outras três vias - Avenida Luis de Vasconcelos</segment>
+    <segment id="12">; Rua Lelio Gama (trecho entre a Avenida Chile e Senador Dantas) e Rua do Carmo (trecho da São José para Rua da Assembleia) - serão invertidas.</segment>
+    <segment id="13">Desde a madrugada de anteontem a prefeitura faz as adaptações necessárias nessas vias</segment>
+    <segment id="14">, o que ocasionou congestionamentos na quarta.</segment>
+    <segment id="15">Também foram alterados os itinerários de todas as linhas que dobravam à esquerda na Avenida Rio Branco</segment>
+    <segment id="16">, que passarão a circular pela Rua Senador Dantas.</segment>
+    <segment id="17">O BRS funcionará nos dias úteis até as 21h e</segment>
+    <segment id="18">, nos sábados</segment>
+    <segment id="19">, até as 14h.</segment>
+    <segment id="20">Nos domingos e feriados a passagem de automóveis no corredor ficará liberada.</segment>
+    <segment id="21">A Secretaria municipal de Transportes estima que</segment>
+    <segment id="22">, com o novo corredor exclusivo para ônibus</segment>
+    <segment id="23">, haverá redução de cerca de 45% do total de coletivos que trafegam pela avenida.</segment>
+    <segment id="24">O tempo total gasto para percorrer a via</segment>
+    <segment id="25">, num coletivo</segment>
+    <segment id="26">, será reduzido em 30%.
+
+- As mudanças já foram feitas e tudo funcionará positivamente.</segment>
+    <segment id="27">Os ônibus não poderão virar à esquerda na Avenida Rio Branco - disse o secretário municipal de Transportes</segment>
+    <segment id="28">, Alexandre Sansão.</segment>
+    <segment id="29">Segundo Sansão</segment>
+    <segment id="30">, o principal problema da Rio Branco eram os giro à esquerda que alguns ônibus faziam para entrar na Avenida Almirante Barroso.</segment>
+    <segment id="31">O movimento atrapalhava o fluxo.</segment>
+    <segment id="32">Com as mudanças de mão</segment>
+    <segment id="33">, os coletivos serão obrigados a entrar na Rua Senador Dantas.
+
+- A maior dificuldade que enfrentaremos será a adaptação dos ônibus intermunicipais.</segment>
+    <segment id="34">O carioca tem o hábito de atravessar fora da faixa e no meio da pista.</segment>
+    <segment id="35">Com implantação do BRS fica arriscado</segment>
+    <segment id="36">porque</segment>
+    <segment id="37">porque os coletivos ganham velocidade e aumentam os riscos de atropelamentos - disse ele.</segment>
+    <segment id="38">As mudanças no tráfego da região já começaram no início da semana</segment>
+    <segment id="39">, com seis linhas de ônibus (107</segment>
+    <segment id="40">, 136, 157</segment>
+    <segment id="41">, 158, 176 e 184) que circulavam pela Rua Senador Dantas tendo seus itinerários alterados para a Avenida Rio Branco.</segment>
+    <segment id="42">O Centro vai ganhar cinco pontos diferentes de BRS (BRS 1</segment>
+    <segment id="43">, BRS 2</segment>
+    <segment id="44">, BRS 3</segment>
+    <segment id="45">, BRS 4 e BRS 5).</segment>
+    <segment id="46">Próximo BRS será na Avenida Presidente Vargas</segment>
+    <segment id="47">Na quarta-feira foram transferidos os pontos terminais localizados na Rua Araújo Porto Alegre para o Terminal Misericórdia (na Praça Quinze)</segment>
+    <segment id="48">, com alterações nos itinerários das linhas 348</segment>
+    <segment id="49">, 352 e 368.</segment>
+    <segment id="50">Os terminais localizados na Avenida Almirante Barroso - na pista sentido Antônio Carlos-Rio Branco - foram transferidos para a Avenida Nilo Peçanha</segment>
+    <segment id="51">, entre as Avenidas Presidente Antônio Carlos e Graça Aranha</segment>
+    <segment id="52">, com mudanças nos itinerários das linhas 2295</segment>
+    <segment id="53">, 2302 e 2305.</segment>
+    <segment id="54">Com o novo BRS da Avenida Rio Branco</segment>
+    <segment id="55">, os usuários das linhas intermunicipais</segment>
+    <segment id="56">, vindas em sua maior parte da Baixada Fluminense</segment>
+    <segment id="57">, Niterói e São Gonçalo</segment>
+    <segment id="58">, terão que desembarcar na Rio Branco somente entre a Praça Mauá e a Avenida Presidente Vargas ou nas paradas do Mergulhão da Praça Quinze e do trecho entre este e os pontos finais de cada trajeto nos terminais Augusto Severo</segment>
+    <segment id="59">, Menezes Cortes</segment>
+    <segment id="60">, Passeio e Misericórdia.</segment>
+    <segment id="61">Apesar do otimismo</segment>
+    <segment id="62">, a rápida implementação do sistema foi criticada pelo Departamento de Transportes Rodoviários (Detro)</segment>
+    <segment id="63">, responsável pela fiscalização das linhas intermunicipais.</segment>
+    <segment id="64">Segundo o presidente em exercício do órgão</segment>
+    <segment id="65">, Alcino Carvalho</segment>
+    <segment id="66">, as mudanças foram repassadas ao Detro às vésperas de serem feitas:
+
+- Isso dificultou a adequação da operação da frota intermunicipal e a comunicação antecipada aos usuários.</segment>
+    <segment id="67">Este é o segundo BRS no Centro do Rio</segment>
+    <segment id="68">, onde já opera o da Rua Primeiro de Março/ Avenida Presidente Antônio Carlos.</segment>
+    <segment id="69">A prefeitura anunciou que o próximo BRS será o da Avenida Presidente Vargas</segment>
+    <segment id="70">, já em janeiro.</segment>
+  </rst>
+</analysis>

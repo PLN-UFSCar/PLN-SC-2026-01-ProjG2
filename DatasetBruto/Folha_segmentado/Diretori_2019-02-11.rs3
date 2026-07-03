@@ -1,0 +1,107 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente do Flamengo</segment>
+    <segment id="2">, Rodolfo Landim</segment>
+    <segment id="3">, sese recusou nesta segunda-feira (11) a responder perguntas da imprensa sobre o incêndio que matou dez pessoas no centro de treinamento do clube na sexta (8).</segment>
+    <segment id="4">Ele participou de reunião com autoridades no Ministério Público do Rio de Janeiro</segment>
+    <segment id="5">, na qual foram discutidas ações de apoio às famílias das vítimas.  É o quarto dia consecutivo sem respostas por parte do clube.</segment>
+    <segment id="6">Assim como</segment>
+    <segment id="7">como no dia do incêndio</segment>
+    <segment id="8">, Landim fez um pronunciamento</segment>
+    <segment id="9">, masmas saiu sem responder a perguntas.</segment>
+    <segment id="10">No sábado</segment>
+    <segment id="11">, o diretor-executivo do Flamengo</segment>
+    <segment id="12">, Reinaldo Belotti</segment>
+    <segment id="13">, fez pronunciamento na sede do clube</segment>
+    <segment id="14">, masmas também saiu sem permitir questionamentos.</segment>
+    <segment id="15">Permanecem sem repostas</segment>
+    <segment id="16">questões sobre por que os jovens dormiam em alojamento provisório não vistoriado pelo Corpo de Bombeiros</segment>
+    <segment id="17">, por que o clube mantém atividades em um centro de treinamentos que não tem alvará da prefeitura</segment>
+    <segment id="18">, porque</segment>
+    <segment id="19">porque não havia monitores próximos aos jogadores</segment>
+    <segment id="20">, todos eles menores de idade</segment>
+    <segment id="21">, dentre outras.</segment>
+    <segment id="22">Bandeira do Flamengo no CT do Ninho do Urubu -CARL DE SOUZA-8.fev.2019/AFPEm seu discurso no Ministério Público</segment>
+    <segment id="23">, Landim disse que o Flamengo espera resolver o mais rápido possível as questões legais para manter a operação do CT e que o foco no primeiro momento era dar assistência às famílias.</segment>
+    <segment id="24">“Não poupamos recursos para tentar minimizar a dor das famílias”</segment>
+    <segment id="25">, disse.</segment>
+    <segment id="26">Ele defendeu que as atividades do centro de treinamento seja retomadas</segment>
+    <segment id="27">, alegando que “uma série de rapazes têm a vida em torno daquele centro de treinamento”.</segment>
+    <segment id="28">“Oferecemos educação</segment>
+    <segment id="29">, assistência médica</segment>
+    <segment id="30">, assistência odontológica.</segment>
+    <segment id="31">É fundamental que a gente dê continuidade ao trabalho que a gente tem feito”</segment>
+    <segment id="32">, afirmou.</segment>
+    <segment id="33">Nesta terça</segment>
+    <segment id="34">, o local será vistoriado por representantes do Ministério Público</segment>
+    <segment id="35">, Ministério Público do Trabalho</segment>
+    <segment id="36">, Defensoria Pública</segment>
+    <segment id="37">, prefeitura e Corpo de Bombeiros.</segment>
+    <segment id="38">"</segment>
+    <segment id="39">Amanhã começamos perícias amplas sobre as condições do centro de treinamento para ver</segment>
+    <segment id="40">sese há necessidade de interrupção plena ou parcial das atividades"</segment>
+    <segment id="41">, disse o procurador-geral do Rio</segment>
+    <segment id="42">, Eduardo Gussem.</segment>
+    <segment id="43">Ele defendeu que a ação da Promotoria no</segment>
+    <segment id="44">casocaso está sendo rápida.</segment>
+    <segment id="45">"Estamos nos reunindo no primeiro dia útil após o evento"</segment>
+    <segment id="46">, respondeu</segment>
+    <segment id="47">, quando perguntado</segment>
+    <segment id="48">porque</segment>
+    <segment id="49">porque não houve medidas preventivas antes do incêndio.</segment>
+    <segment id="50">O clube foi multado 31 vezes pela prefeitura por falta de documentação legal.</segment>
+    <segment id="51">Incêndio no Ninho do Urubu   novamente         de   de  de  representando um  "</segment>
+    <segment id="52">Não houve</segment>
+    <segment id="53">, por parte do Corpo de Bombeiros</segment>
+    <segment id="54">, nenhum pedido</segment>
+    <segment id="55">para que</segment>
+    <segment id="56">para que avaliássemos a situação [das instalações]"</segment>
+    <segment id="57">, afirmou o procurador-chefe do Ministério Público do Trabalho do Rio</segment>
+    <segment id="58">, Fábio Goulart Villela.</segment>
+    <segment id="59">Ele disse que</segment>
+    <segment id="60">, agora</segment>
+    <segment id="61">, vai iniciar fiscalizações em centros de treinamento dos outros clubes do Rio.</segment>
+    <segment id="62">As autoridades presentes evitaram comentários sobre responsabilização criminal</segment>
+    <segment id="63">, alegando que é necessário esperar o resultado das investigações.</segment>
+    <segment id="64">"</segment>
+    <segment id="65">Não quero cometer juízo de valor sem avaliar laudos técnicos"</segment>
+    <segment id="66">, disse Villela.</segment>
+    <segment id="67">"</segment>
+    <segment id="68">Só ao final da investigação da Polícia Civil é que teremos as devidas explicações"</segment>
+    <segment id="69">, afirmou o chefe da Defensoria Pública</segment>
+    <segment id="70">, Rodrigo Pacheco.    Indenizações  Landim disse que o clube tem o interesse em indenizar as famílias "o mais rápido possível".</segment>
+    <segment id="71">Foi criado um grupo com participação do Ministério Público do Trabalho e da Defensoria Pública para negociar indenizações.</segment>
+    <segment id="72">De acordo com o chefe da Defensoria Pública</segment>
+    <segment id="73">, uma indenização negociada pode agilizar o pagamento às vítimas.</segment>
+    <segment id="74">Segundo ele</segment>
+    <segment id="75">, a falta de documentos para funcionamento do CT não interfere no valor das indenizações.</segment>
+    <segment id="76">As autoridades não falaram em valores</segment>
+    <segment id="77">, alegando que é preciso negociar com as famílias.</segment>
+    <segment id="78">Pacheco disse que famílias que não aceitarem as negociações poderão recorrer à Justiça</segment>
+    <segment id="79">, masmas que o processo é mais demorado.</segment>
+    <segment id="80">As autoridades agendaram nova reunião com o clube para a próxima sexta (15).</segment>
+    <segment id="81">Jogadores do Flamengo são enterrados   novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,66 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Em artigo sobre fake news</segment>
+    <segment id="2">, o pesquisador Marcos Palacios relata uma palestra de Ralph Pulitzer para alunos do curso de jornalismo da Universidade de Columbia —fundado em 1912 com o apoio de seu pai</segment>
+    <segment id="3">, Joseph Pulitzer</segment>
+    <segment id="4">, dono do jornal The World.</segment>
+    <segment id="5">Ralph falou sobre a pressão terrível de trabalhar com 160 mil palavras escritas por 2.000 colaboradores</segment>
+    <segment id="6">, reduzidas para 60 mil por editores e impressas por 56 operadores de linotipos: "</segment>
+    <segment id="7">É desencorajadoramente grande a chance de imprecisões não deliberadas".</segment>
+    <segment id="8">Não à toa</segment>
+    <segment id="9">, em 1913</segment>
+    <segment id="10">, o The World criou um pioneiro setor de checagem.</segment>
+    <segment id="11">No começo do século 20</segment>
+    <segment id="12">, surgem os primeiros códigos deontológicos e manuais técnicos do jornalismo.</segment>
+    <segment id="13">Mulher usa celular na avenida Paulista</segment>
+    <segment id="14">, em São Paulo  - Eduardo Knapp - 11.jul.22/FolhapressSe a chance de imprecisão já é grande na comunicação impressa</segment>
+    <segment id="15">, o que dizer naquelas em tempo real</segment>
+    <segment id="16">, como</segment>
+    <segment id="17">como TV ao vivo e internet?</segment>
+    <segment id="18">O cuidado com a veracidade deve ser redobrado num ecossistema midiático acelerado que estimula cacofonia informacional</segment>
+    <segment id="19">, pressão pelo furo e guerra por clicks.</segment>
+    <segment id="20">A imprensa</segment>
+    <segment id="21">, porém</segment>
+    <segment id="22">porém, vem</segment>
+    <segment id="23">sese deixando levar.</segment>
+    <segment id="24">O recente fenômeno de apresentadores de telejornais que repassam em tempo real informações recebidas pelo celular</segment>
+    <segment id="25">, por exemplo</segment>
+    <segment id="26">, é um acinte ao método da checagem.</segment>
+    <segment id="27">Tal prática prejudica não apenas o público e o alvo das inverdades</segment>
+    <segment id="28">, como</segment>
+    <segment id="29">como o próprio jornalismo</segment>
+    <segment id="30">, que recebe a pecha de fake news.</segment>
+    <segment id="31">De modo geral</segment>
+    <segment id="32">, pesquisas apontam que esse conceito designa informação falsa fabricada de modo deliberado com formato e distribuição que emulam a imprensa profissional —ou seja</segment>
+    <segment id="33">, não há correlação com falhas técnicas de jornalistas.</segment>
+    <segment id="34">Mas, nos últimos anos</segment>
+    <segment id="35">, o termo foi apropriado pela ideologia</segment>
+    <segment id="36">, na direita e na esquerda</segment>
+    <segment id="37">, para atacar notícias que criticam políticas de governo.</segment>
+    <segment id="38">Desprezar a verificação de fatos abre flanco para esse tipo de discurso.</segment>
+    <segment id="39">Profissionais e veículos não podem ser ingênuos e embarcar cegamente na onda sedutora de novas tecnologias.</segment>
+    <segment id="40">A boa e velha checagem ainda é o pilar fundamental dessa atividade essencial à democracia.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,64 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O pedido de recuperação judicial da 123milhas cita ao menos 719.440 credores entre pessoas físicas e jurídicas.</segment>
+    <segment id="2">Na lista</segment>
+    <segment id="3">, estão compradores de passagens e acomodações com datas flexíveis e de pacotes normais</segment>
+    <segment id="4">, além de micro e pequenas empresas</segment>
+    <segment id="5">, como</segment>
+    <segment id="6">como hotéis e pousadas.</segment>
+    <segment id="7">O DeltaFolha compilou os nomes de todos os credores em uma tabela interativa para facilitar a consulta.</segment>
+    <segment id="8">A lista</segment>
+    <segment id="9">, apresentada pela empresa no processo de recuperação judicial em 29 de agosto de 2023 e obtida pela Folha</segment>
+    <segment id="10">, originalmente estava disponível apenas em formato PDF.</segment>
+    <segment id="11">Novos nomes ainda podem ser acrescentados pela 123milhas no correr do processo.</segment>
+    <segment id="12">O buscador pode reproduzir erros de grafia presentes nos arquivos originais da empresa.</segment>
+    <segment id="13">A lista apresenta homônimos</segment>
+    <segment id="14">, que podem ser diferenciados pelo valor do débito citado pela 123milhas.</segment>
+    <segment id="15">O nome Maria Silva</segment>
+    <segment id="16">, por exemplo</segment>
+    <segment id="17">, aparece 85 vezes com montantes diferentes.</segment>
+    <segment id="18">Busque a pessoa de seu interesse no campo "Procure por nome".</segment>
+    <segment id="19">Digitar todos os sobrenomes na ordem correta melhora o resultado da pesquisa.</segment>
+    <segment id="20">A aplicação pode demorar um pouco a carregar em função do tamanho da lista.</segment>
+    <segment id="21">ORDEM DE PAGAMENTO</segment>
+    <segment id="22">A prioridade de pagamentos dos credores depende do plano proposto pela empresa</segment>
+    <segment id="23">, que ainda precisa ser aprovado.</segment>
+    <segment id="24">Na recuperação judicial</segment>
+    <segment id="25">, diferentemente da falência</segment>
+    <segment id="26">, a ordem não é rígida</segment>
+    <segment id="27">, masmas negociável.</segment>
+    <segment id="28">Leia tambémClientes da 123milhas com passagens aéreas emitidas vão embarcar</segment>
+    <segment id="29">, garante AnacNa falência</segment>
+    <segment id="30">, recebem primeiro os credores trabalhistas</segment>
+    <segment id="31">, depois os tributários e</segment>
+    <segment id="32">, em seguida</segment>
+    <segment id="33">, os quirografários</segment>
+    <segment id="34">, que não têm a garantia real de recebimento.</segment>
+    <segment id="35">Essa é a categoria com mais afetados pela crise da agência de turismo online</segment>
+    <segment id="36">, somando aproximadamente R$ 2</segment>
+    <segment id="37">,2 bilhões a receber.</segment>
+    <segment id="38">Entenda a crise da 123milhasMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

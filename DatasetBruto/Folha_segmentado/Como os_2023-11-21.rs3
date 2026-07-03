@@ -1,0 +1,202 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Por volta das 2h da manhã do dia 19 de março</segment>
+    <segment id="2">, Adam Wood</segment>
+    <segment id="3">, um bombeiro de plantão em San Francisco</segment>
+    <segment id="4">, recebeu uma ligação de emergência e correu para o bairro Mission da cidade para ajudar um homem que estava tendo uma emergência médica.</segment>
+    <segment id="5">Depois de colocar o paciente em uma ambulância</segment>
+    <segment id="6">, um carro preto e branco parou e bloqueou o caminho.</segment>
+    <segment id="7">Era um veículo autônomo operado pela Waymo</segment>
+    <segment id="8">, uma empresa de carros autônomos de propriedade da Alphabet</segment>
+    <segment id="9">, empresa-mãe do Google.</segment>
+    <segment id="10">Sem um motorista humano para instruir a sair do caminho</segment>
+    <segment id="11">, Wood falou através de um dispositivo no carro com um operador remoto</segment>
+    <segment id="12">, que disse que alguém viria buscar o veículo.</segment>
+    <segment id="13">Táxi autônomo da empresa Waymo em frente à Praça Alamo</segment>
+    <segment id="14">, em São Francisco</segment>
+    <segment id="15">, nos EUA.</segment>
+    <segment id="16">O veículo é um modelo da Jaguar - Andri Tambunan/The New York TimesEm vez disso</segment>
+    <segment id="17">, outro carro autônomo da Waymo chegou e bloqueou o outro lado da rua</segment>
+    <segment id="18">, disse Wood.</segment>
+    <segment id="19">A ambulância finalmente conseguiu sair depois de ser forçada a dar marcha à ré</segment>
+    <segment id="20">, e o paciente</segment>
+    <segment id="21">, que não estava em estado crítico</segment>
+    <segment id="22">, chegou ao hospital.</segment>
+    <segment id="23">Mas os carros autônomos acrescentaram sete minutos à resposta de emergência</segment>
+    <segment id="24">, disse ele.</segment>
+    <segment id="25">Sua experiência foi um sinal de</segment>
+    <segment id="26">comocomo os táxis autônomos estão cada vez mais afetando os serviços da cidade.</segment>
+    <segment id="27">Em San Francisco e Austin</segment>
+    <segment id="28">, Texas</segment>
+    <segment id="29">, onde os passageiros podem chamar veículos autônomos</segment>
+    <segment id="30">, os carros têm retardado os tempos de resposta de emergência</segment>
+    <segment id="31">, causado acidentes</segment>
+    <segment id="32">, aumentado o congestionamento e elevado a carga de trabalho de funcionários locais</segment>
+    <segment id="33">, disseram policiais</segment>
+    <segment id="34">, bombeiros e outros funcionários da cidade.</segment>
+    <segment id="35">Em San Francisco</segment>
+    <segment id="36">, mais de 600 incidentes envolvendo veículos autônomos foram documentados de junho de 2022 a junho de 2023</segment>
+    <segment id="37">, de acordo com a Agência de Transporte Municipal da cidade.</segment>
+    <segment id="38">Após um episódio em que um carro autônomo da Cruise</segment>
+    <segment id="39">, uma subsidiária da General Motors</segment>
+    <segment id="40">, atropelou e arrastou um pedestre</segment>
+    <segment id="41">, os reguladores da Califórnia ordenaram que a empresa suspendesse seu serviço no mês passado.</segment>
+    <segment id="42">Kyle Vogt</segment>
+    <segment id="43">, CEO da Cruise</segment>
+    <segment id="44">, renunciou no domingo (19).</segment>
+    <segment id="45">Em Austin</segment>
+    <segment id="46">, autoridades da cidade disseram que houve 52 incidentes com carros sem motoristas de 8 de julho a 24 de outubro</segment>
+    <segment id="47">, incluindo um acidente inédito de um protótipo de táxi-robô sem volante em um "pequeno prédio elétrico".</segment>
+    <segment id="48">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="49">; aberta para não assinantes.</segment>
+    <segment id="50">Carregando...</segment>
+    <segment id="51">Para lidar com as consequências</segment>
+    <segment id="52">, San Francisco designou pelo menos um funcionário da cidade para trabalhar em políticas de carros autônomos e pediu a duas agências de transporte que compilassem e gerenciassem um banco de dados de incidentes com base em chamadas de emergência</segment>
+    <segment id="53">, postagens em redes sociais e relatórios de funcionários.</segment>
+    <segment id="54">Neste verão (nos EUA</segment>
+    <segment id="55">, inverno no Brasil)</segment>
+    <segment id="56">, Austin também criou uma força-tarefa interna para ajudar a registrar incidentes com esse tipo de veículo.  "</segment>
+    <segment id="57">Muitas pessoas na força-tarefa estão lidando com isso</segment>
+    <segment id="58">, além das operações normais do dia a dia"</segment>
+    <segment id="59">, disse Matthew McElearney</segment>
+    <segment id="60">, capitão de treinamento no Departamento de Bombeiros de Austin. "</segment>
+    <segment id="61">Na minha descrição de trabalho</segment>
+    <segment id="62">, não diz 'membro da força-tarefa'".</segment>
+    <segment id="63">San Francisco e Austin dão uma mostra do que esperar em outros lugares.</segment>
+    <segment id="64">Embora os carros sem motorista tenham sido testados em mais de duas dúzias de cidades dos EUA ao longo dos anos</segment>
+    <segment id="65">, esses testes passaram para uma fase mais recente em que motoristas humanos —que antes acompanhavam as corridas de veículos autônomos— não permanecem mais nos carros durante o trajeto.</segment>
+    <segment id="66">A Waymo e a Cruise</segment>
+    <segment id="67">, então</segment>
+    <segment id="68">, começaram a oferecer serviços de táxi totalmente autônomos em algumas cidades com esses carros.</segment>
+    <segment id="69">A Cruise suspendeu suas operações de veículos autônomos desde então.</segment>
+    <segment id="70">Mas a Waymo e outras continuam desenvolvendo e testando seus carros em mercados potenciais e a tecnologia</segment>
+    <segment id="71">sese espalhará</segment>
+    <segment id="72">, disse Bryant Walker Smith</segment>
+    <segment id="73">, professor da Universidade da Carolina do Sul que auxiliou o governo federal na direção automatizada.</segment>
+    <segment id="74">A Cruise testou seus táxis sem motorista em San Francisco</segment>
+    <segment id="75">, Austin e Phoenix e planejava expandir para Houston</segment>
+    <segment id="76">, Dallas e Miami.</segment>
+    <segment id="77">A Waymo</segment>
+    <segment id="78">, que oferece as corridas sem motorista em Phoenix e San Francisco</segment>
+    <segment id="79">, anunciou que lançará seus serviços em Los Angeles e Austin.</segment>
+    <segment id="80">A Zoox</segment>
+    <segment id="81">, outra empresa de carros autônomos</segment>
+    <segment id="82">, disse que planejava introduzir táxi-robôs em San Francisco e Las Vegas</segment>
+    <segment id="83">, masmas não divulgou rm quanto tempo.</segment>
+    <segment id="84">Veja fotos de uma viagem no táxi-robôMais    novamente         de   de  de  representando um  Outras cidades onde carros autônomos foram testados estão</segment>
+    <segment id="85">sese preparando para quando os táxi-robôs forem totalmente implantados.</segment>
+    <segment id="86">O Corpo de Bombeiros de Nashville disse que estava criando um treinamento anual para bombeiros sobre os carros.</segment>
+    <segment id="87">O Departamento de Bombeiros de Seattle afirmou que incluiu questões de segurança com carros sem motorista às responsabilidades de um funcionário durante cada turno.</segment>
+    <segment id="88">Outros municípios disseram que sua experiência com táxi-robôs foi mais tranquila.</segment>
+    <segment id="89">Kate Gallego</segment>
+    <segment id="90">, prefeita de Phoenix</segment>
+    <segment id="91">, onde a Waymo opera serviços de táxi autônomo desde 2020</segment>
+    <segment id="92">, disse que a empresa</segment>
+    <segment id="93">sese reuniu de maneira extensa com autoridades locais e realizou testes de segurança antes de implantar uma frota de 200 veículos em locais</segment>
+    <segment id="94">comocomo o aeroporto.</segment>
+    <segment id="95">Poucas cidades lidaram tanto com carros autônomos quanto San Francisco.</segment>
+    <segment id="96">O Google</segment>
+    <segment id="97">, cuja sede fica próxima ao Vale do Silício</segment>
+    <segment id="98">, começou a testar veículos sem motorista na cidade em 2009 e introduziu serviços de táxi-robô em novembro de 2022.</segment>
+    <segment id="99">A Cruise</segment>
+    <segment id="100">, fundada em San Francisco em 2013</segment>
+    <segment id="101">, passou a testar seus veículos na cidade em 2015 e ofereceu sua primeira viagem sem motorista para passageiros em fevereiro de 2022.</segment>
+    <segment id="102">Centenas de carros percorreram as ruas de San Francisco desde então.</segment>
+    <segment id="103">Em um determinado momento</segment>
+    <segment id="104">, a Waymo tinha 250 veículos sem motorista na cidade</segment>
+    <segment id="105">, enquanto a Cruise tinha 300 durante o dia e 100 à noite.</segment>
+    <segment id="106">Os moradores frequentemente viam os carros —sedãs equipados com mais de uma dúzia de câmeras e sensores de alta tecnologia</segment>
+    <segment id="107">, parte girando no teto— passando.</segment>
+    <segment id="108">Em julho de 2018</segment>
+    <segment id="109">, a Agência de Transporte Municipal da cidade pediu a Julia Friedlander</segment>
+    <segment id="110">, especialista em políticas de transporte</segment>
+    <segment id="111">, para saber</segment>
+    <segment id="112">comocomo San Francisco seria afetada pelos carros autônomos.</segment>
+    <segment id="113">Ela se</segment>
+    <segment id="114">se reuniu com empresas de carros autônomos e reguladores estaduais</segment>
+    <segment id="115">, que emitem licenças para as empresas testarem e operarem seus veículos</segment>
+    <segment id="116">, para discutir as preocupações da cidade com segurança e congestionamento.</segment>
+    <segment id="117">Após cinco anos</segment>
+    <segment id="118">, ainda não há padrões de relatórios de segurança e de incidentes para carros sem motorista na Califórnia</segment>
+    <segment id="119">, disse Friedlander.</segment>
+    <segment id="120">"</segment>
+    <segment id="121">Essa é uma mudança tão dramática no transporte que levará muitos anos</segment>
+    <segment id="122">para que</segment>
+    <segment id="123">para que a estrutura regulatória seja realmente finalizada"</segment>
+    <segment id="124">, disse ela.</segment>
+    <segment id="125">Desvendando IAUm guia do New York Times em formato de newsletter para você entender</segment>
+    <segment id="126">comocomo funciona a IACarregando...</segment>
+    <segment id="127">No ano passado</segment>
+    <segment id="128">, o número de chamadas de emergência de moradores de San Francisco sobre táxi-robôs começou a aumentar</segment>
+    <segment id="129">, segundo autoridades locais.</segment>
+    <segment id="130">Em um período de três meses</segment>
+    <segment id="131">, foram relatados 28 incidentes</segment>
+    <segment id="132">, de acordo com uma carta enviada por autoridades da cidade à Administração Nacional de Segurança do Tráfego Rodoviário.</segment>
+    <segment id="133">Até junho</segment>
+    <segment id="134">, os incidentes com carros autônomos em San Francisco haviam aumentado para um nível</segment>
+    <segment id="135">"preocupante" a ponto de o Departamento de Bombeiros da cidade criar um formulário voltado para incidentes envolvendo veículos autônomos</segment>
+    <segment id="136">, disse Darius Luttropp</segment>
+    <segment id="137">, vice-chefe do departamento.</segment>
+    <segment id="138">Até 15 de outubro</segment>
+    <segment id="139">, 87 incidentes foram comunicados com o formulário.</segment>
+    <segment id="140">"</segment>
+    <segment id="141">Seguimos em frente com a expectativa de que essa maravilhosa tecnologia funcionará</segment>
+    <segment id="142">comocomo um motorista humano"</segment>
+    <segment id="143">, disse Luttropp.</segment>
+    <segment id="144">"</segment>
+    <segment id="145">Isso não</segment>
+    <segment id="146">sese mostrou verdadeiro.</segment>
+    <segment id="147">"  Wood participou de uma sessão de treinamento de uma semana realizada pela Waymo em junho no centro de treinamento do Departamento de Bombeiros para aprender mais sobre os veículos autônomos.</segment>
+    <segment id="148">Mas ele disse que ficou desapontado.  "</segment>
+    <segment id="149">Saímos do treinamento sem saber</segment>
+    <segment id="150">comocomo fazer um carro parado</segment>
+    <segment id="151">sese mover"</segment>
+    <segment id="152">, afirmou o bombeiro</segment>
+    <segment id="153">, acrescentando que assumir manualmente o controle do carro leva 10 minutos</segment>
+    <segment id="154">, o que é muito tempo em uma emergência.</segment>
+    <segment id="155">Sua principal conclusão foi que ele deveria bater na janela do carro ou tocar em sua porta para poder falar com o operador remoto do veículo.</segment>
+    <segment id="156">O operador</segment>
+    <segment id="157">, então</segment>
+    <segment id="158">, tentaria religar o veículo remotamente ou enviar alguém para assumir o controle manualmente.</segment>
+    <segment id="159">A Waymo disse que atualizou o software para seus carros em outubro</segment>
+    <segment id="160">, o que permitiria que bombeiros e outras autoridades assumissem o controle dos veículos em questão de segundos.</segment>
+    <segment id="161">Após a Comissão de Serviços Públicos da Califórnia</segment>
+    <segment id="162">, um órgão regulador estadual</segment>
+    <segment id="163">, votar em agosto para permitir a expansão dos serviços de táxi-robôs em San Francisco</segment>
+    <segment id="164">, a Waymo e a Cruise começaram a</segment>
+    <segment id="165">sese reunir a cada duas semanas com os departamentos de bombeiros</segment>
+    <segment id="166">, polícia e gerenciamento de emergências da cidade.</segment>
+    <segment id="167">Jeanine Nicholson</segment>
+    <segment id="168">, chefe dos bombeiros de San Francisco</segment>
+    <segment id="169">, afirmou que seu departamento está agora em uma negociação melhor com as empresas e acrescentou que a suspensão da Cruise ofereceu um tempo maior</segment>
+    <segment id="170">para que</segment>
+    <segment id="171">para que buscar a resolução de situações de emergência.</segment>
+    <segment id="172">Mas ela previu mais reuniões e ajustes à medida que outras empresas de veículos autônomos sejam incluídas.  "</segment>
+    <segment id="173">O tempo está rolando e temos um departamento de bombeiros inteiro —uma cidade inteira— para administrar"</segment>
+    <segment id="174">, disse Nicholson.  Faria Lima terá voos regulares de helicóptero para o aeroporto de Guarulhos</segment>
+    <segment id="175">; veja quanto custa e</segment>
+    <segment id="176">comocomo funcionaMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

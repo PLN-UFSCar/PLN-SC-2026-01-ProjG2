@@ -1,0 +1,123 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O mercado profetiza um início de governo assaltado por repiques de juros que anunciam um horizonte sombrio.</segment>
+    <segment id="2">A extrema direita sonha com um desastre iminente</segment>
+    <segment id="3">, acompanhado por atos golpistas multitudinários.</segment>
+    <segment id="4">Mas, e</segment>
+    <segment id="5">sese 2023 surpreender?</segment>
+    <segment id="6">Como seria um ano novo genuinamente feliz?</segment>
+    <segment id="7">Eis um roteiro imaginário.</segment>
+    <segment id="8">O presidente eleito</segment>
+    <segment id="9">, Luiz Inácio Lula da Silva - Carla Carniel-15.dez.22/Reuters 1.</segment>
+    <segment id="10">Haddad adota um plano formulado por Persio e Armínio  Março.</segment>
+    <segment id="11">O ministro da Fazenda levou ao Congresso sua proposta de nova ancoragem fiscal anticíclica.</segment>
+    <segment id="12">Nas fases de crescimento</segment>
+    <segment id="13">, faremos elevados superávits primários</segment>
+    <segment id="14">;</segment>
+    <segment id="15">nas de recessão</segment>
+    <segment id="16">, produziremos déficits</segment>
+    <segment id="17">, irrigando a economia.</segment>
+    <segment id="18">Como resultado</segment>
+    <segment id="19">, a dívida pública decrescerá paulatinamente</segment>
+    <segment id="20">comocomo proporção do PIB.</segment>
+    <segment id="21">De passagem</segment>
+    <segment id="22">, Haddad anunciou que o governo gastará de fato</segment>
+    <segment id="23">, em 2023</segment>
+    <segment id="24">, apenas cerca de dois terços do espaço fiscal aberto pela PEC da Transição.</segment>
+    <segment id="25">O mercado reagiu derrubando os juros futuros.</segment>
+    <segment id="26">O BC cortou a Selic em um ponto e anunciou viés de baixa.</segment>
+    <segment id="27">A Bolsa subiu</segment>
+    <segment id="28">, o dólar desceu</segment>
+    <segment id="29">, os empresários anunciaram vultosos investimentos.</segment>
+    <segment id="30">Haddad prometeu finalizar</segment>
+    <segment id="31">, até junho</segment>
+    <segment id="32">, o projeto de reforma tributária desenhado por Appy –e antecipou que a carga total de impostos não crescerá.</segment>
+    <segment id="33">Em maio</segment>
+    <segment id="34">, o boletim Focus previu alta do PIB de 3% e inflação no centro da meta.  2.</segment>
+    <segment id="35">Flávio Dino e José Múcio desmantelam as articulações golpistas</segment>
+    <segment id="36">No início de janeiro</segment>
+    <segment id="37">, por ordem de Dino</segment>
+    <segment id="38">, forças policiais dissolveram os acampamentos bolsonaristas instalados à frente dos quartéis.</segment>
+    <segment id="39">Inquéritos provocaram dezenas de prisões de financiadores e articuladores do golpismo.</segment>
+    <segment id="40">Fevereiro: Múcio exigiu dos comandantes militares a plena obediência à autoridade presidencial –e trocou um comandante refratário</segment>
+    <segment id="41">, transferindo-o para a reserva.</segment>
+    <segment id="42">Os militares da ativa receberam ordem para fechar suas contas em redes sociais.</segment>
+    <segment id="43">Em agosto</segment>
+    <segment id="44">, o Congresso aprovou a lei que proíbe manifestações políticas de militares da reserva remunerada.</segment>
+    <segment id="45">No mesmo mês</segment>
+    <segment id="46">, um juiz de Brasília declarou Bolsonaro réu por crimes contra a saúde pública.</segment>
+    <segment id="47">Simultaneamente</segment>
+    <segment id="48">, o Ministério da Cultura expôs o projeto de criação de um Museu sobre a Ditadura Militar</segment>
+    <segment id="49">, inspirado no Museu do Aljube</segment>
+    <segment id="50">, de Lisboa</segment>
+    <segment id="51">, e financiado em parceria público-privada.  3.</segment>
+    <segment id="52">Turnê internacional do presidente sinaliza os eixos de política externa</segment>
+    <segment id="53">Nas visitas sucessivas a Washington e Pequim</segment>
+    <segment id="54">, em fevereiro</segment>
+    <segment id="55">, Lula reafirmou as parcerias paralelas com EUA e China</segment>
+    <segment id="56">, rejeitando alinhamentos geopolíticos.</segment>
+    <segment id="57">Na Europa</segment>
+    <segment id="58">, em abril</segment>
+    <segment id="59">, desatou os nós que emperravam o acordo Mercosul/União Europeia.</segment>
+    <segment id="60">A viagem concluiu-</segment>
+    <segment id="61">sese com uma visita surpresa a Kiev.</segment>
+    <segment id="62">No gabinete de Zelenski</segment>
+    <segment id="63">, Lula condenou a agressão russa</segment>
+    <segment id="64">, defendendo a integridade territorial ucraniana.</segment>
+    <segment id="65">Marina Silva acompanhou o presidente nas visitas</segment>
+    <segment id="66">, expondo o cronograma do governo rumo à meta de desmatamento zero e firmando acordos de transferência de tecnologias de energia solar com a China e eólica</segment>
+    <segment id="67">, com a Alemanha.</segment>
+    <segment id="68">Na França</segment>
+    <segment id="69">, Alexandre Silveira</segment>
+    <segment id="70">, das Minas e Energia</segment>
+    <segment id="71">, anunciou parceria para a retomada do programa nuclear brasileiro.</segment>
+    <segment id="72">Durante a turnê europeia de Lula</segment>
+    <segment id="73">, Mauro Vieira visitou Caracas</segment>
+    <segment id="74">, reunindo-</segment>
+    <segment id="75">sese com Maduro e com líderes da oposição.</segment>
+    <segment id="76">O Itamaraty afirmou que o Brasil quer operar</segment>
+    <segment id="77">comocomo mediador para a realização de eleições livres e justas na Venezuela.</segment>
+    <segment id="78">À imprensa internacional</segment>
+    <segment id="79">, Lula declarou que "não existem ditaduras virtuosas</segment>
+    <segment id="80">, de direita ou esquerda".  4.</segment>
+    <segment id="81">Lula repete que a crítica faz bem  "</segment>
+    <segment id="82">Não deixem de cobrar.</segment>
+    <segment id="83">Não precisamos de puxa-sacos.</segment>
+    <segment id="84">Governo precisa ser cobrado.</segment>
+    <segment id="85">"</segment>
+    <segment id="86">No discurso de posse</segment>
+    <segment id="87">, Lula repetiu sua pouco divulgada afirmação de campanha.</segment>
+    <segment id="88">Depois</segment>
+    <segment id="89">, em várias entrevistas</segment>
+    <segment id="90">, esclareceu que não falava apenas para sua base política</segment>
+    <segment id="91">, masmas para todos.</segment>
+    <segment id="92">Antes de partir para Washington</segment>
+    <segment id="93">, discordou de um manifesto petista que volta a reivindicar o "controle social da mídia".</segment>
+    <segment id="94">Segundo o presidente</segment>
+    <segment id="95">, "qualquer governo erra" e</segment>
+    <segment id="96">, por isso</segment>
+    <segment id="97">, "precisa ouvir os que divergem".  Viajei?</segment>
+  </rst>
+</analysis>

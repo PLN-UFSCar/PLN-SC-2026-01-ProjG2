@@ -1,0 +1,131 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Dilma vai pro pau com AÃ©cio no 2Âº turno
+Presidente e candidato do PSDB decidem no prÃ³ximo dia 26 quem serÃ¡</segment>
+    <segment id="2">o novo lÃ­der</segment>
+    <segment id="3">Com um crescimento impressionante na reta final das eleiÃ§Ãµes presidenciais</segment>
+    <segment id="4">, o mineiro AÃ©cio Costa (PSDB) ultrapassou a candidata Marina Silva (PSB) e vai disputar o segundo turno com a presidente Dilma Rousseff (PT)</segment>
+    <segment id="5">, no prÃ³ximo dia 26.</segment>
+    <segment id="6">Com 99% das urnas apuradas</segment>
+    <segment id="7">, ontem</segment>
+    <segment id="8">, Dilma teve 41</segment>
+    <segment id="9">,58% dos votos (43.195.468)</segment>
+    <segment id="10">, contra 33</segment>
+    <segment id="11">,57% (34.869.190) de AÃ©cio.</segment>
+    <segment id="12">Marina ficou em terceiro com 21</segment>
+    <segment id="13">,32%(22.145.434 votos).</segment>
+    <segment id="14">Desde cedo</segment>
+    <segment id="15">, quando votou na seÃ§Ã£o 160 em Porto Alegre</segment>
+    <segment id="16">, a petista Dilma Rousseff jÃ¡ dava</segment>
+    <segment id="17">comocomo certa a ida para o segundo turno</segment>
+    <segment id="18">, sÃ³ nÃ£o sabia com quem.</segment>
+    <segment id="19">Ela acompanhou a apuraÃ§Ã£o dos votos no PalÃ¡cio da Alvorada</segment>
+    <segment id="20">, em BrasÃ­lia.</segment>
+    <segment id="21">Ã‰ a nossa sÃ©tima vitÃ³ria</segment>
+    <segment id="22">, sendo duas na primeira eleiÃ§Ã£o de Lula</segment>
+    <segment id="23">, mais duas na segunda eleiÃ§Ã£o de Lula</segment>
+    <segment id="24">, mais duas na minha primeira eleiÃ§Ã£o e esta agora.</segment>
+    <segment id="25">Quero agradecer aos eleitores anÃ´nimos</segment>
+    <segment id="26">, de quem eu sinto ter recebido a mensagem de que devo seguir em frenteâ€</segment>
+    <segment id="27">, falou.</segment>
+    <segment id="28">Hoje, Dilma Rousseff permanece em BrasÃ­lia</segment>
+    <segment id="29">, onde amanhÃ£ irÃ¡</segment>
+    <segment id="30">sese reunir com todos os governadores aliados para definir a estratÃ©gia no segundo turno.</segment>
+    <segment id="31">AÃ©cio</segment>
+    <segment id="32">Neves votou em Belo Horizonte.</segment>
+    <segment id="33">Essa campanha foi acima de tudo a oportunidade de um enorme aprendizado.</segment>
+    <segment id="34">Encontrei pessoas que acreditam no Brasil da esperanÃ§a.</segment>
+    <segment id="35">A partir de hoje</segment>
+    <segment id="36">, ele vai iniciar o trabalho para solidificar as alianÃ§as</segment>
+    <segment id="37">, visando virar o jogo polÃ­tico contra a presidente Dilma</segment>
+    <segment id="38">, que detÃ©m o maior nÃºmero de votos.</segment>
+    <segment id="39">Todos aqueles que quiserem dar apoio a este projeto</segment>
+    <segment id="40">, que Ã© de todos os brasileiros</segment>
+    <segment id="41">, serÃ£o bem-vindos</segment>
+    <segment id="42">, completou AÃ©cio.</segment>
+    <segment id="43">GOVERNADORES ELEITOS</segment>
+    <segment id="44">NOS PRINCIPAIS</segment>
+    <segment id="45">ESTADOS
+SÃ£o Paulo</segment>
+    <segment id="46">Alckmin reeleito</segment>
+    <segment id="47">Com 57</segment>
+    <segment id="48">,35% dos votos</segment>
+    <segment id="49">, o governador Geraldo Alckmin (PSDB) foi aprovado: conseguiu</segment>
+    <segment id="50">sese reeleger no maior colÃ©gio eleitoral do Brasil.</segment>
+    <segment id="51">Minas Gerais
+PT</segment>
+    <segment id="52">sese deu bem</segment>
+    <segment id="53">No domicÃ­lio eleitoral de AÃ©cio Neves (PSDB)</segment>
+    <segment id="54">, a vitÃ³ria para governador acabou ficando com o petista Fernando Pimentel (52</segment>
+    <segment id="55">,92%).</segment>
+    <segment id="56">Pernambuco
+VitÃ³ria do PSB</segment>
+    <segment id="57">Na terra do falecido candidato a presidente Eduardo Campos</segment>
+    <segment id="58">, do PSB</segment>
+    <segment id="59">, seu correligionÃ¡rio Paulo CÃ¢mara</segment>
+    <segment id="60">sese elegeu com 68</segment>
+    <segment id="61">,15%.</segment>
+    <segment id="62">Mais dez</segment>
+    <segment id="63">sese livram de ir para luta de novo</segment>
+    <segment id="64">Outros dez candidatos nÃ£o vÃ£o precisar fazer campanha para derrotar seus oponentes no segundo turno:</segment>
+    <segment id="65">Beto Richa (PSDB)</segment>
+    <segment id="66">, no ParanÃ¡</segment>
+    <segment id="67">;</segment>
+    <segment id="68">Jackson Barreto (PMDB)</segment>
+    <segment id="69">, em Sergipe</segment>
+    <segment id="70">;</segment>
+    <segment id="71">Raimundo ColÃ´mbo (PSD)</segment>
+    <segment id="72">, em Santa Catarina</segment>
+    <segment id="73">;</segment>
+    <segment id="74">Paulo Hartung (PMDB)</segment>
+    <segment id="75">, no EspÃ­rito Santo</segment>
+    <segment id="76">; FlÃ¡vio Dino (PC do B)</segment>
+    <segment id="77">, no MaranhÃ£o</segment>
+    <segment id="78">; Wellington Dias (PT)</segment>
+    <segment id="79">, no PiauÃ­</segment>
+    <segment id="80">; Marcelo Miranda (PMDB)</segment>
+    <segment id="81">, no Tocantins</segment>
+    <segment id="82">; Pedro Taques (PDT)</segment>
+    <segment id="83">, no Mato Grosso</segment>
+    <segment id="84">; Chico Rodrigues (PSB)</segment>
+    <segment id="85">, em Roraima e Renan Filho (PSDB)</segment>
+    <segment id="86">, em Alagoas.</segment>
+    <segment id="87">No Acre</segment>
+    <segment id="88">, com 97% das urnas apuradas</segment>
+    <segment id="89">, a eleiÃ§Ã£o estava indo para o 2Âº turno</segment>
+    <segment id="90">, o mesmo ocorria no ParÃ¡</segment>
+    <segment id="91">, com 99% .</segment>
+    <segment id="92">Outros dez estados terÃ£o eleiÃ§Ãµes dia 26:</segment>
+    <segment id="93">AmapÃ¡</segment>
+    <segment id="94">, BrasÃ­lia</segment>
+    <segment id="95">, CearÃ¡</segment>
+    <segment id="96">, GoiÃ¡s</segment>
+    <segment id="97">, ParaÃ­ba</segment>
+    <segment id="98">, Mato Grosso do Sul</segment>
+    <segment id="99">, Rio de Janeiro</segment>
+    <segment id="100">, Rio Grande do Sul</segment>
+    <segment id="101">, Rio Grande do Norte e RondÃ´nia.</segment>
+  </rst>
+</analysis>

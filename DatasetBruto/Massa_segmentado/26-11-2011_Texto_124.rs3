@@ -1,0 +1,45 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Islamistas ganham pela primeira vez eleição no Marrocos
+RABAT - Os islamistas moderados do Partido Justiça e Desenvolvimento (PJD) estão prestes a ganhar a eleição parlamentar no país</segment>
+    <segment id="2">, indica resultado parcial do pleito divulgado neste sábado.</segment>
+    <segment id="3">É o segundo partido islâmico a ganhar uma eleição no Norte da África após a "Primavera Árabe".</segment>
+    <segment id="4">Os resultados parciais apontam que os islamistas vão liderar um governo de coalizão em parceria com o partido secular conservador do primeiro-ministro demissionário e duas outras agremiações políticas.</segment>
+    <segment id="5">Ao anunciar os resultados parciais</segment>
+    <segment id="6">, o ministro do Interior Taib Cherkaoui disse que o PJD teria a maior representação no Parlamento marroquino.</segment>
+    <segment id="7">Os resultados já eram conhecidos para 288 assentos dos 395 assentos do Parlamento</segment>
+    <segment id="8">, e, pelas prévias</segment>
+    <segment id="9">, o PJD iria ter 80 representantes.
+
+Tunísia</segment>
+    <segment id="10">, berço da "Primavera Árabe"</segment>
+    <segment id="11">, contagiou o Oriente Médio no mês passado quando um partido islâmico moderado venceu a primeira eleição democrática do país.</segment>
+    <segment id="12">Marrocos não passou por uma revolução semelhante a de outros países da região</segment>
+    <segment id="13">, masmas o rei Mohammed ainda está firma no poder.</segment>
+    <segment id="14">Ele concedeu reformas limitadas para dispersar uma rebelião</segment>
+    <segment id="15">, e o PJD</segment>
+    <segment id="16">sese beneficiou do ressurgimento de islamistas radicais na região.</segment>
+  </rst>
+</analysis>

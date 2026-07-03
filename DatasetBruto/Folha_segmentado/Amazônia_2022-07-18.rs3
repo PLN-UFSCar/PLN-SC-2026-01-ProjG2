@@ -1,0 +1,154 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A cada hora o Brasil perdeu 189 hectares de vegetação nativa ao longo de 2021 —foram 4.536 hectares por dia.</segment>
+    <segment id="2">A marcha acelerada somou 16.557 quilômetros quadrados de desmate no último ano</segment>
+    <segment id="3">, equivalentes a quase três vezes a área do Distrito Federal.</segment>
+    <segment id="4">O valor é 20% superior ao de 2020.</segment>
+    <segment id="5">Apenas na Amazônia</segment>
+    <segment id="6">, o ritmo da derrubada de florestas foi de 1</segment>
+    <segment id="7">,9 hectare por minuto</segment>
+    <segment id="8">, o que equivale a cerca de 18 árvores por segundo.</segment>
+    <segment id="9">Em todo o país</segment>
+    <segment id="10">, foram cerca de 191 novos eventos de desmatamento por dia.</segment>
+    <segment id="11">Para cada ação de desmate</segment>
+    <segment id="12">, a velocidade média foi de 0</segment>
+    <segment id="13">,18 hectare por dia em 2021 —contra 0</segment>
+    <segment id="14">,16 hectare/dia em 2020.</segment>
+    <segment id="15">Os dados compõem o Relatório Anual de Desmatamento (RAD)</segment>
+    <segment id="16">, lançado nesta segunda-feira (18) pelo projeto MapBiomas</segment>
+    <segment id="17">, que mapeia as mudanças no território brasileiro a partir da colaboração de universidades</segment>
+    <segment id="18">, ONGs e empresas de tecnologia.</segment>
+    <segment id="19">O estado do Amazonas teve um salto de 50% no desmatamento entre 2020 e 2021</segment>
+    <segment id="20">, passando do 4º para o 2º lugar no ranking dos estados que mais desmataram no último ano - Mauro Pimentel - 14.jul.22/AFPNeste ano</segment>
+    <segment id="21">, o relatório passou a identificar os principais vetores de desmatamento</segment>
+    <segment id="22">, a partir da análise das imagens de satélite.</segment>
+    <segment id="23">Entre 2019 e 2021</segment>
+    <segment id="24">, a atividade agropecuária respondeu por 97</segment>
+    <segment id="25">,8% da área desmatada no país.</segment>
+    <segment id="26">O restante dos territórios sofreu desmatamento por garimpo</segment>
+    <segment id="27">, mineração e expansão urbana</segment>
+    <segment id="28">, entre outros.</segment>
+    <segment id="29">Cerca de 77% da área desmatada no país em 2021</segment>
+    <segment id="30">sese sobrepõe a imóveis rurais registrados no CAR (Cadastro Ambiental Rural).</segment>
+    <segment id="31">"</segment>
+    <segment id="32">Isso significa que em pelo menos três quartos dos desmatamentos é possível encontrar um responsável"</segment>
+    <segment id="33">, afirma o relatório.</segment>
+    <segment id="34">Apesar da soma gigantesca das áreas desmatadas</segment>
+    <segment id="35">, as ações estão concentradas em poucos atores.</segment>
+    <segment id="36">O desmate em imóveis registrados no CAR ocorreu em apenas 0</segment>
+    <segment id="37">,9% das propriedades no último ano.</segment>
+    <segment id="38">Entre 2019 e 2021</segment>
+    <segment id="39">, apenas 2% dos imóveis rurais tiveram desmatamento.</segment>
+    <segment id="40">"</segment>
+    <segment id="41">O desmatamento no Brasil é um fenômeno feito por poucos em detrimento de muitos"</segment>
+    <segment id="42">, afirma o engenheiro florestal Tasso Azevedo</segment>
+    <segment id="43">, coordenador do Mapbiomas.</segment>
+    <segment id="44">Ao declarar o perímetro do imóvel para registro do CAR</segment>
+    <segment id="45">, o proprietário rural também decide e informa qual porção do terreno será conservada</segment>
+    <segment id="46">comocomo Reserva Legal.</segment>
+    <segment id="47">Essas áreas concentram 22% do total da área desmatada no país.</segment>
+    <segment id="48">Notícias do diaReceba diariamente de manhã no seu email as principais notícias publicadas na Folha</segment>
+    <segment id="49">; aberta para não assinantes.</segment>
+    <segment id="50">Carregando..."O impacto vai para todo mundo.</segment>
+    <segment id="51">Desmata</segment>
+    <segment id="52">, diminui as chuvas</segment>
+    <segment id="53">, aumenta o custo da energia</segment>
+    <segment id="54">, sobe a temperatura</segment>
+    <segment id="55">, dá prejuízo a toda a produção rural</segment>
+    <segment id="56">, gera fogo</segment>
+    <segment id="57">, prejudica a saúde das pessoas"</segment>
+    <segment id="58">, continua.</segment>
+    <segment id="59">Apenas 1% das ações de desmate é legal</segment>
+    <segment id="60">, ainda segundo o Mapbiomas</segment>
+    <segment id="61">, que cruza os alertas de desmatamento monitorados por satélite com autorizações de desmatamento</segment>
+    <segment id="62">, autuações de fiscalização e embargo emitidos pelos órgãos federais e estaduais de controle.</segment>
+    <segment id="63">"</segment>
+    <segment id="64">Os embargos e autuações feitos pelo Ibama e pelo ICMBio até maio de 2022 atingiram apenas 2</segment>
+    <segment id="65">,4% dos desmatamentos e 10</segment>
+    <segment id="66">,5% da área desmatada identificada entre 2019 e 2021"</segment>
+    <segment id="67">, diz o relatório.</segment>
+    <segment id="68">O índice é mais alto nos 52 municípios definidos</segment>
+    <segment id="69">comocomo prioritários pelo governo para o combate ao desmatamento.</segment>
+    <segment id="70">Neles, as autuações responderam a 4</segment>
+    <segment id="71">,4% dos alertas</segment>
+    <segment id="72">, o que corresponde a 21% da área desmatada.  "</segment>
+    <segment id="73">O nível federal tem agido para evitar as autuações.</segment>
+    <segment id="74">A escolha é por proteger os 2% que desmatam</segment>
+    <segment id="75">, causando impacto para todo o resto da população brasileira"</segment>
+    <segment id="76">, avalia Azevedo</segment>
+    <segment id="77">, que foi diretor do Serviço Florestal Brasileiro.</segment>
+    <segment id="78">Desmatamento ameaça plantas amazônicas recém-descobertas para a ciênciaMais    novamente         de   de  de  representando um</segment>
+    <segment id="79">A fiscalização estadual tem índices maiores.</segment>
+    <segment id="80">No topo do ranking</segment>
+    <segment id="81">, o Espírito Santo respondeu a 86% dos alertas de desmatamento —com autorizações</segment>
+    <segment id="82">, autuações ou embargos.</segment>
+    <segment id="83">Atrás dele</segment>
+    <segment id="84">, estão Mato Grosso (66%)</segment>
+    <segment id="85">, Minas Gerais (43%) e Tocantins (41%).</segment>
+    <segment id="86">Os menores índices estão na Bahia (1</segment>
+    <segment id="87">,7%), Santa Catarina (3%) e Pernambuco (4</segment>
+    <segment id="88">,4%).</segment>
+    <segment id="89">O RAD apresenta dados sobre o desmatamento nos biomas de todas as regiões do país.</segment>
+    <segment id="90">A Amazônia concentra a maior frente de desmatamento</segment>
+    <segment id="91">, representando 59% do total desmatado no Brasil em 2021</segment>
+    <segment id="92">, seguida do cerrado (30%)</segment>
+    <segment id="93">, caatinga (7%)</segment>
+    <segment id="94">, mata atlântica (1</segment>
+    <segment id="95">,8%), Pantanal (1</segment>
+    <segment id="96">,7%) e pampa (0</segment>
+    <segment id="97">,1%).</segment>
+    <segment id="98">No cerrado</segment>
+    <segment id="99">, 73% do desmate foi concentrado na região de expansão agropecuária conhecida</segment>
+    <segment id="100">comocomo Matopiba (entre as divisas dos estados do Maranhão</segment>
+    <segment id="101">, Tocantins</segment>
+    <segment id="102">, Piauí e Bahia).</segment>
+    <segment id="103">Já na Amazônia</segment>
+    <segment id="104">, uma nova fronteira do desmatamento responde por 12% do desmatamento do país.</segment>
+    <segment id="105">Apelidada de Amacro</segment>
+    <segment id="106">, ela fica entre o Amazonas</segment>
+    <segment id="107">, o Acre e Rondônia e sofreu um salto de 28</segment>
+    <segment id="108">,8% no desmatamento em 2021</segment>
+    <segment id="109">, em relação a 2020.  "</segment>
+    <segment id="110">O Amazonas sempre foi um estado bem conservado</segment>
+    <segment id="111">, masmas chegou a ser o 1º em desmatamento em alguns meses deste ano"</segment>
+    <segment id="112">, afirma Azevedo.</segment>
+    <segment id="113">Tribo xavante coleta sementes para restaurar o cerrado em Mato GrossoMais    novamente         de   de  de  representando um  Pressionado pelo projeto de pavimentação da BR-319</segment>
+    <segment id="114">, por garimpo ilegal e pela invasão de terras públicas</segment>
+    <segment id="115">, o estado do Amazonas teve um salto de 50% no desmatamento entre 2020 e 2021</segment>
+    <segment id="116">, passando do 4º para o 2º lugar no ranking dos estados que mais desmataram no último ano e ficando atrás apenas do Pará —que concentrou 24% do desmatamento de todo o país.</segment>
+    <segment id="117">Em 3º lugar ficou Mato Grosso</segment>
+    <segment id="118">, que respondeu por 11</segment>
+    <segment id="119">,5% do desmate do país</segment>
+    <segment id="120">, seguido por Maranhão (10%)</segment>
+    <segment id="121">, e Bahia (9%).</segment>
+    <segment id="122">Juntos</segment>
+    <segment id="123">, os cinco estados respondem por 67% da área desmatada no Brasil no último ano.</segment>
+    <segment id="124">Entre 2019 e 2021</segment>
+    <segment id="125">, as terras indígenas foram a única categoria fundiária que não sofreu aumento do desmatamento.</segment>
+    <segment id="126">Os aumentos mais expressivos no desmatamento foram em áreas de vazio fundiário (88%)</segment>
+    <segment id="127">, áreas públicas não destinadas (47%) e áreas privadas (32%).</segment>
+    <segment id="128">O projeto Planeta em Transe é apoiado pela Open Society Foundations</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,100 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Encélado</segment>
+    <segment id="2">, a pequena lua de Saturno com um oceano subsuperficial que rotineiramente vaza para o espaço na forma de gêiseres</segment>
+    <segment id="3">, tem todos os ingredientes essenciais para a vida.</segment>
+    <segment id="4">A revelação veio com a detecção da peça que faltava –fósforo– nas plumas de água ejetadas dele.</segment>
+    <segment id="5">Resta agora saber</segment>
+    <segment id="6">sese houve tempo suficiente</segment>
+    <segment id="7">para que</segment>
+    <segment id="8">para que a vida surgisse por lá.</segment>
+    <segment id="9">São seis os elementos químicos absolutamente essenciais à biologia</segment>
+    <segment id="10">, conhecidos pela sigla Chonps: carbono</segment>
+    <segment id="11">, hidrogênio</segment>
+    <segment id="12">, oxigênio</segment>
+    <segment id="13">, nitrogênio</segment>
+    <segment id="14">, fósforo e enxofre.</segment>
+    <segment id="15">Desses</segment>
+    <segment id="16">, todos já haviam sido detectados antes</segment>
+    <segment id="17">, menos o bendito fósforo –que calha de ser o mais raro deles.</segment>
+    <segment id="18">Mas essa história acaba de mudar.</segment>
+    <segment id="19">Frank Postberg</segment>
+    <segment id="20">, da Universidade Livre de Berlim</segment>
+    <segment id="21">, e colegas apresentaram</segment>
+    <segment id="22">, na última edição da revista Nature</segment>
+    <segment id="23">, uma análise de grãos de gelo sondados pelo CDA (Analisador de Poeira Cósmica</segment>
+    <segment id="24">, na sigla em inglês) da sonda Cassini</segment>
+    <segment id="25">, que operou em órbita de Saturno até 2017</segment>
+    <segment id="26">, realizando vários sobrevoos das plumas de Encélado.</segment>
+    <segment id="27">As plumas de Encélado</segment>
+    <segment id="28">, registradas em cores pela sonda Cassini em 2010 - NASA/JPL-Caltech/SSI/Cassini Imaging Team/Jason MajorOs dados sugerem que</segment>
+    <segment id="29">, em meio a esses grãos de gelo</segment>
+    <segment id="30">, havia fosfatos de sódio.</segment>
+    <segment id="31">É a primeira vez que um composto com fósforo é detectado em um oceano que não seja o terrestre.</segment>
+    <segment id="32">É há um bocado dele por lá.</segment>
+    <segment id="33">Combinando as medições a experimentos de laboratório</segment>
+    <segment id="34">, Postberg e seus colegas estimam que as concentrações de fósforo nas águas de Encélado são pelo menos cem vezes maiores que as presentes nos oceanos da Terra.</segment>
+    <segment id="35">O achado reforça a hipótese de que a camada global de água que existe entre um núcleo rochoso e uma crosta de gelo na pequena lua de 504 km de diâmetro é um ambiente potencialmente favorável à vida.</segment>
+    <segment id="36">Futuras missões destinadas a Encélado poderão explorar mais possibilidades e tentar detectar evidências diretas de atividade biológica</segment>
+    <segment id="37">, como</segment>
+    <segment id="38">como moléculas orgânicas complexas.</segment>
+    <segment id="39">Se tivermos sorte</segment>
+    <segment id="40">, talvez nem seja preciso esperar tanto para realizar essa busca.</segment>
+    <segment id="41">No mês passado</segment>
+    <segment id="42">, o Telescópio Espacial James Webb foi apontado na direção de Encélado e detectou uma enorme pluma de água ejetada da lua</segment>
+    <segment id="43">, com comprimento de cerca de 10 mil km.</segment>
+    <segment id="44">Os instrumentos não foram capazes de detectar outras moléculas</segment>
+    <segment id="45">, que não fossem água</segment>
+    <segment id="46">, masmas isso pode mudar com futuras observações.</segment>
+    <segment id="47">E o resultado</segment>
+    <segment id="48">, publicado na Nature Astronomy</segment>
+    <segment id="49">, confirma que a taxa de ejeção de água em Encélado</segment>
+    <segment id="50">sese mantém intensa e constante há décadas</segment>
+    <segment id="51">, pelo menos desde as primeiras detecções das plumas pela Cassini.</segment>
+    <segment id="52">O maior desafio para a presença de vida por lá</segment>
+    <segment id="53">, portanto</segment>
+    <segment id="54">, talvez seja o tempo.</segment>
+    <segment id="55">Há evidências de que a lua (bem</segment>
+    <segment id="56">comocomo os famosos anéis de Saturno) é de formação relativamente recente</segment>
+    <segment id="57">, coisa de 100 milhões de anos.</segment>
+    <segment id="58">Seria esse período suficiente para o surgimento de formas biológicas?</segment>
+    <segment id="59">Não há</segment>
+    <segment id="60">comocomo ter certeza</segment>
+    <segment id="61">, já que nem mesmo sabemos quanto tempo levou para acontecer aqui na Terra (</segment>
+    <segment id="62">embora</segment>
+    <segment id="63">embora saibamos que foi algo que surgiu cedo</segment>
+    <segment id="64">, em algum ponto dos primeiros 500 milhões de anos dos 4</segment>
+    <segment id="65">,5 bilhões que tem hoje o planeta).</segment>
+    <segment id="66">Modelos para explicar as quantidades de metano presentes nas plumas</segment>
+    <segment id="67">, publicados na Nature Astronomy em 2021</segment>
+    <segment id="68">, sugerem que organismos chamados metanógenos talvez estejam em ação por lá.</segment>
+    <segment id="69">Mas isso é algo que só uma exploração mais detalhada de Encélado permitirá corroborar ou refutar.</segment>
+    <segment id="70">Esta coluna é publicada às segundas-feiras na versão impressa</segment>
+    <segment id="71">, na Folha Corrida.</segment>
+    <segment id="72">Siga o Mensageiro Sideral no Facebook</segment>
+    <segment id="73">, Twitter</segment>
+    <segment id="74">, Instagram e YouTube</segment>
+  </rst>
+</analysis>

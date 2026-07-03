@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Excesso de sexo causou lesão em Boateng
+Namorada disse que o casal tem relações sexuais de sete a dez vezes por semana
+Kevin-Prince Boateng</segment>
+    <segment id="2">, jogador do Milan</segment>
+    <segment id="3">, sofreu no último final de semana uma lesão muscular.</segment>
+    <segment id="4">Por conta disso</segment>
+    <segment id="5">, ele poderá perder a partida de ida do duelo contra o Arsenal</segment>
+    <segment id="6">, válido pelas oitavas de final da Copa dos Campeões da Europa.</segment>
+    <segment id="7">Mas se</segment>
+    <segment id="8">se engana quem pensa que a causa foi o excesso de partidas jogadas.</segment>
+    <segment id="9">Segundo a namorada do jogador</segment>
+    <segment id="10">, a modelo e atriz Melissa Satta</segment>
+    <segment id="11">, sexo em excesso foi o motivo pelo qual Boateng</segment>
+    <segment id="12">sese machucou.</segment>
+    <segment id="13">Melissa assegurou que o casal costuma ter relações sexuais de sete a dez vezes por semana.</segment>
+    <segment id="14">Que disposição!</segment>
+  </rst>
+</analysis>

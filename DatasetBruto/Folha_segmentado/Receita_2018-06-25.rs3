@@ -1,0 +1,57 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A partir do dia 6 de julho</segment>
+    <segment id="2">, as atividades de 25 agências da Receita Federal serão suspensas no Brasil.</segment>
+    <segment id="3">Em todo o país</segment>
+    <segment id="4">, segundo a Receita Federal</segment>
+    <segment id="5">, há 360 agências.</segment>
+    <segment id="6">O Estado mais afetado será Minas Gerais</segment>
+    <segment id="7">, com o fechamento de agências em quatro cidades.</segment>
+    <segment id="8">No Paraná e no Rio Grande do Sul serão três</segment>
+    <segment id="9">; e, em São Paulo</segment>
+    <segment id="10">, duas.</segment>
+    <segment id="11">Receita Federal vai fechar 25 agências por conta de cortes no orçamento - Sérgio Limeira/FolhapressDe acordo com a portaria publicada nessa segunda-feira (25) no Diário Oficial da União</segment>
+    <segment id="12">, o motivo do encerramento das atividades é o o cancelamento de parte da verba destinada a Secretaria da Receita Federal.</segment>
+    <segment id="13">A relação com os nomes dos funcionários que serão remanejados e o impacto das remoções no orçamento devem ser anunciados até o dia 4 de julho.</segment>
+    <segment id="14">MUNICÍPIO</segment>
+    <segment id="15">ESTADO</segment>
+    <segment id="16">Jardim MS</segment>
+    <segment id="17">São Luiz dos Montes</segment>
+    <segment id="18">Belos</segment>
+    <segment id="19">GO</segment>
+    <segment id="20">Manacapuru AM</segment>
+    <segment id="21">São Gabriel da Cachoeira AM</segment>
+    <segment id="22">Sena Madureira AC</segment>
+    <segment id="23">São</segment>
+    <segment id="24">Raimundo Nonato PI   Camocim CE   Penedo AL</segment>
+    <segment id="25">Pau dos Ferros RN   Ibotirama BA</segment>
+    <segment id="26">Itamaraju BA</segment>
+    <segment id="27">Ponte Nova MG   Itaúna MG   Oliveira MG   Cataguazes MG</segment>
+    <segment id="28">São Mateus ES</segment>
+    <segment id="29">Piraju SP   Jales SP   Videira SC   Loanda PR    Laranjeiras do Sul PR   Iporã PR   Veranópolis RS</segment>
+    <segment id="30">Guaíba RS</segment>
+    <segment id="31">São Leopoldo RS</segment>
+  </rst>
+</analysis>

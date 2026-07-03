@@ -1,0 +1,108 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">No epis&amp;oacute</segment>
+    <segment id="2">;dio desta ter&amp;ccedil</segment>
+    <segment id="3">;a (28) do Folha na Sala</segment>
+    <segment id="4">, infectologistas debatem qual o papel das crian&amp;ccedil</segment>
+    <segment id="5">;as na dissemina&amp;ccedil</segment>
+    <segment id="6">;&amp;atilde</segment>
+    <segment id="7">;o da Covid-19 e</segment>
+    <segment id="8">comocomo a reabertura das escolas podem afetar a evolu&amp;ccedil</segment>
+    <segment id="9">;&amp;atilde</segment>
+    <segment id="10">;o da pandemia no pa&amp;iacute</segment>
+    <segment id="11">;s.</segment>
+    <segment id="12">Segundo Marco Aur&amp;eacute</segment>
+    <segment id="13">;lio S&amp;aacute</segment>
+    <segment id="14">;fadi, pediatra e infectologista professor da Faculdade de Ci&amp;ecirc</segment>
+    <segment id="15">;ncias M&amp;eacute</segment>
+    <segment id="16">;dicas da Santa Casa de S&amp;atilde</segment>
+    <segment id="17">;o Paulo</segment>
+    <segment id="18">, as evid&amp;ecirc</segment>
+    <segment id="19">;ncias coletadas at&amp;eacute</segment>
+    <segment id="20">; agora pela comunidade cient&amp;iacute</segment>
+    <segment id="21">;fica apontam que as crian&amp;ccedil</segment>
+    <segment id="22">;as n&amp;atilde</segment>
+    <segment id="23">;o desenvolvem formas graves da doen&amp;ccedil</segment>
+    <segment id="24">;a, mas</segment>
+    <segment id="25">mas podem transmiti-la.</segment>
+    <segment id="26">Um estudo sul-coreano publicado pelo Centro para Controle e Preven&amp;ccedil</segment>
+    <segment id="27">;&amp;atilde</segment>
+    <segment id="28">;o de Doen&amp;ccedil</segment>
+    <segment id="29">;as dos Estados Unidos aponta que</segment>
+    <segment id="30">, ao passo que as crian&amp;ccedil</segment>
+    <segment id="31">;as com menos de 10 anos t&amp;ecirc</segment>
+    <segment id="32">;m metade das chances de um adulto de transmitir o coronav&amp;iacute</segment>
+    <segment id="33">;rus para outras pessoas</segment>
+    <segment id="34">, jovens entre 10 e 19 anos t&amp;ecirc</segment>
+    <segment id="35">;m a mesma taxa.</segment>
+    <segment id="36">A preocupa&amp;ccedil</segment>
+    <segment id="37">;&amp;atilde</segment>
+    <segment id="38">;o aumenta com um levantamento de dados da Fiocruz que mostra que 9 milh&amp;otilde</segment>
+    <segment id="39">;es de pessoas em grupos de risco convivem com crian&amp;ccedil</segment>
+    <segment id="40">;as e jovens entre 3 e 17 anos.</segment>
+    <segment id="41">Especialistas ponderam</segment>
+    <segment id="42">, no entanto</segment>
+    <segment id="43">, que &amp;eacute</segment>
+    <segment id="44">; preciso organizar uma volta segura &amp;agrave</segment>
+    <segment id="45">;s escolas para n&amp;atilde</segment>
+    <segment id="46">;o comprometer ainda mais o aprendizado e sociabiliza&amp;ccedil</segment>
+    <segment id="47">;&amp;atilde</segment>
+    <segment id="48">;o das crian&amp;ccedil</segment>
+    <segment id="49">;as.</segment>
+    <segment id="50">A Dinamarca</segment>
+    <segment id="51">, um dos primeiros pa&amp;iacute</segment>
+    <segment id="52">;ses a voltar &amp;agrave</segment>
+    <segment id="53">;s salas</segment>
+    <segment id="54">, mostra que &amp;eacute</segment>
+    <segment id="55">;</segment>
+    <segment id="56">poss&amp;iacute</segment>
+    <segment id="57">;vel reabrir as escolas e manter os n&amp;uacute</segment>
+    <segment id="58">;meros de cont&amp;aacute</segment>
+    <segment id="59">;gios em queda</segment>
+    <segment id="60">, masmas Israel</segment>
+    <segment id="61">, ao fazer uma abertura considerada precipitada</segment>
+    <segment id="62">, transformou as escolas em focos de cont&amp;aacute</segment>
+    <segment id="63">;gio e agora avalia um lockdown.</segment>
+    <segment id="64">O Folha na Sala &amp;eacute</segment>
+    <segment id="65">; uma parceria da Folha com o Ita&amp;uacute</segment>
+    <segment id="66">;</segment>
+    <segment id="67">Social.</segment>
+    <segment id="68">O programa &amp;eacute</segment>
+    <segment id="69">; apresentado pelos jornalistas Ricardo Ampudia e Juliana Deodoro.</segment>
+    <segment id="70">A coordena&amp;ccedil</segment>
+    <segment id="71">;&amp;atilde</segment>
+    <segment id="72">;o &amp;eacute</segment>
+    <segment id="73">; de F&amp;aacute</segment>
+    <segment id="74">;bio Takahashi e Mag&amp;ecirc</segment>
+    <segment id="75">; Flores.</segment>
+    <segment id="76">A edi&amp;ccedil</segment>
+    <segment id="77">;&amp;atilde</segment>
+    <segment id="78">;o de som &amp;eacute</segment>
+    <segment id="79">; de Stefano Maccarini.</segment>
+    <segment id="80">Voc&amp;ecirc</segment>
+    <segment id="81">;</segment>
+    <segment id="82">pode acrescentar o nosso programa no seu agregador de podcasts usando o link https://anchor.fm/s/e66fb94/podcast/rss</segment>
+  </rst>
+</analysis>

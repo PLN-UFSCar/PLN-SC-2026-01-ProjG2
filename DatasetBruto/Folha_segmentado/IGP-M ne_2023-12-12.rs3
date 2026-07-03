@@ -1,0 +1,216 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O IGP-M (Índice Geral de Preços - Mercado)</segment>
+    <segment id="2">, principal indicador usado em contratos de aluguel residencial</segment>
+    <segment id="3">, tem registrado variações negativas neste ano e deve seguir nesse ritmo no início de 2024.</segment>
+    <segment id="4">Segundo a FGV (Fundação Getulio Vargas)</segment>
+    <segment id="5">, o índice registrou leve alta em novembro</segment>
+    <segment id="6">, de 0</segment>
+    <segment id="7">,59% no mês</segment>
+    <segment id="8">, masmas acumula queda de 3</segment>
+    <segment id="9">,89% no ano e chega a -3</segment>
+    <segment id="10">,46% no acumulado de 12 meses.</segment>
+    <segment id="11">O recuo é mais significativo quando comparado ao IPCA (Índice Nacional de Preços ao Consumidor Amplo)</segment>
+    <segment id="12">, cada vez mais utilizado nos reajustes do aluguel</segment>
+    <segment id="13">, que acumula alta de 4</segment>
+    <segment id="14">,68% em 12 meses até novembro e deve manter a escalada.</segment>
+    <segment id="15">A queda não vai gerar uma redução no aluguel dos contratos que usam o índice</segment>
+    <segment id="16">, masmas pode manter o valor inalterado.</segment>
+    <segment id="17">Devido a uma cláusula frequente sobre a correção dos contratos</segment>
+    <segment id="18">, o preço não é ajustado para baixo em</segment>
+    <segment id="19">casocaso de índice negativo.</segment>
+    <segment id="20">Placas de aluga-</segment>
+    <segment id="21">sese na região da Berrini</segment>
+    <segment id="22">, um dos principais eixos corporativos de São Paulo</segment>
+    <segment id="23">, na zona sul - Karime Xavier/FolhapressÉ comum as partes determinarem o prazo de 12 meses para o reajuste do aluguel</segment>
+    <segment id="24">, masmas a Lei do Inquilinato não determina qual índice de correção deve ser utilizado.</segment>
+    <segment id="25">O indicador que será usado a cada renovação anual costuma estar definido no contrato</segment>
+    <segment id="26">, masmas locador e locatário com contratos que vencem neste mês podem chegar a um acordo sobre qual índice adotar.</segment>
+    <segment id="27">Historicamente</segment>
+    <segment id="28">, a maioria dos contratos de locação utilizava o IGP-M. Mas</segment>
+    <segment id="29">, na pandemia</segment>
+    <segment id="30">, o índice explodiu</segment>
+    <segment id="31">, chegando a bater 37% em 2021.</segment>
+    <segment id="32">Muitos locadores e locatários optam</segment>
+    <segment id="33">, desde então</segment>
+    <segment id="34">, por usar o IPCA</segment>
+    <segment id="35">comocomo referência para o reajuste de aluguel</segment>
+    <segment id="36">, por se</segment>
+    <segment id="37">se tratar de um indicador menos volátil.</segment>
+    <segment id="38">A surpresa é que</segment>
+    <segment id="39">, desde abril deste ano</segment>
+    <segment id="40">, o IGP-M está com deflação</segment>
+    <segment id="41">, e o IPCA</segment>
+    <segment id="42">, apesar de baixa</segment>
+    <segment id="43">, apresenta uma variação positiva.</segment>
+    <segment id="44">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="45">; aberta para não assinantes.</segment>
+    <segment id="46">Carregando...</segment>
+    <segment id="47">Cyro Naufel</segment>
+    <segment id="48">, diretor institucional e de atendimento da Lopes</segment>
+    <segment id="49">, afirma que o locatário precisa olhar as cláusulas do contrato.</segment>
+    <segment id="50">O documento vai informar</segment>
+    <segment id="51">sese o índice utilizado para correção do aluguel é aplicado só quando for positivo ou</segment>
+    <segment id="52">sese a aplicação vale para a variação negativa.</segment>
+    <segment id="53">Segundo o especialista</segment>
+    <segment id="54">, muitas vezes o contrato não faz menção nenhuma sobre esse ponto.</segment>
+    <segment id="55">"</segment>
+    <segment id="56">Se o contrato prevê que o índice só vai variar positivamente e ele está negativo</segment>
+    <segment id="57">, o que abaixaria o valor da locação</segment>
+    <segment id="58">, vale verificar</segment>
+    <segment id="59">sese é possível sentar com o proprietário e discutir alguma negociação para a redução do aluguel"</segment>
+    <segment id="60">, afirma.  "</segment>
+    <segment id="61">Num recorte maior de tempo</segment>
+    <segment id="62">, a tendência é que os indicadores [IGP-M e IPCA] convirjam"</segment>
+    <segment id="63">, diz Naufel.</segment>
+    <segment id="64">Apesar de o IGP-M estar com queda acumulada</segment>
+    <segment id="65">, os preços de novos contratos de locação estão em alta</segment>
+    <segment id="66">, pois</segment>
+    <segment id="67">pois eles são influenciados pela oferta e demanda.</segment>
+    <segment id="68">As variações do IGP-M servem para a atualização de contratos em vigor.</segment>
+    <segment id="69">Ou seja</segment>
+    <segment id="70">, quem busca alugar um imóvel vai enfrentar os preços de mercado</segment>
+    <segment id="71">, independentemente das oscilações do indicador.</segment>
+    <segment id="72">Em São Paulo</segment>
+    <segment id="73">, a Pesquisa de Locação Residencial do Secovi-SP</segment>
+    <segment id="74">, aponta variação média de 2% no valor do aluguel em outubro</segment>
+    <segment id="75">, na cidade de São Paulo.</segment>
+    <segment id="76">Com o resultado</segment>
+    <segment id="77">, o valor médio acumulado em 12 meses (novembro de 2022 a outubro de 2023) chegou a 12</segment>
+    <segment id="78">,89% e ficou acima percentual do IGP-M.</segment>
+    <segment id="79">Além de IGP-M e IPCA</segment>
+    <segment id="80">, há imobiliárias adotando outros índices de reajuste</segment>
+    <segment id="81">, como</segment>
+    <segment id="82">como o Ivar (Índice de Variação de Aluguéis Residenciais)</segment>
+    <segment id="83">, criado pela FGV para medir a variação dos imóveis efetivamente alugados.</segment>
+    <segment id="84">Entre os índices citados</segment>
+    <segment id="85">, o Ivar foi o que registrou a maior alta nos últimos 12 meses.</segment>
+    <segment id="86">Variações dos principais indexadores - acumulado</segment>
+    <segment id="87">12 meses     Mês de referência IPCA Ivar IGP-M     dez/22 5</segment>
+    <segment id="88">,79% 8</segment>
+    <segment id="89">,25% 5</segment>
+    <segment id="90">,45%   jan/23 5</segment>
+    <segment id="91">,77% 10</segment>
+    <segment id="92">,74% 3</segment>
+    <segment id="93">,79%   fev/23 5</segment>
+    <segment id="94">,60% 8</segment>
+    <segment id="95">,73% 1</segment>
+    <segment id="96">,86%   mar/23 4</segment>
+    <segment id="97">,65% 8</segment>
+    <segment id="98">,90% 0</segment>
+    <segment id="99">,17%   abr/23 4</segment>
+    <segment id="100">,18% 8</segment>
+    <segment id="101">,84% -2</segment>
+    <segment id="102">,17%   mai/23 3</segment>
+    <segment id="103">,94% 8</segment>
+    <segment id="104">,14% -4</segment>
+    <segment id="105">,47%   jun/23 3</segment>
+    <segment id="106">,16% 7</segment>
+    <segment id="107">,96% -6</segment>
+    <segment id="108">,86</segment>
+    <segment id="109">%   jul/23 3</segment>
+    <segment id="110">,99% 7</segment>
+    <segment id="111">,37% -7</segment>
+    <segment id="112">,72%   ago/23 4</segment>
+    <segment id="113">,61% 7</segment>
+    <segment id="114">,49% -7</segment>
+    <segment id="115">,2</segment>
+    <segment id="116">%   set/23 5</segment>
+    <segment id="117">,19% 5</segment>
+    <segment id="118">,64% -5</segment>
+    <segment id="119">,97%   out/23 4</segment>
+    <segment id="120">,82% 7</segment>
+    <segment id="121">,43% -4</segment>
+    <segment id="122">,57%   nov/23 4</segment>
+    <segment id="123">,68% 7</segment>
+    <segment id="124">,43% -3</segment>
+    <segment id="125">,46%</segment>
+    <segment id="126">A recomendação da Serasa é acompanhar as movimentações do mercado para</segment>
+    <segment id="127">sese antecipar a um aumento no aluguel.</segment>
+    <segment id="128">O ideal</segment>
+    <segment id="129">, orienta a empresa de crédito</segment>
+    <segment id="130">, é contar com um aumento mínimo sempre de</segment>
+    <segment id="131">, pelo menos</segment>
+    <segment id="132">, 10% por período de renovação contratual.</segment>
+    <segment id="133">Os contratos de aluguel são regidos por lei própria e pelo Código Civil</segment>
+    <segment id="134">, não cabendo questionamentos com base no Código de Defesa do Consumidor.</segment>
+    <segment id="135">O advogado Marcelo Tapai</segment>
+    <segment id="136">, especialista em direito imobiliário</segment>
+    <segment id="137">, afirma que uma negociação espontânea pode ocorrer a qualquer momento do contrato e deve ser registrada</segment>
+    <segment id="138">comocomo uma cláusula à parte.</segment>
+    <segment id="139">Entenda o novo regime de metas de inflaçãoMais    novamente         de   de  de  representando um  TIRE DÚVIDAS</segment>
+    <segment id="140">SOBRE A CORREÇÃO DO ALUGUEL  1)</segment>
+    <segment id="141">Com o IGP-M negativo</segment>
+    <segment id="142">, posso pedir para baixar preço do meu aluguel?</segment>
+    <segment id="143">Em geral</segment>
+    <segment id="144">, uma cláusula no contrato de locação prevê o reajuste apenas quando o índice é positivo</segment>
+    <segment id="145">, mantendo o valor previamente acordado</segment>
+    <segment id="146">casocaso o índice seja negativo.</segment>
+    <segment id="147">Por isso</segment>
+    <segment id="148">, mesmo contratos que seriam atualizados em junho devem apenas manter os preços dos aluguéis para o próximo ciclo.</segment>
+    <segment id="149">Reduções no valor e revisão do índice escolhido</segment>
+    <segment id="150">, porém</segment>
+    <segment id="151">porém, podem ser negociadas livremente</segment>
+    <segment id="152">comocomo proprietário do imóvel.  Atenção!</segment>
+    <segment id="153">Todas as mudanças feitas devem constar em um aditivo de contrato.  2)</segment>
+    <segment id="154">Qual cálculo o locatário tem que fazer para saber o valor do reajuste?</segment>
+    <segment id="155">Para saber qual será o valor do reajuste</segment>
+    <segment id="156">, primeiro é necessário checar o mês em que foi fechado o contrato de aluguel.</segment>
+    <segment id="157">Por exemplo</segment>
+    <segment id="158">, sese você tem um contrato que faz aniversário no mês de dezembro de 2023</segment>
+    <segment id="159">, o reajuste de aluguel</segment>
+    <segment id="160">, o reajuste de aluguel</segment>
+    <segment id="161">, de acordo com o IGP-M acumulado até novembro</segment>
+    <segment id="162">, seria de -3</segment>
+    <segment id="163">,46%.</segment>
+    <segment id="164">Mas a tendência</segment>
+    <segment id="165">, nesse</segment>
+    <segment id="166">casocaso</segment>
+    <segment id="167">, é não ter aumento</segment>
+    <segment id="168">, pois</segment>
+    <segment id="169">pois os contratos não costumam prever reajuste negativo  3) IGP-M ou IPCA?</segment>
+    <segment id="170">Qual índice é melhor para corrigir o aluguel?</segment>
+    <segment id="171">Segundo especialistas</segment>
+    <segment id="172">, não existe um índice que seja sempre inferior a outro.</segment>
+    <segment id="173">Caso aponte alguma diferença significativa</segment>
+    <segment id="174">, a livre negociação entre as partes será sempre o melhor caminho.</segment>
+    <segment id="175">De modo geral</segment>
+    <segment id="176">, a escolha do índice ocorre na definição do contrato de locação antes da entrega das chaves.</segment>
+    <segment id="177">Porém,</segment>
+    <segment id="178">comocomo o reajuste do valor do aluguel costuma ser feito nos ciclos de 12 meses</segment>
+    <segment id="179">, que é o prazo mais comum</segment>
+    <segment id="180">, é possível nesse</segment>
+    <segment id="181">casocaso que ambas as partes entrem em acordo para uma revisão do índice escolhido.  4)</segment>
+    <segment id="182">O que não pode acontecer no reajuste de aluguel?</segment>
+    <segment id="183">Reajustes arbitrários - o reajuste de aluguel não pode ser feito de forma unilateral</segment>
+    <segment id="184">, sem justificativa válida e fundamentada.</segment>
+    <segment id="185">É necessário seguir o contrato e as regras estabelecidas pela legislação</segment>
+    <segment id="186">Reajustes abusivos - o locador não pode usar o reajuste para pressionar o locatário a sair do imóvel</segment>
+    <segment id="187">, por exemplo.</segment>
+    <segment id="188">O aumento deve ser justo e de acordo com a valorização do imóvel e as condições do mercado imobiliário</segment>
+    <segment id="189">Reajustes fora dos prazos estabelecidos - não é permitido realizar reajuste no aluguel fora do período estipulado em contrato</segment>
+    <segment id="190">Falta de comunicação prévia - o dono do imóvel precisa sempre informar o locatário de forma antecipada sobre o reajuste de aluguel</segment>
+  </rst>
+</analysis>

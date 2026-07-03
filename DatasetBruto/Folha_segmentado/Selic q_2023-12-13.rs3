@@ -1,0 +1,124 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A queda da Selic</segment>
+    <segment id="2">, a taxa básica de juros</segment>
+    <segment id="3">, de 12</segment>
+    <segment id="4">,25% para 11</segment>
+    <segment id="5">,75%, reduz a rentabilidade da renda fixa.</segment>
+    <segment id="6">Mas, de acordo com especialistas</segment>
+    <segment id="7">, esse tipo de investimento continua atrativo.</segment>
+    <segment id="8">Segundo cálculos de Rafael Haddad</segment>
+    <segment id="9">, planejador financeiro do C6 Bank</segment>
+    <segment id="10">, o mercado precifica uma queda da Selic para 10</segment>
+    <segment id="11">,42% em um ano e de 10% em dois anos.</segment>
+    <segment id="12">Essas taxas</segment>
+    <segment id="13">sese referem ao DI</segment>
+    <segment id="14">, que equivale ao CDI</segment>
+    <segment id="15">, um indicador que baliza a rentabilidade da renda fixa e acompanha a Selic de perto</segment>
+    <segment id="16">, sendo geralmente 0</segment>
+    <segment id="17">,1 ponto percentual menor.</segment>
+    <segment id="18">Considerando a inflação de 3</segment>
+    <segment id="19">,93% prevista por economistas para 2024 e de 3</segment>
+    <segment id="20">,50% para 2025</segment>
+    <segment id="21">, essas taxas equivalem a um juro real</segment>
+    <segment id="22">, ou seja</segment>
+    <segment id="23">, a um ganho de poder de compra de 6</segment>
+    <segment id="24">,49% e de 6</segment>
+    <segment id="25">,50% para os próximos dois anos</segment>
+    <segment id="26">, respectivamente.</segment>
+    <segment id="27">Apesar da queda da Selic</segment>
+    <segment id="28">, a renda fixa continua atrativa</segment>
+    <segment id="29">, dizem especialistas.</segment>
+    <segment id="30">- Gabriel Cabral/FolhapressMesmo a poupança</segment>
+    <segment id="31">, que tem uma das menores rentabilidades dentre produtos de renda fixa</segment>
+    <segment id="32">, terá um ganho líquido acima da inflação de 4%.</segment>
+    <segment id="33">Segundo a Anefac (Associação Nacional dos Executivos de Finanças)</segment>
+    <segment id="34">, a poupança chega a ser mais atrativa que fundos de investimento com taxas de administração superiores a 2% ao ano</segment>
+    <segment id="35">, no longo prazo</segment>
+    <segment id="36">, por ser isenta do Imposto de Renda.</segment>
+    <segment id="37">Por também serem isentos do IR</segment>
+    <segment id="38">, títulos de crédito privado apresentam rentabilidades atrativas</segment>
+    <segment id="39">, dizem analistas.</segment>
+    <segment id="40">De acordo com as simulações de Rafael Haddad</segment>
+    <segment id="41">, LCI (Letra de Crédito Imobiliário)</segment>
+    <segment id="42">, LCA (Letra de Crédito do Agronegócio) e debêntures incentivadas com rentabilidade média de 96% do CDI devem ter uma rentabilidade líquida real (descontando IR e inflação) de 5</segment>
+    <segment id="43">,86% em um ano.</segment>
+    <segment id="44">Ou seja</segment>
+    <segment id="45">, R$ 1.000 viram R$ 1.100 livres de impostos.</segment>
+    <segment id="46">"Lembrando que</segment>
+    <segment id="47">, quanto maiores as taxas</segment>
+    <segment id="48">, maior o risco</segment>
+    <segment id="49">, então é importante avaliar qual a qualidade de risco de emissores"</segment>
+    <segment id="50">, diz André Alírio</segment>
+    <segment id="51">, analista da Nova Futura Investimentos.</segment>
+    <segment id="52">São protegidos pelo FGC (Fundo Garantidor de Crédito) até R$ 250 mil por emissor e R$ 1 milhão por CPF</segment>
+    <segment id="53">, investidos em poupança</segment>
+    <segment id="54">, CDBs (Certificados de Depósito Bancário)</segment>
+    <segment id="55">, RDBs (Recibos de Depósitos Bancários)</segment>
+    <segment id="56">, LCIs</segment>
+    <segment id="57">, LCAs</segment>
+    <segment id="58">, LCs (Letras de Câmbio) e LHs (Letras Hipotecárias).</segment>
+    <segment id="59">Já CDB</segment>
+    <segment id="60">, RDB, e LC (uma espécie de CDBs de financeiras) prefixados</segment>
+    <segment id="61">, com uma taxa bruta de 11</segment>
+    <segment id="62">,75% ao ano</segment>
+    <segment id="63">, teriam uma rentabilidade líquida real de 5</segment>
+    <segment id="64">,57%.</segment>
+    <segment id="65">Nestes instrumentos</segment>
+    <segment id="66">, porém</segment>
+    <segment id="67">porém, é necessário estar atento ao prazo</segment>
+    <segment id="68">, já que</segment>
+    <segment id="69">, em caso</segment>
+    <segment id="70">caso de resgate antecipado</segment>
+    <segment id="71">, é possível haver perda de dinheiro.</segment>
+    <segment id="72">Quanto aos títulos do Tesouro Direto</segment>
+    <segment id="73">, os prefixados estão com uma rentabilidade bruta menor</segment>
+    <segment id="74">, de 9</segment>
+    <segment id="75">,74% para 2026</segment>
+    <segment id="76">, segundo o fechamento de mercado desta quarta</segment>
+    <segment id="77">, e de 10</segment>
+    <segment id="78">,33% para 2029.</segment>
+    <segment id="79">Já os títulos atrelados ao IPCA estão com uma rentabilidade bruta anual de 5</segment>
+    <segment id="80">,32% para 2029</segment>
+    <segment id="81">, 5,51% para 2035</segment>
+    <segment id="82">, e de 5</segment>
+    <segment id="83">,63% para 2045</segment>
+    <segment id="84">, fora a variação da inflação no período.</segment>
+    <segment id="85">Segundo Alírio</segment>
+    <segment id="86">, da Nova Futura</segment>
+    <segment id="87">, CRIs e CRAs</segment>
+    <segment id="88">, com boa avaliação de risco</segment>
+    <segment id="89">, também são uma boa alternativa para compor a carteira.</segment>
+    <segment id="90">"</segment>
+    <segment id="91">Como o cenário é de queda de juros</segment>
+    <segment id="92">, sese pode pensar em comprar alguns ativos que contam com taxas de juros mais altas</segment>
+    <segment id="93">porque</segment>
+    <segment id="94">porque apresentam um pouco mais de risco.</segment>
+    <segment id="95">É hora de dar uma apimentada na carteira</segment>
+    <segment id="96">, sempre respeitando o perfil de investidor.</segment>
+    <segment id="97">"  Conheça algumas das principais aplicações da renda fixa</segment>
+    <segment id="98">Mais    novamente         de   de  de  representando um  Veja quanto rendem R$ 1.000 nos principais investimentos de renda fixa:</segment>
+  </rst>
+</analysis>

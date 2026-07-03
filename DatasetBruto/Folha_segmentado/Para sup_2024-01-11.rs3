@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Azul abriu processo para contratar 200 pilotos e promoverá 150 copilotos a comandantes para dar suporte ao crescimento de 11% no número de voos previstos para este ano.</segment>
+    <segment id="2">Somente no primeiro trimestre deste ano</segment>
+    <segment id="3">, a companhia registrou 7</segment>
+    <segment id="4">,1% mais voos do que no primeiro trimestre do ano passado</segment>
+    <segment id="5">, segundo dados da Anac (Agência Nacional de Aviação Civil).</segment>
+    <segment id="6">Montagem do jato comercial da Embraer para a Azul - Eduardo Knapp - 08.jul.2022/Folhapress</segment>
+    <segment id="7">Os futuros tripulantes vão operar uma frota diversificada de aeronaves</segment>
+    <segment id="8">, que inclui desde o Cessna Grand Caravan</segment>
+    <segment id="9">, com nove assentos</segment>
+    <segment id="10">, passando pelos aviões ATR-600</segment>
+    <segment id="11">, Embraer E1</segment>
+    <segment id="12">, E2, Airbus A320</segment>
+    <segment id="13">, A321</segment>
+    <segment id="14">, até o imponente Airbus A330</segment>
+    <segment id="15">, com capacidade para transportar 298 Clientes.</segment>
+    <segment id="16">Com Diego</segment>
+    <segment id="17">Felix</segment>
+  </rst>
+</analysis>

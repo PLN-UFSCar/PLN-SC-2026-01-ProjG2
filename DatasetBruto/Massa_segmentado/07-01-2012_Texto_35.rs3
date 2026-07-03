@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Copacabana vai ganhar status de capital turística da terceira idade
+RIO - Bairro da cidade com a maior porcentagem de idosos (acima de 60 anos)</segment>
+    <segment id="2">, com 29</segment>
+    <segment id="3">,67% da população segundo o Censo 2010 do IBGE</segment>
+    <segment id="4">, Copacabana vai ganhar o status de "capital turística da terceira idade".</segment>
+    <segment id="5">O prefeito Eduardo Paes deve publicar na semana que vem o decreto que oficializa o título.</segment>
+    <segment id="6">A intenção é</segment>
+    <segment id="7">, a partir daí</segment>
+    <segment id="8">, implementar uma série de medidas que colabore para a melhoria da qualidade de vida dos moradores</segment>
+    <segment id="9">, além de receber com mais zelo os visitantes com idade avançada.</segment>
+    <segment id="10">O texto do decreto prevê que o curso de formação de guardas municipais da região deverá ter incluída no currículo a disciplina Procedimentos Operacionais Padrões para Tratamento e Abordagem Adequados à População Idosa.</segment>
+    <segment id="11">Os agentes que já estiverem formados e que já estejam ou futuramente venham a ser lotados em Copacabana também deverão cursar a disciplina.</segment>
+    <segment id="12">A prefeitura irá ainda capacitar funcionários para fazer a certificação das empresas</segment>
+    <segment id="13">, instituições e pontos turísticos aptos a receber o turista idoso.</segment>
+  </rst>
+</analysis>

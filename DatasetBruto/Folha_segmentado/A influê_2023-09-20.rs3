@@ -1,0 +1,111 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Muita gente diz que fuma maconha só para pegar no sono.</segment>
+    <segment id="2">Contam que sem ela passam horas em luta com o travesseiro.</segment>
+    <segment id="3">Outros têm queixas opostas:</segment>
+    <segment id="4">quando fumam demoram para dormir e acordam mais vezes no meio da madrugada.</segment>
+    <segment id="5">Colunas e BlogsReceba no seu email uma seleção de colunas e blogs da Folha</segment>
+    <segment id="6">; exclusiva para assinantes.</segment>
+    <segment id="7">Carregando...</segment>
+    <segment id="8">Pesquisas recentes têm apresentado resultados conflitantes sobre os efeitos dos canabinóides em parâmetros do sono</segment>
+    <segment id="9">, como</segment>
+    <segment id="10">como duração</segment>
+    <segment id="11">, arquitetura e qualidade.</segment>
+    <segment id="12">O problema é que a regulação natural dos ciclos sono-vigília e a fisiologia dos endocanabinóides humanos envolvem mecanismos de alta complexidade</segment>
+    <segment id="13">, ainda mal conhecidos.</segment>
+    <segment id="14">Para complicar</segment>
+    <segment id="15">, a falta e a insuficiência de sono na população urbana</segment>
+    <segment id="16">sese tornaram uma preocupação para a saúde pública.</segment>
+    <segment id="17">Os especialistas recomendam que as noites de sono durem de 7 a 9 horas</segment>
+    <segment id="18">, objetivos que a maioria tem dificuldade para atingir.</segment>
+    <segment id="19">Noites mal dormidas estão associadas à morbidade e à mortalidade por acidentes com veículos e máquinas</segment>
+    <segment id="20">, além de comorbidades cardiovasculares</segment>
+    <segment id="21">, transtornos psiquiátricos</segment>
+    <segment id="22">, dores crônicas e ganho de peso</segment>
+    <segment id="23">, entre outros problemas.</segment>
+    <segment id="24">Foi publicado um estudo importante sobre a influência da maconha na qualidade do sono.</segment>
+    <segment id="25">Os participantes fazem parte do National Health and Nutrition Examination Survey (NHANES)</segment>
+    <segment id="26">, uma coorte numerosa programada para a coleta de dados de saúde na população americana.</segment>
+    <segment id="27">Os questionários foram distribuídos para mulheres e homens de 20 a 59 anos</segment>
+    <segment id="28">, divididos em dois grupos: 1) não usuários</segment>
+    <segment id="29">, caso</segment>
+    <segment id="30">caso não tivessem fumado maconha nos últimos 30 dias</segment>
+    <segment id="31">; 2) usuários recentes</segment>
+    <segment id="32">, caso</segment>
+    <segment id="33">caso o tivessem feito nos últimos 30 dias.</segment>
+    <segment id="34">Ilustração de Libero Malavoglia para coluna de Drauzio Varella de 21 de setembro de 2023 - Libero MalavogliaDe acordo com o número de horas dormidas</segment>
+    <segment id="35">, foram formados dois grupos: 1) duração curta:</segment>
+    <segment id="36">menor do que seis horas</segment>
+    <segment id="37">; 2) duração longa: maior do que nove horas.</segment>
+    <segment id="38">Esses números representam as médias de horas de sono nas noites dos dias de semana (segunda a sexta-feira).</segment>
+    <segment id="39">Os questionários também permitiram colher informações sobre a qualidade do sono: 1)</segment>
+    <segment id="40">sese houve dificuldade para iniciar o sono</segment>
+    <segment id="41">, para mantê-lo durante a noite ou</segment>
+    <segment id="42">sese a duração foi exagerada</segment>
+    <segment id="43">, nas últimas duas semanas</segment>
+    <segment id="44">; 2) se</segment>
+    <segment id="45">se o participante</segment>
+    <segment id="46">sese queixou de sonolência em pelo menos cinco dias no último mês.</segment>
+    <segment id="47">Foram incluídas diversas variáveis demográficas: sexo</segment>
+    <segment id="48">, idade</segment>
+    <segment id="49">, raça</segment>
+    <segment id="50">, escolaridade</segment>
+    <segment id="51">, número de horas trabalhadas por semana</segment>
+    <segment id="52">, tabagismo</segment>
+    <segment id="53">, uso de álcool</segment>
+    <segment id="54">, fatores socioeconômicos</segment>
+    <segment id="55">, índice de peso corpóreo</segment>
+    <segment id="56">, comorbidades</segment>
+    <segment id="57">comocomo diabetes</segment>
+    <segment id="58">, hipertensão e doenças cardiovasculares</segment>
+    <segment id="59">, além do uso de benzodiazepínicos</segment>
+    <segment id="60">, opioides</segment>
+    <segment id="61">, barbitúricos e outros sedativos ou estimulantes.</segment>
+    <segment id="62">Dos 21.729 participantes analisados</segment>
+    <segment id="63">, 14,5% relataram ter fumado maconha nos últimos 30 dias.</segment>
+    <segment id="64">A análise estatística permitiu tirar as seguintes conclusões:</segment>
+    <segment id="65">Os participantes dormiram em média aproximadamente sete horas por noite.</segment>
+    <segment id="66">Não houve diferença entre os que haviam fumado ou não nos 30 dias anteriores.</segment>
+    <segment id="67">O número dos que dormiram em média menos de seis horas ou mais do que nove horas</segment>
+    <segment id="68">, por noite</segment>
+    <segment id="69">, foi maior entre os que usaram maconha.</segment>
+    <segment id="70">O uso recente de Cannabis aumentou a dificuldade para adormecer e para manter o sono e o número dos que tinham dormido mais de nove horas por noite nas duas últimas semanas.</segment>
+    <segment id="71">As queixas de sonolência diurna foram iguais nos dois grupos.</segment>
+    <segment id="72">Usuários que fumaram 20 vezes ou mais nos últimos 30 dias tiveram mais noites com mais de nove horas de sono.</segment>
+    <segment id="73">O número de noites de sono mais curto (menos de seis horas) foi igual ao dos que não fumaram.</segment>
+    <segment id="74">Estudos anteriores que monitoraram as características do sono por meio de polissonografia sugeriram que apenas um cigarro de maconha já pode ser suficiente para apressar o início do sono</segment>
+    <segment id="75">, aumentar a duração e evitar despertares no decorrer da noite.</segment>
+    <segment id="76">Na maioria desses estudos</segment>
+    <segment id="77">, no entanto</segment>
+    <segment id="78">, o uso repetitivo mostrou o efeito contrário: aumento do tempo para conciliar o sono</segment>
+    <segment id="79">, diminuição da duração e aumento do número de despertares noturnos.</segment>
+    <segment id="80">No estudo presente</segment>
+    <segment id="81">, os que haviam fumado 20 vezes ou mais nos últimos 30 dias correram risco mais alto de dormir menos de seis horas por noite e também de ter noites de sono com mais de nove horas de duração.</segment>
+    <segment id="82">Insônia é uma das queixas mais frequentes nas sociedades modernas.</segment>
+    <segment id="83">Fumar maconha interfere na qualidade do sono de forma mal conhecida e imprevisível.</segment>
+    <segment id="84">Não é um bom tratamento para noites insones.</segment>
+    <segment id="85">Em medicina não recomendamos fumar medicamentos.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,95 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Ratos fazem a festa em posto de saÃºde
+Mesmo com limpeza</segment>
+    <segment id="2">, animais insistem em nÃ£o sair do local</segment>
+    <segment id="3">O forte odor de chorume e a proliferaÃ§Ã£o de ratos na praÃ§a do Alto das Pombas</segment>
+    <segment id="4">, provocados pelo vazamento em um compressor de lixo instalado no bairro</segment>
+    <segment id="5">, vÃªm incomodando e causando transtornos aos moradores.</segment>
+    <segment id="6">Por causa de uma possÃ­vel infestaÃ§Ã£o de roedores</segment>
+    <segment id="7">, a Unidade de SaÃºde da FamÃ­lia da comunidade completou</segment>
+    <segment id="8">, ontem</segment>
+    <segment id="9">, cinco dias sem funcionar plenamente.</segment>
+    <segment id="10">Apenas a distribuiÃ§Ã£o de medicamentos</segment>
+    <segment id="11">, a mediÃ§Ã£o de pressÃ£o arterial</segment>
+    <segment id="12">, a marcaÃ§Ã£o de consultas mÃ©dicas e os trabalhos externos estÃ£o sendo realizados.</segment>
+    <segment id="13">Segundo a Secretaria Municipal de SaÃºde (SMS)</segment>
+    <segment id="14">, o atendimento na unidade volta ao normal hoje.</segment>
+    <segment id="15">Agentes do Centro de Controle de Zoonoses (CCZ) farÃ£o uma vistoria no local</segment>
+    <segment id="16">, para verificar</segment>
+    <segment id="17">sese hÃ¡ infestaÃ§Ã£o de ratos.</segment>
+    <segment id="18">Caso a hipÃ³tese seja confirmada</segment>
+    <segment id="19">, o prÃ©dio da unidade passarÃ¡ por um processo de dedetizaÃ§Ã£o.</segment>
+    <segment id="20">De acordo com o morador Wilson Almeida</segment>
+    <segment id="21">, 59 anos</segment>
+    <segment id="22">, alÃ©m de ratos</segment>
+    <segment id="23">, baratas e moscas</segment>
+    <segment id="24">sese tornaram constantes no bairro apÃ³s a instalaÃ§Ã£o</segment>
+    <segment id="25">, hÃ¡ um mÃªs</segment>
+    <segment id="26">, da caixa de compressÃ£o com vazamento.</segment>
+    <segment id="27">Projeto dÃ¡ esperanÃ§a</segment>
+    <segment id="28">SoluÃ§Ã£o alternativa ao problema</segment>
+    <segment id="29">, um projeto de educaÃ§Ã£o em descarte de lixo</segment>
+    <segment id="30">, reciclagem e meio-ambiente â€</segment>
+    <segment id="31">“ elaborado por alunos da Escola PolitÃ©cnica da Universidade Federal da Bahia (Ufba) junto Ã  AssociaÃ§Ã£o de Moradores do Alto das Pombas â€</segment>
+    <segment id="32">“ poderÃ¡ ser apresentado nos prÃ³ximos dias Ã  prefeitura.</segment>
+    <segment id="33">Segundo o presidente da entidade</segment>
+    <segment id="34">, Derval Pereira</segment>
+    <segment id="35">, levar a ideia atÃ© a gestÃ£o municipal sÃ³ depende da aprovaÃ§Ã£o dos moradores.</segment>
+    <segment id="36">â€œÃ‰ um projeto sobretudo sobre educaÃ§Ã£o ambientalâ€</segment>
+    <segment id="37">, diz.</segment>
+    <segment id="38">Cheiro incomoda a todos</segment>
+    <segment id="39">A reportagem tentou entrar em contato com a presidente da Empresa de Limpeza Urbana de Salvador (Limpurb)</segment>
+    <segment id="40">, KÃ¡tia Alves</segment>
+    <segment id="41">, masmas nÃ£o conseguiu atÃ© o fechamento.</segment>
+    <segment id="42">Devido ao problema</segment>
+    <segment id="43">, atÃ© missas na ParÃ³quia Divino EspÃ­rito Santo</segment>
+    <segment id="44">, na praÃ§a do Alto das Pombas</segment>
+    <segment id="45">, foram canceladas.</segment>
+    <segment id="46">Segundo o ministro da igreja</segment>
+    <segment id="47">, Joselito Souza</segment>
+    <segment id="48">, o cheiro incomoda os fiÃ©is</segment>
+    <segment id="49">, o que impede a realizaÃ§Ã£o dos cultos.</segment>
+    <segment id="50">â€œO cheiro chega atÃ© na sacristiaâ€</segment>
+    <segment id="51">, diz.</segment>
+    <segment id="52">Mesmo com limpeza</segment>
+    <segment id="53">, fedor insiste em nÃ£o sair do local</segment>
+    <segment id="54">No meio da tarde de ontem</segment>
+    <segment id="55">, funcionÃ¡rios da Limpurb realizaram uma lavagem das ruas do bairro com um caminhÃ£o-pipa e detergente.</segment>
+    <segment id="56">Mesmo assim</segment>
+    <segment id="57">, o fedor de chorume persistiu.</segment>
+    <segment id="58">Na ocasiÃ£o</segment>
+    <segment id="59">, tÃ©cnicos da Diretoria de AtenÃ§Ã£o</segment>
+    <segment id="60">Ã  SaÃºde da SMS tambÃ©m visitaram a unidade de saÃºde local.</segment>
+    <segment id="61">Segundo um deles</segment>
+    <segment id="62">, identificado Ã  reportagem</segment>
+    <segment id="63">comocomo Anselmo Campos</segment>
+    <segment id="64">, a Limpurb garantiu que trocaria a caixa de compressÃ£o quebrada por uma nova hoje e taparia o buraco aberto pelo chorume debaixo do equipamento de coleta.</segment>
+    <segment id="65">â€œO vazamento estÃ¡ sendo causado por causa de um problema na borracha de vedaÃ§Ã£o da caixaâ€</segment>
+    <segment id="66">, explicou Campos.</segment>
+    <segment id="67">Foto: Margarida Neide l Ag.</segment>
+    <segment id="68">A TARDE</segment>
+  </rst>
+</analysis>

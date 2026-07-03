@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O estado de saúde do surfista Alex Botelho melhorou nas últimas 24 horas.</segment>
+    <segment id="2">Ele continua internado na Unidade de Cuidados Intensivos do Hospital da Leiria</segment>
+    <segment id="3">, em Portugal</segment>
+    <segment id="4">, masmas respira sem auxílio de aparelhos</segment>
+    <segment id="5">, segundo a organização da prova de ondas gigantes</segment>
+    <segment id="6">Nazaré Challenge</segment>
+    <segment id="7">, disputada na última terça (11).</segment>
+    <segment id="8">Reprodução de imagem do surfista português Alex Botelho sendo retirado do mar</segment>
+    <segment id="9">-World Surf League no TwitterO surfista português sofreu um acidente durante a prova na Praia do Norte e ficou inconsciente depois que o jet ski em que estava ter sido atingido por uma onda.</segment>
+    <segment id="10">Ele ficou desmaiado por dois minutos e foi resgatado do mar.</segment>
+    <segment id="11">No campeonato</segment>
+    <segment id="12">, que teve ondas ondas com cerca de 20 metros de altura</segment>
+    <segment id="13">, a equipe de segurança e resgate na água</segment>
+    <segment id="14">, liderada pelo brasileiro Edilson Assunção</segment>
+    <segment id="15">, conhecido</segment>
+    <segment id="16">comocomo "'Alemão de Maresias"</segment>
+    <segment id="17">, foi distinguida com o prêmio "compromisso".</segment>
+    <segment id="18">Leia mais em Diário de Notícias.</segment>
+  </rst>
+</analysis>

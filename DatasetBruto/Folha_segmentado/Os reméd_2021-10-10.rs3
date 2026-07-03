@@ -1,0 +1,191 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Quando a farmacêutica MSD (conhecida</segment>
+    <segment id="2">comocomo Merck nos Estados Unidos e no Canadá) anunciou no início do mês que os testes com o molnupiravir estavam mostrando ótimos resultados</segment>
+    <segment id="3">, diversos especialistas</segment>
+    <segment id="4">sese mostraram bastante animados com a notícia.</segment>
+    <segment id="5">Pela primeira vez</segment>
+    <segment id="6">, tornou-</segment>
+    <segment id="7">sese concreta a possibilidade de surgir um remédio eficaz e acessível contra a Covid.</segment>
+    <segment id="8">Desde o início da pandemia</segment>
+    <segment id="9">, diversos tratamentos foram testados para as diferentes fases da doença.</segment>
+    <segment id="10">Alguns medicamentos</segment>
+    <segment id="11">sese mostraram ineficazes</segment>
+    <segment id="12">, como</segment>
+    <segment id="13">como a hidroxicloroquina e a ivermectina</segment>
+    <segment id="14">, enquanto outros trouxeram efeitos positivos limitados ou ainda estão em fase de testes.</segment>
+    <segment id="15">Veja abaixo uma lista dos principais medicamentos em discussão quando</segment>
+    <segment id="16">sese trata de Covid.</segment>
+    <segment id="17">Pílulas de molnupiravir</segment>
+    <segment id="18">, remédio experimental do grupo farmacêutico MSD para a Covid-19 - ReutersAprovados  REMDESIVIR</segment>
+    <segment id="19">O antiviral remdesivir foi o primeiro medicamento a ser aprovado para uso contra o coronavírus no Brasil e nos EUA.</segment>
+    <segment id="20">O remédio é indicado para pessoas hospitalizadas com pneumonia e que precisam de suporte de oxigênio.</segment>
+    <segment id="21">Mas um estudo recente da fabricante</segment>
+    <segment id="22">, a Gilead Sciences</segment>
+    <segment id="23">, indicou que a droga reduz em 87% o risco de internação e morte em pacientes não hospitalizados com alto risco de agravamento do quadro.</segment>
+    <segment id="24">Os dados ainda não foram publicados em revista científica.</segment>
+    <segment id="25">O tratamento completo pode passar de R$ 15 mil.</segment>
+    <segment id="26">REGEN-COV</segment>
+    <segment id="27">A combinação de anticorpos monoclonais casirivimabe e imdevimabe (moléculas produzidas artificialmente a partir de clones de uma única célula e que ajudam a neutralizar o vírus)</segment>
+    <segment id="28">, conhecidos pelo nome comercial Regen-Cov</segment>
+    <segment id="29">, reduziu infecções pelo vírus em moradores de uma mesma casa e também ajudou a evitar hospitalização e mortes relacionadas à Covid em pessoas com risco de desenvolvimento grave da doença.</segment>
+    <segment id="30">O medicamento foi o segundo a receber autorização para uso emergencial.</segment>
+    <segment id="31">Até o momento</segment>
+    <segment id="32">, a aprovação da Anvisa vale apenas para casos leves e moderados da Covid.</segment>
+    <segment id="33">BANLANIVIMABE E ETESEVIMABE</segment>
+    <segment id="34">O conjunto de anticorpos monoclonais da empresa Eli Lilly reduziu em até 70% o risco de hospitalização e mortes por Covid em casos leves e moderados e com risco de agravamento do quadro.</segment>
+    <segment id="35">A proteção contra hospitalização e morte levou à aprovação da Anvisa da combinação de drogas</segment>
+    <segment id="36">, masmas apenas para uso em pacientes que não estejam hospitalizados e que necessitem de uso de oxigênio.  REGDANVIMABE</segment>
+    <segment id="37">, SOTROVIMABE</segment>
+    <segment id="38">Assim como</segment>
+    <segment id="39">como os outros anticorpos monoclonais</segment>
+    <segment id="40">, o regdanvimabe e o sotrovimabe</segment>
+    <segment id="41">, das empresas Celltrion Healthcares e GlaxonSmithKlein (GSK)</segment>
+    <segment id="42">, respectivamente</segment>
+    <segment id="43">, também receberam autorização da Anvisa para uso emergencial contra a Covid.</segment>
+    <segment id="44">Ambos apresentaram redução significativa no risco de progressão da doença em pessoas a partir de 12 anos e com risco elevado de agravamento de Covid.</segment>
+    <segment id="45">BARICITINIBE  No final de setembro</segment>
+    <segment id="46">, a Anvisa aprovou um sexto medicamento para uso contra a Covid</segment>
+    <segment id="47">, o baricitinibe</segment>
+    <segment id="48">, utilizado para tratamento de artrire reumatoide e dermatite atópica</segment>
+    <segment id="49">, da empresa Eli Lilly.</segment>
+    <segment id="50">A nova indicação vale para pacientes adultos hospitalizados com quadro grave de Covid que necessitam de suporte de oxigênio por máscara</segment>
+    <segment id="51">, cateter nasal ou ventilação mecânica.</segment>
+    <segment id="52">Remédios já aprovados no Brasil contra a Covid-19Mais    novamente         de   de  de  representando um</segment>
+    <segment id="53">Em teste  MOLNUPIRAVIR  A pílula desenvolvida pela farmacêutica MSD (conhecida</segment>
+    <segment id="54">comocomo Merck nos Estados Unidos e Canadá) reduziu em cerca de 50% o risco de hospitalização e morte para pacientes que podem desenvolver formas graves da doença</segment>
+    <segment id="55">, de acordo com os resultados preliminares de um estudo conduzido nos Estados Unidos.</segment>
+    <segment id="56">Após a divulgação dos resultados preliminares</segment>
+    <segment id="57">, a MSD e a Ridgeback Pharmaceutics anunciaram que planejam buscar a autorização para uso emergencial da pílula em diversos países.</segment>
+    <segment id="58">No Brasil</segment>
+    <segment id="59">, um ensaio clínico de fase 3 foi lançado em junho para avaliar o uso da droga duas vezes ao dia</segment>
+    <segment id="60">, por cinco dias</segment>
+    <segment id="61">, em pessoas com idade de 18 ou mais com diagnóstico de Covid (máximo quatro dias) e com sintomas.</segment>
+    <segment id="62">A MSD anunciou na última terça (5) que o Brasil fará parte também de um estudo de fase 3 para avaliar o uso profilático da droga</segment>
+    <segment id="63">, isto é</segment>
+    <segment id="64">, para impedir infecção pós-exposição pelo Sars-CoV-2.</segment>
+    <segment id="65">TOFACITINIBE</segment>
+    <segment id="66">O medicamento tofacitinibe</segment>
+    <segment id="67">, conhecido pelo nome comercial Xeljanz</segment>
+    <segment id="68">, desenvolvido pela farmacêutica Pfizer</segment>
+    <segment id="69">, apontou uma redução de 37% do risco de morte e falência respiratória em pacientes hospitalizados com Covid</segment>
+    <segment id="70">, de acordo com um estudo conduzido no Instituto Israelita de Ensino e Pesquisa</segment>
+    <segment id="71">, vinculado ao hospital de mesmo nome.</segment>
+    <segment id="72">A droga é atualmente indicada para o tratamento de artrite reumatoide</segment>
+    <segment id="73">, artrite psoriásica e retocolite ulcerativa.  AZD7442</segment>
+    <segment id="74">O tratamento com anticorpos da AstraZeneca apresentou eficácia de até 77% contra o risco de desenvolver Covid sintomática</segment>
+    <segment id="75">, segundo dados divulgados pela própria farmacêutica.</segment>
+    <segment id="76">A farmacêutica pretende apresentar um pedido para autorização de uso emergencial</segment>
+    <segment id="77">comocomo profilaxia (prevenção de infecção) contra a Covid.</segment>
+    <segment id="78">A AstraZeneca afirma</segment>
+    <segment id="79">, no entanto</segment>
+    <segment id="80">, que a droga não deve substituir a vacinação</segment>
+    <segment id="81">, que é uma forte medida de controle da pandemia e de proteção da doença.</segment>
+    <segment id="82">PF-07321332 + RITONAVIR</segment>
+    <segment id="83">O antiviral PF-07321332</segment>
+    <segment id="84">, desenvolvido pela Pfizer apresentou</segment>
+    <segment id="85">, em testes em animais</segment>
+    <segment id="86">, uma forte ação antiviral</segment>
+    <segment id="87">, impedindo a replicação do Sars-CoV-2.</segment>
+    <segment id="88">Se funcionar</segment>
+    <segment id="89">, a droga pode ser eficaz apenas nos estágios inicias da infecção.</segment>
+    <segment id="90">Os resultados promissores levaram ao anúncio</segment>
+    <segment id="91">, no último dia 27</segment>
+    <segment id="92">, de que a empresa dará prosseguimento a um grande estudo clínico para avaliar segurança e eficácia da droga associada ao ritonavir para prevenção de infecção pelo Sars-CoV-2.</segment>
+    <segment id="93">Atualmente</segment>
+    <segment id="94">, o ritonavir é utilizado contra o HIV.</segment>
+    <segment id="95">PLASMA CONVALESCENTE</segment>
+    <segment id="96">O Instituto Butantan</segment>
+    <segment id="97">, em São Paulo</segment>
+    <segment id="98">, está testando o uso do plasma de recuperados de Covid</segment>
+    <segment id="99">comocomo terapia para os pacientes com a forma grave da doença.</segment>
+    <segment id="100">O plasma convalescente</segment>
+    <segment id="101">, como</segment>
+    <segment id="102">como é chamado</segment>
+    <segment id="103">, é rico em anticorpos específicos contra o Sars-CoV-2 e pode ajudar a combater a infecção.</segment>
+    <segment id="104">Em janeiro</segment>
+    <segment id="105">, um estudo com 160 idosos conduzido na Argentina apontou para uma redução de 48% no risco de desenvolver um quadro respiratório grave.</segment>
+    <segment id="106">Além do plasma convalescente</segment>
+    <segment id="107">, o Butantan está também desenvolvendo um soro rico em anticorpos que poderá ser usado para tratamento da doença.</segment>
+    <segment id="108">Remédios em teste contra a CovidMais    novamente         de   de  de  representando um  Com benefício evidente  DEXAMETASONA</segment>
+    <segment id="109">O corticosteroide é um dos medicamentos mais utilizados para o tratamento de pacientes internados com Covid e com necessidade de suporte respiratório.</segment>
+    <segment id="110">Dados do estudo Recovery</segment>
+    <segment id="111">, da Universidade de Oxford</segment>
+    <segment id="112">, indicaram que a droga reduziu em cerca de 35% a mortalidade por Covid em pacientes que recebiam ventilação pulmonar mecânica e em cerca de 20% nos que necessitavam de inalação de oxigênio suplementar</segment>
+    <segment id="113">, sem a intubação.</segment>
+    <segment id="114">Não encontraram benefício</segment>
+    <segment id="115">, contudo</segment>
+    <segment id="116">contudo</segment>
+    <segment id="117">, em pacientes que não precisavam de suporte respiratório.​  ANTICOAGULANTES  Anticoagulantes</segment>
+    <segment id="118">, como</segment>
+    <segment id="119">como a heparina</segment>
+    <segment id="120">, são medicamentos acessíveis e amplamente utilizados em pacientes hospitalizados com quadro de síndrome respiratória grave causada pelo coronavírus.</segment>
+    <segment id="121">Um estudo conduzido por pesquisadores do Hospital Sírio-Libanês e do HC da USP avaliou diferentes dosagens de anticoagulantes em pacientes internados com Covid em estado grave e viu que houve uma melhora significativa dos tratados em relação à ocorrência de quadros tromboembólicos.</segment>
+    <segment id="122">Evidência de benefício contraditória  TOCILIZUMABE</segment>
+    <segment id="123">A droga</segment>
+    <segment id="124">, cujo uso indicado é para artrite</segment>
+    <segment id="125">, foi testada em diversos lugares do mundo para tratamento de pacientes internados em estado grave com Covid</segment>
+    <segment id="126">, masmas os resultados de estudos clínicos até agora não apontaram para redução de hospitalização ou morte.</segment>
+    <segment id="127">Um dos estudos</segment>
+    <segment id="128">, conduzido no Hospital das Clínicas da USP</segment>
+    <segment id="129">, apontou que o tocilizumabe não adicionou nenhum benefício em termos do paciente ser intubado ou reduzir a mortalidade.</segment>
+    <segment id="130">Em 2020</segment>
+    <segment id="131">, porém</segment>
+    <segment id="132">porém, o estudo Recovery</segment>
+    <segment id="133">, com 4.000 voluntários</segment>
+    <segment id="134">, demonstrou um resultado positivo do tocilizumabe em reduzir a mortalidade quando comparado ao tratamento padrão.</segment>
+    <segment id="135">Esse foi o único estudo da droga a ter desfecho favorável</segment>
+    <segment id="136">, uma vez que nos estudos menores os resultados não indicaram eficácia do tocilizumabe contra a Covid.</segment>
+    <segment id="137">Sem benefício evidente  AVIFAVIR (FAVIPIRAVIR)  Usado contra gripe</segment>
+    <segment id="138">, o antiviral favipiravir teve seu pedido para uso em pacientes hospitalizados com Covid negado pela Anvisa por não atender os requisitos mínimos de segurança e eficácia.</segment>
+    <segment id="139">Favipiravir</segment>
+    <segment id="140">, droga usada contra influenza</segment>
+    <segment id="141">, não teve benefício evidente no uso contra a Covid  - Issei Kato/ReutersLOPINAVIR + RITONAVIR</segment>
+    <segment id="142">As duas drogas antivirais</segment>
+    <segment id="143">, utilizadas no combate ao HIV</segment>
+    <segment id="144">, não promoveram nenhum benefício em pacientes hospitalizados com Covid de acordo com o estudo Recovery</segment>
+    <segment id="145">, da OMS.​</segment>
+    <segment id="146">Comprovadamente ineficazes contra Covid-19  CLOROQUINA E HIDROXICLOROQUINA</segment>
+    <segment id="147">A cloroquina e a hidroxicloroquina foram as drogas mais testadas contra a Covid e</segment>
+    <segment id="148">, em todos os estudos de alto rigor científico</segment>
+    <segment id="149">, incluindo o maior estudo brasileiro</segment>
+    <segment id="150">, não apresentaram eficácia para pacientes com sintomas leves ou moderados.</segment>
+    <segment id="151">Remédios sem eficácia contra a CovidMais    novamente         de   de  de  representando um  IVERMECTINA</segment>
+    <segment id="152">O antiparasitário de uso veterinário</segment>
+    <segment id="153">, cujo efeito antiviral contra o vírus foi demonstrado em ensaios in vitro no ano passado</segment>
+    <segment id="154">, não apresentou nenhum benefício contra a Covid em humanos.</segment>
+    <segment id="155">A conclusão</segment>
+    <segment id="156">, inclusive</segment>
+    <segment id="157">, foi divulgada pela própria fabricante do medicamento</segment>
+    <segment id="158">, a farmacêutica MSD.  NITAZOXANIDA (ANNITA)</segment>
+    <segment id="159">Outro antiparasitário que foi testado para a Covid e não teve eficácia comprovada.  EXO-CD24 (SPRAY NASAL)</segment>
+    <segment id="160">Originalmente desenvolvido para combater câncer de ovário</segment>
+    <segment id="161">, foi testado em Israel contra a Covid</segment>
+    <segment id="162">, masmas até agora sua eficácia contra a doença não foi comprovada.</segment>
+    <segment id="163">PROXALUTAMIDA  Bloqueador de hormônios masculinos ainda em fase de desenvolvimento contra câncer de próstata</segment>
+    <segment id="164">, o medicamento não teve sua eficácia contra a Covid comprovada.</segment>
+    <segment id="165">Estudos conduzidos no Brasil estão sendo investigados por possíveis fraudes e por não possuir autorização para testes em humanos.</segment>
+  </rst>
+</analysis>

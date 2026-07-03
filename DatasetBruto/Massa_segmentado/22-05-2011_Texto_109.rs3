@@ -1,0 +1,110 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Dependentes de gadgets</segment>
+    <segment id="2">, usuários</segment>
+    <segment id="3">sese esquecem de coisas simples e raciocinam menos
+
+RIO -</segment>
+    <segment id="4">O professor do MIT Nicholas Carr já disse em seu livro "</segment>
+    <segment id="5">The big switch" que a internet está nos deixando mais burros e dificultando o aprendizado.</segment>
+    <segment id="6">Agora, o jornalista especializado em TI Robert Vamosi</segment>
+    <segment id="7">, autor de "</segment>
+    <segment id="8">When gadgets betray us"</segment>
+    <segment id="9">("quando os gadgets nos traem")</segment>
+    <segment id="10">, defende que não só a rede</segment>
+    <segment id="11">, masmas nossa dependência crescente de PCs</segment>
+    <segment id="12">, celulares</segment>
+    <segment id="13">, tablets e afins está afetando nossa capacidade de raciocinar.</segment>
+    <segment id="14">Num trecho do livro</segment>
+    <segment id="15">, ele dá o exemplo de uma mulher tão concentrada no GPS de seu smartphone no interior da Inglaterra que</segment>
+    <segment id="16">, ao parar o carro e abrir a porteira de uma fazenda que a levava a seu destino</segment>
+    <segment id="17">, não viu que estacionara sobre uma linha de trem.</segment>
+    <segment id="18">Logo uma composição passou em alta velocidade e esmagou seu carro</segment>
+    <segment id="19">, a metros dela.</segment>
+    <segment id="20">"</segment>
+    <segment id="21">Pude sentir o vento no meu rosto"</segment>
+    <segment id="22">, contou ela.</segment>
+    <segment id="23">Como mostra reportagem de André Machado</segment>
+    <segment id="24">, publicada na edição do GLOBO desta segunda-feira</segment>
+    <segment id="25">, o vício em internet (em inglês</segment>
+    <segment id="26">, internet addiction disorder) já afeta entre 5% e 10% dos internautas</segment>
+    <segment id="27">, segundo números da Universidade de Harvard</segment>
+    <segment id="28">, nos EUA.</segment>
+    <segment id="29">Estudos do Centro para Comportamento na Internet acrescentam que 6% dos usuários são propensos a compulsão ao acessarem serviços</segment>
+    <segment id="30">comocomo sites de sexo</segment>
+    <segment id="31">, jogos</segment>
+    <segment id="32">, apostas e compras.</segment>
+    <segment id="33">Já há centros para tratar essa dependência</segment>
+    <segment id="34">comocomo o ICAS (Internet and Computer Addiction Services) e o reSTART Internet Addiction Recovery Program</segment>
+    <segment id="35">, que tem até 12 passos que lembram um pouco os dos Alcoólicos Anônimos.
+- Relatos de pais sobre a vida tecnológica de seus filhos demonstram que isso acontece com frequência - confirma o psiquiatra Maurício Tostes</segment>
+    <segment id="36">, do Hospital da UFRJ.</segment>
+    <segment id="37">- É preciso observar</segment>
+    <segment id="38">sese a compulsão não é uma fuga de frustrações no trabalho</segment>
+    <segment id="39">, no estudo ou na vida pessoal.</segment>
+    <segment id="40">Entre os efeitos da dependência está a perda de velhos hábitos.</segment>
+    <segment id="41">Por exemplo: com memórias cada vez mais abundantes nos equipamentos</segment>
+    <segment id="42">, criam-</segment>
+    <segment id="43">sese agendas intermináveis e a antiga capacidade de decorar números acaba ficando de lado.
+- Eu não sei mais nem o número de telefone da minha casa - confessa Alexandra Monteiro</segment>
+    <segment id="44">, diretora do Laboratório de Telessaúde da UERJ.</segment>
+    <segment id="45">- Creio que isso</segment>
+    <segment id="46">sese deve às limitações de nossa memória cerebral</segment>
+    <segment id="47">, que, na nossa geração</segment>
+    <segment id="48">, não foi "treinada" para isso e vem perdendo as funções fisiológicas de armazenamento com o estímulo das diversas mídias.</segment>
+    <segment id="49">Bruno Salgado</segment>
+    <segment id="50">, diretor da empresa de consultoria de segurança Clavis</segment>
+    <segment id="51">, está tão dependente da tecnologia em sua vida que</segment>
+    <segment id="52">, numa viagem a São Paulo na semana passada</segment>
+    <segment id="53">, usou a internet até dentro do táxi</segment>
+    <segment id="54">, todos os dias.
+- Eu e meus colegas tínhamos dois eventos para ir - conta.</segment>
+    <segment id="55">- Mesmo sem saber o endereço</segment>
+    <segment id="56">, entrávamos no táxi e pedíamos que nos levasse a determinado bairro.</segment>
+    <segment id="57">Durante o trajeto</segment>
+    <segment id="58">, checávamos o endereço pela internet e o passávamos ao motorista.</segment>
+    <segment id="59">Também usávamos a web e o GPS para achar restaurantes nas redondezas de nosso hotel e verificávamos on-line o que havia no cardápio.</segment>
+    <segment id="60">Salgado lembra que hoje nem mesmo um apagão impede a navegação on-line</segment>
+    <segment id="61">, via notebooks e smartphones - pelo menos até o fim da bateria.</segment>
+    <segment id="62">A dependência - que pode</segment>
+    <segment id="63">, segundo as instituições especializadas</segment>
+    <segment id="64">, ocasionar compulsões específicas</segment>
+    <segment id="65">comocomo o vício em teclar SMS - é mais visível na geração Y</segment>
+    <segment id="66">, que já nasceu conectada à rede e vive em função das redes sociais e afins.</segment>
+    <segment id="67">É o caso</segment>
+    <segment id="68">caso da estudante universitária Gabriela Caesar</segment>
+    <segment id="69">, tão apaixonada por seu iPhone que quase esqueceu a matemática.
+- Nas aulas de matemática na escola era proibido usar calculadora.</segment>
+    <segment id="70">Quando saí do colégio desaprendi a fazer conta - admite.</segment>
+    <segment id="71">-</segment>
+    <segment id="72">Uso a calculadora do iPhone para calcular qualquer coisa</segment>
+    <segment id="73">, como</segment>
+    <segment id="74">como média de determinada matéria da faculdade.</segment>
+    <segment id="75">Quando recebo troco?</segment>
+    <segment id="76">Não confiro.</segment>
+    <segment id="77">E não sou a única</segment>
+    <segment id="78">, com colegas às vezes acontece o mesmo.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,110 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Por muito tempo acreditou-</segment>
+    <segment id="2">sese que a inteligência artificial acabaria com os empregos de natureza repetitiva.</segment>
+    <segment id="3">Em famoso estudo publicado em 2013</segment>
+    <segment id="4">, Carl Frey e Michael Osborne defendiam que</segment>
+    <segment id="5">, quanto mais repetitiva fosse a natureza do trabalho</segment>
+    <segment id="6">, mais suscetível ele estaria à automação.</segment>
+    <segment id="7">Listavam trabalhadores da área de serviços de manutenção</segment>
+    <segment id="8">, transporte e operação de máquinas</segment>
+    <segment id="9">comocomo altamente prováveis de perder seus empregos nos próximos anos.</segment>
+    <segment id="10">Já os trabalhadores criativos</segment>
+    <segment id="11">, segmento em que há operações intelectuais complexas envolvidas</segment>
+    <segment id="12">, como</segment>
+    <segment id="13">como artistas</segment>
+    <segment id="14">, músicos</segment>
+    <segment id="15">, fotógrafos</segment>
+    <segment id="16">, escritores</segment>
+    <segment id="17">, desenhistas e outros</segment>
+    <segment id="18">, teriam probabilidade menor de automação.</segment>
+    <segment id="19">Estamos vendo agora o oposto do que Osborne e Frey previram.</segment>
+    <segment id="20">São os trabalhadores criativos (e a indústria cultural) que estão em risco de sofrer uma mudança cataclísmica.</segment>
+    <segment id="21">A razão é o surgimento de modelos de inteligência artificial acessíveis ao público que são capazes de "criar" praticamente qualquer tipo de conteúdo com alguns poucos comandos de texto</segment>
+    <segment id="22">, gratuitamente ou por um valor significativamente baixo.  Ilustração Catarina</segment>
+    <segment id="23">PignatoDentre esses modelos</segment>
+    <segment id="24">, estão o ChatGPT</segment>
+    <segment id="25">, o Dall-E</segment>
+    <segment id="26">, o Stable Diffusion</segment>
+    <segment id="27">, a Hugging Faces</segment>
+    <segment id="28">, o AlphaCode e assim por diante.</segment>
+    <segment id="29">A capacidade desses sistemas é ao mesmo tempo impressionante e assustadora.</segment>
+    <segment id="30">No ChatGPT</segment>
+    <segment id="31">, é possível gerar qualquer tipo de texto</segment>
+    <segment id="32">, bem como</segment>
+    <segment id="33">como pesquisar informações antes impossíveis de serem obtidas de forma automatizada.</segment>
+    <segment id="34">Por exemplo</segment>
+    <segment id="35">, perguntei para o ChatGPT quais pratos culinários aparecem citados nos livros de Jorge Amado.</segment>
+    <segment id="36">Na hora ele soube identificar essas categorias e produzir uma lista coerente: feijoada</segment>
+    <segment id="37">, moqueca</segment>
+    <segment id="38">, vatapá</segment>
+    <segment id="39">, acarajé</segment>
+    <segment id="40">, bobó de camarão.</segment>
+    <segment id="41">Poderia ter pedido para o sistema escrever qualquer tipo de texto ou ensaio</segment>
+    <segment id="42">, e a resposta seria na maioria dos casos coerente.</segment>
+    <segment id="43">O ChatGPT e modelos semelhantes podem substituir uma quantidade avassaladora de trabalho criativo humano.</segment>
+    <segment id="44">Seja na geração de textos jornalísticos</segment>
+    <segment id="45">, seja na produção de conteúdo para redes sociais e newsletters</segment>
+    <segment id="46">, seja no atendimento em call centers</segment>
+    <segment id="47">, e assim por diante.</segment>
+    <segment id="48">E, claro</segment>
+    <segment id="49">, na automação de atividades maliciosas</segment>
+    <segment id="50">, como</segment>
+    <segment id="51">como criação de fake news</segment>
+    <segment id="52">, conteúdo inflamatório ou trapaça no mundo educacional.</segment>
+    <segment id="53">Vai ficar cada vez mais difícil para um professor detectar plágio de alunos usando ChatGPT para fazer suas tarefas em qualquer disciplina (matemática</segment>
+    <segment id="54">, biologia</segment>
+    <segment id="55">, geografia etc.).</segment>
+    <segment id="56">O problema não para por aí.</segment>
+    <segment id="57">Os modelos de inteligência artificial são capazes de gerar qualquer conteúdo.</segment>
+    <segment id="58">Fotos, desenhos</segment>
+    <segment id="59">, imagens</segment>
+    <segment id="60">, músicas</segment>
+    <segment id="61">, filmes e animações de excelente qualidade.</segment>
+    <segment id="62">Por exemplo</segment>
+    <segment id="63">, um dos modelos já é capaz de gerar playlists no Spotify.</segment>
+    <segment id="64">Você digita o tipo de clima que quer ("Festa de Réveillon só com música brasileira animada")</segment>
+    <segment id="65">, e a playlist surge na hora.</segment>
+    <segment id="66">Por um lado</segment>
+    <segment id="67">, isso democratiza habilidades que antes eram especializadas.</segment>
+    <segment id="68">Por outro</segment>
+    <segment id="69">, tem o potencial de destruir o valor da criatividade.</segment>
+    <segment id="70">Por que alguém contrataria um fotógrafo ou compraria imagens de um banco de imagens</segment>
+    <segment id="71">sese posso gerar tudo de graça usando inteligência artificial</segment>
+    <segment id="72">, com qualidade às vezes melhor do que os conteúdos "reais"?</segment>
+    <segment id="73">Isso traz também questões</segment>
+    <segment id="74">, inclusive regulatórias.</segment>
+    <segment id="75">O Brasil</segment>
+    <segment id="76">, por exemplo</segment>
+    <segment id="77">, está discutindo um projeto de lei para regular inteligência artificial.</segment>
+    <segment id="78">Ele já nasceu obsoleto.</segment>
+    <segment id="79">Foi feito com base em outros conceitos e preocupações.</segment>
+    <segment id="80">É praticamente incapaz de lidar com os desafios desses novos modelos que estão entre nós.</segment>
+    <segment id="81">Tema para um outro artigo.</segment>
+    <segment id="82">Disney cria ferramenta de inteligência artificial que envelhece e rejuvenesce atoresMais    novamente         de   de  de  representando um  READER  Já era Emoticons</segment>
+    <segment id="83">Já é Emojis e figurinhas Já vem</segment>
+    <segment id="84">Avatares feitos por AI capazes de falar e expressar emoções</segment>
+  </rst>
+</analysis>

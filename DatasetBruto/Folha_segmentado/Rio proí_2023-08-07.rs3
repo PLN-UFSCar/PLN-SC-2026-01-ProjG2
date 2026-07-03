@@ -1,0 +1,103 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Prefeitura do Rio de Janeiro proibiu o uso de celulares nas salas de aula das escolas municipais.</segment>
+    <segment id="2">O decreto</segment>
+    <segment id="3">, assinado pelo prefeito Eduardo Paes (PSD)</segment>
+    <segment id="4">, foi publicado nesta segunda-feira (7).</segment>
+    <segment id="5">O decreto determina que o celular não poderá ficar sobre a carteira</segment>
+    <segment id="6">, ou no bolso do aluno:</segment>
+    <segment id="7">ele deverá ser guardado na mochila.</segment>
+    <segment id="8">O aparelho precisará estar desligado</segment>
+    <segment id="9">, ou ligado em modo silencioso</segment>
+    <segment id="10">, ou em modo vibração.</segment>
+    <segment id="11">Alunos que descumprirem a regra poderão ser advertidos pelo professor.</segment>
+    <segment id="12">Em caso</segment>
+    <segment id="13">caso de insistência</segment>
+    <segment id="14">, a direção da escola poderá ser acionada.</segment>
+    <segment id="15">A rede municipal de ensino do Rio tem 1.545 escolas e 660 mil alunos</segment>
+    <segment id="16">, incluindo creches conveniadas.</segment>
+    <segment id="17">As escolas recebem alunos até o nono ano.  "</segment>
+    <segment id="18">O uso dos celulares atrapalha a concentração e prejudica diretamente a aprendizagem.</segment>
+    <segment id="19">É como</segment>
+    <segment id="20">como se</segment>
+    <segment id="21">se o aluno saísse de sala toda vez que vê uma notificação.</segment>
+    <segment id="22">Não tem</segment>
+    <segment id="23">comocomo prestar atenção e aprender de forma plena assim.</segment>
+    <segment id="24">Além disso</segment>
+    <segment id="25">, a escola é lugar de socialização e ficar no celular atrapalha a convivência social</segment>
+    <segment id="26">, deixa a criança isolada em sua própria tela"</segment>
+    <segment id="27">, afirmou o secretário municipal de Educação</segment>
+    <segment id="28">, Renan Ferreirinha.</segment>
+    <segment id="29">Alunos utilizam celular durante intervalo em escola no Paraná</segment>
+    <segment id="30">; no Rio</segment>
+    <segment id="31">, escolas municipais vão vetar o uso durante aula - Mathilde Missioneiro/Folhapress"É necessário educar e apoiar as crianças para esse novo tempo.</segment>
+    <segment id="32">Nesse sentido</segment>
+    <segment id="33">, regras são fundamentais"</segment>
+    <segment id="34">, completou.</segment>
+    <segment id="35">O decreto municipal autoriza o celular nos casos em que o professor quiser usar para fins pedagógicos</segment>
+    <segment id="36">, como</segment>
+    <segment id="37">como pesquisas e leituras.</segment>
+    <segment id="38">Alunos com deficiência ou com problemas de saúde que necessitem dos celulares para monitoramento ou auxílio poderão usar sem restrição.</segment>
+    <segment id="39">Em São Paulo</segment>
+    <segment id="40">, uma lei municipal de 2009 proíbe que o aluno receba ou efetue chamadas dentro das salas de aula.</segment>
+    <segment id="41">A Secretaria Municipal de Educação afirma</segment>
+    <segment id="42">, no entanto</segment>
+    <segment id="43">, que incentiva o uso dos equipamentos</segment>
+    <segment id="44">, pois</segment>
+    <segment id="45">pois eles "podem ampliar o conhecimento dos estudantes".  "</segment>
+    <segment id="46">As escolas possuem currículo específico para aprendizagens relacionadas às tecnologias e uso consciente das ferramentas.</segment>
+    <segment id="47">Na rede municipal os estudantes receberam tablets</segment>
+    <segment id="48">comocomo forma de auxiliar na aprendizagem por meio do ensino híbrido"</segment>
+    <segment id="49">, disse a secretaria</segment>
+    <segment id="50">, em nota.</segment>
+    <segment id="51">Celular e internet avançam em lares brasileiros</segment>
+    <segment id="52">; TV e computador caemMais    novamente         de   de  de  representando um  No governo estadual paulista</segment>
+    <segment id="53">, a Secretaria de Educação havia decidido abrir mão de receber livros didáticos</segment>
+    <segment id="54">, enviados pelo MEC (Ministério da Educação)</segment>
+    <segment id="55">, para os alunos dos anos finais do ensino fundamental (do 6º ao 9º).</segment>
+    <segment id="56">A gestão tinha optado por usar apenas um material didático</segment>
+    <segment id="57">, produzido pela própria equipe da Secretaria de Educação</segment>
+    <segment id="58">, que seria disponibilizado apenas de forma digital às escolas.</segment>
+    <segment id="59">Mas depois de anunciar e defender o uso de material digital</segment>
+    <segment id="60">, o secretário de Educação da gestão Tarcísio de Freitas (Republicanos)</segment>
+    <segment id="61">, Renato Feder</segment>
+    <segment id="62">, recuou sobre o uso da tecnologia em sala de aula e diz que vai imprimir livros didáticos</segment>
+    <segment id="63">para que</segment>
+    <segment id="64">para que os alunos possam "escrever</segment>
+    <segment id="65">, anotar e rabiscar".</segment>
+    <segment id="66">Em julho</segment>
+    <segment id="67">, a Unesco (Organização das Nações Unidas para a Educação</segment>
+    <segment id="68">, a Ciência e a Cultura) divulgou relatório em que alerta sobre os impactos negativos do uso de celulares em sala de aula na aprendizagem e concentração dos estudantes.  "</segment>
+    <segment id="69">O uso da tecnologia pelos estudantes em salas de aula e em casa pode ser uma distração</segment>
+    <segment id="70">, prejudicando a aprendizagem"</segment>
+    <segment id="71">, diz o documento.</segment>
+    <segment id="72">A Unesco também identificou que 1 em cada 4 países já proibiu ou restringiu o uso de celulares dentro das salas de aula.</segment>
+    <segment id="73">Também há um alerta de que o uso de aparelhos tecnológicos em sala pode aprofundar as desigualdades educacionais.</segment>
+    <segment id="74">Não apenas por questões financeiras ou de acesso à internet e equipamentos</segment>
+    <segment id="75">, masmas também entre estudantes com as mesmas condições socioeconômicas.</segment>
+    <segment id="76">Ciência nas escolasMais    novamente         de   de  de  representando</segment>
+    <segment id="77">um</segment>
+  </rst>
+</analysis>

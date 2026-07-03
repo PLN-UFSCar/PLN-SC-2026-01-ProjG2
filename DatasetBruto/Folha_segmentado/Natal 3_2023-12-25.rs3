@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Três em dez paulistas decidiram passar as festas de fim de ano em casa e pensam em viajar apenas fora da temporada.</segment>
+    <segment id="2">É o que mostra uma pesquisa do Sem Parar</segment>
+    <segment id="3">, uma das principais empresas de pagamento voltado à mobilidade do país</segment>
+    <segment id="4">, como</segment>
+    <segment id="5">como pedágios e estacionamentos.</segment>
+    <segment id="6">Neste ano</segment>
+    <segment id="7">, 44% dos entrevistados afirmaram que viajariam no fim de ano —quatro pontos percentuais a menos do que em 2022.</segment>
+    <segment id="8">Do restante</segment>
+    <segment id="9">, 32% ficariam na cidade e 24% decidiriam de última hora.</segment>
+    <segment id="10">Tráfego de veículos na Rodovia dos Imigrantes - Adriano Vizoni - 26.fev.2022/FolhapressOs que optaram em permanecer em casa nesse período de festas explicaram que preferiam guardar dinheiro para viajar fora dessa temporada.</segment>
+    <segment id="11">Segundo o Sem Parar</segment>
+    <segment id="12">, os destinos preferidos para quem queria sair de casa foram litoral e interior de SP (34% e 33%</segment>
+    <segment id="13">, respectivamente).</segment>
+    <segment id="14">Outros 28% viajariam para outros estado e 4%</segment>
+    <segment id="15">, para o exterior.</segment>
+    <segment id="16">Com Diego</segment>
+    <segment id="17">Felix</segment>
+  </rst>
+</analysis>

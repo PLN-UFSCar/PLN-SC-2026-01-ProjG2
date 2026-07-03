@@ -1,0 +1,92 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Secretaria da Receita Federal (RFB) tem o dever de</segment>
+    <segment id="2">, periodicamente</segment>
+    <segment id="3">, publicar dados referentes à distribuição da renda e da riqueza das pessoas físicas com base em informações por elas prestadas nas suas declarações de rendimentos</segment>
+    <segment id="4">, bem como</segment>
+    <segment id="5">como o decorrente relatório sobre a distribuição da renda e da riqueza da população brasileira a partir de tais dados.</segment>
+    <segment id="6">O mais recente</segment>
+    <segment id="7">, publicado em fins de 2023</segment>
+    <segment id="8">, abrange os anos de 2021 e 2022.</segment>
+    <segment id="9">Sua leitura atenta</segment>
+    <segment id="10">, porém</segment>
+    <segment id="11">porém, evidencia alguns equívocos em suas conclusões.</segment>
+    <segment id="12">De forma resumida</segment>
+    <segment id="13">, a partir de dados e elementos das declarações prestadas pelas pessoas físicas</segment>
+    <segment id="14">, as autoridades concluíram que os contribuintes com maiores rendimentos têm a mesma alíquota efetiva de imposto sobre a renda que aqueles que têm menores rendimentos.</segment>
+    <segment id="15">A alíquota efetiva é um instrumento de medição do efetivo encargo tributário do contribuinte apurada a partir do valor total da renda auferida dividida pelo valor do imposto devido</segment>
+    <segment id="16">, irrelevante à alíquota nominal prevista em lei.</segment>
+    <segment id="17">A baixa alíquota efetiva dos contribuintes com maiores rendas decorreria</segment>
+    <segment id="18">, de acordo com a RFB</segment>
+    <segment id="19">, dentre outros elementos</segment>
+    <segment id="20">, da isenção de lucros e dividendos.</segment>
+    <segment id="21">Para se</segment>
+    <segment id="22">se apurar a exatidão dessa afirmativa é essencial examinar as origens e fundamentos da isenção.</segment>
+    <segment id="23">Prédio da Superintendência da Receita Federal</segment>
+    <segment id="24">, em Brasília- Antonio Molina/Folhapress - FolhapressAté o ano de 1995</segment>
+    <segment id="25">, quando entrou em vigor o art. 10 da lei 9.249</segment>
+    <segment id="26">, a distribuição de dividendos era tributada na fonte.</segment>
+    <segment id="27">A "Exposição de Motivos" dessa lei esclarece que a isenção na distribuição e na declaração de rendimentos dos beneficiários tem por finalidade simplificar a apuração do imposto corporativo</segment>
+    <segment id="28">, reduzindo as vias de planejamento fiscal</segment>
+    <segment id="29">, integrando a tributação das pessoas físicas e jurídicas e</segment>
+    <segment id="30">, especialmente</segment>
+    <segment id="31">, afastando a tributação do mesmo lucro pela sociedade e pelo sócio.</segment>
+    <segment id="32">Com esse propósito</segment>
+    <segment id="33">, majorou-</segment>
+    <segment id="34">sese a alíquota do imposto corporativo</segment>
+    <segment id="35">, que passou a ser de 15% mais um adicional de 10% (lucro acima de R$ 20 mil por mês)</segment>
+    <segment id="36">, deixando o sócio de ser onerado.</segment>
+    <segment id="37">A "Exposição de Motivos" ainda afirma que a escolha fiscal estimula o investimento nas atividades produtivas.</segment>
+    <segment id="38">Deduções permitidas no Imposto de RendaMais</segment>
+    <segment id="39">novamente         de   de  de  representando um  À época da edição da lei 9.249</segment>
+    <segment id="40">coexistiam múltiplas alíquotas onerando a distribuição de lucros</segment>
+    <segment id="41">, e a sua uniformização foi um ganho para o fisco e para o contribuinte.</segment>
+    <segment id="42">Destaque-</segment>
+    <segment id="43">sese, ainda</segment>
+    <segment id="44">, que à tributação dos dividendos na fonte associavam-</segment>
+    <segment id="45">sese dois outros elementos preocupantes: 1 - a distribuição disfarçada de lucros</segment>
+    <segment id="46">, que permitia ao fisco enquadrar negócios sob tal condição</segment>
+    <segment id="47">, cabendo ao contribuinte o ônus de afastar tal presunção</segment>
+    <segment id="48">; e 2 - a dificuldade de compensar o imposto retido na fonte nas cadeias anteriores</segment>
+    <segment id="49">, o qual remanescia em balanço sem atualização.</segment>
+    <segment id="50">Com a lei 9.249</segment>
+    <segment id="51">, o lucro é distribuído ao sócio após tributado na sociedade à razão de 34%</segment>
+    <segment id="52">, a saber: 25% pelo Imposto sobre a Renda e 9% pela Contribuição Social sobre o Lucro.</segment>
+    <segment id="53">Esses elementos são suficientes para demonstrar o quão destituída de fundamento é a afirmativa do fisco de que a isenção dos dividendos afeta o cálculo do imposto sobre a renda devido pelo contribuinte pessoa física</segment>
+    <segment id="54">, posto que todo o ônus tributário recaindo sobre o lucro corporativo já tributa indiretamente o investidor à razão de 34%.</segment>
+    <segment id="55">Para se</segment>
+    <segment id="56">se modificar essa situação</segment>
+    <segment id="57">, o que é absolutamente destituído de razoabilidade</segment>
+    <segment id="58">, como</segment>
+    <segment id="59">como se</segment>
+    <segment id="60">se vê, a alíquota do imposto na distribuição deveria ser maximizada</segment>
+    <segment id="61">, para a pessoa física</segment>
+    <segment id="62">, assim abalando-</segment>
+    <segment id="63">sese o equilíbrio trazido pela lei 9.249/95.</segment>
+    <segment id="64">TENDÊNCIAS / DEBATES</segment>
+    <segment id="65">Os artigos publicados com assinatura não traduzem a opinião do jornal.</segment>
+    <segment id="66">Sua publicação obedece ao propósito de estimular o debate dos problemas brasileiros e mundiais e de refletir as diversas tendências do pensamento contemporâneo.</segment>
+  </rst>
+</analysis>

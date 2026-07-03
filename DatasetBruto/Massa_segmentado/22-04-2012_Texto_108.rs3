@@ -1,0 +1,54 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Bactéria encontrada em UTI neonatal de Marechal Hermes
+RIO - A comissão de infecção hospitalar do Hospital Municipal Maternidade Alexander Fleming</segment>
+    <segment id="2">, em Marechal Hermes</segment>
+    <segment id="3">, identificou a presença de uma bactéria perigosa na UTI neonatal da instituição</segment>
+    <segment id="4">, há cerca de 20 dias.</segment>
+    <segment id="5">Ainda não há confirmação de mortes</segment>
+    <segment id="6">, masmas bebês foram transferidos para evitar a exposição à Acinetobacter</segment>
+    <segment id="7">, que pode provocar pneumonia</segment>
+    <segment id="8">, infecções de pele e sangue</segment>
+    <segment id="9">, feridas e meningite.</segment>
+    <segment id="10">Algumas das mães dos recém-nascidos internados ali disseram não ter sido informadas sobre a ameaça.
+-</segment>
+    <segment id="11">Meu filho foi transferido do terceiro para o quarto andar há 15 dias</segment>
+    <segment id="12">, mais ou menos</segment>
+    <segment id="13">, masmas me disseram que o motivo é que o espaço passaria por obras - afirmou a estudante Ana Elizabeth Rosa</segment>
+    <segment id="14">, de 17 anos</segment>
+    <segment id="15">, mãe de Marcos Vinícius</segment>
+    <segment id="16">, que nasceu prematuro e está há 40 dias na UTI neonatal do hospital.</segment>
+    <segment id="17">A direção do Alexander Fleming alega que as mães foram avisadas sobre os riscos e que ainda desconhece as causas da contaminação.</segment>
+    <segment id="18">De acordo com a assessoria de imprensa da Secretaria municipal de Saúde</segment>
+    <segment id="19">, o caso</segment>
+    <segment id="20">caso está em investigação</segment>
+    <segment id="21">, e até o momento não é possível afirmar</segment>
+    <segment id="22">sese algum bebê morreu por exposição à bactéria.</segment>
+    <segment id="23">Ainda segundo a prefeitura</segment>
+    <segment id="24">, a UTI neonatal da unidade na Zona Oeste passará por "reformas estruturais".</segment>
+    <segment id="25">Durante o período não especificado em que os trabalhos serão realizados</segment>
+    <segment id="26">, o serviço vai funcionar num espaço improvisado no quarto andar da maternidade.</segment>
+  </rst>
+</analysis>

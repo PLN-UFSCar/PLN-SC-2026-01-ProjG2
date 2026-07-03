@@ -1,0 +1,38 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Mendigata estÃ¡ cheia de tesÃ£o</segment>
+    <segment id="2">Gata diz que nÃ£o precisou de bebidas para ficar Ã  vontade ao posar para as cÃ¢meras</segment>
+    <segment id="3">Fernanda Lacerda</segment>
+    <segment id="4">, que interpreta a Mendigata</segment>
+    <segment id="5">, no programa PÃ¢nico (Band)</segment>
+    <segment id="6">, estrela a Playboy de outubro.</segment>
+    <segment id="7">Para fazer o ensaio sensual para a revista</segment>
+    <segment id="8">, ela diz que nenhuma bebida foi necessÃ¡ria para ficar Ã  vontade.</segment>
+    <segment id="9">NÃ£o precisei beber absolutamente nada</segment>
+    <segment id="10">, e fiz com muito tesÃ£o.</segment>
+    <segment id="11">Solteira</segment>
+    <segment id="12">, ela gosta de homem que a faÃ§a rir.</segment>
+  </rst>
+</analysis>

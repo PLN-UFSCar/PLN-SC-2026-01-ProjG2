@@ -1,0 +1,54 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">1 aninho
+MASSA!</segment>
+    <segment id="2">faz aniversário e presenteia leitores</segment>
+    <segment id="3">É neste mês que o MASSA! apaga a primeira velinha e</segment>
+    <segment id="4">, para celebrar um ano de vida</segment>
+    <segment id="5">, o jornal feito do seu jeit traz muitas novidades.</segment>
+    <segment id="6">Em um concurso cultural  será oferecido  um carro Uno Mille Economy novinho para o criador da frase mais criativa</segment>
+    <segment id="7">, em uma ação em conjunto com a concessionária Marvel.</segment>
+    <segment id="8">Em parceira com o Carrapixo</segment>
+    <segment id="9">, o jornal também vai escolher um vencedor para uma TV 42 polegadas  Full HD - basta preencher o cupom</segment>
+    <segment id="10">, entregar em um posto credenciado.</segment>
+    <segment id="11">Neste mês</segment>
+    <segment id="12">, fique ligado nas matérias do MASSA!</segment>
+    <segment id="13">, pois</segment>
+    <segment id="14">pois  vamos relembrar  as histórias que marcaram estes doze meses de muitas realizações e cumplicidade com a Bahia.</segment>
+    <segment id="15">Comemore conosco!</segment>
+    <segment id="16">Classificado: Agora você pode anunciar aqui!</segment>
+    <segment id="17">Em comemoração ao aniversário de um ano do  MASSA!</segment>
+    <segment id="18">, será lançado este mês o caderno diário de anúncios</segment>
+    <segment id="19">, o nosso Classificado!</segment>
+    <segment id="20">Agora será um jornal mais completo e por um precinho bem em conta</segment>
+    <segment id="21">, você poderá anunciar imóveis</segment>
+    <segment id="22">, carros</segment>
+    <segment id="23">, seus serviços etc.</segment>
+    <segment id="24">E não deixe de participar desta festa.</segment>
+    <segment id="25">Mande seu recado para o MASSA!</segment>
+    <segment id="26">através do email</segment>
+    <segment id="27">: redacao@jornalmassa.com.br</segment>
+  </rst>
+</analysis>

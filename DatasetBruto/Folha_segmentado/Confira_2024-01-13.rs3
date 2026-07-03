@@ -1,0 +1,106 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Ministério do Trabalho e Emprego divulgou a nova tabela anual do seguro-desemprego</segment>
+    <segment id="2">, corrigida pelo INPC (Índice Nacional de Preços ao Consumidor) de 2023</segment>
+    <segment id="3">, que foi de 3</segment>
+    <segment id="4">,71%.</segment>
+    <segment id="5">Trabalhadores com pedido de seguro-desemprego registrados a partir de quinta-feira (11) vão receber o benefício com o reajuste da inflação.</segment>
+    <segment id="6">O valor do benefício pago a trabalhadores desempregados varia de acordo com a média de seus salários nos três meses anteriores à demissão e não pode ser inferior ao salário mínimo vigente</segment>
+    <segment id="7">, R$ 1.412.</segment>
+    <segment id="8">Trabalhador direito ao seguro-desemprego</segment>
+    <segment id="9">sese tiver recebido pelo menos 12 salários nos 18 meses anteriores à demissãoOs trabalhadores cujos últimos três salários forem maiores que R$ 3.402</segment>
+    <segment id="10">,65 terão direito</segment>
+    <segment id="11">, invariavelmente</segment>
+    <segment id="12">, ao seguro-desemprego no valor de R$ 2.313</segment>
+    <segment id="13">,74.</segment>
+    <segment id="14">TABELA DO SEGURO-DESEMPREGO</segment>
+    <segment id="15">EM 2024     Média dos três últimos salários</segment>
+    <segment id="16">Cálculo do seguro-desemprego</segment>
+    <segment id="17">Até R$ 2.041</segment>
+    <segment id="18">,39 Multiplica-</segment>
+    <segment id="19">sese o salário médio por 0</segment>
+    <segment id="20">,8</segment>
+    <segment id="21">De R$ 2.041</segment>
+    <segment id="22">,40 até R$ 3.402</segment>
+    <segment id="23">,65 Multiplica-</segment>
+    <segment id="24">sese por 0</segment>
+    <segment id="25">,5 o que exceder a R$ 2.041</segment>
+    <segment id="26">,39.</segment>
+    <segment id="27">Soma-se</segment>
+    <segment id="28">se com R$ 1.633</segment>
+    <segment id="29">,10</segment>
+    <segment id="30">Acima de R$ 3.402</segment>
+    <segment id="31">,65 R$ 2.313</segment>
+    <segment id="32">,74</segment>
+    <segment id="33">O número de parcelas do seguro-desemprego varia de acordo com a solicitação e a duração do trabalho que antecedeu o pedido.</segment>
+    <segment id="34">A liberação da parcela ocorre sempre 30 dias após a requisição ou saque da parcela anterior.</segment>
+    <segment id="35">Na primeira vez em que pede o benefício</segment>
+    <segment id="36">, o trabalhador receberá por cinco meses</segment>
+    <segment id="37">sese tiver trabalhado pelo menos 24 meses nos últimos 36 meses (dois anos de registro em carteira nos três anos anteriores).</segment>
+    <segment id="38">Para quem trabalhou entre 12 e 23 meses nos últimos três anos</segment>
+    <segment id="39">, o seguro será pago em quatro parcelas.</segment>
+    <segment id="40">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="41">; aberta para não assinantes.</segment>
+    <segment id="42">Carregando...</segment>
+    <segment id="43">Na segunda solicitação</segment>
+    <segment id="44">, as regras para ter quatro ou cinco parcelas são as mesmas.</segment>
+    <segment id="45">Há ainda a possibilidade de receber três parcelas</segment>
+    <segment id="46">, no caso</segment>
+    <segment id="47">caso de quem trabalhou entre nove e 11 meses nos 36 meses que antecederam a demissão.</segment>
+    <segment id="48">TEM DIREITO AO SEGURO-DESEMPREGO</segment>
+    <segment id="49">O TRABALHADOR QUE:   Tiver sido dispensado sem justa causa</segment>
+    <segment id="50">;</segment>
+    <segment id="51">Estiver desempregado</segment>
+    <segment id="52">, quando do requerimento do benefício</segment>
+    <segment id="53">;</segment>
+    <segment id="54">Ter recebido salários de pessoa jurídica ou pessoa física equiparada à jurídica (inscrita no CEI) relativos a  pelo menos 12 meses nos últimos 18 meses imediatamente anteriores à data de dispensa</segment>
+    <segment id="55">, quando da primeira solicitação</segment>
+    <segment id="56">; pelo menos 9 meses nos últimos 12 meses imediatamente anteriores à data de dispensa</segment>
+    <segment id="57">, quando da segunda solicitação</segment>
+    <segment id="58">;</segment>
+    <segment id="59">cada um dos 6 meses imediatamente anteriores à data de dispensa</segment>
+    <segment id="60">, quando das demais solicitações</segment>
+    <segment id="61">;   Não possuir renda própria para o seu sustento e de sua família</segment>
+    <segment id="62">;</segment>
+    <segment id="63">Não estiver recebendo benefício de prestação continuada da Previdência Social</segment>
+    <segment id="64">, exceto pensão por morte ou auxílio-acidente.</segment>
+    <segment id="65">COMO PEDIR</segment>
+    <segment id="66">O SEGURO-DESEMPREGO</segment>
+    <segment id="67">O benefício deve ser solicitado nas Superintendências Regionais do Trabalho e Emprego</segment>
+    <segment id="68">, na Secretaria Especial da Previdência e Trabalho</segment>
+    <segment id="69">, pelo SINE (Sistema Nacional de Emprego) ou em outros postos credenciados pelo Ministério do Trabalho e Emprego  Também é possível fazer o pedido em:</segment>
+    <segment id="70">Portal Gov.br</segment>
+    <segment id="71">;</segment>
+    <segment id="72">Aplicativo Carteira de Trabalho Digital</segment>
+    <segment id="73">, nas versões Android ou iOS</segment>
+    <segment id="74">;</segment>
+    <segment id="75">Presencialmente</segment>
+    <segment id="76">, nas unidades das Superintendências Regionais do Trabalho</segment>
+    <segment id="77">, após agendamento de atendimento pela central 158</segment>
+    <segment id="78">;</segment>
+    <segment id="79">É preciso apresentar Documento do Requerimento do Seguro-Desemprego (recebido do empregador no momento da demissão sem justa causa) e número do CPF.</segment>
+    <segment id="80">Quem tem direito ao seguro-desempregoMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

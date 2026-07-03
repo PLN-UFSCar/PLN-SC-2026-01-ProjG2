@@ -1,0 +1,37 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Carlinhos Brown em busca do Oscar</segment>
+    <segment id="2">O músico já embarcou para Los Angeles</segment>
+    <segment id="3">, onde vai participar da cerimônia do Oscar 2012</segment>
+    <segment id="4">Mal acabou o Carnaval e Carlinhos Brown já caiu na estrada.</segment>
+    <segment id="5">Ou melhor</segment>
+    <segment id="6">, levantou voo.</segment>
+    <segment id="7">O músico embarcou ontem para Los Angeles</segment>
+    <segment id="8">, onde vai participar da cerimônia de entrega do Oscar 2012 no domingo.</segment>
+    <segment id="9">O cacique do Candeal concorre ao Oscar de melhor canção original.</segment>
+    <segment id="10">Na volta</segment>
+    <segment id="11">, já começa a preparar o lançamento de seu novo CD “Mixturação”.</segment>
+  </rst>
+</analysis>

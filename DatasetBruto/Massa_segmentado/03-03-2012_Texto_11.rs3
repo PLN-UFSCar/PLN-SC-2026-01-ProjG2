@@ -1,0 +1,48 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um furacão arrasa em Paripe</segment>
+    <segment id="2">Ela garante que come de tudo</segment>
+    <segment id="3">, masmas confessa que malha muito para</segment>
+    <segment id="4">sese manter
+Tayse Costa</segment>
+    <segment id="5">, 19 anos</segment>
+    <segment id="6">, provoca uma tempestade por onde passa.</segment>
+    <segment id="7">Talvez por isso tenha passado com louvor no teste para ser dançarina da banda Furacão</segment>
+    <segment id="8">, onde trabalha há dois meses.</segment>
+    <segment id="9">A gata gosta do que faz</segment>
+    <segment id="10">, masmas quer</segment>
+    <segment id="11">sese aperfeiçoar e investir nos estudos.</segment>
+    <segment id="12">“Não pretendo viver só da dança.</segment>
+    <segment id="13">Quero cursar Educação Física e conciliar as duas profissões”</segment>
+    <segment id="14">, confessa.</segment>
+    <segment id="15">Festas</segment>
+    <segment id="16">, praia e academia fazem parte da rotina da gata</segment>
+    <segment id="17">, que adora curtir a vida ao lado da irmã</segment>
+    <segment id="18">, Milena.</segment>
+    <segment id="19">“</segment>
+    <segment id="20">Ela e minha mãe são meu porto seguro”</segment>
+    <segment id="21">, afirma.</segment>
+  </rst>
+</analysis>

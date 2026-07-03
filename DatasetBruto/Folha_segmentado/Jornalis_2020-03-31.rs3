@@ -1,0 +1,35 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O jornalista Leo Dias já acertou com Gusttavo Lima: e​m julho</segment>
+    <segment id="2">, ele começa a escrever a biografia do cantor e compositor.</segment>
+    <segment id="3">Gusttavo Lima e Família   novamente         de   de  de  representando um  LEIA</segment>
+    <segment id="4">TODOS OS TEMAS ABORDADOS PELA COLUNA NA EDIÇÃO IMPRESSA DESTA TERÇA (31)Hospital das Clínicas já afastou 125 funcionários por coronavírusAdvogados</segment>
+    <segment id="5">emitem nota de apoio a Gabriela Prioli</segment>
+    <segment id="6">, que deixou a CNN BrasilJornalista Leo Dias fará biografia do cantor Gusttavo LimaSede do Instituto Chão</segment>
+    <segment id="7">, em SP</segment>
+    <segment id="8">, é assaltadaEm ligação</segment>
+    <segment id="9">, Temer sugeriu a Bolsonaro decreto de isolamento social por dez diasBruno Covas pagará R$ 1.200 mensais a catadores de recicláveisCelebridades postam fotos em quarentena   novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

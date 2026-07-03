@@ -1,0 +1,41 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Remédio Ex-presidente do Banco Central na última grande crise global</segment>
+    <segment id="2">, em 2008</segment>
+    <segment id="3">, Henrique Meirelles afirma que a venda de reservas cambiais só deve ser acionada para suprir escassez de dólares localizada</segment>
+    <segment id="4">, não para moderar a alta da moeda.</segment>
+    <segment id="5">O risco é contribuir para a contração da economia doméstica</segment>
+    <segment id="6">, já em curso.</segment>
+    <segment id="7">A coluna</segment>
+    <segment id="8">Painel agora está disponível por temas.</segment>
+    <segment id="9">Para ler todos os assuntos abordados na edição desta terça (10) clique abaixo:    Para políticos</segment>
+    <segment id="10">, Bolsonaro parece omisso em meio à turbulência global  AGU diz que ex-PGR cometeu erro grosseiro ao dar adicional a servidores</segment>
+    <segment id="11">Com avanço de vírus</segment>
+    <segment id="12">, Ministério da Saúde abre espaço pra discutir fechamento de escolas</segment>
+    <segment id="13">Meirelles diz que venda de reservas pelo BC pode ajudar a contrair a economia</segment>
+    <segment id="14">Governadores calculam efeito de coronavírus sobre receitas locais ​Henrique Meirelles</segment>
+    <segment id="15">, secretário da Fazenda do governo de SP - Avener Prado - 19.dez.2018/Folhapress</segment>
+  </rst>
+</analysis>

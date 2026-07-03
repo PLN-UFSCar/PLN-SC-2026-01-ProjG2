@@ -1,0 +1,54 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">EUA podem ter nova recessão</segment>
+    <segment id="2">, diz analista
+NOVA YORK - Em evento sobre mercados emergentes realizado nesta terça-feira em Nova York</segment>
+    <segment id="3">, analistas da agência de classificação de risco Fitch pintaram um quadro sombrio para a economia de EUA e Europa.</segment>
+    <segment id="4">Convidada a fazer a apresentação principal</segment>
+    <segment id="5">, Anne Milne</segment>
+    <segment id="6">, diretora de mercados emergentes do Bank of America</segment>
+    <segment id="7">,</segment>
+    <segment id="8">disse que as chances de uma recessão em "W" - ou "mergulho duplo"- no mundo desenvolvido são de 40%.
+
+- Estimamos as chances de nova recessão nos EUA e na Europa em 40%</segment>
+    <segment id="9">, masmas isso muda o tempo todo</segment>
+    <segment id="10">, até o fim do dia pode estar em 50% - disse Anne</segment>
+    <segment id="11">, cujo banco anunciou a demissão de 30 mil pessoas até 2014.</segment>
+    <segment id="12">Ed Parker</segment>
+    <segment id="13">, diretor-executivo da Fitch para risco soberano</segment>
+    <segment id="14">, apresentou a China e o Brasil</segment>
+    <segment id="15">comocomo os países emergentes menos expostos aos efeitos da crise no mundo desenvolvido.</segment>
+    <segment id="16">Os pontos mais frágeis do Brasil</segment>
+    <segment id="17">, na avaliação da Fitch</segment>
+    <segment id="18">, são o peso da exportação de commodities e a situação fiscal (o grau de endividamento do governo).</segment>
+    <segment id="19">O risco da inflação esteve presente em todas as intervenções dos analistas da Fitch.</segment>
+    <segment id="20">Entre os 42 países emergentes avaliados pela Fitch</segment>
+    <segment id="21">, os da Europa Oriental</segment>
+    <segment id="22">, como</segment>
+    <segment id="23">como Hungria e República Tcheca</segment>
+    <segment id="24">, aparecem entre os mais vulneráveis à crise</segment>
+    <segment id="25">, devido à dependência do mercado europeu.</segment>
+  </rst>
+</analysis>

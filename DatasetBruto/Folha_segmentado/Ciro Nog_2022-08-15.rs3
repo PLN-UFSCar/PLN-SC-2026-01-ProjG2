@@ -1,0 +1,46 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O ministro Ciro Nogueira (Casa Civil)</segment>
+    <segment id="2">, o presidente da Câmara dos Deputados</segment>
+    <segment id="3">, Arthur Lira</segment>
+    <segment id="4">, o presidente do Senado</segment>
+    <segment id="5">, Rodrigo Pacheco</segment>
+    <segment id="6">, e o ministro do STF Dias Toffoli</segment>
+    <segment id="7">sese reúnem nesta sexta (19) para falar do equilíbrio dos Três Poderes.</segment>
+    <segment id="8">O debate vai acontecer em um dos painéis de um seminário do grupo Esfera Brasil</segment>
+    <segment id="9">, lançado pelo empresário João Camargo</segment>
+    <segment id="10">, que promove encontros entre representantes dos setores público e privado.</segment>
+    <segment id="11">O evento</segment>
+    <segment id="12">, que vai acontecer em São Paulo</segment>
+    <segment id="13">, também terá a presença de nomes</segment>
+    <segment id="14">comocomo Isaac Sidney</segment>
+    <segment id="15">, presidente da Febraban</segment>
+    <segment id="16">, e Robson Andrade</segment>
+    <segment id="17">, da CNI.</segment>
+    <segment id="18">Arthur Lira</segment>
+    <segment id="19">, presidente da Câmara dos Deputados - Adriano Machado - 20.jun.22/Reuters  Joana Cunha com Paulo Ricardo Martins e Diego</segment>
+    <segment id="20">Felix</segment>
+  </rst>
+</analysis>

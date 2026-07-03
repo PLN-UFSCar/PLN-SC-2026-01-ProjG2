@@ -1,0 +1,59 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O primeiro carro</segment>
+    <segment id="2">, a gente não esquece</segment>
+    <segment id="3">Pai e filho</segment>
+    <segment id="4">sese emocionaram ao receber as chaves das mãos de Manuela
+Dedicação e perseverança.</segment>
+    <segment id="5">Essa foi a explicação que Marcelo Silva dos Santos</segment>
+    <segment id="6">, 18 anos</segment>
+    <segment id="7">, vencedor do concurso cultural promovido pelo MASSA!</segment>
+    <segment id="8">, deu para a sua vitória.</segment>
+    <segment id="9">Com o incentivo dos pais</segment>
+    <segment id="10">, Valdir Silva dos Santos e Arlete Rocha</segment>
+    <segment id="11">, o estudante de Química da Uneb botou a cachola para trabalhar e enviou mais de 60 cupons com frases criativas.</segment>
+    <segment id="12">Uma delas deu-lhe de presente o Fiat Uno.</segment>
+    <segment id="13">“</segment>
+    <segment id="14">Agora, tenho que providenciar uma garagem”</segment>
+    <segment id="15">, brincou o rapaz</segment>
+    <segment id="16">, que mora com os pais</segment>
+    <segment id="17">, irmã e primo na Vasco da Gama e pretende passear muito com a família</segment>
+    <segment id="18">, que vinha ralando muito para economizar uma graninha e comprar o sonhado primeiro carrinho.</segment>
+    <segment id="19">Agora, ele veio de presente.</segment>
+    <segment id="20">E chegou em boa hora</segment>
+    <segment id="21">, pois</segment>
+    <segment id="22">pois o moço está tirando sua carteira de habilitação em poucos dias.</segment>
+    <segment id="23">Mas não foi só a família de Marcelo que comemorou a vitória.</segment>
+    <segment id="24">Manuela Tanajura de Castro Lima</segment>
+    <segment id="25">, diretora da Marcel Fiat</segment>
+    <segment id="26">, festejou o sucesso da promoção.</segment>
+    <segment id="27">“</segment>
+    <segment id="28">A ação mobilizou a sociedade.</segment>
+    <segment id="29">Muita gente querendo participar.</segment>
+    <segment id="30">O MASSA!</segment>
+    <segment id="31">caiu no gosto do cliente e hoje atinge todas as classes”</segment>
+    <segment id="32">, comemorou.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,51 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Com a chegada da primavera e o aumento das temperaturas</segment>
+    <segment id="2">, é comum sentir menos fome e preferir fazer refeições mais leves.</segment>
+    <segment id="3">Para o acompanhar a chegada da nova estação</segment>
+    <segment id="4">, a chef Gabi Junqueira ensina o preparo de um salmão de primavera.</segment>
+    <segment id="5">Salmão de primavera da chef Gabi Junqueira - DivulgaçãoA receita leva apenas quatro ingredientes</segment>
+    <segment id="6">, típicos da estação</segment>
+    <segment id="7">, e não exige conhecimentos avançados na cozinha.</segment>
+    <segment id="8">Além de prática</segment>
+    <segment id="9">, a combinação é saudável e nutritiva.</segment>
+    <segment id="10">Ingredientes   500 g de salmão 1 pacote de aspargos 250 g de tomate cereja 400 g de batatas bolinha</segment>
+    <segment id="11">Azeite Vinagre balsâmico</segment>
+    <segment id="12">Flor de sal</segment>
+    <segment id="13">Modo de preparo</segment>
+    <segment id="14">Lave e seque bem as batatinhas</segment>
+    <segment id="15">, aspargos e tomates.</segment>
+    <segment id="16">Disponha as batatas bolinha em um refratário que vá ao forno</segment>
+    <segment id="17">, salpicando azeite por todas elas e uma pitada de flor de sal.</segment>
+    <segment id="18">Leve para assar a 200°C por 20 minutos.</segment>
+    <segment id="19">Adicione os aspargos e volte a assar por mais 10 minutos.</segment>
+    <segment id="20">Tempere o salmão com a flor de sal</segment>
+    <segment id="21">, besunte com o vinagre balsâmico e o azeite e faça o mesmo processo com os tomates.</segment>
+    <segment id="22">Coloque-os na assadeira com algumas folhas de manjericão e leve para assar por mais 15 minutos ou até dourar.</segment>
+    <segment id="23">Retire do forno e decore com mais folhas de manjericão</segment>
+    <segment id="24">, adicionando um toque de frescor ao prato.</segment>
+    <segment id="25">Sirva a seguir.</segment>
+  </rst>
+</analysis>

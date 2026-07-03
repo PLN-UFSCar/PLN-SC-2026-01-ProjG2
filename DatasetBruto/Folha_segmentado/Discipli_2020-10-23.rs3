@@ -1,0 +1,104 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo federal está frente ao risco de perder o controle sobre o crescimento da dívida pública.</segment>
+    <segment id="2">Não tem sido capaz de apresentar uma estratégia para preservar o teto de gastos</segment>
+    <segment id="3">, rever programas e benefícios fiscais ineficientes ou remover privilégios.</segment>
+    <segment id="4">A dúvida sobre a capacidade do Tesouro de pagar a dívida ao longo dos próximos anos pode nos jogar em décadas de estagnação econômica</segment>
+    <segment id="5">, pobreza e desigualdade.</segment>
+    <segment id="6">Há quem pense diferente</segment>
+    <segment id="7">, e argumente que a disciplina fiscal é uma desculpa para retirar verbas das políticas sociais.</segment>
+    <segment id="8">Não falta quem chame o teto de gastos de “PEC da morte” ou proponha continuar aumentando gastos sociais</segment>
+    <segment id="9">, sem dizer</segment>
+    <segment id="10">comocomo pagá-los.</segment>
+    <segment id="11">Será que abrir mão da disciplina fiscal é o melhor caminho para melhorar a vida das pessoas?</segment>
+    <segment id="12">Quais são as regras do governo para controlar o gasto público?   novamente         de   de  de  representando um</segment>
+    <segment id="13">Uma forma de explorar essa questão é analisar o que aconteceu nos estados brasileiros nas últimas décadas.</segment>
+    <segment id="14">Estados de maior responsabilidade fiscal</segment>
+    <segment id="15">sese saíram melhor ou pior em seus indicadores sociais?</segment>
+    <segment id="16">Os governos estaduais são responsáveis pela execução de parcela importante das políticas públicas de impacto social</segment>
+    <segment id="17">, com destaque para educação e saúde.</segment>
+    <segment id="18">Ao mesmo tempo</segment>
+    <segment id="19">, apresentam diferentes graus de responsabilidade fiscal</segment>
+    <segment id="20">, mensurados pela Secretaria do Tesouro Nacional por meio de um índice de Capacidade de Pagamento (Capag).</segment>
+    <segment id="21">Trata-</segment>
+    <segment id="22">sese de atribuir</segment>
+    <segment id="23">, a cada estado</segment>
+    <segment id="24">, uma nota entre “</segment>
+    <segment id="25">A” (a melhor) e “D” (a pior).</segment>
+    <segment id="26">A Capag usa três métricas essenciais: o nível de endividamento</segment>
+    <segment id="27">, a liquidez (saldo de recursos em caixa) e o superávit corrente (diferença entre receitas e despesas correntes).</segment>
+    <segment id="28">O esforço de ajuste para melhorar de nota é não desprezível.</segment>
+    <segment id="29">Só tem uma boa nota hoje quem fez o dever de casa ao longo de anos.</segment>
+    <segment id="30">Em um extremo</segment>
+    <segment id="31">, com nota D</segment>
+    <segment id="32">, temos Rio de Janeiro</segment>
+    <segment id="33">, Minas Gerais e Rio Grande do Sul</segment>
+    <segment id="34">, que se</segment>
+    <segment id="35">se notabilizaram</segment>
+    <segment id="36">comocomo exemplos de irresponsabilidade fiscal ao longo de várias gestões.</segment>
+    <segment id="37">Na outra ponta</segment>
+    <segment id="38">, há apenas um estado nota</segment>
+    <segment id="39">A: o Espírito Santo.</segment>
+    <segment id="40">Os que têm nota B fazem um trabalho consistente</segment>
+    <segment id="41">, apesar das dificuldades.</segment>
+    <segment id="42">São eles:</segment>
+    <segment id="43">AC, AM</segment>
+    <segment id="44">, AL, CE</segment>
+    <segment id="45">, PR, PB</segment>
+    <segment id="46">, PA, PI e SP.</segment>
+    <segment id="47">Os demais têm nota</segment>
+    <segment id="48">C.  Tomemos dois indicadores sociais relevantes</segment>
+    <segment id="49">, que são influenciados pelas políticas públicas estaduais</segment>
+    <segment id="50">, para ver</segment>
+    <segment id="51">comocomo eles evoluíram em estados com diferentes notas na Capag.</segment>
+    <segment id="52">No primeiro gráfico</segment>
+    <segment id="53">, temos a variação</segment>
+    <segment id="54">, entre 2005 e 2019</segment>
+    <segment id="55">, do Índice de Desenvolvimento da Educação Básica (Ideb) do ensino médio</segment>
+    <segment id="56">, a fase da educação sob responsabilidade direta das administrações estaduais.</segment>
+    <segment id="57">O que vemos é que os estados de maior responsabilidade fiscal avançaram mais na qualidade do ensino médio.</segment>
+    <segment id="58">O segundo gráfico mostra a variação da taxa de mortalidade infantil</segment>
+    <segment id="59">, um indicador de grande importância para mensuração da qualidade de saúde.</segment>
+    <segment id="60">Mais uma vez</segment>
+    <segment id="61">, os estados de maior responsabilidade fiscal</segment>
+    <segment id="62">sese saíram melhor.</segment>
+    <segment id="63">A responsabilidade fiscal parece não prejudicar os bons resultados sociais.</segment>
+    <segment id="64">Quem administra bem as contas</segment>
+    <segment id="65">, controla melhor as políticas públicas</segment>
+    <segment id="66">, avalia seus resultados e fecha os ralos de ineficiência.</segment>
+    <segment id="67">Qualidade de gestão faz muita diferença.</segment>
+    <segment id="68">Progresso social não é apenas gastar mais.</segment>
+    <segment id="69">Inferir relação de causalidade entre as variáveis mostradas nos gráficos requer esforço de pesquisa que transcende uma coluna de jornal.</segment>
+    <segment id="70">Ter apenas um estado com nota</segment>
+    <segment id="71">A também impõe cautela às conclusões.</segment>
+    <segment id="72">Mas nada há nesses dados que indique que remover regras fiscais e gastar sem limite seja uma estratégia adequada para melhorar a vida das pessoas.</segment>
+    <segment id="73">Se não funciona nos estados</segment>
+    <segment id="74">, pior ainda na União.</segment>
+    <segment id="75">Os impactos adversos da baixa responsabilidade fiscal federal sobre a economia são mais fortes</segment>
+    <segment id="76">, prejudicando o crescimento e aumentando a pobreza.</segment>
+    <segment id="77">Além disso</segment>
+    <segment id="78">, estimula os estados a seguir a trilha da inconsequência.​</segment>
+  </rst>
+</analysis>

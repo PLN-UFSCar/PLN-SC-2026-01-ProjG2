@@ -1,0 +1,173 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O transformer que gerou burburinho neste começo de ano não foi um carro que</segment>
+    <segment id="2">sese transforma em robô de guerra</segment>
+    <segment id="3">, e sim o site ChatGPT.</segment>
+    <segment id="4">Em segundos</segment>
+    <segment id="5">, ele transforma um pedido para escrever uma música com o estilo de Chico Buarque sobre saúde sexual numa letra com 24 versos.</segment>
+    <segment id="6">O refrão</segment>
+    <segment id="7">, porém</segment>
+    <segment id="8">porém, soou sem ginga</segment>
+    <segment id="9">, como</segment>
+    <segment id="10">como se</segment>
+    <segment id="11">se fosse máquina: "</segment>
+    <segment id="12">Porque a saúde mental é tão importante/ Assim</segment>
+    <segment id="13">comocomo a saúde sexual/ E precisamos falar sobre isso/ Para vivermos de forma saudável.</segment>
+    <segment id="14">"</segment>
+    <segment id="15">A sigla GPT dá pistas de</segment>
+    <segment id="16">comocomo isso foi feito</segment>
+    <segment id="17">, significa Generative Pre Trainer Transformer: um modelo computacional treinado previamente com textos de toda a internet para tornar uma pergunta ou pedido em uma resposta coerente e natural.</segment>
+    <segment id="18">Generativo</segment>
+    <segment id="19">porque</segment>
+    <segment id="20">porque dá impressão de que algo novo foi criado.</segment>
+    <segment id="21">O próprio robô falha em explicar muito bem</segment>
+    <segment id="22">comocomo funciona.</segment>
+    <segment id="23">Questionado pela reportagem</segment>
+    <segment id="24">, deixou a resposta abaixo.</segment>
+    <segment id="25">A Folha pediu para o Dall-e</segment>
+    <segment id="26">, site da OpenAI que produz imagens</segment>
+    <segment id="27">, para fazer um desenho de um robô no centro de São Paulo</segment>
+    <segment id="28">, inspirado no grafite brasileiro - Reprodução/Dall-e"ChatGPT usa técnicas de aprendizado de máquina para aprender a gerar texto de forma autônoma.</segment>
+    <segment id="29">Ele é baseado em algoritmos de redes neurais</segment>
+    <segment id="30">, especificamente no modelo GPT</segment>
+    <segment id="31">, que é treinado com grandes conjuntos de dados de texto para aprender a reconhecer padrões e gerar texto coerente e natural.</segment>
+    <segment id="32">Ele é capaz de produzir respostas para perguntas e tarefas de geração de texto sem ser explicitamente programado para isso".</segment>
+    <segment id="33">Em suma</segment>
+    <segment id="34">, o treinamento com textos de toda a internet fez o tal modelo GPT criar 175 bilhões de regras.</segment>
+    <segment id="35">O robô recebe um texto e entrega a resposta mais provável com base nessa miríade de condições</segment>
+    <segment id="36">, muitas delas só compreensíveis por máquinas.</segment>
+    <segment id="37">"É uma caixa preta"</segment>
+    <segment id="38">, diz o professor de computação da USP de São Carlos André Carlos Ponce de Leon.</segment>
+    <segment id="39">Mas o ChatGPT funciona e tem conquistado adeptos ao redor do mundo.</segment>
+    <segment id="40">Sam Altman</segment>
+    <segment id="41">, CEO da OpenAI</segment>
+    <segment id="42">, dona do robô</segment>
+    <segment id="43">, disse que em cinco dias de funcionamento conseguiu um milhão de usuários.</segment>
+    <segment id="44">No fim de janeiro</segment>
+    <segment id="45">, já somava 100 milhões</segment>
+    <segment id="46">, segundo o banco de investimento UBS.</segment>
+    <segment id="47">Qualquer pessoa pode acessar</segment>
+    <segment id="48">, no site da OpenAI</segment>
+    <segment id="49">, a versão beta robô conversador</segment>
+    <segment id="50">, embora</segment>
+    <segment id="51">embora a imensa demanda faça o ChatGPT responder</segment>
+    <segment id="52">, com frequência</segment>
+    <segment id="53">, que está ocupado.</segment>
+    <segment id="54">A startup anunciou nesta quarta-feira (1º) uma versão 'plus' do chatbot por US$ 20 —R$ 101</segment>
+    <segment id="55">, na cotação atual— que promete funcionamento 24 horas por dia</segment>
+    <segment id="56">, masmas o serviço</segment>
+    <segment id="57">, por enquanto</segment>
+    <segment id="58">, está disponível só nos Estados Unidos.</segment>
+    <segment id="59">Na ocasião em que o teste foi possível</segment>
+    <segment id="60">, foi permitido à reportagem fazer dez perguntas por hora.</segment>
+    <segment id="61">Elas serviram para testar</segment>
+    <segment id="62">sese o robô realmente não reproduz preconceitos e discurso de ódio</segment>
+    <segment id="63">, como</segment>
+    <segment id="64">como a OpenAI havia prometido em comunicado.</segment>
+    <segment id="65">Seu predecessor</segment>
+    <segment id="66">, o GPT-3 perdeu credibilidade ao reproduzir até ideias nazistas.</segment>
+    <segment id="67">A Folha perguntou ao ChatGPT onde encontrar pornografia.</segment>
+    <segment id="68">A resposta foi:</segment>
+    <segment id="69">"Eu não vou fornecer informações sobre conteúdo adulto ou ilegal.</segment>
+    <segment id="70">Se você precisa de ajuda para lidar com problemas relacionados a conteúdo adulto</segment>
+    <segment id="71">, recomendo procurar ajuda profissional".</segment>
+    <segment id="72">A reportagem aproveitou para comprovar</segment>
+    <segment id="73">sese o robô consegue retomar trechos prévios da conversa e pediu a composição com estilo de Chico Buarque sobre o tema.</segment>
+    <segment id="74">Funcionou.</segment>
+    <segment id="75">ComboA newsletter da Folha com o que interessa sobre a indústria de games e com as dicas do que você ainda vai jogar.</segment>
+    <segment id="76">Carregando...</segment>
+    <segment id="77">Para facilitar a redação de scripts de computação</segment>
+    <segment id="78">, programadores também relatam nas redes sociais ter recorrido ao ChatGPT</segment>
+    <segment id="79">, que desempenha melhor nessa atividade do que em criações artíticas.</segment>
+    <segment id="80">Com a ajuda do ChatGPT</segment>
+    <segment id="81">, o professor de estatística da USP Alexandre Patriota diz ter conseguido programar uma rede neural convolucional com linguagem</segment>
+    <segment id="82">R. Precisou apenas fazer pequenas correções.</segment>
+    <segment id="83">O caso</segment>
+    <segment id="84">caso está gravado no YouTube.</segment>
+    <segment id="85">Patriota afirma que o robô é um assistente virtual eficiente para profissionais de qualquer área do conhecimento.</segment>
+    <segment id="86">Quem utilizar a tecnologia</segment>
+    <segment id="87">, entretanto</segment>
+    <segment id="88">, precisa</segment>
+    <segment id="89">sese responsabilizar pela produção e corrigir eventuais falhas.</segment>
+    <segment id="90">Leia maisLuca Belli e Nina da Hora analisam ChatGPTUniversidades estão preocupadas com ChatGPTChatGPT precisou de trabalho terceirizado de quenianosDe acordo com a revista Nature</segment>
+    <segment id="91">, o ChatGPT já foi listado</segment>
+    <segment id="92">comocomo coautor em ao menos quatro artigos científicos.</segment>
+    <segment id="93">Há temores que estudantes usem a tecnologia para entregar ensaios sem</segment>
+    <segment id="94">sese esforçar</segment>
+    <segment id="95">, ou que a ferramenta vire uma máquina de produção de plágio ou até de desinformação.</segment>
+    <segment id="96">A ferramenta</segment>
+    <segment id="97">, aliás</segment>
+    <segment id="98">, pode inventar referências acadêmicas</segment>
+    <segment id="99">, misturando diferentes textos que processou no treinamento.</segment>
+    <segment id="100">O CEO da OpenAI</segment>
+    <segment id="101">, Sam Altman</segment>
+    <segment id="102">, disse em entrevista ao StrictlyVC</segment>
+    <segment id="103">, veículo digital que cobre inovação no Vale do Silício</segment>
+    <segment id="104">, que sua equipe fará ajustes no curto prazo.</segment>
+    <segment id="105">Nesta quarta</segment>
+    <segment id="106">, a startup lançou uma ferramenta para identificar textos gerados por inteligência artificial</segment>
+    <segment id="107">, masmas a própria companhia reconhece que a tecnologia é muito imprecisa quando aplicada em textos com menos de 1.000 caracteres.</segment>
+    <segment id="108">"</segment>
+    <segment id="109">Pode haver algumas formas de nós ajudarmos professores a serem capazes de reconhecer respostas dadas pelo ChatGPT.</segment>
+    <segment id="110">Nós nos adaptamos a calculadoras e mudamos o que era testado nas disciplinas de matemática.</segment>
+    <segment id="111">Essa é uma versão mais extrema disso</segment>
+    <segment id="112">, sem dúvida.</segment>
+    <segment id="113">Mas os benefícios disso também são mais extremos"</segment>
+    <segment id="114">, afirmou.</segment>
+    <segment id="115">O ChatGPT também não tem acesso a informações referentes a fatos posteriores a 2021.</segment>
+    <segment id="116">Não consegue responder</segment>
+    <segment id="117">, por exemplo</segment>
+    <segment id="118">, quem é o presidente do Brasil.</segment>
+    <segment id="119">Veja cenas de &amp;#039</segment>
+    <segment id="120">;M3GAN&amp;#039</segment>
+    <segment id="121">;, filme de horror produzido por James WanMais    novamente         de   de  de  representando um  Saiba</segment>
+    <segment id="122">comocomo conversar com o robô inteligente</segment>
+    <segment id="123">O ChatGPT está disponível para teste gratuito no site da OpenAI e pode ser acessado neste link.</segment>
+    <segment id="124">Para conversar com o chatbot pela primeira vez</segment>
+    <segment id="125">, é necessário criar uma conta na OpenAI</segment>
+    <segment id="126">, clicando na opção "Register".</segment>
+    <segment id="127">A plataforma pede apenas a criação de uma senha de acesso e a informação de um email</segment>
+    <segment id="128">, para o qual é enviada uma mensagem de confirmação.</segment>
+    <segment id="129">A verificação exige que o usuário clique no link indicado no corpo do email.</segment>
+    <segment id="130">Após a confirmação</segment>
+    <segment id="131">, basta selecionar a opção "Login" e inserir as informações de acesso.</segment>
+    <segment id="132">A OpenAI</segment>
+    <segment id="133">, então</segment>
+    <segment id="134">, pede o nome do usuário e</segment>
+    <segment id="135">, sese houver</segment>
+    <segment id="136">, a organização da qual ele faz parte.</segment>
+    <segment id="137">Depois</segment>
+    <segment id="138">, um número de telefone</segment>
+    <segment id="139">, a ser verificado por SMS.</segment>
+    <segment id="140">A criadora do ChatGPT oferece</segment>
+    <segment id="141">, então</segment>
+    <segment id="142">, acesso ao robô.</segment>
+    <segment id="143">Cada usuário pode fazer 10 perguntas por hora no chat da plataforma.</segment>
+    <segment id="144">A tecnologia processa com precisão apenas pedidos com menos de 2.048 com caracteres</segment>
+    <segment id="145">, contando espaços.</segment>
+    <segment id="146">A conta na OpenAI também garante acesso ao Dall-E</segment>
+    <segment id="147">, plataforma de inteligência artificial que gera imagens com base em texto.</segment>
+  </rst>
+</analysis>

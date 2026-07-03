@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Concurso de fantasia gay no Carnaval
+Este ano</segment>
+    <segment id="2">, R$ 12 mil serão distribuídos em prêmios para os seis classificados
+Quer concorrer ao traje mais belo do 15º Concurso Nacional de Fantasia Gay?</segment>
+    <segment id="3">Então, corra!</segment>
+    <segment id="4">As inscrições estão abertas e podem ser feitas pelo telefone 3322-2552.</segment>
+    <segment id="5">Este ano</segment>
+    <segment id="6">, R$ 12 mil serão distribuídos em prêmios para os seis classificados na categoria originalidade.</segment>
+    <segment id="7">A final acontece em 20 de fevereiro</segment>
+    <segment id="8">, no Pelô.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,55 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Secretário da Receita Federal</segment>
+    <segment id="2">, Robinson Barreirinhas</segment>
+    <segment id="3">, suspendeu um ato do governo Jair Bolsonaro</segment>
+    <segment id="4">, que ampliou a isenção de impostos a pastores e igrejas em julho de 2022</segment>
+    <segment id="5">, um mês antes do início da campanha eleitoral.</segment>
+    <segment id="6">Barreirinhas cancelou o benefício fiscal nesta segunda (15) e a medida foi publicada no Diário Oficial da União nesta quarta (17).</segment>
+    <segment id="7">O pastor Silas Malafaia</segment>
+    <segment id="8">, um dos maiores apoiadores do ex-presidente Jair Bolsonaro</segment>
+    <segment id="9">, prega na sede de sua igreja Assembleia de Deus</segment>
+    <segment id="10">, no Rio de Janeiro - Ian Cheibub - 22.nov.22/FolhapressA partir de agora</segment>
+    <segment id="11">, valores pagos por igrejas a pastores e por instituições vocacionais voltam a ser considerados remuneração direta.</segment>
+    <segment id="12">Anteriormente</segment>
+    <segment id="13">, eram consideradas remunerações somente as frações do pagamento referentes a aulas ou atividade laboral propriamente dita.</segment>
+    <segment id="14">Nesse caso</segment>
+    <segment id="15">caso, as instituições deveriam ter contrato de prestação de serviço para o recolhimento do imposto de renda (pelo prestador) e da contribuição social (pela ordem religiosa).</segment>
+    <segment id="16">Em nota</segment>
+    <segment id="17">, a Receita informou que a suspensão foi uma determinação proposta pelo Ministério Público ao TCU (Tribunal de Contas da União).</segment>
+    <segment id="18">O posicionamento da Receita causou mal estar na corte de contas a ponto de o presidente do tribunal</segment>
+    <segment id="19">, Bruno Dantas</segment>
+    <segment id="20">, esclarecer que a representação do MP foi convertida em processo</segment>
+    <segment id="21">, masmas o relator</segment>
+    <segment id="22">, ministro Aroldo Cedraz</segment>
+    <segment id="23">, não acatou o pedido de cautelar do fisco (a determinação de suspensão).</segment>
+    <segment id="24">O caso</segment>
+    <segment id="25">caso ainda não foi julgado pelo plenário.</segment>
+    <segment id="26">A Receita já tinha sido questionada sobre isso</segment>
+    <segment id="27">, masmas não respondeu.</segment>
+    <segment id="28">Com Diego</segment>
+    <segment id="29">Felix</segment>
+  </rst>
+</analysis>

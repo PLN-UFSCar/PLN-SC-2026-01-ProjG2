@@ -1,0 +1,68 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Motorista para Bonocô em protesto</segment>
+    <segment id="2">Antônio Araújo era amigo do rodoviário morto ontem</segment>
+    <segment id="3">Um motorista da empresa de ônibus Vitral fez um ato simbólico durante a manhã desta quinta-feira (9)</segment>
+    <segment id="4">, na Avenida Bonocô</segment>
+    <segment id="5">, em protesto contra a morte do colega Gilmar Gomes de Lima</segment>
+    <segment id="6">, de 41 anos</segment>
+    <segment id="7">, baleado por volta das 5h da manhã de ontem</segment>
+    <segment id="8">, em uma passarela da Bonocô</segment>
+    <segment id="9">, quando saía para trabalhar.</segment>
+    <segment id="10">O protesto “solitário” do motorista Antônio Araújo</segment>
+    <segment id="11">, que trabalha na mesma empresa de Gilmar</segment>
+    <segment id="12">, durou cerca de 50 minutos.</segment>
+    <segment id="13">Ele estacionou o ônibus atravessado na pista</segment>
+    <segment id="14">, ocupando três faixas e causando um congestionamento que atingiu até a Avenida ACM</segment>
+    <segment id="15">, no acesso ao Rio Vermelho.</segment>
+    <segment id="16">De acordo com o motorista</segment>
+    <segment id="17">, não havia nada acertado para uma mobilização.</segment>
+    <segment id="18">“Estava passando por aqui e</segment>
+    <segment id="19">, como</segment>
+    <segment id="20">como conhecia Gilmar</segment>
+    <segment id="21">, decidir fazer um protesto</segment>
+    <segment id="22">, porque</segment>
+    <segment id="23">porque mataram nosso colega sem ele ter feito nada”</segment>
+    <segment id="24">, declarou.</segment>
+    <segment id="25">Após negociação com o major da Polícia Militar Josemar Pinto</segment>
+    <segment id="26">, comandante da 58ª CIPM de Cosme de Farias</segment>
+    <segment id="27">, onde Gilmar morava</segment>
+    <segment id="28">, o motorista decidiu manter a ocupação em apenas uma das faixas.</segment>
+    <segment id="29">Por volta das 9h30</segment>
+    <segment id="30">, o carro foi retirado.</segment>
+    <segment id="31">Segundo o major</segment>
+    <segment id="32">, não haverá nenhum tipo de sanção ao motorista</segment>
+    <segment id="33">porque</segment>
+    <segment id="34">porque ele colaborou e retirou o ônibus da pista.</segment>
+    <segment id="35">"</segment>
+    <segment id="36">Entendo que foi um ato simbólico</segment>
+    <segment id="37">, dentro de um Estado democrático</segment>
+    <segment id="38">, masmas expliquei que ele não poderia</segment>
+    <segment id="39">sese manter ali</segment>
+    <segment id="40">porque</segment>
+    <segment id="41">porque estava impedindo a passagem da população”</segment>
+    <segment id="42">, afirmou o major.</segment>
+  </rst>
+</analysis>

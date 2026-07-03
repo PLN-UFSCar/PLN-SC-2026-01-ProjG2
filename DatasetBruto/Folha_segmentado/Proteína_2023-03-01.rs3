@@ -1,0 +1,105 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O processo de envelhecimento celular é multifatorial e engloba vários campos do conhecimento.</segment>
+    <segment id="2">Encontrar mecanismos de proteção dos danos sofridos pelas células é uma das frentes</segment>
+    <segment id="3">, e um grupo de pesquisadores acaba de avançar mais um passo nesse sentido.</segment>
+    <segment id="4">Artigo publicado na revista Scientific Reports</segment>
+    <segment id="5">, do grupo Nature</segment>
+    <segment id="6">, apontou que a proteína klotho teve papel protetor contra inflamações em células do sistema nervoso central que interagem com os neurônios —as chamadas células da glia.</segment>
+    <segment id="7">O estudo</segment>
+    <segment id="8">, in vitro</segment>
+    <segment id="9">, utilizou um lipopolissacarídeo (LPS) —uma molécula da membrana de algumas bactérias para os testes—</segment>
+    <segment id="10">, induzindo a inflamação nas células.</segment>
+    <segment id="11">A ação</segment>
+    <segment id="12">sese dá</segment>
+    <segment id="13">porque</segment>
+    <segment id="14">porque a presença de LPS aumenta a secreção de citocinas pró-inflamatórias que</segment>
+    <segment id="15">, quando produzidas em excesso ou de forma crônica</segment>
+    <segment id="16">, podem levar à morte neuronal.</segment>
+    <segment id="17">Como o uso de LPS em células gliais gera um aumento de mediadores pró-inflamatórios</segment>
+    <segment id="18">, o grupo analisou</segment>
+    <segment id="19">sese o pré-tratamento com klotho faria alguma diferença na resposta celular.</segment>
+    <segment id="20">Pré-tratamento com proteína klotho controla inflamação e preserva célula neuronal</segment>
+    <segment id="21">;</segment>
+    <segment id="22">esse tipo de inflamação está associada a déficits cognitivos - Pixabay"O trabalho demonstrou pela primeira vez em cultura neuronal o efeito anti-inflamatório e neuroprotetor da proteína klotho"</segment>
+    <segment id="23">, apontam os pesquisadores.</segment>
+    <segment id="24">Os dados sugerem que ela pode atuar não apenas no metabolismo de neurônios e astrócitos</segment>
+    <segment id="25">, masmas também é um componente importante na modulação da neuroinflamação da glia.</segment>
+    <segment id="26">Assim, o potencial terapêutico da klotho pode ser benéfico para processos patológicos com fatores neuroinflamatórios.</segment>
+    <segment id="27">Os achados complementam evidências prévias encontradas pelo grupo</segment>
+    <segment id="28">, que mostraram que a klotho está envolvida na ação dos astrócitos</segment>
+    <segment id="29">, células nervosas que têm entre suas funções fornecer nutrientes para a sustentação de neurônios.</segment>
+    <segment id="30">O estudo teve apoio da Fapesp por meio do auxílio à pesquisa na linha de envelhecimento e neuroproteção</segment>
+    <segment id="31">, da qual faz parte também Elisa Mitiko Kawamoto</segment>
+    <segment id="32">, uma das cientistas que assinam a publicação.</segment>
+    <segment id="33">Estudos promissores  Descoberta em 1997</segment>
+    <segment id="34">, a klotho é uma proteína antienvelhecimento cuja concentração aumenta significativamente após o nascimento e na idade adulta</segment>
+    <segment id="35">, diminuindo conforme avança a idade</segment>
+    <segment id="36">, quando há uma inflamação crônica conhecida por "inflammaging".</segment>
+    <segment id="37">Essa inflamação desregulada</segment>
+    <segment id="38">, sistêmica e de baixo grau no cérebro está associada a déficits cognitivos e à progressão de doenças neurodegenerativas.</segment>
+    <segment id="39">"</segment>
+    <segment id="40">Ao longo da minha carreira comecei a me interessar não só por estudar as bases moleculares associadas às doenças neurodegenerativas</segment>
+    <segment id="41">, masmas a procurar entender por que essas doenças ocorrem no envelhecimento e por que algumas pessoas conseguem envelhecer de forma saudável"</segment>
+    <segment id="42">, destaca Cristoforo Scavone</segment>
+    <segment id="43">, professor do Departamento de Farmacologia do Instituto de Ciências Biomédicas da Universidade de São Paulo (ICB-USP) e coautor do artigo.</segment>
+    <segment id="44">Conheça fatores de risco para demência no BrasilMais    novamente         de   de  de  representando um</segment>
+    <segment id="45">O professor há tempos</segment>
+    <segment id="46">sese dedica a investigar esses processos</segment>
+    <segment id="47">, traçando caminhos promissores de pesquisa.</segment>
+    <segment id="48">"</segment>
+    <segment id="49">Anteriormente estava em um estudo sobre doença renal crônica associada à neuroinflamação e constatamos que essa proteína klotho estava diminuída e isso apresentava correlação com o aparecimento dos déficits cognitivos"</segment>
+    <segment id="50">, relata.</segment>
+    <segment id="51">A atividade protetora e anti-inflamatória da molécula já havia sido observada nos sistemas renal</segment>
+    <segment id="52">, vascular e pulmonar</segment>
+    <segment id="53">, masmas era</segment>
+    <segment id="54">, até então</segment>
+    <segment id="55">, pouco estudada em casos de neuroinflamação</segment>
+    <segment id="56">, ponto em que a recente publicação</segment>
+    <segment id="57">sese destaca.</segment>
+    <segment id="58">"</segment>
+    <segment id="59">Agora, neste estudo</segment>
+    <segment id="60">, tivemos forte evidência de que a proteína possui também um efeito neuroprotetor.</segment>
+    <segment id="61">O pré-tratamento com klotho foi capaz de diminuir a secreção de citocinas pró-inflamatórias e reverteu o aumento na secreção induzida pela inflamação"</segment>
+    <segment id="62">, ressaltam os pesquisadores.</segment>
+    <segment id="63">A neuroinflamação é uma característica intrínseca ao processo de envelhecimento.</segment>
+    <segment id="64">Já é conhecido que doenças neurodegenerativas e lesões que afetam o sistema nervoso central agem na glia</segment>
+    <segment id="65">, inclusive nos astrócitos.</segment>
+    <segment id="66">Dependendo da natureza de sua ativação</segment>
+    <segment id="67">, podem levar à produção de mediadores pró ou anti-inflamatórios e ter efeitos benéficos ou prejudiciais sobre os neurônios.</segment>
+    <segment id="68">Assim, estudos que mapeiam esses mecanismos são importantes para traçar possibilidades terapêuticas.</segment>
+    <segment id="69">Apesar dos bons resultados</segment>
+    <segment id="70">, os autores advertem que não está claro</segment>
+    <segment id="71">sese a klotho é o único mediador envolvido no efeito neuroprotetor observado.</segment>
+    <segment id="72">Porém, as evidências acumuladas justificam que seu potencial seja mais bem elucidado.</segment>
+    <segment id="73">O trabalho é assinado também por Vinicius Nakao</segment>
+    <segment id="74">, Larissa de Sá Lima</segment>
+    <segment id="75">, Paloma Segura de Mello</segment>
+    <segment id="76">, Natacha de Souza Port’s</segment>
+    <segment id="77">, Paula Fernanda Kinoshita e Caio Henrique Yokoyama Mazucanti e envolveu o Instituto de Ciências Biomédicas da Universidade Federal de Goiás (UFG) e o Laboratório de Pesquisa Clínica do National Institute on Aging (NIA)</segment>
+    <segment id="78">, nos Estados Unidos</segment>
+    <segment id="79">, onde Mazucanti realiza estudos de doutorado com apoio da Fapesp.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,36 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Mega-Sena acumula e próximo prédio vai pagar R$ 35 milhões
+RIO - Nenhum apostador acertou os números do concurso 1291 da Mega-Sena e o próximo sorteio</segment>
+    <segment id="2">, quarta-feira</segment>
+    <segment id="3">, deve pagar R$ 35 milhões.</segment>
+    <segment id="4">As dezenas sorteadas foram 18 - 40 - 47 - 54 - 57 - 58.</segment>
+    <segment id="5">A quina teve 49 acertadores e cada um vai receber R$ 57.917</segment>
+    <segment id="6">,35 e a quadra</segment>
+    <segment id="7">, com 5.416 acertadores</segment>
+    <segment id="8">, vai pagar R$ 748</segment>
+    <segment id="9">,56 a cada um.</segment>
+  </rst>
+</analysis>

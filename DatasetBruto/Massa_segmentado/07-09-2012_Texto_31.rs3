@@ -1,0 +1,51 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">SÃ©rie de terremotos atinge China e deixa dezenas de mortos
+PEQUIM - Dois terremotos de escala 5.6 atingiram o sudoeste da China nesta sexta-feira deixando ao menos 50 mortos</segment>
+    <segment id="2">, segundo informaÃ§Ãµes da agÃªncia oficial de notÃ­cias Xinhua.</segment>
+    <segment id="3">Os piores danos aconteceram nas provÃ­ncias de Guizhou e Yunnan</segment>
+    <segment id="4">, onde cerca de 160 pessoas ficaram feridas e aproximadamente 20 mil casas foram danificadas.</segment>
+    <segment id="5">Segundo o ServiÃ§o GeolÃ³gico dos EUA</segment>
+    <segment id="6">, o epicentro dos tremores aconteceu a nove quilÃ´metros de profundidade na cidade de Luozehe</segment>
+    <segment id="7">, no condado de Yiliang</segment>
+    <segment id="8">, em Yunnan.</segment>
+    <segment id="9">Autoridades locais estÃ£o trabalhando no resgate de mais de 100 mil pessoas em Ã¡reas de risco</segment>
+    <segment id="10">, prejudicadas pelos mais 60 "aftershocks</segment>
+    <segment id="11">" apÃ³s os principais terremotos.</segment>
+    <segment id="12">ConstruÃ§Ãµes nas que sÃ£o consideradas as regiÃµes menos desenvolvidas do paÃ­s sempre sÃ£o destruÃ­das devido a falta de reforÃ§o dos prÃ©dios.</segment>
+    <segment id="13">Imagens divulgadas pela emissora CCTV mostram ruas danificadas</segment>
+    <segment id="14">, carros abandonados e fumaÃ§a negra saindo de edifÃ­cios.</segment>
+    <segment id="15">Li Fuchun</segment>
+    <segment id="16">, membro das equipes de resgate de Luozehe</segment>
+    <segment id="17">, disse que a operaÃ§Ã£o de salvamento estÃ¡ sendo prejudicada por uma sÃ©rie de deslizamentos que bloquearam as vias.
+- A parte mais difÃ­cil do resgate Ã© o trÃ¡fego nas vias.</segment>
+    <segment id="18">Muitas delas foram bloqueadas e as equipes estÃ£o tendo escalar montanhas para chegar nos vilarejos mais atingidos - disse.</segment>
+    <segment id="19">Autoridades alertaram que o nÃºmero de mortos deve aumentar significantemente</segment>
+    <segment id="20">, devido ao nÃºmero indefinido de desaparecidos.</segment>
+    <segment id="21">Em 2008</segment>
+    <segment id="22">, cerca de 87</segment>
+    <segment id="23">,600 mil pessoas morreram quando um terremoto de 7.8 na escala Richter atingiu a regiÃ£o de Sichuan.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,92 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Caranga &amp; Cia
+Pesquisa mostra que adolescentes dirigem sem habilitaÃ§Ã£o e abusam do Ã¡lcool
+Consulta com estudantes entre 13 e 15 anos revela dados preocupantes em relaÃ§Ã£o a direÃ§Ã£o</segment>
+    <segment id="2">, cinto de seguranÃ§a e consumo de bebida alcÃ³olica
+CrianÃ§as entre 13 e 15 anos</segment>
+    <segment id="3">, estudantes de colÃ©gios pÃºblicos ou privados do nono ano do ensino fundamental</segment>
+    <segment id="4">, admitiram em pesquisa de Ã¢mbito nacional: dirigem veÃ­culo automotor</segment>
+    <segment id="5">, nÃ£o usam cinto de seguranÃ§a e pegaram carona com pessoas que consumiram bebida alcÃ³olica momentos antes de assumir a direÃ§Ã£o.</segment>
+    <segment id="6">Segundo a Pesquisa Nacional de SaÃºde do Escolar (Pense) 2012</segment>
+    <segment id="7">, realizada pelo IBGE e MinistÃ©rio da SaÃºde</segment>
+    <segment id="8">, a capital gaÃºcha apresenta Ã­ndices menores do que a mÃ©dia nacional - no paÃ­s</segment>
+    <segment id="9">, foram ouvidos 110 mil adolescentes.</segment>
+    <segment id="10">Mesmo assim</segment>
+    <segment id="11">, sÃ£o nÃºmeros preocupantes.</segment>
+    <segment id="12">Em Porto Alegre</segment>
+    <segment id="13">, 18,9% dos ouvidos admitiram ter dirigido carro ou moto nos 30 dias anteriores Ã  abordagem do pesquisador.</segment>
+    <segment id="14">Multa pode ser dobrada</segment>
+    <segment id="15">De cada trÃªs que admitiram a ilegalidade</segment>
+    <segment id="16">, dois sÃ£o meninos</segment>
+    <segment id="17">, com incidÃªncia maior em escolas estaduais ou municipais.</segment>
+    <segment id="18">No Brasil</segment>
+    <segment id="19">, a mÃ©dia foi 50% maior: 27</segment>
+    <segment id="20">,1%.</segment>
+    <segment id="21">Pior ainda estÃ¡ a situaÃ§Ã£o da RegiÃ£o Sul (29</segment>
+    <segment id="22">,7%).</segment>
+    <segment id="23">Em tempo: a carteira de habilitaÃ§Ã£o pode ser emitida somente a partir dos 18 anos.</segment>
+    <segment id="24">dirigir sem habilitaÃ§Ã£o</segment>
+    <segment id="25">Ã© infraÃ§Ã£o gravÃ­ssima</segment>
+    <segment id="26">, segundo o CÃ³digo de TrÃ¢nsito Brasileiro (CTB).</segment>
+    <segment id="27">A lei prevÃª multa de R$ 574</segment>
+    <segment id="28">, valor que pode ser aplicado em dobro</segment>
+    <segment id="29">, ou seja</segment>
+    <segment id="30">, R$ 574 pelo menor que estÃ¡ dirigindo mais R$ 574 para o responsÃ¡vel que tambÃ©m perde sete pontos na CNH.</segment>
+    <segment id="31">AlÃ©m disso</segment>
+    <segment id="32">, os responsÃ¡veis pelo menor estÃ£o sujeitos a responder por processo criminal nos casos em que o adolescente vier a</segment>
+    <segment id="33">sese envolver em acidentes.</segment>
+    <segment id="34">Caroneiros do perigo</segment>
+    <segment id="35">Em Porto Alegre</segment>
+    <segment id="36">, o Ã­ndice de menores que admitem nÃ£o usar cinto (7</segment>
+    <segment id="37">,4%)</segment>
+    <segment id="38">Ã© trÃªs vezes menor do que fator mais preocupante da pesquisa Pense 2012: 22</segment>
+    <segment id="39">,1% dos adolescentes revelaram ter pego carona com alguÃ©m que ingeriu bebida alcÃ³olica.</segment>
+    <segment id="40">Isso significa que</segment>
+    <segment id="41">, uma em cada cinco delas</segment>
+    <segment id="42">, corre sÃ©rio risco de vida na ida ou na volta do colÃ©gio.</segment>
+    <segment id="43">Confira
+Percentual de alunos entre 13 e 15 anos que admitiram dirigir carro ou moto:
+- Porto Alegre: 18</segment>
+    <segment id="44">,9%
+- RegiÃ£o Sul: 29</segment>
+    <segment id="45">,7%
+- Brasil: 27</segment>
+    <segment id="46">,1%
+Percentual de alunos entre 13 e 15 anos que admitiram nÃ£o usar cinto de seguranÃ§a:
+- Porto Alegre: 7</segment>
+    <segment id="47">,4%
+- RegiÃ£o Sul: 12%
+- Brasil: 16</segment>
+    <segment id="48">,1%
+Percentual de alunos entre 13 e 15 anos que admitiram pegar carona com alguÃ©m que bebeu:
+- Porto Alegre: 22</segment>
+    <segment id="49">,1%
+- RegiÃ£o Sul: 25</segment>
+    <segment id="50">,3%
+- Brasil: 22</segment>
+    <segment id="51">,9%</segment>
+  </rst>
+</analysis>

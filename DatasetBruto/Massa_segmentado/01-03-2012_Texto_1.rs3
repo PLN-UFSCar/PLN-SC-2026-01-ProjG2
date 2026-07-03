@@ -1,0 +1,44 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Baleado nas costas tem socorro de moto</segment>
+    <segment id="2">De acordo com os policiais militares Hélio informou que foi atacado por quatro homens
+Hélio Cássio Pires da Silva</segment>
+    <segment id="3">, 19 anos</segment>
+    <segment id="4">, levou um tiro nas costas quando passava pela Rua Paraguari</segment>
+    <segment id="5">, no bairro Periperi</segment>
+    <segment id="6">, por volta das 4h da tarde de ontem.</segment>
+    <segment id="7">Sangrando bastante</segment>
+    <segment id="8">, Hélio contou com a ajuda de um motoqueiro</segment>
+    <segment id="9">, que o levou ao Hospital do Subúrbio</segment>
+    <segment id="10">, após ficar sensibilizado com o sofrimento da vítima.</segment>
+    <segment id="11">O motoqueiro transitava por uma rua perto da Delegacia de Periperi</segment>
+    <segment id="12">, quando encontrou Hélio agonizando.</segment>
+    <segment id="13">De acordo com os policiais militares de plantão na unidade</segment>
+    <segment id="14">, Hélio informou que foi atacado por quatro homens que chegaram em duas motos.</segment>
+    <segment id="15">A vítima não tem ficha na polícia.</segment>
+    <segment id="16">Até o fechamento da edição</segment>
+    <segment id="17">, não havia informações sobre o estado de saúde de Hélio.</segment>
+  </rst>
+</analysis>

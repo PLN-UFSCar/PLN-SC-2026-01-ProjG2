@@ -1,0 +1,38 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O ministro das Cidades</segment>
+    <segment id="2">, Jader Filho</segment>
+    <segment id="3">, irá assumir o comando do Minurvi (Fórum de Ministros e Máximas Autoridades de Habitação e Planejamento Urbano da América Latina e do Caribe) no próximo dia 8</segment>
+    <segment id="4">, em Buenos Aires</segment>
+    <segment id="5">, na Argentina.</segment>
+    <segment id="6">Composta atualmente por 35 países</segment>
+    <segment id="7">, a entidade é responsável por fazer a coordenação e promoção da cooperação intergovernamental dos países da região na área de desenvolvimento sustentável dos assentamentos humanos.</segment>
+    <segment id="8">O mandato é de dois anos.</segment>
+    <segment id="9">O ministro das Cidades</segment>
+    <segment id="10">, Jader Filho</segment>
+    <segment id="11">, no Summit 100 dias de governo</segment>
+    <segment id="12">, realizado pela Abrainc em abril de 2023 - Divulgação Abrainc</segment>
+  </rst>
+</analysis>

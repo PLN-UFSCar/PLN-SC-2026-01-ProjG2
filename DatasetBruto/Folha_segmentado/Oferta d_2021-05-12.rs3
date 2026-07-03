@@ -1,0 +1,189 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Em um ano</segment>
+    <segment id="2">, os estados brasileiros ampliaram em 150% a oferta de leitos de UTI (Unidade de Terapia Intensiva) para tratamento da Covid-19.</segment>
+    <segment id="3">Mesmo assim</segment>
+    <segment id="4">, o nível de ocupação dos hospitais que atuam no tratamento da doença é maior do que há um ano.</segment>
+    <segment id="5">Os dados vêm dos levantamentos de ocupação de leitos para Covid-19 realizados pela Folha a partir de maio de 2020.</segment>
+    <segment id="6">Desde então</segment>
+    <segment id="7">, foram 24 levantamentos</segment>
+    <segment id="8">, que mapearam a oscilação da oferta e nível de ocupação dos leitos em 24 unidades da federação.</segment>
+    <segment id="9">Em 11 de maio de 2020</segment>
+    <segment id="10">, eram 11</segment>
+    <segment id="11">,3 mil leitos de terapia intensiva destinados ao tratamento da Covid-19 no país.</segment>
+    <segment id="12">Na época</segment>
+    <segment id="13">, apenas dois estados tinham ocupação acima de 90%</segment>
+    <segment id="14">, patamar considerado crítico: Ceará e Pernambuco.</segment>
+    <segment id="15">Já em 10 de maio de 2021</segment>
+    <segment id="16">, são 28</segment>
+    <segment id="17">,1 mil leitos disponíveis para o tratamento da doença.</segment>
+    <segment id="18">Mas o quadro nos estados é bem mais grave:</segment>
+    <segment id="19">seis têm uma ocupação acima de 90% dos leitos.</segment>
+    <segment id="20">São eles Sergipe</segment>
+    <segment id="21">, Pernambuco</segment>
+    <segment id="22">, Rio Grande do Norte</segment>
+    <segment id="23">, Ceará</segment>
+    <segment id="24">, Paraná e Santa Catarina.</segment>
+    <segment id="25">Os dados não incluem Rio de Janeiro</segment>
+    <segment id="26">, Minas Gerais e Rio Grande do Sul</segment>
+    <segment id="27">, que mudaram a metodologia da contagem de leitos ao longo dos últimos 12 meses</segment>
+    <segment id="28">, inviabilizando a comparação.</segment>
+    <segment id="29">Nesse período</segment>
+    <segment id="30">, houve oscilações no nível de ocupação dos leitos de acordo com a região</segment>
+    <segment id="31">, masmas todas as 27 unidades da federação enfrentaram em algum momento um nível crítico.</segment>
+    <segment id="32">Depois do arrefecimento da primeira onda</segment>
+    <segment id="33">, alguns estados chegaram a desativar hospitais de campanha e destinaram leitos de Covid para o tratamento de outras enfermidades a fim de não os manter ociosos.</segment>
+    <segment id="34">Porém, em geral</segment>
+    <segment id="35">, houve uma retomada na abertura de leitos durante a segunda onda da pandemia.</segment>
+    <segment id="36">Primeira unidade federativa a ver seu sistema de saúde colapsar —por duas vezes—</segment>
+    <segment id="37">, o Amazonas é um dos poucos onde o número de leitos de UTI para Covid-19 é menor agora do que há um ano.</segment>
+    <segment id="38">A oferta de vagas caiu 13% entre os meses de maio de 2020 —quando o sistema de saúde entrou em colapso pela primeira vez</segment>
+    <segment id="39">, com enterros em valas coletivas— e maio de 2021.</segment>
+    <segment id="40">Pandemia da Covid-19 na região Norte   novamente         de   de  de  representando um  Em janeiro de 2021</segment>
+    <segment id="41">, quando o sistema de saúde colapsou pela segunda vez</segment>
+    <segment id="42">, com pacientes morrendo sufocados por falta de oxigênio</segment>
+    <segment id="43">, o Amazonas tinha menos leitos do que na primeira onda</segment>
+    <segment id="44">, apesar de a gravidade da pandemia ser maior.</segment>
+    <segment id="45">Eram 326 vagas em 11 de janeiro</segment>
+    <segment id="46">, três dias antes do colapso</segment>
+    <segment id="47">, sendo que 93% delas estavam ocupadas.</segment>
+    <segment id="48">O estado ainda tinha uma fila de 60 pessoas aguardando por um dos leitos de UTI</segment>
+    <segment id="49">, que estão todos em Manaus.</segment>
+    <segment id="50">No vizinho Pará</segment>
+    <segment id="51">, por outro lado</segment>
+    <segment id="52">, as vagas de UTI aumentaram 130% entre maio de 2020</segment>
+    <segment id="53">, quando ocorreu o pico da pandemia no estado</segment>
+    <segment id="54">, e maio deste ano</segment>
+    <segment id="55">, passando de 277 para 638 leitos.</segment>
+    <segment id="56">O nível de ocupação de leitos</segment>
+    <segment id="57">, contudo</segment>
+    <segment id="58">contudo</segment>
+    <segment id="59">, permanece num patamar semelhante.</segment>
+    <segment id="60">Em janeiro de 2021</segment>
+    <segment id="61">, quando a escassez de oxigênio provocou a morte de pacientes na cidade de Faro</segment>
+    <segment id="62">, o estado tinha 228 vagas e 70% delas estavam ocupadas.</segment>
+    <segment id="63">Nos estados do Sul</segment>
+    <segment id="64">, que ainda enfrentam cenário crítico</segment>
+    <segment id="65">, também houve aumento da oferta de leitos.</segment>
+    <segment id="66">O Paraná triplicou em um ano o número de vagas de UTI para pacientes de Covid-19 e atualmente possui cerca de 1.900 leitos.</segment>
+    <segment id="67">A ocupação</segment>
+    <segment id="68">, no entanto</segment>
+    <segment id="69">, não parou de subir</segment>
+    <segment id="70">, e os hospitais estaduais atingiram lotação máxima entre fevereiro e março de 2021</segment>
+    <segment id="71">, pior momento da pandemia no estado.</segment>
+    <segment id="72">Na ocasião</segment>
+    <segment id="73">, o secretário estadual de Saúde</segment>
+    <segment id="74">, Beto Preto</segment>
+    <segment id="75">, pediu que empresas e indústrias doassem cilindros de oxigênio para atender a demanda.</segment>
+    <segment id="76">Hoje, a taxa ainda é alta</segment>
+    <segment id="77">, de 92%.</segment>
+    <segment id="78">A pandemia e a crise na saúde da região Sul   novamente         de   de  de  representando um</segment>
+    <segment id="79">Até o início de abril</segment>
+    <segment id="80">, Curitiba permaneceu por 23 dias em isolamento rígido.</segment>
+    <segment id="81">Em maio</segment>
+    <segment id="82">, após a flexibilização das medidas</segment>
+    <segment id="83">, a capital registrou aumento no número de casos ativos de Covid-19.</segment>
+    <segment id="84">Santa Catarina duplicou o número de vagas em UTIs</segment>
+    <segment id="85">, masmas vem desativando leitos nas últimas semanas diante da queda na demanda.</segment>
+    <segment id="86">O governo catarinense chegou a transferir pacientes com Covid-19 para o Espírito Santo no início de março</segment>
+    <segment id="87">, devido à superlotação de hospitais.</segment>
+    <segment id="88">As medidas restritivas</segment>
+    <segment id="89">, no entanto</segment>
+    <segment id="90">, não seguiram</segment>
+    <segment id="91">, de modo geral</segment>
+    <segment id="92">, a mesma proporção da gravidade do cenário.</segment>
+    <segment id="93">O estado também continua registrando festas clandestinas</segment>
+    <segment id="94">, principalmente em cidades litorâneas</segment>
+    <segment id="95">, mesmo com a ocupação de leitos girando em torno de 90%.</segment>
+    <segment id="96">Na região Centro-Oeste</segment>
+    <segment id="97">, que também enfrentou um recrudescimento dos casos de Covid-19</segment>
+    <segment id="98">, o cenário é parecido.</segment>
+    <segment id="99">Goiás ampliou a oferta de leitos de UTI em dez vezes ao londo de um ano.</segment>
+    <segment id="100">Mas isso não impediu que a ocupação de vagas crescesse de 41% em maio do ano passado para os atuais 81%.</segment>
+    <segment id="101">Primeiro estado a confirmar morte por coronavírus na região</segment>
+    <segment id="102">, Goiás também registrou o óbito do prefeito de Goiânia</segment>
+    <segment id="103">, em decorrência da Covid-19.</segment>
+    <segment id="104">Maguito Vilela (MDB)</segment>
+    <segment id="105">, 71, morreu em janeiro após dois meses e meio de internação.</segment>
+    <segment id="106">É a cidade mais populosa até aqui a perder seu governante para o vírus.</segment>
+    <segment id="107">Mato Grosso foi do céu ao inferno em um ano.</segment>
+    <segment id="108">O estado tinha 9% de ocupação de leitos em maio do ano passado.</segment>
+    <segment id="109">Hoje, mesmo tendo triplicando a oferta de leitos</segment>
+    <segment id="110">, o estado tem uma ocupação de 77%.</segment>
+    <segment id="111">Mato Grosso do Sul também demorou para enfrentar picos mais severos da doença.</segment>
+    <segment id="112">Conseguiu quadruplicar a rede de atendimento</segment>
+    <segment id="113">, masmas enfrenta uma ocupação de 86% dos leitos para pacientes graves.</segment>
+    <segment id="114">Dentre os estados do Sudeste</segment>
+    <segment id="115">, o Rio de Janeiro tem agora o mesmo nível de ocupação de UTIs públicas de um ano atrás</segment>
+    <segment id="116">, acima de 80%.</segment>
+    <segment id="117">O estado passou por três picos da doença</segment>
+    <segment id="118">, com colapsos do sistema de saúde:</segment>
+    <segment id="119">em maio e dezembro do ano passado e em abril deste ano.</segment>
+    <segment id="120">Muitos hospitais de campanha prometidos nunca foram abertos</segment>
+    <segment id="121">, e o então governador Wilson Witzel (PSC) acabou afastado por suspeitas em contratos da Saúde.</segment>
+    <segment id="122">No Nordeste</segment>
+    <segment id="123">, quatro estados permanecem com ocupação de leitos acima de 90% e ainda assim têm flexibilizado medidas restritivas para conter o vírus.</segment>
+    <segment id="124">Um dos primeiros a colapsar na região</segment>
+    <segment id="125">, o Ceará chegou a um cenário de relativa tranquilidade no final do ano passado</segment>
+    <segment id="126">, com a retomada de cirurgias eletivas e desativação de leitos para Covid.</segment>
+    <segment id="127">À medida que a demanda voltou a crescer</segment>
+    <segment id="128">, neste ano</segment>
+    <segment id="129">, o estado foi reabrindo as UTIs.</segment>
+    <segment id="130">Nesta semana</segment>
+    <segment id="131">, a taxa de ocupação é de 92%.</segment>
+    <segment id="132">Pernambuco aumentou em 220% o número de leitos de UTI.</segment>
+    <segment id="133">A taxa de ocupação</segment>
+    <segment id="134">, mesmo com 1.168 vagas a mais</segment>
+    <segment id="135">, cresceu e atualmente é de 97%.</segment>
+    <segment id="136">A pandemia e a rede de saúde da região</segment>
+    <segment id="137">Nordeste   novamente         de   de  de  representando um</segment>
+    <segment id="138">O estado enfrenta colapso no sistema de saúde desde o final de fevereiro</segment>
+    <segment id="139">, com filas de mais de cem pacientes para acessar cuidados intensivos</segment>
+    <segment id="140">, relatos de desabastecimento de medicamentos e profissionais esgotados.</segment>
+    <segment id="141">A média de espera para acessar uma vaga de UTI em Pernambuco é de 12 horas.  Sergipe</segment>
+    <segment id="142">, que mais que quadruplicou a rede de atendimento a pacientes graves com Covid</segment>
+    <segment id="143">, tem 97% dos leitos ocupados.</segment>
+    <segment id="144">O Rio Grande do Norte vive um cenário parecido.</segment>
+    <segment id="145">Triplicou o número de leitos de UTI</segment>
+    <segment id="146">, masmas mesmo assim tem ocupação de 94%.</segment>
+    <segment id="147">Ainda em fevereiro</segment>
+    <segment id="148">, a governadora Fátima Bezerra (PT) disse que abrir leitos não bastava.</segment>
+    <segment id="149">“Chegamos ao nosso limite.</segment>
+    <segment id="150">Não vou iludir a população do Rio Grande do Norte dizendo que basta abrir leitos.</segment>
+    <segment id="151">Não basta.</segment>
+    <segment id="152">É preciso aumentar o isolamento social rigorosamente”</segment>
+    <segment id="153">, declarou.</segment>
+    <segment id="154">Especialistas vão na mesma direção.</segment>
+    <segment id="155">O infectologista Bruno Ishigami diz que não é suficiente criar vagas sem medidas efetivas de restrição.</segment>
+    <segment id="156">Ele ressalta que a ausência de quarentena rígida</segment>
+    <segment id="157">, atrelada a novas variantes do vírus</segment>
+    <segment id="158">, contribuiu de maneira determinante para a força da segunda onda</segment>
+    <segment id="159">, que também atingiu com mais gravidade os pacientes mais jovens.</segment>
+    <segment id="160">Ishigami lembra que os jovens representam parte significativa da população economicamente ativa.</segment>
+    <segment id="161">“É uma população que</segment>
+    <segment id="162">sese expõe a mais riscos.</segment>
+    <segment id="163">"</segment>
+  </rst>
+</analysis>

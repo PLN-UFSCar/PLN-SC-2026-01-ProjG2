@@ -1,0 +1,39 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Vasco empata com Atlético-PR pelas quartas da Copa do Brasil
+
+RIO - O Vasco empatou com o Atlético-PR em 2 a 2 na Arena da Baixada</segment>
+    <segment id="2">, em Curitiba</segment>
+    <segment id="3">, pelas quartas de final da Copa do Brasil.</segment>
+    <segment id="4">Os gols foram marcados por Alecsandro e Diego Souza</segment>
+    <segment id="5">, para o Vasco</segment>
+    <segment id="6">, e Guerrón e Paulo Baier</segment>
+    <segment id="7">, para o Atlético.</segment>
+    <segment id="8">O Vasco vencia quando os donos da casa empataram aos 41 minutos do segundo tempo</segment>
+    <segment id="9">, após pênalti de Ramon em Branquinho.</segment>
+    <segment id="10">O jogo da volta será na quinta-feira</segment>
+    <segment id="11">, 12, em São Januário</segment>
+  </rst>
+</analysis>

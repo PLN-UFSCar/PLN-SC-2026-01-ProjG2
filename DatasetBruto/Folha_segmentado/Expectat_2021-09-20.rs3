@@ -1,0 +1,58 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A projeção do mercado para a inflação no Brasil neste ano foi acima de 8% e trouxe consigo expectativas de maior aperto monetário tanto em 2021 quanto em 2022.</segment>
+    <segment id="2">A pesquisa Focus do Banco Central divulgada nesta segunda-feira (20) mostrou que a estimativa para a alta do IPCA (Índice Nacional de Preços ao Consumidor Amplo) este ano disparou pela 24ª semana seguida e chegou a 8</segment>
+    <segment id="3">,35%, de 8</segment>
+    <segment id="4">,0% antes.</segment>
+    <segment id="5">Para 2022 o cálculo também aumentou</segment>
+    <segment id="6">, a 4,10%</segment>
+    <segment id="7">, de 4</segment>
+    <segment id="8">,03%.</segment>
+    <segment id="9">Ambos os resultados ficam bem acima do centro da meta do governo</segment>
+    <segment id="10">, de 3</segment>
+    <segment id="11">,75% para este ano e de 3</segment>
+    <segment id="12">,50% para o próximo</segment>
+    <segment id="13">, ambas com margem de tolerância de 1</segment>
+    <segment id="14">,5 ponto percentual para mais ou menos.</segment>
+    <segment id="15">Campanha &amp;#039</segment>
+    <segment id="16">;Bolsocaro&amp;#039</segment>
+    <segment id="17">; critica aumento de preços pelas ruas de SPMais    novamente         de   de  de  representando um</segment>
+    <segment id="18">Diante do forte cenário inflacionário</segment>
+    <segment id="19">, os especialistas consultados passaram a ver a taxa básica de juros em 8</segment>
+    <segment id="20">,25% ao final de 2021 e 8</segment>
+    <segment id="21">,50% em 2022</segment>
+    <segment id="22">, de 8</segment>
+    <segment id="23">,0% para ambos os anos no levantamento anterior.</segment>
+    <segment id="24">Para a reunião do BC esta semana</segment>
+    <segment id="25">, a projeção continua sendo de uma elevação de 1 ponto percentual na Selic</segment>
+    <segment id="26">, atualmente em 5</segment>
+    <segment id="27">,25%.</segment>
+    <segment id="28">Já a perspectiva para crescimento do PIB (Produto Interno Bruto) este ano permaneceu em 5</segment>
+    <segment id="29">,04%, mas</segment>
+    <segment id="30">mas para 2022 caiu em 0</segment>
+    <segment id="31">,09 ponto percentual</segment>
+    <segment id="32">, a 1,63%.</segment>
+  </rst>
+</analysis>

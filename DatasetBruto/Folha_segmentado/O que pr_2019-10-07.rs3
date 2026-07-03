@@ -1,0 +1,43 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A segunda parte da reforma da Previdência</segment>
+    <segment id="2">, conhecida</segment>
+    <segment id="3">comocomo PEC (Proposta de Emendas à Constituição) paralela</segment>
+    <segment id="4">, reúne alterações defendidas por senadores na versão aprovada pela Câmara.</segment>
+    <segment id="5">Carteira de trabalho e previdência social.</segment>
+    <segment id="6">Ministério do Trabalho e Emprego - Gabriel Cabral/FolhapressO que propõe a PEC paralela:</segment>
+    <segment id="7">Cria mecanismo para facilitar o ajuste nos gastos previdenciários de estados e municípios</segment>
+    <segment id="8">;</segment>
+    <segment id="9">Governadores e prefeitos poderiam aderir à reforma com o aval das Assembleias Legislativas por meio de uma lei ordinária</segment>
+    <segment id="10">, em vez de criar</segment>
+    <segment id="11">, discutir e aprovar uma proposta própria</segment>
+    <segment id="12">;</segment>
+    <segment id="13">Equipe de Guedes é favorável à inclusão de estados e municípios da reforma da Previdência</segment>
+    <segment id="14">; Ideia é do relator no Senado</segment>
+    <segment id="15">, Tasso Jereissati (PSDB-CE)</segment>
+    <segment id="16">, com o argumento de que a cisão evitaria atrasos na votação na Casa</segment>
+    <segment id="17">; R$ 100 bi de economia para a União é esperada com a PEC paralela.</segment>
+  </rst>
+</analysis>

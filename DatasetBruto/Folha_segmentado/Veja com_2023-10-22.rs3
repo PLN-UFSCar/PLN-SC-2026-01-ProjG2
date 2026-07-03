@@ -1,0 +1,202 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A máxima para</segment>
+    <segment id="2">sese ter sucesso nos investimentos é diversificar.</segment>
+    <segment id="3">Mas, para quem não é familiarizado com esse mundo e não tem tantos recursos disponíveis para aplicar</segment>
+    <segment id="4">, atingir esse objetivo pode ser complicado.</segment>
+    <segment id="5">Há, porém</segment>
+    <segment id="6">porém, um instrumento que facilita a diversificação</segment>
+    <segment id="7">, o ETF.</segment>
+    <segment id="8">ETF é a sigla para o termo inglês Exchange-Traded Funds que</segment>
+    <segment id="9">, em português</segment>
+    <segment id="10">, significa fundos negociados em Bolsa.</segment>
+    <segment id="11">Eles se</segment>
+    <segment id="12">se assemelham a fundos de investimento</segment>
+    <segment id="13">, masmas não têm uma cesta de ativos por trás e</segment>
+    <segment id="14">, sim, um índice de referência</segment>
+    <segment id="15">, como</segment>
+    <segment id="16">como o que acompanha a renda fixa americana ou o que segue o preço do boi gordo.</segment>
+    <segment id="17">São os gestores do índice que definem a estratégia de investimento e o ETF os copia.</segment>
+    <segment id="18">Por isso</segment>
+    <segment id="19">, são chamados de fundo de índice.</segment>
+    <segment id="20">B3, a Bolsa de Valores brasileira.</segment>
+    <segment id="21">ETFs são uma das formas de</segment>
+    <segment id="22">sese investir na Bolsa. - Karime Xavier / Folhapress"É uma forma simples de negociarmos um conjunto robusto de ativos"</segment>
+    <segment id="23">, diz Fernanda Feijó</segment>
+    <segment id="24">, analista da Sicredi.</segment>
+    <segment id="25">Entre</segment>
+    <segment id="26">os 96 ETFs de renda fixa e variável nacional e internacional que estão listados na Bolsa brasileira</segment>
+    <segment id="27">, os mais conhecidos e negociados do Brasil são os que seguem o Ibovespa</segment>
+    <segment id="28">, cuja composição é definida pela B3 a cada quatro meses.</segment>
+    <segment id="29">De setembro até o fim deste ano</segment>
+    <segment id="30">, essas são as participações das principais ações do índice:   Vale (14</segment>
+    <segment id="31">,56%)</segment>
+    <segment id="32">Petrobras (13</segment>
+    <segment id="33">,21%) Itaú (6</segment>
+    <segment id="34">,57%)</segment>
+    <segment id="35">Bradesco (4</segment>
+    <segment id="36">,62%) Eletrobras (4</segment>
+    <segment id="37">,40%)</segment>
+    <segment id="38">Assim, ao comprar um ETF de Ibovespa</segment>
+    <segment id="39">, 14,56% do valor gasto nele será investido em ações da Vale</segment>
+    <segment id="40">, 13,21% em Petrobras e assim por diante.</segment>
+    <segment id="41">Se o Ibovespa sobe</segment>
+    <segment id="42">, o ETF tem a mesma valorização.</segment>
+    <segment id="43">Do contrário</segment>
+    <segment id="44">, ele tem a mesma queda.</segment>
+    <segment id="45">Outra vantagem é que os ETFs são bem mais baratos do que os fundos.</segment>
+    <segment id="46">Com R$ 11</segment>
+    <segment id="47">,82, você compra uma cota do ETF BOVX11</segment>
+    <segment id="48">, um dos oito que replica o Ibovespa.</segment>
+    <segment id="49">Para montar uma carteira com todas as 83 empresas nesta mesma proporção</segment>
+    <segment id="50">, seria preciso gastar bem mais.</segment>
+    <segment id="51">Fora que os fundos têm uma taxa de administração que gira em torno de 2% anuais</segment>
+    <segment id="52">, enquanto a de ETFs não passa dos 0</segment>
+    <segment id="53">,50% ao ano</segment>
+    <segment id="54">, já que</segment>
+    <segment id="55">sese trata de um fundo com gestão passiva</segment>
+    <segment id="56">, ou seja</segment>
+    <segment id="57">, que apenas copia o índice de referência.</segment>
+    <segment id="58">Já com relação ao Imposto de Renda</segment>
+    <segment id="59">, os ETFs de renda variável estão sujeitos à alíquota de 15% em</segment>
+    <segment id="60">casocaso de venda com lucro</segment>
+    <segment id="61">, independentemente do valor —diferente de ações</segment>
+    <segment id="62">, que são isentas em</segment>
+    <segment id="63">casocaso de ganhos até R$ 20 mil.</segment>
+    <segment id="64">Se for day trade (compra e venda no mesmo dia)</segment>
+    <segment id="65">, o IR é de 20%.</segment>
+    <segment id="66">Para recolher o imposto</segment>
+    <segment id="67">, o investidor deve gerar uma guia Darf (Documento de Arrecadação de Receitas Federais).</segment>
+    <segment id="68">No caso</segment>
+    <segment id="69">caso de ETFs de renda fixa</segment>
+    <segment id="70">, a alíquota varia de acordo com o período em que você mantém a aplicação.</segment>
+    <segment id="71">Se a liquidar em até 180 dias da compra</segment>
+    <segment id="72">, 25% do lucro é taxado.</segment>
+    <segment id="73">Entre 181 dias e 720 dias</segment>
+    <segment id="74">, a alíquota é de 20%.</segment>
+    <segment id="75">Depois de 720 dias</segment>
+    <segment id="76">, ela é de 15%.</segment>
+    <segment id="77">Outro ponto de atenção é a liquidez.</segment>
+    <segment id="78">A maioria deles não tem um grande volume de negociação</segment>
+    <segment id="79">, o que pode dificultar a sua comercialização.</segment>
+    <segment id="80">"Se estou negociando essas cotas na Bolsa</segment>
+    <segment id="81">, tenho que ter alguém que queira comprar pelo preço que eu gostaria de vender"</segment>
+    <segment id="82">, diz Fernanda</segment>
+    <segment id="83">, da Sicredi.</segment>
+    <segment id="84">Até agosto deste ano</segment>
+    <segment id="85">, foram 50 milhões de negócios.</segment>
+    <segment id="86">Em 2022</segment>
+    <segment id="87">comocomo um todo</segment>
+    <segment id="88">, foram 92 milhões.</segment>
+    <segment id="89">Só que eles estão concentrados em poucos ETFs</segment>
+    <segment id="90">, como</segment>
+    <segment id="91">como os atrelados ao Ibovespa</segment>
+    <segment id="92">, ao índice Small Cap —de companhias listadas na B3 com capitalização menor que as do Ibovespa— e ao S&amp;amp</segment>
+    <segment id="93">;P 500.</segment>
+    <segment id="94">O mais negociado de todos é o BOVA11</segment>
+    <segment id="95">, que replica o Ibovespa</segment>
+    <segment id="96">, com R$ 128</segment>
+    <segment id="97">,6 bilhões negociados de janeiro a agosto de 2023.</segment>
+    <segment id="98">O similar BBOV11</segment>
+    <segment id="99">, por sua vez</segment>
+    <segment id="100">, girou apenas R$ 1</segment>
+    <segment id="101">,7 bilhão no mesmo período por ser menos conhecido.</segment>
+    <segment id="102">Para se</segment>
+    <segment id="103">se ter ideia</segment>
+    <segment id="104">, em apenas um dia de negociações na B3</segment>
+    <segment id="105">, ações movimentam R$ 25 bilhões.</segment>
+    <segment id="106">Assim, analistas afirmam que</segment>
+    <segment id="107">, além do ETF em si</segment>
+    <segment id="108">, é preciso analisar qual o seu volume de negócios.</segment>
+    <segment id="109">Conheça algumas das principais aplicações da renda fixa</segment>
+    <segment id="110">Mais    novamente         de   de  de  representando um  Qual ETF comprar?</segment>
+    <segment id="111">Apesar de ainda incipiente</segment>
+    <segment id="112">, os ETFs têm avançado rápido no Brasil.</segment>
+    <segment id="113">No fim de setembro</segment>
+    <segment id="114">, o Nubank</segment>
+    <segment id="115">, em parceria com a B3</segment>
+    <segment id="116">, lançou o primeiro deles com pagamento mensal de dividendos</segment>
+    <segment id="117">, o NDIV11.</segment>
+    <segment id="118">Ele replica o índice Ibovespa Smart Dividendos B3</segment>
+    <segment id="119">, com empresas que</segment>
+    <segment id="120">sese destacam pelo volume de dividendos pagos aos acionistas.</segment>
+    <segment id="121">Por se</segment>
+    <segment id="122">se tratar de um lucro distribuído via ETF</segment>
+    <segment id="123">, ele sofre tributação de 15% na fonte</segment>
+    <segment id="124">, diferente dos dividendos de ações</segment>
+    <segment id="125">, que são isentos.</segment>
+    <segment id="126">Agora, na B3</segment>
+    <segment id="127">, são 83 de renda variável e 13 de renda fixa.</segment>
+    <segment id="128">Com a esperada queda da Selic</segment>
+    <segment id="129">, hoje em 12</segment>
+    <segment id="130">,75% ao ano</segment>
+    <segment id="131">, essa disparidade tende a diminuir</segment>
+    <segment id="132">, dizem analistas.</segment>
+    <segment id="133">A maior parte desses instrumentos de renda fixa segue o desempenho dos títulos do Tesouro IPCA+.</segment>
+    <segment id="134">Assim, quanto maior a inflação e os juros futuros (contratos que refletem a expectativa sobre a Selic futura)</segment>
+    <segment id="135">, mais ele tende a subir.</segment>
+    <segment id="136">Os juros futuros</segment>
+    <segment id="137">, aliás</segment>
+    <segment id="138">, têm o seu próprio ETF</segment>
+    <segment id="139">, o FIXA11</segment>
+    <segment id="140">, que acompanha um contrato de três anos.</segment>
+    <segment id="141">Há ainda ETFs de debêntures</segment>
+    <segment id="142">, Tesouro Selic e Tesouro prefixado.</segment>
+    <segment id="143">O último é o favorito de Henrique Aguiar</segment>
+    <segment id="144">, gestor da Nova Futura Investimentos.</segment>
+    <segment id="145">"</segment>
+    <segment id="146">O juro pós-fixado vai seguir em queda</segment>
+    <segment id="147">, acompanhando a Selic"</segment>
+    <segment id="148">, diz.</segment>
+    <segment id="149">A expectativa do mercado é que a taxa básica de juros vá a 9% até o fim de 2024.</segment>
+    <segment id="150">Aguiar também recomenda ETFs pouco usuais</segment>
+    <segment id="151">, como</segment>
+    <segment id="152">como o CORN11</segment>
+    <segment id="153">, que acompanha o preço do milho</segment>
+    <segment id="154">, e o BBOI11</segment>
+    <segment id="155">, que reflete o valor do boi gordo.</segment>
+    <segment id="156">"</segment>
+    <segment id="157">Há uma assimetria muito grande no mercado do boi.</segment>
+    <segment id="158">A cabeça foi de R$ 350 para R$ 190 recentemente</segment>
+    <segment id="159">, o que levou produtores a venderem abaixo do seu custo de produção"</segment>
+    <segment id="160">, afirma o especialista.</segment>
+    <segment id="161">O milho</segment>
+    <segment id="162">, utilizado na alimentação do gado</segment>
+    <segment id="163">, com produção recorde</segment>
+    <segment id="164">, foi um dos fatores por trás dessa desvalorização.</segment>
+    <segment id="165">Com ambas as commodities em baixa</segment>
+    <segment id="166">, Aguiar vê um potencial de valorização nesses ETFs.</segment>
+    <segment id="167">Outra recomendação do gestor são os ETFs que acompanham o índice Small Cap</segment>
+    <segment id="168">, desvalorizado em relação ao Ibovespa.</segment>
+    <segment id="169">Mas ele faz um alerta.</segment>
+    <segment id="170">"</segment>
+    <segment id="171">É preciso tomar cuidado com o que tem em cada ETF.</segment>
+    <segment id="172">As pessoas têm que ir atrás do detalhe de</segment>
+    <segment id="173">comocomo cada um deles funciona.</segment>
+    <segment id="174">"</segment>
+    <segment id="175">Principais erros dos investidoresMais    novamente         de   de  de  representando</segment>
+    <segment id="176">um</segment>
+  </rst>
+</analysis>

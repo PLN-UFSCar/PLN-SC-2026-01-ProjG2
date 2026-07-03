@@ -1,0 +1,53 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Gata da Gang do Samba é só sucesso</segment>
+    <segment id="2">Após dançar muito no exterior</segment>
+    <segment id="3">, Ana Célia resolveu ficar de vez em Salvador
+Ana Célia</segment>
+    <segment id="4">, dançarina da banda de pagode Gang do Samba</segment>
+    <segment id="5">, não é mole não!</segment>
+    <segment id="6">A carne dura da moça</segment>
+    <segment id="7">, conquistada com muita dança</segment>
+    <segment id="8">, é beleza pura!</segment>
+    <segment id="9">Após passar dez anos entre o Brasil e a Itália</segment>
+    <segment id="10">, onde dançou na Companhia Brasil Bahia Show</segment>
+    <segment id="11">, a moça resolveu ficar de vez em Salvador e</segment>
+    <segment id="12">sese dedicar ao gingado baiano.</segment>
+    <segment id="13">Moradora de Massaranduba</segment>
+    <segment id="14">, a gata chegou chegando e logo foi escolhida para entrar no programa</segment>
+    <segment id="15">“</segment>
+    <segment id="16">O Trio - Reality”</segment>
+    <segment id="17">, da TV Aratu.</segment>
+    <segment id="18">“Participei da seleção e a galera adorou.</segment>
+    <segment id="19">Passei nove dias confinada</segment>
+    <segment id="20">, até que Léo Kret me colocou na corda.</segment>
+    <segment id="21">Mas não tenho mágoa dela.</segment>
+    <segment id="22">Era apenas um jogo”</segment>
+    <segment id="23">, revela.</segment>
+    <segment id="24">Para a tristeza dos cuecas</segment>
+    <segment id="25">, a gata é comprometida e</segment>
+    <segment id="26">sese casa em novembro.</segment>
+  </rst>
+</analysis>

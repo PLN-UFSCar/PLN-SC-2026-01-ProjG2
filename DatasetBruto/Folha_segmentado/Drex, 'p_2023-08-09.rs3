@@ -1,0 +1,238 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Banco do Brasil e cooperativas financeiras de crédito já começaram a testar o Drex</segment>
+    <segment id="2">, nova moeda digital que deve entrar em vigor no Brasil entre 2024 e 2025.</segment>
+    <segment id="3">Da família do Pix</segment>
+    <segment id="4">, o Drex é uma CBDC (Central Bank Digital Currency em inglês)</segment>
+    <segment id="5">, que significa moeda digital de banco central.</segment>
+    <segment id="6">O nome do real digital foi divulgado nesta segunda-feira (7) pelo Banco Central.</segment>
+    <segment id="7">Sua sigla evoca as palavras "digital"</segment>
+    <segment id="8">, "real"</segment>
+    <segment id="9">, "eletrônico" e "transação".</segment>
+    <segment id="10">Entenda</segment>
+    <segment id="11">comocomo vai funcionar o DrexO que é o real digital?Como será usado o real digital?Qual a diferença entre o Drex e o Pix?Como o cliente terá acesso ao real digital?O real digital seguirá as mesmas regras do real físico?O</segment>
+    <segment id="12">Drex é seguro?O</segment>
+    <segment id="13">Drex é seguro?Qual a diferença entre uma moeda digital de varejo e de atacado?O que o real digital traz de novidade?Qual será a tecnologia usada no real digital?Quais são os próximos passos para o desenvolvimento do real digital?Drex: “d” e “r” fazem alusão a real digital</segment>
+    <segment id="14">; o “e” vem de eletrônico e o “x” é para expressar modernidade</segment>
+    <segment id="15">, diz o Banco Central - ReproduçãoA Caixa Econômica Federal também já anunciou seus testes.</segment>
+    <segment id="16">Sicoob</segment>
+    <segment id="17">, Sicredi</segment>
+    <segment id="18">, Ailos</segment>
+    <segment id="19">, Cresol e Unicred emitiram os primeiros tokens do real digital na sexta-feira (4).</segment>
+    <segment id="20">Os testes envolveram a simulação da conversão do saldo da reserva bancária de uma instituição financeira para a sua carteira do real digital.</segment>
+    <segment id="21">Segundo o Banco do Brasil</segment>
+    <segment id="22">, a instituição instalou o nó validador que permite iniciar o projeto-piloto da moeda.</segment>
+    <segment id="23">Com isso</segment>
+    <segment id="24">, a partir de agora</segment>
+    <segment id="25">, será possível criar os tokens que vão permitir a simulação de transações com outros bancos e instituições para conferir</segment>
+    <segment id="26">sese a viabilidade do uso da moeda digital.</segment>
+    <segment id="27">Já a Caixa informou que participará dos testes por meio de um consórcio entre o banco estatal</segment>
+    <segment id="28">, a Microsoft e a Elo.</segment>
+    <segment id="29">No projeto-piloto</segment>
+    <segment id="30">, será testada a configuração de infraestrutura e conexão</segment>
+    <segment id="31">, emissão da nova moeda</segment>
+    <segment id="32">, token do real digital e emissão de títulos federais por meio desses tokens.</segment>
+    <segment id="33">O consórcio finalizou as configurações da Caixa para acesso ao nó do Drex.</segment>
+    <segment id="34">Conforme cronograma</segment>
+    <segment id="35">, o acesso à rede será liberado na próxima terça (15).</segment>
+    <segment id="36">A partir de então</segment>
+    <segment id="37">, serão testadas a privacidade e</segment>
+    <segment id="38">comocomo programar as transações</segment>
+    <segment id="39">, por meio de um</segment>
+    <segment id="40">casocaso específico</segment>
+    <segment id="41">, que se</segment>
+    <segment id="42">se dará em negociações de título público federal entre clientes de instituições diferentes</segment>
+    <segment id="43">, além dos serviços que compõem essa transação.</segment>
+    <segment id="44">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="45">; aberta para não assinantes.</segment>
+    <segment id="46">Carregando...</segment>
+    <segment id="47">O maior objetivo do projeto-piloto no Banco do Brasil é saber</segment>
+    <segment id="48">sese o Drex pode ser negociado em grande escala</segment>
+    <segment id="49">, sese as operações entre instituições serão possíveis</segment>
+    <segment id="50">, além de garantia de segurança e privacidade no uso da moeda virtual.</segment>
+    <segment id="51">Essa fase de testes deve durar durante todo o segundo semestre deste ano e conta com 16 consórcios compostos por instituições financeiras e empresas do mercado.</segment>
+    <segment id="52">Em 2024</segment>
+    <segment id="53">, segundo calendário do Banco Central</segment>
+    <segment id="54">, deve haver ampliação do projeto até que as transações passem a ser liberadas entre o final do ano que vem e o início de 2025.</segment>
+    <segment id="55">O funcionamento das transações em real digital será por meio de tokens.</segment>
+    <segment id="56">A ideia é que o Drex seja uma moeda utilizada em atacado</segment>
+    <segment id="57">, para transações de grande porte</segment>
+    <segment id="58">, dando mais segurança às operações</segment>
+    <segment id="59">, e também no varejo.</segment>
+    <segment id="60">Será possível</segment>
+    <segment id="61">, por exemplo</segment>
+    <segment id="62">, comprar um imóvel utilizando o real digital</segment>
+    <segment id="63">, com pagamento instantâneo.</segment>
+    <segment id="64">Pix cai no gosto do comércio popular em São PauloMais    novamente         de   de  de  representando um</segment>
+    <segment id="65">O Drex deve beneficiar ainda o mercado de investimentos</segment>
+    <segment id="66">, segundo Marisa Reghini</segment>
+    <segment id="67">, vice-presidente de negócios digitais e tecnologia do Banco do Brasil.</segment>
+    <segment id="68">De acordo com a especialista</segment>
+    <segment id="69">, a nova tecnologia é uma possibilidade de melhorar os serviços bancários e ampliar o acesso à bancarização da população.</segment>
+    <segment id="70">"</segment>
+    <segment id="71">Esse é um</segment>
+    <segment id="72">casocaso de uso que tem potencial para trazer comodidade aos clientes</segment>
+    <segment id="73">, melhorar a eficiência da operação</segment>
+    <segment id="74">, reduzir custos e ampliar o mercado"</segment>
+    <segment id="75">, diz.</segment>
+    <segment id="76">A presidente da Caixa</segment>
+    <segment id="77">, Maria Rita Serrano</segment>
+    <segment id="78">, afirma que a participação do banco estatal é importante por causa do amplo atendimento da instituição em todo o país</segment>
+    <segment id="79">, com presença do banco em 99% dos municípios brasileiros por meio de 26</segment>
+    <segment id="80">,9 mil pontos de atendimento.</segment>
+    <segment id="81">Além disso</segment>
+    <segment id="82">, a Caixa é o maior banco da América Latina</segment>
+    <segment id="83">, com mais de 150 milhões de clientes e R$ 1</segment>
+    <segment id="84">,6 trilhão em ativos administrados</segment>
+    <segment id="85">, e o principal parceiro do governo federal em programas sociais</segment>
+    <segment id="86">, de transferência de renda e de inclusão financeira.</segment>
+    <segment id="87">No caso</segment>
+    <segment id="88">caso dos bancos privados</segment>
+    <segment id="89">, o Bradesco respondeu que irá participar dos testes a partir de 11 de setembro.</segment>
+    <segment id="90">A intenção é testar a operação</segment>
+    <segment id="91">, a segurança</segment>
+    <segment id="92">, privacidade e a descentralização das transações.</segment>
+    <segment id="93">A participação do banco vai até fevereiro de 2024</segment>
+    <segment id="94">, quando haverá avaliação por parte do Banco Central.</segment>
+    <segment id="95">O Drex está sendo criado e será operado pelo Banco Central.</segment>
+    <segment id="96">A expectativa da instituição é que o real digital</segment>
+    <segment id="97">sese torne tão confiável quanto o Pix</segment>
+    <segment id="98">, que em batido recordes de utilização.</segment>
+    <segment id="99">Segundo balanço da instituição</segment>
+    <segment id="100">, na sexta-feira (4)</segment>
+    <segment id="101">, o sistema de pagamentos bateu recorde</segment>
+    <segment id="102">, com o registro de 142</segment>
+    <segment id="103">,4 milhões de transações em um único dia.</segment>
+    <segment id="104">O recorde anterior havia sido registrado no dia 7 de julho</segment>
+    <segment id="105">, quando 134</segment>
+    <segment id="106">,8 milhões de transações foram realizadas.</segment>
+    <segment id="107">Drex representa modernização nas operações financeiras</segment>
+    <segment id="108">Segundo a Febraban (Federação Brasileira de Bancos)</segment>
+    <segment id="109">, que tem participado das discussões sobre o real digital</segment>
+    <segment id="110">, a moeda vai funcionar</segment>
+    <segment id="111">comocomo versão digital de cédulas e moedas emitidas em espécie</segment>
+    <segment id="112">, representando modernização nas transações financeiras.</segment>
+    <segment id="113">A federação</segment>
+    <segment id="114">, que fez parte dos estudos técnicos</segment>
+    <segment id="115">, afirma que</segment>
+    <segment id="116">, na fase inicial</segment>
+    <segment id="117">, o real digital será mais usado por pessoas jurídicas</segment>
+    <segment id="118">, não chegando em larga escala a pessoas físicas</segment>
+    <segment id="119">, mercado que ainda vai</segment>
+    <segment id="120">sese desenvolver.</segment>
+    <segment id="121">"Está sendo construída a infraestrutura que permita a tokenização desses depósitos e a partir daí</segment>
+    <segment id="122">, o cliente terá um leque de oportunidades para outros produtos e serviços no sistema financeiro"</segment>
+    <segment id="123">, diz nota da Febraban.</segment>
+    <segment id="124">A advogada Luciana Simões</segment>
+    <segment id="125">, sócia da equipe de mercado financeiro e de capitais do b/luz advogados</segment>
+    <segment id="126">, afirma que não há diferença entre Drex e o real atual</segment>
+    <segment id="127">, valendo a mesma coisa.</segment>
+    <segment id="128">"</segment>
+    <segment id="129">Não existe diferença entre o real e o Drex</segment>
+    <segment id="130">, sendo este apenas a representação digital da moeda física.</segment>
+    <segment id="131">Conforme explicado pelo BCB</segment>
+    <segment id="132">, o Drex poderá ser trocado por papel-moeda e vice-versa</segment>
+    <segment id="133">, e o acesso a ela será feito por meio de carteiras virtuais em bancos e outras instituições financeiras e de pagamento"</segment>
+    <segment id="134">, acrescenta a especialista.</segment>
+    <segment id="135">Denis Nakazawa</segment>
+    <segment id="136">, da Accenture</segment>
+    <segment id="137">, afirma que o Brasil está à frente de outros países em termos de evolução tecnológica no mercado financeiro.</segment>
+    <segment id="138">"</segment>
+    <segment id="139">O que o Brasil tem feito em termos de avanços tecnológicos no sistema financeiro é incrível.</segment>
+    <segment id="140">Todas as evoluções das transações econômicas têm sido muito bem-sucedidas por aqui</segment>
+    <segment id="141">, e a expectativa é a mesma para o que está por vir"</segment>
+    <segment id="142">, diz.</segment>
+    <segment id="143">O que é e</segment>
+    <segment id="144">comocomo funciona o Pix?Mais    novamente         de   de  de  representando um  Entenda o funcionamento do Drex  O que é o real digital?  É uma CBDC (Central Bank Digital Currency)</segment>
+    <segment id="145">, uma moeda digital emitida por Banco Central.</segment>
+    <segment id="146">Ela é uma representação virtual do real e poderá ser convertida em outras formas de pagamento disponíveis hoje</segment>
+    <segment id="147">, pois</segment>
+    <segment id="148">pois terá o mesmo valor do dinheiro tradicional</segment>
+    <segment id="149">, podendo ser usada em diversas transações.</segment>
+    <segment id="150">No entanto</segment>
+    <segment id="151">, inicialmente</segment>
+    <segment id="152">, deve ser mais utilizada por pessoas jurídicas.</segment>
+    <segment id="153">Como será usado o real digital?</segment>
+    <segment id="154">A moeda virtual brasileira será voltada para atividades de atacado.</segment>
+    <segment id="155">O uso pela população será por meio do real tokenizado.</segment>
+    <segment id="156">Nesse caso</segment>
+    <segment id="157">caso, a representação digital da moeda brasileira será o token de um depósito mantido por instituições financeiras ou instituições de pagamento.</segment>
+    <segment id="158">Qual a diferença entre o Drex e o Pix?</segment>
+    <segment id="159">O Drex é o dinheiro digital.</segment>
+    <segment id="160">Já o Pix é o meio de pagamento.</segment>
+    <segment id="161">No futuro</segment>
+    <segment id="162">, poderá ser feito um Pix utilizando o Drex</segment>
+    <segment id="163">, ou seja</segment>
+    <segment id="164">, poderá ser enviado</segment>
+    <segment id="165">Drex de um cliente para outro por meio de Pix.</segment>
+    <segment id="166">Como o cliente terá acesso ao real digital?</segment>
+    <segment id="167">O usuário final terá uma carteira virtual em custódia de um agente autorizado pelo Banco Central</segment>
+    <segment id="168">, como</segment>
+    <segment id="169">como um banco ou uma instituição de pagamento.</segment>
+    <segment id="170">O real digital seguirá as mesmas regras do real físico?</segment>
+    <segment id="171">Segundo o Banco Central</segment>
+    <segment id="172">, o Drex será uma representação digital do real físico hoje em circulação e a política monetária será a base de sustentação de seu valor.</segment>
+    <segment id="173">Assim, quando o BC movimenta a liquidez da economia</segment>
+    <segment id="174">, a quantidade de reais digitais em circulação será levada em conta.</segment>
+    <segment id="175">O Drex é seguro?</segment>
+    <segment id="176">Os testes com a moeda vão mostrar a real segurança</segment>
+    <segment id="177">, masmas diretriz estabelecida para o real digital é que ela mantenha os níveis de segurança e privacidade que há hoje nas operações realizadas no sistema bancário e de pagamentos.</segment>
+    <segment id="178">Qual a diferença entre uma moeda digital de varejo e de atacado?</segment>
+    <segment id="179">Uma moeda digital de atacado é voltada para transações de valores elevados</segment>
+    <segment id="180">, envolvendo bancos</segment>
+    <segment id="181">, cooperativas</segment>
+    <segment id="182">, instituições de pagamento e eventualmente grandes empresas.</segment>
+    <segment id="183">Já uma moeda digital de varejo busca atender às necessidades de indivíduos e empresas de todos os portes</segment>
+    <segment id="184">, podendo ser utilizada para pagamentos e para operações financeiras cotidianas em quaisquer faixas de valores.</segment>
+    <segment id="185">O que o real digital traz de novidade?</segment>
+    <segment id="186">Além de poder ser utilizado em conjunto com contas bancárias</segment>
+    <segment id="187">, contas de pagamentos</segment>
+    <segment id="188">, cartões e dinheiro em espécie</segment>
+    <segment id="189">, ele permitirá acesso a serviços financeiros que estão sendo desenvolvidos com base em novas tecnologias</segment>
+    <segment id="190">, como</segment>
+    <segment id="191">como contratos inteligentes e dinheiro programável (valor monetário digital que pode ser programado para ser gasto somente para determinada finalidade).</segment>
+    <segment id="192">Qual será a tecnologia usada no real digital?</segment>
+    <segment id="193">A rede escolhida para a fase de testes foi a Hyperledger Besu.</segment>
+    <segment id="194">Ela é baseada na Ethereum</segment>
+    <segment id="195">, plataforma que usa tecnologia blockchain para registrar transações com ativos digitais</segment>
+    <segment id="196">, é capaz de executar contratos inteligentes e tem condições de operar em grande escala.</segment>
+    <segment id="197">Se for bem-sucedida durante o piloto</segment>
+    <segment id="198">, a Hyperledger Besu pode ser escolhida</segment>
+    <segment id="199">comocomo tecnologia definitiva da versão tokenizada da moeda brasileira.</segment>
+    <segment id="200">Quais são os próximos passos para o desenvolvimento do real digital?</segment>
+    <segment id="201">O Drex ainda está em fase de testes e não há uma data exata para o seu lançamento.</segment>
+    <segment id="202">O que há definido é um cronograma que</segment>
+    <segment id="203">, ao longo de 2023 e no início de 2024</segment>
+    <segment id="204">, irá focar na infraestrutura</segment>
+    <segment id="205">, para desenvolver apenas um tipo de transação e testar a segurança e a privacidade das transações com Drex.</segment>
+    <segment id="206">Após esses testes</segment>
+    <segment id="207">, sese todos os requisitos forem atendidos</segment>
+    <segment id="208">, o Banco Central passará a uma fase de incorporação de novos tipos de transação que pode fazer com que as novas transações sejam liberadas no final de 2024 ou início de 2025.</segment>
+    <segment id="209">"</segment>
+    <segment id="210">Se atingirmos um grau de maturidade adequado do projeto e dos participantes do mercado</segment>
+    <segment id="211">, pretendemos abrir a plataforma para testes com a população ao fim de 2024"</segment>
+    <segment id="212">, diz nota do BC.</segment>
+  </rst>
+</analysis>

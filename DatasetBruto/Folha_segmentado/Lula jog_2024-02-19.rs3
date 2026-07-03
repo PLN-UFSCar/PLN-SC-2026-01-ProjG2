@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Da esq.</segment>
+    <segment id="2">p/ dir.</segment>
+    <segment id="3">: Benjamin Netanyahu</segment>
+    <segment id="4">, de Israel</segment>
+    <segment id="5">, Joe Biden</segment>
+    <segment id="6">, dos Estados Unidos</segment>
+    <segment id="7">, Abdul Fatah Khalil Al-Sisi</segment>
+    <segment id="8">, do Egito</segment>
+    <segment id="9">, Tamim bin Hamad al-Thani</segment>
+    <segment id="10">, do Qatar</segment>
+    <segment id="11">, Ismail Haniya</segment>
+    <segment id="12">, do Hamas</segment>
+    <segment id="13">, e Lula.</segment>
+    <segment id="14">- Cláudio/Folhapress</segment>
+  </rst>
+</analysis>

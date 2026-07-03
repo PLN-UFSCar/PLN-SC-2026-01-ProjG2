@@ -1,0 +1,93 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O presidente do STF (Supremo Tribunal Federal)</segment>
+    <segment id="2">, Luís Roberto Barroso</segment>
+    <segment id="3">, disse nesta quarta-feira (29) que não há restrição à liberdade de expressão no julgamento que definiu que a imprensa pode ser punida por entrevistas com "indícios concretos de falsidade".</segment>
+    <segment id="4">O ministro afirmou a jornalistas que</segment>
+    <segment id="5">, a partir do julgamento de "um</segment>
+    <segment id="6">casocaso totalmente excepcional"</segment>
+    <segment id="7">, o Supremo estabeleceu uma regra geral de que "o veículo não é responsável por declaração de entrevistado a menos que tenha havido uma grosseira negligência relativamente à apuração de um fato que fosse de conhecimento público".</segment>
+    <segment id="8">O ministro Luís Roberto Barroso</segment>
+    <segment id="9">, do STF - Adriano Vizoni - 23.out.23/Folhapress</segment>
+    <segment id="10">O caso</segment>
+    <segment id="11">caso ao qual Barroso</segment>
+    <segment id="12">sese refere é um pedido de indenização contra o jornal Diário de Pernambuco por uma entrevista publicada em 1995.</segment>
+    <segment id="13">O STF manteve por 9 votos a 2 uma condenação do STJ (Superior Tribunal e Justiça) contra o veículo.</segment>
+    <segment id="14">O processo que chegou ao Supremo trata da disputa do ex-deputado Ricardo Zarattini Filho</segment>
+    <segment id="15">, que já morreu</segment>
+    <segment id="16">, contra o Diário de Pernambuco.</segment>
+    <segment id="17">O ex-parlamentar foi à Justiça contra o jornal devido a uma entrevista na qual o delegado Wandenkolk Wanderley</segment>
+    <segment id="18">, também já falecido</segment>
+    <segment id="19">, dizia que Zarattini tinha participado do atentado a bomba no Aeroporto dos Guararapes</segment>
+    <segment id="20">, do Recife</segment>
+    <segment id="21">, em 1966.</segment>
+    <segment id="22">Na fala a jornalistas</segment>
+    <segment id="23">, em evento no Supremo após a sessão de julgamento</segment>
+    <segment id="24">, Barroso disse que nesse</segment>
+    <segment id="25">casocaso "anos depois de um fato</segment>
+    <segment id="26">, [o veículo] imputava um atentado terrorista a uma pessoa que já havia sido julgada</segment>
+    <segment id="27">, absolvida".  "</segment>
+    <segment id="28">A única coisa que</segment>
+    <segment id="29">sese pune em termos de liberdade de expressão e de imprensa é a veiculação de má-fé</segment>
+    <segment id="30">, de intencionalidade de prejudicar ou por uma absurda negligência em apurar a verdade"</segment>
+    <segment id="31">, disse.</segment>
+    <segment id="32">Para ele</segment>
+    <segment id="33">, o caso</segment>
+    <segment id="34">caso de Pernambuco "foi julgado com grande excepcionalidade</segment>
+    <segment id="35">porque</segment>
+    <segment id="36">porque claramente havia a intenção de fazer mal" a alguém que já havia sido absolvido.</segment>
+    <segment id="37">"</segment>
+    <segment id="38">Se uma pessoa foi absolvida</segment>
+    <segment id="39">, faz parte do dever de cuidado do jornalista dizer que a pessoa foi absolvida.</segment>
+    <segment id="40">Esse é o debate.</segment>
+    <segment id="41">Não há nenhuma restrição à liberdade de expressão.</segment>
+    <segment id="42">Não há censura prévia.</segment>
+    <segment id="43">"  FolhaJusA newsletter sobre o mundo jurídico exclusiva para assinantes da FolhaCarregando...</segment>
+    <segment id="44">O Supremo fixou nesta quarta-feira uma tese que trata da possibilidade de responsabilização civil de empresas jornalísticas que publicarem entrevistas que imputem de forma falsa crime a terceiros</segment>
+    <segment id="45">, quando há indícios concretos de que as declarações são mentirosas.</segment>
+    <segment id="46">A tese foi elaborada pelo ministro Alexandre de Moraes</segment>
+    <segment id="47">, com mudanças propostas por Barroso</segment>
+    <segment id="48">, Cármen Lúcia e Cristiano Zanin.</segment>
+    <segment id="49">O texto diz que "a plena proteção constitucional à liberdade de imprensa é consagrada pelo binômio liberdade com responsabilidade</segment>
+    <segment id="50">, vedada qualquer espécie de censura prévia</segment>
+    <segment id="51">, porém</segment>
+    <segment id="52">porém admitindo a possibilidade posterior de análise e responsabilização".</segment>
+    <segment id="53">Essa responsabilização</segment>
+    <segment id="54">, que pode incluir remoção de conteúdo</segment>
+    <segment id="55">, seria por "informações comprovadamente injuriosas</segment>
+    <segment id="56">, difamantes</segment>
+    <segment id="57">, caluniosas</segment>
+    <segment id="58">, mentirosas</segment>
+    <segment id="59">, e em relação a eventuais danos materiais e morais".  "</segment>
+    <segment id="60">Na hipótese de publicação de entrevista em que o entrevistado imputa falsamente prática de crime a terceiro</segment>
+    <segment id="61">, a empresa jornalística somente poderá ser responsabilizada civilmente</segment>
+    <segment id="62">sese: (i) à época da divulgação</segment>
+    <segment id="63">, havia indícios concretos da falsidade da imputação</segment>
+    <segment id="64">; (ii) o veículo deixou de observar o dever de cuidado na verificação da veracidade dos fatos e na divulgação da existência de tais indícios"</segment>
+    <segment id="65">, diz a tese aprovada pelo Supremo.</segment>
+    <segment id="66">O STF (Supremo Tribunal Federal) em 2023Mais    novamente         de   de  de  representando</segment>
+    <segment id="67">um</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,50 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Conta de água fica 12</segment>
+    <segment id="2">,89% mais cara</segment>
+    <segment id="3">Com esse reajuste</segment>
+    <segment id="4">, a tarifa residencial social vai passar de R$ 7</segment>
+    <segment id="5">,00 para R$ 7</segment>
+    <segment id="6">,90</segment>
+    <segment id="7">A conta de água fica mais cara a partir de 1º de maio.</segment>
+    <segment id="8">De acordo com publicação no Diário Oficial de 31 de março e 1º de abril</segment>
+    <segment id="9">, a Embasa está autorizada a reajustar a tarifa em 12</segment>
+    <segment id="10">,89%, sendo 7</segment>
+    <segment id="11">,58% por conta do aumento das despesas da estatal e 5</segment>
+    <segment id="12">,3% referente à segunda parcela de revisão tarifária de 2011.</segment>
+    <segment id="13">Com esse reajuste</segment>
+    <segment id="14">, a tarifa residencial social vai passar de R$ 7</segment>
+    <segment id="15">,00 para R$ 7</segment>
+    <segment id="16">,90 ao mês para 10 mil litros de água consumidos</segment>
+    <segment id="17">; a tarifa residencial intermediária vai aumentar de R$ 13</segment>
+    <segment id="18">,80 para R$ 15</segment>
+    <segment id="19">,60 e a residencial normal ou veraneio será R$ 17</segment>
+    <segment id="20">,65 ao invés dos R$ 15</segment>
+    <segment id="21">,65 cobrados atualmente.</segment>
+    <segment id="22">Em 2011</segment>
+    <segment id="23">, o aumento na conta foi de 13</segment>
+    <segment id="24">,64%.</segment>
+  </rst>
+</analysis>

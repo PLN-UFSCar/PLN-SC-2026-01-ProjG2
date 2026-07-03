@@ -1,0 +1,35 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Cama cheia de pulgas</segment>
+    <segment id="2">Brothers têm passado péssimas noites por conta da presença de pulgas nas camas do BBB
+Ontem</segment>
+    <segment id="3">, numa conversa com Monique</segment>
+    <segment id="4">, Jonas comentou que teve uma noite horrível</segment>
+    <segment id="5">porque</segment>
+    <segment id="6">porque a cama dele estava cheia de pulgas.</segment>
+    <segment id="7">O mister contou que levou várias picadas durante a madrugada.</segment>
+    <segment id="8">A sister disse que também passou pelo mesmo problema na casa.</segment>
+  </rst>
+</analysis>

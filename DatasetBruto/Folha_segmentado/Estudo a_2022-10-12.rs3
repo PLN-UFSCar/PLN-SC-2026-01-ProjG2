@@ -1,0 +1,113 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Uma pesquisa feita com dados de 295 mil pessoas no Reino Unido apontou para um maior risco de desenvolver demência em pessoas negras do que nas brancas ou asiáticas.</segment>
+    <segment id="2">O risco associado para doença neurodegenerativa em indivíduos com mais de 55 anos era de 34% a 43% maior em negros em comparação aos brancos.</segment>
+    <segment id="3">O mesmo risco não foi encontrado para outras etnias avaliadas</segment>
+    <segment id="4">, como</segment>
+    <segment id="5">como asiáticos.</segment>
+    <segment id="6">Coleção de cérebros humanos é exposta no Museu de Neuropatologia em Lima - Ernesto Benavides - 16.nov.2016/AFP</segment>
+    <segment id="7">Os resultados foram publicados na edição desta quarta-feira (12) da revista científica PLoS</segment>
+    <segment id="8">One.</segment>
+    <segment id="9">A pesquisa foi desenvolvida por cientistas da Divisão de Psiquiatria da Universidade College de Londres e do Fundo Camden e Islington do Serviço Nacional de Saúde britânico.</segment>
+    <segment id="10">Para avaliar o risco associado ao desenvolvimento de demência</segment>
+    <segment id="11">, os cientistas analisaram dados de 294.162 participantes de 40 a 69 anos cujas informações estavam inseridas no chamado biobanco do Reino Unido de 2006 a 2010.</segment>
+    <segment id="12">Essas informações incluíam etnia</segment>
+    <segment id="13">, escolaridade</segment>
+    <segment id="14">, idade</segment>
+    <segment id="15">, gênero</segment>
+    <segment id="16">, prática de atividade física</segment>
+    <segment id="17">, condições prévias de saúde (diabetes</segment>
+    <segment id="18">, hipertensão</segment>
+    <segment id="19">, obesidade</segment>
+    <segment id="20">, perda auditiva etc.)</segment>
+    <segment id="21">, consumo de álcool</segment>
+    <segment id="22">, cigarro e exposição à poluição do ar.</segment>
+    <segment id="23">Leia maisDia Mundial do Alzheimer: 4 coisas que aprendemos nos últimos 4 anosDemência precoce atinge adultos de 30 anos e tem diagnóstico demoradoPerda cognitiva pós-Covid é similar a 20 anos de envelhecimento</segment>
+    <segment id="24">, sugere estudoDormir mal pode levar a um quadro de demência?</segment>
+    <segment id="25">Veja o que a ciência diz</segment>
+    <segment id="26">Os cientistas também coletaram amostras de sangue dos participantes para traçar a presença de biomarcadores já conhecidos para demência que podem estar associados ao maior ou menor risco de aparecimento da doença.</segment>
+    <segment id="27">O peso e o índice de massa corporal também foram anotados individualmente.</segment>
+    <segment id="28">Para a avaliação do risco</segment>
+    <segment id="29">, os pesquisadores selecionaram apenas os indivíduos com 55 anos ou mais no momento de início do estudo</segment>
+    <segment id="30">, pois</segment>
+    <segment id="31">pois nas pessoas mais jovens o risco é baixo.</segment>
+    <segment id="32">Os fatores idade</segment>
+    <segment id="33">, gênero e sociodemográficos foram ajustados para todos os participantes.</segment>
+    <segment id="34">No período analisado</segment>
+    <segment id="35">, 5.972 pacientes desenvolveram demência (2</segment>
+    <segment id="36">,03%), sendo 5.789 brancos</segment>
+    <segment id="37">, 79 asiáticos e 91 negros.</segment>
+    <segment id="38">A chamada razão de risco (HR em inglês) nos participantes que</segment>
+    <segment id="39">sese autodeclararam negros era de 1.43 (intervalo de confiança de 95%)</segment>
+    <segment id="40">, enquanto nos participantes que</segment>
+    <segment id="41">sese autodeclararam asiáticos era de 1.09 (com intervalo de confiança 95%).</segment>
+    <segment id="42">O grupo controle para o estudo era ter</segment>
+    <segment id="43">sese autodeclarado branco</segment>
+    <segment id="44">, pois</segment>
+    <segment id="45">pois essa era a população em que o HR era igual a 1.</segment>
+    <segment id="46">Quando ajustados os dados para todos os fatores de risco</segment>
+    <segment id="47">, incluindo escolaridade</segment>
+    <segment id="48">, predisposição genética e condições prévias de saúde</segment>
+    <segment id="49">, o risco na população negra ainda era maior do que na população autodeclarada branca</segment>
+    <segment id="50">, com HR igual 1.34 (intervalo de confiança 95%).</segment>
+    <segment id="51">Sintomas do Alzheimer Mais    novamente         de   de  de  representando um</segment>
+    <segment id="52">A pesquisa ainda encontrou uma forte correlação entre escolaridade e risco de desenvolver demência</segment>
+    <segment id="53">, com o menor risco quanto mais alta a escolaridade do grupo analisado</segment>
+    <segment id="54">, e também maior risco para pessoas com taxas mais altas de obesidade</segment>
+    <segment id="55">, diabetes</segment>
+    <segment id="56">, perda auditiva ou hipertensão.</segment>
+    <segment id="57">Porém, na população branca</segment>
+    <segment id="58">, o que mais influenciou o risco de desenvolver demência foi o tabagismo (HR=1.23</segment>
+    <segment id="59">, comparado a 1.03 nos negros e 0.9 nos asiáticos).</segment>
+    <segment id="60">A análise não encontrou</segment>
+    <segment id="61">comocomo fator de risco para demência nos negros o consumo moderado a alto de álcool (equivalente a igual ou menos de 21 doses por semana)</segment>
+    <segment id="62">, masmas o fato de esse consumo ser maior na população branca pode ter influenciado esse resultado.</segment>
+    <segment id="63">Para Naaheed Mukadam</segment>
+    <segment id="64">, psiquiatra e pesquisadora da Universidade College em Londres e primeira autora do estudo</segment>
+    <segment id="65">, esse resultado é concordante com pesquisas feitas em outros países</segment>
+    <segment id="66">, que apontaram que hábitos de vida</segment>
+    <segment id="67">comocomo consumo de cigarro e álcool estão mais associados ao risco de demência em pessoas de etnias brancas</segment>
+    <segment id="68">, enquanto doenças crônicas estão mais associadas às populações negras e de maior vulnerabilidade social.  "</segment>
+    <segment id="69">A população negra no nosso estudo tinha taxas muito baixas de tabagismo e consumo excessivo de álcool.</segment>
+    <segment id="70">Por outro lado</segment>
+    <segment id="71">, as taxas de diabetes</segment>
+    <segment id="72">, obesidade e hipertensão eram maiores neste grupo comparado com a população branca.</segment>
+    <segment id="73">Mesmo ajustando para esses fatores</segment>
+    <segment id="74">, os negros ainda tinham maior risco para demência</segment>
+    <segment id="75">, o que indica que esse risco elevado não é explicado somente pela alta incidência desses fatores"</segment>
+    <segment id="76">, explica.</segment>
+    <segment id="77">Segundo Mukadam</segment>
+    <segment id="78">, outro fator que pode influenciar tal risco para os negros é a frequência elevada de um gene considerado</segment>
+    <segment id="79">comocomo um marcador de demência</segment>
+    <segment id="80">, que apareceu mais na população negra estudada do que nos brancos.</segment>
+    <segment id="81">"</segment>
+    <segment id="82">Não sabemos por que esse alelo é mais comum nesse grupo específico da população negra comparado aos asiáticos e brancos.</segment>
+    <segment id="83">Se a frequência desse mesmo gene</segment>
+    <segment id="84">sese distribui de maneira diferente em outras populações negras</segment>
+    <segment id="85">, ou até mesmo na população geral</segment>
+    <segment id="86">, vamos precisar de mais estudos para saber"</segment>
+    <segment id="87">, diz.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,147 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O tombo do Firefox
+Foi um ano ruim para o Firefox.</segment>
+    <segment id="2">Há apenas dois anos</segment>
+    <segment id="3">, era o navegador favorito de quem entendia de internet.</segment>
+    <segment id="4">Entrou 2011 sólido na segunda colocação do ranking.</segment>
+    <segment id="5">(O Internet Explorer</segment>
+    <segment id="6">, da Microsoft</segment>
+    <segment id="7">, é líder absoluto com algo entre 35% e 50%</segment>
+    <segment id="8">, dependendo de quem conta.)</segment>
+    <segment id="9">Na primeira semana de dezembro</segment>
+    <segment id="10">, segundo a StatCounter</segment>
+    <segment id="11">, o Chrome do Google o ultrapassou.</segment>
+    <segment id="12">Não bastasse</segment>
+    <segment id="13">, paira uma ameaça de que a fundação responsável pelo Firefox perca antes de o ano terminar sua principal fonte de financiamento.</segment>
+    <segment id="14">Segundo os números da StatCounter</segment>
+    <segment id="15">, consolidando novembro</segment>
+    <segment id="16">, o Explorer tem 40</segment>
+    <segment id="17">,68%, Chrome 25</segment>
+    <segment id="18">,49% e Firefox 25</segment>
+    <segment id="19">,25%.</segment>
+    <segment id="20">O Safari</segment>
+    <segment id="21">, da Apple</segment>
+    <segment id="22">, é o distante quarto com 5</segment>
+    <segment id="23">,92%.</segment>
+    <segment id="24">Para dar uma ideia da queda: em novembro de 2010</segment>
+    <segment id="25">, Firefox tinha 31</segment>
+    <segment id="26">,17% e</segment>
+    <segment id="27">, o Chrome</segment>
+    <segment id="28">, 13,35%.</segment>
+    <segment id="29">A queda não vem à toa.</segment>
+    <segment id="30">Quem se</segment>
+    <segment id="31">se aventura pela internet com cautela costuma usar o programa que já vem pré-instalado no Windows.</segment>
+    <segment id="32">A onipresença do Explorer sai daí.</segment>
+    <segment id="33">Durante muito tempo</segment>
+    <segment id="34">, o Explorer era também uma opção com pouca funcionalidade e um quê insegura.</segment>
+    <segment id="35">Neste vácuo</segment>
+    <segment id="36">, cresceu o Firefox.</segment>
+    <segment id="37">Mudou.</segment>
+    <segment id="38">Navegação por abas</segment>
+    <segment id="39">, que permite abrir várias janelas de fácil acesso simultaneamente</segment>
+    <segment id="40">, um dia foi exclusivo do Firefox.</segment>
+    <segment id="41">Não mais.</segment>
+    <segment id="42">E um estudo publicado este mês</segment>
+    <segment id="43">, da empresa de segurança Accuvant Labs</segment>
+    <segment id="44">, põe o Chrome</segment>
+    <segment id="45">comocomo o browser mais seguro</segment>
+    <segment id="46">, seguido de perto pelo Explorer.</segment>
+    <segment id="47">O Firefox é um distante terceiro.</segment>
+    <segment id="48">É justo fazer uma salvaguarda.</segment>
+    <segment id="49">Quem encomendou o estudo à Accuvant foi o Google.</segment>
+    <segment id="50">E sua conclusão é de que o browser mais seguro é o do próprio Google.</segment>
+    <segment id="51">Ainda assim</segment>
+    <segment id="52">, nenhum especialista em segurança protestou.</segment>
+    <segment id="53">E a turma do Firefox resmungou</segment>
+    <segment id="54">, porém</segment>
+    <segment id="55">porém não negou nenhuma das falhas ressaltadas.</segment>
+    <segment id="56">Para o usuário pacato</segment>
+    <segment id="57">, há problemas mais evidentes.</segment>
+    <segment id="58">Com o tempo</segment>
+    <segment id="59">, o Firefox foi ficando mais gordo e lento.</segment>
+    <segment id="60">O contraste com Explorer e</segment>
+    <segment id="61">, principalmente</segment>
+    <segment id="62">, Chrome</segment>
+    <segment id="63">, é evidente.</segment>
+    <segment id="64">A velocidade é seu calcanhar de Aquiles.</segment>
+    <segment id="65">Firefox nasceu das cinzas de um período difícil no início da internet comercial</segment>
+    <segment id="66">, a Guerra dos Browsers.</segment>
+    <segment id="67">A Microsoft não percebeu que a internet ia estourar.</segment>
+    <segment id="68">Quase nenhuma das empresas tradicionais do Vale do Silício percebeu.</segment>
+    <segment id="69">Enquanto isso</segment>
+    <segment id="70">, a jovem Netscape explodiu</segment>
+    <segment id="71">, simbolizando no imaginário o que aquela nova tecnologia de comunicação proporcionava.</segment>
+    <segment id="72">O Netscape</segment>
+    <segment id="73">, em seu tempo</segment>
+    <segment id="74">, foi o browser que todo mundo usava</segment>
+    <segment id="75">, dos entendidos aos iniciantes.</segment>
+    <segment id="76">A Microsoft lutou duro para impor seu Explorer.</segment>
+    <segment id="77">De forma desleal</segment>
+    <segment id="78">, até, fazendo com que o Netscape rodasse mal no Windows.</segment>
+    <segment id="79">Não bastasse esta dificuldade</segment>
+    <segment id="80">, a turma do Netscape foi arrogante.</segment>
+    <segment id="81">Considerou-</segment>
+    <segment id="82">sese indestrutível.</segment>
+    <segment id="83">O Netscape implodiu e a Microsoft terminou envolvida num processo por más práticas e abuso de monopólio.</segment>
+    <segment id="84">A Netscape acabou e seu código foi reaproveitado no que</segment>
+    <segment id="85">sese tornaria o Firefox.</segment>
+    <segment id="86">Distraída pelo processo</segment>
+    <segment id="87">, a Microsoft tirou o foco da inovação.</segment>
+    <segment id="88">Está tentando</segment>
+    <segment id="89">sese recuperar até hoje.</segment>
+    <segment id="90">No vácuo deixado pelas duas naqueles anos da virada do século</segment>
+    <segment id="91">, o Google achou espaço para crescer.</segment>
+    <segment id="92">O Firefox não é um produto comercial.</segment>
+    <segment id="93">Por trás dele há uma fundação sem fins lucrativos que deve boa parte de seu financiamento ao Google.</segment>
+    <segment id="94">Em números: US$ 123 milhões</segment>
+    <segment id="95">, ou 84% do dinheiro que arrecadou em 2010.</segment>
+    <segment id="96">Trata-</segment>
+    <segment id="97">sese de um contrato.</segment>
+    <segment id="98">Em troca</segment>
+    <segment id="99">, o Firefox ostenta no cabeçalho uma barra com a caixa de buscas do Google.</segment>
+    <segment id="100">O contrato foi assinado em setembro de 2008.</segment>
+    <segment id="101">O Chrome ainda não havia sido lançado.</segment>
+    <segment id="102">Contrato que venceu em novembro.</segment>
+    <segment id="103">Hoje, o Google não precisa da caixa no Firefox para aumentar sua audiência.</segment>
+    <segment id="104">Tampouco precisa de uma alternativa ao Explorer para manter distância da Microsoft.</segment>
+    <segment id="105">Afinal</segment>
+    <segment id="106">, ele próprio é dono da estrela ascendente.</segment>
+    <segment id="107">E, no entanto</segment>
+    <segment id="108">, embora</segment>
+    <segment id="109">embora ninguém tenha assinado um novo contrato</segment>
+    <segment id="110">, há negociações secretas em rumo.</segment>
+    <segment id="111">Ambos dizem que estão conversando</segment>
+    <segment id="112">masmas não dão nenhum detalhe.</segment>
+    <segment id="113">O ano foi ruim para o Firefox</segment>
+    <segment id="114">masmas ele não é cachorro morto.</segment>
+    <segment id="115">Um quarto dos usuários da internet no mundo navegam com ele.</segment>
+    <segment id="116">E a Microsoft tem um site de buscas</segment>
+    <segment id="117">, o Bing</segment>
+    <segment id="118">, que deseja crescer.</segment>
+    <segment id="119">Se o Google não financiar seu inimigo</segment>
+    <segment id="120">, a empresa de Bill Gates quer aquele espaço no cabeçalho do concorrente.</segment>
+  </rst>
+</analysis>

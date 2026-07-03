@@ -1,0 +1,214 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">“Andei céu</segment>
+    <segment id="2">, terra e mar a procurar meu bisavô”</segment>
+    <segment id="3">, canta Mateus Aleluia na abertura de seu novo disco</segment>
+    <segment id="4">, “Olorum”.</segment>
+    <segment id="5">O álbum é mais um passo na busca de uma vida inteira.</segment>
+    <segment id="6">“</segment>
+    <segment id="7">Aquilo que procurei anos atrás</segment>
+    <segment id="8">, continuo procurando”</segment>
+    <segment id="9">, diz o artista</segment>
+    <segment id="10">, que integrou os Tincoãs</segment>
+    <segment id="11">, grupo que revolucionou a música brasileira adaptando para coros doces os cânticos do candomblé na década de 1970.</segment>
+    <segment id="12">“É temporal</segment>
+    <segment id="13">, uma circunstância que nos acompanha.</segment>
+    <segment id="14">Nesse mundo são poucos que têm a possibilidade de fazer sua árvore genealógica.</segment>
+    <segment id="15">No nosso</segment>
+    <segment id="16">casocaso</segment>
+    <segment id="17">, não foi bem assim.</segment>
+    <segment id="18">”  Aleluia nem conheceu os avós.</segment>
+    <segment id="19">Mas ele não está falando só da própria história em “Olorum”.</segment>
+    <segment id="20">A canção</segment>
+    <segment id="21">, da mesma forma que quase toda a sua obra</segment>
+    <segment id="22">, é uma perseguição da ancestralidade pela cultura —em especial a música e a religião.</segment>
+    <segment id="23">No caso</segment>
+    <segment id="24">caso de Aleluia</segment>
+    <segment id="25">, essas não são coisas separadas.</segment>
+    <segment id="26">Nascido em Cachoeira</segment>
+    <segment id="27">, no Recôncavo Baiano —com forte presença de afrodescendentes—</segment>
+    <segment id="28">, ele cantava na igreja desde cedo</segment>
+    <segment id="29">, masmas frequentava rodas de samba e terreiros de candomblé.</segment>
+    <segment id="30">“</segment>
+    <segment id="31">Na minha época</segment>
+    <segment id="32">, a Igreja Católica tinha poder total sobre o Estado.</segment>
+    <segment id="33">Você aprendia primeiro o que o colono dizia que tinha que aprender.</segment>
+    <segment id="34">O candomblé tinha que ser praticado de forma escondida.</segment>
+    <segment id="35">E eles não sabiam</segment>
+    <segment id="36">, masmas os católicos também já eram tocados pela religiosidade dos africanos.</segment>
+    <segment id="37">Isso permitia que a gente já vivesse de uma forma sincretizada.</segment>
+    <segment id="38">”  Aleluia diz que</segment>
+    <segment id="39">sese viu com um violão pela primeira vez quando tinha uns 12 anos.</segment>
+    <segment id="40">“</segment>
+    <segment id="41">Na minha cidade</segment>
+    <segment id="42">, acho que todo mundo era da música.</segment>
+    <segment id="43">Sempre fez parte.</segment>
+    <segment id="44">Nunca fui violonista</segment>
+    <segment id="45">, só tocava o violão.</segment>
+    <segment id="46">Mas também tocava surdo.</segment>
+    <segment id="47">Quando fui para os Tincoãs</segment>
+    <segment id="48">, precisava de um atabaque</segment>
+    <segment id="49">, masmas eu já tinha</segment>
+    <segment id="50">, de forma intuitiva e contornada</segment>
+    <segment id="51">, os ritmos do candomblé.</segment>
+    <segment id="52">”</segment>
+    <segment id="53">Os sons de sua infância eram os tambores e os cantos dos terreiros.</segment>
+    <segment id="54">“</segment>
+    <segment id="55">A música</segment>
+    <segment id="56">, quando me impactou pela primeira vez</segment>
+    <segment id="57">, foi na barriga da minha mãe.</segment>
+    <segment id="58">À noite</segment>
+    <segment id="59">, era aquela batucada que ecoava.</segment>
+    <segment id="60">Você passava a ser aquilo por osmose</segment>
+    <segment id="61">, porque</segment>
+    <segment id="62">porque é contagiante.</segment>
+    <segment id="63">”</segment>
+    <segment id="64">A relação de Aleluia com a música</segment>
+    <segment id="65">, na verdade</segment>
+    <segment id="66">, era como</segment>
+    <segment id="67">como uma extensão do cotidiano.</segment>
+    <segment id="68">Algo que precede a música gravada</segment>
+    <segment id="69">, a indústria fonográfica e até o conceito de fama.  Aleluia</segment>
+    <segment id="70">, hoje com 76 anos</segment>
+    <segment id="71">, vive a pandemia sem sair de casa.</segment>
+    <segment id="72">Diz que tem sido uma espécie de retiro.</segment>
+    <segment id="73">Mas, no último fim de semana</segment>
+    <segment id="74">, ele apresentou o novo disco numa live.</segment>
+    <segment id="75">Atingiu 25 mil pessoas tocando sozinho seu violão</segment>
+    <segment id="76">, no que</segment>
+    <segment id="77">, para ele</segment>
+    <segment id="78">, mais parecia um ensaio.</segment>
+    <segment id="79">“Olorum”</segment>
+    <segment id="80">, seu terceiro disco solo —e primeiro todo autoral—</segment>
+    <segment id="81">, chega dois anos depois de “Fogueira Doce” e dez anos depois de “Cinco Sentidos”.</segment>
+    <segment id="82">É a sequência de uma carreira interrompida pelas duas décadas que ele viveu em Luanda</segment>
+    <segment id="83">, de 1980 a 2002.</segment>
+    <segment id="84">Longe do Brasil</segment>
+    <segment id="85">, ele aprofundou seus estudos em música e religião</segment>
+    <segment id="86">, contratado</segment>
+    <segment id="87">comocomo pesquisador pelo governo angolano.</segment>
+    <segment id="88">Veja fotos do artista Mateus Aleluia   novamente         de   de  de  representando um  Em 1983</segment>
+    <segment id="89">, pouco antes da viagem</segment>
+    <segment id="90">, Aleluia viu João Donato pela última vez até 2017</segment>
+    <segment id="91">, quando</segment>
+    <segment id="92">sese encontraram num evento em Los Angeles.</segment>
+    <segment id="93">“Ele já participou de tantos discos nossos.</segment>
+    <segment id="94">Foi fundamental naqueles arranjos dos Tincoãs.</segment>
+    <segment id="95">”  O músico é um dos convidados no novo disco de Aleluia.</segment>
+    <segment id="96">Ele toca em “Amarelou” e “Bem-te-vi”.</segment>
+    <segment id="97">“Olorum”</segment>
+    <segment id="98">, produzido por Ronaldo Evangelista</segment>
+    <segment id="99">, ainda traz instrumentistas</segment>
+    <segment id="100">comocomo Thiago França</segment>
+    <segment id="101">, Zé Nigro e Sergio Machado</segment>
+    <segment id="102">, entre outros.</segment>
+    <segment id="103">O reencontro com Donato remete à fase mais clássica da carreira de Aleluia</segment>
+    <segment id="104">, dos discos</segment>
+    <segment id="105">“</segment>
+    <segment id="106">O Africanto dos Tincoãs”</segment>
+    <segment id="107">, de 1975</segment>
+    <segment id="108">, e “Os Tincoãs”</segment>
+    <segment id="109">, de 1977.</segment>
+    <segment id="110">O grupo</segment>
+    <segment id="111">, ainda sem ele</segment>
+    <segment id="112">, tinha Erivaldo —que depois saiu—</segment>
+    <segment id="113">, Heraldo e Dadinho</segment>
+    <segment id="114">, quando cantavam bolero nos anos 1960.</segment>
+    <segment id="115">Quando Aleluia entrou na banda</segment>
+    <segment id="116">, eles passaram a buscar mais profundamente a sonoridade cândida</segment>
+    <segment id="117">, apoiada nas vozes simultâneas</segment>
+    <segment id="118">, com a qual ficaram marcados.</segment>
+    <segment id="119">Com essa formação</segment>
+    <segment id="120">, gravaram três discos</segment>
+    <segment id="121">, atingindo um sucesso relativo na época.</segment>
+    <segment id="122">Já em Luanda</segment>
+    <segment id="123">, Aleluia e Dadinho gravaram o último álbum do grupo.  Mesmo baianos</segment>
+    <segment id="124">, os Tincoãs fizeram carreira no Rio de Janeiro</segment>
+    <segment id="125">, onde as gravadoras funcionavam.</segment>
+    <segment id="126">Nos anos 1970</segment>
+    <segment id="127">, o samba começava a alcançar públicos mais amplos</segment>
+    <segment id="128">, ancorado no sucesso de Martinho da Vila —também próximo do ritmo dos batuques e das religiões de matriz africana.</segment>
+    <segment id="129">Foi, a princípio</segment>
+    <segment id="130">, por intermédio do sambista que Aleluia foi a Luanda.</segment>
+    <segment id="131">“</segment>
+    <segment id="132">Aquilo mexeu com a gente.</segment>
+    <segment id="133">Saímos de um regime militarizado e lá ficamos</segment>
+    <segment id="134">, gostamos.</segment>
+    <segment id="135">Achamos que havia uma possibilidade mais doce de</segment>
+    <segment id="136">sese fazer arte.</segment>
+    <segment id="137">Lá, a arte fazia parte da vida.</segment>
+    <segment id="138">Não tinha glamour.</segment>
+    <segment id="139">Era como</segment>
+    <segment id="140">como no Recôncavo</segment>
+    <segment id="141">, que você cantava e depois era a mesma pessoa.</segment>
+    <segment id="142">Ninguém vinha pedir autógrafo.</segment>
+    <segment id="143">”  De volta ao Brasil</segment>
+    <segment id="144">, ele passou a unir com mais contundência a  música e o ensino —atividades que</segment>
+    <segment id="145">, de diferentes maneiras</segment>
+    <segment id="146">, sempre praticou.</segment>
+    <segment id="147">Hoje, com  a internet</segment>
+    <segment id="148">, facilitando o acesso a obras que estavam fora catálogo</segment>
+    <segment id="149">, o legado dos Tincoãs parece mais vivo do que nunca.</segment>
+    <segment id="150">Músicas do grupo</segment>
+    <segment id="151">, entre elas a clássica</segment>
+    <segment id="152">“Cordeiro de Nanã”</segment>
+    <segment id="153">,</segment>
+    <segment id="154">inspiram remixes e são influência inegável para novas gerações.</segment>
+    <segment id="155">Nesta semana</segment>
+    <segment id="156">, o rapper Emicida lembrou uma frase de Aleluia</segment>
+    <segment id="157">, seu “mestre”</segment>
+    <segment id="158">, durante uma entrevista no Roda Viva.</segment>
+    <segment id="159">“Emicida</segment>
+    <segment id="160">, BNegão e o hip-hop são a nova trova.</segment>
+    <segment id="161">Eles trazem o que o Brasil precisa ouvir.</segment>
+    <segment id="162">Não que não precise ouvir outras coisas”</segment>
+    <segment id="163">, diz Aleluia.</segment>
+    <segment id="164">“</segment>
+    <segment id="165">O que eles fazem tira as pessoas da zona de conforto.</segment>
+    <segment id="166">”  Quanto mais o tempo passa</segment>
+    <segment id="167">, a arte de Aleluia parece ficar mais relevante.</segment>
+    <segment id="168">Um total contraste com o cenário em que ele viveu —de sambistas perseguidos e ritos na ilegalidade.</segment>
+    <segment id="169">“</segment>
+    <segment id="170">Você perguntou quando me vi com um violão.</segment>
+    <segment id="171">Eu digo —foi correndo da polícia.</segment>
+    <segment id="172">”  “</segment>
+    <segment id="173">O que veio primeiro foi o oxigênio</segment>
+    <segment id="174">”</segment>
+    <segment id="175">,</segment>
+    <segment id="176">diz.</segment>
+    <segment id="177">“Quando chorava</segment>
+    <segment id="178">, todo mundo sorria —é assim com bebês.</segment>
+    <segment id="179">Fui crescendo nesse embalo.</segment>
+    <segment id="180">O resto vamos tomando consciência ao longo da vida.</segment>
+    <segment id="181">Quer dizer</segment>
+    <segment id="182">, consciência sobre o candomblé nunca tomamos —ou talvez sempre tivemos.</segment>
+    <segment id="183">À medida que amadurecemos</segment>
+    <segment id="184">, vamos tendo as armas.</segment>
+    <segment id="185">Não é uma coisa pensada</segment>
+    <segment id="186">, é um instinto de defesa.</segment>
+    <segment id="187">”   Rating  * **</segment>
+    <segment id="188">*</segment>
+  </rst>
+</analysis>

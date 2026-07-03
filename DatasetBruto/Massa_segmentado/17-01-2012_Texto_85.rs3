@@ -1,0 +1,55 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Bandido aplica o golpe do emprego
+Vítima entregou os documentos pessoais em troca de emprego na Petrobrás</segment>
+    <segment id="2">Jorge dos Santos Araújo</segment>
+    <segment id="3">, 41, foi detido por policiais militares</segment>
+    <segment id="4">, no final da tarde de  ontem</segment>
+    <segment id="5">, no interior do Salvador Shopping</segment>
+    <segment id="6">, acusado de estelionato.</segment>
+    <segment id="7">Ele aplicou o golpe do emprego em uma mulher de 21 anos.</segment>
+    <segment id="8">Oferecendo uma vaga na Petrobras</segment>
+    <segment id="9">, ele se</segment>
+    <segment id="10">se apresentou à jovem</segment>
+    <segment id="11">comocomo Ricardo de Jesus</segment>
+    <segment id="12">, no mês passado</segment>
+    <segment id="13">, na fila do Bompreço do shopping.</segment>
+    <segment id="14">Depois disso</segment>
+    <segment id="15">, ela entregou todos os documentos pessoais ao acusado.</segment>
+    <segment id="16">Inclusive um cartão de crédito</segment>
+    <segment id="17">, com a promessa de que ele ‘limparia’ o nome dela do SPC.</segment>
+    <segment id="18">Para garantir a vaga de emprego na Petrobras</segment>
+    <segment id="19">, ele exigiu e conseguiu que a vítima comprasse R$ 500 em roupas em duas lojas de departamento e um celular de R$ 400.</segment>
+    <segment id="20">A moça registrou queixa do golpista</segment>
+    <segment id="21">, na Delegacia da Pituba</segment>
+    <segment id="22">, e ontem foi ao shopping para conseguir imagens das câmeras de segurança que mostrassem o acusado.</segment>
+    <segment id="23">No centro de compras</segment>
+    <segment id="24">, ontem</segment>
+    <segment id="25">, ela acabou encontrando Araújo e chamou os seguranças</segment>
+    <segment id="26">, que acionaram os policiais.</segment>
+    <segment id="27">Araújo já tem passagens por crimes contra o patrimônio e por agressão.</segment>
+    <segment id="28">Ele diz que tem “boa índole”</segment>
+  </rst>
+</analysis>

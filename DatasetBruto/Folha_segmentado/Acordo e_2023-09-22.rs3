@@ -1,0 +1,54 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Um programa da Secretaria de Segurança Pública de São Paulo em colaboração com o Palmeiras levou à prisão de 28 pessoas em quatro jogos disputados no estádio do clube</segment>
+    <segment id="2">, o Allianz Parque.</segment>
+    <segment id="3">Estádio Allianz Parque</segment>
+    <segment id="4">, do Palmeiras</segment>
+    <segment id="5">, em São Paulo - Carla Carniel/Reuters</segment>
+    <segment id="6">Um dos detidos era procurado por tráfico e tinha fugido em março de 2020</segment>
+    <segment id="7">, após a queda de um avião com mais de 400 kg de drogas.</segment>
+    <segment id="8">Outras 42 pessoas que estavam descumprindo medidas judiciais foram identificadas.</segment>
+    <segment id="9">A ação</segment>
+    <segment id="10">, batizada de Muralha Paulista</segment>
+    <segment id="11">, prevê a identificação de pessoas com pendências judiciais que tentam entrar no estádio usando o sistema de biometria facial das catracas eletrônicas.</segment>
+    <segment id="12">Cada ingresso está atrelado a um CPF</segment>
+    <segment id="13">, o que permite a individualização de torcedores procurados ou foragidos.</segment>
+    <segment id="14">"Trata-</segment>
+    <segment id="15">sese de uma ação da área de inteligência policial com a finalidade de deixar o local do evento mais seguro</segment>
+    <segment id="16">, impedindo o acesso de pessoas que possam comprometer a ordem pública"</segment>
+    <segment id="17">, diz o secretário da Segurança</segment>
+    <segment id="18">, Guilherme Derrite.</segment>
+    <segment id="19">Num primeiro momento</segment>
+    <segment id="20">, o programa é restrito para o estádio do Palmeiras</segment>
+    <segment id="21">, masmas a ideia é ampliá-lo em breve para outros times do estado.</segment>
+    <segment id="22">"</segment>
+    <segment id="23">Queremos que a nossa casa seja cada vez mais segura para todas as famílias que a frequentam e estamos satisfeitos em contribuir com as autoridades públicas de segurança"</segment>
+    <segment id="24">, diz a presidente palmeirense</segment>
+    <segment id="25">, Leila Pereira.</segment>
+    <segment id="26">Na semana passada</segment>
+    <segment id="27">, o governo federal lançou uma iniciativa parecida</segment>
+    <segment id="28">, batizada de Estádio Seguro.</segment>
+  </rst>
+</analysis>

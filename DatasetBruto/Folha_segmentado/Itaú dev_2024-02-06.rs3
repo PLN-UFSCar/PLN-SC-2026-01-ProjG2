@@ -1,0 +1,101 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O Itaú Unibanco planeja lançar o seu superapp ainda no primeiro trimestre deste ano.</segment>
+    <segment id="2">O plano do banco</segment>
+    <segment id="3">, chamado internamente de One Itaú</segment>
+    <segment id="4">, é concentrar todos os clientes em uma única plataforma</segment>
+    <segment id="5">, tanto correntistas</segment>
+    <segment id="6">, como</segment>
+    <segment id="7">como os que têm apenas cartão de crédito</segment>
+    <segment id="8">, financiamento imobiliário ou empréstimo com o banco via outra instituição.</segment>
+    <segment id="9">Os clientes da iti</segment>
+    <segment id="10">, conta digital do Itaú</segment>
+    <segment id="11">, também passarão a usar o mesmo aplicativo.</segment>
+    <segment id="12">"</segment>
+    <segment id="13">Essa é a nossa grande aposta.</segment>
+    <segment id="14">É o projeto mais promissor que temos para pessoa física.</segment>
+    <segment id="15">Temos uma oportunidade de trabalhar com 15 milhões de clientes que ainda não são clientes full bank"</segment>
+    <segment id="16">, afirmou Milton Maluhy Filho</segment>
+    <segment id="17">, presidente do Itaú Unibanco nesta terça-feira (6).</segment>
+    <segment id="18">Atualmente</segment>
+    <segment id="19">, banco tem cerca de 70 milhões de clientes.</segment>
+    <segment id="20">Logo do Itaú em agência do banco</segment>
+    <segment id="21">;</segment>
+    <segment id="22">instituição irá lançar superapp nos próximos meses - Sergio Moraes/REUTERSEm entrevista a jornalistas para comentar o balanço do banco referente ao quarto trimestre de 2023</segment>
+    <segment id="23">, o executivo disse que o novo aplicativo do Itaú permitirá que o cliente veja seus investimentos em toda e qualquer instituição de forma agregada.</segment>
+    <segment id="24">Outra funcionalidade será a execução de pagamentos em outras instituições via app Itaú.</segment>
+    <segment id="25">"</segment>
+    <segment id="26">Dentro do superapp</segment>
+    <segment id="27">, o cliente vai ter a capacidade de fazer operações que transcendem aquela instituição.</segment>
+    <segment id="28">Queremos mudar de patamar no relacionamento com os clientes</segment>
+    <segment id="29">, [dos quais] já temos o histórico de crédito</segment>
+    <segment id="30">, e agora teremos a tecnologia adequada para atender esses clientes com o custo certo e com a experiência correta"</segment>
+    <segment id="31">, afirmou Maluhy.</segment>
+    <segment id="32">O objetivo do banco é ampliar a principalidade dos clientes</segment>
+    <segment id="33">, ou seja</segment>
+    <segment id="34">, ser o banco mais utilizado pelos brasileiros que têm conta em mais de uma instituição.</segment>
+    <segment id="35">Hoje, a briga no setor não é mais por correntistas</segment>
+    <segment id="36">, e sim por melhores índices de principalidade.</segment>
+    <segment id="37">"Queremos ter um superapp com uma completude de oferta muito relevante e</segment>
+    <segment id="38">, sobretudo</segment>
+    <segment id="39">, com a melhor qualidade possível</segment>
+    <segment id="40">, para que</segment>
+    <segment id="41">para que o cliente</segment>
+    <segment id="42">sese sinta atendido nas suas necessidades</segment>
+    <segment id="43">, na agregação dos seus investimentos</segment>
+    <segment id="44">, para que</segment>
+    <segment id="45">para que ele possa</segment>
+    <segment id="46">sese relacionar com o banco e</segment>
+    <segment id="47">, eventualmente</segment>
+    <segment id="48">, fazer iniciar transações em outras instituições a partir dos nossos aplicativos"</segment>
+    <segment id="49">, disse Maluhy.</segment>
+    <segment id="50">Com o open finance</segment>
+    <segment id="51">, o cliente já pode compartilhar seus dados com diversas instituições financeiras e iniciar pagamentos com o Pix em uma instituição financeira utilizando o saldo de outra.</segment>
+    <segment id="52">Nos próximos passos da implementação do projeto do Banco Central</segment>
+    <segment id="53">, será possível controlar todas as contas correntes</segment>
+    <segment id="54">, investimentos</segment>
+    <segment id="55">, empréstimos em um só aplicativo.</segment>
+    <segment id="56">Além de agregar todas as informações financeiras de um mesmo CPF será possível</segment>
+    <segment id="57">, no futuro</segment>
+    <segment id="58">, fazer operações em instituições usando o app de outro banco</segment>
+    <segment id="59">, sem necessidade de redirecionamento.</segment>
+    <segment id="60">Agora, grandes bancos correm para desenvolver não só o melhor app agregador</segment>
+    <segment id="61">, masmas o que permita</segment>
+    <segment id="62">, de forma eficiente</segment>
+    <segment id="63">, que clientes mexam no dinheiro que está em outra instituição em tempo real.</segment>
+    <segment id="64">Além do Itaú</segment>
+    <segment id="65">, os demais bancos também trabalham para aprimorar as suas plataformas e oferecer seus próprios superapps.</segment>
+    <segment id="66">Segundo as instituições</segment>
+    <segment id="67">, a prioridade é investir em tecnologia para alavancar os índices de principalidade</segment>
+    <segment id="68">, em queda desde a chegada de bancos digitais</segment>
+    <segment id="69">, como</segment>
+    <segment id="70">como o Nubank.</segment>
+    <segment id="71">Além do desenvolvimento da infraestrutura interna dos bancos</segment>
+    <segment id="72">, o avanço do open finance também depende da agenda de implementação do Banco Central</segment>
+    <segment id="73">, já que abrange questões de segurança.</segment>
+    <segment id="74">Open finance</segment>
+    <segment id="75">, o próximo passo do open bankingMais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

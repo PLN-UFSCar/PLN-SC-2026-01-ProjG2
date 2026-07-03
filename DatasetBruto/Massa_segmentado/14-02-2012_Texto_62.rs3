@@ -1,0 +1,47 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Musa de Caja City
+Elaine é um violão de muitas notas
+Elaine da Purificação</segment>
+    <segment id="2">, 20, mora na Fazenda Grande II</segment>
+    <segment id="3">, em Cajazeiras e faz sucesso no bairro.</segment>
+    <segment id="4">O ibope em alta lhe rendeu</segment>
+    <segment id="5">, no ano passado</segment>
+    <segment id="6">, o título de musa Cajazeiras.</segment>
+    <segment id="7">“Fiquei muito feliz com esse título.</segment>
+    <segment id="8">Nem esperava ganhar”</segment>
+    <segment id="9">, diz com modéstia.
+
+Dona de um corpo violão</segment>
+    <segment id="10">, a gata deseja seguir a carreira de modelo e</segment>
+    <segment id="11">, quem sabe</segment>
+    <segment id="12">, um dia poder representar a Bahia em um concurso de Miss.</segment>
+    <segment id="13">Gana e empenho não lhe faltam!</segment>
+    <segment id="14">Que a beleza vai lhe render frutos ninguém duvida</segment>
+    <segment id="15">, masmas isso é só o começo e ela não descarta outros planos bem ‘pés no chão’.</segment>
+    <segment id="16">“Quero ser advogada e poder lutar pelos direitos de todos”</segment>
+    <segment id="17">, assegura.</segment>
+  </rst>
+</analysis>

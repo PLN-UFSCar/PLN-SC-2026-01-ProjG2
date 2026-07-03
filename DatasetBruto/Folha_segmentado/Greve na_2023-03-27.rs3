@@ -1,0 +1,55 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Uma greve massiva e longa está prevista para acontecer em Londres</segment>
+    <segment id="2">, afetando especificamente a British Airways e seus voos.</segment>
+    <segment id="3">A empresa de bandeira do Reino Unido foi avisada hoje que os 1.400 trabalhadores do setor de segurança e bagagem do Terminal 5</segment>
+    <segment id="4">, seu terminal privativo no Aeroporto Heathrow</segment>
+    <segment id="5">, em Londres</segment>
+    <segment id="6">, irão fazer uma grande greve.</segment>
+    <segment id="7">A previsão</segment>
+    <segment id="8">, segundo a BBC</segment>
+    <segment id="9">, é que comece na próxima sexta-feira</segment>
+    <segment id="10">, dia 31 de março</segment>
+    <segment id="11">, e dure até o dia 9 de abril</segment>
+    <segment id="12">, Feriado de Páscoa.</segment>
+    <segment id="13">A decisão foi tomada pelo sindicato local após as negociações para aumento de salário não aumentarem.</segment>
+    <segment id="14">Avião da British Airways no aeroporto de Boston</segment>
+    <segment id="15">, nos EUA- JohnTlumacki - 30.nov.2022/Reuters</segment>
+    <segment id="16">Para evitar um caos maior</segment>
+    <segment id="17">, alguns funcionários dos outros três terminais devem ser remanejados para o Terminal 5</segment>
+    <segment id="18">, masmas não existe garantia de operação mínima.</segment>
+    <segment id="19">A British já foi notificada para reduzir em ao menos 5% os voos programados para a semana da greve</segment>
+    <segment id="20">, além de suspender a venda de bilhetes.</segment>
+    <segment id="21">No site da British Airways não constam voos diretos na rota Londres — São Paulo</segment>
+    <segment id="22">, apenas nos dias 31</segment>
+    <segment id="23">, 1, 2 e 5</segment>
+    <segment id="24">, já para a rota Londres — Rio não existem opções de passagens para os dias 31</segment>
+    <segment id="25">, 1, 2</segment>
+    <segment id="26">, 3.</segment>
+    <segment id="27">Ainda assim</segment>
+    <segment id="28">, são ofertadas opções com conexão em Madri com a Iberia.</segment>
+    <segment id="29">É recomendado que o passageiro acompanhe com frequência o status do seu voo no site da British.</segment>
+  </rst>
+</analysis>

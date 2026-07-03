@@ -1,0 +1,258 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Basta um comando de voz para alterar a iluminação</segment>
+    <segment id="2">, ligar ou desligar um eletrodoméstico</segment>
+    <segment id="3">, abrir a porta da casa.</segment>
+    <segment id="4">A internet das coisas (IoT</segment>
+    <segment id="5">, na sigla em inglês) garante praticidade</segment>
+    <segment id="6">, masmas esses equipamentos permanentemente conectados à internet exigem cuidados com a segurança digital.</segment>
+    <segment id="7">"</segment>
+    <segment id="8">São dispositivos muito usados</segment>
+    <segment id="9">, masmas com os quais nos preocupamos pouco.</segment>
+    <segment id="10">E são justamente esses que mais dão brecha de segurança"</segment>
+    <segment id="11">, afirma Daniel Damito</segment>
+    <segment id="12">, especialista em redes de computadores da Sage Networks</segment>
+    <segment id="13">, empresa especializada em oferecer soluções contra ataques DDoS</segment>
+    <segment id="14">, tipo de ataque que tenta 'derrubar' um serviço criando um tráfego maior que a capacidade do servidor. .</segment>
+    <segment id="15">Aparelhos conectados em casa são porta de entrada para invasores digitais - Avener Prado/Folhapress</segment>
+    <segment id="16">, TECSegundo ele</segment>
+    <segment id="17">, procedimentos básicos e já amplamente difundidos diminuem bastante a vulnerabilidade.</segment>
+    <segment id="18">O primeiro é ter senhas seguras.</segment>
+    <segment id="19">"</segment>
+    <segment id="20">Nunca mantenha o padrão de fábrica</segment>
+    <segment id="21">, como</segment>
+    <segment id="22">como ‘admin’</segment>
+    <segment id="23">, senha 1234"</segment>
+    <segment id="24">, diz.</segment>
+    <segment id="25">Outra recomendação é usar um gerenciador.</segment>
+    <segment id="26">"</segment>
+    <segment id="27">A senha não é feita para ser lembrada</segment>
+    <segment id="28">, existem gerenciadores que têm a função de salvá-la de forma criptografada e segura para você não precisar lembrar"</segment>
+    <segment id="29">, diz Damito.</segment>
+    <segment id="30">Ele também recomenda a autenticação em duas etapas</segment>
+    <segment id="31">, que pede a senha e outra confirmação para acesso</segment>
+    <segment id="32">, como</segment>
+    <segment id="33">como o envio de email ou mensagem no celular</segment>
+    <segment id="34">, por exemplo.</segment>
+    <segment id="35">Fazer as atualizações indicadas pelo fabricante também é essencial</segment>
+    <segment id="36">para que</segment>
+    <segment id="37">para que o equipamento não fique vulnerável.</segment>
+    <segment id="38">"</segment>
+    <segment id="39">Os dispositivos têm softwares ou firmwares</segment>
+    <segment id="40">, programas que executam suas tarefas</segment>
+    <segment id="41">, e, quando o fabricante oferece uma atualização</segment>
+    <segment id="42">, o motivo pode ser uma brecha de segurança que foi encontrada e sanada.</segment>
+    <segment id="43">"</segment>
+    <segment id="44">Damito explica ainda que todos esses aparelhos têm um protocolo chamado UPnP (universal plug and play)</segment>
+    <segment id="45">, que permite a conexão entre eles em uma rede wi-fi sem a necessidade de configuração manual.</segment>
+    <segment id="46">Um exemplo é a funcionalidade que espelha a tela do celular na TV em um clique.</segment>
+    <segment id="47">Essa praticidade nem sempre combina com a segurança</segment>
+    <segment id="48">, uma vez que o invasor pode identificar brechas para localizar o roteador e</segment>
+    <segment id="49">sese conectar usando o protocolo</segment>
+    <segment id="50">, permitindo seu acesso à rede.</segment>
+    <segment id="51">A recomendação é sempre configurar as conexões individualmente.</segment>
+    <segment id="52">Segundo Marcos Simplício</segment>
+    <segment id="53">, do Laboratório de Arquitetura e Redes de Computadores</segment>
+    <segment id="54">, da USP (Universidade de São Paulo)</segment>
+    <segment id="55">, os aparelhos com IoT têm menor capacidade de computação do que o celular e computador.</segment>
+    <segment id="56">Por isso é tecnicamente mais difícil para um invasor obter dados diretamente das lâmpadas</segment>
+    <segment id="57">, smart TVs</segment>
+    <segment id="58">, fechaduras</segment>
+    <segment id="59">, entre outros.</segment>
+    <segment id="60">Ainda assim</segment>
+    <segment id="61">, há riscos.</segment>
+    <segment id="62">Já no caso</segment>
+    <segment id="63">caso dos roteadores</segment>
+    <segment id="64">, é preciso ter mais atenção.</segment>
+    <segment id="65">"</segment>
+    <segment id="66">É difícil roubar dados invadindo um roteador sem fio</segment>
+    <segment id="67">, masmas é fácil redirecioná-lo para outro lugar.</segment>
+    <segment id="68">Você, por exemplo</segment>
+    <segment id="69">, pode achar que está entrando no site do seu banco</segment>
+    <segment id="70">, masmas está em um site falso e pode ter seus dados roubados"</segment>
+    <segment id="71">, explica.</segment>
+    <segment id="72">Desde 2020</segment>
+    <segment id="73">, a Anatel (Agência Nacional de Telecomunicações) determina que as operadoras devem exigir a alteração da senha padrão dos roteadores quando eles forem instalados em regime de comodato.</segment>
+    <segment id="74">Casa inteligenteMais    novamente         de   de  de  representando um  Maior vulnerabilidade</segment>
+    <segment id="75">Além de deixar dados expostos ao roubo no tipo de ataque conhecido</segment>
+    <segment id="76">comocomo "phishing" (uso de mensagens falsas para obtenção de informações</segment>
+    <segment id="77">comocomo senhas bancárias e documentos dos usuários)</segment>
+    <segment id="78">, negligenciar a proteção dos aparelhos com IoT pode permitir que seus equipamentos sejam usados por invasores para fins maliciosos.</segment>
+    <segment id="79">"</segment>
+    <segment id="80">Um atacante pode</segment>
+    <segment id="81">, por exemplo</segment>
+    <segment id="82">, sese especializar em determinado modelo de lâmpada inteligente</segment>
+    <segment id="83">, descobrir uma brecha</segment>
+    <segment id="84">, verificar</segment>
+    <segment id="85">sese pode minerar criptomoeda e atacar todas as lâmpadas daquele modelo no mundo</segment>
+    <segment id="86">, criando um supercomputador com a sua energia sem que você sequer suspeite"</segment>
+    <segment id="87">, diz João Marcos Moretti Pelissari</segment>
+    <segment id="88">, diretor da Plss Soluções em Ti</segment>
+    <segment id="89">, empresa especializada em servidores e estruturas de rede.</segment>
+    <segment id="90">Sede em Ponta Grossa</segment>
+    <segment id="91">, no Paraná.</segment>
+    <segment id="92">Isso é possível</segment>
+    <segment id="93">porque</segment>
+    <segment id="94">porque todos os dispositivos conectados têm capacidade de processamento de dados.</segment>
+    <segment id="95">Por isso manter usuário e senha padrão é arriscado</segment>
+    <segment id="96">, já que essa</segment>
+    <segment id="97">, provavelmente</segment>
+    <segment id="98">, vai ser a primeira tentativa do atacante.</segment>
+    <segment id="99">O alvo</segment>
+    <segment id="100">, portanto</segment>
+    <segment id="101">, não é apenas a sua casa</segment>
+    <segment id="102">, especificamente</segment>
+    <segment id="103">, masmas todos os usuários que não mudaram a senha padrão</segment>
+    <segment id="104">, segundo o especialista.</segment>
+    <segment id="105">São os chamados "ataques de força bruta"</segment>
+    <segment id="106">, com várias tentativas de usuários e senhas prováveis.</segment>
+    <segment id="107">Os especialistas ressaltaram que os dispositivos desprotegidos também são um meio usado para ataques de negação de serviços (DDoS</segment>
+    <segment id="108">, sigla em inglês).</segment>
+    <segment id="109">Eles usam a capacidade de processamento desses dispositivos para sobrecarregar e derrubar servidores</segment>
+    <segment id="110">, deixando escolas</segment>
+    <segment id="111">, hospitais e prefeituras sem acesso à internet e paralisando serviços.</segment>
+    <segment id="112">A invasão ainda permite o acesso remoto a ele.</segment>
+    <segment id="113">Pelissari alerta que isso gera possibilidade de sequestro do equipamento</segment>
+    <segment id="114">, ainda que seja algo pouco registrado atualmente.</segment>
+    <segment id="115">O criminoso pode inviabilizar ou alterar o funcionamento do aparelho —travar a temperatura do ar condicionado e exigir resgate para parar o ataque</segment>
+    <segment id="116">, por exemplo.</segment>
+    <segment id="117">Para a presidente do Comitê de Segurança da Abinc (Associação Brasileira de Internet das Coisas) e diretor de segurança do consumidor para a América Latina da Ericsson</segment>
+    <segment id="118">, Yanis Stoyannis</segment>
+    <segment id="119">, é necessário que os fabricantes de soluções de IoT adotem uma postura de segurança e proteção de dados ainda na concepção de cada projeto</segment>
+    <segment id="120">, denominado "security and privacy by design".</segment>
+    <segment id="121">"</segment>
+    <segment id="122">Ainda que não exista obrigatoriedade de aplicação</segment>
+    <segment id="123">, segundo ela</segment>
+    <segment id="124">, o Plano Nacional de Internet das Coisas</segment>
+    <segment id="125">, elaborado pelo Ministério da Ciência</segment>
+    <segment id="126">, Tecnologia e Inovações</segment>
+    <segment id="127">, em 2019</segment>
+    <segment id="128">, incentiva "a adoção de padrões internacionais de segurança".</segment>
+    <segment id="129">Para Rubens Rosado</segment>
+    <segment id="130">, assessor técnico da Abilumi (Associação Brasileira de Fabricantes e Importadores de Produtos de Iluminação)</segment>
+    <segment id="131">, problemas de segurança estão relacionados à rede de wi-fi desprotegida</segment>
+    <segment id="132">, não às lâmpadas inteligentes.  "</segment>
+    <segment id="133">Caso a rede não tenha uma boa proteção</segment>
+    <segment id="134">comocomo um sistema de criptografia dos dados que circulam por ela e uma senha forte de acesso</segment>
+    <segment id="135">, suas informações estarão facilmente expostas"</segment>
+    <segment id="136">, afirmou.</segment>
+    <segment id="137">A Anatel afirmou que elaborou um estudo</segment>
+    <segment id="138">"para definir um conjunto mínimo de segurança cibernética mandatórios para a certificação de equipamentos" e que em breve irá realizar consulta pública sobre o tema.</segment>
+    <segment id="139">Papel do consumidor</segment>
+    <segment id="140">Para o pesquisador do ITS Rio (Instituto de Tecnologia e Sociedade)</segment>
+    <segment id="141">Lucas Cabral</segment>
+    <segment id="142">,</segment>
+    <segment id="143">o usuário tem papel importante para garantir segurança na internet.</segment>
+    <segment id="144">"</segment>
+    <segment id="145">Percebo que falta letramento digital</segment>
+    <segment id="146">, um maior cuidado.</segment>
+    <segment id="147">As pessoas em geral não têm essa consciência digital"</segment>
+    <segment id="148">, afirma.</segment>
+    <segment id="149">Para ele</segment>
+    <segment id="150">, o letramento digital passa por entender as políticas de privacidade dos equipamentos antes de usá-los e aprender mecanismos de segurança para evitar invasões</segment>
+    <segment id="151">, como</segment>
+    <segment id="152">como escolher senhas fortes</segment>
+    <segment id="153">, usar autenticação dupla e atualizar os dispositivos.</segment>
+    <segment id="154">Além da proteção contra invasores</segment>
+    <segment id="155">, ele alerta que também é preciso ficar atento às autorizações de uso de dados</segment>
+    <segment id="156">, criando sua própria configuração de privacidade.</segment>
+    <segment id="157">Para isso</segment>
+    <segment id="158">, é imprescindível observar o que cada equipamento capta de informação.</segment>
+    <segment id="159">"Conectou uma lâmpada inteligente</segment>
+    <segment id="160">, vai na aba configuração do aplicativo</segment>
+    <segment id="161">, clica em privacidade e lê o que ele está guardando [de informação]</segment>
+    <segment id="162">, o que você pode configurar</segment>
+    <segment id="163">, o que pode personalizar</segment>
+    <segment id="164">, quais dados eles estão capturando.</segment>
+    <segment id="165">"</segment>
+    <segment id="166">A LGPD (Lei Geral de Proteção de Dados) garante direitos ao usuário e as empresas só podem usar as informações autorizadas por ele.</segment>
+    <segment id="167">No entanto</segment>
+    <segment id="168">, Cabral lembra que muitos dão autorizações sem ficar atentos aos detalhes.</segment>
+    <segment id="169">Casa automatizadaMais    novamente         de   de  de  representando um  Como manter sua casa livre de hackers</segment>
+    <segment id="170">De um modo geral</segment>
+    <segment id="171">, valem as mesmas recomendações de segurança para todos os aparelhos:  1)</segment>
+    <segment id="172">Preferir equipamentos com boa reputação e com certificação  2)</segment>
+    <segment id="173">Usar uma senha forte para cada dispositivo e trocá-la frequentemente  3)</segment>
+    <segment id="174">Realizar as configurações de privacidade antes de acionar o dispositivo  4)</segment>
+    <segment id="175">Sempre fazer as atualizações recomendadas pelo fabricante  Entenda</segment>
+    <segment id="176">comocomo funcionam e conheça os principais riscos dos equipamentos "inteligentes</segment>
+    <segment id="177">", que conectam a casa à internet</segment>
+    <segment id="178">:  Nuvem  O que faz:</segment>
+    <segment id="179">Os dispositivos com IoT estão conectados na nuvem</segment>
+    <segment id="180">, que são servidores online que processam as informações.</segment>
+    <segment id="181">Quando um comando é dado por celular ou voz</segment>
+    <segment id="182">, ele segue para a nuvem onde é processado e só depois retorna</segment>
+    <segment id="183">para que</segment>
+    <segment id="184">para que o dispositivo execute a tarefa solicitada</segment>
+    <segment id="185">, gerando tráfego e dados de telemetria que estão permanentemente on-line  Qual risco oferece:</segment>
+    <segment id="186">A nuvem possui os dados de todos os dispositivos.</segment>
+    <segment id="187">Se invadida</segment>
+    <segment id="188">, pode prejudicar o funcionamento de todos os aparelhos  Roteador</segment>
+    <segment id="189">O que faz: recebe e envia dados dos dispositivos à internet  Qual risco oferece:</segment>
+    <segment id="190">é o equipamento mais sensível em uma rede doméstica.</segment>
+    <segment id="191">Por ele passam as informações de todos os dispositivos conectados.</segment>
+    <segment id="192">Se invadido</segment>
+    <segment id="193">, dá acesso a tudo que está ligado na rede.</segment>
+    <segment id="194">Dentre os riscos está redirecionar os acessos para sites falsos</segment>
+    <segment id="195">Assistente de voz</segment>
+    <segment id="196">O que faz: usado para dar comandos aos demais dispositivos conectados  Qual risco oferece: pode expor dados privados sem autorização.</segment>
+    <segment id="197">Um exemplo é permitir que o invasor ouça o que</segment>
+    <segment id="198">sese passa em sua casa  Fechadura digital</segment>
+    <segment id="199">O que faz: permite abertura da porta com senha</segment>
+    <segment id="200">, biometria ou comando de voz</segment>
+    <segment id="201">Qual risco oferece: pode ser invadida e ter dados capturados.</segment>
+    <segment id="202">Um equipamento de menor qualidade pode ser vulnerável à simuladores de voz que permitam a abertura por um criminoso  Smart TV  O que faz: permite conexão com a internet para assistir streamings</segment>
+    <segment id="203">, usar mecanismos de busca</segment>
+    <segment id="204">, jogos</segment>
+    <segment id="205">, música e outros dispositivos IoT  Qual risco oferece: pode expor dados pessoais.</segment>
+    <segment id="206">TVs com câmera e microfone podem ser acionadas remotamente  Lâmpada "inteligente"</segment>
+    <segment id="207">O que faz: permite ativação remota</segment>
+    <segment id="208">, mudança na intensidade de luminosidade</segment>
+    <segment id="209">, alteração da tonalidade.</segment>
+    <segment id="210">Alguns modelos tem câmera acoplada e permitem transmissão de dados "Li-Fi"</segment>
+    <segment id="211">Qual risco oferece:</segment>
+    <segment id="212">podem ser usadas para ordenar ataques contra servidores e até minerar criptomoedas.</segment>
+    <segment id="213">Se invadidas</segment>
+    <segment id="214">, podem ser acionadas remotamente e</segment>
+    <segment id="215">, no caso</segment>
+    <segment id="216">caso de modelos com câmera</segment>
+    <segment id="217">, expor as imagens captadas  Câmeras de vigilância</segment>
+    <segment id="218">O que faz: elas funcionam com DVR (Digital Video Recorder) e NVR (Network Video Recorder)</segment>
+    <segment id="219">, equipamentos conectados que operam sistemas de monitoramento por câmeras</segment>
+    <segment id="220">Qual risco oferece:</segment>
+    <segment id="221">o principal risco é à privacidade.</segment>
+    <segment id="222">Um equipamento mal protegido pode ser invadido e permitir acesso às imagens.</segment>
+    <segment id="223">Também pode ser desativado remotamente  Tomadas "inteligentes"</segment>
+    <segment id="224">O que faz: permitem controlar eletrodomésticos à distância</segment>
+    <segment id="225">Qual risco oferece:</segment>
+    <segment id="226">podem permitir acionamento remoto e acarretar danos aos equipamentos  Máquina de lavar / Ar condicionado / Aspirador / Geladeira  O que faz:</segment>
+    <segment id="227">são os tradicionais eletrodomésticos da ‘linha branca’ que</segment>
+    <segment id="228">, nas versões mais avançadas</segment>
+    <segment id="229">, permitem conexão com a Internet</segment>
+    <segment id="230">Qual risco oferece:</segment>
+    <segment id="231">podem ser acionados indevidamente por um invasor que pode travá-los</segment>
+    <segment id="232">, desligá-los e ser empregados em ataques à rede doméstica</segment>
+  </rst>
+</analysis>

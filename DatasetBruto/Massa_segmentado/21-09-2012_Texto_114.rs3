@@ -1,0 +1,31 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Cantor chora no palco ao lembrar de irmÃ£
+Gustavo Lima chora no palco ao lembrar de irmÃ£
+Gusttavo Lima</segment>
+    <segment id="2">sese emocionou nesta quarta</segment>
+    <segment id="3">, 19, no show realizado em Porto Alegre e precisou ser amparado por colegas da banda e pelo cantor Thiaguinho.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,194 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A inflação medida pelo IPCA-15 (Índice Nacional de Preços ao Consumidor Amplo 15) desacelerou o ritmo de alta para 0</segment>
+    <segment id="2">,57% em abril.</segment>
+    <segment id="3">A taxa é a menor para o mês desde 2020</segment>
+    <segment id="4">, apontam os dados divulgados nesta quarta-feira (26) pelo IBGE (Instituto Brasileiro de Geografia e Estatística).</segment>
+    <segment id="5">Sob influência da trégua dos preços de alimentos</segment>
+    <segment id="6">, o resultado também ficou abaixo da mediana das projeções do mercado.</segment>
+    <segment id="7">Analistas consultados pela agência Bloomberg projetavam avanço de 0</segment>
+    <segment id="8">,60%, após a alta de 0</segment>
+    <segment id="9">,69% registrada em março.</segment>
+    <segment id="10">Com o dado de abril</segment>
+    <segment id="11">, o IPCA-15 desacelerou para 4</segment>
+    <segment id="12">,16% no acumulado de 12 meses.</segment>
+    <segment id="13">É o menor patamar desde outubro de 2020 (3</segment>
+    <segment id="14">,52%).</segment>
+    <segment id="15">A taxa estava em 5</segment>
+    <segment id="16">,36% no acumulado até março.</segment>
+    <segment id="17">Feira livre vende alimentos em São Paulo  - Danilo Verpa - 9.ago.2022/FolhapressNa visão de economistas</segment>
+    <segment id="18">, os números reforçam o cenário de desinflação em vigor no país.</segment>
+    <segment id="19">A perda de ritmo dos preços</segment>
+    <segment id="20">, contudo</segment>
+    <segment id="21">contudo</segment>
+    <segment id="22">, ainda é considerada insuficiente para a confirmação de cortes imediatos na taxa básica de juros (Selic)</segment>
+    <segment id="23">, atualmente em 13</segment>
+    <segment id="24">,75% ao ano.</segment>
+    <segment id="25">A próxima reunião do Copom (Comitê de Política Monetária) do BC (Banco Central)</segment>
+    <segment id="26">, que é responsável pela definição da Selic</segment>
+    <segment id="27">, está agendada para a semana que vem</segment>
+    <segment id="28">, nos dias 2 e 3 de maio.</segment>
+    <segment id="29">A economista Luciana Rabelo</segment>
+    <segment id="30">, do Itaú Unibanco</segment>
+    <segment id="31">, avalia que os núcleos de inflação</segment>
+    <segment id="32">, que desconsideram preços mais voláteis</segment>
+    <segment id="33">, seguem em níveis ainda pressionados.</segment>
+    <segment id="34">Isso, afirma</segment>
+    <segment id="35">, joga contra uma redução rápida da Selic.</segment>
+    <segment id="36">O Itaú só enxerga cortes nas duas últimas reuniões do ano.</segment>
+    <segment id="37">"</segment>
+    <segment id="38">Foi um número [IPCA-15 de abril] bem perto da nossa projeção</segment>
+    <segment id="39">, ficou um pouco abaixo da estimativa do mercado</segment>
+    <segment id="40">, masmas a desinflação é lenta.</segment>
+    <segment id="41">Os núcleos ainda estão pressionados"</segment>
+    <segment id="42">, afirma a economista.</segment>
+    <segment id="43">Neste início de ano</segment>
+    <segment id="44">, o nível dos juros virou motivo de uma ofensiva do presidente Luiz Inácio Lula da Silva (PT) e de apoiadores contra a atuação do BC.</segment>
+    <segment id="45">Lula já defendeu em diferentes ocasiões cortes na Selic e chegou a afirmar que o patamar da taxa é uma "vergonha".</segment>
+    <segment id="46">Os juros elevados buscam esfriar a demanda por bens e serviços</segment>
+    <segment id="47">, freando os preços e ancorando as expectativas de inflação.</segment>
+    <segment id="48">O efeito colateral esperado é a perda de fôlego da atividade econômica</segment>
+    <segment id="49">, porque</segment>
+    <segment id="50">porque o custo do crédito fica mais alto para empresas e consumidores.  Sergio Vale</segment>
+    <segment id="51">, economista-chefe da consultoria MB Associados</segment>
+    <segment id="52">, destaca que a inflação dá sinais de perda de ritmo com a trégua de alimentos</segment>
+    <segment id="53">, cujos preços haviam disparado durante a pandemia.</segment>
+    <segment id="54">Mesmo assim</segment>
+    <segment id="55">, o BC deve aguardar o avanço das discussões sobre o novo arcabouço fiscal antes de reduzir a Selic</segment>
+    <segment id="56">, projeta o economista.</segment>
+    <segment id="57">Ele prevê queda na taxa só a partir de setembro.</segment>
+    <segment id="58">"</segment>
+    <segment id="59">O Banco Central já sinalizou que gostaria de ver os números do arcabouço fiscal</segment>
+    <segment id="60">, o andamento do projeto no Congresso"</segment>
+    <segment id="61">, afirma Vale.</segment>
+    <segment id="62">O índice oficial de inflação no Brasil é o IPCA (Índice Nacional de Preços ao Consumidor Amplo)</segment>
+    <segment id="63">, também divulgado pelo IBGE.</segment>
+    <segment id="64">Como a variação do IPCA é calculada ao longo do mês de referência</segment>
+    <segment id="65">, o dado de abril ainda não está fechado.</segment>
+    <segment id="66">Será conhecido em 12 de maio.</segment>
+    <segment id="67">O IPCA-15</segment>
+    <segment id="68">, pelo fato de ser divulgado antes</segment>
+    <segment id="69">, sinaliza uma tendência para os preços.</segment>
+    <segment id="70">Sua variação é calculada entre a segunda metade do mês anterior e a primeira metade do mês de referência.</segment>
+    <segment id="71">Neste caso</segment>
+    <segment id="72">caso, a coleta dos dados ocorreu de 16 de março a 13 de abril.</segment>
+    <segment id="73">Gasolina em alta</segment>
+    <segment id="74">Todos os nove grupos de produtos e serviços pesquisados no IPCA-15 tiveram alta de preços neste mês.</segment>
+    <segment id="75">A maior variação (1</segment>
+    <segment id="76">,44%) e o principal impacto no índice de abril (0</segment>
+    <segment id="77">,29 ponto percentual) vieram do segmento de transportes.</segment>
+    <segment id="78">A alta desse grupo foi puxada pelo aumento dos preços da gasolina (3</segment>
+    <segment id="79">,47%).</segment>
+    <segment id="80">O combustível foi o subitem com o maior impacto individual no IPCA-15 (0</segment>
+    <segment id="81">,17 ponto percentual).</segment>
+    <segment id="82">Também houve avanço nos preços do etanol (1</segment>
+    <segment id="83">,10%) em abril.</segment>
+    <segment id="84">O óleo diesel (-2</segment>
+    <segment id="85">,73%) e o gás veicular (-2</segment>
+    <segment id="86">,17%), por outro lado</segment>
+    <segment id="87">, registraram queda.</segment>
+    <segment id="88">Ainda em transportes</segment>
+    <segment id="89">, outro destaque veio da alta de 11</segment>
+    <segment id="90">,96% nas passagens aéreas</segment>
+    <segment id="91">, após recuo de 5</segment>
+    <segment id="92">,32% no mês anterior.</segment>
+    <segment id="93">Leia tambémIPCA-15: entenda</segment>
+    <segment id="94">comocomo este índice de inflação é calculadoAlimentos em baixa</segment>
+    <segment id="95">Segundo o IBGE</segment>
+    <segment id="96">, o IPCA-15 perdeu força na passagem de março para abril devido a fatores</segment>
+    <segment id="97">comocomo a desaceleração dos grupos alimentação e bebidas (de 0</segment>
+    <segment id="98">,20% para 0</segment>
+    <segment id="99">,04%), comunicação (de 0</segment>
+    <segment id="100">,75% para 0</segment>
+    <segment id="101">,06%) e habitação (de 0</segment>
+    <segment id="102">,81% para 0</segment>
+    <segment id="103">,48%).</segment>
+    <segment id="104">Dentro de alimentação e bebidas</segment>
+    <segment id="105">, o destaque veio da baixa da alimentação no domicílio (-0</segment>
+    <segment id="106">,15%).</segment>
+    <segment id="107">Foi o primeiro recuo desde setembro de 2022.</segment>
+    <segment id="108">"</segment>
+    <segment id="109">Esse movimento é influenciado pela desvalorização das commodities e uma relativa apreciação do real frente ao dólar.</segment>
+    <segment id="110">Além disso</segment>
+    <segment id="111">, é resultado das boas safras de grãos</segment>
+    <segment id="112">, do desaquecimento da atividade econômica global e da redução dos efeitos da guerra Rússia-Ucrânia"</segment>
+    <segment id="113">, diz relatório do banco Original.</segment>
+    <segment id="114">Em abril</segment>
+    <segment id="115">, houve quedas nos preços da batata-inglesa (-7</segment>
+    <segment id="116">,31%), da cebola (-5</segment>
+    <segment id="117">,64%), do óleo de soja (-4</segment>
+    <segment id="118">,75%) e das carnes (-1</segment>
+    <segment id="119">,34%), conforme o IPCA-15.</segment>
+    <segment id="120">Do lado das altas</segment>
+    <segment id="121">, o destaque foi o ovo de galinha</segment>
+    <segment id="122">, cujos preços subiram 4</segment>
+    <segment id="123">,36%.</segment>
+    <segment id="124">O grupo saúde e cuidados pessoais (1</segment>
+    <segment id="125">,04%) teve o segundo maior impacto sobre o IPCA-15 deste mês (0</segment>
+    <segment id="126">,14 ponto percentual)</segment>
+    <segment id="127">, atrás apenas de transportes (0</segment>
+    <segment id="128">,29 ponto percentual).</segment>
+    <segment id="129">No segmento de saúde</segment>
+    <segment id="130">, a maior contribuição (0</segment>
+    <segment id="131">,06 ponto percentual) foi provocada pelos produtos farmacêuticos (1</segment>
+    <segment id="132">,86%).</segment>
+    <segment id="133">O IBGE associou a carestia ao reajuste autorizado de até 5</segment>
+    <segment id="134">,60% nos medicamentos</segment>
+    <segment id="135">, a partir de 31 de março.</segment>
+    <segment id="136">Folha MercadoReceba no seu email o que de mais importante acontece na economia</segment>
+    <segment id="137">; aberta para não assinantes.</segment>
+    <segment id="138">Carregando...</segment>
+    <segment id="139">Cenário para 2023</segment>
+    <segment id="140">O centro da meta de inflação perseguida pelo BC para o IPCA é de 3</segment>
+    <segment id="141">,25% em 2023.</segment>
+    <segment id="142">O intervalo de tolerância é de 1</segment>
+    <segment id="143">,5 ponto percentual para mais (4</segment>
+    <segment id="144">,75%) ou para menos (1</segment>
+    <segment id="145">,75%).</segment>
+    <segment id="146">Apesar de o IPCA-15 acumulado em 12 meses (4</segment>
+    <segment id="147">,16%) ter ficado abaixo do teto para o IPCA (4</segment>
+    <segment id="148">,75%), analistas esperam que a inflação volte a ganhar força no segundo semestre do ano.</segment>
+    <segment id="149">Parte dessa projeção está associada ao efeito da base de comparação.</segment>
+    <segment id="150">Na segunda metade de 2022</segment>
+    <segment id="151">, os preços de produtos</segment>
+    <segment id="152">comocomo os combustíveis foram reduzidos de maneira artificial pelo corte de tributos anunciado pelo governo Jair Bolsonaro (PL) às vésperas das eleições.  "</segment>
+    <segment id="153">Nossa previsão é que a inflação comece a acelerar no segundo semestre do ano</segment>
+    <segment id="154">, quando os efeitos da desoneração de impostos sobre combustíveis saírem totalmente da base de cálculo"</segment>
+    <segment id="155">, aponta relatório assinado pela economista Claudia Moreno</segment>
+    <segment id="156">, do C6 Bank.</segment>
+    <segment id="157">Segundo Moreno</segment>
+    <segment id="158">, a inflação de serviços segue persistente</segment>
+    <segment id="159">, dificultando uma redução da Selic.</segment>
+    <segment id="160">Na mediana</segment>
+    <segment id="161">, a alta prevista pelo mercado financeiro para o IPCA é de 6</segment>
+    <segment id="162">,04% no acumulado de 2023</segment>
+    <segment id="163">, de acordo com o boletim</segment>
+    <segment id="164">Focus publicado pelo BC na segunda-feira (24).</segment>
+    <segment id="165">Se o resultado for confirmado</segment>
+    <segment id="166">, este será o terceiro ano consecutivo de estouro da meta.</segment>
+    <segment id="167">Entenda</segment>
+    <segment id="168">comocomo funciona o Conselho Monetário Nacional (CMN)Mais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

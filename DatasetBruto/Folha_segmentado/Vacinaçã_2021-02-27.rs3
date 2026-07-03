@@ -1,0 +1,209 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A tão aguardada primeira dose da vacina contra o coronavírus não chegou sem esforço para idosos entre 80 e 84 anos</segment>
+    <segment id="2">, que começaram a ser imunizados neste sábado (27) em São Paulo.</segment>
+    <segment id="3">Aqueles que foram a pontos de vacinação drive-thru na capital paulista enfrentaram filas que exigiram resistência.</segment>
+    <segment id="4">No Pacaembu (zona oeste de SP)</segment>
+    <segment id="5">, idosos relataram esperas de mais de cinco horas.</segment>
+    <segment id="6">Houve casos até de veículos que ficaram sem gasolina.</segment>
+    <segment id="7">Neste sábado</segment>
+    <segment id="8">, devido à alta procura</segment>
+    <segment id="9">, o final do atendimento nos drive-thrus foi estendido das 17h para as 19h.</segment>
+    <segment id="10">Além disso</segment>
+    <segment id="11">, a prefeitura informou que eles funcionarão também no domingo (28).</segment>
+    <segment id="12">Ao longo do dia</segment>
+    <segment id="13">, os relatos de sufocos dos motoristas foram crescendo.</segment>
+    <segment id="14">A reportagem conversou com um motorista que</segment>
+    <segment id="15">, após esperar mais de cinco horas</segment>
+    <segment id="16">, teve de estacionar o carro e andar durante vinte minutos até achar um posto de gasolina.</segment>
+    <segment id="17">"</segment>
+    <segment id="18">Ia tentar em outro ponto</segment>
+    <segment id="19">, masmas nessa hora acabou a gasolina.</segment>
+    <segment id="20">Eu joguei o carro por meio-fio e fui buscar gasolina no posto"</segment>
+    <segment id="21">, disse ele.</segment>
+    <segment id="22">Devido à fila na avenida Pacaembu e arredores</segment>
+    <segment id="23">, houve congestionamento em vários pontos do centro e da zona oeste.</segment>
+    <segment id="24">Segundo dados da CET (Companhia de Engenharia de Tráfego)</segment>
+    <segment id="25">, por volta do meio-dia havia congestionamentos</segment>
+    <segment id="26">, além da avenida Pacaembu</segment>
+    <segment id="27">, na Dr. Arnaldo e Rebouças.</segment>
+    <segment id="28">Conforme relatos das pessoas que aguardavam</segment>
+    <segment id="29">, a espera poderia ser maior ou menor</segment>
+    <segment id="30">, dependendo do caminho que a pessoa fez para chegar à fila.</segment>
+    <segment id="31">Na avenida Pacaembu travada</segment>
+    <segment id="32">, Jaqueline Cardoso</segment>
+    <segment id="33">, 57, que levava o pai para vacinar</segment>
+    <segment id="34">, relatou ter passado cinco horas.</segment>
+    <segment id="35">"</segment>
+    <segment id="36">Cinco horas</segment>
+    <segment id="37">, estou chegando aqui 8h30.</segment>
+    <segment id="38">Cinco horas sem comer</segment>
+    <segment id="39">, sem beber.</segment>
+    <segment id="40">Essa desorientação da polícia que não ajuda em nada.</segment>
+    <segment id="41">É um absurdo isso</segment>
+    <segment id="42">, o que você faz com uma pessoa de 81 anos dentro do carro sem comer e sem beber"</segment>
+    <segment id="43">, disse.</segment>
+    <segment id="44">Eram por volta das 10h quando o advogado Wanderley Nascimento</segment>
+    <segment id="45">, 80, conseguiu entrar com seu carro na praça Charles Miller</segment>
+    <segment id="46">, onde fica o estádio do Pacaembu.</segment>
+    <segment id="47">"</segment>
+    <segment id="48">Fui prejudicado.</segment>
+    <segment id="49">Cheguei por volta das 6h e fiquei esperando.</segment>
+    <segment id="50">Não tem policiamento para orientar as pessoas</segment>
+    <segment id="51">, depois abriram outras entradas</segment>
+    <segment id="52">, pessoas passaram na frente"</segment>
+    <segment id="53">, relata ele.</segment>
+    <segment id="54">Maria Santos</segment>
+    <segment id="55">, 80, pegou um táxi para ir</segment>
+    <segment id="56">sese vacinar às 7h15.</segment>
+    <segment id="57">Às 10h30</segment>
+    <segment id="58">, ainda aguardava sua vez.</segment>
+    <segment id="59">"</segment>
+    <segment id="60">É um desrespeito com os idosos"</segment>
+    <segment id="61">, reclamou.</segment>
+    <segment id="62">A reportagem também obteve relatos de longas filas em outros pontos da cidade</segment>
+    <segment id="63">, como</segment>
+    <segment id="64">como no Autódromo de Interlagos</segment>
+    <segment id="65">, na zona sul</segment>
+    <segment id="66">, no Anhembi</segment>
+    <segment id="67">, na zona norte</segment>
+    <segment id="68">, e Itaquerão</segment>
+    <segment id="69">, na zona sul.</segment>
+    <segment id="70">Vacinação de idosos entre 80 e 84 anos que iniciou no estádio do Pacaembu</segment>
+    <segment id="71">, na zona oeste de SP - Danilo Verpa/FolhapressO comerciante Cesar Sarti</segment>
+    <segment id="72">, 55, que levou a mãe para</segment>
+    <segment id="73">sese vacinar no Pacaembu</segment>
+    <segment id="74">, também reclamou da falta de orientação e de veículos furando a fila —ele levou 1h20 para chegar até próximo da área de vacinação.</segment>
+    <segment id="75">Mas afirma estar aliviado com a vacina.</segment>
+    <segment id="76">"É um caminhão que sai da suas costas</segment>
+    <segment id="77">, muita alegria.</segment>
+    <segment id="78">É difícil viver 24 horas com a sua mãe com medo de transmitir a doença para ela"</segment>
+    <segment id="79">, disse.</segment>
+    <segment id="80">Por ser um drive-thru</segment>
+    <segment id="81">, pessoas que estavam sem carro não podem aguardar na fila.</segment>
+    <segment id="82">Yukio Sasaki</segment>
+    <segment id="83">, 80, e a esposa foram levados pela filha</segment>
+    <segment id="84">, que é médica</segment>
+    <segment id="85">, masmas devido a uma emergência no trabalho ela teve de ir</segment>
+    <segment id="86">embora</segment>
+    <segment id="87">embora da fila.</segment>
+    <segment id="88">Ao ver os dois idosos parados num canto</segment>
+    <segment id="89">, pessoas que estavam no local saíram batendo de carro em carro em busca de uma carona para o casal.  Sônia Botelho</segment>
+    <segment id="90">, 81, aceitou levá-los.</segment>
+    <segment id="91">"</segment>
+    <segment id="92">Já conversamos um pouco aqui"</segment>
+    <segment id="93">, disse ela</segment>
+    <segment id="94">, sorridente.</segment>
+    <segment id="95">"Me sinto mais segura [com a vacina]</segment>
+    <segment id="96">, masmas aguardando a segunda dose"</segment>
+    <segment id="97">, completou.</segment>
+    <segment id="98">Andrezia Ignes Falk</segment>
+    <segment id="99">, 82,foi a pé ao drive-thru e acabou conseguindo uma carona para ser imunizada - Danilo VerpaAndrezia Ignes Falk</segment>
+    <segment id="100">, 82, foi a pé ao drive-thru.</segment>
+    <segment id="101">"</segment>
+    <segment id="102">Moro ali em cima"</segment>
+    <segment id="103">, justificou.</segment>
+    <segment id="104">Ao chegar ao posto de vacinação</segment>
+    <segment id="105">, acabou conseguindo uma carona para ser imunizada.</segment>
+    <segment id="106">Entre os idosos vacinados no estádio também esteve o ex-presidente Michel Temer (MDB)</segment>
+    <segment id="107">, de 80 anos.</segment>
+    <segment id="108">Após a aplicação da vacina</segment>
+    <segment id="109">, ele exibiu o comprovante aos jornalistas no local.</segment>
+    <segment id="110">O governador João Doria (PSDB) esteve no Pacaembu e disse que o sistema drive-thru é um sucesso.</segment>
+    <segment id="111">"</segment>
+    <segment id="112">O drive-thru tem</segment>
+    <segment id="113">sese mostrado a melhor opção para a vacinação dos idosos.</segment>
+    <segment id="114">Mais seguro</segment>
+    <segment id="115">, mais confortável"</segment>
+    <segment id="116">,</segment>
+    <segment id="117">disse.</segment>
+    <segment id="118">"</segment>
+    <segment id="119">Tínhamos a expectativa da população com mais idade é uma população ansiosa</segment>
+    <segment id="120">, são pessoas que querem a vida</segment>
+    <segment id="121">, querem viver.</segment>
+    <segment id="122">E obviamente tem também a ansiedade de seus filhos</segment>
+    <segment id="123">, de seus netos"</segment>
+    <segment id="124">, disse.</segment>
+    <segment id="125">Ele afirmou ainda que observou que</segment>
+    <segment id="126">, apesar das filas</segment>
+    <segment id="127">, as pessoas tem calma.</segment>
+    <segment id="128">"</segment>
+    <segment id="129">Não ouvi uma buzina</segment>
+    <segment id="130">, um protesto</segment>
+    <segment id="131">, nada"</segment>
+    <segment id="132">, disse.</segment>
+    <segment id="133">Representantes do governo afirmaram que a realização do pré-cadastro pela população poderá ajudar no processo de redução das filas.</segment>
+    <segment id="134">No fim da tarde de sábado</segment>
+    <segment id="135">, as equipes que atuam na vacinação iriam avaliar quem</segment>
+    <segment id="136">, dos carros que aguardam na fila</segment>
+    <segment id="137">, conseguiria</segment>
+    <segment id="138">sese vacinar até as 19h</segment>
+    <segment id="139">, fim do horário de funcionamento do drive-thru.</segment>
+    <segment id="140">Segundo a prefeitura</segment>
+    <segment id="141">, neste sábado</segment>
+    <segment id="142">, a vacinação acontece em cinco mega drive-thrus e 82 AMA/UBS integradas da capital.</segment>
+    <segment id="143">Nas redes sociais</segment>
+    <segment id="144">, diversas pessoas postaram relatos de longas filas também em Amas (Assistências Médicas Ambulatoriais)</segment>
+    <segment id="145">, onde também era realizada a vacinação.</segment>
+    <segment id="146">Nesses locais</segment>
+    <segment id="147">, o esquema não é drive-thru.</segment>
+    <segment id="148">A partir de segunda (1°)</segment>
+    <segment id="149">, estará disponível nas 468 unidades básicas de saúde</segment>
+    <segment id="150">, das 7h às 19h</segment>
+    <segment id="151">, e em três centros-escolas</segment>
+    <segment id="152">, também de segunda à sexta</segment>
+    <segment id="153">, das 8h às 17horas.</segment>
+    <segment id="154">De acordo com a prefeitura</segment>
+    <segment id="155">, na sexta (26)</segment>
+    <segment id="156">, chegou um lote de 140 mil doses da vacina da Oxford – Astrazeneca</segment>
+    <segment id="157">, que será suficiente para vacinar toda a população entre 80 e 84 anos.</segment>
+    <segment id="158">Os funcionários da saúde adotaram um protocolo de mostrar aos idosos a seringa cheia e</segment>
+    <segment id="159">, depois da aplicação</segment>
+    <segment id="160">, vazia</segment>
+    <segment id="161">, uma medida para provar que o imunizante de fato foi aplicado.</segment>
+    <segment id="162">A prefeitura já havia adiantado a imunização de idosos do grupo de 85 a 89 anos em 11 de fevereiro e também e determinou que os paulistanos com mais de 90 anos começassem a ser vacinados no último dia 5</segment>
+    <segment id="163">, três dias antes do programado pelo estado.</segment>
+    <segment id="164">De acordo com o governo estadual</segment>
+    <segment id="165">, a vacinação das pessoas entre 77 e 79 anos começa em 3 de março.</segment>
+    <segment id="166">Vacinação de idosos entre 80 e 84 anos tem longa espera e congestionamento em SP   novamente         de   de  de  representando um    SERVIÇO  Neste sábado e domingo</segment>
+    <segment id="167">, das 8h às 19h nos cinco grandes drive-thrus da cidade:</segment>
+    <segment id="168">Praça Charles Muller - Estádio do Pacaembu (Zona Oeste)</segment>
+    <segment id="169">Arena Corinthians (Zona Leste) —só até as 17h Autódromo de Interlagos - Rua Jacinto Júlio</segment>
+    <segment id="170">, altura do nº 589 – Portão 9</segment>
+    <segment id="171">, entrada KRF (Zona Sul)</segment>
+    <segment id="172">Centro de Exposições do Anhembi - Rua Olavo Fontoura – Portão 38 (Zona Norte) Igreja Boas Novas</segment>
+    <segment id="173">, na Vila Prudente - Rua Marechal Malet</segment>
+    <segment id="174">, 535 - Parque da Vila Prudente (Zona Leste).</segment>
+    <segment id="175">Neste sábado</segment>
+    <segment id="176">, das 7h às 19h</segment>
+    <segment id="177">, em 82 AMAs/UBSs integradas do município.</segment>
+    <segment id="178">Para encontrar endereço mais próximo</segment>
+    <segment id="179">, buscar em http://buscasaude.prefeitura.sp.gov.br/</segment>
+    <segment id="180">A partir de segunda (1º)</segment>
+    <segment id="181">, o atendimento segue nos drive-thrus (a partir das 8h</segment>
+    <segment id="182">, com horário final a ser definido)</segment>
+    <segment id="183">, nas Amas e também nas 468 Unidades Básicas de Saúde</segment>
+  </rst>
+</analysis>

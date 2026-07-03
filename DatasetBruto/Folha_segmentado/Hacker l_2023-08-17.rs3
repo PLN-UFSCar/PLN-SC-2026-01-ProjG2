@@ -1,0 +1,203 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O programador Walter Delgatti Neto</segment>
+    <segment id="2">, conhecido</segment>
+    <segment id="3">comocomo hacker da Vaza Jato</segment>
+    <segment id="4">, disse nesta quinta-feira (17) à CPI do 8 de janeiro que a campanha do ex-presidente Jair Bolsonaro (PL) planejou forjar a invasão de uma urna eletrônica durante as celebrações do 7 de Setembro de 2022</segment>
+    <segment id="5">, menos de um mês antes da eleição.</segment>
+    <segment id="6">O hacker disse ainda que</segment>
+    <segment id="7">, em outra data</segment>
+    <segment id="8">, Bolsonaro teria pedido para ele assumir a autoria de um grampo de conversas de Alexandre de Moraes</segment>
+    <segment id="9">, ministro do STF (Supremo Tribunal Federal).</segment>
+    <segment id="10">Delgatti afirma que aceitou o pedido</segment>
+    <segment id="11">, feito pelo ex-presidente em telefonema mediado pela deputada federal Carla Zambelli (PL-SP)</segment>
+    <segment id="12">, masmas que nunca teve acesso a esse suposto grampo do ministro.</segment>
+    <segment id="13">Bolsonaro foi recentemente condenado pelo TSE (Tribunal Superior Eleitoral) por mentiras e ataques ao sistema eleitoral</segment>
+    <segment id="14">, ficando assim inelegível pelos próximos oito anos</segment>
+    <segment id="15">, e ainda enfrenta uma série de ações na Justiça</segment>
+    <segment id="16">, como</segment>
+    <segment id="17">como a suspeita de responsabilidade nos ataques golpistas do 8 de janeiro.</segment>
+    <segment id="18">À CPI Delgatti não apresentou registros que comprovem suas declarações.</segment>
+    <segment id="19">O hacker afirmou que aceita acareação com Bolsonaro na comissão.</segment>
+    <segment id="20">A senadora Damares Alves (Republicanos-DF) disse que o hacker "não vai ter com provar tudo isso"</segment>
+    <segment id="21">, enquanto o deputado Rogério Correia (PT-MG) afirmou que a Polícia Federal "tem modos" para checar as declarações dadas à CPI.</segment>
+    <segment id="22">Acompanhe ao vivo o depoimento do hacker à CPI do 8 de janeiro</segment>
+    <segment id="23">O hacker Walter Delgatti durante depoimento a CPMI do 8 de janeiro - Gabriela Biló /FolhapressDelgatti foi preso novamente no começo de agosto sob suspeita de tramar</segment>
+    <segment id="24">, a pedido da deputada</segment>
+    <segment id="25">, contra Moraes.</segment>
+    <segment id="26">O hacker confessou</segment>
+    <segment id="27">, em junho</segment>
+    <segment id="28">, que invadiu os sistemas do CNJ (Conselho Nacional de Justiça) e inseriu um mandado de prisão falso contra Moraes assinado pelo próprio ministro.</segment>
+    <segment id="29">Ele também disse que recebeu um pedido de Zambelli</segment>
+    <segment id="30">, no ano passado</segment>
+    <segment id="31">, para invadir uma urna eletrônica.</segment>
+    <segment id="32">Na comissão</segment>
+    <segment id="33">, sobre o alegado plano sobre urnas eletrônicas</segment>
+    <segment id="34">, o hacker afirmou que usaria um "código-fonte fake"</segment>
+    <segment id="35">, feito por ele mesmo</segment>
+    <segment id="36">, para mostrar que uma urna poderia registrar um voto diferente daquele que o eleitor queria.</segment>
+    <segment id="37">Delgatti</segment>
+    <segment id="38">, que ganhou projeção por ter invadido contas de Telegram de procuradores da Lava Jato em 2019</segment>
+    <segment id="39">, disse que levou o plano a Bolsonaro durante reunião no Palácio da Alvorada</segment>
+    <segment id="40">, em 10 de agosto do ano passado</segment>
+    <segment id="41">, portanto já no período da campanha.</segment>
+    <segment id="42">O ex-presidente então teria pedido para o hacker que conversasse com técnicos do Ministério da Defesa sobre o sistema eleitoral.</segment>
+    <segment id="43">"</segment>
+    <segment id="44">Ele [Bolsonaro] também pediu que eu fizesse o que eu havia dito sobre o 7 de Setembro"</segment>
+    <segment id="45">, disse o programador à CPI.</segment>
+    <segment id="46">Sobre o grampo relacionado a Moraes</segment>
+    <segment id="47">, o hacker disse:</segment>
+    <segment id="48">"</segment>
+    <segment id="49">Ele [Bolsonaro] disse que o grampo fora realizado por agentes de outro país.</segment>
+    <segment id="50">Não sei</segment>
+    <segment id="51">sese é verdade</segment>
+    <segment id="52">, não tive acesso a ele".</segment>
+    <segment id="53">O hacker afirmou na sessão que Bolsonaro chegou a prometer a ele um perdão presidencial de condenações aplicadas pela Justiça a Delgatti.</segment>
+    <segment id="54">Bolsonaro</segment>
+    <segment id="55">, em entrevista à rede Jovem Pan</segment>
+    <segment id="56">, chamou de "fantasia</segment>
+    <segment id="57">"</segment>
+    <segment id="58">o relato do hacker</segment>
+    <segment id="59">e disse que só o encontrou no Palácio da Alvorada uma vez.</segment>
+    <segment id="60">"</segment>
+    <segment id="61">Não falei com ele no telefone em momento algum.</segment>
+    <segment id="62">"</segment>
+    <segment id="63">O senador Flávio Bolsonaro (PL-RJ) disse</segment>
+    <segment id="64">, na CPI</segment>
+    <segment id="65">, que não houve "pedido de invasão de urna</segment>
+    <segment id="66">, de modificação de resultado".</segment>
+    <segment id="67">"</segment>
+    <segment id="68">Até porque</segment>
+    <segment id="69">porque ele [o hacker] próprio falou que não tem capacidade de fazer isso.</segment>
+    <segment id="70">"</segment>
+    <segment id="71">O filho do ex-presidente chamou de "sondagem" as conversas de Bolsonaro e seus auxiliares com o hacker.</segment>
+    <segment id="72">"</segment>
+    <segment id="73">Para que ele pudesse</segment>
+    <segment id="74">, junto com o grupo das Forças Armadas</segment>
+    <segment id="75">, pudesse mostrar ao TSE possível vulnerabilidade da urnas"</segment>
+    <segment id="76">, disse Flávio.</segment>
+    <segment id="77">Delgatti foi convocado à CPI</segment>
+    <segment id="78">comocomo testemunha para explicar</segment>
+    <segment id="79">sese participou de tentativas</segment>
+    <segment id="80">, a pedido de Zambelli</segment>
+    <segment id="81">, de deslegitimar o sistema eleitoral brasileiro.</segment>
+    <segment id="82">Ele afirmou que o plano de atuar na campanha de Bolsonaro não saiu do papel após a imprensa noticiar os encontros com a equipe do ex-presidente.</segment>
+    <segment id="83">Ainda assim</segment>
+    <segment id="84">, ele disse que participou de diálogos com técnicos do Ministério da Defesa sobre as urnas e da invasão de sistemas do CNJ.</segment>
+    <segment id="85">Delgatti havia obtido no STF na quarta-feira (16) decisão garantindo o direito ao silêncio no depoimento.</segment>
+    <segment id="86">Ao longo da sessão na CPI</segment>
+    <segment id="87">, ele respondeu em tom mais amigável a perguntas de parlamentares da base do presidente Lula (PT) e evitou questionamentos de aliados de Bolsonaro</segment>
+    <segment id="88">, frequentemente sendo irônico em suas falas.</segment>
+    <segment id="89">A audiência teve ainda diversos momentos de bate-boca entre governistas e a oposicionistas.</segment>
+    <segment id="90">Relatora da CPI</segment>
+    <segment id="91">, a senadora Eliziane Gama (PSD-MA) disse que o depoimento de Delgatti dá "fortes condições" para a comissão sugerir o indiciamento de Bolsonaro.</segment>
+    <segment id="92">Ela defendeu que a comissão quebre sigilos fiscal e telemático do ex-presidente e de outros auxiliares de Bolsonaro que estiveram com o hacker.</segment>
+    <segment id="93">No dia anterior ao depoimento à comissão</segment>
+    <segment id="94">, o programador foi ouvido pela Polícia Federal.</segment>
+    <segment id="95">A defesa de Delgatti afirma que ele apresentou provas de que recebeu pagamentos de Zambelli.</segment>
+    <segment id="96">A polícia vai voltar a ouvi-lo nesta sexta-feira (18) sobre os relatos feitos à CPI.</segment>
+    <segment id="97">Entenda a operação da PF contra Zambelli e hacker da &amp;#</segment>
+    <segment id="98">039;Vaza Jato&amp;#039</segment>
+    <segment id="99">;Mais    novamente         de   de  de  representando um  Na sessão desta quinta-feira na CPI</segment>
+    <segment id="100">, ele disse que invadiu os sistemas do CNJ e de tribunais de todos os estados.</segment>
+    <segment id="101">"</segment>
+    <segment id="102">Tive acesso a todas as senhas de juízes e servidores</segment>
+    <segment id="103">, fiquei quatro meses na intranet do CNJ e de tribunais.</segment>
+    <segment id="104">"</segment>
+    <segment id="105">O hacker afirmou que o objetivo era demonstrar a fragilidade do sistema eleitoral brasileiro</segment>
+    <segment id="106">, tese levantada</segment>
+    <segment id="107">, sem provas</segment>
+    <segment id="108">, pelo ex-presidente e seus apoiadores.</segment>
+    <segment id="109">Ele disse que o entorno do ex-presidente queria o transformar em "garoto propaganda" da campanha eleitoral de Bolsonaro.</segment>
+    <segment id="110">"Eu era o hacker da Lava Jato</segment>
+    <segment id="111">, seria difícil a esquerda questionar a autoria [do grampo]"</segment>
+    <segment id="112">, afirmou o hacker.</segment>
+    <segment id="113">Delgatti afirmou que conheceu Zambelli por acaso e trocou contatos com a deputada.</segment>
+    <segment id="114">Depois</segment>
+    <segment id="115">, ele disse que teria sido chamado pela deputada e que recebeu proposta de trabalhar na campanha de Bolsonaro.</segment>
+    <segment id="116">Ele afirma que</segment>
+    <segment id="117">sese reuniu no dia 9 de agosto de 2022 com integrantes da campanha de Bolsonaro</segment>
+    <segment id="118">, incluindo Valdemar Costa Neto</segment>
+    <segment id="119">, presidente do PL.</segment>
+    <segment id="120">Na tarde do mesmo dia ele diz ter participado de outra reunião com a campanha</segment>
+    <segment id="121">, masmas sem Valdemar.</segment>
+    <segment id="122">Nesse segundo encontro teria sido elaborado o plano de forjar uma invasão de urna no 7 de Setembro.</segment>
+    <segment id="123">No ano passado</segment>
+    <segment id="124">, o então ministro da Defesa</segment>
+    <segment id="125">, Paulo Sérgio Nogueira</segment>
+    <segment id="126">, tinha enviado um pedido ao TSE já no início de agosto para realizar a análise do código-fonte entre os dias 2 a 12 de agosto.</segment>
+    <segment id="127">A inspeção do programa</segment>
+    <segment id="128">, solicitada com carimbo de urgentíssimo</segment>
+    <segment id="129">, estava disponível desde outubro do ano anterior.</segment>
+    <segment id="130">Delgatti disse à CPI que</segment>
+    <segment id="131">, a pedido de Bolsonaro</segment>
+    <segment id="132">, participou de reuniões com a cúpula das Forças Armadas.</segment>
+    <segment id="133">FolhaJus DiaReceba no seu email a seleção diária das principais notícias jurídicas</segment>
+    <segment id="134">; aberta para não assinantes.</segment>
+    <segment id="135">Carregando...</segment>
+    <segment id="136">Ele disse que esteve cinco vezes no Ministério da Defesa e que chegou a</segment>
+    <segment id="137">sese reunir com o ex-ministro Paulo Sérgio Nogueira.</segment>
+    <segment id="138">Afirmou ainda que colaborou com o relatório apresentado em novembro pela pasta sobre as eleições.</segment>
+    <segment id="139">Delgatti disse que manteve contato com a "cúpula de TI" das Forças Armadas</segment>
+    <segment id="140">, e que os técnicos usavam nomes fictícios para</segment>
+    <segment id="141">sese comunicar</segment>
+    <segment id="142">, como</segment>
+    <segment id="143">como "carro" e "caminhão".</segment>
+    <segment id="144">O programador disse que falou por mensagens de celular com com o general Freire Gomes</segment>
+    <segment id="145">, ex-comandante do Exército.</segment>
+    <segment id="146">Segundo o hacker</segment>
+    <segment id="147">, Bolsonaro falou que o resultado das eleições poderia causar uma "ruptura</segment>
+    <segment id="148">" no país.</segment>
+    <segment id="149">"</segment>
+    <segment id="150">Ele falava que eu precisava fazer isso pela liberdade do povo</segment>
+    <segment id="151">, ele tinha aquela manipulação</segment>
+    <segment id="152">, ele falava 'senão o resultado será a ruptura</segment>
+    <segment id="153">, e será ruim para todos nós"'.</segment>
+    <segment id="154">Ele fazia uma equiparação à Venezuela"</segment>
+    <segment id="155">, afirmou Delgatti sobre a conversa com o ex-presidente no Palácio da Alvorada.  Fabio Wajngarten</segment>
+    <segment id="156">, um dos advogados de Bolsonaro</segment>
+    <segment id="157">, negou nas redes sociais a existência de grampo contra Moraes.</segment>
+    <segment id="158">"</segment>
+    <segment id="159">NUNCA, JAMAIS</segment>
+    <segment id="160">, houve grampo</segment>
+    <segment id="161">, nem qualquer atividade ilegal</segment>
+    <segment id="162">, nem não republicana</segment>
+    <segment id="163">, contra qualquer ente político do Brasil por parte do entorno primário do Presidente.</segment>
+    <segment id="164">Mente e mente e mente"</segment>
+    <segment id="165">, escreveu Wajngarten.</segment>
+    <segment id="166">O advogado de Zambelli</segment>
+    <segment id="167">, Daniel Bialski</segment>
+    <segment id="168">, divulgou nota nesta quinta-feira afirmando que Delgatti "usa e abusa de fantasias em suas palavras".</segment>
+    <segment id="169">Ele negou participação da deputada em irregularidades.  "</segment>
+    <segment id="170">Suas versões mudam com os dias</segment>
+    <segment id="171">, suas distorções e invenções são recheadas de mentiras</segment>
+    <segment id="172">, bastando notar que a cada versão</segment>
+    <segment id="173">, ele modifica os fatos</segment>
+    <segment id="174">, o que é só mais um sintoma de que a sua palavra é totalmente despida de idoneidade e credibilidade"</segment>
+    <segment id="175">, disse Bialski.</segment>
+    <segment id="176">O advogado disse que a defesa de Zambelli ainda não teve acesso aos autos da investigação.</segment>
+    <segment id="177">O que Bolsonaro disse sobre urnas e ameaças às eleições e ao TSE Mais    novamente         de   de  de  representando um</segment>
+  </rst>
+</analysis>

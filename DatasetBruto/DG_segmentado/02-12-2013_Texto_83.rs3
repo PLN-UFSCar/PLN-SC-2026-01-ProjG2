@@ -1,0 +1,52 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">HomicÃ­dio na Capital</segment>
+    <segment id="2">Jovem executado a tiros na Zona Sul de Porto Alegre
+Dionata da Silva Pacheco</segment>
+    <segment id="3">, 19 anos</segment>
+    <segment id="4">, foi morto com quatro tiros no Bairro Aberta dos Morros
+Eduardo Torres
+eduardo.torres@diariogaucho.com.br</segment>
+    <segment id="5">Um jovem identificado</segment>
+    <segment id="6">comocomo Dionata da Silva Pacheco</segment>
+    <segment id="7">, 19 anos</segment>
+    <segment id="8">, foi executado a tiros no comeÃ§o da madrugada desta segunda-feira</segment>
+    <segment id="9">, na Zona Sul da Capital.</segment>
+    <segment id="10">Ele teria sido surpreendido por dois homens em uma moto</segment>
+    <segment id="11">, na esquina entre a Avenida Juca Batista e a Rua Gedeon Leite</segment>
+    <segment id="12">, no Bairro Aberta dos Morros.</segment>
+    <segment id="13">O carona da moto teria atirado quatro vezes contra Dionata.</segment>
+    <segment id="14">De acordo com o delegado adjunto da 4ÂªDHPP</segment>
+    <segment id="15">, Rodrigo Pohlmann</segment>
+    <segment id="16">, que investiga o</segment>
+    <segment id="17">casocaso</segment>
+    <segment id="18">, Dionata era ex-interno da Fase</segment>
+    <segment id="19">, por envolvimento com o trÃ¡fico.</segment>
+    <segment id="20">A famÃ­lia afirmou aos policiais</segment>
+    <segment id="21">, no entanto</segment>
+    <segment id="22">, que ele havia</segment>
+    <segment id="23">sese afastado da criminalidade.</segment>
+  </rst>
+</analysis>

@@ -1,0 +1,42 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">WikiLeaks diz que pedidos de Assange a AustrÃ¡lia foram negados
+RIO - Em resposta ao comunicado do ministro das RelaÃ§Ãµes Exteriores australiano</segment>
+    <segment id="2">, Bob Carr</segment>
+    <segment id="3">, de que Julian Assange teria recusado a oferta de assistÃªncia consular</segment>
+    <segment id="4">, o WikiLeaks afirmou em seu site que todos 16 pedidos de auxÃ­lio a AustrÃ¡lia foram recusados.</segment>
+    <segment id="5">A pÃ¡gina mostra na Ã­ntegra a carta do advogado de direitos humanos Gareth Peirce e a resposta de Ken Pascoe</segment>
+    <segment id="6">, o cÃ´nsul-geral da Alta ComissÃ£o Australiana em Londres.</segment>
+    <segment id="7">A carta</segment>
+    <segment id="8">, que eles intitularam "total abandono" descreve os pedidos que Assange faz para representaÃ§Ãµes de seu governo sobre o processo e julgamento</segment>
+    <segment id="9">, e a posiÃ§Ã£o do governo australiano: segundo eles</segment>
+    <segment id="10">, "uma declaraÃ§Ã£o eficaz de abandono".</segment>
+    <segment id="11">"Nota-</segment>
+    <segment id="12">sese que o governo australiano levou quase dois meses para responder Ã  carta de Peirce</segment>
+    <segment id="13">, apesar de sua insistÃªncia de que o assunto era urgente</segment>
+    <segment id="14">, e que os direitos decorrentes do Sr. Assange no processo foram violados"</segment>
+    <segment id="15">, diz o site.</segment>
+  </rst>
+</analysis>

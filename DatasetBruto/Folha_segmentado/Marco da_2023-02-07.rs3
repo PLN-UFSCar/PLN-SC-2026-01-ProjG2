@@ -1,0 +1,94 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">A Aneel (Agência Nacional de Energia Elétrica) aprovou em reunião de diretoria nesta terça-feira (7) a regulamentação da lei 14.300</segment>
+    <segment id="2">, que estabelece um marco legal para a micro e minigeração distribuída de energia</segment>
+    <segment id="3">, segmento que tem impulsionado do aumento da capacidade de geração no Brasil</segment>
+    <segment id="4">, ainda que sob críticas de parte dos consumidores sobre o custo dos subsídios.</segment>
+    <segment id="5">As regras aprovadas abrangem procedimentos e conceitos técnicos que afetam esses projetos de geração de energia</segment>
+    <segment id="6">, como</segment>
+    <segment id="7">como cobranças pelo uso da rede de distribuição</segment>
+    <segment id="8">, prazos</segment>
+    <segment id="9">para que</segment>
+    <segment id="10">para que as distribuidoras façam obras de conexão dos sistemas</segment>
+    <segment id="11">, apresentação de garantia de fiel cumprimento</segment>
+    <segment id="12">, entre outros.</segment>
+    <segment id="13">Segundo a associação de energia solar Absolar</segment>
+    <segment id="14">, a aprovação desta terça-feira significa um passo importante para a geração distribuída</segment>
+    <segment id="15">, tecnologia que engloba desde telhados solares em residências até pequenas usinas</segment>
+    <segment id="16">, de até 5 megawatts (MW) de potência</segment>
+    <segment id="17">, para abastecer o consumo de empresas.</segment>
+    <segment id="18">Imagem aérea mostra parque de geração de energia solar em construção na cidade de Jaíba</segment>
+    <segment id="19">, em Minas Gerais - Danilo Verpa-01.dez.21/FolhapressSancionada em janeiro de 2022</segment>
+    <segment id="20">, a lei da "GD" garantiu segurança jurídica ao segmento</segment>
+    <segment id="21">, ao mesmo tempo em que impôs uma tarifação a novos projetos.</segment>
+    <segment id="22">Empreendimentos já em operação ou que solicitaram conexão nas distribuidoras de energia até 6 de janeiro deste ano garantiram</segment>
+    <segment id="23">, até 2045</segment>
+    <segment id="24">, a extensão de benefícios tarifários</segment>
+    <segment id="25">, como</segment>
+    <segment id="26">como a isenção do pagamento do uso da rede de distribuição</segment>
+    <segment id="27">, o chamado "</segment>
+    <segment id="28">Fio B".</segment>
+    <segment id="29">A partir de agora</segment>
+    <segment id="30">, novos projetos de GD estão sujeitos</segment>
+    <segment id="31">, entre outras regras</segment>
+    <segment id="32">, a pagamentos escalonados do Fio B</segment>
+    <segment id="33">, começando com um percentual de 15% a partir deste ano até atingir a integralidade em 2029.</segment>
+    <segment id="34">Um dos principais pontos de discussão na regulamentação</segment>
+    <segment id="35">, e que suscitou grande insatisfação entre agentes do mercado de "GD"</segment>
+    <segment id="36">, foram detalhes da cobrança por serviços que antes não eram pagos às distribuidoras pelos usuários da tecnologia.</segment>
+    <segment id="37">Entidades</segment>
+    <segment id="38">comocomo a Absolar apontaram que as regras colocadas inicialmente pelo regulador impunham uma "tripla cobrança" sobre os detentores de micro e minigeração própria</segment>
+    <segment id="39">, prejudicando principalmente os pequenos consumidores e aumentando o prazo de retorno dos investimentos.</segment>
+    <segment id="40">Segundo o presidente executivo da Absolar</segment>
+    <segment id="41">, Rodrigo Sauaia</segment>
+    <segment id="42">, parte do problema foi solucionado</segment>
+    <segment id="43">, com a eliminação da "dupla cobrança" do custo de disponibilidade da rede da distribuidora e o Fio B.  "Conseguimos eliminar a cobrança em duplicidade</segment>
+    <segment id="44">, evitando a inviabilização da geração distribuída solar para a sociedade brasileira"</segment>
+    <segment id="45">, disse Sauaia</segment>
+    <segment id="46">, acrescentando que a entidade irá trabalhar junto ao Congresso para ajustar outros pontos que julga importantes na lei.</segment>
+    <segment id="47">A regulamentação do marco legal da "GD" mobilizou diversos agentes do setor elétrico</segment>
+    <segment id="48">, especialmente do mercado solar e distribuidoras de energia</segment>
+    <segment id="49">, que divergem sobre o tratamento a ser dado para tecnologia que cresce de forma acelerada no Brasil desde 2018.</segment>
+    <segment id="50">A GD traz importantes benefícios ao setor elétrico</segment>
+    <segment id="51">, por se</segment>
+    <segment id="52">se utilizar de fontes de energia limpas</segment>
+    <segment id="53">, sobretudo a solar</segment>
+    <segment id="54">, e implicar uma geração próxima do local de consumo.</segment>
+    <segment id="55">Mas, como</segment>
+    <segment id="56">como os usuários têm benefícios tarifários por estarem isentos do pagamento de alguns custos na conta de luz</segment>
+    <segment id="57">, consumidores que não possuem esses sistemas acabam sendo onerados.</segment>
+    <segment id="58">Cálculos da Aneel divulgados no ano passado estimaram que os subsídios à "GD" custariam R$ 5</segment>
+    <segment id="59">,4 bilhões aos consumidores em 2023.</segment>
+    <segment id="60">Atualmente</segment>
+    <segment id="61">, a geração distribuída soma 17 GW de potência no Brasil</segment>
+    <segment id="62">, tendo</segment>
+    <segment id="63">sese tornado a principal propulsora da fonte solar no país.</segment>
+    <segment id="64">No final do ano passado</segment>
+    <segment id="65">, a Califórnia</segment>
+    <segment id="66">, um dos lugares mais conhecidos pelos incentivos à energia solar</segment>
+    <segment id="67">, decidiu reduzir os créditos pagos a usuários de geração distribuída</segment>
+    <segment id="68">, dizendo que a mudança seria mais justa para os contribuintes de baixa renda e ainda manteria uma indústria solar saudável.</segment>
+  </rst>
+</analysis>

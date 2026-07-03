@@ -1,0 +1,38 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Após a embaixadora filipina</segment>
+    <segment id="2">Marichu Mauro ter sido convocada de volta a Manila por acusações de agressão contra uma emprega doméstica</segment>
+    <segment id="3">, a embaixada do país em Brasília enviou um ofício ao Itamaraty que causou perplexidade entre diplomatas.</segment>
+    <segment id="4">Na carta</segment>
+    <segment id="5">, a embaixada pede que o ministério "imediatamente ordene a TV Globo a retirar do ar todas os vídeos de segurança usados na reportagem" que revelou o</segment>
+    <segment id="6">casocaso</segment>
+    <segment id="7">, uma vez que as imagens "foram usadas sem autorização prévia da embaixada".</segment>
+    <segment id="8">Procurado</segment>
+    <segment id="9">, o Itamaraty não</segment>
+    <segment id="10">sese manifestou</segment>
+    <segment id="11">, masmas diplomatas ouvidos pela Folha consideraram a solicitação absurda e sem cabimento.</segment>
+    <segment id="12">Embaixadora das Filipinas no Brasil agride empregada doméstica dentro da residência diplomática.- (Foto: TV Globo / Reproducao)</segment>
+  </rst>
+</analysis>

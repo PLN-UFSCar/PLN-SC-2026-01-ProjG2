@@ -1,0 +1,40 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">Mulher é presa com maconha na vagina</segment>
+    <segment id="2">O casal poderá responder a processo por tráfico de drogas</segment>
+    <segment id="3">Rosângela Conceição Paixão</segment>
+    <segment id="4">, 34 anos</segment>
+    <segment id="5">, foi flagrada ao tentar entrar no Presídio Salvador com cerca de 50 g de maconha escondida na vagina</segment>
+    <segment id="6">, na manhã de ontem.</segment>
+    <segment id="7">A droga estava embalada em um saco plástico coberto com uma fita adesiva marrom.</segment>
+    <segment id="8">Encaminhada à Delegacia de Repressão a Tóxicos e Entorpecentes (DTE)</segment>
+    <segment id="9">, Rosângela admitiu que levaria a maconha para o namorado</segment>
+    <segment id="10">, William Fernandes de Moraes</segment>
+    <segment id="11">, 19, preso acusado de matar um alemão</segment>
+    <segment id="12">, no bairro da Barra</segment>
+    <segment id="13">, em  2010.</segment>
+    <segment id="14">O casal poderá responder a processo por tráfico de drogas.</segment>
+  </rst>
+</analysis>

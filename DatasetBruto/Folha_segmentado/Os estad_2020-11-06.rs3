@@ -1,0 +1,106 @@
+<analysis>
+  <header>
+    <relations>
+      <rel name="antithesis" type="rst"/>
+      <rel name="attribution" type="rst"/>
+      <rel name="circumstance" type="rst"/>
+      <rel name="comparison" type="rst"/>
+      <rel name="concession" type="rst"/>
+      <rel name="conclusion" type="rst"/>
+      <rel name="condition" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="enablement" type="rst"/>
+      <rel name="explanation" type="rst"/>
+      <rel name="evaluation" type="rst"/>
+      <rel name="evidence" type="rst"/>
+      <rel name="interpretation" type="rst"/>
+      <rel name="elaboration" type="rst"/>
+      <rel name="non-volitional-cause" type="rst"/>
+      <rel name="non-volitional-result" type="rst"/>
+      <rel name="volitional-cause" type="rst"/>
+      <rel name="volitional-result" type="rst"/>
+    </relations>
+  </header>
+  <rst>
+    <segment id="1">O governo federal gastou mais do que podia no combate à pandemia</segment>
+    <segment id="2">, como</segment>
+    <segment id="3">como mostrou Daniel Leichsenring em artigo nesta Folha.</segment>
+    <segment id="4">Boa parte desse exagero</segment>
+    <segment id="5">sese deu no auxílio emergencial.</segment>
+    <segment id="6">Mas o socorro aos estados também foi excessivo</segment>
+    <segment id="7">, mais do que compensando as perdas geradas pela pandemia.</segment>
+    <segment id="8">Dados do Confaz e do Tesouro</segment>
+    <segment id="9">, comparando os oito primeiros meses de 2020 com igual período de 2019</segment>
+    <segment id="10">, permitem resumir a perda dos estados com a pandemia da seguinte forma: queda de arrecadação (R$ 6 bilhões)</segment>
+    <segment id="11">, queda na partilha de tributos federais (o Fundo de Participação dos Estados</segment>
+    <segment id="12">, sem as verbas de socorro</segment>
+    <segment id="13">, cairia R$ 13 bilhões) e aumento das despesas (R$ 21 bilhões).</segment>
+    <segment id="14">Somando esses três itens</segment>
+    <segment id="15">, e supondo que todo aumento de despesa tenha sido causado pela pandemia</segment>
+    <segment id="16">, o custo fiscal da calamidade para os estados seria de R$ 40 bilhões.</segment>
+    <segment id="17">A ajuda federal foi muito superior a isso.</segment>
+    <segment id="18">Somando a injeção de dinheiro a fundo perdido (R$ 45 bilhões) com a suspensão de pagamento de dívidas (R$ 47 bilhões)</segment>
+    <segment id="19">, a folga de caixa dada aos estados em 2020 atingiu R$ 92 bilhões.</segment>
+    <segment id="20">Portanto</segment>
+    <segment id="21">, o socorro superou as perdas em R$ 52 bilhões (92-40).</segment>
+    <segment id="22">Entenda o que aconteceu na economia brasileira com a crise do coronavírusMais    novamente         de   de  de  representando</segment>
+    <segment id="23">um    Isso</segment>
+    <segment id="24">sese refletiu</segment>
+    <segment id="25">, por exemplo</segment>
+    <segment id="26">, em um aumento da receita corrente líquida dos estados (que inclui a parte do socorro recebido em dinheiro) da ordem de 10% no período analisado.</segment>
+    <segment id="27">Em meio à maior crise econômica da nossa história</segment>
+    <segment id="28">, a receita dos estados teve crescimento muito superior à inflação.        Impressiona</segment>
+    <segment id="29">, também</segment>
+    <segment id="30">, o aumento das disponibilidades líquidas de caixa: em agosto de 2019 elas somavam R$ 96 bilhões.</segment>
+    <segment id="31">Em agosto de 2020</segment>
+    <segment id="32">, haviam subido 36%</segment>
+    <segment id="33">, atingindo R$ 131 bilhões.</segment>
+    <segment id="34">É sinal de que</segment>
+    <segment id="35">, pelo menos</segment>
+    <segment id="36">, o dinheiro não foi totalmente gasto: dos R$ 52 bilhões de ajuda excessiva</segment>
+    <segment id="37">, R$ 35 bilhões ficaram em caixa.</segment>
+    <segment id="38">Esse quadro de conforto contrasta com o impacto da pandemia sobre o Tesouro Nacional.</segment>
+    <segment id="39">O caixa do Tesouro caiu 55%.</segment>
+    <segment id="40">O aumento do déficit federal foi tão elevado que não foi possível manter rolagem integral da dívida pública</segment>
+    <segment id="41">, sendo necessário lançar mão das reservas para situação de estresse.</segment>
+    <segment id="42">O déficit primário federal</segment>
+    <segment id="43">, projetado para R$ 900 bilhões</segment>
+    <segment id="44">, também representa deterioração aguda e inédita.</segment>
+    <segment id="45">O governo federal suportou todo o impacto da crise</segment>
+    <segment id="46">, provendo socorro aos estados mais que suficiente</segment>
+    <segment id="47">para que</segment>
+    <segment id="48">para que eles atravessassem a pandemia sem aperto de liquidez.</segment>
+    <segment id="49">A despeito de o Tesouro Nacional estar à beira de uma crise da dívida e não dispor de espaço para mais concessões</segment>
+    <segment id="50">, tramita no Congresso mais um projeto de lei complementar prevendo alívio fiscal aos estados.</segment>
+    <segment id="51">Desde 2016</segment>
+    <segment id="52">, será o sexto pacote a eximir os estados de suas obrigações</segment>
+    <segment id="53">, jogando o custo para o governo federal e para credores privados.</segment>
+    <segment id="54">De todas as ajudas até hoje</segment>
+    <segment id="55">, nenhuma veio acompanhada de exigências críveis de ajuste.</segment>
+    <segment id="56">Duas emendas constitucionais (EC 94 e EC 99) parcelaram precatórios.</segment>
+    <segment id="57">A lei complementar 156 aumentou em 20 anos o prazo de pagamento da dívida com a União.</segment>
+    <segment id="58">O texto original tinha várias medidas de ajuste: o Congresso derrubou todas.</segment>
+    <segment id="59">Manteve apenas um teto de gastos mal desenhado</segment>
+    <segment id="60">, que apenas oito estados cumpriram</segment>
+    <segment id="61">, e agora</segment>
+    <segment id="62">sese negocia a anistia ao descumprimento.</segment>
+    <segment id="63">A lei complementar 159 criou o Regime de Recuperação Fiscal</segment>
+    <segment id="64">, dando três anos de suspensão de dívida ao Rio de Janeiro.</segment>
+    <segment id="65">O estado descumpriu medidas de ajustamento</segment>
+    <segment id="66">, não reformou sua previdência</segment>
+    <segment id="67">, tomou empréstimo dando a Cedae</segment>
+    <segment id="68">comocomo garantia e agora tenta desmontar essa garantia sem pagar o débito.</segment>
+    <segment id="69">A nova proposta</segment>
+    <segment id="70">, o PLP 101/2020</segment>
+    <segment id="71">, suspende o pagamento de dívidas com organismos multilaterais</segment>
+    <segment id="72">, repassando ao Tesouro</segment>
+    <segment id="73">, garantidor das operações</segment>
+    <segment id="74">, custo de R$ 4</segment>
+    <segment id="75">,5 bilhões por ano.</segment>
+    <segment id="76">Não estão descartados a flexibilização excessiva do Regime de Recuperação Fiscal e novos perdões ao Rio.</segment>
+    <segment id="77">Além da facilitação de avais a devedores de risco.</segment>
+    <segment id="78">Já passou da hora de aprovar medidas de ajuste estrutural nas contas dos estados.</segment>
+    <segment id="79">Para começo de conversa</segment>
+    <segment id="80">, deveria ficar vedada qualquer ajuda a estado que não aprove reforma da previdência similar à da União.</segment>
+  </rst>
+</analysis>
