@@ -1,0 +1,7 @@
+lxml>=4.9
+spacy>=3.7
+scikit-learn>=1.3
+numpy>=1.24
+sentence-transformers>=2.2
+# Modelo de dependências do português (instalar após spaCy):
+#   python -m spacy download pt_core_news_lg
