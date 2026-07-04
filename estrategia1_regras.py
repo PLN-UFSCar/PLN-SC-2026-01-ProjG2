@@ -17,11 +17,10 @@ except ImportError:  # pragma: no cover
     spacy = None
 
 
-# ---------------------------------------------------------------------------
-# Léxico de marcadores causais em português
-# ---------------------------------------------------------------------------
 
-# Conectivos/preposições que introduzem a CAUSA (o filho aponta para a causa).
+# Léxico de marcadores causais em português
+
+# Conectivos/preposições que introduzem a CAUSA.
 MARCADORES_CAUSA = {
     "porque", "porquanto", "pois", "já que", "uma vez que", "visto que",
     "devido a", "devido à", "devido ao", "graças a", "graças à",
@@ -61,37 +60,32 @@ class ParCausal:
 
 
 class ExtratorRegras:
-    """Aplica regras de dependência para extrair pares (causa, efeito)."""
 
     def __init__(self, modelo="pt_core_news_lg"):
         if spacy is None:
             raise RuntimeError(
-                "spaCy não instalado. Rode: pip install spacy && "
-                "python -m spacy download pt_core_news_lg"
             )
         try:
             self.nlp = spacy.load(modelo)
-        except OSError as e:  # pragma: no cover
+        except OSError as e:
             raise RuntimeError(
                 f"Modelo '{modelo}' não encontrado. "
                 f"Rode: python -m spacy download {modelo}"
             ) from e
 
-    # -- utilidades -------------------------------------------------------
+    # utilidades
 
     @staticmethod
     def _subarvore_texto(token):
-        """Texto da subárvore de um token, em ordem de superfície."""
         toks = sorted(token.subtree, key=lambda t: t.i)
         return " ".join(t.text for t in toks).strip(" ,.;:")
 
     @staticmethod
     def _clausula_do_verbo(verbo):
-        """Reconstrói a cláusula governada por um verbo (subárvore do verbo)."""
         toks = sorted(verbo.subtree, key=lambda t: t.i)
         return " ".join(t.text for t in toks).strip(" ,.;:")
 
-    # -- regras -----------------------------------------------------------
+    # regras
 
     def _regra_marcador_causal(self, doc):
         """
@@ -103,14 +97,12 @@ class ExtratorRegras:
         for tok in doc:
             lemma_seq = tok.text.lower()
             if tok.dep_ in ("mark", "case") and lemma_seq in _marcadores_uni(MARCADORES_CAUSA):
-                verbo_sub = tok.head  # verbo/nome da cláusula subordinada (causa)
-                # sobe até a raiz da cláusula matriz (efeito)
+                verbo_sub = tok.head
                 matriz = verbo_sub.head if verbo_sub.head != verbo_sub else None
                 if matriz is None or matriz == verbo_sub:
                     continue
                 causa = self._subarvore_texto(verbo_sub)
                 efeito = self._clausula_matriz(matriz, excluir=verbo_sub)
-                # remove o marcador do inicio da causa (ex.: "porque ...")
                 if causa.lower().startswith(lemma_seq + " "):
                     causa = causa[len(lemma_seq):].strip(" ,.;:")
                 if causa and efeito and causa != efeito:
@@ -126,17 +118,14 @@ class ExtratorRegras:
         texto = doc.text.lower()
         for loc in sorted(_multi(MARCADORES_CAUSA), key=len, reverse=True):
             for m in re.finditer(r"\b" + re.escape(loc) + r"\b", texto):
-                # token cujo início casa logo após a locução
                 tok0 = _token_apos(doc, m.end())
                 if tok0 is None:
                     continue
-                # se for artigo/determinante/preposição, sobe ao núcleo nominal
                 nucleo = tok0
                 if tok0.pos_ in ("DET", "ADP") or tok0.dep_ in ("det", "case"):
                     nucleo = tok0.head
                 if nucleo is None:
                     continue
-                # sobe ao verbo/predicado que rege a causa -> efeito é a matriz
                 verbo = _verbo_governante(nucleo)
                 if verbo is None:
                     continue
@@ -158,7 +147,6 @@ class ExtratorRegras:
                 obj = [c for c in tok.children if c.dep_ in ("obj", "obl", "xcomp", "ccomp")]
                 if subj and obj:
                     s0 = subj[0]
-                    # se o sujeito for pronome relativo (que/qual), sobe ao antecedente
                     if s0.text.lower() in ("que", "qual", "quais", "quem") or s0.dep_ == "nsubj" and s0.pos_ == "PRON":
                         if tok.head is not None and tok.head != tok and tok.head.pos_ in ("NOUN", "PROPN"):
                             s0 = tok.head
@@ -178,7 +166,7 @@ class ExtratorRegras:
         toks = [t for t in sorted(raiz.subtree, key=lambda t: t.i) if t.i not in excl]
         return " ".join(t.text for t in toks).strip(" ,.;:")
 
-    # -- API --------------------------------------------------------------
+    # API
 
     def extrair_sentenca(self, texto, fonte=""):
         doc = self.nlp(texto)
@@ -186,7 +174,6 @@ class ExtratorRegras:
         pares += self._regra_marcador_causal(doc)
         pares += self._regra_locucao_causal(doc)
         pares += self._regra_verbo_causativo(doc)
-        # dedup por (causa, efeito)
         vistos, unicos = set(), []
         for p in pares:
             chave = (p.causa.lower(), p.efeito.lower())
@@ -209,9 +196,7 @@ class ExtratorRegras:
             return pares
 
 
-# ---------------------------------------------------------------------------
 # helpers de superfície (locuções multi-palavra)
-# ---------------------------------------------------------------------------
 
 def _multi(conj):
     return {m for m in conj if " " in m}

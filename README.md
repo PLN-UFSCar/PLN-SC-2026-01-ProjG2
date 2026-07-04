@@ -1,7 +1,7 @@
 # Extração de Informação baseada em Sintaxe de Dependências
 ## Análise de Relações Causais em Notícias em Português
 
-Projeto da disciplina de **Processamento de Linguagem Natural** (UFSCar, 2026/01 — Grupo G2).
+Projeto da disciplina de **Processamento de Linguagem Natural**
 
 Identificação automática de relações causais (`O que causou o quê?`) em textos
 jornalísticos em português, usando o corpus **CST News** (NILC/USP) e suas

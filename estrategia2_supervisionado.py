@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Estratégia 2 — Classificação supervisionada de pares de sentenças.
 
@@ -7,7 +6,7 @@ Enquadra a identificação de causalidade como classificação binária de pares
 causais do RST (cause/result); negativos, de outras relações (elaboration,
 contrast, list, sequence...).
 
-Codificação (duas opções, selecionadas automaticamente conforme disponibilidade):
+Codificação:
   1) BERTimbau / Sentence-Transformer  (neuralmind/bert-base-portuguese-cased
      via sentence-transformers, ou multilingual-e5-base) -> embeddings densos.
   2) Fallback TF-IDF (n-gramas de caractere+palavra) quando não há acesso ao
@@ -17,9 +16,6 @@ Classificador: Regressão Logística sobre a concatenação
      [emb(A) ; emb(B) ; |emb(A)-emb(B)| ; emb(A)*emb(B)]
 Avaliação: validação cruzada estratificada (StratifiedKFold), dado o volume
 modesto do corpus.
-
-Uso:
-    python estrategia2_supervisionado.py
 """
 
 import numpy as np
@@ -30,12 +26,9 @@ from sklearn.pipeline import make_pipeline
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 
-# ---------------------------------------------------------------------------
 # Codificadores
-# ---------------------------------------------------------------------------
 
 class CodificadorBERTimbau:
-    """Embeddings densos via sentence-transformers (BERTimbau ou e5)."""
 
     NOMES = [
         "neuralmind/bert-base-portuguese-cased",
@@ -50,7 +43,7 @@ class CodificadorBERTimbau:
                 self.model = SentenceTransformer(nome)
                 self.nome = nome
                 return
-            except Exception as e:  # pragma: no cover
+            except Exception as e:
                 ultimo_erro = e
         raise RuntimeError(f"Nenhum modelo ST disponível: {ultimo_erro}")
 
@@ -59,7 +52,6 @@ class CodificadorBERTimbau:
 
 
 class CodificadorTFIDF:
-    """Fallback offline: TF-IDF palavra + caractere, reduzido por SVD."""
 
     def __init__(self, dim=300):
         from sklearn.decomposition import TruncatedSVD
@@ -84,7 +76,6 @@ class CodificadorTFIDF:
 
 
 def obter_codificador():
-    """Tenta BERTimbau; se indisponível (sem download), usa TF-IDF."""
     try:
         cod = CodificadorBERTimbau()
         print(f"[codificador] usando embeddings densos: {cod.nome}")
@@ -95,9 +86,7 @@ def obter_codificador():
         return CodificadorTFIDF(), "tfidf"
 
 
-# ---------------------------------------------------------------------------
 # Construção de features de par
-# ---------------------------------------------------------------------------
 
 def features_pares(cod, tipo, pares_A, pares_B):
     """Concatena emb(A), emb(B), |A-B|, A*B."""
@@ -108,9 +97,7 @@ def features_pares(cod, tipo, pares_A, pares_B):
     return np.hstack([A, B, np.abs(A - B), A * B])
 
 
-# ---------------------------------------------------------------------------
 # Treino + avaliação por validação cruzada
-# ---------------------------------------------------------------------------
 
 def treinar_avaliar(pares_A, pares_B, y, n_splits=5, seed=42):
     y = np.asarray(y)

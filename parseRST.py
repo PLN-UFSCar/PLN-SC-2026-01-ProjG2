@@ -79,7 +79,6 @@ def extrair_causa_efeito(caminho_arquivo, limite_segmentos=5):
         ids_filho = get_ids(id_filho)
         ids_pai = get_ids(id_pai)
 
-        # Remove a sobreposição dos segmentos relacionados
         if ids_filho < ids_pai:
             ids_pai = ids_pai - ids_filho
         elif ids_pai < ids_filho:
@@ -88,15 +87,12 @@ def extrair_causa_efeito(caminho_arquivo, limite_segmentos=5):
         if not ids_filho or not ids_pai:
             continue
 
-        # Desconsidera relações de grupos muito extensos
         if len(ids_filho) > limite_segmentos or len(ids_pai) > limite_segmentos:
             continue
 
-        # Extrai somente os segmentos mais significativos
         ids_filho_sig = get_ids_significativos(id_filho)
         ids_pai_sig = get_ids_significativos(id_pai)
 
-        # Remove a sobreposição dos segmentos significativos
         if ids_filho_sig < ids_pai_sig:
             ids_pai_sig = ids_pai_sig - ids_filho_sig
         elif ids_pai_sig < ids_filho_sig:
@@ -105,7 +101,6 @@ def extrair_causa_efeito(caminho_arquivo, limite_segmentos=5):
         if not ids_filho_sig or not ids_pai_sig:
             continue
 
-        # Agrega os segmentos relevantes em ordem
         texto_filho = " ".join(segmentos[i][0] for i in sorted(ids_filho_sig, key=lambda x: segmentos[x][1]))
         texto_pai = " ".join(segmentos[i][0] for i in sorted(ids_pai_sig, key=lambda x: segmentos[x][1]))
 

@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Módulo de avaliação — constrói o conjunto de referência (gold) a partir das
 anotações RST do CST News e avalia as duas estratégias.
@@ -20,9 +19,8 @@ import lxml.etree as ET
 from parseRST import CSTNews_causa_efeito
 
 
-# ---------------------------------------------------------------------------
+
 # Normalização e casamento de segmentos
-# ---------------------------------------------------------------------------
 
 def normalizar(txt):
     txt = txt.lower()
@@ -59,9 +57,9 @@ def par_casa_parcial(par_pred, par_gold, limiar_causa=0.5, limiar_efeito=0.3):
     a análise de dependências (intra-sentencial) e a anotação RST (discursiva)."""
     return (overlap(par_pred[0], par_gold[0]) >= limiar_causa and
             overlap(par_pred[1], par_gold[1]) >= limiar_efeito)
-# ---------------------------------------------------------------------------
+
+
 # Gold causal
-# ---------------------------------------------------------------------------
 
 def carregar_gold(diretorio="DatasetCSTNews"):
     gold = []
@@ -70,9 +68,7 @@ def carregar_gold(diretorio="DatasetCSTNews"):
     return gold
 
 
-# ---------------------------------------------------------------------------
 # Negativos: pares de segmentos ligados por relações NÃO causais
-# ---------------------------------------------------------------------------
 
 RELACOES_NEGATIVAS = {
     "elaboration", "contrast", "list", "sequence", "comparison",
@@ -131,9 +127,7 @@ def _primeiro_seg(node_id, segmentos, pai_filhos):
     return None
 
 
-# ---------------------------------------------------------------------------
 # Avaliação da Estratégia 1 (regras)
-# ---------------------------------------------------------------------------
 
 def avaliar_estrategia1(diretorio="DatasetCSTNews", limiar_casamento=0.5):
     from estrategia1_regras import ExtratorRegras
@@ -211,9 +205,7 @@ def _texto_do_rs3(arq):
         return ""
 
 
-# ---------------------------------------------------------------------------
 # Avaliação da Estratégia 2 (supervisionado)
-# ---------------------------------------------------------------------------
 
 def avaliar_estrategia2(diretorio="DatasetCSTNews", seed=42):
     from estrategia2_supervisionado import treinar_avaliar
@@ -249,9 +241,7 @@ def avaliar_estrategia2(diretorio="DatasetCSTNews", seed=42):
     return metricas
 
 
-# ---------------------------------------------------------------------------
 # Estatísticas do corpus (para o relatório)
-# ---------------------------------------------------------------------------
 
 def estatisticas_corpus(diretorio="DatasetCSTNews"):
     gold = carregar_gold(diretorio)
